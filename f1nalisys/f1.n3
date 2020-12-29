@@ -1,1563 +1,862 @@
-@prefix dbo: <http://dbpedia.org/ontology/> .
-@prefix dbp: <http://dbpedia.org/property/> .
-@prefix dct: <http://purl.org/dc/terms/> .
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix ns8: <http://dbpedia.org/property/country/> .
-@prefix ns9: <http://purl.org/linguistics/gold/> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-@prefix prov: <http://www.w3.org/ns/prov#> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-<http://dbpedia.org/resource/1967_German_Grand_Prix> dbo:type <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/1968_Italian_Grand_Prix> dbo:type <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/1969_Mexican_Grand_Prix> dbo:type <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/1972_South_African_Grand_Prix> dbo:type <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/1973_Swedish_Grand_Prix> dbo:type <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/2006_French_Grand_Prix> dbo:type <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/2007_Belgian_Grand_Prix> dbo:type <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/AGS_JH21C> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/AGS_JH22> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/AGS_JH23> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/ATS_D1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/ATS_D2> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/ATS_D5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/ATS_D6> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/ATS_D7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Adelaide_Street_Circuit> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Adrian_Burgess> dbp:sport <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Adrian_Newey> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Aguri_Suzuki_F-1_Super_Driving> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Aintree_Motor_Racing_Circuit> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Alex_Zanardi> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Alfa_Romeo_177> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Alfa_Romeo_179> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Alfa_Romeo_182> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Alfa_Romeo_183T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Alfa_Romeo_184T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Alfa_Romeo_185T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Andrea_Moda_S921> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A11> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A18> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A19> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A2> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A20> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A21> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A22> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A23> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A6> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A8> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_A9> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Arrows_FA1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Aston_Martin_DBR4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Aston_Martin_DBR5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Autodromo_Enzo_e_Dino_Ferrari> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Autodromo_di_Pergusa> dbp:events <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Autódromo_Hermanos_Rodríguez> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Autódromo_Internacional_Nelson_Piquet_(Brasília)> dbp:events <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Autódromo_Juan_y_Oscar_Gálvez> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BAR_002> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BAR_003> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BAR_004> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BAR_005> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BAR_006> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BAR_007> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BAR_01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BMS_Scuderia_Italia> dbp:formerSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BMW_Sauber_F1.06> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BMW_Sauber_F1.07> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BMW_Sauber_F1.08> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BMW_Sauber_F1.09> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P115> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P126> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P133> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P138> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P139> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P160> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P180> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P201> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P207> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P25> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P261> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P48> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P48/57> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P57> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P61> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P67> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_P83> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/BRM_Type_15> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Baku_City_Circuit> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B186> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B187> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B188> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B189> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B190> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B191> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B192> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B193> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B194> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B195> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B196> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B197> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B198> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B199> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B200> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Benetton_B201> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Bob_Bell_(motorsport)> dbp:known <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT11> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT19> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT20> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT24> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT26> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT34> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT37> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT44> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT45> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT46> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT48> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT49> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT50> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT52> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT53> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT54> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT55> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT56> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT58> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT59> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT60> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brabham_BT7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brands_Hatch> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Brawn_BGP_001> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Bruno_Senna> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Buddh_International_Circuit> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Calder_Park_Raceway> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Caterham_CT01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Caterham_CT03> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Caterham_CT05> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Chris_Amon_Racing> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Christian_Fittipaldi> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Christijan_Albers> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Circuit_Bremgarten> dbp:events <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Circuit_de_Nevers_Magny-Cours> dbp:events <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Circuito_di_Ospedaletti> dbp:events <http://dbpedia.org/resource/Formula_One> ;
-    dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Coloni_C3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Coloni_C4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Constructors_(Formula_One)> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Cooper_T51> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Cooper_T81> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Cooper_T86> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Crystal_Palace_circuit> dbp:events <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/DAMS_GD-01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Dallara_3087> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Dallara_F188> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Dallara_F189> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Dallara_F190> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Dallara_F191> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Dallara_F192> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/De_Tomaso_505/38> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Derek_Gardner_(designer)> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Detroit_street_circuit> dbp:events <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Deutsch_Group> dbo:industry <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Dome_F105> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Douglas_Circuit> dbp:events <http://dbpedia.org/resource/Formula_One> ;
-    dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Eagle_Mk1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Eliseo_Salazar> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Enrique_Bernoldi> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ensign_N179> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/EuroBrun_ER188> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/EuroBrun_ER189> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F-1_Dream> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F-1_Spirit_(series)> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F1> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F1-X_Dubai> dbp:theme <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F1_Grand_Prix:_Nakajima_Satoru> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F1_Pole_Position_(video_game)> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F1_Pole_Position_2> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F1_World_Championship> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F1_World_Championships> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F1_racing> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/FIA_Formula_1_World_Championship> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/FIA_Formula_One_World_Championship> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/FIA_World_Championship> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/FIA_World_Championships> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/F_1> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Fastest_1> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferguson_P99> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_126C> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_150°_Italia> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_156/85> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_156_F1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_158> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_246P> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_246_F1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_246_F1-66> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_248_F1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_312> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_312B> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_312T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_375_F1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_412_T1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_412_T2> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_553> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_640> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_641> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_642> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_643> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F1-2000> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F1/86> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F1/87> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F138> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F14_T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F2001> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F2002> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F2003-GA> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F2004> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F2007> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F2008> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F2012> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F300> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F310> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F399> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F60> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F92A> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_F93A> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_SF15-T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_SF16-H> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_Sigma> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ferrari_Tipo_500> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Fittipaldi_F5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Fittipaldi_F6> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Fittipaldi_FD> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Fondmetal_GR01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Fondmetal_GR02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Footwork_FA12> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Footwork_FA13> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Footwork_FA14> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Footwork_FA15> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Footwork_FA16> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Footwork_FA17> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Force_India_VJM02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Force_India_VJM03> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Force_India_VJM04> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Force_India_VJM05> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Force_India_VJM06> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Force_India_VJM07> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Force_India_VJM08> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Force_India_VJM09> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formel_1> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula-1> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula1> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula1.com> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula_1> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula_1_World_Championship> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula_One:_Built_to_Win> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula_One_(disambiguation)> dbo:wikiPageDisambiguates <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula_One_Champion> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula_One_Championship> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula_One_World_Championship> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula_one> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formuli_1> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Forti_FG01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Forti_FG03> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Fórmula_1> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/GP_Challenge> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Gabriele_Tarquini> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Gianni_Morbidelli> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Gordon_Coppuck> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Gustav_Brunner> dbo:occupation <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Gérard_Ducarouge> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/HRT_F112> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Haas_VF-16> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Hesketh_308C> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Hesketh_308E> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Hill_GH1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Hispania_F110> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Hispania_F111> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Hockenheimring> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda> rdfs:seeAlso <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RA099> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RA106> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RA107> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RA108> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RA271> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RA272> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RA300> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RA301> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RA302> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Honda_RC100> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Humpy_Wheeler> dbo:occupation <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Indianapolis_Motor_Speedway> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Intercity_Istanbul_Park> dbp:events <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jaguar_R1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jaguar_R2> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jaguar_R3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jaguar_R4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jaguar_R5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jaguar_Racing> dbp:formerSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/James_Key_(Formula_One)> dbo:occupation <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jean-Éric_Vergne> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jock_Clear> dbp:sport <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Joe_Saward> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/John_McQuilliam> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_191> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_192> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_193> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_194> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_195> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_196> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_197> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_198> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_199> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_EJ10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_EJ11> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_EJ12> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_EJ13> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_EJ14> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Jordan_EJ15> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Karl_Wendlinger> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Kevin_Magnussen> dbp:currentSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lambo_291> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lancia_D50> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Larrousse_LH93> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Larrousse_LH94> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Len_Terry> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Leyton_House_CG901> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Leyton_House_CG911> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS11> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS17> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS19> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS21> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS23> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS25> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS27> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS29> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS31> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS33> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS35> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS37> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS39> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS41> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS43> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ligier_JS9> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_LC87> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_LC88> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_LC89> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_LC90> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_LC91> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_Mk4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_T370> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_T93/30> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_T95/30> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_T97/30> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_THL1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lola_THL2> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_100T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_101> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_102> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_107> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_109> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_112> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_12> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_16> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_18> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_21> dbo:class <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_24> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_25> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_33> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_43> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_48> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_49> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_56> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_63> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_72> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_77> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_78> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_79> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_80> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_87> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_88> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_91> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_92> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_93T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_94T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_95T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_97T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_98T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_99T> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_E20> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_E21> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_E22> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_E23_Hybrid> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_F1> rdfs:seeAlso <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_T127> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Lotus_T128_(Formula_One_car)> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Manor_MRT05> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Manor_Motorsport> dbp:formerSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/March_701> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/March_871> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/March_881> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/March_CG891> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mark_Preston> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Markus_Winkelhock> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Martin_Donnelly_(racing_driver)> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Marussia_MR01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Marussia_MR02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Marussia_MR03> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Maserati_250F> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Maserati_4CL_and_4CLT> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Matra_MS10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Matra_MS11> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Matra_MS120> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Matra_MS5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Matra_MS7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Matra_MS80> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Matra_MS84> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Matra_MS9> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mauro_Forghieri> dbo:occupation <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M14A> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M19A> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M23> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M26> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M28> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M29> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M2B> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M30> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M4B> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M5A> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_M7A> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-16> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-17> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-18> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-19> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-20> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-21> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-22> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-23> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-24> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-25> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-26> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-27> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-28> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-29> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-30> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4-31> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/11> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/12> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/13> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/14> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/15> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/2> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/6> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/7A> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/8> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/McLaren_MP4/9> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mercedes-Benz_W196> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mercedes_F1_W03> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mercedes_F1_W04> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mercedes_F1_W05_Hybrid> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mercedes_F1_W06_Hybrid> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mercedes_F1_W07_Hybrid> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mercedes_MGP_W01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mercedes_MGP_W02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Michael_Andretti> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Midland_M16> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mike_Pilbeam> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M185> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M186> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M187> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M189> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M190> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M191> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M192> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M193> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M194> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M195> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M197> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_M198> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_PS01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_PS02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_PS03> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_PS04B> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Minardi_PS05> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Mo_Nunn> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Moskvitch_G5> dbo:class <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/NBC_Sports> dbp:majorContracts <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Nicholas_Tombazis> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Nick_Heidfeld> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Nicola_Larini> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Nigel_Stepney> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Nivelles-Baulers> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/North_American_Racing_Team> dbp:formerSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Nürburgring> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/One_(disambiguation)> dbo:wikiPageDisambiguates <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Osella_FA1L> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Pacific_PR01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Pacific_PR02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Parnelli_VPJ4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Patrick_Head> dbo:occupation <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Penske_PC1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Penske_PC3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Penske_PC4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Peter_Elleray> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Phoenix_street_circuit> dbp:events <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Prost_AP01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Prost_AP02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Prost_AP03> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Prost_AP04> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Prost_JS45> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB11> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB12> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB2> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB6> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB8> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_RB9> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Red_Bull_Ring> dbp:events <http://dbpedia.org/resource/Formula_One> ;
-    dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Reims-Gueux> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R202> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R23> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R24> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R25> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R26> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R27> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R28> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R29> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R30> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_R31> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_RE20> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_RE30> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_RE40> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_RE50> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_RE60> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_RS01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_RS10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Renault_RS16> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Reynard_98A> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Rial_ARC1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Rial_ARC2> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Rob_Smedley> dbp:sport <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Robert_Doornbos> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Rory_Byrne> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ross_Brawn> dbo:occupation <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Rouen-Les-Essarts> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sam_Michael> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/San_Remo_Grand_Prix> dbp:events <http://dbpedia.org/resource/Formula_One> ;
-    dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Satoru_Nakajima_F-1_Hero_2> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Satoru_Nakajima_F-1_Hero_GB_World_Championship_'91> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C12> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C13> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C14> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C15> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C16> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C17> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C18> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C19> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C20> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C21> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C22> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C23> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C24> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C29> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C30> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C31> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C32> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C33> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C34> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sauber_C35> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Scuderia_Coloni> dbp:formerSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Shadow_DN1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Shadow_DN3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Shadow_DN5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Shadow_DN7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Shadow_DN8> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Shadow_DN9> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Silverstone_Circuit> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Simon_Rennie> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Simtek_S941> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Simtek_S951> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Sochi_Autodrom> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Spirit_101> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Spirit_201> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Spyker_F8-VII> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Steve_Hallam> dbp:sport <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Steve_Jones_(presenter)> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Steve_Matchett> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Stewart_SF01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Stewart_SF02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Stewart_SF3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Super_Aguri_SA05> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Super_Aguri_SA06> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Super_Aguri_SA07> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Super_Aguri_SA08> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Surtees_TS14> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Surtees_TS16> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Surtees_TS19> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Surtees_TS20> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Surtees_TS7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Surtees_TS9> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Takuma_Sato> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Ten_Sport> dbp:data <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Thai_Grand_Prix> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tiago_Monteiro> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Timo_Glock> dbp:prevSeries <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toleman_TG183> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toleman_TG184> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toleman_TG185> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tony_Jardine> dbo:knownFor <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Top_Gear_test_track> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR11> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR2> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR3> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR4> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR6> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR8> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toro_Rosso_STR9> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF101> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF102> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF103> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF104> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF105> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF106> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF107> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF108> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF109> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Toyota_TF110> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tramontana_(sports_car)> dbo:bodyStyle <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_001> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_002> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_003> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_004> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_005> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_006> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_008> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_010> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_011> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_012> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_014> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_015> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_017> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_018> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_019> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_020> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_021> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_022> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_023> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_024> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_025> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_026> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_DG016> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Tyrrell_P34> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Valencia_Street_Circuit> dbp:recordClass <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Venturi_LC92> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Virgin_MVR-02> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Virgin_VR-01> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Watkins_Glen_International> dbp:events <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW04> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW06> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW07> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW08> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW09> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW10> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW11> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW12> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW13> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW14> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW15C> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW16> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW17> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW18> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW19> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW20> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW21> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW22> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW23> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW24> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW25> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW26> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW27> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW28> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW29> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW30> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW31> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW32> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW33> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW34> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW35> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW36> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW37> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_FW38> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Williams_Grand_Prix_Engineering> rdfs:seeAlso <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Wolf_WR1> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Wolf_WR5> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Wolf_WR7> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/World_Championship_of_Drivers> dbo:wikiPageRedirects <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/World_Grand_Prix_(video_game)> dbo:genre <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Zakspeed_841> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Zakspeed_861> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Zakspeed_871> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Zakspeed_881> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Zakspeed_891> dbp:category <http://dbpedia.org/resource/Formula_One> .
-
-<http://en.wikipedia.org/wiki/Formula_One> foaf:primaryTopic <http://dbpedia.org/resource/Formula_One> .
-
-<http://dbpedia.org/resource/Formula_One> a <http://dbpedia.org/class/yago/Abstraction100002137>,
-        <http://dbpedia.org/class/yago/Championship107457834>,
-        <http://dbpedia.org/class/yago/Communication100033020>,
-        <http://dbpedia.org/class/yago/Contest107456188>,
-        <http://dbpedia.org/class/yago/Event100029378>,
-        <http://dbpedia.org/class/yago/Formula106731802>,
-        <http://dbpedia.org/class/yago/Group100031264>,
-        <http://dbpedia.org/class/yago/MathematicalStatement106732169>,
-        <http://dbpedia.org/class/yago/Message106598915>,
-        <http://dbpedia.org/class/yago/PsychologicalFeature100023100>,
-        <http://dbpedia.org/class/yago/SocialEvent107288639>,
-        <http://dbpedia.org/class/yago/Statement106722453>,
-        <http://dbpedia.org/class/yago/WikicatMotorsportCompetitions>,
-        <http://dbpedia.org/class/yago/WikicatRacingFormulas>,
-        <http://dbpedia.org/class/yago/WikicatRallyGroups>,
-        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
-        owl:Thing ;
-    rdfs:label "فورمولا 1"@ar,
-        "Formel 1"@de,
-        "Formula One"@en,
-        "Fórmula 1"@es,
-        "Formule 1"@fr,
-        "Formula 1"@it,
-        "フォーミュラ1"@ja,
-        "Formule 1"@nl,
-        "Formuła 1"@pl,
-        "Fórmula 1"@pt,
-        "Формула-1"@ru,
-        "一级方程式赛车"@zh ;
-    dbo:abstract "الفورمولا واحد أو الفورمولا وان  (Formula One)، ويعرف أيضاً باسم سباق الجائزة الكبرى، هو أعلى صنف من سباقات الفورمولا ذات المقعد الفردي والعجلات المفتوحة. يتألف موسم الفورمولا الواحد من سلسلة من السباقات تعرف بالجوائز الكبرى (Grand Prix) تؤدى على حلبات خاصة معدة لهذا السباق، ونادراً ما يؤدى السباق في الطرق العادية خارج المضمار. تجمع نتائج كل سباق من سباقات الجوائز الكبرى في الموسم، ومن ثم تتحدد سنوياً جائزتان سنويتان، واحدة منهما للسائقين والأخرى لمصنعي السيارات. في سباقات الفورمولا واحد قد تتخطىً سرعة السيارات المتسابقة سرعة 320 كلم/ساعة (200 ميل في الساعة). تعتبر أوروبا المركز التقليدي لهذا السباق، وهي المروجة الأولى له. رغم ذلك، بدأت منذ عام 1999 ظهور حلبات في البحرين، والصين، وماليزيا، وتركيا، مما جعل اللعبة أكثر شعبية على مستوى عالمي. وباعتبارها أكثر الرياضات كلفة، عوائدها الاقتصادية كبيرة. تنظم هذه الرياضة بواسطة الاتحاد الدولي للسيارات (Fédération Internationale de l'Automobile)، ويطلق عليه اختصارا (FIA)، يقع مقر المنظمة بمدينة باريس، فرنسا. الرئيس الحالي للاتحاد الدولي للسيارات هو جون تود. بينما المدير للمؤسسة الخاصّة المسؤولة Formula One Administration (FOA) والمروّج (والمتحكّم) لهذه الرياضة هو بيرني إيكليستون."@ar,
-        "Die Formel 1 (kurz auch F1) ist eine Zusammenfassung der Regeln, Richtlinien und Bedingungen, in deren Rahmen die Formel-1-Weltmeisterschaft (offiziell FIA Formula One World Championship, bis 1980 Automobil-Weltmeisterschaft), eine vom Automobil-Dachverband Fédération Internationale de l’Automobile (FIA) festgelegte Formelserie, ausgetragen wird.Die Formel-1-Weltmeisterschaft ist die höchstrangige von der FIA veranstaltete Rennserie des Formelsports. Sie wird als Königsklasse des Automobilsports bezeichnet, da sie den Anspruch erhebt, die höchsten technischen, fahrerischen, aber auch finanziellen Anforderungen aller Rennserien an Fahrer und Konstrukteure zu stellen."@de,
-        "Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been the premier form of racing since the inaugural season in 1950, although other Formula One races were regularly held until 1983. The \"formula\", designated in the name, refers to a set of rules, to which all participants' cars must conform. The F1 season consists of a series of races, known as Grands Prix (from French, meaning grand prizes), held worldwide on purpose-built F1 circuits and public roads. The results of each race are evaluated using a points system to determine two annual World Championships, one for drivers, one for constructors. The racing drivers are required to be holders of valid Super Licences, the highest class of racing licence issued by the FIA. The races are required to be held on tracks graded 1 (formerly A), the highest grade a track can receive by the FIA. Most events are held in rural locations on purpose-built tracks, but there are several events in city centres throughout the world, with the Monaco Grand Prix being the most obvious and famous example. Formula One cars are the fastest road course racing cars in the world, owing to very high cornering speeds achieved through the generation of large amounts of aerodynamic downforce. Formula One cars race at speeds of up to approximately 380 km/h (240 mph) with engines currently limited in performance to a maximum of 15,000 RPM. The cars are capable of lateral acceleration in excess of five g in corners. The performance of the cars is very dependent on electronics – although traction control and other driving aids have been banned since 2008 – and on aerodynamics, suspension, and tyres. The formula has radically evolved and changed through the history of the sport. While Europe is the sport's traditional base, and hosts about half of each year's races, the sport's scope has expanded significantly and an increasing number of Grands Prix are held on other continents. F1 had a total global television audience of 425 million people during the course of the 2014 season. Grand Prix racing began in 1906 and became the most popular type internationally in the second half of the twentieth century. The Formula One Group is the legal holder of the commercial rights. With the cost of designing and building mid-tier cars being of the order of $120 million, Formula One's economic effect and creation of jobs are significant, and its financial and political battles are widely reported. Its high profile and popularity have created a major merchandising environment, which has resulted in great investments from sponsors and budgets in the hundreds of millions for the constructors. Since 2000 the sport's spiraling expenditures and the distribution of prize money which favors established top teams have forced complaints from smaller teams and led several teams to bankruptcy. On 8 September 2016 it was announced that Liberty Media Corp. had agreed to buy Delta Topco, the company that controls Formula One, from private equity firm CVC Capital Partners for $4.4 Billion in cash, stock and convertible debt."@en,
-        "La Fórmula 1, abreviada como F1 y también denominada la «categoría reina del automovilismo» o «la máxima categoría del automovilismo», es la competición de automovilismo internacional más popular y prestigiosa, superando a categorías de automovilismo como la NASCAR, el Rally, los automóviles de turismo, entre otras. A cada carrera se le denomina Gran Premio y el torneo que las agrupa se denomina Campeonato Mundial de Fórmula 1. La entidad que la dirige es la Federación Internacional del Automóvil (FIA). El Formula One Group es controlado por la empresa estadounidense Liberty Media desde septiembre de 2016. Los automóviles utilizados son monoplazas con la última tecnología disponible, siempre limitadas por un reglamento técnico; algunas mejoras que fueron desarrolladas en la Fórmula 1 terminaron siendo utilizadas en automóviles comerciales, como el freno de disco. La mayoría de los circuitos de carreras donde se celebran los Grandes Premios son autódromos, aunque también se utilizan circuitos callejeros y anteriormente se utilizaron circuitos ruteros. El inicio de la Fórmula 1 moderna se remonta al año 1950, en el que participaron escuderías como Ferrari, Alfa Romeo y Maserati. Algunas fueron reemplazadas por otras nuevas como McLaren, Williams, Lotus y Renault, que se han alzado varias veces con el Campeonato Mundial de Constructores. Las escuderías tienen que planear sus fichajes y renovación de contratos 2 o 3 carreras antes del fin de la temporada. Por su parte, los pilotos deben contar con la superlicencia de la FIA para competir, que se obtiene en base a resultados en otros campeonatos."@es,
-        "La Formule 1, communément abrégée en F1, est une discipline de sport automobile considérée comme la catégorie reine de ce sport. Elle a pris au fil des ans une dimension mondiale et elle est, avec les Jeux olympiques et la Coupe du monde de football, l'un des événements sportifs les plus médiatisés. Chaque année depuis 1950, un championnat mondial des pilotes est organisé, complété depuis 1958 par un championnat mondial des constructeurs automobiles. La compétition est basée sur des Grands Prix, courses à bord de voitures monoplaces disputées sur circuits routiers fermés permanents mais parfois tracés en ville et temporaires, comme à Monaco, Valence et Singapour. Cette discipline sportive, régie par la Fédération internationale de l'automobile (FIA), est gérée par la Formula One Administration (FOA) et un ensemble de sociétés satellites contrôlées par Bernie Ecclestone. Après l'ère des artisans des années 1960 et 1970, elle a peu à peu attiré les grands constructeurs automobiles mondiaux qui y investissent des sommes élevées, en espérant tirer profit des retombées médiatiques d'éventuels succès. La Formule 1 est considérée comme la vitrine technologique de l'industrie automobile qui y expérimente des nouveautés techniques, parfois issues de la technologie spatiale et susceptibles d'être adaptées ensuite sur les voitures de série. Outre la compétition, le terme Formule 1 désigne l'ensemble des règles techniques des voitures monoplaces qui sont mises à jour tous les ans par la FIA. Ces règles sont très strictes sur les dimensions des voitures, la cylindrée des moteurs, les technologies mises en œuvre ; elles définissent également les mesures de sécurité des voitures pour assurer la protection du pilote. Les monoplaces de course répondant aux caractéristiques de la réglementation de la Formule 1 sont généralement désignées sous le terme générique de Formules 1. La Scuderia Ferrari et Michael Schumacher sont à ce jour l'écurie et le pilote qui détiennent la plupart des records sur sept décennies de Formule 1."@fr,
-        "La Formula 1 o Formula Uno, in sigla F1, è la massima categoria (in termini prestazionali) di vetture monoposto a ruote scoperte da corsa su circuito definita dalla Federazione Internazionale dell'Automobile (FIA). La categoria è nata nel 1948 (in sostituzione della Formula A, a sua volta sorta solo qualche anno prima, nel 1946), diventando poi a carattere mondiale nella stagione 1950. Inizialmente definita dalla Commissione Sportiva Internazionale (CSI) dell'Associazione Internazionale degli Automobil Club Riconosciuti (AIACR), associazione antesignana della Federazione Internazionale dell'Automobile, oggi la Formula Uno è regolata dal Consiglio Mondiale degli Sport Motoristici (in inglese: World Motor Sport Council, WMSC) della Federazione Internazionale dell'Automobile. Il termine \"formula\", presente nel nome, fa riferimento ad un insieme di regole alle quali tutti i partecipanti, le macchine e i piloti, devono adeguarsi; esse introducono un numero di restrizioni e specifiche nelle auto, al fine di evitare le eccessive disparità tecniche tra le auto, di porre dei limiti al loro sviluppo e di ridurre i rischi di incidenti.La formula ha avuto molti cambiamenti durante la sua storia. Ci sono stati differenti tipi di motori, con schemi da 4 fino a 16 cilindri e con cilindrate da 1,5 a 4,5 l. I diritti finanziari e commerciali sono regolati dalla Formula One Group posseduta sino alla fine del 2005 dalla società SLEC Holdings, che ha venduto nei primi mesi del 2006 la quota delle sue azioni alla CVC Capital Partners attraverso una complessa transazione finanziaria. Nonostante adesso sia un socio di minoranza, lo sport e i suoi diritti televisivi – diffusi dalla Formula One Management – sono tuttora controllati a livello promozionale e operativo da Bernie Ecclestone, attraverso la società Alpha Prema."@it,
-        "フォーミュラ1（Formula One、英語発音: [ˈfɔːrmjulə ˈwʌn] フォーァミュラ・ワン）は、モータースポーツのカテゴリーの1つであり、その世界選手権を指す場合もある。略称はF1（エフ・ワン）。 F1世界選手権 (FIA Formula One World Championship) は、国際自動車連盟 (FIA) が主催する自動車レースの最高峰で、現在は4輪の1人乗りフォーミュラカーで行われている。"@ja,
-        "Formule 1, officieel de FIA Formula One World Championship, is de hoogste klasse in de autosport zoals is bepaald door de Fédération Internationale de l'Automobile."@nl,
-        "Formuła 1 (inaczej Mistrzostwa Świata Formuły 1, oficjalny skrót F1, błędnie nazywana formułą pierwszą) – przeprowadzany regularnie (corocznie) od 1950 roku cykl najbardziej prestiżowych międzynarodowych wyścigów samochodowych, znany również jako wyścigi Grand Prix, a jednocześnie klasa biorących w nich udział jednomiejscowych samochodów wyścigowych o otwartym nadwoziu. Dyscyplina sportu zapoczątkowana w Europie, obecnie o zasięgu globalnym, organizowana w Europie, Ameryce Południowej, Ameryce Północnej, Afryce, Azji i Australii. Podczas danego sezonu odbywa się kilkanaście wyścigów, poszczególnych grand prix, na wydzielonych torach ulicznych i na specjalnie stworzonych do tego celu torach zamkniętych. Zasady Formuły 1 regulowane są przez Fédération Internationale de l’Automobile (FIA), której prezesem jest Jean Todt. Za stronę finansową i medialną Formuły 1 odpowiedzialna jest Formula One Management, której prezesem jest Bernie Ecclestone."@pl,
-        "A Fórmula 1 é a mais popular modalidade de automobilismo do mundo. É a categoria mais avançada do esporte a motor e é regulamentada pela Federação Internacional de Automobilismo, desde 2015 a FIA aposentou a Gasolina Podium e começou a usar um motor elétrico, com auxílio de uma bateria. Ao contrário do que muitos acreditam, o registro oficial da categoria consta como Fórmula Um (Campeonato Mundial de Fórmula Um), com o numeral escrito por extenso, mas também se aceita o uso do 1 e do I."@pt,
-        "«Формула-1» (англ. FIA Formula One World Championship) — чемпионат мира по кольцевым автогонкам на автомобилях с открытыми колёсами. Чемпионат мира Формулы-1 проводится каждый год и состоит из отдельных этапов (имеющих статус Гран-при). В конце года выявляется победитель чемпионата. В Формуле-1 соревнуются как отдельные пилоты, так и команды. Пилоты соревнуются за титул чемпиона мира, а команды — за Кубок конструкторов."@ru,
-        "一级方程式赛车（英语：Formula One，也叫Formula 1或者F1）是由国际汽车联盟举办的最高等级的年度系列场地赛车比赛，正式名称为“国际汽车聯合會世界一级方程式锦标赛”。名称中“方程式”是指一组所有参赛车辆都必须遵守的规则。F1赛季包括一系列的比赛，而这些所谓的「大奖赛」（Grand Prix，出自法语，本意Great Prizes）的场地是全封闭的专门赛道或者是临时封闭的普通公路。每场比赛的结果算入积分系统并以此确定两个年度世界冠军：一个给车手和另一个给制造商。F1的车手、制造商、组织者以及赛道都必须持有超级执照，这是国际汽联颁发的最高级别执照。 一级方程式赛车通过产生大量的空氣動力學下压力达到非常高的过弯速度，是風靡全球的賽車運動。发动机性能限制在每分钟最多15000转时，其比赛最高速度就可以超過360公里/小时。赛车过弯的横向加速度超过5个標準重力。F1赛车的性能非常依赖电子系统（牵引力控制系统和其他辅助驾驶装置自2008年已被禁止）、空气动力学、悬挂和轮胎。 F1被很多人认为是赛车界最重要的赛事，同时也是最昂贵的体育运动，其赛车往往采用汽车界最先进的技术和高成本的材料。每年约有10支车队参赛，经过16至20站的比赛，来竞争年度总冠军的宝座。尽管歐洲是這項運動的傳統基地並且每年舉辦半數左右的比賽，然而一級方程式現已风靡全球，越來越多的大獎賽在其他大洲舉行。2010賽季，一級方程式的全球收視觀眾達到5.27億人次。 大奖赛始于1906年并在20世纪后半期成为国际上最流行的赛车运动。一级方程式集团是F1的商业权利的合法持有人。由于F1的年度支出总额高达数十亿美元，其经济效应和创造就业机会显而易见，而相关的财务和政治斗争更是屡见媒体。较高的知名度和普及度造就F1良好的商业环境，从而吸引赞助商的巨额投资和制造商的海量预算。2000年以来，该项运动不断上升的支出让包括厂商车队在内的数支车队破产。而另一些车队则被收购，这些已经严重限制参赛车队的数量。"@zh ;
-    dbo:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Alfa-Romeo-159-(1951).jpg?width=300> ;
-    dbo:wikiPageExternalLink <http://www.fia.com/>,
-        <http://www.formula1.com/inside_f1/>,
-        <http://www.grandprixhistory.org/>,
-        <https://www.britannica.com/sports/Grand-Prix-racing>,
-        <https://www.formula1.com>,
-        <https://www.formula1.com/> ;
-    dbo:wikiPageID 10854 ;
-    dbo:wikiPageRevisionID 745149794 ;
-    dbp:c "Formula One" ;
-    dbp:category <http://dbpedia.org/resource/Open_wheel_car> ;
-    dbp:championDriver "Lewis Hamilton" ;
-    dbp:constructor "Mercedes" ;
-    dbp:constructors 11 ;
-    ns8:region <http://dbpedia.org/resource/International> ;
-    dbp:currentSeason 2016 ;
-    dbp:drivers 22 ;
-    dbp:engines "FerrariMercedesRenault Honda" ;
-    dbp:inaugural 1950 ;
-    dbp:logo "F1 logo.svg" ;
-    dbp:name "Formula One" ;
-    dbp:tyres <http://dbpedia.org/resource/Pirelli> ;
-    dbp:voy "Formula One" ;
-    dct:subject <http://dbpedia.org/resource/Category:1947_introductions>,
-        <http://dbpedia.org/resource/Category:Formula_One>,
-        <http://dbpedia.org/resource/Category:Formula_racing_series>,
-        <http://dbpedia.org/resource/Category:Racing_formulas> ;
-    ns9:hypernym <http://dbpedia.org/resource/Class> ;
-    rdfs:comment "الفورمولا واحد أو الفورمولا وان  (Formula One)، ويعرف أيضاً باسم سباق الجائزة الكبرى، هو أعلى صنف من سباقات الفورمولا ذات المقعد الفردي والعجلات المفتوحة. يتألف موسم الفورمولا الواحد من سلسلة من السباقات تعرف بالجوائز الكبرى (Grand Prix) تؤدى على حلبات خاصة معدة لهذا السباق، ونادراً ما يؤدى السباق في الطرق العادية خارج المضمار. تجمع نتائج كل سباق من سباقات الجوائز الكبرى في الموسم، ومن ثم تتحدد سنوياً جائزتان سنويتان، واحدة منهما للسائقين والأخرى لمصنعي السيارات. في سباقات الفورمولا واحد قد تتخطىً سرعة السيارات المتسابقة سرعة 320 كلم/ساعة (200 ميل في الساعة)."@ar,
-        "Die Formel 1 (kurz auch F1) ist eine Zusammenfassung der Regeln, Richtlinien und Bedingungen, in deren Rahmen die Formel-1-Weltmeisterschaft (offiziell FIA Formula One World Championship, bis 1980 Automobil-Weltmeisterschaft), eine vom Automobil-Dachverband Fédération Internationale de l’Automobile (FIA) festgelegte Formelserie, ausgetragen wird.Die Formel-1-Weltmeisterschaft ist die höchstrangige von der FIA veranstaltete Rennserie des Formelsports. Sie wird als Königsklasse des Automobilsports bezeichnet, da sie den Anspruch erhebt, die höchsten technischen, fahrerischen, aber auch finanziellen Anforderungen aller Rennserien an Fahrer und Konstrukteure zu stellen."@de,
-        "Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been the premier form of racing since the inaugural season in 1950, although other Formula One races were regularly held until 1983. The \"formula\", designated in the name, refers to a set of rules, to which all participants' cars must conform. The F1 season consists of a series of races, known as Grands Prix (from French, meaning grand prizes), held worldwide on purpose-built F1 circuits and public roads."@en,
-        "La Fórmula 1, abreviada como F1 y también denominada la «categoría reina del automovilismo» o «la máxima categoría del automovilismo», es la competición de automovilismo internacional más popular y prestigiosa, superando a categorías de automovilismo como la NASCAR, el Rally, los automóviles de turismo, entre otras. A cada carrera se le denomina Gran Premio y el torneo que las agrupa se denomina Campeonato Mundial de Fórmula 1. La entidad que la dirige es la Federación Internacional del Automóvil (FIA). El Formula One Group es controlado por la empresa estadounidense Liberty Media desde septiembre de 2016."@es,
-        "La Formule 1, communément abrégée en F1, est une discipline de sport automobile considérée comme la catégorie reine de ce sport. Elle a pris au fil des ans une dimension mondiale et elle est, avec les Jeux olympiques et la Coupe du monde de football, l'un des événements sportifs les plus médiatisés. La Scuderia Ferrari et Michael Schumacher sont à ce jour l'écurie et le pilote qui détiennent la plupart des records sur sept décennies de Formule 1."@fr,
-        "La Formula 1 o Formula Uno, in sigla F1, è la massima categoria (in termini prestazionali) di vetture monoposto a ruote scoperte da corsa su circuito definita dalla Federazione Internazionale dell'Automobile (FIA)."@it,
-        "フォーミュラ1（Formula One、英語発音: [ˈfɔːrmjulə ˈwʌn] フォーァミュラ・ワン）は、モータースポーツのカテゴリーの1つであり、その世界選手権を指す場合もある。略称はF1（エフ・ワン）。 F1世界選手権 (FIA Formula One World Championship) は、国際自動車連盟 (FIA) が主催する自動車レースの最高峰で、現在は4輪の1人乗りフォーミュラカーで行われている。"@ja,
-        "Formule 1, officieel de FIA Formula One World Championship, is de hoogste klasse in de autosport zoals is bepaald door de Fédération Internationale de l'Automobile."@nl,
-        "Formuła 1 (inaczej Mistrzostwa Świata Formuły 1, oficjalny skrót F1, błędnie nazywana formułą pierwszą) – przeprowadzany regularnie (corocznie) od 1950 roku cykl najbardziej prestiżowych międzynarodowych wyścigów samochodowych, znany również jako wyścigi Grand Prix, a jednocześnie klasa biorących w nich udział jednomiejscowych samochodów wyścigowych o otwartym nadwoziu. Dyscyplina sportu zapoczątkowana w Europie, obecnie o zasięgu globalnym, organizowana w Europie, Ameryce Południowej, Ameryce Północnej, Afryce, Azji i Australii. Podczas danego sezonu odbywa się kilkanaście wyścigów, poszczególnych grand prix, na wydzielonych torach ulicznych i na specjalnie stworzonych do tego celu torach zamkniętych."@pl,
-        "A Fórmula 1 é a mais popular modalidade de automobilismo do mundo. É a categoria mais avançada do esporte a motor e é regulamentada pela Federação Internacional de Automobilismo, desde 2015 a FIA aposentou a Gasolina Podium e começou a usar um motor elétrico, com auxílio de uma bateria. Ao contrário do que muitos acreditam, o registro oficial da categoria consta como Fórmula Um (Campeonato Mundial de Fórmula Um), com o numeral escrito por extenso, mas também se aceita o uso do 1 e do I."@pt,
-        "«Формула-1» (англ. FIA Formula One World Championship) — чемпионат мира по кольцевым автогонкам на автомобилях с открытыми колёсами. Чемпионат мира Формулы-1 проводится каждый год и состоит из отдельных этапов (имеющих статус Гран-при). В конце года выявляется победитель чемпионата. В Формуле-1 соревнуются как отдельные пилоты, так и команды. Пилоты соревнуются за титул чемпиона мира, а команды — за Кубок конструкторов."@ru,
-        "一级方程式赛车（英语：Formula One，也叫Formula 1或者F1）是由国际汽车联盟举办的最高等级的年度系列场地赛车比赛，正式名称为“国际汽车聯合會世界一级方程式锦标赛”。名称中“方程式”是指一组所有参赛车辆都必须遵守的规则。F1赛季包括一系列的比赛，而这些所谓的「大奖赛」（Grand Prix，出自法语，本意Great Prizes）的场地是全封闭的专门赛道或者是临时封闭的普通公路。每场比赛的结果算入积分系统并以此确定两个年度世界冠军：一个给车手和另一个给制造商。F1的车手、制造商、组织者以及赛道都必须持有超级执照，这是国际汽联颁发的最高级别执照。 一级方程式赛车通过产生大量的空氣動力學下压力达到非常高的过弯速度，是風靡全球的賽車運動。发动机性能限制在每分钟最多15000转时，其比赛最高速度就可以超過360公里/小时。赛车过弯的横向加速度超过5个標準重力。F1赛车的性能非常依赖电子系统（牵引力控制系统和其他辅助驾驶装置自2008年已被禁止）、空气动力学、悬挂和轮胎。"@zh ;
-    rdfs:seeAlso <http://dbpedia.org/resource/List_of_Formula_One_Grands_Prix>,
-        <http://dbpedia.org/resource/List_of_Formula_One_broadcasters>,
-        <http://dbpedia.org/resource/List_of_Formula_One_circuits>,
-        <http://dbpedia.org/resource/List_of_Formula_One_constructors>,
-        <http://dbpedia.org/resource/List_of_Formula_One_drivers>,
-        <http://cs.dbpedia.org/resource/Formule_1>,
-        <http://d-nb.info/gnd/4267570-4>,
-        <http://data.nytimes.com/N60942142038248637122>,
-        <http://dbpedia.org/resource/Formula_One>,
-        <http://de.dbpedia.org/resource/Formel_1>,
-        <http://el.dbpedia.org/resource/Φόρμουλα_1>,
-        <http://es.dbpedia.org/resource/Fórmula_1>,
-        <http://eu.dbpedia.org/resource/1_Formula>,
-        <http://fr.dbpedia.org/resource/Formule_1>,
-        <http://id.dbpedia.org/resource/Formula_Satu>,
-        <http://it.dbpedia.org/resource/Formula_1>,
-        <http://ja.dbpedia.org/resource/フォーミュラ1>,
-        <http://ko.dbpedia.org/resource/포뮬러_원>,
-        <http://nl.dbpedia.org/resource/Formule_1>,
-        <http://pl.dbpedia.org/resource/Formuła_1>,
-        <http://pt.dbpedia.org/resource/Fórmula_1>,
-        <http://rdf.freebase.com/ns/m.02xz2>,
-        <http://wikidata.dbpedia.org/resource/Q1968>,
-        <http://www.bbc.co.uk/things/13c4b240-b966-410e-a23a-f06dfa0b444b#id>,
-        <http://www.bbc.co.uk/things/65fae837-8320-4b43-923b-215ec4b8dfa0#id>,
-        <http://www.wikidata.org/entity/Q1968>,
-        <http://yago-knowledge.org/resource/Formula_One> ;
-    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Formula_One?oldid=745149794> ;
-    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Alfa-Romeo-159-(1951).jpg> ;
-    foaf:homepage <https://www.formula1.com> ;
-    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Formula_One> .
-
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/F-1_Spirit_(series)>	dbo:genre	dbr:Formula_One .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Calder_Park_Raceway	dbp:recordClass	dbr:Formula_One .
+dbr:Toleman_TG183	dbp:category	dbr:Formula_One .
+dbr:Jaguar_R4	dbp:category	dbr:Formula_One .
+dbr:Eagle_Mk1	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR1	dbp:category	dbr:Formula_One .
+dbr:Lotus_12	dbp:category	dbr:Formula_One .
+dbr:Honda_RA107	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-21	dbp:category	dbr:Formula_One .
+dbr:Midland_M16	dbp:category	dbr:Formula_One .
+dbr:Super_Aguri_SA07	dbp:category	dbr:Formula_One .
+dbr:Toyota_TF107	dbp:category	dbr:Formula_One .
+dbr:Williams_FW28	dbp:category	dbr:Formula_One .
+dbr:Williams_FW29	dbp:category	dbr:Formula_One .
+dbr:Arrows_A6	dbp:category	dbr:Formula_One .
+dbr:Minardi_PS03	dbp:category	dbr:Formula_One .
+dbr:Cooper_T81	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT24	dbp:category	dbr:Formula_One .
+dbr:Honda_RC100	dbp:category	dbr:Formula_One .
+dbr:Leyton_House_CG901	dbp:category	dbr:Formula_One .
+dbr:McLaren_M5A	dbp:category	dbr:Formula_One .
+dbr:Footwork_FA15	dbp:category	dbr:Formula_One .
+dbr:Dallara_F190	dbp:category	dbr:Formula_One .
+dbr:Lambo_291	dbp:category	dbr:Formula_One .
+dbr:Lotus_92	dbp:category	dbr:Formula_One .
+dbr:Lotus_93T	dbp:category	dbr:Formula_One .
+dbr:Lotus_94T	dbp:category	dbr:Formula_One .
+dbr:Footwork_FA17	dbp:category	dbr:Formula_One .
+dbr:Forti_FG03	dbp:category	dbr:Formula_One .
+dbr:Aston_Martin_DBR5	dbp:category	dbr:Formula_One .
+dbr:Lola_THL1	dbp:category	dbr:Formula_One .
+dbr:Lola_THL2	dbp:category	dbr:Formula_One .
+dbr:March_871	dbp:category	dbr:Formula_One .
+dbr:BRM_P261	dbp:category	dbr:Formula_One .
+dbr:Renault_RS10	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT59	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS19	dbp:category	dbr:Formula_One .
+dbr:ATS_D7	dbp:category	dbr:Formula_One .
+dbr:Arrows_A9	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT50	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT58	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS9	dbp:category	dbr:Formula_One .
+dbr:Shadow_DN7	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_015	dbp:category	dbr:Formula_One .
+dbr:Dallara_F188	dbp:category	dbr:Formula_One .
+dbr:BRM_P48	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/BRM_P48/57>	dbp:category	dbr:Formula_One .
+dbr:Minardi_M197	dbp:category	dbr:Formula_One .
+dbr:Benetton_B187	dbp:category	dbr:Formula_One .
+dbr:Dome_F105	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS27	dbp:category	dbr:Formula_One .
+dbr:Zakspeed_871	dbp:category	dbr:Formula_One .
+dbr:Williams_FW14	dbp:category	dbr:Formula_One .
+dbr:Williams_FW12	dbp:category	dbr:Formula_One .
+dbr:Williams_FW13	dbp:category	dbr:Formula_One .
+dbr:Williams_FW11	dbp:category	dbr:Formula_One .
+dbr:Williams_FW15C	dbp:category	dbr:Formula_One .
+dbr:Ferrari_SF16-H	dbp:category	dbr:Formula_One .
+dbr:Rory_Byrne	dbo:knownFor	dbr:Formula_One .
+<http://dbpedia.org/resource/1967_German_Grand_Prix>	dbo:type	dbr:Formula_One .
+<http://dbpedia.org/resource/1968_Italian_Grand_Prix>	dbo:type	dbr:Formula_One .
+dbr:Haas_VF-16	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F1-2000	dbp:category	dbr:Formula_One .
+dbr:Ferrari_312T	dbp:category	dbr:Formula_One .
+dbr:Ferrari_SF15-T	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F2008	dbp:category	dbr:Formula_One .
+dbr:Ferrari_126C	dbp:category	dbr:Formula_One .
+dbr:Ferrari_246P	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F2004	dbp:category	dbr:Formula_One .
+dbr:Ferrari_412_T1	dbp:category	dbr:Formula_One .
+dbr:Ferrari_412_T2	dbp:category	dbr:Formula_One .
+dbr:Ferrari_643	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F14_T	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F138	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F2003-GA	dbp:category	dbr:Formula_One .
+dbr:Ferrari_158	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Ferrari_F1/86>	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Ferrari_F1/87>	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Ferrari_150\u00B0_Italia>	dbp:category	dbr:Formula_One .
+dbr:Ferrari_248_F1	dbp:category	dbr:Formula_One .
+dbr:Ferrari_375_F1	dbp:category	dbr:Formula_One .
+dbr:Ferrari_553	dbp:category	dbr:Formula_One .
+dbr:Ferrari_641	dbp:category	dbr:Formula_One .
+dbr:Ferrari_642	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F10	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F2001	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F2002	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F2007	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F2012	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F300	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F399	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F92A	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F93A	dbp:category	dbr:Formula_One .
+dbr:Ferrari_246_F1-66	dbp:category	dbr:Formula_One .
+dbr:Ferrari_640	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F60	dbp:category	dbr:Formula_One .
+dbr:Ferrari_312	dbp:category	dbr:Formula_One .
+dbr:Ferrari_312B	dbp:category	dbr:Formula_One .
+dbr:Ferrari_F310	dbp:category	dbr:Formula_One .
+dbr:Ferrari_Tipo_500	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Ferrari_156/85>	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_Ring	dbp:recordClass	dbr:Formula_One ;
+	dbp:events	dbr:Formula_One .
+<http://dbpedia.org/resource/N\u00FCrburgring>	dbp:recordClass	dbr:Formula_One .
+dbr:Indianapolis_Motor_Speedway	dbp:recordClass	dbr:Formula_One .
+dbr:Autodromo_Enzo_e_Dino_Ferrari	dbp:recordClass	dbr:Formula_One .
+dbr:Silverstone_Circuit	dbp:recordClass	dbr:Formula_One .
+dbr:Circuito_di_Ospedaletti	dbp:recordClass	dbr:Formula_One ;
+	dbp:events	dbr:Formula_One .
+dbr:Ferrari_156_F1	dbp:category	dbr:Formula_One .
+dbr:Ferrari_246_F1	dbp:category	dbr:Formula_One .
+dbr:Jock_Clear	dbp:sport	dbr:Formula_One .
+dbr:Lancia_D50	dbp:category	dbr:Formula_One .
+dbr:Ferrari_Sigma	dbp:category	dbr:Formula_One .
+dbr:Nicola_Larini	dbp:prevSeries	dbr:Formula_One .
+dbr:Gianni_Morbidelli	dbp:prevSeries	dbr:Formula_One .
+dbr:Sauber_C34	dbp:category	dbr:Formula_One .
+dbr:Sauber_C35	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR11	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR3	dbp:category	dbr:Formula_One .
+dbr:Prost_AP04	dbp:category	dbr:Formula_One .
+dbr:Spyker_F8-VII	dbp:category	dbr:Formula_One .
+dbr:Sauber_C33	dbp:category	dbr:Formula_One .
+dbr:Sauber_C23	dbp:category	dbr:Formula_One .
+dbr:Watkins_Glen_International	dbp:events	dbr:Formula_One .
+dbr:Steve_Hallam	dbp:sport	dbr:Formula_One .
+dbr:Christian_Fittipaldi	dbp:prevSeries	dbr:Formula_One .
+dbr:Mark_Preston	dbo:knownFor	dbr:Formula_One .
+dbr:Prost_AP03	dbp:category	dbr:Formula_One .
+dbr:Arrows_A23	dbp:category	dbr:Formula_One .
+dbr:Caterham_CT05	dbp:category	dbr:Formula_One .
+dbr:Lotus_E22	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB11	dbp:category	dbr:Formula_One .
+dbr:Lotus_E21	dbp:category	dbr:Formula_One .
+dbr:Jordan_195	dbp:category	dbr:Formula_One .
+dbr:Jordan_196	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Lotus_T128_(Formula_One_car)>	dbp:category	dbr:Formula_One .
+dbr:Jordan_197	dbp:category	dbr:Formula_One .
+dbr:Prost_AP01	dbp:category	dbr:Formula_One .
+dbr:Prost_AP02	dbp:category	dbr:Formula_One .
+dbr:Renault_RS16	dbp:category	dbr:Formula_One .
+dbr:Caterham_CT01	dbp:category	dbr:Formula_One .
+dbr:Lotus_E20	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB5	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB6	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB7	dbp:category	dbr:Formula_One .
+dbr:Renault_R29	dbp:category	dbr:Formula_One .
+dbr:Renault_R30	dbp:category	dbr:Formula_One .
+dbr:Renault_R31	dbp:category	dbr:Formula_One .
+dbr:Williams_FW34	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB8	dbp:category	dbr:Formula_One .
+dbr:Caterham_CT03	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB10	dbp:category	dbr:Formula_One .
+dbr:Tony_Jardine	dbo:knownFor	dbr:Formula_One .
+dbr:Sam_Michael	dbo:knownFor	dbr:Formula_One .
+dbr:Adrian_Burgess	dbp:sport	dbr:Formula_One .
+dbr:F-1_Dream	dbo:genre	dbr:Formula_One .
+dbr:John_McQuilliam	dbo:knownFor	dbr:Formula_One .
+dbr:Formula_One_Championship	dbo:wikiPageRedirects	dbr:Formula_One .
+<http://dbpedia.org/resource/Jean-\u00C9ric_Vergne>	dbp:prevSeries	dbr:Formula_One .
+<http://dbpedia.org/resource/2006_French_Grand_Prix>	dbo:type	dbr:Formula_One .
+dbr:Circuit_de_Nevers_Magny-Cours	dbp:events	dbr:Formula_One .
+dbr:Toyota_TF110	dbp:category	dbr:Formula_One .
+dbr:Crystal_Palace_circuit	dbp:events	dbr:Formula_One .
+dbr:Buddh_International_Circuit	dbp:recordClass	dbr:Formula_One .
+dbr:Circuit_Bremgarten	dbp:events	dbr:Formula_One .
+dbr:Adelaide_Street_Circuit	dbp:recordClass	dbr:Formula_One .
+dbr:Nivelles-Baulers	dbp:recordClass	dbr:Formula_One .
+dbr:Reims-Gueux	dbp:recordClass	dbr:Formula_One .
+dbr:Rouen-Les-Essarts	dbp:recordClass	dbr:Formula_One .
+dbr:F1_racing	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:FIA_World_Championship	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Mike_Pilbeam	dbo:knownFor	dbr:Formula_One .
+<http://dbpedia.org/resource/Steve_Jones_(presenter)>	dbo:knownFor	dbr:Formula_One .
+<http://dbpedia.org/resource/Bob_Bell_(motorsport)>	dbp:known	dbr:Formula_One .
+dbr:Nigel_Stepney	dbo:knownFor	dbr:Formula_One .
+dbr:Peter_Elleray	dbo:knownFor	dbr:Formula_One .
+dbr:Gordon_Coppuck	dbo:knownFor	dbr:Formula_One .
+<http://dbpedia.org/resource/James_Key_(Formula_One)>	dbo:occupation	dbr:Formula_One .
+dbr:Joe_Saward	dbo:knownFor	dbr:Formula_One .
+dbr:Lotus_99T	dbp:category	dbr:Formula_One .
+dbr:Douglas_Circuit	dbp:recordClass	dbr:Formula_One ;
+	dbp:events	dbr:Formula_One .
+dbr:Rob_Smedley	dbp:sport	dbr:Formula_One .
+dbr:Lola_LC90	dbp:category	dbr:Formula_One .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Formula_One	rdf:type	yago:WikicatMotorsportCompetitions .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Formula_One	rdf:type	owl:Thing ,
+		yago:Statement106722453 ,
+		yago:Message106598915 ,
+		yago:SocialEvent107288639 ,
+		yago:WikicatRallyGroups ,
+		yago:MathematicalStatement106732169 ,
+		yago:Event100029378 ,
+		yago:Championship107457834 ,
+		yago:Contest107456188 ,
+		yago:Formula106731802 ,
+		yago:WikicatRacingFormulas ,
+		yago:Group100031264 ,
+		yago:Abstraction100002137 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Communication100033020 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Formula_One	rdfs:label	"Formule 1"@fr ,
+		"Formu\u0142a 1"@pl ,
+		"Formula One"@en ,
+		"\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1"@ar ,
+		"Formule 1"@nl ,
+		"\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66"@zh ,
+		"Formel 1"@de ,
+		"F\u00F3rmula 1"@es ,
+		"\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1"@ru ,
+		"F\u00F3rmula 1"@pt ,
+		"Formula 1"@it ,
+		"\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91"@ja ;
+	rdfs:comment	"Die Formel 1 (kurz auch F1) ist eine Zusammenfassung der Regeln, Richtlinien und Bedingungen, in deren Rahmen die Formel-1-Weltmeisterschaft (offiziell FIA Formula One World Championship, bis 1980 Automobil-Weltmeisterschaft), eine vom Automobil-Dachverband F\u00E9d\u00E9ration Internationale de l\u2019Automobile (FIA) festgelegte Formelserie, ausgetragen wird.Die Formel-1-Weltmeisterschaft ist die h\u00F6chstrangige von der FIA veranstaltete Rennserie des Formelsports. Sie wird als K\u00F6nigsklasse des Automobilsports bezeichnet, da sie den Anspruch erhebt, die h\u00F6chsten technischen, fahrerischen, aber auch finanziellen Anforderungen aller Rennserien an Fahrer und Konstrukteure zu stellen."@de ,
+		"La F\u00F3rmula 1, abreviada como F1 y tambi\u00E9n denominada la \u00ABcategor\u00EDa reina del automovilismo\u00BB o \u00ABla m\u00E1xima categor\u00EDa del automovilismo\u00BB, es la competici\u00F3n de automovilismo internacional m\u00E1s popular y prestigiosa, superando a categor\u00EDas de automovilismo como la NASCAR, el Rally, los autom\u00F3viles de turismo, entre otras. A cada carrera se le denomina Gran Premio y el torneo que las agrupa se denomina Campeonato Mundial de F\u00F3rmula 1. La entidad que la dirige es la Federaci\u00F3n Internacional del Autom\u00F3vil (FIA). El Formula One Group es controlado por la empresa estadounidense Liberty Media desde septiembre de 2016."@es ,
+		"La Formula 1 o Formula Uno, in sigla F1, \u00E8 la massima categoria (in termini prestazionali) di vetture monoposto a ruote scoperte da corsa su circuito definita dalla Federazione Internazionale dell'Automobile (FIA)."@it ,
+		"Formu\u0142a 1 (inaczej Mistrzostwa \u015Awiata Formu\u0142y 1, oficjalny skr\u00F3t F1, b\u0142\u0119dnie nazywana formu\u0142\u0105 pierwsz\u0105) \u2013 przeprowadzany regularnie (corocznie) od 1950 roku cykl najbardziej presti\u017Cowych mi\u0119dzynarodowych wy\u015Bcig\u00F3w samochodowych, znany r\u00F3wnie\u017C jako wy\u015Bcigi Grand Prix, a jednocze\u015Bnie klasa bior\u0105cych w nich udzia\u0142 jednomiejscowych samochod\u00F3w wy\u015Bcigowych o otwartym nadwoziu. Dyscyplina sportu zapocz\u0105tkowana w Europie, obecnie o zasi\u0119gu globalnym, organizowana w Europie, Ameryce Po\u0142udniowej, Ameryce P\u00F3\u0142nocnej, Afryce, Azji i Australii. Podczas danego sezonu odbywa si\u0119 kilkana\u015Bcie wy\u015Bcig\u00F3w, poszczeg\u00F3lnych grand prix, na wydzielonych torach ulicznych i na specjalnie stworzonych do tego celu torach zamkni\u0119tych."@pl ,
+		"La Formule 1, commun\u00E9ment abr\u00E9g\u00E9e en F1, est une discipline de sport automobile consid\u00E9r\u00E9e comme la cat\u00E9gorie reine de ce sport. Elle a pris au fil des ans une dimension mondiale et elle est, avec les Jeux olympiques et la Coupe du monde de football, l'un des \u00E9v\u00E9nements sportifs les plus m\u00E9diatis\u00E9s. La Scuderia Ferrari et Michael Schumacher sont \u00E0 ce jour l'\u00E9curie et le pilote qui d\u00E9tiennent la plupart des records sur sept d\u00E9cennies de Formule 1."@fr ,
+		"\u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0623\u0648 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646  (Formula One)\u060C \u0648\u064A\u0639\u0631\u0641 \u0623\u064A\u0636\u0627\u064B \u0628\u0627\u0633\u0645 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649\u060C \u0647\u0648 \u0623\u0639\u0644\u0649 \u0635\u0646\u0641 \u0645\u0646 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0630\u0627\u062A \u0627\u0644\u0645\u0642\u0639\u062F \u0627\u0644\u0641\u0631\u062F\u064A \u0648\u0627\u0644\u0639\u062C\u0644\u0627\u062A \u0627\u0644\u0645\u0641\u062A\u0648\u062D\u0629. \u064A\u062A\u0623\u0644\u0641 \u0645\u0648\u0633\u0645 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0627\u0644\u0648\u0627\u062D\u062F \u0645\u0646 \u0633\u0644\u0633\u0644\u0629 \u0645\u0646 \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u062A\u0639\u0631\u0641 \u0628\u0627\u0644\u062C\u0648\u0627\u0626\u0632 \u0627\u0644\u0643\u0628\u0631\u0649 (Grand Prix) \u062A\u0624\u062F\u0649 \u0639\u0644\u0649 \u062D\u0644\u0628\u0627\u062A \u062E\u0627\u0635\u0629 \u0645\u0639\u062F\u0629 \u0644\u0647\u0630\u0627 \u0627\u0644\u0633\u0628\u0627\u0642\u060C \u0648\u0646\u0627\u062F\u0631\u0627\u064B \u0645\u0627 \u064A\u0624\u062F\u0649 \u0627\u0644\u0633\u0628\u0627\u0642 \u0641\u064A \u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u0639\u0627\u062F\u064A\u0629 \u062E\u0627\u0631\u062C \u0627\u0644\u0645\u0636\u0645\u0627\u0631. \u062A\u062C\u0645\u0639 \u0646\u062A\u0627\u0626\u062C \u0643\u0644 \u0633\u0628\u0627\u0642 \u0645\u0646 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u062C\u0648\u0627\u0626\u0632 \u0627\u0644\u0643\u0628\u0631\u0649 \u0641\u064A \u0627\u0644\u0645\u0648\u0633\u0645\u060C \u0648\u0645\u0646 \u062B\u0645 \u062A\u062A\u062D\u062F\u062F \u0633\u0646\u0648\u064A\u0627\u064B \u062C\u0627\u0626\u0632\u062A\u0627\u0646 \u0633\u0646\u0648\u064A\u062A\u0627\u0646\u060C \u0648\u0627\u062D\u062F\u0629 \u0645\u0646\u0647\u0645\u0627 \u0644\u0644\u0633\u0627\u0626\u0642\u064A\u0646 \u0648\u0627\u0644\u0623\u062E\u0631\u0649 \u0644\u0645\u0635\u0646\u0639\u064A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A. \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0642\u062F \u062A\u062A\u062E\u0637\u0649\u064B \u0633\u0631\u0639\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0645\u062A\u0633\u0627\u0628\u0642\u0629 \u0633\u0631\u0639\u0629 320 \u0643\u0644\u0645/\u0633\u0627\u0639\u0629 (200 \u0645\u064A\u0644 \u0641\u064A \u0627\u0644\u0633\u0627\u0639\u0629)."@ar ,
+		"\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\uFF08\u82F1\u8BED\uFF1AFormula One\uFF0C\u4E5F\u53EBFormula 1\u6216\u8005F1\uFF09\u662F\u7531\u56FD\u9645\u6C7D\u8F66\u8054\u76DF\u4E3E\u529E\u7684\u6700\u9AD8\u7B49\u7EA7\u7684\u5E74\u5EA6\u7CFB\u5217\u573A\u5730\u8D5B\u8F66\u6BD4\u8D5B\uFF0C\u6B63\u5F0F\u540D\u79F0\u4E3A\u201C\u56FD\u9645\u6C7D\u8F66\u806F\u5408\u6703\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u201D\u3002\u540D\u79F0\u4E2D\u201C\u65B9\u7A0B\u5F0F\u201D\u662F\u6307\u4E00\u7EC4\u6240\u6709\u53C2\u8D5B\u8F66\u8F86\u90FD\u5FC5\u987B\u9075\u5B88\u7684\u89C4\u5219\u3002F1\u8D5B\u5B63\u5305\u62EC\u4E00\u7CFB\u5217\u7684\u6BD4\u8D5B\uFF0C\u800C\u8FD9\u4E9B\u6240\u8C13\u7684\u300C\u5927\u5956\u8D5B\u300D\uFF08Grand Prix\uFF0C\u51FA\u81EA\u6CD5\u8BED\uFF0C\u672C\u610FGreat Prizes\uFF09\u7684\u573A\u5730\u662F\u5168\u5C01\u95ED\u7684\u4E13\u95E8\u8D5B\u9053\u6216\u8005\u662F\u4E34\u65F6\u5C01\u95ED\u7684\u666E\u901A\u516C\u8DEF\u3002\u6BCF\u573A\u6BD4\u8D5B\u7684\u7ED3\u679C\u7B97\u5165\u79EF\u5206\u7CFB\u7EDF\u5E76\u4EE5\u6B64\u786E\u5B9A\u4E24\u4E2A\u5E74\u5EA6\u4E16\u754C\u51A0\u519B\uFF1A\u4E00\u4E2A\u7ED9\u8F66\u624B\u548C\u53E6\u4E00\u4E2A\u7ED9\u5236\u9020\u5546\u3002F1\u7684\u8F66\u624B\u3001\u5236\u9020\u5546\u3001\u7EC4\u7EC7\u8005\u4EE5\u53CA\u8D5B\u9053\u90FD\u5FC5\u987B\u6301\u6709\u8D85\u7EA7\u6267\u7167\uFF0C\u8FD9\u662F\u56FD\u9645\u6C7D\u8054\u9881\u53D1\u7684\u6700\u9AD8\u7EA7\u522B\u6267\u7167\u3002 \u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u901A\u8FC7\u4EA7\u751F\u5927\u91CF\u7684\u7A7A\u6C23\u52D5\u529B\u5B78\u4E0B\u538B\u529B\u8FBE\u5230\u975E\u5E38\u9AD8\u7684\u8FC7\u5F2F\u901F\u5EA6\uFF0C\u662F\u98A8\u9761\u5168\u7403\u7684\u8CFD\u8ECA\u904B\u52D5\u3002\u53D1\u52A8\u673A\u6027\u80FD\u9650\u5236\u5728\u6BCF\u5206\u949F\u6700\u591A15000\u8F6C\u65F6\uFF0C\u5176\u6BD4\u8D5B\u6700\u9AD8\u901F\u5EA6\u5C31\u53EF\u4EE5\u8D85\u904E360\u516C\u91CC/\u5C0F\u65F6\u3002\u8D5B\u8F66\u8FC7\u5F2F\u7684\u6A2A\u5411\u52A0\u901F\u5EA6\u8D85\u8FC75\u4E2A\u6A19\u6E96\u91CD\u529B\u3002F1\u8D5B\u8F66\u7684\u6027\u80FD\u975E\u5E38\u4F9D\u8D56\u7535\u5B50\u7CFB\u7EDF\uFF08\u7275\u5F15\u529B\u63A7\u5236\u7CFB\u7EDF\u548C\u5176\u4ED6\u8F85\u52A9\u9A7E\u9A76\u88C5\u7F6E\u81EA2008\u5E74\u5DF2\u88AB\u7981\u6B62\uFF09\u3001\u7A7A\u6C14\u52A8\u529B\u5B66\u3001\u60AC\u6302\u548C\u8F6E\u80CE\u3002"@zh ,
+		"\u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB (\u0430\u043D\u0433\u043B. FIA Formula One World Championship) \u2014 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u043F\u043E \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 \u0441 \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u043C\u0438 \u043A\u043E\u043B\u0451\u0441\u0430\u043C\u0438. \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043A\u0430\u0436\u0434\u044B\u0439 \u0433\u043E\u0434 \u0438 \u0441\u043E\u0441\u0442\u043E\u0438\u0442 \u0438\u0437 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0445 \u044D\u0442\u0430\u043F\u043E\u0432 (\u0438\u043C\u0435\u044E\u0449\u0438\u0445 \u0441\u0442\u0430\u0442\u0443\u0441 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438). \u0412 \u043A\u043E\u043D\u0446\u0435 \u0433\u043E\u0434\u0430 \u0432\u044B\u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430. \u0412 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0441\u043E\u0440\u0435\u0432\u043D\u0443\u044E\u0442\u0441\u044F \u043A\u0430\u043A \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0435 \u043F\u0438\u043B\u043E\u0442\u044B, \u0442\u0430\u043A \u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u044B. \u041F\u0438\u043B\u043E\u0442\u044B \u0441\u043E\u0440\u0435\u0432\u043D\u0443\u044E\u0442\u0441\u044F \u0437\u0430 \u0442\u0438\u0442\u0443\u043B \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430, \u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u2014 \u0437\u0430 \u041A\u0443\u0431\u043E\u043A \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u0432."@ru ,
+		"A F\u00F3rmula 1 \u00E9 a mais popular modalidade de automobilismo do mundo. \u00C9 a categoria mais avan\u00E7ada do esporte a motor e \u00E9 regulamentada pela Federa\u00E7\u00E3o Internacional de Automobilismo, desde 2015 a FIA aposentou a Gasolina Podium e come\u00E7ou a usar um motor el\u00E9trico, com aux\u00EDlio de uma bateria. Ao contr\u00E1rio do que muitos acreditam, o registro oficial da categoria consta como F\u00F3rmula Um (Campeonato Mundial de F\u00F3rmula Um), com o numeral escrito por extenso, mas tamb\u00E9m se aceita o uso do 1 e do I."@pt ,
+		"Formule 1, officieel de FIA Formula One World Championship, is de hoogste klasse in de autosport zoals is bepaald door de F\u00E9d\u00E9ration Internationale de l'Automobile."@nl ,
+		"\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\uFF08Formula One\u3001\u82F1\u8A9E\u767A\u97F3: [\u02C8f\u0254\u02D0rmjul\u0259 \u02C8w\u028Cn] \u30D5\u30A9\u30FC\u30A1\u30DF\u30E5\u30E9\u30FB\u30EF\u30F3\uFF09\u306F\u3001\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u306E\u30AB\u30C6\u30B4\u30EA\u30FC\u306E1\u3064\u3067\u3042\u308A\u3001\u305D\u306E\u4E16\u754C\u9078\u624B\u6A29\u3092\u6307\u3059\u5834\u5408\u3082\u3042\u308B\u3002\u7565\u79F0\u306FF1\uFF08\u30A8\u30D5\u30FB\u30EF\u30F3\uFF09\u3002 F1\u4E16\u754C\u9078\u624B\u6A29 (FIA Formula One World Championship) \u306F\u3001\u56FD\u969B\u81EA\u52D5\u8ECA\u9023\u76DF (FIA) \u304C\u4E3B\u50AC\u3059\u308B\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B9\u306E\u6700\u9AD8\u5CF0\u3067\u3001\u73FE\u5728\u306F4\u8F2A\u306E1\u4EBA\u4E57\u308A\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9\u30AB\u30FC\u3067\u884C\u308F\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is sanctioned by the F\u00E9d\u00E9ration Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been the premier form of racing since the inaugural season in 1950, although other Formula One races were regularly held until 1983. The \"formula\", designated in the name, refers to a set of rules, to which all participants' cars must conform. The F1 season consists of a series of races, known as Grands Prix (from French, meaning grand prizes), held worldwide on purpose-built F1 circuits and public roads."@en ;
+	rdfs:seeAlso	dbr:List_of_Formula_One_constructors ,
+		dbr:List_of_Formula_One_broadcasters ,
+		dbr:List_of_Formula_One_drivers ,
+		dbr:List_of_Formula_One_circuits ,
+		dbr:List_of_Formula_One_Grands_Prix ;
+	owl:sameAs	<http://pl.dbpedia.org/resource/Formu\u0142a_1> ,
+		<http://es.dbpedia.org/resource/F\u00F3rmula_1> ,
+		dbr:Formula_One ,
+		<http://rdf.freebase.com/ns/m.02xz2> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Formula_One	owl:sameAs	dbpedia-wikidata:Q1968 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Formula_One	owl:sameAs	dbpedia-id:Formula_Satu .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Formula_One	owl:sameAs	dbpedia-fr:Formule_1 ,
+		<http://pt.dbpedia.org/resource/F\u00F3rmula_1> .
+@prefix ns10:	<http://www.bbc.co.uk/things/13c4b240-b966-410e-a23a-f06dfa0b444b#> .
+dbr:Formula_One	owl:sameAs	ns10:id .
+@prefix nyt:	<http://data.nytimes.com/> .
+dbr:Formula_One	owl:sameAs	nyt:N60942142038248637122 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Formula_One	owl:sameAs	dbpedia-it:Formula_1 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Formula_One	owl:sameAs	dbpedia-nl:Formule_1 ,
+		<http://ko.dbpedia.org/resource/\uD3EC\uBBAC\uB7EC_\uC6D0> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Formula_One	owl:sameAs	dbpedia-de:Formel_1 ,
+		<http://eu.dbpedia.org/resource/1_Formula> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Formula_One	owl:sameAs	wikidata:Q1968 ,
+		<http://d-nb.info/gnd/4267570-4> ,
+		<http://el.dbpedia.org/resource/\u03A6\u03CC\u03C1\u03BC\u03BF\u03C5\u03BB\u03B1_1> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Formula_One	owl:sameAs	yago-res:Formula_One .
+@prefix ns17:	<http://www.bbc.co.uk/things/65fae837-8320-4b43-923b-215ec4b8dfa0#> .
+dbr:Formula_One	owl:sameAs	ns17:id .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Formula_One	owl:sameAs	dbpedia-cs:Formule_1 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Formula_One	dct:subject	dbc:Formula_One ,
+		<http://dbpedia.org/resource/Category:1947_introductions> ,
+		dbc:Racing_formulas ,
+		dbc:Formula_racing_series .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Formula_One	foaf:homepage	<https://www.formula1.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Alfa-Romeo-159-(1951).jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Formula_One	foaf:isPrimaryTopicOf	wikipedia-en:Formula_One ;
+	dbp:drivers	22 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Formula_One	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Formula_One?oldid=745149794> ;
+	dbo:wikiPageExternalLink	<http://www.fia.com/> ,
+		<http://www.formula1.com/inside_f1/> ,
+		<https://www.formula1.com> ,
+		<http://www.grandprixhistory.org/> ,
+		<https://www.formula1.com/> .
+@prefix ns24:	<https://www.britannica.com/sports/> .
+dbr:Formula_One	dbo:wikiPageExternalLink	ns24:Grand-Prix-racing ;
+	dbp:tyres	dbr:Pirelli .
+@prefix ns25:	<http://dbpedia.org/property/country/> .
+dbr:Formula_One	ns25:region	dbr:International ;
+	dbp:name	"Formula One"^^xsd:string ;
+	dbp:category	dbr:Open_wheel_car ;
+	dbp:constructor	"Mercedes"^^xsd:string ;
+	dbp:constructors	11 ;
+	dbp:engines	"FerrariMercedesRenault Honda"^^xsd:string ;
+	dbp:inaugural	1950 ;
+	dbo:abstract	"\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\uFF08Formula One\u3001\u82F1\u8A9E\u767A\u97F3: [\u02C8f\u0254\u02D0rmjul\u0259 \u02C8w\u028Cn] \u30D5\u30A9\u30FC\u30A1\u30DF\u30E5\u30E9\u30FB\u30EF\u30F3\uFF09\u306F\u3001\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u306E\u30AB\u30C6\u30B4\u30EA\u30FC\u306E1\u3064\u3067\u3042\u308A\u3001\u305D\u306E\u4E16\u754C\u9078\u624B\u6A29\u3092\u6307\u3059\u5834\u5408\u3082\u3042\u308B\u3002\u7565\u79F0\u306FF1\uFF08\u30A8\u30D5\u30FB\u30EF\u30F3\uFF09\u3002 F1\u4E16\u754C\u9078\u624B\u6A29 (FIA Formula One World Championship) \u306F\u3001\u56FD\u969B\u81EA\u52D5\u8ECA\u9023\u76DF (FIA) \u304C\u4E3B\u50AC\u3059\u308B\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B9\u306E\u6700\u9AD8\u5CF0\u3067\u3001\u73FE\u5728\u306F4\u8F2A\u306E1\u4EBA\u4E57\u308A\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9\u30AB\u30FC\u3067\u884C\u308F\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\uFF08\u82F1\u8BED\uFF1AFormula One\uFF0C\u4E5F\u53EBFormula 1\u6216\u8005F1\uFF09\u662F\u7531\u56FD\u9645\u6C7D\u8F66\u8054\u76DF\u4E3E\u529E\u7684\u6700\u9AD8\u7B49\u7EA7\u7684\u5E74\u5EA6\u7CFB\u5217\u573A\u5730\u8D5B\u8F66\u6BD4\u8D5B\uFF0C\u6B63\u5F0F\u540D\u79F0\u4E3A\u201C\u56FD\u9645\u6C7D\u8F66\u806F\u5408\u6703\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u201D\u3002\u540D\u79F0\u4E2D\u201C\u65B9\u7A0B\u5F0F\u201D\u662F\u6307\u4E00\u7EC4\u6240\u6709\u53C2\u8D5B\u8F66\u8F86\u90FD\u5FC5\u987B\u9075\u5B88\u7684\u89C4\u5219\u3002F1\u8D5B\u5B63\u5305\u62EC\u4E00\u7CFB\u5217\u7684\u6BD4\u8D5B\uFF0C\u800C\u8FD9\u4E9B\u6240\u8C13\u7684\u300C\u5927\u5956\u8D5B\u300D\uFF08Grand Prix\uFF0C\u51FA\u81EA\u6CD5\u8BED\uFF0C\u672C\u610FGreat Prizes\uFF09\u7684\u573A\u5730\u662F\u5168\u5C01\u95ED\u7684\u4E13\u95E8\u8D5B\u9053\u6216\u8005\u662F\u4E34\u65F6\u5C01\u95ED\u7684\u666E\u901A\u516C\u8DEF\u3002\u6BCF\u573A\u6BD4\u8D5B\u7684\u7ED3\u679C\u7B97\u5165\u79EF\u5206\u7CFB\u7EDF\u5E76\u4EE5\u6B64\u786E\u5B9A\u4E24\u4E2A\u5E74\u5EA6\u4E16\u754C\u51A0\u519B\uFF1A\u4E00\u4E2A\u7ED9\u8F66\u624B\u548C\u53E6\u4E00\u4E2A\u7ED9\u5236\u9020\u5546\u3002F1\u7684\u8F66\u624B\u3001\u5236\u9020\u5546\u3001\u7EC4\u7EC7\u8005\u4EE5\u53CA\u8D5B\u9053\u90FD\u5FC5\u987B\u6301\u6709\u8D85\u7EA7\u6267\u7167\uFF0C\u8FD9\u662F\u56FD\u9645\u6C7D\u8054\u9881\u53D1\u7684\u6700\u9AD8\u7EA7\u522B\u6267\u7167\u3002 \u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u901A\u8FC7\u4EA7\u751F\u5927\u91CF\u7684\u7A7A\u6C23\u52D5\u529B\u5B78\u4E0B\u538B\u529B\u8FBE\u5230\u975E\u5E38\u9AD8\u7684\u8FC7\u5F2F\u901F\u5EA6\uFF0C\u662F\u98A8\u9761\u5168\u7403\u7684\u8CFD\u8ECA\u904B\u52D5\u3002\u53D1\u52A8\u673A\u6027\u80FD\u9650\u5236\u5728\u6BCF\u5206\u949F\u6700\u591A15000\u8F6C\u65F6\uFF0C\u5176\u6BD4\u8D5B\u6700\u9AD8\u901F\u5EA6\u5C31\u53EF\u4EE5\u8D85\u904E360\u516C\u91CC/\u5C0F\u65F6\u3002\u8D5B\u8F66\u8FC7\u5F2F\u7684\u6A2A\u5411\u52A0\u901F\u5EA6\u8D85\u8FC75\u4E2A\u6A19\u6E96\u91CD\u529B\u3002F1\u8D5B\u8F66\u7684\u6027\u80FD\u975E\u5E38\u4F9D\u8D56\u7535\u5B50\u7CFB\u7EDF\uFF08\u7275\u5F15\u529B\u63A7\u5236\u7CFB\u7EDF\u548C\u5176\u4ED6\u8F85\u52A9\u9A7E\u9A76\u88C5\u7F6E\u81EA2008\u5E74\u5DF2\u88AB\u7981\u6B62\uFF09\u3001\u7A7A\u6C14\u52A8\u529B\u5B66\u3001\u60AC\u6302\u548C\u8F6E\u80CE\u3002 F1\u88AB\u5F88\u591A\u4EBA\u8BA4\u4E3A\u662F\u8D5B\u8F66\u754C\u6700\u91CD\u8981\u7684\u8D5B\u4E8B\uFF0C\u540C\u65F6\u4E5F\u662F\u6700\u6602\u8D35\u7684\u4F53\u80B2\u8FD0\u52A8\uFF0C\u5176\u8D5B\u8F66\u5F80\u5F80\u91C7\u7528\u6C7D\u8F66\u754C\u6700\u5148\u8FDB\u7684\u6280\u672F\u548C\u9AD8\u6210\u672C\u7684\u6750\u6599\u3002\u6BCF\u5E74\u7EA6\u670910\u652F\u8F66\u961F\u53C2\u8D5B\uFF0C\u7ECF\u8FC716\u81F320\u7AD9\u7684\u6BD4\u8D5B\uFF0C\u6765\u7ADE\u4E89\u5E74\u5EA6\u603B\u51A0\u519B\u7684\u5B9D\u5EA7\u3002\u5C3D\u7BA1\u6B50\u6D32\u662F\u9019\u9805\u904B\u52D5\u7684\u50B3\u7D71\u57FA\u5730\u4E26\u4E14\u6BCF\u5E74\u8209\u8FA6\u534A\u6578\u5DE6\u53F3\u7684\u6BD4\u8CFD\uFF0C\u7136\u800C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u73FE\u5DF2\u98CE\u9761\u5168\u7403\uFF0C\u8D8A\u4F86\u8D8A\u591A\u7684\u5927\u734E\u8CFD\u5728\u5176\u4ED6\u5927\u6D32\u8209\u884C\u30022010\u8CFD\u5B63\uFF0C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u7684\u5168\u7403\u6536\u8996\u89C0\u773E\u9054\u52305.27\u5104\u4EBA\u6B21\u3002 \u5927\u5956\u8D5B\u59CB\u4E8E1906\u5E74\u5E76\u572820\u4E16\u7EAA\u540E\u534A\u671F\u6210\u4E3A\u56FD\u9645\u4E0A\u6700\u6D41\u884C\u7684\u8D5B\u8F66\u8FD0\u52A8\u3002\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u96C6\u56E2\u662FF1\u7684\u5546\u4E1A\u6743\u5229\u7684\u5408\u6CD5\u6301\u6709\u4EBA\u3002\u7531\u4E8EF1\u7684\u5E74\u5EA6\u652F\u51FA\u603B\u989D\u9AD8\u8FBE\u6570\u5341\u4EBF\u7F8E\u5143\uFF0C\u5176\u7ECF\u6D4E\u6548\u5E94\u548C\u521B\u9020\u5C31\u4E1A\u673A\u4F1A\u663E\u800C\u6613\u89C1\uFF0C\u800C\u76F8\u5173\u7684\u8D22\u52A1\u548C\u653F\u6CBB\u6597\u4E89\u66F4\u662F\u5C61\u89C1\u5A92\u4F53\u3002\u8F83\u9AD8\u7684\u77E5\u540D\u5EA6\u548C\u666E\u53CA\u5EA6\u9020\u5C31F1\u826F\u597D\u7684\u5546\u4E1A\u73AF\u5883\uFF0C\u4ECE\u800C\u5438\u5F15\u8D5E\u52A9\u5546\u7684\u5DE8\u989D\u6295\u8D44\u548C\u5236\u9020\u5546\u7684\u6D77\u91CF\u9884\u7B97\u30022000\u5E74\u4EE5\u6765\uFF0C\u8BE5\u9879\u8FD0\u52A8\u4E0D\u65AD\u4E0A\u5347\u7684\u652F\u51FA\u8BA9\u5305\u62EC\u5382\u5546\u8F66\u961F\u5728\u5185\u7684\u6570\u652F\u8F66\u961F\u7834\u4EA7\u3002\u800C\u53E6\u4E00\u4E9B\u8F66\u961F\u5219\u88AB\u6536\u8D2D\uFF0C\u8FD9\u4E9B\u5DF2\u7ECF\u4E25\u91CD\u9650\u5236\u53C2\u8D5B\u8F66\u961F\u7684\u6570\u91CF\u3002"@zh ,
+		"Formule 1, officieel de FIA Formula One World Championship, is de hoogste klasse in de autosport zoals is bepaald door de F\u00E9d\u00E9ration Internationale de l'Automobile."@nl ,
+		"La Formule 1, commun\u00E9ment abr\u00E9g\u00E9e en F1, est une discipline de sport automobile consid\u00E9r\u00E9e comme la cat\u00E9gorie reine de ce sport. Elle a pris au fil des ans une dimension mondiale et elle est, avec les Jeux olympiques et la Coupe du monde de football, l'un des \u00E9v\u00E9nements sportifs les plus m\u00E9diatis\u00E9s. Chaque ann\u00E9e depuis 1950, un championnat mondial des pilotes est organis\u00E9, compl\u00E9t\u00E9 depuis 1958 par un championnat mondial des constructeurs automobiles. La comp\u00E9tition est bas\u00E9e sur des Grands Prix, courses \u00E0 bord de voitures monoplaces disput\u00E9es sur circuits routiers ferm\u00E9s permanents mais parfois trac\u00E9s en ville et temporaires, comme \u00E0 Monaco, Valence et Singapour. Cette discipline sportive, r\u00E9gie par la F\u00E9d\u00E9ration internationale de l'automobile (FIA), est g\u00E9r\u00E9e par la Formula One Administration (FOA) et un ensemble de soci\u00E9t\u00E9s satellites contr\u00F4l\u00E9es par Bernie Ecclestone. Apr\u00E8s l'\u00E8re des artisans des ann\u00E9es 1960 et 1970, elle a peu \u00E0 peu attir\u00E9 les grands constructeurs automobiles mondiaux qui y investissent des sommes \u00E9lev\u00E9es, en esp\u00E9rant tirer profit des retomb\u00E9es m\u00E9diatiques d'\u00E9ventuels succ\u00E8s. La Formule 1 est consid\u00E9r\u00E9e comme la vitrine technologique de l'industrie automobile qui y exp\u00E9rimente des nouveaut\u00E9s techniques, parfois issues de la technologie spatiale et susceptibles d'\u00EAtre adapt\u00E9es ensuite sur les voitures de s\u00E9rie. Outre la comp\u00E9tition, le terme Formule 1 d\u00E9signe l'ensemble des r\u00E8gles techniques des voitures monoplaces qui sont mises \u00E0 jour tous les ans par la FIA. Ces r\u00E8gles sont tr\u00E8s strictes sur les dimensions des voitures, la cylindr\u00E9e des moteurs, les technologies mises en \u0153uvre ; elles d\u00E9finissent \u00E9galement les mesures de s\u00E9curit\u00E9 des voitures pour assurer la protection du pilote. Les monoplaces de course r\u00E9pondant aux caract\u00E9ristiques de la r\u00E9glementation de la Formule 1 sont g\u00E9n\u00E9ralement d\u00E9sign\u00E9es sous le terme g\u00E9n\u00E9rique de Formules 1. La Scuderia Ferrari et Michael Schumacher sont \u00E0 ce jour l'\u00E9curie et le pilote qui d\u00E9tiennent la plupart des records sur sept d\u00E9cennies de Formule 1."@fr ,
+		"\u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB (\u0430\u043D\u0433\u043B. FIA Formula One World Championship) \u2014 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u043F\u043E \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 \u0441 \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u043C\u0438 \u043A\u043E\u043B\u0451\u0441\u0430\u043C\u0438. \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043A\u0430\u0436\u0434\u044B\u0439 \u0433\u043E\u0434 \u0438 \u0441\u043E\u0441\u0442\u043E\u0438\u0442 \u0438\u0437 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0445 \u044D\u0442\u0430\u043F\u043E\u0432 (\u0438\u043C\u0435\u044E\u0449\u0438\u0445 \u0441\u0442\u0430\u0442\u0443\u0441 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438). \u0412 \u043A\u043E\u043D\u0446\u0435 \u0433\u043E\u0434\u0430 \u0432\u044B\u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430. \u0412 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0441\u043E\u0440\u0435\u0432\u043D\u0443\u044E\u0442\u0441\u044F \u043A\u0430\u043A \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0435 \u043F\u0438\u043B\u043E\u0442\u044B, \u0442\u0430\u043A \u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u044B. \u041F\u0438\u043B\u043E\u0442\u044B \u0441\u043E\u0440\u0435\u0432\u043D\u0443\u044E\u0442\u0441\u044F \u0437\u0430 \u0442\u0438\u0442\u0443\u043B \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430, \u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u2014 \u0437\u0430 \u041A\u0443\u0431\u043E\u043A \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u0432."@ru ,
+		"\u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0623\u0648 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646  (Formula One)\u060C \u0648\u064A\u0639\u0631\u0641 \u0623\u064A\u0636\u0627\u064B \u0628\u0627\u0633\u0645 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649\u060C \u0647\u0648 \u0623\u0639\u0644\u0649 \u0635\u0646\u0641 \u0645\u0646 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0630\u0627\u062A \u0627\u0644\u0645\u0642\u0639\u062F \u0627\u0644\u0641\u0631\u062F\u064A \u0648\u0627\u0644\u0639\u062C\u0644\u0627\u062A \u0627\u0644\u0645\u0641\u062A\u0648\u062D\u0629. \u064A\u062A\u0623\u0644\u0641 \u0645\u0648\u0633\u0645 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0627\u0644\u0648\u0627\u062D\u062F \u0645\u0646 \u0633\u0644\u0633\u0644\u0629 \u0645\u0646 \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u062A\u0639\u0631\u0641 \u0628\u0627\u0644\u062C\u0648\u0627\u0626\u0632 \u0627\u0644\u0643\u0628\u0631\u0649 (Grand Prix) \u062A\u0624\u062F\u0649 \u0639\u0644\u0649 \u062D\u0644\u0628\u0627\u062A \u062E\u0627\u0635\u0629 \u0645\u0639\u062F\u0629 \u0644\u0647\u0630\u0627 \u0627\u0644\u0633\u0628\u0627\u0642\u060C \u0648\u0646\u0627\u062F\u0631\u0627\u064B \u0645\u0627 \u064A\u0624\u062F\u0649 \u0627\u0644\u0633\u0628\u0627\u0642 \u0641\u064A \u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u0639\u0627\u062F\u064A\u0629 \u062E\u0627\u0631\u062C \u0627\u0644\u0645\u0636\u0645\u0627\u0631. \u062A\u062C\u0645\u0639 \u0646\u062A\u0627\u0626\u062C \u0643\u0644 \u0633\u0628\u0627\u0642 \u0645\u0646 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u062C\u0648\u0627\u0626\u0632 \u0627\u0644\u0643\u0628\u0631\u0649 \u0641\u064A \u0627\u0644\u0645\u0648\u0633\u0645\u060C \u0648\u0645\u0646 \u062B\u0645 \u062A\u062A\u062D\u062F\u062F \u0633\u0646\u0648\u064A\u0627\u064B \u062C\u0627\u0626\u0632\u062A\u0627\u0646 \u0633\u0646\u0648\u064A\u062A\u0627\u0646\u060C \u0648\u0627\u062D\u062F\u0629 \u0645\u0646\u0647\u0645\u0627 \u0644\u0644\u0633\u0627\u0626\u0642\u064A\u0646 \u0648\u0627\u0644\u0623\u062E\u0631\u0649 \u0644\u0645\u0635\u0646\u0639\u064A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A. \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0642\u062F \u062A\u062A\u062E\u0637\u0649\u064B \u0633\u0631\u0639\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0645\u062A\u0633\u0627\u0628\u0642\u0629 \u0633\u0631\u0639\u0629 320 \u0643\u0644\u0645/\u0633\u0627\u0639\u0629 (200 \u0645\u064A\u0644 \u0641\u064A \u0627\u0644\u0633\u0627\u0639\u0629). \u062A\u0639\u062A\u0628\u0631 \u0623\u0648\u0631\u0648\u0628\u0627 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062A\u0642\u0644\u064A\u062F\u064A \u0644\u0647\u0630\u0627 \u0627\u0644\u0633\u0628\u0627\u0642\u060C \u0648\u0647\u064A \u0627\u0644\u0645\u0631\u0648\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0647. \u0631\u063A\u0645 \u0630\u0644\u0643\u060C \u0628\u062F\u0623\u062A \u0645\u0646\u0630 \u0639\u0627\u0645 1999 \u0638\u0647\u0648\u0631 \u062D\u0644\u0628\u0627\u062A \u0641\u064A \u0627\u0644\u0628\u062D\u0631\u064A\u0646\u060C \u0648\u0627\u0644\u0635\u064A\u0646\u060C \u0648\u0645\u0627\u0644\u064A\u0632\u064A\u0627\u060C \u0648\u062A\u0631\u0643\u064A\u0627\u060C \u0645\u0645\u0627 \u062C\u0639\u0644 \u0627\u0644\u0644\u0639\u0628\u0629 \u0623\u0643\u062B\u0631 \u0634\u0639\u0628\u064A\u0629 \u0639\u0644\u0649 \u0645\u0633\u062A\u0648\u0649 \u0639\u0627\u0644\u0645\u064A. \u0648\u0628\u0627\u0639\u062A\u0628\u0627\u0631\u0647\u0627 \u0623\u0643\u062B\u0631 \u0627\u0644\u0631\u064A\u0627\u0636\u0627\u062A \u0643\u0644\u0641\u0629\u060C \u0639\u0648\u0627\u0626\u062F\u0647\u0627 \u0627\u0644\u0627\u0642\u062A\u0635\u0627\u062F\u064A\u0629 \u0643\u0628\u064A\u0631\u0629. \u062A\u0646\u0638\u0645 \u0647\u0630\u0647 \u0627\u0644\u0631\u064A\u0627\u0636\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A (F\u00E9d\u00E9ration Internationale de l'Automobile)\u060C \u0648\u064A\u0637\u0644\u0642 \u0639\u0644\u064A\u0647 \u0627\u062E\u062A\u0635\u0627\u0631\u0627 (FIA)\u060C \u064A\u0642\u0639 \u0645\u0642\u0631 \u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0628\u0645\u062F\u064A\u0646\u0629 \u0628\u0627\u0631\u064A\u0633\u060C \u0641\u0631\u0646\u0633\u0627. \u0627\u0644\u0631\u0626\u064A\u0633 \u0627\u0644\u062D\u0627\u0644\u064A \u0644\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0647\u0648 \u062C\u0648\u0646 \u062A\u0648\u062F. \u0628\u064A\u0646\u0645\u0627 \u0627\u0644\u0645\u062F\u064A\u0631 \u0644\u0644\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u062E\u0627\u0635\u0651\u0629 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u0629 Formula One Administration (FOA) \u0648\u0627\u0644\u0645\u0631\u0648\u0651\u062C (\u0648\u0627\u0644\u0645\u062A\u062D\u0643\u0651\u0645) \u0644\u0647\u0630\u0647 \u0627\u0644\u0631\u064A\u0627\u0636\u0629 \u0647\u0648 \u0628\u064A\u0631\u0646\u064A \u0625\u064A\u0643\u0644\u064A\u0633\u062A\u0648\u0646."@ar ,
+		"La F\u00F3rmula 1, abreviada como F1 y tambi\u00E9n denominada la \u00ABcategor\u00EDa reina del automovilismo\u00BB o \u00ABla m\u00E1xima categor\u00EDa del automovilismo\u00BB, es la competici\u00F3n de automovilismo internacional m\u00E1s popular y prestigiosa, superando a categor\u00EDas de automovilismo como la NASCAR, el Rally, los autom\u00F3viles de turismo, entre otras. A cada carrera se le denomina Gran Premio y el torneo que las agrupa se denomina Campeonato Mundial de F\u00F3rmula 1. La entidad que la dirige es la Federaci\u00F3n Internacional del Autom\u00F3vil (FIA). El Formula One Group es controlado por la empresa estadounidense Liberty Media desde septiembre de 2016. Los autom\u00F3viles utilizados son monoplazas con la \u00FAltima tecnolog\u00EDa disponible, siempre limitadas por un reglamento t\u00E9cnico; algunas mejoras que fueron desarrolladas en la F\u00F3rmula 1 terminaron siendo utilizadas en autom\u00F3viles comerciales, como el freno de disco. La mayor\u00EDa de los circuitos de carreras donde se celebran los Grandes Premios son aut\u00F3dromos, aunque tambi\u00E9n se utilizan circuitos callejeros y anteriormente se utilizaron circuitos ruteros. El inicio de la F\u00F3rmula 1 moderna se remonta al a\u00F1o 1950, en el que participaron escuder\u00EDas como Ferrari, Alfa Romeo y Maserati. Algunas fueron reemplazadas por otras nuevas como McLaren, Williams, Lotus y Renault, que se han alzado varias veces con el Campeonato Mundial de Constructores. Las escuder\u00EDas tienen que planear sus fichajes y renovaci\u00F3n de contratos 2 o 3 carreras antes del fin de la temporada. Por su parte, los pilotos deben contar con la superlicencia de la FIA para competir, que se obtiene en base a resultados en otros campeonatos."@es ,
+		"Die Formel 1 (kurz auch F1) ist eine Zusammenfassung der Regeln, Richtlinien und Bedingungen, in deren Rahmen die Formel-1-Weltmeisterschaft (offiziell FIA Formula One World Championship, bis 1980 Automobil-Weltmeisterschaft), eine vom Automobil-Dachverband F\u00E9d\u00E9ration Internationale de l\u2019Automobile (FIA) festgelegte Formelserie, ausgetragen wird.Die Formel-1-Weltmeisterschaft ist die h\u00F6chstrangige von der FIA veranstaltete Rennserie des Formelsports. Sie wird als K\u00F6nigsklasse des Automobilsports bezeichnet, da sie den Anspruch erhebt, die h\u00F6chsten technischen, fahrerischen, aber auch finanziellen Anforderungen aller Rennserien an Fahrer und Konstrukteure zu stellen."@de ,
+		"Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is sanctioned by the F\u00E9d\u00E9ration Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been the premier form of racing since the inaugural season in 1950, although other Formula One races were regularly held until 1983. The \"formula\", designated in the name, refers to a set of rules, to which all participants' cars must conform. The F1 season consists of a series of races, known as Grands Prix (from French, meaning grand prizes), held worldwide on purpose-built F1 circuits and public roads. The results of each race are evaluated using a points system to determine two annual World Championships, one for drivers, one for constructors. The racing drivers are required to be holders of valid Super Licences, the highest class of racing licence issued by the FIA. The races are required to be held on tracks graded 1 (formerly A), the highest grade a track can receive by the FIA. Most events are held in rural locations on purpose-built tracks, but there are several events in city centres throughout the world, with the Monaco Grand Prix being the most obvious and famous example. Formula One cars are the fastest road course racing cars in the world, owing to very high cornering speeds achieved through the generation of large amounts of aerodynamic downforce. Formula One cars race at speeds of up to approximately 380 km/h (240 mph) with engines currently limited in performance to a maximum of 15,000 RPM. The cars are capable of lateral acceleration in excess of five g in corners. The performance of the cars is very dependent on electronics \u2013 although traction control and other driving aids have been banned since 2008 \u2013 and on aerodynamics, suspension, and tyres. The formula has radically evolved and changed through the history of the sport. While Europe is the sport's traditional base, and hosts about half of each year's races, the sport's scope has expanded significantly and an increasing number of Grands Prix are held on other continents. F1 had a total global television audience of 425 million people during the course of the 2014 season. Grand Prix racing began in 1906 and became the most popular type internationally in the second half of the twentieth century. The Formula One Group is the legal holder of the commercial rights. With the cost of designing and building mid-tier cars being of the order of $120 million, Formula One's economic effect and creation of jobs are significant, and its financial and political battles are widely reported. Its high profile and popularity have created a major merchandising environment, which has resulted in great investments from sponsors and budgets in the hundreds of millions for the constructors. Since 2000 the sport's spiraling expenditures and the distribution of prize money which favors established top teams have forced complaints from smaller teams and led several teams to bankruptcy. On 8 September 2016 it was announced that Liberty Media Corp. had agreed to buy Delta Topco, the company that controls Formula One, from private equity firm CVC Capital Partners for $4.4 Billion in cash, stock and convertible debt."@en ,
+		"Formu\u0142a 1 (inaczej Mistrzostwa \u015Awiata Formu\u0142y 1, oficjalny skr\u00F3t F1, b\u0142\u0119dnie nazywana formu\u0142\u0105 pierwsz\u0105) \u2013 przeprowadzany regularnie (corocznie) od 1950 roku cykl najbardziej presti\u017Cowych mi\u0119dzynarodowych wy\u015Bcig\u00F3w samochodowych, znany r\u00F3wnie\u017C jako wy\u015Bcigi Grand Prix, a jednocze\u015Bnie klasa bior\u0105cych w nich udzia\u0142 jednomiejscowych samochod\u00F3w wy\u015Bcigowych o otwartym nadwoziu. Dyscyplina sportu zapocz\u0105tkowana w Europie, obecnie o zasi\u0119gu globalnym, organizowana w Europie, Ameryce Po\u0142udniowej, Ameryce P\u00F3\u0142nocnej, Afryce, Azji i Australii. Podczas danego sezonu odbywa si\u0119 kilkana\u015Bcie wy\u015Bcig\u00F3w, poszczeg\u00F3lnych grand prix, na wydzielonych torach ulicznych i na specjalnie stworzonych do tego celu torach zamkni\u0119tych. Zasady Formu\u0142y 1 regulowane s\u0105 przez F\u00E9d\u00E9ration Internationale de l\u2019Automobile (FIA), kt\u00F3rej prezesem jest Jean Todt. Za stron\u0119 finansow\u0105 i medialn\u0105 Formu\u0142y 1 odpowiedzialna jest Formula One Management, kt\u00F3rej prezesem jest Bernie Ecclestone."@pl ,
+		"A F\u00F3rmula 1 \u00E9 a mais popular modalidade de automobilismo do mundo. \u00C9 a categoria mais avan\u00E7ada do esporte a motor e \u00E9 regulamentada pela Federa\u00E7\u00E3o Internacional de Automobilismo, desde 2015 a FIA aposentou a Gasolina Podium e come\u00E7ou a usar um motor el\u00E9trico, com aux\u00EDlio de uma bateria. Ao contr\u00E1rio do que muitos acreditam, o registro oficial da categoria consta como F\u00F3rmula Um (Campeonato Mundial de F\u00F3rmula Um), com o numeral escrito por extenso, mas tamb\u00E9m se aceita o uso do 1 e do I."@pt ,
+		"La Formula 1 o Formula Uno, in sigla F1, \u00E8 la massima categoria (in termini prestazionali) di vetture monoposto a ruote scoperte da corsa su circuito definita dalla Federazione Internazionale dell'Automobile (FIA). La categoria \u00E8 nata nel 1948 (in sostituzione della Formula A, a sua volta sorta solo qualche anno prima, nel 1946), diventando poi a carattere mondiale nella stagione 1950. Inizialmente definita dalla Commissione Sportiva Internazionale (CSI) dell'Associazione Internazionale degli Automobil Club Riconosciuti (AIACR), associazione antesignana della Federazione Internazionale dell'Automobile, oggi la Formula Uno \u00E8 regolata dal Consiglio Mondiale degli Sport Motoristici (in inglese: World Motor Sport Council, WMSC) della Federazione Internazionale dell'Automobile. Il termine \"formula\", presente nel nome, fa riferimento ad un insieme di regole alle quali tutti i partecipanti, le macchine e i piloti, devono adeguarsi; esse introducono un numero di restrizioni e specifiche nelle auto, al fine di evitare le eccessive disparit\u00E0 tecniche tra le auto, di porre dei limiti al loro sviluppo e di ridurre i rischi di incidenti.La formula ha avuto molti cambiamenti durante la sua storia. Ci sono stati differenti tipi di motori, con schemi da 4 fino a 16 cilindri e con cilindrate da 1,5 a 4,5 l. I diritti finanziari e commerciali sono regolati dalla Formula One Group posseduta sino alla fine del 2005 dalla societ\u00E0 SLEC Holdings, che ha venduto nei primi mesi del 2006 la quota delle sue azioni alla CVC Capital Partners attraverso una complessa transazione finanziaria. Nonostante adesso sia un socio di minoranza, lo sport e i suoi diritti televisivi \u2013 diffusi dalla Formula One Management \u2013 sono tuttora controllati a livello promozionale e operativo da Bernie Ecclestone, attraverso la societ\u00E0 Alpha Prema."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Alfa-Romeo-159-(1951).jpg?width=300> ;
+	dbo:wikiPageRevisionID	745149794 ;
+	dbo:wikiPageID	10854 ;
+	dbp:logo	"F1 logo.svg"^^xsd:string .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Formula_One	ns26:hypernym	dbr:Class ;
+	dbp:voy	"Formula One"^^xsd:string ;
+	dbp:c	"Formula One"^^xsd:string ;
+	dbp:championDriver	"Lewis Hamilton"^^xsd:string ;
+	dbp:currentSeason	2016 .
+dbr:Lola_LC89	dbp:category	dbr:Formula_One .
+dbr:Lola_LC91	dbp:category	dbr:Formula_One .
+dbr:Karl_Wendlinger	dbp:prevSeries	dbr:Formula_One .
+dbr:AGS_JH21C	dbp:category	dbr:Formula_One .
+dbr:AGS_JH22	dbp:category	dbr:Formula_One .
+dbr:Alfa_Romeo_179	dbp:category	dbr:Formula_One .
+dbr:Alfa_Romeo_183T	dbp:category	dbr:Formula_One .
+dbr:Alfa_Romeo_184T	dbp:category	dbr:Formula_One .
+dbr:Alfa_Romeo_185T	dbp:category	dbr:Formula_One .
+dbr:Arrows_A3	dbp:category	dbr:Formula_One .
+dbr:BRM_P126	dbp:category	dbr:Formula_One .
+dbr:BRM_P160	dbp:category	dbr:Formula_One .
+dbr:BRM_P180	dbp:category	dbr:Formula_One .
+dbr:BRM_P207	dbp:category	dbr:Formula_One .
+dbr:BRM_P57	dbp:category	dbr:Formula_One .
+dbr:BRM_P67	dbp:category	dbr:Formula_One .
+dbr:Benetton_B195	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT60	dbp:category	dbr:Formula_One .
+dbr:Coloni_C4	dbp:category	dbr:Formula_One .
+dbr:Cooper_T51	dbp:category	dbr:Formula_One .
+dbr:Dallara_3087	dbp:category	dbr:Formula_One .
+dbr:EuroBrun_ER188	dbp:category	dbr:Formula_One .
+dbr:EuroBrun_ER189	dbp:category	dbr:Formula_One .
+dbr:Fondmetal_GR01	dbp:category	dbr:Formula_One .
+dbr:Footwork_FA12	dbp:category	dbr:Formula_One .
+dbr:HRT_F112	dbp:category	dbr:Formula_One .
+dbr:Hispania_F110	dbp:category	dbr:Formula_One .
+dbr:Hispania_F111	dbp:category	dbr:Formula_One .
+dbr:Honda_RA108	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS43	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS5	dbp:category	dbr:Formula_One .
+dbr:Lotus_16	dbp:category	dbr:Formula_One .
+dbr:Lotus_43	dbp:category	dbr:Formula_One .
+dbr:Lotus_56	dbp:category	dbr:Formula_One .
+dbr:Lotus_97T	dbp:category	dbr:Formula_One .
+dbr:Lotus_98T	dbp:category	dbr:Formula_One .
+dbr:Lotus_T127	dbp:category	dbr:Formula_One .
+dbr:Marussia_MR01	dbp:category	dbr:Formula_One .
+dbr:McLaren_M2B	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-16	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-17	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-22	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-23	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-24	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-25	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-26	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-27	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/10>	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/5>	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/6>	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/7A>	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/8>	dbp:category	dbr:Formula_One .
+dbr:Minardi_PS04B	dbp:category	dbr:Formula_One .
+dbr:Penske_PC4	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB2	dbp:category	dbr:Formula_One .
+dbr:Renault_R26	dbp:category	dbr:Formula_One .
+dbr:Renault_R28	dbp:category	dbr:Formula_One .
+dbr:Sauber_C12	dbp:category	dbr:Formula_One .
+dbr:Sauber_C29	dbp:category	dbr:Formula_One .
+dbr:Sauber_C31	dbp:category	dbr:Formula_One .
+dbr:Shadow_DN3	dbp:category	dbr:Formula_One .
+dbr:Stewart_SF01	dbp:category	dbr:Formula_One .
+dbr:Super_Aguri_SA08	dbp:category	dbr:Formula_One .
+dbr:Toleman_TG184	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR5	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR6	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR7	dbp:category	dbr:Formula_One .
+dbr:Toyota_TF109	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_018	dbp:category	dbr:Formula_One .
+dbr:Virgin_MVR-02	dbp:category	dbr:Formula_One .
+dbr:Virgin_VR-01	dbp:category	dbr:Formula_One .
+dbr:Williams_FW16	dbp:category	dbr:Formula_One .
+dbr:Williams_FW17	dbp:category	dbr:Formula_One .
+dbr:Williams_FW24	dbp:category	dbr:Formula_One .
+dbr:Williams_FW32	dbp:category	dbr:Formula_One .
+dbr:Williams_FW33	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT46	dbp:category	dbr:Formula_One .
+dbr:Minardi_PS01	dbp:category	dbr:Formula_One .
+dbr:Arrows_A2	dbp:category	dbr:Formula_One .
+dbr:Footwork_FA13	dbp:category	dbr:Formula_One .
+dbr:Pacific_PR02	dbp:category	dbr:Formula_One .
+dbr:Super_Aguri_SA05	dbp:category	dbr:Formula_One .
+dbr:Super_Aguri_SA06	dbp:category	dbr:Formula_One .
+dbr:Honda_RA271	dbp:category	dbr:Formula_One .
+dbr:Jordan_EJ13	dbp:category	dbr:Formula_One .
+dbr:Lotus_101	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_012	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_022	dbp:category	dbr:Formula_One .
+dbr:Honda_RA099	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT54	dbp:category	dbr:Formula_One .
+dbr:Cooper_T86	dbp:category	dbr:Formula_One .
+dbr:Lotus_102	dbp:category	dbr:Formula_One .
+dbr:Sauber_C30	dbp:category	dbr:Formula_One .
+dbr:BAR_005	dbp:category	dbr:Formula_One .
+dbr:Benetton_B198	dbp:category	dbr:Formula_One .
+dbr:Minardi_M01	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT56	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS7	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT20	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT3	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT48	dbp:category	dbr:Formula_One .
+dbr:DAMS_GD-01	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB3	dbp:category	dbr:Formula_One .
+dbr:Renault_R27	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR2	dbp:category	dbr:Formula_One .
+dbr:BAR_002	dbp:category	dbr:Formula_One .
+dbr:BAR_003	dbp:category	dbr:Formula_One .
+dbr:Top_Gear_test_track	dbp:recordClass	dbr:Formula_One .
+<http://dbpedia.org/resource/Constructors_(Formula_One)>	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Formula_One_World_Championship	dbo:wikiPageRedirects	dbr:Formula_One .
+<http://dbpedia.org/resource/Formula1.com>	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Mercedes-Benz_W196	dbp:category	dbr:Formula_One .
+dbr:Jordan_192	dbp:category	dbr:Formula_One .
+dbr:Jordan_193	dbp:category	dbr:Formula_One .
+dbr:Jordan_194	dbp:category	dbr:Formula_One .
+dbr:Footwork_FA16	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT11	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT10	dbp:category	dbr:Formula_One .
+dbr:Lotus_33	dbp:category	dbr:Formula_One .
+dbr:Lola_LC87	dbp:category	dbr:Formula_One .
+dbr:Lola_Mk4	dbp:category	dbr:Formula_One .
+dbr:Jordan_191	dbp:category	dbr:Formula_One .
+dbr:BRM_P83	dbp:category	dbr:Formula_One .
+dbr:Arrows_A18	dbp:category	dbr:Formula_One .
+dbr:Arrows_A19	dbp:category	dbr:Formula_One .
+dbr:Arrows_A20	dbp:category	dbr:Formula_One .
+dbr:Benetton_B197	dbp:category	dbr:Formula_One .
+dbr:Jordan_198	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS11	dbp:category	dbr:Formula_One .
+dbr:Minardi_M198	dbp:category	dbr:Formula_One .
+dbr:Stewart_SF02	dbp:category	dbr:Formula_One .
+dbr:Williams_FW19	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-20	dbp:category	dbr:Formula_One .
+dbr:Toyota_TF105	dbp:category	dbr:Formula_One .
+dbr:Benetton_B200	dbp:category	dbr:Formula_One .
+dbr:BRM_Type_15	dbp:category	dbr:Formula_One .
+dbr:Moskvitch_G5	dbo:class	dbr:Formula_One .
+dbr:Alfa_Romeo_182	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB1	dbp:category	dbr:Formula_One .
+dbr:F1	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Formula_One_Champion	dbo:wikiPageRedirects	dbr:Formula_One .
+wikipedia-en:Formula_One	foaf:primaryTopic	dbr:Formula_One .
+dbr:Kevin_Magnussen	dbp:currentSeries	dbr:Formula_One .
+dbr:March_CG891	dbp:category	dbr:Formula_One .
+dbr:Leyton_House_CG911	dbp:category	dbr:Formula_One .
+dbr:San_Remo_Grand_Prix	dbp:recordClass	dbr:Formula_One ;
+	dbp:events	dbr:Formula_One .
+<http://dbpedia.org/resource/1972_South_African_Grand_Prix>	dbo:type	dbr:Formula_One .
+<http://dbpedia.org/resource/2007_Belgian_Grand_Prix>	dbo:type	dbr:Formula_One .
+dbr:Patrick_Head	dbo:occupation	dbr:Formula_One .
+dbr:Simon_Rennie	dbo:knownFor	dbr:Formula_One .
+dbr:Forti_FG01	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/1969_Mexican_Grand_Prix>	dbo:type	dbr:Formula_One .
+dbr:Baku_City_Circuit	dbp:recordClass	dbr:Formula_One .
+dbr:Minardi_M192	dbp:category	dbr:Formula_One .
+dbr:Minardi_M191	dbp:category	dbr:Formula_One .
+dbr:Mercedes_F1_W06_Hybrid	dbp:category	dbr:Formula_One .
+dbr:Minardi_M194	dbp:category	dbr:Formula_One .
+dbr:Minardi_M195	dbp:category	dbr:Formula_One .
+dbr:Mercedes_F1_W07_Hybrid	dbp:category	dbr:Formula_One .
+dbr:Minardi_M193	dbp:category	dbr:Formula_One .
+dbr:Alex_Zanardi	dbp:prevSeries	dbr:Formula_One .
+dbr:F1-X_Dubai	dbp:theme	dbr:Formula_One .
+dbr:Spirit_101	dbp:category	dbr:Formula_One .
+dbr:Formula_one	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:F1_World_Championship	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:FIA_Formula_One_World_Championship	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Jaguar_Racing	dbp:formerSeries	dbr:Formula_One .
+dbr:North_American_Racing_Team	dbp:formerSeries	dbr:Formula_One .
+dbr:Williams_Grand_Prix_Engineering	rdfs:seeAlso	dbr:Formula_One .
+dbr:Lotus_F1	rdfs:seeAlso	dbr:Formula_One .
+dbr:Manor_Motorsport	dbp:formerSeries	dbr:Formula_One .
+dbr:Mo_Nunn	dbo:knownFor	dbr:Formula_One .
+dbr:BMS_Scuderia_Italia	dbp:formerSeries	dbr:Formula_One .
+dbr:Scuderia_Coloni	dbp:formerSeries	dbr:Formula_One .
+dbr:Ten_Sport	dbp:data	dbr:Formula_One .
+dbr:Detroit_street_circuit	dbp:events	dbr:Formula_One .
+dbr:Chris_Amon_Racing	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Aut\u00F3dromo_Hermanos_Rodr\u00EDguez>	dbp:recordClass	dbr:Formula_One .
+<http://dbpedia.org/resource/Aut\u00F3dromo_Juan_y_Oscar_G\u00E1lvez>	dbp:recordClass	dbr:Formula_One .
+dbr:Benetton_B190	dbp:category	dbr:Formula_One .
+dbr:Benetton_B191	dbp:category	dbr:Formula_One .
+dbr:Stewart_SF3	dbp:category	dbr:Formula_One .
+dbr:Simtek_S941	dbp:category	dbr:Formula_One .
+dbr:Benetton_B194	dbp:category	dbr:Formula_One .
+dbr:Benetton_B192	dbp:category	dbr:Formula_One .
+dbr:Benetton_B193	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_025	dbp:category	dbr:Formula_One .
+dbr:Wolf_WR5	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_002	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_004	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_006	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_P34	dbp:category	dbr:Formula_One .
+dbr:Lotus_78	dbp:category	dbr:Formula_One .
+dbr:Williams_FW04	dbp:category	dbr:Formula_One .
+dbr:Williams_FW06	dbp:category	dbr:Formula_One .
+dbr:ATS_D1	dbp:category	dbr:Formula_One .
+dbr:Simtek_S951	dbp:category	dbr:Formula_One .
+dbr:McLaren_M23	dbp:category	dbr:Formula_One .
+dbr:Williams_FW07	dbp:category	dbr:Formula_One .
+dbr:McLaren_M26	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_010	dbp:category	dbr:Formula_One .
+dbr:McLaren_M19A	dbp:category	dbr:Formula_One .
+dbr:Williams_FW08	dbp:category	dbr:Formula_One .
+dbr:Hill_GH1	dbp:category	dbr:Formula_One .
+dbr:Lotus_49	dbp:category	dbr:Formula_One .
+dbr:Lotus_63	dbp:category	dbr:Formula_One .
+dbr:Lotus_77	dbp:category	dbr:Formula_One .
+dbr:Lotus_80	dbp:category	dbr:Formula_One .
+dbr:March_701	dbp:category	dbr:Formula_One .
+dbr:Rial_ARC1	dbp:category	dbr:Formula_One .
+dbr:Fittipaldi_F5	dbp:category	dbr:Formula_One .
+dbr:McLaren_M14A	dbp:category	dbr:Formula_One .
+dbr:Wolf_WR7	dbp:category	dbr:Formula_One .
+dbr:Parnelli_VPJ4	dbp:category	dbr:Formula_One .
+dbr:ATS_D2	dbp:category	dbr:Formula_One .
+dbr:Wolf_WR1	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT34	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_003	dbp:category	dbr:Formula_One .
+dbr:Ensign_N179	dbp:category	dbr:Formula_One .
+dbr:Rial_ARC2	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Lola_T95/30>	dbp:category	dbr:Formula_One .
+dbr:Lotus_87	dbp:category	dbr:Formula_One .
+dbr:Lola_T370	dbp:category	dbr:Formula_One .
+dbr:Fittipaldi_F6	dbp:category	dbr:Formula_One .
+dbr:Hesketh_308C	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_001	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_005	dbp:category	dbr:Formula_One .
+dbr:Reynard_98A	dbp:category	dbr:Formula_One .
+dbr:Williams_FW	dbp:category	dbr:Formula_One .
+dbr:Fittipaldi_FD	dbp:category	dbr:Formula_One .
+dbr:Humpy_Wheeler	dbo:occupation	dbr:Formula_One .
+dbr:Deutsch_Group	dbo:industry	dbr:Formula_One .
+<http://dbpedia.org/resource/Formula_One_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Formula_One .
+@prefix ns27:	<http://dbpedia.org/resource/F1_Grand_Prix:> .
+ns27:_Nakajima_Satoru	dbo:genre	dbr:Formula_One .
+dbr:Len_Terry	dbo:knownFor	dbr:Formula_One .
+dbr:Minardi_M186	dbp:category	dbr:Formula_One .
+dbr:Minardi_M189	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-31	dbp:category	dbr:Formula_One .
+dbr:Williams_FW38	dbp:category	dbr:Formula_One .
+dbr:Coloni_C3	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-30	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR10	dbp:category	dbr:Formula_One .
+dbr:Williams_FW37	dbp:category	dbr:Formula_One .
+dbr:Manor_MRT05	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS17	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB12	dbp:category	dbr:Formula_One .
+dbr:Maserati_4CL_and_4CLT	dbp:category	dbr:Formula_One .
+dbr:BRM_P201	dbp:category	dbr:Formula_One .
+dbr:Matra_MS11	dbp:category	dbr:Formula_One .
+dbr:Matra_MS120	dbp:category	dbr:Formula_One .
+dbr:Matra_MS5	dbp:category	dbr:Formula_One .
+dbr:Matra_MS7	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT37	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT45	dbp:category	dbr:Formula_One .
+dbr:Minardi_M185	dbp:category	dbr:Formula_One .
+dbr:F_1	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Formel_1	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Formuli_1	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Takuma_Sato	dbp:prevSeries	dbr:Formula_One .
+dbr:Honda	rdfs:seeAlso	dbr:Formula_One .
+dbr:Maserati_250F	dbp:category	dbr:Formula_One .
+dbr:Lotus_18	dbp:category	dbr:Formula_One .
+dbr:Lotus_24	dbp:category	dbr:Formula_One .
+dbr:Eliseo_Salazar	dbp:prevSeries	dbr:Formula_One .
+dbr:Sochi_Autodrom	dbp:recordClass	dbr:Formula_One .
+dbr:Lotus_107	dbp:category	dbr:Formula_One .
+dbr:Sauber_C14	dbp:category	dbr:Formula_One .
+dbr:ATS_D5	dbp:category	dbr:Formula_One .
+dbr:Surtees_TS16	dbp:category	dbr:Formula_One .
+dbr:Surtees_TS20	dbp:category	dbr:Formula_One .
+dbr:Surtees_TS9	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT26	dbp:category	dbr:Formula_One .
+dbr:Lotus_72	dbp:category	dbr:Formula_One .
+dbr:Lotus_79	dbp:category	dbr:Formula_One .
+dbr:McLaren_M28	dbp:category	dbr:Formula_One .
+dbr:Fondmetal_GR02	dbp:category	dbr:Formula_One .
+dbr:Matra_MS80	dbp:category	dbr:Formula_One .
+dbr:Matra_MS10	dbp:category	dbr:Formula_One .
+dbr:Matra_MS84	dbp:category	dbr:Formula_One .
+dbr:McLaren_M7A	dbp:category	dbr:Formula_One .
+dbr:Penske_PC1	dbp:category	dbr:Formula_One .
+dbr:Penske_PC3	dbp:category	dbr:Formula_One .
+dbr:Hesketh_308E	dbp:category	dbr:Formula_One .
+dbr:McLaren_M29	dbp:category	dbr:Formula_One .
+dbr:Matra_MS9	dbp:category	dbr:Formula_One .
+dbr:Surtees_TS19	dbp:category	dbr:Formula_One .
+dbr:Surtees_TS7	dbp:category	dbr:Formula_One .
+dbr:McLaren_M30	dbp:category	dbr:Formula_One .
+dbr:Surtees_TS14	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/De_Tomaso_505/38>	dbp:category	dbr:Formula_One .
+dbr:Shadow_DN9	dbp:category	dbr:Formula_One .
+dbr:Aintree_Motor_Racing_Circuit	dbp:recordClass	dbr:Formula_One .
+dbr:Steve_Matchett	dbo:genre	dbr:Formula_One .
+dbr:Gabriele_Tarquini	dbp:prevSeries	dbr:Formula_One .
+dbr:Mauro_Forghieri	dbo:occupation	dbr:Formula_One .
+dbr:Adrian_Newey	dbo:knownFor	dbr:Formula_One .
+dbr:Nick_Heidfeld	dbp:prevSeries	dbr:Formula_One .
+dbr:Ross_Brawn	dbo:occupation	dbr:Formula_One .
+dbr:Michael_Andretti	dbp:prevSeries	dbr:Formula_One .
+dbr:Enrique_Bernoldi	dbp:prevSeries	dbr:Formula_One .
+dbr:Tiago_Monteiro	dbp:prevSeries	dbr:Formula_One .
+dbr:Gustav_Brunner	dbo:occupation	dbr:Formula_One .
+<http://dbpedia.org/resource/Derek_Gardner_(designer)>	dbo:knownFor	dbr:Formula_One .
+dbr:Nicholas_Tombazis	dbo:knownFor	dbr:Formula_One .
+<http://dbpedia.org/resource/G\u00E9rard_Ducarouge>	dbo:knownFor	dbr:Formula_One .
+dbr:Bruno_Senna	dbp:prevSeries	dbr:Formula_One .
+<http://dbpedia.org/resource/Martin_Donnelly_(racing_driver)>	dbp:prevSeries	dbr:Formula_One .
+dbr:Robert_Doornbos	dbp:prevSeries	dbr:Formula_One .
+dbr:Force_India_VJM09	dbp:category	dbr:Formula_One .
+dbr:Force_India_VJM08	dbp:category	dbr:Formula_One .
+dbr:Force_India_VJM06	dbp:category	dbr:Formula_One .
+dbr:Force_India_VJM02	dbp:category	dbr:Formula_One .
+dbr:Force_India_VJM03	dbp:category	dbr:Formula_One .
+dbr:Force_India_VJM04	dbp:category	dbr:Formula_One .
+dbr:Force_India_VJM05	dbp:category	dbr:Formula_One .
+dbr:Markus_Winkelhock	dbp:prevSeries	dbr:Formula_One .
+dbr:Timo_Glock	dbp:prevSeries	dbr:Formula_One .
+dbr:Williams_FW26	dbp:category	dbr:Formula_One .
+dbr:Williams_FW25	dbp:category	dbr:Formula_One .
+dbr:Williams_FW27	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/1973_Swedish_Grand_Prix>	dbo:type	dbr:Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.08>	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Lola_T97/30>	dbp:category	dbr:Formula_One .
+dbr:AGS_JH23	dbp:category	dbr:Formula_One .
+dbr:Dallara_F189	dbp:category	dbr:Formula_One .
+dbr:Larrousse_LH94	dbp:category	dbr:Formula_One .
+dbr:Lola_LC88	dbp:category	dbr:Formula_One .
+dbr:Sauber_C13	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR4	dbp:category	dbr:Formula_One .
+dbr:Toyota_TF108	dbp:category	dbr:Formula_One .
+dbr:Arrows_A10	dbp:category	dbr:Formula_One .
+dbr:Arrows_A11	dbp:category	dbr:Formula_One .
+dbr:Arrows_A5	dbp:category	dbr:Formula_One .
+dbr:Arrows_A7	dbp:category	dbr:Formula_One .
+dbr:Arrows_FA1	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_DG016	dbp:category	dbr:Formula_One .
+dbr:Williams_FW09	dbp:category	dbr:Formula_One .
+dbr:BRM_P139	dbp:category	dbr:Formula_One .
+dbr:Minardi_M190	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/One_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Formula_One .
+dbr:Williams_FW18	dbp:category	dbr:Formula_One .
+dbr:Lotus_21	dbo:class	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/12>	dbp:category	dbr:Formula_One .
+dbr:Lotus_112	dbp:category	dbr:Formula_One .
+dbr:ATS_D6	dbp:category	dbr:Formula_One .
+dbr:Arrows_A8	dbp:category	dbr:Formula_One .
+dbr:Renault_RE40	dbp:category	dbr:Formula_One .
+dbr:Benetton_B199	dbp:category	dbr:Formula_One .
+dbr:Jordan_EJ10	dbp:category	dbr:Formula_One .
+dbr:Jordan_EJ11	dbp:category	dbr:Formula_One .
+dbr:Jordan_EJ14	dbp:category	dbr:Formula_One .
+dbr:Lotus_91	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/14>	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/15>	dbp:category	dbr:Formula_One .
+dbr:Minardi_M02	dbp:category	dbr:Formula_One .
+dbr:Williams_FW21	dbp:category	dbr:Formula_One .
+dbr:Minardi_PS05	dbp:category	dbr:Formula_One .
+dbr:Jordan_EJ15	dbp:category	dbr:Formula_One .
+dbr:Williams_FW10	dbp:category	dbr:Formula_One .
+dbr:BRM_P133	dbp:category	dbr:Formula_One .
+dbr:Benetton_B186	dbp:category	dbr:Formula_One .
+dbr:Renault_RE20	dbp:category	dbr:Formula_One .
+dbr:Renault_RE50	dbp:category	dbr:Formula_One .
+dbr:Renault_RE60	dbp:category	dbr:Formula_One .
+dbr:Honda_RA301	dbp:category	dbr:Formula_One .
+dbr:Honda_RA302	dbp:category	dbr:Formula_One .
+dbr:March_881	dbp:category	dbr:Formula_One .
+dbr:BRM_P138	dbp:category	dbr:Formula_One .
+dbr:Benetton_B188	dbp:category	dbr:Formula_One .
+dbr:Benetton_B189	dbp:category	dbr:Formula_One .
+dbr:Dallara_F191	dbp:category	dbr:Formula_One .
+dbr:Zakspeed_861	dbp:category	dbr:Formula_One .
+dbr:Footwork_FA14	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS25	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS29	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS33	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS35	dbp:category	dbr:Formula_One .
+dbr:Minardi_M187	dbp:category	dbr:Formula_One .
+dbr:Spirit_201	dbp:category	dbr:Formula_One .
+dbr:Toleman_TG185	dbp:category	dbr:Formula_One .
+dbr:BAR_006	dbp:category	dbr:Formula_One .
+dbr:Williams_FW23	dbp:category	dbr:Formula_One .
+dbr:Osella_FA1L	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_008	dbp:category	dbr:Formula_One .
+dbr:Zakspeed_891	dbp:category	dbr:Formula_One .
+dbr:Arrows_A1	dbp:category	dbr:Formula_One .
+dbr:Aston_Martin_DBR4	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.06>	dbp:category	dbr:Formula_One .
+dbr:Dallara_F192	dbp:category	dbr:Formula_One .
+dbr:Jaguar_R5	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS37	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS39	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Lola_T93/30>	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-19	dbp:category	dbr:Formula_One .
+dbr:Red_Bull_RB9	dbp:category	dbr:Formula_One .
+dbr:Renault_R24	dbp:category	dbr:Formula_One .
+dbr:Sauber_C21	dbp:category	dbr:Formula_One .
+dbr:Sauber_C22	dbp:category	dbr:Formula_One .
+dbr:Sauber_C24	dbp:category	dbr:Formula_One .
+dbr:Williams_FW22	dbp:category	dbr:Formula_One .
+dbr:Alfa_Romeo_177	dbp:category	dbr:Formula_One .
+dbr:Andrea_Moda_S921	dbp:category	dbr:Formula_One .
+dbr:Arrows_A21	dbp:category	dbr:Formula_One .
+dbr:BAR_01	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.07>	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT52	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT53	dbp:category	dbr:Formula_One .
+dbr:Force_India_VJM07	dbp:category	dbr:Formula_One .
+dbr:Honda_RA106	dbp:category	dbr:Formula_One .
+dbr:Jaguar_R1	dbp:category	dbr:Formula_One .
+dbr:Jaguar_R2	dbp:category	dbr:Formula_One .
+dbr:Jaguar_R3	dbp:category	dbr:Formula_One .
+dbr:Jordan_199	dbp:category	dbr:Formula_One .
+dbr:Jordan_EJ12	dbp:category	dbr:Formula_One .
+dbr:Marussia_MR03	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-18	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-29	dbp:category	dbr:Formula_One .
+dbr:Mercedes_F1_W05_Hybrid	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR9	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_020	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_024	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_026	dbp:category	dbr:Formula_One .
+dbr:Williams_FW20	dbp:category	dbr:Formula_One .
+dbr:Williams_FW36	dbp:category	dbr:Formula_One .
+dbr:Zakspeed_841	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/Satoru_Nakajima_F-1_Hero_GB_World_Championship_\u002791>	dbo:genre	dbr:Formula_One .
+dbr:Aguri_Suzuki_F-1_Super_Driving	dbo:genre	dbr:Formula_One .
+dbr:Larrousse_LH93	dbp:category	dbr:Formula_One .
+dbr:Venturi_LC92	dbp:category	dbr:Formula_One .
+dbr:Sauber_C19	dbp:category	dbr:Formula_One .
+dbr:Sauber_C20	dbp:category	dbr:Formula_One .
+dbr:Lotus_E23_Hybrid	dbp:category	dbr:Formula_One .
+dbr:Mercedes_F1_W04	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.09>	dbp:category	dbr:Formula_One .
+dbr:Mercedes_F1_W03	dbp:category	dbr:Formula_One .
+dbr:Mercedes_MGP_W01	dbp:category	dbr:Formula_One .
+dbr:Mercedes_MGP_W02	dbp:category	dbr:Formula_One .
+dbr:Sauber_C15	dbp:category	dbr:Formula_One .
+dbr:Sauber_C16	dbp:category	dbr:Formula_One .
+dbr:Sauber_C17	dbp:category	dbr:Formula_One .
+dbr:Sauber_C18	dbp:category	dbr:Formula_One .
+dbr:F1_Pole_Position_2	dbo:genre	dbr:Formula_One .
+<http://dbpedia.org/resource/F1_Pole_Position_(video_game)>	dbo:genre	dbr:Formula_One .
+<http://dbpedia.org/resource/World_Grand_Prix_(video_game)>	dbo:genre	dbr:Formula_One .
+dbr:Fastest_1	dbo:genre	dbr:Formula_One .
+dbr:GP_Challenge	dbo:genre	dbr:Formula_One .
+dbr:Intercity_Istanbul_Park	dbp:events	dbr:Formula_One .
+dbr:Brands_Hatch	dbp:recordClass	dbr:Formula_One .
+dbr:Christijan_Albers	dbp:prevSeries	dbr:Formula_One .
+<http://dbpedia.org/resource/Aut\u00F3dromo_Internacional_Nelson_Piquet_(Bras\u00EDlia)>	dbp:events	dbr:Formula_One .
+dbr:Red_Bull_RB4	dbp:category	dbr:Formula_One .
+dbr:Toyota_TF101	dbp:category	dbr:Formula_One .
+dbr:Toyota_TF102	dbp:category	dbr:Formula_One .
+dbr:Toyota_TF103	dbp:category	dbr:Formula_One .
+dbr:Toyota_TF104	dbp:category	dbr:Formula_One .
+dbr:Williams_FW30	dbp:category	dbr:Formula_One .
+dbr:Marussia_MR02	dbp:category	dbr:Formula_One .
+dbr:McLaren_MP4-28	dbp:category	dbr:Formula_One .
+dbr:Sauber_C32	dbp:category	dbr:Formula_One .
+dbr:Toro_Rosso_STR8	dbp:category	dbr:Formula_One .
+dbr:Williams_FW35	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/2>	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT19	dbp:category	dbr:Formula_One .
+dbr:Lotus_88	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT44	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT49	dbp:category	dbr:Formula_One .
+dbr:Arrows_A22	dbp:category	dbr:Formula_One .
+dbr:Ferguson_P99	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS41	dbp:category	dbr:Formula_One .
+dbr:Lotus_109	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/9>	dbp:category	dbr:Formula_One .
+dbr:Pacific_PR01	dbp:category	dbr:Formula_One .
+dbr:Renault_RE30	dbp:category	dbr:Formula_One .
+dbr:Renault_RS01	dbp:category	dbr:Formula_One .
+dbr:Renault_R23	dbp:category	dbr:Formula_One .
+dbr:Autodromo_di_Pergusa	dbp:events	dbr:Formula_One .
+dbr:Honda_RA272	dbp:category	dbr:Formula_One .
+dbr:Lotus_25	dbp:category	dbr:Formula_One .
+dbr:Lotus_48	dbp:category	dbr:Formula_One .
+dbr:BAR_004	dbp:category	dbr:Formula_One .
+dbr:Minardi_PS02	dbp:category	dbr:Formula_One .
+dbr:Renault_R202	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_014	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/13>	dbp:category	dbr:Formula_One .
+dbr:Honda_RA300	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/11>	dbp:category	dbr:Formula_One .
+dbr:Prost_JS45	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/3>	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_023	dbp:category	dbr:Formula_One .
+dbr:Benetton_B201	dbp:category	dbr:Formula_One .
+dbr:Lotus_100T	dbp:category	dbr:Formula_One .
+dbr:Lotus_95T	dbp:category	dbr:Formula_One .
+dbr:Brabham_BT55	dbp:category	dbr:Formula_One .
+dbr:Arrows_A4	dbp:category	dbr:Formula_One .
+dbr:Shadow_DN5	dbp:category	dbr:Formula_One .
+dbr:Shadow_DN8	dbp:category	dbr:Formula_One .
+dbr:Shadow_DN1	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_011	dbp:category	dbr:Formula_One .
+dbr:McLaren_M4B	dbp:category	dbr:Formula_One .
+dbr:BAR_007	dbp:category	dbr:Formula_One .
+dbr:Hockenheimring	dbp:recordClass	dbr:Formula_One .
+<http://dbpedia.org/resource/Tramontana_(sports_car)>	dbo:bodyStyle	dbr:Formula_One .
+dbr:Valencia_Street_Circuit	dbp:recordClass	dbr:Formula_One .
+dbr:Brawn_BGP_001	dbp:category	dbr:Formula_One .
+dbr:Williams_FW31	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/1>	dbp:category	dbr:Formula_One .
+dbr:Renault_R25	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_017	dbp:category	dbr:Formula_One .
+dbr:Zakspeed_881	dbp:category	dbr:Formula_One .
+dbr:BRM_P115	dbp:category	dbr:Formula_One .
+dbr:BRM_P25	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS21	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS23	dbp:category	dbr:Formula_One .
+dbr:Ligier_JS31	dbp:category	dbr:Formula_One .
+dbr:Tyrrell_021	dbp:category	dbr:Formula_One .
+dbr:BRM_P61	dbp:category	dbr:Formula_One .
+dbr:Toyota_TF106	dbp:category	dbr:Formula_One .
+dbr:Benetton_B196	dbp:category	dbr:Formula_One .
+dbr:Formula_1	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Formula-1	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Thai_Grand_Prix	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Phoenix_street_circuit	dbp:events	dbr:Formula_One .
+dbr:NBC_Sports	dbp:majorContracts	dbr:Formula_One .
+dbr:Formula_1_World_Championship	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:FIA_Formula_1_World_Championship	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:Tyrrell_019	dbp:category	dbr:Formula_One .
+<http://dbpedia.org/resource/McLaren_MP4/4>	dbp:category	dbr:Formula_One .
+@prefix ns28:	<http://dbpedia.org/resource/Formula_One:> .
+ns28:_Built_to_Win	dbo:genre	dbr:Formula_One .
+dbr:Satoru_Nakajima_F-1_Hero_2	dbo:genre	dbr:Formula_One .
+dbr:Brabham_BT7	dbp:category	dbr:Formula_One .
+dbr:Formula1	dbo:wikiPageRedirects	dbr:Formula_One .
+<http://dbpedia.org/resource/F\u00F3rmula_1>	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:World_Championship_of_Drivers	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:F1_World_Championships	dbo:wikiPageRedirects	dbr:Formula_One .
+dbr:FIA_World_Championships	dbo:wikiPageRedirects	dbr:Formula_One .
