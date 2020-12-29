@@ -1,0 +1,111 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1965_South_African_Grand_Prix>	dbp:location	dbr:Prince_George_Circuit .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1966_South_African_Grand_Prix>	dbo:location	dbr:Prince_George_Circuit .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Prince_George_Circuit	foaf:primaryTopic	dbr:Prince_George_Circuit .
+<http://dbpedia.org/resource/1963_South_African_Grand_Prix>	dbp:location	dbr:Prince_George_Circuit .
+<http://dbpedia.org/resource/1962_South_African_Grand_Prix>	dbp:location	dbr:Prince_George_Circuit .
+dbr:Prince_George	dbo:wikiPageDisambiguates	dbr:Prince_George_Circuit .
+dbr:South_African_Grand_Prix	dbp:circuit	dbr:Prince_George_Circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Prince_George_Circuit	rdf:type	yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		yago:WikicatSportsVenuesInTheEasternCape ,
+		yago:Area108497294 ,
+		dbo:BaseballLeague ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatMotorsportVenuesInSouthAfrica .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Prince_George_Circuit	rdf:type	geo:SpatialThing ,
+		yago:Object100002684 ,
+		yago:YagoLegalActorGeo .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Prince_George_Circuit	rdfs:label	"\u0418\u0441\u0442-\u041B\u043E\u043D\u0434\u043E\u043D (\u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"\u062D\u0644\u0628\u0629 \u0627\u0644\u0623\u0645\u064A\u0631 \u062C\u0648\u0631\u062C"@ar ,
+		"\u30A4\u30FC\u30B9\u30C8\u30FB\u30ED\u30F3\u30C9\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"Prince George Circuit"@en ,
+		"Prince George Circuit"@pl ,
+		"Circuito di East London"@it ,
+		"Prince George Circuit"@nl ,
+		"Circuit Prince George"@fr ,
+		"Prince George Circuit"@pt ,
+		"Circuito de East London"@es ,
+		"Prince George Circuit"@de ;
+	rdfs:comment	"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di East London (nome ufficiale Prince George Circuit) \u00E8 un circuito automobilistico permanente posto nella provincia dell'Eastern Cape, in Sudafrica. Ha ospitato tre edizioni del Gran Premio del Sudafrica di Formula 1 (nel 1962, nel 1963 e nel 1965). Il circuito, inaugurato negli anni trenta, era lungo 3.920 metri, era molto veloce e si girava in senso orario; dopo il rettilineo iniziale c'era una curva veloce (la Potters Pars) seguita da un rettilineo spezzato da una semicurva (la Rifle Bend) poi c'era la Cocobana Corner e il Beach Straight spezzato dalla curva Butts Bend, seguivano le curve The Esses, Cox's e The Sweep, poi il Back Straight e inf"@it ,
+		"\u062D\u0644\u0628\u0629 \u0627\u0644\u0623\u0645\u064A\u0631 \u062C\u0648\u0631\u062C (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Prince George Circuit) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u062A\u0642\u0639 \u0641\u064A \u0625\u064A\u0633\u062A \u0644\u0646\u062F\u0646 \u0641\u064A \u0643\u064A\u0628 \u0627\u0644\u0634\u0631\u0642\u064A\u0629 \u0641\u064A \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627. \u0627\u0633\u062A\u0635\u0627\u0641\u062A \u0633\u0628\u0627\u0642\u0627\u062A \u062C\u0627\u0626\u0632\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649. \u0643\u0627\u0646 \u0637\u0648\u0644 \u0627\u0644\u062D\u0644\u0628\u0629 \u0641\u064A \u0627\u0644\u0623\u0635\u0644 23 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0644\u0643\u0646 \u062A\u0645 \u062A\u0642\u0644\u064A\u0635\u0647 \u0625\u0644\u0649 17 \u0643\u064A\u0644\u0648\u0645\u062A\u0631."@ar ,
+		"\u30A4\u30FC\u30B9\u30C8\u30FB\u30ED\u30F3\u30C9\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8(East London Circuit)\u53C8\u306F\u30D7\u30EA\u30F3\u30B9\u30FB\u30B8\u30E7\u30FC\u30B8\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8(Prince George Circuit)\u306F\u5357\u30A2\u30D5\u30EA\u30AB\u3001\u6771\u30B1\u30FC\u30D7\u5DDE\u30A4\u30FC\u30B9\u30C8\u30FB\u30ED\u30F3\u30C9\u30F3\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002 1962\u5E74\u30011963\u5E74\u30011965\u5E74\u306BF1\u5357\u30A2\u30D5\u30EA\u30ABGP\u304C\u958B\u50AC\u3055\u308C\u305F\u3002\u6E2F\u6CBF\u3044\u306E\u5E45\u306E\u72ED\u3044\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3001\u30AD\u30E3\u30E9\u30DF\u304C\u3067\u304D\u308B\u307E\u3067\u306E\u5357\u30A2\u30D5\u30EA\u30AB\u306E\u30EC\u30FC\u30B9\u306E\u4E2D\u5FC3\u5730\u3060\u3063\u305F\u3002"@ja ,
+		"\u0418\u0441\u0442-\u041B\u043E\u043D\u0434\u043E\u043D (\u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u041F\u0440\u0438\u043D\u0446\u0430 \u0413\u0435\u043E\u0440\u0433\u0430) (\u0430\u043D\u0433\u043B. East London (Prince George Circuit)) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0432 1962-1965 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0438\u0441\u044C \u044D\u0442\u0430\u043F\u044B \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438. \u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0430 \u043A \u0441\u0435\u0432\u0435\u0440\u043E-\u0432\u043E\u0441\u0442\u043E\u043A\u0443 \u043E\u0442 \u0433\u043E\u0440\u043E\u0434\u0430 \u041F\u043E\u0440\u0442-\u042D\u043B\u0438\u0437\u0430\u0431\u0435\u0442, \u0432 \u0412\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0439 \u041A\u0430\u043F\u0441\u043A\u043E\u0439 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438. \u0422\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043E\u0442\u043A\u0440\u044B\u0442\u0430 \u0432 30-\u0445 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u043E\u0448\u043B\u043E\u0433\u043E \u0432\u0435\u043A\u0430 \u0438 \u043D\u0430 \u043D\u0435\u0439 \u043F\u0440\u043E\u0448\u043B\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438 \u0432 1934-39 \u0433\u043E\u0434\u0430\u0445. \u0412 1959 \u0433\u043E\u0434\u0443 \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043C\u043E\u0434\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u043D\u0430 \u043F\u043E\u0434 \u0441\u0442\u0430\u043D\u0434\u0430\u0440\u0442\u044B \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0438 \u0432 1962 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u043E \u043F\u0435\u0440\u0432\u043E\u0435 \u0432\u0445\u043E\u0434\u044F\u0449\u0435\u0435 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438. \u041F\u043E\u0441\u043B\u0435 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0435\u0449\u0451 \u0434\u0432\u0443\u0445 \u0433\u043E\u043D\u043E\u043A \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0431\u044B\u043B\u043E \u043F\u0435\u0440\u0435\u043C\u0435\u0449\u0435\u043D\u043E \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0443 \u041A\u044C\u044F\u043B\u0430\u043C\u0438."@ru ,
+		"Le Circuit Prince George ou circuit d'East London est un circuit de course automobile long de 3,920 km situ\u00E9 \u00E0 East London, dans la Province du Cap-Oriental en Afrique du Sud."@fr ,
+		"Het Prince George Circuit is 3,9 km lang. Het circuit ligt in Oost-Londen, Zuid-Afrika. Het werd geopend in de jaren 30, in 1934 en 1936 was er de Grote Prijs van Zuid-Afrika. Maar omdat het oorlog was werd de wedstrijd stilgelegd. Om veiligheidsredenen werd het circuit verbouwd. Maar omdat de Formule 1 het circuit te klein vond worden werden er vanaf 1965 geen races meer gereden; deze werden verplaatst naar Kyalami."@nl ,
+		"Prince George Circuit \u2013 tor wy\u015Bcigowy po\u0142o\u017Cony w East London w RPA. D\u0142ugo\u015B\u0107 jednego okr\u0105\u017Cenia wynosi 3,920 kilometra. P\u0119tla toru posiada 8 zakr\u0119t\u00F3w. Pe\u0142en dystans wy\u015Bcigu to 85 okr\u0105\u017Ce\u0144, czyli 333,200 kilometra. GP RPA na tym torze by\u0142o organizowane do 1965 roku. Pierwsze Grand Prix na tym torze odby\u0142o si\u0119 w 1962 roku, a zwyci\u0119zc\u0105 zosta\u0142 Graham Hill za kierownic\u0105 BRM. Ostatni\u0105 edycj\u0119 tego Grand Prix wygra\u0142 Jim Clark za kierownic\u0105 Lotusa."@pl ,
+		"Der Prince George Circuit ist ein 3,920 Kilometer langer Rennkurs in East London (Ostkap), S\u00FCdafrika."@de ,
+		"Prince George Circuit is a race circuit in East London in Eastern Cape Province, South Africa. On this course the South African Grand Prix was hosted in 1934, and 1936 to 1939 when racing was halted due to World War II, and 1960-66."@en ,
+		"Prince George Circuit \u00E9 um circuito localizado em East London, na \u00C1frica do Sul. Aberto nos anos 30, durante a Segunda Guerra Mundial, foi usada como pista de testes das f\u00E1bricas de pneus alem\u00E3s. Recebeu o GP da \u00C1frica do Sul de F\u00F3rmula 1 em 1962, 1963 e 1965."@pt .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Prince_George_Circuit	owl:sameAs	yago-res:Prince_George_Circuit .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Prince_George_Circuit	owl:sameAs	dbpedia-de:Prince_George_Circuit .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Prince_George_Circuit	owl:sameAs	dbpedia-es:Circuito_de_East_London .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Prince_George_Circuit	owl:sameAs	wikidata:Q172865 ,
+		<http://rdf.freebase.com/ns/m.04zv9c> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Prince_George_Circuit	owl:sameAs	dbpedia-wikidata:Q172865 ,
+		dbr:Prince_George_Circuit .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Prince_George_Circuit	owl:sameAs	dbpedia-pt:Prince_George_Circuit .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Prince_George_Circuit	owl:sameAs	dbpedia-it:Circuito_di_East_London ,
+		<http://ja.dbpedia.org/resource/\u30A4\u30FC\u30B9\u30C8\u30FB\u30ED\u30F3\u30C9\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Prince_George_Circuit	owl:sameAs	dbpedia-nl:Prince_George_Circuit .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Prince_George_Circuit	owl:sameAs	dbpedia-pl:Prince_George_Circuit .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Prince_George_Circuit	owl:sameAs	dbpedia-fr:Circuit_Prince_George .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Prince_George_Circuit	dct:subject	dbc:South_African_Grand_Prix ,
+		<http://dbpedia.org/resource/Category:East_London,_Eastern_Cape> ,
+		dbc:Sports_venues_in_the_Eastern_Cape ,
+		dbc:Motorsport_venues_in_South_Africa ,
+		dbc:Formula_One_circuits ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grand_Prix_circuits> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Prince_George_Circuit	geo:lat	"-33.048610687255859375"^^xsd:float ;
+	geo:long	"27.8736114501953125"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Prince_George_Circuit.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Prince_George_Circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Prince_George_Circuit	geo:geometry	"POINT(27.873611450195 -33.048610687256)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Prince_George_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Prince_George_Circuit?oldid=692964183> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Prince_George_Circuit	georss:point	"-33.048611111111114 27.87361111111111" .
+@prefix ns26:	<http://www.kolumbus.fi/leif.snellman/t9.htm#> .
+dbr:Prince_George_Circuit	dbo:wikiPageExternalLink	ns26:PRINCE_GEORGE ;
+	dbo:abstract	"Prince George Circuit \u00E9 um circuito localizado em East London, na \u00C1frica do Sul. Aberto nos anos 30, durante a Segunda Guerra Mundial, foi usada como pista de testes das f\u00E1bricas de pneus alem\u00E3s. Recebeu o GP da \u00C1frica do Sul de F\u00F3rmula 1 em 1962, 1963 e 1965."@pt ,
+		"Het Prince George Circuit is 3,9 km lang. Het circuit ligt in Oost-Londen, Zuid-Afrika. Het werd geopend in de jaren 30, in 1934 en 1936 was er de Grote Prijs van Zuid-Afrika. Maar omdat het oorlog was werd de wedstrijd stilgelegd. Om veiligheidsredenen werd het circuit verbouwd. Maar omdat de Formule 1 het circuit te klein vond worden werden er vanaf 1965 geen races meer gereden; deze werden verplaatst naar Kyalami."@nl ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di East London (nome ufficiale Prince George Circuit) \u00E8 un circuito automobilistico permanente posto nella provincia dell'Eastern Cape, in Sudafrica. Ha ospitato tre edizioni del Gran Premio del Sudafrica di Formula 1 (nel 1962, nel 1963 e nel 1965). Il circuito, inaugurato negli anni trenta, era lungo 3.920 metri, era molto veloce e si girava in senso orario; dopo il rettilineo iniziale c'era una curva veloce (la Potters Pars) seguita da un rettilineo spezzato da una semicurva (la Rifle Bend) poi c'era la Cocobana Corner e il Beach Straight spezzato dalla curva Butts Bend, seguivano le curve The Esses, Cox's e The Sweep, poi il Back Straight e infine la curva Beacon Bend che reimmetteva sul rettilineo di partenza."@it ,
+		"Der Prince George Circuit ist ein 3,920 Kilometer langer Rennkurs in East London (Ostkap), S\u00FCdafrika."@de ,
+		"\u0418\u0441\u0442-\u041B\u043E\u043D\u0434\u043E\u043D (\u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u041F\u0440\u0438\u043D\u0446\u0430 \u0413\u0435\u043E\u0440\u0433\u0430) (\u0430\u043D\u0433\u043B. East London (Prince George Circuit)) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0432 1962-1965 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0438\u0441\u044C \u044D\u0442\u0430\u043F\u044B \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438. \u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0430 \u043A \u0441\u0435\u0432\u0435\u0440\u043E-\u0432\u043E\u0441\u0442\u043E\u043A\u0443 \u043E\u0442 \u0433\u043E\u0440\u043E\u0434\u0430 \u041F\u043E\u0440\u0442-\u042D\u043B\u0438\u0437\u0430\u0431\u0435\u0442, \u0432 \u0412\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0439 \u041A\u0430\u043F\u0441\u043A\u043E\u0439 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438. \u0422\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043E\u0442\u043A\u0440\u044B\u0442\u0430 \u0432 30-\u0445 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u043E\u0448\u043B\u043E\u0433\u043E \u0432\u0435\u043A\u0430 \u0438 \u043D\u0430 \u043D\u0435\u0439 \u043F\u0440\u043E\u0448\u043B\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438 \u0432 1934-39 \u0433\u043E\u0434\u0430\u0445. \u0412 1959 \u0433\u043E\u0434\u0443 \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043C\u043E\u0434\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u043D\u0430 \u043F\u043E\u0434 \u0441\u0442\u0430\u043D\u0434\u0430\u0440\u0442\u044B \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0438 \u0432 1962 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u043E \u043F\u0435\u0440\u0432\u043E\u0435 \u0432\u0445\u043E\u0434\u044F\u0449\u0435\u0435 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438. \u041F\u043E\u0441\u043B\u0435 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0435\u0449\u0451 \u0434\u0432\u0443\u0445 \u0433\u043E\u043D\u043E\u043A \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0431\u044B\u043B\u043E \u043F\u0435\u0440\u0435\u043C\u0435\u0449\u0435\u043D\u043E \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0443 \u041A\u044C\u044F\u043B\u0430\u043C\u0438."@ru ,
+		"Prince George Circuit \u2013 tor wy\u015Bcigowy po\u0142o\u017Cony w East London w RPA. D\u0142ugo\u015B\u0107 jednego okr\u0105\u017Cenia wynosi 3,920 kilometra. P\u0119tla toru posiada 8 zakr\u0119t\u00F3w. Pe\u0142en dystans wy\u015Bcigu to 85 okr\u0105\u017Ce\u0144, czyli 333,200 kilometra. GP RPA na tym torze by\u0142o organizowane do 1965 roku. Pierwsze Grand Prix na tym torze odby\u0142o si\u0119 w 1962 roku, a zwyci\u0119zc\u0105 zosta\u0142 Graham Hill za kierownic\u0105 BRM. Ostatni\u0105 edycj\u0119 tego Grand Prix wygra\u0142 Jim Clark za kierownic\u0105 Lotusa."@pl ,
+		"Prince George Circuit is a race circuit in East London in Eastern Cape Province, South Africa. On this course the South African Grand Prix was hosted in 1934, and 1936 to 1939 when racing was halted due to World War II, and 1960-66."@en ,
+		"\u30A4\u30FC\u30B9\u30C8\u30FB\u30ED\u30F3\u30C9\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8(East London Circuit)\u53C8\u306F\u30D7\u30EA\u30F3\u30B9\u30FB\u30B8\u30E7\u30FC\u30B8\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8(Prince George Circuit)\u306F\u5357\u30A2\u30D5\u30EA\u30AB\u3001\u6771\u30B1\u30FC\u30D7\u5DDE\u30A4\u30FC\u30B9\u30C8\u30FB\u30ED\u30F3\u30C9\u30F3\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002 1962\u5E74\u30011963\u5E74\u30011965\u5E74\u306BF1\u5357\u30A2\u30D5\u30EA\u30ABGP\u304C\u958B\u50AC\u3055\u308C\u305F\u3002\u6E2F\u6CBF\u3044\u306E\u5E45\u306E\u72ED\u3044\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3001\u30AD\u30E3\u30E9\u30DF\u304C\u3067\u304D\u308B\u307E\u3067\u306E\u5357\u30A2\u30D5\u30EA\u30AB\u306E\u30EC\u30FC\u30B9\u306E\u4E2D\u5FC3\u5730\u3060\u3063\u305F\u3002"@ja ,
+		"Le Circuit Prince George ou circuit d'East London est un circuit de course automobile long de 3,920 km situ\u00E9 \u00E0 East London, dans la Province du Cap-Oriental en Afrique du Sud."@fr ,
+		"\u062D\u0644\u0628\u0629 \u0627\u0644\u0623\u0645\u064A\u0631 \u062C\u0648\u0631\u062C (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Prince George Circuit) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u062A\u0642\u0639 \u0641\u064A \u0625\u064A\u0633\u062A \u0644\u0646\u062F\u0646 \u0641\u064A \u0643\u064A\u0628 \u0627\u0644\u0634\u0631\u0642\u064A\u0629 \u0641\u064A \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627. \u0627\u0633\u062A\u0635\u0627\u0641\u062A \u0633\u0628\u0627\u0642\u0627\u062A \u062C\u0627\u0626\u0632\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649. \u0643\u0627\u0646 \u0637\u0648\u0644 \u0627\u0644\u062D\u0644\u0628\u0629 \u0641\u064A \u0627\u0644\u0623\u0635\u0644 23 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0644\u0643\u0646 \u062A\u0645 \u062A\u0642\u0644\u064A\u0635\u0647 \u0625\u0644\u0649 17 \u0643\u064A\u0644\u0648\u0645\u062A\u0631."@ar ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Prince_George_Circuit.svg?width=300> ;
+	dbo:wikiPageRevisionID	692964183 ;
+	dbo:wikiPageID	1403913 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Prince_George_Circuit	ns27:hypernym	dbr:Circuit .

@@ -1,0 +1,138 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1952_Swiss_Grand_Prix>	dbo:location	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1949_Swiss_Grand_Prix>	dbo:location	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1954_Swiss_Grand_Prix>	dbo:location	dbr:Circuit_Bremgarten .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1948_Swiss_Grand_Prix>	dbp:course	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1935_Swiss_Grand_Prix>	dbo:location	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1938_Swiss_Grand_Prix>	dbo:location	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1939_Swiss_Grand_Prix>	dbo:location	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1937_Swiss_Grand_Prix>	dbo:location	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1936_Swiss_Grand_Prix>	dbo:location	dbr:Circuit_Bremgarten .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Circuit_Bremgarten	rdf:type	yago:Area108497294 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		yago:WikicatMotorsportVenuesInSwitzerland ,
+		dbo:Single ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:WikicatSportsVenuesInSwitzerland .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Circuit_Bremgarten	rdf:type	geo:SpatialThing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Circuit_Bremgarten	rdfs:label	"Circuito de Bremgarten"@pt ,
+		"Stratencircuit Bremgarten"@nl ,
+		"Circuito de Bremgarten"@es ,
+		"\u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D (\u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"Circuito di Bremgarten"@it ,
+		"Circuit de Bremgarten"@fr ,
+		"Circuit Bremgarten"@en ,
+		"Bremgarten-Rundstrecke"@de ,
+		"Circuit Bremgarten"@pl ,
+		"\u30D6\u30EC\u30E0\u30AC\u30EB\u30C6\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ;
+	rdfs:comment	"\u30D6\u30EC\u30E0\u30AC\u30EB\u30C6\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8(Bremgarten Circuit)\u306F\u30B9\u30A4\u30B9\u306E\u9996\u90FD\u30D9\u30EB\u30F3\u90CA\u5916\u3001\u68EE\u306E\u4E2D\u306B\u3042\u3063\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u30B9\u30C8\u30EC\u30FC\u30C8\u304C\u307B\u3068\u3093\u3069\u306A\u3044\u30B3\u30FC\u30B9\u30EC\u30A4\u30A2\u30A6\u30C8\u30021955\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u3001\u4E8B\u6545\u304C\u8D77\u3053\u3063\u305F\u5F8C\u3001\u30B9\u30A4\u30B9\u56FD\u5185\u3067\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u3092\u7981\u6B62\u3057\u305F\u305F\u3081\u3001\u73FE\u5728\u306F\u4F7F\u308F\u308C\u3066\u3044\u306A\u3044\u3002 \u30B3\u30FC\u30B9\u30EC\u30B3\u30FC\u30C9\u306F169.59km/h\u3067\u3042\u308B\u304C\u3001\u3053\u308C\u306F\u6226\u524D\u306E\u30C9\u30E9\u30A4\u30D0\u30FC\u3060\u3063\u305F\u30D9\u30EB\u30F3\u30C8\u30FB\u30ED\u30FC\u30BC\u30DE\u30A4\u30E4\u30FC\uFF08\u30A2\u30A6\u30C8\u30A6\u30CB\u30AA\u30F3\uFF09\u304C1936\u5E74\u306B750kg\u306E\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9\u30FB\u30DE\u30B7\u30F3\u3067\u8A18\u9332\u3057\u305F\u3082\u306E\u3067\u3042\u308A\u3001\u6226\u5F8C5\u56DE\u958B\u50AC\u3055\u308C\u305F\u4E16\u754C\u9078\u624B\u6A29\u30B0\u30E9\u30F3\u30D7\u30EA\u3067\u306F\u7834\u308B\u3053\u3068\u304C\u3067\u304D\u306A\u304B\u3063\u305F\u3002"@ja ,
+		"Le Circuit de Bremgarten est un circuit routier de 7,28 km situ\u00E9 \u00E0 Bremgarten bei Bern, en Suisse, qui a accueilli le Grand Prix automobile de Suisse de Formule 1 entre 1934 et 1954."@fr ,
+		"Die Bremgarten-Rundstrecke (umgangssprachlich Bremer genannt) war ein 7,28 Kilometer langer Strassenkurs im Bremgartenwald auf dem Gebiet der Stadt Bern (Schweiz), auf dem u. a. der Grosse Preis der Schweiz ausgetragen wurde."@de ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Bremgarten era un tracciato stradale semipermanente situato a Berna, in Svizzera. Ha ospitato cinque edizioni del Gran Premio di Svizzera di Formula 1 (dal 1950 al 1954) e cinque del Gran Premio di Svizzera del Motomondiale (nel 1949 e dal 1951 al 1954). Il circuito, lungo 7.280 metri, era ritenuto tra i pi\u00F9 belli ma anche tra i pi\u00F9 pericolosi del mondo per le sue curve, per i suoi continui saliscendi, per il suo fondo irregolare e per il suo continuo passaggio da zone di luce a zone d'ombra provocate dagli alberi che costeggiavano la strada. Inaugurato nel 1931 con una gara motociclistica, si apr\u00EC al mondo dell'automobilismo sportivo nel 1934, "@it ,
+		"\u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D (\u0430\u043D\u0433\u043B. Circuit Bremgarten) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043F\u043E \u0434\u043E\u0440\u043E\u0433\u0430\u043C \u043E\u0431\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430\u0441\u044C \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1950-1954 \u0433\u043E\u0434\u043E\u0432. \u041D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u0433\u043E\u0440\u043E\u0434\u0430 \u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D, \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044F. \u041D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D \u0431\u044B\u043B\u043E \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u043E 14 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 5 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438, \u0432\u0445\u043E\u0434\u044F\u0449\u0438\u0445 \u0432 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0447\u0451\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412\u043F\u0435\u0440\u0432\u044B\u0435 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u0432 1931 \u0433\u043E\u0434\u0443 (\u043C\u043E\u0442\u043E\u0433\u043E\u043D\u043A\u0438). \u0422\u0440\u0430\u0441\u0441\u0430 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0430 \u0441\u043E\u0431\u043E\u0439 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u0435 \u043F\u0440\u044F\u043C\u044B\u0435 \u0443\u0447\u0430\u0441\u0442\u043A\u0438, \u0440\u0430\u0437\u0431\u0438\u0442\u044B\u0435 \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u043D\u044B\u043C\u0438 \u043F\u0440\u044F\u043C\u044B\u043C\u0438. \u0412 1934 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u043F\u0435\u0440\u0432\u044B\u0435 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0438."@ru ,
+		"The Circuit Bremgarten was a 7.28 km (4.524-mi) motorsport race track in Bern, Switzerland which formerly hosted the Swiss Grand Prix from 1933 to 1939 (Formula One, 1947 to 1954) and the Swiss motorcycle Grand Prix."@en ,
+		"O Circuito de Bremgarten est\u00E1 localizado na cidade de Bremgarten bei Bern, Su\u00ED\u00E7a. Foi palco de corridas de F\u00F3rmula 1 entre 1950 \u00E0 1954. Em 1955, a corrida foi suspensa, em fun\u00E7\u00E3o da Trag\u00E9dia de Le Mans, fez com que uma lei proibisse a realiza\u00E7\u00E3o de corridas em territ\u00F3rio su\u00ED\u00E7o."@pt ,
+		"El circuito de Bremgarten es un circuito de carreras semipermanente de 7.280 metros de extensi\u00F3n, que utiliza rutas de la localidad de Bremgarten bei Bern, Suiza. Alberg\u00F3 el Gran Premio de Suiza de F\u00F3rmula 1 entre los a\u00F1os 1934 y 1939 y de 1947 a 1954. El Gran Premio de Berna de Motociclismo se corri\u00F3 en Bremgarten desde 1931 hasta 1937, y luego volvi\u00F3 a disputarse en 1947 y 1948. Cuando se estren\u00F3 el Campeonato Mundial de Motociclismo, la carrera pas\u00F3 a llamarse Gran Premio de Suiza de Motociclismo; las ediciones de 1949 y 1951 hasta 1954 tuvieron lugar en Bremgarten."@es ,
+		"Het Stratencircuit Bremgarten was een stratencircuit in het Zwitserse Bern. Al in 1934 raceten voor het eerst auto's op Bremgarten. Het 7,3 km lange parcours slingerde zich over Zwitserse boswegen, rechte stukken waren er nauwelijks. Er hingen bomen over het circuit, dat hier en daar zelfs met kasseien was bestraat. Een serieuze beproeving voor wagens en coureurs dus.Giuseppe Farina won er in het eerste Wereldkampioenschap Formule 1 in 1950, het jaar daarop zegevierde Juan Manuel Fangio."@nl ,
+		"Circuit Bremgarten - dawny tor wy\u015Bcigowy po\u0142o\u017Cony w Bremgarten pod Bernem w Szwajcarii, na kt\u00F3rym odbywa\u0142y si\u0119 wy\u015Bcigi o Motocyklowe Grand Prix Szwajcarii oraz o Grand Prix Szwajcarii Formu\u0142y 1. Bremgarten zosta\u0142 zbudowany jako tor motocyklowy w 1931 roku w lasach na p\u00F3\u0142noc od Berna. D\u0142ugo\u015B\u0107 jednego okr\u0105\u017Cenia wynosi\u0142a 7,28 kilometra, a p\u0119tla toru posiada\u0142a 13 w wi\u0119kszo\u015Bci bardzo szybkich zakr\u0119t\u00F3w i nie mia\u0142a praktycznie \u017Cadnego d\u0142u\u017Cszego prostego odcinka. Ograniczona przez drzewa widoczno\u015B\u0107 i zmienny rodzaj nawierzchni sprawia\u0142y \u017Ce tor by\u0142 bardzo niebezpieczny, szczeg\u00F3lnie przy deszczowej pogodzie."@pl .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	dbpedia-fr:Circuit_de_Bremgarten ,
+		<http://sws.geonames.org/2661408/> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	dbpedia-it:Circuito_di_Bremgarten .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	dbpedia-es:Circuito_de_Bremgarten .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	dbpedia-de:Bremgarten-Rundstrecke ,
+		<http://rdf.freebase.com/ns/m.04xnlq> ,
+		<http://ja.dbpedia.org/resource/\u30D6\u30EC\u30E0\u30AC\u30EB\u30C6\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	dbpedia-nl:Stratencircuit_Bremgarten .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	dbpedia-cs:Circuit_Bremgarten ,
+		dbr:Circuit_Bremgarten .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	yago-res:Circuit_Bremgarten .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	dbpedia-pt:Circuito_de_Bremgarten .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Circuit_Bremgarten	owl:sameAs	wikidata:Q172895 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	dbpedia-pl:Circuit_Bremgarten .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Circuit_Bremgarten	owl:sameAs	dbpedia-wikidata:Q172895 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Circuit_Bremgarten	dct:subject	dbc:Swiss_Grand_Prix ,
+		dbc:Motorsport_venues_in_Switzerland ,
+		dbc:Formula_One_circuits ,
+		dbc:Grand_Prix_motorcycle_circuits ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grand_Prix_circuits> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Circuit_Bremgarten	geo:lat	"46.950000762939453125"^^xsd:float ;
+	geo:long	"7.4108333587646484375"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Circuit_Bremgarten	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_Bremgarten.png> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Circuit_Bremgarten	foaf:isPrimaryTopicOf	wikipedia-en:Circuit_Bremgarten .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Circuit_Bremgarten	geo:geometry	"POINT(7.4108333587646 46.950000762939)"^^virtrdf:Geometry ;
+	dbp:time	"GMT +1"^^xsd:string ;
+	dbp:lengthKm	7.2800000000000002487 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Circuit_Bremgarten	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Circuit_Bremgarten?oldid=722889879> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Circuit_Bremgarten	georss:point	"46.95 7.410833333333334" ;
+	dbo:wikiPageExternalLink	<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.ky2-06s-3Fvw> ;
+	dbp:location	dbr:Switzerland ,
+		dbr:Bern ;
+	dbp:recordDriver	dbr:Bernd_Rosemeyer ;
+	dbp:recordTime	2 ;
+	dbp:recordYear	1936 ;
+	dbp:turns	13 ;
+	dbp:name	"Circuit Bremgarten"^^xsd:string ;
+	dbo:abstract	"El circuito de Bremgarten es un circuito de carreras semipermanente de 7.280 metros de extensi\u00F3n, que utiliza rutas de la localidad de Bremgarten bei Bern, Suiza. Alberg\u00F3 el Gran Premio de Suiza de F\u00F3rmula 1 entre los a\u00F1os 1934 y 1939 y de 1947 a 1954. El Gran Premio de Berna de Motociclismo se corri\u00F3 en Bremgarten desde 1931 hasta 1937, y luego volvi\u00F3 a disputarse en 1947 y 1948. Cuando se estren\u00F3 el Campeonato Mundial de Motociclismo, la carrera pas\u00F3 a llamarse Gran Premio de Suiza de Motociclismo; las ediciones de 1949 y 1951 hasta 1954 tuvieron lugar en Bremgarten. Luego de un accidente grave en las 24 horas de Le Mans, el gobierno suizo prohibi\u00F3 las carreras motorizadas en circuitos. Por tanto, Bremgarten se dej\u00F3 de usar y ambos grandes premios desaparecieron."@es ,
+		"Circuit Bremgarten - dawny tor wy\u015Bcigowy po\u0142o\u017Cony w Bremgarten pod Bernem w Szwajcarii, na kt\u00F3rym odbywa\u0142y si\u0119 wy\u015Bcigi o Motocyklowe Grand Prix Szwajcarii oraz o Grand Prix Szwajcarii Formu\u0142y 1. Bremgarten zosta\u0142 zbudowany jako tor motocyklowy w 1931 roku w lasach na p\u00F3\u0142noc od Berna. D\u0142ugo\u015B\u0107 jednego okr\u0105\u017Cenia wynosi\u0142a 7,28 kilometra, a p\u0119tla toru posiada\u0142a 13 w wi\u0119kszo\u015Bci bardzo szybkich zakr\u0119t\u00F3w i nie mia\u0142a praktycznie \u017Cadnego d\u0142u\u017Cszego prostego odcinka. Ograniczona przez drzewa widoczno\u015B\u0107 i zmienny rodzaj nawierzchni sprawia\u0142y \u017Ce tor by\u0142 bardzo niebezpieczny, szczeg\u00F3lnie przy deszczowej pogodzie. Pierwsze samochodowe Grand Prix odby\u0142o si\u0119 tu w 1934 roku, a w latach 1950-1954 by\u0142a to jedna z eliminacji Formu\u0142y 1. Od 1955 roku, w nast\u0119pstwie katastrofy podczas 24-godzinnego wy\u015Bcigu Le Mans, na torze nie odby\u0142a si\u0119 ju\u017C \u017Cadna oficjalna impreza wy\u015Bcigowa."@pl ,
+		"Het Stratencircuit Bremgarten was een stratencircuit in het Zwitserse Bern. Al in 1934 raceten voor het eerst auto's op Bremgarten. Het 7,3 km lange parcours slingerde zich over Zwitserse boswegen, rechte stukken waren er nauwelijks. Er hingen bomen over het circuit, dat hier en daar zelfs met kasseien was bestraat. Een serieuze beproeving voor wagens en coureurs dus.Giuseppe Farina won er in het eerste Wereldkampioenschap Formule 1 in 1950, het jaar daarop zegevierde Juan Manuel Fangio. In 1955 was het afgelopen met het racen op het stratencircuit. De Zwitserse overheid verbood de sport naar aanleiding van de ramp in Le Mans, waar 81 dodelijke slachtoffers vielen. Het verbod geldt nog steeds, al is er in 1982 nog wel een keer een Zwitserse Grand Prix gehouden over de grens, in Dijon-Prenois. Af en toe worden ook nog heuvelklimraces gehouden in Zwitserland."@nl ,
+		"\u30D6\u30EC\u30E0\u30AC\u30EB\u30C6\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8(Bremgarten Circuit)\u306F\u30B9\u30A4\u30B9\u306E\u9996\u90FD\u30D9\u30EB\u30F3\u90CA\u5916\u3001\u68EE\u306E\u4E2D\u306B\u3042\u3063\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u30B9\u30C8\u30EC\u30FC\u30C8\u304C\u307B\u3068\u3093\u3069\u306A\u3044\u30B3\u30FC\u30B9\u30EC\u30A4\u30A2\u30A6\u30C8\u30021955\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u3001\u4E8B\u6545\u304C\u8D77\u3053\u3063\u305F\u5F8C\u3001\u30B9\u30A4\u30B9\u56FD\u5185\u3067\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u3092\u7981\u6B62\u3057\u305F\u305F\u3081\u3001\u73FE\u5728\u306F\u4F7F\u308F\u308C\u3066\u3044\u306A\u3044\u3002 \u30B3\u30FC\u30B9\u30EC\u30B3\u30FC\u30C9\u306F169.59km/h\u3067\u3042\u308B\u304C\u3001\u3053\u308C\u306F\u6226\u524D\u306E\u30C9\u30E9\u30A4\u30D0\u30FC\u3060\u3063\u305F\u30D9\u30EB\u30F3\u30C8\u30FB\u30ED\u30FC\u30BC\u30DE\u30A4\u30E4\u30FC\uFF08\u30A2\u30A6\u30C8\u30A6\u30CB\u30AA\u30F3\uFF09\u304C1936\u5E74\u306B750kg\u306E\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9\u30FB\u30DE\u30B7\u30F3\u3067\u8A18\u9332\u3057\u305F\u3082\u306E\u3067\u3042\u308A\u3001\u6226\u5F8C5\u56DE\u958B\u50AC\u3055\u308C\u305F\u4E16\u754C\u9078\u624B\u6A29\u30B0\u30E9\u30F3\u30D7\u30EA\u3067\u306F\u7834\u308B\u3053\u3068\u304C\u3067\u304D\u306A\u304B\u3063\u305F\u3002"@ja ,
+		"Die Bremgarten-Rundstrecke (umgangssprachlich Bremer genannt) war ein 7,28 Kilometer langer Strassenkurs im Bremgartenwald auf dem Gebiet der Stadt Bern (Schweiz), auf dem u. a. der Grosse Preis der Schweiz ausgetragen wurde."@de ,
+		"\u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D (\u0430\u043D\u0433\u043B. Circuit Bremgarten) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043F\u043E \u0434\u043E\u0440\u043E\u0433\u0430\u043C \u043E\u0431\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430\u0441\u044C \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1950-1954 \u0433\u043E\u0434\u043E\u0432. \u041D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u0433\u043E\u0440\u043E\u0434\u0430 \u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D, \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044F. \u041D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D \u0431\u044B\u043B\u043E \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u043E 14 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 5 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438, \u0432\u0445\u043E\u0434\u044F\u0449\u0438\u0445 \u0432 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0447\u0451\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412\u043F\u0435\u0440\u0432\u044B\u0435 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u0432 1931 \u0433\u043E\u0434\u0443 (\u043C\u043E\u0442\u043E\u0433\u043E\u043D\u043A\u0438). \u0422\u0440\u0430\u0441\u0441\u0430 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0430 \u0441\u043E\u0431\u043E\u0439 \u043A\u043E\u0440\u043E\u0442\u043A\u0438\u0435 \u043F\u0440\u044F\u043C\u044B\u0435 \u0443\u0447\u0430\u0441\u0442\u043A\u0438, \u0440\u0430\u0437\u0431\u0438\u0442\u044B\u0435 \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u043D\u044B\u043C\u0438 \u043F\u0440\u044F\u043C\u044B\u043C\u0438. \u0412 1934 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u043F\u0435\u0440\u0432\u044B\u0435 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0438. \u0421 1955 \u0433\u043E\u0434\u0430 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0435\u0440\u0435\u0441\u0442\u0430\u043B\u0438 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u044C\u0441\u044F, \u0442\u0430\u043A \u043A\u0430\u043A \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0438 \u043D\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 \u0431\u044B\u043B\u0438 \u0437\u0430\u043F\u0440\u0435\u0449\u0435\u043D\u044B \u043F\u043E\u0441\u043B\u0435 \u0430\u0432\u0430\u0440\u0438\u0438 \u0432 \u041B\u0435-\u041C\u0430\u043D\u0435 (\u043F\u043E\u0432\u043B\u0451\u043A\u0448\u0435\u0439 \u0441\u043C\u0435\u0440\u0442\u044C 80 \u0447\u0435\u043B\u043E\u0432\u0435\u043A)."@ru ,
+		"Le Circuit de Bremgarten est un circuit routier de 7,28 km situ\u00E9 \u00E0 Bremgarten bei Bern, en Suisse, qui a accueilli le Grand Prix automobile de Suisse de Formule 1 entre 1934 et 1954."@fr ,
+		"O Circuito de Bremgarten est\u00E1 localizado na cidade de Bremgarten bei Bern, Su\u00ED\u00E7a. Foi palco de corridas de F\u00F3rmula 1 entre 1950 \u00E0 1954. Em 1955, a corrida foi suspensa, em fun\u00E7\u00E3o da Trag\u00E9dia de Le Mans, fez com que uma lei proibisse a realiza\u00E7\u00E3o de corridas em territ\u00F3rio su\u00ED\u00E7o."@pt ,
+		"The Circuit Bremgarten was a 7.28 km (4.524-mi) motorsport race track in Bern, Switzerland which formerly hosted the Swiss Grand Prix from 1933 to 1939 (Formula One, 1947 to 1954) and the Swiss motorcycle Grand Prix. Bremgarten was built as a motorcycle racing track in 1931 in the Bremgartenwald (Bremgarten forest) in the north of Bern. The circuit itself had no true straight, instead being a collection of high-speed corners. It hosted its first automobile race in 1934, which claimed the life of driver Hugh Hamilton. In 1948 it claimed the life of Italian racer Achille Varzi. From the outset, Bremgarten's tree-lined roads, often poor light conditions and changes in road surface made for what was acknowledged to be a very dangerous circuit, especially in the wet. Bremgarten has not hosted an official motorsport event since 1955, when spectator racing sports, with the exception of hillclimbing and rallying, were banned in Switzerland following the 1955 Le Mans disaster. Although there was a 1982 Swiss Grand Prix, it took place in Dijon, France. On June 6, 2007 an amendment to lift the ban was passed by the lower house of the Swiss parliament, 97 in favour and 77 opposed. The legislation failed to pass the upper house, and was withdrawn in 2009 after being rejected twice."@en ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Bremgarten era un tracciato stradale semipermanente situato a Berna, in Svizzera. Ha ospitato cinque edizioni del Gran Premio di Svizzera di Formula 1 (dal 1950 al 1954) e cinque del Gran Premio di Svizzera del Motomondiale (nel 1949 e dal 1951 al 1954). Il circuito, lungo 7.280 metri, era ritenuto tra i pi\u00F9 belli ma anche tra i pi\u00F9 pericolosi del mondo per le sue curve, per i suoi continui saliscendi, per il suo fondo irregolare e per il suo continuo passaggio da zone di luce a zone d'ombra provocate dagli alberi che costeggiavano la strada. Inaugurato nel 1931 con una gara motociclistica, si apr\u00EC al mondo dell'automobilismo sportivo nel 1934, quando venne organizzato il primo Gran Premio Automobilistico della Svizzera, onorato dalla presenza di tutte le pi\u00F9 grandi case automobilistiche dell'epoca: Mercedes, Auto Union, Bugatti, Maserati ed Alfa Romeo. Su questa pista, durante le prove del gran premio motociclistico, persero la vita, per un atroce caso del destino, nello stesso giorno (1\u00BA luglio 1948), nella stessa curva (Eymatt) e a poche ore di distanza l'uno dall'altro Omobono Tenni, indimenticato campione di motociclismo, e Achille Varzi, uno dei pi\u00F9 grandi piloti automobilistici di tutti i tempi, mentre il 4 luglio dello stesso anno, durante il gran premio automobilistico, rimase ucciso anche il pilota locale Christian Kautz. Sull'onda dell'emozione provocata dalla tragedia della 24 Ore di Le Mans 1955, il Governo Svizzero decise di proibire tutte le gare motoristiche sul suo territorio; ci\u00F2 decret\u00F2 la fine del tracciato elvetico dal mondo delle corse."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_Bremgarten.png?width=300> ;
+	dbo:wikiPageRevisionID	722889879 ;
+	dbo:wikiPageID	1374111 ;
+	dbp:lengthMi	4.5240000000000000213 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Circuit_Bremgarten	ns27:hypernym	dbr:Track ;
+	dbp:recordTeam	dbr:Auto_Union ;
+	dbp:events	dbr:Grand_Prix_motorcycle_racing ,
+		dbr:Formula_One .
+<http://dbpedia.org/resource/Hugh_Hamilton_(racing_driver)>	dbo:deathPlace	dbr:Circuit_Bremgarten .
+dbr:Bremgarten_circuit	dbo:wikiPageRedirects	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1934_Swiss_Grand_Prix>	dbp:course	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1949_Swiss_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1951_Swiss_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1952_Swiss_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Bremgarten .
+wikipedia-en:Circuit_Bremgarten	foaf:primaryTopic	dbr:Circuit_Bremgarten .
+dbr:Achille_Varzi	dbo:deathPlace	dbr:Circuit_Bremgarten .
+<http://dbpedia.org/resource/1947_Swiss_Grand_Prix>	dbo:location	dbr:Circuit_Bremgarten .
+dbr:Swiss_motorcycle_Grand_Prix	dbp:venue	dbr:Circuit_Bremgarten .
+dbr:Bremgarten	dbo:wikiPageDisambiguates	dbr:Circuit_Bremgarten .
+dbr:Bremgarten_Circuit	dbo:wikiPageRedirects	dbr:Circuit_Bremgarten .

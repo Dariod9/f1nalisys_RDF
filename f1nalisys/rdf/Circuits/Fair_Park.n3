@@ -1,0 +1,215 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1984_Dallas_Grand_Prix>	dbo:location	dbr:Fair_Park .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1933_Oklahoma_A&M_Cowboys_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1934_Oklahoma_A&M_Cowboys_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/Fair_Park_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Fair_Park .
+<http://dbpedia.org/resource/2011_TicketCity_Bowl>	dbp:city	dbr:Fair_Park .
+<http://dbpedia.org/resource/2014_Heart_of_Dallas_Bowl_(December)>	dbp:city	dbr:Fair_Park .
+<http://dbpedia.org/resource/2014_Heart_of_Dallas_Bowl_(January)>	dbp:city	dbr:Fair_Park .
+<http://dbpedia.org/resource/2015_Heart_of_Dallas_Bowl>	dbp:city	dbr:Fair_Park .
+dbr:Heart_of_Dallas_Classic	dbp:location	dbr:Fair_Park .
+dbr:Heart_of_Dallas_Bowl	dbp:location	dbr:Fair_Park .
+<http://dbpedia.org/resource/1925_Dixie_Classic>	dbp:stadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1934_Dixie_Classic>	dbp:stadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1931_Texas_A&M_Aggies_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1924_Oklahoma_A&M_Cowboys_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1930_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1932_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1934_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1936_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1938_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1912_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1914_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1916_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1919_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1923_Oklahoma_A&M_Aggies_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1920_Arkansas_Razorbacks_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1925_Arkansas_Razorbacks_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/Cotton_Bowl_(stadium)>	dbo:location	dbr:Fair_Park .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Fair_Park	rdf:type	yago:Position108621598 .
+@prefix schema:	<http://schema.org/> .
+dbr:Fair_Park	rdf:type	schema:Place ,
+		yago:Landmark108624891 ,
+		<http://dbpedia.org/class/yago/WikicatWorld\u0027sFairSitesInTheUnitedStates> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Fair_Park	rdf:type	owl:Thing .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Fair_Park	rdf:type	geo:SpatialThing ,
+		yago:Point108620061 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Fair_Park	rdf:type	umbel-rc:Place ,
+		yago:Area108497294 ,
+		yago:GeographicalArea108574314 ,
+		yago:Site108651247 ,
+		yago:Tract108673395 ,
+		yago:WikicatMotorsportVenuesInTheUnitedStates ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		dbo:Building ,
+		dbo:ArchitecturalStructure ,
+		dbo:Location .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Fair_Park	rdf:type	wikidata:Q41176 ,
+		yago:WikicatSportsVenuesInTexas ,
+		dbo:Place ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:WikicatFairgrounds ,
+		yago:Fairground108614632 ,
+		yago:WikicatDallasLandmarks ,
+		yago:Scene108645963 ,
+		yago:WikicatDefunctMotorsportVenuesInTheUnitedStates ,
+		<http://dbpedia.org/class/yago/WikicatLandmarksInDallas,Texas> ,
+		yago:Venue108677628 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Fair_Park	rdfs:label	"Fair Park"@en ,
+		"Fair Park"@nl ,
+		"\u0424\u044D\u0439\u0440-\u041F\u0430\u0440\u043A"@ru ,
+		"\u30D5\u30A7\u30A2\u30FB\u30D1\u30FC\u30AF"@ja ,
+		"Fair Park"@pt ,
+		"Fair Park"@fr ,
+		"Fair Park"@pl ,
+		"Circuito di Dallas"@it ;
+	rdfs:comment	"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Dallas era un tracciato automobilistico occasionale disegnato attorno allo stadio Cotton Bowl all'interno del Fair Park sito alla periferia della citt\u00E0 texana. Ha ospitato il Gran Premio degli Stati Uniti d'America di Formula 1 nel 1984 con il nome ufficiale di Gran Premio di Dallas. L'unico gran premio disputato qui vide la vittoria di Keke Rosberg su Williams davanti a Ren\u00E9 Arnoux su Ferrari e a Elio De Angelis su Lotus. Il giorno della gara l'asfalto presentava problemi in alcuni punti particolarmente impegnativi al punto che i commissari annullarono il warm-up per permettere i lavori di riparazione e ridussero di 10 giri la lunghezza previst"@it ,
+		"\u30D5\u30A7\u30A2\u30FB\u30D1\u30FC\u30AF\uFF08Fair Park\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30C6\u30AD\u30B5\u30B9\u5DDE\u30C0\u30E9\u30B9\u306B\u3042\u308B\u516C\u5712\u3002\u5712\u5185\u306B\u306F\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u5834\uFF08\u30B3\u30C3\u30C8\u30F3\u30FB\u30DC\u30A6\u30EB\uFF09\u30FB\u535A\u7269\u9928\u30FB\u30B3\u30F3\u30B5\u30FC\u30C8\u5834\u306A\u3069\u3055\u307E\u3056\u307E\u306A\u65BD\u8A2D\u304C\u3042\u308A\u3001\u6BCE\u5E749\u6708\u672B\u304B\u308910\u6708\u306B\u304B\u3051\u3066\u300C\u30B9\u30C6\u30FC\u30C8\u30FB\u30D5\u30A7\u30A2\u300D\u3068\u547C\u3070\u308C\u308B\u796D\u5178\u304C\u3053\u3053\u3067\u958B\u50AC\u3055\u308C\u308B\u3002"@ja ,
+		"Fair Park \u2013 dawny tor Formu\u0142y 1 ulokowany w Dallas w Stanach Zjednoczonych. W 1984 roku odby\u0142o si\u0119 na nim Grand Prix Stan\u00F3w Zjednoczonych, kt\u00F3re wygra\u0142 Keke Rosberg z zespo\u0142u Williams."@pl ,
+		"O Circuito de Fair Park est\u00E1 localizado na cidade de Dallas, Estados Unidos. Foi palco do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1984. No ano de estreia da pista em 1984, o ingl\u00EAs Nigel Mansell conquistou a primeira pole position na carreira, a equipe Williams conquista a primeira vit\u00F3ria com o motor Honda Turbo e tamb\u00E9m a primeira que os japoneses consegue como fornecedora de motores."@pt ,
+		"Le Dallas Fair Park un complexe \u00E9ducatif et de loisirs de 1,12 km\u00B2 situ\u00E9 \u00E0 Dallas au Texas, \u00C9tats-Unis. Ses neuf mus\u00E9es, ses salles de spectacles et sa grande roue ont \u00E9t\u00E9 class\u00E9s comme National Historic Landmark. Une partie des b\u00E2timents, de style Art d\u00E9co, a \u00E9t\u00E9 construite en 1936 \u00E0 l'occasion de l'exposition internationale Texas Centennial Exposition, qui accueillit plus de six millions de visiteurs. Le complexe accueille chaque ann\u00E9e la foire de Dallas (State Fair of Texas). \n* Portail de Dallas-Fort Worth Portail de Dallas-Fort Worth"@fr ,
+		"Het 4 km lange, typisch rechthoekige stratencircuit lag in de buurt van het Fair Park in Dallas en is maar \u00E9\u00E9n keer gebruikt, in 1984. De Grand Prix die er gehuisvest was kende geen succes: het wegdek ging aan flarden, wat de coureurs allerlei problemen bezorgde. Keke Rosberg won, in een Williams. Tot 1989 werden er nog races gereden om de Trans-Am Series. In 1989 werd de laatste race op het circuit verreden."@nl ,
+		"\u0424\u044D\u0439\u0440-\u041F\u0430\u0440\u043A (\u0443\u043B\u0438\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430) (\u0430\u043D\u0433\u043B. Fair Park street circuit) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0432 1984 \u0433\u043E\u0434\u0443 \u0431\u044B\u043B \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 (\u0442\u0430\u043A\u0436\u0435 \u043D\u043E\u0441\u044F\u0449\u0438\u0439 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 Dallas Grand Prix), \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0432 \u0440\u0430\u0437\u0432\u043B\u0435\u043A\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u043C \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0435 \u0424\u044D\u0439\u0440-\u041F\u0430\u0440\u043A \u0432 \u0414\u0430\u043B\u043B\u0430\u0441\u0435 (\u0422\u0435\u0445\u0430\u0441, \u0421\u0428\u0410). \u041F\u043E\u0443\u043B-\u043F\u043E\u0437\u0438\u0446\u0438\u044E \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 1984 \u0433\u043E\u0434\u0430 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u043F\u0438\u043B\u043E\u0442 Lotus-Renault \u041D\u0430\u0439\u0434\u0436\u0435\u043B \u041C\u044D\u043D\u0441\u0435\u043B\u043B (1\u201937.041), \u0430 \u0433\u043E\u043D\u043A\u0443 \u2014 \u043F\u0438\u043B\u043E\u0442 Williams-Honda \u041A\u0435\u043A\u0435 \u0420\u043E\u0441\u0431\u0435\u0440\u0433. \u0422\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043C\u0435\u0434\u043B\u0435\u043D\u043D\u043E\u0439, \u0441 \u0431\u043E\u043B\u044C\u0448\u0438\u043C \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E\u043C \u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043E\u0432, \u0438 \u0441\u0440\u0435\u0434\u043D\u044F\u044F \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u044C \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044F \u043D\u0435 \u043F\u0440\u0435\u0432\u044B\u0441\u0438\u043B\u0430 130 \u043A\u043C/\u0447."@ru ,
+		"Fair Park is a 277-acre (1.12 km2) recreational and educational complex located in Dallas, Texas (United States). The area, which is immediately southeast of downtown Dallas, is registered as a Dallas Landmark and National Historic Landmark. Many of the buildings were constructed for the Texas Centennial Exposition in 1936. Fair Park has been designated a Great Place in America by the American Planning Association."@en ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.02bdvl> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Fair_Park	owl:sameAs	dbpedia-fr:Fair_Park .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Fair_Park	owl:sameAs	dbpedia-wikidata:Q278452 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A7\u30A2\u30FB\u30D1\u30FC\u30AF> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Fair_Park	owl:sameAs	dbpedia-nl:Fair_Park .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Fair_Park	owl:sameAs	dbpedia-pl:Fair_Park ,
+		wikidata:Q278452 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Fair_Park	owl:sameAs	dbpedia-it:Circuito_di_Dallas ,
+		dbr:Fair_Park .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Fair_Park	owl:sameAs	dbpedia-pt:Fair_Park .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Fair_Park	owl:sameAs	yago-res:Fair_Park .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Fair_Park	dct:subject	dbc:Buildings_and_structures_on_the_National_Register_of_Historic_Places_in_Texas ,
+		dbc:Landmarks_in_Dallas ,
+		dbc:Paul_Philippe_Cret_buildings ,
+		dbc:Formula_One_circuits ,
+		dbc:Visitor_attractions_in_Dallas ,
+		dbc:Parks_in_Dallas ,
+		dbc:Amusement_parks_in_Texas ,
+		dbc:Fairgrounds_in_the_United_States ,
+		<http://dbpedia.org/resource/Category:World\u0027s_fair_sites_in_Texas> ,
+		dbc:Defunct_motorsport_venues_in_the_United_States ,
+		dbc:Event_venues_on_the_National_Register_of_Historic_Places_in_Texas ,
+		dbc:Fair_Park ,
+		dbc:Art_Deco_architecture_in_Texas ,
+		<http://dbpedia.org/resource/Category:World\u0027s_fair_architecture_in_the_United_States> ,
+		dbc:Dallas_Landmarks ,
+		dbc:National_Register_of_Historic_Places_in_Dallas ,
+		dbc:Sports_venues_in_Texas .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Fair_Park	foaf:name	"Texas Centennial Exposition Buildings (1936--1937)"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Fair_Park	geo:lat	"32.78194427490234375"^^xsd:float ;
+	geo:long	"-96.76555633544921875"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Fair_Park_Esplanade.jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Fair_Park	foaf:isPrimaryTopicOf	wikipedia-en:Fair_Park .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Fair_Park	geo:geometry	"POINT(-96.765556335449 32.781944274902)"^^virtrdf:Geometry ;
+	dbo:area	1120979.2290048000868 ;
+	dbo:added	"1986-09-24"^^xsd:date ;
+	dbo:nrhpReferenceNumber	"86003488" ;
+	dbo:yearOfConstruction	"1936"^^xsd:gYear ;
+	dbp:designatedNrhpType	"1986-09-24"^^xsd:date ;
+	dbp:latDegrees	32 ;
+	dbp:latDirection	"N"^^xsd:string ;
+	dbp:latMinutes	46 ;
+	dbp:latSeconds	55 ;
+	dbp:locmapin	"Texas#USA"^^xsd:string ;
+	dbp:longDegrees	96 ;
+	dbp:longDirection	"W"^^xsd:string ;
+	dbp:longMinutes	45 ;
+	dbp:longSeconds	56 ;
+	dbp:nrhpType	"nhl"^^xsd:string ;
+	dbp:time	"GMT -6"^^xsd:string ;
+	dbp:lengthKm	3.900999999999999801 ;
+	dbp:designatedOther	"Dallas Landmark"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Fair_Park	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Fair_Park?oldid=745019297> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Fair_Park	georss:point	"32.78194444444444 -96.76555555555555" ;
+	dbo:wikiPageExternalLink	<http://www.fairpark.org/Index.cfm?FuseAction=Page&PageID=1000005> ,
+		<http://www.dallascityhall.com/html/fair_park_information.html> ,
+		<http://www.fairpark.org> ,
+		<http://www.dallasparks.org/downloads/FairParkCompExecSumm.pdf> ;
+	dbp:caption	"The Centennial Building in Fair Park"^^xsd:string ;
+	dbp:location	"Fair Park, Dallas"^^xsd:string ;
+	dbp:recordDriver	"Niki Lauda"^^xsd:string ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	1984 ;
+	dbp:turns	14 ;
+	dbp:milesFirst	"True"^^xsd:string ;
+	dbo:location	dbr:Dallas ;
+	dbp:mapWidth	235 ;
+	dbp:name	"Dallas Grand Prix Circuit"^^xsd:string ;
+	dbo:abstract	"\u0424\u044D\u0439\u0440-\u041F\u0430\u0440\u043A (\u0443\u043B\u0438\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430) (\u0430\u043D\u0433\u043B. Fair Park street circuit) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0432 1984 \u0433\u043E\u0434\u0443 \u0431\u044B\u043B \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 (\u0442\u0430\u043A\u0436\u0435 \u043D\u043E\u0441\u044F\u0449\u0438\u0439 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 Dallas Grand Prix), \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0432 \u0440\u0430\u0437\u0432\u043B\u0435\u043A\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u043C \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0435 \u0424\u044D\u0439\u0440-\u041F\u0430\u0440\u043A \u0432 \u0414\u0430\u043B\u043B\u0430\u0441\u0435 (\u0422\u0435\u0445\u0430\u0441, \u0421\u0428\u0410). \u041F\u043E\u0443\u043B-\u043F\u043E\u0437\u0438\u0446\u0438\u044E \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 1984 \u0433\u043E\u0434\u0430 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u043F\u0438\u043B\u043E\u0442 Lotus-Renault \u041D\u0430\u0439\u0434\u0436\u0435\u043B \u041C\u044D\u043D\u0441\u0435\u043B\u043B (1\u201937.041), \u0430 \u0433\u043E\u043D\u043A\u0443 \u2014 \u043F\u0438\u043B\u043E\u0442 Williams-Honda \u041A\u0435\u043A\u0435 \u0420\u043E\u0441\u0431\u0435\u0440\u0433. \u0422\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043C\u0435\u0434\u043B\u0435\u043D\u043D\u043E\u0439, \u0441 \u0431\u043E\u043B\u044C\u0448\u0438\u043C \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E\u043C \u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043E\u0432, \u0438 \u0441\u0440\u0435\u0434\u043D\u044F\u044F \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u044C \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044F \u043D\u0435 \u043F\u0440\u0435\u0432\u044B\u0441\u0438\u043B\u0430 130 \u043A\u043C/\u0447."@ru ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Dallas era un tracciato automobilistico occasionale disegnato attorno allo stadio Cotton Bowl all'interno del Fair Park sito alla periferia della citt\u00E0 texana. Ha ospitato il Gran Premio degli Stati Uniti d'America di Formula 1 nel 1984 con il nome ufficiale di Gran Premio di Dallas. L'unico gran premio disputato qui vide la vittoria di Keke Rosberg su Williams davanti a Ren\u00E9 Arnoux su Ferrari e a Elio De Angelis su Lotus. Il giorno della gara l'asfalto presentava problemi in alcuni punti particolarmente impegnativi al punto che i commissari annullarono il warm-up per permettere i lavori di riparazione e ridussero di 10 giri la lunghezza prevista del gran premio, per rimanere sotto il limite delle due ore; nonostante ci\u00F2, la corsa vide numerosi incidenti e contatti con i muretti e venne comunque interrotta allo scadere delle due ore. Il caldo torrido provoc\u00F2 anche un malore a Nigel Mansell mentre cercava di concludere la gara spingendo la propria Lotus rimasta piantata a pochi metri dal traguardo a causa di un guasto al cambio."@it ,
+		"\u30D5\u30A7\u30A2\u30FB\u30D1\u30FC\u30AF\uFF08Fair Park\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30C6\u30AD\u30B5\u30B9\u5DDE\u30C0\u30E9\u30B9\u306B\u3042\u308B\u516C\u5712\u3002\u5712\u5185\u306B\u306F\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u5834\uFF08\u30B3\u30C3\u30C8\u30F3\u30FB\u30DC\u30A6\u30EB\uFF09\u30FB\u535A\u7269\u9928\u30FB\u30B3\u30F3\u30B5\u30FC\u30C8\u5834\u306A\u3069\u3055\u307E\u3056\u307E\u306A\u65BD\u8A2D\u304C\u3042\u308A\u3001\u6BCE\u5E749\u6708\u672B\u304B\u308910\u6708\u306B\u304B\u3051\u3066\u300C\u30B9\u30C6\u30FC\u30C8\u30FB\u30D5\u30A7\u30A2\u300D\u3068\u547C\u3070\u308C\u308B\u796D\u5178\u304C\u3053\u3053\u3067\u958B\u50AC\u3055\u308C\u308B\u3002"@ja ,
+		"Fair Park \u2013 dawny tor Formu\u0142y 1 ulokowany w Dallas w Stanach Zjednoczonych. W 1984 roku odby\u0142o si\u0119 na nim Grand Prix Stan\u00F3w Zjednoczonych, kt\u00F3re wygra\u0142 Keke Rosberg z zespo\u0142u Williams."@pl ,
+		"Fair Park is a 277-acre (1.12 km2) recreational and educational complex located in Dallas, Texas (United States). The area, which is immediately southeast of downtown Dallas, is registered as a Dallas Landmark and National Historic Landmark. Many of the buildings were constructed for the Texas Centennial Exposition in 1936. Fair Park has been designated a Great Place in America by the American Planning Association."@en ,
+		"Het 4 km lange, typisch rechthoekige stratencircuit lag in de buurt van het Fair Park in Dallas en is maar \u00E9\u00E9n keer gebruikt, in 1984. De Grand Prix die er gehuisvest was kende geen succes: het wegdek ging aan flarden, wat de coureurs allerlei problemen bezorgde. Keke Rosberg won, in een Williams. Tot 1989 werden er nog races gereden om de Trans-Am Series. In 1989 werd de laatste race op het circuit verreden."@nl ,
+		"O Circuito de Fair Park est\u00E1 localizado na cidade de Dallas, Estados Unidos. Foi palco do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1984. No ano de estreia da pista em 1984, o ingl\u00EAs Nigel Mansell conquistou a primeira pole position na carreira, a equipe Williams conquista a primeira vit\u00F3ria com o motor Honda Turbo e tamb\u00E9m a primeira que os japoneses consegue como fornecedora de motores."@pt ,
+		"Le Dallas Fair Park un complexe \u00E9ducatif et de loisirs de 1,12 km\u00B2 situ\u00E9 \u00E0 Dallas au Texas, \u00C9tats-Unis. Ses neuf mus\u00E9es, ses salles de spectacles et sa grande roue ont \u00E9t\u00E9 class\u00E9s comme National Historic Landmark. Une partie des b\u00E2timents, de style Art d\u00E9co, a \u00E9t\u00E9 construite en 1936 \u00E0 l'occasion de l'exposition internationale Texas Centennial Exposition, qui accueillit plus de six millions de visiteurs. Le complexe accueille chaque ann\u00E9e la foire de Dallas (State Fair of Texas). Un circuit automobile temporaire fut trac\u00E9 dans le parc pour accueillir le Grand Prix automobile de Dallas de Formule 1, il s'agit du Circuit de Fair Park. \n* Portail de Dallas-Fort Worth Portail de Dallas-Fort Worth"@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Fair_Park_Esplanade.jpg?width=300> ;
+	dbo:wikiPageRevisionID	745019297 ;
+	dbo:wikiPageID	453773 .
+@prefix ns26:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Fair_Park	dbp:wordnet_type	ns26:synset-location-noun-1 ;
+	dbp:lengthMi	2.4239999999999999325 ;
+	dbo:architecturalStyle	dbr:Art_Deco ;
+	dbp:architect	"Dahl, George L.; Et al."^^xsd:string ;
+	dbp:recordTeam	dbr:McLaren ;
+	dbp:events	1984 .
+<http://dbpedia.org/resource/1923_Arkansas_Razorbacks_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/Trailblazer_(monorail)>	dbo:location	dbr:Fair_Park .
+<http://dbpedia.org/resource/1923_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1925_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1929_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1931_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1933_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1935_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1937_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1939_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1911_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1915_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+wikipedia-en:Fair_Park	foaf:primaryTopic	dbr:Fair_Park .
+dbr:Big_Tex	dbo:location	dbr:Fair_Park .
+dbr:Texas_State_Fairgrounds	dbo:wikiPageRedirects	dbr:Fair_Park .
+<http://dbpedia.org/resource/Fair_Park_(Dallas)>	dbo:wikiPageRedirects	dbr:Fair_Park .
+<http://dbpedia.org/resource/Fair_Park,_Dallas>	dbo:wikiPageRedirects	dbr:Fair_Park .
+<http://dbpedia.org/resource/1921_Texas_A&M_Aggies_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/Texas_Centennial_Exposition_Buildings_(1936--1937)>	dbo:wikiPageRedirects	dbr:Fair_Park .
+<http://dbpedia.org/resource/The_Women\u0027s_Museum>	dbo:location	dbr:Fair_Park .
+dbr:Fair_Park_Texas_Centennial_Buildings	dbo:wikiPageRedirects	dbr:Fair_Park .
+<http://dbpedia.org/resource/1930_Texas_A&M_Aggies_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1933_Arkansas_Razorbacks_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1922_Oklahoma_A&M_Aggies_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/1917_Oklahoma_Sooners_football_team>	dbp:siteStadium	dbr:Fair_Park .
+<http://dbpedia.org/resource/Fair_Park,_Dallas,_Texas>	dbo:wikiPageRedirects	dbr:Fair_Park .
+<http://dbpedia.org/resource/Fair_Park,_Dallas,_TX>	dbo:wikiPageRedirects	dbr:Fair_Park .

@@ -9,7 +9,7 @@ def open_db():
     endpoint = "http://localhost:7200"
     client = ApiClient(endpoint=endpoint)
     accessor = GraphDBApi(client)
-    return 'f1v2', accessor
+    return 'f1', accessor
 
 
 def index(request):

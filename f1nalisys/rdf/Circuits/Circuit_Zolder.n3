@@ -1,0 +1,140 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Zolder_Circuit	dbo:wikiPageRedirects	dbr:Circuit_Zolder .
+dbr:Circuit_Terlaemen	dbo:wikiPageRedirects	dbr:Circuit_Zolder .
+dbr:Charles_Poswick	dbo:deathPlace	dbr:Circuit_Zolder .
+<http://dbpedia.org/resource/1976_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_Zolder .
+<http://dbpedia.org/resource/1984_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_Zolder .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Circuit_Zolder	rdf:type	yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:Scene108645963 ,
+		yago:Area108497294 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Circuit_Zolder	rdf:type	geo:SpatialThing ,
+		yago:Venue108677628 ,
+		dbo:Single ,
+		yago:Object100002684 ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatMotorsportVenuesInBelgium ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoGeoEntity .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Circuit_Zolder	rdfs:label	"Circuit Zolder"@pl ,
+		"Circuit Zolder"@pt ,
+		"\u30BE\u30EB\u30C0\u30FC\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"Circuito di Zolder"@it ,
+		"Circuit Zolder"@nl ,
+		"Circuit de Zolder"@fr ,
+		"Circuit Zolder"@en ,
+		"\u0417\u043E\u043B\u0434\u0435\u0440"@ru ,
+		"Circuit Zolder"@de ,
+		"Zolder"@es ;
+	rdfs:comment	"\u30BE\u30EB\u30C0\u30FC\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08Circuit Zolder\uFF09\u306F\u30D9\u30EB\u30AE\u30FC\u30FB\u30D5\u30E9\u30F3\u30C0\u30FC\u30B9\u6771\u90E8\u306E\u30EA\u30F3\u30D6\u30EB\u30D5\u5DDE\u30D2\u30E5\u30FC\u30B9\u30C7\u30F3\uFF1D\u30BE\u30EB\u30C0\u30FC\u8FD1\u90CA\u3001\u30C6\u30E9\u30FC\u30E1\u30F3\u306E\u68EE\u306B\u8A2D\u55B6\u3055\u308C\u3066\u3044\u308B\u8D77\u4F0F\u306B\u5BCC\u3093\u3060\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3002\u5F53\u5730\u306F\u30AA\u30E9\u30F3\u30C0\u8A9E\u570F\u3067\u3042\u308B\u304C\u3001\u540D\u79F0\u306ECircuit\u306F\u82F1\u8A9E\u3067\u3042\u308B\u3002\u300C\u30C6\u30E9\u30FC\u30E1\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08Circuit van Terlaemen\uFF09\u300D\u3068\u3082\u547C\u3070\u308C\u308B\u30021963\u5E74\u5B8C\u6210\u3002 1973\u5E74\u30011975\u5E74\uFF5E1982\u5E74\u30011984\u5E74\u306BF1\u30D9\u30EB\u30AE\u30FCGP\u304C\u958B\u50AC\u3055\u308C\u3001F1\u306E\u30B7\u30FC\u30BA\u30F3\u30AA\u30D5\u6642\u671F\u306B\u5408\u540C\u30C6\u30B9\u30C8\u30B3\u30FC\u30B9\u3068\u3057\u3066\u3082\u4F7F\u308F\u308C\u3066\u3044\u305F\u30021983\u5E74\u304B\u3089\u306F\u30BE\u30EB\u30C0\u30FC24\u6642\u9593\u8010\u4E45\u30EC\u30FC\u30B9\u304C\u884C\u308F\u308C\u3066\u3044\u308B\u3002\u307E\u305F\u81EA\u8EE2\u8ECA\u7AF6\u6280\u306B\u3082\u91CD\u304D\u3092\u7F6E\u3044\u3066\u304A\u308A\u30012002\u5E74\u306B\u30B5\u30A4\u30AF\u30EB\u30ED\u30FC\u30C9\u30EC\u30FC\u30B9\u306E\u4E16\u754C\u9078\u624B\u6A29\u5927\u4F1A\uFF08UCI\u30ED\u30FC\u30C9\u4E16\u754C\u9078\u624B\u6A29\uFF09\u304C\u30B5\u30FC\u30AD\u30C3\u30C8\u30B3\u30FC\u30B9\u5168\u3066\u3068\u5468\u8FBA\u516C\u9053\u3092\u63A5\u7D9A\u3057\u305F1\u546813.1km\u30B3\u30FC\u30B9\u3067\u884C\u308F\u308C\u30012010\u5E74\u304B\u3089\u306F\u30B7\u30AF\u30ED\u30AF\u30ED\u30B9\u306E\u4E16\u754C\u30B7\u30EA\u30FC\u30BA\u6226\uFF08UCI\u30B7\u30AF\u30ED\u30AF\u30ED\u30B9\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\uFF09\u306E\u4E00\u5927\u4F1A\u304C\u30B3\u30FC\u30B9\u306E\u4E00\u90E8\u3092\u5229\u7528\u3057\u3066\u958B\u50AC\u3055\u308C\u3066\u3044\u308B\u3002 1982\u5E74\u306E\u30D9\u30EB\u30AE\u30FC\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA\u4E88\u9078\u6642\u3001\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\u304C\u6B7B\u4EA1\u3059\u308B\u4E8B\u6545\u304C\u8D77\u304D\u3066\u3044\u308B\u3002"@ja ,
+		"Der Circuit Zolder (sprich: Solder) ist eine 3977 Meter lange Rennstrecke in dem Ort Zolder-Terlaemen bei Hasselt in Belgien. Sie wurde von dem Niederl\u00E4nder Hans Hugenholtz geplant und im Jahre 1963 vom lokalen Motorsportclub Zolder er\u00F6ffnet. Zwischen 1973 und 1984 wurde hier insgesamt zehnmal der Gro\u00DFe Preis von Belgien der Formel 1 ausgetragen. 1980 fand der Gro\u00DFe Preis von Belgien f\u00FCr Motorr\u00E4der hier statt. 2002 war auch die DTM in Zolder zu Gast, aber heutzutage fahren hier \u00FCberwiegend Benelux-Rennserien (z. B. Belcar, 24 Stunden von Zolder, Formel Ford, Formel Renault usw.)."@de ,
+		"\u0422\u0440\u0430\u0441\u0441\u0430 \u0417\u043E\u043B\u0434\u0435\u0440 (\u043D\u0438\u0434\u0435\u0440\u043B. Circuit Zolder) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0432 \u0411\u0435\u043B\u044C\u0433\u0438\u0438. \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0432 1973-1984 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0441\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0442\u0441\u044F \u0433\u043E\u043D\u043A\u0438 \u00AB\u043C\u043B\u0430\u0434\u0448\u0438\u0445\u00BB \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u0445 \u0441\u0435\u0440\u0438\u0439 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0430. \u0412 2007 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0417\u043E\u043B\u0434\u0435\u0440 \u043F\u0440\u043E\u0448\u0451\u043B \u044D\u0442\u0430\u043F \u0441\u0435\u0440\u0438\u0438 ChampCar.\u0421 1984 \u0438 \u0434\u043E 1994 \u0433\u0433. \u0442\u0440\u0430\u0441\u0441\u0430 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u043E\u0442\u043A\u0440\u044B\u0432\u0430\u044E\u0449\u0438\u0435 (\u0438 \u0434\u0440\u0443\u0433\u0438\u0435) \u044D\u0442\u0430\u043F\u044B \u0414\u0422\u041C. \u041D\u043E\u0432\u044B\u0439 \u0414\u0422\u041C \u043F\u0440\u0438\u0435\u0437\u0436\u0430\u043B \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0443 \u0432 2002 \u0433. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0431\u044B\u043B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D \u0432 1963 \u0433\u043E\u0434\u0443 \u0438 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B 10 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0417\u043E\u043B\u0434\u0435\u0440 \u0447\u0430\u0441\u0442\u043E \u0432\u0441\u043F\u043E\u043C\u0438\u043D\u0430\u044E\u0442 \u0432 \u0441\u0432\u044F\u0437\u0438 \u0441 \u0438\u043D\u0446\u0438\u0434\u0435\u043D\u0442\u043E\u043C, \u0441\u043B\u0443\u0447\u0438\u0432\u0448\u0438\u043C\u0441\u044F \u0432 1982 \u0433\u043E\u0434\u0443, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u043F\u043E\u0433\u0438\u0431 \u0416\u0438\u043B\u044C \u0412\u0438\u043B\u044C\u043D\u0451\u0432."@ru ,
+		"Circuit Zolder, w skr\u00F3cie po prostu Zolder; znany te\u017C jako Circuit Terlaemen \u2013 tor wy\u015Bcigowy o d\u0142ugo\u015Bci 4011 m po\u0142o\u017Cony w Belgii w miejscowo\u015Bci Heusden-Zolder. Zolder zosta\u0142 zbudowany w 1963. Tor ten go\u015Bci\u0142 GP Belgii Formu\u0142y 1 10-krotnie: w latach 1973, 1975-1982 i 1984. Zolder jest g\u0142\u00F3wnie pami\u0119tane jako miejsce tragicznego wypadku Gilles'a Villeneuve'a. Od tego wy\u015Bcigu flamandzki tor zacz\u0105\u0142 przestawa\u0107 mie\u0107 znaczenie dla Formu\u0142y 1 (pomimo tego, \u017Ce \u015Bmier\u0107 Villeneuve'a nie by\u0142a spowodowana z\u0142ym poziomem bezpiecze\u0144stwa toru, a raczej stosowanymi technologiami i zbiegowi wypadk\u00F3w). W 1984 GP Belgii po raz ostatni odby\u0142o si\u0119 na Zolder i od nast\u0119pnego roku a\u017C do dzisiaj wszystkie GP Belgii rozgrywane by\u0142y na torze Spa-Francorchamps."@pl ,
+		"El circuito de Zolder, tambi\u00E9n conocido como Terlaemen, es un aut\u00F3dromo de 4.000 metros de extensi\u00F3n situado en Heusden-Zolder, B\u00E9lgica."@es ,
+		"O Circuito de Zolder, tamb\u00E9m conhecido como Circuit Terlaemen, \u00E9 um aut\u00F3dromo com 4.262 quil\u00F3metros de extens\u00E3o, localizado em Heusden-Zolder, na B\u00E9lgica. Constru\u00EDdo em 1963, hospedou por dez vezes o Grande Pr\u00E9mio da B\u00E9lgica de F\u00F3rmula 1 nas d\u00E9cadas de 1970 e 1980, tendo tamb\u00E9m sido palco do Grande Pr\u00E9mio de Motociclismo da B\u00E9lgica em 1980. A F1 moveu-se para Zolder em 1973 e, com a exce\u00E7\u00E3o da corrida em Nivelles-Baulers em 1974, Zolder foi o palco do Grande Pr\u00E9mio da B\u00E9lgica at\u00E9 1982. Nesse ano, o piloto canadiano Gilles Villeneuve, da Ferrari, morreu durante a qualifica\u00E7\u00E3o do GP. O Ferrari 126C2 que pilotava bateu contra o March do alem\u00E3o Jochen Mass. O carro de Villeneuve desfez-se em dois e capotou, cuspindo o piloto pelo ar. A morte foi instant\u00E2nea."@pt ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Zolder (noto anche come Omloop van Terlaemen) \u00E8 un autodromo situato in Belgio che ha ospitato dieci edizioni del Gran Premio del Belgio di Formula 1 (nel 1973, dal 1975 al 1982 e nel 1984) e il Gran Premio del Belgio del Motomondiale nel 1980."@it ,
+		"The Circuit Zolder, also known as Circuit Terlaemen, is an undulating 4.011 km (2.492 mi) motorsport race track in Heusden-Zolder, Belgium."@en ,
+		"Le circuit de Zolder, aussi connu sous le nom de circuit Terlaemen, est un circuit automobile belge situ\u00E9 \u00E0 Heusden-Zolder en Flandre. Long de 3,977 km, il comprend 10 virages."@fr ,
+		"Circuit Zolder (ook: Circuit van Terlaemen of Omloop van Terlaemen) is een Belgisch racecircuit gelegen in de gemeente Heusden-Zolder. Tegenwoordig worden er voornamelijk Belgische races op gehouden, alsook de nacht van Zolder. De bekendste race op dit circuit is de 24 uur van Zolder."@nl .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	dbpedia-it:Circuito_di_Zolder .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Circuit_Zolder	owl:sameAs	wikidata:Q172868 ,
+		dbr:Circuit_Zolder ,
+		<http://rdf.freebase.com/ns/m.04wkkb> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	yago-res:Circuit_Zolder .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	dbpedia-wikidata:Q172868 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	dbpedia-pt:Circuit_Zolder .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	dbpedia-fr:Circuit_de_Zolder .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	dbpedia-de:Circuit_Zolder .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	dbpedia-es:Zolder .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	dbpedia-pl:Circuit_Zolder ,
+		<http://ja.dbpedia.org/resource/\u30BE\u30EB\u30C0\u30FC\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	dbpedia-id:Sirkuit_Zolder ,
+		<http://sws.geonames.org/2783197/> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Circuit_Zolder	owl:sameAs	dbpedia-nl:Circuit_Zolder .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Circuit_Zolder	dct:subject	dbc:Belgian_Grand_Prix ,
+		dbc:Champ_Car_circuits ,
+		dbc:World_Touring_Car_Championship_circuits ,
+		dbc:Formula_One_circuits ,
+		dbc:Motorsport_venues_in_Belgium ,
+		<http://dbpedia.org/resource/Category:Sports_venues_in_Limburg_(Belgium)> ,
+		dbc:Circuit_Zolder ,
+		dbc:Sport_in_Heusden-Zolder ,
+		dbc:Grand_Prix_motorcycle_circuits .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Circuit_Zolder	foaf:homepage	<http://www.circuit-zolder.be> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Circuit_Zolder	geo:lat	"50.988887786865234375"^^xsd:float ;
+	geo:long	"5.2555556297302246094"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Zolder.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Circuit_Zolder	foaf:isPrimaryTopicOf	wikipedia-en:Circuit_Zolder .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Circuit_Zolder	geo:geometry	"POINT(5.2555556297302 50.988887786865)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Circuit_Zolder	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Circuit_Zolder?oldid=737518655> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Circuit_Zolder	georss:point	"50.98888888888889 5.2555555555555555" .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Circuit_Zolder	dbp:time	"GMT +1"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://www.racingcircuits.info/europe/belgium/zolder.html> ,
+		<http://www.circuit-zolder.be> ,
+		<http://maps.google.com/maps?q=Zolder,+Limburg,+Belgium&hl=en&ie=UTF8&om=1&z=15&ll=50.990529,5.257215&spn=0.011427,0.043259&t=k&iwloc=addr> ;
+	dbp:lengthKm	4.0110000000000001208 ;
+	dbo:abstract	"O Circuito de Zolder, tamb\u00E9m conhecido como Circuit Terlaemen, \u00E9 um aut\u00F3dromo com 4.262 quil\u00F3metros de extens\u00E3o, localizado em Heusden-Zolder, na B\u00E9lgica. Constru\u00EDdo em 1963, hospedou por dez vezes o Grande Pr\u00E9mio da B\u00E9lgica de F\u00F3rmula 1 nas d\u00E9cadas de 1970 e 1980, tendo tamb\u00E9m sido palco do Grande Pr\u00E9mio de Motociclismo da B\u00E9lgica em 1980. A F1 moveu-se para Zolder em 1973 e, com a exce\u00E7\u00E3o da corrida em Nivelles-Baulers em 1974, Zolder foi o palco do Grande Pr\u00E9mio da B\u00E9lgica at\u00E9 1982. Nesse ano, o piloto canadiano Gilles Villeneuve, da Ferrari, morreu durante a qualifica\u00E7\u00E3o do GP. O Ferrari 126C2 que pilotava bateu contra o March do alem\u00E3o Jochen Mass. O carro de Villeneuve desfez-se em dois e capotou, cuspindo o piloto pelo ar. A morte foi instant\u00E2nea. Recebeu uma \u00FAnica etapa em 2007 da extinta categoria Champ Car, vencida pelo franc\u00EAs Sebastien Bourdais. Tamb\u00E9m recebeu em 2010,as etapas 7 e 8 do WTCCCampeonato Mundial de Carros de Turismo."@pt ,
+		"Le circuit de Zolder, aussi connu sous le nom de circuit Terlaemen, est un circuit automobile belge situ\u00E9 \u00E0 Heusden-Zolder en Flandre. Long de 3,977 km, il comprend 10 virages."@fr ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Zolder (noto anche come Omloop van Terlaemen) \u00E8 un autodromo situato in Belgio che ha ospitato dieci edizioni del Gran Premio del Belgio di Formula 1 (nel 1973, dal 1975 al 1982 e nel 1984) e il Gran Premio del Belgio del Motomondiale nel 1980."@it ,
+		"El circuito de Zolder, tambi\u00E9n conocido como Terlaemen, es un aut\u00F3dromo de 4.000 metros de extensi\u00F3n situado en Heusden-Zolder, B\u00E9lgica."@es ,
+		"Circuit Zolder (ook: Circuit van Terlaemen of Omloop van Terlaemen) is een Belgisch racecircuit gelegen in de gemeente Heusden-Zolder. Tegenwoordig worden er voornamelijk Belgische races op gehouden, alsook de nacht van Zolder. De bekendste race op dit circuit is de 24 uur van Zolder."@nl ,
+		"Der Circuit Zolder (sprich: Solder) ist eine 3977 Meter lange Rennstrecke in dem Ort Zolder-Terlaemen bei Hasselt in Belgien. Sie wurde von dem Niederl\u00E4nder Hans Hugenholtz geplant und im Jahre 1963 vom lokalen Motorsportclub Zolder er\u00F6ffnet. Zwischen 1973 und 1984 wurde hier insgesamt zehnmal der Gro\u00DFe Preis von Belgien der Formel 1 ausgetragen. 1980 fand der Gro\u00DFe Preis von Belgien f\u00FCr Motorr\u00E4der hier statt. Der Circuit Zolder ist vor allem dadurch bekannt geworden, dass auf dieser Rennstrecke der Kanadier Gilles Villeneuve durch einen Unfall w\u00E4hrend des Qualifikationstrainings zum Gro\u00DFen Preis von Belgien 1982 ums Leben kam. Anstelle der damaligen schnellen Rechtskurve existiert an der Unfallstelle jetzt die sogenannte Gilles-Villeneuve-Schikane. 2002 war auch die DTM in Zolder zu Gast, aber heutzutage fahren hier \u00FCberwiegend Benelux-Rennserien (z. B. Belcar, 24 Stunden von Zolder, Formel Ford, Formel Renault usw.). Am 26. August 2007 wurde auf der leicht modifizierten Strecke ein Rennen der Champ-Car-Serie ausgetragen. Das Rennen gewann S\u00E9bastien Bourdais. Am 21. Oktober 2007 und am 19. Oktober 2008 fanden auf dem Kurs au\u00DFerdem L\u00E4ufe zur internationalen FIA-GT-Meisterschaft statt. Am 20. Juni 2010 wurden auf dem Kurs zwei Rennen der Tourenwagen-Weltmeisterschaft und der Formel 2 ausgetragen. 2011 wiederholte die WTCC ihr Event und auch ein Rennen zur FIA-GT1-Weltmeisterschaft fand 2011 an einem Wochenende statt."@de ,
+		"The Circuit Zolder, also known as Circuit Terlaemen, is an undulating 4.011 km (2.492 mi) motorsport race track in Heusden-Zolder, Belgium."@en ,
+		"\u0422\u0440\u0430\u0441\u0441\u0430 \u0417\u043E\u043B\u0434\u0435\u0440 (\u043D\u0438\u0434\u0435\u0440\u043B. Circuit Zolder) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0432 \u0411\u0435\u043B\u044C\u0433\u0438\u0438. \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0432 1973-1984 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0441\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0442\u0441\u044F \u0433\u043E\u043D\u043A\u0438 \u00AB\u043C\u043B\u0430\u0434\u0448\u0438\u0445\u00BB \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u0445 \u0441\u0435\u0440\u0438\u0439 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0430. \u0412 2007 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0417\u043E\u043B\u0434\u0435\u0440 \u043F\u0440\u043E\u0448\u0451\u043B \u044D\u0442\u0430\u043F \u0441\u0435\u0440\u0438\u0438 ChampCar.\u0421 1984 \u0438 \u0434\u043E 1994 \u0433\u0433. \u0442\u0440\u0430\u0441\u0441\u0430 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u043E\u0442\u043A\u0440\u044B\u0432\u0430\u044E\u0449\u0438\u0435 (\u0438 \u0434\u0440\u0443\u0433\u0438\u0435) \u044D\u0442\u0430\u043F\u044B \u0414\u0422\u041C. \u041D\u043E\u0432\u044B\u0439 \u0414\u0422\u041C \u043F\u0440\u0438\u0435\u0437\u0436\u0430\u043B \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0443 \u0432 2002 \u0433. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0431\u044B\u043B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D \u0432 1963 \u0433\u043E\u0434\u0443 \u0438 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B 10 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0417\u043E\u043B\u0434\u0435\u0440 \u0447\u0430\u0441\u0442\u043E \u0432\u0441\u043F\u043E\u043C\u0438\u043D\u0430\u044E\u0442 \u0432 \u0441\u0432\u044F\u0437\u0438 \u0441 \u0438\u043D\u0446\u0438\u0434\u0435\u043D\u0442\u043E\u043C, \u0441\u043B\u0443\u0447\u0438\u0432\u0448\u0438\u043C\u0441\u044F \u0432 1982 \u0433\u043E\u0434\u0443, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u043F\u043E\u0433\u0438\u0431 \u0416\u0438\u043B\u044C \u0412\u0438\u043B\u044C\u043D\u0451\u0432."@ru ,
+		"Circuit Zolder, w skr\u00F3cie po prostu Zolder; znany te\u017C jako Circuit Terlaemen \u2013 tor wy\u015Bcigowy o d\u0142ugo\u015Bci 4011 m po\u0142o\u017Cony w Belgii w miejscowo\u015Bci Heusden-Zolder. Zolder zosta\u0142 zbudowany w 1963. Tor ten go\u015Bci\u0142 GP Belgii Formu\u0142y 1 10-krotnie: w latach 1973, 1975-1982 i 1984. Zolder jest g\u0142\u00F3wnie pami\u0119tane jako miejsce tragicznego wypadku Gilles'a Villeneuve'a. Od tego wy\u015Bcigu flamandzki tor zacz\u0105\u0142 przestawa\u0107 mie\u0107 znaczenie dla Formu\u0142y 1 (pomimo tego, \u017Ce \u015Bmier\u0107 Villeneuve'a nie by\u0142a spowodowana z\u0142ym poziomem bezpiecze\u0144stwa toru, a raczej stosowanymi technologiami i zbiegowi wypadk\u00F3w). W 1984 GP Belgii po raz ostatni odby\u0142o si\u0119 na Zolder i od nast\u0119pnego roku a\u017C do dzisiaj wszystkie GP Belgii rozgrywane by\u0142y na torze Spa-Francorchamps. Na pocz\u0105tku 2006 trasa przesz\u0142a kilka zmian w celu poprawy bezpiecze\u0144stwa. W ci\u0105gu ostatnich lat Zolder go\u015Bci\u0142 kilka wa\u017Cnych serii wy\u015Bcigowych takich jak: World Series by Renault, Champ Car, World Touring Car Championship, Superleague Formula, FIA GT, GT1 World Championship, a obecnie go\u015Bci jej nast\u0119pc\u0119: Blancpain Endurance Series."@pl ,
+		"\u30BE\u30EB\u30C0\u30FC\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08Circuit Zolder\uFF09\u306F\u30D9\u30EB\u30AE\u30FC\u30FB\u30D5\u30E9\u30F3\u30C0\u30FC\u30B9\u6771\u90E8\u306E\u30EA\u30F3\u30D6\u30EB\u30D5\u5DDE\u30D2\u30E5\u30FC\u30B9\u30C7\u30F3\uFF1D\u30BE\u30EB\u30C0\u30FC\u8FD1\u90CA\u3001\u30C6\u30E9\u30FC\u30E1\u30F3\u306E\u68EE\u306B\u8A2D\u55B6\u3055\u308C\u3066\u3044\u308B\u8D77\u4F0F\u306B\u5BCC\u3093\u3060\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3002\u5F53\u5730\u306F\u30AA\u30E9\u30F3\u30C0\u8A9E\u570F\u3067\u3042\u308B\u304C\u3001\u540D\u79F0\u306ECircuit\u306F\u82F1\u8A9E\u3067\u3042\u308B\u3002\u300C\u30C6\u30E9\u30FC\u30E1\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08Circuit van Terlaemen\uFF09\u300D\u3068\u3082\u547C\u3070\u308C\u308B\u30021963\u5E74\u5B8C\u6210\u3002 1973\u5E74\u30011975\u5E74\uFF5E1982\u5E74\u30011984\u5E74\u306BF1\u30D9\u30EB\u30AE\u30FCGP\u304C\u958B\u50AC\u3055\u308C\u3001F1\u306E\u30B7\u30FC\u30BA\u30F3\u30AA\u30D5\u6642\u671F\u306B\u5408\u540C\u30C6\u30B9\u30C8\u30B3\u30FC\u30B9\u3068\u3057\u3066\u3082\u4F7F\u308F\u308C\u3066\u3044\u305F\u30021983\u5E74\u304B\u3089\u306F\u30BE\u30EB\u30C0\u30FC24\u6642\u9593\u8010\u4E45\u30EC\u30FC\u30B9\u304C\u884C\u308F\u308C\u3066\u3044\u308B\u3002\u307E\u305F\u81EA\u8EE2\u8ECA\u7AF6\u6280\u306B\u3082\u91CD\u304D\u3092\u7F6E\u3044\u3066\u304A\u308A\u30012002\u5E74\u306B\u30B5\u30A4\u30AF\u30EB\u30ED\u30FC\u30C9\u30EC\u30FC\u30B9\u306E\u4E16\u754C\u9078\u624B\u6A29\u5927\u4F1A\uFF08UCI\u30ED\u30FC\u30C9\u4E16\u754C\u9078\u624B\u6A29\uFF09\u304C\u30B5\u30FC\u30AD\u30C3\u30C8\u30B3\u30FC\u30B9\u5168\u3066\u3068\u5468\u8FBA\u516C\u9053\u3092\u63A5\u7D9A\u3057\u305F1\u546813.1km\u30B3\u30FC\u30B9\u3067\u884C\u308F\u308C\u30012010\u5E74\u304B\u3089\u306F\u30B7\u30AF\u30ED\u30AF\u30ED\u30B9\u306E\u4E16\u754C\u30B7\u30EA\u30FC\u30BA\u6226\uFF08UCI\u30B7\u30AF\u30ED\u30AF\u30ED\u30B9\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\uFF09\u306E\u4E00\u5927\u4F1A\u304C\u30B3\u30FC\u30B9\u306E\u4E00\u90E8\u3092\u5229\u7528\u3057\u3066\u958B\u50AC\u3055\u308C\u3066\u3044\u308B\u3002 1982\u5E74\u306E\u30D9\u30EB\u30AE\u30FC\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA\u4E88\u9078\u6642\u3001\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\u304C\u6B7B\u4EA1\u3059\u308B\u4E8B\u6545\u304C\u8D77\u304D\u3066\u3044\u308B\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Zolder.svg?width=300> ;
+	dbo:wikiPageRevisionID	737518655 ;
+	dbo:wikiPageID	1359186 ;
+	dbp:lengthMi	2.4919999999999999929 ;
+	dbp:location	dbr:Heusden-Zolder ,
+		dbr:Belgium ;
+	dbp:recordDriver	"Sebastian Bourdais"^^xsd:string ;
+	dbp:recordTeam	dbr:Newman-Haas_Racing ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	2007 ;
+	dbp:turns	10 ;
+	dbp:name	"Circuit Zolder"^^xsd:string .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Circuit_Zolder	ns27:hypernym	dbr:Track ;
+	dbp:events	"Blancpain Sprint Series"^^xsd:string ,
+		dbr:Belgian_Grand_Prix ,
+		dbr:Superleague_Formula ,
+		dbr:NASCAR_Whelen_Euro_Series ,
+		24 ,
+		dbr:Deutsche_Tourenwagen_Meisterschaft ,
+		dbr:FIA_European_Truck_Racing_Championship ,
+		"Champ Car"^^xsd:string ,
+		"FIA Formula One"^^xsd:string .
+<http://dbpedia.org/resource/2011_FIA_WTCC_Race_of_Belgium>	dbp:courseName	dbr:Circuit_Zolder .
+wikipedia-en:Circuit_Zolder	foaf:primaryTopic	dbr:Circuit_Zolder .
+dbr:Superleague_Formula_round_Belgium	dbp:circuit	dbr:Circuit_Zolder .
+dbr:Zolder	dbo:wikiPageRedirects	dbr:Circuit_Zolder .
+<http://dbpedia.org/resource/24_Hours_of_Zolder>	dbp:venue	dbr:Circuit_Zolder .

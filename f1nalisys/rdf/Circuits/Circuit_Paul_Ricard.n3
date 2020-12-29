@@ -1,0 +1,162 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1973_French_Grand_Prix>	dbo:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1987_French_Grand_Prix>	dbo:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1988_French_Grand_Prix>	dbo:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1989_French_Grand_Prix>	dbo:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1990_French_Grand_Prix>	dbo:location	dbr:Circuit_Paul_Ricard .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Circuit_Paul_Ricard	rdf:type	dbo:Single .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Circuit_Paul_Ricard	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:Path109387222 ,
+		yago:Line108593262 ,
+		yago:Area108497294 ,
+		yago:WikicatMotorsportVenuesInFrance ,
+		yago:WikicatRoadTestTracks ,
+		<http://dbpedia.org/class/yago/WikicatSportsVenuesInVar(department)> ,
+		yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Location100027167 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Circuit_Paul_Ricard	rdf:type	geo:SpatialThing ,
+		yago:Region108630985 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Circuit_Paul_Ricard	rdfs:label	"Circuit Paul Ricard"@en ,
+		"Circuit Paul Ricard"@de ,
+		"Circuit Paul Ricard"@pl ,
+		"\u30DD\u30FC\u30EB\u30FB\u30EA\u30AB\u30FC\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"Circuito Paul Ricard"@it ,
+		"Circuit Paul Ricard"@nl ,
+		"\u062D\u0644\u0628\u0629 \u0628\u0648\u0644 \u0631\u064A\u0643\u0627\u0631\u062F"@ar ,
+		"Circuito Paul Ricard"@es ,
+		"\u041F\u043E\u043B\u044C \u0420\u0438\u043A\u0430\u0440 (\u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"Circuito Paul Ricard"@pt ,
+		"Circuit Paul-Ricard"@fr ;
+	rdfs:comment	"Der Circuit Paul Ricard ist eine 1970 fertiggestellte Motorsport-Rennstrecke nahe der s\u00FCdfranz\u00F6sischen Ortschaft Le Castellet im D\u00E9partement Var; etwa 20 Kilometer entfernt von Bandol an der C\u00F4te d\u2019Azur. Die Anlage bildet mit dem in unmittelbarer N\u00E4he gelegenen A\u00E9roport International du Castellet eine komplexe Einheit und ist in Motorsportkreisen als Le Castellet bekannt, weil sie auf dem Gebiet der gleichnamigen Gemeinde liegt. Der offizielle Name der Renn-, Test- und Versuchsstrecke ist aber seit Februar 2001 Paul Ricard High Tech Test Track (kurz Paul Ricard HTTT)."@de ,
+		"\u30DD\u30FC\u30EB\u30FB\u30EA\u30AB\u30FC\u30EB\u30FB\u30CF\u30A4\u30C6\u30AF\u30FB\u30C6\u30B9\u30C8\u30FB\u30C8\u30E9\u30C3\u30AF\uFF08Paul Ricard High Tech Test Track, \u30DD\u30FC\u30EB\u30FB\u30EA\u30AB\u30FC\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u5357\u90E8\u30FB\u30DE\u30EB\u30BB\u30A4\u30E6\u8FD1\u90CA\u306E\u30EB\u30FB\u30AD\u30E3\u30B9\u30C6\u30EC\u6751\u306B\u3042\u308B\u30C6\u30B9\u30C8\u5C02\u7528\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u30EA\u30AD\u30E5\u30FC\u30EB\u3067\u540D\u9AD8\u3044\u30DA\u30EB\u30CE\u30FB\u30EA\u30AB\u30FC\u30EB\u793E\u3092\u5275\u7ACB\u3057\u305F\u30DD\u30FC\u30EB\u30FB\u30EA\u30AB\u30FC\u30EB\u306E\u540D\u524D\u304C\u51A0\u3055\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"\u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u041F\u043E\u043B\u044C \u0420\u0438\u043A\u0430\u0440 (\u0444\u0440. Paul Ricard Circuit) \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0441\u044F \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1971-1990 \u0433\u043E\u0434\u043E\u0432, \u0433\u043E\u043D\u043E\u043A \u0441\u0435\u0440\u0438\u0438 MotoGP \u0432 1988\u20141999 \u0433\u043E\u0434\u0430\u0445. \u041D\u0430 \u0434\u0430\u043D\u043D\u044B\u0439 \u043C\u043E\u043C\u0435\u043D\u0442 \u0448\u0438\u0440\u043E\u043A\u043E \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F, \u043A\u0430\u043A \u0442\u0435\u0441\u0442\u043E\u0432\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430\u043C\u0438 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB. \u0422\u0440\u0430\u0441\u0441\u0430 \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u0432 1970 \u0433\u043E\u0434\u0443 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u0434\u0435\u0440\u0435\u0432\u043D\u0438 \u041B\u0435-\u041A\u0430\u0441\u0442\u0435\u043B\u043B\u0435 (34 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440\u0430 \u0432\u043E\u0441\u0442\u043E\u0447\u043D\u0435\u0435 \u0433\u043E\u0440\u043E\u0434\u0430 \u041C\u0430\u0440\u0441\u0435\u043B\u044C, \u0424\u0440\u0430\u043D\u0446\u0438\u044F). \u0421\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u043E \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0430 \u0444\u0438\u043D\u0430\u043D\u0441\u0438\u0440\u043E\u0432\u0430\u043B \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0438\u0439 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u043D\u0430\u043F\u0438\u0442\u043A\u043E\u0432 \u041F\u043E\u043B\u044C \u0420\u0438\u043A\u0430\u0440, \u0432 \u0447\u0435\u0441\u0442\u044C \u0435\u0433\u043E \u0438 \u043D\u0430\u0437\u0432\u0430\u043D \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C. \u0422\u0430\u043A\u0436\u0435 \u0443\u043F\u043E\u043C\u0438\u043D\u0430\u0435\u0442\u0441\u044F, \u043A\u0430\u043A \u0442\u0440\u0430\u0441\u0441\u0430 Circuit du Castellet \u043F\u043E \u043C\u0435\u0441\u0442\u0443 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u044F."@ru ,
+		"Circuit Paul Ricard (ook wel: Le Castellet) is het voormalige Formule 1-circuit van Frankrijk, gelegen op een winderige hoogvlakte bij Le Castellet, niet ver van Marseille.De Grand Prix Formule 1 werd er voor het laatst georganiseerd in 1990. Het zeer snelle parcours leent zich niet voor spannende wiel-aan-wielgevechten en werd daarom van de Grand Prixlijst afgevoerd. Sindsdien werd de Formule 1-wedstrijd verreden op het circuit van Magny-Cours, Nevers, tot ook deze manche werd afgeschaft in 2008. Daarna zijn er tot nu toe geen Franse Grand Prix meer gereden."@nl ,
+		"\u062D\u0644\u0628\u0629 \u0628\u0648\u0644 \u0631\u064A\u0643\u0627\u0631\u062F (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Circuit Paul-Ricard) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0644\u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0645\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0622\u0644\u064A\u0629 \u062A\u0642\u0639 \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0645\u0627\u0631\u0633\u064A\u0644\u064A\u0627 \u0641\u064A \u0641\u0631\u0646\u0633\u0627. \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u0623\u062D\u062F\u0627\u062B \u0645\u062B\u0644 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649\u060C \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u062D\u0629. \u064A\u0628\u0644\u063A \u0637\u0648\u0644\u0647\u0627 5.861 \u0643\u0645."@ar ,
+		"O Circuito de Paul Ricard, tamb\u00E9m chamado Circuito de Castellet, \u00E9 um aut\u00F3dromo constru\u00EDdo em Le Castellet, perto de Marselha, em 1969 com ajuda financeira do magnata de bebidas exc\u00EAntricas Paul Ricard, que criou o que essencialmente se tornou Pernod Ricard. Por catorze vezes realizou-se o Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 entre 1971 a 1990. Exce\u00E7\u00F5es em 1972 que foi realizado em Clermont-Ferrand e em: 1977, 1979, 1981 e 1984, que aconteceu em Dijon-Prenois. Foi em Paul Ricard no campeonato de 1985 que a equipe Brabham obteve a \u00FAltima vit\u00F3ria na F\u00F3rmula 1."@pt ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito Paul Ricard \u00E8 situato a Le Castellet, in Francia. Ha ospitato quattordici edizioni del Gran Premio di Francia di Formula 1 (nel 1971, nel 1973, dal 1975 al 1976, nel 1978, nel 1980, dal 1982 al 1983 e dal 1985 al 1990), tredici del Gran Premio di Francia del Motomondiale (nel 1973, nel 1975, nel 1977, dal 1980 al 1981, nel 1984, nel 1986, nel 1988, nel 1991 e dal 1996 al 1999), il Gran Premio di Superbike nel 1989 ed \u00E8 tuttora sede della Bol d'Or di Motociclismo."@it ,
+		"The Circuit Paul Ricard is a motorsport race track built in 1969 at Le Castellet, near Marseille, in France, with finance from the eccentric pastis magnate Paul Ricard. Ricard wanted to experience the challenge of building a highway."@en ,
+		"Paul Ricard es un aut\u00F3dromo situado en Le Castellet, regi\u00F3n de Provenza-Alpes-Costa Azul, Francia. Durante a\u00F1os fue considerado el circuito m\u00E1s seguro de su \u00E9poca. El circuito ten\u00EDa tres posibles trazados, un aeropuerto y una zona industrial. La zona m\u00E1s prominente del trazado es la recta Mistral, de m\u00E1s de kil\u00F3metro y medio de longitud, que va seguida de la curva abierta Signes."@es ,
+		"Circuit Paul Ricard (od lutego 2001 oficjalnie zwany Paul Ricard High Tech Test Track \u2013 Paul Ricard HTTT) \u2013 tor wy\u015Bcigowy zbudowany w Le Castellet w departamencie Var. Inauguracja toru nast\u0105pi\u0142a po 10 miesi\u0105cach budowy 19 kwietnia 1970. D\u0142ugo\u015B\u0107 w r\u00F3\u017Cnych konfiguracjach wynosi pomi\u0119dzy 6,105 km, a 826 m, szeroko\u015B\u0107 od 10 do 12 metr\u00F3w. Ma 15 zakr\u0119t\u00F3w w prawo i 10 w lewo."@pl ,
+		"Le circuit Paul-Ricard, appel\u00E9 aussi circuit du Castellet, est un circuit automobile fran\u00E7ais situ\u00E9 dans le d\u00E9partement du Var pr\u00E8s des communes de Signes et du Castellet. Le circuit est n\u00E9 sous l'impulsion de Paul Ricard, un temps maire du village de Signes voisin du site, qui voulait cr\u00E9er un \u00E9v\u00E8nement d'ampleur internationale dans la r\u00E9gion, avec les conseils de Jean-Pierre Beltoise et quelques autres sp\u00E9cialistes du sport automobile."@fr .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-wikidata:Q171424 ,
+		dbr:Circuit_Paul_Ricard ,
+		<http://ja.dbpedia.org/resource/\u30DD\u30FC\u30EB\u30FB\u30EA\u30AB\u30FC\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> ,
+		<http://rdf.freebase.com/ns/m.0cyqq> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	wikidata:Q171424 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-pl:Circuit_Paul_Ricard .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-pt:Circuito_Paul_Ricard .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-fr:Circuit_Paul-Ricard .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-nl:Circuit_Paul_Ricard .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	yago-res:Circuit_Paul_Ricard .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-it:Circuito_Paul_Ricard .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-es:Circuito_Paul_Ricard .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-de:Circuit_Paul_Ricard .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-cs:Circuit_Paul-Ricard .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Circuit_Paul_Ricard	owl:sameAs	dbpedia-id:Sirkuit_Paul_Ricard .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Circuit_Paul_Ricard	dct:subject	dbc:Road_test_tracks ,
+		<http://dbpedia.org/resource/Category:Sports_venues_in_Var_(department)> ,
+		dbc:Motorsport_venues_in_France ,
+		dbc:World_Touring_Car_Championship_circuits ,
+		dbc:French_Grand_Prix ,
+		dbc:Formula_One_circuits ,
+		dbc:Grand_Prix_motorcycle_circuits ,
+		dbc:Superbike_World_Championship_circuits .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Circuit_Paul_Ricard	geo:lat	"43.25055694580078125"^^xsd:float ;
+	geo:long	"5.7916665077209472656"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Circuit_Paul_Ricard	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Ricard.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Circuit_Paul_Ricard	foaf:isPrimaryTopicOf	wikipedia-en:Circuit_Paul_Ricard .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Circuit_Paul_Ricard	geo:geometry	"POINT(5.7916665077209 43.250556945801)"^^virtrdf:Geometry .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Circuit_Paul_Ricard	dbp:time	"GMT +1"^^xsd:string ;
+	dbp:lengthKm	5.8090000000000001634 ,
+		3.811999999999999833 ,
+		5.8609999999999997655 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Circuit_Paul_Ricard	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Circuit_Paul_Ricard?oldid=738639597> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Circuit_Paul_Ricard	georss:point	"43.25055555555556 5.791666666666667" ;
+	dbo:wikiPageExternalLink	<http://www.circuitpaulricard.com/> ,
+		<http://www.racingcircuits.info/europe/france/paul-ricard.html> ,
+		<http://www.circuitpaulricard.com/en/> ;
+	dbp:location	<http://dbpedia.org/resource/Le_Castellet,_Var> ,
+		dbr:France ;
+	dbp:recordDriver	dbr:Nigel_Mansell ,
+		dbr:Keke_Rosberg ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	1985 ,
+		1990 ;
+	dbp:turns	25 ,
+		9 ,
+		14 ;
+	dbp:name	"Circuit Paul Ricard"^^xsd:string ;
+	dbo:abstract	"Der Circuit Paul Ricard ist eine 1970 fertiggestellte Motorsport-Rennstrecke nahe der s\u00FCdfranz\u00F6sischen Ortschaft Le Castellet im D\u00E9partement Var; etwa 20 Kilometer entfernt von Bandol an der C\u00F4te d\u2019Azur. Die Anlage bildet mit dem in unmittelbarer N\u00E4he gelegenen A\u00E9roport International du Castellet eine komplexe Einheit und ist in Motorsportkreisen als Le Castellet bekannt, weil sie auf dem Gebiet der gleichnamigen Gemeinde liegt. Der offizielle Name der Renn-, Test- und Versuchsstrecke ist aber seit Februar 2001 Paul Ricard High Tech Test Track (kurz Paul Ricard HTTT). Der Kurs galt anfangs wegen seiner damals noch nicht \u00FCblichen Auslaufzonen als sicherheitstechnische Pionierleistung und Vorreiter der sp\u00E4ter so genannten \u201ERetortenstrecken\u201C. Das FIA-\u201EInstitut f\u00FCr Motorsport-Sicherheit\u201C verlieh der Anlage 2006 wegen ihrer vorbildlichen Sicherheitskonzeption als erstem Preistr\u00E4ger den FIA Institute Centre of Excellence Award."@de ,
+		"Circuit Paul Ricard (ook wel: Le Castellet) is het voormalige Formule 1-circuit van Frankrijk, gelegen op een winderige hoogvlakte bij Le Castellet, niet ver van Marseille.De Grand Prix Formule 1 werd er voor het laatst georganiseerd in 1990. Het zeer snelle parcours leent zich niet voor spannende wiel-aan-wielgevechten en werd daarom van de Grand Prixlijst afgevoerd. Sindsdien werd de Formule 1-wedstrijd verreden op het circuit van Magny-Cours, Nevers, tot ook deze manche werd afgeschaft in 2008. Daarna zijn er tot nu toe geen Franse Grand Prix meer gereden. Het circuit is eigendom van Formule 1-baas Bernie Ecclestone, die er de afgelopen jaren flink in heeft ge\u00EFnvesteerd, met name wat betreft veiligheid en faciliteiten ter plaatse. Tegenwoordig wordt het door onder andere de Formule 1 regelmatig gebruikt als testcircuit. Het circuit draagt dan ook de naam Paul Ricard HTTT (Hi Tech Test Track). In 1986 verongelukte Elio De Angelis er tijdens testritten. Door het lange rechte stuk in het circuit, de Mistral, is het ook een ideale plaats voor het testen van prototypes zoals die te zien zijn in de 24 uur van Le Mans. In 2006 werd de vijfde manche van het FIA GT-kampioenschap gehouden op Paul Ricard. E\u00E9n van de belangrijkste duurwedstrijden voor motorfietsen, de Bol d'Or werd vroeger verreden op Paul Ricard."@nl ,
+		"\u062D\u0644\u0628\u0629 \u0628\u0648\u0644 \u0631\u064A\u0643\u0627\u0631\u062F (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Circuit Paul-Ricard) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0644\u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0645\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0622\u0644\u064A\u0629 \u062A\u0642\u0639 \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0645\u0627\u0631\u0633\u064A\u0644\u064A\u0627 \u0641\u064A \u0641\u0631\u0646\u0633\u0627. \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u0623\u062D\u062F\u0627\u062B \u0645\u062B\u0644 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649\u060C \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u062D\u0629. \u064A\u0628\u0644\u063A \u0637\u0648\u0644\u0647\u0627 5.861 \u0643\u0645."@ar ,
+		"\u30DD\u30FC\u30EB\u30FB\u30EA\u30AB\u30FC\u30EB\u30FB\u30CF\u30A4\u30C6\u30AF\u30FB\u30C6\u30B9\u30C8\u30FB\u30C8\u30E9\u30C3\u30AF\uFF08Paul Ricard High Tech Test Track, \u30DD\u30FC\u30EB\u30FB\u30EA\u30AB\u30FC\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u5357\u90E8\u30FB\u30DE\u30EB\u30BB\u30A4\u30E6\u8FD1\u90CA\u306E\u30EB\u30FB\u30AD\u30E3\u30B9\u30C6\u30EC\u6751\u306B\u3042\u308B\u30C6\u30B9\u30C8\u5C02\u7528\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u30EA\u30AD\u30E5\u30FC\u30EB\u3067\u540D\u9AD8\u3044\u30DA\u30EB\u30CE\u30FB\u30EA\u30AB\u30FC\u30EB\u793E\u3092\u5275\u7ACB\u3057\u305F\u30DD\u30FC\u30EB\u30FB\u30EA\u30AB\u30FC\u30EB\u306E\u540D\u524D\u304C\u51A0\u3055\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito Paul Ricard \u00E8 situato a Le Castellet, in Francia. Ha ospitato quattordici edizioni del Gran Premio di Francia di Formula 1 (nel 1971, nel 1973, dal 1975 al 1976, nel 1978, nel 1980, dal 1982 al 1983 e dal 1985 al 1990), tredici del Gran Premio di Francia del Motomondiale (nel 1973, nel 1975, nel 1977, dal 1980 al 1981, nel 1984, nel 1986, nel 1988, nel 1991 e dal 1996 al 1999), il Gran Premio di Superbike nel 1989 ed \u00E8 tuttora sede della Bol d'Or di Motociclismo."@it ,
+		"Paul Ricard es un aut\u00F3dromo situado en Le Castellet, regi\u00F3n de Provenza-Alpes-Costa Azul, Francia. Durante a\u00F1os fue considerado el circuito m\u00E1s seguro de su \u00E9poca. El circuito ten\u00EDa tres posibles trazados, un aeropuerto y una zona industrial. La zona m\u00E1s prominente del trazado es la recta Mistral, de m\u00E1s de kil\u00F3metro y medio de longitud, que va seguida de la curva abierta Signes. Paul Ricard fue sede de numerosas ediciones del Gran Premio de Francia de F\u00F3rmula 1 desde 1971 hasta 1990, y del Gran Premio de Francia de Motociclismo del Campeonato Mundial de Motociclismo desde 1973 hasta 1999. Tambi\u00E9n alberg\u00F3 desde 1978 hasta 1999 el Bol d'Or, una carrera cl\u00E1sica del Campeonato Mundial de Motociclismo de Resistencia, el Campeonato Mundial de Superbikes en 1989, cuatro fechas del BPR Global GT Series en la d\u00E9cada de 1990 y el Campeonato de la FIA de Sport Prototipos en 1998. M\u00E1s recientemente, el Campeonato FIA GT visit\u00F3 Paul Ricard en 2006 y 2009 y retornar\u00E1 en 2010, a la vez que la Le Mans Series disputar\u00E1 en 2010 una carrera de 8 horas. Adem\u00E1s, Paul Ricard es sede de muchas de las pruebas de invierno de equipos de F\u00F3rmula 1, y es pista de pruebas oficial de varias categor\u00EDas europeas y mundiales, tales como la GP2 Series, la World Series by Renault, el Campeonato FIA GT y la Le Mans Series."@es ,
+		"The Circuit Paul Ricard is a motorsport race track built in 1969 at Le Castellet, near Marseille, in France, with finance from the eccentric pastis magnate Paul Ricard. Ricard wanted to experience the challenge of building a highway."@en ,
+		"\u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u041F\u043E\u043B\u044C \u0420\u0438\u043A\u0430\u0440 (\u0444\u0440. Paul Ricard Circuit) \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0441\u044F \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1971-1990 \u0433\u043E\u0434\u043E\u0432, \u0433\u043E\u043D\u043E\u043A \u0441\u0435\u0440\u0438\u0438 MotoGP \u0432 1988\u20141999 \u0433\u043E\u0434\u0430\u0445. \u041D\u0430 \u0434\u0430\u043D\u043D\u044B\u0439 \u043C\u043E\u043C\u0435\u043D\u0442 \u0448\u0438\u0440\u043E\u043A\u043E \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F, \u043A\u0430\u043A \u0442\u0435\u0441\u0442\u043E\u0432\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430\u043C\u0438 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB. \u0422\u0440\u0430\u0441\u0441\u0430 \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u0432 1970 \u0433\u043E\u0434\u0443 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u0434\u0435\u0440\u0435\u0432\u043D\u0438 \u041B\u0435-\u041A\u0430\u0441\u0442\u0435\u043B\u043B\u0435 (34 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440\u0430 \u0432\u043E\u0441\u0442\u043E\u0447\u043D\u0435\u0435 \u0433\u043E\u0440\u043E\u0434\u0430 \u041C\u0430\u0440\u0441\u0435\u043B\u044C, \u0424\u0440\u0430\u043D\u0446\u0438\u044F). \u0421\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u043E \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0430 \u0444\u0438\u043D\u0430\u043D\u0441\u0438\u0440\u043E\u0432\u0430\u043B \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0438\u0439 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u043D\u0430\u043F\u0438\u0442\u043A\u043E\u0432 \u041F\u043E\u043B\u044C \u0420\u0438\u043A\u0430\u0440, \u0432 \u0447\u0435\u0441\u0442\u044C \u0435\u0433\u043E \u0438 \u043D\u0430\u0437\u0432\u0430\u043D \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C. \u0422\u0430\u043A\u0436\u0435 \u0443\u043F\u043E\u043C\u0438\u043D\u0430\u0435\u0442\u0441\u044F, \u043A\u0430\u043A \u0442\u0440\u0430\u0441\u0441\u0430 Circuit du Castellet \u043F\u043E \u043C\u0435\u0441\u0442\u0443 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u044F. \u0412 1999 \u0433\u043E\u0434\u0443 \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u0442\u0435\u043D\u0430 \u0411\u0435\u0440\u043D\u0438 \u042D\u043A\u043A\u043B\u0441\u0442\u043E\u0443\u043D\u043E\u043C (\u0432\u043B\u0430\u0434\u0435\u043B\u0435\u0446\u0435\u043C \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u0438\u0445 \u043F\u0440\u0430\u0432 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB). \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u043C\u043E\u0434\u0435\u0440\u043D\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u043D \u0434\u043B\u044F \u0438\u043C\u0438\u0442\u0430\u0446\u0438\u0438 \u0443\u0441\u043B\u043E\u0432\u0438\u0439 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u0442\u0440\u0430\u0441\u0441 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB \u0438 \u043D\u043E\u0441\u0438\u0442 \u0442\u0430\u043A\u0436\u0435 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 Paul Ricard High Tech Test Track."@ru ,
+		"O Circuito de Paul Ricard, tamb\u00E9m chamado Circuito de Castellet, \u00E9 um aut\u00F3dromo constru\u00EDdo em Le Castellet, perto de Marselha, em 1969 com ajuda financeira do magnata de bebidas exc\u00EAntricas Paul Ricard, que criou o que essencialmente se tornou Pernod Ricard. Por catorze vezes realizou-se o Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 entre 1971 a 1990. Exce\u00E7\u00F5es em 1972 que foi realizado em Clermont-Ferrand e em: 1977, 1979, 1981 e 1984, que aconteceu em Dijon-Prenois. Foi em Paul Ricard no campeonato de 1985 que a equipe Brabham obteve a \u00FAltima vit\u00F3ria na F\u00F3rmula 1."@pt ,
+		"Circuit Paul Ricard (od lutego 2001 oficjalnie zwany Paul Ricard High Tech Test Track \u2013 Paul Ricard HTTT) \u2013 tor wy\u015Bcigowy zbudowany w Le Castellet w departamencie Var. Inauguracja toru nast\u0105pi\u0142a po 10 miesi\u0105cach budowy 19 kwietnia 1970. D\u0142ugo\u015B\u0107 w r\u00F3\u017Cnych konfiguracjach wynosi pomi\u0119dzy 6,105 km, a 826 m, szeroko\u015B\u0107 od 10 do 12 metr\u00F3w. Ma 15 zakr\u0119t\u00F3w w prawo i 10 w lewo."@pl ,
+		"Le circuit Paul-Ricard, appel\u00E9 aussi circuit du Castellet, est un circuit automobile fran\u00E7ais situ\u00E9 dans le d\u00E9partement du Var pr\u00E8s des communes de Signes et du Castellet. Le circuit est n\u00E9 sous l'impulsion de Paul Ricard, un temps maire du village de Signes voisin du site, qui voulait cr\u00E9er un \u00E9v\u00E8nement d'ampleur internationale dans la r\u00E9gion, avec les conseils de Jean-Pierre Beltoise et quelques autres sp\u00E9cialistes du sport automobile. D\u00E9sign\u00E9 Premier Centre d'Excellence par l'institut de la FIA pour la s\u00E9curit\u00E9 en sport automobile en 2005, homologu\u00E9 par la FIA en 2006, le circuit a rouvert ses portes au public en 2009 et accueille d\u00E9sormais des \u00E9preuves de comp\u00E9tition automobile et moto, ainsi que des roulages de clubs et des op\u00E9rations marketing."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Ricard.svg?width=300> ;
+	dbo:wikiPageRevisionID	738639597 ;
+	dbo:wikiPageID	48379 ;
+	dbp:layout	"Club Circuit"^^xsd:string ,
+		"Long Circuit"^^xsd:string ,
+		"Current layout"^^xsd:string ;
+	dbp:lengthMi	2.3690000000000002167 ,
+		3.6099999999999998757 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Circuit_Paul_Ricard	ns28:hypernym	dbr:Track ;
+	dbp:recordTeam	dbr:Scuderia_Ferrari ,
+		dbr:Honda_Racing_F1 ,
+		dbr:Williams_F1 ;
+	dbp:events	dbr:World_Touring_Car_Championship ,
+		dbr:French_Grand_Prix ,
+		dbr:FIA_GT_Championship ,
+		6 ,
+		dbr:MotoGP .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_France>	dbp:courseName	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/6_Hours_of_Castellet>	dbp:venue	dbr:Circuit_Paul_Ricard .
+dbr:Paul_Ricard_Circuit	dbo:wikiPageRedirects	dbr:Circuit_Paul_Ricard .
+wikipedia-en:Circuit_Paul_Ricard	foaf:primaryTopic	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1977_French_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1988_French_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1991_French_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1996_French_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1997_French_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1998_French_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Paul_Ricard .
+<http://dbpedia.org/resource/1999_French_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_Paul_Ricard .
+dbr:Paul_Richard_Circuit	dbo:wikiPageRedirects	dbr:Circuit_Paul_Ricard .
+dbr:FIA_WTCC_Race_of_France	dbp:circuit	dbr:Circuit_Paul_Ricard .

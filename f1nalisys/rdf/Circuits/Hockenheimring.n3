@@ -1,0 +1,220 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Jim_Clark	dbo:deathPlace	dbr:Hockenheimring .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1991_German_motorcycle_Grand_Prix>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/Baden-W\u00FCrttemberg_motorcycle_Grand_Prix>	dbp:venue	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1989_German_motorcycle_Grand_Prix>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1992_German_motorcycle_Grand_Prix>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1993_German_motorcycle_Grand_Prix>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2010_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1968_Deutschland_Troph\u00E4e>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1977_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1978_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1979_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1980_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1981_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1982_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1983_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1984_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1995_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2002_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1986_Baden-W\u00FCrttemberg_motorcycle_Grand_Prix>	dbp:location	dbr:Hockenheimring .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Hockenheimring	rdf:type	yago:PhysicalEntity100001930 ,
+		dbo:MotorsportSeason ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:Area108497294 ,
+		yago:Region108630985 ,
+		yago:Location100027167 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatMotorsportVenuesInGermany .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Hockenheimring	rdf:type	geo:SpatialThing ,
+		<http://dbpedia.org/class/yago/WikicatSportsVenuesInBaden-W\u00FCrttemberg> ,
+		yago:Venue108677628 ,
+		yago:Scene108645963 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Hockenheimring	rdfs:label	"Hockenheimring"@en ,
+		"Hockenheimring"@pt ,
+		"\u062D\u0644\u0628\u0629 \u0647\u0648\u0643\u0646\u0647\u0627\u064A\u0645"@ar ,
+		"Hockenheimring"@fr ,
+		"\u970D\u6839\u6D77\u59C6\u8D5B\u9053"@zh ,
+		"Hockenheimring"@es ,
+		"\u30DB\u30C3\u30B1\u30F3\u30CF\u30A4\u30E0\u30EA\u30F3\u30AF"@ja ,
+		"Hockenheimring Baden-W\u00FCrttemberg"@nl ,
+		"\u0425\u043E\u043A\u043A\u0435\u043D\u0445\u0430\u0439\u043C\u0440\u0438\u043D\u0433"@ru ,
+		"Hockenheimring"@pl ,
+		"Hockenheimring"@it ,
+		"Hockenheimring Baden-W\u00FCrttemberg"@de ;
+	rdfs:comment	"\u30DB\u30C3\u30B1\u30F3\u30CF\u30A4\u30E0\u30EA\u30F3\u30AF\uFF08\u30C9\u30A4\u30C4\u8A9E: Hockenheimring Baden-W\u00FCrttemberg\uFF09\u306F\u3001\u30C9\u30A4\u30C4\u306E\u5357\u897F\u90E8\u306E\u30D0\u30FC\u30C7\u30F3\uFF1D\u30F4\u30E5\u30EB\u30C6\u30F3\u30D9\u30EB\u30AF\u5DDE\u30E9\u30A4\u30F3\uFF1D\u30CD\u30C3\u30AB\u30FC\u90E1\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3002\u30CB\u30E5\u30EB\u30D6\u30EB\u30AF\u30EA\u30F3\u30AF\u3068\u9694\u5E74\u3067F1\u30C9\u30A4\u30C4GP\u304C\u884C\u308F\u308C\u308B\u3002"@ja ,
+		"O circuito de Hockenheim (nome oficial: Hockenheimring Baden-W\u00FCrttemberg) \u00E9 um aut\u00F3dromo localizado perto de Hockenheim, no estado de Baden-W\u00FCrttemberg, na Alemanha.\u00C9 conhecido pela sua grande hist\u00F3ria na F\u00F3rmula 1, sendo um dos circuitos mais antigos que est\u00E1 presente na categoria atualmente."@pt ,
+		"\u0425\u043E\u043A\u043A\u0435\u043D\u0445\u0430\u0439\u043C\u0440\u0438\u043D\u0433 (\u043D\u0435\u043C. Hockenheimring Baden-W\u00FCrttemberg) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0440\u044F\u0434\u043E\u043C \u0441 \u0433\u043E\u0440\u043E\u0434\u043E\u043C \u0425\u043E\u043A\u043A\u0435\u043D\u0445\u0430\u0439\u043C, \u0444\u0435\u0434\u0435\u0440\u0430\u043B\u044C\u043D\u0430\u044F \u0437\u0435\u043C\u043B\u044F \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F. \u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 1970 \u0433\u043E\u0434\u0430. \u0412 2007, 2009 \u0438 2011 \u0433\u043E\u0434\u0430\u0445 \u0433\u043E\u043D\u043A\u0430 \u043D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0430\u0441\u044C, \u0442\u0430\u043A \u043A\u0430\u043A \u043F\u0440\u0438\u043D\u044F\u0442\u043E \u0440\u0435\u0448\u0435\u043D\u0438\u0435 \u0447\u0435\u0440\u0435\u0434\u043E\u0432\u0430\u0442\u044C \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0430\u0445 \u041D\u044E\u0440\u0431\u0443\u0440\u0433\u0440\u0438\u043D\u0433 \u0438 \u0425\u043E\u043A\u043A\u0435\u043D\u0445\u0430\u0439\u043C\u0440\u0438\u043D\u0433."@ru ,
+		"The  is a motor racing circuit situated in the Rhine valley near the town of Hockenheim in Baden-W\u00FCrttemberg, Germany, located on Bertha Benz Memorial Route. Amongst other motor racing events, it biennially hosts the German Grand Prix, with the most recent being in 2016. The circuit has very little change in elevation. The circuit has FIA Grade 1 license."@en ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) L'Hockenheimring \u00E8 un circuito automobilistico che si trova vicino alla cittadina di Hockenheim nel nord del Land Baden-W\u00FCrttemberg in Germania. Fu costruito nel 1932 su dei sentieri nei boschi. Ora offre posto per oltre 110.000 spettatori."@it ,
+		"Hockenheimring \u2013 tor wy\u015Bcigowy po\u0142o\u017Cony w pobli\u017Cu miasta Hockenheim w Niemczech. Rozgrywane s\u0105 na nim wy\u015Bcigi Formu\u0142y 1 o Grand Prix Niemiec. Tor wybudowany zosta\u0142 w 1936 na potrzeby test\u00F3w Mercedesa. Po II wojnie \u015Bwiatowej obiekt przebudowano. Pierwszy wy\u015Bcig Formu\u0142y 1 na tym torze odby\u0142 si\u0119 w roku 1970. Natomiast od roku 1977 (opr\u00F3cz 1985) tor ten znajduje si\u0119 sta\u0142e w kalendarzu Formu\u0142y 1.Do roku 2001 u\u017Cywano d\u0142u\u017Cszej wersji toru (6,825 km) prowadz\u0105cej przez las. P\u00F3\u017Aniej tor zosta\u0142 drastycznie skr\u00F3cony przez Hermanna Tilke do obecnej formy."@pl ,
+		"\u062D\u0644\u0628\u0629 \u0647\u0648\u0643\u0646\u0647\u0627\u064A\u0645 \u0647\u064A \u062D\u0644\u0628\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0628\u0644\u062F\u0629 \u0647\u0648\u0643\u0646\u0647\u0627\u064A\u0645 \u0641\u064A \u0648\u0644\u0627\u064A\u0629 \u0628\u0627\u062F\u0646 \u0641\u0648\u0631\u062A\u0645\u0628\u064A\u0631\u063A \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629 \u0639\u0644\u0649 \u0637\u0631\u064A\u0642 \u0628\u064A\u0631\u062A\u0627 \u0628\u0646\u0632 \u0627\u0644\u062A\u0630\u0643\u0627\u0631\u064A\u0629\u060C \u0648\u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0639\u062F\u062F \u0622\u062E\u0631 \u0645\u0646 \u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0648\u0627\u0644\u0631\u064A\u0627\u0636\u0627\u062A \u0622\u0644\u064A\u0629. \u0627\u0641\u062A\u062A\u062D\u062A \u0627\u0644\u062D\u0644\u0628\u0629 \u0641\u064A \u0639\u0627\u0645 1932 \u0628\u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0637\u0631\u0642 \u0627\u0644\u063A\u0627\u0628\u0627\u062A \u0648\u0630\u0644\u0643 \u0643\u0628\u062F\u064A\u0644 \u0644\u062D\u0644\u0628\u0629 \u0648\u0627\u064A\u0644\u062F \u0628\u0627\u0631\u0643 \u0641\u064A \u0643\u0627\u0631\u0644\u0633\u0631\u0648\u0647 \u060C \u0648\u0627\u0644\u062A\u064A \u0623\u0635\u0628\u062D\u062A \u0645\u0645\u0646\u0648\u0639\u0629 \u0628\u0627\u0639\u062A\u0628\u0627\u0631\u0647\u0627 \u062D\u0644\u0628\u0629 \u0644\u0644\u0633\u0628\u0627\u0642 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064A\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646. \u0627\u0633\u062A\u062E\u062F\u0645\u062A \u0641\u064A \u0627\u0644\u0628\u062F\u0627\u064A\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u060C \u0648 \u062A\u0648\u0633\u0639 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u062D\u0644\u0628\u0629 \u0644\u062A\u0635\u0628\u062D \u0645\u0636\u0645\u0627\u0631 \u0627\u062E\u062A\u0628\u0627\u0631 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0645\u0631\u0633\u064A\u062F\u0633 \u0628\u0646\u0632 \u0648\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0639\u0627\u0645 1936."@ar ,
+		"El circuito de Hockenheim o Hockenheimring es un aut\u00F3dromo localizado en las cercan\u00EDas de Hockenheim, Alemania. Las principales carreras que ha albergado son el Gran Premio de Alemania de F\u00F3rmula 1, primero en 1970 y luego anualmente desde 1977 hasta 2008 (salvo en 1985 y 2007), acompa\u00F1ado primero por la F\u00F3rmula 3000 y luego por la GP2 Series; y el Gran Premio de Alemania del Campeonato Mundial de Motociclismo en numerosas ocasiones entre 1957 y 1994."@es ,
+		"De Hockenheimring Baden-W\u00FCrttemberg (vroeger Hockenheimring, Kurpfalzring) is een racecircuit in de stad Hockenheim."@nl ,
+		"Der Hockenheimring Baden-W\u00FCrttemberg (fr\u00FCher Hockenheimring, Kurpfalzring) ist eine Motorsport-Rennstrecke in der kurpf\u00E4lzischen Stadt Hockenheim s\u00FCdlich von Mannheim. Er liegt in der westlichen Schwetzinger Hardt."@de ,
+		"\u970D\u80AF\u6D77\u59C6\u8CFD\u9053 ( Hockenheimring ) \u4F4D\u65BC\u5FB7\u570BBaden-W\u00FCrttemberg\u7684\u8CC0\u6839\u54B8\u9644\u8FD1\uFF0C\u9664\u4E86\u6BCF\u5E74\u8209\u884C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u5FB7\u570B\u5927\u734E\u8CFD\u4E4B\u5916\uFF0C\u4E5F\u8A31\u884C\u5176\u4ED6\u7684\u8CFD\u8ECA\u6D3B\u52D5\u3002\u970D\u80AF\u6D77\u59C6\u8CFD\u9053\u5750\u843D\u840A\u8335\u6CB3\u7684\u6CB3\u8C37\u4E2D\uFF0C\u8CFD\u9053\u76F8\u7576\u7684\u5E73\u5766\uFF0C\u6C92\u6709\u660E\u986F\u7684\u8D77\u4F0F\u3002"@zh ,
+		"Le circuit d'Hockenheim (officiellement HockenheimRing Baden-W\u00FCrttemberg ) est un circuit automobile situ\u00E9 pr\u00E8s de la ville d'Hockenheim, en Allemagne, sur la Bertha Benz Memorial Route. Il est surtout connu pour accueillir le Grand Prix d'Allemagne de Formule 1 depuis 1970, d\u00E9sormais en alternance avec le N\u00FCrburgring."@fr ;
+	dbp:capacity	120000 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Hockenheimring	owl:sameAs	dbpedia-pt:Hockenheimring .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Hockenheimring	owl:sameAs	dbpedia-pl:Hockenheimring .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Hockenheimring	owl:sameAs	dbpedia-wikidata:Q152408 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Hockenheimring	owl:sameAs	dbpedia-cs:Hockenheimring .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Hockenheimring	owl:sameAs	dbpedia-es:Hockenheimring ,
+		<http://ja.dbpedia.org/resource/\u30DB\u30C3\u30B1\u30F3\u30CF\u30A4\u30E0\u30EA\u30F3\u30AF> ,
+		<http://sws.geonames.org/8394009/> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Hockenheimring	owl:sameAs	wikidata:Q152408 ,
+		<http://nl.dbpedia.org/resource/Hockenheimring_Baden-W\u00FCrttemberg> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Hockenheimring	owl:sameAs	dbpedia-id:Hockenheimring ,
+		dbr:Hockenheimring .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Hockenheimring	owl:sameAs	dbpedia-fr:Hockenheimring .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Hockenheimring	owl:sameAs	dbpedia-it:Hockenheimring .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Hockenheimring	owl:sameAs	yago-res:Hockenheimring ,
+		<http://de.dbpedia.org/resource/Hockenheimring_Baden-W\u00FCrttemberg> ,
+		<http://rdf.freebase.com/ns/m.03shz9> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Hockenheimring	dct:subject	dbc:German_Grand_Prix ,
+		dbc:Superbike_World_Championship_circuits ,
+		dbc:Motorsport_venues_in_Germany ,
+		dbc:Formula_One_circuits ,
+		dbc:Drag_racing_venues_in_Europe ,
+		dbc:Grand_Prix_motorcycle_circuits ,
+		dbc:World_Rallycross_circuits .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Hockenheimring	geo:lat	"49.327777862548828125"^^xsd:float ;
+	geo:long	"8.5658330917358398438"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Hockenheimring	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Hockenheim2012.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Hockenheimring	foaf:isPrimaryTopicOf	wikipedia-en:Hockenheimring .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Hockenheimring	geo:geometry	"POINT(8.5658330917358 49.327777862549)"^^virtrdf:Geometry ;
+	dbp:length2Km	3.6290000000000000036 ;
+	dbp:length7Km	"\u224812.12"^^xsd:string ;
+	dbp:length7Mi	"\u22487.53"^^xsd:string ;
+	dbp:length2Mi	2.2940000000000000391 ;
+	dbp:length5Km	2.6379999999999999005 ;
+	dbp:length6Mi	"\u22484.808"^^xsd:string ;
+	dbp:length5Mi	1.6390000000000000124 ;
+	dbp:length6Km	"\u22487.738"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Hockenheimring	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Hockenheimring?oldid=736397278> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Hockenheimring	georss:point	"49.327777777777776 8.565833333333334" ;
+	dbp:time	"GMT +1"^^xsd:string ;
+	dbp:surface	"Asphalt"^^xsd:string ,
+		"Asphalt, concrete"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://absolutecars.free.fr/hockenheim.htm> ,
+		<http://www.hockenheimring.de/> ,
+		<http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/circuit_guide/4251659.stm> ,
+		<http://fastvoice.de/hockenheimkurz.mp4> ,
+		<http://www.formula1.com/news/features/2008/7/8097.html> ,
+		<http://www.formula1.com/races/in_detail/germany_796/> ,
+		<http://www.formula1.com/news/features/2008/7/8093.html> ,
+		<http://www.f1db.de/database/circuits/hockenheim-ring_gps.html> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> ;
+	dbp:lengthKm	4.5739999999999998437 ,
+		6.8230000000000003979 ;
+	dbp:brokeGround	"1932-03-23"^^xsd:date ;
+	dbo:abstract	"\u970D\u80AF\u6D77\u59C6\u8CFD\u9053 ( Hockenheimring ) \u4F4D\u65BC\u5FB7\u570BBaden-W\u00FCrttemberg\u7684\u8CC0\u6839\u54B8\u9644\u8FD1\uFF0C\u9664\u4E86\u6BCF\u5E74\u8209\u884C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u5FB7\u570B\u5927\u734E\u8CFD\u4E4B\u5916\uFF0C\u4E5F\u8A31\u884C\u5176\u4ED6\u7684\u8CFD\u8ECA\u6D3B\u52D5\u3002\u970D\u80AF\u6D77\u59C6\u8CFD\u9053\u5750\u843D\u840A\u8335\u6CB3\u7684\u6CB3\u8C37\u4E2D\uFF0C\u8CFD\u9053\u76F8\u7576\u7684\u5E73\u5766\uFF0C\u6C92\u6709\u660E\u986F\u7684\u8D77\u4F0F\u3002"@zh ,
+		"De Hockenheimring Baden-W\u00FCrttemberg (vroeger Hockenheimring, Kurpfalzring) is een racecircuit in de stad Hockenheim."@nl ,
+		"Hockenheimring \u2013 tor wy\u015Bcigowy po\u0142o\u017Cony w pobli\u017Cu miasta Hockenheim w Niemczech. Rozgrywane s\u0105 na nim wy\u015Bcigi Formu\u0142y 1 o Grand Prix Niemiec. Tor wybudowany zosta\u0142 w 1936 na potrzeby test\u00F3w Mercedesa. Po II wojnie \u015Bwiatowej obiekt przebudowano. Pierwszy wy\u015Bcig Formu\u0142y 1 na tym torze odby\u0142 si\u0119 w roku 1970. Natomiast od roku 1977 (opr\u00F3cz 1985) tor ten znajduje si\u0119 sta\u0142e w kalendarzu Formu\u0142y 1.Do roku 2001 u\u017Cywano d\u0142u\u017Cszej wersji toru (6,825 km) prowadz\u0105cej przez las. P\u00F3\u017Aniej tor zosta\u0142 drastycznie skr\u00F3cony przez Hermanna Tilke do obecnej formy. Jedno okr\u0105\u017Cenie ma 4,574 km. Trybuny wok\u00F3\u0142 toru mog\u0105 pomie\u015Bci\u0107 120 000 kibic\u00F3w. Na torze w 1988 roku wyst\u0119powa\u0142 Michael Jackson w ramach trasy Bad World Tour."@pl ,
+		"The  is a motor racing circuit situated in the Rhine valley near the town of Hockenheim in Baden-W\u00FCrttemberg, Germany, located on Bertha Benz Memorial Route. Amongst other motor racing events, it biennially hosts the German Grand Prix, with the most recent being in 2016. The circuit has very little change in elevation. The circuit has FIA Grade 1 license."@en ,
+		"\u062D\u0644\u0628\u0629 \u0647\u0648\u0643\u0646\u0647\u0627\u064A\u0645 \u0647\u064A \u062D\u0644\u0628\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0628\u0644\u062F\u0629 \u0647\u0648\u0643\u0646\u0647\u0627\u064A\u0645 \u0641\u064A \u0648\u0644\u0627\u064A\u0629 \u0628\u0627\u062F\u0646 \u0641\u0648\u0631\u062A\u0645\u0628\u064A\u0631\u063A \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629 \u0639\u0644\u0649 \u0637\u0631\u064A\u0642 \u0628\u064A\u0631\u062A\u0627 \u0628\u0646\u0632 \u0627\u0644\u062A\u0630\u0643\u0627\u0631\u064A\u0629\u060C \u0648\u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0639\u062F\u062F \u0622\u062E\u0631 \u0645\u0646 \u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0648\u0627\u0644\u0631\u064A\u0627\u0636\u0627\u062A \u0622\u0644\u064A\u0629. \u0627\u0641\u062A\u062A\u062D\u062A \u0627\u0644\u062D\u0644\u0628\u0629 \u0641\u064A \u0639\u0627\u0645 1932 \u0628\u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0637\u0631\u0642 \u0627\u0644\u063A\u0627\u0628\u0627\u062A \u0648\u0630\u0644\u0643 \u0643\u0628\u062F\u064A\u0644 \u0644\u062D\u0644\u0628\u0629 \u0648\u0627\u064A\u0644\u062F \u0628\u0627\u0631\u0643 \u0641\u064A \u0643\u0627\u0631\u0644\u0633\u0631\u0648\u0647 \u060C \u0648\u0627\u0644\u062A\u064A \u0623\u0635\u0628\u062D\u062A \u0645\u0645\u0646\u0648\u0639\u0629 \u0628\u0627\u0639\u062A\u0628\u0627\u0631\u0647\u0627 \u062D\u0644\u0628\u0629 \u0644\u0644\u0633\u0628\u0627\u0642 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064A\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646. \u0627\u0633\u062A\u062E\u062F\u0645\u062A \u0641\u064A \u0627\u0644\u0628\u062F\u0627\u064A\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u060C \u0648 \u062A\u0648\u0633\u0639 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u062D\u0644\u0628\u0629 \u0644\u062A\u0635\u0628\u062D \u0645\u0636\u0645\u0627\u0631 \u0627\u062E\u062A\u0628\u0627\u0631 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0645\u0631\u0633\u064A\u062F\u0633 \u0628\u0646\u0632 \u0648\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0639\u0627\u0645 1936. \u0643\u0627\u0646 \u0637\u0648\u0644 \u0627\u0644\u0645\u0633\u0627\u0631 \u0627\u0644\u0623\u0635\u0644\u064A \u0644\u0644\u062D\u0644\u0628\u0629 \u062A\u0642\u0631\u064A\u0628\u0627 \u062B\u0645\u0627\u0646\u064A\u0629 \u0643\u064A\u0644\u0648\u0645\u062A\u0631\u0627\u062A \u0648\u062A\u0623\u0644\u0641 \u0645\u0646 \u0627\u062B\u0646\u064A\u0646 \u0645\u0646 \u0627\u0644\u0645\u0631\u0627\u062D\u0644 \u0627\u0644\u0645\u0633\u062A\u0642\u064A\u0645\u0629 \u0627\u0644\u0637\u0648\u064A\u0644\u0629 \u0648\u0645\u0646\u0639\u0637\u0641 \u0637\u0648\u064A\u0644 \u0625\u0644\u0649 \u0627\u0644\u0634\u0631\u0642 \u0648\u0645\u0646\u0639\u0637\u0641 \u062D\u0627\u062F \u0641\u064A \u0627\u0644\u063A\u0627\u0628\u0629 \u062F\u0627\u062E\u0644 \u0647\u0648\u0643\u0646\u0647\u0627\u064A\u0645 \u0644\u064A\u0636\u0645 \u0627\u0644\u0645\u0631\u0627\u062D\u0644 \u0627\u0644\u0645\u0633\u062A\u0642\u064A\u0645\u0629 \u0644\u0628\u0639\u0636\u0647\u0645\u0627 \u0627\u0644\u0628\u0639\u0636. \u064A\u0628\u0644\u063A \u0637\u0648\u0644 \u0627\u0644\u0645\u0633\u0627\u0631 \u0627\u0644\u062D\u0627\u0644\u064A 4.574 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0648\u064A\u062A\u0636\u0645\u0646 13 \u0645\u0646\u0639\u0637\u0641\u0627 \u0628\u0639\u062F \u0625\u0639\u0627\u062F\u0629 \u062A\u0635\u0645\u064A\u0645 \u0627\u0644\u062D\u0644\u0628\u0629 \u0627\u0633\u062A\u062C\u0627\u0628\u0629 \u0644\u0636\u063A\u0648\u0637 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064A\u0646 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F . \u0633\u062A\u0642\u0648\u0645 \u062D\u0644\u0628\u0629 \u0647\u0648\u0643\u0646\u0647\u0627\u064A\u0645 \u0628\u0625\u0633\u062A\u0636\u0627\u0641\u0629 \u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0641\u064A \u0639\u0627\u0645 2015 \u0639\u0643\u0633 \u0645\u0627 \u0643\u0627\u0646 \u0645\u062A\u0648\u0642\u0639\u0627\u064B \u0628\u0633\u0628\u0628 \u0627\u0644\u0638\u0631\u0648\u0641 \u0627\u0644\u0645\u0627\u0644\u064A\u0629 \u0627\u0644\u0635\u0639\u0628\u0629 \u0627\u0644\u062A\u064A \u062A\u0645\u0631 \u0628\u0647\u0627 \u062D\u0644\u0628\u0629 \u0647\u0648\u0643\u0646\u0647\u0627\u064A\u0645."@ar ,
+		"El circuito de Hockenheim o Hockenheimring es un aut\u00F3dromo localizado en las cercan\u00EDas de Hockenheim, Alemania. Las principales carreras que ha albergado son el Gran Premio de Alemania de F\u00F3rmula 1, primero en 1970 y luego anualmente desde 1977 hasta 2008 (salvo en 1985 y 2007), acompa\u00F1ado primero por la F\u00F3rmula 3000 y luego por la GP2 Series; y el Gran Premio de Alemania del Campeonato Mundial de Motociclismo en numerosas ocasiones entre 1957 y 1994. Hockenheimring ha sido sede tambi\u00E9n del Campeonato Mundial de Superbikes (1988-1997 y 1999-2000), el Campeonato Mundial de Resistencia (1966-1967, 1977 y 1985), el Campeonato FIA GT (1997-1999 y 2004). Al ser uno de los principales circuitos del pa\u00EDs, los campeonatos nacionales de automovilismo de velocidad y motociclismo de velocidad suelen correr all\u00ED. De hecho, el Deutsche Tourenwagen Masters lo ha usado como fecha inaugural y final en todas las temporadas, y la F\u00F3rmula 3 Euroseries hizo lo mismo a partir de 2004. Anteriormente, el Campeonato Alem\u00E1n de Automovilismo y el Campeonato Alem\u00E1n de Superturismos tambi\u00E9n corrieron en Hockenheimring."@es ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) L'Hockenheimring \u00E8 un circuito automobilistico che si trova vicino alla cittadina di Hockenheim nel nord del Land Baden-W\u00FCrttemberg in Germania. Fu costruito nel 1932 su dei sentieri nei boschi. Ora offre posto per oltre 110.000 spettatori. Ha ospitato trentacinque edizioni del Gran Premio di Germania di Formula 1 (nel 1970, dal 1977 al 1984, dal 1986 al 2006, nel 2008, nel 2010, nel 2012, nel 2014 e nel 2016) e dodici del Gran Premio di Germania di Superbike (dal 1988 al 1997 e dal 1999 al 2000). A partire dalla stagione 2007 l'Hockenheimring e lo stesso N\u00FCrburgring, entrambi alle prese con difficolt\u00E0 finanziarie, si alternano nell'organizzazione del Gran Premio nazionale, che \u00E8 ritornato quindi ad Hockenheim nel 2008, nel 2010 e nel 2012."@it ,
+		"\u0425\u043E\u043A\u043A\u0435\u043D\u0445\u0430\u0439\u043C\u0440\u0438\u043D\u0433 (\u043D\u0435\u043C. Hockenheimring Baden-W\u00FCrttemberg) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0440\u044F\u0434\u043E\u043C \u0441 \u0433\u043E\u0440\u043E\u0434\u043E\u043C \u0425\u043E\u043A\u043A\u0435\u043D\u0445\u0430\u0439\u043C, \u0444\u0435\u0434\u0435\u0440\u0430\u043B\u044C\u043D\u0430\u044F \u0437\u0435\u043C\u043B\u044F \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F. \u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 1970 \u0433\u043E\u0434\u0430. \u0412 2007, 2009 \u0438 2011 \u0433\u043E\u0434\u0430\u0445 \u0433\u043E\u043D\u043A\u0430 \u043D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0430\u0441\u044C, \u0442\u0430\u043A \u043A\u0430\u043A \u043F\u0440\u0438\u043D\u044F\u0442\u043E \u0440\u0435\u0448\u0435\u043D\u0438\u0435 \u0447\u0435\u0440\u0435\u0434\u043E\u0432\u0430\u0442\u044C \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0430\u0445 \u041D\u044E\u0440\u0431\u0443\u0440\u0433\u0440\u0438\u043D\u0433 \u0438 \u0425\u043E\u043A\u043A\u0435\u043D\u0445\u0430\u0439\u043C\u0440\u0438\u043D\u0433."@ru ,
+		"Le circuit d'Hockenheim (officiellement HockenheimRing Baden-W\u00FCrttemberg ) est un circuit automobile situ\u00E9 pr\u00E8s de la ville d'Hockenheim, en Allemagne, sur la Bertha Benz Memorial Route. Il est surtout connu pour accueillir le Grand Prix d'Allemagne de Formule 1 depuis 1970, d\u00E9sormais en alternance avec le N\u00FCrburgring."@fr ,
+		"O circuito de Hockenheim (nome oficial: Hockenheimring Baden-W\u00FCrttemberg) \u00E9 um aut\u00F3dromo localizado perto de Hockenheim, no estado de Baden-W\u00FCrttemberg, na Alemanha.\u00C9 conhecido pela sua grande hist\u00F3ria na F\u00F3rmula 1, sendo um dos circuitos mais antigos que est\u00E1 presente na categoria atualmente."@pt ,
+		"\u30DB\u30C3\u30B1\u30F3\u30CF\u30A4\u30E0\u30EA\u30F3\u30AF\uFF08\u30C9\u30A4\u30C4\u8A9E: Hockenheimring Baden-W\u00FCrttemberg\uFF09\u306F\u3001\u30C9\u30A4\u30C4\u306E\u5357\u897F\u90E8\u306E\u30D0\u30FC\u30C7\u30F3\uFF1D\u30F4\u30E5\u30EB\u30C6\u30F3\u30D9\u30EB\u30AF\u5DDE\u30E9\u30A4\u30F3\uFF1D\u30CD\u30C3\u30AB\u30FC\u90E1\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3002\u30CB\u30E5\u30EB\u30D6\u30EB\u30AF\u30EA\u30F3\u30AF\u3068\u9694\u5E74\u3067F1\u30C9\u30A4\u30C4GP\u304C\u884C\u308F\u308C\u308B\u3002"@ja ,
+		"Der Hockenheimring Baden-W\u00FCrttemberg (fr\u00FCher Hockenheimring, Kurpfalzring) ist eine Motorsport-Rennstrecke in der kurpf\u00E4lzischen Stadt Hockenheim s\u00FCdlich von Mannheim. Er liegt in der westlichen Schwetzinger Hardt."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Hockenheim2012.svg?width=300> ;
+	dbo:wikiPageRevisionID	736397278 ;
+	dbo:wikiPageID	948414 ;
+	dbp:lengthMi	4.2400000000000002132 ,
+		2.8420000000000000817 ;
+	dbp:location	"Am Motodrom, Hockenheim, Baden-W\u00FCrttemberg, Germany"^^xsd:string ;
+	dbp:layout	"Hockenheimer-Dreieck"^^xsd:string ,
+		"Kurpfalzring"^^xsd:string ,
+		"National Circuit"^^xsd:string ,
+		"Hockenheimring"^^xsd:string ,
+		"DTM National Circuit"^^xsd:string ,
+		"Short Course"^^xsd:string ;
+	dbp:recordClass	dbr:Formula_One ;
+	dbp:recordDriver	"Kimi R\u00E4ikk\u00F6nen"^^xsd:string ,
+		"Juan Pablo Montoya"^^xsd:string ;
+	dbp:recordTeam	dbr:McLaren ,
+		dbr:WilliamsF1 ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	2004 ,
+		2001 ;
+	dbp:turns	16 ,
+		17 ,
+		15 ;
+	dbp:fiaGrade	1 ;
+	dbp:name	"Hockenheimring Baden-W\u00FCrttemberg"^^xsd:string .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Hockenheimring	ns26:hypernym	dbr:Motor ;
+	dbp:events	dbr:German_Grand_Prix ,
+		"FIA Formula One"^^xsd:string ,
+		"DTM"^^xsd:string ,
+		dbr:World_RX_of_Hockenheim ;
+	dbp:opened	"1932-05-29"^^xsd:date ;
+	dbp:length3Mi	1.6390000000000000124 ;
+	dbp:length3Km	2.6379999999999999005 .
+<http://dbpedia.org/resource/1971_Jochen_Rindt_Ged\u00E4chtnisrennen>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2012_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2014_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2005_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2008_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2016_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2003_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2004_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2006_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1991_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1992_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1993_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1994_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1996_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1997_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1998_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1996_ITC_Hockenheim-1_round>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1996_ITC_Hockenheim-2_round>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2016_Hockenheimring_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2014_Hockenheimring_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2012_Hockenheimring_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2010_Hockenheimring_GP2_Series_round>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/2005_Hockenheimring_GP2_Series_round>	dbp:caption	dbr:Hockenheimring ;
+	dbp:location	dbr:Hockenheimring .
+wikipedia-en:Hockenheimring	foaf:primaryTopic	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1989_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/N\u00FCrburgring>	rdfs:seeAlso	dbr:Hockenheimring .
+dbr:German_Grand_Prix	dbp:circuit	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1977_German_motorcycle_Grand_Prix>	dbp:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/Markus_H\u00F6ttinger>	dbo:deathPlace	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1970_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1988_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1990_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1986_German_Grand_Prix>	dbo:location	dbr:Hockenheimring .
+<http://dbpedia.org/resource/1987_German_Grand_Prix>	dbp:location	dbr:Hockenheimring .
+dbr:Hockenheim_Circuit	dbo:wikiPageRedirects	dbr:Hockenheimring .
+<http://dbpedia.org/resource/Hockenheimring_Baden-W\u00FCrttemberg>	dbo:wikiPageRedirects	dbr:Hockenheimring .

@@ -1,0 +1,143 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1975_Swiss_Grand_Prix>	dbo:location	dbr:Dijon-Prenois .
+<http://dbpedia.org/resource/1974_French_Grand_Prix>	dbo:location	dbr:Dijon-Prenois .
+<http://dbpedia.org/resource/1979_French_Grand_Prix>	dbo:location	dbr:Dijon-Prenois .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Prenois	dbp:caption	dbr:Dijon-Prenois .
+<http://dbpedia.org/resource/1984_French_Grand_Prix>	dbp:course	dbr:Dijon-Prenois .
+<http://dbpedia.org/resource/1982_Swiss_Grand_Prix>	dbo:location	dbr:Dijon-Prenois .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Dijon-Prenois	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Object100002684 ,
+		yago:Area108497294 ,
+		yago:YagoLegalActorGeo ,
+		dbo:MotorsportSeason ,
+		yago:WikicatMotorsportVenuesInFrance ,
+		yago:Scene108645963 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Dijon-Prenois	rdf:type	geo:SpatialThing ,
+		<http://dbpedia.org/class/yago/WikicatSportsVenuesInC\u00F4te-d\u0027Or> ,
+		yago:Venue108677628 ,
+		yago:Location100027167 ,
+		yago:Region108630985 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Dijon-Prenois	rdfs:label	"\u0414\u0438\u0436\u043E\u043D-\u041F\u0440\u0435\u043D\u0443\u0430"@ru ,
+		"Circuito di Digione"@it ,
+		"Dijon-Prenois"@es ,
+		"Dijon-Prenois"@en ,
+		"\u30C7\u30A3\u30B8\u30E7\u30F3\u30FB\u30D7\u30EC\u30CE\u30EF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"Dijon-Prenois"@nl ,
+		"Circuit de Dijon-Prenois"@de ,
+		"Circuit de Dijon-Prenois"@fr ,
+		"Dijon-Prenois"@pt ,
+		"Circuit Dijon-Prenois"@pl ;
+	rdfs:comment	"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Digione \u00E8 un circuito automobilistico situato a Prenois, un sobborgo della citt\u00E0 di Digione, nella regione francese della Borgogna. Ha ospitato cinque edizioni del Gran Premio di Francia di Formula 1 (nel 1974, nel 1977, nel 1979, nel 1981 e nel 1984) e il Gran Premio di Svizzera di Formula 1 nel 1982."@it ,
+		"Dijon-Prenois \u00E9 um aut\u00F3dromo de 3,801 km (2,361 milhas) de extens\u00E3o, localizado em Prenois, perto de Dijon na Fran\u00E7a. Sediou cinco Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 entre 1974 e 1984. Em 1982 representou como Grande Pr\u00EAmio da Su\u00ED\u00E7a. Dijon n\u00E3o sediou em: 1975, 1976, 1978, 1980 e 1983 que foi em Paul Ricard. Foi em Dijon que o franc\u00EAs Alain Prost obteve a primeira vit\u00F3ria na categoria."@pt ,
+		"\u0422\u0440\u0430\u0441\u0441\u0430 \u0414\u0438\u0436\u043E\u043D-\u041F\u0440\u0435\u043D\u0443\u0430 (\u0444\u0440. Dijon-Prenois) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0432 \u041F\u0440\u0435\u043D\u0443\u0430 (\u0432 15 \u043A\u043C \u0441\u0435\u0432\u0435\u0440\u043E-\u0437\u0430\u043F\u0430\u0434\u043D\u0435\u0435 \u0414\u0438\u0436\u043E\u043D\u0430, \u0424\u0440\u0430\u043D\u0446\u0438\u044F). \u041E\u0442\u043A\u0440\u044B\u0442\u0430 \u0432 1972 \u0433\u043E\u0434\u0443. \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u043F\u044F\u0442\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 (\u0432 1974-1984 \u0433\u043E\u0434\u0430\u0445) \u0438 \u043E\u0434\u0438\u043D \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 \u0432 1982 \u0433\u043E\u0434\u0443. \u0422\u0430\u043A\u0436\u0435 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u044D\u0442\u0430\u043F\u044B \u0411\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u043A\u0443\u0437\u043E\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 (BTCS), \u0430 \u0432 2009 \u0433. \u044D\u0442\u0430\u043F \u0414\u0422\u041C (\u0432\u043C\u0435\u0441\u0442\u043E \u0442\u0440\u0430\u0441\u0441\u044B \u0432 \u041B\u0435-\u041C\u0430\u043D\u0435)."@ru ,
+		"Le circuit de Dijon-Prenois est un circuit fran\u00E7ais de sport m\u00E9canique situ\u00E9 \u00E0 Prenois pr\u00E8s de Dijon. L'inauguration du Stade automobile de Dijon-Prenois, avec un trac\u00E9 initial de 3,289 km, a eu lieu le 26 mai 1972. En 1975, sa longueur est port\u00E9e \u00E0 3,800 km. De nombreuses courses d'endurance se disput\u00E8rent sur le circuit : les 500 et 1 000 km de Dijon, les 4 et 6 heures de Dijon, le Championnat du Monde des protos et des Voitures de Sport FIA. Ant\u00E9rieurement les courses de Sports-Prototype se d\u00E9roulaient \u00E0 Dijon-Longvic depuis 1969."@fr ,
+		"Dijon-Prenois is a 3.801 km (2.362 mi) motor racing circuit located in Prenois, near Dijon, France. The undulating track is noted for its fast, sweeping bends. Opened in 1972, Dijon-Prenois hosted the Formula One French Grand Prix five times, and the Swiss Grand Prix in 1982. The non-championship 1975 Swiss Grand Prix was also held at Dijon. The circuit currently hosts the Grand Prix de l'Age d'Or, and last hosted the FFSA GT Championship in 2012."@en ,
+		"Het circuit Dijon-Prenois is een racecircuit nabij het Franse Dijon. Het circuit ligt in het hart van Bourgondi\u00EB en werd aangelegd in 1970. Met iets meer dan 3,2 km was het te kort voor de Formule 1; er ontstonden opstoppingen. Ook toen er een lus aan was toegevoegd, de Parabolique, waarmee de lengte op 3,9 km kwam, vond men het nog steeds niet lang genoeg.Toch bleek Dijon-Prenois populair bij het publiek en in een periode van tien jaar werden er vier races gehouden, waaronder gedenkwaardige als die van 1977: een gevecht tussen de Lotus van Mario Andretti en de Brabham van John Watson, dat de hele race duurde. Pas in de laatste ronde viel de beslissing, in het voordeel van de Amerikaan."@nl ,
+		"Circuit Dijon-Prenois \u2013 francuski tor wy\u015Bcigowy o d\u0142ugo\u015Bci 3,801 km po\u0142o\u017Cony w Prenois, nieopodal Dijon. Zbudowany w 1972, Circuit Dijon-Prenois 6 razy go\u015Bci\u0142 Formu\u0142\u0119 1 - pi\u0119\u0107 razy Grand Prix Francji i raz Grand Prix Szwajcarii. Pierwszy wy\u015Bcig F1 odby\u0142 si\u0119 w 1974 na oryginalnej p\u0119tli o d\u0142ugo\u015Bci 3,289 km. Problemem jednak by\u0142y uzyskiwane czasy okr\u0105\u017Ce\u0144 poni\u017Cej 1 minuty, co powodowa\u0142o cz\u0119st\u0105 konieczno\u015B\u0107 dublowania wolniejszych kierowc\u00F3w i spory t\u0142ok na torze. Dlatego w 1975 d\u0142ugo\u015B\u0107 toru powi\u0119kszono do 3,801 km a tak\u017Ce przeprofilowano cz\u0119\u015B\u0107 zakr\u0119t\u00F3w. F1 powr\u00F3ci\u0142a na tor w 1977, a ostateczniie opu\u015Bci\u0142a go po 1984. Mimo to tor ca\u0142y czas istnieje i jest aktywny. Rozgrywane s\u0105 na nim lokalne zawody. W sezonie 2009 na torze zorganizowany zosta\u0142 wy\u015Bcig DTM."@pl ,
+		"Die Motorsport-Rennstrecke Circuit de Dijon-Prenois wurde am 26. Mai 1972 als Stade Automobile de Dijon-Prenois im franz\u00F6sischen Burgund er\u00F6ffnet. Der im Uhrzeigersinn zu befahrende Kurs liegt etwa 15 Kilometer nordwestlich des Stadtkerns von Dijon nahe dem kleinen Vorort Prenois. Die urspr\u00FCngliche Streckenf\u00FChrung \u00FCber 3,289 km \u00E4hnelte grob einem Oval mit einer 1,1 km langen und leicht ansteigenden Start- und Zielgeraden, zwei gr\u00F6\u00DFeren Kurven und einer fl\u00FCssigen Abfolge von leichten Kurvenkombinationen in Schlangenlinienform anstelle einer Gegengeraden."@de ,
+		"\u30B7\u30EB\u30AD\u30E5\u30A4\u30FB\u30C7\u30A3\u30B8\u30E7\u30F3\u30FB\u30D7\u30EB\u30CE\u30EF\uFF08\u4ECF: Circuit Dijon-Prenois, \u30C7\u30A3\u30B8\u30E7\u30F3\u30FB\u30D7\u30EC\u30CE\u30EF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u3001\u30C7\u30A3\u30B8\u30E7\u30F3\u90CA\u5916\u306E\u5C0F\u6751\u3001\u30D7\u30EB\u30CE\u30EF\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3001\u6A19\u9AD8500m\u5F31\u306E\u5730\u70B9\u306B\u3042\u308B\u3002\u6BD4\u8F03\u7684\u9AD8\u901F\u3067\u8D70\u308B\u3053\u3068\u304C\u51FA\u6765\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3053\u3068\u304B\u3089\u3001\u30E8\u30FC\u30ED\u30D4\u30A2\u30F3\u30B9\u30BF\u30A4\u30EB\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u306E\u4E2D\u306B\u3042\u3063\u3066\u7279\u7570\u6027\u306E\u3042\u308B\u90E8\u985E\u306B\u5165\u308B\u3002 F1\u30D5\u30E9\u30F3\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\u304C1974\u5E74\u304B\u30891984\u5E74\u307E\u3067\u306B6\u56DE\u958B\u50AC\u3055\u308C\u305F(1982\u5E74\u306F\u30B9\u30A4\u30B9GP\u3068\u3057\u3066\u958B\u50AC)\u30021974\u5E74\u306EF1\u521D\u958B\u50AC\u306B\u304A\u3044\u3066\u306F3.289km\u306E\u77ED\u3044\u30EC\u30A4\u30A2\u30A6\u30C8\u3067\u958B\u50AC\u3057\u305F\u304C\u3001\u305D\u306E\u5F8C\u6539\u4FEE\u304C\u884C\u308F\u308C3.800km\u3068\u306A\u308A\u3001\u305D\u306E\u5F8C\u3082F1\u3067\u3082\u4F7F\u7528\u3055\u308C\u305F\u3002 \u3053\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u306F\u4F4E\u901F\u30B3\u30FC\u30CA\u30FC\u304C1\u3064\u3057\u304B\u306A\u3044\u30EC\u30A4\u30A2\u30A6\u30C8\u3067\u30011970\u5E74\u4EE3\u306EF1\u958B\u50AC\u5F53\u6642\u306EF1\u30DE\u30B7\u30F3\u3067\u3082\u4E00\u5468\u5E73\u5747\u901F\u5EA6\u304C\u6642\u901F200km\u8FD1\u304F\u306B\u9054\u3057\u305F\u9AD8\u901F\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u30021979\u5E74\u306B\u306F\u3001\u30A2\u30AF\u30BB\u30EB\u306E\u30EC\u30B9\u30DD\u30F3\u30B9\u306E\u60AA\u3055\u306B\u82E6\u3057\u3093\u3067\u3044\u305F\u30EB\u30CE\u30FCF1\u306E\u30BF\u30FC\u30DC\u8ECA\u304C\u3001\u3053\u306E\u30B3\u30FC\u30B9\u3067\u521D\u3081\u3066\u60B2\u9858\u306E\u52DD\u5229\u3092\u53CE\u3081\u305F\u3002\u305F\u3060\u3057\u3001\u3053\u306E\u30B0\u30E9\u30F3\u30D7\u30EA\u958B\u50AC\u524D\u306B\u306F\u3001\u958B\u50AC\u5EF6\u671F\u306E\u671F\u9593\u3092\u5229\u7528\u3057\u3066\u3001\u3053\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u30B7\u30E3\u30FC\u30B7\u304B\u3089\u30A8\u30F3\u30B8\u30F3\u3001\u30BF\u30A4\u30E4\u306A\u3069\u306B\u81F3\u308B\u307E\u3067\u7D76\u5BFE\u52DD\u5229\u306E\u305F\u3081\u306B\u3001\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30B8\u30E3\u30F3\u30FB\u30D4\u30A8\u30FC\u30EB\u30FB\u30B8\u30E3\u30D6\u30A4\u30FC\u30E6\u3089\u306F\u4E00\u4E38\u3068\u306A\u308A\u5FB9\u5E95\u3057\u305F\u30C6\u30B9\u30C8\u3092\u6562\u884C\u3057\u305F\u3068\u3044\u3046\u3002"@ja ,
+		"El Circuit de Dijon-Prenois es un aut\u00F3dromo ubicado a 12 km al oeste de la ciudad de Dijon, regi\u00F3n de Borgo\u00F1a, Francia. El Gran Premio de Francia de F\u00F3rmula 1 se disput\u00F3 en este circuito en las temporadas 1974, 1977, 1979, 1981 y 1984; tambi\u00E9n alberg\u00F3 al Gran Premio de Suiza de 1982. La Scuderia Ferrari no logr\u00F3 vencer en ninguna de las seis carreras."@es .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Dijon-Prenois	owl:sameAs	wikidata:Q172888 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Dijon-Prenois	owl:sameAs	dbpedia-wikidata:Q172888 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Dijon-Prenois	owl:sameAs	dbpedia-pl:Circuit_Dijon-Prenois ,
+		dbr:Dijon-Prenois .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Dijon-Prenois	owl:sameAs	dbpedia-fr:Circuit_de_Dijon-Prenois ,
+		<http://ja.dbpedia.org/resource/\u30C7\u30A3\u30B8\u30E7\u30F3\u30FB\u30D7\u30EC\u30CE\u30EF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Dijon-Prenois	owl:sameAs	yago-res:Dijon-Prenois .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Dijon-Prenois	owl:sameAs	dbpedia-pt:Dijon-Prenois ,
+		<http://rdf.freebase.com/ns/m.04xv5t> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Dijon-Prenois	owl:sameAs	dbpedia-nl:Dijon-Prenois .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Dijon-Prenois	owl:sameAs	dbpedia-es:Dijon-Prenois .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Dijon-Prenois	owl:sameAs	dbpedia-it:Circuito_di_Digione .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Dijon-Prenois	owl:sameAs	dbpedia-de:Circuit_de_Dijon-Prenois .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Dijon-Prenois	dct:subject	dbc:French_Grand_Prix ,
+		dbc:Sport_in_Burgundy ,
+		dbc:Motorsport_venues_in_France ,
+		dbc:Sport_in_Dijon ,
+		<http://dbpedia.org/resource/Category:Sports_venues_in_C\u00F4te-d\u0027Or> ,
+		dbc:Formula_One_circuits ,
+		dbc:World_Touring_Car_Championship_circuits ,
+		dbc:Swiss_Grand_Prix .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Dijon-Prenois	geo:lat	"47.362499237060546875"^^xsd:float ;
+	geo:long	"4.8991665840148925781"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Dijon-Prenois	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Dijon-Prenois_Circuit.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Dijon-Prenois	foaf:isPrimaryTopicOf	wikipedia-en:Dijon-Prenois .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Dijon-Prenois	geo:geometry	"POINT(4.8991665840149 47.362499237061)"^^virtrdf:Geometry ;
+	dbp:recordClass	"BOSS GP Dijon Motors Cup"^^xsd:string ;
+	dbp:time	"GMT +1"^^xsd:string ;
+	dbp:en	"Jos\u00E9 Rosinski"^^xsd:string ;
+	dbp:lang	"fr"^^xsd:string ;
+	dbp:langTitle	"Jos\u00E9 Rosinski"^^xsd:string ;
+	dbp:verticalAlign	"sup"^^xsd:string ;
+	dbp:lengthKm	3.2890000000000001457 ,
+		3.7999999999999998224 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Dijon-Prenois	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dijon-Prenois?oldid=702985664> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Dijon-Prenois	georss:point	"47.3625 4.899166666666667" ;
+	dbo:wikiPageExternalLink	<http://maps.google.com/maps?f=q&hl=en&q=Dijon,+France&ie=UTF8&om=1&z=15&ll=47.362461,4.89913&spn=0.012296,0.043259&t=k&iwloc=addr> ,
+		<http://www.circuit-dijon-prenois.com/> ;
+	dbp:location	dbr:France ,
+		dbr:Dijon ;
+	dbp:recordDriver	dbr:Ingo_Gerstl ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	2015 ;
+	dbp:turns	8 ,
+		9 ;
+	dbp:name	"Circuit de Dijon-Prenois"^^xsd:string ;
+	dbo:abstract	"\u30B7\u30EB\u30AD\u30E5\u30A4\u30FB\u30C7\u30A3\u30B8\u30E7\u30F3\u30FB\u30D7\u30EB\u30CE\u30EF\uFF08\u4ECF: Circuit Dijon-Prenois, \u30C7\u30A3\u30B8\u30E7\u30F3\u30FB\u30D7\u30EC\u30CE\u30EF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u3001\u30C7\u30A3\u30B8\u30E7\u30F3\u90CA\u5916\u306E\u5C0F\u6751\u3001\u30D7\u30EB\u30CE\u30EF\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3001\u6A19\u9AD8500m\u5F31\u306E\u5730\u70B9\u306B\u3042\u308B\u3002\u6BD4\u8F03\u7684\u9AD8\u901F\u3067\u8D70\u308B\u3053\u3068\u304C\u51FA\u6765\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3053\u3068\u304B\u3089\u3001\u30E8\u30FC\u30ED\u30D4\u30A2\u30F3\u30B9\u30BF\u30A4\u30EB\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u306E\u4E2D\u306B\u3042\u3063\u3066\u7279\u7570\u6027\u306E\u3042\u308B\u90E8\u985E\u306B\u5165\u308B\u3002 F1\u30D5\u30E9\u30F3\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\u304C1974\u5E74\u304B\u30891984\u5E74\u307E\u3067\u306B6\u56DE\u958B\u50AC\u3055\u308C\u305F(1982\u5E74\u306F\u30B9\u30A4\u30B9GP\u3068\u3057\u3066\u958B\u50AC)\u30021974\u5E74\u306EF1\u521D\u958B\u50AC\u306B\u304A\u3044\u3066\u306F3.289km\u306E\u77ED\u3044\u30EC\u30A4\u30A2\u30A6\u30C8\u3067\u958B\u50AC\u3057\u305F\u304C\u3001\u305D\u306E\u5F8C\u6539\u4FEE\u304C\u884C\u308F\u308C3.800km\u3068\u306A\u308A\u3001\u305D\u306E\u5F8C\u3082F1\u3067\u3082\u4F7F\u7528\u3055\u308C\u305F\u3002 \u3053\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u306F\u4F4E\u901F\u30B3\u30FC\u30CA\u30FC\u304C1\u3064\u3057\u304B\u306A\u3044\u30EC\u30A4\u30A2\u30A6\u30C8\u3067\u30011970\u5E74\u4EE3\u306EF1\u958B\u50AC\u5F53\u6642\u306EF1\u30DE\u30B7\u30F3\u3067\u3082\u4E00\u5468\u5E73\u5747\u901F\u5EA6\u304C\u6642\u901F200km\u8FD1\u304F\u306B\u9054\u3057\u305F\u9AD8\u901F\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u30021979\u5E74\u306B\u306F\u3001\u30A2\u30AF\u30BB\u30EB\u306E\u30EC\u30B9\u30DD\u30F3\u30B9\u306E\u60AA\u3055\u306B\u82E6\u3057\u3093\u3067\u3044\u305F\u30EB\u30CE\u30FCF1\u306E\u30BF\u30FC\u30DC\u8ECA\u304C\u3001\u3053\u306E\u30B3\u30FC\u30B9\u3067\u521D\u3081\u3066\u60B2\u9858\u306E\u52DD\u5229\u3092\u53CE\u3081\u305F\u3002\u305F\u3060\u3057\u3001\u3053\u306E\u30B0\u30E9\u30F3\u30D7\u30EA\u958B\u50AC\u524D\u306B\u306F\u3001\u958B\u50AC\u5EF6\u671F\u306E\u671F\u9593\u3092\u5229\u7528\u3057\u3066\u3001\u3053\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u30B7\u30E3\u30FC\u30B7\u304B\u3089\u30A8\u30F3\u30B8\u30F3\u3001\u30BF\u30A4\u30E4\u306A\u3069\u306B\u81F3\u308B\u307E\u3067\u7D76\u5BFE\u52DD\u5229\u306E\u305F\u3081\u306B\u3001\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30B8\u30E3\u30F3\u30FB\u30D4\u30A8\u30FC\u30EB\u30FB\u30B8\u30E3\u30D6\u30A4\u30FC\u30E6\u3089\u306F\u4E00\u4E38\u3068\u306A\u308A\u5FB9\u5E95\u3057\u305F\u30C6\u30B9\u30C8\u3092\u6562\u884C\u3057\u305F\u3068\u3044\u3046\u3002 \u307E\u305F\u30011981\u5E74\u306B\u306F\u30A2\u30E9\u30F3\u30FB\u30D7\u30ED\u30B9\u30C8\u304C\u3053\u306E\u30B3\u30FC\u30B9\u3067\u30B0\u30E9\u30F3\u30D7\u30EA\u521D\u512A\u52DD\u3092\u98FE\u3063\u3066\u3044\u308B\u3002\u30D7\u30ED\u30B9\u30C8\u306F\u5F8C\u306B4\u5EA6\u306E\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3092\u7372\u5F97\u3057\u30012015\u5E74\u73FE\u5728\u30D5\u30E9\u30F3\u30B9\u4EBA\u3067\u306F\u552F\u4E00\u306E\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u7372\u5F97\u8005\u3068\u306A\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"Dijon-Prenois \u00E9 um aut\u00F3dromo de 3,801 km (2,361 milhas) de extens\u00E3o, localizado em Prenois, perto de Dijon na Fran\u00E7a. Sediou cinco Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 entre 1974 e 1984. Em 1982 representou como Grande Pr\u00EAmio da Su\u00ED\u00E7a. Dijon n\u00E3o sediou em: 1975, 1976, 1978, 1980 e 1983 que foi em Paul Ricard. Foi em Dijon que o franc\u00EAs Alain Prost obteve a primeira vit\u00F3ria na categoria."@pt ,
+		"\u0422\u0440\u0430\u0441\u0441\u0430 \u0414\u0438\u0436\u043E\u043D-\u041F\u0440\u0435\u043D\u0443\u0430 (\u0444\u0440. Dijon-Prenois) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0432 \u041F\u0440\u0435\u043D\u0443\u0430 (\u0432 15 \u043A\u043C \u0441\u0435\u0432\u0435\u0440\u043E-\u0437\u0430\u043F\u0430\u0434\u043D\u0435\u0435 \u0414\u0438\u0436\u043E\u043D\u0430, \u0424\u0440\u0430\u043D\u0446\u0438\u044F). \u041E\u0442\u043A\u0440\u044B\u0442\u0430 \u0432 1972 \u0433\u043E\u0434\u0443. \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u043F\u044F\u0442\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 (\u0432 1974-1984 \u0433\u043E\u0434\u0430\u0445) \u0438 \u043E\u0434\u0438\u043D \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 \u0432 1982 \u0433\u043E\u0434\u0443. \u0422\u0430\u043A\u0436\u0435 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u044D\u0442\u0430\u043F\u044B \u0411\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u043A\u0443\u0437\u043E\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 (BTCS), \u0430 \u0432 2009 \u0433. \u044D\u0442\u0430\u043F \u0414\u0422\u041C (\u0432\u043C\u0435\u0441\u0442\u043E \u0442\u0440\u0430\u0441\u0441\u044B \u0432 \u041B\u0435-\u041C\u0430\u043D\u0435)."@ru ,
+		"Dijon-Prenois is a 3.801 km (2.362 mi) motor racing circuit located in Prenois, near Dijon, France. The undulating track is noted for its fast, sweeping bends. Opened in 1972, Dijon-Prenois hosted the Formula One French Grand Prix five times, and the Swiss Grand Prix in 1982. The non-championship 1975 Swiss Grand Prix was also held at Dijon. The circuit currently hosts the Grand Prix de l'Age d'Or, and last hosted the FFSA GT Championship in 2012."@en ,
+		"Le circuit de Dijon-Prenois est un circuit fran\u00E7ais de sport m\u00E9canique situ\u00E9 \u00E0 Prenois pr\u00E8s de Dijon. L'inauguration du Stade automobile de Dijon-Prenois, avec un trac\u00E9 initial de 3,289 km, a eu lieu le 26 mai 1972. En 1975, sa longueur est port\u00E9e \u00E0 3,800 km. De nombreuses courses d'endurance se disput\u00E8rent sur le circuit : les 500 et 1 000 km de Dijon, les 4 et 6 heures de Dijon, le Championnat du Monde des protos et des Voitures de Sport FIA. Ant\u00E9rieurement les courses de Sports-Prototype se d\u00E9roulaient \u00E0 Dijon-Longvic depuis 1969."@fr ,
+		"El Circuit de Dijon-Prenois es un aut\u00F3dromo ubicado a 12 km al oeste de la ciudad de Dijon, regi\u00F3n de Borgo\u00F1a, Francia. El Gran Premio de Francia de F\u00F3rmula 1 se disput\u00F3 en este circuito en las temporadas 1974, 1977, 1979, 1981 y 1984; tambi\u00E9n alberg\u00F3 al Gran Premio de Suiza de 1982. La Scuderia Ferrari no logr\u00F3 vencer en ninguna de las seis carreras. El trazado original de 3.289 metros fue inaugurado el 26 de mayo de 1972. Debido a que los bajos tiempos de vuelta en el Gran Premio de Francia de 1974 causaban congestiones entre los rezagados y los punteros, se agreg\u00F3 una extensi\u00F3n en el a\u00F1o 1975 para alcanzar los 3.801 metros finales. La victoria de Jean-Pierre Jabouille en el Gran Premio de Francia de 1979 al volante de un Renault F1 supuso la primera victoria de un motor sobrealimentado y la primera de ese equipo. Adem\u00E1s, la logr\u00F3 un piloto franc\u00E9s con un autom\u00F3vil franc\u00E9s, neum\u00E1ticos franceses (Michelin) y combustible franc\u00E9s (Elf Aquitaine). En esa misma carrera, el canadiense Gilles Villeneuve y el franc\u00E9s Ren\u00E9 Arnoux disputaron ferozmente la segunda posici\u00F3n durante varias vueltas. Dijon-Prenois fue visitado por el Campeonato Mundial de Turismos en 1987, la F\u00F3rmula 3000 Internacional en 1985, 1988 y 1989, la F\u00F3rmula 3000 Europea en 2002 y 2004, la BPR Global GT Series en 1994, el Campeonato FIA GT en 1998 y 2006, el Campeonato de la FIA de Sport Prototipos en 2002, y el Deutsche Tourenwagen Masters y la F\u00F3rmula 3 Euroseries en 2009. En la actualidad, Dijon-Prenois alberga fechas de los campeonatos franceses de gran turismos, F\u00F3rmula Renault y motociclismo de velocidad, as\u00ED como carreras de autom\u00F3viles hist\u00F3ricos."@es ,
+		"Die Motorsport-Rennstrecke Circuit de Dijon-Prenois wurde am 26. Mai 1972 als Stade Automobile de Dijon-Prenois im franz\u00F6sischen Burgund er\u00F6ffnet. Der im Uhrzeigersinn zu befahrende Kurs liegt etwa 15 Kilometer nordwestlich des Stadtkerns von Dijon nahe dem kleinen Vorort Prenois. Die urspr\u00FCngliche Streckenf\u00FChrung \u00FCber 3,289 km \u00E4hnelte grob einem Oval mit einer 1,1 km langen und leicht ansteigenden Start- und Zielgeraden, zwei gr\u00F6\u00DFeren Kurven und einer fl\u00FCssigen Abfolge von leichten Kurvenkombinationen in Schlangenlinienform anstelle einer Gegengeraden. Vor dem Umbau 1975 wurde hier 1974 ein Formel-1-Rennen ausgetragen; danach gab es auf der nun 3,801 km langen Strecke bis 1984 weitere f\u00FCnf Grand Prix. Inzwischen wird die Strecke haupts\u00E4chlich f\u00FCr verschiedene nationale Meisterschaften von Frankreich und der Schweiz sowie f\u00FCr zahlreiche Club- und Test-Veranstaltungen genutzt. Am 11. Oktober 2009 wurde erstmals ein DTM-Lauf in Dijon ausgetragen, der das bisherige Frankreich-Gastspiel in Le Mans auf dem Circuit Bugatti ersetzte."@de ,
+		"Het circuit Dijon-Prenois is een racecircuit nabij het Franse Dijon. Het circuit ligt in het hart van Bourgondi\u00EB en werd aangelegd in 1970. Met iets meer dan 3,2 km was het te kort voor de Formule 1; er ontstonden opstoppingen. Ook toen er een lus aan was toegevoegd, de Parabolique, waarmee de lengte op 3,9 km kwam, vond men het nog steeds niet lang genoeg.Toch bleek Dijon-Prenois populair bij het publiek en in een periode van tien jaar werden er vier races gehouden, waaronder gedenkwaardige als die van 1977: een gevecht tussen de Lotus van Mario Andretti en de Brabham van John Watson, dat de hele race duurde. Pas in de laatste ronde viel de beslissing, in het voordeel van de Amerikaan. In 1979 was men er getuige van de eerste Grand Prix-overwinning van een Formule 1-auto met een turbomotor; die van Jean-Pierre Jabouille met Renault. Een historische zege, maar het publiek was veel meer ge\u00EFnteresseerd in de dramatische strijd om de tweede plaats tussen Ren\u00E9 Arnoux en Gilles Villeneuve. Arnoux had een snellere wagen, de Ferrari van Villeneuve reed al een tijdje op versleten banden maar had aan boord een technisch zeer begaafde rijder. Meermaals haalden ze elkaar in, ronde na ronde, en op bepaalde momenten zat het voorwiel van de ene tussen de wielen van de andere en dat aan zeer hoge snelheid. Vanaf 1985 werd uitgeweken naar Paul Ricard. (*) = Niet als Franse, maar als Zwitserse Grand Prix verreden."@nl ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Digione \u00E8 un circuito automobilistico situato a Prenois, un sobborgo della citt\u00E0 di Digione, nella regione francese della Borgogna. Ha ospitato cinque edizioni del Gran Premio di Francia di Formula 1 (nel 1974, nel 1977, nel 1979, nel 1981 e nel 1984) e il Gran Premio di Svizzera di Formula 1 nel 1982."@it ,
+		"Circuit Dijon-Prenois \u2013 francuski tor wy\u015Bcigowy o d\u0142ugo\u015Bci 3,801 km po\u0142o\u017Cony w Prenois, nieopodal Dijon. Zbudowany w 1972, Circuit Dijon-Prenois 6 razy go\u015Bci\u0142 Formu\u0142\u0119 1 - pi\u0119\u0107 razy Grand Prix Francji i raz Grand Prix Szwajcarii. Pierwszy wy\u015Bcig F1 odby\u0142 si\u0119 w 1974 na oryginalnej p\u0119tli o d\u0142ugo\u015Bci 3,289 km. Problemem jednak by\u0142y uzyskiwane czasy okr\u0105\u017Ce\u0144 poni\u017Cej 1 minuty, co powodowa\u0142o cz\u0119st\u0105 konieczno\u015B\u0107 dublowania wolniejszych kierowc\u00F3w i spory t\u0142ok na torze. Dlatego w 1975 d\u0142ugo\u015B\u0107 toru powi\u0119kszono do 3,801 km a tak\u017Ce przeprofilowano cz\u0119\u015B\u0107 zakr\u0119t\u00F3w. F1 powr\u00F3ci\u0142a na tor w 1977, a ostateczniie opu\u015Bci\u0142a go po 1984. Mimo to tor ca\u0142y czas istnieje i jest aktywny. Rozgrywane s\u0105 na nim lokalne zawody. W sezonie 2009 na torze zorganizowany zosta\u0142 wy\u015Bcig DTM."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Dijon-Prenois_Circuit.svg?width=300> ;
+	dbo:wikiPageRevisionID	702985664 ;
+	dbo:wikiPageID	1376489 ;
+	dbp:layout	"Grand Prix Circuit"^^xsd:string ,
+		"Short Circuit"^^xsd:string ;
+	dbp:lengthMi	2.4150000000000000355 ,
+		2.0440000000000000391 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Dijon-Prenois	ns26:hypernym	dbr:Motor ;
+	dbp:recordTeam	dbr:Toro_Rosso ,
+		dbr:Toro_Rosso_STR1 ;
+	dbp:events	<http://dbpedia.org/resource/Grand_Prix_de_l\u0027Age_d\u0027Or> ,
+		<http://dbpedia.org/resource/Formula_Renault_2.0_West_European_Cup> ,
+		dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1987_Burgundy_500>	dbp:courseName	dbr:Dijon-Prenois .
+<http://dbpedia.org/resource/1977_French_Grand_Prix>	dbo:location	dbr:Dijon-Prenois .
+<http://dbpedia.org/resource/1981_French_Grand_Prix>	dbo:location	dbr:Dijon-Prenois .
+wikipedia-en:Dijon-Prenois	foaf:primaryTopic	dbr:Dijon-Prenois .
+dbr:Dijon_Prenois	dbo:wikiPageRedirects	dbr:Dijon-Prenois .
+dbr:Swiss_Grand_Prix	dbp:circuit	dbr:Dijon-Prenois .
+dbr:Circuit_de_Dijon-Prenois	dbo:wikiPageRedirects	dbr:Dijon-Prenois .

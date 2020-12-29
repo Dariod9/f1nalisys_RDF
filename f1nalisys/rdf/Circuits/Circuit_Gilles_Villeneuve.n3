@@ -1,0 +1,208 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2004_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1982_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1978_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1995_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Circuit_Gilles_Villeneuve	rdf:type	yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		dbo:MotorsportSeason ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:Area108497294 ,
+		yago:Path109387222 ,
+		yago:Line108593262 ,
+		yago:WikicatSportsVenuesInMontreal .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Circuit_Gilles_Villeneuve	rdf:type	geo:SpatialThing ,
+		yago:WikicatNASCARTracks ,
+		yago:WikicatMotorsportVenuesInCanada .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Circuit_Gilles_Villeneuve	rdfs:label	"Circuito Gilles Villeneuve"@pt ,
+		"Circuit Gilles-Villeneuve"@de ,
+		"Circuit Gilles-Villeneuve"@fr ,
+		"Circuit Gilles Villeneuve"@pl ,
+		"\u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0438\u043C\u0435\u043D\u0438 \u0416\u0438\u043B\u044F \u0412\u0438\u043B\u044C\u043D\u0451\u0432\u0430"@ru ,
+		"Circuito Gilles Villeneuve"@es ,
+		"Circuit Gilles Villeneuve"@en ,
+		"Circuit Gilles Villeneuve"@nl ,
+		"\u062D\u0644\u0628\u0629 \u062C\u064A\u0644 \u0641\u064A\u0644\u0646\u0648\u0641"@ar ,
+		"\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"Circuito di Montr\u00E9al"@it ;
+	rdfs:comment	"Der Circuit Gilles-Villeneuve ist eine tempor\u00E4re Motorsport-Rennstrecke auf der \u00CEle Notre-Dame in der kanadischen Stadt Montr\u00E9al. Die Strecke wurde am 12. Juni 1982 nach dem kanadischen Rennfahrer Gilles Villeneuve benannt. Villeneuve war f\u00FCnf Wochen vorher beim Gro\u00DFen Preis von Belgien t\u00F6dlich verungl\u00FCckt. Der urspr\u00FCngliche Name Circuit \u00CEle-Notre-Dame leitete sich von der gleichnamigen Insel ab. Auf dem Stadtkurs fand zwischen 1978 und 2008 allj\u00E4hrlich der Gro\u00DFe Preis von Kanada der Formel 1 statt. Nach einem Jahr Unterbrechung kehrte die Veranstaltung 2010 zur\u00FCck."@de ,
+		"El Circuito Gilles Villeneuve, oficialmente Circuit Gilles-Villeneuve en franc\u00E9s, es un circuito de carreras callejero localizado en la \u00CEle Notre-Dame, una isla artificial situada en el r\u00EDo San Lorenzo y que es parte del Parque Jean-Drapeau de la ciudad de Montreal, provincia de Quebec, Canad\u00E1. El circuito originalmente ten\u00EDa la denominaci\u00F3n Circuit \u00CEle Notre-Dame. Su nombre actual debe al piloto canadiense Gilles Villeneuve, nacido en Quebec y vencedor del Gran Premio de Canad\u00E1 de 1978, luego de fallecer durante las pruebas de calificaci\u00F3n del Gran Premio de B\u00E9lgica de 1982."@es ,
+		"\u062D\u0644\u0628\u0629 \u062C\u064A\u0644 \u0641\u064A\u0644\u0646\u0648\u0641 \u0647\u064A \u062D\u0644\u0628\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A\u060C \u0648\u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0643\u0646\u062F\u064A \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u060C \u0648\u0633\u0628\u0627\u0642\u0627\u062A \u0633\u0644\u0633\u0644\u0629 \u0646\u0627\u0633\u0643\u0627\u0631\u060C \u0648\u0646\u0627\u0633\u0643\u0627\u0631 \u0627\u0644\u0643\u0646\u062F\u064A\u0629 \u0627\u0644\u0648\u0637\u0646\u064A\u0629 \u0648\u0633\u0644\u0633\u0644\u0629 \u0633\u0628\u0627\u0642\u0627\u062A \u063A\u0631\u0627\u0646\u062F \u0622\u0645 \u0631\u0648\u0644\u0643\u0633 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629.\u062A\u0642\u0639 \u0627\u0644\u062D\u0644\u0628\u0629 \u0639\u0644\u0649 \u062C\u0632\u064A\u0631\u0629 \u0625\u064A\u0644 \u0646\u0648\u062A\u0631\u062F\u0627\u0645\u060C \u0648\u0647\u064A \u062C\u0632\u064A\u0631\u0629 \u0645\u0646 \u0635\u0646\u0639 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0639\u0644\u0649 \u0646\u0647\u0631 \u0633\u0627\u0646\u062A \u0644\u0648\u0631\u0627\u0646\u0633 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0645\u0648\u0646\u062A\u0631\u064A\u0627\u0644\u060C \u0639\u0631\u0641\u062A \u0641\u064A \u0627\u0644\u0628\u062F\u0627\u064A\u0629 \u0628\u0627\u0633\u0645 \u062D\u0644\u0628\u0629 \u0625\u064A\u0644 \u0646\u0648\u062A\u0631\u062F\u0627\u0645. \u0648\u0623\u0639\u064A\u062F\u062A \u062A\u0633\u0645\u064A\u0629 \u0627\u0644\u062D\u0644\u0628\u0629 \u0641\u064A\u0645\u0627 \u0628\u0639\u062F \u062A\u0643\u0631\u064A\u0645\u0627 \u0644\u0644\u0643\u0646\u062F\u064A \u062C\u064A\u0644 \u0641\u064A\u0644\u0646\u0648\u0641 \u0633\u0627\u0626\u0642 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0628\u0639\u062F \u0648\u0641\u0627\u062A\u0647 \u0641\u064A \u0639\u0627\u0645 1982. \u064A\u062A\u0643\u0648\u0646 \u0645\u0633\u0627\u0631 \u0627\u0644\u0633\u0628\u0627\u0642 \u0641\u064A \u0627\u0644\u062D\u0644\u0628\u0629 \u0645\u0646 \u0645\u062C\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0646\u0639\u0637\u0641\u0627\u062A \u0627\u0644\u0633\u0631\u064A\u0639\u0629 \u0648\u0627\u0644\u0628\u0637\u064A\u0626\u0629 \u0639\u0644\u0649 \u0637\u0648\u0644 \u0627\u0644\u0645\u0633\u0627\u0631 \u0627\u0644\u0630\u064A \u062A\u0628\u0644\u063A \u0645\u0633\u0627\u0641\u062A\u0647 4,361 \u0645\u062A\u0631 \u0628\u0627\u062A\u062C\u0627\u0647 \u0639\u0642\u0627\u0631\u0628 \u0627\u0644\u0633\u0627\u0639\u0629."@ar ,
+		"Le circuit Gilles-Villeneuve est un circuit de sports m\u00E9caniques situ\u00E9 au parc Jean-Drapeau sur l'\u00EEle Notre-Dame, au milieu du Fleuve Saint-Laurent, \u00E0 Montr\u00E9al, Canada. Il porte son nom en l'honneur du pilote canadien Gilles Villeneuve, qui y obtint sa premi\u00E8re victoire en 1978, et qui se tua lors de la s\u00E9ance de qualification du Grand-Prix de Formule 1 de Belgique \u00E0 Zolder le 8 mai 1982. Sur l'emplacement de la ligne de d\u00E9part est inscrit \u00AB Salut Gilles \u00BB. Le Grand Prix du Canada de F1 s'y est tenu de 1978 \u00E0 2008. Apr\u00E8s une pause en 2009, celui-ci s'y court \u00E0 nouveau depuis 2010."@fr ,
+		"\u30B7\u30EB\u30AD\u30E5\u30A4\u30FB\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\uFF08\u4ECF: Circuit Gilles Villeneuve, \u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF09\u306F\u30AB\u30CA\u30C0\u3001\u30B1\u30D9\u30C3\u30AF\u5DDE\u30E2\u30F3\u30C8\u30EA\u30AA\u30FC\u30EB\u306E\u30BB\u30F3\u30C8\u30FB\u30ED\u30FC\u30EC\u30F3\u30B9\u5DDD\u306E\u30CE\u30FC\u30C8\u30EB\u30C0\u30E0\u5CF6\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u5168\u95774,361m\u3002"@ja ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Montr\u00E9al, intitolato a Gilles Villeneuve, \u00E8 un tracciato automobilistico che sorge nel Parc Jean-Drapeau sull'Isola Notre-Dame, costruita per le Olimpiadi del 1976 nell'estuario del fiume San Lorenzo."@it ,
+		"Circuit Gilles Villeneuve \u2013 tor wy\u015Bcigowy Formu\u0142y 1. Tor w Montrealu zosta\u0142 zbudowany w 1978 roku przy wykorzystaniu infrastruktury dr\u00F3g i parking\u00F3w stworzonych z my\u015Bl\u0105 o mi\u0119dzynarodowych targach EXPO \u201967. Pocz\u0105tkowo nosi\u0142 on nazw\u0119 Circuit \u00CEle Notre-Dame, ale w 1982 roku nazwano go imieniem tragicznie zmar\u0142ego kanadyjskiego kierowcy Gilles\u2019a Villeneuve\u2019a. Tor jest mieszank\u0105 szybkich i wolnych zakr\u0119t\u00F3w, a kr\u00F3tkie proste o do\u015B\u0107 wyboistej nawierzchni s\u0105 ogrodzone metalowymi barierkami. Przed sezonem 2002 przeprowadzono modernizacj\u0119 szykany przed prost\u0105 startow\u0105, co znacznie ograniczy\u0142o osi\u0105gane w tym miejscu pr\u0119dko\u015Bci, a tym samym poprawi\u0142o bezpiecze\u0144stwo."@pl ,
+		"The Circuit Gilles Villeneuve is a motor racing circuit in Montreal, Quebec, Canada. It is the venue for the FIA Formula One Canadian Grand Prix. It has previously hosted the FIA World Sportscar Championship, the Champ Car World Series, the NASCAR Canadian Tire Series, the NASCAR Xfinity Series and the Grand-Am Rolex Sports Car Series. The venue hosted the Champ Car World Series Grand Prix of Montreal from 2002 to 2006. The 2011 edition took place on June 12 at 1:00 pm (17:00 GMT) and was the longest World Championship Grand Prix ever, due to a lengthy rain delay."@en ,
+		"\u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0438\u043C\u0435\u043D\u0438 \u0416\u0438\u043B\u044F \u0412\u0438\u043B\u044C\u043D\u0451\u0432\u0430 (\u0444\u0440. Circuit Gilles Villeneuve) \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041A\u0430\u043D\u0430\u0434\u044B \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB, \u0433\u043E\u043D\u043E\u043A Champ Car (\u0432 2002\u20142006 \u0433\u043E\u0434\u0430\u0445) \u0438 NASCAR Nationwide Series. \u0422\u0440\u0430\u0441\u0441\u0430 \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u043D\u0430 \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u043C \u043E\u0441\u0442\u0440\u043E\u0432\u0435 \u041D\u043E\u0442\u0440-\u0414\u0430\u043C \u043D\u0430 \u0440\u0435\u043A\u0435 \u0421\u0432\u044F\u0442\u043E\u0433\u043E \u041B\u0430\u0432\u0440\u0435\u043D\u0442\u0438\u044F \u0432 \u041C\u043E\u043D\u0440\u0435\u0430\u043B\u0435, \u041A\u0430\u043D\u0430\u0434\u0430. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u043D\u0430\u0437\u0432\u0430\u043D \u0432 \u0447\u0435\u0441\u0442\u044C \u043A\u0430\u043D\u0430\u0434\u0441\u043A\u043E\u0433\u043E \u0433\u043E\u043D\u0449\u0438\u043A\u0430 \u0416\u0438\u043B\u044F \u0412\u0438\u043B\u044C\u043D\u0451\u0432\u0430 \u0432 1982 \u0433\u043E\u0434\u0443, \u0434\u043E \u044D\u0442\u043E\u0433\u043E \u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043B\u0441\u044F \u041E\u0441\u0442\u0440\u043E\u0432 \u041D\u043E\u0442\u0440-\u0414\u0430\u043C (\u0444\u0440. Circuit \u00CEle Notre-Dame)."@ru ,
+		"O Circuito Gilles Villeneuve  \u00E9 um circuito localizado na Ilha de Notre Dame, na cidade de Montreal, maior cidade da prov\u00EDncia de Quebec, no Canad\u00E1. \u00C9 a sede anual do Grande Pr\u00EAmio do Canad\u00E1 de F\u00F3rmula 1 desde 1978. Recebeu esse nome em homenagem ao piloto Gilles Villeneuve."@pt ,
+		"Het Circuit Gilles Villeneuve is een stratencircuit nabij Montreal in Canada. Het 4,5 km lange circuit Ile de Notre Dame (later hernoemd naar Circuit Gilles Villeneuve) werd aangelegd op een kunstmatig eiland in de Saint Lawrence. Het werd ontworpen door Roger Peart te midden van meren en de paviljoenparken van de Expo 67. Het loopt langs de roeibaan die gebruikt werd voor de Olympische Spelen van 1976. E\u00E9n van de meest karakteristieke beelden is het paviljoen dat er voor iedereen uitziet als een enorme golfbal als achtergrond bij de wagens in de haarspeldbocht."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Circuit_Gilles_Villeneuve	dbp:fiagrade	1 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbr:Circuit_Gilles_Villeneuve ,
+		<http://sws.geonames.org/5922806/> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbpedia-pl:Circuit_Gilles_Villeneuve .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbpedia-wikidata:Q172860 ,
+		<http://rdf.freebase.com/ns/m.03sf74> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	wikidata:Q172860 ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	yago-res:Circuit_Gilles_Villeneuve .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbpedia-pt:Circuito_Gilles_Villeneuve .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbpedia-es:Circuito_Gilles_Villeneuve ,
+		<http://it.dbpedia.org/resource/Circuito_di_Montr\u00E9al> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbpedia-cs:Circuit_Gilles_Villeneuve .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbpedia-id:Sirkuit_Gilles_Villeneuve .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbpedia-nl:Circuit_Gilles_Villeneuve .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbpedia-fr:Circuit_Gilles-Villeneuve .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Circuit_Gilles_Villeneuve	owl:sameAs	dbpedia-de:Circuit_Gilles-Villeneuve .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Circuit_Gilles_Villeneuve	dct:subject	dbc:NASCAR_tracks ,
+		dbc:Champ_Car_circuits ,
+		dbc:Canadian_Grand_Prix ,
+		dbc:Road_racing_venues_in_Canada ,
+		dbc:Motorsport_venues_in_Canada ,
+		dbc:Formula_One_circuits ,
+		dbc:Sports_venues_in_Montreal ,
+		dbc:Parc_Jean-Drapeau .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns22:	<http://www.circuitgillesvilleneuve.ca/> .
+dbr:Circuit_Gilles_Villeneuve	foaf:homepage	ns22:en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Circuit_Gilles_Villeneuve	geo:lat	"45.500576019287109375"^^xsd:float ;
+	geo:long	"-73.5224609375"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/\u00CEle_Notre-Dame_(Circuit_Gilles_Villeneuve).svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Circuit_Gilles_Villeneuve	foaf:isPrimaryTopicOf	wikipedia-en:Circuit_Gilles_Villeneuve .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Circuit_Gilles_Villeneuve	geo:geometry	"POINT(-73.5224609375 45.500576019287)"^^virtrdf:Geometry ;
+	dbp:opened	1978 ;
+	dbp:time	"GMT \u22125"^^xsd:string ;
+	dbp:lengthKm	4.3609999999999997655 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Circuit_Gilles_Villeneuve	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve?oldid=736384765> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Circuit_Gilles_Villeneuve	georss:point	"45.50057777777778 -73.52246111111111" ;
+	dbo:wikiPageExternalLink	ns22:en ,
+		<http://www.webcitation.org/query?url=http://www.geocities.com/ciroalbertopabon/Circuitos_eng.htm&date=2009-10-25+17:21:30> ,
+		<http://www.parcjeandrapeau.com> ,
+		<http://www.play-montreal.com/?p=40> ,
+		<http://www.f1fanatic.co.uk/f1-information/going-to-a-race/circuit-gilles-villeneuve-canada/> .
+@prefix ns28:	<http://www.f1db.com/f1/page/> .
+dbr:Circuit_Gilles_Villeneuve	dbo:wikiPageExternalLink	ns28:Circuit_Gilles_Villeneuve ,
+		<http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/circuit_guide/4250793.stm> .
+@prefix ns29:	<http://www.trackpedia.com/wiki/> .
+dbr:Circuit_Gilles_Villeneuve	dbo:wikiPageExternalLink	ns29:Circuit_Gilles_Villeneuve ,
+		<http://www.formula1.com/news/features/2008/6/7882.html> ,
+		<http://www.formula1.com/news/features/2008/6/7877.html> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> ,
+		<http://www.formula1.com/races/in_detail/canada_793/> ;
+	dbp:location	dbr:Parc_Jean-Drapeau ,
+		"Montreal, Quebec, Canada"^^xsd:string ,
+		"H3C 6A1"^^xsd:string ;
+	dbp:recordDriver	"Rubens Barrichello"^^xsd:string ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	2004 ;
+	dbp:turns	13 ;
+	dbp:name	"Circuit Gilles Villeneuve"^^xsd:string ;
+	dbo:abstract	"\u062D\u0644\u0628\u0629 \u062C\u064A\u0644 \u0641\u064A\u0644\u0646\u0648\u0641 \u0647\u064A \u062D\u0644\u0628\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A\u060C \u0648\u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0643\u0646\u062F\u064A \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u060C \u0648\u0633\u0628\u0627\u0642\u0627\u062A \u0633\u0644\u0633\u0644\u0629 \u0646\u0627\u0633\u0643\u0627\u0631\u060C \u0648\u0646\u0627\u0633\u0643\u0627\u0631 \u0627\u0644\u0643\u0646\u062F\u064A\u0629 \u0627\u0644\u0648\u0637\u0646\u064A\u0629 \u0648\u0633\u0644\u0633\u0644\u0629 \u0633\u0628\u0627\u0642\u0627\u062A \u063A\u0631\u0627\u0646\u062F \u0622\u0645 \u0631\u0648\u0644\u0643\u0633 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629.\u062A\u0642\u0639 \u0627\u0644\u062D\u0644\u0628\u0629 \u0639\u0644\u0649 \u062C\u0632\u064A\u0631\u0629 \u0625\u064A\u0644 \u0646\u0648\u062A\u0631\u062F\u0627\u0645\u060C \u0648\u0647\u064A \u062C\u0632\u064A\u0631\u0629 \u0645\u0646 \u0635\u0646\u0639 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0639\u0644\u0649 \u0646\u0647\u0631 \u0633\u0627\u0646\u062A \u0644\u0648\u0631\u0627\u0646\u0633 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0645\u0648\u0646\u062A\u0631\u064A\u0627\u0644\u060C \u0639\u0631\u0641\u062A \u0641\u064A \u0627\u0644\u0628\u062F\u0627\u064A\u0629 \u0628\u0627\u0633\u0645 \u062D\u0644\u0628\u0629 \u0625\u064A\u0644 \u0646\u0648\u062A\u0631\u062F\u0627\u0645. \u0648\u0623\u0639\u064A\u062F\u062A \u062A\u0633\u0645\u064A\u0629 \u0627\u0644\u062D\u0644\u0628\u0629 \u0641\u064A\u0645\u0627 \u0628\u0639\u062F \u062A\u0643\u0631\u064A\u0645\u0627 \u0644\u0644\u0643\u0646\u062F\u064A \u062C\u064A\u0644 \u0641\u064A\u0644\u0646\u0648\u0641 \u0633\u0627\u0626\u0642 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0628\u0639\u062F \u0648\u0641\u0627\u062A\u0647 \u0641\u064A \u0639\u0627\u0645 1982. \u064A\u062A\u0643\u0648\u0646 \u0645\u0633\u0627\u0631 \u0627\u0644\u0633\u0628\u0627\u0642 \u0641\u064A \u0627\u0644\u062D\u0644\u0628\u0629 \u0645\u0646 \u0645\u062C\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0646\u0639\u0637\u0641\u0627\u062A \u0627\u0644\u0633\u0631\u064A\u0639\u0629 \u0648\u0627\u0644\u0628\u0637\u064A\u0626\u0629 \u0639\u0644\u0649 \u0637\u0648\u0644 \u0627\u0644\u0645\u0633\u0627\u0631 \u0627\u0644\u0630\u064A \u062A\u0628\u0644\u063A \u0645\u0633\u0627\u0641\u062A\u0647 4,361 \u0645\u062A\u0631 \u0628\u0627\u062A\u062C\u0627\u0647 \u0639\u0642\u0627\u0631\u0628 \u0627\u0644\u0633\u0627\u0639\u0629."@ar ,
+		"O Circuito Gilles Villeneuve  \u00E9 um circuito localizado na Ilha de Notre Dame, na cidade de Montreal, maior cidade da prov\u00EDncia de Quebec, no Canad\u00E1. \u00C9 a sede anual do Grande Pr\u00EAmio do Canad\u00E1 de F\u00F3rmula 1 desde 1978. Recebeu esse nome em homenagem ao piloto Gilles Villeneuve."@pt ,
+		"\u30B7\u30EB\u30AD\u30E5\u30A4\u30FB\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\uFF08\u4ECF: Circuit Gilles Villeneuve, \u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF09\u306F\u30AB\u30CA\u30C0\u3001\u30B1\u30D9\u30C3\u30AF\u5DDE\u30E2\u30F3\u30C8\u30EA\u30AA\u30FC\u30EB\u306E\u30BB\u30F3\u30C8\u30FB\u30ED\u30FC\u30EC\u30F3\u30B9\u5DDD\u306E\u30CE\u30FC\u30C8\u30EB\u30C0\u30E0\u5CF6\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u5168\u95774,361m\u3002"@ja ,
+		"Circuit Gilles Villeneuve \u2013 tor wy\u015Bcigowy Formu\u0142y 1. Tor w Montrealu zosta\u0142 zbudowany w 1978 roku przy wykorzystaniu infrastruktury dr\u00F3g i parking\u00F3w stworzonych z my\u015Bl\u0105 o mi\u0119dzynarodowych targach EXPO \u201967. Pocz\u0105tkowo nosi\u0142 on nazw\u0119 Circuit \u00CEle Notre-Dame, ale w 1982 roku nazwano go imieniem tragicznie zmar\u0142ego kanadyjskiego kierowcy Gilles\u2019a Villeneuve\u2019a. Tor jest mieszank\u0105 szybkich i wolnych zakr\u0119t\u00F3w, a kr\u00F3tkie proste o do\u015B\u0107 wyboistej nawierzchni s\u0105 ogrodzone metalowymi barierkami. Przed sezonem 2002 przeprowadzono modernizacj\u0119 szykany przed prost\u0105 startow\u0105, co znacznie ograniczy\u0142o osi\u0105gane w tym miejscu pr\u0119dko\u015Bci, a tym samym poprawi\u0142o bezpiecze\u0144stwo."@pl ,
+		"Der Circuit Gilles-Villeneuve ist eine tempor\u00E4re Motorsport-Rennstrecke auf der \u00CEle Notre-Dame in der kanadischen Stadt Montr\u00E9al. Die Strecke wurde am 12. Juni 1982 nach dem kanadischen Rennfahrer Gilles Villeneuve benannt. Villeneuve war f\u00FCnf Wochen vorher beim Gro\u00DFen Preis von Belgien t\u00F6dlich verungl\u00FCckt. Der urspr\u00FCngliche Name Circuit \u00CEle-Notre-Dame leitete sich von der gleichnamigen Insel ab. Auf dem Stadtkurs fand zwischen 1978 und 2008 allj\u00E4hrlich der Gro\u00DFe Preis von Kanada der Formel 1 statt. Nach einem Jahr Unterbrechung kehrte die Veranstaltung 2010 zur\u00FCck."@de ,
+		"\u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0438\u043C\u0435\u043D\u0438 \u0416\u0438\u043B\u044F \u0412\u0438\u043B\u044C\u043D\u0451\u0432\u0430 (\u0444\u0440. Circuit Gilles Villeneuve) \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041A\u0430\u043D\u0430\u0434\u044B \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB, \u0433\u043E\u043D\u043E\u043A Champ Car (\u0432 2002\u20142006 \u0433\u043E\u0434\u0430\u0445) \u0438 NASCAR Nationwide Series. \u0422\u0440\u0430\u0441\u0441\u0430 \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u043D\u0430 \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u043C \u043E\u0441\u0442\u0440\u043E\u0432\u0435 \u041D\u043E\u0442\u0440-\u0414\u0430\u043C \u043D\u0430 \u0440\u0435\u043A\u0435 \u0421\u0432\u044F\u0442\u043E\u0433\u043E \u041B\u0430\u0432\u0440\u0435\u043D\u0442\u0438\u044F \u0432 \u041C\u043E\u043D\u0440\u0435\u0430\u043B\u0435, \u041A\u0430\u043D\u0430\u0434\u0430. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u043D\u0430\u0437\u0432\u0430\u043D \u0432 \u0447\u0435\u0441\u0442\u044C \u043A\u0430\u043D\u0430\u0434\u0441\u043A\u043E\u0433\u043E \u0433\u043E\u043D\u0449\u0438\u043A\u0430 \u0416\u0438\u043B\u044F \u0412\u0438\u043B\u044C\u043D\u0451\u0432\u0430 \u0432 1982 \u0433\u043E\u0434\u0443, \u0434\u043E \u044D\u0442\u043E\u0433\u043E \u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043B\u0441\u044F \u041E\u0441\u0442\u0440\u043E\u0432 \u041D\u043E\u0442\u0440-\u0414\u0430\u043C (\u0444\u0440. Circuit \u00CEle Notre-Dame). \u042D\u0442\u0430 \u043C\u0435\u0441\u0442\u0430\u043C\u0438 \u0443\u0437\u043A\u0430\u044F, \u0438\u0437\u0432\u0438\u043B\u0438\u0441\u0442\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u0430 \u043C\u0435\u0436\u0434\u0443 \u043E\u0437\u0451\u0440\u0430\u043C\u0438 \u0438 \u043F\u0430\u0440\u043A\u043E\u0432\u044B\u043C\u0438 \u043F\u0430\u0432\u0438\u043B\u044C\u043E\u043D\u0430\u043C\u0438, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u043C\u0438 \u0434\u043B\u044F \u0412\u0441\u0435\u043C\u0438\u0440\u043D\u043E\u0439 \u0432\u044B\u0441\u0442\u0430\u0432\u043A\u0438 1967 \u0433\u043E\u0434\u0430. \u041F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E, \u043A\u0430\u043A \u0433\u043E\u043D\u043A\u0438 1987 \u0433\u043E\u0434\u0430 \u0431\u044B\u043B\u0438 \u043E\u0442\u043C\u0435\u043D\u0435\u043D\u044B \u0432 \u0441\u0432\u044F\u0437\u0438 \u0441 \u043D\u0435\u044F\u0441\u043D\u043E\u0441\u0442\u044F\u043C\u0438 \u0432 \u0432\u043E\u043F\u0440\u043E\u0441\u0430\u0445 \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u0441\u0442\u0432\u0430, \u043F\u0443\u043D\u043A\u0442\u044B \u0442\u0435\u0445\u043E\u0431\u0441\u043B\u0443\u0436\u0438\u0432\u0430\u043D\u0438\u044F \u0431\u044B\u043B\u0438 \u0443\u0431\u0440\u0430\u043D\u044B, \u043F\u0440\u043E\u0432\u0435\u0434\u0451\u043D \u0440\u044F\u0434 \u0434\u0440\u0443\u0433\u0438\u0445 \u0440\u0430\u0431\u043E\u0442. \u0422\u0440\u0430\u0441\u0441\u0430 \u043D\u0430\u0441\u044B\u0449\u0435\u043D\u0430 \u0440\u0435\u0437\u043A\u0438\u043C\u0438 \u043F\u043E\u0432\u043E\u0440\u043E\u0442\u0430\u043C\u0438 \u0438 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u043C\u0438 \u0434\u043B\u0438\u043D\u043D\u044B\u043C\u0438 \u043F\u0440\u044F\u043C\u044B\u043C\u0438, \u043F\u043E\u044D\u0442\u043E\u043C\u0443 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u043E\u0442 \u0431\u043E\u043B\u0438\u0434\u043E\u0432 \u0445\u043E\u0440\u043E\u0448\u0435\u0439 \u0442\u043E\u0440\u043C\u043E\u0437\u043D\u043E\u0439 \u0441\u0438\u0441\u0442\u0435\u043C\u044B \u0438 \u0430\u044D\u0440\u043E\u0434\u0438\u043D\u0430\u043C\u0438\u043A\u0438. \u0422\u0440\u0430\u0441\u0441\u0430 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0431\u044B\u0441\u0442\u0440\u043E\u0439, \u0438 \u0441\u043E\u0434\u0435\u0440\u0436\u0438\u0442 \u0447\u0430\u0441\u0442\u044C \u0434\u043E\u0440\u043E\u0433 \u043E\u0431\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F. \u0421\u0430\u043C\u043E\u0439 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0439 \u0434\u0435\u0442\u0430\u043B\u044C\u044E \u0442\u0440\u0430\u0441\u0441\u044B \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u00AB\u0441\u0442\u0435\u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u0432\u00BB \u2014 \u0441\u0442\u0435\u043D\u0430 \u043D\u0430 \u0432\u044B\u0445\u043E\u0434\u0435 \u0438\u0437 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0439 \u0448\u0438\u043A\u0430\u043D\u044B, \u043F\u043E\u043B\u0443\u0447\u0438\u0432\u0448\u0430\u044F \u0441\u0432\u043E\u0451 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E, \u043A\u0430\u043A \u0432 1999 \u0433\u043E\u0434\u0443 \u0441\u0440\u0430\u0437\u0443 \u0442\u0440\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430 \u2014 \u0414\u044D\u0439\u043C\u043E\u043D \u0425\u0438\u043B\u043B, \u041C\u0438\u0445\u0430\u044D\u043B\u044C \u0428\u0443\u043C\u0430\u0445\u0435\u0440, \u0416\u0430\u043A \u0412\u0438\u043B\u044C\u043D\u0451\u0432 \u0440\u0430\u0437\u0431\u0438\u043B\u0438 \u043E \u043D\u0435\u0451 \u0441\u0432\u043E\u0438 \u0431\u043E\u043B\u0438\u0434\u044B."@ru ,
+		"Le circuit Gilles-Villeneuve est un circuit de sports m\u00E9caniques situ\u00E9 au parc Jean-Drapeau sur l'\u00EEle Notre-Dame, au milieu du Fleuve Saint-Laurent, \u00E0 Montr\u00E9al, Canada. Il porte son nom en l'honneur du pilote canadien Gilles Villeneuve, qui y obtint sa premi\u00E8re victoire en 1978, et qui se tua lors de la s\u00E9ance de qualification du Grand-Prix de Formule 1 de Belgique \u00E0 Zolder le 8 mai 1982. Sur l'emplacement de la ligne de d\u00E9part est inscrit \u00AB Salut Gilles \u00BB. Le Grand Prix du Canada de F1 s'y est tenu de 1978 \u00E0 2008. Apr\u00E8s une pause en 2009, celui-ci s'y court \u00E0 nouveau depuis 2010."@fr ,
+		"The Circuit Gilles Villeneuve is a motor racing circuit in Montreal, Quebec, Canada. It is the venue for the FIA Formula One Canadian Grand Prix. It has previously hosted the FIA World Sportscar Championship, the Champ Car World Series, the NASCAR Canadian Tire Series, the NASCAR Xfinity Series and the Grand-Am Rolex Sports Car Series. The venue hosted the Champ Car World Series Grand Prix of Montreal from 2002 to 2006. The Canadian Grand Prix of Formula One racing, which had taken place for 30 years at Circuit Gilles Villeneuve, was dropped from the 2009 Formula One calendar and replaced with the inaugural Abu Dhabi Grand Prix. On November 27, 2009, Quebec's officials and Canadian Grand Prix organizers announced a settlement with Formula One Administration and signed a new five-year contract spanning the 2010\u20132014 seasons. The 2011 edition took place on June 12 at 1:00 pm (17:00 GMT) and was the longest World Championship Grand Prix ever, due to a lengthy rain delay."@en ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Montr\u00E9al, intitolato a Gilles Villeneuve, \u00E8 un tracciato automobilistico che sorge nel Parc Jean-Drapeau sull'Isola Notre-Dame, costruita per le Olimpiadi del 1976 nell'estuario del fiume San Lorenzo."@it ,
+		"Het Circuit Gilles Villeneuve is een stratencircuit nabij Montreal in Canada. Het 4,5 km lange circuit Ile de Notre Dame (later hernoemd naar Circuit Gilles Villeneuve) werd aangelegd op een kunstmatig eiland in de Saint Lawrence. Het werd ontworpen door Roger Peart te midden van meren en de paviljoenparken van de Expo 67. Het loopt langs de roeibaan die gebruikt werd voor de Olympische Spelen van 1976. E\u00E9n van de meest karakteristieke beelden is het paviljoen dat er voor iedereen uitziet als een enorme golfbal als achtergrond bij de wagens in de haarspeldbocht. De eerste race had niet mooier kunnen verlopen: Gilles Villeneuve behaalde voor eigen publiek zijn eerste overwinning en het publiek was in extase. Vroeger stond de Grand Prix gepland op het einde van het seizoen, maar de race werd meestal ontsierd door het gure weer in die periode, waardoor de race vanaf 1982 verhuisd is naar de maand juni. Gilles Villeneuve had het leven gelaten enkele weken voordien, en met hem was ook een deel van de glamour weg. Maar opnieuw was er een tragedie. Bij de start verongelukte de jonge Italiaan Riccardo Paletti. In 1987 was er geen Grand Prix wegens een sponsorconflict tussen de brouwerijen Labatt's en Molson. Wegens een zakelijk geschil tussen Bernie Ecclestone en de promotor van de Grand Prix van Canada was er in 2009 geen Formule 1-race. Gedenkwaardig was de eerste en enige overwinning van Jean Alesi, in de mede door de lokale legende Gilles Villeneuve beroemd gemaakte Ferrari met het nummer 27."@nl ,
+		"El Circuito Gilles Villeneuve, oficialmente Circuit Gilles-Villeneuve en franc\u00E9s, es un circuito de carreras callejero localizado en la \u00CEle Notre-Dame, una isla artificial situada en el r\u00EDo San Lorenzo y que es parte del Parque Jean-Drapeau de la ciudad de Montreal, provincia de Quebec, Canad\u00E1. El circuito originalmente ten\u00EDa la denominaci\u00F3n Circuit \u00CEle Notre-Dame. Su nombre actual debe al piloto canadiense Gilles Villeneuve, nacido en Quebec y vencedor del Gran Premio de Canad\u00E1 de 1978, luego de fallecer durante las pruebas de calificaci\u00F3n del Gran Premio de B\u00E9lgica de 1982. El circuito ha sido utilizado para el Gran Premio de Canad\u00E1 de F\u00F3rmula 1 desde el a\u00F1o 1978 (con dos ausencias en 1987 y 2009) y la Indy Montreal de la Champ Car World Series desde 2002 hasta 2006. La F\u00F3rmula Atlantic fue telonera de la carrera de F\u00F3rmula 1 en numerosas ocasiones entre 1978 y 2001, y de la Champ Car en sus cinco visitas a Montreal. En 2007, la fecha de la Champ Car y la F\u00F3rmula Atlantic en agosto fue sustituida por una conjunta de la Grand-Am Rolex Sports Car Series y la NASCAR Nationwide Series, que se disput\u00F3 hasta 2012. En el Gran Premio de Canad\u00E1 de 1999, el muro derecho de la actual curva 13 del circuito Gilles Villeneuve, a la salida de la chicane de entrada a meta, se hizo famoso debido a que tres campeones de F\u00F3rmula 1, Damon Hill, Michael Schumacher y Jacques Villeneuve chocaron todos contra \u00E9l. Desde entonces se le conoce como el \"Muro de los Campeones\". M\u00E1s tarde tambi\u00E9n chocaron contra el muro el campe\u00F3n 2009 Jenson Button y el tricampe\u00F3n Sebastian Vettel en 2011. El 10 de junio de 2007 fue uno de los d\u00EDas m\u00E1s cr\u00EDticos de este circuito con muchos despistes y con un grave accidente protagonizado por el piloto de BMW Sauber Robert Kubica, quien a m\u00E1s de 300 km/h choc\u00F3 contra la parte trasera del Toyota de Jarno Trulli y sali\u00F3 disparado hacia barra de protecci\u00F3n y rebotar en ella, haciendo que su autom\u00F3vil se desintegrara mientras cruzaba al otro lado de la pista. El peor accidente en el circuito fue el d\u00EDa 13 de junio de 1982, cuando muri\u00F3 Riccardo Paletti en un choque al iniciar la carrera de F\u00F3rmula 1."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/\u00CEle_Notre-Dame_(Circuit_Gilles_Villeneuve).svg?width=300> ;
+	dbo:wikiPageRevisionID	736384765 ;
+	dbo:wikiPageID	947540 ;
+	dbp:owner	dbr:City_of_Montreal ;
+	dbp:lengthMi	2.7099999999999999645 ;
+	dbp:capacity	100000 .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Circuit_Gilles_Villeneuve	ns30:hypernym	dbr:Motor ;
+	dbp:recordTeam	dbr:Scuderia_Ferrari ;
+	dbp:formerNames	"\u00CEle Notre-Dame Circuit"^^xsd:string ;
+	dbp:events	"NASCAR Xfinity Series"^^xsd:string ,
+		dbr:Grand_Prix_of_Montreal ,
+		"FIA Formula One"^^xsd:string ,
+		"NAPA Autopro 100"^^xsd:string ,
+		"Grand Am Rolex Sports Car Series"^^xsd:string ,
+		"Montreal 200"^^xsd:string ,
+		<http://dbpedia.org/resource/1990_480_km_of_Montreal> ,
+		"Champ Car World Series"^^xsd:string ,
+		dbr:NAPA_Auto_Parts_200 ,
+		"FIA World Sportscar Championship"^^xsd:string ,
+		"NASCAR Canadian Tire Series"^^xsd:string ,
+		dbr:Canadian_Grand_Prix .
+dbr:NAPA_Auto_Parts_200	dbp:venue	dbr:Circuit_Gilles_Villeneuve .
+dbr:Circuit_Ile_Notre_Dame	dbo:wikiPageRedirects	dbr:Circuit_Gilles_Villeneuve .
+dbr:Wall_of_champions	dbo:wikiPageRedirects	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2004_Molson_Indy_Montreal>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2002_Molson_Indy_Montreal>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2006_Champ_Car_Grand_Prix_de_Montreal>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2005_Molson_Indy_Montreal>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2003_Molson_Indy_Montreal>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+wikipedia-en:Circuit_Gilles_Villeneuve	foaf:primaryTopic	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2007_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+dbr:Grand_Prix_of_Montreal	dbp:venue	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2013_Canadian_Grand_Prix>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2014_Canadian_Grand_Prix>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2005_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2016_Canadian_Grand_Prix>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2000_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2003_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2006_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2015_Canadian_Grand_Prix>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1983_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1984_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1985_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1986_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1988_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1989_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1990_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1991_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1992_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1993_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1994_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1997_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1998_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2001_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2002_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2008_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2010_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2011_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2012_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+dbr:Villeneuve	dbo:wikiPageDisambiguates	dbr:Circuit_Gilles_Villeneuve .
+dbr:Gilles_Villeneuve_Racetrack	dbo:wikiPageRedirects	dbr:Circuit_Gilles_Villeneuve .
+dbr:Gilles_Villeneuve_Circuit	dbo:wikiPageRedirects	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/1996_Canadian_Grand_Prix>	dbo:location	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/2008_NAPA_Auto_Parts_200>	dbp:location	dbr:Circuit_Gilles_Villeneuve .
+dbr:Circuit_Ile_Notre-Dame	dbo:wikiPageRedirects	dbr:Circuit_Gilles_Villeneuve .
+<http://dbpedia.org/resource/Circuit_\u00CEle_Notre-Dame>	dbo:wikiPageRedirects	dbr:Circuit_Gilles_Villeneuve .

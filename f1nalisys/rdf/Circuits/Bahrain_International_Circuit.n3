@@ -1,0 +1,179 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:BIC	dbo:wikiPageDisambiguates	dbr:Bahrain_International_Circuit .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2011_Bahrain_Grand_Prix>	dbp:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2010_Bahrain_International_Circuit_GP2_Asia_Series_round_(February)>	dbp:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2010_Bahrain_International_Circuit_GP2_Asia_Series_round_(March)>	dbp:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2013_Bahrain_GP2_Series_round>	dbp:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2013_Bahrain_Grand_Prix>	dbo:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2014_Bahrain_Grand_Prix>	dbo:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2005_Bahrain_Grand_Prix>	dbo:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2012_Bahrain_GP2_Series_rounds>	dbp:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2007_Bahrain_Grand_Prix>	dbp:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2004_Bahrain_Grand_Prix>	dbo:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2006_Bahrain_Grand_Prix>	dbo:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2009_Bahrain_Grand_Prix>	dbp:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2010_Bahrain_Grand_Prix>	dbp:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2012_Bahrain_Grand_Prix>	dbo:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2014_Bahrain_GP2_Series_round>	dbp:location	dbr:Bahrain_International_Circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Bahrain_International_Circuit	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:Object100002684 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Bahrain_International_Circuit	rdf:type	geo:SpatialThing ,
+		yago:YagoLegalActorGeo ,
+		yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		dbo:Building ,
+		yago:WikicatMotorsportVenuesInBahrain ,
+		yago:Area108497294 ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoGeoEntity .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Bahrain_International_Circuit	rdfs:label	"Bahrain International Circuit"@en ,
+		"Circuito Internacional de Bahrein"@pt ,
+		"Bahrain International Circuit"@pl ,
+		"Circuit international de Sakhir"@fr ,
+		"Circuito Internacional de Bar\u00E9in"@es ,
+		"Bahrain International Circuit"@de ,
+		"\u30D0\u30FC\u30EC\u30FC\u30F3\u30FB\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"\u5DF4\u6797\u56FD\u9645\u8D5B\u9053"@zh ,
+		"Bahrain International Circuit"@nl ,
+		"\u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629"@ar ,
+		"\u0421\u0430\u0445\u0438\u0440 (\u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"Bahrain International Circuit"@it ;
+	rdfs:comment	"El Circuito Internacional de Bar\u00E9in (en \u00E1rabe \u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629 baraahin al-intarnals wadjaviyaa), m\u00E1s conocido como Sakhir, es un aut\u00F3dromo localizado en la ciudad de Manama, Bar\u00E9in, sede actual del Gran Premio de Bar\u00E9in de F\u00F3rmula 1. La construcci\u00F3n del circuito para poder albergar una fecha de la temporada de F\u00F3rmula 1 fue un objetivo nacional para Bar\u00E9in, impulsado por el pr\u00EDncipe Salman bin Hamad Al Khalifa. El pr\u00EDncipe heredero es un gran entusiasta del deporte motor, al punto que ocupa el cargo de Presidente Honorario de la Federaci\u00F3n de Automovilismo de Bar\u00E9in."@es ,
+		"O Circuito Internacional do Bahrein \u00E9 um aut\u00F3dromo localizado perto de Manama, no Bahrein. \u00C9 conhecido por ser um dos circuitos mais modernizados da atualidade e por receber anualmente a F\u00F3rmula 1 desde 2004, com interrup\u00E7\u00E3o em 2011. O circuito tem um comprimento total de 5.412 metros, cada corrida de F\u00F3rmula 1 tem 57 voltas, totalizando 308,232 km."@pt ,
+		"Le circuit international de Sakhir est le circuit du Grand Prix de Bahre\u00EFn de Formule 1 inaugur\u00E9 en 2004 lors du Grand Prix de Bahre\u00EFn 2004. Il a \u00E9t\u00E9 con\u00E7u, comme les nouveaux circuits de Shanghai et de Sepang, par l'architecte allemand Hermann Tilke. Dans sa premi\u00E8re configuration, Sakhir se caract\u00E9rise par une succession de courtes lignes droites et de virages lents. Les grandes courbes rapides, qui rendent la course automobile spectaculaire en mettant en avant les qualit\u00E9s de pilotage des concurrents, sont absentes."@fr ,
+		"\u30D0\u30FC\u30EC\u30FC\u30F3\u30FB\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u82F1\u8A9E\uFF1ABahrain International Circuit\uFF09\u306F\u3001\u30D0\u30FC\u30EC\u30FC\u30F3\u5357\u90E8\u30B5\u30D2\u30FC\u30EB\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u30022004\u5E74\u304B\u3089F1\u30D0\u30FC\u30EC\u30FC\u30F3\u30B0\u30E9\u30F3\u30D7\u30EA\u304C\u884C\u308F\u308C\u3066\u3044\u308B\u3002\u4E2D\u6771\u3067\u521D\u3081\u3066F1\u304C\u958B\u50AC\u3055\u308C\u305F\u5834\u6240\u3067\u3082\u3042\u308B\u3002"@ja ,
+		"\u5DF4\u6797\u56FD\u9645\u8D5B\u9053\uFF08\u963F\u62C9\u4F2F\u8BED\uFF1A\u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629\u200E\uFF09\u662F\u4F4D\u4E8E\u5DF4\u6797\u7684\u8D5B\u8F66\u573A\uFF0C\u5176\u4E3E\u529E\u7684\u4E3B\u8981\u8D5B\u4E8B\u5305\u62EC\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u5DF4\u6797\u5927\u5956\u8D5B\u548C\u4E09\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u7B49\u3002 \u8D5B\u9053\u7531\u5FB7\u56FD\u5EFA\u7B51\u5E08\u8D6B\u5C14\u66FC\u00B7\u8482\u5C14\u514B\u8BBE\u8BA1\uFF0C\u603B\u9020\u4EF7\u7EA615\u4EBF\u7F8E\u5143\u3002"@zh ,
+		"Bahrain International Circuit ist der Name einer Motorsport-Rennstrecke in Bahrain, die f\u00FCr den 2004 erstmals ausgetragenen Bahrain-Grand-Prix der Formel 1 gebaut wurde. Sie liegt s\u00FCdwestlich in as-Sachir rund 27 Kilometer vom Zentrum der Hauptstadt Manama entfernt."@de ,
+		"\u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0647\u0648 \u0645\u0636\u0645\u0627\u0631 \u0633\u0628\u0627\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u064A\u0642\u0639 \u0641\u064A \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u062E\u064A\u0631 \u0628\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646. \u062A\u0642\u0627\u0645 \u0639\u0644\u064A\u0647\u0627 \u0645\u0646\u0627\u0641\u0633\u0627\u062A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0633\u0646\u0648\u064A\u0627\u064B\u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u063A (drag racing) \u0648\u0633\u0628\u0627\u0642\u0627\u062A \u0623\u062E\u0631\u0649 \u0645\u062B\u0644 \u0633\u0628\u0627\u0642 \u0633\u0644\u0633\u0644\u0629 \u062C\u064A \u0628\u064A 2 (GP2) \u0648\u0641\u064A 8 \u0633\u0648\u0628\u0631\u0643\u0627\u0631\u0632 \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A (V8 Supercars)."@ar ,
+		"Bahrain International Circuit \u2013 tor Sakhir w Manamie w Bahrajnie. Zosta\u0142 zaprojektowany przez niemieckiego projektanta Hermanna Tilke, jego budowa zosta\u0142a zako\u0144czona 5 marca 2004, czyli niespe\u0142na miesi\u0105c przed inauguracyjnym Grand Prix Bahrajnu Formu\u0142y 1. Koszty inwestycji wynios\u0142y 150 mln dolar\u00F3w ameryka\u0144skich[potrzebny przypis]."@pl ,
+		"\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0411\u0430\u0445\u0440\u0435\u0439\u043D\u0430 (\u0430\u043D\u0433\u043B. Bahrain International Circuit, \u0430\u0440\u0430\u0431. \u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629)\u200E) \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0433\u043E\u043D\u043A\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0430\u0445\u0440\u0435\u0439\u043D\u0430, \u0433\u043E\u043D\u043E\u043A \u0421\u0435\u0440\u0438\u0438 GP2, \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3, GT, \u0433\u043E\u043D\u043A\u0438 \u0434\u0440\u0430\u0433-\u0440\u044D\u0439\u0441\u0438\u043D\u0433. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0431\u044B\u043B \u0441\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D \u0413\u0435\u0440\u043C\u0430\u043D\u043E\u043C \u0422\u0438\u043B\u044C\u043A\u0435 \u0438 \u0441\u0442\u0430\u043B \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043D\u043E\u0432\u044B\u0445 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u043E\u0432 \u0432 \u0441\u0442\u0440\u0430\u043D\u0430\u0445 \u0410\u0437\u0438\u0438, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u043D\u0430\u0447\u0430\u043B\u0438 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0442\u044C \u0433\u043E\u043D\u043A\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u2014 \u0421\u0435\u043F\u0430\u043D\u0433 (\u041C\u0430\u043B\u0430\u0439\u0437\u0438\u044F), \u0428\u0430\u043D\u0445\u0430\u0439 (\u041A\u0438\u0442\u0430\u0439). \u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u043E\u0439 \u0447\u0430\u0441\u0442\u0438 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430 \u043F\u043E\u0441\u0440\u0435\u0434\u0438 \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0439 \u043F\u0443\u0441\u0442\u044B\u043D\u0438. \u0422\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u043A \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0430\u0445\u0440\u0435\u0439\u043D\u0430 2004 \u0433\u043E\u0434\u0430 \u0438 \u043E\u0431\u043E\u0448\u043B\u0430\u0441\u044C \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u043E \u0432 150 \u043C\u0438\u043B\u043B\u0438\u043E\u043D\u043E\u0432 \u0434\u043E\u043B\u043B\u0430\u0440\u043E\u0432."@ru ,
+		"Bahrein International Circuit is een Formule 1 circuit in Bahrein. De baan werd grotendeels in 2003 gebouwd voor de eerste Formule 1 race, die in 2004 ook daadwerkelijk op dit circuit gereden werd. Het circuit ontworpen door de bekende Duitse baanontwerper Hermann Tilke. Hij ontwierp ook de banen van Sepang, Shanghai, Singapore, Istanboel, Valencia en Abu Dhabi. De baan wordt weinig gebruikt om op te racen en het vinden van voldoende grip is vaak een probleem op het circuit. Dit komt doordat het circuit in de woestijn ligt en dus waait er regelmatig zand op de baan."@nl ,
+		"The Bahrain International Circuit (Arabic: \u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629) is a motorsport venue opened in 2004 and used for drag racing, GP2 and the annual Bahrain Grand Prix. The 2004 Grand Prix was the first held in the Middle East. Beginning in 2006, Australian V8 Supercars raced at the BIC, with the event known as the Desert 400. However, the V8 Supercars did not return for the 2011 V8 Supercar season. 24 Hour endurance races are also hosted at BIC. The circuit has a FIA Grade 1 license."@en ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito \"Sakhir\" di Manama (nome ufficiale Bahrain International Circuit, in arabo \u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629) \u00E8 un circuito automobilistico costruito alla periferia di Manama, capitale del Bahrein, per ospitare a partire dal 2004 il Gran Premio del Bahrein di Formula 1 e altre competizioni."@it ;
+	dbp:capacity	70000 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Bahrain_International_Circuit	owl:sameAs	<http://rdf.freebase.com/ns/m.03s3q2> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-fr:Circuit_international_de_Sakhir .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-it:Bahrain_International_Circuit ,
+		dbr:Bahrain_International_Circuit .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-wikidata:Q171332 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	yago-res:Bahrain_International_Circuit .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-id:Sirkuit_Internasional_Bahrain .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-pl:Bahrain_International_Circuit .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-pt:Circuito_Internacional_de_Bahrein .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-cs:Sakhir .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	wikidata:Q171332 ,
+		<http://ko.dbpedia.org/resource/\uBC14\uB808\uC778_\uC778\uD130\uB0B4\uC154\uB110_\uC11C\uD0B7> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-eu:Bahraingo_Nazioarteko_Zirkuitua ,
+		<http://es.dbpedia.org/resource/Circuito_Internacional_de_Bar\u00E9in> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-nl:Bahrain_International_Circuit ,
+		<http://sws.geonames.org/8394007/> ,
+		<http://ja.dbpedia.org/resource/\u30D0\u30FC\u30EC\u30FC\u30F3\u30FB\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Bahrain_International_Circuit	owl:sameAs	dbpedia-de:Bahrain_International_Circuit .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Bahrain_International_Circuit	dct:subject	dbc:Motorsport_in_the_Middle_East ,
+		dbc:Bahrain_Grand_Prix ,
+		dbc:V8_Supercar_circuits ,
+		dbc:Motorsport_venues_in_Bahrain ,
+		dbc:Formula_One_circuits ,
+		dbc:Drag_racing_venues ,
+		dbc:Racing_circuits_designed_by_Hermann_Tilke .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Bahrain_International_Circuit	foaf:homepage	<http://www.formula1.com/races/in_detail/bahrain_867/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Bahrain_International_Circuit	geo:lat	"26.032499313354492188"^^xsd:float ;
+	geo:long	"50.510555267333984375"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Bahrain_International_Circuit--Grand_Prix_Layout_with_DRS.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Bahrain_International_Circuit	foaf:isPrimaryTopicOf	wikipedia-en:Bahrain_International_Circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Bahrain_International_Circuit	geo:geometry	"POINT(50.510555267334 26.032499313354)"^^virtrdf:Geometry ;
+	dbp:fiagrade	1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Bahrain_International_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bahrain_International_Circuit?oldid=742359258> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Bahrain_International_Circuit	georss:point	"26.0325 50.510555555555555" .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+dbr:Bahrain_International_Circuit	dbp:time	"180.0"^^ns28:second ;
+	dbp:constructionCost	56200000 ;
+	dbo:wikiPageExternalLink	<http://www.bahraingp.com.bh/> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> ,
+		<http://www.formula1.com/races/in_detail/bahrain_867/> ;
+	dbp:lengthKm	5.4119999999999999218 ,
+		5.4169999999999998153 ,
+		6.2990000000000003766 ;
+	dbp:brokeGround	"December 2002"^^xsd:string ;
+	dbo:abstract	"El Circuito Internacional de Bar\u00E9in (en \u00E1rabe \u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629 baraahin al-intarnals wadjaviyaa), m\u00E1s conocido como Sakhir, es un aut\u00F3dromo localizado en la ciudad de Manama, Bar\u00E9in, sede actual del Gran Premio de Bar\u00E9in de F\u00F3rmula 1. La construcci\u00F3n del circuito para poder albergar una fecha de la temporada de F\u00F3rmula 1 fue un objetivo nacional para Bar\u00E9in, impulsado por el pr\u00EDncipe Salman bin Hamad Al Khalifa. El pr\u00EDncipe heredero es un gran entusiasta del deporte motor, al punto que ocupa el cargo de Presidente Honorario de la Federaci\u00F3n de Automovilismo de Bar\u00E9in. Los organizadores del Gran Premio temieron no llegar a terminar a tiempo las construcciones necesarias para la realizaci\u00F3n del evento, y solicitaron al mandam\u00E1s de la F1 Bernie Ecclestone la postergaci\u00F3n para 2005. Ecclestone se neg\u00F3, y la carrera se disput\u00F3 a pesar de que el aut\u00F3dromo no estaba terminado en su totalidad. Uno de los eventuales problemas que se tem\u00EDan en el evento, ten\u00EDa que ver con que el circuito est\u00E1 localizado en el medio del desierto, con lo cual los vientos podr\u00EDan arrastrar arena hacia el trazado y alterar as\u00ED el funcionamiento de las m\u00E1quinas. De todas formas, los organizadores del Gran Premio lograron mantener la arena fuera de la pista, mediante la utilizaci\u00F3n de un adhesivo que se roc\u00EDa en las arenas que rodean el trazado. El circuito fue dise\u00F1ado por el alem\u00E1n Hermann Tilke, y cost\u00F3 aproximadamente 150 millones de d\u00F3lares. Actualmente, tambi\u00E9n se usa como fecha puntuable del Campeonato Mundial de Resistencia desde 2012 con una carrera de 6 horas de duraci\u00F3n."@es ,
+		"Bahrein International Circuit is een Formule 1 circuit in Bahrein. De baan werd grotendeels in 2003 gebouwd voor de eerste Formule 1 race, die in 2004 ook daadwerkelijk op dit circuit gereden werd. Het circuit ontworpen door de bekende Duitse baanontwerper Hermann Tilke. Hij ontwierp ook de banen van Sepang, Shanghai, Singapore, Istanboel, Valencia en Abu Dhabi. De baan wordt weinig gebruikt om op te racen en het vinden van voldoende grip is vaak een probleem op het circuit. Dit komt doordat het circuit in de woestijn ligt en dus waait er regelmatig zand op de baan. Het circuit telt 24 bochten. Enkele hiervan hebben een naam. Zo heet bocht 1 Grandstand en bocht 19 VIP Tower. Op 25 januari 2010 werd bekendgemaakt dat de Formule 1 in 2010 op de lay-out van de enduranceraces zal gaan rijden. Hierdoor komen er 9 bochten bij en wordt het circuit ruim 800 meter langer. Er zullennu nog maar 49 ronden worden verreden over het circuit. Na kritiek van de teams werd er besloten om toekomstige races op het kortere Grand Prix circuit te rijden. De race van 2011, die officieel gepland stond voor 13 maart, is afgelast vanwege politieke onrust in Bahrein. De race wordt niet meer ingehaald. Sinds 2014 wordt de race 's avonds gereden."@nl ,
+		"\u30D0\u30FC\u30EC\u30FC\u30F3\u30FB\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u82F1\u8A9E\uFF1ABahrain International Circuit\uFF09\u306F\u3001\u30D0\u30FC\u30EC\u30FC\u30F3\u5357\u90E8\u30B5\u30D2\u30FC\u30EB\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u30022004\u5E74\u304B\u3089F1\u30D0\u30FC\u30EC\u30FC\u30F3\u30B0\u30E9\u30F3\u30D7\u30EA\u304C\u884C\u308F\u308C\u3066\u3044\u308B\u3002\u4E2D\u6771\u3067\u521D\u3081\u3066F1\u304C\u958B\u50AC\u3055\u308C\u305F\u5834\u6240\u3067\u3082\u3042\u308B\u3002"@ja ,
+		"\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0411\u0430\u0445\u0440\u0435\u0439\u043D\u0430 (\u0430\u043D\u0433\u043B. Bahrain International Circuit, \u0430\u0440\u0430\u0431. \u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629)\u200E) \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0433\u043E\u043D\u043A\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0430\u0445\u0440\u0435\u0439\u043D\u0430, \u0433\u043E\u043D\u043E\u043A \u0421\u0435\u0440\u0438\u0438 GP2, \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3, GT, \u0433\u043E\u043D\u043A\u0438 \u0434\u0440\u0430\u0433-\u0440\u044D\u0439\u0441\u0438\u043D\u0433. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0431\u044B\u043B \u0441\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D \u0413\u0435\u0440\u043C\u0430\u043D\u043E\u043C \u0422\u0438\u043B\u044C\u043A\u0435 \u0438 \u0441\u0442\u0430\u043B \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043D\u043E\u0432\u044B\u0445 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u043E\u0432 \u0432 \u0441\u0442\u0440\u0430\u043D\u0430\u0445 \u0410\u0437\u0438\u0438, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u043D\u0430\u0447\u0430\u043B\u0438 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0442\u044C \u0433\u043E\u043D\u043A\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u2014 \u0421\u0435\u043F\u0430\u043D\u0433 (\u041C\u0430\u043B\u0430\u0439\u0437\u0438\u044F), \u0428\u0430\u043D\u0445\u0430\u0439 (\u041A\u0438\u0442\u0430\u0439). \u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u043E\u0439 \u0447\u0430\u0441\u0442\u0438 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430 \u043F\u043E\u0441\u0440\u0435\u0434\u0438 \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u0439 \u043F\u0443\u0441\u0442\u044B\u043D\u0438. \u0422\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u043A \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0430\u0445\u0440\u0435\u0439\u043D\u0430 2004 \u0433\u043E\u0434\u0430 \u0438 \u043E\u0431\u043E\u0448\u043B\u0430\u0441\u044C \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u043E \u0432 150 \u043C\u0438\u043B\u043B\u0438\u043E\u043D\u043E\u0432 \u0434\u043E\u043B\u043B\u0430\u0440\u043E\u0432."@ru ,
+		"\u5DF4\u6797\u56FD\u9645\u8D5B\u9053\uFF08\u963F\u62C9\u4F2F\u8BED\uFF1A\u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629\u200E\uFF09\u662F\u4F4D\u4E8E\u5DF4\u6797\u7684\u8D5B\u8F66\u573A\uFF0C\u5176\u4E3E\u529E\u7684\u4E3B\u8981\u8D5B\u4E8B\u5305\u62EC\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u5DF4\u6797\u5927\u5956\u8D5B\u548C\u4E09\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u7B49\u3002 \u8D5B\u9053\u7531\u5FB7\u56FD\u5EFA\u7B51\u5E08\u8D6B\u5C14\u66FC\u00B7\u8482\u5C14\u514B\u8BBE\u8BA1\uFF0C\u603B\u9020\u4EF7\u7EA615\u4EBF\u7F8E\u5143\u3002"@zh ,
+		"The Bahrain International Circuit (Arabic: \u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629) is a motorsport venue opened in 2004 and used for drag racing, GP2 and the annual Bahrain Grand Prix. The 2004 Grand Prix was the first held in the Middle East. Beginning in 2006, Australian V8 Supercars raced at the BIC, with the event known as the Desert 400. However, the V8 Supercars did not return for the 2011 V8 Supercar season. 24 Hour endurance races are also hosted at BIC. The circuit has a FIA Grade 1 license."@en ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito \"Sakhir\" di Manama (nome ufficiale Bahrain International Circuit, in arabo \u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629) \u00E8 un circuito automobilistico costruito alla periferia di Manama, capitale del Bahrein, per ospitare a partire dal 2004 il Gran Premio del Bahrein di Formula 1 e altre competizioni."@it ,
+		"O Circuito Internacional do Bahrein \u00E9 um aut\u00F3dromo localizado perto de Manama, no Bahrein. \u00C9 conhecido por ser um dos circuitos mais modernizados da atualidade e por receber anualmente a F\u00F3rmula 1 desde 2004, com interrup\u00E7\u00E3o em 2011. O circuito tem um comprimento total de 5.412 metros, cada corrida de F\u00F3rmula 1 tem 57 voltas, totalizando 308,232 km."@pt ,
+		"Le circuit international de Sakhir est le circuit du Grand Prix de Bahre\u00EFn de Formule 1 inaugur\u00E9 en 2004 lors du Grand Prix de Bahre\u00EFn 2004. Il a \u00E9t\u00E9 con\u00E7u, comme les nouveaux circuits de Shanghai et de Sepang, par l'architecte allemand Hermann Tilke. Dans sa premi\u00E8re configuration, Sakhir se caract\u00E9rise par une succession de courtes lignes droites et de virages lents. Les grandes courbes rapides, qui rendent la course automobile spectaculaire en mettant en avant les qualit\u00E9s de pilotage des concurrents, sont absentes. La construction du circuit de Sakhir \u00E9tait un objectif national pour l'\u00E9mirat de Bahre\u00EFn, initi\u00E9 par le Prince Shaikh Salman bin Hamad Al Khalifa, fervent supporter de sports m\u00E9caniques et pr\u00E9sident honorifique de la Bahrain Motor Federation. Les organisateurs de la course, inquiets que le circuit ne soit termin\u00E9 \u00E0 temps, ont demand\u00E9 que l'ouverture soit report\u00E9e d'une ann\u00E9e, \u00E0 la saison 2005. Cette demande fut refus\u00E9e par Bernie Ecclestone : le circuit n'\u00E9tait pas enti\u00E8rement achev\u00E9 mais suffisamment pour que le Grand Prix 2004 puisse se tenir. Situ\u00E9 en plein d\u00E9sert, le circuit est sujet au d\u00E9p\u00F4t de sable et les organisateurs sont contraints de pulv\u00E9riser un produit adh\u00E9sif autour de la voie pour garder le sable hors de la piste."@fr ,
+		"Bahrain International Circuit \u2013 tor Sakhir w Manamie w Bahrajnie. Zosta\u0142 zaprojektowany przez niemieckiego projektanta Hermanna Tilke, jego budowa zosta\u0142a zako\u0144czona 5 marca 2004, czyli niespe\u0142na miesi\u0105c przed inauguracyjnym Grand Prix Bahrajnu Formu\u0142y 1. Koszty inwestycji wynios\u0142y 150 mln dolar\u00F3w ameryka\u0144skich[potrzebny przypis]. Przez pierwsze sze\u015B\u0107 lat Grand Prix Bahrajnu korzysta\u0142o z konfiguracji o d\u0142ugo\u015Bci 5,412 km. W sezonie 2010 organizatorzy zdecydowali si\u0119 na zmian\u0119 uk\u0142adu Grand Prix na uk\u0142ad przeznaczony dla wy\u015Bcig\u00F3w d\u0142ugodystansowych z powodu rocznicy 60-lecia Mistrzostw \u015Awiata Formu\u0142y 1. Konfiguracja ta ma d\u0142ugo\u015B\u0107 6,229 km. W sezonie 2011 odwo\u0142ano GP z powodu protest\u00F3w antyrz\u0105dowych. Od sezonu 2012 ponownie jest u\u017Cywana dawna konfiguracja (5,412 km)."@pl ,
+		"\u062D\u0644\u0628\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0647\u0648 \u0645\u0636\u0645\u0627\u0631 \u0633\u0628\u0627\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u064A\u0642\u0639 \u0641\u064A \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u062E\u064A\u0631 \u0628\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646. \u062A\u0642\u0627\u0645 \u0639\u0644\u064A\u0647\u0627 \u0645\u0646\u0627\u0641\u0633\u0627\u062A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0633\u0646\u0648\u064A\u0627\u064B\u060C \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u063A (drag racing) \u0648\u0633\u0628\u0627\u0642\u0627\u062A \u0623\u062E\u0631\u0649 \u0645\u062B\u0644 \u0633\u0628\u0627\u0642 \u0633\u0644\u0633\u0644\u0629 \u062C\u064A \u0628\u064A 2 (GP2) \u0648\u0641\u064A 8 \u0633\u0648\u0628\u0631\u0643\u0627\u0631\u0632 \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A (V8 Supercars). \u0628\u062F\u0623 \u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u062D\u0644\u0628\u0629 \u0639\u0646 \u0637\u0631\u064A\u0642 \u0648\u0644\u064A \u0639\u0647\u062F \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0648\u0627\u0644\u0631\u0626\u064A\u0633 \u0627\u0644\u0641\u062E\u0631\u064A \u0644\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0628\u062D\u0631\u064A\u0646\u064A \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0634\u064A\u062E \u0633\u0644\u0645\u0627\u0646 \u0628\u0646 \u062D\u0645\u062F \u0622\u0644 \u062E\u0644\u064A\u0641\u0629 \u0628\u0639\u062F \u0627\u0644\u0627\u062A\u0641\u0627\u0642 \u0645\u0639 \u0628\u064A\u0631\u0646\u064A \u0625\u064A\u0643\u0644\u0633\u062A\u0648\u0646 \u0645\u062F\u064A\u0631 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0644\u0627\u0633\u062A\u0636\u0627\u0641\u0629 \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0628\u062A\u062F\u0627\u0621 \u0645\u0646 \u0639\u0627\u0645 2004. \u0627\u0633\u062A\u0645\u0631 \u0628\u0646\u0627\u0621 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0644\u0645\u062F\u0629 485 \u064A\u0648\u0645\u0627\u064B \u0645\u0646 8 \u0646\u0648\u0641\u0645\u0628\u0631 2002 \u062D\u062A\u0649 7 \u0645\u0627\u0631\u0633 2004 \u0628\u0643\u0644\u0641\u0629 150 \u0645\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A. \u0648\u062A\u0648\u0644\u062A \u0634\u0631\u0643\u062A\u064A \u062A\u064A\u0644\u0643\u064A \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 \u0648\u0633\u064A\u0628\u0627\u0631\u0643\u0648 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0628\u0646\u0627\u0621 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0628\u0627\u0644\u062A\u0639\u0627\u0648\u0646 \u0645\u0639 \u062F\u0628\u0644\u064A\u0648 \u0633\u064A \u062A\u064A \u0627\u0644\u0645\u0627\u0644\u064A\u0632\u064A\u0629 \u0644\u0644\u0647\u0646\u062F\u0633\u0629\u060C \u0648\u0647\u064A \u0627\u0644\u0634\u0631\u0643\u0629 \u0627\u0644\u062A\u064A \u0623\u0646\u0634\u0623\u062A \u062D\u0644\u0628\u0629 \u0627\u0644\u0641\u0648\u0631\u0648\u0645\u0644\u0627 1 \u0641\u064A \u0643\u0648\u0627\u0644\u0627\u0644\u0645\u0628\u0648\u0631 \u0628\u0645\u0627\u0644\u064A\u0632\u064A\u0627. \u0645\u0633\u0627\u062D\u0629 \u0627\u0644\u062D\u0644\u0628\u0629 \u0647\u064A 1.7 \u0645\u0644\u064A\u0648\u0646 \u0645\u062A\u0631 \u0645\u0631\u0628\u0639. \u0642\u0627\u0645 \u0628\u062A\u0635\u0645\u064A\u0645 \u0627\u0644\u062D\u0644\u0628\u0629 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0647\u064A\u0631\u0645\u0646 \u062A\u064A\u0644\u0643\u064A."@ar ,
+		"Bahrain International Circuit ist der Name einer Motorsport-Rennstrecke in Bahrain, die f\u00FCr den 2004 erstmals ausgetragenen Bahrain-Grand-Prix der Formel 1 gebaut wurde. Sie liegt s\u00FCdwestlich in as-Sachir rund 27 Kilometer vom Zentrum der Hauptstadt Manama entfernt."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Bahrain_International_Circuit--Grand_Prix_Layout_with_DRS.svg?width=300> ;
+	dbo:wikiPageRevisionID	742359258 ;
+	dbo:wikiPageID	944365 ;
+	dbp:lengthMi	3.3629999999999999893 ,
+		3.366000000000000103 ,
+		3.9140000000000001457 ;
+	dbp:location	dbr:Sakhir ,
+		dbr:Bahrain ;
+	dbp:layout	"Grand Prix Circuit"^^xsd:string ,
+		"Endurance Circuit"^^xsd:string ,
+		"Grand Prix Circuit, Original layout"^^xsd:string ;
+	dbp:recordDriver	dbr:Michael_Schumacher ,
+		dbr:Pedro_de_la_Rosa ,
+		dbr:Fernando_Alonso ;
+	dbp:recordTeam	dbr:McLaren ,
+		dbr:Scuderia_Ferrari ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	2010 ,
+		2004 ,
+		2005 ;
+	dbp:turns	23 ,
+		15 ;
+	dbp:name	"Bahrain International Circuit"^^xsd:string .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Bahrain_International_Circuit	ns29:hypernym	dbr:Venue ;
+	dbp:events	"Formula One"^^xsd:string ,
+		"FIA WEC 6 Hours of Bahrain"^^xsd:string ,
+		dbr:Desert_400 ,
+		"Bahrain Grand Prix and Testing"^^xsd:string ,
+		dbr:FIA_GT_Championship ;
+	dbp:opened	"2004-03-17"^^xsd:date ;
+	dbp:architect	dbr:Hermann_Tilke .
+<http://dbpedia.org/resource/2005_Bahrain_GP2_Series_round>	dbp:location	dbr:Bahrain_International_Circuit .
+wikipedia-en:Bahrain_International_Circuit	foaf:primaryTopic	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/6_Hours_of_Bahrain>	dbp:venue	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2008_Bahrain_Grand_Prix>	dbp:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2015_Bahrain_Grand_Prix>	dbo:location	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2016_Bahrain_Grand_Prix>	dbo:location	dbr:Bahrain_International_Circuit .
+dbr:Bahrain_Grand_Prix	dbp:circuit	dbr:Bahrain_International_Circuit .
+dbr:Sakhir_circuit	dbo:wikiPageRedirects	dbr:Bahrain_International_Circuit .
+<http://dbpedia.org/resource/2016_TCR_International_Series_Sakhir_round>	dbp:location	dbr:Bahrain_International_Circuit .

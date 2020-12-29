@@ -1,0 +1,183 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2005_Chinese_motorcycle_Grand_Prix>	dbp:location	dbr:Shanghai_International_Circuit .
+dbr:Chinese_motorcycle_Grand_Prix	dbp:venue	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2006_Chinese_motorcycle_Grand_Prix>	dbp:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2008_Chinese_motorcycle_Grand_Prix>	dbp:location	dbr:Shanghai_International_Circuit .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2006_Chinese_Grand_Prix>	dbo:location	dbr:Shanghai_International_Circuit .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Shanghai_International_Circuit	foaf:primaryTopic	dbr:Shanghai_International_Circuit .
+dbr:Shanghai_Race_Circuit	dbo:wikiPageRedirects	dbr:Shanghai_International_Circuit .
+dbr:Shanghai_circuit	dbo:wikiPageRedirects	dbr:Shanghai_International_Circuit .
+dbr:Chinese_Grand_Prix	dbp:circuit	dbr:Shanghai_International_Circuit .
+dbr:FIA_WTCC_Race_of_China	dbp:circuit	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2015_Chinese_Grand_Prix>	dbo:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2014_Chinese_Grand_Prix>	dbo:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2008_Chinese_Grand_Prix>	dbo:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2005_Chinese_Grand_Prix>	dbo:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2007_Chinese_Grand_Prix>	dbo:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2004_Chinese_Grand_Prix>	dbo:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2016_Chinese_Grand_Prix>	dbo:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2005\u201306_A1_Grand_Prix_of_Nations,_China>	dbp:circuit	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2006\u201307_A1_Grand_Prix_of_Nations,_Shanghai,_China>	dbp:circuit	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2007\u201308_A1_Grand_Prix_of_Nations,_Shanghai,_China>	dbp:circuit	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2007_Chinese_motorcycle_Grand_Prix>	dbp:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2010_Chinese_Grand_Prix>	dbp:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2011_Chinese_Grand_Prix>	dbp:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2013_Chinese_Grand_Prix>	dbp:location	dbr:Shanghai_International_Circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Shanghai_International_Circuit	rdf:type	yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Instrumentality103575240 ,
+		yago:WikicatFormerV8SupercarCircuits ,
+		yago:WikicatFormulaOneCircuits ,
+		yago:WikicatGrandPrixMotorcycleCircuits ,
+		yago:Circuit103033362 ,
+		yago:Artifact100021939 ,
+		yago:ElectricalDevice103269401 ,
+		yago:WikicatV8SupercarCircuits ,
+		dbo:Single ,
+		yago:Whole100003553 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Shanghai_International_Circuit	rdf:type	geo:SpatialThing ,
+		yago:Device103183080 ,
+		yago:WikicatA1GrandPrixCircuits .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Shanghai_International_Circuit	rdfs:label	"Circuit international de Shanghai"@fr ,
+		"Circuito Internacional de Xangai"@pt ,
+		"\u0428\u0430\u043D\u0445\u0430\u0439 (\u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"Circuito Internacional de Shangh\u00E1i"@es ,
+		"Shanghai International Circuit"@de ,
+		"\u062D\u0644\u0628\u0629 \u0634\u0627\u0646\u063A\u0647\u0627\u064A \u0627\u0644\u062F\u0648\u0644\u064A\u0629"@ar ,
+		"\u4E0A\u6D77\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"Shanghai International Circuit"@en ,
+		"Shanghai International Circuit"@pl ,
+		"Circuito di Shanghai"@it ,
+		"Shanghai International Circuit"@nl ,
+		"\u4E0A\u6D77\u5965\u8FEA\u56FD\u9645\u8D5B\u8F66\u573A"@zh ;
+	rdfs:comment	"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Shanghai (\u4E0A\u6D77\u5965\u8FEA\u56FD\u9645\u8D5B\u8F66\u573A) \u00E8 un autodromo situato nella periferia della metropoli cinese di Shanghai, sede dei Gran Premi di Cina di Formula 1. Circuito costruito nel 2003, le sue strutture ebbero caratteristiche innovative per l'epoca, come le fondamenta in polistirene impiegate per far fronte al terreno paludoso."@it ,
+		"\u4E0A\u6D77\u5965\u8FEA\u56FD\u9645\u8D5B\u8F66\u573A\uFF08\u82F1\u8BED\uFF1AShanghai International Circuit\uFF09\u4F4D\u65BC\u4E2D\u83EF\u4EBA\u6C11\u5171\u548C\u570B\u4E0A\u6D77\u5609\u5B9A\u533A\uFF0C\u7531\u65F6\u4EFB\u4E0A\u6D77\u5E02\u5E02\u957F\u9648\u826F\u5B87\u4E3B\u6301\u5EFA\u9020\uFF0C\u6295\u8D44\u7EA620\u4EBF\u5143\uFF0C2002\u5E7410\u6708\u52D5\u5DE5\uFF0C2004\u5E746\u6708\u7AE3\u5DE5\uFF0C\u603B\u9762\u79EF\uFF1A5.3\u5E73\u65B9\u5343\u7C73\uFF0C\u53EF\u5BB9\u7EB320\u4E07\u4EBA\u3002\u540C\u5E749\u670826\u65E5\u8209\u8FA6F1\u4E2D\u570B\u7AD9\u9996\u500B\u5927\u734E\u8CFD\u3002\u5BB9\u91CF\u4E3A20\u4E07\u3002 \u4E00\u5982\u4E0D\u5C11\u65B0\u8CFD\u9053\uFF0C\u4E0A\u6D77\u8D5B\u8F66\u573A\u7531\u8457\u540D\u7684\u5FB7\u56FD\u8D5B\u9053\u8BBE\u8BA1\u5E08\u8D6B\u66FC\u00B7\u8482\u5C14\u514B\u8BBE\u8BA1\uFF0C\u5176\u8A2D\u8A08\u4F86\u81EA\u4E2D\u6587\u7684\u300C\u4E0A\u300D\u5B57\uFF0C\u5176\u6BCF\u5708\u9577\u5EA6\u70BA5.45124\u516C\u91CC\uFF0C\u5E73\u5747\u65F6\u901F205\u516C\u91CC\u3002\u6700\u957F\u7684\u76F4\u9053\u957F\u5EA6\u4E3A1175\u7C73\uFF0C\u4F4D\u4E8E\u5F2F\u9053T13\u548CT14\u4E4B\u95F4\u3002\u8D5B\u9053\u7684\u5BBD\u5EA6\u572813-15\u7C73\u4E4B\u95F4\uFF0C\u4E00\u822C\u4E3A14\u7C73\uFF0C\u5728\u5F2F\u9053\u5904\u52A0\u5BBD\u5230\u6700\u592720\u7C73\uFF08\u5F2F\u9053T14\uFF0FT15\uFF09\u3002\u6B63\u5F0F\u6BD4\u8D5B\u5171\u4E94\u5341\u516D\u5708\uFF0C\u5168\u957F305.066\u516C\u91CC\u3002\u73B0\u6700\u5FEB\u5708\u901F\u7531\u8FC8\u514B\u5C14\u00B7\u8212\u9A6C\u8D6B\u521B\u9020\uFF0C\u4E3A1\u520632\u79D2238\u3002"@zh ,
+		"Het Shanghai International Circuit ligt in het Jiading-district van Shanghai. Op het circuit wordt de Grand Prix Formule 1 van China verreden, evenals een MotoGP en A1GP-race. Het circuit is ontworpen door Hermann Tilke. Het circuit moest de vorm hebben van het Chinese karakter \u4E0A (shang), de eerste lettergreep van de plaats Shanghai (\u4E0A\u6D77). Het circuit is 5,451 kilometer lang en het ronderecord tijdens de Formule 1 (1:32:238) staat op naam van Michael Schumacher. Het circuit heeft 16 bochten."@nl ,
+		"The Shanghai International Circuit (simplified Chinese: \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A; traditional Chinese: \u4E0A\u6D77\u570B\u969B\u8CFD\u8ECA\u5834; pinyin: Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) is a motorsport race track, situated in the Jiading, Shanghai, People's Republic of China. The circuit is best known as the venue for the annual Formula 1 Chinese Grand Prix, which it first hosted in 2004."@en ,
+		"O Circuito Internacional de Xangai (chin\u00EAs simplificado: \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A; chin\u00EAs tradicional: \u4E0A\u6D77\u570B\u969B\u8CFD\u8ECA\u5834; pinyin: Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) \u00E9 um aut\u00F3dromo localizado perto da cidade de Shangai, na China. \u00C9 conhecido por receber, anualmente, a F\u00F3rmula 1 desde 2004"@pt ,
+		"Le circuit international de Shanghai (chinois simplifi\u00E9 : \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A ; chinois traditionnel : \u4E0A\u6D77\u570B\u969B\u8CFD\u8ECA\u5834 ; pinyin : Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) est un circuit permanent de sports m\u00E9caniques localis\u00E9 \u00E0 Shanghai (district de Jiading) en Chine, il a \u00E9t\u00E9 inaugur\u00E9 le 6 juin 2004. Le Grand Prix de Chine de Formule 1 s'y d\u00E9roule depuis 2004. Le circuit est long de 5 451 m\u00E8tres, le record du tour est d\u00E9tenu par Michael Schumacher sur sa Ferrari en 2004 avec un temps de 1 min 32 s 238."@fr ,
+		"Shanghai International Circuit (chi\u0144.: \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A; pinyin: Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) \u2013 tor Formu\u0142y 1 po\u0142o\u017Cony w Szanghaju. Odbywa si\u0119 na nim Grand Prix Chin. Projektantem toru by\u0142 Hermann Tilke. D\u0142ugo\u015B\u0107 okr\u0105\u017Cenia wynosi 5,451 km. Rekord okr\u0105\u017Cenia nale\u017Cy do Michaela Schumachera i wynosi 1:32.238."@pl ,
+		"\u4E0A\u6D77\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u4E2D\u6587\u8868\u8A18\uFF1A\u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A\u3001Shanghai International Circuit\uFF09\u306F\u3001\u4E2D\u56FD\u30FB\u4E0A\u6D77\u5E02\u5609\u5B9A\u533A\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3002\u8A2D\u8A08\u8005\u306F\u30D8\u30EB\u30DE\u30F3\u30FB\u30C6\u30A3\u30EB\u30B1\u304C\u624B\u639B\u3051\u305F\u3002"@ja ,
+		"El Circuito Internacional de Shangh\u00E1i es un aut\u00F3dromo ubicado en Shangh\u00E1i, China, construido en el a\u00F1o 2003 con el objetivo de albergar el Gran Premio de China de F\u00F3rmula 1 a partir del a\u00F1o 2004 y cuyo coste super\u00F3 los 300 millones de d\u00F3lares. Actualmente, tambi\u00E9n se usa como fecha puntuable del Campeonato Mundial de Resistencia desde 2012 con una carrera de 6 horas de duraci\u00F3n. Este circuito fue sede del Gran Premio de China de Motociclismo, una fecha puntuable del Campeonato Mundial de Motociclismo que tuvo lugar desde 2005 hasta 2008."@es ,
+		"\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0428\u0430\u043D\u0445\u0430\u044F (\u043A\u0438\u0442. \u0442\u0440\u0430\u0434. \u4E0A\u6D77\u570B\u969B\u8CFD\u8ECA\u5834, \u0443\u043F\u0440. \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A, \u043F\u0438\u043D\u044C\u0438\u043D\u044C: Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u0428\u0430\u043D\u0445\u0430\u0435, \u041A\u0438\u0442\u0430\u0439. \u041C\u0435\u0441\u0442\u043E \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041A\u0438\u0442\u0430\u044F \u0441 2004 \u0433\u043E\u0434\u0430. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0431\u044B\u043B \u0441\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u043C \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u043E\u0440\u043E\u043C \u0413\u0435\u0440\u043C\u0430\u043D\u043E\u043C \u0422\u0438\u043B\u044C\u043A\u0435 \u0438 \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D \u043A \u043F\u0435\u0440\u0432\u043E\u043C\u0443 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041A\u0438\u0442\u0430\u044F. \u0422\u0440\u0430\u0441\u0441\u0430 \u0441\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0430 \u0442\u0430\u043A, \u0447\u0442\u043E \u0441\u0432\u043E\u0438\u043C\u0438 \u043E\u0447\u0435\u0440\u0442\u0430\u043D\u0438\u044F\u043C\u0438 \u043D\u0430\u043F\u043E\u043C\u0438\u043D\u0430\u0435\u0442 \u043A\u0438\u0442\u0430\u0439\u0441\u043A\u0438\u0439 \u0438\u0435\u0440\u043E\u0433\u043B\u0438\u0444 \u4E0A, \u043F\u0435\u0440\u0432\u044B\u0439 \u0437\u043D\u0430\u043A \u0432 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0438 \u0433\u043E\u0440\u043E\u0434\u0430 \u0428\u0430\u043D\u0445\u0430\u0439, \u0438 \u0442\u0430\u043A\u0436\u0435 \u043E\u0431\u043E\u0437\u043D\u0430\u0447\u0430\u044E\u0449\u0435\u043C \u00AB\u0432\u0441\u0445\u043E\u0434\u0438\u0442\u044C\u00BB, \u00AB\u0432\u044B\u0448\u0435\u00BB."@ru ,
+		"Der Shanghai International Circuit ist eine Motorsport-Rennstrecke in der Volksrepublik China, die nahe der Metropole Shanghai liegt. Seit 2004 wird dort j\u00E4hrlich der Gro\u00DFe Preis von China der Formel 1 ausgetragen. Von 2005 bis 2008 fand zudem viermal der Gro\u00DFe Preis von China im Rahmen der Motorrad-Weltmeisterschaft statt."@de ,
+		"\u062D\u0644\u0628\u0629 \u0634\u0627\u0646\u063A\u0647\u0627\u064A \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0647\u064A \u062D\u0644\u0628\u0629 \u0644\u0631\u064A\u0627\u0636\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0628\u0637\u0648\u0644 5.451 \u0643\u0645 (3.387 \u0645\u064A\u0644) \u0648\u062A\u0642\u0639 \u0641\u064A \u0634\u0646\u063A\u0647\u0627\u064A\u060C \u0641\u064A \u0627\u0644\u0635\u064A\u0646. \u0648\u0627\u0644\u062D\u0644\u0628\u0629 \u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0635\u064A\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F . \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u062C\u0648\u0644\u0629 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629\u060C \u0648\u0628\u0637\u0648\u0644\u0629 \u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A 8 \u0633\u0648\u0628\u0631\u0643\u0627\u0631 \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0629 2005\u060C \u0648\u0643\u0630\u0644\u0643 \u0627\u0644\u062F\u0648\u0631 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0645\u0646 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 A1 \u0641\u064A 2006/2007."@ar ;
+	dbp:capacity	200000 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	dbpedia-fr:Circuit_international_de_Shanghai .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	yago-res:Shanghai_International_Circuit .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	wikidata:Q171358 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	dbpedia-it:Circuito_di_Shanghai ,
+		<http://sws.geonames.org/8394006/> ,
+		<http://es.dbpedia.org/resource/Circuito_Internacional_de_Shangh\u00E1i> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	dbpedia-de:Shanghai_International_Circuit .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	dbpedia-nl:Shanghai_International_Circuit ,
+		dbr:Shanghai_International_Circuit ,
+		<http://ko.dbpedia.org/resource/\uC0C1\uD558\uC774_\uC778\uD130\uB0B4\uC154\uB110_\uC11C\uD0B7> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	dbpedia-pl:Shanghai_International_Circuit .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	dbpedia-pt:Circuito_Internacional_de_Xangai .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	dbpedia-wikidata:Q171358 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	dbpedia-cs:Shanghai_International_Circuit ,
+		<http://ja.dbpedia.org/resource/\u4E0A\u6D77\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> ,
+		<http://rdf.freebase.com/ns/m.03svwm> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Shanghai_International_Circuit	owl:sameAs	dbpedia-id:Sirkuit_Internasional_Shanghai .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Shanghai_International_Circuit	dct:subject	dbc:Motorsport_venues_in_China ,
+		dbc:Former_V8_Supercar_circuits ,
+		dbc:Grand_Prix_motorcycle_circuits ,
+		dbc:Formula_One_circuits ,
+		dbc:World_Touring_Car_Championship_circuits ,
+		dbc:A1_Grand_Prix_circuits ,
+		dbc:Racing_circuits_designed_by_Hermann_Tilke ,
+		dbc:Sports_venues_in_Shanghai ,
+		dbc:Chinese_Grand_Prix ;
+	foaf:homepage	<http://www.formula1.com/races/in_detail/china_866/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Shanghai_International_Circuit	geo:lat	"31.338888168334960938"^^xsd:float ;
+	geo:long	"121.21971893310546875"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Shanghai_International_Racing_Circuit_track_map.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Shanghai_International_Circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Shanghai_International_Circuit	geo:geometry	"POINT(121.21971893311 31.338888168335)"^^virtrdf:Geometry ;
+	dbp:p	"Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng"^^xsd:string ;
+	dbp:t	"\u4E0A\u6D77\u570B\u969B\u8CFD\u8ECA\u5834"^^xsd:string ;
+	dbp:s	"\u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A"^^xsd:string ;
+	dbp:fiagrade	1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Shanghai_International_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Shanghai_International_Circuit?oldid=744763839> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Shanghai_International_Circuit	georss:point	"31.33888888888889 121.21972222222222" .
+@prefix ns27:	<http://dbpedia.org/datatype/> .
+dbr:Shanghai_International_Circuit	dbp:time	"480.0"^^ns27:second ;
+	dbp:constructionCost	"2.6E9"^^ns27:japaneseYen ;
+	dbo:wikiPageExternalLink	<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> ,
+		<http://racingcircuits.info/asia/china/shanghai-international-circuit.html> ,
+		<http://www.racing-china.com/> ,
+		<http://www.formula1.com/races/in_detail/china_866/> ,
+		<http://www.webcitation.org/query?url=http://www.geocities.com/ciroalbertopabon/Circuitos_eng.htm&date=2009-10-25+17:21:30> ,
+		<http://www.f1china.com.cn/> ;
+	dbp:lengthKm	5.4509999999999996234 ;
+	dbo:abstract	"Der Shanghai International Circuit ist eine Motorsport-Rennstrecke in der Volksrepublik China, die nahe der Metropole Shanghai liegt. Seit 2004 wird dort j\u00E4hrlich der Gro\u00DFe Preis von China der Formel 1 ausgetragen. Von 2005 bis 2008 fand zudem viermal der Gro\u00DFe Preis von China im Rahmen der Motorrad-Weltmeisterschaft statt."@de ,
+		"El Circuito Internacional de Shangh\u00E1i es un aut\u00F3dromo ubicado en Shangh\u00E1i, China, construido en el a\u00F1o 2003 con el objetivo de albergar el Gran Premio de China de F\u00F3rmula 1 a partir del a\u00F1o 2004 y cuyo coste super\u00F3 los 300 millones de d\u00F3lares. Actualmente, tambi\u00E9n se usa como fecha puntuable del Campeonato Mundial de Resistencia desde 2012 con una carrera de 6 horas de duraci\u00F3n. Este circuito fue sede del Gran Premio de China de Motociclismo, una fecha puntuable del Campeonato Mundial de Motociclismo que tuvo lugar desde 2005 hasta 2008. Como varios de los otros aut\u00F3dromos de F\u00F3rmula 1 construidos en la d\u00E9cada de 2000, Shangh\u00E1i fue dise\u00F1ado por el arquitecto de circuitos alem\u00E1n Hermann Tilke. Su forma evoca la figura del car\u00E1cter chino shang (\u4E0A), que significa \"por encima\" o \"ascendente\" y que forma parte de la propia palabra Shangh\u00E1i. A su vez, sus primeras curvas forman el famoso s\u00EDmbolo del yin y yang. El trazado tiene una extensi\u00F3n total de 5,5 kil\u00F3metros, entre los cuales destacan la primera curva, \u00FAnica en todo el campeonato y muy complicada de realizar para todos los pilotos y su recta de atr\u00E1s, de aproximadamente 1,2 kil\u00F3metros de longitud y donde los monoplazas alcanzan la velocidad de 320 kil\u00F3metros por hora. El trazado tiene un equipamiento sobresaliente en todos los aspectos, desde la seguridad a los boxes, pasando por las tribunas. En este circuito ha estado ubicado en la \u00FAltima parte del campeonato de F\u00F3rmula 1, siendo la carrera que cerr\u00F3 la temporada de 2005, la antepen\u00FAltima de 2006 y 2004 y la pen\u00FAltima de 2007 y 2008."@es ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Shanghai (\u4E0A\u6D77\u5965\u8FEA\u56FD\u9645\u8D5B\u8F66\u573A) \u00E8 un autodromo situato nella periferia della metropoli cinese di Shanghai, sede dei Gran Premi di Cina di Formula 1. Circuito costruito nel 2003, le sue strutture ebbero caratteristiche innovative per l'epoca, come le fondamenta in polistirene impiegate per far fronte al terreno paludoso."@it ,
+		"Shanghai International Circuit (chi\u0144.: \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A; pinyin: Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) \u2013 tor Formu\u0142y 1 po\u0142o\u017Cony w Szanghaju. Odbywa si\u0119 na nim Grand Prix Chin. Projektantem toru by\u0142 Hermann Tilke. D\u0142ugo\u015B\u0107 okr\u0105\u017Cenia wynosi 5,451 km. Rekord okr\u0105\u017Cenia nale\u017Cy do Michaela Schumachera i wynosi 1:32.238."@pl ,
+		"\u062D\u0644\u0628\u0629 \u0634\u0627\u0646\u063A\u0647\u0627\u064A \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0647\u064A \u062D\u0644\u0628\u0629 \u0644\u0631\u064A\u0627\u0636\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0628\u0637\u0648\u0644 5.451 \u0643\u0645 (3.387 \u0645\u064A\u0644) \u0648\u062A\u0642\u0639 \u0641\u064A \u0634\u0646\u063A\u0647\u0627\u064A\u060C \u0641\u064A \u0627\u0644\u0635\u064A\u0646. \u0648\u0627\u0644\u062D\u0644\u0628\u0629 \u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0635\u064A\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F . \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u062C\u0648\u0644\u0629 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629\u060C \u0648\u0628\u0637\u0648\u0644\u0629 \u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A 8 \u0633\u0648\u0628\u0631\u0643\u0627\u0631 \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0629 2005\u060C \u0648\u0643\u0630\u0644\u0643 \u0627\u0644\u062F\u0648\u0631 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0645\u0646 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 A1 \u0641\u064A 2006/2007. \u0627\u0642\u064A\u0645\u062A \u0627\u0644\u062D\u0644\u0628\u0629 \u0628\u062A\u0645\u0648\u064A\u0644 \u062D\u0643\u0648\u0645\u064A \u0641\u064A \u0645\u0646\u0637\u0642\u0629 \u0645\u0633\u062A\u0646\u0642\u0639\u0627\u062A \u0645\u0627\u0626\u064A\u0629 \u0648\u0628\u0644\u063A\u062A \u062A\u0643\u0644\u0641\u0629 \u0627\u0644\u0628\u0646\u0627\u0621 450 \u0645\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631. \u0648\u0628\u0633\u0628\u0628 \u0645\u0648\u0642\u0639 \u0627\u0644\u062D\u0644\u0628\u0629 \u062A\u0639\u0631\u0636\u062A \u0628\u0639\u0636 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0641\u064A \u0627\u0644\u062D\u0644\u0628\u0629 \u0644\u0644\u0647\u0628\u0648\u0637. \u0648\u0628\u0627\u0644\u062A\u0627\u0644\u064A \u0641\u0625\u0646 \u0627\u0644\u062D\u0644\u0628\u0629 \u0633\u0648\u0641 \u062A\u062D\u062A\u0627\u062C \u0625\u0644\u0649 \u0641\u062D\u0635 \u0642\u0628\u0644 \u0627\u0644\u062D\u062F\u062B \u0641\u064A \u0645\u0648\u0633\u0645 2011.. \u064A\u0628\u0644\u063A \u0637\u0648\u0644 \u0645\u0633\u0627\u0631 \u0627\u0644\u0644\u0641\u0629 \u0627\u0644\u0648\u0627\u062D\u062F\u0629 5\u060C5 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 (3.4 \u0645\u064A\u0644). \u0648\u064A\u0628\u0644\u063A \u0645\u0633\u0627\u062D\u0629 \u0627\u0644\u062D\u0644\u0628\u0629 \u0628\u0623\u0643\u0645\u0644\u0647\u0627 \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0623\u0645\u0627\u0643\u0646 \u062C\u0644\u0648\u0633 \u0648\u063A\u064A\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0644\u0644\u0645\u062A\u0641\u0631\u062C\u064A\u0646 \u0645\u0633\u0627\u062D\u0629 \u0625\u062C\u0645\u0627\u0644\u064A\u0629 \u0642\u062F\u0631\u0647\u0627 5\u060C3 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0645\u0631\u0628\u0639. \u062A\u062A\u0642\u0627\u0633\u0645 \u0627\u0644\u062D\u0644\u0628\u0629 \u0645\u0639 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u062D\u0644\u0628\u0627\u062A \u0627\u0644\u062C\u062F\u064A\u062F\u0629 \u0642\u0627\u0633\u0645 \u0645\u0634\u062A\u0631\u0643 \u0628\u064A\u0646\u0647\u0627 . \u0648\u0647\u064A \u0623\u0646\u0647\u0627 \u062A\u062D\u0645\u0644 \u0645\u0635\u0645\u0645\u0629 \u0645\u0646 \u0642\u0628\u0644 \u0645\u0635\u0645\u0645 \u0627\u0644\u062D\u0644\u0628\u0627\u062A \u0647\u064A\u0631\u0645\u0627\u0646 \u062A\u064A\u0644\u0643\u060C \u064A\u0645\u0643\u0646 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u062C\u064A\u0644 \u0627\u0644\u062D\u0627\u0644\u064A \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0627\u0644\u062C\u064A\u0644 \u0627\u0644\u062D\u0627\u0644\u064A \u062A\u062C\u0627\u0648\u0632 \u0633\u0631\u0639\u0629 300 \u0643\u0645 / \u0633\u0627\u0639\u0629 (186 \u0645\u064A\u0644\u0627 \u0641\u064A \u0627\u0644\u0633\u0627\u0639\u0629) \u0628\u0633\u0647\u0648\u0644\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u0633\u0627\u0631\u0627\u062A \u0627\u0644\u0637\u0648\u064A\u0644\u0629 \u0628\u064A\u0646 \u0627\u0644\u0645\u0646\u0639\u0637\u0641\u0627\u062A \u0631\u0642\u0645 13 \u0648 14. \u0648\u062A\u062E\u0637\u064A\u0637 \u0627\u0644\u0645\u0633\u0627\u0631 \u0645\u0633\u062A\u0648\u062D\u0649 \u0645\u0646 \u0627\u0644\u062D\u0631\u0641 \u0627\u0644\u0635\u064A\u0646\u064A \u0634\u0627\u0646\u063A (\u4E0A) \u0627\u0644\u062D\u0631\u0641 \u0627\u0644\u0623\u0648\u0644 \u0641\u064A \u0627\u0633\u0645 \u0645\u062F\u064A\u0646\u0629 \u0634\u0627\u0646\u063A\u0647\u0627\u064A\u060C \u0648\u062A\u0639\u0646\u0649 \"\u0641\u0648\u0642\" \u0623\u0648 \"\u0635\u0639\u0648\u062F\" ."@ar ,
+		"\u4E0A\u6D77\u5965\u8FEA\u56FD\u9645\u8D5B\u8F66\u573A\uFF08\u82F1\u8BED\uFF1AShanghai International Circuit\uFF09\u4F4D\u65BC\u4E2D\u83EF\u4EBA\u6C11\u5171\u548C\u570B\u4E0A\u6D77\u5609\u5B9A\u533A\uFF0C\u7531\u65F6\u4EFB\u4E0A\u6D77\u5E02\u5E02\u957F\u9648\u826F\u5B87\u4E3B\u6301\u5EFA\u9020\uFF0C\u6295\u8D44\u7EA620\u4EBF\u5143\uFF0C2002\u5E7410\u6708\u52D5\u5DE5\uFF0C2004\u5E746\u6708\u7AE3\u5DE5\uFF0C\u603B\u9762\u79EF\uFF1A5.3\u5E73\u65B9\u5343\u7C73\uFF0C\u53EF\u5BB9\u7EB320\u4E07\u4EBA\u3002\u540C\u5E749\u670826\u65E5\u8209\u8FA6F1\u4E2D\u570B\u7AD9\u9996\u500B\u5927\u734E\u8CFD\u3002\u5BB9\u91CF\u4E3A20\u4E07\u3002 \u4E00\u5982\u4E0D\u5C11\u65B0\u8CFD\u9053\uFF0C\u4E0A\u6D77\u8D5B\u8F66\u573A\u7531\u8457\u540D\u7684\u5FB7\u56FD\u8D5B\u9053\u8BBE\u8BA1\u5E08\u8D6B\u66FC\u00B7\u8482\u5C14\u514B\u8BBE\u8BA1\uFF0C\u5176\u8A2D\u8A08\u4F86\u81EA\u4E2D\u6587\u7684\u300C\u4E0A\u300D\u5B57\uFF0C\u5176\u6BCF\u5708\u9577\u5EA6\u70BA5.45124\u516C\u91CC\uFF0C\u5E73\u5747\u65F6\u901F205\u516C\u91CC\u3002\u6700\u957F\u7684\u76F4\u9053\u957F\u5EA6\u4E3A1175\u7C73\uFF0C\u4F4D\u4E8E\u5F2F\u9053T13\u548CT14\u4E4B\u95F4\u3002\u8D5B\u9053\u7684\u5BBD\u5EA6\u572813-15\u7C73\u4E4B\u95F4\uFF0C\u4E00\u822C\u4E3A14\u7C73\uFF0C\u5728\u5F2F\u9053\u5904\u52A0\u5BBD\u5230\u6700\u592720\u7C73\uFF08\u5F2F\u9053T14\uFF0FT15\uFF09\u3002\u6B63\u5F0F\u6BD4\u8D5B\u5171\u4E94\u5341\u516D\u5708\uFF0C\u5168\u957F305.066\u516C\u91CC\u3002\u73B0\u6700\u5FEB\u5708\u901F\u7531\u8FC8\u514B\u5C14\u00B7\u8212\u9A6C\u8D6B\u521B\u9020\uFF0C\u4E3A1\u520632\u79D2238\u3002"@zh ,
+		"O Circuito Internacional de Xangai (chin\u00EAs simplificado: \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A; chin\u00EAs tradicional: \u4E0A\u6D77\u570B\u969B\u8CFD\u8ECA\u5834; pinyin: Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) \u00E9 um aut\u00F3dromo localizado perto da cidade de Shangai, na China. \u00C9 conhecido por receber, anualmente, a F\u00F3rmula 1 desde 2004"@pt ,
+		"\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0428\u0430\u043D\u0445\u0430\u044F (\u043A\u0438\u0442. \u0442\u0440\u0430\u0434. \u4E0A\u6D77\u570B\u969B\u8CFD\u8ECA\u5834, \u0443\u043F\u0440. \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A, \u043F\u0438\u043D\u044C\u0438\u043D\u044C: Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u0428\u0430\u043D\u0445\u0430\u0435, \u041A\u0438\u0442\u0430\u0439. \u041C\u0435\u0441\u0442\u043E \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041A\u0438\u0442\u0430\u044F \u0441 2004 \u0433\u043E\u0434\u0430. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0431\u044B\u043B \u0441\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u043C \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u043E\u0440\u043E\u043C \u0413\u0435\u0440\u043C\u0430\u043D\u043E\u043C \u0422\u0438\u043B\u044C\u043A\u0435 \u0438 \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D \u043A \u043F\u0435\u0440\u0432\u043E\u043C\u0443 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041A\u0438\u0442\u0430\u044F. \u0422\u0440\u0430\u0441\u0441\u0430 \u0441\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0430 \u0442\u0430\u043A, \u0447\u0442\u043E \u0441\u0432\u043E\u0438\u043C\u0438 \u043E\u0447\u0435\u0440\u0442\u0430\u043D\u0438\u044F\u043C\u0438 \u043D\u0430\u043F\u043E\u043C\u0438\u043D\u0430\u0435\u0442 \u043A\u0438\u0442\u0430\u0439\u0441\u043A\u0438\u0439 \u0438\u0435\u0440\u043E\u0433\u043B\u0438\u0444 \u4E0A, \u043F\u0435\u0440\u0432\u044B\u0439 \u0437\u043D\u0430\u043A \u0432 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0438 \u0433\u043E\u0440\u043E\u0434\u0430 \u0428\u0430\u043D\u0445\u0430\u0439, \u0438 \u0442\u0430\u043A\u0436\u0435 \u043E\u0431\u043E\u0437\u043D\u0430\u0447\u0430\u044E\u0449\u0435\u043C \u00AB\u0432\u0441\u0445\u043E\u0434\u0438\u0442\u044C\u00BB, \u00AB\u0432\u044B\u0448\u0435\u00BB. \u0412 2005 \u0433. \u043D\u0430 \u0443\u043A\u043E\u0440\u043E\u0447\u0435\u043D\u043D\u043E\u043C \u0432\u0430\u0440\u0438\u0430\u043D\u0442\u0435 \u0442\u0440\u0430\u0441\u0441\u044B \u043F\u0440\u043E\u0448\u0451\u043B \u044D\u0442\u0430\u043F \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 V8 Supercars, \u043E\u0434\u043D\u0430\u043A\u043E \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u044B \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0442\u043E\u0440\u043E\u0432 \u043D\u0435 \u043F\u043E\u0437\u0432\u043E\u043B\u0438\u043B\u0438 \u043F\u0440\u043E\u0432\u0435\u0441\u0442\u0438 \u0435\u0433\u043E \u0432\u043D\u043E\u0432\u044C."@ru ,
+		"Het Shanghai International Circuit ligt in het Jiading-district van Shanghai. Op het circuit wordt de Grand Prix Formule 1 van China verreden, evenals een MotoGP en A1GP-race. Het circuit is ontworpen door Hermann Tilke. Het circuit moest de vorm hebben van het Chinese karakter \u4E0A (shang), de eerste lettergreep van de plaats Shanghai (\u4E0A\u6D77). Het circuit is 5,451 kilometer lang en het ronderecord tijdens de Formule 1 (1:32:238) staat op naam van Michael Schumacher. Het circuit heeft 16 bochten."@nl ,
+		"Le circuit international de Shanghai (chinois simplifi\u00E9 : \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A ; chinois traditionnel : \u4E0A\u6D77\u570B\u969B\u8CFD\u8ECA\u5834 ; pinyin : Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) est un circuit permanent de sports m\u00E9caniques localis\u00E9 \u00E0 Shanghai (district de Jiading) en Chine, il a \u00E9t\u00E9 inaugur\u00E9 le 6 juin 2004. Le Grand Prix de Chine de Formule 1 s'y d\u00E9roule depuis 2004. Sa construction a co\u00FBt\u00E9 450 millions de dollars. Il a \u00E9t\u00E9 con\u00E7u, au m\u00EAme titre que les nouveaux circuits de Bahre\u00EFn (Circuit international de Bahre\u00EFn) et de Malaisie (Circuit international de Sepang), par le designer allemand Hermann Tilke. Contrairement \u00E0 la croyance populaire, la ressemblance de la forme du trac\u00E9 avec le caract\u00E8re chinois sh\u00E0ng (\u4E0A), signifiant \u00AB plus haut \u00BB ou \u00AB sup\u00E9rieur \u00BB, n'\u00E9tait pas intentionnelle, mais une pure co\u00EFncidence . Il se caract\u00E9rise, comme tous les circuits d'Hermann Tilke, par une succession de courtes lignes droites et de virages serr\u00E9s, afin de favoriser les d\u00E9passements. Cependant, les grandes courbes rapides qui mettent en avant les qualit\u00E9s de pilotage des pilotes sont absentes. Le circuit est long de 5 451 m\u00E8tres, le record du tour est d\u00E9tenu par Michael Schumacher sur sa Ferrari en 2004 avec un temps de 1 min 32 s 238. Le circuit a \u00E9t\u00E9 \u00E9galement utilis\u00E9 pour le Grand Prix moto de Chine de 2005 \u00E0 2008. Il accueille les championnats australiens de V8 Supercars et de A1 Grand Prix. Chaque ann\u00E9e se tiennent \u00E9galement les 6 Heures de Shanghai, manche du Championnat du monde d'endurance FIA."@fr ,
+		"The Shanghai International Circuit (simplified Chinese: \u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A; traditional Chinese: \u4E0A\u6D77\u570B\u969B\u8CFD\u8ECA\u5834; pinyin: Sh\u00E0ngh\u01CEi Gu\u00F3j\u00EC S\u00E0ich\u0113ch\u01CEng) is a motorsport race track, situated in the Jiading, Shanghai, People's Republic of China. The circuit is best known as the venue for the annual Formula 1 Chinese Grand Prix, which it first hosted in 2004."@en ,
+		"\u4E0A\u6D77\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u4E2D\u6587\u8868\u8A18\uFF1A\u4E0A\u6D77\u56FD\u9645\u8D5B\u8F66\u573A\u3001Shanghai International Circuit\uFF09\u306F\u3001\u4E2D\u56FD\u30FB\u4E0A\u6D77\u5E02\u5609\u5B9A\u533A\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3002\u8A2D\u8A08\u8005\u306F\u30D8\u30EB\u30DE\u30F3\u30FB\u30C6\u30A3\u30EB\u30B1\u304C\u624B\u639B\u3051\u305F\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Shanghai_International_Racing_Circuit_track_map.svg?width=300> ;
+	dbo:wikiPageRevisionID	744763839 ;
+	dbo:wikiPageID	952143 ;
+	dbp:lengthMi	3.3879999999999999005 ;
+	dbp:location	dbr:Shanghai ,
+		dbr:China ,
+		dbr:Jiading_District ;
+	dbp:recordDriver	"Michael Schumacher"^^xsd:string ;
+	dbp:recordTeam	dbr:Scuderia_Ferrari ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	2004 ;
+	dbp:turns	16 ;
+	dbp:name	"Shanghai International Circuit"^^xsd:string .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Shanghai_International_Circuit	ns28:hypernym	dbr:Track ;
+	dbp:events	"WTCC"^^xsd:string ,
+		6 ,
+		"MotoGP"^^xsd:string ,
+		dbr:FIA_WTCC_Race_of_China ,
+		dbr:Chinese_motorcycle_Grand_Prix ,
+		"Formula One"^^xsd:string ,
+		dbr:Chinese_Grand_Prix ,
+		"WEC"^^xsd:string ,
+		<http://dbpedia.org/resource/2005_V8_Supercar_Championship_Series> ;
+	dbp:opened	2004 ;
+	dbp:architect	dbr:Hermann_Tilke .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Shanghai_round>	dbp:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2013_FIA_WTCC_Race_of_China>	dbp:courseName	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_China,_Shanghai>	dbp:courseName	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2009_Chinese_Grand_Prix>	dbp:location	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/2012_FIA_WTCC_Race_of_China>	dbp:courseName	dbr:Shanghai_International_Circuit .
+<http://dbpedia.org/resource/6_Hours_of_Shanghai>	dbp:venue	dbr:Shanghai_International_Circuit .

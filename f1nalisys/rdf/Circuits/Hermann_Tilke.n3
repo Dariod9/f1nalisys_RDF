@@ -1,0 +1,169 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Chang_International_Circuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Beijing_International_Streetcircuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Bahrain_International_Circuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Yas_Marina_Circuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Moscow_Raceway	dbp:architect	dbr:Hermann_Tilke .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Hauptstadion	dbo:architect	dbr:Hermann_Tilke .
+dbr:Jaypee_Sports_City	dbo:architect	dbr:Hermann_Tilke .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Hermann_Tilke	foaf:primaryTopic	dbr:Hermann_Tilke .
+dbr:Sepang_International_Circuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Smolensk_Ring	dbp:architect	dbr:Hermann_Tilke .
+dbr:Circuit_of_the_Americas	dbp:architect	dbr:Hermann_Tilke .
+dbr:Atlanta_Motorsports_Park	dbp:architect	dbr:Hermann_Tilke .
+dbr:Port_Imperial_Street_Circuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Yas_Viceroy_Abu_Dhabi_Hotel	dbp:architect	dbr:Hermann_Tilke .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Hermann_Tilke	rdf:type	yago:Architect109805475 ,
+		yago:Engineer109615807 ,
+		dbo:Agent ,
+		yago:WikicatFormulaOnePeople ,
+		<http://dbpedia.org/class/yago/WikicatPeopleFromOlpe,Germany> ,
+		foaf:Person ,
+		yago:WikicatGermanArchitects ,
+		yago:WikicatLivingPeople .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Hermann_Tilke	rdf:type	wikidata:Q5 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:WikicatEthnicGermanPeople ,
+		yago:YagoLegalActorGeo .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Hermann_Tilke	rdf:type	ns8:Agent ,
+		yago:WikicatPeopleFromNorthRhine-Westphalia .
+@prefix schema:	<http://schema.org/> .
+dbr:Hermann_Tilke	rdf:type	schema:Person ,
+		yago:CausalAgent100007347 ,
+		ns8:NaturalPerson ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CivilEngineer109924540 ,
+		yago:Organism100004475 ,
+		dbo:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Hermann_Tilke	rdf:type	owl:Thing ,
+		yago:Creator109614315 ,
+		yago:WikicatGermanEngineers ,
+		yago:WikicatCivilEngineers ,
+		yago:WikicatGermanMotorsportPeople ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Hermann_Tilke	rdfs:label	"\u8D6B\u5C14\u66FC\u00B7\u63D0\u5C14\u514B"@zh ,
+		"\u0647\u064A\u0631\u0645\u0627\u0646 \u062A\u064A\u0644\u0643"@ar ,
+		"Hermann Tilke"@fr ,
+		"\u30D8\u30EB\u30DE\u30F3\u30FB\u30C6\u30A3\u30EB\u30B1"@ja ,
+		"Hermann Tilke"@de ,
+		"Hermann Tilke"@es ,
+		"Hermann Tilke"@it ,
+		"\u0422\u0438\u043B\u044C\u043A\u0435, \u0413\u0435\u0440\u043C\u0430\u043D"@ru ,
+		"Hermann Tilke"@pt ,
+		"Hermann Tilke"@nl ,
+		"Hermann Tilke"@pl ,
+		"Hermann Tilke"@en ;
+	rdfs:comment	"Hermann Tilke (ur. 31 grudnia 1954 w Olpe) \u2013 niemiecki architekt, projektant tor\u00F3w wy\u015Bcigowych i kierowca wy\u015Bcigowy."@pl ,
+		"\u30D8\u30EB\u30DE\u30F3\u30FB\u30C6\u30A3\u30EB\u30B1\uFF08Hermann Tilke\u30011954\u5E7412\u670831\u65E5 - \uFF09\u306F\u30C9\u30A4\u30C4\u4EBA\u5EFA\u7BC9\u5BB6\u30021990\u5E74\u4EE3\u4EE5\u964D\u306B\u65B0\u8A2D\u30FB\u6539\u4FEE\u3055\u308C\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u306E\u8A2D\u8A08\u8005\u3068\u3057\u3066\u77E5\u3089\u308C\u308B\u3002"@ja ,
+		"\u8D6B\u5C14\u66FC\u00B7\u63D0\u5C14\u514B\uFF08\u82F1\u8BED\uFF1AHermann Tilke\uFF0C1954\u5E7412\u670831\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u5FB7\u56FD\u7684\u5DE5\u7A0B\u5E08\u548C\u8D5B\u8F66\u624B\uFF0C\u8BBE\u8BA1\u8FC7\u5F88\u591A\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u7684\u8DD1\u9053\u3002"@zh ,
+		"Hermann Tilke (31 de diciembre de 1954) es un ingeniero civil alem\u00E1n. Tilke fund\u00F3 la Tilke GmbH Ingenieure and Architekten en Aquisgr\u00E1n en 1984, uniendo arquitectura e ingenier\u00EDa civil y electr\u00F3nica. Algunos de sus proyectos son:"@es ,
+		"\u0413\u0435\u0440\u043C\u0430\u043D \u0422\u0438\u043B\u044C\u043A\u0435 (\u043D\u0435\u043C. Hermann Tilke; \u0440\u043E\u0434. 31 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1954 \u0433\u043E\u0434\u0430 \u0432 \u041E\u043B\u044C\u043F\u0435, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u043E\u0440, \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0442\u0440\u0430\u0441\u0441 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"Hermann Tilke (* 31. Dezember 1954 in Olpe) ist ein deutscher Bauingenieur, Entwickler von Test- und Formel-1-Rennstrecken sowie Rennfahrer."@de ,
+		"Hermann Tilke (Olpe, 31 de Dezembro de 1954), \u00E9 um arquiteto alem\u00E3o, designer de circuitos de F\u00F3rmula 1 e de outros esportes a motor."@pt ,
+		"\u0647\u064A\u0631\u0645\u0627\u0646 \u062A\u064A\u0644\u0643 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Hermann Tilke) (\u0648. 1954 \u2013 \u0645) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0629 \u0633\u0628\u0627\u0642\u060C \u0648\u0645\u0647\u0646\u062F\u0633 \u0645\u0639\u0645\u0627\u0631\u064A \u0645\u0646 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 . \u0648\u0644\u062F \u0641\u064A \u0627\u0644\u0628\u0647 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 ."@ar ,
+		"Hermann Tilke (Olpe, 31 december 1954) is een Duitse architect, ontwerper van racecircuits en autocoureur."@nl ,
+		"Hermann Tilke (born 31 December 1954) is a German engineer and auto racer, who has designed numerous Formula One motor racing circuits."@en ,
+		"Hermann Tilke, n\u00E9 le 31 d\u00E9cembre 1954 \u00E0 Olpe (Rh\u00E9nanie-du-Nord-Westphalie, Allemagne), est un architecte allemand. Il est le fondateur et le dirigeant de l'entreprise Tilke Engineering. Il est connu pour \u00EAtre le cr\u00E9ateur de nombreux circuits de sports m\u00E9caniques, notamment la plupart des circuits r\u00E9cents utilis\u00E9s dans le cadre du championnat du monde de Formule 1."@fr .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-it:Hermann_Tilke ,
+		wikidata:Q57759 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	yago-res:Hermann_Tilke .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-es:Hermann_Tilke ,
+		dbr:Hermann_Tilke .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-fr:Hermann_Tilke .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-nl:Hermann_Tilke .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-id:Hermann_Tilke .
+@prefix ns18:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Hermann_Tilke	owl:sameAs	ns18:Herman_Tilke ,
+		<http://ja.dbpedia.org/resource/\u30D8\u30EB\u30DE\u30F3\u30FB\u30C6\u30A3\u30EB\u30B1> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-pt:Hermann_Tilke ,
+		<http://d-nb.info/gnd/189543051> ,
+		<http://rdf.freebase.com/ns/m.02q1bh> ,
+		ns18:Hermann_Tilke .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-cs:Hermann_Tilke .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-wikidata:Q57759 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-pl:Hermann_Tilke .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Hermann_Tilke	owl:sameAs	dbpedia-de:Hermann_Tilke .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Hermann_Tilke	dct:subject	dbc:Formula_One_circuits ,
+		<http://dbpedia.org/resource/Category:People_from_Olpe,_Germany> ,
+		dbc:German_motorsport_people ,
+		dbc:Formula_One_people ,
+		<http://dbpedia.org/resource/Category:1954_births> ,
+		dbc:German_architects ,
+		dbc:Sportspeople_from_North_Rhine-Westphalia ,
+		dbc:Living_people ;
+	foaf:name	"Hermann Tilke"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Hermann_tilke.jpg> ;
+	dct:description	"Engineer, racing driver and F1 circuit designer"@en ;
+	foaf:givenName	"Hermann"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Hermann_Tilke ;
+	foaf:surname	"Tilke"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Hermann_Tilke	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Hermann_Tilke?oldid=736752610> ;
+	dbo:birthName	"Hermann Tilke"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Hermann_Tilke	dbo:birthYear	"1954"^^xsd:gYear ;
+	dbo:wikiPageExternalLink	<http://emagazine.credit-suisse.com/app/article/index.cfm?fuseaction=OpenArticle&aoid=46257&coid=88&lang=EN> ,
+		<http://www.grandprix.com/ns/ns19865.html> ,
+		<http://www.gpeuropa.net/> ,
+		<http://www.motorcity.kz> ,
+		<http://www.tilke.com/> ;
+	dbo:occupation	dbr:Hermann_Tilke__1 ,
+		dbr:Engineer ;
+	dbp:caption	"Tilke in 2009"^^xsd:string ;
+	dbo:abstract	"\u8D6B\u5C14\u66FC\u00B7\u63D0\u5C14\u514B\uFF08\u82F1\u8BED\uFF1AHermann Tilke\uFF0C1954\u5E7412\u670831\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u5FB7\u56FD\u7684\u5DE5\u7A0B\u5E08\u548C\u8D5B\u8F66\u624B\uFF0C\u8BBE\u8BA1\u8FC7\u5F88\u591A\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u7684\u8DD1\u9053\u3002"@zh ,
+		"Hermann Tilke (Olpe, 31 de Dezembro de 1954), \u00E9 um arquiteto alem\u00E3o, designer de circuitos de F\u00F3rmula 1 e de outros esportes a motor."@pt ,
+		"\u0413\u0435\u0440\u043C\u0430\u043D \u0422\u0438\u043B\u044C\u043A\u0435 (\u043D\u0435\u043C. Hermann Tilke; \u0440\u043E\u0434. 31 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1954 \u0433\u043E\u0434\u0430 \u0432 \u041E\u043B\u044C\u043F\u0435, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u043E\u0440, \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0442\u0440\u0430\u0441\u0441 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"\u30D8\u30EB\u30DE\u30F3\u30FB\u30C6\u30A3\u30EB\u30B1\uFF08Hermann Tilke\u30011954\u5E7412\u670831\u65E5 - \uFF09\u306F\u30C9\u30A4\u30C4\u4EBA\u5EFA\u7BC9\u5BB6\u30021990\u5E74\u4EE3\u4EE5\u964D\u306B\u65B0\u8A2D\u30FB\u6539\u4FEE\u3055\u308C\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u306E\u8A2D\u8A08\u8005\u3068\u3057\u3066\u77E5\u3089\u308C\u308B\u3002"@ja ,
+		"Hermann Tilke, n\u00E9 le 31 d\u00E9cembre 1954 \u00E0 Olpe (Rh\u00E9nanie-du-Nord-Westphalie, Allemagne), est un architecte allemand. Il est le fondateur et le dirigeant de l'entreprise Tilke Engineering. Il est connu pour \u00EAtre le cr\u00E9ateur de nombreux circuits de sports m\u00E9caniques, notamment la plupart des circuits r\u00E9cents utilis\u00E9s dans le cadre du championnat du monde de Formule 1."@fr ,
+		"Hermann Tilke (31 de diciembre de 1954) es un ingeniero civil alem\u00E1n. Tilke fund\u00F3 la Tilke GmbH Ingenieure and Architekten en Aquisgr\u00E1n en 1984, uniendo arquitectura e ingenier\u00EDa civil y electr\u00F3nica. Algunos de sus proyectos son:"@es ,
+		"Hermann Tilke (born 31 December 1954) is a German engineer and auto racer, who has designed numerous Formula One motor racing circuits."@en ,
+		"Hermann Tilke (ur. 31 grudnia 1954 w Olpe) \u2013 niemiecki architekt, projektant tor\u00F3w wy\u015Bcigowych i kierowca wy\u015Bcigowy."@pl ,
+		"\u0647\u064A\u0631\u0645\u0627\u0646 \u062A\u064A\u0644\u0643 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Hermann Tilke) (\u0648. 1954 \u2013 \u0645) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0629 \u0633\u0628\u0627\u0642\u060C \u0648\u0645\u0647\u0646\u062F\u0633 \u0645\u0639\u0645\u0627\u0631\u064A \u0645\u0646 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 . \u0648\u0644\u062F \u0641\u064A \u0627\u0644\u0628\u0647 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 ."@ar ,
+		"Hermann Tilke (Olpe, 31 december 1954) is een Duitse architect, ontwerper van racecircuits en autocoureur."@nl ,
+		"Hermann Tilke (* 31. Dezember 1954 in Olpe) ist ein deutscher Bauingenieur, Entwickler von Test- und Formel-1-Rennstrecken sowie Rennfahrer."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Hermann_tilke.jpg?width=300> ;
+	dbo:birthDate	"1954-12-31"^^xsd:date ;
+	dbo:wikiPageRevisionID	736752610 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Olpe,_Germany> ;
+	dbo:wikiPageID	560012 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Hermann_Tilke	ns28:hypernym	dbr:Engineer .
+dbr:Rudskogen	dbp:architect	dbr:Hermann_Tilke .
+dbr:Herman_Tilke	dbo:wikiPageRedirects	dbr:Hermann_Tilke .
+dbr:Tilke	dbo:wikiPageDisambiguates	dbr:Hermann_Tilke .
+<http://dbpedia.org/resource/Ciudad_del_Motor_de_Arag\u00F3n>	dbp:architect	dbr:Hermann_Tilke .
+dbr:Intercity_Istanbul_Park	dbp:architect	dbr:Hermann_Tilke .
+dbr:Baku_City_Circuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Marina_Bay_Street_Circuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Shanghai_International_Circuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Buddh_International_Circuit	dbp:architect	dbr:Hermann_Tilke .
+dbr:Sochi_Autodrom	dbp:architect	dbr:Hermann_Tilke .

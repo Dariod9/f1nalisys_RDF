@@ -1,0 +1,184 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2008_Singapore_Grand_Prix>	dbp:caption	dbr:Marina_Bay_Street_Circuit .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2008_Singapore_Grand_Prix>	dbo:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2010_Singapore_Grand_Prix>	dbp:caption	dbr:Marina_Bay_Street_Circuit ;
+	dbo:location	dbr:Marina_Bay_Street_Circuit .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Marina_Bay_Street_Circuit	foaf:primaryTopic	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2009_Singapore_Grand_Prix>	dbp:caption	dbr:Marina_Bay_Street_Circuit ;
+	dbo:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2011_Singapore_Grand_Prix>	dbp:caption	dbr:Marina_Bay_Street_Circuit ;
+	dbo:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2012_Singapore_Grand_Prix>	dbp:caption	dbr:Marina_Bay_Street_Circuit ;
+	dbo:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2013_Singapore_Grand_Prix>	dbp:caption	dbr:Marina_Bay_Street_Circuit ;
+	dbp:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2014_Singapore_Grand_Prix>	dbp:caption	dbr:Marina_Bay_Street_Circuit ;
+	dbp:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2015_Singapore_Grand_Prix>	dbp:caption	dbr:Marina_Bay_Street_Circuit ;
+	dbp:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2016_Singapore_Grand_Prix>	dbp:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Singapore_round>	dbp:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2016_TCR_International_Series_Singapore_round>	dbp:location	dbr:Marina_Bay_Street_Circuit .
+<http://dbpedia.org/resource/2012_Marina_Bay_GP2_Series_round>	dbp:location	dbr:Marina_Bay_Street_Circuit .
+dbr:Singapore_Grand_Prix	dbp:circuit	dbr:Marina_Bay_Street_Circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Marina_Bay_Street_Circuit	rdf:type	yago:YagoGeoEntity ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatMotorsportVenuesInSingapore ,
+		yago:Region108630985 ,
+		yago:Location100027167 ,
+		yago:Area108497294 ,
+		yago:Venue108677628 ,
+		yago:Scene108645963 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Marina_Bay_Street_Circuit	rdf:type	geo:SpatialThing ,
+		dbo:BaseballLeague .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Marina_Bay_Street_Circuit	rdfs:label	"\u6FF1\u6D77\u7063\u5E02\u8857\u8CFD\u9053"@zh ,
+		"Marina Bay Street Circuit"@pl ,
+		"Marina Bay Street Circuit"@en ,
+		"\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB\u5E02\u8857\u5730\u30B3\u30FC\u30B9"@ja ,
+		"Marina Bay Street Circuit"@de ,
+		"Marina Bay Street Circuit"@nl ,
+		"\u062D\u0644\u0628\u0629 \u0634\u0627\u0631\u0639 \u0645\u0627\u0631\u064A\u0646\u0627 \u0628\u0627\u064A"@ar ,
+		"Circuit urbain de Singapour"@fr ,
+		"\u041C\u0430\u0440\u0438\u043D\u0430 \u0411\u0435\u0439 (\u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"Singapore Street Circuit"@it ,
+		"Circuito Urbano de Marina Bay"@pt ,
+		"Circuito callejero de Marina Bay"@es ;
+	rdfs:comment	"The Marina Bay Street Circuit (otherwise known as the Singapore Street Circuit) is a street circuit around Singapore's Marina Bay and is the venue for the Singapore Grand Prix. The track is 5.065 km (3.147 mi) long in a harbourside location similar in style to the Circuit de Monaco and the Valencia Street Circuit. The circuit is designed by KBR, Inc., a modification of the original one first proposed by Hermann Tilke. The circuit has FIA Grade 1 license. The circuit holds a unique record of having safety car appearance in every race to date. A total of 14 safety car deployments in nine races."@en ,
+		"Der Marina Bay Street Circuit ist eine tempor\u00E4re Motorsport-Rennstrecke in Singapur. Auf dem Stadtkurs findet seit 2008 der Gro\u00DFe Preis von Singapur im Rahmen der Formel 1 statt. Der Kurs liegt in der Marina Bay im Hafengebiet des Stadtstaates Singapur und ist somit durch die N\u00E4he zum Wasser atmosph\u00E4risch dem Gro\u00DFen Preis von Monaco und dem im Jahr 2008 ebenfalls erstmals auf dem Valencia Street Circuit ausgetragenen Gro\u00DFen Preis von Europa sehr \u00E4hnlich. Zudem wurde hier erstmals in der Formel-1-Geschichte ein Nachtrennen ausgetragen. Sowohl das Rennen als auch die Qualifikation und die freien Trainings werden unter k\u00FCnstlicher Beleuchtung durchgef\u00FChrt. Es wurde jedoch angek\u00FCndigt, die asphaltierten Auslaufzonen weniger hell zu beleuchten um somit einer Verwirrung der Fahrer entgegenzuwirk"@de ,
+		"Marina Bay Street Circuit \u2013 singapurski tor wy\u015Bcigowy. Tor ma d\u0142ugo\u015B\u0107 5,067 km i go\u015Bci Grand Prix Singapuru Formu\u0142y 1 od sezonu 2008."@pl ,
+		"\u6EE8\u6D77\u6E7E\u5E02\u8857\u8D5B\u9053\uFF08\u5B98\u65B9\u82F1\u6587\u540D\u70BAMarina Bay Street Circuit\uFF09\uFF0C\u4E5F\u79F0\u4E3A\u65B0\u52A0\u5761\u5E02\u8857\u8CFD\u9053\uFF0C\u662F\u4E00\u6761\u4F4D\u4E8E\u65B0\u52A0\u5761\u6EE8\u6D77\u6E7E\u5730\u5340\u3001\u70BA\u4E86\u8209\u8FA6\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\uFF08F1\uFF09\u800C\u4EE5\u4E00\u822C\u5E02\u8857\u9053\u8DEF\u570D\u6210\u7684\u8CFD\u8ECA\u8DD1\u9053\u3002\u6FF1\u6D77\u7063\u5E02\u8857\u8CFD\u9053\u81EA2008\u5E74\u8CFD\u5B63\u8D77\u5C31\u4E00\u76F4\u662F\u65B0\u52A0\u5761\u5927\u734E\u8CFD\u7684\u8209\u8FA6\u5834\u5730\uFF0C\u7E3D\u95775.073\u516C\u91CC\u7684\u8CFD\u9053\u5305\u542B\u5927\u91CF\u76F4\u89D2\u5F4E\uFF0C\u6574\u9AD4\u8DEF\u7DDA\u7279\u6027\u8207\u8209\u8FA6\u6469\u7D0D\u54E5\u5927\u734E\u8CFD\u7684\u8499\u5730\u5361\u7F85\u8CFD\u9053\u985E\u4F3C\u3002 \u65B0\u52A0\u5761\u8857\u9053\u8CFD\u9053\u7531KBR\u8D1F\u8D23\u8BBE\u8BA1\uFF0C\u5FB7\u56FD\u8457\u540D\u8D5B\u9053\u8BBE\u8BA1\u5E08\u8D6B\u5C14\u66FC\u00B7\u63D0\u514B\u4E3A\u8BE5\u8D5B\u9053\u539F\u578B\u63D0\u4EA4\u8FC7\u7B2C\u4E00\u4EFD\u4FEE\u6539\u7A3F\u3002"@zh ,
+		"El circuito callejero de Marina Bay, oficialmente Marina Bay Street Circuit y tambi\u00E9n conocido como el circuito urbano de Singapur, es un circuito de carreras callejero que recibe al Gran Premio de Singapur de F\u00F3rmula 1 a partir de la temporada 2008, entrando as\u00ED a la lista de Grandes Premios de F\u00F3rmula 1. El Gran Premio se celebra en el trazado urbano de la ciudad-estado de Singapur, transcurriendo a trav\u00E9s de las calles de esta. Las obras para la construcci\u00F3n del trazado comenzaron en septiembre de 2007."@es ,
+		"O Circuito Urbano de Marina Bay (cujo nome oficial \u00E9 Marina Bay Singapore Street Circuit), tamb\u00E9m conhecido como Singapore Street Circuit, \u00E9 um circuito de rua localizado em Marina Bay e tem 5,2 km. Recebeu o Grande Pr\u00EAmio de Cingapura em 2008, o primeiro realizado a noite na categoria."@pt ,
+		"\u062D\u0644\u0628\u0629 \u0634\u0627\u0631\u0639 \u0645\u0627\u0631\u064A\u0646\u0627 \u0628\u0627\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Marina Bay Street Circuit) \u0647\u064A \u062D\u0644\u0628\u0629 \u0645\u0624\u0642\u062A\u0629 \u0644\u0631\u064A\u0627\u0636\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0628\u0637\u0648\u0644 5.073 \u0643\u0645 (3.15\u0645\u064A\u0644) \u0628\u0625\u062C\u0645\u0627\u0644\u064A 23 \u0645\u0646\u0639\u0637\u0641\u0627  \u0648\u062A\u0642\u0639 \u0641\u064A \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629\u060C \u0648\u062A\u0642\u0627\u0645 \u0639\u0644\u0649 \u0634\u0648\u0627\u0631\u0639 \u0645\u062D\u064A\u0637\u0629 \u0628\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u064A\u0646\u0627\u0621 \u0628\u062E\u0644\u064A\u062C \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0641\u064A \u0623\u0633\u0644\u0648\u0628 \u0645\u0645\u0627\u062B\u0644 \u0644\u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0645\u0648\u0646\u0627\u0643\u0648 \u0648\u062D\u0644\u0628\u0629 \u0641\u0627\u0644\u0646\u0633\u064A\u0627. \u0648\u0627\u0644\u062D\u0644\u0628\u0629 \u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u062A\u0645 \u062A\u0635\u0645\u064A\u0645 \u0627\u0644\u062D\u0644\u0628\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0634\u0631\u0643\u0629 \u0643\u064A \u0628\u064A \u0622\u0631  \u0648\u0639\u062F\u0644 \u0630\u0644\u0643 \u0627\u0644\u062A\u0635\u0645\u064A\u0645 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0645\u0635\u0645\u0645 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0647\u064A\u0631\u0645\u0627\u0646 \u062A\u064A\u0644\u0643. \n* \u0646\u0638\u0631\u0629 \u0648\u0627\u0633\u0639\u0629 \u0644\u0644\u062D\u0644\u0628\u0629 \n* \u0627\u0644\u0645\u0646\u0639\u0637\u0641 \u0627\u0644\u0633\u0627\u0628\u0639 \n* \u0627\u0644\u0645\u0646\u0639\u0637\u0641 22"@ar ,
+		"Le Circuit urbain de Singapour (officiellement appel\u00E9 Marina Bay Street Circuit) est un circuit urbain trac\u00E9 autour de Marina Bay, c\u0153ur historique de Singapour, et qui accueille chaque ann\u00E9e depuis 2008 le Grand Prix automobile de Singapour. Le trac\u00E9 est long de 5,073 km, longeant le port \u00E0 la mani\u00E8re du circuit de Monaco, et comporte 23 virages. Une Formule 1 y atteint g\u00E9n\u00E9ralement la vitesse de 295 km/h sur Raffles Boulevard. Le circuit a \u00E9t\u00E9 r\u00E9alis\u00E9 par KBR, Inc., s'inspirant du projet original de Hermann Tilke, architecte habituel des circuits de Formule 1 modernes."@fr ,
+		"\u0413\u043E\u0440\u043E\u0434\u0441\u043A\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u041C\u0430\u0440\u0438\u043D\u0430 \u0411\u0435\u0439 (\u0430\u043D\u0433\u043B. Marina Bay Street Circuit) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043F\u043E \u0443\u043B\u0438\u0446\u0430\u043C \u0433\u043E\u0440\u043E\u0434\u0430-\u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430 \u0421\u0438\u043D\u0433\u0430\u043F\u0443\u0440. \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0441 2008 \u0433\u043E\u0434\u0430 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0438\u043D\u0433\u0430\u043F\u0443\u0440\u0430. \u0422\u0440\u0430\u0441\u0441\u0430 \u0432 \u0421\u0438\u043D\u0433\u0430\u043F\u0443\u0440\u0435 \u0441\u0442\u0430\u043B\u0430 \u0443\u043D\u0438\u043A\u0430\u043B\u044C\u043D\u043E\u0439 \u043F\u043E \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u043C \u043F\u0430\u0440\u0430\u043C\u0435\u0442\u0440\u0430\u043C: \n*  \u043F\u0435\u0440\u0432\u0430\u044F \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0410\u0437\u0438\u0438, \n*  \u043F\u0435\u0440\u0432\u0430\u044F \u043D\u043E\u0447\u043D\u0430\u044F (\u043F\u0440\u0438 \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u043C \u043E\u0441\u0432\u0435\u0449\u0435\u043D\u0438\u0438) \u0433\u043E\u043D\u043A\u0430 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041D\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0442\u0440\u0430\u0441\u0441\u044B \u2014 \u043F\u0440\u043E\u0442\u0438\u0432 \u0447\u0430\u0441\u043E\u0432\u043E\u0439 \u0441\u0442\u0440\u0435\u043B\u043A\u0438, \u0442\u0430\u043A \u0436\u0435, \u043A\u0430\u043A \u0418\u043D\u0442\u0435\u0440\u043B\u0430\u0433\u043E\u0441, \u0418\u0441\u0442\u0430\u043D\u0431\u0443\u043B \u041F\u0430\u0440\u043A \u0438 \u042F\u0441 \u041C\u0430\u0440\u0438\u043D\u0430. \u041C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u044C \u043D\u0430 \u043F\u0440\u044F\u043C\u043E\u0439 Raffles Boulevard \u0434\u043E\u043B\u0436\u043D\u0430 \u0441\u043E\u0441\u0442\u0430\u0432\u0438\u0442\u044C \u043E\u043A\u043E\u043B\u043E 300 \u043A\u043C/\u0447, \u0430 \u043C\u0438\u043D\u0438\u043C\u0430\u043B\u044C\u043D\u0430\u044F \u0432 \u043C\u0435\u0434\u043B\u0435\u043D\u043D\u044B\u0445 \u043F\u043E\u0432\u043E\u0440\u043E\u0442\u0430\u0445 \u2014 \u043C\u0435\u043D\u0435\u0435 100."@ru ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il Singapore Street Circuit, anche denominato Marina Bay Street Circuit, \u00E8 il circuito cittadino non permanente sito a Marina Bay, Singapore, che ospita il Gran Premio di Singapore di Formula 1. Il senso di marcia \u00E8 antiorario, come a Interlagos, Abu Dhabi ed Austin. La pista attraversa le parti pi\u00F9 belle e suggestive della citt\u00E0, come avviene per quello del Principato di Monaco (Montecarlo). La realizzazione \u00E8 stata curata dal progettista di fiducia di Bernie Ecclestone, Hermann Tilke."@it ,
+		"Het Marina Bay Circuit Park is een stratencircuit rondom de haven van Singapore, waar vanaf 2008 de SingTel Grand Prix van Singapore wordt gehouden. Het is de eerste nachtrace in de geschiedenis van de Formule 1. Ondanks dat het om een stratencircuit gaat, is het ontworpen door Hermann Tilke, een bekende racebaan-architect."@nl ,
+		"\u30DE\u30EA\u30FC\u30CA\u30D9\u30A4\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08Marina Bay Street Circuit, \u30B7\u30F3\u30AC\u30DD\u30FC\u30EB\u5E02\u8857\u5730\u30B3\u30FC\u30B9\uFF09\u306F\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB\u306B\u3042\u308B\u516C\u9053\u30B3\u30FC\u30B9\u30022008\u5E74\u304B\u3089\u958B\u50AC\u3055\u308C\u3066\u3044\u308BF1\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB\u30B0\u30E9\u30F3\u30D7\u30EA\u3067\u4F7F\u7528\u3055\u308C\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u30B3\u30FC\u30B9\u5168\u9577\u306F\u30015.065km\u3002"@ja ;
+	dbp:capacity	90000 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	yago-res:Marina_Bay_Street_Circuit .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-wikidata:Q171390 ,
+		<http://sws.geonames.org/8394304/> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-de:Marina_Bay_Street_Circuit .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-fr:Circuit_urbain_de_Singapour .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-it:Singapore_Street_Circuit .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-cs:Marina_Bay ,
+		<http://ja.dbpedia.org/resource/\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB\u5E02\u8857\u5730\u30B3\u30FC\u30B9> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-nl:Marina_Bay_Street_Circuit .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-id:Sirkuit_Jalan_Raya_Marina_Bay ,
+		dbr:Marina_Bay_Street_Circuit ,
+		<http://rdf.freebase.com/ns/m.02r2d3z> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-pt:Circuito_Urbano_de_Marina_Bay .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-pl:Marina_Bay_Street_Circuit .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	dbpedia-es:Circuito_callejero_de_Marina_Bay .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Marina_Bay_Street_Circuit	owl:sameAs	wikidata:Q171390 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Marina_Bay_Street_Circuit	dct:subject	dbc:Motorsport_venues_in_Singapore ,
+		dbc:Singapore_Grand_Prix ,
+		dbc:Formula_One_circuits ,
+		<http://dbpedia.org/resource/Category:Downtown_Core_(Singapore)> ,
+		dbc:Marina_Bay ,
+		dbc:Marina_Centre ;
+	foaf:homepage	<http://www.singaporegp.sg/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Marina_Bay_Street_Circuit	geo:lat	"1.291530609130859375"^^xsd:float ;
+	geo:long	"103.86385345458984375"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/1_singapore_f1_night_race_2012_city_skyline.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Marina_Bay_Street_Circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Marina_Bay_Street_Circuit	geo:geometry	"POINT(103.86385345459 1.2915306091309)"^^virtrdf:Geometry ;
+	dbp:fiagrade	1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Marina_Bay_Street_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit?oldid=743191450> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Marina_Bay_Street_Circuit	georss:point	"1.2915305555555556 103.86385" ;
+	dbp:time	"SST"^^xsd:string ;
+	dbp:surface	"Asphalt"^^xsd:string ;
+	dbp:constructionCost	"~ S$33 million"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://www.singaporegp.sg/> ,
+		<https://maps.google.com/maps?f=q&hl=en&q=1%C2%B017%E2%80%B222%E2%80%B3N,+103%C2%B051%E2%80%B232%E2%80%B3E&ie=UTF8&t=h&om=1&ll=1.290634,103.858094&spn=0.010083,0.014462&z=16> ,
+		<http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/circuit_guide/7249397.stm> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> ,
+		<http://www.redbullracing.com/4th-Sector/Webber-Singapore/> ,
+		<http://www.racingcircuits.info/asia/singapore/marina-bay,-singapore.html> ;
+	dbp:imageCaption	"Singapore Marina Bay Street Circuit"^^xsd:string ;
+	dbp:lengthKm	5.0650000000000003908 ,
+		5.0730000000000003979 ,
+		5.0609999999999999432 ;
+	dbp:brokeGround	"2007-08-31"^^xsd:date ;
+	dbo:abstract	"\u0413\u043E\u0440\u043E\u0434\u0441\u043A\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u041C\u0430\u0440\u0438\u043D\u0430 \u0411\u0435\u0439 (\u0430\u043D\u0433\u043B. Marina Bay Street Circuit) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043F\u043E \u0443\u043B\u0438\u0446\u0430\u043C \u0433\u043E\u0440\u043E\u0434\u0430-\u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430 \u0421\u0438\u043D\u0433\u0430\u043F\u0443\u0440. \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0441 2008 \u0433\u043E\u0434\u0430 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0438\u043D\u0433\u0430\u043F\u0443\u0440\u0430. \u0422\u0440\u0430\u0441\u0441\u0430 \u0432 \u0421\u0438\u043D\u0433\u0430\u043F\u0443\u0440\u0435 \u0441\u0442\u0430\u043B\u0430 \u0443\u043D\u0438\u043A\u0430\u043B\u044C\u043D\u043E\u0439 \u043F\u043E \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u043C \u043F\u0430\u0440\u0430\u043C\u0435\u0442\u0440\u0430\u043C: \n*  \u043F\u0435\u0440\u0432\u0430\u044F \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0410\u0437\u0438\u0438, \n*  \u043F\u0435\u0440\u0432\u0430\u044F \u043D\u043E\u0447\u043D\u0430\u044F (\u043F\u0440\u0438 \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u043C \u043E\u0441\u0432\u0435\u0449\u0435\u043D\u0438\u0438) \u0433\u043E\u043D\u043A\u0430 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041D\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0442\u0440\u0430\u0441\u0441\u044B \u2014 \u043F\u0440\u043E\u0442\u0438\u0432 \u0447\u0430\u0441\u043E\u0432\u043E\u0439 \u0441\u0442\u0440\u0435\u043B\u043A\u0438, \u0442\u0430\u043A \u0436\u0435, \u043A\u0430\u043A \u0418\u043D\u0442\u0435\u0440\u043B\u0430\u0433\u043E\u0441, \u0418\u0441\u0442\u0430\u043D\u0431\u0443\u043B \u041F\u0430\u0440\u043A \u0438 \u042F\u0441 \u041C\u0430\u0440\u0438\u043D\u0430. \u041C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u044C \u043D\u0430 \u043F\u0440\u044F\u043C\u043E\u0439 Raffles Boulevard \u0434\u043E\u043B\u0436\u043D\u0430 \u0441\u043E\u0441\u0442\u0430\u0432\u0438\u0442\u044C \u043E\u043A\u043E\u043B\u043E 300 \u043A\u043C/\u0447, \u0430 \u043C\u0438\u043D\u0438\u043C\u0430\u043B\u044C\u043D\u0430\u044F \u0432 \u043C\u0435\u0434\u043B\u0435\u043D\u043D\u044B\u0445 \u043F\u043E\u0432\u043E\u0440\u043E\u0442\u0430\u0445 \u2014 \u043C\u0435\u043D\u0435\u0435 100."@ru ,
+		"The Marina Bay Street Circuit (otherwise known as the Singapore Street Circuit) is a street circuit around Singapore's Marina Bay and is the venue for the Singapore Grand Prix. The track is 5.065 km (3.147 mi) long in a harbourside location similar in style to the Circuit de Monaco and the Valencia Street Circuit. The circuit is designed by KBR, Inc., a modification of the original one first proposed by Hermann Tilke. The circuit has FIA Grade 1 license. The circuit holds a unique record of having safety car appearance in every race to date. A total of 14 safety car deployments in nine races."@en ,
+		"Le Circuit urbain de Singapour (officiellement appel\u00E9 Marina Bay Street Circuit) est un circuit urbain trac\u00E9 autour de Marina Bay, c\u0153ur historique de Singapour, et qui accueille chaque ann\u00E9e depuis 2008 le Grand Prix automobile de Singapour. Le trac\u00E9 est long de 5,073 km, longeant le port \u00E0 la mani\u00E8re du circuit de Monaco, et comporte 23 virages. Une Formule 1 y atteint g\u00E9n\u00E9ralement la vitesse de 295 km/h sur Raffles Boulevard. Le circuit a \u00E9t\u00E9 r\u00E9alis\u00E9 par KBR, Inc., s'inspirant du projet original de Hermann Tilke, architecte habituel des circuits de Formule 1 modernes."@fr ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il Singapore Street Circuit, anche denominato Marina Bay Street Circuit, \u00E8 il circuito cittadino non permanente sito a Marina Bay, Singapore, che ospita il Gran Premio di Singapore di Formula 1. Il senso di marcia \u00E8 antiorario, come a Interlagos, Abu Dhabi ed Austin. La pista attraversa le parti pi\u00F9 belle e suggestive della citt\u00E0, come avviene per quello del Principato di Monaco (Montecarlo). La realizzazione \u00E8 stata curata dal progettista di fiducia di Bernie Ecclestone, Hermann Tilke. Il Gran Premio di Singapore rappresenta un evento per la storia della Formula 1, in quanto si tratta della prima corsa disputata in notturna, pensata al fine di offrire uno scenario inedito e contemporaneamente venire incontro al fuso orario del pubblico europeo (le 14.00 CET). All'esordio, l'altissima richiesta di biglietti da parte della popolazione locale e dei turisti, nel mese di febbraio ha mandato in tilt il sistema telematico di vendita dei tagliandi. Si \u00E8 avuto il tutto esaurito per l'intero fine settimana di gara."@it ,
+		"\u30DE\u30EA\u30FC\u30CA\u30D9\u30A4\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08Marina Bay Street Circuit, \u30B7\u30F3\u30AC\u30DD\u30FC\u30EB\u5E02\u8857\u5730\u30B3\u30FC\u30B9\uFF09\u306F\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB\u306B\u3042\u308B\u516C\u9053\u30B3\u30FC\u30B9\u30022008\u5E74\u304B\u3089\u958B\u50AC\u3055\u308C\u3066\u3044\u308BF1\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB\u30B0\u30E9\u30F3\u30D7\u30EA\u3067\u4F7F\u7528\u3055\u308C\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u30B3\u30FC\u30B9\u5168\u9577\u306F\u30015.065km\u3002"@ja ,
+		"\u062D\u0644\u0628\u0629 \u0634\u0627\u0631\u0639 \u0645\u0627\u0631\u064A\u0646\u0627 \u0628\u0627\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Marina Bay Street Circuit) \u0647\u064A \u062D\u0644\u0628\u0629 \u0645\u0624\u0642\u062A\u0629 \u0644\u0631\u064A\u0627\u0636\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0628\u0637\u0648\u0644 5.073 \u0643\u0645 (3.15\u0645\u064A\u0644) \u0628\u0625\u062C\u0645\u0627\u0644\u064A 23 \u0645\u0646\u0639\u0637\u0641\u0627  \u0648\u062A\u0642\u0639 \u0641\u064A \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629\u060C \u0648\u062A\u0642\u0627\u0645 \u0639\u0644\u0649 \u0634\u0648\u0627\u0631\u0639 \u0645\u062D\u064A\u0637\u0629 \u0628\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u064A\u0646\u0627\u0621 \u0628\u062E\u0644\u064A\u062C \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0641\u064A \u0623\u0633\u0644\u0648\u0628 \u0645\u0645\u0627\u062B\u0644 \u0644\u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0645\u0648\u0646\u0627\u0643\u0648 \u0648\u062D\u0644\u0628\u0629 \u0641\u0627\u0644\u0646\u0633\u064A\u0627. \u0648\u0627\u0644\u062D\u0644\u0628\u0629 \u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u062A\u0645 \u062A\u0635\u0645\u064A\u0645 \u0627\u0644\u062D\u0644\u0628\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0634\u0631\u0643\u0629 \u0643\u064A \u0628\u064A \u0622\u0631  \u0648\u0639\u062F\u0644 \u0630\u0644\u0643 \u0627\u0644\u062A\u0635\u0645\u064A\u0645 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0645\u0635\u0645\u0645 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0647\u064A\u0631\u0645\u0627\u0646 \u062A\u064A\u0644\u0643. \n* \u0646\u0638\u0631\u0629 \u0648\u0627\u0633\u0639\u0629 \u0644\u0644\u062D\u0644\u0628\u0629 \n* \u0627\u0644\u0645\u0646\u0639\u0637\u0641 \u0627\u0644\u0633\u0627\u0628\u0639 \n* \u0627\u0644\u0645\u0646\u0639\u0637\u0641 22"@ar ,
+		"O Circuito Urbano de Marina Bay (cujo nome oficial \u00E9 Marina Bay Singapore Street Circuit), tamb\u00E9m conhecido como Singapore Street Circuit, \u00E9 um circuito de rua localizado em Marina Bay e tem 5,2 km. Recebeu o Grande Pr\u00EAmio de Cingapura em 2008, o primeiro realizado a noite na categoria."@pt ,
+		"El circuito callejero de Marina Bay, oficialmente Marina Bay Street Circuit y tambi\u00E9n conocido como el circuito urbano de Singapur, es un circuito de carreras callejero que recibe al Gran Premio de Singapur de F\u00F3rmula 1 a partir de la temporada 2008, entrando as\u00ED a la lista de Grandes Premios de F\u00F3rmula 1. El Gran Premio se celebra en el trazado urbano de la ciudad-estado de Singapur, transcurriendo a trav\u00E9s de las calles de esta. Las obras para la construcci\u00F3n del trazado comenzaron en septiembre de 2007."@es ,
+		"Het Marina Bay Circuit Park is een stratencircuit rondom de haven van Singapore, waar vanaf 2008 de SingTel Grand Prix van Singapore wordt gehouden. Het is de eerste nachtrace in de geschiedenis van de Formule 1. Ondanks dat het om een stratencircuit gaat, is het ontworpen door Hermann Tilke, een bekende racebaan-architect."@nl ,
+		"Der Marina Bay Street Circuit ist eine tempor\u00E4re Motorsport-Rennstrecke in Singapur. Auf dem Stadtkurs findet seit 2008 der Gro\u00DFe Preis von Singapur im Rahmen der Formel 1 statt. Der Kurs liegt in der Marina Bay im Hafengebiet des Stadtstaates Singapur und ist somit durch die N\u00E4he zum Wasser atmosph\u00E4risch dem Gro\u00DFen Preis von Monaco und dem im Jahr 2008 ebenfalls erstmals auf dem Valencia Street Circuit ausgetragenen Gro\u00DFen Preis von Europa sehr \u00E4hnlich. Zudem wurde hier erstmals in der Formel-1-Geschichte ein Nachtrennen ausgetragen. Sowohl das Rennen als auch die Qualifikation und die freien Trainings werden unter k\u00FCnstlicher Beleuchtung durchgef\u00FChrt. Es wurde jedoch angek\u00FCndigt, die asphaltierten Auslaufzonen weniger hell zu beleuchten um somit einer Verwirrung der Fahrer entgegenzuwirken. Durch die Austragung als Nachtrennen im ostasiatischen Raum k\u00F6nnen Zuschauer in Europa den Grand Prix wie gewohnt nachmittags verfolgen, was sich positiv auf die TV-Einschaltquoten auswirken soll."@de ,
+		"\u6EE8\u6D77\u6E7E\u5E02\u8857\u8D5B\u9053\uFF08\u5B98\u65B9\u82F1\u6587\u540D\u70BAMarina Bay Street Circuit\uFF09\uFF0C\u4E5F\u79F0\u4E3A\u65B0\u52A0\u5761\u5E02\u8857\u8CFD\u9053\uFF0C\u662F\u4E00\u6761\u4F4D\u4E8E\u65B0\u52A0\u5761\u6EE8\u6D77\u6E7E\u5730\u5340\u3001\u70BA\u4E86\u8209\u8FA6\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\uFF08F1\uFF09\u800C\u4EE5\u4E00\u822C\u5E02\u8857\u9053\u8DEF\u570D\u6210\u7684\u8CFD\u8ECA\u8DD1\u9053\u3002\u6FF1\u6D77\u7063\u5E02\u8857\u8CFD\u9053\u81EA2008\u5E74\u8CFD\u5B63\u8D77\u5C31\u4E00\u76F4\u662F\u65B0\u52A0\u5761\u5927\u734E\u8CFD\u7684\u8209\u8FA6\u5834\u5730\uFF0C\u7E3D\u95775.073\u516C\u91CC\u7684\u8CFD\u9053\u5305\u542B\u5927\u91CF\u76F4\u89D2\u5F4E\uFF0C\u6574\u9AD4\u8DEF\u7DDA\u7279\u6027\u8207\u8209\u8FA6\u6469\u7D0D\u54E5\u5927\u734E\u8CFD\u7684\u8499\u5730\u5361\u7F85\u8CFD\u9053\u985E\u4F3C\u3002 \u65B0\u52A0\u5761\u8857\u9053\u8CFD\u9053\u7531KBR\u8D1F\u8D23\u8BBE\u8BA1\uFF0C\u5FB7\u56FD\u8457\u540D\u8D5B\u9053\u8BBE\u8BA1\u5E08\u8D6B\u5C14\u66FC\u00B7\u63D0\u514B\u4E3A\u8BE5\u8D5B\u9053\u539F\u578B\u63D0\u4EA4\u8FC7\u7B2C\u4E00\u4EFD\u4FEE\u6539\u7A3F\u3002"@zh ,
+		"Marina Bay Street Circuit \u2013 singapurski tor wy\u015Bcigowy. Tor ma d\u0142ugo\u015B\u0107 5,067 km i go\u015Bci Grand Prix Singapuru Formu\u0142y 1 od sezonu 2008."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/1_singapore_f1_night_race_2012_city_skyline.jpg?width=300> ;
+	dbo:wikiPageRevisionID	743191450 ;
+	dbo:wikiPageID	11170175 ;
+	dbp:lengthMi	3.152000000000000135 ,
+		3.1469999999999997975 ;
+	dbp:location	"Marina Bay, Singapore"^^xsd:string ;
+	dbp:formerNames	"Singapore Street Circuit"^^xsd:string ;
+	dbp:layout	"Revised circuit with the Singapore Sling chicane removed  240px"^^xsd:string ,
+		"Original circuit  240px"^^xsd:string ,
+		240 ,
+		"Current circuit with reprofiled turns 11-13"^^xsd:string ;
+	dbp:recordDriver	"Sebastian Vettel"^^xsd:string ,
+		"Kimi R\u00E4ikk\u00F6nen"^^xsd:string ,
+		"Daniel Ricciardo"^^xsd:string ;
+	dbp:recordTeam	dbr:TAG_Heuer ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Red_Bull_Racing ,
+		dbr:Renault_Sport_F1 ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	2016 ,
+		2013 ,
+		2008 ;
+	dbp:turns	23 ;
+	dbp:name	"Marina Bay Street Circuit"^^xsd:string .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Marina_Bay_Street_Circuit	ns28:hypernym	dbr:Circuit ;
+	dbp:events	dbr:Singapore_ePrix ,
+		"FIA Formula E"^^xsd:string ,
+		dbr:Porsche_Carrera_Cup ,
+		dbr:Singapore_Grand_Prix ,
+		"FIA Formula One"^^xsd:string ,
+		dbr:GP2_Series ,
+		dbr:TCR_International_Series ;
+	dbp:opened	"2008-08-31"^^xsd:date ;
+	dbp:architect	dbr:Hermann_Tilke .
+dbr:Marina_Bay	dbo:wikiPageDisambiguates	dbr:Marina_Bay_Street_Circuit .
+dbr:Singapore_street_circuit	dbo:wikiPageRedirects	dbr:Marina_Bay_Street_Circuit .
+dbr:Singapore_Street_Circuit	dbo:wikiPageRedirects	dbr:Marina_Bay_Street_Circuit .
+dbr:Singapore_Circuit	dbo:wikiPageRedirects	dbr:Marina_Bay_Street_Circuit .

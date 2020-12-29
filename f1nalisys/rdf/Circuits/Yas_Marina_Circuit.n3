@@ -1,0 +1,176 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2015_Abu_Dhabi_Grand_Prix>	dbo:location	dbr:Yas_Marina_Circuit .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Abu_Dhabi_Grand_Prix	dbp:circuit	dbr:Yas_Marina_Circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Yas_Marina_Circuit	rdf:type	dbo:Building .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Yas_Marina_Circuit	rdf:type	geo:SpatialThing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Yas_Marina_Circuit	rdf:type	yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatMotorsportVenuesInTheUnitedArabEmirates ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:Area108497294 ,
+		yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		<http://dbpedia.org/class/yago/WikicatSportsVenuesInAbuDhabi(emirate)> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Yas_Marina_Circuit	rdfs:label	"\u042F\u0441 \u041C\u0430\u0440\u0438\u043D\u0430"@ru ,
+		"Circuit Yas Marina"@fr ,
+		"Yas Marina Circuit"@de ,
+		"\u062D\u0644\u0628\u0629 \u0645\u0631\u0633\u0649 \u064A\u0627\u0633"@ar ,
+		"Circuito Yas Marina"@es ,
+		"\u4E9A\u65AF\u7801\u5934\u8D5B\u9053"@zh ,
+		"\u30E4\u30B9\u30FB\u30DE\u30EA\u30FC\u30CA\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"Circuito de Yas Marina"@pt ,
+		"Yas Marina Circuit"@pl ,
+		"Yas Marina Circuit"@en ,
+		"Circuito di Yas Marina"@it ,
+		"Yas Marina Circuit"@nl ;
+	rdfs:comment	"\u042F\u0441 \u041C\u0430\u0440\u0438\u043D\u0430 \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0432 \u0410\u0431\u0443-\u0414\u0430\u0431\u0438, \u041E\u0410\u042D, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0431\u0443-\u0414\u0430\u0431\u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 2009 \u0433\u043E\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0422\u0440\u0430\u0441\u0441\u0430 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0430 \u043D\u0430 \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u043C \u043E\u0441\u0442\u0440\u043E\u0432\u0435 \u042F\u0441, \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 2500 \u0433\u0430. \u0412\u0431\u043B\u0438\u0437\u0438 \u0442\u0440\u0430\u0441\u0441\u044B \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u044B \u0433\u0430\u0432\u0430\u043D\u044C \u0434\u043B\u044F \u044F\u0445\u0442, \u043F\u0430\u0440\u043A \u0440\u0430\u0437\u0432\u043B\u0435\u0447\u0435\u043D\u0438\u0439 Ferrari, \u043E\u0442\u0435\u043B\u0438, \u044D\u043B\u0438\u0442\u043D\u043E\u0435 \u0436\u0438\u043B\u044C\u0451, \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u044B, \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0438 \u0434\u043B\u044F \u0433\u043E\u043B\u044C\u0444\u0430 \u0438 \u0442\u043E\u0440\u0433\u043E\u0432\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u00AB\u042F\u0441 \u041C\u043E\u043B\u043B\u00BB \u043E\u0431\u0449\u0435\u0439 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 300 \u0442\u044B\u0441. \u043C\u00B2."@ru ,
+		"25\u0628\u0643 \u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u062A\u062D\u062A\u0627\u062C \u0644\u0644\u0645\u0632\u064A\u062F \u0645\u0646 \u0627\u0644\u0648\u0635\u0644\u0627\u062A \u0644\u0644\u0645\u0642\u0627\u0644\u0627\u062A \u0627\u0644\u0623\u062E\u0631\u0649 \u0644\u0644\u0645\u0633\u0627\u0639\u062F\u0629 \u0641\u064A \u062A\u0631\u0627\u0628\u0637 \u0645\u0642\u0627\u0644\u0627\u062A \u0627\u0644\u0645\u0648\u0633\u0648\u0639\u0629. \u0641\u0636\u0644\u064B\u0627 \u0633\u0627\u0639\u062F \u0641\u064A \u062A\u062D\u0633\u064A\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0628\u0625\u0636\u0627\u0641\u0629 \u0648\u0635\u0644\u0627\u062A \u0625\u0644\u0649 \u0627\u0644\u0645\u0642\u0627\u0644\u0627\u062A \u0627\u0644\u0645\u062A\u0639\u0644\u0642\u0629 \u0628\u0647\u0627 \u0627\u0644\u0645\u0648\u062C\u0648\u062F\u0629 \u0641\u064A \u0627\u0644\u0646\u0635 \u0627\u0644\u062D\u0627\u0644\u064A. (\u0645\u0627\u0631\u0633 2016) \u062D\u0644\u0628\u0629 \u0645\u0631\u0633\u0649 \u064A\u0627\u0633 \u0647\u064A \u0645\u0636\u0645\u0627\u0631 \u0633\u0628\u0627\u0642 \u0633\u064A\u0627\u0631\u0627\u062A\u060C \u064A\u0642\u0639 \u0641\u064A \u0641\u064A \u062C\u0632\u064A\u0631\u0629 \u064A\u0627\u0633 \u0628\u0625\u0645\u0627\u0631\u0629 \u0623\u0628\u0648\u0638\u0628\u064A \u0641\u064A \u062F\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629. \u0623\u0642\u064A\u0645 \u0639\u0644\u0649 \u0647\u0630\u0647 \u0627\u0644\u062D\u0644\u0628\u0629 \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0623\u0648\u0644 \u0644\u062C\u0627\u0626\u0632\u0629 \u0637\u064A\u0631\u0627\u0646 \u0627\u0644\u0625\u062A\u062D\u0627\u062F \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0645\u0627 \u0628\u064A\u0646 30 \u0623\u0643\u062A\u0648\u0628\u0631 \u0625\u0644\u0649 1 \u0646\u0648\u0641\u0645\u0628\u0631 2009."@ar ,
+		"El Circuito Yas Marina es un circuito de carreras que se construy\u00F3 en la Isla Yas, emirato de Abu Dabi, Emiratos \u00C1rabes Unidos para celebrar el Gran Premio de Abu Dabi de F\u00F3rmula Uno desde el a\u00F1o 2009. La pista tambi\u00E9n ha albergado carreras del Campeonato Mundial de GT1 y el V8 Supercars, as\u00ED como las 12 Horas del Golfo."@es ,
+		"The Yas Marina Circuit (Arabic: \u062D\u0644\u0628\u0629 \u0645\u0631\u0633\u0649 \u064A\u0627\u0633) is the venue for the Abu Dhabi Grand Prix. The circuit was designed by Hermann Tilke, and is situated on Yas Island, about 30 minutes from the capital of the UAE, Abu Dhabi. Yas Marina is the second Formula One track in the Middle East, with the first being in Bahrain. A two-day GP2 Asia Series test was held to officially open the circuit, which was held a week before the 2009 Abu Dhabi Grand Prix. It also hosted the opening event for the Australian V8 Supercars series, the Yas V8 400, in February 2010. Outside motorsport the circuit was used for the final stage of the inaugural Abu Dhabi Tour cycle race in 2015. The circuit has FIA Grade 1 license."@en ,
+		"Yas Marina Circuit \u2013 tor wy\u015Bcigowy w Abu Zabi w Zjednoczonych Emiratach Arabskich. Tor ma d\u0142ugo\u015B\u0107 5,554 km i od sezonu 2009 odbywaj\u0105 si\u0119 na nim wy\u015Bcigi m.in. Formu\u0142y 1. Wy\u015Bcig F1 na wyspie Yas by\u0142 ostatnim wy\u015Bcigiem w sezonie 2009 (odby\u0142 si\u0119 1 listopada 2009 roku). Zwyci\u0119zc\u0105 tego wy\u015Bcigu zosta\u0142 Niemiec Sebastian Vettel z zespo\u0142u Red Bull Racing. Rekordzist\u0105 toru jest natomiast Australijczyk Daniel Ricciardo \u2013 podczas test\u00F3w m\u0142odych kierowc\u00F3w 17 listopada 2010 roku osi\u0105gn\u0105\u0142 czas 1:38.102. Poprawi\u0142 tym samym rekord Sebastiana Vettela z kwalifikacji. Koszt budowy toru osi\u0105gn\u0105\u0142 kwot\u0119 1 miliarda dolar\u00F3w[potrzebny przypis]. 17 lutego 2010 roku og\u0142oszono, i\u017C dotychczasowy w\u0142a\u015Bciciel obiektu \u2013 Aldar sprzeda\u0142 tor rz\u0105dowi Abu Zabi."@pl ,
+		"\u4E9A\u65AF\u7801\u5934\u8D5B\u9053\uFF08\u82F1\u6587\uFF1AYas Marina Circuit\uFF0C\u963F\u62C9\u4F2F\u8BED\uFF1A\u062D\u0644\u0628\u0629 \u0645\u0631\u0633\u0649 \u064A\u0627\u0633\uFF09\u662F\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u963F\u5E03\u624E\u6BD4\u5927\u5956\u8D5B\u7684\u6BD4\u8D5B\u5730\u70B9\u3002\u8D5B\u9053\u7531\u8D6B\u5C14\u66FC\u00B7\u63D0\u5C14\u514B\uFF08Hermann Tilke\uFF09\u6240\u8BBE\u8BA1\uFF0C\u5750\u843D\u4E8E\u4E9A\u65AF\u5C9B\uFF0C\u8DDD\u79BB\u963F\u62C9\u4F2F\u8054\u5408\u914B\u957F\u56FD\u9996\u90FD\u963F\u5E03\u624E\u6BD4\u670930\u5206\u949F\u7684\u8F66\u7A0B\u3002\u4E9A\u65AF\u7801\u5934\u8D5B\u9053\u662F\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u5728\u4E2D\u4E1C\u5730\u533A\u7684\u7B2C\u4E8C\u6761\u8D5B\u9053\uFF0C\u7B2C\u4E00\u6761\u8D5B\u9053\u662F\u7531\u540C\u4E00\u8BBE\u8BA1\u8005\u6240\u8BBE\u8BA1\u7684\u5DF4\u6797\u56FD\u9645\u8D5B\u9053\u3002\u8D5B\u9053\u5F00\u5E55\u7684\u5F53\u5929\u5B98\u65B9\u4E3E\u529E\u4E86\u4E3A\u671F\u4E24\u5929\u7684GP2\u4E9A\u6D32\u7CFB\u5217\u8D5B\u6D4B\u8BD5\u8D5B\uFF0C\u4E00\u5468\u540E\u8FDB\u884C\u4E862009\u5E74\u963F\u5E03\u624E\u6BD4\u5927\u5956\u8D5B\u3002\u8D5B\u9053\u5E76\u4E8E2010\u5E742\u6708\u4E3E\u884C\u4E86V8\u8D85\u7EA7\u623F\u8F66\u8D5B\u7684\u63ED\u5E55\u6218\uFF0C\u4E9A\u65AF V8 400\u5927\u5956\u8D5B\u3002"@zh ,
+		"Le Circuit Yas Marina est un circuit automobile construit pour accueillir le Grand Prix automobile d'Abou Dabi de Formule 1 dont la premi\u00E8re \u00E9dition s'est tenue le 1er novembre 2009. Ce circuit moderne est situ\u00E9 sur l'\u00EEle de Yas, \u00E0 30 minutes d'Abou Dabi, et est le second circuit de Formule 1 implant\u00E9 au Moyen-Orient apr\u00E8s celui de Sakhir \u00E0 Manama au Bahre\u00EFn. La construction du circuit a co\u00FBt\u00E9 plus d'un milliard d'euros."@fr ,
+		"Yas Marina Circuit (teilweise auch Yas Island Circuit genannt) ist eine im Oktober 2009 fertiggestellte permanente Rennstrecke auf Yas Island in Abu Dhabi (Vereinigte Arabische Emirate). Das erste Rennen dort war der Gro\u00DFe Preis von Abu Dhabi, das letzte Rennen der Formel-1-Saison 2009, am 1. November 2009. Auch in den Jahren 2014, und 2015 bildet dieses Rennen den Abschluss des Formel-1-Kalenders."@de ,
+		"Het Yas Marina Circuit is het nieuwe, en enige circuit in Abu Dhabi. Het circuit is ontworpen door Hermann Tilke. Het circuit is gelegen op het Yas Island, dat ongeveer op een half uur rijden ligt van de stad Abu Dhabi. Het circuit heeft 20 bochten, en wordt al het Arabische Monaco genoemd."@nl ,
+		"\u30E4\u30B9\u30FB\u30DE\u30EA\u30FC\u30CA\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08Yas Marina Circuit\uFF09\u306F\u3001\u30A2\u30E9\u30D6\u9996\u9577\u56FD\u9023\u90A6\u306E\u9996\u9577\u56FD\u3001\u30A2\u30D6\u30C0\u30D3\u306E\u30E4\u30B9\u5CF6\u306B\u3042\u308B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u3002"@ja ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito Yas Marina \u00E8 un circuito automobilistico entrato a far parte del calendario del mondiale di Formula 1 a partire dalla stagione 2009. Come molti tracciati del campionato costruiti di recente, \u00E8 stato disegnato da Hermann Tilke. Posto sull'Isola Yas, a circa 30 minuti dalla citt\u00E0 di Abu Dhabi, il circuito si snoda tra campi da golf, parchi a tema e hotel extralusso; ha ospitato il secondo gran premio del Medio Oriente dopo quello del Bahrein."@it ,
+		"O Circuito de Yas Marina \u00E9 um aut\u00F3dromo localizado na ilha Yas, perto da capital dos Emirados \u00C1rabes Unidos, Abu Dhabi. \u00C9 conhecido por ser o circuito com as melhores infraestruturas, sendo um dos mais modernos. Abriga anualmente a F\u00F3rmula 1 desde 2009, sendo o segundo circuito do M\u00E9dio Oriente a abrigar um Grande Pr\u00E9mio, ap\u00F3s Bahrein."@pt .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-fr:Circuit_Yas_Marina .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-id:Sirkuit_Yas_Marina .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-nl:Yas_Marina_Circuit ,
+		<http://ko.dbpedia.org/resource/\uC57C\uC2A4_\uB9C8\uB9AC\uB098_\uC11C\uD0B7> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-es:Circuito_Yas_Marina .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	yago-res:Yas_Marina_Circuit .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-it:Circuito_di_Yas_Marina ,
+		<http://ja.dbpedia.org/resource/\u30E4\u30B9\u30FB\u30DE\u30EA\u30FC\u30CA\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-cs:Yas_Marina .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-pt:Circuito_de_Yas_Marina ,
+		dbr:Yas_Marina_Circuit .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	wikidata:Q172869 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-pl:Yas_Marina_Circuit ,
+		<http://sws.geonames.org/8394014/> ,
+		<http://rdf.freebase.com/ns/m.02r2bcl> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-wikidata:Q172869 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Yas_Marina_Circuit	owl:sameAs	dbpedia-de:Yas_Marina_Circuit .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Yas_Marina_Circuit	dct:subject	dbc:V8_Supercar_circuits ,
+		dbc:Drag_racing_venues ,
+		dbc:Motorsport_venues_in_the_United_Arab_Emirates ,
+		dbc:Abu_Dhabi_Grand_Prix ,
+		dbc:Formula_One_circuits ,
+		<http://dbpedia.org/resource/Category:Sports_venues_in_Abu_Dhabi_(emirate)> ,
+		dbc:Motorsport_in_the_Middle_East ,
+		dbc:Tourist_attractions_in_Abu_Dhabi ,
+		dbc:Racing_circuits_designed_by_Hermann_Tilke .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Yas_Marina_Circuit	geo:lat	"24.467222213745117188"^^xsd:float ;
+	geo:long	"54.603054046630859375"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Yas_Marina_Circuit	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_Yas-Island.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Yas_Marina_Circuit	foaf:isPrimaryTopicOf	wikipedia-en:Yas_Marina_Circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Yas_Marina_Circuit	geo:geometry	"POINT(54.603054046631 24.467222213745)"^^virtrdf:Geometry ;
+	dbp:recordClass	dbr:GP2_Asia_Series ;
+	dbp:opened	"October 2009"^^xsd:string ;
+	dbp:operator	"Abu Dhabi Motorsports Management"^^xsd:string ;
+	dbp:time	"GMT +4"^^xsd:string ;
+	dbp:lengthKm	5.55400000000000027 ,
+		4.7000000000000001776 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Yas_Marina_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Yas_Marina_Circuit?oldid=742554274> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Yas_Marina_Circuit	georss:point	"24.467222222222222 54.60305555555556" ;
+	dbo:wikiPageExternalLink	<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> ,
+		<http://www.tilke-ac.de/en/projects/racetracks/yas-marina-circuit.html> ,
+		<http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/7473748.stm> ,
+		<http://www.asymptote.net> ,
+		<http://www.yasmarinacircuit.ae/> ,
+		<http://www.formula1.com/news/headlines/2008/10/8533.html> ;
+	dbp:location	dbr:Yas_Island ,
+		dbr:Abu_Dhabi ,
+		dbr:UAE .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+dbr:Yas_Marina_Circuit	dbp:constructionCost	"8.93E8"^^ns28:euro ,
+		"3.792E9"^^ns28:unitedArabEmiratesDirham ,
+		"8.0E8"^^ns28:poundSterling ,
+		"1.322E9"^^ns28:usDollar ;
+	dbp:recordDriver	"Charles Pic"^^xsd:string ,
+		"Sebastian Vettel"^^xsd:string ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	2009 ,
+		2011 ;
+	dbp:turns	19 ,
+		21 ;
+	dbp:name	"Yas Marina Circuit"^^xsd:string ;
+	dbo:abstract	"The Yas Marina Circuit (Arabic: \u062D\u0644\u0628\u0629 \u0645\u0631\u0633\u0649 \u064A\u0627\u0633) is the venue for the Abu Dhabi Grand Prix. The circuit was designed by Hermann Tilke, and is situated on Yas Island, about 30 minutes from the capital of the UAE, Abu Dhabi. Yas Marina is the second Formula One track in the Middle East, with the first being in Bahrain. A two-day GP2 Asia Series test was held to officially open the circuit, which was held a week before the 2009 Abu Dhabi Grand Prix. It also hosted the opening event for the Australian V8 Supercars series, the Yas V8 400, in February 2010. Outside motorsport the circuit was used for the final stage of the inaugural Abu Dhabi Tour cycle race in 2015. The circuit has FIA Grade 1 license."@en ,
+		"Le Circuit Yas Marina est un circuit automobile construit pour accueillir le Grand Prix automobile d'Abou Dabi de Formule 1 dont la premi\u00E8re \u00E9dition s'est tenue le 1er novembre 2009. Ce circuit moderne est situ\u00E9 sur l'\u00EEle de Yas, \u00E0 30 minutes d'Abou Dabi, et est le second circuit de Formule 1 implant\u00E9 au Moyen-Orient apr\u00E8s celui de Sakhir \u00E0 Manama au Bahre\u00EFn. La construction du circuit a co\u00FBt\u00E9 plus d'un milliard d'euros. Con\u00E7u par Hermann Tilke sous l'impulsion de Philippe Gurdjian, le circuit est construit par la soci\u00E9t\u00E9 Aldar Properties qui b\u00E2tit \u00E9galement sur l'\u00EEle un parc \u00E0 th\u00E8mes (Ferrari World), une marina, des zones r\u00E9sidentielles, des installations sportives et de loisirs ainsi que des h\u00F4tels et stations baln\u00E9aires. En f\u00E9vrier 2010, Aldar a \u00E9t\u00E9 contrainte de vendre le circuit au gouvernement d'Abou Dabi apr\u00E8s avoir enregistr\u00E9 une baisse de revenus de l\u2019ordre de 79 % en 2009. D'une longueur de 5,554 km, le circuit comprend vingt et un virages, dont un virage serr\u00E9, une longue ligne droite de 1 173 m\u00E8tres et une \u00E9pingle, entre la marina et les dunes de sable. Il dispose de grandes tribunes tr\u00E8s spacieuses et la sortie de la voie des stands passe sous la piste gr\u00E2ce \u00E0 un tunnel. Les voitures y tournent dans le sens anti-horaire et, pour la premi\u00E8re fois dans l'histoire du championnat du monde de Formule 1, le d\u00E9part a lieu de jour et l'arriv\u00E9e de nuit. Comme sur le circuit urbain de Singapour qui accueille le Grand Prix automobile de Singapour, ainsi que sur le Circuit international de Sakhir, l'\u00E9clairage de la piste est assur\u00E9 par de puissants projecteurs allum\u00E9s d\u00E8s le d\u00E9part de la course. Le 11 avril 2011, le feu vert est donn\u00E9 par la FIA pour la modification du circuit de Yas Marina qui va profiter des changements demand\u00E9s pour accueillir la MotoGP et pour rendre le trac\u00E9 plus int\u00E9ressant pour la Formule 1 en am\u00E9liorant les possibilit\u00E9s de d\u00E9passement dans la portion de piste situ\u00E9e entre les virages 6 et 9. La chicane compos\u00E9e des virages 5 et 6 ainsi que l'entr\u00E9e de l'\u00E9pingle qui suit (virage 7) seront plus larges. Le virage 9 n'aura plus une inclinaison n\u00E9gative \u00E0 sa sortie et sera profil\u00E9 pour devenir un virage en banking, ce qui permettra aux pilotes de prendre une trajectoire plus large et tenter l'ext\u00E9rieur sur un adversaire. Les deux virages \u00E0 gauche 13 et 14, assez lents, seront transform\u00E9s en un seul virage plus fluide."@fr ,
+		"\u042F\u0441 \u041C\u0430\u0440\u0438\u043D\u0430 \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0432 \u0410\u0431\u0443-\u0414\u0430\u0431\u0438, \u041E\u0410\u042D, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0431\u0443-\u0414\u0430\u0431\u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 2009 \u0433\u043E\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0422\u0440\u0430\u0441\u0441\u0430 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0430 \u043D\u0430 \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u043C \u043E\u0441\u0442\u0440\u043E\u0432\u0435 \u042F\u0441, \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 2500 \u0433\u0430. \u0412\u0431\u043B\u0438\u0437\u0438 \u0442\u0440\u0430\u0441\u0441\u044B \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u044B \u0433\u0430\u0432\u0430\u043D\u044C \u0434\u043B\u044F \u044F\u0445\u0442, \u043F\u0430\u0440\u043A \u0440\u0430\u0437\u0432\u043B\u0435\u0447\u0435\u043D\u0438\u0439 Ferrari, \u043E\u0442\u0435\u043B\u0438, \u044D\u043B\u0438\u0442\u043D\u043E\u0435 \u0436\u0438\u043B\u044C\u0451, \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u044B, \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0438 \u0434\u043B\u044F \u0433\u043E\u043B\u044C\u0444\u0430 \u0438 \u0442\u043E\u0440\u0433\u043E\u0432\u044B\u0439 \u0446\u0435\u043D\u0442\u0440 \u00AB\u042F\u0441 \u041C\u043E\u043B\u043B\u00BB \u043E\u0431\u0449\u0435\u0439 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 300 \u0442\u044B\u0441. \u043C\u00B2."@ru ,
+		"Yas Marina Circuit (teilweise auch Yas Island Circuit genannt) ist eine im Oktober 2009 fertiggestellte permanente Rennstrecke auf Yas Island in Abu Dhabi (Vereinigte Arabische Emirate). Das erste Rennen dort war der Gro\u00DFe Preis von Abu Dhabi, das letzte Rennen der Formel-1-Saison 2009, am 1. November 2009. Auch in den Jahren 2014, und 2015 bildet dieses Rennen den Abschluss des Formel-1-Kalenders."@de ,
+		"O Circuito de Yas Marina \u00E9 um aut\u00F3dromo localizado na ilha Yas, perto da capital dos Emirados \u00C1rabes Unidos, Abu Dhabi. \u00C9 conhecido por ser o circuito com as melhores infraestruturas, sendo um dos mais modernos. Abriga anualmente a F\u00F3rmula 1 desde 2009, sendo o segundo circuito do M\u00E9dio Oriente a abrigar um Grande Pr\u00E9mio, ap\u00F3s Bahrein."@pt ,
+		"Het Yas Marina Circuit is het nieuwe, en enige circuit in Abu Dhabi. Het circuit is ontworpen door Hermann Tilke. Het circuit is gelegen op het Yas Island, dat ongeveer op een half uur rijden ligt van de stad Abu Dhabi. Het circuit heeft 20 bochten, en wordt al het Arabische Monaco genoemd."@nl ,
+		"\u30E4\u30B9\u30FB\u30DE\u30EA\u30FC\u30CA\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08Yas Marina Circuit\uFF09\u306F\u3001\u30A2\u30E9\u30D6\u9996\u9577\u56FD\u9023\u90A6\u306E\u9996\u9577\u56FD\u3001\u30A2\u30D6\u30C0\u30D3\u306E\u30E4\u30B9\u5CF6\u306B\u3042\u308B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u3002"@ja ,
+		"Yas Marina Circuit \u2013 tor wy\u015Bcigowy w Abu Zabi w Zjednoczonych Emiratach Arabskich. Tor ma d\u0142ugo\u015B\u0107 5,554 km i od sezonu 2009 odbywaj\u0105 si\u0119 na nim wy\u015Bcigi m.in. Formu\u0142y 1. Wy\u015Bcig F1 na wyspie Yas by\u0142 ostatnim wy\u015Bcigiem w sezonie 2009 (odby\u0142 si\u0119 1 listopada 2009 roku). Zwyci\u0119zc\u0105 tego wy\u015Bcigu zosta\u0142 Niemiec Sebastian Vettel z zespo\u0142u Red Bull Racing. Rekordzist\u0105 toru jest natomiast Australijczyk Daniel Ricciardo \u2013 podczas test\u00F3w m\u0142odych kierowc\u00F3w 17 listopada 2010 roku osi\u0105gn\u0105\u0142 czas 1:38.102. Poprawi\u0142 tym samym rekord Sebastiana Vettela z kwalifikacji. Koszt budowy toru osi\u0105gn\u0105\u0142 kwot\u0119 1 miliarda dolar\u00F3w[potrzebny przypis]. 17 lutego 2010 roku og\u0142oszono, i\u017C dotychczasowy w\u0142a\u015Bciciel obiektu \u2013 Aldar sprzeda\u0142 tor rz\u0105dowi Abu Zabi. Ze wzgl\u0119du na brak mi\u0119kkiego, naturalnego pobocza tor nie jest wykorzystywany do rozgrywania zawod\u00F3w sport\u00F3w motocyklowych."@pl ,
+		"25\u0628\u0643 \u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u062A\u062D\u062A\u0627\u062C \u0644\u0644\u0645\u0632\u064A\u062F \u0645\u0646 \u0627\u0644\u0648\u0635\u0644\u0627\u062A \u0644\u0644\u0645\u0642\u0627\u0644\u0627\u062A \u0627\u0644\u0623\u062E\u0631\u0649 \u0644\u0644\u0645\u0633\u0627\u0639\u062F\u0629 \u0641\u064A \u062A\u0631\u0627\u0628\u0637 \u0645\u0642\u0627\u0644\u0627\u062A \u0627\u0644\u0645\u0648\u0633\u0648\u0639\u0629. \u0641\u0636\u0644\u064B\u0627 \u0633\u0627\u0639\u062F \u0641\u064A \u062A\u062D\u0633\u064A\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0628\u0625\u0636\u0627\u0641\u0629 \u0648\u0635\u0644\u0627\u062A \u0625\u0644\u0649 \u0627\u0644\u0645\u0642\u0627\u0644\u0627\u062A \u0627\u0644\u0645\u062A\u0639\u0644\u0642\u0629 \u0628\u0647\u0627 \u0627\u0644\u0645\u0648\u062C\u0648\u062F\u0629 \u0641\u064A \u0627\u0644\u0646\u0635 \u0627\u0644\u062D\u0627\u0644\u064A. (\u0645\u0627\u0631\u0633 2016) \u062D\u0644\u0628\u0629 \u0645\u0631\u0633\u0649 \u064A\u0627\u0633 \u0647\u064A \u0645\u0636\u0645\u0627\u0631 \u0633\u0628\u0627\u0642 \u0633\u064A\u0627\u0631\u0627\u062A\u060C \u064A\u0642\u0639 \u0641\u064A \u0641\u064A \u062C\u0632\u064A\u0631\u0629 \u064A\u0627\u0633 \u0628\u0625\u0645\u0627\u0631\u0629 \u0623\u0628\u0648\u0638\u0628\u064A \u0641\u064A \u062F\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629. \u0623\u0642\u064A\u0645 \u0639\u0644\u0649 \u0647\u0630\u0647 \u0627\u0644\u062D\u0644\u0628\u0629 \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0623\u0648\u0644 \u0644\u062C\u0627\u0626\u0632\u0629 \u0637\u064A\u0631\u0627\u0646 \u0627\u0644\u0625\u062A\u062D\u0627\u062F \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0645\u0627 \u0628\u064A\u0646 30 \u0623\u0643\u062A\u0648\u0628\u0631 \u0625\u0644\u0649 1 \u0646\u0648\u0641\u0645\u0628\u0631 2009."@ar ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito Yas Marina \u00E8 un circuito automobilistico entrato a far parte del calendario del mondiale di Formula 1 a partire dalla stagione 2009. Come molti tracciati del campionato costruiti di recente, \u00E8 stato disegnato da Hermann Tilke. Posto sull'Isola Yas, a circa 30 minuti dalla citt\u00E0 di Abu Dhabi, il circuito si snoda tra campi da golf, parchi a tema e hotel extralusso; ha ospitato il secondo gran premio del Medio Oriente dopo quello del Bahrein."@it ,
+		"\u4E9A\u65AF\u7801\u5934\u8D5B\u9053\uFF08\u82F1\u6587\uFF1AYas Marina Circuit\uFF0C\u963F\u62C9\u4F2F\u8BED\uFF1A\u062D\u0644\u0628\u0629 \u0645\u0631\u0633\u0649 \u064A\u0627\u0633\uFF09\u662F\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u963F\u5E03\u624E\u6BD4\u5927\u5956\u8D5B\u7684\u6BD4\u8D5B\u5730\u70B9\u3002\u8D5B\u9053\u7531\u8D6B\u5C14\u66FC\u00B7\u63D0\u5C14\u514B\uFF08Hermann Tilke\uFF09\u6240\u8BBE\u8BA1\uFF0C\u5750\u843D\u4E8E\u4E9A\u65AF\u5C9B\uFF0C\u8DDD\u79BB\u963F\u62C9\u4F2F\u8054\u5408\u914B\u957F\u56FD\u9996\u90FD\u963F\u5E03\u624E\u6BD4\u670930\u5206\u949F\u7684\u8F66\u7A0B\u3002\u4E9A\u65AF\u7801\u5934\u8D5B\u9053\u662F\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u5728\u4E2D\u4E1C\u5730\u533A\u7684\u7B2C\u4E8C\u6761\u8D5B\u9053\uFF0C\u7B2C\u4E00\u6761\u8D5B\u9053\u662F\u7531\u540C\u4E00\u8BBE\u8BA1\u8005\u6240\u8BBE\u8BA1\u7684\u5DF4\u6797\u56FD\u9645\u8D5B\u9053\u3002\u8D5B\u9053\u5F00\u5E55\u7684\u5F53\u5929\u5B98\u65B9\u4E3E\u529E\u4E86\u4E3A\u671F\u4E24\u5929\u7684GP2\u4E9A\u6D32\u7CFB\u5217\u8D5B\u6D4B\u8BD5\u8D5B\uFF0C\u4E00\u5468\u540E\u8FDB\u884C\u4E862009\u5E74\u963F\u5E03\u624E\u6BD4\u5927\u5956\u8D5B\u3002\u8D5B\u9053\u5E76\u4E8E2010\u5E742\u6708\u4E3E\u884C\u4E86V8\u8D85\u7EA7\u623F\u8F66\u8D5B\u7684\u63ED\u5E55\u6218\uFF0C\u4E9A\u65AF V8 400\u5927\u5956\u8D5B\u3002"@zh ,
+		"El Circuito Yas Marina es un circuito de carreras que se construy\u00F3 en la Isla Yas, emirato de Abu Dabi, Emiratos \u00C1rabes Unidos para celebrar el Gran Premio de Abu Dabi de F\u00F3rmula Uno desde el a\u00F1o 2009. La pista tambi\u00E9n ha albergado carreras del Campeonato Mundial de GT1 y el V8 Supercars, as\u00ED como las 12 Horas del Golfo. Yas Marina fue construido por la empresa Aldar, y se emplaza en un proyecto urban\u00EDstico que incluye un parque tem\u00E1tico, puerto deportivo, zonas residenciales, un parque acu\u00E1tico, zonas de deporte y ocio, , un hotel con vistas al circuito desde las habitaciones y una torre exclusiva para los jeques al final de la recta principal. Su vig\u00E9sima curva atraviesa la isla natural, pasando por el puerto deportivo y un sinuoso camino a trav\u00E9s de dunas de arena, con varias rectas largas y curvas cerradas. El circuito tiene previstas tres zonas de tribuna. El trazado de Gran Premio mide 5.554 metros de longitud, y cuenta con suficientes focos de luz para celebrar carreras de noche con iluminaci\u00F3n de estadio, algo poco habitual en circuitos tan largos. Existe un trazado reducido a 4.700 metros; asimismo, el circuito cuenta con dos circuitos independientes con sendas calles de boxes. El circuito se caracteriza por contar con novedades tecnol\u00F3gicas que podr\u00E1n servir de referencia para otros trazados. Una de sus mayores novedades es que el pit-lane, en la parte de la salida de boxes a pista, cruza la pista por debajo, para conseguir m\u00E1s seguridad en la incorporaci\u00F3n de los monoplazas a la misma y para aprovechar el espacio. Tambi\u00E9n se quiere aprovechar espacio colocando las gradas sobre las escapatorias del circuito, acercando de este modo la vista del circuito a los aficionados y ahorrando espacio. Con este sistema, si alg\u00FAn veh\u00EDculo se sale de pista, se introducir\u00E1 debajo de las posiciones del p\u00FAblico. Sobre los boxes hay una tribuna, algo poco frecuente en los circuitos de F\u00F3rmula 1. La pista en general es bastante r\u00E1pida, con varios puntos de frenada fuerte y largas rectas (algunas curvadas). Cuenta con una zona parecida a la m\u00EDtica curva 'Eau Rouge' del circuito de Spa Francorchamps, con un puerto para amarre de yates y cruceros imitando el circuito urbano de M\u00F3naco; su curva m\u00E1s cerrada se encuentra junto al parque tem\u00E1tico de Ferrari, gira en sentido contrario a las agujas del reloj -cosa com\u00FAn en los circuitos nuevos- y su tercer sector, el m\u00E1s lento, rodea la zona marina."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_Yas-Island.svg?width=300> ;
+	dbo:wikiPageRevisionID	742554274 ;
+	dbo:wikiPageID	11169104 ;
+	dbp:owner	"Government of Abu Dhabi"^^xsd:string ;
+	dbp:layout	"Short Circuit"^^xsd:string ,
+		"Grand Prix Circuit"^^xsd:string ;
+	dbp:lengthMi	3.4510000000000000675 ,
+		2.9199999999999999289 ;
+	dbp:capacity	50000 ;
+	dbp:brokeGround	"May 2007"^^xsd:string .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Yas_Marina_Circuit	ns29:hypernym	dbr:Venue ;
+	dbp:architect	dbr:Hermann_Tilke ;
+	dbp:recordTeam	dbr:Red_Bull_Racing ,
+		dbr:Addax_Team ;
+	dbp:imageCaption	"Yas Marina Circuit"^^xsd:string ;
+	dbp:events	"GP2 Asia Series, V8 Supercars, Drag Racing, GT1 World, Gulf 12 Hours"^^xsd:string ,
+		"FIA Formula One"^^xsd:string ,
+		dbr:Abu_Dhabi_Grand_Prix .
+dbr:Yas_circuit	dbo:wikiPageRedirects	dbr:Yas_Marina_Circuit .
+wikipedia-en:Yas_Marina_Circuit	foaf:primaryTopic	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2013_Abu_Dhabi_Grand_Prix>	dbo:location	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2011_Abu_Dhabi_Grand_Prix>	dbp:course	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2012_Abu_Dhabi_Grand_Prix>	dbo:location	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2016_Abu_Dhabi_Grand_Prix>	dbo:location	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2014_Abu_Dhabi_Grand_Prix>	dbo:location	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2009_Abu_Dhabi_Grand_Prix>	dbp:course	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2010_Abu_Dhabi_Grand_Prix>	dbp:course	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2009_Yas_Marina_GP2_Asia_Series_round>	dbp:location	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2010_Yas_Marina_GP2_Asia_Series_round>	dbp:location	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2016_Yas_Marina_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2010_Yas_Marina_GP2_Series_round>	dbp:location	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2011_Yas_Marina_Circuit_GP2_Asia_Series_round>	dbp:location	dbr:Yas_Marina_Circuit .
+<http://dbpedia.org/resource/2011_GP2_Final>	dbp:location	dbr:Yas_Marina_Circuit .
+dbr:Yas_Island_Circuit	dbo:wikiPageRedirects	dbr:Yas_Marina_Circuit .

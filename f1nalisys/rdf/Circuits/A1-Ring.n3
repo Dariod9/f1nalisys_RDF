@@ -1,0 +1,22 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1998_Austrian_Grand_Prix>	dbo:location	dbr:A1-Ring .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:A1-Ring	rdfs:label	"A1-Ring"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:A1-Ring	owl:sameAs	dbr:A1-Ring .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:A1-Ring	dct:subject	dbc:Motorsport_venues_in_Austria ,
+		dbc:Austrian_Grand_Prix ,
+		dbc:Grand_Prix_motorcycle_circuits ,
+		dbc:Formula_One_circuits .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:A1-Ring	foaf:isPrimaryTopicOf	wikipedia-en:A1-Ring .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:A1-Ring	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/A1-Ring?oldid=462835081> ;
+	dbo:wikiPageRedirects	dbr:Red_Bull_Ring ;
+	dbo:wikiPageRevisionID	462835081 ;
+	dbo:wikiPageID	1236119 .
+wikipedia-en:A1-Ring	foaf:primaryTopic	dbr:A1-Ring .

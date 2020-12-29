@@ -1,0 +1,57 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Anfa_Circuit	foaf:primaryTopic	dbr:Anfa_Circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Anfa_Circuit	rdf:type	yago:Location100027167 ,
+		yago:Region108630985 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Anfa_Circuit	rdf:type	dbo:BaseballLeague ,
+		yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		yago:WikicatDefunctMotorsportVenuesInMorocco ,
+		yago:WikicatMotorsportVenuesInMorocco ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Area108497294 ,
+		yago:YagoGeoEntity .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Anfa_Circuit	rdfs:label	"\u062D\u0644\u0628\u0629 \u0622\u0646\u0641\u0627"@ar ,
+		"Anfa Circuit"@en ;
+	rdfs:comment	"\u062D\u0644\u0628\u0629 \u0622\u0646\u0641\u0627 \u0643\u0627\u0646\u062A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0645\u0624\u0642\u062A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0627\u0644\u062F\u0627\u0631 \u0627\u0644\u0628\u064A\u0636\u0627\u0621 \u0628\u0627\u0644\u0645\u063A\u0631\u0628\u060C \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0645\u063A\u0631\u0628 \u0627\u0644\u0643\u0628\u0631\u0649 \u0641\u064A 1931 \u0648 1932 \u0648 1934. \u0641\u064A \u0633\u0646\u0629 1957 \u062A\u0645 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u062F\u0627\u0631\u0629 \u0639\u064A\u0646 \u0627\u0644\u0630\u0626\u0627\u0628 \u0644\u0627\u0633\u062A\u0636\u0627\u0641\u0629 \u0627\u0644\u0633\u0628\u0627\u0642."@ar ,
+		"The Anfa Circuit was a street circuit in Anfa, Morocco used in the Moroccan Grand Prix in 1931, 1932 and 1934. From 1957 on the Ain-Diab Circuit was used, which bordered the old Anfa Circuit."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Anfa_Circuit	owl:sameAs	yago-res:Anfa_Circuit ,
+		dbr:Anfa_Circuit .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Anfa_Circuit	owl:sameAs	wikidata:Q16979284 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Anfa_Circuit	owl:sameAs	dbpedia-wikidata:Q16979284 ,
+		<http://rdf.freebase.com/ns/m.0wdwgpt> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Anfa_Circuit	dct:subject	dbc:Defunct_motorsport_venues_in_Morocco ,
+		dbc:Sport_in_Casablanca ,
+		dbc:Moroccan_Grand_Prix ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grand_Prix_circuits> ,
+		dbc:Formula_One_circuits ,
+		dbc:Motorsport_venues_in_Morocco ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Layouts_of_Anfa_Circuit_and_Ain-Diab_Circuit.png> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Anfa_Circuit .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Anfa_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Anfa_Circuit?oldid=603690066> .
+@prefix ns14:	<http://www.kolumbus.fi/leif.snellman/t9.htm#> .
+dbr:Anfa_Circuit	dbo:wikiPageExternalLink	ns14:ANFA ;
+	dbo:abstract	"The Anfa Circuit was a street circuit in Anfa, Morocco used in the Moroccan Grand Prix in 1931, 1932 and 1934. From 1957 on the Ain-Diab Circuit was used, which bordered the old Anfa Circuit."@en ,
+		"\u062D\u0644\u0628\u0629 \u0622\u0646\u0641\u0627 \u0643\u0627\u0646\u062A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0645\u0624\u0642\u062A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0627\u0644\u062F\u0627\u0631 \u0627\u0644\u0628\u064A\u0636\u0627\u0621 \u0628\u0627\u0644\u0645\u063A\u0631\u0628\u060C \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0645\u063A\u0631\u0628 \u0627\u0644\u0643\u0628\u0631\u0649 \u0641\u064A 1931 \u0648 1932 \u0648 1934. \u0641\u064A \u0633\u0646\u0629 1957 \u062A\u0645 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u062F\u0627\u0631\u0629 \u0639\u064A\u0646 \u0627\u0644\u0630\u0626\u0627\u0628 \u0644\u0627\u0633\u062A\u0636\u0627\u0641\u0629 \u0627\u0644\u0633\u0628\u0627\u0642."@ar ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Layouts_of_Anfa_Circuit_and_Ain-Diab_Circuit.png?width=300> ;
+	dbo:wikiPageRevisionID	603690066 ;
+	dbo:wikiPageID	40030915 .
+@prefix ns15:	<http://purl.org/linguistics/gold/> .
+dbr:Anfa_Circuit	ns15:hypernym	dbr:Circuit .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Moroccan_Grand_Prix	dbp:circuit	dbr:Anfa_Circuit .

@@ -1,0 +1,202 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2015_Austrian_Grand_Prix>	dbp:location	dbr:Red_Bull_Ring .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1997_Austrian_Grand_Prix>	dbo:location	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Red_Bull_Ring_round>	dbp:location	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/2015_Red_Bull_Ring_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/2016_Red_Bull_Ring_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Red_Bull_Ring .
+dbr:Oesterreichring	dbo:wikiPageRedirects	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/2002_Austrian_Grand_Prix>	dbo:location	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/2003_Austrian_Grand_Prix>	dbo:location	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/2016_Austrian_Grand_Prix>	dbp:location	dbr:Red_Bull_Ring .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Red_Bull_Ring	rdf:type	yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		yago:WikicatSuperbikeWorldChampionshipCircuits ,
+		yago:WikicatFormulaOneCircuits ,
+		yago:WikicatGrandPrixMotorcycleCircuits ,
+		yago:ElectricalDevice103269401 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:Location100027167 ,
+		yago:YagoLegalActorGeo ,
+		yago:Region108630985 ,
+		yago:Circuit103033362 ,
+		yago:Artifact100021939 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatSportsVenuesInStyria ,
+		yago:WikicatMotorsportVenuesInAustria ,
+		yago:Area108497294 ,
+		yago:Device103183080 ,
+		yago:Instrumentality103575240 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Red_Bull_Ring	rdf:type	geo:SpatialThing ,
+		dbo:BaseballLeague ,
+		yago:Whole100003553 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Red_Bull_Ring	rdfs:label	"\u30EC\u30C3\u30C9\u30D6\u30EB\u30FB\u30EA\u30F3\u30AF"@ja ,
+		"\u0420\u0435\u0434 \u0411\u0443\u043B\u043B \u0420\u0438\u043D\u0433"@ru ,
+		"\u7D05\u725B\u8CFD\u9053"@zh ,
+		"Red Bull Ring"@it ,
+		"Red Bull Ring"@de ,
+		"Red Bull Ring"@es ,
+		"Red Bull Ring"@pt ,
+		"\u0631\u064A\u062F \u0628\u0648\u0644 \u0631\u064A\u0646\u063A"@ar ,
+		"Red Bull Ring"@nl ,
+		"Circuit de Spielberg"@fr ,
+		"Red Bull Ring"@pl ,
+		"Red Bull Ring"@en ;
+	rdfs:comment	"El Red Bull Ring es un aut\u00F3dromo ubicado en la villa de Spielberg, cerca al poblado de Zeltweg, Estiria, Austria, que ha recibido varios de los principales campeonatos mundiales y europeos de deporte motor. El nombre original del circuito fue \u00D6sterreichring, que traducido ser\u00EDa \"circuito de Austria\". Despu\u00E9s de su remodelaci\u00F3n en 1996, fue renombrado a A1-Ring debido al patrocinio de la telef\u00F3nica A1 Mobilkom. En 2010, el fabricante de bebidas Red Bull adquiri\u00F3 el circuito y le puso el nombre actual."@es ,
+		"Red Bull Ring \u2013 austriacki tor wy\u015Bcigowy, po\u0142o\u017Cony w mie\u015Bcie Spielberg. Tor, pocz\u0105tkowo nazwany \u00D6sterreichring, by\u0142 gospodarzem wy\u015Bcig\u00F3w o Grand Prix Austrii w latach 1970-1987. Tor, przebudowany i skr\u00F3cony przez Hermanna Tilke, jako A1-Ring, by\u0142 ponownie gospodarzem wy\u015Bcig\u00F3w o Grand Prix Austrii w latach 1997-2003. Po 2003 zaprzestano wy\u015Bcig\u00F3w na tym obiekcie, g\u0142\u00F3wnie ze wzgl\u0119du na decyzj\u0119 ministra zdrowia o zakazie reklamowania wyrob\u00F3w tytoniowych. Tor zacz\u0105\u0142 powoli popada\u0107 w ruin\u0119. W 2005 w\u0142a\u015Bcicielem toru zosta\u0142 koncern Red Bull, kt\u00F3ry doprowadzi\u0142 do jego przebudowy w latach 2008-2010. Obiekt nazwany Red Bull Ring oficjalnie otwarto 15 maja 2011. Obiekt ten ponownie jest gospodarzem wy\u015Bcig\u00F3w o Grand Prix Austrii od sezonu 2014."@pl ,
+		"\u30EC\u30C3\u30C9\u30D6\u30EB\u30FB\u30EA\u30F3\u30AF\uFF08Red Bull Ring\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u306E\u30AF\u30CB\u30C3\u30C6\u30EB\u30D5\u30A7\u30EB\u30C8\u304B\u3089\u897F\u30786km\u306E\u30B7\u30E5\u30D4\u30FC\u30EB\u30D9\u30EB\u30AF\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u304B\u3064\u3066\u306F\u30A8\u30B9\u30C6\u30EB\u30E9\u30A4\u30D2\u30EA\u30F3\u30AF\uFF08\u00D6sterreichring\u3001\u30AA\u30B9\u30C6\u30EB\u30E9\u30A4\u30D2\u30EA\u30F3\u30AF\u3068\u3082\uFF09\u3068\u547C\u3070\u308C\u3066\u3044\u305F\u304C\u30011997\u5E74\u306E\u6539\u4FEE\u306B\u3088\u308AA1\u30EA\u30F3\u30AF\uFF08A1-Ring\uFF09\u3078\u6539\u79F0\u30012010\u5E74\u306B\u30EC\u30C3\u30C9\u30D6\u30EB\u30FB\u30EA\u30F3\u30AF\u3068\u6539\u79F0\u3055\u308C\u73FE\u5728\u306B\u81F3\u308B\u3002"@ja ,
+		"The Red Bull Ring is a motorsport circuit in Spielberg, Styria, Austria. The race circuit was founded as \u00D6sterreichring and hosted the Formula One Austrian Grand Prix for 18 consecutive years, from 1970 to 1987. It was later shortened, rebuilt and renamed the A1-Ring, and it hosted the Austrian Grand Prix again from 1997 to 2003. When Formula One outgrew the circuit, a plan was drawn up to extend the layout. Parts of the circuit, including the pits and main grandstand, were demolished, but construction work was stopped and the circuit remained unusable for several years before it was purchased by Red Bull's Dietrich Mateschitz and rebuilt. Renamed the Red Bull Ring the track was reopened on 15 May 2011 and subsequently hosted a round of the 2011 DTM season and a round of the 2011 F2 champi"@en ,
+		"\u7D05\u725B\u8CFD\u9053\uFF08\u82F1\u8BED\uFF1ARed Bull Ring\uFF09\u662F\u4F4D\u65BC\u5967\u5730\u5229\u65BD\u6CF0\u723E\u65AF\u76AE\u723E\u5821\u7684\u4E00\u689D\u8CFD\u9053\u3002\u9019\u689D\u8CFD\u9053\u5EFA\u7ACB\u521D\u70BA\u5967\u5730\u5229\u8CFD\u9053\uFF08\u82F1\u8BED\uFF1A\u00D6sterreichring\uFF09\u4E26\u5F9E1970\u5E74\u81F31987\u5E74\u9023\u7E8C18\u5E74\u8209\u8FA6\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u5967\u5730\u5229\u5927\u734E\u8CFD\u3002\u5728\u9019\u4E4B\u5F8C\uFF0C\u7D93\u904E\u91CD\u5EFA\u3001\u7E2E\u77ED\u4E26\u4E14\u91CD\u65B0\u547D\u540D\u70BAA1\u8CFD\u9053\uFF08\u82F1\u8BED\uFF1AA1-Ring\uFF09\uFF0C\u5F9E1997\u5E74\u52302003\u5E74\u518D\u6B21\u8209\u8FA6\u5967\u5730\u5229\u5927\u734E\u8CFD\u3002\u7576\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8981\u518D\u56DE\u6B78\u9019\u689D\u8CFD\u9053\u6642\uFF0C\u63D0\u51FA\u4E86\u4E00\u500B\u64F4\u5927\u8CFD\u9053\u4F48\u5C40\u7684\u8A08\u756B\u3002\u8CFD\u9053\u7684\u90E8\u5206\u88AB\u62C6\u9664\uFF0C\u5176\u4E2D\u5305\u62EC\u7DAD\u4FEE\u7AD9\u53CA\u4E3B\u770B\u53F0\uFF0C\u4F46\u662F\u5DE5\u7A0B\u505C\u64FA\uFF0C\u8CFD\u9053\u4F9D\u7136\u6578\u5E74\u7121\u6CD5\u4F7F\u7528\uFF0C\u4E00\u76F4\u5230\u7D05\u725B\u7684\u8FEA\u7279\u5229\u5E0C\u00B7\u99AC\u7279\u5E0C\u8328\u8CB7\u4E0B\u4E26\u4E14\u91CD\u5EFA\uFF0C\u91CD\u65B0\u547D\u540D\u70BA\u7D05\u725B\u8CFD\u9053\u4E26\u65BC2011\u5E745\u670815\u65E5\u91CD\u555F\u4F7F\u7528\uFF0C\u4E4B\u5F8C\u4FBF\u8209\u8FA6\u4E00\u5B63\u76842011\u5E74\u5FB7\u570B\u623F\u8ECA\u8CFD\u82072011\u5E74\u4E8C\u7D1A\u65B9\u7A0B\u5F0F\u51A0\u8ECD\u8CFD\uFF0C\u800C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u5C07\u6703\u65BC2014\u5E74\u8CFD\u5B63\u91CD\u8FD4\u3002\u820A\u7684\u5967\u5730\u5229\u8CFD\u9053\u5E38\u88AB\u6307\u5176\u4F4D\u65BC\u8F03\u5EE3\u70BA\u4EBA\u77E5\u7684\u7B56\u723E\u7279\u97CB\u683C\uFF0C\u4F46\u662F\u9019\u689D\u8CFD\u9053\u91CD\u672A\u7D93\u904E\u79FB\u5740\uFF0C\u5118\u662F\u4FEE\u6539\u904E\u800C\u5DF2\u3002\u6B64\u5916\uFF0C\u7B56\u723E\u7279\u97CB\u683C\u6A5F\u5834\u8CFD\u9053\u53EA\u8209\u8FA6\u904E\u552F\u4E00\u76841964\u5E74\u5967\u5730\u5229\u5927\u734E\u8CFD\uFF0C\u56E0\u6B64\u5F97\u77E5\u4E86\u9019\u500B\u540D\u5B57\u3002"@zh ,
+		"\u00AB\u0420\u0435\u0434 \u0411\u0443\u043B\u043B \u0420\u0438\u043D\u0433\u00BB (\u043D\u0435\u043C. Red Bull Ring) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0431\u043B\u0438\u0437 \u0434\u0435\u0440\u0435\u0432\u043D\u0438 \u0428\u043F\u0438\u043B\u044C\u0431\u0435\u0440\u0433 (\u0428\u0442\u0438\u0440\u0438\u044F, \u0410\u0432\u0441\u0442\u0440\u0438\u044F). \u0412\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0435\u043C \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0430 \u0432 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Red Bull. \u041D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0431\u044B\u043B\u0438 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u044B 28 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0438\u0438 \u0441 1970 \u043F\u043E 1987, \u0441 1997 \u043F\u043E 2003, \u0441 2014 \u043F\u043E 2016 \u0433\u043E\u0434\u0430\u0445. \u0412 \u043C\u043E\u043C\u0435\u043D\u0442 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0438\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0430 \u041E\u0441\u0442\u0435\u0440\u0440\u0430\u0439\u0445\u0440\u0438\u043D\u0433 (\u043D\u0435\u043C. \u00D6sterreichring), \u043F\u043E\u0437\u0434\u043D\u0435\u0435 \u043E\u043D\u0430 \u0431\u044B\u043B\u0430 \u043F\u0435\u0440\u0435\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u0438 \u043F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u0440\u0430\u0431\u043E\u0442 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 \u04101-\u0420\u0438\u043D\u0433. \u0412 2004 \u0433\u043E\u0434\u0443 \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u0441\u043D\u0435\u0441\u0435\u043D\u0430 \u0438 \u0432\u043D\u043E\u0432\u044C \u0432\u044B\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439 Red Bull \u0432 2008 \u0433\u043E\u0434\u0443. \u0412 2011 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0420\u0435\u0434 \u0411\u0443\u043B\u043B \u0420\u0438\u043D\u0433\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u043F\u0435\u0440\u0432\u044B\u0435 \u0437\u0430 8 \u043B\u0435\u0442 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F."@ru ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il Red Bull Ring, precedentemente noto come \u00D6sterreichring ed  A1-Ring, \u00E8 uno storico autodromo situato in Austria, nelle vicinanze di Spielberg bei Knittelfeld (in Stiria). L'impianto, per lunghi anni inattivo dopo aver subito negli anni novanta un costoso rinnovamento che ne aveva modificato il tracciato e il nome, \u00E8 stato riammodernato e ha ripreso l'attivit\u00E0 dalla stagione motoristica 2011: riaperto il 15 maggio 2011, conserva il disegno del tracciato introdotto nel 1996, quando l'autodromo fu ridenominato A1-Ring."@it ,
+		"Der Red Bull Ring ist eine Rennstrecke in der Stadtgemeinde Spielberg in der Steiermark, \u00D6sterreich. Sie wurde 1969 als \u00D6sterreichring er\u00F6ffnet und hie\u00DF von 1997 bis 2003 A1-Ring. Nach l\u00E4ngeren Umbauten wurde sie am 15. Mai 2011 wieder er\u00F6ffnet."@de ,
+		"\u0631\u064A\u062F \u0628\u0648\u0644 \u0631\u064A\u0646\u063A \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0644\u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0645\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0622\u0644\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0648\u0644\u0627\u064A\u0629 \u0634\u062A\u0627\u064A\u0631\u0645\u0627\u0631\u0643 \u0641\u064A \u0627\u0644\u0646\u0645\u0633\u0627. \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0646\u0645\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0645\u0646 \u0645\u0648\u0633\u0645 \u0633\u0646\u0629 1970 \u0625\u0644\u0649 \u0645\u0648\u0633\u0645 \u0633\u0646\u0629 1987. \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u0623\u064A\u0636\u0627 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629. \u062A\u062A\u0633\u0639 \u064440 \u0623\u0644\u0641 \u0645\u062A\u0641\u0631\u062C. \u064A\u0628\u0644\u063A \u0637\u0648\u0631\u0644\u0647\u0627 4.326 \u0643\u0644\u0645."@ar ,
+		"Le Circuit de Spielberg, auparavant appel\u00E9 \u00D6sterreichring puis A1-Ring et d\u00E9sormais Red Bull Ring, est un circuit automobile situ\u00E9 sur la commune de Spielberg en Autriche. Il est souvent incorrectement indiqu\u00E9 que le circuit est situ\u00E9 \u00E0 Zeltweg car cette ville est plus connue que Spielberg, mais \u00E9galement parce qu'avant de se tenir sur l'\u00D6sterreichring, le Grand Prix automobile d'Autriche avait lieu sur le circuit de Zeltweg. Circuit tr\u00E8s technique, il est connu pour avoir accueilli le Grand Prix automobile d'Autriche pendant dix-huit ans, de 1970 \u00E0 1987."@fr ,
+		"De Red Bull Ring is een Oostenrijks racecircuit in Spielberg, Stiermarken. Het circuit werd in 1969 gebouwd en kreeg als naam de \u00D6sterreichring. Vanaf 1970 tot en met 1987 werd er de Grand Prix van Oostenrijk verreden. Later, in 1995 werd het circuit verbouwd en ingekort en kreeg het de naam A1 Ring. Vanaf 1997 tot 2003 werden er weer F1-race gehouden op dit circuit. Na 2003 werd het circuit gesloten en gedeeltelijk gesloopt, Dietrich Mateschitz, gedeeltelijke eigenaar van Red Bull, kocht het circuit op en in 2011 werd het circuit weer geopend en kreeg de naam Red Bull Ring."@nl ,
+		"Red Bull Ring foi um circuito de corrida austr\u00EDaco que sediou o Grande Pr\u00EAmio da \u00C1ustria de F\u00F3rmula 1 por 18 anos consecutivos, desde 1970 at\u00E9 1987. Inaugurado em 1969 como \u00D6sterreichring, foi reduzido, reconstru\u00EDdo e renomeado em 1997 para A1-Ring sediando novamente o Grande Pr\u00EAmio da \u00C1ustria de 1997 at\u00E9 2003. Hoje a pista \u00E9 de propriedade da Red Bull, que reconstruiu todas as instala\u00E7\u00F5es do aut\u00F3dromo e renomeou-o para Red Bull Ring. O tra\u00E7ado criado em 1997 foi mantido."@pt ;
+	dbp:fiagrade	1 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-de:Red_Bull_Ring .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-fr:Circuit_de_Spielberg .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-it:Red_Bull_Ring .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	yago-res:Red_Bull_Ring ,
+		<http://sws.geonames.org/8394024/> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-es:Red_Bull_Ring ,
+		dbr:Red_Bull_Ring ,
+		<http://rdf.freebase.com/ns/m.04jggp> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-cs:Red_Bull_Ring .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Red_Bull_Ring	owl:sameAs	wikidata:Q171566 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-pl:Red_Bull_Ring .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-id:Red_Bull_Ring ,
+		<http://yago-knowledge.org/resource/\u00D6sterreichring> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-pt:Red_Bull_Ring ,
+		yago-res:A1-Ring .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-nl:Red_Bull_Ring .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Red_Bull_Ring	owl:sameAs	dbpedia-wikidata:Q171566 ,
+		<http://ja.dbpedia.org/resource/\u30EC\u30C3\u30C9\u30D6\u30EB\u30FB\u30EA\u30F3\u30AF> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Red_Bull_Ring	dct:subject	dbc:Grand_Prix_motorcycle_circuits ,
+		dbc:Formula_One_circuits ,
+		dbc:Sports_venues_in_Styria ,
+		dbc:Red_Bull ,
+		dbc:Racing_circuits_designed_by_Hermann_Tilke ,
+		dbc:Superbike_World_Championship_circuits ,
+		dbc:Motorsport_venues_in_Austria .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Red_Bull_Ring	geo:lat	"47.219722747802734375"^^xsd:float ;
+	geo:long	"14.764721870422363281"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Red_Bull_Ring	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_Red_Bull_Ring.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Red_Bull_Ring	foaf:isPrimaryTopicOf	wikipedia-en:Red_Bull_Ring .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Red_Bull_Ring	geo:geometry	"POINT(14.764721870422 47.219722747803)"^^virtrdf:Geometry ;
+	dbp:recordClass	dbr:Grand_Prix_motorcycle_racing ,
+		dbr:Formula_One ;
+	dbp:quote	"\"At Zeltweg, down the long straight to the Bosch Kurve, the car was throwing out 1400 bhp and just kept on pushing \u2013 you felt like you were sitting on a rocket.\""^^xsd:string .
+@prefix ns26:	<http://dbpedia.org/datatype/> .
+dbr:Red_Bull_Ring	dbp:time	"60.0"^^ns26:second ;
+	dbp:lengthKm	5.9109999999999995879 ,
+		4.3259999999999996234 ,
+		5.9409999999999998366 ,
+		4.3179999999999996163 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Red_Bull_Ring	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Red_Bull_Ring?oldid=737664741> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Red_Bull_Ring	georss:point	"47.219722222222224 14.764722222222222" ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20110719093741/http:/www.tilke.de/projekte.php?projid=3950-01> .
+@prefix ns29:	<https://web.archive.org/web/20140202204018/http:/www.trackpedia.com/wiki/> .
+dbr:Red_Bull_Ring	dbo:wikiPageExternalLink	ns29:A1-Ring ,
+		<http://www.racingcircuits.info/europe/austria/red-bull-ring-a-1-ring-osterrichring.html> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> ,
+		<http://thisisf1.com/2014/06/11/2014-austrian-gp-preview-red-bull-ring/> ;
+	dbp:location	<http://dbpedia.org/resource/Spielberg,_Styria> ,
+		dbr:Styria ,
+		dbr:Austria ;
+	dbp:align	"left"^^xsd:string ;
+	dbp:recordDriver	dbr:Michael_Schumacher ,
+		dbr:Niki_Lauda ,
+		dbr:Andrea_Iannone ,
+		dbr:Nelson_Piquet ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	1975 ,
+		1987 ,
+		2003 ,
+		2016 ;
+	dbp:turns	18 ,
+		16 ,
+		10 ,
+		9 ;
+	dbp:name	"Red Bull Ring"^^xsd:string ;
+	dbo:abstract	"The Red Bull Ring is a motorsport circuit in Spielberg, Styria, Austria. The race circuit was founded as \u00D6sterreichring and hosted the Formula One Austrian Grand Prix for 18 consecutive years, from 1970 to 1987. It was later shortened, rebuilt and renamed the A1-Ring, and it hosted the Austrian Grand Prix again from 1997 to 2003. When Formula One outgrew the circuit, a plan was drawn up to extend the layout. Parts of the circuit, including the pits and main grandstand, were demolished, but construction work was stopped and the circuit remained unusable for several years before it was purchased by Red Bull's Dietrich Mateschitz and rebuilt. Renamed the Red Bull Ring the track was reopened on 15 May 2011 and subsequently hosted a round of the 2011 DTM season and a round of the 2011 F2 championship. Formula One returned to the circuit in the 2014 season."@en ,
+		"De Red Bull Ring is een Oostenrijks racecircuit in Spielberg, Stiermarken. Het circuit werd in 1969 gebouwd en kreeg als naam de \u00D6sterreichring. Vanaf 1970 tot en met 1987 werd er de Grand Prix van Oostenrijk verreden. Later, in 1995 werd het circuit verbouwd en ingekort en kreeg het de naam A1 Ring. Vanaf 1997 tot 2003 werden er weer F1-race gehouden op dit circuit. Na 2003 werd het circuit gesloten en gedeeltelijk gesloopt, Dietrich Mateschitz, gedeeltelijke eigenaar van Red Bull, kocht het circuit op en in 2011 werd het circuit weer geopend en kreeg de naam Red Bull Ring."@nl ,
+		"Red Bull Ring \u2013 austriacki tor wy\u015Bcigowy, po\u0142o\u017Cony w mie\u015Bcie Spielberg. Tor, pocz\u0105tkowo nazwany \u00D6sterreichring, by\u0142 gospodarzem wy\u015Bcig\u00F3w o Grand Prix Austrii w latach 1970-1987. Tor, przebudowany i skr\u00F3cony przez Hermanna Tilke, jako A1-Ring, by\u0142 ponownie gospodarzem wy\u015Bcig\u00F3w o Grand Prix Austrii w latach 1997-2003. Po 2003 zaprzestano wy\u015Bcig\u00F3w na tym obiekcie, g\u0142\u00F3wnie ze wzgl\u0119du na decyzj\u0119 ministra zdrowia o zakazie reklamowania wyrob\u00F3w tytoniowych. Tor zacz\u0105\u0142 powoli popada\u0107 w ruin\u0119. W 2005 w\u0142a\u015Bcicielem toru zosta\u0142 koncern Red Bull, kt\u00F3ry doprowadzi\u0142 do jego przebudowy w latach 2008-2010. Obiekt nazwany Red Bull Ring oficjalnie otwarto 15 maja 2011. Obiekt ten ponownie jest gospodarzem wy\u015Bcig\u00F3w o Grand Prix Austrii od sezonu 2014."@pl ,
+		"\u7D05\u725B\u8CFD\u9053\uFF08\u82F1\u8BED\uFF1ARed Bull Ring\uFF09\u662F\u4F4D\u65BC\u5967\u5730\u5229\u65BD\u6CF0\u723E\u65AF\u76AE\u723E\u5821\u7684\u4E00\u689D\u8CFD\u9053\u3002\u9019\u689D\u8CFD\u9053\u5EFA\u7ACB\u521D\u70BA\u5967\u5730\u5229\u8CFD\u9053\uFF08\u82F1\u8BED\uFF1A\u00D6sterreichring\uFF09\u4E26\u5F9E1970\u5E74\u81F31987\u5E74\u9023\u7E8C18\u5E74\u8209\u8FA6\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u5967\u5730\u5229\u5927\u734E\u8CFD\u3002\u5728\u9019\u4E4B\u5F8C\uFF0C\u7D93\u904E\u91CD\u5EFA\u3001\u7E2E\u77ED\u4E26\u4E14\u91CD\u65B0\u547D\u540D\u70BAA1\u8CFD\u9053\uFF08\u82F1\u8BED\uFF1AA1-Ring\uFF09\uFF0C\u5F9E1997\u5E74\u52302003\u5E74\u518D\u6B21\u8209\u8FA6\u5967\u5730\u5229\u5927\u734E\u8CFD\u3002\u7576\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8981\u518D\u56DE\u6B78\u9019\u689D\u8CFD\u9053\u6642\uFF0C\u63D0\u51FA\u4E86\u4E00\u500B\u64F4\u5927\u8CFD\u9053\u4F48\u5C40\u7684\u8A08\u756B\u3002\u8CFD\u9053\u7684\u90E8\u5206\u88AB\u62C6\u9664\uFF0C\u5176\u4E2D\u5305\u62EC\u7DAD\u4FEE\u7AD9\u53CA\u4E3B\u770B\u53F0\uFF0C\u4F46\u662F\u5DE5\u7A0B\u505C\u64FA\uFF0C\u8CFD\u9053\u4F9D\u7136\u6578\u5E74\u7121\u6CD5\u4F7F\u7528\uFF0C\u4E00\u76F4\u5230\u7D05\u725B\u7684\u8FEA\u7279\u5229\u5E0C\u00B7\u99AC\u7279\u5E0C\u8328\u8CB7\u4E0B\u4E26\u4E14\u91CD\u5EFA\uFF0C\u91CD\u65B0\u547D\u540D\u70BA\u7D05\u725B\u8CFD\u9053\u4E26\u65BC2011\u5E745\u670815\u65E5\u91CD\u555F\u4F7F\u7528\uFF0C\u4E4B\u5F8C\u4FBF\u8209\u8FA6\u4E00\u5B63\u76842011\u5E74\u5FB7\u570B\u623F\u8ECA\u8CFD\u82072011\u5E74\u4E8C\u7D1A\u65B9\u7A0B\u5F0F\u51A0\u8ECD\u8CFD\uFF0C\u800C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u5C07\u6703\u65BC2014\u5E74\u8CFD\u5B63\u91CD\u8FD4\u3002\u820A\u7684\u5967\u5730\u5229\u8CFD\u9053\u5E38\u88AB\u6307\u5176\u4F4D\u65BC\u8F03\u5EE3\u70BA\u4EBA\u77E5\u7684\u7B56\u723E\u7279\u97CB\u683C\uFF0C\u4F46\u662F\u9019\u689D\u8CFD\u9053\u91CD\u672A\u7D93\u904E\u79FB\u5740\uFF0C\u5118\u662F\u4FEE\u6539\u904E\u800C\u5DF2\u3002\u6B64\u5916\uFF0C\u7B56\u723E\u7279\u97CB\u683C\u6A5F\u5834\u8CFD\u9053\u53EA\u8209\u8FA6\u904E\u552F\u4E00\u76841964\u5E74\u5967\u5730\u5229\u5927\u734E\u8CFD\uFF0C\u56E0\u6B64\u5F97\u77E5\u4E86\u9019\u500B\u540D\u5B57\u3002"@zh ,
+		"Le Circuit de Spielberg, auparavant appel\u00E9 \u00D6sterreichring puis A1-Ring et d\u00E9sormais Red Bull Ring, est un circuit automobile situ\u00E9 sur la commune de Spielberg en Autriche. Il est souvent incorrectement indiqu\u00E9 que le circuit est situ\u00E9 \u00E0 Zeltweg car cette ville est plus connue que Spielberg, mais \u00E9galement parce qu'avant de se tenir sur l'\u00D6sterreichring, le Grand Prix automobile d'Autriche avait lieu sur le circuit de Zeltweg. Circuit tr\u00E8s technique, il est connu pour avoir accueilli le Grand Prix automobile d'Autriche pendant dix-huit ans, de 1970 \u00E0 1987. Il accueille depuis 1969 les 1 000 kilom\u00E8tres de Zeltweg qui accueillent depuis 2013 le championnat europ\u00E9en d'endurance. R\u00E9nov\u00E9 et raccourci par l'architecte Hermann Tilke, il accueille le Grand Prix automobile d'Autriche entre 1997 et 2003 ainsi que le Grand Prix moto d'Autriche en 1996 et 1997. Peu utilis\u00E9 au fil des ann\u00E9es, le circuit est ferm\u00E9 et partiellement d\u00E9moli. Il est achet\u00E9 en 2005 par Dietrich Mateschitz, le propri\u00E9taire de Red Bull, reconstruit presque \u00E0 l'identique et rouvre en 2011. La Formule 1 y revient en 2014, le championnat de MotoGP en 2016."@fr ,
+		"Der Red Bull Ring ist eine Rennstrecke in der Stadtgemeinde Spielberg in der Steiermark, \u00D6sterreich. Sie wurde 1969 als \u00D6sterreichring er\u00F6ffnet und hie\u00DF von 1997 bis 2003 A1-Ring. Nach l\u00E4ngeren Umbauten wurde sie am 15. Mai 2011 wieder er\u00F6ffnet. Oft wird das nur zwei Kilometer entfernte Zeltweg als Lage des Kurses angegeben; obwohl sich die Rennstrecke auf dem Gemeindegebiet Spielberg befindet. Auf dem Fliegerhorst Zeltweg-Hinterstoisser fand 1963 der erste Gro\u00DFe Preis von \u00D6sterreich statt, der jedoch keinen Weltmeisterschaftsstatus hatte. Nur 1964 z\u00E4hlte das Rennen in Zeltweg zur Automobil-Weltmeisterschaft."@de ,
+		"\u0631\u064A\u062F \u0628\u0648\u0644 \u0631\u064A\u0646\u063A \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0644\u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0645\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0622\u0644\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0648\u0644\u0627\u064A\u0629 \u0634\u062A\u0627\u064A\u0631\u0645\u0627\u0631\u0643 \u0641\u064A \u0627\u0644\u0646\u0645\u0633\u0627. \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0646\u0645\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0645\u0646 \u0645\u0648\u0633\u0645 \u0633\u0646\u0629 1970 \u0625\u0644\u0649 \u0645\u0648\u0633\u0645 \u0633\u0646\u0629 1987. \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u0623\u064A\u0636\u0627 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629. \u062A\u062A\u0633\u0639 \u064440 \u0623\u0644\u0641 \u0645\u062A\u0641\u0631\u062C. \u064A\u0628\u0644\u063A \u0637\u0648\u0631\u0644\u0647\u0627 4.326 \u0643\u0644\u0645."@ar ,
+		"Red Bull Ring foi um circuito de corrida austr\u00EDaco que sediou o Grande Pr\u00EAmio da \u00C1ustria de F\u00F3rmula 1 por 18 anos consecutivos, desde 1970 at\u00E9 1987. Inaugurado em 1969 como \u00D6sterreichring, foi reduzido, reconstru\u00EDdo e renomeado em 1997 para A1-Ring sediando novamente o Grande Pr\u00EAmio da \u00C1ustria de 1997 at\u00E9 2003. Hoje a pista \u00E9 de propriedade da Red Bull, que reconstruiu todas as instala\u00E7\u00F5es do aut\u00F3dromo e renomeou-o para Red Bull Ring. O tra\u00E7ado criado em 1997 foi mantido. A pista \u00E9 localizada em Spielberg, no estado de Est\u00EDria. O velho \u00D6sterreichring normalmente era referido como localizado na cidade de Zeltweg, que \u00E9 maior e mais conhecida. Contudo, o circuito nunca foi relocalizado, somente modificado. A partir de 2014, o circuito passar\u00E1 a se chamar Target Ring."@pt ,
+		"\u00AB\u0420\u0435\u0434 \u0411\u0443\u043B\u043B \u0420\u0438\u043D\u0433\u00BB (\u043D\u0435\u043C. Red Bull Ring) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0431\u043B\u0438\u0437 \u0434\u0435\u0440\u0435\u0432\u043D\u0438 \u0428\u043F\u0438\u043B\u044C\u0431\u0435\u0440\u0433 (\u0428\u0442\u0438\u0440\u0438\u044F, \u0410\u0432\u0441\u0442\u0440\u0438\u044F). \u0412\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0435\u043C \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0430 \u0432 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Red Bull. \u041D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0431\u044B\u043B\u0438 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u044B 28 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0438\u0438 \u0441 1970 \u043F\u043E 1987, \u0441 1997 \u043F\u043E 2003, \u0441 2014 \u043F\u043E 2016 \u0433\u043E\u0434\u0430\u0445. \u0412 \u043C\u043E\u043C\u0435\u043D\u0442 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0438\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0430 \u041E\u0441\u0442\u0435\u0440\u0440\u0430\u0439\u0445\u0440\u0438\u043D\u0433 (\u043D\u0435\u043C. \u00D6sterreichring), \u043F\u043E\u0437\u0434\u043D\u0435\u0435 \u043E\u043D\u0430 \u0431\u044B\u043B\u0430 \u043F\u0435\u0440\u0435\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u0438 \u043F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u0440\u0430\u0431\u043E\u0442 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 \u04101-\u0420\u0438\u043D\u0433. \u0412 2004 \u0433\u043E\u0434\u0443 \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u0441\u043D\u0435\u0441\u0435\u043D\u0430 \u0438 \u0432\u043D\u043E\u0432\u044C \u0432\u044B\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439 Red Bull \u0432 2008 \u0433\u043E\u0434\u0443. \u0412 2011 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0420\u0435\u0434 \u0411\u0443\u043B\u043B \u0420\u0438\u043D\u0433\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u043F\u0435\u0440\u0432\u044B\u0435 \u0437\u0430 8 \u043B\u0435\u0442 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0435 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F."@ru ,
+		"El Red Bull Ring es un aut\u00F3dromo ubicado en la villa de Spielberg, cerca al poblado de Zeltweg, Estiria, Austria, que ha recibido varios de los principales campeonatos mundiales y europeos de deporte motor. El nombre original del circuito fue \u00D6sterreichring, que traducido ser\u00EDa \"circuito de Austria\". Despu\u00E9s de su remodelaci\u00F3n en 1996, fue renombrado a A1-Ring debido al patrocinio de la telef\u00F3nica A1 Mobilkom. En 2010, el fabricante de bebidas Red Bull adquiri\u00F3 el circuito y le puso el nombre actual."@es ,
+		"\u30EC\u30C3\u30C9\u30D6\u30EB\u30FB\u30EA\u30F3\u30AF\uFF08Red Bull Ring\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u306E\u30AF\u30CB\u30C3\u30C6\u30EB\u30D5\u30A7\u30EB\u30C8\u304B\u3089\u897F\u30786km\u306E\u30B7\u30E5\u30D4\u30FC\u30EB\u30D9\u30EB\u30AF\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u304B\u3064\u3066\u306F\u30A8\u30B9\u30C6\u30EB\u30E9\u30A4\u30D2\u30EA\u30F3\u30AF\uFF08\u00D6sterreichring\u3001\u30AA\u30B9\u30C6\u30EB\u30E9\u30A4\u30D2\u30EA\u30F3\u30AF\u3068\u3082\uFF09\u3068\u547C\u3070\u308C\u3066\u3044\u305F\u304C\u30011997\u5E74\u306E\u6539\u4FEE\u306B\u3088\u308AA1\u30EA\u30F3\u30AF\uFF08A1-Ring\uFF09\u3078\u6539\u79F0\u30012010\u5E74\u306B\u30EC\u30C3\u30C9\u30D6\u30EB\u30FB\u30EA\u30F3\u30AF\u3068\u6539\u79F0\u3055\u308C\u73FE\u5728\u306B\u81F3\u308B\u3002"@ja ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il Red Bull Ring, precedentemente noto come \u00D6sterreichring ed  A1-Ring, \u00E8 uno storico autodromo situato in Austria, nelle vicinanze di Spielberg bei Knittelfeld (in Stiria). L'impianto, per lunghi anni inattivo dopo aver subito negli anni novanta un costoso rinnovamento che ne aveva modificato il tracciato e il nome, \u00E8 stato riammodernato e ha ripreso l'attivit\u00E0 dalla stagione motoristica 2011: riaperto il 15 maggio 2011, conserva il disegno del tracciato introdotto nel 1996, quando l'autodromo fu ridenominato A1-Ring. L'impianto ha ospitato ventisei edizioni del Gran Premio d'Austria di Formula 1, valido per il campionato mondiale, dal 1970 al 1987 sul tracciato originario e dal 1997 al 2003 sul tracciato completamente rinnovato, che dal 2014 ha di nuovo ospitato la Massima Categoria. Sulla pista originaria furono disputate anche le gare del Campionato Mondiale Superbike dal 1988 (anno di fondazione della serie) al 1994, prima della ristrutturazione del 1995 che port\u00F2 all'attuale configurazione, sulla quale il motomondiale ha poi corso solo nel 1996 e 1997, anno in cui le derivate di serie vi hanno fatto ritorno sino al 1999. L'autodromo \u00E8 conosciuto anche come circuito di Zeltweg, poich\u00E9 sul vicino aeroporto militare di Zeltweg si era svolto negli anni sessanta il primo Gran Premio d'Austria di Formula 1, mentre a partire dalla riapertura nel 2011 \u00E8 spesso utilizzato il nome circuito di Spielberg, anche a causa degli investimenti fatti dalla comunit\u00E0 locale."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_Red_Bull_Ring.svg?width=300> ;
+	dbo:wikiPageRevisionID	737664741 ;
+	dbo:wikiPageID	1219699 ;
+	dbp:layout	"Red Bull Ring"^^xsd:string ,
+		"A1-Ring"^^xsd:string ,
+		"Red Bull Ring MotoGP"^^xsd:string ,
+		"\u00D6sterreichring"^^xsd:string ;
+	dbp:lengthMi	2.6829999999999998295 ,
+		3.6730000000000000426 ,
+		3.6920000000000001705 ,
+		2.688000000000000167 ;
+	dbp:capacity	40000 ;
+	dbp:source	"Gerhard Berger  on the turbocharged Benetton-BMW he drove in F1 during 1986."^^xsd:string .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Red_Bull_Ring	ns30:hypernym	dbr:Circuit ;
+	dbp:width	300 ;
+	dbp:recordTeam	dbr:Ferrari_F2003-GA ,
+		dbr:Williams_Grand_Prix_Engineering ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Ferrari_312T ,
+		dbr:Ducati_Desmosedici ,
+		dbr:Ducati_Corse ,
+		dbr:Williams_FW11 ;
+	dbp:events	dbr:Austrian_Grand_Prix ,
+		<http://dbpedia.org/resource/F\u00E9d\u00E9ration_Internationale_de_l\u0027Automobile> ,
+		dbr:Formula_One ,
+		"DTM"^^xsd:string ,
+		dbr:ELMS ,
+		<http://dbpedia.org/resource/2014_4_Hours_of_Red_Bull_Ring> ,
+		dbr:Grand_Prix_motorcycle_racing .
+dbr:Austrian_Grand_Prix	dbp:circuit	dbr:Red_Bull_Ring .
+dbr:A1-Ring	dbo:wikiPageRedirects	dbr:Red_Bull_Ring .
+wikipedia-en:Red_Bull_Ring	foaf:primaryTopic	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/\u00D6sterreich-Ring>	dbo:wikiPageRedirects	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/2014_Red_Bull_Ring_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/\u00D6sterreichring>	dbo:wikiPageRedirects	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/2014_Austrian_Grand_Prix>	dbp:location	dbr:Red_Bull_Ring .
+dbr:Osterreichring	dbo:wikiPageRedirects	dbr:Red_Bull_Ring .
+<http://dbpedia.org/resource/2016_Austrian_motorcycle_Grand_Prix>	dbp:location	dbr:Red_Bull_Ring .
+dbr:A1_Ring	dbo:wikiPageRedirects	dbr:Red_Bull_Ring .

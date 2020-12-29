@@ -1,0 +1,299 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1989_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1988_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Circuit_de_Spa-Francorchamps	rdf:type	yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:Area108497294 ,
+		yago:Device103183080 ,
+		yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActorGeo .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Circuit_de_Spa-Francorchamps	rdf:type	dbo:Building ,
+		yago:PhysicalEntity100001930 ,
+		yago:ElectricalDevice103269401 ,
+		<http://dbpedia.org/class/yago/WikicatPre\u2013WorldChampionshipGrandPrixCircuits> ,
+		yago:WikicatSuperbikeWorldChampionshipCircuits ,
+		yago:WikicatMotorsportVenuesInBelgium ,
+		yago:WikicatFormulaOneCircuits ,
+		yago:WikicatGrandPrixMotorcycleCircuits ,
+		yago:Artifact100021939 ,
+		yago:Instrumentality103575240 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Whole100003553 ,
+		yago:YagoGeoEntity ,
+		yago:Circuit103033362 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Circuit_de_Spa-Francorchamps	rdf:type	geo:SpatialThing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Circuit_de_Spa-Francorchamps	rdfs:label	"Circuit de Spa-Francorchamps"@pl ,
+		"Circuito de Spa-Francorchamps"@es ,
+		"Circuit de Spa-Francorchamps"@de ,
+		"\u062D\u0644\u0628\u0629 \u062F\u064A \u0633\u0628\u0627 \u0641\u0631\u0627\u0646\u0643\u0648\u0631\u0634\u0648\u0645\u0628"@ar ,
+		"\u65AF\u5E15-\u5F17\u6717\u79D1\u5C14\u5C1A\u8D5B\u9053"@zh ,
+		"Circuit de Spa-Francorchamps"@fr ,
+		"Spa-Francorchamps"@pt ,
+		"Circuito di Spa-Francorchamps"@it ,
+		"Circuit Spa-Francorchamps"@nl ,
+		"Circuit de Spa-Francorchamps"@en ,
+		"\u0421\u043F\u0430-\u0424\u0440\u0430\u043D\u043A\u043E\u0440\u0448\u0430\u043C"@ru ,
+		"\u30B9\u30D1\u30FB\u30D5\u30E9\u30F3\u30B3\u30EB\u30B7\u30E3\u30F3"@ja ;
+	rdfs:comment	"O Circuito de Spa-Francorchamps \u00E9 um aut\u00F3dromo localizado nos arredores das cidades de Spa, Stavelot e Malmedy, na prov\u00EDncia de Li\u00E8ge. \u00C9 conhecido pela sua hist\u00F3ria e import\u00E2ncia, sendo uma das grandes catedrais do automobilismo. Recebe a F\u00F3rmula 1 e as 24 Horas de Spa anualmente."@pt ,
+		"\u0422\u0440\u0430\u0441\u0441\u0430 \u0421\u043F\u0430-\u0424\u0440\u0430\u043D\u043A\u043E\u0440\u0448\u0430\u043C \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0432 \u0411\u0435\u043B\u044C\u0433\u0438\u0438. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0445 \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u0445 \u0442\u0440\u0430\u0441\u0441, \u043C\u043D\u043E\u0433\u0438\u0435 \u043F\u0438\u043B\u043E\u0442\u044B \u0438 \u0431\u043E\u043B\u0435\u043B\u044C\u0449\u0438\u043A\u0438 \u043D\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u0421\u043F\u0430-\u0424\u0440\u0430\u043D\u043A\u043E\u0440\u0448\u0430\u043C \u0441\u0430\u043C\u043E\u0439 \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u043E\u0439 \u0432 \u043C\u0438\u0440\u0435. \u041E\u0441\u043E\u0431\u043E\u0439 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0441\u0442\u044C\u044E \u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441 \u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043E\u0432 Eau Rouge. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0442\u0441\u044F \u0433\u043E\u043D\u043A\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438, DTM, GP2 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u0445 \u0441\u0435\u0440\u0438\u0439 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0430."@ru ,
+		"\u65AF\u5E15-\u5F17\u6717\u79D1\u5C14\u5C1A\u8D5B\u9053\uFF08\u6CD5\u8BED\uFF1ACircuit de Spa-Francorchamps\uFF09\u662F\u4F4D\u4E8E\u6BD4\u5229\u65F6\u5217\u65E5\u7701\u65AF\u5854\u6C83\u6D1B\u5E02\u90CA\u7684\u8D5B\u8F66\u573A\u3002"@zh ,
+		"El Circuito de Spa-Francorchamps (en franc\u00E9s Circuit de Spa-Francorchamps) es un circuito de carreras situado cerca de los poblados de Spa, Francorchamps, Malmedy y Stavelot en la provincia de Lieja, B\u00E9lgica. Es el circuito m\u00E1s importante del pa\u00EDs, y tanto pilotos como seguidores de las diversas disciplinas de automovilismo de velocidad suelen mostrar su preferencia por \u00E9l."@es ,
+		"Spa-Francorchamps is een racecircuit in Francorchamps in de provincie Luik in Belgi\u00EB."@nl ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Spa-Francorchamps \u00E8 il pi\u00F9 antico e famoso autodromo del Belgio. Situato nelle vicinanze di Francorchamps, una cittadina della municipalit\u00E0 di Stavelot ai confini con la municipalit\u00E0 di Spa, nelle Ardenne. Il circuito \u00E8 sede del Gran Premio del Belgio di Formula 1, la cui prima edizione si svolse nel 1924, e inoltre della 24 Ore di Spa e di altre gare del calendario internazionale."@it ,
+		"Circuit de Spa-Francorchamps \u2013 tor wy\u015Bcigowy znajduj\u0105cy si\u0119 ko\u0142o miejscowo\u015Bci Spa w Belgii, w G\u00F3rach Arde\u0144skich."@pl ,
+		"The Circuit de Spa-Francorchamps motor-racing circuit is the venue of the Formula One Belgian Grand Prix, and of the Spa 24 Hours and 1000 km Spa endurance races. It is also home to the all Volkswagen club event, 25 Hours of Spa, run by the Uniroyal Fun Cup. It is one of the most challenging race tracks in the world, mainly due to its fast, hilly and twisty nature. Spa is a favourite circuit of many racing drivers and fans."@en ,
+		"\u062D\u0644\u0628\u0629 \u062F\u064A \u0633\u0628\u0627 \u0641\u0631\u0627\u0646\u0643\u0648\u0631\u0634\u0648\u0645\u0628 \u0647\u064A \u062D\u0644\u0628\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0641\u0631\u0627\u0646\u0643\u0648\u0631\u0634\u0648\u0645\u0628 \u0636\u0645\u0646 \u0628\u0644\u062F\u064A\u0629 \u0633\u0628\u0627 \u060C \u0628\u0644\u062C\u064A\u0643\u0627\u060C \u0648\u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0644\u062C\u064A\u0643\u064A \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0639\u062F\u062F \u0622\u062E\u0631 \u0645\u0646 \u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0648\u0627\u0644\u0631\u064A\u0627\u0636\u0627\u062A \u0622\u0644\u064A\u0629 \u0643\u0633\u0628\u0627\u0642 \u0633\u0628\u0627 \u0644\u0644\u062A\u062D\u0645\u0644 \u0639\u0644\u0649 \u0645\u062F\u0627\u0631 24 \u0633\u0627\u0639\u0629. \u0643\u0645\u0627 \u0623\u0646\u0647\u0627 \u0645\u0643\u0627\u0646 \u0644\u062C\u0645\u064A\u0639 \u0623\u062D\u062F\u0627\u062B \u0646\u0627\u062F\u064A \u0641\u0648\u0644\u0643\u0633 \u0648\u0627\u062C\u0646 25 \u0633\u0627\u0639\u0629 \u0645\u0646 \u0633\u0628\u0627 \u0648\u0627\u0644\u0630\u064A \u062A\u062F\u064A\u0631\u0647 \u0643\u0623\u0633 \u064A\u0648\u0646\u064A\u0631\u0648\u064A\u0627\u0644 \u0641\u0646. \u0648\u062A\u0639\u062A\u0628\u0631 \u0627\u0644\u062D\u0644\u0628\u0629 \u0648\u0627\u062D\u062F\u0629 \u0645\u0646 \u062D\u0644\u0628\u0627\u062A \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0623\u0643\u062B\u0631 \u062A\u062D\u062F\u064A\u0627 \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0648\u064A\u0631\u062C\u0639 \u0630\u0644\u0643 \u0623\u0633\u0627\u0633\u0627 \u0644\u0637\u0628\u064A\u0639\u0629 \u0627\u0644\u062D\u0644\u0628\u0629 \u0627\u0644\u0633\u0631\u064A\u0639\u0629 \u0648\u0627\u0644\u0645\u0644\u062A\u0648\u064A\u0629 \u0639\u0628\u0631 \u0627\u0644\u062A\u0644\u0627\u0644 \u0627\u0644\u0637\u0628\u064A\u0639\u064A\u0629."@ar ,
+		"Der Circuit de Spa-Francorchamps ist eine Motorsport-Rennstrecke in den Ardennen in Belgien. Sie liegt im Dreieck zwischen den St\u00E4dten Stavelot (zu deren Gemeindegebiet der Kurs geh\u00F6rt), Spa und Malmedy \u2013 knapp 20 km entfernt von der deutsch-belgischen Grenze bei Monschau. Der Start-Ziel-Bereich der Strecke liegt nahe der Ortschaft Francorchamps, worin auch der Name des Kurses begr\u00FCndet liegt."@de ,
+		"\u30B7\u30EB\u30AD\u30E5\u30A4\u30FB\u30C9\u30FB\u30B9\u30D1=\u30D5\u30E9\u30F3\u30B3\u30EB\u30B7\u30E3\u30F3\uFF08Circuit de Spa-Francorchamps\uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u30B9\u30D1\u3068\u30D5\u30E9\u30F3\u30B3\u30EB\u30B7\u30E3\u30F3\u306B\u307E\u305F\u304C\u3063\u3066\u3044\u308B\u3053\u3068\u304B\u3089\u3001\u3053\u306E\u540D\u79F0\u304C\u540D\u4ED8\u3051\u3089\u308C\u3066\u3044\u308B\u3002\u73FE\u884C\u306EF1\u4F7F\u7528\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3001\u4ED6\u306E\u30B3\u30FC\u30B9\u304C\u9577\u304F\u3066\u3082\u5168\u95775km\u53F0\u3067\u3042\u308B\u306E\u306B\u5BFE\u3057\u3066\u3001\u3053\u306E\u30B3\u30FC\u30B9\u306F7.004km\u3068\u56F3\u629C\u3051\u3066\u9577\u3044\u3002"@ja ,
+		"Le circuit de Spa-Francorchamps est un circuit automobile situ\u00E9 \u00E0 proximit\u00E9 de Francorchamps dans la province de Li\u00E8ge, en Belgique. Il accueille chaque ann\u00E9e le Grand Prix de Belgique de Formule 1 et la course d'endurance des 24 Heures de Spa, ainsi que d'autres courses nationales et internationales. C'est un des circuits pr\u00E9f\u00E9r\u00E9s des pilotes en raison de la vari\u00E9t\u00E9 de son trac\u00E9 dans le paysage montueux de l'Ardenne belge qui permet aux pilotes de mettre leur talent en valeur. On le surnomme parfois le \u00AB toboggan des Ardennes \u00BB."@fr ;
+	dbp:capacity	70000 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	<http://sws.geonames.org/7535477/> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-de:Circuit_de_Spa-Francorchamps .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	wikidata:Q172851 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-es:Circuito_de_Spa-Francorchamps .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-pt:Spa-Francorchamps .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-cs:Circuit_de_Spa-Francorchamps .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-id:Sirkuit_Spa-Francorchamps .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-nl:Circuit_Spa-Francorchamps ,
+		<http://ko.dbpedia.org/resource/\uC2A4\uD30C\uD504\uB791\uCF54\uB974\uC0F9_\uC11C\uD0B7> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	yago-res:Circuit_de_Spa-Francorchamps .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-fr:Circuit_de_Spa-Francorchamps ,
+		<http://ja.dbpedia.org/resource/\u30B9\u30D1\u30FB\u30D5\u30E9\u30F3\u30B3\u30EB\u30B7\u30E3\u30F3> ,
+		<http://rdf.freebase.com/ns/m.03sj5s> ,
+		<http://d-nb.info/gnd/7528173-9> ,
+		yago-res:Spa-Francorchamps .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-wikidata:Q172851 ,
+		dbr:Circuit_de_Spa-Francorchamps .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-pl:Circuit_de_Spa-Francorchamps .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Circuit_de_Spa-Francorchamps	owl:sameAs	dbpedia-it:Circuito_di_Spa-Francorchamps .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Circuit_de_Spa-Francorchamps	dct:subject	dbc:Motorsport_venues_in_Belgium ,
+		dbc:Superbike_World_Championship_circuits ,
+		dbc:Grand_Prix_motorcycle_circuits ,
+		dbc:Formula_One_circuits ,
+		dbc:Articles_containing_video_clips ,
+		dbc:World_Touring_Car_Championship_circuits ,
+		dbc:Belgian_Grand_Prix ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grand_Prix_circuits> ,
+		dbc:Circuit_de_Spa-Francorchamps ,
+		dbc:Sport_in_Stavelot ,
+		<http://dbpedia.org/resource/Category:Sports_venues_in_Li\u00E8ge_(province)> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Circuit_de_Spa-Francorchamps	foaf:homepage	<http://www.formula1.com/races/in_detail/belgium_799/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Circuit_de_Spa-Francorchamps	geo:lat	"50.437221527099609375"^^xsd:float ;
+	geo:long	"5.9713888168334960938"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Spa-Francorchamps_of_Belgium.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Circuit_de_Spa-Francorchamps	foaf:isPrimaryTopicOf	wikipedia-en:Circuit_de_Spa-Francorchamps .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Circuit_de_Spa-Francorchamps	geo:geometry	"POINT(5.9713888168335 50.4372215271)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Circuit_de_Spa-Francorchamps	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps?oldid=743354188> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Circuit_de_Spa-Francorchamps	georss:point	"50.437222222222225 5.971388888888889" ;
+	dbp:time	"GMT +1"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/races/in_detail/belgium_799/> ,
+		<https://www.google.com/maps/d/viewer?mid=1VyAgDM1IKt6j2nLeHUbrw7mAiWQ> ,
+		<http://www.f1fanatic.co.uk/f1-information/going-to-a-race/spa-francorchamps-belgium/> .
+@prefix ns28:	<http://www.circuitsofthepast.nl/en-US/> .
+dbr:Circuit_de_Spa-Francorchamps	dbo:wikiPageExternalLink	ns28:francorchamps .
+@prefix ns29:	<http://www.circuitsofthepast.nl/en-US/francorchamps/> .
+dbr:Circuit_de_Spa-Francorchamps	dbo:wikiPageExternalLink	ns29:lapfrancorchamps ,
+		ns29:raidillon ,
+		<http://www.forumula1.net/2006/f1/f1-news/spa-upgrade-work-begins/> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> ,
+		<http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/circuit_guide/4250441.stm> ,
+		<http://news.bbc.co.uk/sport2/hi/motorsport/636741.stm> ,
+		<http://www.spa-francorchamps.be/> .
+@prefix ns30:	<http://www.f1db.com/f1/page/> .
+dbr:Circuit_de_Spa-Francorchamps	dbo:wikiPageExternalLink	ns30:Circuit_National_de_Francorchamps ,
+		<http://kinomap.com/#!km-agkxc9> ;
+	dbp:lengthKm	6.9759999999999999787 ,
+		7.001000000000000334 ,
+		14.900000000000000355 ,
+		6.9679999999999999716 ,
+		7.0039999999999995595 ,
+		14.099999999999999645 ;
+	dbo:abstract	"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Spa-Francorchamps \u00E8 il pi\u00F9 antico e famoso autodromo del Belgio. Situato nelle vicinanze di Francorchamps, una cittadina della municipalit\u00E0 di Stavelot ai confini con la municipalit\u00E0 di Spa, nelle Ardenne. Il circuito \u00E8 sede del Gran Premio del Belgio di Formula 1, la cui prima edizione si svolse nel 1924, e inoltre della 24 Ore di Spa e di altre gare del calendario internazionale."@it ,
+		"O Circuito de Spa-Francorchamps \u00E9 um aut\u00F3dromo localizado nos arredores das cidades de Spa, Stavelot e Malmedy, na prov\u00EDncia de Li\u00E8ge. \u00C9 conhecido pela sua hist\u00F3ria e import\u00E2ncia, sendo uma das grandes catedrais do automobilismo. Recebe a F\u00F3rmula 1 e as 24 Horas de Spa anualmente."@pt ,
+		"\u30B7\u30EB\u30AD\u30E5\u30A4\u30FB\u30C9\u30FB\u30B9\u30D1=\u30D5\u30E9\u30F3\u30B3\u30EB\u30B7\u30E3\u30F3\uFF08Circuit de Spa-Francorchamps\uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u30B9\u30D1\u3068\u30D5\u30E9\u30F3\u30B3\u30EB\u30B7\u30E3\u30F3\u306B\u307E\u305F\u304C\u3063\u3066\u3044\u308B\u3053\u3068\u304B\u3089\u3001\u3053\u306E\u540D\u79F0\u304C\u540D\u4ED8\u3051\u3089\u308C\u3066\u3044\u308B\u3002\u73FE\u884C\u306EF1\u4F7F\u7528\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3001\u4ED6\u306E\u30B3\u30FC\u30B9\u304C\u9577\u304F\u3066\u3082\u5168\u95775km\u53F0\u3067\u3042\u308B\u306E\u306B\u5BFE\u3057\u3066\u3001\u3053\u306E\u30B3\u30FC\u30B9\u306F7.004km\u3068\u56F3\u629C\u3051\u3066\u9577\u3044\u3002"@ja ,
+		"Circuit de Spa-Francorchamps \u2013 tor wy\u015Bcigowy znajduj\u0105cy si\u0119 ko\u0142o miejscowo\u015Bci Spa w Belgii, w G\u00F3rach Arde\u0144skich."@pl ,
+		"El Circuito de Spa-Francorchamps (en franc\u00E9s Circuit de Spa-Francorchamps) es un circuito de carreras situado cerca de los poblados de Spa, Francorchamps, Malmedy y Stavelot en la provincia de Lieja, B\u00E9lgica. Es el circuito m\u00E1s importante del pa\u00EDs, y tanto pilotos como seguidores de las diversas disciplinas de automovilismo de velocidad suelen mostrar su preferencia por \u00E9l."@es ,
+		"Le circuit de Spa-Francorchamps est un circuit automobile situ\u00E9 \u00E0 proximit\u00E9 de Francorchamps dans la province de Li\u00E8ge, en Belgique. Il accueille chaque ann\u00E9e le Grand Prix de Belgique de Formule 1 et la course d'endurance des 24 Heures de Spa, ainsi que d'autres courses nationales et internationales. C'est un des circuits pr\u00E9f\u00E9r\u00E9s des pilotes en raison de la vari\u00E9t\u00E9 de son trac\u00E9 dans le paysage montueux de l'Ardenne belge qui permet aux pilotes de mettre leur talent en valeur. On le surnomme parfois le \u00AB toboggan des Ardennes \u00BB. Bien que le nom de la ville de Spa, voisine, y soit associ\u00E9, aucune partie du circuit ne se situe sur son territoire. Le circuit se trouve aux abords du village de Francorchamps dans la commune de Stavelot avec des incursions sur le territoire de la commune de Malmedy, \u00E0 l'est de l'Ardenne."@fr ,
+		"The Circuit de Spa-Francorchamps motor-racing circuit is the venue of the Formula One Belgian Grand Prix, and of the Spa 24 Hours and 1000 km Spa endurance races. It is also home to the all Volkswagen club event, 25 Hours of Spa, run by the Uniroyal Fun Cup. It is one of the most challenging race tracks in the world, mainly due to its fast, hilly and twisty nature. Spa is a favourite circuit of many racing drivers and fans. Despite its name, the circuit is not in Spa but lies in the vicinity of the town of Francorchamps within the boundaries of the municipality of Stavelot, with a part in the boundaries of Malmedy."@en ,
+		"\u062D\u0644\u0628\u0629 \u062F\u064A \u0633\u0628\u0627 \u0641\u0631\u0627\u0646\u0643\u0648\u0631\u0634\u0648\u0645\u0628 \u0647\u064A \u062D\u0644\u0628\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0641\u0631\u0627\u0646\u0643\u0648\u0631\u0634\u0648\u0645\u0628 \u0636\u0645\u0646 \u0628\u0644\u062F\u064A\u0629 \u0633\u0628\u0627 \u060C \u0628\u0644\u062C\u064A\u0643\u0627\u060C \u0648\u062A\u0633\u062A\u0636\u064A\u0641 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0644\u062C\u064A\u0643\u064A \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0639\u062F\u062F \u0622\u062E\u0631 \u0645\u0646 \u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0648\u0627\u0644\u0631\u064A\u0627\u0636\u0627\u062A \u0622\u0644\u064A\u0629 \u0643\u0633\u0628\u0627\u0642 \u0633\u0628\u0627 \u0644\u0644\u062A\u062D\u0645\u0644 \u0639\u0644\u0649 \u0645\u062F\u0627\u0631 24 \u0633\u0627\u0639\u0629. \u0643\u0645\u0627 \u0623\u0646\u0647\u0627 \u0645\u0643\u0627\u0646 \u0644\u062C\u0645\u064A\u0639 \u0623\u062D\u062F\u0627\u062B \u0646\u0627\u062F\u064A \u0641\u0648\u0644\u0643\u0633 \u0648\u0627\u062C\u0646 25 \u0633\u0627\u0639\u0629 \u0645\u0646 \u0633\u0628\u0627 \u0648\u0627\u0644\u0630\u064A \u062A\u062F\u064A\u0631\u0647 \u0643\u0623\u0633 \u064A\u0648\u0646\u064A\u0631\u0648\u064A\u0627\u0644 \u0641\u0646. \u0648\u062A\u0639\u062A\u0628\u0631 \u0627\u0644\u062D\u0644\u0628\u0629 \u0648\u0627\u062D\u062F\u0629 \u0645\u0646 \u062D\u0644\u0628\u0627\u062A \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0623\u0643\u062B\u0631 \u062A\u062D\u062F\u064A\u0627 \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0648\u064A\u0631\u062C\u0639 \u0630\u0644\u0643 \u0623\u0633\u0627\u0633\u0627 \u0644\u0637\u0628\u064A\u0639\u0629 \u0627\u0644\u062D\u0644\u0628\u0629 \u0627\u0644\u0633\u0631\u064A\u0639\u0629 \u0648\u0627\u0644\u0645\u0644\u062A\u0648\u064A\u0629 \u0639\u0628\u0631 \u0627\u0644\u062A\u0644\u0627\u0644 \u0627\u0644\u0637\u0628\u064A\u0639\u064A\u0629. \u0635\u0645\u0645\u062A \u0641\u064A \u0639\u0627\u0645 1920 \u0645\u0646 \u0642\u0628\u0644 \u062F\u064A \u062C\u0648\u0644 \u0648\u0647\u0646\u0631\u064A \u0644\u0627\u0646\u062C\u0644\u0648\u0627 \u060C \u0648\u0627\u0633\u062A\u062E\u062F\u0645 \u0641\u064A \u0630\u0644\u0643 \u0627\u0644\u0648\u0642\u062A \u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u0639\u0627\u0645\u0629 \u0627\u0644\u062A\u064A \u062A\u0631\u0628\u0637 \u0628\u064A\u0646 \u0645\u062F\u064A\u0646\u062A\u064A \u0641\u0631\u0627\u0646\u0643\u0648\u0631\u0634\u0648\u0645\u0628 \u0648\u0645\u0627\u0644\u0645\u062F\u064A \u0648\u0633\u062A\u0627\u0641\u0644\u0648\u062A. \u0648\u0643\u0627\u0646 \u0645\u0646 \u0627\u0644\u0645\u0642\u0631\u0631 \u0623\u0646 \u064A\u0633\u062A\u0636\u064A\u0641 \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0627\u0641\u062A\u062A\u0627\u062D\u064A \u0641\u064A \u0623\u063A\u0633\u0637\u0633 1921\u060C \u0648\u062C\u0631\u0649 \u0625\u0644\u063A\u0627\u0621 \u0630\u0644\u0643 \u0627\u0644\u062A\u0627\u0631\u064A\u062E \u0628\u0633\u0628\u0628 \u0623\u0646\u0647 \u0644\u0645 \u064A\u0643\u0646 \u0647\u0646\u0627\u0643 \u0633\u0648\u0649 \u0648\u0627\u062D\u062F \u0645\u0634\u0627\u0631\u0643. \u0648\u0639\u0642\u062F \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0627\u0644\u062D\u0644\u0628\u0629 \u0641\u064A \u0639\u0627\u0645 1922\u060C \u0648\u0628\u0639\u062F \u0630\u0644\u0643 \u0628\u0639\u0627\u0645\u064A\u0646 \u0634\u0647\u062F \u0627\u0633\u062A\u0636\u0627\u0641\u0629 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0644\u062A\u062D\u0645\u0644 24 \u0633\u0627\u0639\u0629 \u0645\u0646 \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0634\u0647\u064A\u0631 \u0627\u0644\u0622\u0646 \u0641\u0631\u0627\u0646\u0643\u0648\u0631\u0634\u0627\u0646. \u0648\u0627\u0633\u062A\u0636\u0627\u0641\u062A \u0627\u0644\u062D\u0644\u0628\u0629 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0641\u064A \u0639\u0627\u0645  1925."@ar ,
+		"Der Circuit de Spa-Francorchamps ist eine Motorsport-Rennstrecke in den Ardennen in Belgien. Sie liegt im Dreieck zwischen den St\u00E4dten Stavelot (zu deren Gemeindegebiet der Kurs geh\u00F6rt), Spa und Malmedy \u2013 knapp 20 km entfernt von der deutsch-belgischen Grenze bei Monschau. Der Start-Ziel-Bereich der Strecke liegt nahe der Ortschaft Francorchamps, worin auch der Name des Kurses begr\u00FCndet liegt. Wegen der H\u00F6hendifferenz im Streckenverlauf von insgesamt etwa 100 Metern und der zahlreichen Kurven, in denen hohe Fliehkr\u00E4fte auftreten, tr\u00E4gt die Strecke auch den Beinamen \u201EArdennen-Achterbahn\u201C. Seit 1925 wird dort mit einigen Unterbrechungen der Gro\u00DFe Preis von Belgien ausgetragen; seit 1950 als Formel-1-Weltmeisterschaftslauf."@de ,
+		"\u65AF\u5E15-\u5F17\u6717\u79D1\u5C14\u5C1A\u8D5B\u9053\uFF08\u6CD5\u8BED\uFF1ACircuit de Spa-Francorchamps\uFF09\u662F\u4F4D\u4E8E\u6BD4\u5229\u65F6\u5217\u65E5\u7701\u65AF\u5854\u6C83\u6D1B\u5E02\u90CA\u7684\u8D5B\u8F66\u573A\u3002"@zh ,
+		"Spa-Francorchamps is een racecircuit in Francorchamps in de provincie Luik in Belgi\u00EB."@nl ,
+		"\u0422\u0440\u0430\u0441\u0441\u0430 \u0421\u043F\u0430-\u0424\u0440\u0430\u043D\u043A\u043E\u0440\u0448\u0430\u043C \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0432 \u0411\u0435\u043B\u044C\u0433\u0438\u0438. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0445 \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u0445 \u0442\u0440\u0430\u0441\u0441, \u043C\u043D\u043E\u0433\u0438\u0435 \u043F\u0438\u043B\u043E\u0442\u044B \u0438 \u0431\u043E\u043B\u0435\u043B\u044C\u0449\u0438\u043A\u0438 \u043D\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u0421\u043F\u0430-\u0424\u0440\u0430\u043D\u043A\u043E\u0440\u0448\u0430\u043C \u0441\u0430\u043C\u043E\u0439 \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u043E\u0439 \u0432 \u043C\u0438\u0440\u0435. \u041E\u0441\u043E\u0431\u043E\u0439 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0441\u0442\u044C\u044E \u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441 \u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043E\u0432 Eau Rouge. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0442\u0441\u044F \u0433\u043E\u043D\u043A\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438, DTM, GP2 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u0445 \u0441\u0435\u0440\u0438\u0439 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0430."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Spa-Francorchamps_of_Belgium.svg?width=300> ;
+	dbo:wikiPageRevisionID	743354188 ;
+	dbo:wikiPageID	948477 ;
+	dbp:lengthMi	4.3349999999999999645 ,
+		4.3520000000000003126 ,
+		4.3499999999999996447 ,
+		8.7609999999999992326 ,
+		4.3300000000000000711 ,
+		9.3100000000000004974 ;
+	dbp:location	"Stavelot, near to Francorchamps, Belgium"^^xsd:string ;
+	dbp:layout	"Modern Circuit With Modified Bus Stop Chicane"^^xsd:string ,
+		"Original pre-War Circuit"^^xsd:string ,
+		"Modern Circuit With Chicane at Eau Rouge"^^xsd:string ,
+		"Modern Circuit With Original Bus Stop Chicane"^^xsd:string ,
+		"Modern Circuit With New Pit Lane And Bus Stop Chicane"^^xsd:string ,
+		"Old Circuit"^^xsd:string ;
+	dbp:recordDriver	"Hermann Lang"^^xsd:string ,
+		"Michael Schumacher"^^xsd:string ,
+		"Henri Pescarolo"^^xsd:string ,
+		"Sebastian Vettel"^^xsd:string ,
+		"Damon Hill"^^xsd:string ,
+		"Kimi R\u00E4ikk\u00F6nen"^^xsd:string ;
+	dbp:recordTeam	dbr:Daimler_Benz ,
+		dbr:Equipe_Matra_Sports ,
+		dbr:Red_Bull_Racing ,
+		dbr:McLaren ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Williams_F1 ;
+	dbp:recordTime	5 ,
+		3 ,
+		1 ;
+	dbp:recordYear	1994 ,
+		2002 ,
+		2004 ,
+		2009 ,
+		1973 ,
+		1937 ;
+	dbp:turns	19 ,
+		20 ,
+		21 ,
+		25 ;
+	dbp:name	"Formula One Layout"^^xsd:string ,
+		"Circuit de Spa-Francorchamps"^^xsd:string .
+@prefix ns31:	<http://purl.org/linguistics/gold/> .
+dbr:Circuit_de_Spa-Francorchamps	ns31:hypernym	dbr:Venue ;
+	dbp:events	"FIA Formula One"^^xsd:string ,
+		dbr:Belgian_Grand_Prix ,
+		6 ,
+		dbr:Spa_24_Hours ,
+		"World Endurance Championship"^^xsd:string ,
+		"Blancpain Endurance Series"^^xsd:string ,
+		"Spa-Classic"^^xsd:string .
+<http://dbpedia.org/resource/1949_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1950_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1952_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1955_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1956_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1960_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1990_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1955_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1956_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1961_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1962_Belgian_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1963_Belgian_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1964_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1998_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2001_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2002_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Chris_Bristow	dbo:deathPlace	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Stefan_Bellof	dbo:deathPlace	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/Roberto_Colombo_(motorcyclist)>	dbo:deathPlace	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2013_Belgian_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2014_Belgian_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2015_Belgian_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2008_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2005_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2007_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2016_Belgian_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2000_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2004_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1950_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1951_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1952_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1953_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1954_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1958_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1960_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1965_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1966_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1967_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1968_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1970_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1983_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1985_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1986_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1987_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1988_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1989_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1990_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1992_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1993_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1994_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1995_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1996_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1997_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2010_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2011_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2012_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2009_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2009_Spa-Francorchamps_GP2_Series_round>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2016_TCR_International_Series_Spa-Francorchamps_round>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2016_Spa-Francorchamps_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2010_Spa-Francorchamps_GP2_Series_round>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1987_Spa_24_Hour>	dbp:courseName	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2011_Spa-Francorchamps_GP2_Series_round>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2014_Spa-Francorchamps_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2012_Superstars_Series_Spa-Francorchamps_round>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2009_Spa_Formula_Two_round>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2005_FIA_WTCC_Race_of_Belgium>	dbp:courseName	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2005_Spa-Francorchamps_GP2_Series_round>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2012_Spa-Francorchamps_GP2_and_GP3_Series_rounds>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/6_Hours_of_Spa-Francorchamps>	dbp:venue	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Belgian_motorcycle_Grand_Prix	dbp:venue	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Belgian_Grand_Prix	dbp:circuit	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Eau_Rouge_corner	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Circuit_de_spa-francorchamps	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Raidillon	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Eau_Rouge_chicane	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Blanchimont	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Circuit_spa_francorchamps	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Spa-Francorchamps	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Masta_Kink	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Spa_Francorchamps	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Spa_circuit	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Spa_racing_circuit	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Spa_Francochamps	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Spa_race_track	dbo:wikiPageRedirects	dbr:Circuit_de_Spa-Francorchamps .
+dbr:FIA_WTCC_Race_of_Belgium	dbp:circuit	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Belgium>	dbp:courseName	dbr:Circuit_de_Spa-Francorchamps .
+wikipedia-en:Circuit_de_Spa-Francorchamps	foaf:primaryTopic	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Eagle_Mk1	dbp:debut	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Spa_24_Hours	dbp:venue	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1977_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1976_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1978_Belgian_motorcycle_Grand_Prix>	dbp:location	dbr:Circuit_de_Spa-Francorchamps .
+dbr:Alan_Stacey	dbo:deathPlace	dbr:Circuit_de_Spa-Francorchamps .
+<http://dbpedia.org/resource/1991_Belgian_Grand_Prix>	dbo:location	dbr:Circuit_de_Spa-Francorchamps .
+dbr:SPA	dbo:wikiPageDisambiguates	dbr:Circuit_de_Spa-Francorchamps .

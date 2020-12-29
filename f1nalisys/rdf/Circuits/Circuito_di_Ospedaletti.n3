@@ -1,0 +1,91 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1950_San_Remo_Grand_Prix>	dbp:course	dbr:Circuito_di_Ospedaletti .
+<http://dbpedia.org/resource/1951_San_Remo_Grand_Prix>	dbp:course	dbr:Circuito_di_Ospedaletti .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Circuito_di_Ospedaletti	rdf:type	dbo:MotorsportSeason .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Circuito_di_Ospedaletti	rdf:type	yago:Object100002684 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:Region108630985 ,
+		yago:Area108497294 ,
+		yago:WikicatDefunctMotorsportVenuesInItaly ,
+		yago:Location100027167 ,
+		yago:Venue108677628 ,
+		yago:Scene108645963 ,
+		yago:WikicatMotorsportVenuesInItaly .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Circuito_di_Ospedaletti	rdf:type	geo:SpatialThing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Circuito_di_Ospedaletti	rdfs:label	"Circuito di Ospedaletti"@en ,
+		"Circuito di Ospedaletti"@it ;
+	rdfs:comment	"Il circuito di Ospedaletti fu un tracciato cittadino di fama internazionale sul quale corsero i Gran Premi automobilistici e motociclistici dal 1947 sino al 1972."@it ,
+		"The Circuito di Ospedaletti commonly known as the Ospedaletti Circuit (official name: Autodromo di Ospedaletti) was a motor racing road course in the north-western coastal town of Ospedaletti (Liguria region of Italy), active from 1947 to 1972."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Circuito_di_Ospedaletti	owl:sameAs	yago-res:Circuito_di_Ospedaletti .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Circuito_di_Ospedaletti	owl:sameAs	wikidata:Q786138 ,
+		dbr:Circuito_di_Ospedaletti ,
+		<http://rdf.freebase.com/ns/m.0_xc0xx> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Circuito_di_Ospedaletti	owl:sameAs	dbpedia-it:Circuito_di_Ospedaletti .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Circuito_di_Ospedaletti	owl:sameAs	dbpedia-wikidata:Q786138 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Circuito_di_Ospedaletti	dct:subject	dbc:San_Remo_Grand_Prix ,
+		dbc:Motorsport_venues_in_Italy ,
+		dbc:Defunct_motorsport_venues_in_Italy ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grand_Prix_circuits> ,
+		dbc:Formula_One_circuits .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Circuito_di_Ospedaletti	geo:lat	"43.800777435302734375"^^xsd:float ;
+	geo:long	"7.7228055000305175781"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Circuito_di_Ospedaletti	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit-ospedaletti-1948.png> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Circuito_di_Ospedaletti	foaf:isPrimaryTopicOf	wikipedia-en:Circuito_di_Ospedaletti .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Circuito_di_Ospedaletti	geo:geometry	"POINT(7.7228055000305 43.800777435303)"^^virtrdf:Geometry ;
+	dbp:recordClass	dbr:Formula_One ;
+	dbp:surface	"Asphalt"^^xsd:string ;
+	dbp:time	"GMT +1"^^xsd:string ;
+	dbp:lengthKm	3.3799999999999998934 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Circuito_di_Ospedaletti	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Circuito_di_Ospedaletti?oldid=674942268> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Circuito_di_Ospedaletti	georss:point	"43.800777777777775 7.7228055555555555" ;
+	dbo:wikiPageExternalLink	<http://www.kolumbus.fi/leif.snellman/intro.htm> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.ky2-06s-3Fvw> .
+@prefix ns20:	<http://www.marinadiospedaletti.it/> .
+dbr:Circuito_di_Ospedaletti	dbo:wikiPageExternalLink	ns20:albo-doro-gran-trofeo-sanremo-html ,
+		<http://www.silhouet.com/motorsport/archive/f1/title.html> ;
+	dbp:location	dbr:Italy ,
+		dbr:Ospedaletti ;
+	dbp:recordDriver	"Alberto Ascari"^^xsd:string ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	1951 ;
+	dbp:turns	7 ;
+	dbp:name	"Circuito di Ospedaletti"^^xsd:string ;
+	dbo:abstract	"Il circuito di Ospedaletti fu un tracciato cittadino di fama internazionale sul quale corsero i Gran Premi automobilistici e motociclistici dal 1947 sino al 1972."@it ,
+		"The Circuito di Ospedaletti commonly known as the Ospedaletti Circuit (official name: Autodromo di Ospedaletti) was a motor racing road course in the north-western coastal town of Ospedaletti (Liguria region of Italy), active from 1947 to 1972."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit-ospedaletti-1948.png?width=300> ;
+	dbo:wikiPageRevisionID	674942268 ;
+	dbo:wikiPageID	42103977 ;
+	dbp:layout	"Street Circuit"^^xsd:string ;
+	dbp:lengthMi	2.1000000000000000888 .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Circuito_di_Ospedaletti	ns21:hypernym	dbr:Motor ;
+	dbp:recordTeam	dbr:Scuderia_Ferrari ;
+	dbp:events	dbr:Formula_One ,
+		dbr:San_Remo_Grand_Prix ,
+		dbr:Grand_Prix_motor_racing .
+wikipedia-en:Circuito_di_Ospedaletti	foaf:primaryTopic	dbr:Circuito_di_Ospedaletti .
+<http://dbpedia.org/resource/1949_San_Remo_Grand_Prix>	dbp:course	dbr:Circuito_di_Ospedaletti .
+<http://dbpedia.org/resource/1947_San_Remo_Grand_Prix>	dbp:course	dbr:Circuito_di_Ospedaletti .
+<http://dbpedia.org/resource/1948_San_Remo_Grand_Prix>	dbp:course	dbr:Circuito_di_Ospedaletti .

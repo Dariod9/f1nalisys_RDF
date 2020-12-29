@@ -1,0 +1,113 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Pescara_Circuit	rdf:type	yago:Venue108677628 ,
+		yago:Scene108645963 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatDefunctMotorsportVenuesInItaly ,
+		yago:PhysicalEntity100001930 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Pescara_Circuit	rdf:type	geo:SpatialThing ,
+		yago:WikicatMotorsportVenuesInItaly ,
+		yago:Area108497294 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Pescara_Circuit	rdf:type	dbo:GolfCourse ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Region108630985 ,
+		yago:Location100027167 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Pescara_Circuit	rdfs:label	"\u30DA\u30B9\u30AB\u30FC\u30E9\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"Pescara Circuit"@en ,
+		"Circuito di Pescara"@it ,
+		"Pescara Circuit"@pt ,
+		"Pescara Circuit"@nl ,
+		"\u041F\u0435\u0441\u043A\u0430\u0440\u0430 (\u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"Circuit de Pescara"@fr ,
+		"Circuito di Pescara"@de ,
+		"Pescara Circuit"@pl ;
+	rdfs:comment	"\u0422\u0440\u0430\u0441\u0441\u0430 \u041F\u0435\u0441\u043A\u0430\u0440\u0430 \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0440\u044F\u0434\u043E\u043C \u0441 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u043C \u0433\u043E\u0440\u043E\u0434\u043E\u043C \u041F\u0435\u0441\u043A\u0430\u0440\u0430 \u043D\u0430 \u0430\u0434\u0440\u0438\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u043C \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043F\u043E \u0434\u043E\u0440\u043E\u0433\u0430\u043C \u043E\u0431\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F. \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0431\u044B\u043B \u043F\u0440\u043E\u0432\u0435\u0434\u0451\u043D \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041F\u0435\u0441\u043A\u0430\u0440\u044B 1957 \u0433\u043E\u0434\u0430, \u0432\u043E\u0448\u0435\u0434\u0448\u0438\u0439 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u044E \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043A\u0430\u043A \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0441 \u0441\u0430\u043C\u044B\u043C \u0434\u043B\u0438\u043D\u043D\u044B\u043C \u043A\u0440\u0443\u0433\u043E\u043C \u0442\u0440\u0430\u0441\u0441\u044B (25 579 \u043C). \u0422\u0430\u043A\u0436\u0435 \u043D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0432 1924\u20141961 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0441\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043F\u043E\u0434 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u043C Coppa Acerbo, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043C\u043E\u0436\u043D\u043E \u0441\u0447\u0438\u0442\u0430\u0442\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041F\u0435\u0441\u043A\u0430\u0440\u044B, \u043D\u0435 \u0432\u0445\u043E\u0434\u044F\u0449\u0438\u043C \u0432 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041F\u043E\u0441\u043B\u0435 1961 \u0433\u043E\u0434\u0430 \u0433\u043E\u043D\u043A\u0438 \u0431\u044B\u043B\u0438 \u043F\u0440\u0435\u043A\u0440\u0430\u0449\u0435\u043D\u044B \u0438\u0437-\u0437\u0430 \u0441\u043E\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0439 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438."@ru ,
+		"Het Pescara Circuit is een voormalig circuit in Pescara, Itali\u00EB. Het was een circuit op de openbare weg. Het circuit had twee lange rechte stukken die door dorpen in de omgeving, en de stad Pescara liepen. Het circuit was vergelijkbaar met de originele N\u00FCrburgring en Spa-Francorchamps. Door het heuvelachtige verloop van de baan werd deze door velen als het gevaarlijkste circuit ooit beschouwd."@nl ,
+		"Der Pescara Circuit war ein 25,838 Kilometer langer Stra\u00DFenkurs in der N\u00E4he von Pescara, Italien."@de ,
+		"O Pescara Circuit est\u00E1 localizado na cidade de mesmo nome, na regi\u00E3o central da It\u00E1lia. Foi usado para sediar a F\u00F3rmula 1 apenas em 1957, e a \u00FAnica corrida disputada neste circuito de 25,8 quil\u00F4metros foi vencida pelo ingl\u00EAs Stirling Moss."@pt ,
+		"Le circuit de Pescara \u00E9tait un circuit automobile routier de 25,8 km de longueur, situ\u00E9 pr\u00E8s de Pescara, dans les Abruzzes, dans le centre de l'Italie."@fr ,
+		"The Pescara Circuit was a 16.032 miles (25.8 km) road race course near Pescara, Italy. The staggering length was the longest of any open-wheel championship event. The roads were both narrow and bumpy. Like many long circuits (such as the original N\u00FCrburgring and Spa-Francorchamps circuits) Pescara was extremely dangerous. It was the first F1 circuit with an artificial chicane, built in 1934 on the start-finish straight to reduce speed in the pits."@en ,
+		"Il circuito di Pescara era un circuito cittadino che misurava oltre 25 km (25,579 km) alla periferia di Pescara."@it ,
+		"\u30DA\u30B9\u30AB\u30FC\u30E9\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8(Pescara Circuit)\u306F\u30A4\u30BF\u30EA\u30A2\u306E\u90FD\u5E02\u30DA\u30B9\u30AB\u30FC\u30E9\u306E\u516C\u9053\u3092\u5229\u7528\u3057\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u30021924\u5E74\u304B\u30891961\u5E74\u307E\u3067\u4F7F\u7528\u3055\u308C\u305F\u3002"@ja ,
+		"Pescara Circuit \u2013 dawny w\u0142oski tor Formu\u0142y 1 o d\u0142ugo\u015Bci 25,8 km po\u0142o\u017Cony nieopodal Pescary. Trasa sk\u0142ada\u0142a si\u0119 z dw\u00F3ch d\u0142ugich prostych przecinaj\u0105cych wioski i wielu wymagaj\u0105cych zakr\u0119t\u00F3w. Drogi by\u0142y zar\u00F3wno w\u0105skie jak i wyboiste. Tor ten uznawany jest za najd\u0142u\u017Csz\u0105 p\u0119tl\u0119 wykorzystywan\u0105 w wy\u015Bcigach typu open-wheel w historii. Pierwszy wy\u015Bcig odby\u0142 si\u0119 w 1924. Odbywa\u0142y si\u0119 tu tak\u017Ce wy\u015Bcigi nie zaliczane do klasyfikacji mistrzostw \u015Bwiata. Ostatecznie w 1957 odby\u0142o si\u0119 GP Pescara. Wy\u015Bcig przyci\u0105gn\u0105\u0142 t\u0142umy widz\u00F3w. Wygra\u0142 Stirling Moss w Vanwallu."@pl .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Pescara_Circuit	owl:sameAs	wikidata:Q172882 ,
+		dbr:Pescara_Circuit .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Pescara_Circuit	owl:sameAs	dbpedia-nl:Pescara_Circuit .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Pescara_Circuit	owl:sameAs	dbpedia-fr:Circuit_de_Pescara ,
+		<http://ja.dbpedia.org/resource/\u30DA\u30B9\u30AB\u30FC\u30E9\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Pescara_Circuit	owl:sameAs	dbpedia-pt:Pescara_Circuit .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Pescara_Circuit	owl:sameAs	dbpedia-pl:Pescara_Circuit .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Pescara_Circuit	owl:sameAs	dbpedia-de:Circuito_di_Pescara ,
+		<http://rdf.freebase.com/ns/m.04zpbm> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Pescara_Circuit	owl:sameAs	dbpedia-it:Circuito_di_Pescara .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Pescara_Circuit	owl:sameAs	dbpedia-wikidata:Q172882 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Pescara_Circuit	owl:sameAs	yago-res:Pescara_Circuit .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Pescara_Circuit	dct:subject	dbc:Motorsport_venues_in_Italy ,
+		dbc:Formula_One_circuits ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grand_Prix_circuits> ,
+		dbc:Defunct_motorsport_venues_in_Italy ,
+		dbc:Pescara .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Pescara_Circuit	geo:lat	"42.47499847412109375"^^xsd:float ;
+	geo:long	"14.1508331298828125"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Pescara_Circuit	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_Pescara.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Pescara_Circuit	foaf:isPrimaryTopicOf	wikipedia-en:Pescara_Circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Pescara_Circuit	geo:geometry	"POINT(14.150833129883 42.474998474121)"^^virtrdf:Geometry .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Pescara_Circuit	dbp:lengthKm	25.800000000000000711 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Pescara_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pescara_Circuit?oldid=728245813> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Pescara_Circuit	georss:point	"42.475 14.150833333333333" ;
+	dbo:wikiPageExternalLink	<http://www.etracksonline.co.uk/Europe/Italy/pescara34-61.html> ,
+		<http://motoplaner.de/#42.46412,14.20453;1,42.47821,14.19309;1,42.51528,14.14887;1,42.46964,14.1059;1,42.45717,14.13177;1,42.45447,14.17169;1,42.46389,14.20398;1&&0> ,
+		<http://maps.google.com/maps?saddr=Via+Vestina+a+Mare%2FSR16bis&daddr=Strada+Statale+16bis+Vestina%2FSR16bis+to:42.50027,14.16966+to:Viale+Giovanni+Bovio+to:42.47473,14.20055+to:42.4706373,14.2016076+to:Via+Vestina+a+Mare%2FSR16bis&hl=en&ll=42.484631,14.161034&spn=0.063297,0.169086&sll=42.468267,14.106188&sspn=0.015828,0.042272&geocode=Fer4hwIdFzXXAA%3BFQeViAIdgrrXAA%3BFa6AiAIdPDbYACkhsZ6oQKQxEzEBE7zAmk8JEw%3BFbIdiAId7K3YAA%3BFeociAId5q7YACk95om3e6YxEzFh57Simk8JEw%3BFe0MiAIdB7PYACln97qLcKYxEzFhISWimk8JEw%3BFcv4hwIdFDXXAA&t=k&mra=dme&mrsp=0&sz=15&via=2,4,5&z=13> ;
+	dbp:location	"Pescara, Italy"^^xsd:string ;
+	dbp:recordDriver	"Stirling Moss"^^xsd:string ;
+	dbp:recordTime	9 ;
+	dbp:recordYear	1957 ;
+	dbp:name	"Pescara Circuit"^^xsd:string ;
+	dbo:abstract	"O Pescara Circuit est\u00E1 localizado na cidade de mesmo nome, na regi\u00E3o central da It\u00E1lia. Foi usado para sediar a F\u00F3rmula 1 apenas em 1957, e a \u00FAnica corrida disputada neste circuito de 25,8 quil\u00F4metros foi vencida pelo ingl\u00EAs Stirling Moss."@pt ,
+		"Le circuit de Pescara \u00E9tait un circuit automobile routier de 25,8 km de longueur, situ\u00E9 pr\u00E8s de Pescara, dans les Abruzzes, dans le centre de l'Italie."@fr ,
+		"\u0422\u0440\u0430\u0441\u0441\u0430 \u041F\u0435\u0441\u043A\u0430\u0440\u0430 \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0440\u044F\u0434\u043E\u043C \u0441 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u043C \u0433\u043E\u0440\u043E\u0434\u043E\u043C \u041F\u0435\u0441\u043A\u0430\u0440\u0430 \u043D\u0430 \u0430\u0434\u0440\u0438\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u043C \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043F\u043E \u0434\u043E\u0440\u043E\u0433\u0430\u043C \u043E\u0431\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F. \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0431\u044B\u043B \u043F\u0440\u043E\u0432\u0435\u0434\u0451\u043D \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041F\u0435\u0441\u043A\u0430\u0440\u044B 1957 \u0433\u043E\u0434\u0430, \u0432\u043E\u0448\u0435\u0434\u0448\u0438\u0439 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u044E \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043A\u0430\u043A \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0441 \u0441\u0430\u043C\u044B\u043C \u0434\u043B\u0438\u043D\u043D\u044B\u043C \u043A\u0440\u0443\u0433\u043E\u043C \u0442\u0440\u0430\u0441\u0441\u044B (25 579 \u043C). \u0422\u0430\u043A\u0436\u0435 \u043D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0432 1924\u20141961 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0441\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043F\u043E\u0434 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u043C Coppa Acerbo, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043C\u043E\u0436\u043D\u043E \u0441\u0447\u0438\u0442\u0430\u0442\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041F\u0435\u0441\u043A\u0430\u0440\u044B, \u043D\u0435 \u0432\u0445\u043E\u0434\u044F\u0449\u0438\u043C \u0432 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041F\u043E\u0441\u043B\u0435 1961 \u0433\u043E\u0434\u0430 \u0433\u043E\u043D\u043A\u0438 \u0431\u044B\u043B\u0438 \u043F\u0440\u0435\u043A\u0440\u0430\u0449\u0435\u043D\u044B \u0438\u0437-\u0437\u0430 \u0441\u043E\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0439 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438."@ru ,
+		"Het Pescara Circuit is een voormalig circuit in Pescara, Itali\u00EB. Het was een circuit op de openbare weg. Het circuit had twee lange rechte stukken die door dorpen in de omgeving, en de stad Pescara liepen. Het circuit was vergelijkbaar met de originele N\u00FCrburgring en Spa-Francorchamps. Door het heuvelachtige verloop van de baan werd deze door velen als het gevaarlijkste circuit ooit beschouwd. In 1951 vond voor de eerste maal een Formule 1 race plaats op dit circuit, deze race was geen deel van het kampioenschap. In 1957 vond de eerste en meteen laatste Formule 1 race plaats die wel meetelde voor het kampioenschap."@nl ,
+		"Der Pescara Circuit war ein 25,838 Kilometer langer Stra\u00DFenkurs in der N\u00E4he von Pescara, Italien."@de ,
+		"\u30DA\u30B9\u30AB\u30FC\u30E9\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8(Pescara Circuit)\u306F\u30A4\u30BF\u30EA\u30A2\u306E\u90FD\u5E02\u30DA\u30B9\u30AB\u30FC\u30E9\u306E\u516C\u9053\u3092\u5229\u7528\u3057\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u30021924\u5E74\u304B\u30891961\u5E74\u307E\u3067\u4F7F\u7528\u3055\u308C\u305F\u3002"@ja ,
+		"The Pescara Circuit was a 16.032 miles (25.8 km) road race course near Pescara, Italy. The staggering length was the longest of any open-wheel championship event. The roads were both narrow and bumpy. Like many long circuits (such as the original N\u00FCrburgring and Spa-Francorchamps circuits) Pescara was extremely dangerous. The long track travelled through a number of villages near Pescara, following a roughly triangular shape with its corners at the seaside municipality of Pescara, moving west to the inland municipality of Cappelle sul Tavo, then northeast to the seaside municipality of Montesilvano before returning to Pescara. The Pescara Circuit included two long straights between villages on the southwest-to-north and north-to-southeast legs, as well as demanding corners along the south leg. The highest point, at Spoltore, was 185 m above sea level. The first race took place in 1924 and non-Championship Formula One races followed in the early 1950s, with one official Formula One World Championship event in 1957. The Pescara Grand Prix drew in excess of 200,000 spectators, and remains the longest circuit in terms of lap distance ever to stage a Formula One Grand Prix. But the circuit was feared even by Enzo Ferrari- who did not send his cars to this race out of fear for his drivers' safety. It was the first F1 circuit with an artificial chicane, built in 1934 on the start-finish straight to reduce speed in the pits. The track's last race was a four-hour World Sportscar Championship race in 1961, won by Lorenzo Bandini and Giorgio Scarlatti. After that race the circuit was permanently retired as a racing venue as it was impossible for the organizers to guarantee the safety of drivers and spectators."@en ,
+		"Il circuito di Pescara era un circuito cittadino che misurava oltre 25 km (25,579 km) alla periferia di Pescara."@it ,
+		"Pescara Circuit \u2013 dawny w\u0142oski tor Formu\u0142y 1 o d\u0142ugo\u015Bci 25,8 km po\u0142o\u017Cony nieopodal Pescary. Trasa sk\u0142ada\u0142a si\u0119 z dw\u00F3ch d\u0142ugich prostych przecinaj\u0105cych wioski i wielu wymagaj\u0105cych zakr\u0119t\u00F3w. Drogi by\u0142y zar\u00F3wno w\u0105skie jak i wyboiste. Tor ten uznawany jest za najd\u0142u\u017Csz\u0105 p\u0119tl\u0119 wykorzystywan\u0105 w wy\u015Bcigach typu open-wheel w historii. Pierwszy wy\u015Bcig odby\u0142 si\u0119 w 1924. Odbywa\u0142y si\u0119 tu tak\u017Ce wy\u015Bcigi nie zaliczane do klasyfikacji mistrzostw \u015Bwiata. Ostatecznie w 1957 odby\u0142o si\u0119 GP Pescara. Wy\u015Bcig przyci\u0105gn\u0105\u0142 t\u0142umy widz\u00F3w. Wygra\u0142 Stirling Moss w Vanwallu. Ostatnim wy\u015Bcigiem toru by\u0142y 4-godzinne mistrzostwa \u015Bwiata aut sportowych w 1961, wygrany przez Lorenzo Bandiniego i Giorgio Scarlattiego. Po tej imprezie zrezygnowano z toru, jako \u017Ce organizatorzy nie byli w stanie zapewni\u0107 kierowcom i kibicom bezpiecze\u0144stwa."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_Pescara.svg?width=300> ;
+	dbo:wikiPageRevisionID	728245813 ;
+	dbo:wikiPageID	1401717 ;
+	dbp:lengthMi	16.032000000000000028 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Pescara_Circuit	ns25:hypernym	dbr:Course ;
+	dbp:recordTeam	dbr:Vanwall ;
+	dbp:events	"Coppa Acerbo"^^xsd:string ,
+		"Pescara Grand Prix"^^xsd:string ,
+		"Targa Abruzzo"^^xsd:string ,
+		"Formula One"^^xsd:string .
+wikipedia-en:Pescara_Circuit	foaf:primaryTopic	dbr:Pescara_Circuit .
+<http://dbpedia.org/resource/Pescara_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Pescara_Circuit .
+dbr:Coppa_Acerbo	dbp:circuit	dbr:Pescara_Circuit .

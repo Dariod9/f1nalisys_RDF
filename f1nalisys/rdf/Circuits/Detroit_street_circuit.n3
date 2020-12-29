@@ -1,0 +1,127 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Detroit_Grand_Prix	dbp:circuit	dbr:Detroit_street_circuit .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1982_Detroit_Grand_Prix>	dbo:location	dbr:Detroit_street_circuit .
+<http://dbpedia.org/resource/1983_Detroit_Grand_Prix>	dbo:location	dbr:Detroit_street_circuit .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Detroit_street_circuit	foaf:primaryTopic	dbr:Detroit_street_circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Detroit_street_circuit	rdf:type	yago:WikicatDefunctMotorsportVenuesInTheUnitedStates ,
+		yago:WikicatSportsVenuesInMichigan ,
+		yago:Line108593262 ,
+		yago:Path109387222 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatMotorsportVenuesInMichigan ,
+		yago:Venue108677628 ,
+		yago:Scene108645963 ,
+		yago:Region108630985 ,
+		yago:Location100027167 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Detroit_street_circuit	rdf:type	geo:SpatialThing ,
+		yago:Area108497294 ,
+		yago:WikicatMotorsportVenuesInTheUnitedStates ,
+		yago:WikicatIndyCarSeriesTracks .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Detroit_street_circuit	rdfs:label	"Circuit urbain de D\u00E9troit"@fr ,
+		"Detroit Street Circuit"@de ,
+		"Stratencircuit Detroit"@nl ,
+		"Detroit street circuit"@en ,
+		"Detroit street circuit"@pt ,
+		"Circuito di Detroit"@it ,
+		"\u0414\u0435\u0442\u0440\u043E\u0439\u0442 (\u0443\u043B\u0438\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"Circuito callejero de Detroit"@es ,
+		"\u30C7\u30C8\u30ED\u30A4\u30C8\u5E02\u8857\u5730\u30B3\u30FC\u30B9"@ja ,
+		"Detroit Street Circuit"@pl ;
+	rdfs:comment	"The streets of Detroit, in the U.S. state of Michigan hosted Formula One racing, and later CART racing, between the 1982 and 1991 seasons. The street circuit (course) was set up near the Renaissance Center and the Cobo Arena, also including a small part of the M-1 highway, also known as Woodward Avenue. It is a flat circuit, with elevation ranging from 176 to 184 metres above sea level."@en ,
+		"Detroit Street Circuit \u2013 dawny tor Formu\u0142y 1 ulokowany w Detroit, Michigan w Stanach Zjednoczonych."@pl ,
+		"Em 4023 m das ruas de Detroit pr\u00F3ximas ao Renaissence Center sediaram o GP do Leste dos EUA de F\u00F3rmula 1 de 1982 at\u00E9 1988. Foi em Detroit no campeonato de 1983 que a equipe Tyrrell venceria pela \u00FAltima vez na categoria. De 1989 a 2001 abrigou corridas da Champ Car e em 2007 da IRL. A partir de 1992 passou a ser disputada em Ilha Bela, no meio do Rio Detroit, que divide EUA e Canad\u00E1."@pt ,
+		"Las calles de Detroit albergaron un Gran Premio en la F\u00F3rmula 1 y m\u00E1s tarde en la CART entre las sesiones de 1982 y 1991. El circuito se estableci\u00F3 cerca del Renaissance Center y el Cobo Center, tambi\u00E9n en una peque\u00F1a parte de la carretera M-1."@es ,
+		"\u0414\u0435\u0442\u0440\u043E\u0439\u0442 (\u0443\u043B\u0438\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430) (\u0430\u043D\u0433\u043B. Detroit street circuit) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0435 (\u041C\u0438\u0447\u0438\u0433\u0430\u043D, \u0421\u0428\u0410), \u043F\u043E \u0434\u043E\u0440\u043E\u0433\u0430\u043C \u043E\u0431\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F (\u0432 \u0440\u0430\u0439\u043E\u043D\u0435 \u0420\u0435\u043D\u0435\u0441\u0441\u0430\u043D\u0441-\u0446\u0435\u043D\u0442\u0440\u0430, \u041A\u043E\u0431\u043E \u0410\u0440\u0435\u043D\u044B \u0438 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C \u0445\u0430\u0439\u0432\u0435\u044F \u041C-1). \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 1982 \u043F\u043E 1988 \u0433\u043E\u0434\u0430. \u0412 1988 \u0433\u043E\u0434\u0443 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0441\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0414\u0435\u0442\u0440\u043E\u0439\u0442, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u0435\u043C \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u0441\u0442\u0430\u043B \u0410\u0439\u0440\u0442\u043E\u043D \u0421\u0435\u043D\u043D\u0430 (McLaren). \u041F\u043E\u0441\u043B\u0435 \u044D\u0442\u043E\u0433\u043E \u044D\u0441\u0442\u0430\u0444\u0435\u0442\u0443 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u044D\u0442\u0430\u043F\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043F\u0440\u0438\u043D\u044F\u043B\u0430 \u0442\u0440\u0430\u0441\u0441\u0430 \u0432 \u0424\u0438\u043D\u0438\u043A\u0441\u0435, \u0448\u0442\u0430\u0442 \u0410\u0440\u0438\u0437\u043E\u043D\u0430."@ru ,
+		"Der Detroit Street Circuit war ein 4,023 Kilometer langer Stadtkurs in Detroit, auf dem der Gro\u00DFe Preis der USA beziehungsweise der Gro\u00DFe Preis der USA Ost ausgetragen wurde. Sp\u00E4ter fanden dort auch Rennen der US-amerikanischen Champ-Car-Serie statt. Der Kurs befand sich in der N\u00E4he des Renaissance Centers und der Cobo-Hall. Auch der Highway M-1, der auch als Woodward Avenue bekannt ist, war Teil des Kurses."@de ,
+		"Het stratencircuit van Detroit was een circuit gelegen in Detroit in de Amerikaanse staat Michigan, nabij het Renaissance Center. Tussen 1982 en 1988 stond het circuit op de Formule 1-kalender, als Grand Prix van de Verenigde Staten Oost tot 1984 en als enige overgebleven race in de Verenigde Staten van 1985 tot 1988. Er werden onderhandelingen gevoerd om de Amerikaanse Grand Prix in 1989 op het circuit Belle Isle Park te houden, maar dat ging uiteindelijk niet door. Vanaf dat jaar verhuisde de Grand Prix naar Phoenix in Arizona. Ayrton Senna is recordhouder op het circuit, hij won de laatste drie Formule 1-races die tussen 1986 en 1988 op het circuit gehouden werden."@nl ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Detroit \u00E8 un tracciato automobilistico occasionale disegnato lungo le sponde dell'omonimo fiume nelle vicinanze del Renaissance Center. Ha ospitato tre edizioni del Gran Premio degli Stati Uniti d'America-Est di Formula 1 (dal 1982 al 1984) e quattro del Gran Premio degli Stati Uniti d'America di Formula 1 (dal 1985 al 1988). Il tracciato \u00E8 lungo 4.023 metri e, come la maggior parte dei circuiti cittadini, \u00E8 particolarmente tortuoso e con una sede stradale piuttosto stretta, delimitata da muretti realizzati con blocchi di cemento e guard-rail. La prima gara disputatavi venne interrotta al sesto giro per incidente e poi definitivamente dopo sessa"@it ,
+		"Le circuit urbain de D\u00E9troit \u00E9tait un circuit automobile temporaire trac\u00E9 dans les rues de la ville de D\u00E9troit, Michigan, \u00C9tats-Unis, dans le quartier du Renaissance Center. Il fut principalement utilis\u00E9 pour accueillir le championnat du monde de Formule 1 de 1982 \u00E0 1988, d'abord sous le nom de Grand Prix des \u00C9tats-Unis Est puis de Grand Prix de D\u00E9troit, mais aussi des \u00E9preuves de la s\u00E9rie CART de 1989 \u00E0 1991."@fr ,
+		"\u30C7\u30C8\u30ED\u30A4\u30C8\u5E02\u8857\u5730\u30B3\u30FC\u30B9\uFF08\u30C7\u30C8\u30ED\u30A4\u30C8\u3057\u304C\u3044\u3061\u30B3\u30FC\u30B9\u3001Detroit Street Circuit\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30DF\u30B7\u30AC\u30F3\u5DDE\u306E\u30C7\u30C8\u30ED\u30A4\u30C8\u4E2D\u5FC3\u8857\u306E\u516C\u9053\u3092\u5229\u7528\u3057\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u30021982\u5E74\u304B\u30891991\u5E74\u306E\u9593\u3001F1\u3084CART\u306E\u30EC\u30FC\u30B9\u306B\u4F7F\u7528\u3055\u308C\u305F\u3002"@ja .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Detroit_street_circuit	owl:sameAs	<http://rdf.freebase.com/ns/m.07qrw6> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Detroit_street_circuit	owl:sameAs	dbpedia-es:Circuito_callejero_de_Detroit .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Detroit_street_circuit	owl:sameAs	yago-res:Detroit_street_circuit .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Detroit_street_circuit	owl:sameAs	dbpedia-pt:Detroit_street_circuit .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Detroit_street_circuit	owl:sameAs	dbpedia-de:Detroit_Street_Circuit .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Detroit_street_circuit	owl:sameAs	dbpedia-it:Circuito_di_Detroit .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Detroit_street_circuit	owl:sameAs	wikidata:Q172887 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Detroit_street_circuit	owl:sameAs	dbpedia-nl:Stratencircuit_Detroit .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Detroit_street_circuit	owl:sameAs	dbpedia-wikidata:Q172887 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Detroit_street_circuit	owl:sameAs	dbpedia-pl:Detroit_Street_Circuit ,
+		<http://ja.dbpedia.org/resource/\u30C7\u30C8\u30ED\u30A4\u30C8\u5E02\u8857\u5730\u30B3\u30FC\u30B9> ,
+		<http://fr.dbpedia.org/resource/Circuit_urbain_de_D\u00E9troit> ,
+		dbr:Detroit_street_circuit .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Detroit_street_circuit	dct:subject	dbc:Motorsport_venues_in_Michigan ,
+		dbc:Defunct_motorsport_venues_in_the_United_States ,
+		dbc:History_of_Detroit ,
+		dbc:Champ_Car_circuits ,
+		dbc:United_States_Grand_Prix ,
+		dbc:Formula_One_circuits .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Detroit_street_circuit	geo:lat	"42.32975006103515625"^^xsd:float ;
+	geo:long	"-83.04010772705078125"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Downtown_Detroit_Street_Circuit.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Detroit_street_circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Detroit_street_circuit	geo:geometry	"POINT(-83.040107727051 42.329750061035)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Detroit_street_circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Detroit_street_circuit?oldid=743441878> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Detroit_street_circuit	georss:point	"42.32975 -83.04011111111112" ;
+	dbp:lengthKm	4.0229999999999996874 ;
+	dbo:abstract	"Em 4023 m das ruas de Detroit pr\u00F3ximas ao Renaissence Center sediaram o GP do Leste dos EUA de F\u00F3rmula 1 de 1982 at\u00E9 1988. Foi em Detroit no campeonato de 1983 que a equipe Tyrrell venceria pela \u00FAltima vez na categoria. De 1989 a 2001 abrigou corridas da Champ Car e em 2007 da IRL. A partir de 1992 passou a ser disputada em Ilha Bela, no meio do Rio Detroit, que divide EUA e Canad\u00E1."@pt ,
+		"\u30C7\u30C8\u30ED\u30A4\u30C8\u5E02\u8857\u5730\u30B3\u30FC\u30B9\uFF08\u30C7\u30C8\u30ED\u30A4\u30C8\u3057\u304C\u3044\u3061\u30B3\u30FC\u30B9\u3001Detroit Street Circuit\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30DF\u30B7\u30AC\u30F3\u5DDE\u306E\u30C7\u30C8\u30ED\u30A4\u30C8\u4E2D\u5FC3\u8857\u306E\u516C\u9053\u3092\u5229\u7528\u3057\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u30021982\u5E74\u304B\u30891991\u5E74\u306E\u9593\u3001F1\u3084CART\u306E\u30EC\u30FC\u30B9\u306B\u4F7F\u7528\u3055\u308C\u305F\u3002"@ja ,
+		"\u0414\u0435\u0442\u0440\u043E\u0439\u0442 (\u0443\u043B\u0438\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430) (\u0430\u043D\u0433\u043B. Detroit street circuit) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0435 (\u041C\u0438\u0447\u0438\u0433\u0430\u043D, \u0421\u0428\u0410), \u043F\u043E \u0434\u043E\u0440\u043E\u0433\u0430\u043C \u043E\u0431\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F (\u0432 \u0440\u0430\u0439\u043E\u043D\u0435 \u0420\u0435\u043D\u0435\u0441\u0441\u0430\u043D\u0441-\u0446\u0435\u043D\u0442\u0440\u0430, \u041A\u043E\u0431\u043E \u0410\u0440\u0435\u043D\u044B \u0438 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C \u0445\u0430\u0439\u0432\u0435\u044F \u041C-1). \u041D\u0430 \u044D\u0442\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 1982 \u043F\u043E 1988 \u0433\u043E\u0434\u0430. \u041F\u0435\u0440\u0432\u044B\u0439 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0431\u044B\u043B \u043F\u0440\u043E\u0432\u0435\u0434\u0451\u043D \u0432 1982 \u0433\u043E\u0434\u0443 \u0438 \u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043B\u0441\u044F 1st United States Detroit Grand Prix. \u041D\u0430 \u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438 \u0442\u0440\u0430\u0441\u0441\u044B \u0434\u043B\u0438\u043D\u043E\u0439 4012 \u043C\u0435\u0442\u0440\u043E\u0432 \u043F\u043E\u0431\u0435\u0434\u0443 \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u0414\u0436\u043E\u043D \u0423\u043E\u0442\u0441\u043E\u043D (McLaren). \u0412 1983 \u0433\u043E\u0434\u0443 \u0442\u0440\u0430\u0441\u0441\u0430 \u043F\u0440\u0435\u0442\u0435\u0440\u043F\u0435\u043B\u0430 \u043D\u0435\u0431\u043E\u043B\u044C\u0448\u0438\u0435 \u0438\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u044F \u0438 \u0435\u0451 \u0434\u043B\u0438\u043D\u0430 \u0431\u044B\u043B\u0430 \u0443\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u0430 \u0434\u043E 4023.4 \u043C\u0435\u0442\u0440\u0430. \u041F\u043E\u0441\u043B\u0435 \u044D\u0442\u043E\u0433\u043E, \u0432\u043F\u043B\u043E\u0442\u044C \u0434\u043E 1988 \u0433\u043E\u0434\u0430, \u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u044F \u0442\u0440\u0430\u0441\u0441\u044B \u043D\u0435 \u0438\u0437\u043C\u0435\u043D\u044F\u043B\u0430\u0441\u044C. \u0412 1988 \u0433\u043E\u0434\u0443 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0441\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0414\u0435\u0442\u0440\u043E\u0439\u0442, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u0435\u043C \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u0441\u0442\u0430\u043B \u0410\u0439\u0440\u0442\u043E\u043D \u0421\u0435\u043D\u043D\u0430 (McLaren). \u041F\u043E\u0441\u043B\u0435 \u044D\u0442\u043E\u0433\u043E \u044D\u0441\u0442\u0430\u0444\u0435\u0442\u0443 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u044D\u0442\u0430\u043F\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043F\u0440\u0438\u043D\u044F\u043B\u0430 \u0442\u0440\u0430\u0441\u0441\u0430 \u0432 \u0424\u0438\u043D\u0438\u043A\u0441\u0435, \u0448\u0442\u0430\u0442 \u0410\u0440\u0438\u0437\u043E\u043D\u0430."@ru ,
+		"Detroit Street Circuit \u2013 dawny tor Formu\u0142y 1 ulokowany w Detroit, Michigan w Stanach Zjednoczonych."@pl ,
+		"The streets of Detroit, in the U.S. state of Michigan hosted Formula One racing, and later CART racing, between the 1982 and 1991 seasons. The street circuit (course) was set up near the Renaissance Center and the Cobo Arena, also including a small part of the M-1 highway, also known as Woodward Avenue. It is a flat circuit, with elevation ranging from 176 to 184 metres above sea level."@en ,
+		"Le circuit urbain de D\u00E9troit \u00E9tait un circuit automobile temporaire trac\u00E9 dans les rues de la ville de D\u00E9troit, Michigan, \u00C9tats-Unis, dans le quartier du Renaissance Center. Il fut principalement utilis\u00E9 pour accueillir le championnat du monde de Formule 1 de 1982 \u00E0 1988, d'abord sous le nom de Grand Prix des \u00C9tats-Unis Est puis de Grand Prix de D\u00E9troit, mais aussi des \u00E9preuves de la s\u00E9rie CART de 1989 \u00E0 1991."@fr ,
+		"Der Detroit Street Circuit war ein 4,023 Kilometer langer Stadtkurs in Detroit, auf dem der Gro\u00DFe Preis der USA beziehungsweise der Gro\u00DFe Preis der USA Ost ausgetragen wurde. Sp\u00E4ter fanden dort auch Rennen der US-amerikanischen Champ-Car-Serie statt. Der Kurs befand sich in der N\u00E4he des Renaissance Centers und der Cobo-Hall. Auch der Highway M-1, der auch als Woodward Avenue bekannt ist, war Teil des Kurses."@de ,
+		"Las calles de Detroit albergaron un Gran Premio en la F\u00F3rmula 1 y m\u00E1s tarde en la CART entre las sesiones de 1982 y 1991. El circuito se estableci\u00F3 cerca del Renaissance Center y el Cobo Center, tambi\u00E9n en una peque\u00F1a parte de la carretera M-1."@es ,
+		"Het stratencircuit van Detroit was een circuit gelegen in Detroit in de Amerikaanse staat Michigan, nabij het Renaissance Center. Tussen 1982 en 1988 stond het circuit op de Formule 1-kalender, als Grand Prix van de Verenigde Staten Oost tot 1984 en als enige overgebleven race in de Verenigde Staten van 1985 tot 1988. Er werden onderhandelingen gevoerd om de Amerikaanse Grand Prix in 1989 op het circuit Belle Isle Park te houden, maar dat ging uiteindelijk niet door. Vanaf dat jaar verhuisde de Grand Prix naar Phoenix in Arizona. Ayrton Senna is recordhouder op het circuit, hij won de laatste drie Formule 1-races die tussen 1986 en 1988 op het circuit gehouden werden. Het circuit stond tussen 1989 en 1991 op de Champ Car kalender. Braziliaans coureur Emerson Fittipaldi won de race twee keer, Michael Andretti een keer. In 1992 verdween het circuit van de kalender en werd het vervangen door het circuit Belle Isle Park, dat eveneens in Detroit gelegen is."@nl ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Detroit \u00E8 un tracciato automobilistico occasionale disegnato lungo le sponde dell'omonimo fiume nelle vicinanze del Renaissance Center. Ha ospitato tre edizioni del Gran Premio degli Stati Uniti d'America-Est di Formula 1 (dal 1982 al 1984) e quattro del Gran Premio degli Stati Uniti d'America di Formula 1 (dal 1985 al 1988). Il tracciato \u00E8 lungo 4.023 metri e, come la maggior parte dei circuiti cittadini, \u00E8 particolarmente tortuoso e con una sede stradale piuttosto stretta, delimitata da muretti realizzati con blocchi di cemento e guard-rail. La prima gara disputatavi venne interrotta al sesto giro per incidente e poi definitivamente dopo sessantadue giri per il raggiungimento del limite massimo delle due ore; la classifica venne decisa grazie alla somma dei tempi. Abbandonato dalla Formula 1 dopo l'edizione del 1988, dal 1989 al 1991 la pista ha ospitato il campionato della Champ Car. Dal 1992 al 2001 il circuito, seppur con un tracciato differente denominato Detroit Belle Isle Grand Prix, ha ospitato nuovamente la Champ Car, mentre dal 2007 al 2008 ha ospitato il campionato dell'IndyCar, che \u00E8 ritornato a correre qui dal 2012."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Downtown_Detroit_Street_Circuit.svg?width=300> ;
+	dbo:wikiPageRevisionID	743441878 ;
+	dbo:wikiPageID	2598841 ;
+	dbp:lengthMi	2.4990000000000001101 ;
+	dbp:location	dbr:United_States ,
+		dbr:Detroit ,
+		dbr:Michigan ;
+	dbp:recordDriver	dbr:Ayrton_Senna ;
+	dbp:recordTeam	dbr:Lotus_99T ,
+		dbr:Honda_Racing_F1 ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	1987 ;
+	dbp:turns	18 ;
+	dbp:name	"Detroit Street Circuit"^^xsd:string ;
+	dbp:events	dbr:Trans-Am_Series ,
+		dbr:Champ_Car ,
+		dbr:Formula_One .
+<http://dbpedia.org/resource/1984_Detroit_Grand_Prix>	dbo:location	dbr:Detroit_street_circuit .
+<http://dbpedia.org/resource/1988_Detroit_Grand_Prix>	dbo:location	dbr:Detroit_street_circuit .
+<http://dbpedia.org/resource/1985_Detroit_Grand_Prix>	dbo:location	dbr:Detroit_street_circuit .
+<http://dbpedia.org/resource/1987_Detroit_Grand_Prix>	dbo:location	dbr:Detroit_street_circuit .
+<http://dbpedia.org/resource/1986_Detroit_Grand_Prix>	dbo:location	dbr:Detroit_street_circuit .
+dbr:Detroit_Street_Circuit	dbo:wikiPageRedirects	dbr:Detroit_street_circuit .

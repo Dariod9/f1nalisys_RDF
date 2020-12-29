@@ -1,0 +1,113 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1935_Mannin_Moar>	dbp:location	dbr:Douglas_Circuit .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Douglas_Circuit	foaf:primaryTopic	dbr:Douglas_Circuit .
+<http://dbpedia.org/resource/1933_Mannin_Moar>	dbp:location	dbr:Douglas_Circuit .
+<http://dbpedia.org/resource/1934_Mannin_Moar>	dbp:location	dbr:Douglas_Circuit .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1950_British_Empire_Trophy>	dbo:location	dbr:Douglas_Circuit .
+dbr:Mannin_Moar	dbp:location	dbr:Douglas_Circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Douglas_Circuit	rdf:type	yago:Instrumentality103575240 ,
+		dbo:MotorsportSeason .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Douglas_Circuit	rdf:type	geo:SpatialThing ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Device103183080 ,
+		<http://dbpedia.org/class/yago/WikicatPre\u2013WorldChampionshipGrandPrixCircuits> ,
+		yago:WikicatFormulaOneCircuits ,
+		yago:Whole100003553 ,
+		yago:Artifact100021939 ,
+		yago:ElectricalDevice103269401 ,
+		yago:Circuit103033362 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Douglas_Circuit	rdfs:label	"Douglas Circuit"@en ;
+	rdfs:comment	"The Douglas Circuit was a motor racing street circuit in Douglas, the capital and largest town of the Isle of Man and was re-configured each year until 1937. The first Grand Prix, titled \"Mannin Beg & Mannin Moar\" (English: Small Man & Big Man) was held in 1933 on a 4.60 mi (7.40 km) street circuit  which repeated as II and III Mannin Moar on different circuit layouts until 1935. In 1936 the circuit changed again for the IV RAC International Light Car Race and a last time for the (1937) V RAC International Light Car Race."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Douglas_Circuit	owl:sameAs	yago-res:Douglas_Circuit .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Douglas_Circuit	owl:sameAs	wikidata:Q16989007 ,
+		<http://rdf.freebase.com/ns/m.010gk5z8> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Douglas_Circuit	owl:sameAs	dbpedia-wikidata:Q16989007 ,
+		dbr:Douglas_Circuit .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Douglas_Circuit	dct:subject	<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grand_Prix_circuits> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Douglas_Circuit	dct:subject	dbc:Formula_One_circuits ,
+		dbc:Defunct_motorsport_venues_in_the_United_Kingdom .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Douglas_Circuit	geo:lat	"54.154003143310546875"^^xsd:float ;
+	geo:long	"-4.4789891242980957031"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit-douglas-1933-2.png> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Douglas_Circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Douglas_Circuit	geo:geometry	"POINT(-4.4789891242981 54.154003143311)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Douglas_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Douglas_Circuit?oldid=663167906> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Douglas_Circuit	georss:point	"54.15400277777778 -4.478988888888889" ;
+	dbp:time	dbr:GMT ;
+	dbp:surface	"Asphalt"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://www.statsf1.com/en/1949-hc/grand-prix-54.aspx> ,
+		<http://www.statsf1.com/en/1950-hc/grand-prix-71.aspx> ,
+		<http://www.teamdan.com/archive/gen/betrophy.html> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.ky2-06s-3Fvw> .
+@prefix ns19:	<http://www.silhouet.com/motorsport/archive/f1/nc/1950/1950.html#> .
+dbr:Douglas_Circuit	dbo:wikiPageExternalLink	ns19:empire ;
+	dbp:lengthKm	6.4400000000000003908 ,
+		7.4000000000000003553 ,
+		6.2400000000000002132 ,
+		5.8799999999999998934 ,
+		6.5 ;
+	dbo:abstract	"The Douglas Circuit was a motor racing street circuit in Douglas, the capital and largest town of the Isle of Man and was re-configured each year until 1937. The first Grand Prix, titled \"Mannin Beg & Mannin Moar\" (English: Small Man & Big Man) was held in 1933 on a 4.60 mi (7.40 km) street circuit  which repeated as II and III Mannin Moar on different circuit layouts until 1935. In 1936 the circuit changed again for the IV RAC International Light Car Race and a last time for the (1937) V RAC International Light Car Race. Racing at Douglas resumed in post-war 1947 on the 1937 3.87 mi (6.24 km) circuit configuration with the first Manx Cup and the 9th British Empire Trophy. This circuit variant remained largely unchanged until 1953, the 15th British Empire Trophy and last event held on the Douglas street circuit."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit-douglas-1933-2.png?width=300> ;
+	dbo:wikiPageRevisionID	663167906 ;
+	dbo:wikiPageID	42601933 ;
+	dbp:lengthMi	4.5999999999999996447 ,
+		3.6499999999999999112 ,
+		4 ,
+		4.0400000000000000355 ,
+		3.8700000000000001066 ;
+	dbp:location	<http://dbpedia.org/resource/Douglas,_Isle_of_Man> ,
+		dbr:United_Kingdom ;
+	dbp:layout	"Douglas Circuit"^^xsd:string ;
+	dbp:recordClass	dbr:Formula_One ,
+		dbr:Grand_Prix_motor_racing ,
+		dbr:Voiturette ;
+	dbp:recordDriver	"Brian Lewis"^^xsd:string ,
+		"Reg Parnell"^^xsd:string ,
+		"Richard Seaman"^^xsd:string ;
+	dbp:recordTeam	<http://dbpedia.org/resource/Maserati_4CLT/48> ,
+		dbr:Alfa_Romeo_8C ,
+		dbr:Delage ,
+		dbr:Bugatti_Type_51 ,
+		dbr:Alfa_Romeo_P3 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+dbr:Douglas_Circuit	dbp:recordTime	"188.0"^^ns20:second ,
+		"170.0"^^ns20:second ,
+		4 ,
+		"200.0"^^ns20:second ,
+		"186.0"^^ns20:second ;
+	dbp:recordYear	1936 ,
+		1950 ,
+		1933 ,
+		1934 ,
+		1935 ;
+	dbp:turns	16 ,
+		6 ,
+		7 ,
+		4 ,
+		5 ;
+	dbp:name	"Douglas Circuit"^^xsd:string .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Douglas_Circuit	ns21:hypernym	dbr:Motor ;
+	dbp:events	dbr:Grand_Prix_motor_racing ,
+		dbr:Voiturette ,
+		dbr:Formula_One ,
+		dbr:Sports_car_racing .

@@ -1,0 +1,162 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1959_German_Grand_Prix>	dbo:location	dbr:AVUS .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:AVUS	rdf:type	yago:WikicatAutobahnsInGermany ,
+		yago:Event100029378 ,
+		yago:WikicatMotorsportVenuesInGermany ,
+		yago:Object100002684 ,
+		yago:YagoLegalActorGeo ,
+		yago:Race107472657 ,
+		yago:PhysicalEntity100001930 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:AVUS	rdf:type	geo:SpatialThing ,
+		yago:Autobahn102758863 ,
+		yago:WikicatSportsVenuesInBerlin ,
+		yago:Wikicat1936SummerOlympicVenues ,
+		yago:PsychologicalFeature100023100 ,
+		yago:WikicatOlympicAthleticsVenues ,
+		yago:WikicatFormulaOneNon-ChampionshipRaces ,
+		yago:SocialEvent107288639 ,
+		yago:Venue108677628 ,
+		yago:Scene108645963 ,
+		dbo:Road ,
+		yago:Way104564698 ,
+		yago:WikicatStreetsInBerlin ,
+		yago:Artifact100021939 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Region108630985 ,
+		yago:Contest107456188 ,
+		yago:Street104334599 ,
+		yago:Thoroughfare104426618 ,
+		yago:Road104096066 ,
+		yago:Highway103519981 ,
+		yago:Location100027167 ,
+		yago:Whole100003553 ,
+		yago:Area108497294 ,
+		yago:Expressway103306610 ,
+		yago:Abstraction100002137 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:AVUS	rdfs:label	"AVUS"@de ,
+		"Automobil-Verkehrs- und \u00DCbungs-Stra\u00DFe GmbH"@fr ,
+		"AVUS"@pt ,
+		"\u30A2\u30F4\u30B9"@ja ,
+		"AVUS"@nl ,
+		"AVUS"@es ,
+		"AVUS"@pl ,
+		"AVUS"@it ,
+		"AVUS"@en ,
+		"\u0410\u0424\u0423\u0421"@ru ;
+	rdfs:comment	"The Automobil-Verkehrs- und \u00DCbungsstra\u00DFe ('Automobile traffic and training road'), better known as AVUS, is a public road in Berlin, Germany. Opened in 1921, it is the oldest controlled-access highway in Europe. Until 1998 it was also used as a motor racing circuit. Today the AVUS forms the northern part of the Bundesautobahn 115."@en ,
+		"O Circuito de AVUS (Automobil Verkehrs und \u00DCbungs-Stra\u00DFe) foi um circuito localizado no sub\u00FArbio da cidade de Berlim, Alemanha. Hoje, seu antigo tra\u00E7ado \u00E9 parte da rodovia Bundesautobahn 115."@pt ,
+		"De AVUS (voluit Automobil-Verkehrs- und \u00DCbungs-Stra\u00DFe) is de oudste autoweg (weg gesloten voor niet-gemotoriseerd verkeer) van Europa, gelegen tussen het Tentoonstellingspark en de wijk Nikolassee in Berlijn. De AVUS werd oorspronkelijk vooral gebruikt als racecircuit en heeft deze functie gehouden tot 1998."@nl ,
+		"AVUS (Automobil-Verkehrs- und \u00DCbungs-Stra\u00DFe, niem. ulica ruchu automobilowego i \u0107wiczebna) \u2013 najstarszy w Europie odcinek autostrady, znajduj\u0105cy si\u0119 w Berlinie."@pl ,
+		"Die AVUS (Automobil-Verkehrs- und \u00DCbungsstra\u00DFe) ist die erste ausschlie\u00DFliche Autostra\u00DFe und erste Autobahn der Welt, obwohl sie wegen ihrer K\u00FCrze besser als autobahn\u00E4hnlich bezeichnet wird. Sie wurde 1921 er\u00F6ffnet. Sie war 8,3 Kilometer lang und geb\u00FChrenpflichtig und diente bis 1940 als Renn- und Teststrecke und nicht dem \u00F6ffentlichen Verkehr. (Die erste l\u00E4ngere Autobahn der Welt wurde am 21. September 1924 in Italien er\u00F6ffnet, das erste Teilst\u00FCck von Mailand nach Varese, der heutigen A 8.)"@de ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) L'AVUS (acronimo di Automobil Verkehrs und \u00DCbungs-Stra\u00DFe in italiano Strada per il traffico (V) e per le prove (U) delle Automobili), \u00E8 la prima autostrada progettata e contemporaneamente la prima aperta al traffico (mentre per altri il primato viene assegnato all'Autostrada dei Laghi, inaugurata nel 1924), oggi parte dell'autostrada tedesca A 115. Dal 1921 fino al 1998 era anche, con chiusura temporanea del percorso per il traffico, un circuito automobilistico."@it ,
+		"\u0410\u0424\u0423\u0421 (\u043D\u0435\u043C. AVUS, \u0441\u043E\u043A\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u043E\u0442 \u043D\u0435\u043C. Automobil-Verkehrs und \u00DCbungs-Stra\u00DFe \u2014 \u00AB\u0434\u043E\u0440\u043E\u0433\u0430 \u0434\u043B\u044F \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u043E\u0433\u043E \u0434\u0432\u0438\u0436\u0435\u043D\u0438\u044F \u0438 \u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u0439\u00BB) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043C\u0435\u0436\u0434\u0443 \u0440\u0430\u0439\u043E\u043D\u0430\u043C\u0438 \u0411\u0435\u0440\u043B\u0438\u043D\u0430 \u0428\u0430\u0440\u043B\u043E\u0442\u0442\u0435\u043D\u0431\u0443\u0440\u0433 \u0438 \u041D\u0438\u043A\u043E\u043B\u0430\u0441\u0437\u0435\u0435. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0410\u0424\u0423\u0421 \u043F\u0435\u0440\u0435\u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D \u0432 \u0430\u0432\u0442\u043E\u0434\u043E\u0440\u043E\u0433\u0443 \u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0447\u0430\u0441\u0442\u044C\u044E \u0430\u0432\u0442\u043E\u0441\u0442\u0440\u0430\u0434\u044B \u0410 115. \u0418\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430\u0441\u044C \u0434\u043B\u044F \u0433\u043E\u043D\u043A\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 1959 \u0433\u043E\u0434\u0430."@ru ,
+		"El AVUS (siglas de Automobil-Verkehrs- und \u00DCbungs-Stra\u00DFe) es un aut\u00F3dromo ubicado al oeste-suroeste de Berl\u00EDn, Alemania. Compuesto por dos largas rectas conectadas por dos horquillas, actualmente se encuentra inactivo desde 1998 y forma parte de la Autobahn A115."@es ,
+		"L'Automobil-Verkehrs- und \u00DCbungs-Stra\u00DFe GmbH ou AVUS est la premi\u00E8re Autobahn (autoroute) construite au monde. En 1909, la soci\u00E9t\u00E9 AVUS (acronyme traduisible par \u00AB circulation automobile et formation routi\u00E8re\u00BB) commence les \u00E9tudes d'une route automobile rapide de dix kilom\u00E8tres de long \u00E0 deux voies s\u00E9par\u00E9es, qui sera construite dans une lande de sable dans un faubourg \u00E0 l'ouest de Berlin. Sa mise en service eut lieu le 25 septembre 1921. L'AVUS a \u00E9galement accueilli une course qui lui \u00E9tait propre, l'Avusrennen, qui a \u00E9t\u00E9 organis\u00E9e de 1931 \u00E0 1935, puis en 1937 et enfin, de 1952 \u00E0 1954."@fr ,
+		"\u30A2\u30F4\u30B9\uFF08\u307E\u305F\u306F\u30A2\u30FC\u30F4\u30B9 \u30C9\u30A4\u30C4\u8A9E: AVUS  [\u02C8a\u02D0v\u028As]\uFF09\u306F\u30C9\u30A4\u30C4\u306E\u9996\u90FD\u30D9\u30EB\u30EA\u30F3\u90CA\u5916\u306B\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B9\u7528\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3002\u5178\u578B\u7684\u306A\u30D0\u30F3\u30AF\u3064\u304D\u30EC\u30FC\u30B9\u30C8\u30E9\u30C3\u30AF\u3067\u3042\u3063\u305F\u3002\u30EC\u30FC\u30B9\u7528\u306E\u8A2D\u5099\u306F\u64A4\u53BB\u3055\u308C\u305F\u3082\u306E\u306E\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u6700\u53E4\u306E\u81EA\u52D5\u8ECA\u5C02\u7528\u9053\u8DEF\u3068\u3057\u3066\u73FE\u5728\u3082\u4F7F\u7528\u3055\u308C\u3066\u3044\u308B\u3002"@ja .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:AVUS	owl:sameAs	wikidata:Q155810 ,
+		dbr:AVUS .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:AVUS	owl:sameAs	dbpedia-wikidata:Q155810 ,
+		<http://rdf.freebase.com/ns/m.017_t6> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:AVUS	owl:sameAs	dbpedia-pl:AVUS .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:AVUS	owl:sameAs	dbpedia-nl:AVUS .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:AVUS	owl:sameAs	dbpedia-it:AVUS .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:AVUS	owl:sameAs	dbpedia-es:AVUS .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:AVUS	owl:sameAs	dbpedia-pt:AVUS .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:AVUS	owl:sameAs	yago-res:AVUSrennen .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:AVUS	owl:sameAs	dbpedia-de:AVUS ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30F4\u30B9> ,
+		<http://fr.dbpedia.org/resource/Automobil-Verkehrs-_und_\u00DCbungs-Stra\u00DFe_GmbH> ,
+		yago-res:AVUS .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:AVUS	owl:sameAs	dbpedia-cs:AVUS .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:AVUS	owl:sameAs	dbpedia-id:AVUS .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:AVUS	dct:subject	dbc:Formula_One_circuits ,
+		dbc:Olympic_cycling_venues ,
+		dbc:Roads_in_Berlin ,
+		dbc:German_Grand_Prix ,
+		dbc:Motorsport_in_Berlin ,
+		dbc:Olympic_athletics_venues ,
+		<http://dbpedia.org/resource/Category:1936_Summer_Olympic_venues> ,
+		dbc:Motorsport_venues_in_Germany ,
+		dbc:Sports_venues_in_Berlin .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:AVUS	foaf:homepage	<http://www.la84foundation.org/6oic/OfficialReports/1936/1936v2sum.pdf> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:AVUS	geo:lat	"52.480556488037109375"^^xsd:float ;
+	geo:long	"13.2513885498046875"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_AVUS.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:AVUS	foaf:isPrimaryTopicOf	wikipedia-en:AVUS .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:AVUS	geo:geometry	"POINT(13.251388549805 52.480556488037)"^^virtrdf:Geometry .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:AVUS	dbp:time	"GMT +1"^^xsd:string ;
+	dbp:lengthKm	8.3000000000000007105 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:AVUS	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/AVUS?oldid=721298587> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:AVUS	georss:point	"52.480555555555554 13.251388888888888" ;
+	dbo:wikiPageExternalLink	<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kLTiFm1izaH8> ,
+		<http://www.la84foundation.org/6oic/OfficialReports/1936/1936v2sum.pdf> ,
+		<http://www.forix.com/8w/avus.html> ;
+	dbp:location	"Berlin, Germany"^^xsd:string ;
+	dbp:recordDriver	dbr:Tony_Brooks ;
+	dbp:recordTime	2 ;
+	dbp:recordYear	1959 ;
+	dbp:turns	4 ;
+	dbp:name	"AVUS"^^xsd:string ;
+	dbo:abstract	"O Circuito de AVUS (Automobil Verkehrs und \u00DCbungs-Stra\u00DFe) foi um circuito localizado no sub\u00FArbio da cidade de Berlim, Alemanha. Hoje, seu antigo tra\u00E7ado \u00E9 parte da rodovia Bundesautobahn 115."@pt ,
+		"Die AVUS (Automobil-Verkehrs- und \u00DCbungsstra\u00DFe) ist die erste ausschlie\u00DFliche Autostra\u00DFe und erste Autobahn der Welt, obwohl sie wegen ihrer K\u00FCrze besser als autobahn\u00E4hnlich bezeichnet wird. Sie wurde 1921 er\u00F6ffnet. Sie war 8,3 Kilometer lang und geb\u00FChrenpflichtig und diente bis 1940 als Renn- und Teststrecke und nicht dem \u00F6ffentlichen Verkehr. (Die erste l\u00E4ngere Autobahn der Welt wurde am 21. September 1924 in Italien er\u00F6ffnet, das erste Teilst\u00FCck von Mailand nach Varese, der heutigen A 8.) Die AVUS liegt im S\u00FCdwesten Berlins und ist das n\u00F6rdliche Teilst\u00FCck der Autobahn A 115. Sie f\u00FChrt vom Funkturm, an dem sie einen Anschluss zum Berliner Stadtring (A 100) hat, rund neun Kilometer geradeaus durch den Grunewald bis nach Nikolassee. Bis zum April 1998 wurde die AVUS zus\u00E4tzlich an bestimmten Wochenenden auch als Rennstrecke genutzt."@de ,
+		"El AVUS (siglas de Automobil-Verkehrs- und \u00DCbungs-Stra\u00DFe) es un aut\u00F3dromo ubicado al oeste-suroeste de Berl\u00EDn, Alemania. Compuesto por dos largas rectas conectadas por dos horquillas, actualmente se encuentra inactivo desde 1998 y forma parte de la Autobahn A115. El proyecto del circuito, a cargo del Autom\u00F3vil Club de Alemania, surgi\u00F3 en el a\u00F1o 1907. Luego de varias demoras por problemas de financiamiento, el AVUS se inaugur\u00F3 en septiembre de 1921. El AVUS alberg\u00F3 el primer Gran Premio de Alemania, disputado con autom\u00F3viles de Gran Turismo en el a\u00F1o 1926. Asimismo, el Gran Premio de Alemania de Motociclismo se disput\u00F3 por primera vez en 1925 en el AVUS, y luego en 1926 y 1933. Originalmente, la pista se compon\u00EDa de dos rectas unidas por dos curvas amplias y chatas, que se circulaba en sentido antihorario. Pero dado el enfrentamiento entre los circuitos de AVUS y N\u00FCrburgring, la curva norte fue redise\u00F1ada en 1937 al agregarse un peralte de 43\u00BA. Debido a que no hab\u00EDa ninguna barrera en la parte superior, muchos pilotos de carreras murieron al perder el control de su veh\u00EDculo y volar por encima del muro. Durante el gobierno nacionalsocialista alem\u00E1n, la curva sur fue demolida para unir ambas rectas a la red de autopistas. Despu\u00E9s de la segunda guerra mundial, se volvi\u00F3 a correr en el AVUS en una versi\u00F3n reducida a 8.300 metros. La F\u00F3rmula 1 compiti\u00F3 por \u00FAnica vez en ese lugar el Gran Premio de Alemania de 1959, y el Campeonato Mundial de Resistencia celebr\u00F3 el Gran Premio de Berl\u00EDn en 1962. Despu\u00E9s de que varios pilotos sufrieran accidentes en la curva norte, \u00E9sta tambi\u00E9n se demoli\u00F3 en 1967. Desde entonces y hasta 1998, el AVUS alberg\u00F3 carreras del Deutsche Tourenwagen Meisterschaft, el Campeonato Alem\u00E1n de Automovilismo y la F\u00F3rmula 3 Alemana en versiones del trazado recortadas, con chicanas y curvas sin peraltes."@es ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) L'AVUS (acronimo di Automobil Verkehrs und \u00DCbungs-Stra\u00DFe in italiano Strada per il traffico (V) e per le prove (U) delle Automobili), \u00E8 la prima autostrada progettata e contemporaneamente la prima aperta al traffico (mentre per altri il primato viene assegnato all'Autostrada dei Laghi, inaugurata nel 1924), oggi parte dell'autostrada tedesca A 115. Dal 1921 fino al 1998 era anche, con chiusura temporanea del percorso per il traffico, un circuito automobilistico."@it ,
+		"De AVUS (voluit Automobil-Verkehrs- und \u00DCbungs-Stra\u00DFe) is de oudste autoweg (weg gesloten voor niet-gemotoriseerd verkeer) van Europa, gelegen tussen het Tentoonstellingspark en de wijk Nikolassee in Berlijn. De AVUS werd oorspronkelijk vooral gebruikt als racecircuit en heeft deze functie gehouden tot 1998. Met de bouw van de AVUS werd in 1913 begonnen op initiatief van keizer Wilhelm II. In 1921 was de toen 19,3 kilometer lange baan klaar en in 1926 werd hier de eerste Grand Prix van Duitsland gereden. Na de Tweede Wereldoorlog werd de AVUS ingekort tot 8,3 kilometer, waarna er vanaf 1953 weer werd geracet. De oude, steile S\u00FCdkurve maakt dan geen deel meer uit van het parcours. In 1967 werd de steile uitvoering van de Nordkurve vervangen door een vlakke versie. Nog steeds is een oude tribune te zien langs een deel van de AVUS dat nu als toegangsweg tot Berlijn gebruikt wordt. Doordat de AVUS was aangelegd als autoweg met gescheiden rijbanen, met keerlussen aan beide einden, werd het racecircuit als relatief saai ervaren in vergelijking met andere racecircuits. In 1937 werd aan de noordzijde een 43\u00B0 hellende bocht toegevoegd, wat tot snellere tijden leidde, maar verder weinig veranderde aan het simpele karakter van het parcours. In 1940 werd de AVUS een onderdeel van het snelwegennet en werd de bestaande zuidelijke keerlus bij het tankstation aan de Spanische Allee gesloten. De als vervanging hiervoor geplande hellende bocht werd door het uitbreken van de Tweede Wereldoorlog niet voltooid. Na de oorlog werd de keerlus voor motoren aan de H\u00FCttenweg als vervanger in gebruik genomen en werd het circuit daardoor tot 8,3 km verkort. Vanwege het gevaar, werd de hellende bocht aan de noordzijde in 1967 gesloopt en vervangen door een vlakke bocht. Het circuit voldeed echter niet meer aan de eisen voor de hedendaagse autosport en in 1998 viel definitief het doek voor de AVUS als racecircuit. Het traject is tegenwoordig onderdeel van de Bundesautobahn 115."@nl ,
+		"\u0410\u0424\u0423\u0421 (\u043D\u0435\u043C. AVUS, \u0441\u043E\u043A\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u043E\u0442 \u043D\u0435\u043C. Automobil-Verkehrs und \u00DCbungs-Stra\u00DFe \u2014 \u00AB\u0434\u043E\u0440\u043E\u0433\u0430 \u0434\u043B\u044F \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u043E\u0433\u043E \u0434\u0432\u0438\u0436\u0435\u043D\u0438\u044F \u0438 \u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u0439\u00BB) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043C\u0435\u0436\u0434\u0443 \u0440\u0430\u0439\u043E\u043D\u0430\u043C\u0438 \u0411\u0435\u0440\u043B\u0438\u043D\u0430 \u0428\u0430\u0440\u043B\u043E\u0442\u0442\u0435\u043D\u0431\u0443\u0440\u0433 \u0438 \u041D\u0438\u043A\u043E\u043B\u0430\u0441\u0437\u0435\u0435. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0410\u0424\u0423\u0421 \u043F\u0435\u0440\u0435\u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D \u0432 \u0430\u0432\u0442\u043E\u0434\u043E\u0440\u043E\u0433\u0443 \u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0447\u0430\u0441\u0442\u044C\u044E \u0430\u0432\u0442\u043E\u0441\u0442\u0440\u0430\u0434\u044B \u0410 115. \u0418\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430\u0441\u044C \u0434\u043B\u044F \u0433\u043E\u043D\u043A\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 1959 \u0433\u043E\u0434\u0430."@ru ,
+		"The Automobil-Verkehrs- und \u00DCbungsstra\u00DFe ('Automobile traffic and training road'), better known as AVUS, is a public road in Berlin, Germany. Opened in 1921, it is the oldest controlled-access highway in Europe. Until 1998 it was also used as a motor racing circuit. Today the AVUS forms the northern part of the Bundesautobahn 115."@en ,
+		"L'Automobil-Verkehrs- und \u00DCbungs-Stra\u00DFe GmbH ou AVUS est la premi\u00E8re Autobahn (autoroute) construite au monde. En 1909, la soci\u00E9t\u00E9 AVUS (acronyme traduisible par \u00AB circulation automobile et formation routi\u00E8re\u00BB) commence les \u00E9tudes d'une route automobile rapide de dix kilom\u00E8tres de long \u00E0 deux voies s\u00E9par\u00E9es, qui sera construite dans une lande de sable dans un faubourg \u00E0 l'ouest de Berlin. Sa mise en service eut lieu le 25 septembre 1921. L'AVUS est utilis\u00E9e comme circuit pour le Grand Prix d'Allemagne de 1926 remport\u00E9 par le local Rudolf Caracciola et de 1959, remport\u00E9 par l'anglais Tony Brooks au volant d'une Ferrari mais elle est marqu\u00E9e par la mort du pilote fran\u00E7ais Jean Behra qui concourait dans une autre cat\u00E9gorie la veille du Grand Prix. Le d\u00E9veloppement du circuit est r\u00E9duit plusieurs fois jusqu'\u00E0 l'arr\u00EAt de son utilisation au d\u00E9but des ann\u00E9es 2000. L'AVUS a \u00E9galement accueilli une course qui lui \u00E9tait propre, l'Avusrennen, qui a \u00E9t\u00E9 organis\u00E9e de 1931 \u00E0 1935, puis en 1937 et enfin, de 1952 \u00E0 1954. L'Avus est maintenant int\u00E9gr\u00E9e dans le r\u00E9seau d'autoroutes qui permettent d'acc\u00E9der \u00E0 Berlin intra-muros en arrivant par le sud-ouest. Elle part de Nikolassee, petit lac entour\u00E9 de for\u00EAts, traverse Grunewald, une des grandes for\u00EAts berlinoises et se termine \u00E0 l'\u00E9changeur d'Halensee \u00E0 c\u00F4t\u00E9 de la tour de t\u00E9l\u00E9vision de Berlin ouest. Aux heures de pointe l'Avus est satur\u00E9e. Son num\u00E9ro officiel est A 115 AVUS. Les comptages sur l'Avus montrent une moyenne quotidienne de 66 000 v\u00E9hicules (donn\u00E9es 2007)."@fr ,
+		"AVUS (Automobil-Verkehrs- und \u00DCbungs-Stra\u00DFe, niem. ulica ruchu automobilowego i \u0107wiczebna) \u2013 najstarszy w Europie odcinek autostrady, znajduj\u0105cy si\u0119 w Berlinie."@pl ,
+		"\u30A2\u30F4\u30B9\uFF08\u307E\u305F\u306F\u30A2\u30FC\u30F4\u30B9 \u30C9\u30A4\u30C4\u8A9E: AVUS  [\u02C8a\u02D0v\u028As]\uFF09\u306F\u30C9\u30A4\u30C4\u306E\u9996\u90FD\u30D9\u30EB\u30EA\u30F3\u90CA\u5916\u306B\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B9\u7528\u306E\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308B\u3002\u5178\u578B\u7684\u306A\u30D0\u30F3\u30AF\u3064\u304D\u30EC\u30FC\u30B9\u30C8\u30E9\u30C3\u30AF\u3067\u3042\u3063\u305F\u3002\u30EC\u30FC\u30B9\u7528\u306E\u8A2D\u5099\u306F\u64A4\u53BB\u3055\u308C\u305F\u3082\u306E\u306E\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u6700\u53E4\u306E\u81EA\u52D5\u8ECA\u5C02\u7528\u9053\u8DEF\u3068\u3057\u3066\u73FE\u5728\u3082\u4F7F\u7528\u3055\u308C\u3066\u3044\u308B\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Circuit_AVUS.svg?width=300> ;
+	dbo:wikiPageRevisionID	721298587 ;
+	dbo:wikiPageID	176958 ;
+	dbp:lengthMi	5.1570000000000000284 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:AVUS	ns27:hypernym	dbr:Road ;
+	dbp:recordTeam	dbr:Scuderia_Ferrari ;
+	dbp:events	dbr:Deutsche_Rennsport_Meisterschaft ,
+		dbr:Deutsche_Tourenwagen_Meisterschaft ,
+		dbr:Formula_3 ,
+		dbr:Interserie ,
+		1959 ,
+		dbr:European_Touring_Car_Championship ,
+		1926 ,
+		dbr:Group_C .
+dbr:AVUS_Race_Track	dbo:wikiPageRedirects	dbr:AVUS .
+dbr:Avus_North_Curve	dbo:wikiPageRedirects	dbr:AVUS .
+dbr:AVUSrennen	dbo:wikiPageRedirects	dbr:AVUS .
+wikipedia-en:AVUS	foaf:primaryTopic	dbr:AVUS .
+<http://dbpedia.org/resource/AV\u00DCS>	dbo:wikiPageRedirects	dbr:AVUS .
+dbr:Avusrennen	dbo:wikiPageRedirects	dbr:AVUS .
+<http://dbpedia.org/resource/1926_German_Grand_Prix>	dbo:location	dbr:AVUS .
+dbr:Cycling_at_the_1936_Summer_Olympics	dbp:roadvenue	dbr:AVUS .
+dbr:Automobil_Verkehrs_und_Ubungs-Strasse	dbo:wikiPageRedirects	dbr:AVUS .
+dbr:Avus	dbo:wikiPageRedirects	dbr:AVUS .
+<http://dbpedia.org/resource/Automobil_Verkehrs_und_\u00DCbungs-Strasse>	dbo:wikiPageRedirects	dbr:AVUS .

@@ -1,0 +1,43 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Austrian_motorcycle_Grand_Prix	dbp:venue	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1997_Austrian_motorcycle_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1977_Austrian_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1978_Austrian_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1979_Austrian_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/\u00D6sterreichring>	foaf:primaryTopic	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1996_Austrian_motorcycle_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1970_Austrian_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/2000_Austrian_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/2001_Austrian_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1971_Austrian_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1972_Austrian_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1976_Austrian_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1980_Austrian_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1981_Austrian_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1982_Austrian_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1983_Austrian_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1984_Austrian_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1985_Austrian_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1986_Austrian_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+<http://dbpedia.org/resource/1987_Austrian_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/\u00D6sterreichring> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/\u00D6sterreichring>	rdfs:label	"\u00D6sterreichring"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/\u00D6sterreichring>	owl:sameAs	<http://sws.geonames.org/3324798/> ,
+		<http://dbpedia.org/resource/\u00D6sterreichring> ,
+		<http://dbpedia.org/resource/\u00D6sterreichring> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/\u00D6sterreichring>	dct:subject	dbc:Formula_One_circuits ,
+		dbc:Superbike_World_Championship_circuits ,
+		dbc:Motorsport_venues_in_Austria ,
+		dbc:Austrian_Grand_Prix ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/\u00D6sterreichring> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/\u00D6sterreichring>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/\u00D6sterreichring?oldid=462503443> ;
+	dbo:wikiPageRevisionID	462503443 ;
+	dbo:wikiPageID	30797798 ;
+	dbo:wikiPageRedirects	dbr:Red_Bull_Ring .

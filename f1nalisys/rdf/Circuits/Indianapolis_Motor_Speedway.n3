@@ -1,0 +1,282 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2010_Indianapolis_motorcycle_Grand_Prix>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+dbr:Indianapolis_motorcycle_Grand_Prix	dbp:venue	dbr:Indianapolis_Motor_Speedway .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2005_United_States_Grand_Prix>	dbo:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2002_United_States_Grand_Prix>	dbo:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2003_United_States_Grand_Prix>	dbo:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2004_United_States_Grand_Prix>	dbo:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2006_United_States_Grand_Prix>	dbo:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2000_United_States_Grand_Prix>	dbo:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2001_United_States_Grand_Prix>	dbo:location	dbr:Indianapolis_Motor_Speedway .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Indianapolis_Motor_Speedway	rdf:type	yago:WikicatMotorsportVenuesInIndiana ,
+		yago:Position108621598 ,
+		yago:WikicatHistoricDistrictsInIndiana ,
+		yago:Landmark108624891 ,
+		yago:WikicatNationalHistoricLandmarksOfTheUnitedStates ,
+		yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		yago:WikicatNationalHistoricLandmarksInIndiana .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Indianapolis_Motor_Speedway	rdf:type	wikidata:Q41176 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		<http://dbpedia.org/class/yago/WikicatSportsVenuesInIndianapolis,Indiana> ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatEventVenuesEstablishedIn1909 ,
+		yago:YagoLegalActorGeo .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Indianapolis_Motor_Speedway	rdf:type	owl:Thing ,
+		dbo:Building ,
+		yago:Object100002684 ,
+		dbo:ArchitecturalStructure ,
+		dbo:Location ,
+		dbo:Place ,
+		yago:Point108620061 ,
+		<http://dbpedia.org/class/yago/WikicatNationalHistoricLandmarksInIndianapolis,Indiana> .
+@prefix schema:	<http://schema.org/> .
+dbr:Indianapolis_Motor_Speedway	rdf:type	schema:Place ,
+		yago:Area108497294 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Indianapolis_Motor_Speedway	rdf:type	umbel-rc:Place ,
+		yago:Path109387222 ,
+		yago:Line108593262 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Indianapolis_Motor_Speedway	rdf:type	geo:SpatialThing ,
+		umbel-rc:Location_Underspecified ,
+		yago:WikicatMotorsportVenuesInTheUnitedStates ,
+		yago:WikicatNASCARTracks ,
+		yago:WikicatIndyCarSeriesTracks ,
+		yago:District108552138 ,
+		yago:WikicatSportsVenuesInIndiana .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Indianapolis_Motor_Speedway	rdfs:label	"Indianapolis Motor Speedway"@fr ,
+		"Indianapolis Motor Speedway"@pt ,
+		"Indianapolis Motor Speedway"@it ,
+		"Indianapolis Motor Speedway"@en ,
+		"\u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 \u0645\u0648\u062A\u0648\u0631 \u0633\u0628\u064A\u062F\u0648\u0627\u064A"@ar ,
+		"Indianapolis Motor Speedway"@pl ,
+		"Indianapolis Motor Speedway"@es ,
+		"\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u8CFD\u8ECA\u5834"@zh ,
+		"\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u30FB\u30E2\u30FC\u30BF\u30FC\u30FB\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4"@ja ,
+		"\u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441 \u041C\u043E\u0442\u043E\u0440 \u0421\u043F\u0438\u0434\u0432\u0435\u0439"@ru ,
+		"Indianapolis Motor Speedway"@nl ,
+		"Indianapolis Motor Speedway"@de ;
+	rdfs:comment	"\u00AB\u0418\u043D\u0434\u0438\u0430\u043D\u0430\u0301\u043F\u043E\u043B\u0438\u0441 \u041C\u043E\u0301\u0442\u043E\u0440 \u0421\u043F\u0438\u0301\u0434\u0432\u0435\u0439\u00BB (\u0430\u043D\u0433\u043B. Indianapolis Motor Speedway, IMS) \u2014 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C, \u043D\u0430\u0445\u043E\u0434\u044F\u0449\u0438\u0439\u0441\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0421\u043F\u0438\u0434\u0432\u0435\u0439\u0440\u0443\u0441\u0441\u043A. (\u0430\u043D\u043A\u043B\u0430\u0432, \u0441\u043E \u0432\u0441\u0435\u0445 \u0441\u0442\u043E\u0440\u043E\u043D \u043E\u043A\u0440\u0443\u0436\u0451\u043D\u043D\u044B\u0439 \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u043E\u043C, \u0441\u0442\u043E\u043B\u0438\u0446\u0435\u0439 \u0448\u0442\u0430\u0442\u0430 \u0418\u043D\u0434\u0438\u0430\u043D\u0430, \u0421\u0428\u0410). \u042D\u0442\u043E \u0432\u0442\u043E\u0440\u043E\u0439 \u043F\u043E \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0443 \u0438\u0437 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044E\u0449\u0438\u0445 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u043E\u0432 \u0432 \u043C\u0438\u0440\u0435 (\u043F\u043E\u0441\u043B\u0435 \u041C\u0438\u043B\u0443\u043E\u043A\u0441\u043A\u043E\u0439 \u043C\u0438\u043B\u0438), \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0441 1909 \u0433\u043E\u0434\u0430. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0443\u043F\u043E\u043C\u0438\u043D\u0430\u0435\u0442\u0441\u044F \u0432 \u043F\u0440\u0435\u0441\u0441\u0435 \u043F\u043E\u0434 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F\u043C\u0438 Indy (\u00AB\u0418\u043D\u0434\u0438\u00BB), The Brickyard (\u00AB\u041A\u0438\u0440\u043F\u0438\u0447\u043D\u044B\u0439 \u0434\u0432\u043E\u0440\u00BB, \u00AB\u041A\u0438\u0440\u043F\u0438\u0447\u043D\u0438\u0446\u0430\u00BB), The Mecca of Motorsport (\u00AB\u041C\u0435\u043A\u043A\u0430 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0430\u00BB)."@ru ,
+		"The Indianapolis Motor Speedway, located in Speedway, Indiana, (an enclave suburb of Indianapolis) in the United States, is the home of the Indianapolis 500 and the Brickyard 400. It is located on the corner of 16th Street and Georgetown Road, approximately six miles (10 km) west of Downtown Indianapolis. Constructed in 1909, it is the original speedway, the first racing facility so named. It has a permanent seating capacity estimated at 235,000 with infield seating raising capacity to an approximate 400,000. It is the highest-capacity sports venue in the world."@en ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) L'Indianapolis Motor Speedway \u00E8 un circuito automobilistico situato a Speedway, un sobborgo della capitale dello stato dell'Indiana. Ha ospitato otto edizioni del Gran Premio degli Stati Uniti d'America di Formula 1 (dal 2000 al 2007) e ospita attualmente il Gran Premio di Indianapolis del Motomondiale, le gare della NASCAR Sprint Cup Series, della Nationwide Series, del campionato Grand-Am oltre alla celeberrima 500 Miglia di Indianapolis."@it ,
+		"Indianapolis Motor Speedway \u00E9 um circuito oval localizada em Indianapolis, estado de Indiana, Estados Unidos. \u00C9 conhecido por ser o palco para as 500 Milhas de Indian\u00E1polis, a corrida em circuito oval mais importante no mundo e a corrida mais importante dos Estados Unidos. Indian\u00E1polis \u00E9 a arena de esportes de maior p\u00FAblico do mundo, com 257.000 lugares permanentes. \u00C9 parte do registro nacional de lugares hist\u00F3ricos desde 1975 e \u00E9 um Marco Hist\u00F3rico Nacional (em ingl\u00EAs: National Historic Landmark, sigla: NHL) desde 1987."@pt ,
+		"De Indianapolis Motor Speedway is een circuit gelegen in Speedway, ten noordwesten van Indianapolis in de Verenigde Staten. Oorspronkelijk was het alleen een ovaal circuit, later werd er een binnencircuit aangelegd dat verbonden is met een deel van het ovale circuit. Het circuit is in de eerste plaats bekend om de Indianapolis 500, een wedstrijd die voor de eerste keer gereden werd in 1911."@nl ,
+		"Der Indianapolis Motor Speedway ist eine Rennstrecke in Speedway, Vereinigte Staaten, die komplett von der Stadt Indianapolis umschlossen ist. Der Superspeedway ist ein Oval mit einer L\u00E4nge von vier Kilometern (2,5 Meilen). An der Rennstrecke finden 300.000 Zuschauer Platz; sie ist damit das gr\u00F6\u00DFte Sportstadion der Vereinigten Staaten. Die Strecke ist Austragungsort f\u00FCr die Indianapolis 500 und das Brickyard 400. Von 2008 bis 2014 wurde au\u00DFerdem der Gro\u00DFe Preis von Indianapolis im Rahmen der Motorrad-Weltmeisterschaft ausgetragen. Die Rennstrecke wurde im Jahr 1975 in das National Register of Historic Places aufgenommen und im Jahr 1987 zu einer National Historic Landmark erkl\u00E4rt."@de ,
+		"Indianapolis Motor Speedway est un circuit automobile situ\u00E9 \u00E0 Speedway (une petite ville enclave, compl\u00E8tement entour\u00E9e par Indianapolis, la capitale de l'\u00C9tat) dans l'\u00C9tat de l'Indiana, aux \u00C9tats-Unis. C'est la deuxi\u00E8me plus ancienne piste de comp\u00E9tition automobile dans le monde apr\u00E8s celle de Milwaukee Mile. Le circuit accueille, entre autres, les fameux 500 miles d'Indianapolis, une autre manche des IndyCar Series se d\u00E9roulant sur le trac\u00E9 routier et le Grand Prix Red Bull Indianapolis de MotoGP, Moto2 et Moto3."@fr ,
+		"\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u30FB\u30E2\u30FC\u30BF\u30FC\u30FB\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4 (Indianapolis Motor Speedway) \u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u5DDE\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u5E02\u90CA\u5916\u306E\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4\u753A\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u4E16\u754C3\u5927\u30EC\u30FC\u30B9\u306E1\u3064\u3068\u3044\u308F\u308C\u308B\u30A4\u30F3\u30C7\u30A3500\u30DE\u30A4\u30EB\u304C\u884C\u308F\u308C\u308B\u3053\u3068\u3067\u77E5\u3089\u308C\u308B\u30021909\u5E74\u306B\u958B\u8A2D\u3055\u308C\u305F\u6B74\u53F2\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308A\u30011975\u5E74\u306B\u56FD\u5BB6\u6B74\u53F2\u767B\u9332\u8CA1\u306B\u767B\u9332\u3055\u308C\u30011987\u5E74\u306B\u56FD\u5B9A\u6B74\u53F2\u5EFA\u9020\u7269\u306B\u6307\u5B9A\u3055\u308C\u305F\u3002"@ja ,
+		"\u062D\u0644\u0628\u0629 \u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 \u0645\u0648\u062A\u0648\u0631 \u0633\u0628\u064A\u062F\u0648\u0627\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Indianapolis Motor Speedway) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u062A\u0642\u0639 \u0641\u064A \u0642\u0637\u0627\u0639 \"\u0633\u0628\u064A\u062F \u0648\u0627\u064A\" \u0641\u064A \u0636\u0648\u0627\u062D\u064A \u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 \u0641\u064A \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0648\u0647\u064A \u0645\u0642\u0631 \u0627\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 500 \u0648 \u0628\u0631\u064A\u0643 \u064A\u0627\u0631\u062F 400. \u0648\u062A\u0642\u0639 \u0639\u0644\u0649 \u0632\u0627\u0648\u064A\u0629 \u0634\u0627\u0631\u0639 16 \u0648\u0634\u0627\u0631\u0639 \u062C\u0648\u0631\u062C \u062A\u0627\u0648\u0646\u060C \u0639\u0644\u0649 \u0628\u0639\u062F \u062D\u0648\u0627\u0644\u064A \u0666 \u0645\u064A\u0644 (\u0661\u0660 \u0643\u0645) \u063A\u0631\u0628 \u0648\u0633\u0637 \u0645\u062F\u064A\u0646\u0629 \u0627\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633."@ar ,
+		"Indianapolis Motor Speedway \u2013 tor wy\u015Bcigowy znajduj\u0105cy si\u0119 w Speedway (enklawa na przedmie\u015Bciach Indianapolis) w ameryka\u0144skim stanie Indiana. Odbywaj\u0105 si\u0119 tu wy\u015Bcigi Indianapolis 500, NASCAR i MotoGP. Na trybunach mo\u017Ce zasi\u0105\u015B\u0107 257 tysi\u0119cy widz\u00F3w. Doliczaj\u0105c do tego liczb\u0119 miejsc wewn\u0105trz toru na Indianapolis Motor Speedway zmagania mo\u017Ce ogl\u0105da\u0107 blisko 400 tysi\u0119cy widz\u00F3w. Czyni go to, poza Circus Maximus, najbardziej pojemnym obiektem sportowym w historii. Pocz\u0105tkowo tor w ca\u0142o\u015Bci by\u0142 pokryty ceg\u0142\u0105 (st\u0105d nieoficjalna nazwa toru \"Brickyard\"). Obecnie z ceg\u0142y wykonana jest jedynie linia start-meta, co ma przypomina\u0107 o bogatej i d\u0142ugiej historii toru."@pl ,
+		"\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u8CFD\u8ECA\u5834(\uFF08\u82F1\u6587\uFF09:Indianapolis Motor Speedway)\u662F\u4E00\u500B\u4F4D\u65BC\u7F8E\u570B\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u7684\u98DB\u5730\u65AF\u76AE\u5FB7\u97E6\u7684\u8CFD\u8ECA\u5834\u3002\u5B83\u6BCF\u5E74\u4E3B\u8FA6\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF500\u5927\u8CFD\u548CBrickyard 400\u7B49\u7B49\u4E3B\u8981\u8CFD\u4E8B\u3002\u6A62\u5713\u578B\u8CFD\u8ECA\u5834\u5168\u95772.5\u82F1\u91CC\u3002\u57281998-2000\u5E74\u52A0\u5EFA\u4E86\u5834\u5167\u8CFD\u9053\u4E4B\u5F8C\uFF0C\u57282000\u5E74\u81F32007\u5E74\u671F\u9593\uFF0C\u8CFD\u8ECA\u5834\u7684\u5834\u5167\u8CFD\u9053\u4E5F\u66FE\u7D93\u8209\u8FA6\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u4E8B\u30022008\u5E74\u8D77\uFF0C\u4E16\u754C\u6469\u6258\u8ECA\u9326\u6A19\u8CFD\u4E5F\u5728\u6B64\u8209\u8FA6\u3002\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u8CFD\u8ECA\u5834\u662F\u7F8E\u570B\u570B\u5BB6\u53F2\u8E5F\u540D\u9304\u548C\u7F8E\u570B\u570B\u5BB6\u6B77\u53F2\u540D\u52DD\u4E2D\u552F\u4E00\u548C\u8CFD\u8ECA\u6B77\u53F2\u6709\u95DC\u7684\u5730\u6A19\u3002\u81EA1956\u5E74\uFF0C\u8CFD\u8ECA\u5834\u65BC\u5834\u5167\u8A2D\u6709\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u8CFD\u8ECA\u5834\u540D\u4EBA\u5802\u535A\u7269\u9928\uFF0C\u9928\u5167\u8A2D\u6709\u8CFD\u8ECA\u540D\u4EBA\u5802\u3002\u8CFD\u8ECA\u5834\u57281987\u5E74\u8209\u884C\u4E86\u6CDB\u7F8E\u904B\u52D5\u6703\u7684\u958B\u5E55\u5100\u5F0F\u3002"@zh ,
+		"Indianapolis Red bull Ring Motor Speedway es un aut\u00F3dromo situado en Indian\u00E1polis, estado de Indiana, Estados Unidos. Es conocido por ser sede de las 500 Millas de Indian\u00E1polis Red Bull, la carrera en \u00F3valos m\u00E1s importante del mundo y la carrera de automovilismo m\u00E1s importante de Estados Unidos. Indian\u00E1polis es el recinto deportivo de mayor capacidad de p\u00FAblico del mundo, con 257.000 plazas permanantes. Forma parte del Registro Nacional de Lugares Hist\u00F3ricos desde 1975 y es un Hito Hist\u00F3rico Nacional desde 1987."@es ;
+	rdfs:seeAlso	dbr:Indianapolis_500 ,
+		dbr:List_of_Grand_Prix_motorcycle_races ,
+		dbr:List_of_NASCAR_race_tracks .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-de:Indianapolis_Motor_Speedway .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-wikidata:Q172732 ,
+		<http://ko.dbpedia.org/resource/\uC778\uB514\uC560\uB098\uD3F4\uB9AC\uC2A4_\uBAA8\uD130_\uC2A4\uD53C\uB4DC\uC6E8\uC774> ,
+		<http://ja.dbpedia.org/resource/\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u30FB\u30E2\u30FC\u30BF\u30FC\u30FB\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-fr:Indianapolis_Motor_Speedway .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-id:Indianapolis_Motor_Speedway ,
+		<http://rdf.freebase.com/ns/m.01h63n> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-nl:Indianapolis_Motor_Speedway .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-pl:Indianapolis_Motor_Speedway .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-cs:Indianapolis_Motor_Speedway .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-it:Indianapolis_Motor_Speedway .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-es:Indianapolis_Motor_Speedway ,
+		dbr:Indianapolis_Motor_Speedway .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	dbpedia-pt:Indianapolis_Motor_Speedway ,
+		wikidata:Q172732 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Indianapolis_Motor_Speedway	owl:sameAs	yago-res:Indianapolis_Motor_Speedway ,
+		<http://sws.geonames.org/4259429/> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Indianapolis_Motor_Speedway	dct:subject	dbc:IndyCar_Series_tracks ,
+		dbc:International_Race_of_Champions_tracks ,
+		dbc:Champ_Car_circuits ,
+		dbc:Indianapolis_500 ,
+		dbc:Event_venues_established_in_1909 ,
+		dbc:Grand_Prix_motorcycle_circuits ,
+		dbc:Motorsport_venues_in_Indiana ,
+		dbc:NASCAR_races_at_Indianapolis_Motor_Speedway ,
+		dbc:Sports_venues_in_Indianapolis ,
+		dbc:United_States_Grand_Prix ,
+		dbc:Formula_One_circuits ,
+		dbc:Historic_districts_on_the_National_Register_of_Historic_Places_in_Indiana ,
+		dbc:Pan_American_Games_opening_ceremony_stadiums ,
+		dbc:Sports_venues_on_the_National_Register_of_Historic_Places_in_Indiana ,
+		dbc:National_Historic_Landmarks_in_Indianapolis ,
+		dbc:National_Register_of_Historic_Places_in_Indianapolis ,
+		<http://dbpedia.org/resource/Category:1909_establishments_in_Indiana> ,
+		dbc:Motorsport_in_Indianapolis ,
+		dbc:NASCAR_tracks .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Indianapolis_Motor_Speedway	foaf:name	"Indianapolis Motor Speedway"@en ;
+	foaf:homepage	<http://www.indianapolismotorspeedway.com> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Indianapolis_Motor_Speedway	geo:lat	"39.79833221435546875"^^xsd:float ;
+	geo:long	"-86.23278045654296875"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ims_aerial.jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Indianapolis_Motor_Speedway	foaf:isPrimaryTopicOf	wikipedia-en:Indianapolis_Motor_Speedway .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Indianapolis_Motor_Speedway	geo:geometry	"POINT(-86.232780456543 39.798332214355)"^^virtrdf:Geometry ;
+	dbp:recordClass	dbr:Grand_Prix_motorcycle_racing ,
+		dbr:Indy_Racing_League ,
+		dbr:Formula_One ,
+		dbr:IndyCar_Series ;
+	dbp:opened	"1909-08-12"^^xsd:date ;
+	dbp:surface	"Asphalt and Brick"^^xsd:string ;
+	dbp:operator	"Indianapolis Motor Speedway Corporation"^^xsd:string ;
+	dbp:nicknames	"The \"Brickyard\""^^xsd:string ;
+	dbo:added	"1975-03-07"^^xsd:date ;
+	dbo:nrhpReferenceNumber	"75000044" ;
+	dbo:yearOfConstruction	"1909"^^xsd:gYear ;
+	dbp:time	"UTC\u22125 / \u22124"^^xsd:string ;
+	dbp:lengthKm	4.2179999999999999716 ,
+		4.0229999999999996874 ,
+		3.9249999999999998224 ,
+		4.0780000000000002913 ,
+		4.1920000000000001705 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Indianapolis_Motor_Speedway	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway?oldid=743489699> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Indianapolis_Motor_Speedway	georss:point	"39.79833333333333 -86.23277777777778" .
+@prefix ns30:	<http://www.ulib.iupui.edu/digitalscholarship/collections/> .
+dbr:Indianapolis_Motor_Speedway	dbo:wikiPageExternalLink	ns30:IMS ,
+		<http://www.nascar.com> ,
+		<http://www.nascar.com/races/tracks/ims/index.html> ,
+		<http://www.nps.gov/nr/travel/indianapolis/motorspeedway.htm> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kLTiFm1izaH8> ,
+		<http://www.indianapolismotorspeedway.com> ,
+		<http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/circuit_guide/4250839.stm> ;
+	dbp:location	"Speedway, Indiana 46222"^^xsd:string ,
+		4790 .
+@prefix ns31:	<http://dbpedia.org/datatype/> .
+dbr:Indianapolis_Motor_Speedway	dbp:constructionCost	"3000000.0"^^ns31:usDollar ;
+	dbp:recordDriver	dbr:Rubens_Barrichello ,
+		dbr:Arie_Luyendyk ,
+		dbr:Marc_Marquez ;
+	dbp:recordTime	1 ,
+		37.895000000000003126 ;
+	dbp:recordYear	2013 ,
+		2004 ,
+		1996 ;
+	dbp:turns	16 ,
+		13 ,
+		4 ;
+	dbp:banking	"Straights: 0\u00B0"^^xsd:string ,
+		"Turns: 9.2\u00B0"^^xsd:string ;
+	dbp:milesFirst	"True"^^xsd:string ;
+	dbo:location	<http://dbpedia.org/resource/Speedway,_Indiana> ;
+	dbp:name	"Indianapolis Motor Speedway"^^xsd:string ;
+	dbo:abstract	"The Indianapolis Motor Speedway, located in Speedway, Indiana, (an enclave suburb of Indianapolis) in the United States, is the home of the Indianapolis 500 and the Brickyard 400. It is located on the corner of 16th Street and Georgetown Road, approximately six miles (10 km) west of Downtown Indianapolis. Constructed in 1909, it is the original speedway, the first racing facility so named. It has a permanent seating capacity estimated at 235,000 with infield seating raising capacity to an approximate 400,000. It is the highest-capacity sports venue in the world. Considered relatively flat by American standards, the track is a two-and-a-half-mile, nearly rectangular oval with dimensions that have remained essentially unchanged since its inception: four 1\u20444-mile (400 m) turns, two 5\u20448-mile-long (1,000 m) straightaways between the fourth and first turns and the second and third turns, and two 1\u20448-mile (200 m) short straightaways, termed \"short chutes\", between the first and second, and third and fourth turns. A modern infield road course was constructed between 1998 and 2000, incorporating the western and southern portions of the oval (including the southwest turn) to create a2.605-mile (4.192 km) track. In 2008, the road course was modified to replace the southwest turn with an additional infield section for motorcycle racing, resulting in a 2.621-mile (4.218 km) course. Altogether, the current grounds have expanded from an original 320 acres (1.3 km2) on which the speedway was first built to cover an area of over 559 acres (2.3 km2). Placed on the National Register of Historic Places in 1975 and designated a National Historic Site in 1987, it is the only such site to be affiliated with automotive racing history. In addition to the Indianapolis 500, the speedway also hosts NASCAR's Brickyard 400. From 2000 to 2007, the speedway also hosted the United States Grand Prix for Formula One. The inaugural USGP race drew an estimated 400,000 spectators, setting a Formula One attendance record. In 2008, the speedway added the Indianapolis motorcycle Grand Prix, a Grand Prix motorcycle racing event. On the grounds of the speedway is the Indianapolis Motor Speedway Museum, which opened in 1956. The museum moved into its current building located in the infield near the short chute between turns one and two in 1975; its previous building outside the track at the corner of 16th Street and Georgetown Road was razed for the construction of current IMS administration offices. Also on the grounds is the Brickyard Crossing Golf Resort, which originally opened as the Speedway Golf Course in 1929. The golf course has 14 holes outside of the track, along the backstretch, and four holes in the infield. The speedway was also the venue of the opening ceremonies for the 1987 Pan American Games."@en ,
+		"Indianapolis Motor Speedway \u00E9 um circuito oval localizada em Indianapolis, estado de Indiana, Estados Unidos. \u00C9 conhecido por ser o palco para as 500 Milhas de Indian\u00E1polis, a corrida em circuito oval mais importante no mundo e a corrida mais importante dos Estados Unidos. Indian\u00E1polis \u00E9 a arena de esportes de maior p\u00FAblico do mundo, com 257.000 lugares permanentes. \u00C9 parte do registro nacional de lugares hist\u00F3ricos desde 1975 e \u00E9 um Marco Hist\u00F3rico Nacional (em ingl\u00EAs: National Historic Landmark, sigla: NHL) desde 1987. Considerado relativamente plana para os padr\u00F5es americanos, a pista possui 2,5 milhas (4 000 m), quase retangular, com dimens\u00F5es que permaneceram essencialmente inalteradas desde a sua cria\u00E7\u00E3o: quatro curvas de 1/4 milhas (400 m) se transforma, duas 5/8 milhas (1 000 m) retas entre a quarta e primeira curvas e a segunda e terceira curvas e duas 1/8 milhas (200 m) retas curtas , denominados \"curtos p\u00E1ra-quedas\", entre a primeira e a segunda curvas e a terceira e a quarta se transformam. O empres\u00E1rio Carl G. Fisher construiu o circuito com o objetivo de promover a ind\u00FAstria de autom\u00F3vel de Indian\u00E1polis. Abriu em 1909, automobilismo e motociclismo, corridas, e o 500 milhas de Indian\u00E1polis come\u00E7ou a ser praticado em 1911. Sua \u00E1rea original era de tijolos. Pouco a pouco, a superf\u00EDcie de tijolos foi substitu\u00EDda por asfalto para completar a mudan\u00E7a em 1961, deixando intacto um p\u00E1tio de tijolos na linha de chegada, que lhe rendeu o apelido de \"The Brickyard\" (\"terreno de tijolos\"). Depois de d\u00E9cadas tendo uma \u00FAnica corrida por ano, a pista come\u00E7ou a receber outros eventos como as cerim\u00F3nias de abertura e fechamento dos Jogos Pan-Americanos de 1987, as corridas do evento da 400 milhas de Brickyard da NASCAR Sprint Cup desde 1994. Mais tarde, abrigou o Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 a partir de 2000 a 2007 em um circuito misto e o Grande Pr\u00EAmio de Indian\u00E1polis de MotoGP(Red Bull Indian\u00E1polis GP) da MotoGP desde 2008. O NASCAR Nationwide Series e o Rolex Sports Car Series - Grand-Am - acompanharam o NASCAR Sprint Cup a partir de 2012, a primeira no layout oval e o segundo no layout misto. Em 1 de outubro de 2013, detalhes do Grand Prix of Indianapolis(br: Grande Pr\u00EAmio de Indian\u00E1polis), uma corrida adicional para a temporada de 2014 da IndyCar Series e al\u00E9m, foram anunciados. O evento inaugural foi agendado para 8\u201310 de maio de 2014 na rec\u00E9m reconfigurada 2.439 milhas (3,925 km), no circuito misto de 14 curvas em Indianapolis Motor Speedway (uma chicane substitui a curva longa) e a se\u00E7\u00E3o de Snake Pit est\u00E1 inclu\u00EDda. A vis\u00E3o do p\u00FAblico foi modificada, junto com a arquibancada especial e seus arranjos. As quatro curvas do oval tem uma curvatura de 9\u00B012'(nove graus e doze minutos), consideravelmente menos do que o Brooklands, Circuito de Monza e Daytona e um comprimento de 0,25 milhas (402 metros). A reta principal e o oposto medido cada 0,625 milhas (1.006 metros) e o lado reto 0,125 milha (201 metros), totalizando 2,5 milhas (4,024 metros). O circuito misto tem uma variante sem chicane na curva 1 do oval e o outro com chicane, medindo 4.192 e 4.218 metros respectivamente. F\u00F3rmula 1 e o Grand-Am t\u00EAm usado circuito misto sem a chicane no sentido hor\u00E1rio e a corrida de MotoGP usa a vers\u00E3o com chicane variante no sentido anti-hor\u00E1rio."@pt ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) L'Indianapolis Motor Speedway \u00E8 un circuito automobilistico situato a Speedway, un sobborgo della capitale dello stato dell'Indiana. Ha ospitato otto edizioni del Gran Premio degli Stati Uniti d'America di Formula 1 (dal 2000 al 2007) e ospita attualmente il Gran Premio di Indianapolis del Motomondiale, le gare della NASCAR Sprint Cup Series, della Nationwide Series, del campionato Grand-Am oltre alla celeberrima 500 Miglia di Indianapolis."@it ,
+		"De Indianapolis Motor Speedway is een circuit gelegen in Speedway, ten noordwesten van Indianapolis in de Verenigde Staten. Oorspronkelijk was het alleen een ovaal circuit, later werd er een binnencircuit aangelegd dat verbonden is met een deel van het ovale circuit. Het circuit is in de eerste plaats bekend om de Indianapolis 500, een wedstrijd die voor de eerste keer gereden werd in 1911."@nl ,
+		"\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u30FB\u30E2\u30FC\u30BF\u30FC\u30FB\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4 (Indianapolis Motor Speedway) \u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u5DDE\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u5E02\u90CA\u5916\u306E\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4\u753A\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3002\u4E16\u754C3\u5927\u30EC\u30FC\u30B9\u306E1\u3064\u3068\u3044\u308F\u308C\u308B\u30A4\u30F3\u30C7\u30A3500\u30DE\u30A4\u30EB\u304C\u884C\u308F\u308C\u308B\u3053\u3068\u3067\u77E5\u3089\u308C\u308B\u30021909\u5E74\u306B\u958B\u8A2D\u3055\u308C\u305F\u6B74\u53F2\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u3042\u308A\u30011975\u5E74\u306B\u56FD\u5BB6\u6B74\u53F2\u767B\u9332\u8CA1\u306B\u767B\u9332\u3055\u308C\u30011987\u5E74\u306B\u56FD\u5B9A\u6B74\u53F2\u5EFA\u9020\u7269\u306B\u6307\u5B9A\u3055\u308C\u305F\u3002"@ja ,
+		"\u00AB\u0418\u043D\u0434\u0438\u0430\u043D\u0430\u0301\u043F\u043E\u043B\u0438\u0441 \u041C\u043E\u0301\u0442\u043E\u0440 \u0421\u043F\u0438\u0301\u0434\u0432\u0435\u0439\u00BB (\u0430\u043D\u0433\u043B. Indianapolis Motor Speedway, IMS) \u2014 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C, \u043D\u0430\u0445\u043E\u0434\u044F\u0449\u0438\u0439\u0441\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0421\u043F\u0438\u0434\u0432\u0435\u0439\u0440\u0443\u0441\u0441\u043A. (\u0430\u043D\u043A\u043B\u0430\u0432, \u0441\u043E \u0432\u0441\u0435\u0445 \u0441\u0442\u043E\u0440\u043E\u043D \u043E\u043A\u0440\u0443\u0436\u0451\u043D\u043D\u044B\u0439 \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u043E\u043C, \u0441\u0442\u043E\u043B\u0438\u0446\u0435\u0439 \u0448\u0442\u0430\u0442\u0430 \u0418\u043D\u0434\u0438\u0430\u043D\u0430, \u0421\u0428\u0410). \u042D\u0442\u043E \u0432\u0442\u043E\u0440\u043E\u0439 \u043F\u043E \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0443 \u0438\u0437 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044E\u0449\u0438\u0445 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u043E\u0432 \u0432 \u043C\u0438\u0440\u0435 (\u043F\u043E\u0441\u043B\u0435 \u041C\u0438\u043B\u0443\u043E\u043A\u0441\u043A\u043E\u0439 \u043C\u0438\u043B\u0438), \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0441 1909 \u0433\u043E\u0434\u0430. \u041D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0435\u0436\u0435\u0433\u043E\u0434\u043D\u043E \u0441 1911 \u0433\u043E\u0434\u0430 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u0433\u043E\u043D\u043A\u0430 500 \u043C\u0438\u043B\u044C \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0430, \u0432 \u0440\u0430\u0437\u043D\u044B\u0435 \u0433\u043E\u0434\u044B \u0432\u0445\u043E\u0434\u0438\u0432\u0448\u0430\u044F \u0432 \u0437\u0430\u0447\u0451\u0442 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 AAA, USAC, IRL IndyCar, Champ Car \u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0428\u043E\u0441\u0441\u0435\u0439\u043D\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F \u0442\u0440\u0430\u0441\u0441\u044B \u0432 \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0435 \u0441 2000 \u043F\u043E 2007 \u0433\u043E\u0434 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0421 2008 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0435 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0442 \u044D\u0442\u0430\u043F \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0448\u043E\u0441\u0441\u0435\u0439\u043D\u043E-\u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u043C \u043C\u043E\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u043E\u0442\u043D\u043E\u0441\u0438\u0442\u0441\u044F \u043A \u043E\u0432\u0430\u043B\u044C\u043D\u044B\u043C \u0442\u0440\u0435\u043A\u0430\u043C, \u0445\u043E\u0442\u044F \u0432\u043D\u0443\u0442\u0440\u0438 \u043E\u0432\u0430\u043B\u0430, \u043A\u0430\u043A \u0438 \u0443 \u043C\u043D\u043E\u0433\u0438\u0445 \u0434\u0440\u0443\u0433\u0438\u0445 \u043F\u043E\u0434\u043E\u0431\u043D\u044B\u0445 \u0442\u0440\u0430\u0441\u0441, \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0442 \u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442 \u0442\u0440\u0430\u0441\u0441\u044B \u0448\u043E\u0441\u0441\u0435\u0439\u043D\u043E\u0433\u043E \u0442\u0438\u043F\u0430, \u0432 \u0434\u0430\u043D\u043D\u043E\u043C \u0441\u043B\u0443\u0447\u0430\u0435 \u043F\u0440\u0435\u0434\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044B\u0439 \u0434\u0430\u0436\u0435 \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0422\u0440\u0438\u0431\u0443\u043D\u044B \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0430 \u0432\u043C\u0435\u0449\u0430\u044E\u0442 257 000 \u0437\u0440\u0438\u0442\u0435\u043B\u0435\u0439, \u043D\u043E \u0432\u043C\u0435\u0441\u0442\u0435 \u0441 \u043C\u0435\u0441\u0442\u0430\u043C\u0438 \u0432\u043D\u0443\u0442\u0440\u0438 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0430 (\u0432 \u0438\u043D\u0444\u0438\u043B\u0434\u0435) \u0434\u043E 400 000. \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0443\u043F\u043E\u043C\u0438\u043D\u0430\u0435\u0442\u0441\u044F \u0432 \u043F\u0440\u0435\u0441\u0441\u0435 \u043F\u043E\u0434 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F\u043C\u0438 Indy (\u00AB\u0418\u043D\u0434\u0438\u00BB), The Brickyard (\u00AB\u041A\u0438\u0440\u043F\u0438\u0447\u043D\u044B\u0439 \u0434\u0432\u043E\u0440\u00BB, \u00AB\u041A\u0438\u0440\u043F\u0438\u0447\u043D\u0438\u0446\u0430\u00BB), The Mecca of Motorsport (\u00AB\u041C\u0435\u043A\u043A\u0430 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0430\u00BB)."@ru ,
+		"Indianapolis Motor Speedway est un circuit automobile situ\u00E9 \u00E0 Speedway (une petite ville enclave, compl\u00E8tement entour\u00E9e par Indianapolis, la capitale de l'\u00C9tat) dans l'\u00C9tat de l'Indiana, aux \u00C9tats-Unis. C'est la deuxi\u00E8me plus ancienne piste de comp\u00E9tition automobile dans le monde apr\u00E8s celle de Milwaukee Mile. Le circuit accueille, entre autres, les fameux 500 miles d'Indianapolis, une autre manche des IndyCar Series se d\u00E9roulant sur le trac\u00E9 routier et le Grand Prix Red Bull Indianapolis de MotoGP, Moto2 et Moto3."@fr ,
+		"Indianapolis Motor Speedway \u2013 tor wy\u015Bcigowy znajduj\u0105cy si\u0119 w Speedway (enklawa na przedmie\u015Bciach Indianapolis) w ameryka\u0144skim stanie Indiana. Odbywaj\u0105 si\u0119 tu wy\u015Bcigi Indianapolis 500, NASCAR i MotoGP. Na trybunach mo\u017Ce zasi\u0105\u015B\u0107 257 tysi\u0119cy widz\u00F3w. Doliczaj\u0105c do tego liczb\u0119 miejsc wewn\u0105trz toru na Indianapolis Motor Speedway zmagania mo\u017Ce ogl\u0105da\u0107 blisko 400 tysi\u0119cy widz\u00F3w. Czyni go to, poza Circus Maximus, najbardziej pojemnym obiektem sportowym w historii. Pocz\u0105tkowo tor w ca\u0142o\u015Bci by\u0142 pokryty ceg\u0142\u0105 (st\u0105d nieoficjalna nazwa toru \"Brickyard\"). Obecnie z ceg\u0142y wykonana jest jedynie linia start-meta, co ma przypomina\u0107 o bogatej i d\u0142ugiej historii toru. Pierwsze wy\u015Bcigi na torze odby\u0142y si\u0119 14 sierpnia 1909. 30 maja 1911 odby\u0142 si\u0119 pierwszy z wy\u015Bcig\u00F3w samochodowych na dystansie 500 mil, znanych jako Indianapolis 500. W latach 1950-1960 wy\u015Bcig ten by\u0142 jedn\u0105 z rund cyklu Mistrzostw \u015Awiata Formu\u0142y 1. Obecnie jest on jednym z najwa\u017Cniejszych sportowych wydarze\u0144 w USA. W 1994 zainaugurowano wy\u015Bcig serii NASCAR \u2013 Brickyard 400, kt\u00F3ry od razu sta\u0142 si\u0119 \u2013 obok wy\u015Bcigu Daytona 500 \u2013 najwa\u017Cniejszym w corocznych mistrzostwach. W 2000 ponownie na tor zawita\u0142a Formu\u0142a 1, tym razem by\u0142 to wy\u015Bcig na specjalnie zbudowanej p\u0119tli, poprowadzonej w du\u017Cej cz\u0119\u015Bci wewn\u0105trz owalnego toru. Formu\u0142a 1 go\u015Bci\u0142a na Indianapolis Motor Speedway do 2007, natomiast w 2008 zadebiutowa\u0142y tu wy\u015Bcigi motocyklowe serii MotoGP (na nieco zmodyfikowanej p\u0119tli drogowej)."@pl ,
+		"Indianapolis Red bull Ring Motor Speedway es un aut\u00F3dromo situado en Indian\u00E1polis, estado de Indiana, Estados Unidos. Es conocido por ser sede de las 500 Millas de Indian\u00E1polis Red Bull, la carrera en \u00F3valos m\u00E1s importante del mundo y la carrera de automovilismo m\u00E1s importante de Estados Unidos. Indian\u00E1polis es el recinto deportivo de mayor capacidad de p\u00FAblico del mundo, con 257.000 plazas permanantes. Forma parte del Registro Nacional de Lugares Hist\u00F3ricos desde 1975 y es un Hito Hist\u00F3rico Nacional desde 1987. El empresario Carl G. Fisher construy\u00F3 el aut\u00F3dromo con el objetivo de impulsar la industria automotriz de Indian\u00E1polis. Se inaugur\u00F3 en 1909, albergando carreras de automovilismo y motociclismo, y las 500 Millas de Indian\u00E1polis comenz\u00F3 a disputarse en 1911. Su superficie original era de ladrillos. Poco a poco se fue reemplazado la superficie de ladrillos por asfalto hasta completar el cambio en 1961, dej\u00E1ndose intactas una yarda de ladrillos en la l\u00EDnea de meta, lo que le vali\u00F3 el apodo Brickyard (\"yarda de ladrillos\"). Luego de d\u00E9cadas de tener una sola carrera por a\u00F1o, la pista comenz\u00F3 a recibir otros eventos como las ceremonias de apertura y clausura de los Juegos Panamericanos en 1987, las 400 Millas de Brickyard de la NASCAR Cup Series desde 1994. M\u00E1s tarde, alberg\u00F3 el Gran Premio de Estados Unidos de la F\u00F3rmula 1 desde 2000 hasta 2007 en un circuito mixto, y el Gran Premio de Indian\u00E1polis de Motociclismo del Campeonato Mundial de Motociclismo desde 2008. La NASCAR Nationwide Series y la Grand-Am Rolex Sports Car Series acompa\u00F1an a la Copa NASCAR a partir de 2012, la primera de ellas en el \u00F3valo y la segunda en el trazado mixto. Las cuatro curvas del \u00F3valo tienen un peralte de 9\u00B012', considerablemente menor que los \u00F3valos de Brooklands, Monza y Daytona, y una longitud de 0,25 millas (402 metros). La recta principal y la opuesta miden cada una 0,625 millas (1.006 metros) y las rectas laterales 0,125 millas (201 metros), totalizando 2,5 millas (4.024 metros). El circuito mixto tiene una variante sin chicana sobre la curva 1 del \u00F3valo y otra con chicana, que miden 4.192 y 4.218 metros respectivamente. La F\u00F3rmula 1 y la Grand-Am han usado el circuito mixto sin chicana en sentido horario, y el Mundial de Motociclismo la variante con chicana en sentido antihorario."@es ,
+		"\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u8CFD\u8ECA\u5834(\uFF08\u82F1\u6587\uFF09:Indianapolis Motor Speedway)\u662F\u4E00\u500B\u4F4D\u65BC\u7F8E\u570B\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u7684\u98DB\u5730\u65AF\u76AE\u5FB7\u97E6\u7684\u8CFD\u8ECA\u5834\u3002\u5B83\u6BCF\u5E74\u4E3B\u8FA6\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF500\u5927\u8CFD\u548CBrickyard 400\u7B49\u7B49\u4E3B\u8981\u8CFD\u4E8B\u3002\u6A62\u5713\u578B\u8CFD\u8ECA\u5834\u5168\u95772.5\u82F1\u91CC\u3002\u57281998-2000\u5E74\u52A0\u5EFA\u4E86\u5834\u5167\u8CFD\u9053\u4E4B\u5F8C\uFF0C\u57282000\u5E74\u81F32007\u5E74\u671F\u9593\uFF0C\u8CFD\u8ECA\u5834\u7684\u5834\u5167\u8CFD\u9053\u4E5F\u66FE\u7D93\u8209\u8FA6\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u4E8B\u30022008\u5E74\u8D77\uFF0C\u4E16\u754C\u6469\u6258\u8ECA\u9326\u6A19\u8CFD\u4E5F\u5728\u6B64\u8209\u8FA6\u3002\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u8CFD\u8ECA\u5834\u662F\u7F8E\u570B\u570B\u5BB6\u53F2\u8E5F\u540D\u9304\u548C\u7F8E\u570B\u570B\u5BB6\u6B77\u53F2\u540D\u52DD\u4E2D\u552F\u4E00\u548C\u8CFD\u8ECA\u6B77\u53F2\u6709\u95DC\u7684\u5730\u6A19\u3002\u81EA1956\u5E74\uFF0C\u8CFD\u8ECA\u5834\u65BC\u5834\u5167\u8A2D\u6709\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u8CFD\u8ECA\u5834\u540D\u4EBA\u5802\u535A\u7269\u9928\uFF0C\u9928\u5167\u8A2D\u6709\u8CFD\u8ECA\u540D\u4EBA\u5802\u3002\u8CFD\u8ECA\u5834\u57281987\u5E74\u8209\u884C\u4E86\u6CDB\u7F8E\u904B\u52D5\u6703\u7684\u958B\u5E55\u5100\u5F0F\u3002"@zh ,
+		"Der Indianapolis Motor Speedway ist eine Rennstrecke in Speedway, Vereinigte Staaten, die komplett von der Stadt Indianapolis umschlossen ist. Der Superspeedway ist ein Oval mit einer L\u00E4nge von vier Kilometern (2,5 Meilen). An der Rennstrecke finden 300.000 Zuschauer Platz; sie ist damit das gr\u00F6\u00DFte Sportstadion der Vereinigten Staaten. Die Strecke ist Austragungsort f\u00FCr die Indianapolis 500 und das Brickyard 400. Von 2008 bis 2014 wurde au\u00DFerdem der Gro\u00DFe Preis von Indianapolis im Rahmen der Motorrad-Weltmeisterschaft ausgetragen. Die Rennstrecke wurde im Jahr 1975 in das National Register of Historic Places aufgenommen und im Jahr 1987 zu einer National Historic Landmark erkl\u00E4rt. Der Indianapolis Motor Speedway ist die \u00E4ltere und gr\u00F6\u00DFere der zwei gro\u00DFen Motorsportanlagen in Indianapolis, neben dem nur zw\u00F6lf Kilometer (7,5 mi) entfernten Lucas Oil Raceway at Indianapolis."@de ,
+		"\u062D\u0644\u0628\u0629 \u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 \u0645\u0648\u062A\u0648\u0631 \u0633\u0628\u064A\u062F\u0648\u0627\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Indianapolis Motor Speedway) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u062A\u0642\u0639 \u0641\u064A \u0642\u0637\u0627\u0639 \"\u0633\u0628\u064A\u062F \u0648\u0627\u064A\" \u0641\u064A \u0636\u0648\u0627\u062D\u064A \u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 \u0641\u064A \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0648\u0647\u064A \u0645\u0642\u0631 \u0627\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 500 \u0648 \u0628\u0631\u064A\u0643 \u064A\u0627\u0631\u062F 400. \u0648\u062A\u0642\u0639 \u0639\u0644\u0649 \u0632\u0627\u0648\u064A\u0629 \u0634\u0627\u0631\u0639 16 \u0648\u0634\u0627\u0631\u0639 \u062C\u0648\u0631\u062C \u062A\u0627\u0648\u0646\u060C \u0639\u0644\u0649 \u0628\u0639\u062F \u062D\u0648\u0627\u0644\u064A \u0666 \u0645\u064A\u0644 (\u0661\u0660 \u0643\u0645) \u063A\u0631\u0628 \u0648\u0633\u0637 \u0645\u062F\u064A\u0646\u0629 \u0627\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633."@ar ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ims_aerial.jpg?width=300> ;
+	dbo:wikiPageRevisionID	743489699 ;
+	dbo:wikiPageID	227965 ;
+	dbp:owner	<http://dbpedia.org/resource/Hulman_&_Company> ;
+	dbp:embedded	"--03-07"^^xsd:gMonthDay ;
+	dbp:layout	"Grand Prix road course"^^xsd:string ,
+		"Rectangular oval track"^^xsd:string ,
+		"Motorcycle course"^^xsd:string ;
+	dbp:lengthMi	2.5339999999999998082 ,
+		2.6209999999999999964 ,
+		2.6049999999999999822 ,
+		2.4390000000000000568 ,
+		2.5 ;
+	dbp:capacity	235000 ;
+	dbp:brokeGround	"1909-03-15"^^xsd:date .
+@prefix ns32:	<http://purl.org/linguistics/gold/> .
+dbr:Indianapolis_Motor_Speedway	ns32:hypernym	dbr:Home ;
+	dbp:architect	"Carl G. Fisher, James A. Allison, F. H. Wheeler, and Arthur Newby"^^xsd:string ;
+	dbp:recordTeam	dbr:Repsol_Honda ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Treadway_Racing ;
+	dbp:imageCaption	"Aerial photo of the Indianapolis Motor Speedway."^^xsd:string ;
+	dbp:events	dbr:Brickyard_400 ,
+		dbr:Sprint_Cup_Series ,
+		dbr:Xfinity_Series ,
+		dbr:Indianapolis_500 ,
+		"Lilly Diabetes 250"^^xsd:string ,
+		dbr:Grand_Prix_of_Indianapolis ,
+		dbr:NASCAR ,
+		"Verizon IndyCar Series"^^xsd:string .
+dbr:Speedway	dbo:wikiPageDisambiguates	dbr:Indianapolis_Motor_Speedway .
+dbr:Tom_Carnegie	dbo:knownFor	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2016_Grand_Prix_of_Indianapolis>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+dbr:Lilly_Diabetes_250	dbp:venue	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2012_Indianapolis_motorcycle_Grand_Prix>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/1967_Indianapolis_500>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+dbr:Lucas_Oil_Raceway_at_Indianapolis	owl:differentFrom	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2009_Indianapolis_motorcycle_Grand_Prix>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2014_Grand_Prix_of_Indianapolis>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2008_Indianapolis_motorcycle_Grand_Prix>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/1996_Brickyard_400>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+wikipedia-en:Indianapolis_Motor_Speedway	foaf:primaryTopic	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2012_IndyCar_Series_season>	dbp:track	dbr:Indianapolis_Motor_Speedway .
+dbr:Louis_Schwitzer_Award	dbp:location	dbr:Indianapolis_Motor_Speedway .
+dbr:Borg-Warner_Trophy	dbp:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2007_United_States_Grand_Prix>	dbo:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/Carl_G._Fisher>	rdfs:seeAlso	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2014_Brickyard_400>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/1995_Brickyard_400>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/Indianapolis_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Indianapolis_Motor_Speedway .
+dbr:Indianapolis_Speedway	dbo:wikiPageRedirects	dbr:Indianapolis_Motor_Speedway .
+dbr:Eddie_Rickenbacker	dbo:occupation	dbr:Indianapolis_Motor_Speedway .
+dbr:Tony_Hulman	dbo:knownFor	dbr:Indianapolis_Motor_Speedway .
+dbr:Wilfred_Bourque	dbo:deathPlace	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2015_Grand_Prix_of_Indianapolis>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+@prefix ns33:	<http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:> .
+ns33:_USA	dbp:space	dbr:Indianapolis_Motor_Speedway .
+dbr:Indianapolis_500	dbp:venue	dbr:Indianapolis_Motor_Speedway .
+dbr:Freedom_100	dbp:venue	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/500_Ladies_Classic>	dbp:course	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/1919_Indianapolis_500>	dbp:team	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/1987_Pan_American_Games>	dbp:stadium	dbr:Indianapolis_Motor_Speedway .
+dbr:IMS	dbo:wikiPageDisambiguates	dbr:Indianapolis_Motor_Speedway .
+dbr:Grand_Prix_of_Indianapolis	dbp:venue	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2010_Brickyard_400>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+dbr:IROC_at_Indy	dbp:venue	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/Grand_Prix_of_Indianapolis_(Indy_Lights)>	dbp:venue	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/1960_Indianapolis_500>	dbo:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/Estadio_Panamericano,_Havana>	dbp:before	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2013_Indianapolis_motorcycle_Grand_Prix>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2014_Indianapolis_motorcycle_Grand_Prix>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2015_Indianapolis_motorcycle_Grand_Prix>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+dbr:Brickyard_400	dbp:venue	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2013_Brickyard_400>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+dbr:Ralph_Hepburn	dbo:deathPlace	dbr:Indianapolis_Motor_Speedway .
+<http://dbpedia.org/resource/2011_Indianapolis_motorcycle_Grand_Prix>	dbp:location	dbr:Indianapolis_Motor_Speedway .
+dbr:Old_Brickyard	dbo:wikiPageRedirects	dbr:Indianapolis_Motor_Speedway .

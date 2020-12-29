@@ -1,0 +1,164 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1986_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+<http://dbpedia.org/resource/1987_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+<http://dbpedia.org/resource/1995_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Adelaide_Street_Circuit	foaf:primaryTopic	dbr:Adelaide_Street_Circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Adelaide_Street_Circuit	rdf:type	yago:Area108497294 ,
+		yago:Thoroughfare104426618 ,
+		yago:Street104334599 ,
+		yago:YagoLegalActorGeo ,
+		yago:Venue108677628 ,
+		yago:Object100002684 ,
+		yago:Scene108645963 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:BaseballLeague ,
+		yago:Whole100003553 ,
+		yago:Way104564698 ,
+		yago:Road104096066 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatMotorsportVenuesInAustralia ,
+		yago:WikicatStreetsInAdelaide ,
+		yago:WikicatSportsVenuesInAdelaide ,
+		yago:WikicatSportsVenuesInSouthAustralia ,
+		yago:Artifact100021939 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Adelaide_Street_Circuit	rdf:type	geo:SpatialThing ,
+		yago:Region108630985 ,
+		yago:Location100027167 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Adelaide_Street_Circuit	rdfs:label	"Circuito callejero de Adelaida"@es ,
+		"Circuit urbain d'Ad\u00E9la\u00EFde"@fr ,
+		"\u0410\u0434\u0435\u043B\u0430\u0438\u0434\u0430 (\u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"Adelaide Street Circuit"@pl ,
+		"Adelaide Street Circuit"@pt ,
+		"Adelaide Street Circuit"@en ,
+		"Circuito di Adelaide"@it ,
+		"Adelaide Street Circuit"@de ,
+		"Stratencircuit van Adelaide"@nl ,
+		"\u062D\u0644\u0628\u0629 \u0623\u062F\u064A\u0644\u064A\u062F \u0633\u062A\u0631\u064A\u062A"@ar ,
+		"\u30A2\u30C7\u30EC\u30FC\u30C9\u5E02\u8857\u5730\u30B3\u30FC\u30B9"@ja ;
+	rdfs:comment	"Le Circuit urbain d'Ad\u00E9la\u00EFde est un circuit temporaire trac\u00E9 dans les rues du quartier d'affaires de la ville d'Ad\u00E9la\u00EFde dans le sud de l'Australie. Ce trac\u00E9 a accueilli 11 Grands Prix d'Australie de Formule 1 de 1985 \u00E0 1995. La 12e et derni\u00E8re \u00E9preuve d'ALMS (American Le Mans Series) saison 2000 fut \u00E9galement couru sur ce circuit, sur une distance de 1 000 km le 31 d\u00E9cembre. Depuis 1999, ce circuit re\u00E7oit une \u00E9preuve de V8 Supercars appel\u00E9e Adela\u00EFde 500, mais sur une variante de trac\u00E9 plus courte. Ces \u00E9preuves sont courues en 2 courses de 250 km."@fr ,
+		"O circuito Adelaide Street Circuit (em portugu\u00EAs: Circuito de Rua de Adelaide) esta localizado em Adelaide, na Austr\u00E1lia. O circuito parece ser de rua, por n\u00E3o ter, na maior parte do acostamento, grama ou areia, e os muros ficam pr\u00F3ximos. Por isso, o piloto deve tomar cuidado. Em 1996, o circuito saiu do circo da F\u00F3rmula 1, para dar lugar ao Albert Park, em Melbourne, que passou a abrir o campeonato, em vez de fech\u00E1-lo."@pt ,
+		"\u0410\u0434\u0435\u043B\u0430\u0438\u0434\u0430 (\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430) (\u0430\u043D\u0433\u043B. Adelaide Street Circuit) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043F\u043E \u0443\u043B\u0438\u0446\u0430\u043C \u0434\u0435\u043B\u043E\u0432\u043E\u0433\u043E \u0446\u0435\u043D\u0442\u0440\u0430 \u0433\u043E\u0440\u043E\u0434\u0430 \u0410\u0434\u0435\u043B\u0430\u0438\u0434\u0430, (\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F). \u041D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 11 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0432 1985-1995 \u0433\u043E\u0434\u0430\u0445, \u0433\u043E\u043D\u043A\u0438 \u0441\u0435\u0440\u0438\u0438 ALMS (\u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0430\u044F \u0441\u0435\u0440\u0438\u044F \u041B\u0435-\u041C\u0430\u043D), \u043C\u0435\u0441\u0442\u043D\u044B\u0435 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u044B \u0432 \u043A\u043B\u0430\u0441\u0441\u0430\u0445 V8 Supercars \u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-3."@ru ,
+		"El circuito urbano de Adelaida es un circuito de carreras urbano ubicado en el parque East Parklands, adyacente al centro financiero de la ciudad de Adelaida, Australia. Ha albergado once veces el Gran Premio de Australia de F\u00F3rmula 1, entre 1985 y 1995, una prueba de la American Le Mans Series el 31 de diciembre de 2000 (la Carrera de los Mil A\u00F1os), y una carrera cl\u00E1sica de V8 Supercars denominada 500 km de Adelaida desde 1999."@es ,
+		"The Adelaide Street Circuit (also known as the Adelaide Parklands Circuit) is a temporary street circuit in the East Parklands adjacent to the central business district of the city of Adelaide in South Australia. The 3.780 km (2.349 mi) long \"Grand Prix\" version of the track hosted eleven Formula One Australian Grand Prix events from 1985 to 1995, as well as an American Le Mans Series endurance race on New Year's Eve in 2000 (Race of a Thousand Years). This was the only race of a nine-year contract and the last race to be held on the original Grand Prix circuit."@en ,
+		"Het stratencircuit van Adelaide in Australi\u00EB is een stratencircuit waarop de Grand Prix van Australi\u00EB werd gereden. Het was het toneel voor een aantal ronden van het wereldkampioenschap Formule 1. Het is opgezet rond de paardenracebaan Victoria. Het rechte stuk wordt voor de gelegenheid altijd Brabham straight genoemd. Het circuit was 3,7 kilometer lang. De eerste keer dat een Formule 1 race gereden werd in Australi\u00EB was in Adelaide in 1985. De laatste keer dat op Adelaide gereden werd is 1995, waarna Albert Park in Melbourne de Grand Prix over nam."@nl ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Adelaide \u00E8 un tracciato che si trova nell'omonima citt\u00E0, all'interno del Parco della Vittoria, in Australia. Ha ospitato undici edizioni del Gran Premio d'Australia di Formula 1 (dal 1985 al 1995). La pista era cittadina ed era molto difficile, con una \"S\" veloce subito dopo il via, spesso sbagliata, e con altre curve molto tecniche e difficili. Nel 1991 la gara dur\u00F2 appena 24 minuti a causa di una fortissima pioggia, rendendo questa, tuttora, la gara di Formula 1 pi\u00F9 breve di sempre. Inoltre bisogna ricordare che nel 1994 Michael Schumacher e Damon Hill, rispettivamente primo e secondo in classifica generale, lottarono su questo tracciato per i"@it ,
+		"\u30A2\u30C7\u30EC\u30FC\u30C9\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u82F1: Adelaide Street Circuit\u3001\u30A2\u30C7\u30EC\u30FC\u30C9\u5E02\u8857\u5730\u30B3\u30FC\u30B9\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u5357\u90E8\u306E\u90FD\u5E02\u30A2\u30C7\u30EC\u30FC\u30C9\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u516C\u9053\u30B3\u30FC\u30B9\uFF09\u30021985\u5E74\u304B\u30891995\u5E74\u307E\u3067F1\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2GP\u306B\u4F7F\u7528\u3055\u308C\u305F\u3002"@ja ,
+		"Der Adelaide Street Circuit ist ein Stra\u00DFenrennkurs in Adelaide, Australien. Von 1985 bis 1995 war die Strecke regelm\u00E4\u00DFiger Austragungsort des Gro\u00DFen Preises von Australien der Formel 1 und dabei stets das Saisonfinale. In den Jahren 1986 und 1994 wurde dort jeweils die Weltmeisterschaft entschieden."@de ,
+		"Adelaide Street Circuit \u2013 australijski tor wy\u015Bcigowy po\u0142o\u017Cony w mie\u015Bcie Adelaide. Tor ma d\u0142ugo\u015B\u0107 3,780 km i go\u015Bci\u0142 wy\u015Bcigi Formu\u0142y 1 w latach 1985-1995. Od roku 1999 tor go\u015Bci wy\u015Bcigi V8 Supercars."@pl ,
+		"\u062D\u0644\u0628\u0629 \u0623\u062F\u064A\u0644\u064A\u062F \u0633\u062A\u0631\u064A\u062A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Adelaide Street Circuit) \u0647\u064A \u062D\u0644\u0628\u0629 \u0645\u0624\u0642\u062A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0645\u0631\u0643\u0632\u064A\u0629 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0623\u062F\u064A\u0644\u064A\u062F \u0641\u064A \u062C\u0646\u0648\u0628 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u064A\u0628\u0644\u063A \u0637\u0648\u0644\u0647\u0627 3,7 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0648\u0623\u0642\u064A\u0645 \u0639\u0644\u064A\u0647\u0627 \u0633\u0628\u0627\u0642 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u062C\u0627\u0626\u0632\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u062D\u064A\u062B \u0627\u0633\u062A\u0636\u0627\u0641\u062A 11 \u0646\u0633\u062E\u0629 \u0645\u062A\u062A\u0627\u0644\u064A\u0629 \u0645\u0646 \u0633\u0646\u0629 1985 \u0625\u0644\u0649 1995. \u0627\u0641\u062A\u062A\u062D\u062A \u0627\u0644\u062D\u0644\u0628\u0629 \u0641\u064A \u0633\u0646\u0629 1985 \u062B\u0645 \u0623\u0639\u064A\u062F \u0627\u0641\u062A\u062A\u0627\u062D\u0647\u0627 \u0641\u064A 1999. \u062D\u0642\u0642 \u062F\u0627\u064A\u0645\u0648\u0646 \u0647\u064A\u0644 \u0627\u0633\u0631\u0639 \u0644\u0641\u0629 \u0641\u064A \u062A\u0627\u0631\u064A\u062E \u0647\u0630\u0647 \u0627\u0644\u062D\u0644\u0628\u0629."@ar .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	dbpedia-pl:Adelaide_Street_Circuit .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	dbpedia-nl:Stratencircuit_van_Adelaide .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	dbpedia-pt:Adelaide_Street_Circuit .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	dbpedia-wikidata:Q83234 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	wikidata:Q83234 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	dbpedia-es:Circuito_callejero_de_Adelaida .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	dbpedia-id:Sirkuit_Jalan_Raya_Adelaide .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	dbpedia-it:Circuito_di_Adelaide ,
+		<http://fr.dbpedia.org/resource/Circuit_urbain_d\u0027Ad\u00E9la\u00EFde> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	yago-res:Adelaide_Street_Circuit .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	dbpedia-de:Adelaide_Street_Circuit ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30C7\u30EC\u30FC\u30C9\u5E02\u8857\u5730\u30B3\u30FC\u30B9> ,
+		dbr:Adelaide_Street_Circuit ,
+		<http://sws.geonames.org/8394022/> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Adelaide_Street_Circuit	owl:sameAs	dbpedia-cs:Adelaide_Street_Circuit ,
+		<http://rdf.freebase.com/ns/m.063p9_> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Adelaide_Street_Circuit	dct:subject	dbc:Australian_Grand_Prix ,
+		dbc:Motorsport_venues_in_Australia ,
+		dbc:Sports_venues_in_South_Australia ,
+		dbc:Sports_venues_in_Adelaide ,
+		dbc:Motorsport_in_Adelaide ,
+		dbc:Formula_One_circuits ,
+		dbc:Streets_in_Adelaide ,
+		dbc:V8_Supercar_circuits ,
+		dbc:American_Le_Mans_Series_circuits .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Adelaide_Street_Circuit	geo:lat	"-34.92722320556640625"^^xsd:float ;
+	geo:long	"138.617218017578125"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Adelaide_(short_route).svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Adelaide_Street_Circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Adelaide_Street_Circuit	geo:geometry	"POINT(138.61721801758 -34.927223205566)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Adelaide_Street_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Adelaide_Street_Circuit?oldid=744925349> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Adelaide_Street_Circuit	georss:point	"-34.92722222222222 138.6172222222222" .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Adelaide_Street_Circuit	dbp:owner	dbr:Adelaide_City_Council ;
+	dbp:time	"UTC+9.5"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://www.clipsal500.com.au/> ,
+		<http://maps.google.com/maps?f=q&hl=en&q=Adelaide,+Australia&ie=UTF8&om=1&t=k&ll=-34.927161,138.618064&spn=0.013423,0.020084&z=16> ,
+		<http://www.grandprix.com/gpe/cir-002.html> ;
+	dbp:lengthKm	3.2189999999999998614 ,
+		3.7799999999999998046 ;
+	dbo:abstract	"Der Adelaide Street Circuit ist ein Stra\u00DFenrennkurs in Adelaide, Australien. Von 1985 bis 1995 war die Strecke regelm\u00E4\u00DFiger Austragungsort des Gro\u00DFen Preises von Australien der Formel 1 und dabei stets das Saisonfinale. In den Jahren 1986 und 1994 wurde dort jeweils die Weltmeisterschaft entschieden."@de ,
+		"The Adelaide Street Circuit (also known as the Adelaide Parklands Circuit) is a temporary street circuit in the East Parklands adjacent to the central business district of the city of Adelaide in South Australia. The 3.780 km (2.349 mi) long \"Grand Prix\" version of the track hosted eleven Formula One Australian Grand Prix events from 1985 to 1995, as well as an American Le Mans Series endurance race on New Year's Eve in 2000 (Race of a Thousand Years). This was the only race of a nine-year contract and the last race to be held on the original Grand Prix circuit."@en ,
+		"\u0410\u0434\u0435\u043B\u0430\u0438\u0434\u0430 (\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430) (\u0430\u043D\u0433\u043B. Adelaide Street Circuit) \u2014 \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043F\u043E \u0443\u043B\u0438\u0446\u0430\u043C \u0434\u0435\u043B\u043E\u0432\u043E\u0433\u043E \u0446\u0435\u043D\u0442\u0440\u0430 \u0433\u043E\u0440\u043E\u0434\u0430 \u0410\u0434\u0435\u043B\u0430\u0438\u0434\u0430, (\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F). \u041D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 11 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0432 1985-1995 \u0433\u043E\u0434\u0430\u0445, \u0433\u043E\u043D\u043A\u0438 \u0441\u0435\u0440\u0438\u0438 ALMS (\u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0430\u044F \u0441\u0435\u0440\u0438\u044F \u041B\u0435-\u041C\u0430\u043D), \u043C\u0435\u0441\u0442\u043D\u044B\u0435 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u044B \u0432 \u043A\u043B\u0430\u0441\u0441\u0430\u0445 V8 Supercars \u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-3. \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 \u043D\u0435\u0438\u0437\u043C\u0435\u043D\u043D\u043E \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u043B\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0421\u0430\u043C\u044B\u043C \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u043C \u0441\u0442\u0430\u043B \u044D\u0442\u0430\u043F 1994 \u0433\u043E\u0434\u0430, \u043A\u043E\u0433\u0434\u0430 \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u043E \u0441\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u0435 \u043C\u0435\u0436\u0434\u0443 \u0434\u0432\u0443\u043C\u044F \u043F\u0440\u0435\u0442\u0435\u043D\u0434\u0435\u043D\u0442\u0430\u043C\u0438 \u043D\u0430 \u0442\u0438\u0442\u0443\u043B \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430 \u0414\u044D\u0439\u043C\u043E\u043D\u043E\u043C \u0425\u0438\u043B\u043B\u043E\u043C \u0438 \u041C\u0438\u0445\u0430\u044D\u043B\u0435\u043C \u0428\u0443\u043C\u0430\u0445\u0435\u0440\u043E\u043C. \u0428\u0443\u043C\u0430\u0445\u0435\u0440 \u0441\u0442\u0430\u043B \u0432\u043F\u0435\u0440\u0432\u044B\u0435 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u043C\u0438\u0440\u0430, \u0430 \u0441\u043F\u043E\u0440\u044B \u043E \u0442\u043E\u043C \u043F\u0440\u043E\u0438\u0441\u0448\u0435\u0441\u0442\u0432\u0438\u0438 \u0438\u0434\u0443\u0442 \u0434\u043E \u0441\u0438\u0445 \u043F\u043E\u0440."@ru ,
+		"Het stratencircuit van Adelaide in Australi\u00EB is een stratencircuit waarop de Grand Prix van Australi\u00EB werd gereden. Het was het toneel voor een aantal ronden van het wereldkampioenschap Formule 1. Het is opgezet rond de paardenracebaan Victoria. Het rechte stuk wordt voor de gelegenheid altijd Brabham straight genoemd. Het circuit was 3,7 kilometer lang. De eerste keer dat een Formule 1 race gereden werd in Australi\u00EB was in Adelaide in 1985. De laatste keer dat op Adelaide gereden werd is 1995, waarna Albert Park in Melbourne de Grand Prix over nam. Tegenwoordig rijden de V8 Supercars op een kortere versie van het stratencircuit, dat 3,2 kilometer lang is."@nl ,
+		"\u30A2\u30C7\u30EC\u30FC\u30C9\u30FB\u30B9\u30C8\u30EA\u30FC\u30C8\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u82F1: Adelaide Street Circuit\u3001\u30A2\u30C7\u30EC\u30FC\u30C9\u5E02\u8857\u5730\u30B3\u30FC\u30B9\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u5357\u90E8\u306E\u90FD\u5E02\u30A2\u30C7\u30EC\u30FC\u30C9\u306B\u3042\u308B\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u516C\u9053\u30B3\u30FC\u30B9\uFF09\u30021985\u5E74\u304B\u30891995\u5E74\u307E\u3067F1\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2GP\u306B\u4F7F\u7528\u3055\u308C\u305F\u3002"@ja ,
+		"\u062D\u0644\u0628\u0629 \u0623\u062F\u064A\u0644\u064A\u062F \u0633\u062A\u0631\u064A\u062A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Adelaide Street Circuit) \u0647\u064A \u062D\u0644\u0628\u0629 \u0645\u0624\u0642\u062A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0645\u0631\u0643\u0632\u064A\u0629 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0623\u062F\u064A\u0644\u064A\u062F \u0641\u064A \u062C\u0646\u0648\u0628 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u064A\u0628\u0644\u063A \u0637\u0648\u0644\u0647\u0627 3,7 \u0643\u064A\u0644\u0648\u0645\u062A\u0631 \u0648\u0623\u0642\u064A\u0645 \u0639\u0644\u064A\u0647\u0627 \u0633\u0628\u0627\u0642 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u062C\u0627\u0626\u0632\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u062D\u064A\u062B \u0627\u0633\u062A\u0636\u0627\u0641\u062A 11 \u0646\u0633\u062E\u0629 \u0645\u062A\u062A\u0627\u0644\u064A\u0629 \u0645\u0646 \u0633\u0646\u0629 1985 \u0625\u0644\u0649 1995. \u0627\u0641\u062A\u062A\u062D\u062A \u0627\u0644\u062D\u0644\u0628\u0629 \u0641\u064A \u0633\u0646\u0629 1985 \u062B\u0645 \u0623\u0639\u064A\u062F \u0627\u0641\u062A\u062A\u0627\u062D\u0647\u0627 \u0641\u064A 1999. \u062D\u0642\u0642 \u062F\u0627\u064A\u0645\u0648\u0646 \u0647\u064A\u0644 \u0627\u0633\u0631\u0639 \u0644\u0641\u0629 \u0641\u064A \u062A\u0627\u0631\u064A\u062E \u0647\u0630\u0647 \u0627\u0644\u062D\u0644\u0628\u0629."@ar ,
+		"Adelaide Street Circuit \u2013 australijski tor wy\u015Bcigowy po\u0142o\u017Cony w mie\u015Bcie Adelaide. Tor ma d\u0142ugo\u015B\u0107 3,780 km i go\u015Bci\u0142 wy\u015Bcigi Formu\u0142y 1 w latach 1985-1995. Od roku 1999 tor go\u015Bci wy\u015Bcigi V8 Supercars."@pl ,
+		"El circuito urbano de Adelaida es un circuito de carreras urbano ubicado en el parque East Parklands, adyacente al centro financiero de la ciudad de Adelaida, Australia. Ha albergado once veces el Gran Premio de Australia de F\u00F3rmula 1, entre 1985 y 1995, una prueba de la American Le Mans Series el 31 de diciembre de 2000 (la Carrera de los Mil A\u00F1os), y una carrera cl\u00E1sica de V8 Supercars denominada 500 km de Adelaida desde 1999. El circuito transcurre por avenidas p\u00FAblicas de la ciudad de Adelaida, as\u00ED como parte del hip\u00F3dromo Victoria Park, pasando por el mercado. Es un circuito que para ser urbano, se alcanzan velocidades medias altas. La variante de 3.780 metros de extensi\u00F3n fue utilizada en las carreras de F\u00F3rmula 1 y American Le Mans Series, y la de 3.220 metros en las del V8 Supercars."@es ,
+		"O circuito Adelaide Street Circuit (em portugu\u00EAs: Circuito de Rua de Adelaide) esta localizado em Adelaide, na Austr\u00E1lia. O circuito parece ser de rua, por n\u00E3o ter, na maior parte do acostamento, grama ou areia, e os muros ficam pr\u00F3ximos. Por isso, o piloto deve tomar cuidado. O circuito recebeu a F\u00F3rmula 1 de 1985 at\u00E9 1995. L\u00E1 foram protagonizados momentos hist\u00F3ricos, como o de 1986, quando a dezoito voltas do final, Nigel Mansell abandonou por causa de um pneu traseiro esquerdo furado e deu o t\u00EDtulo a Alain Prost. Em 1994, numa manobra pol\u00EAmica que Michael Schumacher fez de prop\u00F3sito um acidente batendo seu carro no muro para tirar da prova seu advers\u00E1rio na luta pelo t\u00EDtulo, Damon Hill, e conquistou o campeonato. Foi em Adelaide na prova de 1985 que Niki Lauda fez a \u00FAltima prova na categoria, assim como Nelson Piquet em 1991 e Prost em 1993. Foi l\u00E1 tamb\u00E9m a \u00FAltima vit\u00F3ria de: Keke Rosberg em 1985, Ayrton Senna em 1993 e Mansell em 1994 e tamb\u00E9m cravaria a \u00FAltima pole. Em 1996, o circuito saiu do circo da F\u00F3rmula 1, para dar lugar ao Albert Park, em Melbourne, que passou a abrir o campeonato, em vez de fech\u00E1-lo."@pt ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Adelaide \u00E8 un tracciato che si trova nell'omonima citt\u00E0, all'interno del Parco della Vittoria, in Australia. Ha ospitato undici edizioni del Gran Premio d'Australia di Formula 1 (dal 1985 al 1995). La pista era cittadina ed era molto difficile, con una \"S\" veloce subito dopo il via, spesso sbagliata, e con altre curve molto tecniche e difficili. Nel 1991 la gara dur\u00F2 appena 24 minuti a causa di una fortissima pioggia, rendendo questa, tuttora, la gara di Formula 1 pi\u00F9 breve di sempre. Inoltre bisogna ricordare che nel 1994 Michael Schumacher e Damon Hill, rispettivamente primo e secondo in classifica generale, lottarono su questo tracciato per il mondiale e la disputa fin\u00EC con un tamponamento che mise fuori gioco entrambi i piloti, mentre nel 1995, Mika H\u00E4kkinen fu protagonista di un grave incidente nelle prove libere. Dal 1996 il Gran Premio si spost\u00F2 a Melbourne e la pista per alcuni anni non fu usata. Dal 1999 tuttavia \u00E8 diventata teatro della Clipsal 500, una delle pi\u00F9 prestigiose gare del V8 Supercars, il campionato australiano per auto da turismo."@it ,
+		"Le Circuit urbain d'Ad\u00E9la\u00EFde est un circuit temporaire trac\u00E9 dans les rues du quartier d'affaires de la ville d'Ad\u00E9la\u00EFde dans le sud de l'Australie. Ce trac\u00E9 a accueilli 11 Grands Prix d'Australie de Formule 1 de 1985 \u00E0 1995. La 12e et derni\u00E8re \u00E9preuve d'ALMS (American Le Mans Series) saison 2000 fut \u00E9galement couru sur ce circuit, sur une distance de 1 000 km le 31 d\u00E9cembre. Depuis 1999, ce circuit re\u00E7oit une \u00E9preuve de V8 Supercars appel\u00E9e Adela\u00EFde 500, mais sur une variante de trac\u00E9 plus courte. Ces \u00E9preuves sont courues en 2 courses de 250 km. Les voitures tournent dans le sens des aiguilles d'une montre."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Adelaide_(short_route).svg?width=300> ;
+	dbo:wikiPageRevisionID	744925349 ;
+	dbo:wikiPageID	1885482 ;
+	dbp:lengthMi	2.349000000000000199 ,
+		2.0120000000000000107 ;
+	dbp:location	dbr:South_Australia ,
+		dbr:Adelaide ;
+	dbp:layout	"V8 Supercar circuit"^^xsd:string ,
+		"Grand Prix circuit"^^xsd:string ;
+	dbp:recordClass	dbr:Australian_Formula_3 ,
+		dbr:Formula_One ;
+	dbp:recordDriver	dbr:Damon_Hill ,
+		"Simon Hodge"^^xsd:string ;
+	dbp:recordTeam	"Mygale M11 Mercedes-Benz"^^xsd:string ,
+		dbr:Williams_FW15C ,
+		dbr:Renault_F1 ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	1993 ,
+		2014 ;
+	dbp:turns	14 ,
+		16 ;
+	dbp:name	"Adelaide Street Circuit"^^xsd:string .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Adelaide_Street_Circuit	ns27:hypernym	dbr:Circuit ;
+	dbp:events	dbr:Race_of_a_Thousand_Years ,
+		dbr:Australian_Grand_Prix ,
+		dbr:Adelaide_500 ;
+	dbp:opened	"1985-10-31"^^xsd:date ,
+		"Re-opened in 1999"^^xsd:string .
+<http://dbpedia.org/resource/1985_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+<http://dbpedia.org/resource/1991_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+dbr:Climb_to_the_Eagle	dbo:wikiPageRedirects	dbr:Adelaide_Street_Circuit .
+dbr:Adelaide_Parklands_Circuit	dbo:wikiPageRedirects	dbr:Adelaide_Street_Circuit .
+<http://dbpedia.org/resource/1993_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+<http://dbpedia.org/resource/1992_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+<http://dbpedia.org/resource/1994_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+<http://dbpedia.org/resource/1988_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+<http://dbpedia.org/resource/1989_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .
+<http://dbpedia.org/resource/1990_Australian_Grand_Prix>	dbo:location	dbr:Adelaide_Street_Circuit .

@@ -1,0 +1,246 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2010_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2011_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2012_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2013_Japanese_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2015_Japanese_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2009_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2005_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2016_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1995_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2000_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2001_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2002_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2003_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2004_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2006_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1987_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1988_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1989_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1990_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1991_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1992_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1993_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1994_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1996_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1998_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2012_FIA_WTCC_Race_of_Japan>	dbp:courseName	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2011_FIA_WTCC_Race_of_Japan>	dbp:courseName	dbr:Suzuka_Circuit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Suzuka_Circuit	rdf:type	yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:WikicatMotorsportVenuesInJapan ,
+		yago:WikicatRollerCoastersManufacturedByPremierRides ,
+		yago:WikicatSportsVenuesInMiePrefecture ,
+		yago:WikicatNASCARTracks ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:State100024720 ,
+		yago:Area108497294 ,
+		yago:Attribute100024264 ,
+		yago:WikicatRollerCoastersManufacturedByDynamicStructures ,
+		yago:WikicatLaunchedRollerCoasters ,
+		dbo:Single ,
+		yago:Abstraction100002137 ,
+		yago:Scene108645963 ,
+		yago:Path109387222 ,
+		yago:Venue108677628 ,
+		yago:Line108593262 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Suzuka_Circuit	rdf:type	geo:SpatialThing ,
+		yago:WikicatRollerCoastersIntroducedIn1998 ,
+		yago:Turbulence113979173 ,
+		yago:Disorder113972797 ,
+		yago:RollerCoaster113979786 ,
+		yago:WikicatSteelRollerCoasters .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Suzuka_Circuit	rdfs:label	"Suzuka Circuit"@en ,
+		"Circuito di Suzuka"@it ,
+		"Suzuka International Racing Course"@nl ,
+		"Circuit de Suzuka"@fr ,
+		"Suzuka International Racing Course"@de ,
+		"Suzuka International Racing Course"@pl ,
+		"\u94C3\u9E7F\u8D5B\u9053"@zh ,
+		"Circuito de Suzuka"@pt ,
+		"\u062D\u0644\u0628\u0629 \u0633\u0648\u0632\u0648\u0643\u0627"@ar ,
+		"\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ,
+		"\u0421\u0443\u0434\u0437\u0443\u043A\u0430 (\u0442\u0440\u0430\u0441\u0441\u0430)"@ru ,
+		"Circuito de Suzuka"@es ;
+	rdfs:comment	"El Circuito de Suzuka es un aut\u00F3dromo localizado en Suzuka, en la prefectura de Mie, Jap\u00F3n. Ha sido sede del Gran Premio de Jap\u00F3n de F\u00F3rmula 1 desde el a\u00F1o 1987 (salvo en 2007 y 2008) y es utilizado tambi\u00E9n para otros eventos del deporte motor, tales como las 8 horas de Suzuka del Campeonato Mundial de Motociclismo de Resistencia, los 1000 km de Suzuka del Campeonato Japon\u00E9s de Gran Turismos, y fechas de la F\u00F3rmula Nippon."@es ,
+		"\u062D\u0644\u0628\u0629 \u0633\u0648\u0632\u0648\u0643\u0627 (\u0628\u0627\u0644\u064A\u0627\u0628\u0627\u0646\u064A\u0629: \u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0644\u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0645\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0622\u0644\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0633\u0648\u0632\u0648\u0643\u0627\u060C \u0645\u064A\u0647 \u0641\u064A \u0627\u0644\u064A\u0627\u0628\u0627\u0646. \u062A\u0642\u0648\u0645 \u0628\u062A\u0634\u063A\u064A\u0644\u0647\u0627 \u0645\u0648\u0628\u064A\u0644\u064A\u062A\u064A \u0644\u0627\u0646\u062F \u0648\u0647\u064A \u0634\u0631\u0643\u0629 \u0641\u0631\u0639\u064A\u0629 \u0644\u0647\u0648\u0646\u062F\u0627. \u0637\u0627\u0642\u062A\u0647\u0627 \u0627\u0644\u0627\u0633\u062A\u064A\u0639\u0627\u0628\u064A\u0629 \u0647\u064A 155000. \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u062D\u0629."@ar ,
+		"\u0421\u0443\u0434\u0437\u0443\u043A\u0430 (\u044F\u043F. \u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8 \u0441\u0443\u0434\u0437\u0443\u043A\u0430 \u0441\u0430:\u043A\u0438\u0442\u0442\u043E, \u0430\u043D\u0433\u043B. Suzuka Circuit) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0421\u0443\u0434\u0437\u0443\u043A\u0430, \u043F\u0440\u0435\u0444\u0435\u043A\u0442\u0443\u0440\u0430 \u041C\u0438\u044D, \u042F\u043F\u043E\u043D\u0438\u044F. \u041C\u0435\u0441\u0442\u043E \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0432\u0445\u043E\u0434\u044F\u0449\u0438\u0445 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042F\u043F\u043E\u043D\u0438\u0438 \u0432 1987\u20142014 \u0433\u043E\u0434\u0430\u0445 (\u0437\u0430 \u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435\u043C 2007 \u0438 2008, \u043A\u043E\u0433\u0434\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042F\u043F\u043E\u043D\u0438\u0438 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0441\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0424\u0443\u0434\u0437\u0438 \u0421\u043F\u0438\u0434\u0432\u0435\u0439)."@ru ,
+		"The Suzuka International Racing Course (official name), Suzuka Circuit (\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8 Suzuka S\u0101kitto) for short, is a motorsport race track located in Ino, Suzuka City, Mie Prefecture, Japan and operated by Mobilityland Corporation, a subsidiary of Honda Motor Co., Ltd.. It has a capacity of 155,000."@en ,
+		"Der Suzuka International Racing Course (jap. \u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8, Suzuka S\u0101kitto f\u00FCr Suzuka Circuit) ist eine Rennstrecke in der N\u00E4he der Stadt Suzuka in Japan, unweit von Nagoya. Der Kurs wurde 1962 vom Automobilhersteller Honda nach einem Plan des niederl\u00E4ndischen Rennstreckendesigners Hans Hugenholtz als Teststrecke errichtet, mitsamt einem Vergn\u00FCgungspark namens Motopia Park f\u00FCr die Mitarbeiter und ihre Familien."@de ,
+		"Circuito de Suzuka ou Suzuka International Racing Course \u00E9 um circuito pr\u00F3ximo \u00E0 cidade de Suzuka, no Jap\u00E3o. Sediou o Grande Pr\u00EAmio do Jap\u00E3o de F\u00F3rmula 1 de 1987 at\u00E9 2006, quando em 2007 e 2008 foi a vez de Fuji, pr\u00F3ximo a cidade de Shizuoka. Suzuka retornou a partir de 2009. \u00C9 o \u00FAnico circuito da hist\u00F3ria formulado em oito, onde o piloto passa por um t\u00FAnel (embaixo de uma ponte) e por uma ponte. O circuito nip\u00F4nico tem 5,8 Km e foi palco de 11 t\u00EDtulos de pilotos na F\u00F3rmula 1: Nelson Piquet (1987), Ayrton Senna (1988, 1990 e 1991), Alain Prost (1989), Damon Hill (1996), Mika Hakkinen (1998 e 1999), Michael Schumacher (2000 e 2003) e Sebastian Vettel (2011)."@pt ,
+		"Het Circuit Suzuka (\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8, Suzuka S\u0101kitto) is een Japans racecircuit. Het werd in 1961 gebouwd als een testcircuit voor Honda en ligt 50 km ten zuidwesten van Nagoya. De ontwerper ervan is Hans Hugenholtz, de man die directeur was van Zandvoort en naast Suzuka ook Jarama ontwierp. Het circuit maakt deel uit van Motopia, een amusementspark van 2,5 miljoen m\u00B2 met zwembaden, monorails, hotels, golfbanen en een themapark. Het 5,85 km lange achtvormige parcours werd tot in 1971 gebruikt voor sportwagenraces, vanaf toen maakten de eenzitters hun intrede, eerst met Formule 2."@nl ,
+		"\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u3059\u305A\u304B\u30B5\u30FC\u30AD\u30C3\u30C8\u3001Suzuka Circuit\uFF09\u306F\u3001\u4E09\u91CD\u770C\u9234\u9E7F\u5E02\u306B\u3042\u308B\u56FD\u969B\u30EC\u30FC\u30B7\u30F3\u30B0\u30B3\u30FC\u30B9\u3092\u4E2D\u5FC3\u3068\u3057\u305F\u30EC\u30B8\u30E3\u30FC\u65BD\u8A2D\u3002F1\u65E5\u672C\u30B0\u30E9\u30F3\u30D7\u30EA\u3084\u9234\u9E7F8\u6642\u9593\u8010\u4E45\u30ED\u30FC\u30C9\u30EC\u30FC\u30B9\u306A\u3069\u306E\u958B\u50AC\u3067\u77E5\u3089\u308C\u308B\u3002\u30EC\u30FC\u30B7\u30F3\u30B0\u30B3\u30FC\u30B9\u306E\u4ED6\u306B\u904A\u5712\u5730\u3084\u30DB\u30C6\u30EB\u7B49\u304C\u3042\u308A\u3001\u30E2\u30D3\u30EA\u30C6\u30A3\u30EA\u30BE\u30FC\u30C8\uFF08\u81EA\u52D5\u8ECA\u3092\u984C\u6750\u3068\u3059\u308B\u884C\u697D\u5730\uFF09\u3092\u5F62\u6210\u3057\u3066\u3044\u308B\u3002 \u65E5\u672C\u521D\u306E\u5168\u9762\u8217\u88C5\u3068\u89B3\u5BA2\u5E2D\u306E\u4E21\u65B9\u3092\u5099\u3048\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u3068\u3057\u3066\u30011962\u5E74\u306B\u672C\u7530\u6280\u7814\u5DE5\u696D\uFF08\u30DB\u30F3\u30C0\uFF09\u306B\u3088\u3063\u3066\u5EFA\u8A2D\u3055\u308C\u305F\u3002\u73FE\u5728\u306F\u30DB\u30F3\u30C0\u30B0\u30EB\u30FC\u30D7\u3067\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u95A2\u9023\u65BD\u8A2D\u3092\u904B\u55B6\u3059\u308B\u4F1A\u793E\u3001\u30E2\u30D3\u30EA\u30C6\u30A3\u30E9\u30F3\u30C9\u306B\u3088\u3063\u3066\u904B\u55B6\u3055\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"Le circuit de Suzuka (\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8, Suzuka S\u0101kitto) est l'un des circuits les plus populaires de la Formule 1. Situ\u00E9 \u00E0 Suzuka, soit \u00E0 50 km de Nagoya et 150 km d'Osaka, il a \u00E9t\u00E9 con\u00E7u par le designer n\u00E9erlandais John Hugenholtz. Depuis 1987, il accueille le Grand Prix du Japon de Formule 1. Ce circuit pr\u00E9sente la particularit\u00E9 d'\u00EAtre en huit et non en boucle, un pont enjambant un secteur de piste."@fr ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Suzuka \u00E8 uno degli autodromi pi\u00F9 importanti ed originali al mondo, grazie ad alcune caratteristiche che l'hanno reso inconfondibile, ed \u00E8 stata la sede del Gran Premio del Giappone di Formula 1 dal 1987 al 2006. Nei campionati 2007 e 2008 \u00E8 stato sostituito, in questo ruolo, dal rinnovato circuito del Fuji tornando poi in calendario dal 2009."@it ,
+		"Suzuka International Racing Course \u2013 tor wy\u015Bcig\u00F3w Formu\u0142y 1 zaprojektowany przez Johannesa Hugenholtza, po\u0142o\u017Cony w Japonii w prefekturze Mie w mie\u015Bcie Suzuka. Zosta\u0142 zbudowany przez koncern Honda jako o\u015Brodek badawczy na pocz\u0105tku lat sze\u015B\u0107dziesi\u0105tych. Pocz\u0105tkowo rozgrywano na nim imprezy o charakterze lokalnym. W 1976 i 1977 zosta\u0142y rozegrane pierwsze Grand Prix Japonii ale na torze Fuji. W latach 80. XX wieku z powodu du\u017Cych sukces\u00F3w Hondy jako dostawcy silnik\u00F3w do bolid\u00F3w Formu\u0142y 1 GP Japonii powr\u00F3ci\u0142o do kalendarza. Tym razem rozegrano je na torze Suzuka. Zwykle ten wy\u015Bcig by\u0142 ostatni\u0105 lub przedostatni\u0105 imprez\u0105 sezonu i to tutaj wy\u0142aniani byli zwyci\u0119zcy. D\u0142ugo\u015B\u0107 toru wynosi 5,807 km, a liczba okr\u0105\u017Ce\u0144 w wy\u015Bcigu 53."@pl ,
+		"\u94C3\u9E7F\u8D5B\u9053\uFF08Suzuka Circuit\uFF09\u662F\u65E5\u672C\u4E09\u91CD\u53BF\u94C3\u9E7F\u5E02\u7684\u4E00\u4E2A\u6C7D\u8F66\u8D5B\u9053\u3002\u5728\u8FD9\u91CC\u4E3E\u884C\u8FC7\u7684\u8D5B\u4E8B\u6709F1\u65E5\u672C\u5927\u5956\u8D5B\u4E0E\u94C3\u9E7F8\u5C0F\u65F6\u8010\u4E45\u8D8A\u91CE\u8D5B\u7B49\u3002"@zh .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-it:Circuito_di_Suzuka .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-id:Sirkuit_Internasional_Suzuka ,
+		dbr:Suzuka_Circuit .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-pl:Suzuka_International_Racing_Course .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-de:Suzuka_International_Racing_Course .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-wikidata:Q174170 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-es:Circuito_de_Suzuka ,
+		<http://sws.geonames.org/8394011/> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-fr:Circuit_de_Suzuka ,
+		<http://ko.dbpedia.org/resource/\uC2A4\uC988\uCE74_\uC11C\uD0B7> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-pt:Circuito_de_Suzuka ,
+		<http://rdf.freebase.com/ns/m.038235> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	yago-res:Suzuka_Circuit ,
+		<http://yago-knowledge.org/resource/Mad_Cobra_(roller_coaster)> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-cs:Suzuka_Circuit .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Suzuka_Circuit	owl:sameAs	wikidata:Q174170 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Suzuka_Circuit	owl:sameAs	dbpedia-nl:Suzuka_International_Racing_Course ,
+		<http://ja.dbpedia.org/resource/\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Suzuka_Circuit	dct:subject	dbc:Japanese_Grand_Prix ,
+		dbc:World_Touring_Car_Championship_circuits ,
+		dbc:Sports_venues_in_Mie_Prefecture ,
+		dbc:Grand_Prix_motorcycle_circuits ,
+		dbc:Motorsport_venues_in_Japan ,
+		dbc:Formula_One_circuits ,
+		dbc:NASCAR_tracks ,
+		dbc:Honda .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Suzuka_Circuit	geo:lat	"34.84305572509765625"^^xsd:float ;
+	geo:long	"136.540557861328125"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Suzuka_Circuit	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Suzuka_circuit_map--2005.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Suzuka_Circuit	foaf:isPrimaryTopicOf	wikipedia-en:Suzuka_Circuit .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Suzuka_Circuit	geo:geometry	"POINT(136.54055786133 34.843055725098)"^^virtrdf:Geometry ;
+	dbp:opened	1962 ;
+	dbp:operator	dbr:Mobilityland ;
+	dbp:time	"GMT +9"^^xsd:string ;
+	dbp:lengthKm	5.82099999999999973 ,
+		3.4660000000000001918 ,
+		6.0039999999999995595 ,
+		2.2429999999999998828 ,
+		5.8070000000000003837 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Suzuka_Circuit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Suzuka_Circuit?oldid=744589875> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Suzuka_Circuit	georss:point	"34.84305555555556 136.54055555555556" ;
+	dbo:wikiPageExternalLink	<http://www.suzukacircuit.com/> .
+@prefix ns28:	<http://www.f1db.com/f1/page/> .
+dbr:Suzuka_Circuit	dbo:wikiPageExternalLink	ns28:Suzuka_International_Racing_Course ,
+		<http://www.formula1.com/races/in_detail/japan_878/circuit_diagram.html> ,
+		<http://www.AudioTrackGuides.co.uk> ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> .
+@prefix ns29:	<http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/circuit_guide/default.stm#> .
+dbr:Suzuka_Circuit	dbo:wikiPageExternalLink	ns29:top ,
+		<http://www.racingcircuits.info/asia/japan/suzuka.html> ;
+	dbp:location	dbr:Japan ,
+		dbr:Mie_Prefecture ,
+		<http://dbpedia.org/resource/Suzuka,_Mie> ;
+	dbp:recordDriver	"Kousuke Akiyoshi"^^xsd:string ,
+		"Alain Menu"^^xsd:string ,
+		"Aguri Suzuki"^^xsd:string ,
+		"Kimi R\u00E4ikk\u00F6nen"^^xsd:string ;
+	dbp:recordTime	2 ,
+		0 ,
+		1 ;
+	dbp:recordYear	2009 ,
+		2012 ,
+		2005 ,
+		1982 ;
+	dbp:turns	17 ,
+		9 ,
+		7 ;
+	dbp:name	"Suzuka International Racing Course"^^xsd:string ;
+	dbo:abstract	"\u0421\u0443\u0434\u0437\u0443\u043A\u0430 (\u044F\u043F. \u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8 \u0441\u0443\u0434\u0437\u0443\u043A\u0430 \u0441\u0430:\u043A\u0438\u0442\u0442\u043E, \u0430\u043D\u0433\u043B. Suzuka Circuit) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0421\u0443\u0434\u0437\u0443\u043A\u0430, \u043F\u0440\u0435\u0444\u0435\u043A\u0442\u0443\u0440\u0430 \u041C\u0438\u044D, \u042F\u043F\u043E\u043D\u0438\u044F. \u041C\u0435\u0441\u0442\u043E \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0432\u0445\u043E\u0434\u044F\u0449\u0438\u0445 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042F\u043F\u043E\u043D\u0438\u0438 \u0432 1987\u20142014 \u0433\u043E\u0434\u0430\u0445 (\u0437\u0430 \u0438\u0441\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435\u043C 2007 \u0438 2008, \u043A\u043E\u0433\u0434\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042F\u043F\u043E\u043D\u0438\u0438 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0441\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0424\u0443\u0434\u0437\u0438 \u0421\u043F\u0438\u0434\u0432\u0435\u0439)."@ru ,
+		"\u062D\u0644\u0628\u0629 \u0633\u0648\u0632\u0648\u0643\u0627 (\u0628\u0627\u0644\u064A\u0627\u0628\u0627\u0646\u064A\u0629: \u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0644\u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0645\u062D\u0631\u0643\u0627\u062A \u0627\u0644\u0622\u0644\u064A\u0629 \u062A\u0642\u0639 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0633\u0648\u0632\u0648\u0643\u0627\u060C \u0645\u064A\u0647 \u0641\u064A \u0627\u0644\u064A\u0627\u0628\u0627\u0646. \u062A\u0642\u0648\u0645 \u0628\u062A\u0634\u063A\u064A\u0644\u0647\u0627 \u0645\u0648\u0628\u064A\u0644\u064A\u062A\u064A \u0644\u0627\u0646\u062F \u0648\u0647\u064A \u0634\u0631\u0643\u0629 \u0641\u0631\u0639\u064A\u0629 \u0644\u0647\u0648\u0646\u062F\u0627. \u0637\u0627\u0642\u062A\u0647\u0627 \u0627\u0644\u0627\u0633\u062A\u064A\u0639\u0627\u0628\u064A\u0629 \u0647\u064A 155000. \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u062D\u0629."@ar ,
+		"Le circuit de Suzuka (\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8, Suzuka S\u0101kitto) est l'un des circuits les plus populaires de la Formule 1. Situ\u00E9 \u00E0 Suzuka, soit \u00E0 50 km de Nagoya et 150 km d'Osaka, il a \u00E9t\u00E9 con\u00E7u par le designer n\u00E9erlandais John Hugenholtz. Depuis 1987, il accueille le Grand Prix du Japon de Formule 1. Ce circuit pr\u00E9sente la particularit\u00E9 d'\u00EAtre en huit et non en boucle, un pont enjambant un secteur de piste."@fr ,
+		"Circuito de Suzuka ou Suzuka International Racing Course \u00E9 um circuito pr\u00F3ximo \u00E0 cidade de Suzuka, no Jap\u00E3o. Sediou o Grande Pr\u00EAmio do Jap\u00E3o de F\u00F3rmula 1 de 1987 at\u00E9 2006, quando em 2007 e 2008 foi a vez de Fuji, pr\u00F3ximo a cidade de Shizuoka. Suzuka retornou a partir de 2009. \u00C9 o \u00FAnico circuito da hist\u00F3ria formulado em oito, onde o piloto passa por um t\u00FAnel (embaixo de uma ponte) e por uma ponte. O circuito nip\u00F4nico tem 5,8 Km e foi palco de 11 t\u00EDtulos de pilotos na F\u00F3rmula 1: Nelson Piquet (1987), Ayrton Senna (1988, 1990 e 1991), Alain Prost (1989), Damon Hill (1996), Mika Hakkinen (1998 e 1999), Michael Schumacher (2000 e 2003) e Sebastian Vettel (2011). Para os torcedores brasileiros \u00E9 uma pista muito especial, devido as vit\u00F3rias e provas espetaculares de Ayrton Senna, e claro os tr\u00EAs t\u00EDtulos que ele conquistou na carreira conforme citado."@pt ,
+		"El Circuito de Suzuka es un aut\u00F3dromo localizado en Suzuka, en la prefectura de Mie, Jap\u00F3n. Ha sido sede del Gran Premio de Jap\u00F3n de F\u00F3rmula 1 desde el a\u00F1o 1987 (salvo en 2007 y 2008) y es utilizado tambi\u00E9n para otros eventos del deporte motor, tales como las 8 horas de Suzuka del Campeonato Mundial de Motociclismo de Resistencia, los 1000 km de Suzuka del Campeonato Japon\u00E9s de Gran Turismos, y fechas de la F\u00F3rmula Nippon. Habiendo sido construido en el a\u00F1o 1962 por el dise\u00F1ador holand\u00E9s John Hugenholtz como pista de pruebas del fabricante japon\u00E9s de autom\u00F3viles Honda, Suzuka es un uno de los circuitos m\u00E1s antiguos del pa\u00EDs. Es uno de los pocos aut\u00F3dromos en el mundo que presentan un trazado en forma de \"8\". Naturalmente, no existe intersecci\u00F3n alguna en la pista, sino que una secci\u00F3n de la pista pasa por encima de la otra por medio de una secci\u00F3n elevada. El trazado largo mide 5.807 metros de largo, y se divide en dos trazados este (con la recta principal, de 3.470 metros) y oeste (con la recta opuesta, de 2.240 metros). Suzuka tiene una larga historia de carreras de F1 apasionantes; siendo tradicionalmente la \u00FAltima o ante\u00FAltima carrera del campeonato, muchos t\u00EDtulos de pilotos y constructores fueron decididos en este circuito. Grandes duelos y espect\u00E1culos se han vivido en este circuito como los que protagonizaron Ayrton Senna y Alain Prost en 1989 y 1990, o Satoru Nakajima en 1988."@es ,
+		"Het Circuit Suzuka (\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8, Suzuka S\u0101kitto) is een Japans racecircuit. Het werd in 1961 gebouwd als een testcircuit voor Honda en ligt 50 km ten zuidwesten van Nagoya. De ontwerper ervan is Hans Hugenholtz, de man die directeur was van Zandvoort en naast Suzuka ook Jarama ontwierp. Het circuit maakt deel uit van Motopia, een amusementspark van 2,5 miljoen m\u00B2 met zwembaden, monorails, hotels, golfbanen en een themapark. Het 5,85 km lange achtvormige parcours werd tot in 1971 gebruikt voor sportwagenraces, vanaf toen maakten de eenzitters hun intrede, eerst met Formule 2."@nl ,
+		"\u94C3\u9E7F\u8D5B\u9053\uFF08Suzuka Circuit\uFF09\u662F\u65E5\u672C\u4E09\u91CD\u53BF\u94C3\u9E7F\u5E02\u7684\u4E00\u4E2A\u6C7D\u8F66\u8D5B\u9053\u3002\u5728\u8FD9\u91CC\u4E3E\u884C\u8FC7\u7684\u8D5B\u4E8B\u6709F1\u65E5\u672C\u5927\u5956\u8D5B\u4E0E\u94C3\u9E7F8\u5C0F\u65F6\u8010\u4E45\u8D8A\u91CE\u8D5B\u7B49\u3002"@zh ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Suzuka \u00E8 uno degli autodromi pi\u00F9 importanti ed originali al mondo, grazie ad alcune caratteristiche che l'hanno reso inconfondibile, ed \u00E8 stata la sede del Gran Premio del Giappone di Formula 1 dal 1987 al 2006. Nei campionati 2007 e 2008 \u00E8 stato sostituito, in questo ruolo, dal rinnovato circuito del Fuji tornando poi in calendario dal 2009. Costruito all'interno di un parco giochi dalla Honda nelle vicinanze della citt\u00E0 di Suzuka in Giappone come tracciato da utilizzare nei test, Suzuka \u00E8 diventato, negli anni '80, un appuntamento fisso per la Formula 1 ed in seguito per il motomondiale dove ha ospitato varie edizioni del Gran Premio motociclistico del Giappone. Lungo 5807 m, il tracciato giapponese \u00E8 uno dei pi\u00F9 spettacolari e tecnici grazie alla variet\u00E0 delle sue curve (si passa da tornanti come l'Hairpin a curvoni veloci come la 130R), infatti \u00E8 sempre stato amato dai piloti che vi hanno corso. Questa pista \u00E8 inoltre l'unica nella storia della Formula 1 ad avere una conformazione ad 8, ovvero con un sottopasso e relativo cavalcavia. Nonostante la bellezza del tracciato, a Suzuka \u00E8 sempre stato problematico compiere sorpassi."@it ,
+		"The Suzuka International Racing Course (official name), Suzuka Circuit (\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8 Suzuka S\u0101kitto) for short, is a motorsport race track located in Ino, Suzuka City, Mie Prefecture, Japan and operated by Mobilityland Corporation, a subsidiary of Honda Motor Co., Ltd.. It has a capacity of 155,000."@en ,
+		"Suzuka International Racing Course \u2013 tor wy\u015Bcig\u00F3w Formu\u0142y 1 zaprojektowany przez Johannesa Hugenholtza, po\u0142o\u017Cony w Japonii w prefekturze Mie w mie\u015Bcie Suzuka. Zosta\u0142 zbudowany przez koncern Honda jako o\u015Brodek badawczy na pocz\u0105tku lat sze\u015B\u0107dziesi\u0105tych. Pocz\u0105tkowo rozgrywano na nim imprezy o charakterze lokalnym. W 1976 i 1977 zosta\u0142y rozegrane pierwsze Grand Prix Japonii ale na torze Fuji. W latach 80. XX wieku z powodu du\u017Cych sukces\u00F3w Hondy jako dostawcy silnik\u00F3w do bolid\u00F3w Formu\u0142y 1 GP Japonii powr\u00F3ci\u0142o do kalendarza. Tym razem rozegrano je na torze Suzuka. Zwykle ten wy\u015Bcig by\u0142 ostatni\u0105 lub przedostatni\u0105 imprez\u0105 sezonu i to tutaj wy\u0142aniani byli zwyci\u0119zcy. D\u0142ugo\u015B\u0107 toru wynosi 5,807 km, a liczba okr\u0105\u017Ce\u0144 w wy\u015Bcigu 53. W 2014 roku wypadek mia\u0142 Francuz Jules Bianchi (Marussia). Kierowca uderzy\u0142 w d\u017Awig, kt\u00F3ry usuwa\u0142 z pobocza samoch\u00F3d Adriana Sutila (Sauber). W wyniku obra\u017Ce\u0144 g\u0142owy Francuz zmar\u0142 9 miesi\u0119cy po wypadku. Nie odzyska\u0142 przytomno\u015Bci. W chwili \u015Bmierci mia\u0142 25 lat."@pl ,
+		"\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8\uFF08\u3059\u305A\u304B\u30B5\u30FC\u30AD\u30C3\u30C8\u3001Suzuka Circuit\uFF09\u306F\u3001\u4E09\u91CD\u770C\u9234\u9E7F\u5E02\u306B\u3042\u308B\u56FD\u969B\u30EC\u30FC\u30B7\u30F3\u30B0\u30B3\u30FC\u30B9\u3092\u4E2D\u5FC3\u3068\u3057\u305F\u30EC\u30B8\u30E3\u30FC\u65BD\u8A2D\u3002F1\u65E5\u672C\u30B0\u30E9\u30F3\u30D7\u30EA\u3084\u9234\u9E7F8\u6642\u9593\u8010\u4E45\u30ED\u30FC\u30C9\u30EC\u30FC\u30B9\u306A\u3069\u306E\u958B\u50AC\u3067\u77E5\u3089\u308C\u308B\u3002\u30EC\u30FC\u30B7\u30F3\u30B0\u30B3\u30FC\u30B9\u306E\u4ED6\u306B\u904A\u5712\u5730\u3084\u30DB\u30C6\u30EB\u7B49\u304C\u3042\u308A\u3001\u30E2\u30D3\u30EA\u30C6\u30A3\u30EA\u30BE\u30FC\u30C8\uFF08\u81EA\u52D5\u8ECA\u3092\u984C\u6750\u3068\u3059\u308B\u884C\u697D\u5730\uFF09\u3092\u5F62\u6210\u3057\u3066\u3044\u308B\u3002 \u65E5\u672C\u521D\u306E\u5168\u9762\u8217\u88C5\u3068\u89B3\u5BA2\u5E2D\u306E\u4E21\u65B9\u3092\u5099\u3048\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u3068\u3057\u3066\u30011962\u5E74\u306B\u672C\u7530\u6280\u7814\u5DE5\u696D\uFF08\u30DB\u30F3\u30C0\uFF09\u306B\u3088\u3063\u3066\u5EFA\u8A2D\u3055\u308C\u305F\u3002\u73FE\u5728\u306F\u30DB\u30F3\u30C0\u30B0\u30EB\u30FC\u30D7\u3067\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u95A2\u9023\u65BD\u8A2D\u3092\u904B\u55B6\u3059\u308B\u4F1A\u793E\u3001\u30E2\u30D3\u30EA\u30C6\u30A3\u30E9\u30F3\u30C9\u306B\u3088\u3063\u3066\u904B\u55B6\u3055\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"Der Suzuka International Racing Course (jap. \u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8, Suzuka S\u0101kitto f\u00FCr Suzuka Circuit) ist eine Rennstrecke in der N\u00E4he der Stadt Suzuka in Japan, unweit von Nagoya. Der Kurs wurde 1962 vom Automobilhersteller Honda nach einem Plan des niederl\u00E4ndischen Rennstreckendesigners Hans Hugenholtz als Teststrecke errichtet, mitsamt einem Vergn\u00FCgungspark namens Motopia Park f\u00FCr die Mitarbeiter und ihre Familien. Die Strecke ist in ihrer heutigen Form 5,807 km lang. Zudem gilt sie als eine der fahrerisch anspruchsvollsten Rennstrecken der Welt, da sie viele Richtungswechsel und fast alle Kurventypen enth\u00E4lt: Langsame, mittelschnelle und schnelle Kurven wechseln sich in Suzuka ab. Besonders die \u201ES-Curves\u201C hinter dem Fahrerlager und die schnelle Linkskurve \u201E130R\u201C nach einer langen Geraden fordern den Fahrern eine Menge K\u00F6nnen ab."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Suzuka_circuit_map--2005.svg?width=300> ;
+	dbo:wikiPageRevisionID	744589875 ;
+	dbo:wikiPageID	748984 ;
+	dbp:owner	dbr:Honda ;
+	dbp:layout	"Motorcycle Grand Prix circuit"^^xsd:string ,
+		"Original circuit"^^xsd:string ,
+		"East circuit"^^xsd:string ,
+		"West circuit"^^xsd:string ,
+		"Grand Prix circuit"^^xsd:string ;
+	dbp:lengthMi	3.7280000000000002025 ,
+		2.1539999999999999147 ,
+		3.6169999999999999929 ,
+		3.6089999999999999858 ,
+		1.3939999999999999059 ;
+	dbp:capacity	155000 .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Suzuka_Circuit	ns30:hypernym	dbr:Track ;
+	dbp:architect	dbr:John_Hugenholtz ;
+	dbp:recordTeam	"Ralt Formula 3 car"^^xsd:string ,
+		dbr:RML_Group ,
+		"F.C.C. TSR Honda CBR1000RR"^^xsd:string ,
+		dbr:McLaren ;
+	dbp:events	dbr:Japanese_Grand_Prix ,
+		dbr:Suzuka_8_Hours ,
+		dbr:Super_Formula ,
+		dbr:Super_GT ,
+		dbr:All_Japan_Road_Race_Championship ,
+		dbr:D1_Grand_Prix ,
+		"Super Taikyu"^^xsd:string ,
+		dbr:World_Touring_Car_Championship .
+<http://dbpedia.org/resource/1996_ITC_Suzuka_round>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2013_FIA_WTCC_Race_of_Japan>	dbp:courseName	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Japan>	dbp:courseName	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1997_Japanese_Grand_Prix>	dbo:location	dbr:Suzuka_Circuit .
+dbr:Japanese_Grand_Prix	dbp:circuit	dbr:Suzuka_Circuit .
+dbr:NASCAR_Thunder_Special_Suzuka	rdfs:seeAlso	dbr:Suzuka_Circuit ;
+	dbp:sponsor	dbr:Suzuka_Circuit .
+wikipedia-en:Suzuka_Circuit	foaf:primaryTopic	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2002_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2003_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1987_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1988_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1989_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1990_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1991_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1992_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1993_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1994_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1995_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1996_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1997_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/1998_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2000_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/2001_Japanese_motorcycle_Grand_Prix>	dbp:location	dbr:Suzuka_Circuit .
+dbr:Japan_National_Route_1	dbp:road	dbr:Suzuka_Circuit .
+dbr:Suzuka	dbo:wikiPageDisambiguates	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/Mad_Cobra_(roller_coaster)>	dbo:wikiPageRedirects	dbr:Suzuka_Circuit .
+dbr:Suzuka_International_Racing_Course	dbo:wikiPageRedirects	dbr:Suzuka_Circuit .
+<http://dbpedia.org/resource/\u9234\u9E7F\u30B5\u30FC\u30AD\u30C3\u30C8>	dbo:wikiPageRedirects	dbr:Suzuka_Circuit .

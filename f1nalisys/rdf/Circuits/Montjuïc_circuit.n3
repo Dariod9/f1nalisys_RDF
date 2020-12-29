@@ -1,0 +1,139 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1971_Spanish_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+<http://dbpedia.org/resource/1975_Spanish_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1951_Spanish_motorcycle_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+<http://dbpedia.org/resource/1952_Spanish_motorcycle_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+<http://dbpedia.org/resource/1955_Spanish_motorcycle_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+<http://dbpedia.org/resource/1962_Spanish_motorcycle_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Montju\u00EFc_circuit>	foaf:primaryTopic	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Montjuic_circuit	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo ,
+		yago:Object100002684 ,
+		yago:WikicatSportsVenuesInBarcelona ,
+		yago:Area108497294 ,
+		dbo:BaseballLeague .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	rdf:type	geo:SpatialThing ,
+		yago:WikicatDefunctMotorsportVenuesInSpain ,
+		yago:Location100027167 ,
+		yago:Region108630985 ,
+		yago:YagoGeoEntity ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatMotorsportVenuesInSpain ,
+		yago:WikicatMotorsportVenuesInCatalonia ,
+		yago:Scene108645963 ,
+		yago:Venue108677628 ,
+		yago:WikicatDefunctSportsVenuesInCatalonia .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	rdfs:label	"\u062D\u0644\u0628\u0629 \u0645\u0648\u0646\u062C\u0648\u064A\u0643"@ar ,
+		"Circuit de Montju\u00EFc"@fr ,
+		"Montju\u00EFc circuit"@en ,
+		"Montju\u00EFc Park"@nl ,
+		"Circuito del Montju\u00EFc"@it ,
+		"Montju\u00EFc Circuit"@pl ,
+		"Circuit de Montju\u00EFc"@de ,
+		"Circuito de Montju\u00EFc"@es ,
+		"Montju\u00EFc circuit"@pt ,
+		"\u041C\u043E\u043D\u0436\u0443\u0438\u043A-\u043F\u0430\u0440\u043A"@ru ,
+		"\u30E2\u30F3\u30B8\u30E5\u30A4\u30C3\u30AF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8"@ja ;
+	rdfs:comment	"\u30B7\u30EB\u30AF\u30A4\u30FC\u30C8\u30FB\u30C9\u30FB\u30E2\u30F3\u30B8\u30E5\u30A4\u30C3\u30AF\uFF08\u30AB\u30BF\u30EB\u30FC\u30CB\u30E3\u8A9E:Circuit de Montju\u00EFc, \u30E2\u30F3\u30B8\u30E5\u30A4\u30C3\u30AF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF09\u306F\u30B9\u30DA\u30A4\u30F3\u30D0\u30EB\u30BB\u30ED\u30CA\u3001\u30E0\u30F3\u30B8\u30E5\u30A4\u30C3\u30AF\u306E\u4E18\u306B\u3042\u308B\u516C\u5712\u306B\u3042\u3063\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u30021969\u5E74\u304B\u30891975\u5E74\u307E\u3067\u30CF\u30E9\u30DE\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\u3068\u4EA4\u4E92\u306BF1\u30B9\u30DA\u30A4\u30F3GP\u304C\u958B\u50AC\u3055\u308C\u305F\u3002 \u8D77\u4F0F\u304C\u6FC0\u3057\u304F\u5371\u967A\u3067\u30DE\u30B7\u30F3\u306E\u30B9\u30D4\u30FC\u30C9\u304C\u4E0A\u304C\u308B\u307B\u3069\u30AF\u30E9\u30C3\u30B7\u30E5\u304C\u5897\u3048\u3001\u89B3\u5BA24\u4EBA\u304C\u6B7B\u4EA1\u3059\u308B\u4E8B\u6545\u304C\u8D77\u304D\u305F1975\u5E74\u3092\u6700\u5F8C\u306BF1\u306E\u958B\u50AC\u306F\u7D42\u4E86\u3057\u305F\u3002 \u73FE\u5728\u306F\u30DF\u30ED\u7F8E\u8853\u9928\u7B49\u3092\u64C1\u3059\u8857\u533A\u4E00\u5E2F\u306E\u9053\u8DEF\u3068\u306A\u3063\u3066\u304A\u308A\u3001\u305D\u306E\u9053\u8DEF\u306F1992\u5E74\u30D0\u30EB\u30BB\u30ED\u30CA\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u3067\u306F\u30DE\u30E9\u30BD\u30F3\u306E\u30B3\u30FC\u30B9\u306B\u4F7F\u308F\u308C\u305F\u3002"@ja ,
+		"Le circuit de Montju\u00EFc est un ancien circuit urbain situ\u00E9 sur la montagne de Montju\u00EFc \u00E0 Barcelone, Catalogne."@fr ,
+		"The Montju\u00EFc circuit is a former street circuit located on the Montju\u00EFc mountain in Barcelona, Catalonia, Spain. It is considered among the best Formula One circuits of all time, with Autosport rating it among its ten best for their 50th anniversary of Formula One issue. The circuit was also the venue for the Spanish motorcycle Grand Prix from 1950 to 1968, and then hosted the event on even-numbered years until 1976. The last Formula One Grand Prix held there in 1975, is notable for both a fatal crash that led to Formula One abandoning the venue and the only occasion to date that a female driver has scored World Championship points."@en ,
+		"Montju\u00EFc Circuit \u2013 by\u0142y tor uliczny znajduj\u0105cy si\u0119 na g\u00F3rze Montju\u00EFc w Barcelonie. Jest uwa\u017Cany za jeden z najlepszych tor\u00F3w Formu\u0142y 1 w historii tego sportu."@pl ,
+		"\u041C\u043E\u043D\u0436\u0443\u0438\u043A-\u043F\u0430\u0440\u043A (\u043A\u0430\u0442. Circuit de Montju\u00EFc) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043D\u0430 \u0431\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0441\u043A\u043E\u0439 \u0433\u043E\u0440\u0435 \u041C\u043E\u043D\u0436\u0443\u0438\u043A \u0432 \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u043C \u043F\u0430\u0440\u043A\u0435. \u0412\u043F\u0435\u0440\u0432\u044B\u0435 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430\u0441\u044C \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u0432 1933 \u0433\u043E\u0434\u0443. \u041D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u0447\u0435\u0442\u044B\u0440\u0435 \u0433\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412 1968 \u0433\u043E\u0434\u0443 \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u0432\u044B\u0431\u0440\u0430\u043D\u0430 \u0434\u043B\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0438 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0441\u044F \u0432 \u041C\u043E\u043D\u0436\u0443\u0438\u043A-\u043F\u0430\u0440\u043A\u0435 4 \u043C\u0430\u044F 1969 \u0433\u043E\u0434\u0430. \u0422\u0440\u0430\u0441\u0441\u0430 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u044B\u0445 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041E\u0441\u043E\u0431\u0435\u043D\u043D\u043E\u0441\u0442\u044F\u043C\u0438 \u0442\u0440\u0430\u0441\u0441\u044B \u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F \u0434\u0432\u0438\u0436\u0435\u043D\u0438\u0435 \u043F\u0440\u043E\u0442\u0438\u0432 \u0447\u0430\u0441\u043E\u0432\u043E\u0439 \u0441\u0442\u0440\u0435\u043B\u043A\u0438 \u0438 \u0441\u043E\u0447\u0435\u0442\u0430\u043D\u0438\u0435 \u043E\u0434\u043D\u043E\u0433\u043E \u043E\u0447\u0435\u043D\u044C \u043C\u0435\u0434\u043B\u0435\u043D\u043D\u043E\u0433\u043E \u0438 \u0431\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0431\u044B\u0441\u0442\u0440\u044B\u0445 \u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043E\u0432."@ru ,
+		"Montju\u00EFc Park is een circuit nabij de berg Montju\u00EFc in het zuidwesten van Barcelona en is \u00E9\u00E9n van vijf circuits in Spanje waarop Formule 1 is geracet. Montjuich Park liep over golvende wegen in een openbaar park met uitzicht op het stadscentrum bij het olympisch stadion van Barcelona. Het circuit werd in 1933 in gebruik genomen en in 1966 heropend. Ondanks dat er aanpassingen waren gedaan waren er heel wat hobbels."@nl ,
+		"El Circuito de Montju\u00EFc era un circuito de carreras semipermanente situado en la monta\u00F1a de Montjuic en Barcelona, Espa\u00F1a. Entre otras pruebas, alberg\u00F3 el Gran Premio de Espa\u00F1a de F\u00F3rmula 1 en las temporadas 1969, 1971, 1973 y 1975."@es ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Montju\u00EFc era un circuito motociclistico cittadino disegnato all'interno dell'omonimo parco sito nella citt\u00E0 di Barcellona. Ha ospitato quattro edizioni del Gran Premio di Spagna di Formula 1 (nel 1969, nel 1971, nel 1973 e nel 1975) e diciassette del Gran Premio di Spagna del Motomondiale (dal 1951 al 1955, dal 1961 al 1968, nel 1970, nel 1972, nel 1974 e nel 1976), in aggiunta al Gran Premio automobilistico del \"Penya Rhin\" (dal nome del club locale organizzatore), disputato negli anni trenta."@it ,
+		"O Montju\u00EFc circuit (Circuito de Montju\u00EFc - ou Montjuich) est\u00E1 localizado no bairro hom\u00F4nimo da cidade de Barcelona, na Espanha. Sediou o Grande Pr\u00EAmio da Espanha de F\u00F3rmula 1 em: 1969, 1971, 1973 e 1975, sendo que, nesta \u00FAltima, um grave acidente com o alem\u00E3o Rolf Stommelen fez com que a corrida fosse encerrada logo em seguida. A Lola de Stommelen, que perdera um aerof\u00F3lio, decolou sobre o guard-rail e matou cinco espectadores. Depois da trag\u00E9dia, Montju\u00EFc nunca mais seria usado para provas da categoria. Montju\u00EFc n\u00E3o sediou em: 1970, 1972 e 1974 que foi realizado em Jarama."@pt ,
+		"\u062D\u0644\u0628\u0629 \u0645\u0648\u0646\u062C\u0648\u064A\u0643 (\u0628\u0627\u0644\u0643\u062A\u0627\u0644\u0627\u0646\u064A\u0629:Circuit de Montju\u00EFc) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0633\u0627\u0628\u0642\u0629 \u062A\u0642\u0639 \u0639\u0644\u0649 \u062A\u0644\u0629 \u0645\u0648\u0646\u062C\u0648\u064A\u0643 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0628\u0645\u0646\u0637\u0642\u0629 \u0643\u062A\u0627\u0644\u0648\u0646\u064A\u0627. \u0627\u0633\u062A\u0636\u0627\u0641\u0629 \u062C\u0627\u0626\u0632\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0645\u0646 1950 \u0625\u0644\u0649 1968. \u062A\u0633\u062A\u0636\u064A\u0641 \u0623\u064A\u0636\u0627 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1."@ar ,
+		"Der Circuit de Montju\u00EFc (Spanisch Circuito de Montjuic) ist eine ehemalige Motorsport-Rennstrecke im Parc de Montju\u00EFc in Barcelona, wo auch die Olympischen Sommerspiele 1992 ausgetragen wurden. Er wird als einer der schwierigsten Formel-1-Kurse aller Zeiten angesehen."@de .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	owl:sameAs	<http://rdf.freebase.com/ns/m.09yqzc> ,
+		<http://it.dbpedia.org/resource/Circuito_del_Montju\u00EFc> ,
+		<http://es.dbpedia.org/resource/Circuito_de_Montju\u00EFc> ,
+		<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	owl:sameAs	wikidata:Q172892 ,
+		<http://yago-knowledge.org/resource/Montju\u00EFc_circuit> ,
+		<http://fr.dbpedia.org/resource/Circuit_de_Montju\u00EFc> ,
+		<http://pl.dbpedia.org/resource/Montju\u00EFc_Circuit> ,
+		<http://dbpedia.org/resource/Montju\u00EFc_circuit> ,
+		<http://nl.dbpedia.org/resource/Montju\u00EFc_Park> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	owl:sameAs	dbpedia-wikidata:Q172892 ,
+		<http://de.dbpedia.org/resource/Circuit_de_Montju\u00EFc> ,
+		<http://ja.dbpedia.org/resource/\u30E2\u30F3\u30B8\u30E5\u30A4\u30C3\u30AF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8> ,
+		<http://pt.dbpedia.org/resource/Montju\u00EFc_circuit> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	dct:subject	dbc:Motorsport_venues_in_Catalonia ,
+		dbc:Motorsport_venues_in_Spain ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grand_Prix_circuits> ,
+		dbc:Spanish_Grand_Prix ,
+		dbc:Defunct_sports_venues_in_Catalonia ,
+		dbc:Defunct_motorsport_venues_in_Spain ,
+		dbc:Grand_Prix_motorcycle_circuits ,
+		dbc:Sports_venues_in_Barcelona ,
+		dbc:Formula_One_circuits .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	geo:lat	"41.366390228271484375"^^xsd:float ;
+	geo:long	"2.1516666412353515625"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Montju\u00EFc_circuit.svg> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Montju\u00EFc_circuit> .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	geo:geometry	"POINT(2.1516666412354 41.366390228271)"^^virtrdf:Geometry ;
+	dbp:time	"GMT +1"^^xsd:string ;
+	dbp:lengthKm	3.7900000000000000355 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Montju\u00EFc_circuit?oldid=714989209> .
+@prefix georss:	<http://www.georss.org/georss/> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	georss:point	"41.36638888888889 2.151666666666667" ;
+	dbo:wikiPageExternalLink	<http://www.openstreetmap.org/relation/1147249> ,
+		<http://espndeportes.espn.go.com/story?id=279114> ,
+		<http://montjuich.speedgeezers.net/history.html> ,
+		<http://maps.google.com/maps?f=q&hl=en&q=Barcelona,%20Spain&ie=UTF8&z=16&ll=41.368677,2.152312&spn=0.007601,0.021629&t=k&om=1> ;
+	dbp:location	dbr:Spain ,
+		dbr:Barcelona ,
+		dbr:Catalonia ,
+		<http://dbpedia.org/resource/Montju\u00EFc> ;
+	dbp:recordDriver	dbr:Ronnie_Peterson ;
+	dbp:recordTime	1 ;
+	dbp:recordYear	1973 ;
+	dbp:turns	12 ;
+	dbp:name	"Montju\u00EFc circuit"^^xsd:string ;
+	dbo:abstract	"O Montju\u00EFc circuit (Circuito de Montju\u00EFc - ou Montjuich) est\u00E1 localizado no bairro hom\u00F4nimo da cidade de Barcelona, na Espanha. Sediou o Grande Pr\u00EAmio da Espanha de F\u00F3rmula 1 em: 1969, 1971, 1973 e 1975, sendo que, nesta \u00FAltima, um grave acidente com o alem\u00E3o Rolf Stommelen fez com que a corrida fosse encerrada logo em seguida. A Lola de Stommelen, que perdera um aerof\u00F3lio, decolou sobre o guard-rail e matou cinco espectadores. Depois da trag\u00E9dia, Montju\u00EFc nunca mais seria usado para provas da categoria. Montju\u00EFc n\u00E3o sediou em: 1970, 1972 e 1974 que foi realizado em Jarama."@pt ,
+		"\u062D\u0644\u0628\u0629 \u0645\u0648\u0646\u062C\u0648\u064A\u0643 (\u0628\u0627\u0644\u0643\u062A\u0627\u0644\u0627\u0646\u064A\u0629:Circuit de Montju\u00EFc) \u0647\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0633\u0627\u0628\u0642\u0629 \u062A\u0642\u0639 \u0639\u0644\u0649 \u062A\u0644\u0629 \u0645\u0648\u0646\u062C\u0648\u064A\u0643 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0628\u0645\u0646\u0637\u0642\u0629 \u0643\u062A\u0627\u0644\u0648\u0646\u064A\u0627. \u0627\u0633\u062A\u0636\u0627\u0641\u0629 \u062C\u0627\u0626\u0632\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0645\u0646 1950 \u0625\u0644\u0649 1968. \u062A\u0633\u062A\u0636\u064A\u0641 \u0623\u064A\u0636\u0627 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1."@ar ,
+		"\u041C\u043E\u043D\u0436\u0443\u0438\u043A-\u043F\u0430\u0440\u043A (\u043A\u0430\u0442. Circuit de Montju\u00EFc) \u2014 \u0442\u0440\u0430\u0441\u0441\u0430, \u043F\u0440\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043D\u0430 \u0431\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0441\u043A\u043E\u0439 \u0433\u043E\u0440\u0435 \u041C\u043E\u043D\u0436\u0443\u0438\u043A \u0432 \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u043E\u043C \u043F\u0430\u0440\u043A\u0435. \u0412\u043F\u0435\u0440\u0432\u044B\u0435 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430\u0441\u044C \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u0432 1933 \u0433\u043E\u0434\u0443. \u041D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043F\u0440\u043E\u0448\u043B\u0438 \u0447\u0435\u0442\u044B\u0440\u0435 \u0433\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412 1968 \u0433\u043E\u0434\u0443 \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u0432\u044B\u0431\u0440\u0430\u043D\u0430 \u0434\u043B\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0438 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0441\u044F \u0432 \u041C\u043E\u043D\u0436\u0443\u0438\u043A-\u043F\u0430\u0440\u043A\u0435 4 \u043C\u0430\u044F 1969 \u0433\u043E\u0434\u0430. \u0422\u0440\u0430\u0441\u0441\u0430 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u044B\u0445 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041E\u0441\u043E\u0431\u0435\u043D\u043D\u043E\u0441\u0442\u044F\u043C\u0438 \u0442\u0440\u0430\u0441\u0441\u044B \u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F \u0434\u0432\u0438\u0436\u0435\u043D\u0438\u0435 \u043F\u0440\u043E\u0442\u0438\u0432 \u0447\u0430\u0441\u043E\u0432\u043E\u0439 \u0441\u0442\u0440\u0435\u043B\u043A\u0438 \u0438 \u0441\u043E\u0447\u0435\u0442\u0430\u043D\u0438\u0435 \u043E\u0434\u043D\u043E\u0433\u043E \u043E\u0447\u0435\u043D\u044C \u043C\u0435\u0434\u043B\u0435\u043D\u043D\u043E\u0433\u043E \u0438 \u0431\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0431\u044B\u0441\u0442\u0440\u044B\u0445 \u043F\u043E\u0432\u043E\u0440\u043E\u0442\u043E\u0432. \u041F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E, \u043A\u0430\u043A \u043D\u0430 \u0433\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 1975 \u0433\u043E\u0434\u0430 \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u0430 \u0442\u0440\u0430\u0433\u0435\u0434\u0438\u044F (\u043D\u0430 26 \u043A\u0440\u0443\u0433\u0435 \u0420\u043E\u043B\u044C\u0444 \u0428\u0442\u043E\u043C\u043C\u0435\u043B\u0435\u043D \u0432\u044B\u043B\u0435\u0442\u0435\u043B \u0441 \u0442\u0440\u0430\u0441\u0441\u044B, \u0432 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0435 \u043F\u043E\u0433\u0438\u0431\u043B\u043E 5 \u0437\u0440\u0438\u0442\u0435\u043B\u0435\u0439), \u0433\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043D\u0430 \u0434\u0430\u043D\u043D\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0438\u0441\u044C."@ru ,
+		"Der Circuit de Montju\u00EFc (Spanisch Circuito de Montjuic) ist eine ehemalige Motorsport-Rennstrecke im Parc de Montju\u00EFc in Barcelona, wo auch die Olympischen Sommerspiele 1992 ausgetragen wurden. Er wird als einer der schwierigsten Formel-1-Kurse aller Zeiten angesehen."@de ,
+		"\u30B7\u30EB\u30AF\u30A4\u30FC\u30C8\u30FB\u30C9\u30FB\u30E2\u30F3\u30B8\u30E5\u30A4\u30C3\u30AF\uFF08\u30AB\u30BF\u30EB\u30FC\u30CB\u30E3\u8A9E:Circuit de Montju\u00EFc, \u30E2\u30F3\u30B8\u30E5\u30A4\u30C3\u30AF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\uFF09\u306F\u30B9\u30DA\u30A4\u30F3\u30D0\u30EB\u30BB\u30ED\u30CA\u3001\u30E0\u30F3\u30B8\u30E5\u30A4\u30C3\u30AF\u306E\u4E18\u306B\u3042\u308B\u516C\u5712\u306B\u3042\u3063\u305F\u30B5\u30FC\u30AD\u30C3\u30C8\u30021969\u5E74\u304B\u30891975\u5E74\u307E\u3067\u30CF\u30E9\u30DE\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\u3068\u4EA4\u4E92\u306BF1\u30B9\u30DA\u30A4\u30F3GP\u304C\u958B\u50AC\u3055\u308C\u305F\u3002 \u8D77\u4F0F\u304C\u6FC0\u3057\u304F\u5371\u967A\u3067\u30DE\u30B7\u30F3\u306E\u30B9\u30D4\u30FC\u30C9\u304C\u4E0A\u304C\u308B\u307B\u3069\u30AF\u30E9\u30C3\u30B7\u30E5\u304C\u5897\u3048\u3001\u89B3\u5BA24\u4EBA\u304C\u6B7B\u4EA1\u3059\u308B\u4E8B\u6545\u304C\u8D77\u304D\u305F1975\u5E74\u3092\u6700\u5F8C\u306BF1\u306E\u958B\u50AC\u306F\u7D42\u4E86\u3057\u305F\u3002 \u73FE\u5728\u306F\u30DF\u30ED\u7F8E\u8853\u9928\u7B49\u3092\u64C1\u3059\u8857\u533A\u4E00\u5E2F\u306E\u9053\u8DEF\u3068\u306A\u3063\u3066\u304A\u308A\u3001\u305D\u306E\u9053\u8DEF\u306F1992\u5E74\u30D0\u30EB\u30BB\u30ED\u30CA\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u3067\u306F\u30DE\u30E9\u30BD\u30F3\u306E\u30B3\u30FC\u30B9\u306B\u4F7F\u308F\u308C\u305F\u3002"@ja ,
+		"Montju\u00EFc Park is een circuit nabij de berg Montju\u00EFc in het zuidwesten van Barcelona en is \u00E9\u00E9n van vijf circuits in Spanje waarop Formule 1 is geracet. Montjuich Park liep over golvende wegen in een openbaar park met uitzicht op het stadscentrum bij het olympisch stadion van Barcelona. Het circuit werd in 1933 in gebruik genomen en in 1966 heropend. Ondanks dat er aanpassingen waren gedaan waren er heel wat hobbels. In 1975 had Montjuich definitief afgedaan voor de Formule 1. Vlak na het begin van de training klaagden de coureurs over de gebrekkige veiligheid, met name over ontbrekende bouten bij de Armco (vangrails). Regerend wereldkampioen Emerson Fittipaldi pakte zijn koffers en vertrok op de ochtend van de race terwijl de Spaanse autoriteiten dreigden de wagens in beslag te nemen als de race niet zou doorgaan. Eindelijk begon de race, onder protest. Verscheidene coureurs stapten voortijdig uit en er ontstond een chaos op de baan toen de ene wagen na de andere crashte met een kapotte vering of aandrijfas. Rolf Stommelen lag na 25 ronden aan de leiding toen hij zijn achtervleugel verloor en crashte, waarbij vijf omstaanders werden gedood. De race werd gestopt en de nieuwe leider Jochen Mass kreeg de helft van de punten. De race was het debuut van Roelof Wunderink, die bijna nog punten behaalde."@nl ,
+		"The Montju\u00EFc circuit is a former street circuit located on the Montju\u00EFc mountain in Barcelona, Catalonia, Spain. It is considered among the best Formula One circuits of all time, with Autosport rating it among its ten best for their 50th anniversary of Formula One issue. The circuit was also the venue for the Spanish motorcycle Grand Prix from 1950 to 1968, and then hosted the event on even-numbered years until 1976. The last Formula One Grand Prix held there in 1975, is notable for both a fatal crash that led to Formula One abandoning the venue and the only occasion to date that a female driver has scored World Championship points."@en ,
+		"Le circuit de Montju\u00EFc est un ancien circuit urbain situ\u00E9 sur la montagne de Montju\u00EFc \u00E0 Barcelone, Catalogne."@fr ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) Il circuito di Montju\u00EFc era un circuito motociclistico cittadino disegnato all'interno dell'omonimo parco sito nella citt\u00E0 di Barcellona. Ha ospitato quattro edizioni del Gran Premio di Spagna di Formula 1 (nel 1969, nel 1971, nel 1973 e nel 1975) e diciassette del Gran Premio di Spagna del Motomondiale (dal 1951 al 1955, dal 1961 al 1968, nel 1970, nel 1972, nel 1974 e nel 1976), in aggiunta al Gran Premio automobilistico del \"Penya Rhin\" (dal nome del club locale organizzatore), disputato negli anni trenta."@it ,
+		"El Circuito de Montju\u00EFc era un circuito de carreras semipermanente situado en la monta\u00F1a de Montjuic en Barcelona, Espa\u00F1a. Entre otras pruebas, alberg\u00F3 el Gran Premio de Espa\u00F1a de F\u00F3rmula 1 en las temporadas 1969, 1971, 1973 y 1975."@es ,
+		"Montju\u00EFc Circuit \u2013 by\u0142y tor uliczny znajduj\u0105cy si\u0119 na g\u00F3rze Montju\u00EFc w Barcelonie. Jest uwa\u017Cany za jeden z najlepszych tor\u00F3w Formu\u0142y 1 w historii tego sportu."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Montju\u00EFc_circuit.svg?width=300> ;
+	dbo:wikiPageRevisionID	714989209 ;
+	dbo:wikiPageID	3745571 ;
+	dbp:lengthMi	2.3500000000000000888 .
+@prefix ns17:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	ns17:hypernym	dbr:Circuit ;
+	dbp:recordTeam	dbr:Ford_Motor_Company ,
+		dbr:Team_Lotus ;
+	dbp:events	"Formula One"^^xsd:string ,
+		"Spanish Grand Prix"^^xsd:string ,
+		"Spanish motorcycle Grand Prix"^^xsd:string ,
+		"Penya Rhin Grand Prix"^^xsd:string .
+dbr:Montjuich_circuit	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+<http://dbpedia.org/resource/1933_Penya_Rhin_Grand_Prix>	dbp:course	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+<http://dbpedia.org/resource/1969_Spanish_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+<http://dbpedia.org/resource/1973_Spanish_Grand_Prix>	dbo:location	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+<http://dbpedia.org/resource/1976_Spanish_motorcycle_Grand_Prix>	dbp:location	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+dbr:Montjuic_Park	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
+<http://dbpedia.org/resource/Montju\u00EFc_Circuit>	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Montju\u00EFc_circuit> .
