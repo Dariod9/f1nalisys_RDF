@@ -1,0 +1,143 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1952_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1953_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1975_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1949_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1954_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1951_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1948_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1935_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1938_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1939_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1937_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1936_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1982_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Swiss_GP	dbo:wikiPageRedirects	dbr:Swiss_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Swiss_Grand_Prix	foaf:primaryTopic	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1934_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1947_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+<http://dbpedia.org/resource/1950_Swiss_Grand_Prix>	dbp:nameOfRace	dbr:Swiss_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Swiss_Grand_Prix	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Swiss_Grand_Prix	rdf:type	yago:Contest107456188 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Race107472657 ,
+		yago:Event100029378 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Abstraction100002137 ,
+		yago:SocialEvent107288639 ,
+		dbo:SportsEvent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Swiss_Grand_Prix	rdfs:label	"Grand Prix automobile de Suisse"@fr ,
+		"Swiss Grand Prix"@en ,
+		"Grand Prix Formule 1 van Zwitserland"@nl ,
+		"Gro\u00DFer Preis der Schweiz"@de ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438"@ru ,
+		"Grand Prix Szwajcarii Formu\u0142y 1"@pl ,
+		"\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"Gran Premio di Svizzera"@it ,
+		"Gran Premio de Suiza"@es ,
+		"Grande Pr\u00EAmio da Su\u00ED\u00E7a"@pt ;
+	rdfs:comment	"O Grande Pr\u00EAmio da Su\u00ED\u00E7a foi um evento automobil\u00EDstico da F\u00F3rmula 1 realizado entre 1950 e 1982. N\u00E3o houve provas de 1955 a 1975 e de 1976 a 1981, tornando-se proibidas em fun\u00E7\u00E3o da sequ\u00EAncia dos tr\u00E1gicos acontecimentos das 24 Horas de Le Mans 1955, onde o Mercedes desgovernado do franc\u00EAs Pierre Levegh matou 80 espectadores."@pt ,
+		"The Swiss Grand Prix (French: Grand Prix de Suisse, German: Gro\u00DFer Preis der Schweiz, Italian: Gran Premio di Svizzera) was the premier auto race of Switzerland. In its later years it was a Formula One race."@en ,
+		"Il Gran Premio di Svizzera \u00E8 una gara automobilistica di Formula 1 che si \u00E8 svolta dal 1950 al 1954 sul Circuito di Bremgarten, nei pressi di Berna, e nel 1982 sul Circuito di Digione, in Francia."@it ,
+		"\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30B9\u30A4\u30B9GP\u3001Swiss Grand Prix \uFF09\u306F\u3001\u30B9\u30A4\u30B9\u30671950\u5E74\u304B\u30891954\u5E74\u30011982\u5E74\u306B\u884C\u308F\u308C\u305FF1\u306E\u30EC\u30FC\u30B9\u306E\u3072\u3068\u3064\u3002 1955\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u8D77\u304D\u305F\u5927\u4E8B\u6545\u306B\u3088\u308A\u30B9\u30A4\u30B9\u56FD\u5185\u3067\u306E\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u304C\u7981\u6B62\u3055\u308C\u30011955\u5E74\u306B\u4E88\u5B9A\u3055\u308C\u3066\u3044\u305F\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\u3082\u30AD\u30E3\u30F3\u30BB\u30EB\u3055\u308C\u305F\u3002\u4EE5\u5F8C\u30B9\u30A4\u30B9\u56FD\u5185\u3067F1\u30B0\u30E9\u30F3\u30D7\u30EA\u306F\u958B\u50AC\u3055\u308C\u3066\u3044\u306A\u3044\u30021982\u5E74\u306E\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\u306F\u30D5\u30E9\u30F3\u30B9\u306E\u30C7\u30A3\u30B8\u30E7\u30F3\u30FB\u30D7\u30EC\u30CE\u30EF\u3067\u958B\u50AC\u3055\u308C\u305F\u304C\u3001\u30D5\u30E9\u30F3\u30B9\u56FD\u5185\u3067\u5E74\u5185\u306B2\u30EC\u30FC\u30B9\u3092\u884C\u3046\u305F\u3081\u306B\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\u306E\u540D\u304C\u51A0\u3055\u308C\u305F\u3060\u3051\u3067\u3042\u308B\u3002 \u30EC\u30FC\u30B9\u304C\u958B\u50AC\u3055\u308C\u305F\u306E\u306F\u30D6\u30EC\u30E0\u30AC\u30EB\u30C6\u30F3\u3067\u3001\u3053\u306E\u30B3\u30FC\u30B9\u306F1934\u5E74\u304B\u30891955\u5E74\u307E\u3067\u4F7F\u7528\u3055\u308C\u305F\u3002\u9996\u90FD\u30D9\u30EB\u30F3\u90CA\u5916\u306B\u3042\u308A\u30011\u54687,280m\u306E\u9577\u3044\u30B3\u30FC\u30B9\u3002"@ja ,
+		"Gro\u00DFer Preis der Schweiz, zeitweise auch Grand Prix von Bremgarten, ist der Name eines Rundstreckenrennens, das vom Automobil Club der Schweiz ausgetragen wurde. Von 1950 bis 1954 sowie 1982 war das Rennen Teil der Formel-1-Weltmeisterschaft. Nach dem schweren Unfall beim 24-Stunden-Rennen von Le Mans 1955, bei dem 84 Menschen ums Leben kamen, wurden Rundstreckenrennen in der gesamten Schweiz aus Sicherheitsgr\u00FCnden verboten, was das Ende f\u00FCr den Gro\u00DFen Preis der Schweiz bedeutete."@de ,
+		"De Grand Prix van Zwitserland was een race uit het Formule 1-kampioenschap, jaarlijks gehouden tussen 1950 en 1954 op het Stratencircuit Bremgarten in het Zwitserse Bremgarten bei Bern, waarna de grand prix van de kalender verdween. In 1975 werd er een race gehouden onder de naam Grand Prix van Zwitserland in het Franse Dijon, maar deze race telde niet mee voor het kampioenschap. Zeven jaar later werd er in Dijon opnieuw een race gehouden en deze telde wel mee voor het kampioenschap. Williams-rijder Keke Rosberg won dat jaar de laatste Zwitserse grand prix."@nl ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 (\u043D\u0435\u043C. Gro\u00DFer Preis der Schweiz) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0412\u0445\u043E\u0434\u0438\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1950-1954 (\u0442\u0440\u0430\u0441\u0441\u0430 \u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D) \u0438 1982 \u0433\u043E\u0434\u043E\u0432 (\u0442\u0440\u0430\u0441\u0441\u0430 \u0414\u0438\u0436\u043E\u043D \u0432\u043E \u0424\u0440\u0430\u043D\u0446\u0438\u0438, \u0442\u0430\u043A \u043A\u0430\u043A \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0438 \u043D\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 \u0431\u044B\u043B\u0438 \u0437\u0430\u043F\u0440\u0435\u0449\u0435\u043D\u044B \u043F\u043E\u0441\u043B\u0435 \u0430\u0432\u0430\u0440\u0438\u0438 1955 \u0433\u043E\u0434\u0430 \u0432 \u041B\u0435-\u041C\u0430\u043D\u0435, \u043F\u043E\u0432\u043B\u0451\u043A\u0448\u0435\u0439 \u0441\u043C\u0435\u0440\u0442\u044C 80 \u0447\u0435\u043B\u043E\u0432\u0435\u043A). \u041F\u0435\u0440\u0432\u044B\u0435 9 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0438\u0441\u044C \u0434\u043E 1950 \u0433\u043E\u0434\u0430, \u043F\u044F\u0442\u044C \u0438\u0437 \u043D\u0438\u0445 \u0432\u0445\u043E\u0434\u0438\u043B\u0438 \u0432 \u043F\u0440\u0435\u0434-\u0432\u043E\u0435\u043D\u043D\u044B\u0439 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0415\u0432\u0440\u043E\u043F\u044B. 6 \u0438\u044E\u043D\u044F 2007 \u0433\u043E\u0434\u0430 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u043F\u0430\u0440\u043B\u0430\u043C\u0435\u043D\u0442 \u043F\u0440\u043E\u0434\u043B\u0438\u043B \u0437\u0430\u043F\u0440\u0435\u0442 \u043D\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0433\u043E\u043D\u043E\u043A \u0435\u0449\u0451 \u043D\u0430 5 \u043B\u0435\u0442."@ru ,
+		"Le Grand Prix automobile de Suisse a compt\u00E9 pour le championnat du monde de Formule 1 de 1950 \u00E0 1954 puis en 1982."@fr ,
+		"El Gran Premio de Suiza fue una carrera de automovilismo de velocidad, v\u00E1lida para el Campeonato Mundial de F\u00F3rmula 1 en varias de sus ediciones. La carrera se inici\u00F3 en Suiza en 1934 en el circuito de Bremgarten en las afueras de la ciudad de Bremgarten en Berna. Bremgarten fue la sede del Gran Premio de Suiza hasta 1954, luego de lo cual el gobierno suizo prohibi\u00F3 las carreras en circuitos en Suiza por ser un deporte poco seguro para los espectadores, luego de la muerte de 80 personas durante las 24 horas de Le Mans de 1955."@es ,
+		"Grand Prix Szwajcarii \u2013 wy\u015Bcig nale\u017C\u0105cy do cyklu Formu\u0142y 1 w latach 1950-1954 i 1982. Pierwszy wy\u015Bcig o Grand Prix Szwajcarii odby\u0142 si\u0119 w 1934 na torze Circuit Bremgarten w miejscowo\u015Bci Bremgarten. W latach 1935-1939 wy\u015Bcig zaliczany by\u0142 do klasyfikacji mistrzostw Europy. Grand Prix Szwajcarii powr\u00F3ci\u0142o w 1975 jako wy\u015Bcig niezaliczany do klasyfikacji F1. Odby\u0142 si\u0119 on jednak we Francji, na torze Dijon-Prenois. Nast\u0119pne i dot\u0105d ostatnie GP Szwajcarii odby\u0142o si\u0119 w 1982 r\u00F3wnie\u017C na torze Dijon-Prenois. By\u0142 to wy\u015Bcig zaliczany do klasyfikacji F1."@pl ;
+	dbp:laps	80 ;
+	owl:sameAs	dbr:Swiss_Grand_Prix .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Swiss_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q9225 ,
+		<http://ko.dbpedia.org/resource/\uC2A4\uC704\uC2A4_\uADF8\uB791\uD504\uB9AC> ,
+		<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_der_Schweiz> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Swiss_Grand_Prix	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_Zwitserland .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Swiss_Grand_Prix	owl:sameAs	wikidata:Q9225 ,
+		<http://d-nb.info/gnd/7681321-6> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Swiss_Grand_Prix	owl:sameAs	dbpedia-fr:Grand_Prix_automobile_de_Suisse .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Swiss_Grand_Prix	owl:sameAs	dbpedia-eu:Suitzako_Sari_Nagusia ,
+		<http://ja.dbpedia.org/resource/\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Swiss_Grand_Prix	owl:sameAs	dbpedia-es:Gran_Premio_de_Suiza ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_da_Su\u00ED\u00E7a> ,
+		<http://rdf.freebase.com/ns/m.01z35r> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Swiss_Grand_Prix	owl:sameAs	yago-res:Swiss_Grand_Prix ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_Szwajcarii_Formu\u0142y_1> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Swiss_Grand_Prix	owl:sameAs	dbpedia-it:Gran_Premio_di_Svizzera .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Swiss_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_Swiss ,
+		<http://cs.dbpedia.org/resource/Grand_Prix_\u0160v\u00FDcarska> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Swiss_Grand_Prix	dct:subject	dbc:National_Grands_Prix ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grands_Prix> ,
+		dbc:Recurring_sporting_events_established_in_1934 ,
+		dbc:Canton_of_Bern ,
+		dbc:Swiss_Grand_Prix ,
+		dbc:Formula_One_Grands_Prix ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Switzerland.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Swiss_Grand_Prix ;
+	dbp:fastestLapTeam	dbr:Renault_F1 ;
+	dbp:winningTeam	dbr:Cosworth ,
+		dbr:WilliamsF1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Swiss_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Swiss_Grand_Prix?oldid=716545748> ;
+	dbp:fastestLapDriver	"Alain Prost"^^xsd:string ;
+	dbp:circuit	dbr:Dijon-Prenois ;
+	dbp:winner	"Keke Rosberg"^^xsd:string ;
+	dbp:currentYear	1982 ;
+	dbp:poleTime	1 ;
+	dbp:name	"Swiss Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Renault_F1 ;
+	dbp:secondTeam	dbr:Renault_F1 ;
+	dbo:abstract	"The Swiss Grand Prix (French: Grand Prix de Suisse, German: Gro\u00DFer Preis der Schweiz, Italian: Gran Premio di Svizzera) was the premier auto race of Switzerland. In its later years it was a Formula One race."@en ,
+		"O Grande Pr\u00EAmio da Su\u00ED\u00E7a foi um evento automobil\u00EDstico da F\u00F3rmula 1 realizado entre 1950 e 1982. N\u00E3o houve provas de 1955 a 1975 e de 1976 a 1981, tornando-se proibidas em fun\u00E7\u00E3o da sequ\u00EAncia dos tr\u00E1gicos acontecimentos das 24 Horas de Le Mans 1955, onde o Mercedes desgovernado do franc\u00EAs Pierre Levegh matou 80 espectadores."@pt ,
+		"\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30B9\u30A4\u30B9GP\u3001Swiss Grand Prix \uFF09\u306F\u3001\u30B9\u30A4\u30B9\u30671950\u5E74\u304B\u30891954\u5E74\u30011982\u5E74\u306B\u884C\u308F\u308C\u305FF1\u306E\u30EC\u30FC\u30B9\u306E\u3072\u3068\u3064\u3002 1955\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u8D77\u304D\u305F\u5927\u4E8B\u6545\u306B\u3088\u308A\u30B9\u30A4\u30B9\u56FD\u5185\u3067\u306E\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u304C\u7981\u6B62\u3055\u308C\u30011955\u5E74\u306B\u4E88\u5B9A\u3055\u308C\u3066\u3044\u305F\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\u3082\u30AD\u30E3\u30F3\u30BB\u30EB\u3055\u308C\u305F\u3002\u4EE5\u5F8C\u30B9\u30A4\u30B9\u56FD\u5185\u3067F1\u30B0\u30E9\u30F3\u30D7\u30EA\u306F\u958B\u50AC\u3055\u308C\u3066\u3044\u306A\u3044\u30021982\u5E74\u306E\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\u306F\u30D5\u30E9\u30F3\u30B9\u306E\u30C7\u30A3\u30B8\u30E7\u30F3\u30FB\u30D7\u30EC\u30CE\u30EF\u3067\u958B\u50AC\u3055\u308C\u305F\u304C\u3001\u30D5\u30E9\u30F3\u30B9\u56FD\u5185\u3067\u5E74\u5185\u306B2\u30EC\u30FC\u30B9\u3092\u884C\u3046\u305F\u3081\u306B\u30B9\u30A4\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\u306E\u540D\u304C\u51A0\u3055\u308C\u305F\u3060\u3051\u3067\u3042\u308B\u3002 \u30EC\u30FC\u30B9\u304C\u958B\u50AC\u3055\u308C\u305F\u306E\u306F\u30D6\u30EC\u30E0\u30AC\u30EB\u30C6\u30F3\u3067\u3001\u3053\u306E\u30B3\u30FC\u30B9\u306F1934\u5E74\u304B\u30891955\u5E74\u307E\u3067\u4F7F\u7528\u3055\u308C\u305F\u3002\u9996\u90FD\u30D9\u30EB\u30F3\u90CA\u5916\u306B\u3042\u308A\u30011\u54687,280m\u306E\u9577\u3044\u30B3\u30FC\u30B9\u3002"@ja ,
+		"Il Gran Premio di Svizzera \u00E8 una gara automobilistica di Formula 1 che si \u00E8 svolta dal 1950 al 1954 sul Circuito di Bremgarten, nei pressi di Berna, e nel 1982 sul Circuito di Digione, in Francia."@it ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 (\u043D\u0435\u043C. Gro\u00DFer Preis der Schweiz) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0412\u0445\u043E\u0434\u0438\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1950-1954 (\u0442\u0440\u0430\u0441\u0441\u0430 \u0411\u0440\u0435\u043C\u0433\u0430\u0440\u0442\u0435\u043D) \u0438 1982 \u0433\u043E\u0434\u043E\u0432 (\u0442\u0440\u0430\u0441\u0441\u0430 \u0414\u0438\u0436\u043E\u043D \u0432\u043E \u0424\u0440\u0430\u043D\u0446\u0438\u0438, \u0442\u0430\u043A \u043A\u0430\u043A \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0438 \u043D\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 \u0431\u044B\u043B\u0438 \u0437\u0430\u043F\u0440\u0435\u0449\u0435\u043D\u044B \u043F\u043E\u0441\u043B\u0435 \u0430\u0432\u0430\u0440\u0438\u0438 1955 \u0433\u043E\u0434\u0430 \u0432 \u041B\u0435-\u041C\u0430\u043D\u0435, \u043F\u043E\u0432\u043B\u0451\u043A\u0448\u0435\u0439 \u0441\u043C\u0435\u0440\u0442\u044C 80 \u0447\u0435\u043B\u043E\u0432\u0435\u043A). \u041F\u0435\u0440\u0432\u044B\u0435 9 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0438\u0441\u044C \u0434\u043E 1950 \u0433\u043E\u0434\u0430, \u043F\u044F\u0442\u044C \u0438\u0437 \u043D\u0438\u0445 \u0432\u0445\u043E\u0434\u0438\u043B\u0438 \u0432 \u043F\u0440\u0435\u0434-\u0432\u043E\u0435\u043D\u043D\u044B\u0439 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0415\u0432\u0440\u043E\u043F\u044B. 6 \u0438\u044E\u043D\u044F 2007 \u0433\u043E\u0434\u0430 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u043F\u0430\u0440\u043B\u0430\u043C\u0435\u043D\u0442 \u043F\u0440\u043E\u0434\u043B\u0438\u043B \u0437\u0430\u043F\u0440\u0435\u0442 \u043D\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0433\u043E\u043D\u043E\u043A \u0435\u0449\u0451 \u043D\u0430 5 \u043B\u0435\u0442."@ru ,
+		"De Grand Prix van Zwitserland was een race uit het Formule 1-kampioenschap, jaarlijks gehouden tussen 1950 en 1954 op het Stratencircuit Bremgarten in het Zwitserse Bremgarten bei Bern, waarna de grand prix van de kalender verdween. In 1975 werd er een race gehouden onder de naam Grand Prix van Zwitserland in het Franse Dijon, maar deze race telde niet mee voor het kampioenschap. Zeven jaar later werd er in Dijon opnieuw een race gehouden en deze telde wel mee voor het kampioenschap. Williams-rijder Keke Rosberg won dat jaar de laatste Zwitserse grand prix."@nl ,
+		"El Gran Premio de Suiza fue una carrera de automovilismo de velocidad, v\u00E1lida para el Campeonato Mundial de F\u00F3rmula 1 en varias de sus ediciones. La carrera se inici\u00F3 en Suiza en 1934 en el circuito de Bremgarten en las afueras de la ciudad de Bremgarten en Berna. Bremgarten fue la sede del Gran Premio de Suiza hasta 1954, luego de lo cual el gobierno suizo prohibi\u00F3 las carreras en circuitos en Suiza por ser un deporte poco seguro para los espectadores, luego de la muerte de 80 personas durante las 24 horas de Le Mans de 1955. El Gran Premio de Suiza se volvi\u00F3 a disputar en 1975 y 1982, aunque en un aut\u00F3dromo situada s\u00F3lo cerca de su frontera, en Dijon-Prenois, Francia. La edici\u00F3n de 1975 fue no puntuable para el campeonato de F\u00F3rmula 1, en tanto que la de 1982 s\u00ED perteneci\u00F3 al calendario."@es ,
+		"Grand Prix Szwajcarii \u2013 wy\u015Bcig nale\u017C\u0105cy do cyklu Formu\u0142y 1 w latach 1950-1954 i 1982. Pierwszy wy\u015Bcig o Grand Prix Szwajcarii odby\u0142 si\u0119 w 1934 na torze Circuit Bremgarten w miejscowo\u015Bci Bremgarten. W latach 1935-1939 wy\u015Bcig zaliczany by\u0142 do klasyfikacji mistrzostw Europy. Po wojnie wy\u015Bcig organizowano jeszcze w latach 1947-1954, w tym od 1950 jako wy\u015Bcig zaliczany do klasyfikacji F1. Wy\u015Bcig w 1955 nie odby\u0142 si\u0119 z powodu szoku po masakrze, do jakiej dosz\u0142o w czasie 24-godzinnego wy\u015Bcigu Le Mans. W wyniku wypadku przy wje\u017Adzie do boks\u00F3w zgin\u0105\u0142 kierowca Pierre Levegh oraz 80 widz\u00F3w (silnik wylecia\u0142 z samochodu i wpad\u0142 w t\u0142umy). Wypadek ten posun\u0105\u0142 za sob\u0105 bardzo rozleg\u0142e konsekwencje. Jedn\u0105 z nich by\u0142 brak GP Szwajcarii oraz od 1957 ca\u0142kowity zakaz organizowania wy\u015Bcig\u00F3w na terenie ca\u0142ego kraju. Grand Prix Szwajcarii powr\u00F3ci\u0142o w 1975 jako wy\u015Bcig niezaliczany do klasyfikacji F1. Odby\u0142 si\u0119 on jednak we Francji, na torze Dijon-Prenois. Nast\u0119pne i dot\u0105d ostatnie GP Szwajcarii odby\u0142o si\u0119 w 1982 r\u00F3wnie\u017C na torze Dijon-Prenois. By\u0142 to wy\u015Bcig zaliczany do klasyfikacji F1. 6 czerwca 2007 szwajcarski parlament g\u0142osowa\u0142 w sprawie zniesienia zakazu organizowania wy\u015Bcig\u00F3w. Za zniesieniem by\u0142o 97 g\u0142os\u00F3w, a przeciw 77. Mimo to projekt ustawy zosta\u0142 odrzucony przez Rad\u0119 Kanton\u00F3w (wy\u017Csz\u0105 izb\u0119 parlamentu) i jest ma\u0142o prawdopodobne, aby zakaz zosta\u0142 zniesiony w najbli\u017Cszym czasie."@pl ,
+		"Le Grand Prix automobile de Suisse a compt\u00E9 pour le championnat du monde de Formule 1 de 1950 \u00E0 1954 puis en 1982."@fr ,
+		"Gro\u00DFer Preis der Schweiz, zeitweise auch Grand Prix von Bremgarten, ist der Name eines Rundstreckenrennens, das vom Automobil Club der Schweiz ausgetragen wurde. Von 1950 bis 1954 sowie 1982 war das Rennen Teil der Formel-1-Weltmeisterschaft. Das erste Rennen wurde in der Grand-Prix-Saison 1934 auf der Bremgarten-Rundstrecke ausgetragen, bis zum Ausbruch des Zweiten Weltkriegs 1939 war der Gro\u00DFe Preis der Schweiz Bestandteil der Rennserie. Rekordgewinner w\u00E4hrend dieser Zeit war der Deutsche Rudolf Caracciola mit drei Siegen.Nach dem Krieg wurden zwischen 1947 und 1949 wiederum drei L\u00E4ufe der Grand-Prix-Saison in Bremgarten ausgetragen; 1950 wurde das Rennen in der Schweiz als Grand Prix von Bremgarten Bestandteil der neu gegr\u00FCndeten Formel 1 und blieb bis 1954 im Rennkalender. Nach dem schweren Unfall beim 24-Stunden-Rennen von Le Mans 1955, bei dem 84 Menschen ums Leben kamen, wurden Rundstreckenrennen in der gesamten Schweiz aus Sicherheitsgr\u00FCnden verboten, was das Ende f\u00FCr den Gro\u00DFen Preis der Schweiz bedeutete. Dennoch fand in den Formel-1-Saisons 1975 und 1982 jeweils ein Gro\u00DFer Preis der Schweiz statt, beide Rennen wurden auf dem franz\u00F6sischen Circuit de Dijon-Prenois ausgetragen. Das Rennen 1975 z\u00E4hlte nicht zur Weltmeisterschaft, 1982 gewann der sp\u00E4tere Weltmeister Keke Rosberg hier sein einziges Rennen in dieser Saison. Am 21. M\u00E4rz 2003 wurde in der Bundesversammlung von Ulrich Giezendanner eine parlamentarische Initiative eingereicht, Rundstreckenrennen wieder zuzulassen. Nachdem der St\u00E4nderat am 10. Juni 2009 zum zweiten Mal nicht auf das Gesch\u00E4ft eintrat, wurde die Initiative endg\u00FCltig abgelehnt und Rundstreckenrennen bleiben in der Schweiz weiterhin verboten. Im Zentrum der Diskussion standen nicht mehr die Sicherheit, sondern umwelt- und verkehrspolitische \u00DCberlegungen."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Switzerland.svg?width=300> ;
+	dbo:wikiPageRevisionID	716545748 ;
+	dbo:wikiPageID	349637 ;
+	dbp:second	"Alain Prost"^^xsd:string ;
+	dbp:third	"Niki Lauda"^^xsd:string ;
+	dbp:flag	"Flag_of_Switzerland.svg"^^xsd:string ;
+	dbp:poleDriver	"Alain Prost"^^xsd:string ;
+	dbp:circuitImage	"Dijon-Prenois Circuit.svg"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Swiss_Grand_Prix	dbp:circuitLengthKm	3.7999999999999998224 ;
+	dbp:circuitLengthMi	2.3610000000000002096 ;
+	dbp:fastestLap	1 ;
+	dbp:firstHeld	1934 ;
+	dbp:raceLengthKm	304 ;
+	dbp:raceLengthMi	188.89699999999999136 ;
+	dbp:secondTime	"+4.442"^^xsd:string ;
+	dbp:thirdTime	"+1:00.343"^^xsd:string ;
+	dbp:timesHeld	16 ;
+	dbp:winningTime	1 ;
+	dbp:lastHeld	1982 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:Swiss_Grand_Prix	ns22:hypernym	dbr:Race ;
+	dbp:thirdTeam	dbr:Cosworth ,
+		dbr:McLaren ;
+	dbp:mostWinsConstructor	"Mercedes-Benz"^^xsd:string ;
+	dbp:mostWinsDriver	"Rudolf Caracciola"^^xsd:string .

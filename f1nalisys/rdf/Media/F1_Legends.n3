@@ -1,0 +1,85 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:F1_Legends	rdf:type	yago:Event100029378 ,
+		yago:Abstraction100002137 .
+@prefix schema:	<http://schema.org/> .
+dbr:F1_Legends	rdf:type	schema:CreativeWork ,
+		yago:Sport100523513 ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:F1_Legends	rdf:type	owl:Thing ,
+		yago:WikicatSkyTelevisionProgrammes .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:F1_Legends	rdf:type	wikidata:Q386724 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Diversion100426928 ,
+		yago:Wikicat2012BritishTelevisionProgrammeDebuts ,
+		yago:Statement106722453 ,
+		yago:Change100191142 ,
+		yago:Message106598915 ,
+		yago:Announcement106746580 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:F1_Legends	rdf:type	dbo:Work ,
+		yago:WikicatSkySports ,
+		yago:Introduction100238022 ,
+		yago:Program106748466 ,
+		yago:Communication100033020 ,
+		yago:Activity100407535 ,
+		yago:Action100037396 ,
+		yago:Act100030358 ,
+		yago:ChangeOfState100199130 ,
+		yago:Beginning100235435 ,
+		wikidata:Q15416 ,
+		dbo:TelevisionShow .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:F1_Legends	rdfs:label	"F1 Legends"@en ;
+	rdfs:comment	"Legends of F1, also known as F1 Legends, is a British television programme shown on Sky Sports F1. Steve Rider presents the series of interviews with Formula One legends of the past and present. Sky Sports F1 have also produced a similar series titled Architects of F1, with five episodes featuring Max Mosley, Gordon Murray, Jo Ram\u00EDrez, John Barnard and Flavio Briatore."@en ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0j65x6q> ,
+		dbr:F1_Legends ,
+		wikidata:Q5424169 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:F1_Legends	owl:sameAs	yago-res:F1_Legends .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:F1_Legends	owl:sameAs	dbpedia-wikidata:Q5424169 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:F1_Legends	dct:subject	dbc:Sky_Sports ,
+		dbc:Sky_television_programmes ,
+		dbc:British_sports_television_series ,
+		<http://dbpedia.org/resource/Category:2012_British_television_programme_debuts> ,
+		dbc:Formula_One_media ,
+		<http://dbpedia.org/resource/Category:2010s_British_television_series> ,
+		dbc:English-language_television_programming .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:F1_Legends	foaf:name	"Legends of F1"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:F1_Legends	foaf:isPrimaryTopicOf	wikipedia-en:F1_Legends .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:F1_Legends	dbo:numberOfEpisodes	"20"^^xsd:nonNegativeInteger .
+@prefix ns15:	<http://dbpedia.org/datatype/> .
+@prefix ns16:	<http://dbpedia.org/ontology/Work/> .
+dbr:F1_Legends	ns16:runtime	"60.0"^^ns15:minute ,
+		"30.0"^^ns15:minute ;
+	dbo:format	dbr:High-definition_television ;
+	dbo:runtime	1800.0 ,
+		3600.0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:F1_Legends	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/F1_Legends?oldid=718619282> ;
+	dbo:presenter	dbr:Steve_Rider .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:F1_Legends	dbp:lastAired	"present"^^xsd:string .
+@prefix ns19:	<http://www1.skysports.com/watch/video/tv-shows/> .
+dbr:F1_Legends	dbo:wikiPageExternalLink	ns19:f1-legends ;
+	dbo:abstract	"Legends of F1, also known as F1 Legends, is a British television programme shown on Sky Sports F1. Steve Rider presents the series of interviews with Formula One legends of the past and present. Sky Sports F1 have also produced a similar series titled Architects of F1, with five episodes featuring Max Mosley, Gordon Murray, Jo Ram\u00EDrez, John Barnard and Flavio Briatore."@en ;
+	dbo:wikiPageRevisionID	718619282 ;
+	dbo:wikiPageID	35024156 ;
+	dbo:numberOfSeasons	"3"^^xsd:nonNegativeInteger ;
+	dbp:country	"United Kingdom"^^xsd:string ;
+	dbp:language	"English"^^xsd:string ;
+	dbp:genre	"Sports"^^xsd:string .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+dbr:F1_Legends	ns20:hypernym	dbr:Programme ;
+	dbo:channel	dbr:Sky_Sports_F1 ;
+	dbo:releaseDate	"2012-03-09"^^xsd:date .
+wikipedia-en:F1_Legends	foaf:primaryTopic	dbr:F1_Legends .

@@ -1,0 +1,141 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:F1_Legends	dbo:channel	dbr:Sky_Sports_F1 .
+dbr:Sky_1	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Sky_Cinema	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Sky_Atlantic	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Sky_Sports_News_HQ	dbo:sisterStation	dbr:Sky_Sports_F1 .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Sky_Sports_F1	rdf:type	yago:TelevisionStation104406350 ,
+		yago:Channel103006398 ,
+		dbo:TelevisionStation .
+@prefix schema:	<http://schema.org/> .
+dbr:Sky_Sports_F1	rdf:type	schema:Organization ,
+		yago:WikicatTelevisionChannelsAndStationsEstablishedIn2012 .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Sky_Sports_F1	rdf:type	ns5:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Sky_Sports_F1	rdf:type	owl:Thing ,
+		schema:TelevisionStation ,
+		ns5:SocialPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Sky_Sports_F1	rdf:type	wikidata:Q43229 ,
+		wikidata:Q15265344 ,
+		yago:Artifact100021939 ,
+		dbo:Agent ,
+		yago:Whole100003553 ,
+		yago:Facility103315023 ,
+		yago:BroadcastingStation102903405 ,
+		yago:YagoGeoEntity ,
+		dbo:Broadcaster ,
+		yago:Station104306080 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Object100002684 ,
+		dbo:Organisation ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatSportsTelevisionChannelsInTheUnitedKingdom ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Sky_Sports_F1	rdfs:label	"\u5929\u7A7A\u9AD4\u80B2F1\u53F0"@zh ,
+		"Sky Sports F1"@en ,
+		"Sky Sports F1"@pl ;
+	rdfs:comment	"\u5929\u7A7A\u9AD4\u80B2F1\u53F0\uFF08\u82F1\u8BED\uFF1ASky Sports F1\uFF09\u662F\u82F1\u570B\u5929\u7A7A\u5EE3\u64AD\u6240\u5C6C\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u96FB\u8996\u983B\u9053\uFF0C\u5929\u7A7A\u6709\u8457\u57282012\u5E74\u8CFD\u5B63\u81F32018\u5E74\u8CFD\u5B63\u9593\u7684\u82F1\u570B\u8F49\u64AD\u6B0A\u3002"@zh ,
+		"Sky Sports F1 \u2013 brytyjski telewizyjny kana\u0142 sportowy. Kana\u0142 ma ponad 13 milion\u00F3w widz\u00F3w."@pl ,
+		"Sky Sports F1 is a television channel created exclusively for Sky's UK coverage of Formula One, with Sky having a package of UK rights from the 2012 season to the 2018 season. From 2019 to 2024, Sky Sports F1 will have the exclusive rights to live Formula 1, and will sub-licence the British Grand Prix plus highlights and qualifying sessions of all races on a free-to-air basis on a free to air channel. From 2017, Sky Sports F1 will broadcast Formula 1 in UHD for the first time."@en .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Sky_Sports_F1	owl:sameAs	yago-res:Sky_Sports_F1 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Sky_Sports_F1	owl:sameAs	dbpedia-wikidata:Q7537514 ,
+		wikidata:Q7537514 ,
+		<http://rdf.freebase.com/ns/m.0hr9lv2> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Sky_Sports_F1	owl:sameAs	dbpedia-pl:Sky_Sports_F1 ,
+		dbr:Sky_Sports_F1 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Sky_Sports_F1	dct:subject	dbc:Formula_One_media ,
+		dbc:Sky_Sports ,
+		<http://dbpedia.org/resource/Category:2012_establishments_in_the_United_Kingdom> ,
+		dbc:Sports_television_channels_in_the_United_Kingdom ,
+		dbc:Television_channels_and_stations_established_in_2012 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Sky_Sports_F1	foaf:name	"Sky Sports F1"@en ;
+	foaf:homepage	<http://f1.sky.com> ,
+		<http://www1.skysports.com/f1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Sky_Sports_F1	foaf:isPrimaryTopicOf	wikipedia-en:Sky_Sports_F1 .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Sky_Sports_F1	dbp:iptvChan	"Channel 407"^^xsd:string ;
+	dbp:iptvServ	dbr:TalkTalk_TV .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Sky_Sports_F1	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Sky_Sports_F1?oldid=744836310> ;
+	dbo:pictureFormat	<http://dbpedia.org/resource/16:9> ,
+		<http://dbpedia.org/resource/576i> ,
+		<http://dbpedia.org/resource/1080i> ;
+	dbp:cableChan	"Channel 508"^^xsd:string ,
+		<http://dbpedia.org/resource/On_Demand_(Sky)> ,
+		"Channel 518"^^xsd:string ;
+	dbp:cableServ	dbr:Virgin_Media ;
+	dbp:logofile	"File:Sky Sports F1 logo 2015.svg"^^xsd:string ;
+	dbp:logosize	250 ;
+	dbp:onlineChan	<http://anywhere.virginmedia.com/channels/live/sky-sports-f1/> ,
+		<http://go.sky.com/> ,
+		<http://www.nowtv.com/> ;
+	dbp:onlineServ	dbr:Sky_Go ,
+		<http://dbpedia.org/resource/Now_TV_(UK)> ,
+		"Virgin TV Anywhere"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Sky_Sports_F1	dbo:shareOfAudience	"0.14000000059604644775"^^xsd:float ;
+	dbo:wikiPageExternalLink	<http://go.sky.com/> ,
+		<http://www.nowtv.com/> ,
+		<http://www.formula1.com/> ,
+		<http://www.barb.co.uk/whats-new/monthly-viewing-summary?_s=4> ,
+		<http://f1.sky.com> ,
+		<http://www1.skysports.com/f1/> ,
+		<http://www.wheresthematch.com/formula-one-on-tv/> ,
+		<http://anywhere.virginmedia.com/channels/live/sky-sports-f1/> ;
+	dbo:slogan	"Your Home of Formula 1"@en ;
+	dbo:abstract	"\u5929\u7A7A\u9AD4\u80B2F1\u53F0\uFF08\u82F1\u8BED\uFF1ASky Sports F1\uFF09\u662F\u82F1\u570B\u5929\u7A7A\u5EE3\u64AD\u6240\u5C6C\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u96FB\u8996\u983B\u9053\uFF0C\u5929\u7A7A\u6709\u8457\u57282012\u5E74\u8CFD\u5B63\u81F32018\u5E74\u8CFD\u5B63\u9593\u7684\u82F1\u570B\u8F49\u64AD\u6B0A\u3002"@zh ,
+		"Sky Sports F1 \u2013 brytyjski telewizyjny kana\u0142 sportowy. Kana\u0142 ma ponad 13 milion\u00F3w widz\u00F3w."@pl ,
+		"Sky Sports F1 is a television channel created exclusively for Sky's UK coverage of Formula One, with Sky having a package of UK rights from the 2012 season to the 2018 season. From 2019 to 2024, Sky Sports F1 will have the exclusive rights to live Formula 1, and will sub-licence the British Grand Prix plus highlights and qualifying sessions of all races on a free-to-air basis on a free to air channel. From 2017, Sky Sports F1 will broadcast Formula 1 in UHD for the first time."@en ;
+	dbo:wikiPageRevisionID	744836310 ;
+	dbo:wikiPageID	34005646 ;
+	dbo:owningCompany	dbr:Sky_plc ;
+	dbo:sisterStation	dbr:Sky_2 ,
+		dbr:Sky_News ,
+		dbr:Sky_1 ,
+		dbr:Sky_Cinema ,
+		dbr:Sky_Atlantic ,
+		dbr:Sky_Sports_News_HQ ,
+		dbr:Sky_Living ,
+		<http://dbpedia.org/resource/Real_Lives_(TV_channel)> ,
+		<http://dbpedia.org/resource/Challenge_(TV_channel)> ,
+		<http://dbpedia.org/resource/Pick_(TV_channel)> ,
+		dbr:Sky_Cinema_Box_Office ,
+		dbr:Sky_Sports ,
+		dbr:Sky_Arts ;
+	dbp:country	"United Kingdom, Ireland"^^xsd:string ;
+	dbp:satServ	<http://dbpedia.org/resource/Sky_(United_Kingdom)> ;
+	dbo:firstAirDate	"2012-03-09"^^xsd:date ;
+	dbp:satChan	"Channel 408"^^xsd:string ,
+		"Channel 473"^^xsd:string ,
+		<http://dbpedia.org/resource/On_Demand_(Sky)> ;
+	dbo:shareSource	"BARB" .
+@prefix ns19:	<http://purl.org/linguistics/gold/> .
+dbr:Sky_Sports_F1	ns19:hypernym	dbr:Channel .
+<http://dbpedia.org/resource/Real_Lives_(TV_channel)>	dbo:sisterStation	dbr:Sky_Sports_F1 .
+<http://dbpedia.org/resource/Challenge_(TV_channel)>	dbo:sisterStation	dbr:Sky_Sports_F1 .
+wikipedia-en:Sky_Sports_F1	foaf:primaryTopic	dbr:Sky_Sports_F1 .
+dbr:Sky_Sports	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Sky_Living	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Sky_Arts	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Tooned	dbo:network	dbr:Sky_Sports_F1 .
+<http://dbpedia.org/resource/Pick_(TV_channel)>	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Sky_2	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Sky_News	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Sky_Cinema_Box_Office	dbo:sisterStation	dbr:Sky_Sports_F1 .
+dbr:Sky_Sports_F1_HD	dbo:wikiPageRedirects	dbr:Sky_Sports_F1 .
+dbr:The_F1_Show	dbo:wikiPageRedirects	dbr:Sky_Sports_F1 .
+dbr:SkyF1	dbo:wikiPageRedirects	dbr:Sky_Sports_F1 .
+dbr:Sky_F1	dbo:wikiPageRedirects	dbr:Sky_Sports_F1 .

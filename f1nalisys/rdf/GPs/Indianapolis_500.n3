@@ -1,0 +1,203 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Ren\u00E9_Thomas_(racing_driver)>	dbo:knownFor	dbr:Indianapolis_500 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Indianapolis_Motor_Speedway	rdfs:seeAlso	dbr:Indianapolis_500 .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Indianapolis_Motor_Speedway	dbp:events	dbr:Indianapolis_500 .
+dbr:The_greatest_spectecle_in_racing	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:The_Greatest_Spectacle_In_Racing	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:Greatest_Spectacle_In_Racing	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:Indianopolis_500	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:Greatest_spectecle_in_racin	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:Greatest_Spectacle_in_Racing	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:Detroit_Belle_Isle_Grand_Prix	dbp:prev	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/2015_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+dbr:Indianapolis_500-Mile_Race	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Indianapolis_500	foaf:primaryTopic	dbr:Indianapolis_500 .
+dbr:International_500-Mile_Sweepstakes	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:Indy_500	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:Harry_Grant	dbo:knownFor	dbr:Indianapolis_500 .
+dbr:The_Greatest_Spectacle_in_Racing	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/2012_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+dbr:Carb_Day	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/2012_IndyCar_Series_season>	dbp:wikiracearticle	dbr:Indianapolis_500 .
+dbr:Buddy_Lazier	dbp:title	dbr:Indianapolis_500 .
+dbr:Harry_Sauce	dbp:prevSeries	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/1996_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+dbr:Indianapolis_505	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:Indy500	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/Indianapolis_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Indianapolis_500 .
+dbr:Louis_Meyer	dbo:knownFor	dbr:Indianapolis_500 .
+dbr:Thiago_Medeiros	dbp:prevSeries	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/A._J._Foyt>	dbp:awards	dbr:Indianapolis_500 ;
+	dbp:title	dbr:Indianapolis_500 .
+dbr:Juan_Pablo_Montoya	dbp:titles	dbr:Indianapolis_500 .
+dbr:Indianapolis_500_Rookie_of_the_Year	dbp:competition	dbr:Indianapolis_500 .
+dbr:Danny_Sullivan	dbp:title	dbr:Indianapolis_500 .
+dbr:Parnelli_Jones	dbp:awards	dbr:Indianapolis_500 .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Indianapolis_500	rdf:type	yago:PsychologicalFeature100023100 ,
+		dbo:SportsEvent ,
+		yago:Abstraction100002137 ,
+		yago:WikicatIndianapolis500Races ,
+		yago:Contest107456188 ,
+		yago:Race107472657 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Indianapolis_500	rdf:type	geo:SpatialThing ,
+		yago:SocialEvent107288639 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Event100029378 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Indianapolis_500	rdf:type	owl:Thing ;
+	rdfs:label	"500 Millas de Indian\u00E1polis"@es ,
+		"500 Milhas de Indian\u00E1polis"@pt ,
+		"Indianapolis 500"@nl ,
+		"500 Miglia di Indianapolis"@it ,
+		"Indianapolis 500"@fr ,
+		"\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF500"@zh ,
+		"Indianapolis 500"@en ,
+		"\u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 500"@ar ,
+		"Indianapolis 500"@pl ,
+		"500 \u043C\u0438\u043B\u044C \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0430"@ru ,
+		"Indianapolis 500"@de ,
+		"\u30A4\u30F3\u30C7\u30A3500"@ja ;
+	rdfs:comment	"Las 500 Millas de Indian\u00E1polis, tambi\u00E9n conocida como Indian\u00E1polis 500 o Indy 500, es una carrera de automovilismo de velocidad para monoplazas celebrada anualmente en el \u00F3valo Indianapolis Motor Speedway localizado en Indian\u00E1polis, estado de Indiana, Estados Unidos. Es uno de los eventos de motor m\u00E1s antiguos existentes."@es ,
+		"\u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 500 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Indianapolis 500) \u0647\u0648 \u0633\u0628\u0627\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u064A\u0642\u0627\u0645 \u0633\u0646\u0648\u064A\u0627 \u0641\u064A \u0627\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 \u0645\u0648\u062A\u0648\u0631 \u0623\u0648\u062A\u0648\u0633\u062A\u0631\u0627\u062F \u0641\u064A \u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 \u0641\u064A \u0625\u0646\u062F\u064A\u0627\u0646\u0627. \u064A\u0642\u0627\u0645 \u0647\u0630\u0627 \u0627\u0644\u062D\u062F\u062B \u062E\u0644\u0627\u0644 \u0639\u0637\u0644\u0629 \u064A\u0648\u0645 \u0627\u0644\u0630\u0643\u0631\u0649\u060C \u0648\u0627\u0644\u0630\u064A \u064A\u0635\u0627\u062F\u0641 \u0639\u0627\u062F\u0629 \u0646\u0647\u0627\u064A\u0629 \u0627\u0644\u0623\u0633\u0628\u0648\u0639 30 \u0645\u0627\u064A\u0648."@ar ,
+		"\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF500\u82F1\u91CC\u6BD4\u8CFD\uFF08Indianapolis 500-Mile Race\uFF0C\u4EA6\u7A31\uFF1AIndianapolis 500\uFF0C500 Miles at Indianapolis\uFF0CIndy 500\u6216\u8005The 500\uFF09\u662F\u5370\u7B2C\u8CFD\u8ECA\u6BCF\u5E74\u5728\u7F8E\u56FD\u7684\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u8CFD\u8ECA\u5834\u8209\u884C\u7684\u6BD4\u8CFD\u3002\u5F9E1911\u5E74\u958B\u8DD1\u4EE5\u4F86\uFF0C\u8207\u6469\u7D0D\u54E5\u5927\u734E\u8CFD\u548C\u52D2\u829224\u5C0F\u6642\u8010\u529B\u8CFD\u88AB\u5927\u773E\u8A8D\u70BA\u662F\u6700\u91CD\u8981\u53CA\u6700\u8CA0\u76DB\u540D\u7684\u6C7D\u8ECA\u8CFD\u4E8B\uFF08\u4E09\u5927\u6C7D\u8ECA\u8CFD\uFF09\u3002\u6BD4\u8D5B\u65E5\u65F6\u7684\u89C2\u4F17\u6570\u53EF\u8FBE40\u4E07\u3002\u6B64\u8D5B\u4E8B\u6BCF\u5E74\u5728\u9635\u4EA1\u5C06\u58EB\u7EAA\u5FF5\u5468\u5468\u672B\uFF08\u901A\u5E38\u662F\u4E94\u6708\u6700\u540E\u4E00\u4E2A\u5468\u672B\uFF09\u4E3E\u884C\u3002"@zh ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) La 500 Miglia di Indianapolis (Indianapolis 500) \u00E8 una gara automobilistica degli Stati Uniti d'America, nata nel 1911. Si svolge il fine settimana del Memorial Day sul circuito ovale dell'Indianapolis Motor Speedway di Indianapolis. La prima edizione \u00E8 stata vinta da Ray Harroun a bordo di una Marmon Wasp, l'ultima (svoltasi il 29 maggio 2016) dall'italo-statunitense Alexander Rossi, alla sua prima partecipazione."@it ,
+		"The Indianapolis 500 is an automobile race held annually at Indianapolis Motor Speedway in Speedway, Indiana, an enclave suburb of Indianapolis, Indiana. The event is held over Memorial Day (originally Decoration Day) weekend, which is typically the last weekend in May. It is contested as part of the Verizon IndyCar Series, the top level of American Championship Car racing, an open-wheel formula colloquially known as \"Indy Car Racing\". The name of the race is often shortened to Indy 500. For a list of races and winners, see List of Indianapolis 500 winners."@en ,
+		"\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9500\u30DE\u30A4\u30EB\u30EC\u30FC\u30B9\uFF08Indianapolis 500 \u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9500 \u30A4\u30F3\u30C7\u30A3500\u3068\u3082\u547C\u3076\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u5DDE\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u5E02\u8FD1\u90CA\u306E\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4\u306B\u3042\u308B\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u30FB\u30E2\u30FC\u30BF\u30FC\u30FB\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4\u3067\u6BCE\u5E745\u6708\u306B\u958B\u50AC\u3055\u308C\u308B\u30A2\u30E1\u30EA\u30AB\u30F3\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u30A4\u30D9\u30F3\u30C8\u3067\u3042\u308B\u3002"@ja ,
+		"De Indianapolis 500, vaak kortweg Indy 500 genoemd, is de belangrijkste autorace van het jaar in de VS. De race wordt verreden op de Indianapolis Motor Speedway in Speedway, Indiana. De race behoort samen met de 24 uur van Le Mans en de Grand Prix van Monaco tot de bekendste races van de autosport. De \"Indy 500\" wordt elk jaar gereden op de zondag voor Memorial Day (in 2016 op 29 mei).De winnaar van de race wordt vereeuwigd op de Borg-Warner trofee."@nl ,
+		"Das Indianapolis 500, oftmals auch nur Indy 500 genannt, wird seit dem 30. Mai 1911 veranstaltet und ist somit eines der \u00E4ltesten und traditionsreichsten Rundstrecken-Autorennen der Welt (das \u00E4lteste Rennen, das heute nicht mehr ausgetragen wird, ist die Targa Florio, die erstmals 1906 ausgetragen wurde). Es ist seit 1996 der H\u00F6hepunkt im Rennkalender der IndyCar Series, beziehungsweise bis 1995 der ehemaligen Indy Car World Series. Es ist mit weit \u00FCber 400.000 Zuschauern vor Ort die weltweit gr\u00F6\u00DFte j\u00E4hrlich stattfindende Eintages-Sportveranstaltung und wird zu den Grand Slam-Rennen gez\u00E4hlt."@de ,
+		"Les 500 miles d'Indianapolis (\u00E9galement appel\u00E9s Indianapolis 500 ou Indy 500) sont une course automobile am\u00E9ricaine qui se tient chaque ann\u00E9e depuis 1911 le week-end du Memorial Day sur l'Indianapolis Motor Speedway \u00E0 Speedway (une petite ville enclave, compl\u00E8tement entour\u00E9e par Indianapolis, la capitale de l'\u00C9tat) dans l'\u00C9tat de l'Indiana. L'\u00E9v\u00E9nement, consid\u00E9r\u00E9 par certains comme \u00AB le plus grand spectacle de comp\u00E9tition automobile \u00BB (The Greatest Spectacle in Racing), est l'une des trois courses les plus prestigieuses au monde avec le Grand Prix de Monaco et les 24 Heures du Mans."@fr ,
+		"As 500 Milhas de Indian\u00E1polis, evento tamb\u00E9m chamado de Indianapolis 500 ou simplesmente Indy 500, \u00E9 uma das tr\u00EAs mais tradicionais corridas automobil\u00EDsticas do mundo e a principal prova do campeonato da IndyCar(br:F\u00F3rmula Indy), no Indianapolis Motor Speedway, nos Estados Unidos. \u00C9 apontada como uma das maiores corridas do planeta. O evento, anunciado como The Greatest Spectacle in Racing(o maior espet\u00E1culo do automobilismo, na tradu\u00E7\u00E3o literal), \u00E9 considerado parte da Tr\u00EDplice Coroa do Automobilismo, que \u00E9 composto por tr\u00EAs dos mais prestigiados eventos do esporte a motor no mundo(o Grande Pr\u00EAmio de M\u00F4naco e as 24 Horas de Le Mans completam a lista). A cobertura oficial n\u00E3o \u00E9 divulgada pela ger\u00EAncia de Speedway, mas a capacidade permanente \u00E9 mais de 250.000 espectadores, e patronos do in"@pt ,
+		"Indianapolis 500 (tak\u017Ce: Indy 500) \u2013 wy\u015Bcig samochodowy rozgrywany corocznie na torze Indianapolis Motor Speedway w mie\u015Bcie Speedway, w stanie Indiana, w Stanach Zjednoczonych. Rozgrywany od 1911 roku wy\u015Bcig odbywa si\u0119 w ostatni\u0105 niedziel\u0119 maja na dystansie 500 mil, czyli 200 okr\u0105\u017Ce\u0144. Jest to jedno z najwi\u0119kszych wydarze\u0144 sportowych na \u015Bwiecie, ogl\u0105dane na \u017Cywo przez oko\u0142o 270 tysi\u0119cy widz\u00F3w. W latach 1950\u20131960 wy\u015Bcig by\u0142 jedn\u0105 z eliminacji mistrzostw \u015Bwiata Formu\u0142y 1."@pl ,
+		"500 \u043C\u0438\u043B\u044C \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0430, \u0442\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u0430\u044F \u043A\u0430\u043A Indianapolis 500, Indy 500 \u0438\u043B\u0438 The 500, \u2014 \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u0430\u044F \u0435\u0436\u0435\u0433\u043E\u0434\u043D\u0430\u044F \u0433\u043E\u043D\u043A\u0430 \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 \u0441 \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u043C\u0438 \u043A\u043E\u043B\u0451\u0441\u0430\u043C\u0438, \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0449\u0430\u044F\u0441\u044F \u0432 \u041D\u043E\u0432\u043E\u043C \u0421\u0432\u0435\u0442\u0435, \u043E\u0434\u043D\u043E \u0438\u0437 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u0435\u0439\u0448\u0438\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u0439 \u0432 \u043C\u0438\u0440\u0435. \u041C\u0435\u0441\u0442\u043E\u043C \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u00AB\u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441 \u041C\u043E\u0442\u043E\u0440 \u0421\u043F\u0438\u0434\u0432\u0435\u0439\u00BB."@ru ;
+	dbp:raceTitle	"Indianapolis 500"^^xsd:string ;
+	dbp:seriesShort	"IndyCar"^^xsd:string ;
+	dbp:trackMap	200 ;
+	dbp:laps	200 ;
+	dbp:firstRace	1911 ;
+	dbp:firstSeriesRace	1996 ;
+	owl:sameAs	<http://pt.dbpedia.org/resource/500_Milhas_de_Indian\u00E1polis> ,
+		<http://ko.dbpedia.org/resource/\uC778\uB514\uC560\uB098\uD3F4\uB9AC\uC2A4_500> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Indianapolis_500	owl:sameAs	wikidata:Q8032 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Indianapolis_500	owl:sameAs	dbpedia-id:Indianapolis_500 ,
+		<http://rdf.freebase.com/ns/m.014_24> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Indianapolis_500	owl:sameAs	dbpedia-nl:Indianapolis_500 ,
+		<http://it.dbpedia.org/resource/500_Miglia_di_Indianapolis> ,
+		<http://cs.dbpedia.org/resource/500_mil_Indianapolis> ,
+		dbr:Indianapolis_500 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Indianapolis_500	owl:sameAs	yago-res:Indianapolis_500 .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Indianapolis_500	owl:sameAs	dbpedia-eu:Indianapolisko_500_miliak ,
+		<http://el.dbpedia.org/resource/\u03A1\u03AC\u03BB\u03B9_\u0399\u03BD\u03C4\u03B9\u03B1\u03BD\u03AC\u03C0\u03BF\u03BB\u03B9\u03C2_500> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Indianapolis_500	owl:sameAs	dbpedia-pl:Indianapolis_500 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Indianapolis_500	owl:sameAs	dbpedia-de:Indianapolis_500 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Indianapolis_500	owl:sameAs	dbpedia-fr:Indianapolis_500 ,
+		<http://d-nb.info/gnd/4294727-3> ,
+		<http://ja.dbpedia.org/resource/\u30A4\u30F3\u30C7\u30A3500> ,
+		<http://es.dbpedia.org/resource/500_Millas_de_Indian\u00E1polis> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Indianapolis_500	owl:sameAs	dbpedia-wikidata:Q8032 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Indianapolis_500	dct:subject	dbc:Indianapolis_500 ,
+		<http://dbpedia.org/resource/Category:1911_establishments_in_Indiana> ,
+		dbc:Recurring_sporting_events_established_in_1911 ,
+		dbc:Annual_sporting_events_in_the_United_States ,
+		dbc:May_sporting_events ,
+		dbc:United_States_Grand_Prix ,
+		dbc:Formula_One_Grands_Prix ;
+	foaf:homepage	<http://www.indy500.com/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Indianapolis_500	geo:lat	"39.7947235107421875"^^xsd:float ;
+	geo:long	"-86.23444366455078125"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Indianapolis_Oval.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Indianapolis_500 .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Indianapolis_500	geo:geometry	"POINT(-86.234443664551 39.794723510742)"^^virtrdf:Geometry ;
+	dbp:seriesLong	"Verizon IndyCar Series"^^xsd:string ;
+	dbp:surface	"Asphalt"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Indianapolis_500	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Indianapolis_500?oldid=742845406> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Indianapolis_500	georss:point	"39.79472222222222 -86.23444444444445" ;
+	dbo:wikiPageExternalLink	<https://books.google.com/books?id=uahb3ND5jxwC> ,
+		<http://www.indy500.com/> ,
+		<http://www.indycar.com> .
+@prefix ns25:	<http://libx.bsu.edu/cdm4/collection.php?CISOROOT=/> .
+dbr:Indianapolis_500	dbo:wikiPageExternalLink	ns25:SatterleePh ,
+		<http://www.indy500livestream.com/> ,
+		<http://indy500ontv.com/> ,
+		<https://secure.flickr.com/groups/indy500/> ,
+		<http://www.indianapolismotorspeedway.com> ;
+	dbp:list	dbr:List_of_Indycar_races ;
+	dbp:location	<http://dbpedia.org/resource/Speedway,_Indiana> ;
+	dbp:recordDriver	dbr:Arie_Luyendyk ;
+	dbp:venue	dbr:Indianapolis_Motor_Speedway .
+@prefix ns26:	<http://dbpedia.org/datatype/> .
+dbr:Indianapolis_500	dbp:recordTime	"37.895"^^ns26:second ;
+	dbp:recordYear	1996 ;
+	dbp:turns	4 ;
+	dbp:mostWinsManufacturer	"Engine: Offenhauser"^^xsd:string ,
+		"Chassis: Dallara"^^xsd:string ;
+	dbp:sponsor	"PennGrade Motor Oil"^^xsd:string ;
+	dbp:recordCar	"Reynard/Ford-Cosworth XB"^^xsd:string ;
+	dbo:abstract	"500 \u043C\u0438\u043B\u044C \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0430, \u0442\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u0430\u044F \u043A\u0430\u043A Indianapolis 500, Indy 500 \u0438\u043B\u0438 The 500, \u2014 \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u0430\u044F \u0435\u0436\u0435\u0433\u043E\u0434\u043D\u0430\u044F \u0433\u043E\u043D\u043A\u0430 \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 \u0441 \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u043C\u0438 \u043A\u043E\u043B\u0451\u0441\u0430\u043C\u0438, \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0449\u0430\u044F\u0441\u044F \u0432 \u041D\u043E\u0432\u043E\u043C \u0421\u0432\u0435\u0442\u0435, \u043E\u0434\u043D\u043E \u0438\u0437 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u0435\u0439\u0448\u0438\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u0439 \u0432 \u043C\u0438\u0440\u0435. \u041C\u0435\u0441\u0442\u043E\u043C \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u00AB\u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441 \u041C\u043E\u0442\u043E\u0440 \u0421\u043F\u0438\u0434\u0432\u0435\u0439\u00BB."@ru ,
+		"\u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 500 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Indianapolis 500) \u0647\u0648 \u0633\u0628\u0627\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u064A\u0642\u0627\u0645 \u0633\u0646\u0648\u064A\u0627 \u0641\u064A \u0627\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 \u0645\u0648\u062A\u0648\u0631 \u0623\u0648\u062A\u0648\u0633\u062A\u0631\u0627\u062F \u0641\u064A \u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 \u0641\u064A \u0625\u0646\u062F\u064A\u0627\u0646\u0627. \u064A\u0642\u0627\u0645 \u0647\u0630\u0627 \u0627\u0644\u062D\u062F\u062B \u062E\u0644\u0627\u0644 \u0639\u0637\u0644\u0629 \u064A\u0648\u0645 \u0627\u0644\u0630\u0643\u0631\u0649\u060C \u0648\u0627\u0644\u0630\u064A \u064A\u0635\u0627\u062F\u0641 \u0639\u0627\u062F\u0629 \u0646\u0647\u0627\u064A\u0629 \u0627\u0644\u0623\u0633\u0628\u0648\u0639 30 \u0645\u0627\u064A\u0648."@ar ,
+		"The Indianapolis 500 is an automobile race held annually at Indianapolis Motor Speedway in Speedway, Indiana, an enclave suburb of Indianapolis, Indiana. The event is held over Memorial Day (originally Decoration Day) weekend, which is typically the last weekend in May. It is contested as part of the Verizon IndyCar Series, the top level of American Championship Car racing, an open-wheel formula colloquially known as \"Indy Car Racing\". The name of the race is often shortened to Indy 500. The event, billed as The Greatest Spectacle in Racing, is considered part of the Triple Crown of Motorsport, which comprises three of the most prestigious motorsports events in the world. The official attendance is not disclosed by Speedway management, but the permanent seating capacity is upwards of 250,000, and infield patrons raise the race-day attendance to approximately 300,000. The inaugural running was won by Ray Harroun in 1911. The race celebrated its 100th anniversary in 2011, and the 100th running was held in 2016. Alexander Rossi is the defending champion. The most successful drivers are A. J. Foyt, Al Unser, and Rick Mears, each of whom have won the race four times. The active driver with the most victories is H\u00E9lio Castroneves, with three. Rick Mears holds the record for most career pole positions with six. The most successful car owner is Roger Penske, owner of Team Penske, which has 16 total wins and 17 poles. For a list of races and winners, see List of Indianapolis 500 winners."@en ,
+		"Las 500 Millas de Indian\u00E1polis, tambi\u00E9n conocida como Indian\u00E1polis 500 o Indy 500, es una carrera de automovilismo de velocidad para monoplazas celebrada anualmente en el \u00F3valo Indianapolis Motor Speedway localizado en Indian\u00E1polis, estado de Indiana, Estados Unidos. Es uno de los eventos de motor m\u00E1s antiguos existentes. El complejo automovil\u00EDstico en el cual se celebra la prueba fue construido en 1909, y la primera edici\u00F3n de la carrera se celebr\u00F3 en el a\u00F1o 1911. En el a\u00F1o 2011 se conmemor\u00F3 el centenario de las 500 Millas de Indian\u00E1polis, que debido a los recesos por las dos guerras mundiales fue la 95.\u00AA edici\u00F3n de la carrera. Desde 1911 hasta 1995, la carrera la fiscaliz\u00F3 el Comit\u00E9 de Competici\u00F3n de la AAA (Asociaci\u00F3n Automovil\u00EDstica Americana), y formaba parte del Campeonato Nacional de la AAA. Luego del desastre de las 24 Horas de Le Mans de 1955, la AAA dej\u00F3 de organizar carreras. Tony Hulman, due\u00F1o del \u00F3valo de Indian\u00E1polis, cre\u00F3 el USAC y las 500 Millas se convirti\u00F3 en la prueba por excelencia del Campeonato Nacional del USAC. Asimismo, fue puntuable para el Campeonato Mundial de F\u00F3rmula 1, aunque cont\u00F3 con pocos pilotos de aquella. En 1979, varios equipos fundaron la CART, que comenz\u00F3 a organizar su propio campeonato de monoplazas. A\u00F1os despu\u00E9s, el USAC dej\u00F3 de organizar carreras de Indy, aunque sigui\u00F3 fiscalizando las 500 Millas de Indian\u00E1polis, la cual se incorpor\u00F3 r\u00E1pidamente al calendario de la CART. Tony George, due\u00F1o de Indian\u00E1polis a principios de la d\u00E9cada de 1990, fund\u00F3 un campeonato de \u00F3valos en 1996 llamado Indy Racing League, luego IndyCar Series, por lo que las 500 Millas de Indian\u00E1polis pas\u00F3 a ser v\u00E1lida para el nuevo certamen. La IndyCar y la CART, luego renombrada Champ Car, convivieron hasta 2008, cuando la segunda entr\u00F3 en bancarrota."@es ,
+		"\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF500\u82F1\u91CC\u6BD4\u8CFD\uFF08Indianapolis 500-Mile Race\uFF0C\u4EA6\u7A31\uFF1AIndianapolis 500\uFF0C500 Miles at Indianapolis\uFF0CIndy 500\u6216\u8005The 500\uFF09\u662F\u5370\u7B2C\u8CFD\u8ECA\u6BCF\u5E74\u5728\u7F8E\u56FD\u7684\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF\u8CFD\u8ECA\u5834\u8209\u884C\u7684\u6BD4\u8CFD\u3002\u5F9E1911\u5E74\u958B\u8DD1\u4EE5\u4F86\uFF0C\u8207\u6469\u7D0D\u54E5\u5927\u734E\u8CFD\u548C\u52D2\u829224\u5C0F\u6642\u8010\u529B\u8CFD\u88AB\u5927\u773E\u8A8D\u70BA\u662F\u6700\u91CD\u8981\u53CA\u6700\u8CA0\u76DB\u540D\u7684\u6C7D\u8ECA\u8CFD\u4E8B\uFF08\u4E09\u5927\u6C7D\u8ECA\u8CFD\uFF09\u3002\u6BD4\u8D5B\u65E5\u65F6\u7684\u89C2\u4F17\u6570\u53EF\u8FBE40\u4E07\u3002\u6B64\u8D5B\u4E8B\u6BCF\u5E74\u5728\u9635\u4EA1\u5C06\u58EB\u7EAA\u5FF5\u5468\u5468\u672B\uFF08\u901A\u5E38\u662F\u4E94\u6708\u6700\u540E\u4E00\u4E2A\u5468\u672B\uFF09\u4E3E\u884C\u3002"@zh ,
+		"Les 500 miles d'Indianapolis (\u00E9galement appel\u00E9s Indianapolis 500 ou Indy 500) sont une course automobile am\u00E9ricaine qui se tient chaque ann\u00E9e depuis 1911 le week-end du Memorial Day sur l'Indianapolis Motor Speedway \u00E0 Speedway (une petite ville enclave, compl\u00E8tement entour\u00E9e par Indianapolis, la capitale de l'\u00C9tat) dans l'\u00C9tat de l'Indiana. L'\u00E9v\u00E9nement, consid\u00E9r\u00E9 par certains comme \u00AB le plus grand spectacle de comp\u00E9tition automobile \u00BB (The Greatest Spectacle in Racing), est l'une des trois courses les plus prestigieuses au monde avec le Grand Prix de Monaco et les 24 Heures du Mans."@fr ,
+		"Indianapolis 500 (tak\u017Ce: Indy 500) \u2013 wy\u015Bcig samochodowy rozgrywany corocznie na torze Indianapolis Motor Speedway w mie\u015Bcie Speedway, w stanie Indiana, w Stanach Zjednoczonych. Rozgrywany od 1911 roku wy\u015Bcig odbywa si\u0119 w ostatni\u0105 niedziel\u0119 maja na dystansie 500 mil, czyli 200 okr\u0105\u017Ce\u0144. Jest to jedno z najwi\u0119kszych wydarze\u0144 sportowych na \u015Bwiecie, ogl\u0105dane na \u017Cywo przez oko\u0142o 270 tysi\u0119cy widz\u00F3w. Wieloletni\u0105 tradycj\u0105 wy\u015Bcigu Indianapolis 500 jest to, \u017Ce zwyci\u0119zca na podium zamiast butelki szampana otrzymuje butelk\u0119 mleka. W 1933 roku ten zwyczaj zapocz\u0105tkowa\u0142 Louis Meyer, cho\u0107 na sta\u0142e wszed\u0142 do obiegu dopiero trzy lata p\u00F3\u017Aniej. Z kilkoma wyj\u0105tkami (g\u0142\u00F3wnie w latach 40. i 50. XX wieku) obowi\u0105zuje do dzi\u015B. Od 1956 roku tylko jeden kierowca wy\u0142ama\u0142 si\u0119 z tego zwyczaju, mianowicie Emerson Fittipaldi, kt\u00F3ry w 1993 roku wypi\u0142 butelk\u0119 soku pomara\u0144czowego. W latach 1950\u20131960 wy\u015Bcig by\u0142 jedn\u0105 z eliminacji mistrzostw \u015Bwiata Formu\u0142y 1."@pl ,
+		"As 500 Milhas de Indian\u00E1polis, evento tamb\u00E9m chamado de Indianapolis 500 ou simplesmente Indy 500, \u00E9 uma das tr\u00EAs mais tradicionais corridas automobil\u00EDsticas do mundo e a principal prova do campeonato da IndyCar(br:F\u00F3rmula Indy), no Indianapolis Motor Speedway, nos Estados Unidos. \u00C9 apontada como uma das maiores corridas do planeta. O evento, anunciado como The Greatest Spectacle in Racing(o maior espet\u00E1culo do automobilismo, na tradu\u00E7\u00E3o literal), \u00E9 considerado parte da Tr\u00EDplice Coroa do Automobilismo, que \u00E9 composto por tr\u00EAs dos mais prestigiados eventos do esporte a motor no mundo(o Grande Pr\u00EAmio de M\u00F4naco e as 24 Horas de Le Mans completam a lista). A cobertura oficial n\u00E3o \u00E9 divulgada pela ger\u00EAncia de Speedway, mas a capacidade permanente \u00E9 mais de 250.000 espectadores, e patronos do infield elevam o atendimento de dia de corrida para aproximadamente 300 mil."@pt ,
+		"Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field 'wikibase' (a nil value) La 500 Miglia di Indianapolis (Indianapolis 500) \u00E8 una gara automobilistica degli Stati Uniti d'America, nata nel 1911. Si svolge il fine settimana del Memorial Day sul circuito ovale dell'Indianapolis Motor Speedway di Indianapolis. La prima edizione \u00E8 stata vinta da Ray Harroun a bordo di una Marmon Wasp, l'ultima (svoltasi il 29 maggio 2016) dall'italo-statunitense Alexander Rossi, alla sua prima partecipazione. L'importanza per l'automobilismo americano \u00E8 tale che le vetture monoposto che partecipano alle serie americane (simili esteticamente alle Formula 1 ma con molte differenze tecniche) sono spesso chiamate IndyCars. Per lungo tempo parte del campionato CART (ora noto come Champ Car), campionato che dal 2008 si \u00E8 unificato con la Indy Racing League. Tra il 1950 e il 1960 la 500 Miglia \u00E8 stata valida per il Campionato mondiale di Formula 1, nel tentativo di avvicinare le due principali serie automobilistiche; tuttavia l'integrazione fra i due mondi \u00E8 stata pressoch\u00E9 nulla e ne resta una traccia solamente negli albi d'oro."@it ,
+		"\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9500\u30DE\u30A4\u30EB\u30EC\u30FC\u30B9\uFF08Indianapolis 500 \u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9500 \u30A4\u30F3\u30C7\u30A3500\u3068\u3082\u547C\u3076\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u5DDE\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u5E02\u8FD1\u90CA\u306E\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4\u306B\u3042\u308B\u30A4\u30F3\u30C7\u30A3\u30A2\u30CA\u30DD\u30EA\u30B9\u30FB\u30E2\u30FC\u30BF\u30FC\u30FB\u30B9\u30D4\u30FC\u30C9\u30A6\u30A7\u30A4\u3067\u6BCE\u5E745\u6708\u306B\u958B\u50AC\u3055\u308C\u308B\u30A2\u30E1\u30EA\u30AB\u30F3\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u30A4\u30D9\u30F3\u30C8\u3067\u3042\u308B\u3002"@ja ,
+		"Das Indianapolis 500, oftmals auch nur Indy 500 genannt, wird seit dem 30. Mai 1911 veranstaltet und ist somit eines der \u00E4ltesten und traditionsreichsten Rundstrecken-Autorennen der Welt (das \u00E4lteste Rennen, das heute nicht mehr ausgetragen wird, ist die Targa Florio, die erstmals 1906 ausgetragen wurde). Es ist seit 1996 der H\u00F6hepunkt im Rennkalender der IndyCar Series, beziehungsweise bis 1995 der ehemaligen Indy Car World Series. Es ist mit weit \u00FCber 400.000 Zuschauern vor Ort die weltweit gr\u00F6\u00DFte j\u00E4hrlich stattfindende Eintages-Sportveranstaltung und wird zu den Grand Slam-Rennen gez\u00E4hlt."@de ,
+		"De Indianapolis 500, vaak kortweg Indy 500 genoemd, is de belangrijkste autorace van het jaar in de VS. De race wordt verreden op de Indianapolis Motor Speedway in Speedway, Indiana. De race behoort samen met de 24 uur van Le Mans en de Grand Prix van Monaco tot de bekendste races van de autosport. De \"Indy 500\" wordt elk jaar gereden op de zondag voor Memorial Day (in 2016 op 29 mei).De winnaar van de race wordt vereeuwigd op de Borg-Warner trofee."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Indianapolis_Oval.svg?width=300> ;
+	dbo:wikiPageRevisionID	742845406 ;
+	dbo:wikiPageID	159018 ;
+	dbp:lengthMi	2.5 ;
+	dbp:prev	dbr:Grand_Prix_of_Indianapolis .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Indianapolis_500	ns27:hypernym	dbr:Race ;
+	dbp:mostWinsTeam	dbr:Penske_Racing ;
+	dbp:previousNames	"Liberty Sweepstakes   Indianapolis 500"^^xsd:string ,
+		"International Sweepstakes"^^xsd:string ;
+	dbp:next	dbr:Detroit_Belle_Isle_Grand_Prix ;
+	dbp:mostWinsDriver	<http://dbpedia.org/resource/A._J._Foyt> ,
+		dbr:Rick_Mears ,
+		dbr:Al_Unser .
+<http://dbpedia.org/resource/1928_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/1923_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/1924_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/1925_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/1926_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/1927_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/1930_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/2010_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/2013_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/2014_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+dbr:Grand_Prix_of_Indianapolis	dbp:next	dbr:Indianapolis_500 .
+<http://dbpedia.org/resource/2016_Indianapolis_500>	dbp:nameOfRace	dbr:Indianapolis_500 .
+dbr:Todd_Harris	dbp:title	dbr:Indianapolis_500 .
+dbr:International_500-Mile_Sweepstakes_Race	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:List_of_Indianapolis_500_pole-sitters	dbp:competition	dbr:Indianapolis_500 .
+dbr:The_Indianapolis_500-Mile_Race	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:The_Indianapolis_500	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:The_Indy_500	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:The_500	dbo:wikiPageRedirects	dbr:Indianapolis_500 .
+dbr:Indianapolis_500_Mile_Race	dbo:wikiPageRedirects	dbr:Indianapolis_500 .

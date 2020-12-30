@@ -1,0 +1,139 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Grand_Prix_(1966_film)>	foaf:primaryTopic	<http://dbpedia.org/resource/Grand_Prix_(1966_film)> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Grand_Prix	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Grand_Prix_(1966_film)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns4:	<http://dbpedia.org/ontology/Wikidata:> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	rdf:type	ns4:Q11424 ,
+		dbo:Film .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	rdf:type	schema:Movie .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	rdf:type	yago:PsychologicalFeature100023100 ,
+		yago:SocialEvent107288639 ,
+		yago:Show106619065 ,
+		yago:Whole100003553 ,
+		yago:Artifact100021939 ,
+		yago:WikicatEnglish-languageFilms ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatAmericanFilms ,
+		yago:PhysicalEntity100001930 ,
+		yago:Movie106613686 ,
+		yago:Object100002684 ,
+		yago:WikicatFilmsDirectedByJohnFrankenheimer ,
+		yago:WikicatFilmsAboutAutomobiles ,
+		yago:Wikicat1966Films ,
+		yago:Event100029378 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	rdf:type	wikidata:Q386724 ,
+		dbo:Work ,
+		yago:Abstraction100002137 ,
+		schema:CreativeWork ,
+		yago:WikicatMetro-Goldwyn-MayerFilms ,
+		yago:Creation103129123 ,
+		yago:Product104007894 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	rdfs:label	"\u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 (\u0641\u064A\u0644\u0645 1966)"@ar ,
+		"Grand Prix (film)"@pl ,
+		"Grand Prix (filme)"@pt ,
+		"Grand Prix (film, 1966)"@fr ,
+		"Grand Prix (film)"@nl ,
+		"Grand Prix (Film)"@de ,
+		"\u30B0\u30E9\u30F3\u30FB\u30D7\u30EA"@ja ,
+		"Grand Prix (pel\u00EDcula de 1966)"@es ,
+		"\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u0438\u0437 (\u0444\u0438\u043B\u044C\u043C)"@ru ,
+		"Grand Prix (film)"@it ,
+		"Grand Prix (1966 film)"@en ;
+	rdfs:comment	"Grand Prix est un film am\u00E9ricain de John Frankenheimer sorti en 1966 consacr\u00E9 \u00E0 la comp\u00E9tition en Formule 1 et ayant b\u00E9n\u00E9fici\u00E9 de tournages lors des Grands Prix de la saison 1966. Le film a remport\u00E9 trois Oscars."@fr ,
+		"Grand Prix es una pel\u00EDcula estadounidense de 1966 dedicada a las carreras de F\u00F3rmula 1. Dirigida por John Frankenheimer y protagonizada por James Garner, Yves Montand, Brian Bedford y Antonio Sabato; con m\u00FAsica de Maurice Jarre. La pel\u00EDcula tambi\u00E9n cuenta con la aparici\u00F3n del actor Toshir\u014D Mifune, interpretando al propietario de un equipo de carreras japon\u00E9s, inspirado en S\u014Dichir\u014D Honda, fundador de la internacional Honda Motors."@es ,
+		"\u300E\u30B0\u30E9\u30F3\u30FB\u30D7\u30EA\u300F\uFF08Grand Prix\uFF09\u306F\u30011966\u5E74\u306B\u516C\u958B\u3055\u308C\u305F\u30AB\u30FC\u30A2\u30AF\u30B7\u30E7\u30F3\u6620\u753B\u3067\u3042\u308B\u3002\u4E3B\u6F14\u306F\u30B8\u30A7\u30FC\u30E0\u30BA\u30FB\u30AC\u30FC\u30CA\u30FC\u3002\u76E3\u7763\u306F\u30B8\u30E7\u30F3\u30FB\u30D5\u30E9\u30F3\u30B1\u30F3\u30CF\u30A4\u30DE\u30FC\u3001\u97F3\u697D\u306F\u30E2\u30FC\u30EA\u30B9\u30FB\u30B8\u30E3\u30FC\u30EB\u304C\u62C5\u5F53\u3057\u305F\u3002"@ja ,
+		"\u00AB\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u0438\u0437\u00BB, \u0442\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u00AB\u0413\u0440\u0430\u043D-\u043F\u0440\u0438\u00BB \u2014 \u0445\u0443\u0434\u043E\u0436\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0444\u0438\u043B\u044C\u043C \u0432 \u0436\u0430\u043D\u0440\u0435 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u043E\u0439 \u0434\u0440\u0430\u043C\u044B, \u043E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u0442\u0440\u0451\u0445 \u043F\u0440\u0435\u043C\u0438\u0439 \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u2014 \u0437\u0430 \u043B\u0443\u0447\u0448\u0438\u0435 \u0441\u043F\u0435\u0446\u044D\u0444\u0444\u0435\u043A\u0442\u044B, \u043B\u0443\u0447\u0448\u0438\u0439 \u0437\u0432\u0443\u043A \u0438 \u043B\u0443\u0447\u0448\u0438\u0439 \u043C\u043E\u043D\u0442\u0430\u0436."@ru ,
+		"Grand Prix \u00E9 um filme estadunidense de 1966, do g\u00EAnero drama, dirigido por John Frankenheimer. A trilha sonora \u00E9 de Maurice Jarre."@pt ,
+		"Grand Prix ist ein Autorennsport-Film von John Frankenheimer. Der Film entstand im Jahre 1966 und handelt von der Formel 1. Im Mittelpunkt stehen die Fahrer und deren Umfeld, die Teams und die Rennen. Bei der Produktion wurden Studioaufnahmen mit Fernsehbildmaterial von den Rennstrecken zusammengeschnitten. Daf\u00FCr stand in den meisten F\u00E4llen nur der Zeitraum um die Rennwochenenden zur Verf\u00FCgung. Die realistischen Darstellungen der Rennunf\u00E4lle in zum Teil dokumentarischem Stil wirken auch heute noch erschreckend."@de ,
+		"Grand Prix \u2013 ameryka\u0144ski film dramatyczny z 1966 roku o kierowcach Formu\u0142y 1."@pl ,
+		"Grand Prix (Grand Prix) \u00E8 un film del 1966 diretto da John Frankenheimer. Il film girato con l'uso di cineprese on-board sulle vetture con tecniche di assoluto rilievo per l'epoca, vede come protagonisti James Garner, che interpreta Pete Aron, pilota statunitense di Formula 1 che dopo essere stato licenziato a causa di un incidente a Montecarlo con un suo compagno di squadra, cambia scuderia e si aggiudica il mondiale nella gara in cui muore il suo rivale Jean-Pierre Sarti, impersonato da Yves Montand."@it ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016) \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Grand Prix) \u0647\u0648 \u0641\u064A\u0644\u0645 \u062A\u0645 \u0625\u0646\u062A\u0627\u062C\u0647 \u0641\u064A \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0648\u0635\u062F\u0631 \u0641\u064A \u0633\u0646\u0629 1966."@ar ,
+		"Grand Prix is een Amerikaanse dramafilm uit 1966 onder regie van John Frankenheimer (1930-2002)."@nl ,
+		"Grand Prix is a 1966 American action film with an international cast. The picture was directed by John Frankenheimer with music by Maurice Jarre and stars James Garner, Eva Marie Saint, Yves Montand, Brian Bedford, Jessica Walter and Antonio Sab\u00E0to. Toshiro Mifune has a supporting role as a race team owner, inspired by Soichiro Honda. The picture was photographed in Super Panavision 70 by Lionel Lindon, and presented in 70 mm Cinerama in premiere engagements. Its unique racing cinematography \u2013 in part credited to Saul Bass \u2013 is one of the main draws of the film."@en ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30B0\u30E9\u30F3\u30FB\u30D7\u30EA> ,
+		<http://rdf.freebase.com/ns/m.03vgzt> ,
+		<http://de.dbpedia.org/resource/Grand_Prix_(Film)> ,
+		<http://dbpedia.org/resource/Grand_Prix_(1966_film)> ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_(film)> ,
+		<http://nl.dbpedia.org/resource/Grand_Prix_(film)> ,
+		wikidata:Q1534298 ,
+		<http://es.dbpedia.org/resource/Grand_Prix_(pel\u00EDcula_de_1966)> ,
+		<http://ko.dbpedia.org/resource/\uADF8\uB791\uD504\uB9AC_(1966\uB144_\uC601\uD654)> ,
+		<http://yago-knowledge.org/resource/Grand_Prix_(1966_film)> ,
+		<http://it.dbpedia.org/resource/Grand_Prix_(film)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	owl:sameAs	dbpedia-wikidata:Q1534298 ,
+		<http://fr.dbpedia.org/resource/Grand_Prix_(film,_1966)> ,
+		<http://pt.dbpedia.org/resource/Grand_Prix_(filme)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	dct:subject	dbc:Film_scores_by_Maurice_Jarre ,
+		dbc:American_sports_films ,
+		dbc:Films_shot_in_Monaco ,
+		dbc:Metro-Goldwyn-Mayer_films ,
+		dbc:English-language_films ,
+		<http://dbpedia.org/resource/Category:1960s_action_films> ,
+		dbc:Films_that_won_the_Best_Sound_Mixing_Academy_Award ,
+		<http://dbpedia.org/resource/Category:1966_films> ,
+		dbc:Films_that_won_the_Best_Sound_Editing_Academy_Award ,
+		dbc:Auto_racing_films ,
+		dbc:American_films ,
+		<http://dbpedia.org/resource/Category:1960s_sports_films> ,
+		dbc:American_action_films ,
+		dbc:Films_whose_editor_won_the_Best_Film_Editing_Academy_Award ,
+		dbc:Formula_One_media ,
+		dbc:Films_directed_by_John_Frankenheimer ;
+	foaf:name	"Grand Prix"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Yves_Montand_1966.jpg> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Grand_Prix_(1966_film)> ;
+	dbo:writer	dbr:Robert_Alan_Aurthur ;
+	dbo:starring	dbr:Yves_Montand ,
+		dbr:Toshiro_Mifune ,
+		dbr:James_Garner ,
+		dbr:Eva_Marie_Saint .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Grand_Prix_(1966_film)?oldid=745197811> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	dbp:caption	"Theatrical release poster by Howard Terpning"^^xsd:string ;
+	dbo:director	dbr:John_Frankenheimer ;
+	dbp:studio	"Cherokee Productions"^^xsd:string ;
+	dbo:distributor	dbr:Metro-Goldwyn-Mayer ;
+	dbo:editing	dbr:Stu_Linder ,
+		dbr:Fredric_Steinkamp .
+@prefix ns15:	<http://dbpedia.org/datatype/> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	dbo:gross	"2.08E7"^^ns15:usDollar ;
+	dbo:musicComposer	dbr:Maurice_Jarre ;
+	dbo:cinematography	dbr:Saul_Bass ,
+		dbr:Lionel_Lindon ;
+	dbp:country	"United States"^^xsd:string ;
+	dbp:language	"English"^^xsd:string ;
+	dbo:abstract	"Grand Prix \u00E9 um filme estadunidense de 1966, do g\u00EAnero drama, dirigido por John Frankenheimer. A trilha sonora \u00E9 de Maurice Jarre."@pt ,
+		"Grand Prix es una pel\u00EDcula estadounidense de 1966 dedicada a las carreras de F\u00F3rmula 1. Dirigida por John Frankenheimer y protagonizada por James Garner, Yves Montand, Brian Bedford y Antonio Sabato; con m\u00FAsica de Maurice Jarre. La pel\u00EDcula tambi\u00E9n cuenta con la aparici\u00F3n del actor Toshir\u014D Mifune, interpretando al propietario de un equipo de carreras japon\u00E9s, inspirado en S\u014Dichir\u014D Honda, fundador de la internacional Honda Motors. Fue una de las pel\u00EDculas m\u00E1s taquilleras de su a\u00F1o, adem\u00E1s de haber conseguido alzarse en los \u00D3scars con los galardones de mejor montaje, mejor sonido y mejores efectos sonoros. Sus espectaculares escenas de carrera la han convertido en pel\u00EDcula de culto para los aficionados al automovilismo lo que ha llevado a relanzarla en DVD y HD DVD el 11 de julio de 2006 con ocasi\u00F3n de su 40 aniversario. La pel\u00EDcula contiene impresionantes tomas de carreras de la vida real y en ella aparecen campeones de la F\u00F3rmula 1 como Juan Manuel Fangio, John Surtees, Jim Clark o Jack Brabham,"@es ,
+		"\u300E\u30B0\u30E9\u30F3\u30FB\u30D7\u30EA\u300F\uFF08Grand Prix\uFF09\u306F\u30011966\u5E74\u306B\u516C\u958B\u3055\u308C\u305F\u30AB\u30FC\u30A2\u30AF\u30B7\u30E7\u30F3\u6620\u753B\u3067\u3042\u308B\u3002\u4E3B\u6F14\u306F\u30B8\u30A7\u30FC\u30E0\u30BA\u30FB\u30AC\u30FC\u30CA\u30FC\u3002\u76E3\u7763\u306F\u30B8\u30E7\u30F3\u30FB\u30D5\u30E9\u30F3\u30B1\u30F3\u30CF\u30A4\u30DE\u30FC\u3001\u97F3\u697D\u306F\u30E2\u30FC\u30EA\u30B9\u30FB\u30B8\u30E3\u30FC\u30EB\u304C\u62C5\u5F53\u3057\u305F\u3002"@ja ,
+		"Grand Prix is een Amerikaanse dramafilm uit 1966 onder regie van John Frankenheimer (1930-2002)."@nl ,
+		"Grand Prix \u2013 ameryka\u0144ski film dramatyczny z 1966 roku o kierowcach Formu\u0142y 1."@pl ,
+		"Grand Prix ist ein Autorennsport-Film von John Frankenheimer. Der Film entstand im Jahre 1966 und handelt von der Formel 1. Im Mittelpunkt stehen die Fahrer und deren Umfeld, die Teams und die Rennen. Bei der Produktion wurden Studioaufnahmen mit Fernsehbildmaterial von den Rennstrecken zusammengeschnitten. Daf\u00FCr stand in den meisten F\u00E4llen nur der Zeitraum um die Rennwochenenden zur Verf\u00FCgung. Die realistischen Darstellungen der Rennunf\u00E4lle in zum Teil dokumentarischem Stil wirken auch heute noch erschreckend. 40 Jahre nach dem Kinodeb\u00FCt kam der Film 2006 als DVD in den Handel. Im Fernsehen wurde er bis dahin gelegentlich gezeigt. Die Computer-Rennsimulation Grand Prix Legends ist dem Film nachempfunden."@de ,
+		"Grand Prix est un film am\u00E9ricain de John Frankenheimer sorti en 1966 consacr\u00E9 \u00E0 la comp\u00E9tition en Formule 1 et ayant b\u00E9n\u00E9fici\u00E9 de tournages lors des Grands Prix de la saison 1966. Le film a remport\u00E9 trois Oscars."@fr ,
+		"Grand Prix (Grand Prix) \u00E8 un film del 1966 diretto da John Frankenheimer. Il film girato con l'uso di cineprese on-board sulle vetture con tecniche di assoluto rilievo per l'epoca, vede come protagonisti James Garner, che interpreta Pete Aron, pilota statunitense di Formula 1 che dopo essere stato licenziato a causa di un incidente a Montecarlo con un suo compagno di squadra, cambia scuderia e si aggiudica il mondiale nella gara in cui muore il suo rivale Jean-Pierre Sarti, impersonato da Yves Montand. Il film ebbe la collaborazione delle principali scuderie di Formula 1 in particolare della BRM, della Ferrari e della McLaren. Quest'ultima nel film, viene utilizzata per \"interpretare\" la scuderia \"Yamura\" con la quale Pete Aron conclude la stagione. Allo scopo la scuderia neozelandese adott\u00F2 una colorazione bianco-verde su richiesta della produzione e Bruce McLaren a sua volta adott\u00F2 una colorazione del casco bianco-rosso e blu diversa da quella solita. Anche alcuni Piloti veri recitano nel film come Phil Hill, Graham Hill, Richie Ginther, Joakim Bonnier, Jack Brabham. Molte riprese a Montecarlo e in Belgio furono fatte con vetture di Formula 3 opportunamente \"camuffate\" e guidate per lo pi\u00F9 da Phil Hill"@it ,
+		"\u00AB\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u043F\u0440\u0438\u0437\u00BB, \u0442\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u00AB\u0413\u0440\u0430\u043D-\u043F\u0440\u0438\u00BB \u2014 \u0445\u0443\u0434\u043E\u0436\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0444\u0438\u043B\u044C\u043C \u0432 \u0436\u0430\u043D\u0440\u0435 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u043E\u0439 \u0434\u0440\u0430\u043C\u044B, \u043E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u0442\u0440\u0451\u0445 \u043F\u0440\u0435\u043C\u0438\u0439 \u00AB\u041E\u0441\u043A\u0430\u0440\u00BB \u2014 \u0437\u0430 \u043B\u0443\u0447\u0448\u0438\u0435 \u0441\u043F\u0435\u0446\u044D\u0444\u0444\u0435\u043A\u0442\u044B, \u043B\u0443\u0447\u0448\u0438\u0439 \u0437\u0432\u0443\u043A \u0438 \u043B\u0443\u0447\u0448\u0438\u0439 \u043C\u043E\u043D\u0442\u0430\u0436."@ru ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016) \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Grand Prix) \u0647\u0648 \u0641\u064A\u0644\u0645 \u062A\u0645 \u0625\u0646\u062A\u0627\u062C\u0647 \u0641\u064A \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0648\u0635\u062F\u0631 \u0641\u064A \u0633\u0646\u0629 1966."@ar ,
+		"Grand Prix is a 1966 American action film with an international cast. The picture was directed by John Frankenheimer with music by Maurice Jarre and stars James Garner, Eva Marie Saint, Yves Montand, Brian Bedford, Jessica Walter and Antonio Sab\u00E0to. Toshiro Mifune has a supporting role as a race team owner, inspired by Soichiro Honda. The picture was photographed in Super Panavision 70 by Lionel Lindon, and presented in 70 mm Cinerama in premiere engagements. Its unique racing cinematography \u2013 in part credited to Saul Bass \u2013 is one of the main draws of the film. The film includes real-life racing footage and cameo appearances by drivers including Formula One World Champions Phil Hill, Graham Hill, Juan Manuel Fangio, Jim Clark, Jochen Rindt and Jack Brabham. Other drivers who appeared in the film include Dan Gurney, Richie Ginther, Joakim Bonnier, Bruce McLaren and Jo Siffert. One of the ten highest grossing films of 1966, Grand Prix  for its technical achievements. The film was previously released on DVD and HD DVD and on Blu-ray Disc in May 2011."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Yves_Montand_1966.jpg?width=300> ;
+	dbo:wikiPageRevisionID	745197811 ;
+	dbo:wikiPageID	970846 .
+@prefix ns16:	<http://dbpedia.org/ontology/Work/> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	ns16:runtime	"179.0"^^ns15:minute .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	dbo:runtime	10740.0 .
+@prefix ns18:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/Grand_Prix_(1966_film)>	ns18:hypernym	dbr:Film ;
+	dbo:budget	"9000000.0"^^ns15:usDollar ;
+	dbp:producer	"Edward Lewis"^^xsd:string .

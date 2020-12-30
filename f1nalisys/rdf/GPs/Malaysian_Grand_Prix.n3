@@ -1,0 +1,167 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1999_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2015_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2000_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2001_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2004_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2008_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2002_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+dbr:Paul_Stokell	dbp:prevSeries	dbr:Malaysian_Grand_Prix ;
+	dbp:titles	dbr:Malaysian_Grand_Prix .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Malaysia_Grand_Prix	dbo:wikiPageRedirects	dbr:Malaysian_Grand_Prix .
+dbr:Shah_Alam_Circuit	dbp:events	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2016_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+dbr:Sepang_International_Circuit	dbp:events	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2013_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2014_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2011_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2010_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2009_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Malaysian_Grand_Prix	foaf:primaryTopic	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/Malaysian_Grand_Prix_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2006_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2005_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2007_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2012_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+<http://dbpedia.org/resource/2003_Malaysian_Grand_Prix>	dbp:nameOfRace	dbr:Malaysian_Grand_Prix .
+dbr:Malaysian_GP	dbo:wikiPageRedirects	dbr:Malaysian_Grand_Prix .
+dbr:Grand_Prix_of_Malaysia	dbo:wikiPageRedirects	dbr:Malaysian_Grand_Prix .
+dbr:MGP	dbo:wikiPageDisambiguates	dbr:Malaysian_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Malaysian_Grand_Prix	rdf:type	yago:Race107472657 ,
+		yago:Event100029378 ,
+		yago:SocialEvent107288639 ,
+		yago:Contest107456188 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Abstraction100002137 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Malaysian_Grand_Prix	rdf:type	geo:SpatialThing ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Malaysian_Grand_Prix	rdfs:label	"Gran Premio della Malesia"@it ,
+		"Gran Premio de Malasia"@es ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0645\u0627\u0644\u064A\u0632\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649"@ar ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u0430\u043B\u0430\u0439\u0437\u0438\u0438"@ru ,
+		"Gro\u00DFer Preis von Malaysia"@de ,
+		"Grande Pr\u00EAmio da Mal\u00E1sia"@pt ,
+		"Grand Prix Malezji Formu\u0142y 1"@pl ,
+		"Malaysian Grand Prix"@en ,
+		"Grand Prix automobile de Malaisie"@fr ,
+		"\u99AC\u4F86\u897F\u4E9E\u5927\u734E\u8CFD"@zh ,
+		"\u30DE\u30EC\u30FC\u30B7\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"Grand Prix Formule 1 van Maleisi\u00EB"@nl ;
+	rdfs:comment	"Grand Prix Malezji \u2013 zosta\u0142o w\u0142\u0105czone do kalendarza Formu\u0142y 1 w sezonie 1999. Wy\u015Bcig odbywa si\u0119 na nowoczesnym torze Sepang International Circuit w Sepang w Malezji, niedaleko Kuala Lumpur."@pl ,
+		"El Gran Premio de Malasia es una carrera de automovilismo perteneciente al Campeonato de F\u00F3rmula 1 desde la temporada 1999. Se disputa en el Circuito Internacional de Sepang, en Sepang, Malasia. Las dos primeras ediciones del Gran Premio de Malasia se disputaron en octubre, apareadas con el Gran Premio de Jap\u00F3n. Desde 2001, la carrera es la segunda o tercera carrera de la temporada, como parte de la gira que incluye las carreras en Australia, Bahr\u00E9in y m\u00E1s recientemente tambi\u00E9n China. La GP2 Asia Series acompa\u00F1\u00F3 a la F\u00F3rmula 1 en 2008 y 2009, y la GP2 Series lo hizo en 2012 y 2013."@es ,
+		"Il Gran Premio della Malesia (o Gran Premio di Malaysia) \u00E8 una gara automobilistica di Formula 1 che si svolge a partire del 1999. Il Gran Premio si svolge sul circuito di Sepang a breve distanza dalla capitale della Malesia Kuala Lumpur, nella penisola della Malacca in zona semi-equatoriale."@it ,
+		"O Grande Pr\u00EAmio da Mal\u00E1sia foi inclu\u00EDdo no campeonato da F\u00F3rmula 1 pela primeira vez em 1999. Desde ent\u00E3o acontece anualmente no Sepang Internacional Circuit, em Sepang, Mal\u00E1sia."@pt ,
+		"\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u99AC\u4F86\u897F\u4E9E\u5927\u734E\u8CFD\u4ECE1999\u5E74\u8D77\u5F00\u59CB\u4E3E\u529E\u81F3\u4ECA\u3002 \n* \u5730\u70B9:1999\u5E74\u2013\u73B0\u5728:\u96EA\u90A6\u570B\u969B\u8CFD\u9053(\u4F4D\u4E8E\u5409\u9686\u5761\u90CA\u533A)\u3002 \u99AC\u4F86\u897F\u4E9E\u5927\u734E\u8CFD\u5386\u5C4A\u51A0\u519B:"@zh ,
+		"De Grand Prix van Maleisi\u00EB is een autoracewedstrijd die onderdeel uitmaakt van het wereldkampioenschap Formule 1. De race wordt verreden op het Sepang International Circuit in Sepang, Maleisi\u00EB en werd voor het eerst georganiseerd in 1999."@nl ,
+		"The Malaysian Grand Prix is a round of the Formula One World Championship. It has been held at the Sepang International Circuit since 1999, although FIA-sanctioned racing in Malaysia has existed since the 1960s. Since 2011, the race has been officially known as the Malaysia Grand Prix."@en ,
+		"Der Gro\u00DFe Preis von Malaysia (nach dem Sponsor Petronas Malaysian Grand Prix) ist eine Rennveranstaltung, die erstmals 1962 stattfand. Seit 1999 wird der Gro\u00DFe Preis von Malaysia in der Formel 1 in Sepang bei Kuala Lumpur auf der malaiischen Halbinsel in Malaysia ausgetragen. Der Austragungsort ist der Sepang International Circuit. Rekordsieger ist Sebastian Vettel, mit vier gewonnen Rennen. Michael Schumacher stand insgesamt f\u00FCnfmal auf der Poleposition. Bereits von 1962 bis 1995 fanden mit Unterbrechungen 18 Gro\u00DFe Preise von Malaysia als Bestandteil verschiedener Rennserien statt."@de ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u0430\u043B\u0430\u0439\u0437\u0438\u0438 \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u0441 1999 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0421\u0435\u043F\u0430\u043D\u0433. \u0421\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u044D\u0442\u0430\u043F\u0430 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043D\u0435\u0444\u0442\u044F\u043D\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Petronas. \u0412 2008 \u0432\u0435\u043B\u0438\u0441\u044C \u043F\u0435\u0440\u0435\u0433\u043E\u0432\u043E\u0440\u044B \u043E \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0438 \u0432 2009 \u0433\u043E\u0434\u0443 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u0430\u043B\u0430\u0439\u0437\u0438\u0438 \u0432 \u043D\u043E\u0447\u043D\u043E\u0435 \u0432\u0440\u0435\u043C\u044F, \u043D\u043E \u043F\u043E\u0437\u0434\u043D\u0435\u0435 \u043E\u043D\u0438 \u0431\u044B\u043B\u0438 \u043E\u0442\u043B\u043E\u0436\u0435\u043D\u044B \u043F\u043E \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u043C \u043F\u0440\u0438\u0447\u0438\u043D\u0430\u043C. \u041A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u043D\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u0430\u043B\u0430\u0439\u0437\u0438\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432 2015 \u0433\u043E\u0434\u0443."@ru ,
+		"\u30DE\u30EC\u30FC\u30B7\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08Malaysia Grand Prix\uFF09\u306F1999\u5E74\u304B\u3089\u30DE\u30EC\u30FC\u30B7\u30A2\u306E\u30AF\u30A2\u30E9\u30EB\u30F3\u30D7\u30FC\u30EB\u8FD1\u90CA\u306E\u30BB\u30E9\u30F3\u30B4\u30FC\u30EB\u5DDE\u30BB\u30D1\u30F3\uFF08Sepang\uFF09\u306B\u3042\u308B\u30BB\u30D1\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u884C\u308F\u308C\u3066\u3044\u308BF1\u306E\u30B0\u30E9\u30F3\u30D7\u30EA\u3067\u3042\u308B\u3002"@ja ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0645\u0627\u0644\u064A\u0632\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u064A\u0642\u0627\u0645 \u0633\u0646\u0648\u064A\u0627 \u0641\u064A \u0645\u0627\u0644\u064A\u0632\u064A\u0627 \u0645\u0646\u0630 \u0639\u0627\u0645 1962. \u0648\u064A\u0639\u062A\u0628\u0631 \u0623\u062D\u062F \u062C\u0648\u0644\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F  \u0645\u0646\u0630 \u0639\u0627\u0645 1999\u060C \u0648\u064A\u0642\u0627\u0645 \u062D\u0627\u0644\u064A\u0627 \u0639\u0644\u0649 \u062D\u0644\u0628\u0629 \u0633\u064A\u0628\u0627\u0646\u063A \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0641\u064A \u0633\u064A\u0628\u0627\u0646\u063A.\u064A\u0639\u0648\u062F \u062A\u0627\u0631\u064A\u062E \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0639\u0627\u0645 1962 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0633\u064A\u0627\u0631\u0627\u062A \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 2 \u0627\u0644\u0630\u064A \u0639\u0642\u062F \u0639\u0644\u0649 \u062D\u0644\u0628\u0629 \u0637\u0631\u064A\u0642 \u0637\u0648\u0645\u0633\u0648\u0646 \u0641\u064A \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0639\u0646\u062F\u0645\u0627 \u0643\u0627\u0646\u062A \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u062C\u0632\u0621\u0627 \u0645\u0646 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0645\u0627\u0644\u064A\u0632\u064A \u062D\u062A\u0649 \u0639\u0627\u0645 1965. \u0648\u0628\u0639\u062F \u0627\u0646\u0641\u0635\u0627\u0644 \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0639\u0646 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0641\u064A \u0639\u0627\u0645 1965\u060C \u062A\u0648\u0627\u0635\u0644\u062A \u0645\u0646\u0627\u0641\u0633\u0627\u062A \u0627\u0644\u0633\u0628\u0627\u0642 \u062D\u062A\u0649 \u0639\u0627\u0645 1973.\u0628\u064A\u0646 \u0631\u062D\u064A\u0644 \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0645\u0646 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0645\u0627\u0644\u064A\u0632\u064A \u0625\u0644\u0649 \u0623\u0646 \u062A\u0645 \u0627\u0641\u062A\u062A\u0627\u062D \u062D\u0644\u0628\u0629 \u0633\u064A\u0628\u0627\u0646\u063A \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0639\u062F\u062F\u0627 \u0645\u0646 \u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0623\u062E\u0631\u0649 \u0639\u0644\u0649 \u062D\u0644\u0628\u0629 \u0634\u0627\u0647 \u0639\u0644\u0627\u0645 \u0627\u0644\u062E\u0627\u0635\u0629 \u0628\u064A\u0646 1968 \u062D\u062A\u064A 1995\u060C \u0628\u0645\u0627 \u0641\u064A \u0630\u0644\u0643 \u0633\u0644\u0633\u0644\u0629 \u062A\u0627\u0633\u0645\u0627\u0646 (1968-1972)\u060C \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0628\u0627\u0633\u064A\u0641\u064A\u0643 (1973 -1974\u060C 1978-1982)\u060C \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0623\u062A\u0644\u0627\u0646\u062A\u064A\u0643 (1975)\u060C \u0641\u0648\u0631\u0645\u0648\u0644\u0627 2 (1977) \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0647\u0648\u0644\u062F\u0646 (1995)."@ar ,
+		"Grand Prix de MalaisieFichier:Circuit Sepang.svg Drapeau Circuit international de Sepang Le Grand Prix automobile de Malaisie est une \u00E9preuve comptant pour le championnat du monde de Formule 1 depuis 1999. Il se court sur le circuit de Sepang pr\u00E8s de Kuala Lumpur. Depuis 2001, le Grand Prix de Malaisie a \u00E9t\u00E9 bascul\u00E9 de la fin du calendrier de la saison au d\u00E9but de celui-ci. L'\u00E9dition 2015 s'est d\u00E9roul\u00E9e le 29 mars. En 2016, en raison de travaux de r\u00E9novation du circuit, le grand-prix est de nouveau programm\u00E9 en fin de saison."@fr ;
+	dbp:laps	56 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	<http://nl.dbpedia.org/resource/Grand_Prix_Formule_1_van_Maleisi\u00EB> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	dbpedia-it:Gran_Premio_della_Malesia .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	dbpedia-cs:Grand_Prix_Malajsie ,
+		<http://ko.dbpedia.org/resource/\uB9D0\uB808\uC774\uC2DC\uC544_\uADF8\uB791\uD504\uB9AC> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	dbpedia-eu:Malaysiako_Sari_Nagusia ,
+		<http://rdf.freebase.com/ns/m.01s_wq> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q8082 ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_Malezji_Formu\u0142y_1> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_Malaysia ,
+		<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_von_Malaysia> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	dbpedia-fr:Grand_Prix_automobile_de_Malaisie ,
+		dbr:Malaysian_Grand_Prix ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30EC\u30FC\u30B7\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA> ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_da_Mal\u00E1sia> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	yago-res:Malaysian_Grand_Prix .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	wikidata:Q8082 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Malaysian_Grand_Prix	owl:sameAs	dbpedia-es:Gran_Premio_de_Malasia .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Malaysian_Grand_Prix	dct:subject	dbc:Recurring_sporting_events_established_in_1962 ,
+		dbc:Formula_One_Grands_Prix ,
+		dbc:National_Grands_Prix ,
+		dbc:Malaysian_Grand_Prix ;
+	foaf:homepage	<http://www.malaysiangp.com.my/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Malaysian_Grand_Prix	geo:lat	"2.7599999904632568359"^^xsd:float ;
+	geo:long	"101.73699951171875"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Malaysia.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Malaysian_Grand_Prix .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Malaysian_Grand_Prix	geo:geometry	"POINT(101.73699951172 2.7599999904633)"^^virtrdf:Geometry ;
+	dbp:fastestLapTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:winningTeam	dbr:Red_Bull_Racing ,
+		dbr:TAG_Heuer .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Malaysian_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Malaysian_Grand_Prix?oldid=742295560> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Malaysian_Grand_Prix	georss:point	"2.76 101.737" ;
+	dbo:wikiPageExternalLink	<http://www.travography.com/Asian_Way/> .
+@prefix ns25:	<http://www.4mula1.ro/history/track/> .
+dbr:Malaysian_Grand_Prix	dbo:wikiPageExternalLink	ns25:Sepang ,
+		<http://www.malaysiangp.com.my/> ;
+	dbp:fastestLapDriver	"Nico Rosberg"^^xsd:string ;
+	dbp:circuit	dbr:Sepang_International_Circuit ;
+	dbp:winner	"D. Ricciardo"^^xsd:string ;
+	dbp:currentYear	2016 ;
+	dbp:poleTime	1 ;
+	dbp:name	"Malaysian Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:secondTeam	dbr:Red_Bull_Racing ,
+		dbr:TAG_Heuer ;
+	dbo:abstract	"The Malaysian Grand Prix is a round of the Formula One World Championship. It has been held at the Sepang International Circuit since 1999, although FIA-sanctioned racing in Malaysia has existed since the 1960s. Since 2011, the race has been officially known as the Malaysia Grand Prix."@en ,
+		"O Grande Pr\u00EAmio da Mal\u00E1sia foi inclu\u00EDdo no campeonato da F\u00F3rmula 1 pela primeira vez em 1999. Desde ent\u00E3o acontece anualmente no Sepang Internacional Circuit, em Sepang, Mal\u00E1sia."@pt ,
+		"El Gran Premio de Malasia es una carrera de automovilismo perteneciente al Campeonato de F\u00F3rmula 1 desde la temporada 1999. Se disputa en el Circuito Internacional de Sepang, en Sepang, Malasia. Las dos primeras ediciones del Gran Premio de Malasia se disputaron en octubre, apareadas con el Gran Premio de Jap\u00F3n. Desde 2001, la carrera es la segunda o tercera carrera de la temporada, como parte de la gira que incluye las carreras en Australia, Bahr\u00E9in y m\u00E1s recientemente tambi\u00E9n China. La GP2 Asia Series acompa\u00F1\u00F3 a la F\u00F3rmula 1 en 2008 y 2009, y la GP2 Series lo hizo en 2012 y 2013. El circuito ha mostrado sus cualidades en los Grandes Premios hasta ahora disputados, con mucha acci\u00F3n y clima que puede variar del calor seco o calor h\u00FAmedo hasta la tormenta tropical en cuesti\u00F3n de minutos. Hasta ahora, una de las carreras m\u00E1s recordadas es la de 1999,[cita requerida] cuando Michael Schumacher, de regreso a las competiciones tras una larga ausencia debido a una fractura ocurrida durante el Gran Premio de Gran Breta\u00F1a de ese a\u00F1o domin\u00F3 la carrera y obtuvo el segundo lugar detr\u00E1s de su compa\u00F1ero en el equipo Ferrari, Eddie Irvine. Ambos corredores ser\u00EDan descalificados por irregularidades t\u00E9cnicas, pero tras una apelaci\u00F3n, se anul\u00F3 la descalificaci\u00F3n. La carrera de 2001 se disput\u00F3 con fuertes lluvias desde la mitad de la carrera. Las condiciones se pusieron tan malas que casi al mismo tiempo los dos Ferrari de Michael Schumacher y Rubens Barrichello se salieron de pista en el mismo viraje. Incre\u00EDblemente ambos pilotos se recuperaron y llegaron a la meta en primero y segundo puesto. El piloto alem\u00E1n Sebastian Vettel se convirti\u00F3 en el m\u00E1s ganador de este gran premio al ganar las ediciones 2010, 2011, 2013 y 2015."@es ,
+		"\u30DE\u30EC\u30FC\u30B7\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08Malaysia Grand Prix\uFF09\u306F1999\u5E74\u304B\u3089\u30DE\u30EC\u30FC\u30B7\u30A2\u306E\u30AF\u30A2\u30E9\u30EB\u30F3\u30D7\u30FC\u30EB\u8FD1\u90CA\u306E\u30BB\u30E9\u30F3\u30B4\u30FC\u30EB\u5DDE\u30BB\u30D1\u30F3\uFF08Sepang\uFF09\u306B\u3042\u308B\u30BB\u30D1\u30F3\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u884C\u308F\u308C\u3066\u3044\u308BF1\u306E\u30B0\u30E9\u30F3\u30D7\u30EA\u3067\u3042\u308B\u3002"@ja ,
+		"Grand Prix Malezji \u2013 zosta\u0142o w\u0142\u0105czone do kalendarza Formu\u0142y 1 w sezonie 1999. Wy\u015Bcig odbywa si\u0119 na nowoczesnym torze Sepang International Circuit w Sepang w Malezji, niedaleko Kuala Lumpur."@pl ,
+		"\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u99AC\u4F86\u897F\u4E9E\u5927\u734E\u8CFD\u4ECE1999\u5E74\u8D77\u5F00\u59CB\u4E3E\u529E\u81F3\u4ECA\u3002 \n* \u5730\u70B9:1999\u5E74\u2013\u73B0\u5728:\u96EA\u90A6\u570B\u969B\u8CFD\u9053(\u4F4D\u4E8E\u5409\u9686\u5761\u90CA\u533A)\u3002 \u99AC\u4F86\u897F\u4E9E\u5927\u734E\u8CFD\u5386\u5C4A\u51A0\u519B:"@zh ,
+		"Grand Prix de MalaisieFichier:Circuit Sepang.svg Drapeau Circuit international de Sepang Le Grand Prix automobile de Malaisie est une \u00E9preuve comptant pour le championnat du monde de Formule 1 depuis 1999. Il se court sur le circuit de Sepang pr\u00E8s de Kuala Lumpur. Depuis 2001, le Grand Prix de Malaisie a \u00E9t\u00E9 bascul\u00E9 de la fin du calendrier de la saison au d\u00E9but de celui-ci. L'\u00E9dition 2015 s'est d\u00E9roul\u00E9e le 29 mars. En 2016, en raison de travaux de r\u00E9novation du circuit, le grand-prix est de nouveau programm\u00E9 en fin de saison."@fr ,
+		"Il Gran Premio della Malesia (o Gran Premio di Malaysia) \u00E8 una gara automobilistica di Formula 1 che si svolge a partire del 1999. Il Gran Premio si svolge sul circuito di Sepang a breve distanza dalla capitale della Malesia Kuala Lumpur, nella penisola della Malacca in zona semi-equatoriale."@it ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0645\u0627\u0644\u064A\u0632\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u064A\u0642\u0627\u0645 \u0633\u0646\u0648\u064A\u0627 \u0641\u064A \u0645\u0627\u0644\u064A\u0632\u064A\u0627 \u0645\u0646\u0630 \u0639\u0627\u0645 1962. \u0648\u064A\u0639\u062A\u0628\u0631 \u0623\u062D\u062F \u062C\u0648\u0644\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F  \u0645\u0646\u0630 \u0639\u0627\u0645 1999\u060C \u0648\u064A\u0642\u0627\u0645 \u062D\u0627\u0644\u064A\u0627 \u0639\u0644\u0649 \u062D\u0644\u0628\u0629 \u0633\u064A\u0628\u0627\u0646\u063A \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0641\u064A \u0633\u064A\u0628\u0627\u0646\u063A.\u064A\u0639\u0648\u062F \u062A\u0627\u0631\u064A\u062E \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0639\u0627\u0645 1962 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0633\u064A\u0627\u0631\u0627\u062A \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 2 \u0627\u0644\u0630\u064A \u0639\u0642\u062F \u0639\u0644\u0649 \u062D\u0644\u0628\u0629 \u0637\u0631\u064A\u0642 \u0637\u0648\u0645\u0633\u0648\u0646 \u0641\u064A \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0639\u0646\u062F\u0645\u0627 \u0643\u0627\u0646\u062A \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u062C\u0632\u0621\u0627 \u0645\u0646 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0645\u0627\u0644\u064A\u0632\u064A \u062D\u062A\u0649 \u0639\u0627\u0645 1965. \u0648\u0628\u0639\u062F \u0627\u0646\u0641\u0635\u0627\u0644 \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0639\u0646 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0641\u064A \u0639\u0627\u0645 1965\u060C \u062A\u0648\u0627\u0635\u0644\u062A \u0645\u0646\u0627\u0641\u0633\u0627\u062A \u0627\u0644\u0633\u0628\u0627\u0642 \u062D\u062A\u0649 \u0639\u0627\u0645 1973.\u0628\u064A\u0646 \u0631\u062D\u064A\u0644 \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 \u0645\u0646 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0645\u0627\u0644\u064A\u0632\u064A \u0625\u0644\u0649 \u0623\u0646 \u062A\u0645 \u0627\u0641\u062A\u062A\u0627\u062D \u062D\u0644\u0628\u0629 \u0633\u064A\u0628\u0627\u0646\u063A \u0627\u0633\u062A\u0636\u0627\u0641\u062A \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0639\u062F\u062F\u0627 \u0645\u0646 \u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0623\u062E\u0631\u0649 \u0639\u0644\u0649 \u062D\u0644\u0628\u0629 \u0634\u0627\u0647 \u0639\u0644\u0627\u0645 \u0627\u0644\u062E\u0627\u0635\u0629 \u0628\u064A\u0646 1968 \u062D\u062A\u064A 1995\u060C \u0628\u0645\u0627 \u0641\u064A \u0630\u0644\u0643 \u0633\u0644\u0633\u0644\u0629 \u062A\u0627\u0633\u0645\u0627\u0646 (1968-1972)\u060C \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0628\u0627\u0633\u064A\u0641\u064A\u0643 (1973 -1974\u060C 1978-1982)\u060C \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0623\u062A\u0644\u0627\u0646\u062A\u064A\u0643 (1975)\u060C \u0641\u0648\u0631\u0645\u0648\u0644\u0627 2 (1977) \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0647\u0648\u0644\u062F\u0646 (1995)."@ar ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u0430\u043B\u0430\u0439\u0437\u0438\u0438 \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u0441 1999 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0421\u0435\u043F\u0430\u043D\u0433. \u0421\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u044D\u0442\u0430\u043F\u0430 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043D\u0435\u0444\u0442\u044F\u043D\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Petronas. \u0412 2008 \u0432\u0435\u043B\u0438\u0441\u044C \u043F\u0435\u0440\u0435\u0433\u043E\u0432\u043E\u0440\u044B \u043E \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0438 \u0432 2009 \u0433\u043E\u0434\u0443 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u0430\u043B\u0430\u0439\u0437\u0438\u0438 \u0432 \u043D\u043E\u0447\u043D\u043E\u0435 \u0432\u0440\u0435\u043C\u044F, \u043D\u043E \u043F\u043E\u0437\u0434\u043D\u0435\u0435 \u043E\u043D\u0438 \u0431\u044B\u043B\u0438 \u043E\u0442\u043B\u043E\u0436\u0435\u043D\u044B \u043F\u043E \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u043C \u043F\u0440\u0438\u0447\u0438\u043D\u0430\u043C. \u041A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u043D\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u0430\u043B\u0430\u0439\u0437\u0438\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432 2015 \u0433\u043E\u0434\u0443."@ru ,
+		"De Grand Prix van Maleisi\u00EB is een autoracewedstrijd die onderdeel uitmaakt van het wereldkampioenschap Formule 1. De race wordt verreden op het Sepang International Circuit in Sepang, Maleisi\u00EB en werd voor het eerst georganiseerd in 1999. 17 oktober 1999 won Eddie Irvine de eerste Grand Prix van Maleisi\u00EB voor zijn Ferrari-teamgenoot Michael Schumacher. Vanaf 2001 verhuisde de race naar het begin van het seizoen. Datzelfde jaar zorgde Jos Verstappen voor sensatie door, geholpen door de wisselende weersomstandigheden, een tijd tweede te liggen. Recordwinnaar in Maleisi\u00EB is Sebastian Vettel met 4 zeges. 22 januari 2008 werd bekend dat directeur van het circuit Mokhzani Mahathir vanaf 2009 een nachtrace wil houden op dit circuit. Door de hoge kosten heeft dit plan geen doorgang kunnen vinden. In plaats daar van is besloten de race wat later op de dag te houden. De temperaturen liggen dan lager, en Europese kijkers kunnen de race live volgen op een voor hen normaal tijdstip."@nl ,
+		"Der Gro\u00DFe Preis von Malaysia (nach dem Sponsor Petronas Malaysian Grand Prix) ist eine Rennveranstaltung, die erstmals 1962 stattfand. Seit 1999 wird der Gro\u00DFe Preis von Malaysia in der Formel 1 in Sepang bei Kuala Lumpur auf der malaiischen Halbinsel in Malaysia ausgetragen. Der Austragungsort ist der Sepang International Circuit. Das Formel-1-Rennen in Malaysia fand anfangs noch im Herbst statt und w\u00E4hrend der Saison 2000 war es das finale Rennen im Kalender. Von 2001 bis 2015 fanden die Rennen immer im Fr\u00FChling statt. Ab der Saison 2016 wird der Gro\u00DFe Preis von Malaysia wieder im Herbst stattfinden. Der Rennkurs liegt etwa 75 Kilometer von Kuala Lumpur entfernt inmitten von tropischen W\u00E4ldern. Hier m\u00FCssen die Formel-1-Teams mit hohen Temperaturen und mit einer sehr hohen Luftfeuchtigkeit von bis zu 90 Prozent rechnen. 2009 wurde das Rennen wegen zu starken Regens nach 32 Runden abgebrochen. Rekordsieger ist Sebastian Vettel, mit vier gewonnen Rennen. Michael Schumacher stand insgesamt f\u00FCnfmal auf der Poleposition. Bereits von 1962 bis 1995 fanden mit Unterbrechungen 18 Gro\u00DFe Preise von Malaysia als Bestandteil verschiedener Rennserien statt."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Malaysia.svg?width=300> ;
+	dbo:wikiPageRevisionID	742295560 ;
+	dbo:wikiPageID	309599 ;
+	dbp:second	"M. Verstappen"^^xsd:string ;
+	dbp:third	"N. Rosberg"^^xsd:string ;
+	dbp:flag	"Flag of Malaysia.svg"^^xsd:string ;
+	dbp:poleDriver	"Lewis Hamilton"^^xsd:string ;
+	dbp:circuitImage	"Sepang.svg"^^xsd:string ;
+	dbp:circuitLengthKm	5.5430000000000001492 ;
+	dbp:circuitLengthMi	3.4439999999999999503 ;
+	dbp:fastestLap	1 ;
+	dbp:firstHeld	1962 ;
+	dbp:raceLengthKm	310.40800000000001546 ;
+	dbp:raceLengthMi	192.8779999999999859 ;
+	dbp:secondTime	"+2.443"^^xsd:string ;
+	dbp:thirdTime	"+25.516"^^xsd:string ;
+	dbp:timesHeld	37 ;
+	dbp:winningTime	1 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Malaysian_Grand_Prix	ns26:hypernym	dbr:Round ;
+	dbp:thirdTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:mostWinsConstructor	"Ferrari"^^xsd:string ;
+	dbp:mostWinsDriver	"John MacDonald"^^xsd:string ,
+		"Sebastian Vettel"^^xsd:string .

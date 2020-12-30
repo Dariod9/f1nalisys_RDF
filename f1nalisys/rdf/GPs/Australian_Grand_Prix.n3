@@ -1,0 +1,264 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Calder_Park_Raceway	dbp:events	dbr:Australian_Grand_Prix .
+dbr:Port_Wakefield_Circuit	dbp:events	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1992_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Australian_Grand_Prix_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Australian_Grand_Prix .
+dbr:Adelaide_Grand_Prix	dbo:wikiPageRedirects	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1954_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1957_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1968_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1969_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2000_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1987_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1990_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1999_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2011_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1958_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2002_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2003_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1994_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1997_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1970_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1986_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1996_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2010_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2015_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+dbr:Melbourne_Grand_Prix_Circuit	dbp:events	dbr:Australian_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Australian_Grand_Prix	rdf:type	yago:Event100029378 ,
+		yago:Race107458453 ,
+		yago:Contest107456188 ,
+		yago:Abstraction100002137 ,
+		yago:AutomobileRace107458892 ,
+		yago:WikicatAutoRacesInAustralia ,
+		yago:Race107472657 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Australian_Grand_Prix	rdf:type	geo:SpatialThing ,
+		yago:SocialEvent107288639 ,
+		yago:PsychologicalFeature100023100 ,
+		dbo:SportsEvent ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Australian_Grand_Prix	rdfs:label	"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438"@ru ,
+		"Gro\u00DFer Preis von Australien"@de ,
+		"\u6FB3\u5927\u5229\u4E9A\u5927\u5956\u8D5B"@zh ,
+		"Gran Premio d'Australia"@it ,
+		"Grand Prix automobile d'Australie"@fr ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649"@ar ,
+		"Grand Prix Australii Formu\u0142y 1"@pl ,
+		"\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"Grand Prix Formule 1 van Australi\u00EB"@nl ,
+		"Australian Grand Prix"@en ,
+		"Grande Pr\u00EAmio da Austr\u00E1lia"@pt ,
+		"Gran Premio de Australia"@es ;
+	rdfs:comment	"Il Gran Premio d'Australia \u00E8 una gara automobilistica. Fa parte del campionato mondiale di Formula 1 dal 1985."@it ,
+		"The Australian Grand Prix is a motor race held annually in Australia currently under contract to host Formula One until 2023. The Grand Prix is the oldest surviving motor racing competition held in Australia having been held 79 times since it was first run at Phillip Island in 1928. Since 1985, the race has been a round of the FIA Formula One World Championship and is currently held at the Melbourne Grand Prix Circuit at Albert Park in Melbourne. Prior to its inclusion in the World Championship, it was held at a multitude of venues in every state of Australia. It was a centrepiece of the Tasman Series in most years between 1964 and 1972 and was a round of the Australian Drivers' Championship on many occasions between 1957 and 1983. It became part of the Formula One World Championship in 19"@en ,
+		"Grand Prix Australii \u2013 wy\u015Bcig Formu\u0142y 1 organizowany na torze Albert Park Circuit w Albert Park w Melbourne, od sezonu 1985 zaliczany jest do eliminacji Mistrzostw \u015Awiata Formu\u0142y 1."@pl ,
+		"\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u6FB3\u5927\u5229\u4E9A\u5927\u5956\u8D5B\u4ECE1985\u5E74\u8D77\u5F00\u59CB\u4E3E\u884C\u4E00\u76F4\u81F3\u4ECA\u3002 \n* \u963F\u5FB7\u83B1\u5FB7\u8D5B\u9053\uFF0C1985\u5E74--1995\u5E74\u3002\u7B2C\u4E00\u5C4A\u6FB3\u5927\u5229\u4E9A\u5927\u5956\u8D5B\u4E8E1985\u5E7411\u67083\u65E5\u5728\u963F\u5FB7\u83B1\u5FB7\u8D5B\u9053\u4E3E\u884C\u3002 \n* \u4E9E\u4F2F\u516C\u5712\u8CFD\u9053\uFF08\u82F1\u6587\u4E2D\u79F0\u4E3A\u58A8\u5C14\u672C\u8D5B\u9053\uFF09\uFF0C1996\u5E74\u81F3\u4ECA\u30021996\u5E743\u670810\u65E5\uFF0C\u6FB3\u5927\u5229\u4E9A\u5927\u5956\u8D5B\u5F00\u59CB\u8F6C\u81F3\u963F\u5C14\u4F2F\u7279\u516C\u56ED\u8D5B\u9053\u8FDB\u884C\uFF0C\u76F4\u81F3\u73B0\u5728\u3002"@zh ,
+		"Der Gro\u00DFe Preis von Australien wurde erstmals 1928 ausgetragen. Seit 1985 geh\u00F6rt der Grand Prix zur Formel-1-Weltmeisterschaft. In der Formel 1 fand er bis 1995 auf dem Adelaide Street Circuit stets als Saisonfinale statt, seit 1996 auf dem Albert Park Circuit in Melbourne, meist als Saisonauftakt."@de ,
+		"Grand Prix d'AustralieFichier:Circuit Albert Park.svg Drapeau Circuit de l'Albert Park Le Grand Prix automobile d'Australie est une comp\u00E9tition automobile cr\u00E9\u00E9e en 1928 comptant pour le championnat du monde de Formule 1 depuis 1985."@fr ,
+		"O Grande Pr\u00E9mio da Austr\u00E1lia come\u00E7ou a ser disputado em 1928 com algumas interrup\u00E7\u00F5es da Segunda Guerra Mundial, ap\u00F3s isso foi disputado regularmente, come\u00E7ou a fazer parte do campeonato de F\u00F3rmula 1 em 1985. Possivelmente este GP ter\u00E1 contrato prolongado at\u00E9 o ano de 2015."@pt ,
+		"El Gran Premio de Australia es una carrera de automovilismo de velocidad que se disputa actualmente en el Circuito de Albert Park de la ciudad de Melbourne, Australia. Se corre desde 1928 con distintos tipos de monoplazas, pero entr\u00F3 a formar parte del calendario de la F\u00F3rmula 1 en 1985, cuando se disput\u00F3 en el circuito callejero de Adelaida."@es ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016) \u062C\u0627\u0626\u0632\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u064A\u0642\u0627\u0645 \u0633\u0646\u0648\u064A\u0627 \u0648\u0642\u0645\u0629 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u0648\u0647\u0648 \u0623\u0642\u062F\u0645 \u0645\u0646\u0627\u0641\u0633\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0628\u0639\u062F \u0623\u0646 \u062C\u0631\u0649 75 \u0645\u0631\u0629 \u0645\u0646\u0630 \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0630\u064A \u062C\u0631\u0649 \u0641\u064A \u062C\u0632\u064A\u0631\u0629 \u0641\u064A\u0644\u064A\u0628 \u0641\u064A 1928. \u0645\u0646\u0630 1985 \u0627\u0639\u062A\u0628\u0631 \u0627\u0644\u0633\u0628\u0627\u0642 \u0636\u0645\u0646 \u0623\u062D\u062F \u062C\u0648\u0644\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0627\u0644\u062A\u064A \u064A\u0646\u0636\u0645\u0647 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A. \u0648\u064A\u0642\u0627\u0645 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0641\u064A \u0645\u0644\u0628\u0648\u0631\u0646 \u0641\u064A \u0627\u0644\u0628\u0631\u062A \u0628\u0627\u0631\u0643 \u0641\u064A \u0645\u0644\u0628\u0648\u0631\u0646. \u0648\u0642\u0628\u0644 \u0625\u062F\u0631\u0627\u062C\u0647 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0646\u0638\u0645 \u0639\u062F\u062F \u0645\u0646 \u0627\u0644\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u0645\u062E\u062A\u0644\u0641\u0629 \u0648\u0639\u0628\u0631 \u0648\u0644\u0627\u064A\u0627\u062A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u0648\u0643\u0627\u0646 \u0645\u062D\u0648\u0631 \u0633\u0644\u0633\u0644\u0629 \u062A\u0627\u0633\u0645\u0627\u0646 \u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1964 \u0648 1972 \u0648\u062C\u0648\u0644\u0629 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0633\u0627\u0626\u0642\u064A\u0646 \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0629 \u0641\u064A \u0645\u0646\u0627\u0633\u0628\u0627\u062A \u0639\u062F\u064A\u062F\u0629 \u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1957 \u0648 1983. \u0648\u0623\u0635\u0628\u062D\u062A \u062C\u0632\u0621\u0627 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0641\u064A \u0639\u0627\u0645 1985 \u0648\u0623\u0642\u064A\u0645 \u0641\u064A \u062D\u0644\u0628\u0629 \u0627\u062F\u064A\u0644\u064A\u062F \u0641\u064A \u0623\u062F\u064A\u0644\u064A\u062F \u062C\u0646\u0648\u0628 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0628"@ar ,
+		"\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2GP, \u82F1: Australian Grand Prix\uFF09\u306F\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3067\u884C\u308F\u308C\u3066\u3044\u308B\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B9\u3067\u30011985\u5E74\u4EE5\u964D\u306FF1\u4E16\u754C\u9078\u624B\u6A29\u306E1\u6226\u3068\u306A\u3063\u3066\u3044\u308B\u3002 1985\u5E74\u304B\u30891995\u5E74\u307E\u3067\u306F\u30A2\u30C7\u30EC\u30FC\u30C9\u306E\u30A2\u30C7\u30EC\u30FC\u30C9\u5E02\u8857\u5730\u30B3\u30FC\u30B9\u306B\u3066\u30011996\u5E74\u304B\u3089\u306F\u30E1\u30EB\u30DC\u30EB\u30F3\u306E\u30A2\u30EB\u30D0\u30FC\u30C8\u30FB\u30D1\u30FC\u30AF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\u306B\u3066\u884C\u308F\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"De Grand Prix van Australi\u00EB (Engels: Grand Prix of Australia) is een Formule 1-werdstrijd die wordt gereden op het Albert Park Circuit in Melbourne. Het is de eerste wedstrijd van het Formule 1-kampioenschap."@nl ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB. \u0421 1996 \u0433\u043E\u0434\u0430 \u0438 \u043F\u043E \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u00AB\u0410\u043B\u044C\u0431\u0435\u0440\u0442 \u041F\u0430\u0440\u043A\u00BB \u0432 \u041C\u0435\u043B\u044C\u0431\u0443\u0440\u043D\u0435, \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F, \u0432 1985-1995 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0432 \u0410\u0434\u0435\u043B\u0430\u0438\u0434\u0435. \u0418\u0441\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 \u043D\u0430\u0447\u0438\u043D\u0430\u0435\u0442\u0441\u044F \u0441 1928 \u0433\u043E\u0434\u0430, \u043E\u0434\u043D\u0430\u043A\u043E \u0442\u043E\u043B\u044C\u043A\u043E \u0441 \u0441\u0435\u0437\u043E\u043D\u0430 1985 \u0433\u043E\u0434\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB."@ru ;
+	dbp:laps	58 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Australian_Grand_Prix	owl:sameAs	<http://it.dbpedia.org/resource/Gran_Premio_d\u0027Australia> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Australian_Grand_Prix	owl:sameAs	dbpedia-eu:Australiako_Sari_Nagusia ,
+		<http://rdf.freebase.com/ns/m.01qnft> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Australian_Grand_Prix	owl:sameAs	wikidata:Q7870 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Australian_Grand_Prix	owl:sameAs	dbpedia-es:Gran_Premio_de_Australia ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_da_Austr\u00E1lia> ,
+		dbr:Australian_Grand_Prix .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Australian_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_Australia ,
+		<http://ko.dbpedia.org/resource/\uC624\uC2A4\uD2B8\uB808\uC77C\uB9AC\uC544_\uADF8\uB791\uD504\uB9AC> ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_Australii_Formu\u0142y_1> ,
+		<http://fr.dbpedia.org/resource/Grand_Prix_automobile_d\u0027Australie> ,
+		<http://cs.dbpedia.org/resource/Grand_Prix_Austr\u00E1lie> ,
+		<http://ja.dbpedia.org/resource/\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA> ,
+		<http://nl.dbpedia.org/resource/Grand_Prix_Formule_1_van_Australi\u00EB> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Australian_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q7870 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Australian_Grand_Prix	owl:sameAs	yago-res:Australian_Grand_Prix ,
+		<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_von_Australien> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Australian_Grand_Prix	dct:subject	dbc:Auto_races_in_Australia ,
+		dbc:Formula_One_Grands_Prix ,
+		dbc:National_Grands_Prix ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grands_Prix> ,
+		<http://dbpedia.org/resource/Category:1928_establishments_in_Australia> ,
+		dbc:Recurring_sporting_events_established_in_1928 ,
+		dbc:Australian_Grand_Prix ,
+		dbc:Sport_in_Melbourne ,
+		dbc:Tasman_Series .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Australian_Grand_Prix	foaf:homepage	<http://www.grandprix.com.au/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Australian_Grand_Prix	geo:lat	"-37.8470001220703125"^^xsd:float ;
+	geo:long	"144.9739990234375"^^xsd:float ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Australia.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Australian_Grand_Prix	foaf:isPrimaryTopicOf	wikipedia-en:Australian_Grand_Prix .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Australian_Grand_Prix	geo:geometry	"POINT(144.97399902344 -37.84700012207)"^^virtrdf:Geometry ;
+	dbp:fastestLapTeam	dbr:TAG_Heuer ,
+		dbr:Red_Bull_Racing ;
+	dbp:winningTeam	dbr:Mercedes-Benz_in_Formula_One .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Australian_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Australian_Grand_Prix?oldid=743569250> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Australian_Grand_Prix	georss:point	"-37.847 144.974" .
+@prefix ns22:	<http://www.f1db.com/f1/page/> .
+dbr:Australian_Grand_Prix	dbo:wikiPageExternalLink	ns22:Fosters_Australian_Grand_Prix_2005 ,
+		<https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4> ,
+		<http://www.4mula1.ro/formula1race-melbourne-2006.html> ,
+		<http://www.sanver.com/blog/f1-sunday-in-melbourne/> ,
+		<http://www.grandprix.com.au/> ;
+	dbp:fastestLapDriver	"Daniel Ricciardo"^^xsd:string ;
+	dbp:circuit	dbr:Melbourne_Grand_Prix_Circuit ;
+	dbp:winner	"N. Rosberg"^^xsd:string ;
+	dbp:currentYear	2016 ;
+	dbp:poleTime	1 ;
+	dbp:name	"Australian Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:secondTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbo:abstract	"Der Gro\u00DFe Preis von Australien wurde erstmals 1928 ausgetragen. Seit 1985 geh\u00F6rt der Grand Prix zur Formel-1-Weltmeisterschaft. In der Formel 1 fand er bis 1995 auf dem Adelaide Street Circuit stets als Saisonfinale statt, seit 1996 auf dem Albert Park Circuit in Melbourne, meist als Saisonauftakt."@de ,
+		"De Grand Prix van Australi\u00EB (Engels: Grand Prix of Australia) is een Formule 1-werdstrijd die wordt gereden op het Albert Park Circuit in Melbourne. Het is de eerste wedstrijd van het Formule 1-kampioenschap. De Australische Grand Prix werd voor het eerst gehouden in 1928. Het evenement vond op verschillende plaatsen in Australi\u00EB plaats, totdat het in 1985 deel ging uitmaken van het Formule 1-kampioenschap. Vanaf toen tot 1995 werd de Australische Grand Prix op het circuit van Adelaide verreden. In 1996 verhuisde het evenement naar Melbourne.Recordhouder is Michael Schumacher met 4 overwinningen."@nl ,
+		"Il Gran Premio d'Australia \u00E8 una gara automobilistica. Fa parte del campionato mondiale di Formula 1 dal 1985."@it ,
+		"\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2GP, \u82F1: Australian Grand Prix\uFF09\u306F\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3067\u884C\u308F\u308C\u3066\u3044\u308B\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B9\u3067\u30011985\u5E74\u4EE5\u964D\u306FF1\u4E16\u754C\u9078\u624B\u6A29\u306E1\u6226\u3068\u306A\u3063\u3066\u3044\u308B\u3002 1985\u5E74\u304B\u30891995\u5E74\u307E\u3067\u306F\u30A2\u30C7\u30EC\u30FC\u30C9\u306E\u30A2\u30C7\u30EC\u30FC\u30C9\u5E02\u8857\u5730\u30B3\u30FC\u30B9\u306B\u3066\u30011996\u5E74\u304B\u3089\u306F\u30E1\u30EB\u30DC\u30EB\u30F3\u306E\u30A2\u30EB\u30D0\u30FC\u30C8\u30FB\u30D1\u30FC\u30AF\u30FB\u30B5\u30FC\u30AD\u30C3\u30C8\u306B\u3066\u884C\u308F\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"Grand Prix Australii \u2013 wy\u015Bcig Formu\u0142y 1 organizowany na torze Albert Park Circuit w Albert Park w Melbourne, od sezonu 1985 zaliczany jest do eliminacji Mistrzostw \u015Awiata Formu\u0142y 1."@pl ,
+		"\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u6FB3\u5927\u5229\u4E9A\u5927\u5956\u8D5B\u4ECE1985\u5E74\u8D77\u5F00\u59CB\u4E3E\u884C\u4E00\u76F4\u81F3\u4ECA\u3002 \n* \u963F\u5FB7\u83B1\u5FB7\u8D5B\u9053\uFF0C1985\u5E74--1995\u5E74\u3002\u7B2C\u4E00\u5C4A\u6FB3\u5927\u5229\u4E9A\u5927\u5956\u8D5B\u4E8E1985\u5E7411\u67083\u65E5\u5728\u963F\u5FB7\u83B1\u5FB7\u8D5B\u9053\u4E3E\u884C\u3002 \n* \u4E9E\u4F2F\u516C\u5712\u8CFD\u9053\uFF08\u82F1\u6587\u4E2D\u79F0\u4E3A\u58A8\u5C14\u672C\u8D5B\u9053\uFF09\uFF0C1996\u5E74\u81F3\u4ECA\u30021996\u5E743\u670810\u65E5\uFF0C\u6FB3\u5927\u5229\u4E9A\u5927\u5956\u8D5B\u5F00\u59CB\u8F6C\u81F3\u963F\u5C14\u4F2F\u7279\u516C\u56ED\u8D5B\u9053\u8FDB\u884C\uFF0C\u76F4\u81F3\u73B0\u5728\u3002"@zh ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB. \u0421 1996 \u0433\u043E\u0434\u0430 \u0438 \u043F\u043E \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u00AB\u0410\u043B\u044C\u0431\u0435\u0440\u0442 \u041F\u0430\u0440\u043A\u00BB \u0432 \u041C\u0435\u043B\u044C\u0431\u0443\u0440\u043D\u0435, \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F, \u0432 1985-1995 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0432 \u0410\u0434\u0435\u043B\u0430\u0438\u0434\u0435. \u0418\u0441\u0442\u043E\u0440\u0438\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 \u043D\u0430\u0447\u0438\u043D\u0430\u0435\u0442\u0441\u044F \u0441 1928 \u0433\u043E\u0434\u0430, \u043E\u0434\u043D\u0430\u043A\u043E \u0442\u043E\u043B\u044C\u043A\u043E \u0441 \u0441\u0435\u0437\u043E\u043D\u0430 1985 \u0433\u043E\u0434\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB."@ru ,
+		"O Grande Pr\u00E9mio da Austr\u00E1lia come\u00E7ou a ser disputado em 1928 com algumas interrup\u00E7\u00F5es da Segunda Guerra Mundial, ap\u00F3s isso foi disputado regularmente, come\u00E7ou a fazer parte do campeonato de F\u00F3rmula 1 em 1985. Possivelmente este GP ter\u00E1 contrato prolongado at\u00E9 o ano de 2015."@pt ,
+		"The Australian Grand Prix is a motor race held annually in Australia currently under contract to host Formula One until 2023. The Grand Prix is the oldest surviving motor racing competition held in Australia having been held 79 times since it was first run at Phillip Island in 1928. Since 1985, the race has been a round of the FIA Formula One World Championship and is currently held at the Melbourne Grand Prix Circuit at Albert Park in Melbourne. Prior to its inclusion in the World Championship, it was held at a multitude of venues in every state of Australia. It was a centrepiece of the Tasman Series in most years between 1964 and 1972 and was a round of the Australian Drivers' Championship on many occasions between 1957 and 1983. It became part of the Formula One World Championship in 1985 and was held at the Adelaide Street Circuit in Adelaide, South Australia, from that year to 1995, before moving to Melbourne in 1996. The winner of the race is presented with a circular plate, recently named the Jack Brabham trophy named for the three-time winner in a design based on the steering wheel of one of Brabham's racing cars and a perpetual trophy, the Lex Davison trophy, named for four-time winner and dates back to the 1960s. The Australian Grand Prix is the first round of the Championship, having been the first race of each year, excluding 2006 and 2010, since the event moved to Melbourne. During its years in Adelaide, the Australian Grand Prix was the final round of the Championship, replacing the Portuguese Grand Prix in that respect. As the final round of the season, the Grand Prix hosted a handful of memorable races, most notably the 1986 and 1994 races which saw the 1986 and 1994 World Drivers' Championships decided. Australian driver Lex Davison and German driver Michael Schumacher are the most successful drivers in the 86-year history of the event taking four wins each; while McLaren has been the most successful constructor with twelve victories, its success stretching back into the pre-Formula One history of the race\u2014its first win being in 1970. Frenchman Alain Prost is the only driver to win the Australian Grand Prix in both non-championship and World Championship formats, having won the race in 1982, 1986, and again in 1988. The current naming rights sponsor of the event is Swiss watchmaker Rolex. The most recent race, the 2016 Australian Grand Prix, was won by Nico Rosberg driving for the Mercedes team. The Australian Grand Prix is contracted to remain at its current Melbourne location until at least 2023."@en ,
+		"El Gran Premio de Australia es una carrera de automovilismo de velocidad que se disputa actualmente en el Circuito de Albert Park de la ciudad de Melbourne, Australia. Se corre desde 1928 con distintos tipos de monoplazas, pero entr\u00F3 a formar parte del calendario de la F\u00F3rmula 1 en 1985, cuando se disput\u00F3 en el circuito callejero de Adelaida. Considerando \u00FAnicamente las ediciones v\u00E1lidas para el Campeonato Mundial de F\u00F3rmula, el piloto con m\u00E1s victorias en el Gran Premio de Australia es Michael Schumacher con cuatro, seguido de Jenson Button con tres. Contabilizando todas las carreras, Lex Davison empata con Schumacher al vencer en cuatro oportunidades, y siete pilotos cuentan con tres triunfos, entre ellos el australiano Jack Brabham."@es ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016) \u062C\u0627\u0626\u0632\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u064A\u0642\u0627\u0645 \u0633\u0646\u0648\u064A\u0627 \u0648\u0642\u0645\u0629 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u0648\u0647\u0648 \u0623\u0642\u062F\u0645 \u0645\u0646\u0627\u0641\u0633\u0629 \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0628\u0639\u062F \u0623\u0646 \u062C\u0631\u0649 75 \u0645\u0631\u0629 \u0645\u0646\u0630 \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0630\u064A \u062C\u0631\u0649 \u0641\u064A \u062C\u0632\u064A\u0631\u0629 \u0641\u064A\u0644\u064A\u0628 \u0641\u064A 1928. \u0645\u0646\u0630 1985 \u0627\u0639\u062A\u0628\u0631 \u0627\u0644\u0633\u0628\u0627\u0642 \u0636\u0645\u0646 \u0623\u062D\u062F \u062C\u0648\u0644\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0627\u0644\u062A\u064A \u064A\u0646\u0636\u0645\u0647 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A. \u0648\u064A\u0642\u0627\u0645 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u062D\u0644\u0628\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0641\u064A \u0645\u0644\u0628\u0648\u0631\u0646 \u0641\u064A \u0627\u0644\u0628\u0631\u062A \u0628\u0627\u0631\u0643 \u0641\u064A \u0645\u0644\u0628\u0648\u0631\u0646. \u0648\u0642\u0628\u0644 \u0625\u062F\u0631\u0627\u062C\u0647 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0646\u0638\u0645 \u0639\u062F\u062F \u0645\u0646 \u0627\u0644\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u0645\u062E\u062A\u0644\u0641\u0629 \u0648\u0639\u0628\u0631 \u0648\u0644\u0627\u064A\u0627\u062A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u0648\u0643\u0627\u0646 \u0645\u062D\u0648\u0631 \u0633\u0644\u0633\u0644\u0629 \u062A\u0627\u0633\u0645\u0627\u0646 \u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1964 \u0648 1972 \u0648\u062C\u0648\u0644\u0629 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0633\u0627\u0626\u0642\u064A\u0646 \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0629 \u0641\u064A \u0645\u0646\u0627\u0633\u0628\u0627\u062A \u0639\u062F\u064A\u062F\u0629 \u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1957 \u0648 1983. \u0648\u0623\u0635\u0628\u062D\u062A \u062C\u0632\u0621\u0627 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0641\u064A \u0639\u0627\u0645 1985 \u0648\u0623\u0642\u064A\u0645 \u0641\u064A \u062D\u0644\u0628\u0629 \u0627\u062F\u064A\u0644\u064A\u062F \u0641\u064A \u0623\u062F\u064A\u0644\u064A\u062F \u062C\u0646\u0648\u0628 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0628\u062F\u0621\u0627 \u0645\u0646 \u0630\u0644\u0643 \u0627\u0644\u0639\u0627\u0645 \u0625\u0644\u0649 1995\u060C \u0642\u0628\u0644 \u0623\u0646 \u064A\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0645\u0644\u0628\u0648\u0631\u0646 \u0641\u064A 1996.\u064A\u0639\u062A\u0628\u0631 \u0627\u0644\u0633\u0627\u0626\u0642 \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A \u0644\u064A\u0643\u0633 \u062F\u0627\u0641\u064A\u0633\u0648\u0646 \u0648\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0627\u064A\u0643\u0644 \u0634\u0648\u0645\u0627\u062E\u0631 \u0623\u0646\u062C\u062D \u0627\u0644\u0633\u0627\u0626\u0642\u064A\u0646 \u0641\u064A \u062A\u0627\u0631\u064A\u062E 83 \u0633\u0646\u0629 \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u062D\u062F\u062B \u0628\u0627\u0631\u0628\u0639\u0629 \u0627\u0646\u062A\u0635\u0627\u0631\u0627\u062A \u0644\u0643\u0644 \u0645\u0646\u0647\u0645\u0627\u060C \u0641\u064A\u0645\u0627 \u064A\u0639\u062A\u0628\u0631 \u0641\u0631\u064A\u0642 \u0645\u0627\u0643\u0644\u0627\u0631\u064A\u0646 \u0623\u0646\u062C\u062D \u0627\u0644\u0635\u0627\u0646\u0639\u064A\u0646 \u0628\u0639\u062F\u062F 11 \u0627\u0646\u062A\u0635\u0627\u0631\u0627."@ar ,
+		"Grand Prix d'AustralieFichier:Circuit Albert Park.svg Drapeau Circuit de l'Albert Park Le Grand Prix automobile d'Australie est une comp\u00E9tition automobile cr\u00E9\u00E9e en 1928 comptant pour le championnat du monde de Formule 1 depuis 1985. De 1985 jusqu'en 1995, la course se d\u00E9roule sur le circuit urbain d'Ad\u00E9la\u00EFde. Depuis 1996, le Grand Prix a lieu dans la banlieue de Melbourne, sur le circuit de l'Albert Park. Il s'agit d'un circuit semi-urbain, qui emprunte pour partie des voies de circulation quotidiennes, mais dont les am\u00E9nagements le rapprochent plus des trac\u00E9s routiers traditionnels que d'un v\u00E9ritable circuit urbain du style de celui de Monaco."@fr ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Australia.svg?width=300> ;
+	dbo:wikiPageRevisionID	743569250 ;
+	dbo:wikiPageID	291626 ;
+	dbp:second	"L. Hamilton"^^xsd:string ;
+	dbp:third	"S. Vettel"^^xsd:string ;
+	dbp:flag	"Flag of Australia.svg"^^xsd:string ;
+	dbp:poleDriver	"Lewis Hamilton"^^xsd:string ;
+	dbp:circuitImage	"Albert_Lake_Park_Street_Circuit_in_Melbourne,_Australia.svg"^^xsd:string ;
+	dbp:circuitLengthKm	5.3029999999999999361 ;
+	dbp:circuitLengthMi	3.2949999999999999289 ;
+	dbp:fastestLap	1 ;
+	dbp:firstHeld	1928 ;
+	dbp:raceLengthKm	307.57400000000001228 ;
+	dbp:raceLengthMi	191.07099999999999795 ;
+	dbp:secondTime	"+8.060"^^xsd:string ;
+	dbp:thirdTime	"+9.643"^^xsd:string ;
+	dbp:timesHeld	81 ;
+	dbp:winningTime	1 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Australian_Grand_Prix	ns23:hypernym	dbr:Race ;
+	dbp:thirdTeam	dbr:Scuderia_Ferrari ;
+	dbp:mostWinsConstructor	"McLaren"^^xsd:string ;
+	dbp:mostWinsDriver	"Lex Davison"^^xsd:string ,
+		"Michael Schumacher"^^xsd:string .
+dbr:Lex_Davison	dbp:titles	dbr:Australian_Grand_Prix .
+dbr:Wayne_Gardner	dbo:nationality	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1928_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1939_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1947_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1949_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1952_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1956_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1959_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1960_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1962_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1963_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1964_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1965_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1967_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1971_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1976_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1978_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1979_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1980_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1981_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1984_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1966_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2009_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2014_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2008_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1985_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1991_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1998_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2012_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+dbr:Caversham_Airfield	dbp:events	dbr:Australian_Grand_Prix .
+dbr:Mount_Panorama_Circuit	dbp:events	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/Peter_Whitehead_(racing_driver)>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1982_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+dbr:Mallala_Motor_Sport_Park	dbp:events	dbr:Australian_Grand_Prix .
+dbr:Phillip_Island_Grand_Prix_Circuit	dbp:events	dbr:Australian_Grand_Prix .
+dbr:Adelaide_Street_Circuit	dbp:events	dbr:Australian_Grand_Prix .
+dbr:Sandown_Raceway	dbp:events	dbr:Australian_Grand_Prix .
+dbr:Lowood_Airfield_Circuit	dbp:recordClass	dbr:Australian_Grand_Prix ;
+	dbp:events	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1974_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1977_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1975_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1972_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1973_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+dbr:Surfers_Paradise_International_Raceway	dbp:events	dbr:Australian_Grand_Prix .
+dbr:Warwick_Farm_Raceway	dbp:events	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1937_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1938_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1953_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1955_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1983_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1988_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1989_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1993_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+wikipedia-en:Australian_Grand_Prix	foaf:primaryTopic	dbr:Australian_Grand_Prix .
+dbr:Australian_Formula_One_Grand_Prix	dbo:wikiPageRedirects	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2001_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2005_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2006_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2013_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2007_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2004_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+dbr:AGP	dbo:wikiPageDisambiguates	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1950_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/2016_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1951_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+dbr:Australian_Grands_Prix	dbo:wikiPageRedirects	dbr:Australian_Grand_Prix .
+dbr:Graham_McRae	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/Arthur_Waite_(racing_driver)>	dbp:lastSeries	dbr:Australian_Grand_Prix ;
+	dbp:titles	dbr:Australian_Grand_Prix .
+dbr:Warwick_Brown	dbp:title	dbr:Australian_Grand_Prix .
+dbr:Frank_Matich	dbp:titles	dbr:Australian_Grand_Prix .
+dbr:Roberto_Moreno	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/John_Goss_(racing_driver)>	dbp:titles	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/Stan_Jones_(racing_driver)>	dbo:nationality	dbr:Australian_Grand_Prix ;
+	dbp:titles	dbr:Australian_Grand_Prix .
+dbr:Alec_Mildren	dbp:titles	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1948_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+dbr:Oran_Park_Raceway	dbp:events	dbr:Australian_Grand_Prix .
+dbr:Lakeside_International_Raceway	dbp:events	dbr:Australian_Grand_Prix .
+dbr:Longford_Circuit	dbp:events	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1995_Australian_Grand_Prix>	dbp:nameOfRace	dbr:Australian_Grand_Prix .
+dbr:Australian_Formula_1_Grand_Prix	dbo:wikiPageRedirects	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1961_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1930_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1931_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1932_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1933_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1934_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1929_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+<http://dbpedia.org/resource/1935_Australian_Grand_Prix>	dbp:title	dbr:Australian_Grand_Prix .
+dbr:Australian_GP	dbo:wikiPageRedirects	dbr:Australian_Grand_Prix .

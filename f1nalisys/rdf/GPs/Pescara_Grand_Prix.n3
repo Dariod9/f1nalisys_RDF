@@ -1,0 +1,23 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Pescara_Grand_Prix	foaf:primaryTopic	dbr:Pescara_Grand_Prix .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Pescara_Grand_Prix	rdfs:label	"Pescara Grand Prix"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Pescara_Grand_Prix	owl:sameAs	dbr:Pescara_Grand_Prix .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Pescara_Grand_Prix	dct:subject	dbc:Formula_One_non-Championship_races ,
+		dbc:Formula_One_Grands_Prix ,
+		dbc:Auto_races_in_Italy ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Pescara_Grand_Prix .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Pescara_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pescara_Grand_Prix?oldid=456301949> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Pescara_Grand_Prix	dbo:wikiPageRedirects	dbr:Coppa_Acerbo ;
+	dbo:wikiPageRevisionID	456301949 ;
+	dbo:wikiPageID	1151156 .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1957_Pescara_Grand_Prix>	dbp:nameOfRace	dbr:Pescara_Grand_Prix .
+<http://dbpedia.org/resource/Pescara_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Pescara_Grand_Prix .

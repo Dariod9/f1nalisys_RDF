@@ -1,0 +1,78 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Formula_1_coverage_on_ITV	dbo:wikiPageRedirects	dbr:Formula_One_coverage_on_ITV .
+dbr:F1-ITV	dbo:wikiPageRedirects	dbr:Formula_One_coverage_on_ITV .
+dbr:ITV_F1	dbo:wikiPageRedirects	dbr:Formula_One_coverage_on_ITV .
+<http://dbpedia.org/resource/ITV-F1.com>	dbo:wikiPageRedirects	dbr:Formula_One_coverage_on_ITV .
+dbr:ITV_Formula_One_coverage	dbo:wikiPageRedirects	dbr:Formula_One_coverage_on_ITV .
+dbr:ITV-F1	dbo:wikiPageRedirects	dbr:Formula_One_coverage_on_ITV .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Formula_One_coverage_on_ITV	foaf:primaryTopic	dbr:Formula_One_coverage_on_ITV .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Formula_One_coverage_on_ITV	rdf:type	wikidata:Q386724 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Formula_One_coverage_on_ITV	rdf:type	owl:Thing ,
+		dbo:Work ,
+		wikidata:Q15416 .
+@prefix schema:	<http://schema.org/> .
+dbr:Formula_One_coverage_on_ITV	rdf:type	schema:CreativeWork ,
+		dbo:TelevisionShow .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Formula_One_coverage_on_ITV	rdfs:label	"Formula One coverage on ITV"@en ;
+	rdfs:comment	"ITV broadcast the coverage of Formula One races in the United Kingdom between 1997 and 2008. ITV gained the rights for Formula One coverage for 1997 in late 1995 from the BBC and focused on more in-depth coverage, conducting more interviews and gaining access to better camera angles. The coverage was initially presented by Jim Rosenthal with veteran commentator Murray Walker and former racing driver Martin Brundle being the initial commentators before Walker's retirement after the 2001 United States Grand Prix and was succeeded by pit-lane reporter James Allen. Rosenthal left in 2005 and was succeeded by Steve Rider who presented the coverage until ITV ceased to broadcast Formula One after 2008. Formula One coverage returned to the BBC in 2009 for ITV to focus on more extensive coverage of"@en ;
+	owl:sameAs	wikidata:Q5975032 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Formula_One_coverage_on_ITV	owl:sameAs	dbpedia-wikidata:Q5975032 ,
+		dbr:Formula_One_coverage_on_ITV .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Formula_One_coverage_on_ITV	dct:subject	<http://dbpedia.org/resource/Category:1997_British_television_programme_debuts> ,
+		<http://dbpedia.org/resource/Category:2008_British_television_programme_endings> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Formula_One_coverage_on_ITV	dct:subject	dbc:ITV_television_programmes ,
+		<http://dbpedia.org/resource/Category:2000s_British_television_series> ,
+		<http://dbpedia.org/resource/Category:1990s_British_television_series> ,
+		dbc:Television_series_by_All3Media ,
+		dbc:ITV_Sport ,
+		dbc:Formula_One_media ;
+	foaf:name	"ITV-F1"@en ;
+	foaf:homepage	<http://www.itv.com/formula1/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/ITV_Sport_F1_Vector_Logo.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Formula_One_coverage_on_ITV ;
+	dbo:starring	dbr:Murray_Walker ,
+		dbr:Louise_Goodman ,
+		dbr:Martin_Brundle ,
+		dbr:James_Allen ,
+		dbr:Ted_Kravitz ;
+	dbo:company	dbr:North_One_Television ;
+	dbo:openingTheme	<http://dbpedia.org/resource/You_Ain\u0027t_Seen_Nothing_Yet_(Bachman\u2013Turner_Overdrive_song)> ,
+		<http://dbpedia.org/resource/Lift_Me_Up_(Moby_song)> ,
+		dbr:Apollo_440 ,
+		dbr:Jamiroquai .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Formula_One_coverage_on_ITV	dbo:completionDate	"2008-11-02"^^xsd:date ;
+	dbo:format	dbr:Stereophonic ,
+		<http://dbpedia.org/resource/16:9> ,
+		<http://dbpedia.org/resource/4:3> ;
+	dbo:related	<http://dbpedia.org/resource/Grand_Prix_(TV_programme)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Formula_One_coverage_on_ITV	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Formula_One_coverage_on_ITV?oldid=744540954> ;
+	dbo:presenter	dbr:Steve_Rider ,
+		dbr:Jim_Rosenthal ;
+	dbo:wikiPageExternalLink	<http://www.itv.com/formula1/> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Formula_One_coverage_on_ITV	dbp:websiteTitle	"www.itv.com/formula1"^^xsd:string ;
+	dbo:genre	dbr:Broadcasting_of_sports_events ;
+	dbp:caption	"ITV F1 Logo 1999\u20132005"^^xsd:string ;
+	dbo:abstract	"ITV broadcast the coverage of Formula One races in the United Kingdom between 1997 and 2008. ITV gained the rights for Formula One coverage for 1997 in late 1995 from the BBC and focused on more in-depth coverage, conducting more interviews and gaining access to better camera angles. The coverage was initially presented by Jim Rosenthal with veteran commentator Murray Walker and former racing driver Martin Brundle being the initial commentators before Walker's retirement after the 2001 United States Grand Prix and was succeeded by pit-lane reporter James Allen. Rosenthal left in 2005 and was succeeded by Steve Rider who presented the coverage until ITV ceased to broadcast Formula One after 2008. Formula One coverage returned to the BBC in 2009 for ITV to focus on more extensive coverage of UEFA Champions League football matches. The programme was successful in collecting three consecutive BAFTA awards for sporting coverage but also garnered criticism for showing advertisements during their coverage along with their handling of competitions held by the broadcaster. In December 2015, ITV was rumoured to take over the broadcasting rights from BBC from 2016 onwards, after BBC had terminated its broadcasting contract three years early. However, on 21 December 2015 it was announced that Channel 4 would broadcast F1 alongside Sky."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/ITV_Sport_F1_Vector_Logo.svg?width=300> ;
+	dbo:wikiPageRevisionID	744540954 ;
+	dbo:wikiPageID	36653981 ;
+	dbp:country	"United Kingdom"^^xsd:string ;
+	dbp:language	"English"^^xsd:string ;
+	dbp:location	"Worldwide"^^xsd:string ;
+	dbp:imageSize	100 ;
+	dbo:channel	<http://dbpedia.org/resource/ITV_(TV_network)> ;
+	dbo:releaseDate	"1997-03-08"^^xsd:date ;
+	dbp:italicTitle	"no"^^xsd:string .

@@ -1,0 +1,148 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Buddh_International_Circuit	dbp:events	dbr:Indian_Grand_Prix .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Jaypee_Sports_City	dbo:tenant	dbr:Indian_Grand_Prix .
+<http://dbpedia.org/resource/2013_Indian_Grand_Prix>	dbp:nameOfRace	dbr:Indian_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Indian_Grand_Prix	foaf:primaryTopic	dbr:Indian_Grand_Prix .
+dbr:Indian_GP	dbo:wikiPageRedirects	dbr:Indian_Grand_Prix .
+<http://dbpedia.org/resource/2012_Indian_Grand_Prix>	dbp:nameOfRace	dbr:Indian_Grand_Prix .
+<http://dbpedia.org/resource/2011_Indian_Grand_Prix>	dbp:nameOfRace	dbr:Indian_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Indian_Grand_Prix	rdf:type	yago:Race107472657 ,
+		yago:Contest107456188 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Event100029378 ,
+		yago:Abstraction100002137 ,
+		dbo:SportsEvent ,
+		yago:SocialEvent107288639 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Indian_Grand_Prix	rdf:type	geo:SpatialThing ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Indian_Grand_Prix	rdfs:label	"Indian Grand Prix"@en ,
+		"\u30A4\u30F3\u30C9\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"Grand Prix Formule 1 van India"@nl ,
+		"Grand Prix automobile d'Inde"@fr ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u043D\u0434\u0438\u0438"@ru ,
+		"Gran Premio d'India"@it ,
+		"\u5370\u5EA6\u5927\u5956\u8D5B"@zh ,
+		"Gran Premio de la India"@es ,
+		"Grand Prix Indii Formu\u0142y 1"@pl ,
+		"Gro\u00DFer Preis von Indien"@de ,
+		"Grande Pr\u00EAmio da \u00CDndia"@pt ;
+	rdfs:comment	"Grand Prix Indii \u2013 wy\u015Bcig Formu\u0142y 1, kt\u00F3ry po raz pierwszy zosta\u0142 zorganizowany w sezonie 2011 mistrzostw \u015Bwiata. Pocz\u0105tkowo pierwsze Grand Prix mia\u0142o si\u0119 odby\u0107 w sezonie 2010, jednak inauguracyjny wy\u015Bcig przeniesiono na sezon 2011. Wy\u015Bcigi odbywaj\u0105 si\u0119 na zaprojektowanym przez Hermanna Tilke torze Buddh International Circuit, kt\u00F3ry znajduje si\u0119 w oddalonym o 50 km od Delhi mie\u015Bcie Greater Noida w Jaypee Greens Sports City. Pierwsze dwa wy\u015Bcigi wygra\u0142 Sebastian Vettel."@pl ,
+		"Der Gro\u00DFe Preis von Indien wurde in der Formel-1-Saison 2011 bis zur Formel-1-Saison 2013 j\u00E4hrlich als Rennen der Formel-1-Weltmeisterschaft in Indien ausgetragen. Alle drei Rennen konnte Sebastian Vettel gewinnen; er sicherte sich auch jeweils die Pole Position. Den Rundenrekord im Rennen h\u00E4lt ebenfalls Vettel mit einer Zeit von 1:27,249 min, die er 2011 erzielte. Hauptsponsor der Veranstaltung war das indische Telekommunikationsunternehmen Bharti Airtel."@de ,
+		"\u30A4\u30F3\u30C9\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08Indian Grand Prix\u307E\u305F\u306FGrand Prix of India\uFF09\u306F\u30A4\u30F3\u30C9\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u5354\u4F1A\uFF08IOA\uFF09\u304C\u8A08\u753B\u3057\u30012011\u5E74\u306B\u521D\u958B\u50AC\u3055\u308C\u305FF1\u4E16\u754C\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306E1\u6226\u3002"@ja ,
+		"El Gran Premio de la India es una carrera v\u00E1lida vigente en el campeonato de F\u00F3rmula 1. Fue disputada por primera vez en la temporada 2011 en el Circuito Internacional de Buddh, situado en Greater Noida, Uttar Pradesh, (India), que ha sido dise\u00F1ado por el arquitecto Hermann Tilke."@es ,
+		"\u5370\u5EA6\u5927\u5956\u8D5B\uFF08\u82F1\u6587\uFF1AIndian Grand Prix\uFF09\u662F\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u7684\u4E00\u573A\u5206\u7AD9\u8D5B\u4E8B\uFF0C\u5728\u5370\u5EA6\u65B0\u5FB7\u91CC\u9644\u8FD1\u7684\u4F5B\u9640\u56FD\u9645\u8D5B\u9053\u4E3E\u529E\u3002\u9996\u5C4A\u5927\u5956\u8D5B\u4E8E2011\u8D5B\u5B63\u768410\u670830\u65E5\u4E3E\u884C\uFF0C\u7531\u56FD\u9645\u6C7D\u8054\u7684\u8D5B\u4E8B\u7ECF\u7406\u67E5\u7406\u00B7\u6000\u6C40 \u63ED\u5E55\u3002\u76EE\u524D\u8BE5\u9879\u8D5B\u4E8B\u5DF2\u7ECF\u4E3E\u529E\u4E86\u4E24\u5C4A\u3002"@zh ,
+		"Grand Prix d'IndeFichier:Circuit India.png Drapeau Circuit international Buddh Le Grand Prix automobile d'Inde est une course comptant pour le championnat du monde de Formule 1."@fr ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u043D\u0434\u0438\u0438(\u0430\u043D\u0433\u043B. Indian Grand Prix) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB. \u041F\u0435\u0440\u0432\u0430\u044F \u0433\u043E\u043D\u043A\u0430 \u043F\u0440\u043E\u0448\u043B\u0430 30 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2011 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043D\u043E\u0432\u043E\u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043E\u0433\u043E \u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0430 \u0411\u0443\u0434\u0434\u044B, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u043E\u0433\u043E \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0411\u043E\u043B\u044C\u0448\u0430\u044F \u041D\u043E\u0439\u0434\u0430, \u0432 40 \u043A\u043C \u043E\u0442 \u0414\u0435\u043B\u0438. \u041F\u043E\u0443\u043B-\u043F\u043E\u0437\u0438\u0446\u0438\u044E \u0432 \u044D\u0442\u043E\u0439 \u0434\u0435\u0431\u044E\u0442\u043D\u043E\u0439 \u0433\u043E\u043D\u043A\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u0442\u044C \u043F\u0438\u043B\u043E\u0442\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Red Bull \u0421\u0435\u0431\u0430\u0441\u0442\u044C\u044F\u043D\u0443 \u0424\u0435\u0442\u0442\u0435\u043B\u044E. \u0421\u043E\u0445\u0440\u0430\u043D\u0438\u0432 \u043B\u0438\u0434\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043F\u0440\u043E\u0442\u044F\u0436\u0435\u043D\u0438\u0438 \u0432\u0441\u0435\u0439 \u0433\u043E\u043D\u043A\u0438, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0432 \u043B\u0443\u0447\u0448\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043A\u0440\u0443\u0433\u0430, \u0424\u0435\u0442\u0442\u0435\u043B\u044C \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u043F\u043E\u0431\u0435\u0434\u0443"@ru ,
+		"Il Gran Premio d'India (Indian Grand Prix) \u00E8 una gara automobilistica di Formula 1 che si \u00E8 svolta dal 2011 al 2013 al Buddh International Circuit in India. La prima edizione in calendario \u00E8 stata disputata il 30 ottobre 2011, valida come 17\u00AA gara del. D'allora la gara \u00E8 sempre stata compresa nel calendario iridato, anche se non \u00E8 stato inserito nel calendario per la stagione 2014. Pur con le difficiolt\u00E0 che vi si sono presentate nelle sue varie edizioni, \u00E8 stato premiato sia nel 2011 che nel 2012, col Race Promoters' Trophy, quale miglior gran premio organizzato nella stagione."@it ,
+		"O Grande Pr\u00E9mio da \u00CDndia \u00E9 uma corrida do Campeonato Mundial de F\u00F3rmula 1, realizada no Buddh International Circuit em Greater Noida, Uttar Pradesh."@pt ,
+		"The Indian Grand Prix (\u0907\u0902\u0921\u093F\u092F\u0928 \u0917\u094D\u0930\u093E\u0902\u0921 \u092A\u094D\u0930\u093F\u0915\u094D\u0938) was a Formula One race in the calendar of the FIA Formula One World Championship, which was held at the Buddh International Circuit in Sector 25 along Yamuna Expressway in Gautam Buddh Nagar district of Uttar Pradesh State. In August 2013, FIA announced that the Indian Grand Prix would be missing in 2014 before returning to an early-season slot in 2015. Lately, because of an ongoing tax dispute with the Uttar Pradesh government, that too has been ruled out and will not be returning for the year 2016."@en ,
+		"De Grand Prix van India is een race uit de Formule 1-kalender die voor de eerste keer gereden werd op 30 oktober 2011. Het was de 18e race uit het formule 1 seizoen. De race werd gewonnen door Sebastian Vettel. De Indiase Grand Prix wordt gereden op het Buddh International Circuit."@nl ;
+	dbp:laps	60 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Indian_Grand_Prix	owl:sameAs	<http://ja.dbpedia.org/resource/\u30A4\u30F3\u30C9\u30B0\u30E9\u30F3\u30D7\u30EA> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Indian_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q8025 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Indian_Grand_Prix	owl:sameAs	dbpedia-cs:Grand_Prix_Indie ,
+		<http://fr.dbpedia.org/resource/Grand_Prix_automobile_d\u0027Inde> ,
+		dbr:Indian_Grand_Prix .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Indian_Grand_Prix	owl:sameAs	dbpedia-es:Gran_Premio_de_la_India .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Indian_Grand_Prix	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_India .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Indian_Grand_Prix	owl:sameAs	wikidata:Q8025 ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_Indii_Formu\u0142y_1> ,
+		<http://rdf.freebase.com/ns/m.02qdd66> ,
+		<http://it.dbpedia.org/resource/Gran_Premio_d\u0027India> ,
+		<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_von_Indien> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Indian_Grand_Prix	owl:sameAs	yago-res:Indian_Grand_Prix ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_da_\u00CDndia> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Indian_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_India ,
+		<http://ko.dbpedia.org/resource/\uC778\uB3C4_\uADF8\uB791\uD504\uB9AC> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Indian_Grand_Prix	dct:subject	<http://dbpedia.org/resource/Category:2011_establishments_in_India> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Indian_Grand_Prix	dct:subject	dbc:Formula_One_Grands_Prix ,
+		dbc:National_Grands_Prix ,
+		dbc:Indian_sports-related_lists ,
+		dbc:Recurring_sporting_events_established_in_2011 ,
+		dbc:Indian_Grand_Prix ,
+		dbc:Sport_in_Uttar_Pradesh .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Indian_Grand_Prix	geo:lat	"28.350500106811523438"^^xsd:float ;
+	geo:long	"77.5348052978515625"^^xsd:float ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_India.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Indian_Grand_Prix .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Indian_Grand_Prix	geo:geometry	"POINT(77.534805297852 28.350500106812)"^^virtrdf:Geometry ;
+	dbp:fastestLapTeam	dbr:Renault_in_Formula_One ,
+		dbr:Lotus_F1 ;
+	dbp:winningTeam	dbr:Renault_in_Formula_One ,
+		dbr:Red_Bull_Racing .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Indian_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Indian_Grand_Prix?oldid=743894183> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Indian_Grand_Prix	georss:point	"28.3505 77.53480555555555" ;
+	dbo:wikiPageExternalLink	<http://www.theautomotiveindia.com/forums/motorsports-rallies/5234-indian-formula-1-grand-prix-exclusive-coverage-pictures-report.html> ,
+		<http://www.formula1.com/races/in_detail/india_863/> ,
+		<http://www.indian-grand-prix.com/472-india/> ;
+	dbp:fastestLapDriver	"K. R\u00E4ikk\u00F6nen"^^xsd:string ;
+	dbp:circuit	dbr:Buddh_International_Circuit ;
+	dbp:winner	"S. Vettel"^^xsd:string ;
+	dbp:currentYear	2013 ;
+	dbp:poleTime	1 ;
+	dbp:name	"Indian Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Renault_in_Formula_One ,
+		dbr:Red_Bull_Racing ;
+	dbp:secondTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbo:abstract	"O Grande Pr\u00E9mio da \u00CDndia \u00E9 uma corrida do Campeonato Mundial de F\u00F3rmula 1, realizada no Buddh International Circuit em Greater Noida, Uttar Pradesh."@pt ,
+		"Der Gro\u00DFe Preis von Indien wurde in der Formel-1-Saison 2011 bis zur Formel-1-Saison 2013 j\u00E4hrlich als Rennen der Formel-1-Weltmeisterschaft in Indien ausgetragen. Alle drei Rennen konnte Sebastian Vettel gewinnen; er sicherte sich auch jeweils die Pole Position. Den Rundenrekord im Rennen h\u00E4lt ebenfalls Vettel mit einer Zeit von 1:27,249 min, die er 2011 erzielte. Hauptsponsor der Veranstaltung war das indische Telekommunikationsunternehmen Bharti Airtel."@de ,
+		"The Indian Grand Prix (\u0907\u0902\u0921\u093F\u092F\u0928 \u0917\u094D\u0930\u093E\u0902\u0921 \u092A\u094D\u0930\u093F\u0915\u094D\u0938) was a Formula One race in the calendar of the FIA Formula One World Championship, which was held at the Buddh International Circuit in Sector 25 along Yamuna Expressway in Gautam Buddh Nagar district of Uttar Pradesh State. The first edition took place on 30 October 2011, as the 17th race of the 2011 Formula One season. The inaugural race was won by Germany's Sebastian Vettel. Jaypee Sports International Limited is the organizer of Formula One racing in India and has signed a five-year contract with Formula One Management (FOM) to host the championship in India. In August 2013, FIA announced that the Indian Grand Prix would be missing in 2014 before returning to an early-season slot in 2015. Lately, because of an ongoing tax dispute with the Uttar Pradesh government, that too has been ruled out and will not be returning for the year 2016."@en ,
+		"Grand Prix Indii \u2013 wy\u015Bcig Formu\u0142y 1, kt\u00F3ry po raz pierwszy zosta\u0142 zorganizowany w sezonie 2011 mistrzostw \u015Bwiata. Pocz\u0105tkowo pierwsze Grand Prix mia\u0142o si\u0119 odby\u0107 w sezonie 2010, jednak inauguracyjny wy\u015Bcig przeniesiono na sezon 2011. Wy\u015Bcigi odbywaj\u0105 si\u0119 na zaprojektowanym przez Hermanna Tilke torze Buddh International Circuit, kt\u00F3ry znajduje si\u0119 w oddalonym o 50 km od Delhi mie\u015Bcie Greater Noida w Jaypee Greens Sports City. Pierwsze dwa wy\u015Bcigi wygra\u0142 Sebastian Vettel. Grand Prix Indii nie znalaz\u0142o si\u0119 w pierwotnym kalendarzu F1 na sezon 2014, jednak FIA nie wyklucza jego powrotu w sezonie 2015."@pl ,
+		"\u5370\u5EA6\u5927\u5956\u8D5B\uFF08\u82F1\u6587\uFF1AIndian Grand Prix\uFF09\u662F\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u7684\u4E00\u573A\u5206\u7AD9\u8D5B\u4E8B\uFF0C\u5728\u5370\u5EA6\u65B0\u5FB7\u91CC\u9644\u8FD1\u7684\u4F5B\u9640\u56FD\u9645\u8D5B\u9053\u4E3E\u529E\u3002\u9996\u5C4A\u5927\u5956\u8D5B\u4E8E2011\u8D5B\u5B63\u768410\u670830\u65E5\u4E3E\u884C\uFF0C\u7531\u56FD\u9645\u6C7D\u8054\u7684\u8D5B\u4E8B\u7ECF\u7406\u67E5\u7406\u00B7\u6000\u6C40 \u63ED\u5E55\u3002\u76EE\u524D\u8BE5\u9879\u8D5B\u4E8B\u5DF2\u7ECF\u4E3E\u529E\u4E86\u4E24\u5C4A\u3002"@zh ,
+		"Il Gran Premio d'India (Indian Grand Prix) \u00E8 una gara automobilistica di Formula 1 che si \u00E8 svolta dal 2011 al 2013 al Buddh International Circuit in India. La prima edizione in calendario \u00E8 stata disputata il 30 ottobre 2011, valida come 17\u00AA gara del. D'allora la gara \u00E8 sempre stata compresa nel calendario iridato, anche se non \u00E8 stato inserito nel calendario per la stagione 2014. Pur con le difficiolt\u00E0 che vi si sono presentate nelle sue varie edizioni, \u00E8 stato premiato sia nel 2011 che nel 2012, col Race Promoters' Trophy, quale miglior gran premio organizzato nella stagione."@it ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u043D\u0434\u0438\u0438(\u0430\u043D\u0433\u043B. Indian Grand Prix) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB. \u041F\u0435\u0440\u0432\u0430\u044F \u0433\u043E\u043D\u043A\u0430 \u043F\u0440\u043E\u0448\u043B\u0430 30 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2011 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u043D\u043E\u0432\u043E\u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043E\u0433\u043E \u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0430 \u0411\u0443\u0434\u0434\u044B, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u043E\u0433\u043E \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0411\u043E\u043B\u044C\u0448\u0430\u044F \u041D\u043E\u0439\u0434\u0430, \u0432 40 \u043A\u043C \u043E\u0442 \u0414\u0435\u043B\u0438. \u041F\u043E\u0443\u043B-\u043F\u043E\u0437\u0438\u0446\u0438\u044E \u0432 \u044D\u0442\u043E\u0439 \u0434\u0435\u0431\u044E\u0442\u043D\u043E\u0439 \u0433\u043E\u043D\u043A\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u0442\u044C \u043F\u0438\u043B\u043E\u0442\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Red Bull \u0421\u0435\u0431\u0430\u0441\u0442\u044C\u044F\u043D\u0443 \u0424\u0435\u0442\u0442\u0435\u043B\u044E. \u0421\u043E\u0445\u0440\u0430\u043D\u0438\u0432 \u043B\u0438\u0434\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043F\u0440\u043E\u0442\u044F\u0436\u0435\u043D\u0438\u0438 \u0432\u0441\u0435\u0439 \u0433\u043E\u043D\u043A\u0438, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0432 \u043B\u0443\u0447\u0448\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043A\u0440\u0443\u0433\u0430, \u0424\u0435\u0442\u0442\u0435\u043B\u044C \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u043F\u043E\u0431\u0435\u0434\u0443"@ru ,
+		"De Grand Prix van India is een race uit de Formule 1-kalender die voor de eerste keer gereden werd op 30 oktober 2011. Het was de 18e race uit het formule 1 seizoen. De race werd gewonnen door Sebastian Vettel. De Indiase Grand Prix wordt gereden op het Buddh International Circuit."@nl ,
+		"El Gran Premio de la India es una carrera v\u00E1lida vigente en el campeonato de F\u00F3rmula 1. Fue disputada por primera vez en la temporada 2011 en el Circuito Internacional de Buddh, situado en Greater Noida, Uttar Pradesh, (India), que ha sido dise\u00F1ado por el arquitecto Hermann Tilke."@es ,
+		"Grand Prix d'IndeFichier:Circuit India.png Drapeau Circuit international Buddh Le Grand Prix automobile d'Inde est une course comptant pour le championnat du monde de Formule 1."@fr ,
+		"\u30A4\u30F3\u30C9\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08Indian Grand Prix\u307E\u305F\u306FGrand Prix of India\uFF09\u306F\u30A4\u30F3\u30C9\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u5354\u4F1A\uFF08IOA\uFF09\u304C\u8A08\u753B\u3057\u30012011\u5E74\u306B\u521D\u958B\u50AC\u3055\u308C\u305FF1\u4E16\u754C\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306E1\u6226\u3002"@ja ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_India.svg?width=300> ;
+	dbo:wikiPageRevisionID	743894183 ;
+	dbo:wikiPageID	10446132 ;
+	dbp:second	"N. Rosberg"^^xsd:string ;
+	dbp:third	"R. Grosjean"^^xsd:string ;
+	dbp:flag	"Flag of India.svg"^^xsd:string ;
+	dbp:poleDriver	"S. Vettel"^^xsd:string ;
+	dbp:circuitImage	"Jaypee International Circuit 2011.svg"^^xsd:string ;
+	dbp:circuitLengthKm	5.125 ;
+	dbp:circuitLengthMi	3.1850000000000000533 ;
+	dbp:fastestLap	1 ;
+	dbp:firstHeld	2011 ;
+	dbp:raceLengthKm	307.24900000000002365 ;
+	dbp:raceLengthMi	190.90000000000000568 .
+@prefix ns23:	<http://dbpedia.org/datatype/> .
+dbr:Indian_Grand_Prix	dbp:secondTime	"29.823"^^ns23:second ;
+	dbp:thirdTime	"39.892"^^ns23:second ;
+	dbp:timesHeld	3 ;
+	dbp:winningTime	1 ;
+	dbp:lastHeld	2013 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Indian_Grand_Prix	ns24:hypernym	dbr:Race ;
+	dbp:thirdTeam	dbr:Renault_in_Formula_One ,
+		dbr:Lotus_F1 ;
+	dbp:mostWinsConstructor	"Red Bull"^^xsd:string ;
+	dbp:mostWinsDriver	"Sebastian Vettel"^^xsd:string .
+dbr:Indian_Grand_Prix_2009	dbo:wikiPageRedirects	dbr:Indian_Grand_Prix .
+dbr:Indian_Grand_Prix_2010	dbo:wikiPageRedirects	dbr:Indian_Grand_Prix .
+dbr:Uttar_Pradesh	rdfs:seeAlso	dbr:Indian_Grand_Prix .

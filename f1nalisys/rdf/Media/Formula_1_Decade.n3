@@ -1,0 +1,81 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:F1_Decade	dbo:wikiPageRedirects	dbr:Formula_1_Decade .
+dbr:Formula_One_Decade	dbo:wikiPageRedirects	dbr:Formula_1_Decade .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Formula_1_Decade	foaf:primaryTopic	dbr:Formula_1_Decade .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Formula_1_Decade	rdf:type	yago:LanguageUnit106284225 ,
+		yago:Diversion100426928 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Formula_1_Decade	rdf:type	owl:Thing ,
+		<http://dbpedia.org/class/yago/WikicatSpeed(TVChannel)Shows> ,
+		yago:Show100520257 ,
+		yago:Entertainment100429048 ,
+		yago:Wikicat2005AmericanTelevisionSeriesEndings ,
+		yago:Ending106308765 ,
+		dbo:TelevisionShow ,
+		yago:Event100029378 ,
+		yago:Beginning100235435 ,
+		yago:Abstraction100002137 ,
+		yago:Activity100407535 ,
+		yago:Relation100031921 ,
+		yago:ChangeOfState100199130 ,
+		yago:Action100037396 ,
+		yago:Act100030358 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Formula_1_Decade	rdf:type	umbel-rc:TVShow_IBT ,
+		dbo:Work ,
+		yago:Introduction100238022 .
+@prefix schema:	<http://schema.org/> .
+dbr:Formula_1_Decade	rdf:type	schema:CreativeWork ,
+		yago:Part113809207 ,
+		yago:Wikicat2003AmericanTelevisionSeriesDebuts ,
+		yago:Change100191142 ,
+		yago:PsychologicalFeature100023100 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Formula_1_Decade	rdf:type	wikidata:Q15416 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		wikidata:Q386724 ,
+		yago:Morpheme106306233 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Formula_1_Decade	rdfs:label	"Formula 1 Decade"@en ;
+	rdfs:comment	"Formula 1 Decade was a show on Speed Channel. First airing on May 11, 2003 the show takes a look at Formula One Grand Prix events that were run 10 years prior to the present season. A one-hour show, the announcers, SPEED's Formula One commentary team, Bob Varsha, Steve Matchett, and David Hobbs, perform a mixture of a commentary as if the race is taking place right now along with reminiscing about rules changes and also Matchett's then role with Michael Schumacher's team. In 2003, when the show looked back at the 1993 season, dominated by Alain Prost, Varsha was the show's host, while Hobbs and Matchett looked at videotape of the races, and reminisced. That changed in 2004, when Matchett began introducing the race that would be seen on an episode and wrapping up each show, while Varsha joi"@en .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Formula_1_Decade	owl:sameAs	dbpedia-wikidata:Q5470266 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Formula_1_Decade	owl:sameAs	yago-res:Formula_1_Decade ,
+		dbr:Formula_1_Decade ,
+		<http://rdf.freebase.com/ns/m.03m1rq> ,
+		wikidata:Q5470266 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Formula_1_Decade	dct:subject	<http://dbpedia.org/resource/Category:2000s_American_television_series> ,
+		<http://dbpedia.org/resource/Category:2005_American_television_series_endings> ,
+		<http://dbpedia.org/resource/Category:Speed_(TV_channel)_shows> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Formula_1_Decade	dct:subject	dbc:Formula_One_media ,
+		<http://dbpedia.org/resource/Category:2003_American_television_series_debuts> ;
+	foaf:name	"Formula 1 Decade"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Formula_1_Decade ;
+	dbo:starring	<http://dbpedia.org/resource/David_Hobbs_(racing_driver)> ,
+		dbr:Steve_Matchett ,
+		dbr:Bob_Varsha ;
+	dbo:network	dbr:Speed_Channel .
+@prefix ns15:	<http://dbpedia.org/datatype/> .
+@prefix ns16:	<http://dbpedia.org/ontology/Work/> .
+dbr:Formula_1_Decade	ns16:runtime	"60.0"^^ns15:minute .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Formula_1_Decade	dbo:runtime	3600.0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Formula_1_Decade	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Formula_1_Decade?oldid=710134749> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Formula_1_Decade	dbp:lastAired	2005 ;
+	dbo:abstract	"Formula 1 Decade was a show on Speed Channel. First airing on May 11, 2003 the show takes a look at Formula One Grand Prix events that were run 10 years prior to the present season. A one-hour show, the announcers, SPEED's Formula One commentary team, Bob Varsha, Steve Matchett, and David Hobbs, perform a mixture of a commentary as if the race is taking place right now along with reminiscing about rules changes and also Matchett's then role with Michael Schumacher's team. In 2003, when the show looked back at the 1993 season, dominated by Alain Prost, Varsha was the show's host, while Hobbs and Matchett looked at videotape of the races, and reminisced. That changed in 2004, when Matchett began introducing the race that would be seen on an episode and wrapping up each show, while Varsha joined Matchett and Hobbs to do commentary. Speed Channel picked up the rights to broadcast the years-old races in their three-year agreement with FOM in 2003. It was included in their contract that allowed them to continue broadcasting live Formula One races, though it cost extra money, as the Formula One archives are rarely opened to any network. On April 2, 2004 the show had the daunting task of airing the 1994 San Marino Grand Prix, and showing the crash that claimed the life of 3-time World Drivers' Champion, and 41-time Grand Prix race winner Ayrton Senna in that event. Matchett, a mechanic for Benetton-Ford that weekend, made these remarks at the beginning of the broadcast: \"Welcome to F1 Decade, Speed Channel's retrospective of the 1994 Formula 1 World Championship. We have reached round three-the San Marino Grand Prix. The constant, metronomic beat of the clock has led us, inescapably, to Imola, and when the date 1994 and the name of Imola are brought together, they combine to form nothing but black, somber memories. The events of that race weekend, from the morning of April 28, when the teams first assembled at the track, until the evening of Sunday, May 1, rest amongst motor racing's darkest times. It was a weekend of tragedy, despair, and death. 10 years on, it may be that some viewers would prefer not to watch the coverage of these events, and if you feel in any way unsure, then I urge you to switch off your TV now. We cannot shy away from the fact that three very serious accidents happened.* The events of Imola are a part of the sport's history. The aftermath of that horrible weekend would forever change the way Grand Prix cars are built, and forever change the way the races themselves are conducted. We at Speed Channel feel it is only proper that the 1994 San Marino Grand Prix is correctly documented, and that, in our opinion, must include correct coverage of Ayrton Senna's fatal accident.\" (*)-There had already been two serious accidents in the days before Senna's-one on April 29 during Friday practice, that nearly killed Rubens Barrichello, and one on April 30 during Saturday qualifying that killed Roland Ratzenberger. The show returned in 2005, taking a look back at the 1995 season, when Michael Schumacher took his second straight World Drivers' Championship. F1 Decade was not renewed for 2006; if it had been, it would have looked back at Damon Hill's championship season in 1996."@en ;
+	dbo:wikiPageRevisionID	710134749 ;
+	dbo:wikiPageID	889317 ;
+	dbp:country	"United States"^^xsd:string .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+dbr:Formula_1_Decade	ns20:hypernym	dbr:Show ;
+	dbo:releaseDate	"2003-05-11"^^xsd:date .

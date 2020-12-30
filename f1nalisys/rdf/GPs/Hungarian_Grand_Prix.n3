@@ -1,0 +1,169 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2016_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2006_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1989_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1998_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2002_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2007_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2008_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2015_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2001_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2005_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2000_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1996_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1997_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1993_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1995_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1999_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Hungarian_Grand_Prix	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		yago:Contest107456188 ,
+		yago:Abstraction100002137 ,
+		yago:Event100029378 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Hungarian_Grand_Prix	rdf:type	dbo:SportsEvent ,
+		yago:Race107472657 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Hungarian_Grand_Prix	rdf:type	geo:SpatialThing ,
+		yago:PsychologicalFeature100023100 ,
+		yago:SocialEvent107288639 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Hungarian_Grand_Prix	rdfs:label	"Grand Prix W\u0119gier Formu\u0142y 1"@pl ,
+		"Grande Pr\u00EAmio da Hungria"@pt ,
+		"Gro\u00DFer Preis von Ungarn"@de ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043D\u0433\u0440\u0438\u0438"@ru ,
+		"Gran Premio d'Ungheria"@it ,
+		"\u30CF\u30F3\u30AC\u30EA\u30FC\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"Gran Premio de Hungr\u00EDa"@es ,
+		"\u5308\u7259\u5229\u5927\u5956\u8D5B"@zh ,
+		"Hungarian Grand Prix"@en ,
+		"Grand Prix automobile de Hongrie"@fr ,
+		"Grand Prix Formule 1 van Hongarije"@nl ;
+	rdfs:comment	"El Gran Premio de Hungr\u00EDa es una carrera de automovilismo de velocidad que tiene lugar en Hungr\u00EDa. La primera edici\u00F3n se disput\u00F3 el 21 de junio de 1936 sobre un circuito trazado en un parque cerca del centro de Budapest. Los constructores Mercedes-Benz, Auto Union y Ferrari enviaron tres autom\u00F3viles cada uno y el evento atrajo a una gran multitud. Sin embargo, la pol\u00EDtica y la cercana segunda Guerra Mundial significaron el final de las competencias automovil\u00EDsticas por m\u00E1s de cincuenta a\u00F1os."@es ,
+		"Grand Prix W\u0119gier \u2013 po raz pierwszy odby\u0142o si\u0119 21 czerwca 1936 roku, na torze o d\u0142ugo\u015Bci 3,1 mili, po\u0142o\u017Conym w parku, blisko centrum Budapesztu. Stajnie Mercedes-Benz, Auto Union i Alfa Romeo wys\u0142a\u0142y po trzy samochody. Z powod\u00F3w politycznych i wybuchu II wojny \u015Bwiatowej, wy\u015Bcigi Grand Prix nie by\u0142y organizowane przez najbli\u017Csze 50 lat."@pl ,
+		"\u5308\u7259\u5229\u5927\u5956\u8D5B\uFF08\u5308\u7259\u5229\u8BED\uFF1AMagyar Nagyd\u00EDj\uFF09\u662F\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u7684\u4E00\u9879\u5206\u7AD9\u8D5B\u4E8B\u3002\u5176\u524D\u8EAB\u662F1936\u5E74\u5728\u5308\u7259\u5229\u5E03\u8FBE\u4F69\u65AF\u7684\u4E00\u4E2A\u516C\u56ED\u5185\u4E3E\u884C\u7684\u72EC\u7ACB\u8D5B\u4E8B\uFF0C\u5F53\u65F6\u6709\u5954\u9A70\u3001\u6CD5\u62C9\u5229\u3001Auto Union\u4E09\u652F\u8F66\u961F\u53C2\u52A0\u4E86\u6BD4\u8D5B\u3002\u4F46\u7531\u4E8E\u7B2C\u4E8C\u6B21\u4E16\u754C\u5927\u6218\u7684\u7206\u53D1\u4EE5\u53CA\u4E4B\u540E\u51B7\u6218\u65F6\u671F\u7684\u653F\u6CBB\u539F\u56E0\uFF0C\u5308\u7259\u5229\u5927\u5956\u8D5B\u5728\u7B2C\u4E00\u5C4A\u4E4B\u540E\u5C31\u5BA3\u5E03\u505C\u529E\uFF0C\u76F4\u523050\u5E74\u540E\u624D\u5F97\u4EE5\u6062\u590D\u3002 1986\u5E74\uFF0C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u638C\u95E8\u4EBA\u4F2F\u5C3C\u00B7\u57C3\u514B\u83B1\u65AF\u987F\u7A81\u7834\u94C1\u5E55\uFF0C\u5C06\u5308\u7259\u5229\u5927\u5956\u8D5B\u52A0\u5165\u8D5B\u7A0B\uFF0C\u4F7F\u5F97\u8FD9\u5C4A\u5206\u7AD9\u8D5B\u4E8B\u6210\u4E3A\u9996\u573A\u5728\u793E\u4F1A\u4E3B\u4E49\u9635\u8425\u4E3E\u529E\u7684\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u5927\u8D5B\u3002\u81EA\u6B64\u4E4B\u540E\uFF0C\u5728\u5E03\u8FBE\u4F69\u65AF\u5308\u683C\u7F57\u5B81\u8D5B\u9053\u4E3E\u529E\u7684\u8FD9\u573A\u5927\u5956\u8D5B\u5C31\u6210\u4E3A\u4E86F1\u8D5B\u5386\u4E0A\u7684\u56FA\u5B9A\u5206\u7AD9\u8D5B\u4E8B\u3002\u7531\u4E8E\u5728\u4E2D\u6B27\u7684\u9177\u6691\u4E2D\u8FDB\u884C\uFF0C\u5308\u7259\u5229\u5927\u5956\u8D5B\u662F\u73B0\u6709\u5927\u5956\u8D5B\u4E2D\u552F\u4E00\u6CA1\u6709\u8FDB\u884C\u8FC7\u96E8\u6218\u7684\uFF0C\u8FD9\u4E00\u7EAA\u5F55\u4E00\u76F4\u4FDD\u6301\u52302006\u5E74\u8D5B\u5B63\u3002\u5C3D\u7BA1\u7968\u4EF7\u6602\u8D35\uFF0C1986\u5E74\u7684\u9996\u573A\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u5927\u5956\u8D5B\u8FD8\u662F\u6709\u4E8C\u5341\u4E07\u4EBA\u89C2\u6218\u3002\u5982\u4ECA\uFF0C\u8FD9\u573A\u8D5B\u4E8B\u4F9D\u7136\u4FDD\u6301\u7740\u70ED\u5EA6\uFF0C\u5438\u5F15\u7740\u5168\u7403\u8F66\u8FF7\u7684\u76EE\u5149\uFF0C\u800C\u76F8\u5F53\u4E00\u90E8\u5206\u89C2\u4F17\u6765\u81EA\u82AC\u5170\u3002 \u57282009\u5E74\u5308\u7259\u5229\u5927\u5956\u8D5B\u4E0A\uFF0C\u8D5B\u4F1A\u5B98\u65B9\u786E\u8BA4\u8FD9\u573A\u5206\u7AD9\u8D5B\u4E8B\u5C06\u4F1A\u7EE7\u7EED\u4E3E\u529E\u81F32016\u5E74\u3002"@zh ,
+		"(This article is about the Formula One race. For the motorcycle race, see Hungarian motorcycle Grand Prix.) The Hungarian Grand Prix (Hungarian: Magyar Nagyd\u00EDj) is a motor race held annually in Hungary. Since 1986, the race has been a round of the FIA Formula One World Championship."@en ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043D\u0433\u0440\u0438\u0438 (\u0432\u0435\u043D\u0433.  Magyar Nagyd\u00EDj) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043D\u0430 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0435 \u0425\u0443\u043D\u0433\u0430\u0440\u043E\u0440\u0438\u043D\u0433, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043E\u043C \u0432\u0431\u043B\u0438\u0437\u0438 \u0433\u043E\u0440\u043E\u0434\u0430 \u0411\u0443\u0434\u0430\u043F\u0435\u0448\u0442, \u0412\u0435\u043D\u0433\u0440\u0438\u044F."@ru ,
+		"Il Gran Premio d'Ungheria (Magyar Nagyd\u00EDj) \u00E8 una gara automobilistica disputatasi per la prima volta nel 1936 a N\u00E9pliget; l'edizione fu vinta da Tazio Nuvolari. In seguito il Gran Premio non venne pi\u00F9 disputato fino al 1986, anno in cui entr\u00F2 nel calendario di Formula 1 (diventando all'epoca la prima gara del circus disputata in un Paese del blocco comunista), in cui \u00E8 ancora oggi presente, e viene corsa da allora sul circuito dell'Hungaroring, vicino a Budapest. Quest'ultima \u00E8 una pista in cui \u00E8 molto difficile tentare il sorpasso, e di conseguenza \u00E8 importante avere una buona strategia di gara, o partire dalla pole position. In passato ci sono state anche gare ricche di colpi di scena, come la rimonta di Nigel Mansell nel 1989, che partito 12\u00BA vinse la gara, o l'edizione del 2006, movime"@it ,
+		"Grand Prix de HongrieFichier:Circuit Hungaroring.png Drapeau Hungaroring Le Grand Prix automobile de Hongrie est un \u00E9v\u00E9nement sportif de course automobile qui compte depuis 1986 pour le championnat du monde de Formule 1 et se dispute sur le Hungaroring, pr\u00E8s de Budapest. L'\u00E9preuve devrait figurer au calendrier du championnat au moins jusqu'en 2016."@fr ,
+		"Der Gro\u00DFe Preis von Ungarn wurde erstmals 1936 ausgetragen. Seit 1986 ist er einer der Grand-Prix-Weltmeisterschaftsl\u00E4ufe der Formel 1 und wird seit dem Jahr 1986 jeweils auf dem Hungaroring durchgef\u00FChrt. Die 1986 er\u00F6ffnete Strecke mit einer Gesamtl\u00E4nge von 4013,786 m war der erste Austragungsort eines Formel-1-Grand-Prix in einem Land des damaligen Ostblocks."@de ,
+		"\u30CF\u30F3\u30AC\u30EA\u30FC\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30CF\u30F3\u30AC\u30EA\u30FCGP, \u82F1: Hungarian Grand Prix, \u30CF\u30F3\u30AC\u30EA\u30FC\u8A9E: Magyar Nagyd\u00EDj\uFF09\u306F\u3001\u30CF\u30F3\u30AC\u30EA\u30FC\u306E\u30CF\u30F3\u30AC\u30ED\u30EA\u30F3\u30AF\u3067\u958B\u50AC\u3055\u308C\u3066\u3044\u308B\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B9\u3067\u3042\u308A\u30011986\u5E74\u4EE5\u964D\u884C\u308F\u308C\u3066\u3044\u308BF1\u306E\u30EC\u30FC\u30B9\u306E\u3072\u3068\u3064\u3002"@ja ,
+		"De Grand Prix van Hongarije is een race uit de Formule 1-kalender, gehouden op de Hungaroring in Mogyor\u00F3d nabij Boedapest. De wedstrijd werd voor het eerst gehouden in 1986 en gewonnen door Williams-rijder Nelson Piquet. Belgisch coureur Thierry Boutsen won in 1990 de race, het was zijn derde en laatste overwinning in de Formule 1.Recordhouder is Lewis Hamilton met vijf overwinningen. De constructeur met de meeste overwinningen is Mclaren, elf keer kwam een coureur van het Engelse team als eerste over de eindstreep."@nl ,
+		"O Grande Pr\u00EAmio da Hungria (Magyar Nagyd\u00EDj, em h\u00FAngaro) \u00E9 uma corrida de autom\u00F3veis, disputada anualmente, que hoje integra o Campeonato Mundial de F\u00F3rmula 1, promovido pela FIA. A prova foi disputada pela primeira vez em 1936, no circuito urbano de N\u00E9pliget, na cidade de Budapeste. Somente em 1986 voltou a ser disputado, quando entrou para o calend\u00E1rio da F\u00F3rmula 1, agora no sinuoso e travado circuito de Hungaroring."@pt ;
+	dbp:laps	70 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Hungarian_Grand_Prix	owl:sameAs	dbr:Hungarian_Grand_Prix .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Hungarian_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q9233 .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Hungarian_Grand_Prix	owl:sameAs	dbpedia-eu:Hungariako_Sari_Nagusia ,
+		<http://rdf.freebase.com/ns/m.01y4gh> ,
+		<http://it.dbpedia.org/resource/Gran_Premio_d\u0027Ungheria> ,
+		<http://ko.dbpedia.org/resource/\uD5DD\uAC00\uB9AC_\uADF8\uB791\uD504\uB9AC> ,
+		<http://ja.dbpedia.org/resource/\u30CF\u30F3\u30AC\u30EA\u30FC\u30B0\u30E9\u30F3\u30D7\u30EA> ,
+		<http://es.dbpedia.org/resource/Gran_Premio_de_Hungr\u00EDa> ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_da_Hungria> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Hungarian_Grand_Prix	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_Hongarije ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_W\u0119gier_Formu\u0142y_1> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Hungarian_Grand_Prix	owl:sameAs	yago-res:Hungarian_Grand_Prix .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Hungarian_Grand_Prix	owl:sameAs	dbpedia-fr:Grand_Prix_automobile_de_Hongrie .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Hungarian_Grand_Prix	owl:sameAs	wikidata:Q9233 ,
+		<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_von_Ungarn> ,
+		<http://cs.dbpedia.org/resource/Grand_Prix_Ma\u010Farska> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Hungarian_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_Hongaria .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Hungarian_Grand_Prix	dct:subject	dbc:Hungarian_Grand_Prix ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grands_Prix> ,
+		dbc:Formula_One_Grands_Prix ,
+		dbc:National_Grands_Prix ,
+		<http://dbpedia.org/resource/Category:1936_establishments_in_Hungary> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns18:	<http://www.hungaroinfo.com/> .
+dbr:Hungarian_Grand_Prix	foaf:homepage	ns18:formel1 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Hungarian_Grand_Prix	geo:lat	"47.58300018310546875"^^xsd:float ;
+	geo:long	"19.25099945068359375"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Hungary.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Hungarian_Grand_Prix	foaf:isPrimaryTopicOf	wikipedia-en:Hungarian_Grand_Prix .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Hungarian_Grand_Prix	geo:geometry	"POINT(19.250999450684 47.583000183105)"^^virtrdf:Geometry ;
+	dbp:fastestLapTeam	dbr:Scuderia_Ferrari ;
+	dbp:winningTeam	dbr:Mercedes-Benz_in_Formula_One .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Hungarian_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Hungarian_Grand_Prix?oldid=739668229> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Hungarian_Grand_Prix	georss:point	"47.583 19.251" ;
+	dbo:wikiPageExternalLink	ns18:formel1 ;
+	dbp:fastestLapDriver	"Kimi R\u00E4ikk\u00F6nen"^^xsd:string ;
+	dbp:circuit	dbr:Hungaroring ;
+	dbp:winner	"L. Hamilton"^^xsd:string ;
+	dbp:currentYear	2016 ;
+	dbp:poleTime	1 ;
+	dbp:name	"Hungarian Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:secondTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbo:abstract	"\u30CF\u30F3\u30AC\u30EA\u30FC\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30CF\u30F3\u30AC\u30EA\u30FCGP, \u82F1: Hungarian Grand Prix, \u30CF\u30F3\u30AC\u30EA\u30FC\u8A9E: Magyar Nagyd\u00EDj\uFF09\u306F\u3001\u30CF\u30F3\u30AC\u30EA\u30FC\u306E\u30CF\u30F3\u30AC\u30ED\u30EA\u30F3\u30AF\u3067\u958B\u50AC\u3055\u308C\u3066\u3044\u308B\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B9\u3067\u3042\u308A\u30011986\u5E74\u4EE5\u964D\u884C\u308F\u308C\u3066\u3044\u308BF1\u306E\u30EC\u30FC\u30B9\u306E\u3072\u3068\u3064\u3002"@ja ,
+		"(This article is about the Formula One race. For the motorcycle race, see Hungarian motorcycle Grand Prix.) The Hungarian Grand Prix (Hungarian: Magyar Nagyd\u00EDj) is a motor race held annually in Hungary. Since 1986, the race has been a round of the FIA Formula One World Championship."@en ,
+		"El Gran Premio de Hungr\u00EDa es una carrera de automovilismo de velocidad que tiene lugar en Hungr\u00EDa. La primera edici\u00F3n se disput\u00F3 el 21 de junio de 1936 sobre un circuito trazado en un parque cerca del centro de Budapest. Los constructores Mercedes-Benz, Auto Union y Ferrari enviaron tres autom\u00F3viles cada uno y el evento atrajo a una gran multitud. Sin embargo, la pol\u00EDtica y la cercana segunda Guerra Mundial significaron el final de las competencias automovil\u00EDsticas por m\u00E1s de cincuenta a\u00F1os. El primer Gran Premio de F\u00F3rmula 1 disputado al otro lado del tel\u00F3n de acero fue el Gran Premio de Hungr\u00EDa de 1986, en el aut\u00F3dromo de Hungaroring en Mogyor\u00F3d, cerca de Budapest. Al igual que ocurr\u00EDa con el Gran Premio de los Pa\u00EDses Bajos, al cual sustituy\u00F3, Gran Premio de Hungr\u00EDa se disputa a mediados del verano europeo. Debido al clima de esa regi\u00F3n, la primera carrera en que llovi\u00F3 fue la de 2006. El Gran Premio de Hungr\u00EDa atrae aficionados de diversos pa\u00EDses de la regi\u00F3n que no tienen un Gran Premio local, por ejemplo de los pa\u00EDses escandinavos y los de Europa del Este. La F\u00F3rmula 3000 Internacional y luego la GP2 Series han disputado carreras preliminares en cada edici\u00F3n a partir de 1998. Debido a la naturaleza de la pista, estrecha, sinuosa y frecuentemente empolvada por falta de uso, en el Gran Premio de Hungr\u00EDa se forman generalmente grupos de hasta seis veh\u00EDculos siguiendo todos a uno un poco m\u00E1s lento al que no es posible doblar. En 1990, Thierry Boutsen no pudo ser adelantado por Ayrton Senna, qui\u00E9n luc\u00EDa m\u00E1s r\u00E1pido. Este es uno de los circuitos en donde la estrategia en las paradas es m\u00E1s crucial. El mejor ejemplo de ello se vio en el Gran Premio de 1998 cuando el equipo Ferrari de Michael Schumacher cambi\u00F3 de estrategia a mitad de carrera y logr\u00F3 colocar a su corredor en posici\u00F3n de ganar al final de las paradas. Los adelantamientos entre pilotos son raros en este circuito, pero una notable excepci\u00F3n la produjo Nigel Mansell en 1989 al partir de la posici\u00F3n 12 y adelantar coche por coche y terminar tomando la delantera al aprovechar que Ayrton Senna estaba atascado pasando a un corredor m\u00E1s lento. En 2003 se efectuaron modificaciones al circuito en un intento de hacer m\u00E1s factibles los adelantamientos. Otros grandes momentos en este circuito incluyen la primera victoria para Damon Hill (en 1993), y para Fernando Alonso (en 2003). En 2001, Michael Schumacher igual\u00F3 en este circuito a Alain Prost en n\u00FAmero de victorias. En 2006, Jenson Button logr\u00F3 su primera victoria en F\u00F3rmula 1, y Pedro de la Rosa su primer podio (2\u00BA puesto). Esta carrera se desarroll\u00F3 por primera vez en carrera de F\u00F3rmula 1 en este circuito con lluvia, y destac\u00F3 por ser muy accidentada y por su gran n\u00FAmero de abandonos, incluyendo los de Michael Schumacher y Fernando Alonso. Fue una de las m\u00E1s emocionantes de la temporada. En 2007 Lewis Hamilton logr\u00F3 su tercera victoria despu\u00E9s de que a Fernando Alonso la FIA le sancionase debido a una obstaculizaci\u00F3n de boxes intencionada. El 2\u00BA puesto fue para Kimi R\u00E4ikk\u00F6nen y tercero para Nick Heidfeld. En 2008, Heikki Kovalainen consigui\u00F3 su primera victoria en F\u00F3rmula 1, despu\u00E9s de la rotura de motor de Felipe Massa en las \u00FAltimas vueltas, le acompa\u00F1aron en el podio, Glock que fue su primer podio en F\u00F3rmula 1 y Kimi R\u00E4ikk\u00F6nen. En 2009 Lewis Hamilton se llev\u00F3 la victoria en un fin de semana que fue duro para la F\u00F3rmula 1 debido al accidente de Felipe Massa en la clasificaci\u00F3n, tras recibir el impacto de una pieza que sali\u00F3 despedida del Brawn de su compatriota Rubens Barrichello. En 2010 Mark Webber capitaliz\u00F3 una penalizaci\u00F3n a su compa\u00F1ero Sebastian Vettel y logr\u00F3 su s\u00E9ptima victoria en la F\u00F3rmula 1. En esa carrera se desat\u00F3 la pol\u00E9mica por un adelantamiento en donde Michael Schumacher cerr\u00F3 contra el muro de boxes a su ex-compa\u00F1ero Rubens Barrichello y casi provoca un accidente. En 2016 el Gran Premio de Hungr\u00EDa ampl\u00EDa su contrato vigente hasta 2021 por cinco a\u00F1os mas, asegurandose el Grand Prix hasta 2026."@es ,
+		"De Grand Prix van Hongarije is een race uit de Formule 1-kalender, gehouden op de Hungaroring in Mogyor\u00F3d nabij Boedapest. De wedstrijd werd voor het eerst gehouden in 1986 en gewonnen door Williams-rijder Nelson Piquet. Belgisch coureur Thierry Boutsen won in 1990 de race, het was zijn derde en laatste overwinning in de Formule 1.Recordhouder is Lewis Hamilton met vijf overwinningen. De constructeur met de meeste overwinningen is Mclaren, elf keer kwam een coureur van het Engelse team als eerste over de eindstreep."@nl ,
+		"\u5308\u7259\u5229\u5927\u5956\u8D5B\uFF08\u5308\u7259\u5229\u8BED\uFF1AMagyar Nagyd\u00EDj\uFF09\u662F\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u7684\u4E00\u9879\u5206\u7AD9\u8D5B\u4E8B\u3002\u5176\u524D\u8EAB\u662F1936\u5E74\u5728\u5308\u7259\u5229\u5E03\u8FBE\u4F69\u65AF\u7684\u4E00\u4E2A\u516C\u56ED\u5185\u4E3E\u884C\u7684\u72EC\u7ACB\u8D5B\u4E8B\uFF0C\u5F53\u65F6\u6709\u5954\u9A70\u3001\u6CD5\u62C9\u5229\u3001Auto Union\u4E09\u652F\u8F66\u961F\u53C2\u52A0\u4E86\u6BD4\u8D5B\u3002\u4F46\u7531\u4E8E\u7B2C\u4E8C\u6B21\u4E16\u754C\u5927\u6218\u7684\u7206\u53D1\u4EE5\u53CA\u4E4B\u540E\u51B7\u6218\u65F6\u671F\u7684\u653F\u6CBB\u539F\u56E0\uFF0C\u5308\u7259\u5229\u5927\u5956\u8D5B\u5728\u7B2C\u4E00\u5C4A\u4E4B\u540E\u5C31\u5BA3\u5E03\u505C\u529E\uFF0C\u76F4\u523050\u5E74\u540E\u624D\u5F97\u4EE5\u6062\u590D\u3002 1986\u5E74\uFF0C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u638C\u95E8\u4EBA\u4F2F\u5C3C\u00B7\u57C3\u514B\u83B1\u65AF\u987F\u7A81\u7834\u94C1\u5E55\uFF0C\u5C06\u5308\u7259\u5229\u5927\u5956\u8D5B\u52A0\u5165\u8D5B\u7A0B\uFF0C\u4F7F\u5F97\u8FD9\u5C4A\u5206\u7AD9\u8D5B\u4E8B\u6210\u4E3A\u9996\u573A\u5728\u793E\u4F1A\u4E3B\u4E49\u9635\u8425\u4E3E\u529E\u7684\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u5927\u8D5B\u3002\u81EA\u6B64\u4E4B\u540E\uFF0C\u5728\u5E03\u8FBE\u4F69\u65AF\u5308\u683C\u7F57\u5B81\u8D5B\u9053\u4E3E\u529E\u7684\u8FD9\u573A\u5927\u5956\u8D5B\u5C31\u6210\u4E3A\u4E86F1\u8D5B\u5386\u4E0A\u7684\u56FA\u5B9A\u5206\u7AD9\u8D5B\u4E8B\u3002\u7531\u4E8E\u5728\u4E2D\u6B27\u7684\u9177\u6691\u4E2D\u8FDB\u884C\uFF0C\u5308\u7259\u5229\u5927\u5956\u8D5B\u662F\u73B0\u6709\u5927\u5956\u8D5B\u4E2D\u552F\u4E00\u6CA1\u6709\u8FDB\u884C\u8FC7\u96E8\u6218\u7684\uFF0C\u8FD9\u4E00\u7EAA\u5F55\u4E00\u76F4\u4FDD\u6301\u52302006\u5E74\u8D5B\u5B63\u3002\u5C3D\u7BA1\u7968\u4EF7\u6602\u8D35\uFF0C1986\u5E74\u7684\u9996\u573A\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u5927\u5956\u8D5B\u8FD8\u662F\u6709\u4E8C\u5341\u4E07\u4EBA\u89C2\u6218\u3002\u5982\u4ECA\uFF0C\u8FD9\u573A\u8D5B\u4E8B\u4F9D\u7136\u4FDD\u6301\u7740\u70ED\u5EA6\uFF0C\u5438\u5F15\u7740\u5168\u7403\u8F66\u8FF7\u7684\u76EE\u5149\uFF0C\u800C\u76F8\u5F53\u4E00\u90E8\u5206\u89C2\u4F17\u6765\u81EA\u82AC\u5170\u3002 \u57282009\u5E74\u5308\u7259\u5229\u5927\u5956\u8D5B\u4E0A\uFF0C\u8D5B\u4F1A\u5B98\u65B9\u786E\u8BA4\u8FD9\u573A\u5206\u7AD9\u8D5B\u4E8B\u5C06\u4F1A\u7EE7\u7EED\u4E3E\u529E\u81F32016\u5E74\u3002"@zh ,
+		"O Grande Pr\u00EAmio da Hungria (Magyar Nagyd\u00EDj, em h\u00FAngaro) \u00E9 uma corrida de autom\u00F3veis, disputada anualmente, que hoje integra o Campeonato Mundial de F\u00F3rmula 1, promovido pela FIA. A prova foi disputada pela primeira vez em 1936, no circuito urbano de N\u00E9pliget, na cidade de Budapeste. Somente em 1986 voltou a ser disputado, quando entrou para o calend\u00E1rio da F\u00F3rmula 1, agora no sinuoso e travado circuito de Hungaroring."@pt ,
+		"Grand Prix de HongrieFichier:Circuit Hungaroring.png Drapeau Hungaroring Le Grand Prix automobile de Hongrie est un \u00E9v\u00E9nement sportif de course automobile qui compte depuis 1986 pour le championnat du monde de Formule 1 et se dispute sur le Hungaroring, pr\u00E8s de Budapest. L'\u00E9preuve devrait figurer au calendrier du championnat au moins jusqu'en 2016."@fr ,
+		"Il Gran Premio d'Ungheria (Magyar Nagyd\u00EDj) \u00E8 una gara automobilistica disputatasi per la prima volta nel 1936 a N\u00E9pliget; l'edizione fu vinta da Tazio Nuvolari. In seguito il Gran Premio non venne pi\u00F9 disputato fino al 1986, anno in cui entr\u00F2 nel calendario di Formula 1 (diventando all'epoca la prima gara del circus disputata in un Paese del blocco comunista), in cui \u00E8 ancora oggi presente, e viene corsa da allora sul circuito dell'Hungaroring, vicino a Budapest. Quest'ultima \u00E8 una pista in cui \u00E8 molto difficile tentare il sorpasso, e di conseguenza \u00E8 importante avere una buona strategia di gara, o partire dalla pole position. In passato ci sono state anche gare ricche di colpi di scena, come la rimonta di Nigel Mansell nel 1989, che partito 12\u00BA vinse la gara, o l'edizione del 2006, movimentata dalla pioggia, che vide Jenson Button conquistare la sua prima vittoria in F1. La scuderia britannica McLaren, con 11 vittorie, \u00E8 quella che vanta il maggior numero di successi su questo circuito."@it ,
+		"Grand Prix W\u0119gier \u2013 po raz pierwszy odby\u0142o si\u0119 21 czerwca 1936 roku, na torze o d\u0142ugo\u015Bci 3,1 mili, po\u0142o\u017Conym w parku, blisko centrum Budapesztu. Stajnie Mercedes-Benz, Auto Union i Alfa Romeo wys\u0142a\u0142y po trzy samochody. Z powod\u00F3w politycznych i wybuchu II wojny \u015Bwiatowej, wy\u015Bcigi Grand Prix nie by\u0142y organizowane przez najbli\u017Csze 50 lat."@pl ,
+		"Der Gro\u00DFe Preis von Ungarn wurde erstmals 1936 ausgetragen. Seit 1986 ist er einer der Grand-Prix-Weltmeisterschaftsl\u00E4ufe der Formel 1 und wird seit dem Jahr 1986 jeweils auf dem Hungaroring durchgef\u00FChrt. Die 1986 er\u00F6ffnete Strecke mit einer Gesamtl\u00E4nge von 4013,786 m war der erste Austragungsort eines Formel-1-Grand-Prix in einem Land des damaligen Ostblocks. 1989 wurde die Strecke um 45 m verk\u00FCrzt, indem eine Kurvenkombination entfernt wurde, um eine zus\u00E4tzliche \u00DCberholm\u00F6glichkeit zu schaffen. Der Umbau der Start- und Zielgeraden im Jahr 1997 verl\u00E4ngerte die Strecke auf eine L\u00E4nge von 3,982 km. Im Jahr 2003 wurden umfangreiche Umbauarbeiten durchgef\u00FChrt, bei denen die Strecke auf die aktuelle L\u00E4nge von 4383,08 m erweitert wurde."@de ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043D\u0433\u0440\u0438\u0438 (\u0432\u0435\u043D\u0433.  Magyar Nagyd\u00EDj) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043D\u0430 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0435 \u0425\u0443\u043D\u0433\u0430\u0440\u043E\u0440\u0438\u043D\u0433, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043E\u043C \u0432\u0431\u043B\u0438\u0437\u0438 \u0433\u043E\u0440\u043E\u0434\u0430 \u0411\u0443\u0434\u0430\u043F\u0435\u0448\u0442, \u0412\u0435\u043D\u0433\u0440\u0438\u044F."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Hungary.svg?width=300> ;
+	dbo:wikiPageRevisionID	739668229 ;
+	dbo:wikiPageID	341537 ;
+	dbp:second	"N. Rosberg"^^xsd:string ;
+	dbp:third	"D. Ricciardo"^^xsd:string ;
+	dbp:flag	"Flag of Hungary.svg"^^xsd:string ;
+	dbp:poleDriver	"Nico Rosberg"^^xsd:string ;
+	dbp:circuitImage	"Hungaroring.svg"^^xsd:string ;
+	dbp:circuitLengthKm	4.3810000000000002274 ;
+	dbp:circuitLengthMi	2.7219999999999999751 ;
+	dbp:fastestLap	1 ;
+	dbp:firstHeld	1936 ;
+	dbp:raceLengthKm	306.66300000000001091 ;
+	dbp:raceLengthMi	190.56000000000000227 ;
+	dbp:secondTime	"+1.977"^^xsd:string ;
+	dbp:thirdTime	"+27.539"^^xsd:string ;
+	dbp:timesHeld	31 ;
+	dbp:winningTime	1 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Hungarian_Grand_Prix	ns24:hypernym	dbr:Race ;
+	dbp:thirdTeam	dbr:Red_Bull_Racing ,
+		dbr:TAG_Heuer ;
+	dbp:mostWinsConstructor	"McLaren"^^xsd:string ;
+	dbp:mostWinsDriver	"Lewis Hamilton"^^xsd:string .
+dbr:Hungaroring	dbp:events	dbr:Hungarian_Grand_Prix .
+wikipedia-en:Hungarian_Grand_Prix	foaf:primaryTopic	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2012_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2013_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1986_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1987_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1988_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1990_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1991_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1992_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1994_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/1936_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/Magyar_Nagyd\u00EDj>	dbo:wikiPageRedirects	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2003_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2009_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2010_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2014_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2011_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+<http://dbpedia.org/resource/2004_Hungarian_Grand_Prix>	dbp:nameOfRace	dbr:Hungarian_Grand_Prix .
+dbr:Hungarian_GP	dbo:wikiPageRedirects	dbr:Hungarian_Grand_Prix .
+dbr:Magyar_Nagydij	dbo:wikiPageRedirects	dbr:Hungarian_Grand_Prix .

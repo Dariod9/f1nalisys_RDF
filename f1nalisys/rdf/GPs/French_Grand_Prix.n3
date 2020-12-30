@@ -1,0 +1,236 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1971_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/French_Grand_Prix_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1927_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1929_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1930_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1934_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1935_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1949_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1978_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1975_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/2001_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1974_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1951_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1979_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1950_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1982_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:French_Grand_Prix	rdf:type	yago:Abstraction100002137 ,
+		yago:Race107472657 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:SocialEvent107288639 ,
+		yago:WikicatRecurringEventsDisestablishedIn2008 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Contest107456188 ,
+		yago:Event100029378 ,
+		dbo:SportsEvent .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:French_Grand_Prix	rdf:type	geo:SpatialThing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:French_Grand_Prix	rdfs:label	"Grand Prix automobile de France"@fr ,
+		"French Grand Prix"@en ,
+		"Grand Prix Francji Formu\u0142y 1"@pl ,
+		"Grande Pr\u00EAmio da Fran\u00E7a"@pt ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649"@ar ,
+		"Gro\u00DFer Preis von Frankreich"@de ,
+		"Gran Premio di Francia"@it ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438"@ru ,
+		"Grand Prix Formule 1 van Frankrijk"@nl ,
+		"Gran Premio de Francia"@es ,
+		"\u30D5\u30E9\u30F3\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"\u6CD5\u570B\u5927\u734E\u8CFD"@zh ;
+	rdfs:comment	"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438(\u0444\u0440. Grand Prix de France) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0411\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0435\u043D \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u0441\u0435\u0437\u043E\u043D\u0430 1950 \u0433\u043E\u0434\u0430 \u043F\u043E 2008 \u0433\u043E\u0434. \u0412 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0433\u043E\u0434\u044B \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B \u043D\u0430 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0435 \u041C\u0430\u043D\u044C\u0438-\u041A\u0443\u0440. \u041F\u0435\u0440\u0432\u044B\u0439 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0431\u044B\u043B \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D 26 \u0438\u044E\u043D\u044F, 1906 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0438\u0437 \u0434\u043E\u0440\u043E\u0433 \u043E\u0431\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F \u0432\u043E\u0437\u043B\u0435 \u041B\u0435-\u041C\u0430\u043D\u0430, \u0438 \u0441\u0442\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0430."@ru ,
+		"Grand Prix Francji \u2013 jedna z eliminacji Mistrzostw \u015Awiata Formu\u0142y 1. Grand Prix jest organizowane od 1906 (od 1921 regularnie). Jest te\u017C jedn\u0105 z najstarszych eliminacji Formu\u0142y 1. Runda o Grand Prix Francji by\u0142a rozgrywana do 2008 roku."@pl ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0643\u0627\u0646 \u0623\u062D\u062F \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0627\u0644\u0630\u064A \u062A\u0646\u0638\u0645\u0647 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A\u060C \u0648\u0647\u0648 \u0623\u062D\u062F \u0623\u0642\u062F\u0645 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0648\u062A\u0648\u0642\u0641\u062A \u0641\u064A \u0639\u0627\u0645 2008 \u0628\u0639\u062F \u0639\u0642\u062F\u0647\u0627 86 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Il Gran Premio di Francia \u00E8 stato il primo \"Gran Premio\" della storia automobilistica: la prima edizione si svolse nel 1906; in seguito \u00E8 stata una gara automobilistica valida per il Campionato del Mondo di Formula 1 dal 1950 al 2008, ad eccezione dell'edizione 1955, cancellata a causa del disastroso incidente alla 24 ore di Le Mans."@it ,
+		"Grand Prix de FranceFichier:Circuit Magny Cours.png Drapeau Circuit de Nevers Magny-Cours Le Grand Prix automobile de France (officiellement appel\u00E9 Grand Prix de l'A.C.F. jusqu'en 1967 \u00E0 sa cinquante-troisi\u00E8me \u00E9dition) est une course automobile cr\u00E9\u00E9e sur circuit automobile en 1906. Il figurait au calendrier du championnat du monde de Formule 1 de 1950 \u00E0 2008 (exception faite de l'ann\u00E9e 1955 o\u00F9 l'\u00E9preuve a \u00E9t\u00E9 annul\u00E9e \u00E0 la suite du drame des 24 Heures du Mans). L'\u00E9preuve s'est d\u00E9roul\u00E9e sur le circuit de Nevers Magny-Cours de 1991 \u00E0 2008."@fr ,
+		"\u30D5\u30E9\u30F3\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08Grand Prix de France\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u3067\u884C\u308F\u308C\u308BF1\u306E\u30EC\u30FC\u30B9\u3002\u56FD\u969B\u898F\u6A21\u306E\u30B0\u30E9\u30F3\u30D7\u30EA\u30EC\u30FC\u30B9\u3068\u3057\u3066\u306F\u6700\u53E4\u306E\u6B74\u53F2\u3092\u6301\u3064\u3002"@ja ,
+		"De Grand Prix van Frankrijk was een race uit het Formule 1 kampioenschap die jaarlijks gehouden werd, sinds de start van het Formule 1 kampioenschap in 1950 tot 2008, met uitzondering van 1955. In 2009 werd er voor de tweede keer geen Franse Grand prix gehouden. Het is niet duidelijk of er in de nabije toekomst opnieuw een Franse Grand prix zal gereden worden en dat is onderwerp van debat. Michael Schumacher is met acht overwinningen recordhouder van de Grand prix. Alain Prost won zijn thuiswedstrijd zes keer."@nl ,
+		"\u6CD5\u570B\u5927\u734E\u8CFD (Grand Prix de France) \u662F\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u4E2D\u7684\u5176\u4E2D\u4E00\u500B\u8CFD\u7A0B\u3002 \u683C\u862D\u62AB\u6CBB\u5927\u8CFD\uFF08Grand Prix motor racing\uFF09\u8D77\u6E90\u65BC\u6CD5\u570B\u548C\u6CD5\u570B\u5927\u734E\u8CFD\uFF0C\u662F\u958B\u653E\u7684\u570B\u969B\u6BD4\u8CFD\uFF0C\u4E5F\u662F\u6700\u53E4\u8001\u7684\u5927\u734E\u8CFD\uFF0C\u7B2C\u4E00\u6B21\u8209\u884C\u57281906\u5E746\u670826\u65E5\u5728Sarthe\u7531Automobile Club de France\u6240\u8209\u8FA6\uFF0C\u7E3D\u5171\u670932\u8F1B\u8ECA\u4E0A\u5834\u8CFD\u3002 1925\u5E74\uFF0C\u8209\u8FA6\u7B2C\u4E00\u5C46\u4E16\u754C\u9326\u6A19\u8CFD\uFF0C\u8CFD\u7A0B\u6709\u6CD5\u570B\u5927\u734E\u8CFD\u3001\u610F\u5927\u5229\u5927\u734E\u8CFD\u3001\u6BD4\u5229\u6642\u5927\u734E\u8CFD\u548C\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF500\u30021950\u5E74\uFF0C\u6CD5\u570B\u5927\u734E\u8CFD\u52A0\u5165\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u7684\u8CFD\u7A0B\u4E2D\u3002\u6BD4\u8CFD\u5E7E\u4E4E\u5728\u5168\u6CD5\u570B\u7684\u8CFD\u9053\u8209\u8FA6\u904E\uFF0C\u50CF\u662FAutodrome de Montlh\u00E9ry\u3002\u5F9E1991\u5E74\u958B\u59CB\u6BD4\u8CFD\u90FD\u5728Circuit de Nevers Magny-Cours\u8209\u884C\u3002\u9077\u5F80Magny-Cours\u662F\u4F01\u5716\u523A\u6FC0\u7576\u5730\u7684\u7D93\u6FDF\uFF0C\u4F46\u8A31\u591A\u7684\u8ECA\u968A\u90FD\u62B1\u6028\u8DEF\u9014\u904E\u65BC\u9059\u9060\u3002 \u56E0\u70BA\u8CA1\u653F\u554F\u984C\u548C\u65B0\u52A0\u5165\u7684\u8CFD\u9053\u7DE3\u6545\uFF0C\u57282004\u5E74\u30012005\u5E74\u6CD5\u570B\u5927\u734E\u8CFD\u662F\u5426\u80FD\u6392\u9032\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u7A0B\u5145\u6EFF\u4E86\u8B8A\u6578\u3002\u96D6\u7136\u6700\u5F8C\u90FD\u6309\u7167\u539F\u8A02\u7684\u8A08\u756B\u6392\u5165\u4E86\u8CFD\u7A0B\uFF0C\u4F46\u672A\u4F86\u4ECD\u6709\u4E0D\u78BA\u5B9A\u6027\u3002"@zh ,
+		"El Gran Premio de Francia fue una carrera de automovilismo de velocidad disputada en Francia desde el a\u00F1o 1906 hasta 2008. Form\u00F3 parte del Campeonato Mundial de F\u00F3rmula 1 en gran parte de sus ediciones. Desde 2004, problemas financieros han puesto en duda la participaci\u00F3n del Gran Premio de Francia en el campeonato de F\u00F3rmula 1. Desde 2005 a la fecha, la carrera se ha incluido de manera provisional en cada temporada. Finalmente, en 2009 se puso fin al contrato, siendo la del 2008 la \u00FAltima carrera disputada hasta la fecha en Francia."@es ,
+		"O Grande Pr\u00EAmio da Fran\u00E7a foi a primeira corrida de autom\u00F3veis a adotar a denomina\u00E7\u00E3o \"Grande Pr\u00EAmio\". A edi\u00E7\u00E3o inaugural do evento realizou-se em 1906, nos arredores de Le Mans. A prova fez parte do Campeonato Mundial de F\u00F3rmula 1, desde o surgimento da competi\u00E7\u00E3o, em 1950, at\u00E9 o ano de 2008. A partir da\u00ED, a corrida deixou de ser disputada, principalmente em raz\u00E3o da crise econ\u00F4mica mundial de 2008. H\u00E1 expectativas de que o evento volte a ser realizado, num futuro pr\u00F3ximo."@pt ,
+		"Der Gro\u00DFe Preis von Frankreich (Grand Prix de France, bis 1967 auch Grand Prix de l\u2019A.C.F.) ist eine seit 1906 durchgef\u00FChrte franz\u00F6sische Motorsportveranstaltung. Bis 1967 wurden die Rennen um \u201Eden\u201C franz\u00F6sischen Grand Prix offiziell immer als Grand Prix de l\u2019Automobile Club de France (kurz: \u201EGrand Prix de l\u2019A.C.F.\u201C) bezeichnet. Auch zuvor waren jedoch schon vereinzelt auch Rennen unter dem Titel Grand Prix de France gelaufen, die jedoch nicht an den Stellenwert des Grand Prix de l\u2019ACF als ein Grande \u00C9preuve heranreichten. \n* Circuit de la Sarthe \n* Rouen-les-Essarts \n* Circuit de Reims-Gueux \n* \n* \n*"@de ,
+		"The French Grand Prix (1906\u20131967: Grand Prix de l'ACF, 1968\u20132008: Grand Prix de France) was a race held as part of F\u00E9d\u00E9ration Internationale de l'Automobile's annual Formula One automobile racing championships. It was one of the oldest motor races in the world. It ceased shortly after its centenary in 2008 with 86 races having been held, a victim of finances and unfavourable venues. Unusually even for a race of such longevity, the location of the grand prix moved frequently with 16 different venues having been used over its life, a number only eclipsed by the Australian Grand Prix of the older races. It is also one of four races (along with the Belgian, Italian and Spanish Grands Prix) to have been held as part of the three distinct Grand Prix championships (World Manufacturers' Championsh"@en ;
+	dbp:laps	70 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:French_Grand_Prix	owl:sameAs	dbpedia-it:Gran_Premio_di_Francia ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_Francji_Formu\u0142y_1> ,
+		<http://ko.dbpedia.org/resource/\uD504\uB791\uC2A4_\uADF8\uB791\uD504\uB9AC> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30E9\u30F3\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA> ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_da_Fran\u00E7a> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:French_Grand_Prix	owl:sameAs	dbpedia-cs:Grand_Prix_Francie .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:French_Grand_Prix	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_Frankrijk .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:French_Grand_Prix	owl:sameAs	dbpedia-fr:Grand_Prix_automobile_de_France .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:French_Grand_Prix	owl:sameAs	wikidata:Q7997 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:French_Grand_Prix	owl:sameAs	yago-res:French_Grand_Prix ,
+		dbr:French_Grand_Prix ,
+		<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_von_Frankreich> ,
+		<http://rdf.freebase.com/ns/m.01yw6f> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:French_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q7997 .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:French_Grand_Prix	owl:sameAs	dbpedia-eu:Frantziako_Sari_Nagusia .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:French_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_Perancis .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:French_Grand_Prix	owl:sameAs	dbpedia-es:Gran_Premio_de_Francia .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:French_Grand_Prix	dct:subject	dbc:French_Grand_Prix ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grands_Prix> ,
+		dbc:Recurring_events_disestablished_in_2008 ,
+		dbc:Formula_One_Grands_Prix ,
+		dbc:National_Grands_Prix ,
+		dbc:Recurring_sporting_events_established_in_1906 ,
+		<http://dbpedia.org/resource/Category:1906_establishments_in_France> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:French_Grand_Prix	foaf:homepage	<http://www.gpfrancef1.com/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:French_Grand_Prix	geo:lat	"46.86299896240234375"^^xsd:float ;
+	geo:long	"3.1659998893737792969"^^xsd:float ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_France.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:French_Grand_Prix	foaf:isPrimaryTopicOf	wikipedia-en:French_Grand_Prix .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:French_Grand_Prix	geo:geometry	"POINT(3.1659998893738 46.862998962402)"^^virtrdf:Geometry ;
+	dbp:fastestLapTeam	dbr:Scuderia_Ferrari ;
+	dbp:winningTeam	dbr:Scuderia_Ferrari .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:French_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/French_Grand_Prix?oldid=738637026> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:French_Grand_Prix	georss:point	"46.863 3.166" ;
+	dbo:wikiPageExternalLink	<http://formula1home.com/season/2007/races/france/index.html> ,
+		<http://www.magnyf1.com/> ,
+		<http://www.gpfrancef1.com/> ;
+	dbp:fastestLapDriver	"Kimi R\u00E4ikk\u00F6nen"^^xsd:string ;
+	dbp:circuit	dbr:Circuit_de_Nevers_Magny-Cours ;
+	dbp:winner	"Felipe Massa"^^xsd:string ;
+	dbp:currentYear	2008 ;
+	dbp:poleTime	1 ;
+	dbp:name	"French Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Scuderia_Ferrari ;
+	dbp:secondTeam	dbr:Scuderia_Ferrari ;
+	dbo:abstract	"Der Gro\u00DFe Preis von Frankreich (Grand Prix de France, bis 1967 auch Grand Prix de l\u2019A.C.F.) ist eine seit 1906 durchgef\u00FChrte franz\u00F6sische Motorsportveranstaltung. Bis 1967 wurden die Rennen um \u201Eden\u201C franz\u00F6sischen Grand Prix offiziell immer als Grand Prix de l\u2019Automobile Club de France (kurz: \u201EGrand Prix de l\u2019A.C.F.\u201C) bezeichnet. Auch zuvor waren jedoch schon vereinzelt auch Rennen unter dem Titel Grand Prix de France gelaufen, die jedoch nicht an den Stellenwert des Grand Prix de l\u2019ACF als ein Grande \u00C9preuve heranreichten. Der erste Formel-1-Weltmeisterschaftslauf, noch als Grand Prix de l\u2019A.C.F., fand am 1. Juli 1950 auf dem Circuit de Reims-Gueux in Reims im D\u00E9partement Marne im Nordosten Frankreichs statt. 1952 wurde dieser Gro\u00DFe Preis des franz\u00F6sischen Automobilclubs auf der Strecke Rouen-les-Essarts ausgetragen. Bis 1968 war Rouen f\u00FCnfmal der Veranstaltungsort dieses Gro\u00DFen Preises und des Gro\u00DFen Preises von Frankreich im unregelm\u00E4\u00DFigen Wechsel mit dem Circuit de Reims-Gueux. In der Saison 1967 wurde der Formel-1-Grand-Prix zum einzigen Mal in Le Mans veranstaltet. Von 1969 bis 1973 fanden die Rennen abwechselnd auf dem Circuit de Charade bei Clermont-Ferrand und auf dem Circuit Paul Ricard bei Bandol nahe Toulon im D\u00E9partement Var statt. 1974 bis 1984 wechselten sich der Circuit de Dijon-Prenois bei Dijon im D\u00E9partement C\u00F4te-d\u2019Or und der Circuit Paul Ricard ab. Von 1985 bis 1990 wurde ausschlie\u00DFlich auf dem Circuit Paul Ricard gefahren. Ab 1991 war der Circuit de Nevers Magny-Cours, etwa 15 Kilometer s\u00FCdlich von Nevers im D\u00E9partement Ni\u00E8vre im Burgund, regelm\u00E4\u00DFiger Austragungsort. Am 24. Juli 2007 gab Formel-1-Promoter Bernie Ecclestone nach einem Treffen mit dem franz\u00F6sischen Premierminister Fran\u00E7ois Fillon bekannt, dass die Strecke auch 2008 und \u2013 falls keine Alternative gefunden werde \u2013 auch 2009 in den Kalender aufgenommen werde. Im Mai 2008 erkl\u00E4rte Ecclestone in einem Interview mit der franz\u00F6sischen Sportzeitung L\u2019\u00C9quipe, Magny-Cours werde am 22. Juni 2008 das letzte Mal Austragungsort f\u00FCr ein Formel-1-WM-Rennen sein, dies war dann auch der letzte Gro\u00DFe Preis von Frankreich. \n* Circuit de la Sarthe \n* Rouen-les-Essarts \n* Circuit de Reims-Gueux \n* Circuit Bugatti in Le Mans \n* Circuit de Charade \n* Circuit Paul Ricard \n* Circuit de Dijon-Prenois \n* Circuit Magny-Cours"@de ,
+		"The French Grand Prix (1906\u20131967: Grand Prix de l'ACF, 1968\u20132008: Grand Prix de France) was a race held as part of F\u00E9d\u00E9ration Internationale de l'Automobile's annual Formula One automobile racing championships. It was one of the oldest motor races in the world. It ceased shortly after its centenary in 2008 with 86 races having been held, a victim of finances and unfavourable venues. Unusually even for a race of such longevity, the location of the grand prix moved frequently with 16 different venues having been used over its life, a number only eclipsed by the Australian Grand Prix of the older races. It is also one of four races (along with the Belgian, Italian and Spanish Grands Prix) to have been held as part of the three distinct Grand Prix championships (World Manufacturers' Championship (late 1920s), European Championship (1930s), Formula One World Championship (since 1950)). The Grand Prix de l'ACF was tremendously influential in the early years of Grand Prix racing, leading the establishment of the rules and regulations of racing as well as setting trends in the evolution of racing. The power of original organiser, the Automobile Club de France, established France as the home of motor racing organisation."@en ,
+		"Grand Prix de FranceFichier:Circuit Magny Cours.png Drapeau Circuit de Nevers Magny-Cours Le Grand Prix automobile de France (officiellement appel\u00E9 Grand Prix de l'A.C.F. jusqu'en 1967 \u00E0 sa cinquante-troisi\u00E8me \u00E9dition) est une course automobile cr\u00E9\u00E9e sur circuit automobile en 1906. Il figurait au calendrier du championnat du monde de Formule 1 de 1950 \u00E0 2008 (exception faite de l'ann\u00E9e 1955 o\u00F9 l'\u00E9preuve a \u00E9t\u00E9 annul\u00E9e \u00E0 la suite du drame des 24 Heures du Mans). L'\u00E9preuve s'est d\u00E9roul\u00E9e sur le circuit de Nevers Magny-Cours de 1991 \u00E0 2008."@fr ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0643\u0627\u0646 \u0623\u062D\u062F \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0627\u0644\u0630\u064A \u062A\u0646\u0638\u0645\u0647 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A\u060C \u0648\u0647\u0648 \u0623\u062D\u062F \u0623\u0642\u062F\u0645 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0648\u062A\u0648\u0642\u0641\u062A \u0641\u064A \u0639\u0627\u0645 2008 \u0628\u0639\u062F \u0639\u0642\u062F\u0647\u0627 86 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"O Grande Pr\u00EAmio da Fran\u00E7a foi a primeira corrida de autom\u00F3veis a adotar a denomina\u00E7\u00E3o \"Grande Pr\u00EAmio\". A edi\u00E7\u00E3o inaugural do evento realizou-se em 1906, nos arredores de Le Mans. A prova fez parte do Campeonato Mundial de F\u00F3rmula 1, desde o surgimento da competi\u00E7\u00E3o, em 1950, at\u00E9 o ano de 2008. A partir da\u00ED, a corrida deixou de ser disputada, principalmente em raz\u00E3o da crise econ\u00F4mica mundial de 2008. H\u00E1 expectativas de que o evento volte a ser realizado, num futuro pr\u00F3ximo. Diversas pistas j\u00E1 sediaram a mais antiga corrida da hist\u00F3ria do automobilismo, que perde apenas para o Grande Pr\u00EAmio dos Estados Unidos em diversidade de circuitos que, ao longo dos anos, abrigaram um Grande Pr\u00EAmio v\u00E1lido para o Campeonato Mundial de F\u00F3rmula 1. A primeira edi\u00E7\u00E3o foi organizada pelo Autom\u00F3vel Clube da Fran\u00E7a - ACF, primeira entidade do g\u00EAnero, em 26-27 de junho de 1906, no circuito de Sarthe, com a participa\u00E7\u00E3o de 32 ve\u00EDculos. Foram doze voltas no longo tra\u00E7ado (102,976 km), formado por estradas da regi\u00E3o de Le Mans. Os carros partiram com 90 segundos de intervalo e o primeiro a sair foi o Lorraine-Dietrich pilotado por Fernand Gabriel. No fim da primeira volta, o Fiat conduzido por Vincenzo Lancia assumiu a lideran\u00E7a, marcando o tempo de 53min.42s. A segunda volta foi liderada por Paul Baras num Brasier. Na terceira volta, o Renault AK 90CV de Ferenc Szisz alcan\u00E7ou a ponta, permanecendo nessa posi\u00E7\u00E3o at\u00E9 a sexta volta, quando a prova foi suspensa. Os carros passaram a noite num parque fechado e no dia seguinte a corrida foi reiniciada. Os ve\u00EDculos largaram na ordem de chegada do dia anterior. Szisz manteve a lideran\u00E7a durante todas as seis voltas e sagrou-se o vencedor do primeiro Grande Pr\u00EAmio da Hist\u00F3ria. Em 1925, organizou-se o primeiro Campeonato Mundial, com os Grandes Pr\u00EAmios da Fran\u00E7a, da It\u00E1lia, da B\u00E9lgica e as 500 milhas de Indian\u00E1polis, nos EUA. A partir de 2004, o Grande Pr\u00EAmio da Fran\u00E7a passou a ser alvo de constantes amea\u00E7as de exclus\u00E3o do calend\u00E1rio da F\u00F3rmula 1, devido a quest\u00F5es de estrutura e de acesso, consideradas prec\u00E1rias pelos dirigentes da categoria, bem como \u00E0 pol\u00EDtica de expans\u00E3o da F\u00F3rmula 1 para outros circuitos modernos, em sua maioria sediados em outros continentes. Essa nova tend\u00EAncia levou \u00E0 inclus\u00E3o dos GPs da Mal\u00E1sia, Turquia, China, Bahrain, Val\u00EAncia (GP da Europa), Singapura, Emirados \u00C1rabes, e Coreia do Sul. Em 2011 j\u00E1 est\u00E1 acertada a realiza\u00E7\u00E3o do Grande Pr\u00EAmio da \u00CDndia. Nos anos seguintes haver\u00E1 a prov\u00E1vel volta do Grande Pr\u00EAmio dos Estados Unidos e a inser\u00E7\u00E3o do Grande Pr\u00EAmio da R\u00FAssia. O dirigente-mor da categoria, o brit\u00E2nico Bernie Ecclestone, j\u00E1 manifestou por diversas vezes seu desejo de que o Grande Pr\u00EAmio da Fran\u00E7a seja disputado num circuito de rua, em Paris, o que, segundo suas palavras, o levaria a renovar o contrato com a Federa\u00E7\u00E3o Francesa de Esporte Automobil\u00EDstico (FFSA), promotora do GP, \"por mais cem anos\". Mas a Prefeitura da capital francesa manifestou-se contra a ideia. Com a deflaga\u00E7\u00E3o da Crise Econ\u00F4mica Mundial de 2008, a prova deixou de ser realizada. A FFSA, segundo informaram seus dirigentes, n\u00E3o detinha condi\u00E7\u00F5es financeiras para arcar com as despesas de promo\u00E7\u00E3o do evento e pagar a comiss\u00E3o devida \u00E0 FOM, necess\u00E1ria para que um GP integre o Campeonato Mundial de F\u00F3rmula 1. Em raz\u00E3o disso, o GP da Fran\u00E7a, que j\u00E1 estava inserido no calend\u00E1rio provis\u00F3rio da F1 para o ano de 2009, foi cancelado, n\u00E3o mais voltando a ser disputado, desde ent\u00E3o. H\u00E1 alguns circuitos com potencial para voltar a receber a corrida, como as pra\u00E7as hist\u00F3ricas de Le Mans, Rouen e Paul Ricard e o pr\u00F3prio Magny-Cours. Para isso, qualquer deles ter\u00E1 de primeiramente adaptar-se \u00E0s atuais exig\u00EAncias estruturais da moderna F\u00F3rmula 1. O certo \u00E9 que o retorno do mais antigo Grande Pr\u00EAmio da hist\u00F3ria do automobilismo \u00E0 categoria m\u00E1xima do esporte a motor depende, principalmente, de um suporte financeiro consider\u00E1vel, que permita n\u00E3o apenas a constru\u00E7\u00E3o ou adapta\u00E7\u00E3o de um circuito, mas a implanta\u00E7\u00E3o de condi\u00E7\u00F5es satisfat\u00F3rias de transporte e hospedagem. Resta saber quem se candidata a arcar com esses gastos, principalmente porque a Crise Econ\u00F4mica ainda produz efeitos negativos na economia francesa."@pt ,
+		"El Gran Premio de Francia fue una carrera de automovilismo de velocidad disputada en Francia desde el a\u00F1o 1906 hasta 2008. Form\u00F3 parte del Campeonato Mundial de F\u00F3rmula 1 en gran parte de sus ediciones. Los Grandes Premios de automovilismo tuvieron su origen en Francia y el Gran Premio de Francia de 1906 fue una carrera internacional organizada por Automobile Club de France en el circuito de la Sarthe, con la participaci\u00F3n de treinta y dos veh\u00EDculos. El nombre Gran Premio se refer\u00EDa al premio de 45.000 francos franceses al ganador de la prueba. Dicha moneda val\u00EDa 0,290 gramos de oro por unidad, de modo que el premio equival\u00EDa a 13 kg de oro. El primer campeonato mundial fue organizado en 1925 en inclu\u00EDa adem\u00E1s los grandes premios de Italia, B\u00E9lgica y los Estados Unidos. El Gran Premio de Francia forma parte del campeonato de F\u00F3rmula 1 desde sus inicios en 1950. Varios han sido los circuitos donde se ha disputado el Gran Premio de Francia. Entre 1991 y 2008, la carrera se corri\u00F3 en el Circuito de Nevers Magny-Cours. La F\u00F3rmula 3000 Internacional y luego la GP2 Series han servido de teloneras desde 1999 hasta 2008. Desde 2004, problemas financieros han puesto en duda la participaci\u00F3n del Gran Premio de Francia en el campeonato de F\u00F3rmula 1. Desde 2005 a la fecha, la carrera se ha incluido de manera provisional en cada temporada. Finalmente, en 2009 se puso fin al contrato, siendo la del 2008 la \u00FAltima carrera disputada hasta la fecha en Francia. La llegada del franc\u00E9s Jean Todt a la presidencia de la FIA ha creado inter\u00E9s por la vuelta del Gran Premio de Francia al calendario. Bernie Ecclestone, por su parte, ha mostrado su inter\u00E9s por la vuelta de la carrera gala, pero tambi\u00E9n ha declarado que en ning\u00FAn caso se disputar\u00EDa en Magny-Cours. Se rumore\u00F3 la construcci\u00F3n de un circuito en Flins-Les Mureaux, pero la opci\u00F3n fue desestimada el 1 de diciembre de 2009. \u00DAltimamente se ha comentado que la salvaci\u00F3n del Gran Premio de Francia podr\u00EDa pasar por la celebraci\u00F3n de la cita en el circuito propiedad de Ecclestone, Paul Ricard."@es ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438(\u0444\u0440. Grand Prix de France) \u2014 \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0411\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0435\u043D \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u0441\u0435\u0437\u043E\u043D\u0430 1950 \u0433\u043E\u0434\u0430 \u043F\u043E 2008 \u0433\u043E\u0434. \u0412 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0433\u043E\u0434\u044B \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B \u043D\u0430 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0435 \u041C\u0430\u043D\u044C\u0438-\u041A\u0443\u0440. \u041F\u0435\u0440\u0432\u044B\u0439 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0431\u044B\u043B \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D 26 \u0438\u044E\u043D\u044F, 1906 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0438\u0437 \u0434\u043E\u0440\u043E\u0433 \u043E\u0431\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F \u0432\u043E\u0437\u043B\u0435 \u041B\u0435-\u041C\u0430\u043D\u0430, \u0438 \u0441\u0442\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0430."@ru ,
+		"Grand Prix Francji \u2013 jedna z eliminacji Mistrzostw \u015Awiata Formu\u0142y 1. Grand Prix jest organizowane od 1906 (od 1921 regularnie). Jest te\u017C jedn\u0105 z najstarszych eliminacji Formu\u0142y 1. Runda o Grand Prix Francji by\u0142a rozgrywana do 2008 roku."@pl ,
+		"\u30D5\u30E9\u30F3\u30B9\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08Grand Prix de France\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u3067\u884C\u308F\u308C\u308BF1\u306E\u30EC\u30FC\u30B9\u3002\u56FD\u969B\u898F\u6A21\u306E\u30B0\u30E9\u30F3\u30D7\u30EA\u30EC\u30FC\u30B9\u3068\u3057\u3066\u306F\u6700\u53E4\u306E\u6B74\u53F2\u3092\u6301\u3064\u3002"@ja ,
+		"Il Gran Premio di Francia \u00E8 stato il primo \"Gran Premio\" della storia automobilistica: la prima edizione si svolse nel 1906; in seguito \u00E8 stata una gara automobilistica valida per il Campionato del Mondo di Formula 1 dal 1950 al 2008, ad eccezione dell'edizione 1955, cancellata a causa del disastroso incidente alla 24 ore di Le Mans."@it ,
+		"De Grand Prix van Frankrijk was een race uit het Formule 1 kampioenschap die jaarlijks gehouden werd, sinds de start van het Formule 1 kampioenschap in 1950 tot 2008, met uitzondering van 1955. In 2009 werd er voor de tweede keer geen Franse Grand prix gehouden. Het is niet duidelijk of er in de nabije toekomst opnieuw een Franse Grand prix zal gereden worden en dat is onderwerp van debat. Michael Schumacher is met acht overwinningen recordhouder van de Grand prix. Alain Prost won zijn thuiswedstrijd zes keer."@nl ,
+		"\u6CD5\u570B\u5927\u734E\u8CFD (Grand Prix de France) \u662F\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u4E2D\u7684\u5176\u4E2D\u4E00\u500B\u8CFD\u7A0B\u3002 \u683C\u862D\u62AB\u6CBB\u5927\u8CFD\uFF08Grand Prix motor racing\uFF09\u8D77\u6E90\u65BC\u6CD5\u570B\u548C\u6CD5\u570B\u5927\u734E\u8CFD\uFF0C\u662F\u958B\u653E\u7684\u570B\u969B\u6BD4\u8CFD\uFF0C\u4E5F\u662F\u6700\u53E4\u8001\u7684\u5927\u734E\u8CFD\uFF0C\u7B2C\u4E00\u6B21\u8209\u884C\u57281906\u5E746\u670826\u65E5\u5728Sarthe\u7531Automobile Club de France\u6240\u8209\u8FA6\uFF0C\u7E3D\u5171\u670932\u8F1B\u8ECA\u4E0A\u5834\u8CFD\u3002 1925\u5E74\uFF0C\u8209\u8FA6\u7B2C\u4E00\u5C46\u4E16\u754C\u9326\u6A19\u8CFD\uFF0C\u8CFD\u7A0B\u6709\u6CD5\u570B\u5927\u734E\u8CFD\u3001\u610F\u5927\u5229\u5927\u734E\u8CFD\u3001\u6BD4\u5229\u6642\u5927\u734E\u8CFD\u548C\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF500\u30021950\u5E74\uFF0C\u6CD5\u570B\u5927\u734E\u8CFD\u52A0\u5165\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u7684\u8CFD\u7A0B\u4E2D\u3002\u6BD4\u8CFD\u5E7E\u4E4E\u5728\u5168\u6CD5\u570B\u7684\u8CFD\u9053\u8209\u8FA6\u904E\uFF0C\u50CF\u662FAutodrome de Montlh\u00E9ry\u3002\u5F9E1991\u5E74\u958B\u59CB\u6BD4\u8CFD\u90FD\u5728Circuit de Nevers Magny-Cours\u8209\u884C\u3002\u9077\u5F80Magny-Cours\u662F\u4F01\u5716\u523A\u6FC0\u7576\u5730\u7684\u7D93\u6FDF\uFF0C\u4F46\u8A31\u591A\u7684\u8ECA\u968A\u90FD\u62B1\u6028\u8DEF\u9014\u904E\u65BC\u9059\u9060\u3002 \u56E0\u70BA\u8CA1\u653F\u554F\u984C\u548C\u65B0\u52A0\u5165\u7684\u8CFD\u9053\u7DE3\u6545\uFF0C\u57282004\u5E74\u30012005\u5E74\u6CD5\u570B\u5927\u734E\u8CFD\u662F\u5426\u80FD\u6392\u9032\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u7A0B\u5145\u6EFF\u4E86\u8B8A\u6578\u3002\u96D6\u7136\u6700\u5F8C\u90FD\u6309\u7167\u539F\u8A02\u7684\u8A08\u756B\u6392\u5165\u4E86\u8CFD\u7A0B\uFF0C\u4F46\u672A\u4F86\u4ECD\u6709\u4E0D\u78BA\u5B9A\u6027\u3002 \u57282007\u5E743\u670829\u65E5FFSA\uFF08F\u00E9d\u00E9ration Fran\u00E7aise du Sport Automobile\uFF0C\u6CD5\u570B\u6C7D\u806F\uFF09\u5BA3\u4F482008\u5E74\u6CD5\u570B\u5927\u734E\u8CFD\u7121\u9650\u671F\"\u66AB\u505C\"\u3002\u9019\u6B21\u88AB\u505C\u6B62\u8209\u8FA6\u7684\u539F\u56E0\u662F\u7531\u65BC\u8CFD\u9053\u7684\u8CA1\u52D9\u554F\u984C\u548C\u8ECA\u968A\u62B1\u6028\u8CFD\u9053\u7684\u4F4D\u7F6E\u504F\u9060\u3002\u57285\u670831\u65E5Bernie Ecclestone\u8B49\u5BE62007\u5E74\u6CD5\u570B\u5927\u734E\u8CFD\u662FMagny-Cours\u6700\u5F8C\u8209\u8FA6\u7684\u4E00\u5834\u6BD4\u8CFD\u3002 \u7136\u800C\u7D93\u904E\u9019\u7A2E\u8AC7\u5224\u5F8C\uFF0C2008\u5E74\u6CD5\u570B\u5927\u734E\u8CFD\u6709\u4E86\u6062\u5FA9\u8209\u8FA6\u7684\u8DE1\u8C61\uFF0CEcclestone\u81EA\u5DF1\u4E5F\u8AAA\u9053\"We're going to maybe resurrect it for a year, or something like that\" \u3002\u57287\u670824\u65E5Ecclestone\u548C\u6CD5\u570B\u7E3D\u7406\u6703\u9762\uFF0C\u4E26\u4E14\u6C7A\u5B9A2008\u5E74\u53CA2009\u5E74\u7684\u6CD5\u570B\u5927\u734E\u8CFD\u7DAD\u6301\u5728Magny Cours\u8209\u8FA6\u30027\u670827\u65E5FIA\u516C\u4F482008\u5E74\u8CFD\u7A0B\u6642\u6CD5\u570B\u5927\u734E\u8CFD\u518D\u6B21\u7684\u5728Magny-Cours\u8209\u8FA6\u3002"@zh ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_France.svg?width=300> ;
+	dbo:wikiPageRevisionID	738637026 ;
+	dbo:wikiPageID	347436 ;
+	dbp:second	"Kimi R\u00E4ikk\u00F6nen"^^xsd:string ;
+	dbp:third	"Jarno Trulli"^^xsd:string ;
+	dbp:flag	"Flag_of_France.svg"^^xsd:string ;
+	dbp:poleDriver	"Kimi R\u00E4ikk\u00F6nen"^^xsd:string ;
+	dbp:circuitImage	"Circuit de Nevers Magny-Cours.svg"^^xsd:string ;
+	dbp:circuitLengthKm	4.4109999999999995879 ;
+	dbp:circuitLengthMi	2.741000000000000103 ;
+	dbp:fastestLap	1 ;
+	dbp:firstHeld	1906 ;
+	dbp:raceLengthKm	308.58600000000001273 ;
+	dbp:raceLengthMi	191.75499999999999545 .
+@prefix ns26:	<http://dbpedia.org/datatype/> .
+dbr:French_Grand_Prix	dbp:secondTime	"17.984"^^ns26:second ;
+	dbp:thirdTime	"28.25"^^ns26:second ;
+	dbp:timesHeld	86 ;
+	dbp:winningTime	"5510.245"^^ns26:second ;
+	dbp:lastHeld	2008 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:French_Grand_Prix	ns27:hypernym	dbr:Race ;
+	dbp:thirdTeam	dbr:Toyota_F1 ;
+	dbp:mostWinsConstructor	"Ferrari"^^xsd:string ;
+	dbp:mostWinsDriver	"Michael Schumacher"^^xsd:string .
+<http://dbpedia.org/resource/1938_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1939_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1907_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1908_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1912_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1913_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1914_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1921_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1922_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1923_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1924_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1925_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1926_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1933_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1947_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1994_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/2005_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/2008_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1932_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/2003_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/2004_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/2006_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1931_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1952_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1953_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1954_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1956_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1957_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1958_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1959_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1960_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1961_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1962_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1963_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1964_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1965_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1966_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1967_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1968_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1969_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1970_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1972_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1973_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1976_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1984_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1987_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1988_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1989_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1990_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1991_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1992_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1993_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1996_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1997_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1998_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1999_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/2000_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/2002_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/2007_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+dbr:Circuit_de_Charade	dbp:events	dbr:French_Grand_Prix .
+dbr:Dijon-Prenois	dbp:events	dbr:French_Grand_Prix .
+dbr:Circuit_Paul_Ricard	dbp:events	dbr:French_Grand_Prix .
+dbr:Reims-Gueux	dbp:events	dbr:French_Grand_Prix .
+dbr:Rouen-Les-Essarts	dbp:events	dbr:French_Grand_Prix .
+wikipedia-en:French_Grand_Prix	foaf:primaryTopic	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1948_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1906_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1977_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1980_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1981_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1983_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1985_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1986_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/1995_French_Grand_Prix>	dbp:nameOfRace	dbr:French_Grand_Prix .
+dbr:Grand_Prix_de_France	dbo:wikiPageRedirects	dbr:French_Grand_Prix .
+dbr:French_GP	dbo:wikiPageRedirects	dbr:French_Grand_Prix .
+<http://dbpedia.org/resource/Grand_Prix_de_l\u0027ACF>	dbo:wikiPageRedirects	dbr:French_Grand_Prix .

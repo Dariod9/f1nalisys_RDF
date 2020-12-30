@@ -1,0 +1,76 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	rdf:type	yago:Publication106589574 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	rdf:type	wikidata:Q386724 ,
+		yago:Product104007894 ,
+		yago:Object100002684 ,
+		yago:Creation103129123 ,
+		wikidata:Q571 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	rdf:type	dbo:Work ,
+		yago:PhysicalEntity100001930 ,
+		yago:Work104599396 ,
+		yago:Wikicat2006Books .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	rdf:type	owl:Thing ,
+		dbo:WrittenWork .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	rdf:type	schema:Book .
+@prefix bibo:	<http://purl.org/ontology/bibo/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	rdf:type	bibo:Book .
+@prefix ns7:	<http://dbpedia.org/class/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	rdf:type	ns7:Book ,
+		yago:Artifact100021939 ,
+		dbo:Book ,
+		yago:Book106410904 ,
+		yago:Whole100003553 ,
+		schema:CreativeWork .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	rdfs:label	"The Lost Generation (book)"@en ;
+	rdfs:comment	"The Lost Generation: The Brilliant but Tragic Lives of Rising British F1 Stars Roger Williamson, Tony Brise and Tom Pryce (ISBN 1-844-25205-1) is a book written by David Tremayne. The book is biography of three British Formula One drivers: Tony Brise, Tom Pryce and Roger Williamson, who all died after a short period in Formula One. With access to the drivers' families, friends and colleagues, Tremayne tells the full story of all three drivers. The book is 264 pages long and published by Haynes Group in August 2006."@en ;
+	owl:sameAs	<http://www4.wiwiss.fu-berlin.de/bookmashup/books/1844252051> ,
+		wikidata:Q7748631 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	owl:sameAs	dbpedia-wikidata:Q7748631 ,
+		<http://rdf.freebase.com/ns/m.026dmhz> ,
+		<http://yago-knowledge.org/resource/The_Lost_Generation_(book)> ,
+		<http://dbpedia.org/resource/The_Lost_Generation_(book)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	dct:subject	dbc:British_biographies ,
+		<http://dbpedia.org/resource/Category:2006_books> ,
+		dbc:Formula_One_media .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	foaf:name	"The Lost Generation: The Brilliant but Tragic Lives of Rising British F1 Stars Roger Williamson, Tony Brise and Tom Pryce"@en .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	dc:publisher	"Haynes Group" ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/The_Lost_Generation_(book)> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	dbo:numberOfPages	"264"^^xsd:positiveInteger .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	dbp:releaseDate	"August 2006"^^xsd:string ;
+	dbo:isbn	"1-84425-205-1" .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	dbo:literaryGenre	dbr:Biography .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/The_Lost_Generation_(book)?oldid=667143635> ;
+	dbo:lcc	"GV1032.A1 T745 2006" ;
+	dbo:oclc	"122715189" ;
+	dbo:nonFictionSubject	dbr:Autosport ;
+	dbp:caption	dbr:Tony_Brise ,
+		"Pictured from left to right are:"^^xsd:string ,
+		dbr:Roger_Williamson ,
+		"Original front cover."^^xsd:string ,
+		dbr:Tom_Pryce ;
+	dbo:author	dbr:David_Tremayne ;
+	dbo:abstract	"The Lost Generation: The Brilliant but Tragic Lives of Rising British F1 Stars Roger Williamson, Tony Brise and Tom Pryce (ISBN 1-844-25205-1) is a book written by David Tremayne. The book is biography of three British Formula One drivers: Tony Brise, Tom Pryce and Roger Williamson, who all died after a short period in Formula One. With access to the drivers' families, friends and colleagues, Tremayne tells the full story of all three drivers. The book is 264 pages long and published by Haynes Group in August 2006."@en ;
+	dbo:wikiPageRevisionID	667143635 ;
+	dbo:wikiPageID	7804577 ;
+	dbp:country	"United Kingdom"^^xsd:string ;
+	dbp:language	"English"^^xsd:string .
+@prefix ns18:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	ns18:hypernym	dbr:Book .
+<http://en.wikipedia.org/wiki/The_Lost_Generation_(book)>	foaf:primaryTopic	<http://dbpedia.org/resource/The_Lost_Generation_(book)> .
+<http://dbpedia.org/resource/The_Lost_Generation:_The_Brilliant_but_Tragic_Lives_of_Rising_British_F1_Stars_Roger_Williamson,_Tony_Brise_and_Tom_Pryce>	dbo:wikiPageRedirects	<http://dbpedia.org/resource/The_Lost_Generation_(book)> .
+<http://dbpedia.org/resource/Lost_Generation_(disambiguation)>	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/The_Lost_Generation_(book)> .

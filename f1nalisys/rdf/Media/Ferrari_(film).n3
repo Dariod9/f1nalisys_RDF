@@ -1,0 +1,90 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Ferrari_(film)>	foaf:primaryTopic	<http://dbpedia.org/resource/Ferrari_(film)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Ferrari_(film)>	rdf:type	dbo:Work .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Ferrari_(film)>	rdf:type	yago:WikicatItalianDocumentaryFilms ,
+		yago:WikicatEnglish-languageFilms .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Ferrari_(film)>	rdf:type	schema:Movie .
+@prefix ns5:	<http://dbpedia.org/ontology/Wikidata:> .
+<http://dbpedia.org/resource/Ferrari_(film)>	rdf:type	ns5:Q11424 ,
+		yago:Wikicat2003TelevisionFilms ,
+		schema:CreativeWork ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatItalianFilms .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Ferrari_(film)>	rdf:type	wikidata:Q386724 ,
+		yago:Object100002684 ,
+		yago:WikicatBiographicalFilms ,
+		yago:Movie106613686 ,
+		yago:Whole100003553 ,
+		yago:Abstraction100002137 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Documentary106616806 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Ferrari_(film)>	rdf:type	owl:Thing ,
+		yago:WikicatItalianDramaFilms ,
+		yago:WikicatFilmsDirectedByCarloCarlei ,
+		dbo:Film ,
+		yago:Event100029378 ,
+		yago:Creation103129123 ,
+		yago:SocialEvent107288639 ,
+		yago:Product104007894 ,
+		yago:Show106619065 ,
+		yago:Artifact100021939 ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Ferrari_(film)>	rdfs:label	"Ferrari (film)"@en ,
+		"Ferrari (miniserie televisiva)"@it ,
+		"Ferrari (film)"@pl ;
+	rdfs:comment	"Ferrari \u00E8 una miniserie televisiva italiana in due puntate, trasmessa su Canale 5 nel 2003. Racconta la vita di Enzo Ferrari, storico pilota ed imprenditore italiano."@it ,
+		"Ferrari is a 2003 bio-pic based on the book by Enzo Biagi. It depicts Enzo Ferrari's rise from a successful race driver to one of the most famous entrepreneurs of all time. Being interviewed by a fictitious, intrusive young journalist he recalls his setbacks and personal losses.  He also expresses his regrets about race drivers who met with an accident. The film finishes with a dedication by Piero Ferrari: \"In loving memory of my father and of my brother Dino\". Due to its success the original TV miniseries was edited for cinema."@en ,
+		"Ferrari \u2013 w\u0142oski dramatyczny film dokumentalny w re\u017Cyserii Carlo Carlei wydany w 16 lutego 2003 roku."@pl ;
+	owl:sameAs	wikidata:Q2254817 ,
+		<http://yago-knowledge.org/resource/Ferrari_(film)> ,
+		<http://pl.dbpedia.org/resource/Ferrari_(film)> ,
+		<http://it.dbpedia.org/resource/Ferrari_(miniserie_televisiva)> ,
+		<http://dbpedia.org/resource/Ferrari_(film)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Ferrari_(film)>	owl:sameAs	dbpedia-wikidata:Q2254817 ,
+		<http://id.dbpedia.org/resource/Ferrari_(film)> ,
+		<http://rdf.freebase.com/ns/m.04j1lr8> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Ferrari_(film)>	dct:subject	dbc:Italian_biographical_films ,
+		dbc:Films_set_in_the_20th_century ,
+		dbc:Films_directed_by_Carlo_Carlei ,
+		dbc:Italian_films ,
+		<http://dbpedia.org/resource/Category:2003_television_films> ,
+		dbc:Auto_racing_films ,
+		dbc:Formula_One_media ,
+		dbc:English-language_films ;
+	foaf:name	"Enzo Ferrari"@en ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Ferrari_(film)> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Ferrari_(film)>	dbo:writer	dbr:Carlo_Carlei ;
+	dbo:starring	dbr:Sergio_Castellitto .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Ferrari_(film)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ferrari_(film)?oldid=694965929> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Ferrari_(film)>	dbp:editing	"Claudio Di Mauro"^^xsd:string ,
+		"Luciana Pandolfelli"^^xsd:string ;
+	dbo:director	dbr:Carlo_Carlei ;
+	dbp:cinematography	"Gino Sgreva"^^xsd:string ;
+	dbo:musicComposer	dbr:Paolo_Buonvino ;
+	dbp:distributor	"Vii Pillars Entertainment"^^xsd:string ;
+	dbp:language	"English"^^xsd:string ;
+	dbo:abstract	"Ferrari is a 2003 bio-pic based on the book by Enzo Biagi. It depicts Enzo Ferrari's rise from a successful race driver to one of the most famous entrepreneurs of all time. Being interviewed by a fictitious, intrusive young journalist he recalls his setbacks and personal losses.  He also expresses his regrets about race drivers who met with an accident. The film finishes with a dedication by Piero Ferrari: \"In loving memory of my father and of my brother Dino\". Due to its success the original TV miniseries was edited for cinema."@en ,
+		"Ferrari \u2013 w\u0142oski dramatyczny film dokumentalny w re\u017Cyserii Carlo Carlei wydany w 16 lutego 2003 roku."@pl ,
+		"Ferrari \u00E8 una miniserie televisiva italiana in due puntate, trasmessa su Canale 5 nel 2003. Racconta la vita di Enzo Ferrari, storico pilota ed imprenditore italiano."@it ;
+	dbo:wikiPageRevisionID	694965929 ;
+	dbo:wikiPageID	36202282 ;
+	dbo:country	dbr:Italy .
+@prefix ns15:	<http://dbpedia.org/datatype/> .
+@prefix ns16:	<http://dbpedia.org/ontology/Work/> .
+<http://dbpedia.org/resource/Ferrari_(film)>	ns16:runtime	"110.0"^^ns15:minute ;
+	dbo:producer	dbr:Guido_De_Angelis .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Ferrari_(film)>	dbo:runtime	6600.0 .

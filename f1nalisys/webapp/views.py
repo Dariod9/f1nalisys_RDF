@@ -164,26 +164,87 @@ def teams(request):
     return render(request, 'teams.html', tparams)
 
 
+def media(request):
+    db_info = open_db()
+    print(db_info)
+    # "@prefix dbc: < http: // dbpedia.org / resource / Category: >."
+
+    info = """
+                PREFIX dbc: <http://dbpedia.org/resource/Category:>
+                PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+                PREFIX dbo: <http://dbpedia.org/ontology/>
+                PREFIX prov: <http://www.w3.org/ns/prov#>
+                select ?s ?o ?h
+                where { 
+                    ?s ?p dbc:Formula_One_media .
+                    ?s rdfs:label ?o .
+                    ?s prov:wasDerivedFrom ?h
+                    filter (lang(?o)="en" ||lang(?o)="pt" || lang(?o)="fr" || lang(?o)="es")
+                }
+
+
+            """
+
+    payload_query = {"query": info}
+    res = db_info[1].sparql_select(body=payload_query,
+                                   repo_name=db_info[0])
+
+    res = json.loads(res)
+    pistas=dict()
+    nome=""
+    novaNome=""
+
+    for e in res['results']['bindings']:
+        nome=e['s']['value']
+        if nome not in pistas:
+            pistas[nome]=dict()
+            pistas[nome]["Label"]=e['o']['value']
+            pistas[nome]["URL"]=e['h']['value']
+        else:
+            pistas[nome]["Label"]=pistas[nome]["Label"]+"\n"+e['o']['value']
+        # if pista is novaPista:
+        #     pass
+        # else:
+        #     pistas[pista]=[]
+
+        #list.append(e['s']['value'])
+
+    print(pistas)
+
+    tparams = {
+        'lista': pistas
+    }
+
+    return render(request, 'media.html', tparams)
+
+
+
 def tracks(request):
     db_info = open_db()
     print(db_info)
 
     # "@prefix dbc: < http: // dbpedia.org / resource / Category: >."
     info = """
-            PREFIX dbo:	<http://dbpedia.org/ontology/>
-            PREFIX dbp:	<http://dbpedia.org/property/>
-            PREFIX dct:	<http://purl.org/dc/terms/> 
-            PREFIX dbr:	<http://dbpedia.org/resource/> 
             PREFIX dbc: <http://dbpedia.org/resource/Category:>
             PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-            select DISTINCT ?s ?o ?l ?i
-            where {
-                ?s dct:subject dbc:Formula_One_circuits .
-                ?s rdfs:label ?o .
-                ?s dbp:location ?l .
-                ?s dbo:thumbnail ?i
-                filter (lang(?o) = "en")
-            }  
+            PREFIX dbo: <http://dbpedia.org/ontology/>
+            PREFIX prov: <http://www.w3.org/ns/prov#>
+            PREFIX dbr: <http://dbpedia.org/resource/>
+            PREFIX dbp: <http://dbpedia.org/property/>
+            select ?s ?imgP ?laps ?name ?mostW ?c ?link ?t ?imgC ?l
+            where { 
+                ?s ?p dbc:Formula_One_Grands_Prix .
+                ?s dbo:thumbnail ?imgP.
+                ?s dbp:laps ?laps.
+                ?s dbp:name ?name.
+                ?s dbp:mostWinsDriver ?mostW.
+                ?s prov:wasDerivedFrom ?link.
+                ?s dbp:circuit ?c.
+                ?c dbp:turns ?t.
+                ?c dbo:thumbnail ?imgC.
+                ?c dbp:location ?l .
+                
+            }
 
         """
 
@@ -197,13 +258,22 @@ def tracks(request):
     novaNome=""
 
     for e in res['results']['bindings']:
-        nome=e['o']['value']
+        nome=e['s']['value']
         if nome not in pistas:
             pistas[nome]=dict()
-            pistas[nome]["Location"]=e['l']['value']
-            pistas[nome]["Picture"]=e['i']['value']
+            pistas[nome]["imgP"]=e['imgP']['value']
+            pistas[nome]["Laps"]=e['laps']['value']
+            pistas[nome]["Name"]=e['name']['value']
+            pistas[nome]["MostWin"]=e['mostW']['value']
+            pistas[nome]["LinkGP"]=e['link']['value']
+            pistas[nome]["Turns"]=e['t']['value']
+            pistas[nome]["imgC"]=e['imgC']['value']
+            pistas[nome]["Location"]=checkLocation(e['l']['value'])
         else:
-            pistas[nome]["Location"]=pistas[nome]["Location"]+", "+e['l']['value']
+            if e['mostW']['value'] not in pistas[nome]["MostWin"]:
+                pistas[nome]["MostWin"] = pistas[nome]["MostWin"]+", "+e['mostW']['value']
+            if checkLocation(e['l']['value']) not in pistas[nome]["Location"]:
+                pistas[nome]["Location"]=pistas[nome]["Location"]+", "+checkLocation(e['l']['value'])
         # if pista is novaPista:
         #     pass
         # else:
@@ -223,6 +293,13 @@ def tracks(request):
 def season(request):
     return None
 
+def checkLocation(string):
+
+    if "http" in string:
+        array=string.split("/")
+        return array[len(array)-1]
+    else:
+        return string
 
 
 

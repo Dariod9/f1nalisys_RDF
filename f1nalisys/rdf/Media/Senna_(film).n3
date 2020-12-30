@@ -1,0 +1,150 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Senna_(film)>	foaf:primaryTopic	<http://dbpedia.org/resource/Senna_(film)> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Sena_(film)>	owl:differentFrom	<http://dbpedia.org/resource/Senna_(film)> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Senna	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Senna_(film)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Senna_(film)>	rdf:type	dbo:Film .
+@prefix ns5:	<http://dbpedia.org/ontology/Wikidata:> .
+<http://dbpedia.org/resource/Senna_(film)>	rdf:type	ns5:Q11424 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Senna_(film)>	rdf:type	yago:WikicatDocumentaryFilmsAboutPeople ,
+		yago:WikicatEnglish-languageFilms ,
+		yago:Product104007894 ,
+		yago:Creation103129123 ,
+		yago:Movie106613686 .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Senna_(film)>	rdf:type	schema:CreativeWork ,
+		yago:Abstraction100002137 ,
+		yago:WikicatStudioCanalFilms ,
+		dbo:Work ,
+		yago:WikicatDocumentaryFilmsAboutSportspeople ,
+		yago:Documentary106616806 ,
+		yago:WikicatBritishFilms ,
+		yago:WikicatBritishDocumentaryFilms ,
+		yago:Whole100003553 ,
+		yago:Wikicat2010Films ,
+		yago:PsychologicalFeature100023100 ,
+		owl:Thing ,
+		yago:WikicatDocumentaryFilmsAboutTransport ,
+		schema:Movie ,
+		yago:Artifact100021939 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Senna_(film)>	rdf:type	wikidata:Q386724 ,
+		yago:Show106619065 ,
+		yago:WikicatUniversalPicturesFilms ,
+		yago:SocialEvent107288639 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatDocumentaryFilmsAboutAutoRacing ,
+		yago:Event100029378 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Wikicat2010sDocumentaryFilms ,
+		yago:WikicatDocumentaryFilmsAboutSports ,
+		yago:Object100002684 ,
+		yago:WikicatFrenchDocumentaryFilms ,
+		yago:WikicatFilmsAboutAutomobiles .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Senna_(film)>	rdfs:label	"Senna (film)"@fr ,
+		"Senna (film)"@pl ,
+		"Senna (Film)"@de ,
+		"Senna (film)"@it ,
+		"Senna (film)"@nl ,
+		"Senna (filme)"@pt ,
+		"Senna (documental)"@es ,
+		"Senna (film)"@en ,
+		"\u30A2\u30A4\u30EB\u30C8\u30F3\u30FB\u30BB\u30CA \u301C\u97F3\u901F\u306E\u5F7C\u65B9\u3078"@ja ,
+		"\u0421\u0435\u043D\u043D\u0430 (\u0444\u0438\u043B\u044C\u043C)"@ru ;
+	rdfs:comment	"Senna is a 2010 British documentary film that depicts the life and death of Brazilian motor-racing champion Ayrton Senna, directed by Asif Kapadia. The film was produced by StudioCanal, Working Title Films, and Midfield Films, and was distributed by the parent company of the latter two production companies, Universal Pictures."@en ,
+		"\u300E\u30A2\u30A4\u30EB\u30C8\u30F3\u30FB\u30BB\u30CA \u301C\u97F3\u901F\u306E\u5F7C\u65B9\u3078\u300F\uFF08\u539F\u984C\uFF1ASenna\uFF09\u306F\u3001 2010\u5E74\u30A4\u30AE\u30EA\u30B9\u88FD\u4F5C\u306E\u30C9\u30AD\u30E5\u30E1\u30F3\u30BF\u30EA\u30FC\u6620\u753B\u3002"@ja ,
+		"\u00AB\u0421\u0435\u043D\u043D\u0430\u00BB (\u0430\u043D\u0433\u043B. Senna) \u2014 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0439 \u0444\u0438\u043B\u044C\u043C \u0440\u0435\u0436\u0438\u0441\u0441\u0451\u0440\u0430 \u0410\u0441\u0438\u0444\u0430 \u041A\u0430\u043F\u0430\u0434\u0438\u0430, \u0432\u044B\u0448\u0435\u0434\u0448\u0438\u0439 \u043D\u0430 \u044D\u043A\u0440\u0430\u043D\u044B \u0432 2010 \u0433\u043E\u0434\u0443."@ru ,
+		"Senna \u00E8 un documentario del 2010 diretto da Asif Kapadia. Il film ripercorre in ordine cronologico tutta la carriera del pilota brasiliano Ayrton Senna, mostrando spesso immagini inedite, molte delle quali concesse direttamente dalla famiglia Senna."@it ,
+		"Senna is een documentaire uit 2010 dat het leven en de dood van de Braziliaanse drievoudig Formule 1-kampioen Ayrton Senna beschrijft. Het is de vierde film die door Asif Kapadia is geregisseerd, geproduceerd door ESPN/Working Title, gedistributeerd door Universal Pictures/Walt Disney Pictures. De film won een Satellite Award in de categorie beste documentaire. In Nederland verscheen de film niet in de bioscoop, maar beleefde op 27 november 2011 haar tv-premi\u00E8re na de Grand Prix Formule 1 van Brazili\u00EB op RTL7."@nl ,
+		"Senna Information Pour plus de d\u00E9tails, voir  et Senna est un film documentaire biographique britannique sur le pilote automobile br\u00E9silien Ayrton Senna r\u00E9alis\u00E9 par Asif Kapadia, sorti en 2010."@fr ,
+		"Senna \u2013 film dokumentalny produkcji brytyjskiej z 2010. Film biograficzny o kierowcy Ayrtonie Senna trzykrotnym mistrzu \u015Bwiata Formu\u0142y 1 tragicznie zmar\u0142ego po wypadku z Grand Prix San Marino 1994. Prace nad filmem rozpocz\u0119\u0142y si\u0119 w maju 2010 roku. W produkcji filmu by\u0142y zaanga\u017Cowane w\u0142adze Formu\u0142y 1, rodzina Ayrtona Senny i jego fundacja Instituto Ayrton Senna."@pl ,
+		"Senna es un documental ingl\u00E9s lanzado en 2010, que aborda la vida \u00EDntima y profesional del c\u00E9lebre piloto brasile\u00F1o de F\u00F3rmula 1, Ayrton Senna. Fue dirigida por Asif Kapadia, producida en conjunto por ESPN films y Working title films, y distribuida por Universal Pictures. Tras su lanzamiento recibi\u00F3 excelentes comentarios por parte de la cr\u00EDtica especializada."@es ,
+		"Senna \u00E9 um document\u00E1rio lan\u00E7ado em 2010 que conta a trajet\u00F3ria de Ayrton Senna na F\u00F3rmula 1. \u00C9 uma co-produ\u00E7\u00E3o de Fran\u00E7a, Brasil, Reino Unido e Estados Unidos. O longa foi produzido pela Working Title em parceria com a ESPN Films e foi distribu\u00EDdo pela Universal Pictures. Recebeu aclama\u00E7\u00E3o tanto da cr\u00EDtica quanto do p\u00FAblico, tornando-se um dos maiores do g\u00EAnero document\u00E1rio e filmes sobre esportes em todos os tempos."@pt ,
+		"Senna ist ein britischer Dokumentarfilm aus dem Jahr 2010, der durch den Regisseur Asif Kapadia inszeniert wurde. Deutscher Kinostart war am 12. Mai 2011."@de ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30A2\u30A4\u30EB\u30C8\u30F3\u30FB\u30BB\u30CA_\u301C\u97F3\u901F\u306E\u5F7C\u65B9\u3078> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Senna_(film)>	owl:sameAs	dbpedia-wikidata:Q534785 ,
+		<http://fr.dbpedia.org/resource/Senna_(film)> ,
+		<http://pt.dbpedia.org/resource/Senna_(filme)> ,
+		<http://yago-knowledge.org/resource/Senna_(film)> ,
+		<http://de.dbpedia.org/resource/Senna_(Film)> ,
+		<http://pl.dbpedia.org/resource/Senna_(film)> ,
+		wikidata:Q534785 ,
+		<http://it.dbpedia.org/resource/Senna_(film)> ,
+		<http://rdf.freebase.com/ns/m.0g4pl7z> ,
+		<http://dbpedia.org/resource/Senna_(film)> ,
+		<http://nl.dbpedia.org/resource/Senna_(film)> ,
+		<http://es.dbpedia.org/resource/Senna_(documental)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Senna_(film)>	dct:subject	dbc:Formula_One_media ,
+		dbc:Documentary_films_about_auto_racing ,
+		dbc:British_documentary_films ,
+		dbc:StudioCanal_films ,
+		dbc:Films_directed_by_Asif_Kapadia ,
+		dbc:Films_produced_by_Tim_Bevan ,
+		<http://dbpedia.org/resource/Category:2010s_documentary_films> ,
+		dbc:English-language_films ,
+		dbc:Sundance_Film_Festival_award_winners ,
+		dbc:Films_produced_by_Eric_Fellner ,
+		dbc:Universal_Pictures_films ,
+		<http://dbpedia.org/resource/Category:2010s_sports_films> ,
+		dbc:Working_Title_Films_films ,
+		dbc:Ayrton_Senna ,
+		dbc:British_films ,
+		dbc:Documentary_films_about_sportspeople ,
+		<http://dbpedia.org/resource/Category:2010_films> ;
+	foaf:name	"Senna"@en ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Senna_(film)> ;
+	dbo:starring	dbr:Ron_Dennis ,
+		<http://dbpedia.org/resource/Frank_Williams_(Formula_One)> ,
+		dbr:Ayrton_Senna ,
+		dbr:Alain_Prost .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Senna_(film)>	dbp:writer	"Manish Pandey"^^xsd:string .
+@prefix ns14:	<http://dbpedia.org/datatype/> .
+@prefix ns15:	<http://dbpedia.org/ontology/Work/> .
+<http://dbpedia.org/resource/Senna_(film)>	ns15:runtime	"106.0"^^ns14:minute .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Senna_(film)>	dbo:runtime	6360.0 ;
+	dbp:studio	"Midfield Films"^^xsd:string ,
+		dbr:StudioCanal ,
+		dbr:Working_Title_Films .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Senna_(film)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Senna_(film)?oldid=734780704> ;
+	dbp:caption	"Theatrical release poster"^^xsd:string ;
+	dbo:musicComposer	<http://dbpedia.org/resource/Antonio_Pinto_(composer)> ;
+	dbo:producer	dbr:Eric_Fellner ,
+		dbr:Tim_Bevan ,
+		dbr:James_Gay-Rees ;
+	dbo:abstract	"\u00AB\u0421\u0435\u043D\u043D\u0430\u00BB (\u0430\u043D\u0433\u043B. Senna) \u2014 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u044B\u0439 \u0444\u0438\u043B\u044C\u043C \u0440\u0435\u0436\u0438\u0441\u0441\u0451\u0440\u0430 \u0410\u0441\u0438\u0444\u0430 \u041A\u0430\u043F\u0430\u0434\u0438\u0430, \u0432\u044B\u0448\u0435\u0434\u0448\u0438\u0439 \u043D\u0430 \u044D\u043A\u0440\u0430\u043D\u044B \u0432 2010 \u0433\u043E\u0434\u0443."@ru ,
+		"Senna es un documental ingl\u00E9s lanzado en 2010, que aborda la vida \u00EDntima y profesional del c\u00E9lebre piloto brasile\u00F1o de F\u00F3rmula 1, Ayrton Senna. Fue dirigida por Asif Kapadia, producida en conjunto por ESPN films y Working title films, y distribuida por Universal Pictures. Tras su lanzamiento recibi\u00F3 excelentes comentarios por parte de la cr\u00EDtica especializada. El film est\u00E1 basado tanto en archivos familiares del fallecido piloto, como tambi\u00E9n material audiovisual de televisi\u00F3n, brasile\u00F1a y mundial de la \u00E9poca. Se muestra a Ayrton Senna muy religioso, preocupado por sus compa\u00F1eros de trabajo, perfeccionista hasta el m\u00EDnimo detalle, obsesionado con el triunfo, \u00EDdolo de millones alrededor del mundo e idolatrado en su pa\u00EDs natal."@es ,
+		"Senna Information Pour plus de d\u00E9tails, voir  et Senna est un film documentaire biographique britannique sur le pilote automobile br\u00E9silien Ayrton Senna r\u00E9alis\u00E9 par Asif Kapadia, sorti en 2010."@fr ,
+		"Senna is een documentaire uit 2010 dat het leven en de dood van de Braziliaanse drievoudig Formule 1-kampioen Ayrton Senna beschrijft. Het is de vierde film die door Asif Kapadia is geregisseerd, geproduceerd door ESPN/Working Title, gedistributeerd door Universal Pictures/Walt Disney Pictures. De film won een Satellite Award in de categorie beste documentaire. In Nederland verscheen de film niet in de bioscoop, maar beleefde op 27 november 2011 haar tv-premi\u00E8re na de Grand Prix Formule 1 van Brazili\u00EB op RTL7."@nl ,
+		"\u300E\u30A2\u30A4\u30EB\u30C8\u30F3\u30FB\u30BB\u30CA \u301C\u97F3\u901F\u306E\u5F7C\u65B9\u3078\u300F\uFF08\u539F\u984C\uFF1ASenna\uFF09\u306F\u3001 2010\u5E74\u30A4\u30AE\u30EA\u30B9\u88FD\u4F5C\u306E\u30C9\u30AD\u30E5\u30E1\u30F3\u30BF\u30EA\u30FC\u6620\u753B\u3002"@ja ,
+		"Senna \u2013 film dokumentalny produkcji brytyjskiej z 2010. Film biograficzny o kierowcy Ayrtonie Senna trzykrotnym mistrzu \u015Bwiata Formu\u0142y 1 tragicznie zmar\u0142ego po wypadku z Grand Prix San Marino 1994. Prace nad filmem rozpocz\u0119\u0142y si\u0119 w maju 2010 roku. W produkcji filmu by\u0142y zaanga\u017Cowane w\u0142adze Formu\u0142y 1, rodzina Ayrtona Senny i jego fundacja Instituto Ayrton Senna."@pl ,
+		"Senna \u00E9 um document\u00E1rio lan\u00E7ado em 2010 que conta a trajet\u00F3ria de Ayrton Senna na F\u00F3rmula 1. \u00C9 uma co-produ\u00E7\u00E3o de Fran\u00E7a, Brasil, Reino Unido e Estados Unidos. O longa foi produzido pela Working Title em parceria com a ESPN Films e foi distribu\u00EDdo pela Universal Pictures. Durante v\u00E1rios anos in\u00FAmeros diretores de renome internacional tiveram a inten\u00E7\u00E3o de realizar um filme sobre Ayrton Senna, entre eles: Ridley Scott, Walter Salles, Michael Mann e Oliver Stone. Por\u00E9m, como o objetivo deles era que algum ator fizesse o papel de Ayrton Senna, a fam\u00EDlia n\u00E3o autorizou a sua realiza\u00E7\u00E3o. At\u00E9 que o diretor Asif Kapadia aceitou fazer um document\u00E1rio sobre o piloto brasileiro, conseguindo assim autoriza\u00E7\u00E3o da fam\u00EDlia para a realiza\u00E7\u00E3o do projeto. Alguns atores brasileiros e estrangeiros foram cotados a viver Senna no cinema. O espanhol Antonio Banderas foi cogitado em 1996, pela pr\u00F3pria irm\u00E3 do piloto, a interpret\u00E1-lo. J\u00E1 o norte-americano Sylvester Stallone chegou a conversar, informalmente no ano de 1994, com Ayrton, sobre a possibilidade do ator interpretar o brasileiro no cinema.Rodrigo Santoro igualmente foi cogitado a encarnar Ayrton Senna nas telonas, por\u00E9m o projeto foi paralisado momentaneamente. Recebeu aclama\u00E7\u00E3o tanto da cr\u00EDtica quanto do p\u00FAblico, tornando-se um dos maiores do g\u00EAnero document\u00E1rio e filmes sobre esportes em todos os tempos."@pt ,
+		"Senna is a 2010 British documentary film that depicts the life and death of Brazilian motor-racing champion Ayrton Senna, directed by Asif Kapadia. The film was produced by StudioCanal, Working Title Films, and Midfield Films, and was distributed by the parent company of the latter two production companies, Universal Pictures. The film's narrative focuses on Senna's racing career in Formula One, from his debut in the 1984 Brazilian Grand Prix to his death in an accident at the 1994 San Marino Grand Prix, with particular emphasis on his rivalry with fellow driver Alain Prost. It relies primarily on archive racetrack footage and home video clips provided by the Senna family, rather than retrospective video interviews, and has no formal commentary."@en ,
+		"Senna \u00E8 un documentario del 2010 diretto da Asif Kapadia. Il film ripercorre in ordine cronologico tutta la carriera del pilota brasiliano Ayrton Senna, mostrando spesso immagini inedite, molte delle quali concesse direttamente dalla famiglia Senna."@it ,
+		"Senna ist ein britischer Dokumentarfilm aus dem Jahr 2010, der durch den Regisseur Asif Kapadia inszeniert wurde. Deutscher Kinostart war am 12. Mai 2011."@de ;
+	dbo:wikiPageRevisionID	734780704 ;
+	dbo:wikiPageID	30110298 ;
+	dbo:cinematography	dbr:Jake_Polonsky ;
+	dbo:director	dbr:Asif_Kapadia ;
+	dbo:distributor	dbr:Universal_Studios ;
+	dbo:editing	dbr:Gregers_Sall ;
+	dbo:gross	"1.09E7"^^ns14:usDollar ;
+	dbp:country	"France"^^xsd:string ,
+		"United Kingdom"^^xsd:string ;
+	dbp:language	"Japanese"^^xsd:string ,
+		"English"^^xsd:string ,
+		"French"^^xsd:string ,
+		"Portuguese"^^xsd:string .
+@prefix ns18:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/Senna_(film)>	ns18:hypernym	dbr:Film .
+<http://dbpedia.org/resource/Senna_(2010_film)>	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Senna_(film)> .

@@ -1,0 +1,72 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Formula_One_on_NBC	foaf:primaryTopic	dbr:Formula_One_on_NBC .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:F1_Countdown	dbo:related	dbr:Formula_One_on_NBC .
+dbr:F1_Extra	dbo:related	dbr:Formula_One_on_NBC .
+dbr:F1_Paddock_Pass	dbo:related	dbr:Formula_One_on_NBC .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Formula_One_on_NBC	rdf:type	dbo:Work .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Formula_One_on_NBC	rdf:type	wikidata:Q15416 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Formula_One_on_NBC	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Formula_One_on_NBC	rdf:type	schema:CreativeWork ,
+		dbo:TelevisionShow ,
+		wikidata:Q386724 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Formula_One_on_NBC	rdfs:label	"Formula One on NBC"@en ;
+	rdfs:comment	"Formula One on NBC is a presentation of Formula 1 produced by NBC Sports. Races, practices, and qualifying are televised on NBC, NBCSN, and CNBC, and streamed live on NBC Sports Live Extra."@en ;
+	owl:sameAs	dbr:Formula_One_on_NBC ,
+		wikidata:Q26812655 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Formula_One_on_NBC	owl:sameAs	dbpedia-wikidata:Q26812655 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Formula_One_on_NBC	dct:subject	dbc:American_sports_television_series ,
+		dbc:NBC_Sports ,
+		<http://dbpedia.org/resource/Category:1981_American_television_series_debuts> ,
+		<http://dbpedia.org/resource/Category:2010s_American_television_series> ,
+		<http://dbpedia.org/resource/Category:1980s_American_television_series> ,
+		dbc:Formula_One_media ,
+		dbc:CNBC ,
+		dbc:NBCSN_shows ;
+	foaf:name	"Formula One on NBC"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Formula_One_on_NBC ;
+	dbo:network	dbr:NBC_Sports_Live_Extra ,
+		dbr:NBC_Sports ,
+		dbr:NBC_Sports_Network ,
+		dbr:CNBC ,
+		dbr:NBC_Sportsworld ;
+	dbo:company	dbr:NBC_Sports .
+@prefix ns12:	<http://dbpedia.org/datatype/> .
+@prefix ns13:	<http://dbpedia.org/ontology/Work/> .
+dbr:Formula_One_on_NBC	ns13:runtime	"150.0"^^ns12:minute ;
+	dbo:format	<http://dbpedia.org/resource/16:9> ,
+		dbr:Stereophonic ;
+	dbo:related	dbr:F1_Countdown ,
+		dbr:F1_Extra ,
+		dbr:F1_Paddock_Pass .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Formula_One_on_NBC	dbo:runtime	9000.0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Formula_One_on_NBC	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Formula_One_on_NBC?oldid=742068346> ;
+	dbo:presenter	dbr:Leigh_Diffey ,
+		dbr:Steve_Matchett ,
+		<http://dbpedia.org/resource/David_Hobbs_(racing_driver)> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Formula_One_on_NBC	dbp:editor	"Rich O\u2019Connor"^^xsd:string ;
+	dbp:opentheme	"Fusebox Sound by Michael Schmidt"^^xsd:string ;
+	dbo:genre	dbr:Broadcasting_of_sports_events ;
+	dbo:abstract	"Formula One on NBC is a presentation of Formula 1 produced by NBC Sports. Races, practices, and qualifying are televised on NBC, NBCSN, and CNBC, and streamed live on NBC Sports Live Extra."@en ;
+	dbo:wikiPageRevisionID	742068346 ;
+	dbo:wikiPageID	51445420 ;
+	dbo:country	dbr:United_States ;
+	dbp:language	"English"^^xsd:string ;
+	dbp:location	"Worldwide"^^xsd:string ;
+	dbo:channel	dbr:NBC ;
+	dbo:releaseDate	"2013-03-15"^^xsd:date ,
+		"1981-10-17"^^xsd:date ,
+		"1982-09-25"^^xsd:date .

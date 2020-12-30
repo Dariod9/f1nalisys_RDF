@@ -1,0 +1,142 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2015_Russian_Grand_Prix>	dbp:nameOfRace	dbr:Russian_Grand_Prix .
+<http://dbpedia.org/resource/2016_Russian_Grand_Prix>	dbp:nameOfRace	dbr:Russian_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Russian_Grand_Prix	rdf:type	yago:Abstraction100002137 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Russian_Grand_Prix	rdf:type	dbo:SportsEvent ,
+		yago:Race107472657 ,
+		yago:Contest107456188 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:PsychologicalFeature100023100 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Russian_Grand_Prix	rdf:type	geo:SpatialThing ,
+		yago:SocialEvent107288639 ,
+		yago:Event100029378 ,
+		yago:WikicatSportsCompetitionsInRussia .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Russian_Grand_Prix	rdfs:label	"Gro\u00DFer Preis von Russland"@de ,
+		"Grand Prix automobile de Russie"@fr ,
+		"\u30ED\u30B7\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"Grand Prix Formule 1 van Rusland"@nl ,
+		"Grande Pr\u00EAmio da R\u00FAssia"@pt ,
+		"Gran Premio de Rusia"@es ,
+		"Grand Prix Rosji Formu\u0142y 1"@pl ,
+		"Russian Grand Prix"@en ,
+		"Gran Premio di Russia"@it ,
+		"\u4FC4\u7F57\u65AF\u5927\u5956\u8D5B"@zh ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438"@ru ;
+	rdfs:comment	"El Gran Premio de Rusia (en ruso: \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438) es una carrera de automovilismo celebrada por primera vez brevemente durante la d\u00E9cada de 1910 en la ciudad de San Petersburgo. Para el 100\u00BA aniversario del \u00FAltimo Gran Premio de Rusia, el Gran Premio de Rusia se volvi\u00F3 disputar a partir de la temporada 2014, esta vez como prueba v\u00E1lida para el Campeonato del Mundo de F\u00F3rmula 1 y en el Circuito de Sochi. Bernie Ecclestone, despu\u00E9s de varias d\u00E9cadas de intentar volver a establecer la carrera, y el jefe de Tecnolog\u00EDas para el Desarrollo Compartido con el Centro Mija\u00EDl Kapirulin en el Krai de Krasnodar, Rusia, firmaron oficialmente un contrato con el asistente del primer ministro ruso, Vlad\u00EDmir Putin, para una carrera que se celebrar\u00E1 en el Black Sea Resort de la ciudad de Sochi, en el mismo "@es ,
+		"Il Gran Premio automobilistico di Russia venne corso per un breve periodo negli anni 1910 a San Pietroburgo. Nel centesimo anniversario dell'ultimo Gran Premio \u00E8 programmata una gara valevole per il Campionato mondiale di Formula 1 2014. Dopo numerosi decenni di tentativi infruttuosi di riesumare la corsa, Bernie Ecclestone ed il capo del Krasnodarsky Krai Development Technologies Sharing Centre, Mikhail Kapirulin, hanno firmato un contratto, alla presenza del primo ministro russo Vladimir Putin, per la disputa di una gara nei pressi del villaggio olimpico di So\u010Di sul mar Nero."@it ,
+		"\u4FC4\u7F57\u65AF\u5927\u5956\u8D5B\uFF08\u4FC4\u8BED\uFF1A\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438\uFF0C\u82F1\u8BED\uFF1ARussian Grand Prix\uFF09\u662F20\u4E16\u7EAA\u521D\u5728\u4FC4\u7F57\u65AF\u5723\u5F7C\u5F97\u5821\u77ED\u6682\u4E3E\u529E\u8FC7\u7684\u4E00\u9879\u6C7D\u8F66\u8D5B\u4E8B\u3002\u65F6\u9694\u767E\u5E74\u4E4B\u540E\uFF0C\u4FC4\u7F57\u65AF\u5927\u5956\u8D5B\u4E8E2014\u5E74\u91CD\u56DE2014\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u8D5B\u5386\u30022014\u5E7410\u670812\u65E5\uFF0C2014\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u7B2C\u5341\u516D\u7AD9\u6BD4\u8D5B\u5C06\u5728\u4FC4\u7F57\u65AF\u7D22\u5951\u570B\u969B\u8857\u9053\u8CFD\u9053\u62C9\u5F00\u6218\u5E55\u3002 \u5728\u5386\u7ECF\u6570\u5341\u5E74\u7684\u8C08\u5224\u4E4B\u540E\uFF0C2010\u5E7410\u6708\uFF0C\u5728\u65F6\u4EFB\u4FC4\u7F57\u65AF\u603B\u7406\u666E\u4EAC\u7684\u652F\u6301\u4E0B\uFF0C\u4F2F\u5C3C\u00B7\u57C3\u514B\u83B1\u65AF\u987F\u4E0E\u4FC4\u7F57\u65AF\u514B\u62C9\u65AF\u8BFA\u8FBE\u5C14\u8FB9\u7586\u533A\u884C\u653F\u957F\u5B98\u6B63\u5F0F\u7B7E\u7F72\u4E86\u5408\u4F5C\u534F\u8BAE\uFF0C\u51B3\u5B9A\u5728\u9ED1\u6D77\u6D77\u5CB8\u897F\u5357\u90E8\u8457\u540D\u7684\u5EA6\u5047\u80DC\u5730\uFF0C\u4E5F\u662F2014\u5E74\u51AC\u5965\u4F1A\u4E3E\u529E\u5730\u2014\u2014\u7D22\u5951\u7684\u5965\u6797\u5339\u514B\u516C\u56ED\u9644\u8FD1\u4FEE\u5EFA\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u8D5B\u9053\u3002"@zh ,
+		"De Grand Prix Formule 1 van Rusland werd voor het eerst gereden op 12 oktober 2014 op de Sochi Autodrom in de Russische plaats Sotsji. Voor de start van het Formule 1-kampioenschap in 1950 werden er ook Grands Prix in Rusland gereden in de jaren 1913 en 1914."@nl ,
+		"Le Grand Prix automobile de Russie est une \u00E9preuve automobile qui, \u00E0 la suite d'un contrat sign\u00E9 entre Bernie Ecclestone et Vladimir Poutine, compte pour le championnat du monde de Formule 1 depuis 2014. Elle a lieu pour la premi\u00E8re fois le 12 octobre 2014 \u00E0 Adler, au bord de la Mer Noire, sur un circuit con\u00E7u par Hermann Tilke qui serpente au milieu des installations du Parc olympique de Sotchi o\u00F9 se sont d\u00E9roul\u00E9s, en f\u00E9vrier de la m\u00EAme ann\u00E9e, les XXIIes Jeux olympiques d'hiver."@fr ,
+		"Grand Prix Rosji \u2013 wy\u015Bcig Formu\u0142y 1 organizowany na torze Sochi Autodrom w Soczi, od sezonu 2014 zaliczany jest do eliminacji Mistrzostw \u015Awiata Formu\u0142y 1."@pl ,
+		"O Grande Pr\u00EAmio da R\u00FAssia de F\u00F3rmula 1 acontece desde a temporada de 2014. Ap\u00F3s anos de tentativas frustradas de estabelecer uma corrida internacional na R\u00FAssia, o presidente da R\u00FAssia, Vladimir Putin e o presidente da Formula One Management (FOM), Bernie Ecclestone assinaram o contrato oficial para a realiza\u00E7\u00E3o da competi\u00E7\u00E3o. O GP da R\u00FAssia \u00E9 sediado na cidade-resort de S\u00F3chi, que sediou os Jogos Ol\u00EDmpicos de Inverno de 2014."@pt ,
+		"\u30ED\u30B7\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30ED\u30B7\u30A2\u8A9E: \u0413\u0440\u0430\u043D \u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438\u307E\u305F\u306F\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438\u3001\u30E9\u30C6\u30F3\u8A9E\u8868\u8A18Gran-Pri Rossii\uFF09\u306F\u30012014\u5E74\u3088\u308A\u30ED\u30B7\u30A2\u306B\u3066\u958B\u50AC\u3055\u308C\u3066\u3044\u308BF1\u4E16\u754C\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306E1\u6226\u3002\u307E\u305F\u3001\u304B\u3064\u30661913\u5E74\u304B\u30891914\u5E74\u306B\u958B\u50AC\u3055\u308C\u3066\u3044\u305F\u30B0\u30E9\u30F3\u30D7\u30EA\u306E\u4E00\u3064\u3002"@ja ,
+		"Der Gro\u00DFe Preis von Russland ist ein Formel-1-Rennen, das seit 2014 auf dem Sochi Autodrom in Russland veranstaltet wird. Bereits in den Grand-Prix-Saisons 1913 und 1914 wurden in Sankt Petersburg zwei Gro\u00DFe Preise von Russland veranstaltet. Nach dem Ausbruchs des Ersten Weltkrieges und der russischen Revolution wurden 100 Jahre keine Motorsport-Grands-Prix mehr in Russland veranstaltet. 1983 war ein Gro\u00DFer Preis der Sowjetunion geplant, welcher es in den provisorischen Rennkalender schaffte, schlussendlich jedoch nicht ausgetragen wurde."@de ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438 (\u0430\u043D\u0433\u043B. Russian Grand Prix) \u2014 \u044D\u0442\u0430\u043F \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u0420\u043E\u0441\u0441\u0438\u0438 \u0432 \u0421\u043E\u0447\u0438 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u00AB\u0421\u043E\u0447\u0438 \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u00BB \u0432 \u041E\u043B\u0438\u043C\u043F\u0438\u0439\u0441\u043A\u043E\u043C \u043F\u0430\u0440\u043A\u0435 \u0441 2014 \u0433\u043E\u0434\u0430, \u0441\u043F\u0443\u0441\u0442\u044F 100 \u043B\u0435\u0442 \u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0433\u043E \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438, \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u0432 \u0434\u043E\u0440\u0435\u0432\u043E\u043B\u044E\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0432\u0440\u0435\u043C\u044F. \u041F\u0435\u0440\u0432\u0430\u044F \u0433\u043E\u043D\u043A\u0430 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0430\u0441\u044C 12 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2014 \u0433\u043E\u0434\u0430."@ru ,
+		"The Russian Grand Prix (Russian: \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438, translit. Gran-Pri Rossii) is an annual auto race held at Sochi Autodrom\u2014a street circuit built around Olympic Park in Sochi, Russia, as part of the Formula One World Championship."@en ;
+	dbp:laps	53 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Russian_Grand_Prix	owl:sameAs	<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_von_Russland> ,
+		<http://ko.dbpedia.org/resource/\uB7EC\uC2DC\uC544_\uADF8\uB791\uD504\uB9AC> ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_da_R\u00FAssia> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Russian_Grand_Prix	owl:sameAs	dbpedia-fr:Grand_Prix_automobile_de_Russie ,
+		<http://rdf.freebase.com/ns/m.043k86j> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Russian_Grand_Prix	owl:sameAs	dbpedia-it:Gran_Premio_di_Russia ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_Rosji_Formu\u0142y_1> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Russian_Grand_Prix	owl:sameAs	yago-res:Russian_Grand_Prix ,
+		<http://ja.dbpedia.org/resource/\u30ED\u30B7\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Russian_Grand_Prix	owl:sameAs	dbpedia-eu:Errusiako_Sari_Nagusia ,
+		dbr:Russian_Grand_Prix .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Russian_Grand_Prix	owl:sameAs	dbpedia-es:Gran_Premio_de_Rusia .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Russian_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q173271 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Russian_Grand_Prix	owl:sameAs	wikidata:Q173271 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Russian_Grand_Prix	owl:sameAs	dbpedia-cs:Grand_Prix_Ruska .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Russian_Grand_Prix	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_Rusland .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Russian_Grand_Prix	dct:subject	dbc:Russian_Grand_Prix ,
+		dbc:Motorsport_in_Russia ,
+		dbc:Formula_One_Grands_Prix ,
+		dbc:National_Grands_Prix ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grands_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Russian_Grand_Prix	geo:lat	"43.404422760009765625"^^xsd:float ;
+	geo:long	"39.95452880859375"^^xsd:float .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Russian_Grand_Prix	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Russia.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Russian_Grand_Prix	foaf:isPrimaryTopicOf	wikipedia-en:Russian_Grand_Prix .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Russian_Grand_Prix	geo:geometry	"POINT(39.954528808594 43.40442276001)"^^virtrdf:Geometry ;
+	dbp:fastestLapTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:winningTeam	dbr:Mercedes-Benz_in_Formula_One .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Russian_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Russian_Grand_Prix?oldid=732644350> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Russian_Grand_Prix	georss:point	"43.404421 39.954529" ;
+	dbo:wikiPageExternalLink	<http://rbth.com/multimedia/video/2014/10/13/formula_1_grand_prix_blazes_a_trail_around_sochis_olympic_pa_40579.html/> ,
+		<http://thisisf1.com/2014/10/11/f1-latest-photos-2014-russian-gp-practice/> ;
+	dbp:fastestLapDriver	"Nico Rosberg"^^xsd:string ;
+	dbp:circuit	dbr:Sochi_Autodrom ;
+	dbp:winner	"N. Rosberg"^^xsd:string ;
+	dbp:currentYear	2016 ;
+	dbp:poleTime	1 ;
+	dbp:name	"Russian Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:secondTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbo:abstract	"El Gran Premio de Rusia (en ruso: \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438) es una carrera de automovilismo celebrada por primera vez brevemente durante la d\u00E9cada de 1910 en la ciudad de San Petersburgo. Para el 100\u00BA aniversario del \u00FAltimo Gran Premio de Rusia, el Gran Premio de Rusia se volvi\u00F3 disputar a partir de la temporada 2014, esta vez como prueba v\u00E1lida para el Campeonato del Mundo de F\u00F3rmula 1 y en el Circuito de Sochi. Bernie Ecclestone, despu\u00E9s de varias d\u00E9cadas de intentar volver a establecer la carrera, y el jefe de Tecnolog\u00EDas para el Desarrollo Compartido con el Centro Mija\u00EDl Kapirulin en el Krai de Krasnodar, Rusia, firmaron oficialmente un contrato con el asistente del primer ministro ruso, Vlad\u00EDmir Putin, para una carrera que se celebrar\u00E1 en el Black Sea Resort de la ciudad de Sochi, en el mismo lugar que alberg\u00F3 la sede para la realizaci\u00F3n de los Juegos Ol\u00EDmpicos de invierno de Sochi 2014."@es ,
+		"The Russian Grand Prix (Russian: \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438, translit. Gran-Pri Rossii) is an annual auto race held at Sochi Autodrom\u2014a street circuit built around Olympic Park in Sochi, Russia, as part of the Formula One World Championship. The race was first held briefly in the 1910s in St. Petersburg of the Russian Empire. The plans were made to host a Formula One event in Moscow for the 1983 season as the Grand Prix of the Soviet Union, these plans fell through. In 2010, it was officially announced that the Russian city of Sochi, which was also preparing to host the 2014 Winter Olympics, will host a new event on the F1 schedule beginning in the 2014 Formula One season under a seven-year deal."@en ,
+		"Der Gro\u00DFe Preis von Russland ist ein Formel-1-Rennen, das seit 2014 auf dem Sochi Autodrom in Russland veranstaltet wird. Bereits in den Grand-Prix-Saisons 1913 und 1914 wurden in Sankt Petersburg zwei Gro\u00DFe Preise von Russland veranstaltet. Nach dem Ausbruchs des Ersten Weltkrieges und der russischen Revolution wurden 100 Jahre keine Motorsport-Grands-Prix mehr in Russland veranstaltet. 1983 war ein Gro\u00DFer Preis der Sowjetunion geplant, welcher es in den provisorischen Rennkalender schaffte, schlussendlich jedoch nicht ausgetragen wurde. Als Austragungsort wurde das Gel\u00E4nde der Olympischen Winterspiele in Sotschi gew\u00E4hlt, die Rennstrecke wurde im August 2014 fertiggestellt."@de ,
+		"De Grand Prix Formule 1 van Rusland werd voor het eerst gereden op 12 oktober 2014 op de Sochi Autodrom in de Russische plaats Sotsji. Voor de start van het Formule 1-kampioenschap in 1950 werden er ook Grands Prix in Rusland gereden in de jaren 1913 en 1914."@nl ,
+		"Il Gran Premio automobilistico di Russia venne corso per un breve periodo negli anni 1910 a San Pietroburgo. Nel centesimo anniversario dell'ultimo Gran Premio \u00E8 programmata una gara valevole per il Campionato mondiale di Formula 1 2014. Dopo numerosi decenni di tentativi infruttuosi di riesumare la corsa, Bernie Ecclestone ed il capo del Krasnodarsky Krai Development Technologies Sharing Centre, Mikhail Kapirulin, hanno firmato un contratto, alla presenza del primo ministro russo Vladimir Putin, per la disputa di una gara nei pressi del villaggio olimpico di So\u010Di sul mar Nero."@it ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438 (\u0430\u043D\u0433\u043B. Russian Grand Prix) \u2014 \u044D\u0442\u0430\u043F \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u0420\u043E\u0441\u0441\u0438\u0438 \u0432 \u0421\u043E\u0447\u0438 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u00AB\u0421\u043E\u0447\u0438 \u0410\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u00BB \u0432 \u041E\u043B\u0438\u043C\u043F\u0438\u0439\u0441\u043A\u043E\u043C \u043F\u0430\u0440\u043A\u0435 \u0441 2014 \u0433\u043E\u0434\u0430, \u0441\u043F\u0443\u0441\u0442\u044F 100 \u043B\u0435\u0442 \u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0433\u043E \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438, \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u0432 \u0434\u043E\u0440\u0435\u0432\u043E\u043B\u044E\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0432\u0440\u0435\u043C\u044F. 14 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2010 \u0433\u043E\u0434\u0430 \u0431\u044B\u043B \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043D \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u043D\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0434\u043E 2020 \u0433\u043E\u0434\u0430 \u0441 \u043E\u043F\u0446\u0438\u043E\u043D\u043E\u043C \u043D\u0430 \u043F\u0440\u043E\u0434\u043B\u0435\u043D\u0438\u0435. \u0421 \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u043E\u0439 \u0441\u0442\u043E\u0440\u043E\u043D\u044B \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043B \u0433\u0435\u043D\u0435\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0434\u0438\u0440\u0435\u043A\u0442\u043E\u0440 \u041E\u0410\u041E \u00AB\u0426\u0435\u043D\u0442\u0440 \u043F\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0439 \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0430 \u041A\u0440\u0430\u0441\u043D\u043E\u0434\u0430\u0440\u0441\u043A\u043E\u0433\u043E \u043A\u0440\u0430\u044F \u201E\u041E\u043C\u0435\u0433\u0430\u201C\u00BB \u041C\u0438\u0445\u0430\u0438\u043B \u041A\u0430\u043F\u0438\u0440\u0443\u043B\u0438\u043D, \u0430 \u0444\u0438\u043D\u0430\u043D\u0441\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0433\u0430\u0440\u0430\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043B\u0438 \u043F\u043E\u0434\u043F\u0438\u0441\u0438 \u043F\u043E\u0434 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u043C \u0434\u043E\u0433\u043E\u0432\u043E\u0440\u043E\u043C \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u0430 \u041E\u0410\u041E \u00AB\u041B\u0443\u043A\u043E\u0439\u043B\u00BB, \u0413\u041A \u00AB\u0420\u043E\u0441\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\u00BB, \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 \u00AB\u0411\u0430\u0437\u043E\u0432\u044B\u0439 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u00BB \u0438 \u041E\u0410\u041E \u00AB\u041C\u0435\u0433\u0430\u0424\u043E\u043D\u00BB. \u041F\u0435\u0440\u0432\u0430\u044F \u0433\u043E\u043D\u043A\u0430 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0430\u0441\u044C 12 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2014 \u0433\u043E\u0434\u0430."@ru ,
+		"Grand Prix Rosji \u2013 wy\u015Bcig Formu\u0142y 1 organizowany na torze Sochi Autodrom w Soczi, od sezonu 2014 zaliczany jest do eliminacji Mistrzostw \u015Awiata Formu\u0142y 1."@pl ,
+		"Le Grand Prix automobile de Russie est une \u00E9preuve automobile qui, \u00E0 la suite d'un contrat sign\u00E9 entre Bernie Ecclestone et Vladimir Poutine, compte pour le championnat du monde de Formule 1 depuis 2014. Elle a lieu pour la premi\u00E8re fois le 12 octobre 2014 \u00E0 Adler, au bord de la Mer Noire, sur un circuit con\u00E7u par Hermann Tilke qui serpente au milieu des installations du Parc olympique de Sotchi o\u00F9 se sont d\u00E9roul\u00E9s, en f\u00E9vrier de la m\u00EAme ann\u00E9e, les XXIIes Jeux olympiques d'hiver."@fr ,
+		"\u4FC4\u7F57\u65AF\u5927\u5956\u8D5B\uFF08\u4FC4\u8BED\uFF1A\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438\uFF0C\u82F1\u8BED\uFF1ARussian Grand Prix\uFF09\u662F20\u4E16\u7EAA\u521D\u5728\u4FC4\u7F57\u65AF\u5723\u5F7C\u5F97\u5821\u77ED\u6682\u4E3E\u529E\u8FC7\u7684\u4E00\u9879\u6C7D\u8F66\u8D5B\u4E8B\u3002\u65F6\u9694\u767E\u5E74\u4E4B\u540E\uFF0C\u4FC4\u7F57\u65AF\u5927\u5956\u8D5B\u4E8E2014\u5E74\u91CD\u56DE2014\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u8D5B\u5386\u30022014\u5E7410\u670812\u65E5\uFF0C2014\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u7B2C\u5341\u516D\u7AD9\u6BD4\u8D5B\u5C06\u5728\u4FC4\u7F57\u65AF\u7D22\u5951\u570B\u969B\u8857\u9053\u8CFD\u9053\u62C9\u5F00\u6218\u5E55\u3002 \u5728\u5386\u7ECF\u6570\u5341\u5E74\u7684\u8C08\u5224\u4E4B\u540E\uFF0C2010\u5E7410\u6708\uFF0C\u5728\u65F6\u4EFB\u4FC4\u7F57\u65AF\u603B\u7406\u666E\u4EAC\u7684\u652F\u6301\u4E0B\uFF0C\u4F2F\u5C3C\u00B7\u57C3\u514B\u83B1\u65AF\u987F\u4E0E\u4FC4\u7F57\u65AF\u514B\u62C9\u65AF\u8BFA\u8FBE\u5C14\u8FB9\u7586\u533A\u884C\u653F\u957F\u5B98\u6B63\u5F0F\u7B7E\u7F72\u4E86\u5408\u4F5C\u534F\u8BAE\uFF0C\u51B3\u5B9A\u5728\u9ED1\u6D77\u6D77\u5CB8\u897F\u5357\u90E8\u8457\u540D\u7684\u5EA6\u5047\u80DC\u5730\uFF0C\u4E5F\u662F2014\u5E74\u51AC\u5965\u4F1A\u4E3E\u529E\u5730\u2014\u2014\u7D22\u5951\u7684\u5965\u6797\u5339\u514B\u516C\u56ED\u9644\u8FD1\u4FEE\u5EFA\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u8D5B\u9053\u3002"@zh ,
+		"O Grande Pr\u00EAmio da R\u00FAssia de F\u00F3rmula 1 acontece desde a temporada de 2014. Ap\u00F3s anos de tentativas frustradas de estabelecer uma corrida internacional na R\u00FAssia, o presidente da R\u00FAssia, Vladimir Putin e o presidente da Formula One Management (FOM), Bernie Ecclestone assinaram o contrato oficial para a realiza\u00E7\u00E3o da competi\u00E7\u00E3o. O GP da R\u00FAssia \u00E9 sediado na cidade-resort de S\u00F3chi, que sediou os Jogos Ol\u00EDmpicos de Inverno de 2014."@pt ,
+		"\u30ED\u30B7\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30ED\u30B7\u30A2\u8A9E: \u0413\u0440\u0430\u043D \u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438\u307E\u305F\u306F\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0420\u043E\u0441\u0441\u0438\u0438\u3001\u30E9\u30C6\u30F3\u8A9E\u8868\u8A18Gran-Pri Rossii\uFF09\u306F\u30012014\u5E74\u3088\u308A\u30ED\u30B7\u30A2\u306B\u3066\u958B\u50AC\u3055\u308C\u3066\u3044\u308BF1\u4E16\u754C\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306E1\u6226\u3002\u307E\u305F\u3001\u304B\u3064\u30661913\u5E74\u304B\u30891914\u5E74\u306B\u958B\u50AC\u3055\u308C\u3066\u3044\u305F\u30B0\u30E9\u30F3\u30D7\u30EA\u306E\u4E00\u3064\u3002"@ja ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Russia.svg?width=300> ;
+	dbo:wikiPageRevisionID	732644350 ;
+	dbo:wikiPageID	17380995 ;
+	dbp:second	"L. Hamilton"^^xsd:string ;
+	dbp:third	"K. R\u00E4ikk\u00F6nen"^^xsd:string ;
+	dbp:flag	"Flag of Russia.svg"^^xsd:string ;
+	dbp:poleDriver	"Nico Rosberg"^^xsd:string ;
+	dbp:circuitImage	"Circuit_Sochi.svg"^^xsd:string ;
+	dbp:circuitLengthKm	5.847999999999999865 ;
+	dbp:circuitLengthMi	3.633999999999999897 ;
+	dbp:fastestLap	1 ;
+	dbp:firstHeld	1913 ;
+	dbp:raceLengthKm	309.73200000000002774 ;
+	dbp:raceLengthMi	192.45900000000000318 ;
+	dbp:secondTime	"+25.022"^^xsd:string ;
+	dbp:thirdTime	"+31.998"^^xsd:string ;
+	dbp:timesHeld	5 ;
+	dbp:winningTime	1 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Russian_Grand_Prix	ns25:hypernym	dbr:Race ;
+	dbp:thirdTeam	dbr:Scuderia_Ferrari ;
+	dbp:mostWinsConstructor	"Mercedes"^^xsd:string ;
+	dbp:mostWinsDriver	"Lewis Hamilton"^^xsd:string .
+dbr:USSR_Grand_Prix	dbo:wikiPageRedirects	dbr:Russian_Grand_Prix .
+dbr:Grand_Prix_of_Russia	dbo:wikiPageRedirects	dbr:Russian_Grand_Prix .
+dbr:Soviet_Grand_Prix	dbo:wikiPageRedirects	dbr:Russian_Grand_Prix .
+wikipedia-en:Russian_Grand_Prix	foaf:primaryTopic	dbr:Russian_Grand_Prix .
+<http://dbpedia.org/resource/2014_Russian_Grand_Prix>	dbp:nameOfRace	dbr:Russian_Grand_Prix .
+dbr:Sochi_Autodrom	dbp:events	dbr:Russian_Grand_Prix .
+dbr:Russian_GP	dbo:wikiPageRedirects	dbr:Russian_Grand_Prix .
+dbr:Grand_Prix_of_the_Soviet_Union	dbo:wikiPageRedirects	dbr:Russian_Grand_Prix .

@@ -1,0 +1,115 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Weekend_of_a_Champion	rdf:type	yago:SocialEvent107288639 ,
+		yago:Show106619065 ,
+		yago:Documentary106616806 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Weekend_of_a_Champion	rdf:type	dbo:Film ,
+		yago:WikicatBritishDocumentaryFilms .
+@prefix schema:	<http://schema.org/> .
+dbr:Weekend_of_a_Champion	rdf:type	schema:Movie ,
+		yago:WikicatEnglish-languageFilms ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Wikicat1972Films ,
+		yago:WikicatDocumentaryFilmsAboutAutoRacing ,
+		yago:WikicatDocumentaryFilmsAboutSportspeople ,
+		yago:WikicatAnglo-EMIFilms .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Weekend_of_a_Champion	rdf:type	owl:Thing ,
+		yago:Creation103129123 ,
+		yago:Product104007894 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		schema:CreativeWork .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Weekend_of_a_Champion	rdf:type	wikidata:Q386724 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Artifact100021939 ,
+		yago:Whole100003553 ,
+		yago:Abstraction100002137 ,
+		yago:Wikicat1970sDocumentaryFilms ,
+		yago:Movie106613686 ,
+		dbo:Work ,
+		yago:Event100029378 ,
+		yago:WikicatFilmsDirectedByRomanPolanski .
+@prefix ns7:	<http://dbpedia.org/ontology/Wikidata:> .
+dbr:Weekend_of_a_Champion	rdf:type	ns7:Q11424 ,
+		yago:WikicatBritishFilms .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Weekend_of_a_Champion	rdfs:label	"Weekend of a Champion"@it ,
+		"Weekend of a Champion"@en ,
+		"Weekend of a Champion"@fr ,
+		"Weekend of a Champion"@pl ;
+	rdfs:comment	"Weekend of a Champion (alternately titled Afternoon of a Champion) is a British 1972 documentary film that captures the effort of British Formula One racing driver Jackie Stewart to compete in the 1971 Monaco Grand Prix in Monte Carlo. Stewart's friend Roman Polanski produced the film and shadows him throughout the weekend of the race."@en ,
+		"Weekend of a Champion \u2013 niezale\u017Cny brytyjski film dokumentalny w re\u017Cyserii Romana Pola\u0144skiego i Franka Simona, kt\u00F3rego premiera mia\u0142a miejsce w 1972 roku."@pl ,
+		"Weekend of a Champion \u00E8 un film britannico del 1972 di Frank Simon e Roman Polanski, quest'ultimo non accreditato."@it ,
+		" Pour les articles homonymes, voir Week-end (homonymie) et Champion (homonymie).Weekend of a ChampionFichier:Tyrrell 001 Goodwood 2008.jpg La Tyrrell 001 que pilotait Jackie Stewart lors de sa victoire au Grand Prix de Monaco 1971 Information Pour plus de d\u00E9tails, voir  et Weekend of a Champion est un film documentaire britannique r\u00E9alis\u00E9 par Roman Polanski et Frank Simon, en 1971 et sorti en 1972, pr\u00E9sent\u00E9 \u00E0 la Berlinale, o\u00F9 il remporte le prix du meilleur documentaire, cette ann\u00E9e-l\u00E0."@fr ;
+	owl:sameAs	wikidata:Q13553865 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Weekend_of_a_Champion	owl:sameAs	dbpedia-it:Weekend_of_a_Champion ,
+		<http://rdf.freebase.com/ns/m.0gwgqyb> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Weekend_of_a_Champion	owl:sameAs	dbpedia-wikidata:Q13553865 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Weekend_of_a_Champion	owl:sameAs	yago-res:Weekend_of_a_Champion ,
+		dbr:Weekend_of_a_Champion .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Weekend_of_a_Champion	owl:sameAs	dbpedia-pl:Weekend_of_a_Champion .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Weekend_of_a_Champion	owl:sameAs	dbpedia-fr:Weekend_of_a_Champion .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Weekend_of_a_Champion	dct:subject	dbc:Anglo-EMI_films ,
+		<http://dbpedia.org/resource/Category:1970s_documentary_films> ,
+		dbc:British_documentary_films ,
+		dbc:British_films ,
+		dbc:Documentary_films_about_auto_racing ,
+		dbc:Formula_One_media ,
+		dbc:Films_shot_in_Monaco ,
+		<http://dbpedia.org/resource/Category:1972_films> ,
+		dbc:English-language_films ,
+		dbc:Documentary_films_about_sportspeople ,
+		dbc:Films_directed_by_Roman_Polanski .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Weekend_of_a_Champion	foaf:name	"Weekend of a Champion"@en ;
+	foaf:homepage	<http://submarinedeluxe.com/weekendofachampion.html> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Weekend_of_a_Champion	foaf:isPrimaryTopicOf	wikipedia-en:Weekend_of_a_Champion ;
+	dbo:writer	<http://dbpedia.org/resource/Frank_Simon_(filmmaker)> ;
+	dbo:starring	dbr:Jackie_Stewart ,
+		dbr:Roman_Polanski .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Weekend_of_a_Champion	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Weekend_of_a_Champion?oldid=721146657> ;
+	dbo:wikiPageExternalLink	<http://submarinedeluxe.com/weekendofachampion.html> ;
+	dbo:director	<http://dbpedia.org/resource/Frank_Simon_(filmmaker)> ,
+		dbr:Roman_Polanski .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Weekend_of_a_Champion	dbp:studio	dbr:Anglo-EMI ;
+	dbp:id	"weekendofachampion"^^xsd:string ;
+	dbo:distributor	dbr:Submarine_Deluxe ,
+		<http://dbpedia.org/resource/Path\u00E9> ;
+	dbo:editing	dbr:Derek_York ;
+	dbo:cinematography	dbr:William_Brayne ;
+	dbp:country	"United Kingdom"^^xsd:string ;
+	dbp:language	"French"^^xsd:string ,
+		"English"^^xsd:string ;
+	dbo:abstract	" Pour les articles homonymes, voir Week-end (homonymie) et Champion (homonymie).Weekend of a ChampionFichier:Tyrrell 001 Goodwood 2008.jpg La Tyrrell 001 que pilotait Jackie Stewart lors de sa victoire au Grand Prix de Monaco 1971 Information Pour plus de d\u00E9tails, voir  et Weekend of a Champion est un film documentaire britannique r\u00E9alis\u00E9 par Roman Polanski et Frank Simon, en 1971 et sorti en 1972, pr\u00E9sent\u00E9 \u00E0 la Berlinale, o\u00F9 il remporte le prix du meilleur documentaire, cette ann\u00E9e-l\u00E0. Le film a \u00E9t\u00E9 projet\u00E9 dans une nouvelle version en 2013 au Festival de Cannes en pr\u00E9sence du r\u00E9alisateur et de son principal interpr\u00E8te."@fr ,
+		"Weekend of a Champion \u2013 niezale\u017Cny brytyjski film dokumentalny w re\u017Cyserii Romana Pola\u0144skiego i Franka Simona, kt\u00F3rego premiera mia\u0142a miejsce w 1972 roku."@pl ,
+		"Weekend of a Champion (alternately titled Afternoon of a Champion) is a British 1972 documentary film that captures the effort of British Formula One racing driver Jackie Stewart to compete in the 1971 Monaco Grand Prix in Monte Carlo. Stewart's friend Roman Polanski produced the film and shadows him throughout the weekend of the race. The film premiered at the 1972 Berlin Film Festival and\u2014 after a small theatrical release in Europe\u2014 was unscreened for 40 years. The archive in possession of the negative contacted Polanski, inquiring as to whether they should keep the film or throw it away. Polanski restored the film from the original print, remixing and slightly recutting it. An approximately 15-minute epilogue was added, showing Polanski and Stewart reminiscing in present-day Monaco, having a conversation about their friendship, the evolution of racing safety, hairstyles, and life in general."@en ,
+		"Weekend of a Champion \u00E8 un film britannico del 1972 di Frank Simon e Roman Polanski, quest'ultimo non accreditato."@it ;
+	dbo:wikiPageRevisionID	721146657 ;
+	dbo:wikiPageID	42178552 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Work/> .
+dbr:Weekend_of_a_Champion	ns21:runtime	"93.0"^^ns20:minute ,
+		"80.0"^^ns20:minute ;
+	dbo:producer	dbr:Roman_Polanski .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Weekend_of_a_Champion	dbo:runtime	5580.0 ,
+		4800.0 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Weekend_of_a_Champion	ns23:hypernym	dbr:Film ;
+	dbp:title	"Weekend of a Champion"^^xsd:string .
+wikipedia-en:Weekend_of_a_Champion	foaf:primaryTopic	dbr:Weekend_of_a_Champion .
+dbr:Afternoon_of_a_Champion	dbo:wikiPageRedirects	dbr:Weekend_of_a_Champion .

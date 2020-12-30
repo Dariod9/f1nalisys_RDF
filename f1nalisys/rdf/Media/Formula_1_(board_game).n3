@@ -1,0 +1,54 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Formula_1_(board_game)>	foaf:primaryTopic	<http://dbpedia.org/resource/Formula_1_(board_game)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns2:	<http://www.ontologydesignpatterns.org/ont/d0.owl#> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	rdf:type	ns2:Activity .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	rdf:type	wikidata:Q11410 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	rdf:type	dbo:Activity ,
+		dbo:Game ,
+		dbo:MotorsportSeason .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	rdf:type	owl:Thing ,
+		wikidata:Q1914636 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	rdfs:label	"Formula 1 (board game)"@en ;
+	rdfs:comment	"Formula 1 is a motor racing themed board game designed by John Howarth & Trevor Jones and originally published by Waddingtons of Leeds, United Kingdom in 1962. An almost identical game was published by Parker Brothers in the United States during the 1960s as Grand Prix."@en ;
+	owl:differentFrom	<http://dbpedia.org/resource/Formula_D_(board_game)> ;
+	owl:sameAs	wikidata:Q23724840 ,
+		<http://dbpedia.org/resource/Formula_1_(board_game)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	owl:sameAs	dbpedia-wikidata:Q23724840 ,
+		<http://rdf.freebase.com/ns/m.012mcbbd> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	dct:subject	<http://dbpedia.org/resource/Category:Formula_1_(board_game)> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	dct:subject	dbc:Formula_One_media ;
+	foaf:name	"Formula 1"@en ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Formula_1_(board_game)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Formula_1_(board_game)?oldid=719074025> ;
+	dbo:wikiPageExternalLink	<https://www.facebook.com/groups/577156825759854/> ,
+		<http://nebula.wsimg.com/f6207335027d1c8c6fac7c1a453e3102?AccessKeyId=5089BBF57F409CB88204&disposition=0&alloworigin=1> ,
+		<https://www.youtube.com/watch?v=yu7xJxPx4CM> ;
+	dbo:abstract	"Formula 1 is a motor racing themed board game designed by John Howarth & Trevor Jones and originally published by Waddingtons of Leeds, United Kingdom in 1962. An almost identical game was published by Parker Brothers in the United States during the 1960s as Grand Prix."@en ;
+	dbo:wikiPageRevisionID	719074025 ;
+	dbo:wikiPageID	30180449 .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	dbp:imageLink	250 ;
+	dbp:ages	10 ;
+	dbp:players	2 .
+@prefix ns12:	<http://dbpedia.org/datatype/> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	dbp:playingTime	"1800.0"^^ns12:second ;
+	dbp:randomChance	"Low"^^xsd:string ;
+	dbp:setupTime	"300.0"^^ns12:second .
+@prefix ns13:	<http://purl.org/linguistics/gold/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Formula_1_(board_game)>	ns13:hypernym	dbr:Motor ;
+	dbo:publisher	dbr:Miro_Company ,
+		<http://dbpedia.org/resource/Smeets_&_Schippers> ,
+		dbr:Waddingtons ,
+		<http://dbpedia.org/resource/Brio_(company)> ,
+		dbr:Parker_Brothers ;
+	dbo:designer	<http://dbpedia.org/resource/John_Howarth_(game_designer)> .

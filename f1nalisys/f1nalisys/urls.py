@@ -30,7 +30,8 @@ urlpatterns = [
     # path('teams/<int:ano>/', views.teams),
     path('drivers', views.drivers, name="drivers"),
     # path('drivers/<int:ano>/', views.drivers),
-    path('tracks', views.tracks, name="tracks"),
+    path('grandprix', views.tracks, name="tracks"),
+    path('media', views.media, name="media"),
     # path('season/<int:ano>/drivers_standings', views.drivers_standings, name="drivers_standings"),
     # path('season/<int:ano>/constructors_standings', views.constructors_standings, name="constructors_standings"),
     # path('season/<int:ano>/round/<int:round>', views.race_results, name="race_results")

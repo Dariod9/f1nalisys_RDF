@@ -1,0 +1,104 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1984_Dallas_Grand_Prix>	dbp:nameOfRace	dbr:Dallas_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Dallas_Grand_Prix	foaf:primaryTopic	dbr:Dallas_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Dallas_Grand_Prix	rdf:type	yago:Sport100523513 ,
+		yago:Abstraction100002137 ,
+		yago:Diversion100426928 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Act100030358 ,
+		yago:Activity100407535 ,
+		yago:Event100029378 ,
+		<http://dbpedia.org/class/yago/WikicatSportsInDallas,Texas> ,
+		yago:PsychologicalFeature100023100 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Dallas_Grand_Prix	rdfs:label	"Dallas Grand Prix"@en ,
+		"Grand Prix Formule 1 van Dallas"@nl ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0414\u0430\u043B\u043B\u0430\u0441\u0430"@ru ,
+		"Grande Pr\u00EAmio de Dallas"@pt ,
+		"Grand Prix automobile de Dallas"@fr ;
+	rdfs:comment	"O Grande Pr\u00EAmio de Dallas foi uma prova de F\u00F3rmula 1 que foi disputada apenas uma vez, em 1984. A corrida foi disputada no Circuito de Fair Park, em Dallas, EUA."@pt ,
+		"De Grand Prix van Dallas was een race uit het Formule 1-kampioenschap die \u00E9\u00E9n keer meetelde voor het kampioenschap, in 1984. Deze race, verreden op het circuit van Fair Park, werd gewonnen door Keke Rosberg. Van 1988 tot 1996 was het ook een race in de Amerikaanse Trans-Am Series, waarbij het decor in 1989 veranderde naar het nabijgelegen Addison en in 1993 naar een stratencircuit rond de Reunion Arena."@nl ,
+		"Le Grand Prix automobile de Dallas est une ancienne \u00E9preuve de course automobile disput\u00E9e dans le cadre du championnat du monde de Formule 1 en 1984 puis dans le cadre du championnat am\u00E9ricain de voitures de sport Trans-Am Series."@fr ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0414\u0430\u043B\u043B\u0430\u0441\u0430 \u2014 \u044D\u0442\u0430\u043F \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB \u0441\u0435\u0437\u043E\u043D\u0430 1984 \u0433\u043E\u0434\u0443 \u0434\u043E \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F \u0432 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0443\u044E \u0441\u0435\u0440\u0438\u044E Trans-Am \u0432 1988 \u0433\u043E\u0434\u0443. \u041F\u0435\u0440\u0432\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u0433\u043E\u043D\u043A\u0430 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B\u0430 \u043D\u0430 \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0424\u044D\u0439\u0440-\u041F\u0430\u0440\u043A, \u043D\u043E \u0441 1989 \u0433\u043E\u0434\u0430 \u0433\u043E\u043D\u043A\u0443 \u0441\u0442\u0430\u043B\u0438 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u044C \u0432 \u042D\u0434\u0434\u0438\u0441\u043E\u043D. \u0412 1993 \u0433\u043E\u0434\u0443 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0435\u0440\u0435\u043C\u0435\u0441\u0442\u0438\u043B\u043E\u0441\u044C \u043D\u0430 \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0443\u044E \u0442\u0440\u0430\u0441\u0441\u0443 \u0432\u043E\u043A\u0440\u0443\u0433 \u00ABReunion Arena\u00BB, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0431\u044B\u043B\u0430 \u043F\u0440\u0438\u0441\u0442\u0430\u043D\u0438\u0449\u0435\u043C \u0434\u043B\u044F \u043C\u043D\u043E\u0433\u0438\u0445 \u043A\u043E\u043C\u0430\u043D\u0434 \u0414\u0430\u043B\u043B\u0430\u0441\u0430."@ru ,
+		"The Dallas Grand Prix was a round of the Formula One World Championship in 1984 before becoming a round of the American Trans-Am Series in 1988. Originally the race was run at the Fair Park street circuit, before moving to nearby Addison in 1989. In 1993, the race relocated to a temporary street circuit around the Reunion Arena, at the time home to many of Dallas' sports teams."@en ;
+	dbp:laps	77 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Dallas_Grand_Prix	owl:sameAs	<http://rdf.freebase.com/ns/m.04ybkpj> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Dallas_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_Dallas ,
+		dbr:Dallas_Grand_Prix .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Dallas_Grand_Prix	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_Dallas .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Dallas_Grand_Prix	owl:sameAs	wikidata:Q2338574 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Dallas_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q2338574 ,
+		<http://ko.dbpedia.org/resource/\uB308\uB7EC\uC2A4_\uADF8\uB791\uD504\uB9AC> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Dallas_Grand_Prix	owl:sameAs	yago-res:Dallas_Grand_Prix ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_de_Dallas> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Dallas_Grand_Prix	owl:sameAs	dbpedia-fr:Grand_Prix_automobile_de_Dallas .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Dallas_Grand_Prix	dct:subject	<http://dbpedia.org/resource/Category:1984_establishments_in_Texas> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Dallas_Grand_Prix	dct:subject	dbc:Sports_in_Dallas ,
+		dbc:Dallas_Grand_Prix ,
+		dbc:Formula_One_Grands_Prix ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Dallas_Grand_Prix ;
+	dbp:fastestLapTeam	dbr:Chevrolet ;
+	dbp:winningTeam	dbr:Chevrolet .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Dallas_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dallas_Grand_Prix?oldid=743427083> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Dallas_Grand_Prix	dbo:wikiPageExternalLink	<http://www.scca.com/contentpage.aspx?content=111> ,
+		<http://www.f1.com/> ,
+		<http://wsrp.ic.cz/> ;
+	dbp:fastestLapDriver	"Ron Fellows"^^xsd:string ;
+	dbp:circuit	"Fair Park"^^xsd:string ;
+	dbp:winner	"Ron Fellows"^^xsd:string ;
+	dbp:currentYear	1996 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Dallas_Grand_Prix	dbp:poleTime	55.624000000000002331 ;
+	dbp:name	"Dallas Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Chevrolet ;
+	dbp:secondTeam	dbr:Ford_Motor_Company ;
+	dbo:abstract	"The Dallas Grand Prix was a round of the Formula One World Championship in 1984 before becoming a round of the American Trans-Am Series in 1988. Originally the race was run at the Fair Park street circuit, before moving to nearby Addison in 1989. In 1993, the race relocated to a temporary street circuit around the Reunion Arena, at the time home to many of Dallas' sports teams."@en ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0414\u0430\u043B\u043B\u0430\u0441\u0430 \u2014 \u044D\u0442\u0430\u043F \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB \u0441\u0435\u0437\u043E\u043D\u0430 1984 \u0433\u043E\u0434\u0443 \u0434\u043E \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F \u0432 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0443\u044E \u0441\u0435\u0440\u0438\u044E Trans-Am \u0432 1988 \u0433\u043E\u0434\u0443. \u041F\u0435\u0440\u0432\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u0433\u043E\u043D\u043A\u0430 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B\u0430 \u043D\u0430 \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0424\u044D\u0439\u0440-\u041F\u0430\u0440\u043A, \u043D\u043E \u0441 1989 \u0433\u043E\u0434\u0430 \u0433\u043E\u043D\u043A\u0443 \u0441\u0442\u0430\u043B\u0438 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u044C \u0432 \u042D\u0434\u0434\u0438\u0441\u043E\u043D. \u0412 1993 \u0433\u043E\u0434\u0443 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0435\u0440\u0435\u043C\u0435\u0441\u0442\u0438\u043B\u043E\u0441\u044C \u043D\u0430 \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0443\u044E \u0442\u0440\u0430\u0441\u0441\u0443 \u0432\u043E\u043A\u0440\u0443\u0433 \u00ABReunion Arena\u00BB, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0431\u044B\u043B\u0430 \u043F\u0440\u0438\u0441\u0442\u0430\u043D\u0438\u0449\u0435\u043C \u0434\u043B\u044F \u043C\u043D\u043E\u0433\u0438\u0445 \u043A\u043E\u043C\u0430\u043D\u0434 \u0414\u0430\u043B\u043B\u0430\u0441\u0430."@ru ,
+		"De Grand Prix van Dallas was een race uit het Formule 1-kampioenschap die \u00E9\u00E9n keer meetelde voor het kampioenschap, in 1984. Deze race, verreden op het circuit van Fair Park, werd gewonnen door Keke Rosberg. Van 1988 tot 1996 was het ook een race in de Amerikaanse Trans-Am Series, waarbij het decor in 1989 veranderde naar het nabijgelegen Addison en in 1993 naar een stratencircuit rond de Reunion Arena."@nl ,
+		"Le Grand Prix automobile de Dallas est une ancienne \u00E9preuve de course automobile disput\u00E9e dans le cadre du championnat du monde de Formule 1 en 1984 puis dans le cadre du championnat am\u00E9ricain de voitures de sport Trans-Am Series."@fr ,
+		"O Grande Pr\u00EAmio de Dallas foi uma prova de F\u00F3rmula 1 que foi disputada apenas uma vez, em 1984. A corrida foi disputada no Circuito de Fair Park, em Dallas, EUA."@pt ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg?width=300> ;
+	dbo:wikiPageRevisionID	743427083 ;
+	dbo:wikiPageID	20221371 ;
+	dbp:second	"Tommy Kendall"^^xsd:string ;
+	dbp:third	"Boris Said"^^xsd:string ;
+	dbp:flag	"Flag of the United States.svg"^^xsd:string ;
+	dbp:poleDriver	"Ron Fellows"^^xsd:string ;
+	dbp:circuitImage	260 ;
+	dbp:circuitLengthKm	2.1000000000000000888 ;
+	dbp:circuitLengthMi	1.3000000000000000444 ;
+	dbp:fastestLap	55.741999999999997328 ;
+	dbp:firstHeld	1984 ;
+	dbp:raceLengthKm	161.09999999999999432 ;
+	dbp:raceLengthMi	100.09999999999999432 ;
+	dbp:secondTime	"+11.059"^^xsd:string ;
+	dbp:timesHeld	8 ;
+	dbp:winningTime	1 ;
+	dbp:lastHeld	1996 .
+@prefix ns19:	<http://purl.org/linguistics/gold/> .
+dbr:Dallas_Grand_Prix	ns19:hypernym	dbr:Round ;
+	dbp:thirdTeam	dbr:Ford_Motor_Company ;
+	dbp:mostWinsConstructor	"Oldsmobile"^^xsd:string ,
+		dbr:Chevrolet ,
+		"Ford"^^xsd:string ;
+	dbp:mostWinsDriver	"Irv Hoerr"^^xsd:string ,
+		"Ron Fellows"^^xsd:string .
+dbr:Dallas_GP	dbo:wikiPageRedirects	dbr:Dallas_Grand_Prix .
+dbr:Dallas_Street_Circuit	dbo:wikiPageRedirects	dbr:Dallas_Grand_Prix .

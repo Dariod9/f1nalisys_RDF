@@ -1,0 +1,207 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2008_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2001_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2002_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2004_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1971_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1972_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1974_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1979_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1987_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1996_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1999_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1954_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1981_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1990_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2000_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1951_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1968_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1975_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2016_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1976_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1977_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1989_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1991_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2015_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1998_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1992_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1995_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Spanish_Grand_Prix	rdf:type	yago:Race107472657 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Abstraction100002137 ,
+		yago:WikicatAutoRacesInSpain ,
+		yago:SocialEvent107288639 ,
+		yago:Contest107456188 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Event100029378 ,
+		yago:WikicatFormulaOneNon-ChampionshipRaces .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Spanish_Grand_Prix	rdf:type	dbo:SportsEvent ,
+		yago:Race107458453 ,
+		yago:AutomobileRace107458892 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Spanish_Grand_Prix	rdf:type	geo:SpatialThing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Spanish_Grand_Prix	rdfs:label	"Gro\u00DFer Preis von Spanien"@de ,
+		"Grande Pr\u00EAmio da Espanha"@pt ,
+		"\u30B9\u30DA\u30A4\u30F3\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"\u897F\u73ED\u7259\u5927\u5956\u8D5B"@zh ,
+		"Spanish Grand Prix"@en ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438"@ru ,
+		"Grand Prix Hiszpanii Formu\u0142y 1"@pl ,
+		"Grand Prix Formule 1 van Spanje"@nl ,
+		"Gran Premio di Spagna"@it ,
+		"Grand Prix automobile d'Espagne"@fr ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649"@ar ,
+		"Gran Premio de Espa\u00F1a"@es ;
+	rdfs:comment	"\u30B9\u30DA\u30A4\u30F3\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30B9\u30DA\u30A4\u30F3GP\u3001\u82F1: Spanish Grand Prix\u3001\u897F: Gran Premio de Espa\u00F1a\u3001\u30AB\u30BF\u30EB\u30FC\u30CB\u30E3\u8A9E: Gran Premi d'Espanya\uFF09\u306F\u3001\u30B9\u30DA\u30A4\u30F3\u3067\u884C\u308F\u308C\u308BF1\u306E\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306E1\u3064\u3002"@ja ,
+		"\u897F\u73ED\u7259\u5927\u5956\u8D5B (\u897F\u73ED\u7259\u8BED: Gran Premio de Espa\u00F1a, \u52A0\u6CF0\u7F57\u5C3C\u4E9A\u8BED: Gran Premi d'Espanya)\uFF0C\u4E3A\u897F\u73ED\u7259\u5DF4\u585E\u7F57\u90A3\u4E00\u9879\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u4E8B\uFF0C\u5176\u8D5B\u573A\u4F4D\u4E8E\u52A0\u6CF0\u7F57\u5C3C\u4E9A\u8D5B\u9053\u3002"@zh ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 (\u0438\u0441\u043F. Gran Premio de Espa\u00F1a, \u0430\u043D\u0433\u043B. The Spanish Grand Prix) \u2014 \u0433\u043E\u043D\u043A\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0432 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u041A\u0430\u0442\u0430\u043B\u0443\u043D\u044C\u044F (\u041C\u043E\u043D\u0442\u043C\u0435\u043B\u043E, \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u044B, \u0418\u0441\u043F\u0430\u043D\u0438\u044F). \u0412\u043F\u0435\u0440\u0432\u044B\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 \u0431\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0435\u043D \u0432 \u043A\u0430\u043B\u0435\u043D\u0434\u0430\u0440\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 1951 \u0433\u043E\u0434\u0443, \u0430 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u041A\u0430\u0442\u0430\u043B\u0443\u043D\u044C\u044F \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u0441 1991 \u0433\u043E\u0434\u0430."@ru ,
+		"O Grande Pr\u00EAmio da Espanha foi disputado pela primeira vez em 1913. Teve sua primeira participa\u00E7\u00E3o no campeonato da F\u00F3rmula 1 em 1951. E entrou definitivamente para o campeonato, passando a ser disputado regularmente em 1968."@pt ,
+		"Il Gran Premio di Spagna \u00E8 una gara automobilistica che si \u00E8 svolta per la prima volta nel 1913. Nel 1926 e 1927 la gara fu valida per il cosiddetto \"Campionato Automobilistico Mondiale\" (competizione riservata solo ai Costruttori). Nel 1935 il GP di Spagna era la settima e ultima gara stagionale del \"Campionato Europeo Grand Prix\" (competizione riservata ai piloti).Nel 1951 \u00E8 entrata a far parte del Campionato Mondiale di Formula 1 e ha ripreso un posto fisso nel calendario del campionato nel 1986. A partire dal 1991 si corre sul circuito di Catalogna nella localit\u00E0 Montmel\u00F3 vicino a Barcellona ed \u00E8 organizzato dal RACC (Real Automovil Club de Catalu\u00F1a)."@it ,
+		"(This article is about the Formula One race. For other uses, see Spanish Grand Prix (disambiguation).) The Spanish Grand Prix (Spanish: Gran Premio de Espa\u00F1a, Catalan: Gran Premi d'Espanya) is a Formula One race currently held at the Circuit de Barcelona-Catalunya in Barcelona. The race is one of the oldest in the world still contested, celebrating its centenary in 2013. The race had modest beginnings as a production car race. Interrupted by the First World War, the race waited a decade for its second running before becoming a staple of the European calendar. It was promoted to the European Championship in 1935 before the Spanish Civil War brought an end to racing. The race was successfully revived in 1967 and has been a regular part of the Formula One World Championship since 1968 at a va"@en ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 (\u0644\u063A\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0629: Gran Premio de Espa\u00F1a) \u0647\u0648 \u0633\u0628\u0627\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0645\u0646\u0639\u0642\u062F \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u062D\u0644\u0628\u0629 \u062F\u064A \u0643\u0627\u062A\u0644\u0648\u0646\u064A\u0627 \u0641\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629. \u0648\u0647\u0648 \u0648\u0627\u062D\u062F \u0645\u0646 \u0623\u0642\u062F\u0645 \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0623\u062D\u062A\u0641\u0644 \u0628\u0627\u0644\u0630\u0643\u0631\u0649 \u0627\u0644\u0645\u0626\u0648\u064A\u0629 \u0644\u062A\u0623\u0633\u064A\u0633\u0647\u0627 \u0641\u064A \u0639\u0627\u0645 2013\u060C \u062A\u0648\u0642\u0641 \u0627\u0644\u0633\u0628\u0627\u0642 \u0642\u0628\u0644 \u0627\u0644\u062D\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 \u0627\u0644\u0623\u0648\u0644\u0649\u060C \u0648\u0623\u0639\u064A\u062F \u0641\u064A 1967\u060C \u0648\u0643\u0627\u0646\u062A \u062C\u0632\u0621\u0627 \u0645\u0646\u062A\u0638\u0645\u0627 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0645\u0646\u0630 \u0639\u0627\u0645 1968 \u0641\u064A \u0645\u062C\u0645\u0648\u0639\u0629 \u0645\u062A\u0646\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0644\u0627\u0639\u0628."@ar ,
+		"El Gran Premio de Espa\u00F1a es una carrera de automovilismo de velocidad v\u00E1lida para el Campeonato Mundial de F\u00F3rmula 1, que actualmente se disputa en el Circuito de Catalu\u00F1a, en Barcelona, Espa\u00F1a. Con anterioridad otros circuitos albergaron este Gran Premio, como el de Guadarrama, Sitges, Lasarte, Pedralbes, Jarama, Montjuic y Jerez aunque solo los \u00FAltimos cuatro fueron v\u00E1lidos para la F\u00F3rmula 1."@es ,
+		"De Grand Prix van Spanje is een race uit de Formule 1-kalender, gehouden op het Circuit de Catalunya in Montmel\u00F3 nabij Barcelona, waar de race sinds 1991 gereden wordt. De wedstrijd werd voor het eerst gehouden in 1951 als onderdeel van het Formule 1-kampioenschap van 1951 en gewonnen door Alfa Romeo-rijder Juan Manuel Fangio. In 1994 en 1997 werd er een tweede Spaanse grand prix gehouden onder de naam Grand Prix van Europa op het circuit van Jerez. Vanaf 2008 wordt er een Europese grand prix gereden op een stratencircuit in Valencia.Recordhouder is Michael Schumacher met 6 overwinningen."@nl ,
+		"Grand Prix d'EspagneFichier:Circuit Catalunya.svg Drapeau Circuit de Catalunya Le Grand Prix d'Espagne (Gran Premio de Espa\u00F1a) est une manche du championnat du monde de Formule 1, courue habituellement sur le circuit de Catalogne, \u00E0 Barcelone en Espagne."@fr ,
+		"Grand Prix Hiszpanii \u2013 wy\u015Bcig Formu\u0142y 1, kt\u00F3ry jest organizowany na torze Circuit de Catalunya pod Barcelon\u0105."@pl ,
+		"Der Gro\u00DFe Preis von Spanien (Gran Premio de Espa\u00F1a) ist ein seit 1951 mit Unterbrechungen ausgetragenes Formel-1-Rennen in Spanien. Seit 1981 haben verschiedene Sponsoren den Namen gekauft: 1981 hie\u00DF das Rennen Gran Premio Talbot de Espa\u00F1a, von 1986 bis 1992 Gran Premio T\u00EDo Pepe de Espa\u00F1a, von 1993 bis 2005 hie\u00DF es dann Gran Premio Marlboro de Espa\u00F1a und seit 2006 ist der Name Gran Premio de Espa\u00F1a Telef\u00F3nica aktuell (Stand 2011)."@de ;
+	dbp:laps	66 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Spanish_Grand_Prix	owl:sameAs	<http://pl.dbpedia.org/resource/Grand_Prix_Hiszpanii_Formu\u0142y_1> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Spanish_Grand_Prix	owl:sameAs	dbpedia-eu:Espainiako_Sari_Nagusia ,
+		<http://rdf.freebase.com/ns/m.02lp99> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Spanish_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_Spanyol .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Spanish_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q9208 ,
+		<http://ko.dbpedia.org/resource/\uC2A4\uD398\uC778_\uADF8\uB791\uD504\uB9AC> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Spanish_Grand_Prix	owl:sameAs	wikidata:Q9208 ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_da_Espanha> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Spanish_Grand_Prix	owl:sameAs	yago-res:Spanish_Grand_Prix ,
+		dbr:Spanish_Grand_Prix .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Spanish_Grand_Prix	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_Spanje ,
+		<http://cs.dbpedia.org/resource/Grand_Prix_\u0160pan\u011Blska> ,
+		<http://fr.dbpedia.org/resource/Grand_Prix_automobile_d\u0027Espagne> ,
+		<http://ja.dbpedia.org/resource/\u30B9\u30DA\u30A4\u30F3\u30B0\u30E9\u30F3\u30D7\u30EA> ,
+		<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_von_Spanien> ,
+		<http://es.dbpedia.org/resource/Gran_Premio_de_Espa\u00F1a> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Spanish_Grand_Prix	owl:sameAs	dbpedia-it:Gran_Premio_di_Spagna .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Spanish_Grand_Prix	dct:subject	dbc:Formula_One_non-Championship_races ,
+		<http://dbpedia.org/resource/Category:1913_establishments_in_Spain> ,
+		dbc:Formula_One_Grands_Prix ,
+		dbc:National_Grands_Prix ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grands_Prix> ,
+		dbc:Recurring_sporting_events_established_in_1913 ,
+		dbc:Spanish_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Spanish_Grand_Prix	foaf:homepage	<http://www.circuitcat.com/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Spanish_Grand_Prix	geo:lat	"41.569416046142578125"^^xsd:float ;
+	geo:long	"2.2574722766876220703"^^xsd:float ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Spain.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Spanish_Grand_Prix	foaf:isPrimaryTopicOf	wikipedia-en:Spanish_Grand_Prix .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Spanish_Grand_Prix	geo:geometry	"POINT(2.2574722766876 41.569416046143)"^^virtrdf:Geometry ;
+	dbp:fastestLapTeam	dbr:Scuderia_Ferrari ,
+		dbr:Scuderia_Toro_Rosso ;
+	dbp:winningTeam	dbr:Red_Bull_Racing ,
+		dbr:TAG_Heuer .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Spanish_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Spanish_Grand_Prix?oldid=737811990> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Spanish_Grand_Prix	georss:point	"41.56941666666667 2.2574722222222223" .
+@prefix ns23:	<http://www.f1db.com/f1/page/> .
+dbr:Spanish_Grand_Prix	dbo:wikiPageExternalLink	ns23:Gran_Premio_Marlboro_de_Espana_2005 ,
+		<http://www.kolumbus.fi/leif.snellman/gpw2.htm> ,
+		<http://www.kolumbus.fi/leif.snellman/gpw3.htm> .
+@prefix ns24:	<http://www.4mula1.ro/history/track/> .
+dbr:Spanish_Grand_Prix	dbo:wikiPageExternalLink	ns24:Catalunya ,
+		<http://www.teamdan.com/archive/gen/oldgp.html> ,
+		<http://www.circuitcat.com/> ;
+	dbp:fastestLapDriver	"Daniil Kvyat"^^xsd:string ;
+	dbp:circuit	dbr:Circuit_de_Barcelona-Catalunya ;
+	dbp:winner	"M. Verstappen"^^xsd:string ;
+	dbp:currentYear	2016 ;
+	dbp:poleTime	1 ;
+	dbp:name	"Spanish Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:secondTeam	dbr:Scuderia_Ferrari ;
+	dbo:abstract	"De Grand Prix van Spanje is een race uit de Formule 1-kalender, gehouden op het Circuit de Catalunya in Montmel\u00F3 nabij Barcelona, waar de race sinds 1991 gereden wordt. De wedstrijd werd voor het eerst gehouden in 1951 als onderdeel van het Formule 1-kampioenschap van 1951 en gewonnen door Alfa Romeo-rijder Juan Manuel Fangio. In 1994 en 1997 werd er een tweede Spaanse grand prix gehouden onder de naam Grand Prix van Europa op het circuit van Jerez. Vanaf 2008 wordt er een Europese grand prix gereden op een stratencircuit in Valencia.Recordhouder is Michael Schumacher met 6 overwinningen."@nl ,
+		"(This article is about the Formula One race. For other uses, see Spanish Grand Prix (disambiguation).) The Spanish Grand Prix (Spanish: Gran Premio de Espa\u00F1a, Catalan: Gran Premi d'Espanya) is a Formula One race currently held at the Circuit de Barcelona-Catalunya in Barcelona. The race is one of the oldest in the world still contested, celebrating its centenary in 2013. The race had modest beginnings as a production car race. Interrupted by the First World War, the race waited a decade for its second running before becoming a staple of the European calendar. It was promoted to the European Championship in 1935 before the Spanish Civil War brought an end to racing. The race was successfully revived in 1967 and has been a regular part of the Formula One World Championship since 1968 at a variety of venues."@en ,
+		"\u062C\u0627\u0626\u0632\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 (\u0644\u063A\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0629: Gran Premio de Espa\u00F1a) \u0647\u0648 \u0633\u0628\u0627\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0645\u0646\u0639\u0642\u062F \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u062D\u0644\u0628\u0629 \u062F\u064A \u0643\u0627\u062A\u0644\u0648\u0646\u064A\u0627 \u0641\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629. \u0648\u0647\u0648 \u0648\u0627\u062D\u062F \u0645\u0646 \u0623\u0642\u062F\u0645 \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645\u060C \u0623\u062D\u062A\u0641\u0644 \u0628\u0627\u0644\u0630\u0643\u0631\u0649 \u0627\u0644\u0645\u0626\u0648\u064A\u0629 \u0644\u062A\u0623\u0633\u064A\u0633\u0647\u0627 \u0641\u064A \u0639\u0627\u0645 2013\u060C \u062A\u0648\u0642\u0641 \u0627\u0644\u0633\u0628\u0627\u0642 \u0642\u0628\u0644 \u0627\u0644\u062D\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 \u0627\u0644\u0623\u0648\u0644\u0649\u060C \u0648\u0623\u0639\u064A\u062F \u0641\u064A 1967\u060C \u0648\u0643\u0627\u0646\u062A \u062C\u0632\u0621\u0627 \u0645\u0646\u062A\u0638\u0645\u0627 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0645\u0646\u0630 \u0639\u0627\u0645 1968 \u0641\u064A \u0645\u062C\u0645\u0648\u0639\u0629 \u0645\u062A\u0646\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0644\u0627\u0639\u0628."@ar ,
+		"Grand Prix d'EspagneFichier:Circuit Catalunya.svg Drapeau Circuit de Catalunya Le Grand Prix d'Espagne (Gran Premio de Espa\u00F1a) est une manche du championnat du monde de Formule 1, courue habituellement sur le circuit de Catalogne, \u00E0 Barcelone en Espagne."@fr ,
+		"\u897F\u73ED\u7259\u5927\u5956\u8D5B (\u897F\u73ED\u7259\u8BED: Gran Premio de Espa\u00F1a, \u52A0\u6CF0\u7F57\u5C3C\u4E9A\u8BED: Gran Premi d'Espanya)\uFF0C\u4E3A\u897F\u73ED\u7259\u5DF4\u585E\u7F57\u90A3\u4E00\u9879\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u4E8B\uFF0C\u5176\u8D5B\u573A\u4F4D\u4E8E\u52A0\u6CF0\u7F57\u5C3C\u4E9A\u8D5B\u9053\u3002"@zh ,
+		"Il Gran Premio di Spagna \u00E8 una gara automobilistica che si \u00E8 svolta per la prima volta nel 1913. Nel 1926 e 1927 la gara fu valida per il cosiddetto \"Campionato Automobilistico Mondiale\" (competizione riservata solo ai Costruttori). Nel 1935 il GP di Spagna era la settima e ultima gara stagionale del \"Campionato Europeo Grand Prix\" (competizione riservata ai piloti).Nel 1951 \u00E8 entrata a far parte del Campionato Mondiale di Formula 1 e ha ripreso un posto fisso nel calendario del campionato nel 1986. A partire dal 1991 si corre sul circuito di Catalogna nella localit\u00E0 Montmel\u00F3 vicino a Barcellona ed \u00E8 organizzato dal RACC (Real Automovil Club de Catalu\u00F1a)."@it ,
+		"\u30B9\u30DA\u30A4\u30F3\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30B9\u30DA\u30A4\u30F3GP\u3001\u82F1: Spanish Grand Prix\u3001\u897F: Gran Premio de Espa\u00F1a\u3001\u30AB\u30BF\u30EB\u30FC\u30CB\u30E3\u8A9E: Gran Premi d'Espanya\uFF09\u306F\u3001\u30B9\u30DA\u30A4\u30F3\u3067\u884C\u308F\u308C\u308BF1\u306E\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306E1\u3064\u3002"@ja ,
+		"Grand Prix Hiszpanii \u2013 wy\u015Bcig Formu\u0142y 1, kt\u00F3ry jest organizowany na torze Circuit de Catalunya pod Barcelon\u0105."@pl ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 (\u0438\u0441\u043F. Gran Premio de Espa\u00F1a, \u0430\u043D\u0433\u043B. The Spanish Grand Prix) \u2014 \u0433\u043E\u043D\u043A\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0432 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u041A\u0430\u0442\u0430\u043B\u0443\u043D\u044C\u044F (\u041C\u043E\u043D\u0442\u043C\u0435\u043B\u043E, \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u044B, \u0418\u0441\u043F\u0430\u043D\u0438\u044F). \u0412\u043F\u0435\u0440\u0432\u044B\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 \u0431\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0435\u043D \u0432 \u043A\u0430\u043B\u0435\u043D\u0434\u0430\u0440\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 1951 \u0433\u043E\u0434\u0443, \u0430 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u041A\u0430\u0442\u0430\u043B\u0443\u043D\u044C\u044F \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u0441\u044F \u0441 1991 \u0433\u043E\u0434\u0430."@ru ,
+		"Der Gro\u00DFe Preis von Spanien (Gran Premio de Espa\u00F1a) ist ein seit 1951 mit Unterbrechungen ausgetragenes Formel-1-Rennen in Spanien. Seit 1981 haben verschiedene Sponsoren den Namen gekauft: 1981 hie\u00DF das Rennen Gran Premio Talbot de Espa\u00F1a, von 1986 bis 1992 Gran Premio T\u00EDo Pepe de Espa\u00F1a, von 1993 bis 2005 hie\u00DF es dann Gran Premio Marlboro de Espa\u00F1a und seit 2006 ist der Name Gran Premio de Espa\u00F1a Telef\u00F3nica aktuell (Stand 2011)."@de ,
+		"El Gran Premio de Espa\u00F1a es una carrera de automovilismo de velocidad v\u00E1lida para el Campeonato Mundial de F\u00F3rmula 1, que actualmente se disputa en el Circuito de Catalu\u00F1a, en Barcelona, Espa\u00F1a. Con anterioridad otros circuitos albergaron este Gran Premio, como el de Guadarrama, Sitges, Lasarte, Pedralbes, Jarama, Montjuic y Jerez aunque solo los \u00FAltimos cuatro fueron v\u00E1lidos para la F\u00F3rmula 1."@es ,
+		"O Grande Pr\u00EAmio da Espanha foi disputado pela primeira vez em 1913. Teve sua primeira participa\u00E7\u00E3o no campeonato da F\u00F3rmula 1 em 1951. E entrou definitivamente para o campeonato, passando a ser disputado regularmente em 1968."@pt ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Spain.svg?width=300> ;
+	dbo:wikiPageRevisionID	737811990 ;
+	dbo:wikiPageID	526356 ;
+	dbp:second	"K. R\u00E4ikk\u00F6nen"^^xsd:string ;
+	dbp:third	"S. Vettel"^^xsd:string ;
+	dbp:flag	"Flag of Spain.svg"^^xsd:string ;
+	dbp:poleDriver	"Lewis Hamilton"^^xsd:string ;
+	dbp:circuitImage	"Catalunya.svg"^^xsd:string ;
+	dbp:circuitLengthKm	4.6550000000000002487 ;
+	dbp:circuitLengthMi	2.8919999999999999041 ;
+	dbp:fastestLap	1 ;
+	dbp:firstHeld	1913 ;
+	dbp:raceLengthKm	307.10399999999998499 ;
+	dbp:raceLengthMi	190.82499999999998863 .
+@prefix ns25:	<http://dbpedia.org/datatype/> .
+dbr:Spanish_Grand_Prix	dbp:secondTime	"0.616"^^ns25:second ;
+	dbp:thirdTime	"5.581"^^ns25:second ;
+	dbp:timesHeld	58 ;
+	dbp:winningTime	1 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Spanish_Grand_Prix	ns26:hypernym	dbr:Race ;
+	dbp:thirdTeam	dbr:Scuderia_Ferrari ;
+	dbp:mostWinsConstructor	"Ferrari"^^xsd:string ;
+	dbp:mostWinsDriver	"Michael Schumacher"^^xsd:string .
+dbr:Circuit_de_Barcelona-Catalunya	dbp:events	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1935_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1927_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1933_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1934_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1980_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/Spanish_Grand_Prix_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Spanish_Grand_Prix .
+wikipedia-en:Spanish_Grand_Prix	foaf:primaryTopic	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2013_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2006_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2010_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2012_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2005_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2003_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2007_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+dbr:Spanish_GP	dbo:wikiPageRedirects	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1967_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2014_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2011_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1969_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1970_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1973_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1978_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1986_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1988_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1993_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1994_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/1997_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/2009_Spanish_Grand_Prix>	dbp:nameOfRace	dbr:Spanish_Grand_Prix .
+dbr:Circuito_Lasarte	dbp:events	dbr:Spanish_Grand_Prix .
+<http://dbpedia.org/resource/Aut\u00F3dromo_de_Sitges-Terramar>	dbp:events	dbr:Spanish_Grand_Prix .

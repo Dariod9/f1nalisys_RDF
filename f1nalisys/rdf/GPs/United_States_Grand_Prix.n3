@@ -1,0 +1,188 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2013_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2014_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2015_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2005_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1958_United_States_Grand_Prix_for_Sports_Cars>	dbp:title	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2000_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2001_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2002_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2003_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2004_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2006_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1959_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1960_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1915_American_Grand_Prize>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:United_States_Grand_Prix	foaf:primaryTopic	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1916_American_Grand_Prize>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1911_American_Grand_Prize>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1912_American_Grand_Prize>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1914_American_Grand_Prize>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1910_American_Grand_Prize>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1908_American_Grand_Prize>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1961_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1964_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2007_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2016_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+dbr:Circuit_of_the_Americas	dbp:events	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1989_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1990_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1991_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/2012_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+dbr:Riverside_International_Raceway	dbp:events	dbr:United_States_Grand_Prix .
+dbr:Watkins_Glen_International	dbp:events	dbr:United_States_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:United_States_Grand_Prix	rdf:type	yago:SocialEvent107288639 ,
+		yago:Event100029378 ,
+		yago:Contest107456188 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:United_States_Grand_Prix	rdf:type	dbo:SportsEvent ,
+		yago:Race107458453 ,
+		yago:Race107472657 ,
+		yago:Abstraction100002137 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatAutoRacesInTheUnitedStates ,
+		yago:AutomobileRace107458892 ,
+		yago:PsychologicalFeature100023100 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:United_States_Grand_Prix	rdfs:label	"Grand Prix Stan\u00F3w Zjednoczonych Formu\u0142y 1"@pl ,
+		"United States Grand Prix"@en ,
+		"\u30A2\u30E1\u30EA\u30AB\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"\u7F8E\u56FD\u5927\u5956\u8D5B"@zh ,
+		"Gran Premio de los Estados Unidos"@es ,
+		"Grand Prix automobile des \u00C9tats-Unis"@fr ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410"@ru ,
+		"Gro\u00DFer Preis der USA"@de ,
+		"Grand Prix Formule 1 van de Verenigde Staten"@nl ,
+		"Gran Premio degli Stati Uniti d'America"@it ,
+		"Grande Pr\u00EAmio dos Estados Unidos"@pt ;
+	rdfs:comment	"De Grand Prix van de Verenigde Staten is een Formule 1-race die voor de eerste keer gehouden werd in 1959 en voor de laatste keer in 2007. Omdat er in de periode tussen 1976 en 1984 meer dan \u00E9\u00E9n race per jaar gereden werd in de Verenigde Staten werden er naast de Grand Prix van de Verenigde Staten ook Formule 1 races georganiseerd onder de namen Grand Prix van de Verenigde Staten West, Grand Prix van de Verenigde Staten Oost, Grand Prix van Las Vegas en Grand Prix van Dallas."@nl ,
+		"\u7F8E\u56FD\u5927\u5956\u8D5B(United States Grand Prix)\u662F\u81EA1908\u5E74\u5F00\u59CB\u4E3E\u529E\u7684\u4E00\u9879\u6C7D\u8F66\u8D5B\u4E8B\u3002\u5176\u524D\u671F\u4E3A\u4E00\u9879\u72EC\u7ACB\u7684\u5927\u5956\u8D5B\u8D5B\u4E8B\uFF0C\u800C\u57281950\u5E74\u6210\u4E3A\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u7684\u4E00\u4E2A\u5206\u7AD9\u3002F1\u7F8E\u56FD\u5927\u5956\u8D5B\u4E00\u5171\u57289\u4E2A\u4E0D\u540C\u7684\u8D5B\u573A\u4E3E\u529E\u8FC741\u5C4A\uFF0C\u6700\u8FD1\u4E00\u5C4A\u4E8E2007\u5E74\u5728\u5370\u7B2C\u5B89\u7EB3\u6CE2\u5229\u65AF\u4E3E\u884C\u3002\u65F6\u9694\u4E94\u5E74\u4E4B\u540E\uFF0C2012\u5E74\u7F8E\u56FD\u5927\u5956\u8D5B\u4E8E11\u670818\u65E5\u5728\u5F97\u514B\u8428\u65AF\u5DDE\u5965\u65AF\u4E01\u7684\u7F8E\u6D32\u8D5B\u9053\u6062\u590D\u4E3E\u529E\u3002"@zh ,
+		"El Gran Premio de los Estados Unidos es una competici\u00F3n de automovilismo v\u00E1lida para el campeonato de F\u00F3rmula 1 que se ha disputado en varias ocasiones desde 1959 en diferentes localidades. Inicialmente form\u00F3 parte del campeonato estadounidense."@es ,
+		"O Grande Pr\u00EAmio dos Estados Unidos foi disputado pela primeira vez em 1908, e come\u00E7ou a fazer parte da F\u00F3rmula 1 em 1950. De 1950 a 1960, as 500 Milhas de Indian\u00E1polis fazia parte do calend\u00E1rio do mundial de F\u00F3rmula 1, mas raramente eram disputadas por pilotos da categoria. Os vencedores dessas provas s\u00E3o dos Estados Unidos e considerados, portanto, vencedores na hist\u00F3ria da F\u00F3rmula 1:"@pt ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 (\u0430\u043D\u0433\u043B. United States Grand Prix) \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430, \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 \u0441\u0435\u0437\u043E\u043D\u0430 1959 \u0433\u043E\u0434\u0430. \u0411\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\u043E \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 \u043F\u0440\u043E\u0448\u043B\u043E \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0423\u043E\u0442\u043A\u0438\u043D\u0441-\u0413\u043B\u0435\u043D. \u0414\u043E 2007 \u0433\u043E\u0434\u0430 (\u0432\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E) \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 \u043E\u0431\u044B\u0447\u043D\u043E \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B \u043D\u0430 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0435 \u00AB\u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441 \u041C\u043E\u0442\u043E\u0440 \u0421\u043F\u0438\u0434\u0432\u0435\u0439\u00BB \u0432 \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0435, \u0421\u0428\u0410. \u0421 2008 \u043F\u043E 2011 \u0433\u043E\u0434\u044B (\u0432\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E) \u044D\u0442\u043E\u0442 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0441\u044F."@ru ,
+		"Il Gran Premio degli Stati Uniti d'America di Formula 1 \u00E8 una gara automobilistica."@it ,
+		"Grand Prix Stan\u00F3w Zjednoczonych \u2013 wy\u015Bcig organizowany nieregularnie, w r\u00F3\u017Cnych miejscach, od roku 1908. Od sezonu 1959 pojawia\u0142 si\u0119 w kalendarzu Formu\u0142y 1 jako eliminacja Mistrzostw \u015Awiata."@pl ,
+		"Gro\u00DFer Preis der USA ist die Bezeichnung f\u00FCr ein Automobilrennen in den Vereinigten Staaten von Amerika, das erstmals 1958 auf dem Riverside International Raceway stattfand. 1959 war es auf dem Sebring International Raceway im US-Bundesstaat Florida zum ersten Mal Bestandteil der Formel-1-Weltmeisterschaft. Bis 1991 fand es mit Unterbrechungen auf sechs verschiedenen Rennstrecken statt, am l\u00E4ngsten war Watkins Glen International (1961 bis 1975) Austragungsort dieser Veranstaltung. Seit 2012 findet der Gro\u00DFe Preis der USA in Austin statt."@de ,
+		"Le Grand Prix automobile des \u00C9tats-Unis est un \u00E9v\u00E9nement sportif de course automobile de Formule 1 qui a eu lieu aux \u00C9tats-Unis pour la premi\u00E8re fois en 1908."@fr ,
+		"\u30A2\u30E1\u30EA\u30AB\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30A2\u30E1\u30EA\u30ABGP, \u7C73: United States Grand Prix\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30671959\u5E74\u304B\u3089\u65AD\u7D9A\u7684\u306B\u884C\u308F\u308C\u3066\u3044\u308BF1\u4E16\u754C\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306E\u3072\u3068\u3064\u3002\u305D\u306E\u4ED6\u3001\u30A2\u30E1\u30EA\u30AB\u56FD\u5185\u3067\u958B\u50AC\u3055\u308C\u305F\u3001\u30A2\u30E1\u30EA\u30AB\u30B0\u30E9\u30F3\u30D7\u30EA\u4EE5\u5916\u306EF1\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306B\u3064\u3044\u3066\u3082\u672C\u9805\u76EE\u3067\u8A18\u8FF0\u3059\u308B\u3002"@ja ,
+		"The United States Grand Prix is a motor race which has been run on and off since 1908, when it was known as the American Grand Prize. The race later became part of the Formula One World Championship. Over 44 editions of the race has been held at 10 locations. Since 2012, the race has been held at the Circuit of the Americas in Elroy, Texas, roughly 12 miles (19 km) south of Austin."@en ;
+	dbp:poleTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:secondTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:thirdTeam	dbr:Scuderia_Ferrari .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:United_States_Grand_Prix	owl:sameAs	<http://pl.dbpedia.org/resource/Grand_Prix_Stan\u00F3w_Zjednoczonych_Formu\u0142y_1> ,
+		dbr:United_States_Grand_Prix ,
+		<http://it.dbpedia.org/resource/Gran_Premio_degli_Stati_Uniti_d\u0027America> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:United_States_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q9209 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:United_States_Grand_Prix	owl:sameAs	dbpedia-cs:Grand_Prix_USA ,
+		<http://ko.dbpedia.org/resource/\uBBF8\uAD6D_\uADF8\uB791\uD504\uB9AC> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:United_States_Grand_Prix	owl:sameAs	wikidata:Q9209 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:United_States_Grand_Prix	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_de_Verenigde_Staten .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:United_States_Grand_Prix	owl:sameAs	yago-res:United_States_Grand_Prix .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:United_States_Grand_Prix	owl:sameAs	dbpedia-es:Gran_Premio_de_los_Estados_Unidos ,
+		<http://fr.dbpedia.org/resource/Grand_Prix_automobile_des_\u00C9tats-Unis> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:United_States_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_Amerika_Serikat ,
+		<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_der_USA> ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30E1\u30EA\u30AB\u30B0\u30E9\u30F3\u30D7\u30EA> ,
+		<http://rdf.freebase.com/ns/m.01kzql> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:United_States_Grand_Prix	owl:sameAs	dbpedia-eu:Ameriketako_Estatu_Batuetako_Sari_Nagusia ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_dos_Estados_Unidos> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:United_States_Grand_Prix	dct:subject	dbc:Recurring_sporting_events_established_in_1908 ,
+		dbc:United_States_Grand_Prix ,
+		dbc:Formula_One_Grands_Prix ,
+		dbc:National_Grands_Prix ,
+		<http://dbpedia.org/resource/Category:Pre\u2013World_Championship_Grands_Prix> ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:United_States_Grand_Prix ;
+	dbp:firstRace	"American Grand Prize"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:United_States_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/United_States_Grand_Prix?oldid=743817250> ;
+	dbp:circuit	dbr:Circuit_of_the_Americas ;
+	dbp:laps	56 ;
+	dbp:winningTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:poleTime	1 ;
+	dbp:flag	"Flag of the United States.svg"^^xsd:string ;
+	dbp:winner	"L. Hamilton"^^xsd:string ;
+	dbp:mostWinsConstructor	"Ferrari"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://www.circuitoftheamericas.com/> ,
+		<http://www.formula1.com/races/in_detail/united_states_911/> ;
+	dbp:second	"N. Rosberg"^^xsd:string ;
+	dbp:third	"S. Vettel"^^xsd:string ;
+	dbp:mostWinsDriver	"Michael Schumacher"^^xsd:string ;
+	dbo:abstract	"El Gran Premio de los Estados Unidos es una competici\u00F3n de automovilismo v\u00E1lida para el campeonato de F\u00F3rmula 1 que se ha disputado en varias ocasiones desde 1959 en diferentes localidades. Inicialmente form\u00F3 parte del campeonato estadounidense."@es ,
+		"Grand Prix Stan\u00F3w Zjednoczonych \u2013 wy\u015Bcig organizowany nieregularnie, w r\u00F3\u017Cnych miejscach, od roku 1908. Od sezonu 1959 pojawia\u0142 si\u0119 w kalendarzu Formu\u0142y 1 jako eliminacja Mistrzostw \u015Awiata."@pl ,
+		"Il Gran Premio degli Stati Uniti d'America di Formula 1 \u00E8 una gara automobilistica."@it ,
+		"\u30A2\u30E1\u30EA\u30AB\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08\u30A2\u30E1\u30EA\u30ABGP, \u7C73: United States Grand Prix\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30671959\u5E74\u304B\u3089\u65AD\u7D9A\u7684\u306B\u884C\u308F\u308C\u3066\u3044\u308BF1\u4E16\u754C\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306E\u3072\u3068\u3064\u3002\u305D\u306E\u4ED6\u3001\u30A2\u30E1\u30EA\u30AB\u56FD\u5185\u3067\u958B\u50AC\u3055\u308C\u305F\u3001\u30A2\u30E1\u30EA\u30AB\u30B0\u30E9\u30F3\u30D7\u30EA\u4EE5\u5916\u306EF1\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306B\u3064\u3044\u3066\u3082\u672C\u9805\u76EE\u3067\u8A18\u8FF0\u3059\u308B\u3002"@ja ,
+		"\u7F8E\u56FD\u5927\u5956\u8D5B(United States Grand Prix)\u662F\u81EA1908\u5E74\u5F00\u59CB\u4E3E\u529E\u7684\u4E00\u9879\u6C7D\u8F66\u8D5B\u4E8B\u3002\u5176\u524D\u671F\u4E3A\u4E00\u9879\u72EC\u7ACB\u7684\u5927\u5956\u8D5B\u8D5B\u4E8B\uFF0C\u800C\u57281950\u5E74\u6210\u4E3A\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u7684\u4E00\u4E2A\u5206\u7AD9\u3002F1\u7F8E\u56FD\u5927\u5956\u8D5B\u4E00\u5171\u57289\u4E2A\u4E0D\u540C\u7684\u8D5B\u573A\u4E3E\u529E\u8FC741\u5C4A\uFF0C\u6700\u8FD1\u4E00\u5C4A\u4E8E2007\u5E74\u5728\u5370\u7B2C\u5B89\u7EB3\u6CE2\u5229\u65AF\u4E3E\u884C\u3002\u65F6\u9694\u4E94\u5E74\u4E4B\u540E\uFF0C2012\u5E74\u7F8E\u56FD\u5927\u5956\u8D5B\u4E8E11\u670818\u65E5\u5728\u5F97\u514B\u8428\u65AF\u5DDE\u5965\u65AF\u4E01\u7684\u7F8E\u6D32\u8D5B\u9053\u6062\u590D\u4E3E\u529E\u3002"@zh ,
+		"The United States Grand Prix is a motor race which has been run on and off since 1908, when it was known as the American Grand Prize. The race later became part of the Formula One World Championship. Over 44 editions of the race has been held at 10 locations. Since 2012, the race has been held at the Circuit of the Americas in Elroy, Texas, roughly 12 miles (19 km) south of Austin."@en ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 (\u0430\u043D\u0433\u043B. United States Grand Prix) \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430, \u043E\u0434\u0438\u043D \u0438\u0437 \u044D\u0442\u0430\u043F\u043E\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 \u0441\u0435\u0437\u043E\u043D\u0430 1959 \u0433\u043E\u0434\u0430. \u0411\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\u043E \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 \u043F\u0440\u043E\u0448\u043B\u043E \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0423\u043E\u0442\u043A\u0438\u043D\u0441-\u0413\u043B\u0435\u043D. \u0414\u043E 2007 \u0433\u043E\u0434\u0430 (\u0432\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E) \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 \u043E\u0431\u044B\u0447\u043D\u043E \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B \u043D\u0430 \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0435 \u00AB\u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441 \u041C\u043E\u0442\u043E\u0440 \u0421\u043F\u0438\u0434\u0432\u0435\u0439\u00BB \u0432 \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0435, \u0421\u0428\u0410. \u0421 2008 \u043F\u043E 2011 \u0433\u043E\u0434\u044B (\u0432\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E) \u044D\u0442\u043E\u0442 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u043B\u0441\u044F. \u0412 2012 \u0433\u043E\u0434\u0443 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0432\u0435\u0440\u043D\u0443\u043B\u0430\u0441\u044C \u0432 \u0421\u0428\u0410. \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432\u043F\u0435\u0440\u0432\u044B\u0435 \u043F\u0440\u043E\u0448\u0451\u043B \u043D\u0430 \u043D\u043E\u0432\u043E\u043C \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C\u0435 \u00AB\u0422\u0440\u0430\u0441\u0441\u0430 \u0410\u043C\u0435\u0440\u0438\u043A\u00BB, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0431\u044B\u043B \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D \u0432 \u043E\u043A\u0440\u0435\u0441\u0442\u043D\u043E\u0441\u0442\u044F\u0445 \u0433\u043E\u0440\u043E\u0434\u0430 \u041E\u0441\u0442\u0438\u043D, \u0448\u0442\u0430\u0442 \u0422\u0435\u0445\u0430\u0441. \u00AB\u0422\u0440\u0430\u0441\u0441\u0430 \u0410\u043C\u0435\u0440\u0438\u043A\u00BB \u0441\u0442\u0430\u043B\u0430 \u043F\u0435\u0440\u0432\u043E\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u043E\u0439 \u0432 \u0421\u0428\u0410, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0431\u044B\u043B\u0430 \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u044C\u043D\u043E \u0434\u043B\u044F \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u043D\u0430 \u043D\u0435\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u043A \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Le Grand Prix automobile des \u00C9tats-Unis est un \u00E9v\u00E9nement sportif de course automobile de Formule 1 qui a eu lieu aux \u00C9tats-Unis pour la premi\u00E8re fois en 1908."@fr ,
+		"O Grande Pr\u00EAmio dos Estados Unidos foi disputado pela primeira vez em 1908, e come\u00E7ou a fazer parte da F\u00F3rmula 1 em 1950. De 1950 a 1960, as 500 Milhas de Indian\u00E1polis fazia parte do calend\u00E1rio do mundial de F\u00F3rmula 1, mas raramente eram disputadas por pilotos da categoria. Os vencedores dessas provas s\u00E3o dos Estados Unidos e considerados, portanto, vencedores na hist\u00F3ria da F\u00F3rmula 1: \n*  1950 - Johnnie Parsons - equipe: Wynn's Kurtis \n*  1951 - Lee Wallard - equipe: Belanger \n*  1952 - Troy Ruttman - equipe: Agajanian \n*  1953 - Bill Vukovich - equipe: Full Injection Spec. \n*  1954 - Bill Vukovich - equipe: Full Injection Spec. \n*  1955 - Bob Sweikert - equipe: John Zink Spec. \n*  1956 - Pat Flaherty - equipe: Zink Spec. \n*  1957 - Sam Hanks - equipe: Bolond Exhaust \n*  1958 - Jimmy Bryan - equipe: Bolond \n*  1959 - Rodger Ward - equipe: Leader Car \n*  1960 - Jim Rathmann - equipe: Ken Paul E tamb\u00E9m \u00E9 importante ser registrado que os EUA n\u00E3o sediaram GPS de F\u00F3rmula 1 nos seguintes anos: 1992 a 1999 e de 2008 a 2011. A corrida voltou ao calend\u00E1rio da F\u00F3rmula 1 na temporada de 2012 em Austin, Texas. A prova foi disputada no dia 18 de novembro."@pt ,
+		"De Grand Prix van de Verenigde Staten is een Formule 1-race die voor de eerste keer gehouden werd in 1959 en voor de laatste keer in 2007. Omdat er in de periode tussen 1976 en 1984 meer dan \u00E9\u00E9n race per jaar gereden werd in de Verenigde Staten werden er naast de Grand Prix van de Verenigde Staten ook Formule 1 races georganiseerd onder de namen Grand Prix van de Verenigde Staten West, Grand Prix van de Verenigde Staten Oost, Grand Prix van Las Vegas en Grand Prix van Dallas."@nl ,
+		"Gro\u00DFer Preis der USA ist die Bezeichnung f\u00FCr ein Automobilrennen in den Vereinigten Staaten von Amerika, das erstmals 1958 auf dem Riverside International Raceway stattfand. 1959 war es auf dem Sebring International Raceway im US-Bundesstaat Florida zum ersten Mal Bestandteil der Formel-1-Weltmeisterschaft. Bis 1991 fand es mit Unterbrechungen auf sechs verschiedenen Rennstrecken statt, am l\u00E4ngsten war Watkins Glen International (1961 bis 1975) Austragungsort dieser Veranstaltung. Von 2000 bis 2007 wurden die Rennen des Gro\u00DFen Preises der USA auf einer Stra\u00DFenkursversion des Indianapolis Motor Speedway ausgetragen. Seit 2012 findet der Gro\u00DFe Preis der USA in Austin statt. Insgesamt wurden auf US-amerikanischem Boden unter f\u00FCnf verschiedenen Bezeichnungen Rennen der Formel-1-Weltmeisterschaft veranstaltet: \n*  Gro\u00DFer Preis der USA \n*  Gro\u00DFer Preis der USA Ost \n*  Gro\u00DFer Preis der USA West \n*  Gro\u00DFer Preis von Las Vegas \n*  Indianapolis 500"@de ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg?width=300> ;
+	dbo:wikiPageRevisionID	743817250 ;
+	dbo:wikiPageID	248865 ;
+	dbp:name	"United States Grand Prix"^^xsd:string ;
+	dbp:circuitImage	"Austin circuit.svg"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:United_States_Grand_Prix	dbp:circuitLengthKm	5.5160000000000000142 ;
+	dbp:circuitLengthMi	3.4270000000000000462 ;
+	dbp:fastestLap	1 ;
+	dbp:fastestLapDriver	"Nico Rosberg"^^xsd:string ;
+	dbp:firstHeld	1908 ;
+	dbp:raceLengthKm	308.89600000000001501 ;
+	dbp:raceLengthMi	191.93899999999999295 .
+@prefix ns21:	<http://dbpedia.org/datatype/> .
+dbr:United_States_Grand_Prix	dbp:secondTime	"2.85"^^ns21:second ;
+	dbp:thirdTime	"3.381"^^ns21:second ;
+	dbp:timesHeld	45 ;
+	dbp:winningTime	1 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:United_States_Grand_Prix	ns22:hypernym	dbr:Race ;
+	dbp:fastestLapTeam	dbr:Mercedes-Benz_in_Formula_One ;
+	dbp:currentYear	2015 ;
+	dbp:poleDriver	"Nico Rosberg"^^xsd:string .
+<http://dbpedia.org/resource/1976_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1977_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1978_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1979_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1980_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1962_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1963_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1965_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1966_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1967_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1968_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1969_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1970_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1971_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1972_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1973_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1974_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/1975_United_States_Grand_Prix>	dbp:nameOfRace	dbr:United_States_Grand_Prix .
+dbr:US_GP	dbo:wikiPageRedirects	dbr:United_States_Grand_Prix .
+dbr:Us_grand_prix	dbo:wikiPageRedirects	dbr:United_States_Grand_Prix .
+dbr:US_Grand_Prix	dbo:wikiPageRedirects	dbr:United_States_Grand_Prix .
+dbr:American_Grand_Prize	dbo:wikiPageRedirects	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/United_States_Grand_Prix_(Formula_One)>	dbo:wikiPageRedirects	dbr:United_States_Grand_Prix .
+dbr:United_States_Grand_Prix_East	dbo:wikiPageRedirects	dbr:United_States_Grand_Prix .
+dbr:United_States_GP	dbo:wikiPageRedirects	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/U._S._Grand_Prix>	dbo:wikiPageRedirects	dbr:United_States_Grand_Prix .
+dbr:USGP	dbo:wikiPageDisambiguates	dbr:United_States_Grand_Prix .
+<http://dbpedia.org/resource/United_States_Grand_Prix_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:United_States_Grand_Prix .

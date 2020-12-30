@@ -1,0 +1,43 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Autocourse	rdf:type	yago:Institution108053576 ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Autocourse	rdf:type	dbo:TelevisionShow ,
+		yago:Abstraction100002137 ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		yago:YagoLegalActor ,
+		yago:Company108058098 ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatFormulaOneMedia .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Autocourse	rdfs:label	"Autocourse"@en ;
+	rdfs:comment	"Autocourse is a series of annuals covering motor racing, and Formula One in particular. The annuals cover a long period of the sport's history, from 1951 to the present day, and, as such, are highly collectible."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Autocourse	owl:sameAs	dbr:Autocourse ,
+		<http://rdf.freebase.com/ns/m.0266hgv> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Autocourse	owl:sameAs	wikidata:Q4826231 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Autocourse	owl:sameAs	dbpedia-wikidata:Q4826231 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Autocourse	owl:sameAs	yago-res:Autocourse .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Autocourse	dct:subject	dbc:Formula_One_media .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Autocourse	foaf:isPrimaryTopicOf	wikipedia-en:Autocourse .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Autocourse	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Autocourse?oldid=732155662> ;
+	dbo:wikiPageExternalLink	<http://www.autocourse.com/> ;
+	dbo:abstract	"Autocourse is a series of annuals covering motor racing, and Formula One in particular. The annuals cover a long period of the sport's history, from 1951 to the present day, and, as such, are highly collectible."@en ;
+	dbo:wikiPageRevisionID	732155662 ;
+	dbo:wikiPageID	7603261 .
+@prefix ns14:	<http://purl.org/linguistics/gold/> .
+dbr:Autocourse	ns14:hypernym	dbr:Series .
+wikipedia-en:Autocourse	foaf:primaryTopic	dbr:Autocourse .
+dbr:AUTOCOURSE	dbo:wikiPageRedirects	dbr:Autocourse .

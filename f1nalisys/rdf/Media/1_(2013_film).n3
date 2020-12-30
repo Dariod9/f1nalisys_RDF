@@ -1,0 +1,87 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/1_(2013_film)>	rdf:type	yago:PsychologicalFeature100023100 ,
+		yago:WikicatAmericanSportsFilms ,
+		yago:WikicatSportsFilmsBasedOnActualEvents ,
+		yago:Documentary106616806 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1_(2013_film)>	rdf:type	dbo:Film .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/1_(2013_film)>	rdf:type	owl:Thing ,
+		yago:Abstraction100002137 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Creation103129123 ,
+		yago:Product104007894 ,
+		yago:WikicatDocumentaryFilmsAboutAutoRacing ,
+		yago:WikicatEnglish-languageFilms ,
+		yago:Artifact100021939 .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/1_(2013_film)>	rdf:type	schema:CreativeWork ,
+		yago:Wikicat2013Films .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/1_(2013_film)>	rdf:type	wikidata:Q386724 ,
+		yago:Object100002684 ,
+		yago:Movie106613686 ,
+		yago:Whole100003553 ,
+		yago:PhysicalEntity100001930 .
+@prefix ns6:	<http://dbpedia.org/ontology/Wikidata:> .
+<http://dbpedia.org/resource/1_(2013_film)>	rdf:type	ns6:Q11424 ,
+		dbo:Work ,
+		schema:Movie ,
+		yago:Wikicat2010sDocumentaryFilms ,
+		yago:SocialEvent107288639 ,
+		yago:Event100029378 ,
+		yago:Show106619065 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/1_(2013_film)>	rdfs:label	"1 (2013 film)"@en ;
+	rdfs:comment	"1 or 1: Life On The Limit is a 2013 documentary film directed by Paul Crowder and narrated by Michael Fassbender. The film traces the history of Formula One auto racing from its early years, in which some seasons had multiple fatalities, to the 1994 death of Ayrton Senna, the sport's most recent death at the time of production. Extensive and often rare archival footage is used throughout."@en .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1_(2013_film)>	owl:sameAs	dbpedia-wikidata:Q17063445 ,
+		<http://dbpedia.org/resource/1_(2013_film)> ,
+		<http://rdf.freebase.com/ns/m.0_7n9g3> ,
+		wikidata:Q17063445 ,
+		<http://yago-knowledge.org/resource/1_(2013_film)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/1_(2013_film)>	dct:subject	dbc:Formula_One_media ,
+		<http://dbpedia.org/resource/Category:2010s_documentary_films> ,
+		dbc:English-language_films ,
+		dbc:American_sports_films ,
+		dbc:American_documentary_films ,
+		<http://dbpedia.org/resource/Category:2010s_sports_films> ,
+		dbc:American_films ,
+		dbc:Documentary_films_about_auto_racing .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/1_(2013_film)>	foaf:name	"1"@en ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/1_(2013_film)> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1_(2013_film)>	dbp:writer	"Mark Monroe"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/1_(2013_film)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/1_(2013_film)?oldid=735942396> .
+@prefix ns14:	<http://www.bbc.co.uk/programmes/> .
+<http://dbpedia.org/resource/1_(2013_film)>	dbo:wikiPageExternalLink	ns14:p01pn2kr ;
+	dbo:director	<http://dbpedia.org/resource/Paul_Crowder_(filmmaker)> ;
+	dbp:studio	"Diamond Docs"^^xsd:string ,
+		"Spitfire Pictures"^^xsd:string ,
+		"Flat-Out Films"^^xsd:string .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1_(2013_film)>	dbo:distributor	dbr:Exclusive_Media ;
+	dbp:screenplay	"Mark Monroe"^^xsd:string ;
+	dbp:country	"United States"^^xsd:string ;
+	dbp:music	"Matter"^^xsd:string ;
+	dbp:language	"English"^^xsd:string ;
+	dbo:abstract	"1 or 1: Life On The Limit is a 2013 documentary film directed by Paul Crowder and narrated by Michael Fassbender. The film traces the history of Formula One auto racing from its early years, in which some seasons had multiple fatalities, to the 1994 death of Ayrton Senna, the sport's most recent death at the time of production. Extensive and often rare archival footage is used throughout."@en ;
+	dbo:wikiPageRevisionID	735942396 ;
+	dbo:wikiPageID	42911875 .
+@prefix ns16:	<http://dbpedia.org/datatype/> .
+@prefix ns17:	<http://dbpedia.org/ontology/Work/> .
+<http://dbpedia.org/resource/1_(2013_film)>	ns17:runtime	"112.0"^^ns16:minute .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/1_(2013_film)>	dbo:runtime	6720.0 .
+@prefix ns19:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/1_(2013_film)>	ns19:hypernym	dbr:Film ;
+	dbp:producer	"Nigel Sinclair"^^xsd:string ,
+		"Michael Shevloff"^^xsd:string ;
+	dbo:narrator	dbr:Michael_Fassbender .
+<http://en.wikipedia.org/wiki/1_(2013_film)>	foaf:primaryTopic	<http://dbpedia.org/resource/1_(2013_film)> .
+dbr:Life_On_The_Limit	dbo:wikiPageRedirects	<http://dbpedia.org/resource/1_(2013_film)> .

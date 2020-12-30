@@ -1,0 +1,82 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Crime_in_Formula_One	foaf:primaryTopic	dbr:Crime_in_Formula_One .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Delitto_in_Formula_Uno	dbo:wikiPageRedirects	dbr:Crime_in_Formula_One .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Crime_in_Formula_One	rdf:type	yago:WikicatPoliziotteschiFilms ,
+		yago:Wikicat1984Films .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Crime_in_Formula_One	rdf:type	owl:Thing ,
+		yago:SocialEvent107288639 ,
+		yago:Show106619065 ,
+		yago:WikicatItalianFilms .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Crime_in_Formula_One	rdf:type	wikidata:Q386724 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Event100029378 ,
+		yago:Wikicat1980sCrimeFilms ,
+		yago:Object100002684 .
+@prefix ns8:	<http://dbpedia.org/ontology/Wikidata:> .
+dbr:Crime_in_Formula_One	rdf:type	ns8:Q11424 ,
+		yago:WikicatFilmsDirectedByBrunoCorbucci ,
+		yago:Movie106613686 ,
+		yago:Creation103129123 ,
+		yago:Whole100003553 ,
+		yago:Product104007894 ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix schema:	<http://schema.org/> .
+dbr:Crime_in_Formula_One	rdf:type	schema:Movie ,
+		yago:Abstraction100002137 ,
+		yago:Artifact100021939 ,
+		yago:PsychologicalFeature100023100 ,
+		schema:CreativeWork ,
+		dbo:Work ,
+		yago:WikicatItalianComedyFilms ,
+		dbo:Film .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Crime_in_Formula_One	rdfs:label	"Crime in Formula One"@en ,
+		"Delitto in Formula Uno"@it ;
+	rdfs:comment	"Delitto in Formula Uno \u00E8 un film del 1984, diretto dal regista Bruno Corbucci. Si tratta della decima e penultima avventura del maresciallo Nico Giraldi, sempre interpretato da Tom\u00E1s Mili\u00E1n."@it ,
+		"Crime in Formula One (Italian: Delitto in Formula Uno) is a 1984 Italian \"poliziottesco\"-comedy film written and directed by Bruno Corbucci. It is the tenth chapter in the Nico Giraldi film series starred by Tomas Milian."@en .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Crime_in_Formula_One	owl:sameAs	dbpedia-it:Delitto_in_Formula_Uno .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Crime_in_Formula_One	owl:sameAs	dbpedia-wikidata:Q3705068 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Crime_in_Formula_One	owl:sameAs	yago-res:Delitto_in_Formula_Uno ,
+		dbr:Crime_in_Formula_One ,
+		<http://rdf.freebase.com/ns/m.0_fr3l5> ,
+		wikidata:Q3705068 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Crime_in_Formula_One	dct:subject	<http://dbpedia.org/resource/Category:1980s_crime_films> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Crime_in_Formula_One	dct:subject	dbc:Italian_comedy_films ,
+		dbc:Films_set_in_Rome ,
+		dbc:Poliziotteschi_films ,
+		dbc:Italian_films ,
+		dbc:Films_directed_by_Bruno_Corbucci ,
+		dbc:Formula_One_media ,
+		<http://dbpedia.org/resource/Category:1984_films> ;
+	foaf:name	"Crime in Formula One"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Crime_in_Formula_One ;
+	dbo:writer	dbr:Mario_Amendola ,
+		dbr:Bruno_Corbucci ;
+	dbo:starring	dbr:Tomas_Milian .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Crime_in_Formula_One	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Crime_in_Formula_One?oldid=734966373> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Crime_in_Formula_One	dbp:caption	"Italian theatrical release poster by Renato Casaro"^^xsd:string ;
+	dbp:editing	"Daniele Alabiso"^^xsd:string ;
+	dbo:director	dbr:Bruno_Corbucci ;
+	dbo:musicComposer	dbr:Fabio_Frizzi ;
+	dbo:language	dbr:Cinema_of_Italy ;
+	dbo:abstract	"Crime in Formula One (Italian: Delitto in Formula Uno) is a 1984 Italian \"poliziottesco\"-comedy film written and directed by Bruno Corbucci. It is the tenth chapter in the Nico Giraldi film series starred by Tomas Milian."@en ,
+		"Delitto in Formula Uno \u00E8 un film del 1984, diretto dal regista Bruno Corbucci. Si tratta della decima e penultima avventura del maresciallo Nico Giraldi, sempre interpretato da Tom\u00E1s Mili\u00E1n."@it ;
+	dbo:wikiPageRevisionID	734966373 ;
+	dbo:wikiPageID	41675826 ;
+	dbo:producer	dbr:Mario_Cecchi_Gori ,
+		dbr:Vittorio_Cecchi_Gori .
+dbr:Delitto_in_formula_uno	dbo:wikiPageRedirects	dbr:Crime_in_Formula_One .

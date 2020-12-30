@@ -1,0 +1,130 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1983_Detroit_Grand_Prix>	dbp:nameOfRace	dbr:Detroit_Grand_Prix .
+<http://dbpedia.org/resource/1985_Detroit_Grand_Prix>	dbp:nameOfRace	dbr:Detroit_Grand_Prix .
+<http://dbpedia.org/resource/1982_Detroit_Grand_Prix>	dbp:nameOfRace	dbr:Detroit_Grand_Prix .
+<http://dbpedia.org/resource/1986_Detroit_Grand_Prix>	dbp:nameOfRace	dbr:Detroit_Grand_Prix .
+<http://dbpedia.org/resource/1987_Detroit_Grand_Prix>	dbp:nameOfRace	dbr:Detroit_Grand_Prix .
+<http://dbpedia.org/resource/1984_Detroit_Grand_Prix>	dbp:nameOfRace	dbr:Detroit_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Detroit_Grand_Prix	foaf:primaryTopic	dbr:Detroit_Grand_Prix .
+<http://dbpedia.org/resource/1988_Detroit_Grand_Prix>	dbp:nameOfRace	dbr:Detroit_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Detroit_Grand_Prix	rdf:type	yago:Sport100523513 ,
+		yago:Abstraction100002137 ,
+		yago:Race107458453 ,
+		yago:Race107472657 ,
+		yago:SocialEvent107288639 ,
+		<http://dbpedia.org/class/yago/WikicatSportsInDetroit,Michigan> ,
+		yago:PsychologicalFeature100023100 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Diversion100426928 ,
+		yago:Contest107456188 ,
+		yago:WikicatAutoRacesInTheUnitedStates ,
+		yago:Act100030358 ,
+		yago:Activity100407535 ,
+		yago:Event100029378 ,
+		yago:AutomobileRace107458892 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Detroit_Grand_Prix	rdfs:label	"Grand Prix Formule 1 van de Verenigde Staten Oost"@nl ,
+		"Grand Prix Stan\u00F3w Zjednoczonych - Wsch\u00F3d Formu\u0142y 1"@pl ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0430"@ru ,
+		"Grand Prix automobile des \u00C9tats-Unis Est"@fr ,
+		"Detroit Grand Prix"@en ,
+		"Gran Premio del este de los Estados Unidos"@es ,
+		"Grande Pr\u00EAmio do Leste dos Estados Unidos"@pt ,
+		"Gran Premio degli Stati Uniti d'America-Est"@it ;
+	rdfs:comment	"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0430 \u2014 \u044D\u0442\u0430\u043F \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0432\u0448\u0438\u0439 \u043D\u0430 \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0432 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0435 (\u0448\u0442\u0430\u0442 \u041C\u0438\u0447\u0438\u0433\u0430\u043D, \u0421\u043E\u0435\u0434\u0438\u043D\u0451\u043D\u043D\u044B\u0435 \u0428\u0442\u0430\u0442\u044B \u0410\u043C\u0435\u0440\u0438\u043A\u0438) \u0441 1982 \u043F\u043E 1988 \u0433\u043E\u0434. \u0421\u043E\u0437\u0434\u0430\u0432\u0430\u0435\u043C\u0430\u044F, \u0432 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u043C, \u0434\u043B\u044F \u0442\u043E\u0433\u043E, \u0447\u0442\u043E\u0431\u044B \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0438\u043C\u0438\u0434\u0436 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0430, \u0433\u043E\u043D\u043A\u0430 (\u0432\u043C\u0435\u0441\u0442\u0435 \u0441 \u041B\u043E\u043D\u0433-\u0411\u0438\u0447 \u0438 \u041B\u0430\u0441-\u0412\u0435\u0433\u0430\u0441\u043E\u043C) \u0430\u043D\u043E\u043D\u0441\u0438\u0440\u043E\u0432\u0430\u043B\u0430 \u0431\u0435\u0441\u043F\u0440\u0435\u0446\u0435\u0434\u0435\u043D\u0442\u043D\u044B\u0435 \u0442\u0440\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043D\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0421\u043E\u0435\u0434\u0438\u043D\u0451\u043D\u043D\u044B\u0445 \u0428\u0442\u0430\u0442\u043E\u0432 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 1982 \u0433\u043E\u0434\u0430. \u0423\u043B\u0438\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u0438\u0434\u0435\u0435\u0439 \u0411\u043E\u0431\u0430 \u041C\u0430\u043A\u041A\u0435\u0439\u0431\u0430, \u0430 \u0433\u043E\u0440\u043E\u0434 \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u043B\u0441\u044F \u043D\u0430 \u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u044E \u0432\u0434\u043E\u043B\u044C \u0440\u0435\u043A\u0438 \u0414\u0435\u0442\u0440\u043E\u0439\u0442 \u0432\u043E\u043A\u0440\u0443\u0433 \u0431\u043B\u0435\u0441\u0442\u044F\u0449\u0435\u0433\u043E \u0420\u0435\u043D\u0435\u0441\u0441\u0430\u043D\u0441 \u0426\u0435\u043D\u0442\u0440\u0430 \u0438 \u041A\u043E\u0431\u043E \u0410\u0440\u0435\u043D\u044B. \u0421\u043E\u0433\u043B\u0430\u0441\u043E\u0432\u0430\u043D\u0438\u044F \u0441 \u0411\u0435\u0440\u043D\u0438 \u042D\u043A\u043A\u043B\u0441\u0442\u043E\u0443\u043D\u043E\u043C \u043F\u0440\u043E\u0448\u043B\u0438 \u0443\u0441\u043F\u0435\u0448\u043D\u043E, \u0438 \u0432 1982 \u0433\u043E\u0434\u0443 \u0433\u043E\u0440\u043E\u0434 \u043F\u0440\u0438\u043D\u044F\u043B \u043F\u0435\u0440\u0432\u044B\u0439 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043D\u0430 2.5-\u043C\u0438\u043B\u044C\u043D\u043E\u043C \u0442\u0440\u0435\u043A\u0435."@ru ,
+		"The title of Detroit Grand Prix was applied to the Formula One races held at the Detroit street circuit in Detroit, Michigan, United States of America from 1982 through 1988."@en ,
+		"Le Grand Prix automobile des \u00C9tats-Unis Est est une \u00E9preuve qui a compt\u00E9 pour le championnat du monde de Formule 1 de 1976 \u00E0 1980, puis en 1982 et en 1983."@fr ,
+		"Grand Prix Stan\u00F3w Zjednoczonych - Wsch\u00F3d  \u2013 wy\u015Bcig zaliczany do Mistrzostw \u015Awiata Formu\u0142y 1, organizowany od sezonu 1982 do sezonu 1988."@pl ,
+		"El Gran Premio del este de los Estados Unidos, tambi\u00E9n llamado Gran Premio de Detroit, es una carrera de automovilismo de velocidad disputada en un circuito de carreras callejero en la ciudad de Detroit, estado de M\u00EDchigan, Estados Unidos."@es ,
+		"De Grand Prix van de Verenigde Staten Oost was een wedstrijd uit de Formule 1-kalender die zeven keer gehouden werd tussen 1982 en 1988 op het stratencircuit van Detroit. De race stond ook bekend als de Grand Prix van Detroit. Met drie overwinningen is Ayrton Senna recordhouder op dit circuit."@nl ,
+		"Gran Premio degli Stati Uniti-Est \u00E8 la denominazione del Gran Premio degli Stati Uniti di Formula 1 in programma a Watkins Glen dal 1976 al 1980 per distinguerlo dalla gara di Long Beach (Gran Premio degli Stati Uniti d'America-Ovest). Per motivi economici l'evento nel 1981 non si disput\u00F2 mentre nelle stagioni 1982 e 1983 venne spostato a Detroit (sede della Ford) che ospit\u00F2 il gran premio anche dal 1984 al 1988, sotto la denominazione di Gran Premio di Detroit. Recentemente il gran premio \u00E8 stato ripreso dalla Champ Car e si corre alla Belle Isle di Detroit."@it ,
+		"O t\u00EDtulo de Grande Pr\u00EAmio do Leste dos Estados Unidos foi aplicado a dois eventos diferentes do Campeonato Mundial de F\u00F3rmula 1. Ele foi usado para referir-se a: \n*  as corridas do Grande Pr\u00EAmio dos Estados Unidos sediadas em Watkins Glen de 1976 a 1980; era usado para distinguir do Grande Pr\u00EAmio do Oeste dos Estados Unidos, sediado em Long Beach, Calif\u00F3rnia, de 1976 \u00E0 1983. \n*  as corridas de F\u00F3rmula 1 sediadas no circuito de rua de Detroit de 1982 a 1988; as corridas de Detroit tamb\u00E9m eras chamadas de Grande Pr\u00EAmio de Detroit."@pt ;
+	dbp:laps	63 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Detroit_Grand_Prix	owl:sameAs	<http://rdf.freebase.com/ns/m.03s1rl> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Detroit_Grand_Prix	owl:sameAs	dbpedia-es:Gran_Premio_del_este_de_los_Estados_Unidos ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_Stan\u00F3w_Zjednoczonych_-_Wsch\u00F3d_Formu\u0142y_1> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Detroit_Grand_Prix	owl:sameAs	yago-res:Detroit_Grand_Prix .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Detroit_Grand_Prix	owl:sameAs	dbpedia-id:Grand_Prix_Detroit .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Detroit_Grand_Prix	owl:sameAs	wikidata:Q9214 ,
+		<http://fr.dbpedia.org/resource/Grand_Prix_automobile_des_\u00C9tats-Unis_Est> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Detroit_Grand_Prix	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_de_Verenigde_Staten_Oost .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Detroit_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q9214 ,
+		dbr:Detroit_Grand_Prix ,
+		<http://it.dbpedia.org/resource/Gran_Premio_degli_Stati_Uniti_d\u0027America-Est> ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_do_Leste_dos_Estados_Unidos> ,
+		<http://ko.dbpedia.org/resource/\uB514\uD2B8\uB85C\uC774\uD2B8_\uADF8\uB791\uD504\uB9AC> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Detroit_Grand_Prix	dct:subject	<http://dbpedia.org/resource/Category:1988_disestablishments> ,
+		<http://dbpedia.org/resource/Category:1982_establishments_in_Michigan> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Detroit_Grand_Prix	dct:subject	dbc:Sports_in_Detroit ,
+		dbc:Recurring_sporting_events_established_in_1982 ,
+		dbc:Motorsport_in_Michigan ,
+		dbc:Detroit_Grand_Prix ,
+		dbc:Formula_One_Grands_Prix ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Detroit_Grand_Prix ;
+	dbp:fastestLapTeam	dbr:McLaren ,
+		dbr:Honda_F1 ;
+	dbp:winningTeam	dbr:McLaren ,
+		dbr:Honda_F1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Detroit_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Detroit_Grand_Prix?oldid=743454789> ;
+	dbp:fastestLapDriver	"Alain Prost"^^xsd:string ;
+	dbp:circuit	dbr:Detroit_street_circuit ;
+	dbp:winner	"A. Senna"^^xsd:string ;
+	dbp:currentYear	1988 ;
+	dbp:poleTime	1 ;
+	dbp:name	"Detroit Grand Prix"^^xsd:string ;
+	dbp:poleTeam	dbr:Honda_F1 ,
+		dbr:McLaren ;
+	dbp:secondTeam	dbr:Honda_F1 ,
+		dbr:McLaren .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Detroit_Grand_Prix	dbo:abstract	"De Grand Prix van de Verenigde Staten Oost was een wedstrijd uit de Formule 1-kalender die zeven keer gehouden werd tussen 1982 en 1988 op het stratencircuit van Detroit. De race stond ook bekend als de Grand Prix van Detroit. Met drie overwinningen is Ayrton Senna recordhouder op dit circuit."@nl ,
+		"The title of Detroit Grand Prix was applied to the Formula One races held at the Detroit street circuit in Detroit, Michigan, United States of America from 1982 through 1988."@en ,
+		"O t\u00EDtulo de Grande Pr\u00EAmio do Leste dos Estados Unidos foi aplicado a dois eventos diferentes do Campeonato Mundial de F\u00F3rmula 1. Ele foi usado para referir-se a: \n*  as corridas do Grande Pr\u00EAmio dos Estados Unidos sediadas em Watkins Glen de 1976 a 1980; era usado para distinguir do Grande Pr\u00EAmio do Oeste dos Estados Unidos, sediado em Long Beach, Calif\u00F3rnia, de 1976 \u00E0 1983. \n*  as corridas de F\u00F3rmula 1 sediadas no circuito de rua de Detroit de 1982 a 1988; as corridas de Detroit tamb\u00E9m eras chamadas de Grande Pr\u00EAmio de Detroit. Na temporada de 1982, os Estados Unidos foram o primeiro pa\u00EDs a sediar tr\u00EAs Grandes Pr\u00EAmios no campeonato. Somado a Long Beach (Grande Pr\u00EAmio do Oeste dos Estados Unidos) e Las Vegas, o novo evento foi sediado em Detroit em outro circuito de rua. O circuito original tinha 20 curvas numa extens\u00E3o de 4,012 km."@pt ,
+		"\u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0430 \u2014 \u044D\u0442\u0430\u043F \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0432\u0448\u0438\u0439 \u043D\u0430 \u0433\u043E\u0440\u043E\u0434\u0441\u043A\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 \u0432 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0435 (\u0448\u0442\u0430\u0442 \u041C\u0438\u0447\u0438\u0433\u0430\u043D, \u0421\u043E\u0435\u0434\u0438\u043D\u0451\u043D\u043D\u044B\u0435 \u0428\u0442\u0430\u0442\u044B \u0410\u043C\u0435\u0440\u0438\u043A\u0438) \u0441 1982 \u043F\u043E 1988 \u0433\u043E\u0434. \u0421\u043E\u0437\u0434\u0430\u0432\u0430\u0435\u043C\u0430\u044F, \u0432 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u043C, \u0434\u043B\u044F \u0442\u043E\u0433\u043E, \u0447\u0442\u043E\u0431\u044B \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0438\u043C\u0438\u0434\u0436 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0430, \u0433\u043E\u043D\u043A\u0430 (\u0432\u043C\u0435\u0441\u0442\u0435 \u0441 \u041B\u043E\u043D\u0433-\u0411\u0438\u0447 \u0438 \u041B\u0430\u0441-\u0412\u0435\u0433\u0430\u0441\u043E\u043C) \u0430\u043D\u043E\u043D\u0441\u0438\u0440\u043E\u0432\u0430\u043B\u0430 \u0431\u0435\u0441\u043F\u0440\u0435\u0446\u0435\u0434\u0435\u043D\u0442\u043D\u044B\u0435 \u0442\u0440\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043D\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0438 \u0421\u043E\u0435\u0434\u0438\u043D\u0451\u043D\u043D\u044B\u0445 \u0428\u0442\u0430\u0442\u043E\u0432 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 1982 \u0433\u043E\u0434\u0430. \u0423\u043B\u0438\u0447\u043D\u0430\u044F \u0442\u0440\u0430\u0441\u0441\u0430 \u0431\u044B\u043B\u0430 \u0438\u0434\u0435\u0435\u0439 \u0411\u043E\u0431\u0430 \u041C\u0430\u043A\u041A\u0435\u0439\u0431\u0430, \u0430 \u0433\u043E\u0440\u043E\u0434 \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u043B\u0441\u044F \u043D\u0430 \u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u044E \u0432\u0434\u043E\u043B\u044C \u0440\u0435\u043A\u0438 \u0414\u0435\u0442\u0440\u043E\u0439\u0442 \u0432\u043E\u043A\u0440\u0443\u0433 \u0431\u043B\u0435\u0441\u0442\u044F\u0449\u0435\u0433\u043E \u0420\u0435\u043D\u0435\u0441\u0441\u0430\u043D\u0441 \u0426\u0435\u043D\u0442\u0440\u0430 \u0438 \u041A\u043E\u0431\u043E \u0410\u0440\u0435\u043D\u044B. \u0421\u043E\u0433\u043B\u0430\u0441\u043E\u0432\u0430\u043D\u0438\u044F \u0441 \u0411\u0435\u0440\u043D\u0438 \u042D\u043A\u043A\u043B\u0441\u0442\u043E\u0443\u043D\u043E\u043C \u043F\u0440\u043E\u0448\u043B\u0438 \u0443\u0441\u043F\u0435\u0448\u043D\u043E, \u0438 \u0432 1982 \u0433\u043E\u0434\u0443 \u0433\u043E\u0440\u043E\u0434 \u043F\u0440\u0438\u043D\u044F\u043B \u043F\u0435\u0440\u0432\u044B\u0439 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043D\u0430 2.5-\u043C\u0438\u043B\u044C\u043D\u043E\u043C \u0442\u0440\u0435\u043A\u0435. \u0411\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\u043E \u0433\u043E\u043D\u0449\u0438\u043A\u043E\u0432 \u043D\u0435 \u0431\u044B\u043B\u0438 \u0432\u043F\u0435\u0447\u0430\u0442\u043B\u0435\u043D\u044B \u0442\u0440\u0430\u0441\u0441\u043E\u0439, \u0436\u0430\u043B\u0443\u044F\u0441\u044C, \u0447\u0442\u043E \u0442\u0440\u0435\u043A \u0441\u043A\u0443\u0447\u0435\u043D, \u0443\u0445\u0430\u0431\u0438\u0441\u0442 \u0438 \u043E\u0447\u0435\u043D\u044C \u0441\u043A\u043E\u043B\u044C\u0437\u043E\u043A. \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u043E\u0441\u0442\u0430\u043B\u0430\u0441\u044C \u0431\u044B \u0432 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0435, \u043D\u043E \u0432 1988 \u0433\u043E\u0434\u0443, \u043A\u043E\u0433\u0434\u0430 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u043E\u0441\u044C \u043F\u043E\u0432\u0442\u043E\u0440\u043D\u043E\u0435 \u043E\u0431\u0441\u0443\u0436\u0434\u0435\u043D\u0438\u0435 \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442\u0430, \u0433\u043E\u0440\u043E\u0434 \u043E\u0442\u043A\u0430\u0437\u0430\u043B\u0441\u044F \u043F\u043B\u0430\u0442\u0438\u0442\u044C \u0442\u0440\u0435\u0431\u0443\u0435\u043C\u0443\u044E \u0446\u0435\u043D\u0443, \u0438 \u0432 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0435\u043C \u0433\u043E\u0434\u0443 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0421\u0428\u0410 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B \u0443\u0436\u0435 \u0432 \u0424\u0438\u043D\u0438\u043A\u0441\u0435 (\u0448\u0442\u0430\u0442 \u0410\u0440\u0438\u0437\u043E\u043D\u0430). \u041F\u0435\u0440\u0432\u044B\u0439 \u0413\u0440\u0430\u043D-\u041F\u0440\u0438 \u0414\u0435\u0442\u0440\u043E\u0439\u0442\u0430 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0414\u0436\u043E\u043D \u0423\u043E\u0442\u0441\u043E\u043D \u0441 17 \u043C\u0435\u0441\u0442\u0430, \u0441\u0430\u043C\u043E\u0439 \u043D\u0438\u0437\u043A\u043E\u0439 \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u043E\u0439 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043F\u0440\u0438 \u043F\u043E\u0431\u0435\u0434\u0435 \u0432 \u0433\u043E\u043D\u043A\u0435 \u043F\u043E \u0443\u043B\u0438\u0447\u043D\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u0435 (\u0432\u043F\u0440\u043E\u0447\u0435\u043C, \u0423\u043E\u0442\u0441\u043E\u043D \u043F\u043E\u0431\u0438\u043B \u0441\u0432\u043E\u0439 \u0440\u0435\u043A\u043E\u0440\u0434 \u0433\u043E\u0434\u043E\u043C \u043F\u043E\u0437\u0436\u0435 \u043D\u0430 \u041B\u043E\u043D\u0433-\u0411\u0438\u0447, \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u0430\u0432 \u0441 22 \u043C\u0435\u0441\u0442\u0430). \u0413\u043E\u043D\u043A\u0443 1983 \u0433\u043E\u0434\u0430 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u041C\u0438\u043A\u0435\u043B\u0435 \u0410\u043B\u044C\u0431\u043E\u0440\u0435\u0442\u043E \u043D\u0430 Tyrrell 011. \u042D\u0442\u043E \u0431\u044B\u043B\u0430 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u0438\u0437 155 \u043F\u043E\u0431\u0435\u0434 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044F Cosworth DFV V8 3.0L (\u043F\u0435\u0440\u0432\u0430\u044F \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0430\u0441\u044C \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u043E\u0432 \u0432 1967). \u042D\u0442\u043E \u0431\u044B\u043B\u0430 \u0442\u0430\u043A\u0436\u0435 \u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F \u043F\u043E\u0431\u0435\u0434\u0430 \u0434\u043B\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u044B Tyrrell (\u043F\u0435\u0440\u0432\u0430\u044F \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0430\u0441\u044C \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 \u0432 1971)."@ru ,
+		"El Gran Premio del este de los Estados Unidos, tambi\u00E9n llamado Gran Premio de Detroit, es una carrera de automovilismo de velocidad disputada en un circuito de carreras callejero en la ciudad de Detroit, estado de M\u00EDchigan, Estados Unidos."@es ,
+		"Grand Prix Stan\u00F3w Zjednoczonych - Wsch\u00F3d  \u2013 wy\u015Bcig zaliczany do Mistrzostw \u015Awiata Formu\u0142y 1, organizowany od sezonu 1982 do sezonu 1988."@pl ,
+		"Le Grand Prix automobile des \u00C9tats-Unis Est est une \u00E9preuve qui a compt\u00E9 pour le championnat du monde de Formule 1 de 1976 \u00E0 1980, puis en 1982 et en 1983."@fr ,
+		"Gran Premio degli Stati Uniti-Est \u00E8 la denominazione del Gran Premio degli Stati Uniti di Formula 1 in programma a Watkins Glen dal 1976 al 1980 per distinguerlo dalla gara di Long Beach (Gran Premio degli Stati Uniti d'America-Ovest). Per motivi economici l'evento nel 1981 non si disput\u00F2 mentre nelle stagioni 1982 e 1983 venne spostato a Detroit (sede della Ford) che ospit\u00F2 il gran premio anche dal 1984 al 1988, sotto la denominazione di Gran Premio di Detroit. Recentemente il gran premio \u00E8 stato ripreso dalla Champ Car e si corre alla Belle Isle di Detroit."@it ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg?width=300> ;
+	dbo:wikiPageRevisionID	743454789 ;
+	dbo:wikiPageID	21036694 ;
+	dbp:second	"A. Prost"^^xsd:string ;
+	dbp:third	"T. Boutsen"^^xsd:string ;
+	dbp:flag	"Flag of the United States.svg"^^xsd:string ;
+	dbp:poleDriver	"Ayrton Senna"^^xsd:string ;
+	dbp:circuitImage	"Downtown Detroit Street Circuit.svg"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Detroit_Grand_Prix	dbp:circuitLengthKm	4.0229999999999996874 ;
+	dbp:circuitLengthMi	2.5 ;
+	dbp:fastestLap	1 ;
+	dbp:firstHeld	1982 ;
+	dbp:raceLengthKm	253.44900000000001228 ;
+	dbp:raceLengthMi	157.5 .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+dbr:Detroit_Grand_Prix	dbp:secondTime	"38.713"^^ns19:second ;
+	dbp:thirdTime	"+1 lap"^^xsd:string ;
+	dbp:timesHeld	7 ;
+	dbp:winningTime	1 ;
+	dbp:lastHeld	1988 ;
+	dbp:thirdTeam	dbr:Benetton_Formula ,
+		dbr:Cosworth ;
+	dbp:mostWinsConstructor	"Lotus"^^xsd:string ,
+		"McLaren"^^xsd:string ;
+	dbp:mostWinsDriver	"Ayrton Senna"^^xsd:string .
+dbr:Detroit_GP	dbo:wikiPageRedirects	dbr:Detroit_Grand_Prix .

@@ -1,0 +1,80 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:A_Season_With_McLaren	dbo:wikiPageRedirects	dbr:A_Season_with_McLaren .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:A_Season_with_McLaren	foaf:primaryTopic	dbr:A_Season_with_McLaren .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:A_Season_with_McLaren	rdf:type	yago:Medium106254669 ,
+		yago:Television106277280 ,
+		yago:PsychologicalFeature100023100 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:A_Season_with_McLaren	rdf:type	umbel-rc:TVShow_IBT ,
+		yago:Product104007894 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:A_Season_with_McLaren	rdf:type	wikidata:Q386724 ,
+		yago:Creation103129123 ,
+		yago:Movie106613686 ,
+		yago:Broadcasting106276697 ,
+		dbo:Work ,
+		yago:Instrumentality103575240 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Documentary106616806 ,
+		dbo:TelevisionShow ,
+		yago:Object100002684 ,
+		yago:Event100029378 ,
+		wikidata:Q15416 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:A_Season_with_McLaren	rdf:type	owl:Thing ,
+		yago:Abstraction100002137 ,
+		yago:Whole100003553 ,
+		yago:SocialEvent107288639 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Telecommunication106271778 ,
+		yago:WikicatBBCTelevisionDocumentaries ,
+		yago:Artifact100021939 ,
+		yago:Show106619065 .
+@prefix schema:	<http://schema.org/> .
+dbr:A_Season_with_McLaren	rdf:type	schema:CreativeWork .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:A_Season_with_McLaren	rdfs:label	"A Season with McLaren"@en ;
+	rdfs:comment	"The Team: A Season With McLaren is a 7-part TV series produced by John Gau Productions for the BBC during the 1993 Formula One season and first transmitted on BBC Two during November and December 1993. The series followed the team and regular drivers Ayrton Senna and Michael Andretti, as well as test driver Mika H\u00E4kkinen, giving a behind the scenes insight to the McLaren team. The series consisted of seven episodes, each approximately 30 minutes in length: The episodes were narrated by Tim Pigott-Smith."@en ;
+	owl:sameAs	dbr:A_Season_with_McLaren .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:A_Season_with_McLaren	owl:sameAs	yago-res:A_Season_with_McLaren ,
+		wikidata:Q4659370 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:A_Season_with_McLaren	owl:sameAs	dbpedia-wikidata:Q4659370 ,
+		<http://rdf.freebase.com/ns/m.04zpsc> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:A_Season_with_McLaren	dct:subject	dbc:BBC_television_documentaries ,
+		dbc:Formula_One_media ,
+		dbc:British_sports_television_series ,
+		dbc:Automotive_television_series ;
+	foaf:name	"The Team: A Season With McLaren"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:A_Season_with_McLaren .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:A_Season_with_McLaren	dbp:developer	"John Gau Productions"^^xsd:string ;
+	dbo:network	dbr:BBC_Two ,
+		dbr:BBC .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:A_Season_with_McLaren	dbo:numberOfEpisodes	"7"^^xsd:nonNegativeInteger .
+@prefix ns17:	<http://dbpedia.org/datatype/> .
+@prefix ns18:	<http://dbpedia.org/ontology/Work/> .
+dbr:A_Season_with_McLaren	ns18:runtime	"30.0"^^ns17:minute ;
+	dbo:format	<http://dbpedia.org/resource/576i> ;
+	dbo:runtime	1800.0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:A_Season_with_McLaren	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/A_Season_with_McLaren?oldid=740720017> ;
+	dbp:executiveProducer	"Tony Salmon"^^xsd:string ;
+	dbp:firstRun	1993 ;
+	dbo:abstract	"The Team: A Season With McLaren is a 7-part TV series produced by John Gau Productions for the BBC during the 1993 Formula One season and first transmitted on BBC Two during November and December 1993. The series followed the team and regular drivers Ayrton Senna and Michael Andretti, as well as test driver Mika H\u00E4kkinen, giving a behind the scenes insight to the McLaren team. The series consisted of seven episodes, each approximately 30 minutes in length: \n*  A Man For All Seasons \n*  The Rookie \n*  A Few Good Men \n*  The Boy From Brazil \n*  Friendly Persuasion \n*  The Rules Of The Game \n*  Good-bye To All That The episodes were narrated by Tim Pigott-Smith."@en ;
+	dbo:wikiPageRevisionID	740720017 ;
+	dbo:wikiPageID	1401830 ;
+	dbp:country	"United Kingdom"^^xsd:string ;
+	dbp:language	"English"^^xsd:string .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+dbr:A_Season_with_McLaren	ns20:hypernym	dbr:Series .
+dbr:A_Season_With_Mclaren	dbo:wikiPageRedirects	dbr:A_Season_with_McLaren .

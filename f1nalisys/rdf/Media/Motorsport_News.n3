@@ -1,0 +1,67 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Motorsport_News	rdf:type	dbo:WrittenWork .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Motorsport_News	rdf:type	yago:Artifact100021939 ,
+		dbo:Newspaper ,
+		dbo:PeriodicalLiterature ,
+		yago:Whole100003553 ,
+		yago:Press106263369 ,
+		yago:PrintMedia106263609 ,
+		yago:Medium106254669 ,
+		yago:Newspaper106267145 .
+@prefix schema:	<http://schema.org/> .
+dbr:Motorsport_News	rdf:type	schema:CreativeWork ,
+		dbo:Work .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Motorsport_News	rdf:type	wikidata:Q386724 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Motorsport_News	rdf:type	owl:Thing ,
+		wikidata:Q11032 ,
+		yago:Object100002684 ,
+		yago:WikicatWeeklyNewspapersPublishedInTheUnitedKingdom ,
+		wikidata:Q1092563 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Instrumentality103575240 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Motorsport_News	rdfs:label	"Motorsport News"@en ;
+	rdfs:comment	"Motorsport News is a British weekly newspaper, first published in 1955. Motorsport News includes news, reports and analysis of British circuit racing, rallying and other forms of motor sport. It also includes some international news and reports, including Formula One coverage. The title is released every Wednesday and is published by Haymarket Media Group. Motorsport News is based in Teddington in Middlesex, England. Motorsport News was previously called Motoring News, and many still refer to the title by the previous name."@en ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0nb0fxm> ,
+		wikidata:Q6918483 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Motorsport_News	owl:sameAs	dbpedia-wikidata:Q6918483 ,
+		dbr:Motorsport_News .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Motorsport_News	owl:sameAs	yago-res:Motorsport_News .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Motorsport_News	dct:subject	dbc:Weekly_newspapers_published_in_the_United_Kingdom ,
+		dbc:Formula_One_media .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Motorsport_News	foaf:name	"Motorsport News"@en ;
+	foaf:homepage	<http://www.motorsport-news.co.uk> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Motorsport_News	foaf:isPrimaryTopicOf	wikipedia-en:Motorsport_News .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Motorsport_News	dbo:circulation	"14002"^^xsd:nonNegativeInteger .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Motorsport_News	dbp:price	"UK\u00A32.95"^^xsd:string ;
+	dbp:sisterTitles	"Autosport"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Motorsport_News	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Motorsport_News?oldid=673866162> ;
+	dbo:headquarter	dbr:United_Kingdom ,
+		dbr:Teddington ,
+		dbr:Middlesex ;
+	dbp:foundation	1955 ;
+	dbo:abstract	"Motorsport News is a British weekly newspaper, first published in 1955. Motorsport News includes news, reports and analysis of British circuit racing, rallying and other forms of motor sport. It also includes some international news and reports, including Formula One coverage. The title is released every Wednesday and is published by Haymarket Media Group. Motorsport News is based in Teddington in Middlesex, England. Motorsport News was previously called Motoring News, and many still refer to the title by the previous name."@en ;
+	dbo:wikiPageRevisionID	673866162 ;
+	dbo:wikiPageID	37479111 ;
+	dbp:type	"Weekly newspaper"^^xsd:string ;
+	dbp:website	"www.motorsport-news.co.uk"^^xsd:string .
+@prefix ns17:	<http://purl.org/linguistics/gold/> .
+dbr:Motorsport_News	ns17:hypernym	dbr:Newspaper ;
+	dbo:owner	dbr:Haymarket_Media_Group ;
+	dbo:editor	<http://dbpedia.org/resource/Kevin_Turner_(editor)> ;
+	dbo:format	<http://dbpedia.org/resource/Compact_(newspaper)> .
+wikipedia-en:Motorsport_News	foaf:primaryTopic	dbr:Motorsport_News .

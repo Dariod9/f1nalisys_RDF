@@ -1,0 +1,93 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/9_Days_in_Summer>	foaf:primaryTopic	<http://dbpedia.org/resource/9_Days_in_Summer> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	rdf:type	yago:WikicatEnglish-languageFilms .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	rdf:type	dbo:Film .
+@prefix ns4:	<http://dbpedia.org/ontology/Wikidata:> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	rdf:type	ns4:Q11424 ,
+		dbo:Work ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Wikicat1967Films ,
+		yago:WikicatSponsoredFilms .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	rdf:type	wikidata:Q386724 ,
+		yago:PsychologicalFeature100023100 ,
+		yago:Object100002684 .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	rdf:type	schema:CreativeWork ,
+		yago:PhysicalEntity100001930 ,
+		yago:Documentary106616806 ,
+		yago:Whole100003553 ,
+		yago:Show106619065 ,
+		yago:WikicatDocumentaryFilmsAboutAutoRacing .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	rdf:type	owl:Thing ,
+		schema:Movie ,
+		yago:WikicatDocumentaryFilmsAboutAutomobiles ,
+		yago:Artifact100021939 ,
+		yago:Event100029378 ,
+		yago:Wikicat1960sDocumentaryFilms ,
+		yago:Product104007894 ,
+		yago:Abstraction100002137 ,
+		yago:Creation103129123 ,
+		yago:SocialEvent107288639 ,
+		yago:Movie106613686 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	rdfs:label	"9 Days in Summer"@en ;
+	rdfs:comment	"9 Days in Summer is a promotional documentary film made by Ford that tells the story of the development of the Ford-funded Cosworth DFV and Lotus 49, the title coming from the nine Formula One races the car took part in 1967, which are also extensively featured in the film."@en ;
+	owl:sameAs	<http://dbpedia.org/resource/9_Days_in_Summer> ,
+		wikidata:Q15058808 ,
+		<http://rdf.freebase.com/ns/m.0y66d5m> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	owl:sameAs	dbpedia-wikidata:Q15058808 ,
+		<http://yago-knowledge.org/resource/9_Days_in_Summer> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	dct:subject	dbc:Sponsored_films ,
+		dbc:Formula_One_media ,
+		dbc:Documentary_films_about_auto_racing ,
+		dbc:Ford_of_Europe ,
+		<http://dbpedia.org/resource/Category:1960s_documentary_films> ,
+		<http://dbpedia.org/resource/Category:1967_films> ,
+		dbc:Documentary_films_about_automobiles ,
+		dbc:English-language_films ;
+	foaf:name	"9 Days in Summer"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Clark_at_1967_Dutch_Grand_Prix_(3).jpg> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/9_Days_in_Summer> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	dbp:released	1967 .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	dbo:starring	dbr:Walter_Hayes ,
+		dbr:Jim_Clark ,
+		dbr:Graham_Hill ,
+		dbr:Harley_Copp ,
+		dbr:Keith_Duckworth ,
+		dbr:Colin_Chapman .
+@prefix ns14:	<http://dbpedia.org/datatype/> .
+@prefix ns15:	<http://dbpedia.org/ontology/Work/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	ns15:runtime	"48.0"^^ns14:minute .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	dbo:runtime	2880.0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/9_Days_in_Summer?oldid=702763292> .
+@prefix ns18:	<http://www.dukevideo.com/prd3955/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	dbo:wikiPageExternalLink	ns18:Ford-Archive-Gems-Nine-Days-in-Summer ;
+	dbo:musicComposer	dbr:Jeff_Wayne ;
+	dbo:producer	dbr:Norman_Vigars ;
+	dbo:writer	<http://dbpedia.org/resource/Philip_Bond_(film_maker)> ;
+	dbo:abstract	"9 Days in Summer is a promotional documentary film made by Ford that tells the story of the development of the Ford-funded Cosworth DFV and Lotus 49, the title coming from the nine Formula One races the car took part in 1967, which are also extensively featured in the film."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Clark_at_1967_Dutch_Grand_Prix_(3).jpg?width=300> ;
+	dbo:wikiPageRevisionID	702763292 ;
+	dbo:wikiPageID	40729040 ;
+	dbo:country	dbr:United_Kingdom ;
+	dbo:cinematography	dbr:Hilton_Craig ,
+		dbr:Dennis_Ayling ;
+	dbo:director	<http://dbpedia.org/resource/Philip_Bond_(film_maker)> ;
+	dbo:distributor	dbr:Ford_of_Britain ,
+		dbr:Philip_Bond_and_Partners ;
+	dbo:editing	dbr:Peter_Gold ;
+	dbp:language	"English"^^xsd:string .
+@prefix ns19:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/9_Days_in_Summer>	ns19:hypernym	dbr:Film .

@@ -1,0 +1,81 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Last_Meeting	foaf:primaryTopic	dbr:Last_Meeting .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Last_Meeting	rdf:type	yago:Event100029378 ,
+		yago:Abstraction100002137 ,
+		yago:WikicatItalian-languageFilms .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Last_Meeting	rdf:type	dbo:Work .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Last_Meeting	rdf:type	wikidata:Q386724 ,
+		yago:Whole100003553 ,
+		yago:Artifact100021939 ,
+		yago:PsychologicalFeature100023100 .
+@prefix schema:	<http://schema.org/> .
+dbr:Last_Meeting	rdf:type	schema:CreativeWork ,
+		dbo:Film .
+@prefix ns8:	<http://dbpedia.org/ontology/Wikidata:> .
+dbr:Last_Meeting	rdf:type	ns8:Q11424 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Wikicat1951Films ,
+		yago:Product104007894 ,
+		yago:Creation103129123 ,
+		yago:Movie106613686 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Show106619065 ,
+		yago:WikicatItalianFilms .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Last_Meeting	rdf:type	owl:Thing ,
+		yago:Object100002684 ,
+		schema:Movie ,
+		yago:SocialEvent107288639 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Last_Meeting	rdfs:label	"Last Meeting"@en ,
+		"Ultimo incontro"@it ;
+	rdfs:comment	"Last Meeting (Italian: Ultimo incontro) is a 1951 Italian drama film directed by Gianni Franciolini. It is loosely based on the novel  La biondina by Marco Praga."@en ,
+		"Ultimo incontro \u00E8 un film di genere drammatico ambientato nel mondo delle corse automobilistiche, diretto nel 1951 da Gianni Franciolini. Il soggetto \u00E8 ispirato al romanzo La biondina di Marco Praga (1893)."@it ;
+	owl:differentFrom	dbr:The_Last_Meeting .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Last_Meeting	owl:sameAs	dbpedia-it:Ultimo_incontro .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Last_Meeting	owl:sameAs	dbpedia-wikidata:Q16619157 ,
+		dbr:Last_Meeting ,
+		wikidata:Q16619157 ,
+		<http://rdf.freebase.com/ns/m.012dwbr9> ,
+		<http://yago-knowledge.org/resource/L\u0027_Ultimo_incontro> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Last_Meeting	dct:subject	dbc:Films_directed_by_Gianni_Franciolini ,
+		dbc:Formula_One_media ,
+		<http://dbpedia.org/resource/Category:1951_films> ,
+		dbc:Italian_films ,
+		<http://dbpedia.org/resource/Category:1950s_drama_films> ,
+		dbc:Auto_racing_films ,
+		dbc:Italian_drama_films ;
+	foaf:name	"Last Meeting"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Last_Meeting .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Last_Meeting	dbp:released	1951 ;
+	dbo:starring	dbr:Alida_Valli ;
+	dbo:language	dbr:Italian_language .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Last_Meeting	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Last_Meeting?oldid=732888525> ;
+	dbo:musicComposer	dbr:Enzo_Masetti ;
+	dbo:writer	dbr:Antonio_Pietrangeli ,
+		dbr:Alberto_Moravia ,
+		dbr:Edoardo_Anton ;
+	dbo:abstract	"Ultimo incontro \u00E8 un film di genere drammatico ambientato nel mondo delle corse automobilistiche, diretto nel 1951 da Gianni Franciolini. Il soggetto \u00E8 ispirato al romanzo La biondina di Marco Praga (1893)."@it ,
+		"Last Meeting (Italian: Ultimo incontro) is a 1951 Italian drama film directed by Gianni Franciolini. It is loosely based on the novel  La biondina by Marco Praga."@en ;
+	dbo:wikiPageRevisionID	732888525 ;
+	dbo:wikiPageID	23687743 ;
+	dbo:cinematography	dbr:Anchise_Brizzi ;
+	dbo:director	dbr:Gianni_Franciolini .
+@prefix ns17:	<http://purl.org/linguistics/gold/> .
+dbr:Last_Meeting	ns17:hypernym	dbr:Film .
+dbr:The_Last_Meeting	owl:differentFrom	dbr:Last_Meeting .
+<http://dbpedia.org/resource/L\u0027_Ultimo_incontro>	dbo:wikiPageRedirects	dbr:Last_Meeting .
+<http://dbpedia.org/resource/L\u0027ultimo_incontro>	dbo:wikiPageRedirects	dbr:Last_Meeting .
+dbr:Ultimo_incontro	dbo:wikiPageRedirects	dbr:Last_Meeting .

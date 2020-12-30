@@ -1,0 +1,80 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Automobile_Year	foaf:primaryTopic	dbr:Automobile_Year .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Automobile_Year	rdf:type	yago:Object100002684 .
+@prefix schema:	<http://schema.org/> .
+dbr:Automobile_Year	rdf:type	schema:CreativeWork ,
+		yago:Creation103129123 ,
+		yago:Product104007894 ,
+		yago:Instrumentality103575240 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Automobile_Year	rdf:type	dbo:PeriodicalLiterature ,
+		yago:Publication106589574 ,
+		yago:Work104599396 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Automobile_Year	rdf:type	wikidata:Q41298 ,
+		wikidata:Q386724 ,
+		yago:Whole100003553 ,
+		yago:Artifact100021939 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Automobile_Year	rdf:type	umbel-rc:Magazine ,
+		dbo:Magazine ,
+		dbo:Work .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Automobile_Year	rdf:type	owl:Thing ,
+		yago:WikicatAnnualMagazines ,
+		yago:Magazine106595351 ,
+		yago:WikicatNASCARMagazines ,
+		yago:Press106263369 ,
+		yago:PrintMedia106263609 ,
+		yago:Medium106254669 ,
+		wikidata:Q1092563 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:WrittenWork .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Automobile_Year	rdfs:label	"Automobile Year"@en ;
+	rdfs:comment	"Automobile Year (formerly as Annual Automobile Review) is a yearbook specialising in automobile and motorsport, published annually in three different languages; English, French (as L'Ann\u00E9e Automobile), German (as Auto-Jahr). More recent editions now carry the tagline: \"The Annual For Car Enthusiasts\"."@en .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Automobile_Year	owl:sameAs	yago-res:Automobile_Year ,
+		<http://rdf.freebase.com/ns/m.0641y8k> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Automobile_Year	owl:sameAs	dbpedia-wikidata:Q4826680 ,
+		wikidata:Q4826680 ,
+		dbr:Automobile_Year .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Automobile_Year	dct:subject	dbc:IndyCar_Series_media ,
+		dbc:NASCAR_magazines ,
+		dbc:Annual_magazines ,
+		dbc:Books_about_automobiles ,
+		dbc:Auto_racing_magazines ,
+		dbc:Formula_One_media ,
+		<http://dbpedia.org/resource/Category:1953_establishments_in_France> ,
+		dbc:French_magazines ,
+		dbc:Magazines_established_in_1953 ;
+	foaf:name	"Automobile Year"@en ;
+	foaf:homepage	<http://www.automobileyear.com> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Automobile_Year ;
+	dbo:genre	dbr:Automobile .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Automobile_Year	dbp:publisher	"ETAI"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Automobile_Year	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Automobile_Year?oldid=741385129> ;
+	dbo:wikiPageExternalLink	<http://www.automobileyear.net/automobileyear/book/> ,
+		<http://www.automobileyear.com/> ,
+		<http://www.automobileyear.com> ;
+	dbp:editor	"ETAI"^^xsd:string ;
+	dbp:country	"France"^^xsd:string ;
+	dbo:language	dbr:German_language ,
+		dbr:English_language ,
+		dbr:French_language ;
+	dbp:firstdate	1953 ;
+	dbp:frequency	"annually"^^xsd:string ;
+	dbo:abstract	"Automobile Year (formerly as Annual Automobile Review) is a yearbook specialising in automobile and motorsport, published annually in three different languages; English, French (as L'Ann\u00E9e Automobile), German (as Auto-Jahr). More recent editions now carry the tagline: \"The Annual For Car Enthusiasts\"."@en ;
+	dbo:wikiPageRevisionID	741385129 ;
+	dbo:wikiPageID	22823092 .
+@prefix ns17:	<http://purl.org/linguistics/gold/> .
+dbr:Automobile_Year	ns17:hypernym	dbr:Yearbook .

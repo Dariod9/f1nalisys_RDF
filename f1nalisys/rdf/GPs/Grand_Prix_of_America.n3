@@ -1,0 +1,94 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Grand_Prix_Americas	owl:differentFrom	dbr:Grand_Prix_of_America .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Grand_Prix_of_America	rdf:type	yago:Act100030358 ,
+		yago:Diversion100426928 ,
+		yago:Abstraction100002137 ,
+		yago:WikicatSportsInNewJersey ,
+		<http://dbpedia.org/class/yago/WikicatSportsInHudsonCounty,NewJersey> ,
+		yago:Event100029378 ,
+		owl:Thing ,
+		yago:Activity100407535 ,
+		yago:WikicatSportsInNewYork ,
+		yago:Sport100523513 ,
+		yago:PsychologicalFeature100023100 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Grand_Prix_of_America	rdf:type	dbo:SportsEvent ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Grand_Prix_of_America	rdfs:label	"Gran Premio d'America"@it ,
+		"Grand Prix Ameryki Formu\u0142y 1"@pl ,
+		"Gran Premio de Am\u00E9rica"@es ,
+		"Grande Pr\u00EAmio da Am\u00E9rica"@pt ,
+		"Grand Prix of America"@en ,
+		"\u7F8E\u6D32\u5927\u734E\u8CFD"@zh ,
+		"Gro\u00DFer Preis von Jersey"@de ,
+		"Grand Prix Formule 1 van Amerika"@nl ;
+	rdfs:comment	"O Grande Pr\u00EAmio da Am\u00E9rica \u00E9 uma competi\u00E7\u00E3o da F\u00F3rmula 1 planejada para estrear em 2014, juntamente com o GP da R\u00FAssia. O GP da Am\u00E9rica ir\u00E1 ocorrer no Circuito de Port Imperial, em Nova J\u00E9rsei, tendo como cen\u00E1rio o skyline de Manhattan. A competi\u00E7\u00E3o estreia em 2018."@pt ,
+		"De Grand Prix van Amerika is een race uit de Formule 1-kalender die voor de eerste keer zou worden verreden in juni 2013. Deze race werd bevestigd op 25 oktober 2011. Hiermee ging een langverwachte wens van Formule 1-baas Bernie Ecclestone in vervulling: een Formule 1-race met de skyline van Manhattan op de achtergrond. De race wordt in juni gehouden om niet in de clinch te komen met de Grand Prix van de Verenigde Staten die in november wordt gehouden. De Amerikaanse Grand Prix wordt gereden op het Port Imperial Street Circuit."@nl ,
+		"Il Gran Premio d'America \u00E8 una gara del Campionato mondiale di Formula 1 programmata per la stagione 2014 e successive, ma mai disputata. La gara si svolger\u00E0 su un circuito, ancora in approntamento, di 5 120 metri, denominato Port Imperial Street Circuit, che si snoda nel New Jersey fra le citt\u00E0 di West New York e Weehawken vicino a Weehawken Port Imperial. Il circuito ha sullo sfondo lo skyline di New York City. La gara era compresa nel calendario 2014, ma successivamente \u00E8 stata rimossa."@it ,
+		"El evento pactado es un contrato por diez a\u00F1os, comenzando desde junio de 2013 a fin de que no coincidiera con la carrera de noviembre del otro circuito estadounidense del Gran Premio de los Estados Unidos que se planea celebrar tambi\u00E9n en la uni\u00F3n americana en la ciudad de Austin, que por cierto, por el momento, se planifica correrse esta desde el 2012. El Gran Premio de Am\u00E9rica ser\u00EDa la carrera acompa\u00F1ante del Gran Premio de Canad\u00E1 que se celebrar\u00EDa una semana despu\u00E9s del otro evento siguiendo los intereses para la reducci\u00F3n de costos de log\u00EDstica."@es ,
+		"Der Gro\u00DFe Preis von Jersey sollte ab der Formel-1-Saison 2013 als Rennen der Formel-1-Weltmeisterschaft in New Jersey, Vereinigte Staaten, ausgetragen werden, wurde dann im November 2012 wieder aus dem Kalender gestrichen und auf die Saison 2014 verschoben, f\u00FCr die er vorbehaltlich der Streckenabnahme in den Kalender aufgenommen wurde. Aufgrund von weiter andauernden finanziellen Schwierigkeiten der Veranstalter wurde der Gro\u00DFe Preis von Jersey jedoch 2014 und 2015 nicht in den endg\u00FCltigen Rennkalender aufgenommen."@de ,
+		"Grand Prix Ameryki \u2013 wy\u015Bcig Formu\u0142y 1, kt\u00F3ry mia\u0142 odby\u0107 si\u0119 w czerwcu 2013, a nast\u0119pnie 2014 roku. Wy\u015Bcig mia\u0142 odby\u0107 si\u0119 na ulicznym torze Port Imperial Street Circuit o d\u0142ugo\u015Bci 5,149 km, zaprojektowanym przez Hermanna Tilke, biegn\u0105cym przez miejscowo\u015Bci Weehawken i West New York w New Jersey. Z przyczyn finansowych organizacj\u0119 wy\u015Bcigu prze\u0142o\u017Cono na 2015 rok."@pl ,
+		"\u7F8E\u6D32\u5927\u734E\u8CFD\uFF08\u82F1\u8BED\uFF1AGrand Prix of America\uFF09\u662F\u4E00\u5834\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF08F1\uFF09\u63D0\u51FA\u7684\u4E16\u754C\u9326\u6A19\u8CFD\u8CFD\u4E8B\u3002\u9019\u5834\u8CFD\u4E8B\u5C07\u8209\u8FA6\u65BC\u7E3D\u95775.2\u516C\u91CC\u7684\u5E1D\u570B\u78BC\u982D\u5E02\u8857\u8CFD\u9053\uFF0C\u904D\u53CA\u4E86\u5A01\u970D\u80AF\u8207\u897F\u7D10\u7D04\u7684\u7D10\u6FA4\u897F\u5DDE\u57CE\u93AE\uFF0C\u7DCA\u9130\u5A01\u970D\u80AF\u5E1D\u570B\u6E2F\uFF0C\u4E26\u6709\u7D10\u7D04\u5E02\u6469\u5929\u5927\u6A13\u4F5C\u70BA\u5168\u666F\u80CC\u666F\u3002 \u7F8E\u6D32\u5927\u734E\u8CFD\u6700\u521D\u8A08\u756B\u65BC2013\u5E74\u767B\u5834\uFF0C\u4E0D\u904E\u6700\u7D42\u88AB\u5EF6\u671F\u3002\u9019\u5834\u6BD4\u8CFD\u5305\u542B\u57282014\u5E74\u66AB\u5B9A\u7684\u8CFD\u66C6\u4E2D\uFF0C\u4E0D\u904E\u4E26\u6C92\u6709\u5728\u570B\u969B\u6C7D\u8ECA\u806F\u76DF\u65BC2013\u5E7412\u67084\u65E5\u516C\u5E03\u7684\u6700\u7D42\u76842014\u5E74\u8CFD\u66C6\u7576\u4E2D\u3002\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u7E3D\u88C1\u517C\u9996\u5E2D\u57F7\u884C\u5B98\u4F2F\u5C3C\u00B7\u57C3\u514B\u840A\u65AF\u9813\u8868\u793A\u767C\u8D77\u4EBA\u9055\u53CD\u4E86\u5408\u7D04\uFF0C\u540C\u6642\u4ECD\u6B61\u8FCE\u5176\u4ED6\u7D44\u7E54\u63D0\u51FA\u65B0\u7684\u8A08\u756B\u3002"@zh ,
+		"The Grand Prix of America is a proposed Formula One World Championship race. The race would be held on the planned 5.2 km (3.2 mi) Port Imperial Street Circuit through the New Jersey towns of West New York and Weehawken near Weehawken Port Imperial, with the New York City skyline as a panoramic backdrop."@en ;
+	owl:differentFrom	<http://dbpedia.org/resource/Grand_Prix_Americas_(disambiguation)> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Grand_Prix_of_America	owl:sameAs	dbpedia-nl:Grand_Prix_Formule_1_van_Amerika ,
+		<http://es.dbpedia.org/resource/Gran_Premio_de_Am\u00E9rica> ,
+		<http://pt.dbpedia.org/resource/Grande_Pr\u00EAmio_da_Am\u00E9rica> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Grand_Prix_of_America	owl:sameAs	dbpedia-wikidata:Q170096 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Grand_Prix_of_America	owl:sameAs	dbpedia-id:Grand_Prix_Amerika ,
+		<http://pl.dbpedia.org/resource/Grand_Prix_Ameryki_Formu\u0142y_1> ,
+		dbr:Grand_Prix_of_America .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Grand_Prix_of_America	owl:sameAs	yago-res:Grand_Prix_of_America ,
+		<http://de.dbpedia.org/resource/Gro\u00DFer_Preis_von_Jersey> ,
+		<http://rdf.freebase.com/ns/m.0hgq_r7> ,
+		<http://it.dbpedia.org/resource/Gran_Premio_d\u0027America> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Grand_Prix_of_America	owl:sameAs	wikidata:Q170096 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Grand_Prix_of_America	dct:subject	dbc:Grand_Prix_of_America ,
+		dbc:Formula_One_Grands_Prix ,
+		<http://dbpedia.org/resource/Category:Sports_in_Hudson_County,_New_Jersey> ,
+		dbc:Motorsport_in_New_Jersey .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Grand_Prix_of_America	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Grand_Prix_of_America	foaf:isPrimaryTopicOf	wikipedia-en:Grand_Prix_of_America .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Grand_Prix_of_America	dbp:firstRace	"Grand Prix of America"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Grand_Prix_of_America	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Grand_Prix_of_America?oldid=740300892> ;
+	dbp:circuit	dbr:Port_Imperial_Street_Circuit ;
+	dbp:laps	59 ;
+	dbp:flag	"Flag of the United States.svg"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://formula-one.speedtv.com/article/f1-speed-qa-bob-varsha-discusses-new-jersey-gp/> ;
+	dbo:abstract	"The Grand Prix of America is a proposed Formula One World Championship race. The race would be held on the planned 5.2 km (3.2 mi) Port Imperial Street Circuit through the New Jersey towns of West New York and Weehawken near Weehawken Port Imperial, with the New York City skyline as a panoramic backdrop. Originally planned to debut in 2013, it was later postponed. The race was included on the 2014 provisional calendar, but not on the final calendar issued by the FIA on December 4, 2013. A year later, the Grand Prix of America again remained absent from the 2015 FIA Formula One calendar, leaving the United States Grand Prix in Austin, Texas as the only Formula One race currently scheduled in the United States. Formula One President and CEO Bernie Ecclestone has stated that the promoters are in breach of contract and that new proposals from other parties would be welcome."@en ,
+		"O Grande Pr\u00EAmio da Am\u00E9rica \u00E9 uma competi\u00E7\u00E3o da F\u00F3rmula 1 planejada para estrear em 2014, juntamente com o GP da R\u00FAssia. O GP da Am\u00E9rica ir\u00E1 ocorrer no Circuito de Port Imperial, em Nova J\u00E9rsei, tendo como cen\u00E1rio o skyline de Manhattan. A competi\u00E7\u00E3o estreia em 2018. A prova representa o continente americano, uma vez que, pelas normas da FIA, um mesmo pa\u00EDs n\u00E3o pode sediar mais de uma prova. At\u00E9 meados de 2012, a FIA havia divulgado o GP da Am\u00E9rica no calend\u00E1rio da Temporada de 2013, por\u00E9m, por desacordos \"contratuais\" entre Bernie Ecclestone e a empresa organizadora do evento, este foi adiado para o ano seguinte. Sendo assim, a temporada 2013 contar\u00E1 com 19 etapas."@pt ,
+		"El evento pactado es un contrato por diez a\u00F1os, comenzando desde junio de 2013 a fin de que no coincidiera con la carrera de noviembre del otro circuito estadounidense del Gran Premio de los Estados Unidos que se planea celebrar tambi\u00E9n en la uni\u00F3n americana en la ciudad de Austin, que por cierto, por el momento, se planifica correrse esta desde el 2012. El Gran Premio de Am\u00E9rica ser\u00EDa la carrera acompa\u00F1ante del Gran Premio de Canad\u00E1 que se celebrar\u00EDa una semana despu\u00E9s del otro evento siguiendo los intereses para la reducci\u00F3n de costos de log\u00EDstica. Desde hace mucho tiempo, el promotor de las carreras de NASCAR, Humpy Wheeler que ha sido nombrado recientemente como consultor de la carrera, espera que se proporcionen m\u00E1s de US $100 millones anuales para la econom\u00EDa de la la ciudad."@es ,
+		"Der Gro\u00DFe Preis von Jersey sollte ab der Formel-1-Saison 2013 als Rennen der Formel-1-Weltmeisterschaft in New Jersey, Vereinigte Staaten, ausgetragen werden, wurde dann im November 2012 wieder aus dem Kalender gestrichen und auf die Saison 2014 verschoben, f\u00FCr die er vorbehaltlich der Streckenabnahme in den Kalender aufgenommen wurde. Aufgrund von weiter andauernden finanziellen Schwierigkeiten der Veranstalter wurde der Gro\u00DFe Preis von Jersey jedoch 2014 und 2015 nicht in den endg\u00FCltigen Rennkalender aufgenommen. Das Rennen soll auf einer 5,15 Kilometer langen, tempor\u00E4ren Rennstrecke in Weehawken und West New York, New Jersey am Hudson River stattfinden, wobei die Streckenf\u00FChrung von Hermann Tilke geplant wurde."@de ,
+		"De Grand Prix van Amerika is een race uit de Formule 1-kalender die voor de eerste keer zou worden verreden in juni 2013. Deze race werd bevestigd op 25 oktober 2011. Hiermee ging een langverwachte wens van Formule 1-baas Bernie Ecclestone in vervulling: een Formule 1-race met de skyline van Manhattan op de achtergrond. De race wordt in juni gehouden om niet in de clinch te komen met de Grand Prix van de Verenigde Staten die in november wordt gehouden. Op 19 oktober 2012 werd bekend dat de Grand Prix van Amerika in 2013 niet op de kalender zal komen, omdat Ecclestone geen vertrouwen had in de organisatie dat het circuit op tijd klaar zou zijn. De race stond gepland voor een debuut in 2014. Echter, bij het verschijnen van de voorlopige kalender van 2014 op 5 september 2013 werd de Grand Prix van Amerika niet opgenomen, maar op de definitieve kalender gepubliceerd op 27 september stond de race weer wel op de kalender. Op 4 december, de dag van de bekendmaking van de definitieve kalender van 2014, maakte Ecclestone bekend dat de race wordt uitgesteld naar 2015. In juli 2014 werd bekend dat de race niet eerder zal worden gehouden dan 2016. De Amerikaanse Grand Prix wordt gereden op het Port Imperial Street Circuit."@nl ,
+		"Il Gran Premio d'America \u00E8 una gara del Campionato mondiale di Formula 1 programmata per la stagione 2014 e successive, ma mai disputata. La gara si svolger\u00E0 su un circuito, ancora in approntamento, di 5 120 metri, denominato Port Imperial Street Circuit, che si snoda nel New Jersey fra le citt\u00E0 di West New York e Weehawken vicino a Weehawken Port Imperial. Il circuito ha sullo sfondo lo skyline di New York City. La gara era compresa nel calendario 2014, ma successivamente \u00E8 stata rimossa."@it ,
+		"Grand Prix Ameryki \u2013 wy\u015Bcig Formu\u0142y 1, kt\u00F3ry mia\u0142 odby\u0107 si\u0119 w czerwcu 2013, a nast\u0119pnie 2014 roku. Wy\u015Bcig mia\u0142 odby\u0107 si\u0119 na ulicznym torze Port Imperial Street Circuit o d\u0142ugo\u015Bci 5,149 km, zaprojektowanym przez Hermanna Tilke, biegn\u0105cym przez miejscowo\u015Bci Weehawken i West New York w New Jersey. Z przyczyn finansowych organizacj\u0119 wy\u015Bcigu prze\u0142o\u017Cono na 2015 rok."@pl ,
+		"\u7F8E\u6D32\u5927\u734E\u8CFD\uFF08\u82F1\u8BED\uFF1AGrand Prix of America\uFF09\u662F\u4E00\u5834\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF08F1\uFF09\u63D0\u51FA\u7684\u4E16\u754C\u9326\u6A19\u8CFD\u8CFD\u4E8B\u3002\u9019\u5834\u8CFD\u4E8B\u5C07\u8209\u8FA6\u65BC\u7E3D\u95775.2\u516C\u91CC\u7684\u5E1D\u570B\u78BC\u982D\u5E02\u8857\u8CFD\u9053\uFF0C\u904D\u53CA\u4E86\u5A01\u970D\u80AF\u8207\u897F\u7D10\u7D04\u7684\u7D10\u6FA4\u897F\u5DDE\u57CE\u93AE\uFF0C\u7DCA\u9130\u5A01\u970D\u80AF\u5E1D\u570B\u6E2F\uFF0C\u4E26\u6709\u7D10\u7D04\u5E02\u6469\u5929\u5927\u6A13\u4F5C\u70BA\u5168\u666F\u80CC\u666F\u3002 \u7F8E\u6D32\u5927\u734E\u8CFD\u6700\u521D\u8A08\u756B\u65BC2013\u5E74\u767B\u5834\uFF0C\u4E0D\u904E\u6700\u7D42\u88AB\u5EF6\u671F\u3002\u9019\u5834\u6BD4\u8CFD\u5305\u542B\u57282014\u5E74\u66AB\u5B9A\u7684\u8CFD\u66C6\u4E2D\uFF0C\u4E0D\u904E\u4E26\u6C92\u6709\u5728\u570B\u969B\u6C7D\u8ECA\u806F\u76DF\u65BC2013\u5E7412\u67084\u65E5\u516C\u5E03\u7684\u6700\u7D42\u76842014\u5E74\u8CFD\u66C6\u7576\u4E2D\u3002\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u7E3D\u88C1\u517C\u9996\u5E2D\u57F7\u884C\u5B98\u4F2F\u5C3C\u00B7\u57C3\u514B\u840A\u65AF\u9813\u8868\u793A\u767C\u8D77\u4EBA\u9055\u53CD\u4E86\u5408\u7D04\uFF0C\u540C\u6642\u4ECD\u6B61\u8FCE\u5176\u4ED6\u7D44\u7E54\u63D0\u51FA\u65B0\u7684\u8A08\u756B\u3002"@zh ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg?width=300> ;
+	dbo:wikiPageRevisionID	740300892 ;
+	dbo:wikiPageID	33529416 ;
+	dbp:name	"Grand Prix of America"^^xsd:string ;
+	dbp:circuitImage	"Circuit New Jersey.svg"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Grand_Prix_of_America	dbp:circuitLengthKm	5.2000000000000001776 ;
+	dbp:circuitLengthMi	3.2000000000000001776 ;
+	dbp:raceLengthKm	306.80000000000001137 ;
+	dbp:raceLengthMi	188.80000000000001137 .
+@prefix ns18:	<http://purl.org/linguistics/gold/> .
+dbr:Grand_Prix_of_America	ns18:hypernym	dbr:Race .
+wikipedia-en:Grand_Prix_of_America	foaf:primaryTopic	dbr:Grand_Prix_of_America .
+dbr:New_Jersey_Grand_Prix	dbo:wikiPageRedirects	dbr:Grand_Prix_of_America .
