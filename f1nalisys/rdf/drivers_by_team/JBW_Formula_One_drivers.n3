@@ -1,0 +1,22 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:JBW_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:JBW_Formula_One_drivers	rdfs:label	"JBW Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:JBW_Formula_One_drivers	owl:sameAs	wikidata:Q8560126 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:JBW_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q8560126 ,
+		dbc:JBW_Formula_One_drivers ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"JBW Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:JBW_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:JBW_Formula_One_drivers?oldid=500012486> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:JBW_Formula_One_drivers	dbo:wikiPageRevisionID	500012486 ;
+	dbo:wikiPageID	36200631 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Brian_Naylor	dct:subject	dbc:JBW_Formula_One_drivers .

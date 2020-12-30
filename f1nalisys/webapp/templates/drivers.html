@@ -1,4 +1,21 @@
 {% extends "base2.html" %}
 {% block content %}
-                {{ drivers_html | safe }}
+<h2>Drivers</h2>
+    <div class="row row-cols-1 row-cols-md-2">
+        {% for i in info %}
+            <div class="col mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <a target="_blank" style="color:rgb(255,0,0);">
+                                {{ i.l }}
+                            </a>
+                        </h5>
+                        <p class="card-text">
+                        </p>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
 {% endblock %}

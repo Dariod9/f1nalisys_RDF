@@ -50,7 +50,49 @@ def hello(request):
 
 
 def drivers(request):
-    return None
+    db_info = open_db()
+    print(db_info)
+
+    driver_names = """
+            PREFIX dct: <http://purl.org/dc/terms/>
+            PREFIX dbc: <http://dbpedia.org/resource/Category:>
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+            PREFIX dbp: <http://dbpedia.org/property/>
+            PREFIX dbo: <http://dbpedia.org/ontology/>
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+            PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+            select DISTINCT ?t ?d ?l
+                        where {
+                            ?t rdf:type skos:Concept .
+                            ?d dct:subject ?t .
+                            ?d rdfs:label ?l 
+                            filter (lang(?l) = "en")
+                        } 
+        """
+
+    payload_query = {"query": driver_names}
+    res = db_info[1].sparql_select(body=payload_query,
+                                   repo_name=db_info[0])
+    res = json.loads(res)
+    # print(res)
+    teams_info = []
+    for e in res['results']['bindings']:
+        print("e: ", e)
+        dt = dict()
+        #dt['nome'] = e['l']['value']
+
+        if 'l' in e.keys():
+            dt['l'] = e['l']['value']
+
+        teams_info.append(dt)
+
+    print(teams_info)
+
+    tparams = {
+        'info': teams_info
+    }
+
+    return render(request, 'drivers.html', tparams)
 
 
 def teams(request):

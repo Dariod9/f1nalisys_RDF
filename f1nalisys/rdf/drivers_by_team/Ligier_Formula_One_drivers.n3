@@ -1,0 +1,57 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Nicola_Larini	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Thierry_Boutsen	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Pedro_Diniz	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Mark_Blundell	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Franck_Lagorce	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Aguri_Suzuki	dct:subject	dbc:Ligier_Formula_One_drivers .
+<http://dbpedia.org/resource/Ren\u00E9_Arnoux>	dct:subject	dbc:Ligier_Formula_One_drivers .
+<http://dbpedia.org/resource/\u00C9rik_Comas>	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Olivier_Grouillard	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Olivier_Panis	dct:subject	dbc:Ligier_Formula_One_drivers .
+<http://dbpedia.org/resource/\u00C9ric_Bernard>	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Didier_Pironi	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Raul_Boesel	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Patrick_Tambay	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Jean-Pierre_Jabouille	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Eddie_Cheever	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Jacques_Laffite	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Stefan_Johansson	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Philippe_Alliot	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Martin_Brundle	dct:subject	dbc:Ligier_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:Ligier_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:Ligier_Formula_One_drivers	rdfs:label	"Ligier Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:Ligier_Formula_One_drivers	owl:sameAs	wikidata:Q7943625 .
+@prefix ns8:	<http://it.dbpedia.org/resource/Categoria:> .
+dbc:Ligier_Formula_One_drivers	owl:sameAs	ns8:Piloti_della_Ligier ,
+		<http://pt.dbpedia.org/resource/Categoria:Pilotos_da_equipe_Ligier_de_F\u00F3rmula_1> ,
+		<http://ja.dbpedia.org/resource/Category:\u30EA\u30B8\u30A7\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:Ligier_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q7943625 .
+@prefix ns10:	<http://fr.dbpedia.org/resource/Cat\u00E9gorie:> .
+dbc:Ligier_Formula_One_drivers	owl:sameAs	ns10:Pilote_Ligier .
+@prefix ns11:	<http://es.dbpedia.org/resource/Categor\u00EDa:> .
+dbc:Ligier_Formula_One_drivers	owl:sameAs	ns11:Pilotos_de_Ligier ,
+		dbc:Ligier_Formula_One_drivers ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"Ligier Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:Ligier_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:Ligier_Formula_One_drivers?oldid=546363225> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:Ligier_Formula_One_drivers	dbo:wikiPageRevisionID	546363225 ;
+	dbo:wikiPageID	36135395 .
+dbr:Andrea_de_Cesaris	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Jacky_Ickx	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Piercarlo_Ghinzani	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Jean-Pierre_Jarier	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Johnny_Herbert	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Philippe_Streiff	dct:subject	dbc:Ligier_Formula_One_drivers .
+<http://dbpedia.org/resource/Fran\u00E7ois_Hesnault>	dct:subject	dbc:Ligier_Formula_One_drivers .
+dbr:Patrick_Depailler	dct:subject	dbc:Ligier_Formula_One_drivers .

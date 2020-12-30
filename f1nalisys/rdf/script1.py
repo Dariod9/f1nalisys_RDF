@@ -20,7 +20,7 @@ novo=""
 for l in lista:
     if(len(l)>2):
         response = requests.get("http://dbpedia.org/data/Category:"+str(l)+".n3", verify=False)
-        f2 = open("/Users/ruisantos/Desktop/ano4/edc/project/f1nalisys_RDF/f1nalisys/rdf/drivers2/"+str(l)+".txt", "w", encoding="utf-8")
+        f2 = open("/Users/ruisantos/Desktop/ano4/edc/project/f1nalisys_RDF/f1nalisys/rdf/drivers_by_team/"+str(l)+".n3", "w", encoding="utf-8")
         t=change(response.text)
         f2.write(t)
 

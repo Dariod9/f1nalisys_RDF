@@ -1,0 +1,27 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:Brawn_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:Brawn_Formula_One_drivers	rdfs:label	"Brawn Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns5:	<http://fr.dbpedia.org/resource/Cat\u00E9gorie:> .
+dbc:Brawn_Formula_One_drivers	owl:sameAs	ns5:Pilote_Brawn_GP ,
+		dbc:Brawn_Formula_One_drivers .
+@prefix ns6:	<http://es.dbpedia.org/resource/Categor\u00EDa:> .
+dbc:Brawn_Formula_One_drivers	owl:sameAs	ns6:Pilotos_de_Brawn_GP .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:Brawn_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q8309662 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:Brawn_Formula_One_drivers	owl:sameAs	wikidata:Q8309662 ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"Brawn Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:Brawn_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:Brawn_Formula_One_drivers?oldid=547270226> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:Brawn_Formula_One_drivers	dbo:wikiPageRevisionID	547270226 ;
+	dbo:wikiPageID	32653223 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Jenson_Button	dct:subject	dbc:Brawn_Formula_One_drivers .
+dbr:Rubens_Barrichello	dct:subject	dbc:Brawn_Formula_One_drivers .
