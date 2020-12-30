@@ -1,0 +1,110 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Studio_Tecnica_Meccanica	dbo:wikiPageRedirects	dbr:Tec-Mec .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Tec-Mec	foaf:primaryTopic	dbr:Tec-Mec .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Tec-Mec	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Tec-Mec	rdf:type	yago:WikicatItalianRacecarConstructors .
+@prefix schema:	<http://schema.org/> .
+dbr:Tec-Mec	rdf:type	schema:Organization ,
+		dbo:Agent ,
+		schema:SportsTeam ,
+		yago:Builder109878275 ,
+		yago:Organism100004475 ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:Whole100003553 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		dbo:Organisation .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Tec-Mec	rdf:type	ns8:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Tec-Mec	rdf:type	owl:Thing ,
+		dbo:SportsTeam ,
+		ns8:SocialPerson ,
+		wikidata:Q43229 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneTeam .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Tec-Mec	rdfs:label	"Studio Tecnica Meccanica"@fr ,
+		"Tec-Mec"@en ,
+		"Tec-Mec Automobili"@de ,
+		"Tec-Mec"@pl ,
+		"Studio Tecnica Meccanica"@it ,
+		"Tec-Mec"@pt ;
+	rdfs:comment	"Tec-Mec (full name Studio Tecnica Meccanica) was a Formula One constructor from Italy. Founded by former Maserati designer Valerio Colotti in 1958, they participated in a single Grand Prix, scoring no World Championship points. Colotti sold the design studio at the end of the year, and the company continued to produce cars for the Formula Junior series."@en ,
+		"Lo Studio Tecnica Meccanica (anche conosciuto come Tec-Mec) \u00E8 stata un'azienda operante nel campo delle competizioni automobilistiche, fondata da Valerio Colotti nel 1958. Partecip\u00F2 ad un Gran Premio di Formula 1. Colotti vendette l'azienda alla fine dell'anno, ma la scuderia continu\u00F2 a produrre vettura per la Formula Junior."@it ,
+		"Tec-Mec (pe\u0142na nazwa: Studio Tecnica Meccanica) \u2013 dawny w\u0142oski konstruktor Formu\u0142y 1, kt\u00F3rego samoch\u00F3d uczestniczy\u0142 w niej w jednym wy\u015Bcigu sezonu 1959. Firma zosta\u0142a za\u0142o\u017Cona przez Valerio Colottiego w 1958 roku. Nadwozie samochodu Tec-Mec, oznaczone symbolem F415, by\u0142o de facto zmodyfikowanym nadwoziem Maserati 250F. Z samochodu Tec-Mec skorzysta\u0142 zesp\u00F3\u0142 Camoradi podczas Grand Prix Stan\u00F3w Zjednoczonych w 1959 roku, podczas kt\u00F3rego ich kierowca, Brazylijczyk Fritz d'Orey, odpad\u0142 na sz\u00F3stym okr\u0105\u017Ceniu wy\u015Bcigu z powodu wyciek\u00F3w oleju. Po 1959 roku firma produkowa\u0142a samochody dla Formu\u0142y Junior."@pl ,
+		"Studio Tecnica Meccanica, connue \u00E9galement sous le nom Tec Mec, est une ancienne officine italienne de construction de voitures de course automobile fond\u00E9e par Valerio Colotti. L'\u00E9curie n'a construit qu'une seule monoplace de Formule 1, la F415, qui n'a \u00E9t\u00E9 engag\u00E9e qu'une fois en championnat du monde, par l'\u00E9curie Camoradi International en 1959, \u00E0 l'occasion du Grand Prix des \u00C9tats-Unis. \u00C0 son volant, Fritz d'Orey n'a parcouru que 6 tours, soit environ 50 kilom\u00E8tres, avant d'abandonner."@fr ,
+		"Tec-Mec Automobili war ein italienischer Rennwagenkonstrukteur aus Modena, der 1959 unter anderem ein Fahrzeug f\u00FCr die Formel 1 herstellte. Das Auto nahm nur an einer Rennveranstaltung teil."@de ,
+		"Tec-Mec (Studio Tecnica Meccanica) foi uma construtora de F\u00F3rmula 1 da It\u00E1lia, fundada por Valerio Colotti. Participou do GP dos Estados Unidos de 1959, com o brasileiro Fritz d'Orey ao volante."@pt .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Tec-Mec	owl:sameAs	dbpedia-de:Tec-Mec_Automobili ,
+		wikidata:Q284186 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Tec-Mec	owl:sameAs	yago-res:Tec-Mec .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Tec-Mec	owl:sameAs	dbpedia-it:Studio_Tecnica_Meccanica .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Tec-Mec	owl:sameAs	dbpedia-fr:Studio_Tecnica_Meccanica ,
+		<http://rdf.freebase.com/ns/m.04n6q2> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Tec-Mec	owl:sameAs	dbpedia-pl:Tec-Mec ,
+		dbr:Tec-Mec .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Tec-Mec	owl:sameAs	dbpedia-pt:Tec-Mec .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Tec-Mec	owl:sameAs	dbpedia-wikidata:Q284186 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Tec-Mec	dct:subject	<http://dbpedia.org/resource/Category:1958_establishments_in_Italy> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Tec-Mec	dct:subject	dbc:Italian_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Italian_auto_racing_teams ,
+		dbc:Companies_established_in_1958 ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Maserati_TecMec.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Tec-Mec .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Tec-Mec	dbp:races	1 ;
+	dbp:founders	dbr:Valerio_Colotti ;
+	dbp:debut	1959 ;
+	dbp:points	0 ;
+	dbp:longName	"Studio Tecnica Meccanica"^^xsd:string ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Fritz d'Orey"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Tec-Mec	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tec-Mec?oldid=736051295> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/con-tecme.html> ,
+		<http://www.formula1.com/results/> ;
+	dbp:name	"Tec-Mec"^^xsd:string ;
+	dbp:engines	dbr:Maserati_in_Motorsport ,
+		dbr:Straight-six_engine ;
+	dbo:abstract	"Tec-Mec Automobili war ein italienischer Rennwagenkonstrukteur aus Modena, der 1959 unter anderem ein Fahrzeug f\u00FCr die Formel 1 herstellte. Das Auto nahm nur an einer Rennveranstaltung teil."@de ,
+		"Tec-Mec (pe\u0142na nazwa: Studio Tecnica Meccanica) \u2013 dawny w\u0142oski konstruktor Formu\u0142y 1, kt\u00F3rego samoch\u00F3d uczestniczy\u0142 w niej w jednym wy\u015Bcigu sezonu 1959. Firma zosta\u0142a za\u0142o\u017Cona przez Valerio Colottiego w 1958 roku. Nadwozie samochodu Tec-Mec, oznaczone symbolem F415, by\u0142o de facto zmodyfikowanym nadwoziem Maserati 250F. Z samochodu Tec-Mec skorzysta\u0142 zesp\u00F3\u0142 Camoradi podczas Grand Prix Stan\u00F3w Zjednoczonych w 1959 roku, podczas kt\u00F3rego ich kierowca, Brazylijczyk Fritz d'Orey, odpad\u0142 na sz\u00F3stym okr\u0105\u017Ceniu wy\u015Bcigu z powodu wyciek\u00F3w oleju. Po 1959 roku firma produkowa\u0142a samochody dla Formu\u0142y Junior."@pl ,
+		"Tec-Mec (full name Studio Tecnica Meccanica) was a Formula One constructor from Italy. Founded by former Maserati designer Valerio Colotti in 1958, they participated in a single Grand Prix, scoring no World Championship points. Tec-Mec used an improved, lightened version of the Maserati 250F, named the F415. The car was upgraded by the 250F's designer, Colotti, and financed by Lloyd Casner of Camoradi International. The team made its single outing in the 1959 United States Grand Prix, but the car, driven by Fritz d'Orey lasted six laps before retiring, having qualified 17th on the grid ahead of only the midget racer of Bill Ward. Colotti sold the design studio at the end of the year, and the company continued to produce cars for the Formula Junior series."@en ,
+		"Tec-Mec (Studio Tecnica Meccanica) foi uma construtora de F\u00F3rmula 1 da It\u00E1lia, fundada por Valerio Colotti. Participou do GP dos Estados Unidos de 1959, com o brasileiro Fritz d'Orey ao volante."@pt ,
+		"Lo Studio Tecnica Meccanica (anche conosciuto come Tec-Mec) \u00E8 stata un'azienda operante nel campo delle competizioni automobilistiche, fondata da Valerio Colotti nel 1958. Partecip\u00F2 ad un Gran Premio di Formula 1. Lo Studio Tecnica Meccanica us\u00F2 una versione della Maserati 250F migliorata e pi\u00F9 leggera. I miglioramenti furono fatti da Colotti, che progett\u00F2 la 250F, e finanziati da Lloyd Casner della Casner Motor Racing Division.La scuderia partecip\u00F2 a una sola gara di Formula 1, pi\u00F9 precisamente il Gran Premio degli Stati Uniti del 1959, ma la vettura, guidata da Fritz d'Orey complet\u00F2 sei giri prima di ritirarsi. Colotti vendette l'azienda alla fine dell'anno, ma la scuderia continu\u00F2 a produrre vettura per la Formula Junior."@it ,
+		"Studio Tecnica Meccanica, connue \u00E9galement sous le nom Tec Mec, est une ancienne officine italienne de construction de voitures de course automobile fond\u00E9e par Valerio Colotti. L'\u00E9curie n'a construit qu'une seule monoplace de Formule 1, la F415, qui n'a \u00E9t\u00E9 engag\u00E9e qu'une fois en championnat du monde, par l'\u00E9curie Camoradi International en 1959, \u00E0 l'occasion du Grand Prix des \u00C9tats-Unis. \u00C0 son volant, Fritz d'Orey n'a parcouru que 6 tours, soit environ 50 kilom\u00E8tres, avant d'abandonner."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Maserati_TecMec.jpg?width=300> ;
+	dbo:wikiPageRevisionID	736051295 ;
+	dbo:wikiPageID	1262633 ;
+	dbp:podiums	0 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:Tec-Mec	ns22:hypernym	dbr:Constructor ;
+	dbp:lastRace	1959 .
+<http://dbpedia.org/resource/Fritz_d\u0027Orey>	<http://dbpedia.org/property/team(s)_>	dbr:Tec-Mec .

@@ -1,0 +1,67 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Theo_Helfrich	<http://dbpedia.org/property/team(s)_>	dbr:Klenk .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Klenk	foaf:primaryTopic	dbr:Klenk .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Klenk	rdf:type	yago:Organism100004475 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Klenk	rdf:type	dbo:Automobile ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:WikicatGermanRacecarConstructors .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Klenk	rdfs:label	"Klenk"@en ,
+		"Klenk"@pl ;
+	rdfs:comment	"The Klenk-Meteor was a racing car which competed in the 1954 German Grand Prix. The car was based on the established German marque of Veritas which was active between 1948 and 1953. Veritas is chiefly remembered as a manufacturer of sports cars and successful Formula Two racing cars. The company closed when its founder, Ernst Loof, became ill. He subsequently died in 1956. The Klenk-Meteor entered for the 1954 German Grand Prix was essentially a Veritas Formula Two car. The car was owned and prepared by the noted German racing driver Hans Klenk who intended to race it himself in the Grand Prix. However, Klenk's career as a racing driver came to an end when he suffered injuries in an accident while working as a test driver for Mercedes-Benz. The car was driven in the Grand Prix by another G"@en ,
+		"Klenk, pe\u0142na nazwa Hans Klenk \u2013 niemiecki zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1954 roku."@pl .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Klenk	owl:sameAs	yago-res:Klenk .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Klenk	owl:sameAs	dbpedia-wikidata:Q3500607 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Klenk	owl:sameAs	dbpedia-pl:Klenk ,
+		dbr:Klenk ,
+		<http://rdf.freebase.com/ns/m.04kxp4> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Klenk	owl:sameAs	wikidata:Q3500607 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Klenk	dct:subject	dbc:German_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:German_auto_racing_teams ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Klenk .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Klenk	dbp:formerSeries	<http://dbpedia.org/resource/List_of_Formula_One_World_Drivers\u0027_Champions> ;
+	dbp:founders	"Hans Klenk"^^xsd:string ;
+	dbp:drivers	"Theo Helfrich"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Klenk	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Klenk?oldid=664369101> ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/results/> ,
+		<http://www.grandprix.com/gpe/con-klenk.html> ;
+	dbp:teamTitles	0 ;
+	dbp:base	"West Germany"^^xsd:string ;
+	dbp:founded	1954 ;
+	dbp:name	"Klenk"^^xsd:string ;
+	dbp:principal	dbr:Hans_Klenk ;
+	dbo:abstract	"The Klenk-Meteor was a racing car which competed in the 1954 German Grand Prix. The car was based on the established German marque of Veritas which was active between 1948 and 1953. Veritas is chiefly remembered as a manufacturer of sports cars and successful Formula Two racing cars. The company closed when its founder, Ernst Loof, became ill. He subsequently died in 1956. The Klenk-Meteor entered for the 1954 German Grand Prix was essentially a Veritas Formula Two car. The car was owned and prepared by the noted German racing driver Hans Klenk who intended to race it himself in the Grand Prix. However, Klenk's career as a racing driver came to an end when he suffered injuries in an accident while working as a test driver for Mercedes-Benz. The car was driven in the Grand Prix by another German, Theo Helfrich. He retired on lap 9 with engine failure."@en ,
+		"Klenk, pe\u0142na nazwa Hans Klenk \u2013 niemiecki zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1954 roku."@pl ;
+	dbo:wikiPageRevisionID	664369101 ;
+	dbo:wikiPageID	1235659 ;
+	dbp:driverTitles	0 .
+@prefix ns16:	<http://purl.org/linguistics/gold/> .
+dbr:Klenk	ns16:hypernym	dbr:Car ;
+	dbp:folded	1954 .

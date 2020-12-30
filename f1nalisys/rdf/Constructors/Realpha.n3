@@ -1,0 +1,86 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Realpha	rdf:type	yago:Party110402824 ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Realpha	rdf:type	dbo:FormulaOneTeam .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Realpha	rdf:type	ns4:SocialPerson .
+@prefix schema:	<http://schema.org/> .
+dbr:Realpha	rdf:type	schema:Organization ,
+		dbo:SportsTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Realpha	rdf:type	wikidata:Q24229398 ,
+		dbo:Organisation ,
+		schema:SportsTeam ,
+		yago:WikicatZimbabweanRacecarConstructors .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Realpha	rdf:type	owl:Thing ,
+		wikidata:Q43229 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:Organism100004475 ,
+		yago:YagoLegalActorGeo ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent ,
+		ns4:Agent ,
+		yago:Builder109878275 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Realpha	rdfs:label	"Realpha"@en ,
+		"Realpha RE 1"@fr ,
+		"Realpha"@pl ;
+	rdfs:comment	"Realpha \u2013 rodezyjski konstruktor samochod\u00F3w wy\u015Bcigowych za\u0142o\u017Cony przez Raya Reeda. Zbudowa\u0142 jeden model, Reaplha RE1."@pl ,
+		"La Realpha RE 1 est une monoplace de Formule 1 con\u00E7ue et pilot\u00E9e par Ray Reed pour participer au championnat d'Afrique du Sud de Formule 1 et au Grand Prix automobile d'Afrique du Sud 1965."@fr ,
+		"The Realpha, also known as RE, was a Rhodesian Formula One racing car. The car was built by Ray Reed at his base in Gwelo, and was structurally based on a Cooper. Like many South African home-built Formula One cars of the time, it was fitted with an Alfa Romeo Giulietta engine. The car later appeared at the 1966 Rhodesian Grand Prix, the last round of that year's South African Drivers Championship, entered by local driver Peter Huson, but he retired from the race after an accident."@en ;
+	owl:sameAs	wikidata:Q1244165 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Realpha	owl:sameAs	dbpedia-pl:Realpha ,
+		<http://rdf.freebase.com/ns/m.05sxgtf> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Realpha	owl:sameAs	dbpedia-wikidata:Q1244165 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Realpha	owl:sameAs	dbpedia-fr:Realpha_RE_1 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Realpha	owl:sameAs	yago-res:Realpha ,
+		dbr:Realpha .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Realpha	dct:subject	dbc:Zimbabwean_racecar_constructors ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Realpha	foaf:name	"Realpha"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Realpha	foaf:isPrimaryTopicOf	wikipedia-en:Realpha .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Realpha	dbp:races	1 ;
+	dbp:founders	dbr:Ray_Reed ;
+	dbp:debut	1965 ;
+	dbp:points	0 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Ray Reed"^^xsd:string ,
+		"Peter Huson"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:shortName	"RE"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Realpha	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Realpha?oldid=705479059> ;
+	dbp:base	"Rhodesia"^^xsd:string ;
+	dbp:engines	dbr:Alfa_Romeo_in_Formula_One ;
+	dbo:abstract	"La Realpha RE 1 est une monoplace de Formule 1 con\u00E7ue et pilot\u00E9e par Ray Reed pour participer au championnat d'Afrique du Sud de Formule 1 et au Grand Prix automobile d'Afrique du Sud 1965."@fr ,
+		"The Realpha, also known as RE, was a Rhodesian Formula One racing car. The car was built by Ray Reed at his base in Gwelo, and was structurally based on a Cooper. Like many South African home-built Formula One cars of the time, it was fitted with an Alfa Romeo Giulietta engine. Under the \"Ray's Engineering\" banner, Reed entered the car in the non-championship Rand Grand Prix Formula One event in South Africa in late 1964, but retired due to an engine failure during the first heat. He also entered the 1965 South African Grand Prix, but the entry was withdrawn before the race when Reed was killed in an air crash. The car later appeared at the 1966 Rhodesian Grand Prix, the last round of that year's South African Drivers Championship, entered by local driver Peter Huson, but he retired from the race after an accident."@en ,
+		"Realpha \u2013 rodezyjski konstruktor samochod\u00F3w wy\u015Bcigowych za\u0142o\u017Cony przez Raya Reeda. Zbudowa\u0142 jeden model, Reaplha RE1."@pl ;
+	dbo:wikiPageRevisionID	705479059 ;
+	dbo:wikiPageID	22303786 .
+@prefix ns19:	<http://purl.org/linguistics/gold/> .
+dbr:Realpha	ns19:hypernym	dbr:Formula ;
+	dbp:lastRace	1965 .
+wikipedia-en:Realpha	foaf:primaryTopic	dbr:Realpha .
+<http://dbpedia.org/resource/RE_(automobile)>	dbo:wikiPageRedirects	dbr:Realpha .

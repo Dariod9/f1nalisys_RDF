@@ -1,0 +1,112 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Maki_Engineering	foaf:primaryTopic	dbr:Maki_Engineering .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Maki_Engineering	rdf:type	dbo:FormulaOneTeam ,
+		dbo:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Maki_Engineering	rdf:type	yago:Contractor109960891 ,
+		dbo:Organisation .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Maki_Engineering	rdf:type	ns6:SocialPerson ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		yago:Organism100004475 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Maki_Engineering	rdf:type	wikidata:Q24229398 ,
+		ns6:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 .
+@prefix schema:	<http://schema.org/> .
+dbr:Maki_Engineering	rdf:type	schema:SportsTeam ,
+		schema:Organization .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Maki_Engineering	rdf:type	owl:Thing ,
+		wikidata:Q43229 ,
+		yago:WikicatJapaneseRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Maki_Engineering	rdfs:label	"Maki Engineering"@de ,
+		"\u30DE\u30AD (F1)"@ja ,
+		"Maki Engineering"@pl ,
+		"Maki Engineering Racing Team"@fr ,
+		"Maki (F\u00F3rmula 1)"@pt ,
+		"Maki Engineering"@en ,
+		"Maki"@it ;
+	rdfs:comment	"Maki Engineering \u00E8 stato un costruttore giapponese di Formula 1 attivo tra il 1974 ed il 1976. Fondata da Kenji Mimura, dopo il ritiro della Honda a fine anni sessanta fu il primo costruttore nipponico a tentare la strada della formula 1. L'anno seguente l'unica apparizione, l'ultima della breve storia della Maki, fu nel corso delle prove del gran premio di casa. Ancora una volta le qualificazioni si rivelarono catastrofiche: Trimmer, al volante del modello F102 motorizzato Ford Cosworth si classific\u00F2 ultimo a ben 18 secondi dal poleman Mario Andretti !"@it ,
+		"Maki Engineering Racing Team \u00E9tait une ancienne \u00E9curie de Formule 1 japonaise fond\u00E9e en 1974 par Kenji Mimura. Cette modeste \u00E9curie fut la premi\u00E8re \u00E9quipe nippone \u00E0 revenir en championnat du monde de Formule 1 apr\u00E8s le retrait de Honda \u00E0 l'issue de la saison 1968. Maki a contract\u00E9 12 engagements en championnat du monde de 1974 \u00E0 1976 mais n'a jamais r\u00E9ussi \u00E0 prendre le d\u00E9part du moindre Grand Prix."@fr ,
+		"Maki Engineering (\u30DE\u30AD\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0), sp\u00E4ter Maki Racing (\u30DE\u30AD\u30EC\u30FC\u30B7\u30F3\u30B0), war ein japanisches Formel-1-Team, das 1974, 1975 und 1976 versuchte, in der Weltmeisterschaft Fu\u00DF zu fassen. Maki war nach Honda (1964 bis 1968) das zweite japanische Motorsportteam, das mit selbst konstruierten Fahrzeugen in der Formel 1 antrat. Im Gegensatz zu Honda war Maki ein reines Amateurprojekt. Das Team war erfolglos; es hatte weder die technischen noch die finanziellen Voraussetzungen f\u00FCr ein Formel-1-Engagement auf konkurrenzf\u00E4higem Niveau. Die Autos des Teams galten als laienhaft konstruierte und potentiell gef\u00E4hrliche Fahrzeuge. Abgesehen von einem Rennen, das keinen Weltmeisterschaftsstatus hatte, nahm Maki an keinem Gro\u00DFen Preis teil."@de ,
+		"\u30DE\u30AD\uFF08Maki \uFF09\u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u65E5\u672C\u306EF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30021960\u5E74\u4EE3\u306E\u30DB\u30F3\u30C0F1\u306B\u7D9A\u304D2\u756A\u76EE\u306BF1\u53C2\u6226\u3057\u305F\u65E5\u672C\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3067\u3042\u308A\u3001\u81EA\u52D5\u8ECA\u30E1\u30FC\u30AB\u30FC\u306E\u5F8C\u308D\u76FE\u306E\u306A\u3044\u65E5\u672C\u306E\u7D14\u7C8B\u306A\u30D7\u30E9\u30A4\u30D9\u30FC\u30C8\u30C1\u30FC\u30E0\u304C\u6D77\u5916\u306EF1\u30EC\u30FC\u30B9\u306B\u53C2\u6226\u3057\u305F\u306E\u306F\u30012014\u5E74\u73FE\u5728\u3001\u30DE\u30AD\u306E\u307F\u3002 1974\u5E74\u304B\u30891976\u5E74\u306B\u304B\u3051\u3066F1\u4E16\u754C\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306B\u8A087\u6226\u30A8\u30F3\u30C8\u30EA\u30FC\u3057\u305F\u304C\u3001\u5168\u3066\u4E88\u9078\u843D\u3061\u3057\u305F\u30021975\u5E74\u306B\u306F\u30CE\u30F3\u30BF\u30A4\u30C8\u30EB\u6226\u306B1\u6226\u51FA\u5834\u3057\u3001\u4E88\u9078\u3092\u901A\u904E\u3057\u3066\u6C7A\u52DD13\u4F4D\u3092\u8A18\u9332\u3057\u305F\u3002"@ja ,
+		"Maki Engineering lub Maki \u2013 japo\u0144ski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1976 i 1977 roku."@pl ,
+		"Maki Engineering was a Formula One constructor from Japan. A small team founded by Kenji Mimura, their entry into the 1974 Formula One World Championship was Japan's first since Honda had withdrawn at the end of the 1968 season. They first entered the 1974 British Grand Prix, with New Zealand driver Howden Ganley driving a single Maki F101, powered by the ubiquitous Cosworth DFV V8 engine. He failed to qualify, and then badly injured his legs at the following German Grand Prix. The team then withdrew to Japan to repair and modify the car."@en ,
+		"Maki Engineering foi uma construtora japonesa de F\u00F3rmula 1. A equipe foi fundada por Kenji Mimura, e participou das temporadas de 1974, 1975 e 1976."@pt .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Maki_Engineering	dbp:drivers	"Hiroshi Fushida"^^xsd:string ,
+		"Howden Ganley"^^xsd:string ,
+		"Tony Trimmer"^^xsd:string .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Maki_Engineering	owl:sameAs	dbpedia-fr:Maki_Engineering_Racing_Team ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30AD_(F1)> ,
+		<http://rdf.freebase.com/ns/m.04n6kf> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Maki_Engineering	owl:sameAs	dbpedia-de:Maki_Engineering .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Maki_Engineering	owl:sameAs	dbpedia-pl:Maki_Engineering ,
+		<http://pt.dbpedia.org/resource/Maki_(F\u00F3rmula_1)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Maki_Engineering	owl:sameAs	dbpedia-wikidata:Q172197 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Maki_Engineering	owl:sameAs	yago-res:Maki_Engineering .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Maki_Engineering	owl:sameAs	dbpedia-it:Maki ,
+		wikidata:Q172197 ,
+		dbr:Maki_Engineering .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Maki_Engineering	dct:subject	dbc:Japanese_auto_racing_teams ,
+		dbc:Japanese_racecar_constructors ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ;
+	foaf:name	"Maki Engineering"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Maki_Engineering ;
+	dbp:shortName	"Maki"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Maki_Engineering	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Maki_Engineering?oldid=737668924> ;
+	dbp:founders	"Kenji Mimura"^^xsd:string ;
+	dbp:logo	<http://dbpedia.org/resource/File:Maki_Engineering.png> ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	dbr:Tokyo ,
+		dbr:Japan ;
+	dbp:engines	dbr:Cosworth_DFV ;
+	dbp:debut	1974 ;
+	dbo:wikiPageExternalLink	<http://www.oldracingcars.com/f1/marque.php?MarqueID=MAK> ,
+		<http://www.grandprix.com/gpe/con-maki.html> ,
+		<https://web.archive.org/web/20120506040924/http:/f1rejects.com/teams/maki/profile.html> ;
+	dbo:abstract	"Maki Engineering (\u30DE\u30AD\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0), sp\u00E4ter Maki Racing (\u30DE\u30AD\u30EC\u30FC\u30B7\u30F3\u30B0), war ein japanisches Formel-1-Team, das 1974, 1975 und 1976 versuchte, in der Weltmeisterschaft Fu\u00DF zu fassen. Maki war nach Honda (1964 bis 1968) das zweite japanische Motorsportteam, das mit selbst konstruierten Fahrzeugen in der Formel 1 antrat. Im Gegensatz zu Honda war Maki ein reines Amateurprojekt. Das Team war erfolglos; es hatte weder die technischen noch die finanziellen Voraussetzungen f\u00FCr ein Formel-1-Engagement auf konkurrenzf\u00E4higem Niveau. Die Autos des Teams galten als laienhaft konstruierte und potentiell gef\u00E4hrliche Fahrzeuge. Abgesehen von einem Rennen, das keinen Weltmeisterschaftsstatus hatte, nahm Maki an keinem Gro\u00DFen Preis teil."@de ,
+		"Maki Engineering \u00E8 stato un costruttore giapponese di Formula 1 attivo tra il 1974 ed il 1976. Fondata da Kenji Mimura, dopo il ritiro della Honda a fine anni sessanta fu il primo costruttore nipponico a tentare la strada della formula 1. La vettura con cui il costruttore debutt\u00F2 in formula 1 venne denominata F101. Questa vettura, motorizzata Ford Cosworth e gommata Firestone, fu schierata per la prima volta in occasione delle prove di qualificazione del 27\u00BA Gran Premio di Gran Bretagna, sul circuito di Brands Hatch. Affidata al pilota neozelandese Howden Ganley non riusc\u00EC pero a qualificarsi per la gara, ottenendo il 32\u00BA tempo a 4 secondi dal poleman Niki Lauda.nel successivo 36\u00BA Gran Premio di Germania Ganley fu protagonista di un incidente durante le prove di qualificazione, incidente che pose di fatto fine alla sua carriera di pilota e all'avventura della Maki per quella stagione. Nel 1975 la Maki, con il modello denominato F101C (o F101-02), riusc\u00EC nell'impresa, in occasione del debutto stagionale, di qualificarsi per il suo primo gran premio. Non si tratt\u00F2 per\u00F2 di una qualifica conquistata per merito quanto dall'ammissione alla corsa di tutti i 25 partecipanti alle prove di qualificazione. Sul circuito di Zandvoort, in occasione del 23\u00BA Gran Premio di Olanda, il pilota giapponese Hiroshi Fushida aveva terminato infatti le prove con un distacco di ben 13 secondi dal poleman Niki Lauda. La Maki non riusc\u00EC comunque a schierarsi sulla griglia a causa della rottura del motore Ford Cosworth. Fushida tent\u00F2, senza successo, la qualificazione anche al 28\u00BA Gran Premio di Gran Bretagna, disputato sul circuito di Silverstone. Anche in questo caso il distacco dal poleman, Tom Pryce, risulto molto alto: circa sette secondi.La vettura venne quindi affidata al pilota inglese Tony Trimmer che tent\u00F2 di qualificarsi senza successo nei gran premi di Germania, Austria e Italia.Trimmer riusc\u00EC a partecipare al 15\u00BA Gran premio di Svizzera, non valido per il mondiale e corso sul circuito francese di Digione. Partito sedicesimo ed ultimo in grigilia, sar\u00E0 qualificato come 13\u00B0 a 6 giri dal vincitore Clay Regazzoni. L'anno seguente l'unica apparizione, l'ultima della breve storia della Maki, fu nel corso delle prove del gran premio di casa. Ancora una volta le qualificazioni si rivelarono catastrofiche: Trimmer, al volante del modello F102 motorizzato Ford Cosworth si classific\u00F2 ultimo a ben 18 secondi dal poleman Mario Andretti !"@it ,
+		"\u30DE\u30AD\uFF08Maki \uFF09\u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u65E5\u672C\u306EF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30021960\u5E74\u4EE3\u306E\u30DB\u30F3\u30C0F1\u306B\u7D9A\u304D2\u756A\u76EE\u306BF1\u53C2\u6226\u3057\u305F\u65E5\u672C\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3067\u3042\u308A\u3001\u81EA\u52D5\u8ECA\u30E1\u30FC\u30AB\u30FC\u306E\u5F8C\u308D\u76FE\u306E\u306A\u3044\u65E5\u672C\u306E\u7D14\u7C8B\u306A\u30D7\u30E9\u30A4\u30D9\u30FC\u30C8\u30C1\u30FC\u30E0\u304C\u6D77\u5916\u306EF1\u30EC\u30FC\u30B9\u306B\u53C2\u6226\u3057\u305F\u306E\u306F\u30012014\u5E74\u73FE\u5728\u3001\u30DE\u30AD\u306E\u307F\u3002 1974\u5E74\u304B\u30891976\u5E74\u306B\u304B\u3051\u3066F1\u4E16\u754C\u9078\u624B\u6A29\u30EC\u30FC\u30B9\u306B\u8A087\u6226\u30A8\u30F3\u30C8\u30EA\u30FC\u3057\u305F\u304C\u3001\u5168\u3066\u4E88\u9078\u843D\u3061\u3057\u305F\u30021975\u5E74\u306B\u306F\u30CE\u30F3\u30BF\u30A4\u30C8\u30EB\u6226\u306B1\u6226\u51FA\u5834\u3057\u3001\u4E88\u9078\u3092\u901A\u904E\u3057\u3066\u6C7A\u52DD13\u4F4D\u3092\u8A18\u9332\u3057\u305F\u3002"@ja ,
+		"Maki Engineering lub Maki \u2013 japo\u0144ski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1976 i 1977 roku."@pl ,
+		"Maki Engineering was a Formula One constructor from Japan. A small team founded by Kenji Mimura, their entry into the 1974 Formula One World Championship was Japan's first since Honda had withdrawn at the end of the 1968 season. They first entered the 1974 British Grand Prix, with New Zealand driver Howden Ganley driving a single Maki F101, powered by the ubiquitous Cosworth DFV V8 engine. He failed to qualify, and then badly injured his legs at the following German Grand Prix. The team then withdrew to Japan to repair and modify the car. That seemed to be it, but then the small team re-emerged at the 1975 Dutch Grand Prix, with successful domestic driver Hiroshi Fushida driving the updated Maki F101C, and sponsorship from Citizen Watches. With only 25 entrants, he was guaranteed a starting place, but the DFV broke in practice and he was unable to start as the team had no spares. They missed the French Grand Prix, and then Fushida failed to qualify for the British Grand Prix. For the German Grand Prix, British club driver Tony Trimmer replaced Fushida, but was unable to qualify either there, or for the Austrian Grand Prix. The Maki made its first and only race start in the non-championship Swiss Grand Prix, where Trimmer finished last of the finishers in 13th place, six laps behind the winner Clay Regazzoni's Ferrari. The team disappeared once again, only returning to Formula One once - for the 1976 season-closing Japanese Grand Prix. With Trimmer in the seat, the upgraded F102A once again failed to make the grid, and the team were never seen in Formula One again."@en ,
+		"Maki Engineering Racing Team \u00E9tait une ancienne \u00E9curie de Formule 1 japonaise fond\u00E9e en 1974 par Kenji Mimura. Cette modeste \u00E9curie fut la premi\u00E8re \u00E9quipe nippone \u00E0 revenir en championnat du monde de Formule 1 apr\u00E8s le retrait de Honda \u00E0 l'issue de la saison 1968. Maki a contract\u00E9 12 engagements en championnat du monde de 1974 \u00E0 1976 mais n'a jamais r\u00E9ussi \u00E0 prendre le d\u00E9part du moindre Grand Prix."@fr ,
+		"Maki Engineering foi uma construtora japonesa de F\u00F3rmula 1. A equipe foi fundada por Kenji Mimura, e participou das temporadas de 1974, 1975 e 1976."@pt ;
+	dbo:wikiPageRevisionID	737668924 ;
+	dbo:wikiPageID	1262614 ;
+	dbp:races	8 ;
+	dbp:wins	0 .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Maki_Engineering	ns21:hypernym	dbr:Constructor ;
+	dbp:lastRace	1976 .
+dbr:Howden_Ganley__1974__2	dbo:team	dbr:Maki_Engineering .
+<http://dbpedia.org/resource/Maki_(constructor)>	dbo:wikiPageRedirects	dbr:Maki_Engineering .
+dbr:Maki	dbo:wikiPageDisambiguates	dbr:Maki_Engineering .
+<http://dbpedia.org/resource/Maki_(cars)>	dbo:wikiPageRedirects	dbr:Maki_Engineering .

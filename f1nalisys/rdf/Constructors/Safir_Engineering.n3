@@ -1,0 +1,64 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Safir_Engineering	rdf:type	yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Safir_Engineering	rdf:type	dbo:Company ,
+		yago:Contractor109960891 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Safir_Engineering	rdfs:label	"Safir Engineering"@en ,
+		"Safir F1"@es ,
+		"Safir Engineering"@de ,
+		"Safir Engineering"@pl ;
+	rdfs:comment	"Safir Engineering \u2013 brytyjski konstruktor samochod\u00F3w sportowych i wy\u015Bcigowych."@pl ,
+		"Safir F1 fue un equipo de F\u00F3rmula 1 de 1975 que fue adquirida de la antigua escuder\u00EDa Token, este equipo es considerado como una de las escuder\u00EDas m\u00E1s modestas de la historia de la F\u00F3rmula 1."@es ,
+		"Safir Engineering is a British racecar engineering firm. In 1975, they purchased the Token RJ02 Formula One car, renamed it the \"Safir\" and raced it in the 1975 Race of Champions and BRDC International Trophy, driven by Tony Trimmer."@en ,
+		"Safir Engineering war ein britischer Hersteller von Rennwagen und Sportwagen aus Weybridge. 1975 kaufte die Firma das Formel 1-Fahrzeug von Token Racing, den RJ02, benannte ihn in Safir um und meldete ihn beim Race of Champions und bei der BRDC International Trophy. Sp\u00E4ter kaufte Safir die Rechte am Ford GT40 und stellte diese Fahrzeuge in den 1980er-Jahren her. 1991 endete die Produktion."@de .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Safir_Engineering	owl:sameAs	dbpedia-pl:Safir_Engineering .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Safir_Engineering	owl:sameAs	dbpedia-es:Safir_F1 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Safir_Engineering	owl:sameAs	dbpedia-de:Safir_Engineering .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Safir_Engineering	owl:sameAs	dbpedia-wikidata:Q687254 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Safir_Engineering	owl:sameAs	yago-res:Safir_Engineering .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Safir_Engineering	owl:sameAs	wikidata:Q687254 ,
+		<http://rdf.freebase.com/ns/m.02vpxbr> ,
+		dbr:Safir_Engineering .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Safir_Engineering	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Safir_Engineering	foaf:isPrimaryTopicOf	wikipedia-en:Safir_Engineering .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Safir_Engineering	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Safir_Engineering?oldid=721284080> ;
+	dbo:abstract	"Safir Engineering is a British racecar engineering firm. In 1975, they purchased the Token RJ02 Formula One car, renamed it the \"Safir\" and raced it in the 1975 Race of Champions and BRDC International Trophy, driven by Tony Trimmer. Later, Peter Thorp of Safir entered into an agreement with Walter Hayes of Ford and John Wilment of J.W. Automotive Engineering to continue to produce a limited number of GT40s, the Mk V, during the 1980s. At which time, Safir Engineering applied for and was issued a trademark from the United States Patent and Trademark Office for the GT40 mark, the Ford Motor Company having never done so."@en ,
+		"Safir F1 fue un equipo de F\u00F3rmula 1 de 1975 que fue adquirida de la antigua escuder\u00EDa Token, este equipo es considerado como una de las escuder\u00EDas m\u00E1s modestas de la historia de la F\u00F3rmula 1."@es ,
+		"Safir Engineering \u2013 brytyjski konstruktor samochod\u00F3w sportowych i wy\u015Bcigowych."@pl ,
+		"Safir Engineering war ein britischer Hersteller von Rennwagen und Sportwagen aus Weybridge. 1975 kaufte die Firma das Formel 1-Fahrzeug von Token Racing, den RJ02, benannte ihn in Safir um und meldete ihn beim Race of Champions und bei der BRDC International Trophy. Sp\u00E4ter kaufte Safir die Rechte am Ford GT40 und stellte diese Fahrzeuge in den 1980er-Jahren her. 1991 endete die Produktion."@de ;
+	dbo:wikiPageRevisionID	721284080 ;
+	dbo:wikiPageID	12101481 .
+@prefix ns17:	<http://purl.org/linguistics/gold/> .
+dbr:Safir_Engineering	ns17:hypernym	dbr:Firm .
+dbr:Safir	dbo:wikiPageDisambiguates	dbr:Safir_Engineering .
+wikipedia-en:Safir_Engineering	foaf:primaryTopic	dbr:Safir_Engineering .

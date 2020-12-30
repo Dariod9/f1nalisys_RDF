@@ -1,0 +1,109 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Eisenacher_Motorenwerk	rdf:type	dbo:Organisation .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Eisenacher_Motorenwerk	rdf:type	yago:WikicatFormulaOneConstructors .
+@prefix schema:	<http://schema.org/> .
+dbr:Eisenacher_Motorenwerk	rdf:type	schema:Organization ,
+		yago:WikicatGermanRacecarConstructors ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Eisenacher_Motorenwerk	rdf:type	wikidata:Q24229398 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Contractor109960891 ,
+		dbo:Company ,
+		yago:Party110402824 ,
+		yago:Builder109878275 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Eisenacher_Motorenwerk	rdf:type	owl:Thing .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Eisenacher_Motorenwerk	rdf:type	ns7:Agent ,
+		wikidata:Q43229 ,
+		dbo:Agent ,
+		ns7:SocialPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Eisenacher_Motorenwerk	rdfs:label	"EMW (automobili)"@it ,
+		"Eisenacher Motorenwerk"@en ,
+		"EMW"@nl ,
+		"\u30A2\u30A4\u30BC\u30CA\u30CF\u30FC\u30FB\u30E2\u30C8\u30FC\u30EC\u30F3\u30F4\u30A7\u30EB\u30AF"@ja ,
+		"Eisenacher Motorenwerk"@fr ;
+	rdfs:comment	"Eisenacher Motorenwerk (EMW) est un constructeur automobile bas\u00E9 \u00E0 Eisenach, implant\u00E9 dans l'ancienne usine BMW nationalis\u00E9e en 1945, car situ\u00E9e dans la zone d'occupation sovi\u00E9tique. De 1945 \u00E0 1952, l'usine fabrique des automobiles et motocyclettes sous la marque BMW mais une d\u00E9cision judiciaire impose un changement de nom et de logo. Devenue EMW en 1952, elle est rebaptis\u00E9e AWE en 1954 et abandonne peu apr\u00E8s la fabrication de mod\u00E8les d\u00E9riv\u00E9s des BMW d'avant-guerre."@fr ,
+		"Eisenacher Motorenwerk (EMW) was an East German manufacturer of automobiles and motorcycles based in Eisenach. EMW also entered Formula One as a constructor in 1953, but participated in only one race, the 1953 German Grand Prix. The car retired after 12 laps with exhaust problems. Later the automobile section of EMW became VEB Automobilwerk Eisenach and built the Wartburg. Motorcycle manufacture ended in the 1950s and was replaced by the AWO 425 built by Simson at Suhl."@en ,
+		"EMW is een historisch merk van motorfietsen en auto's. Volledige bedrijfsnaam: Eisenacher Motoren Werk. Aktiengesellschaft f\u00FCr Maschinenbau vormals BMW, daarna Staatliche Aktiengesellschaft Awtowelo Werk BMW Eisenach, VEB IFA Automobilwerk EMW Eisenach en uiteindelijk VEB Automobilwerk Eisenach (Ook wel afgekort tot AWE) (1945-1956)."@nl ,
+		"\u30A2\u30A4\u30BC\u30CA\u30CF\u30FC\u30FB\u30E2\u30C8\u30FC\u30EC\u30F3\u30F4\u30A7\u30EB\u30AF\uFF08\u30C9\u30A4\u30C4\u8A9E: Eisenacher Motorenwerk, \u7565\u79F0\uFF1AEMW\uFF09\u306F\u3001\u65E7\u6771\u30C9\u30A4\u30C4\u3067\u81EA\u52D5\u8ECA\u88FD\u9020\u3092\u884C\u3063\u3066\u3044\u305F\u56FD\u55B6\u4F01\u696D\u3002\u6240\u5728\u5730\u306F\u30C6\u30E5\u30FC\u30EA\u30F3\u30B2\u30F3\u5DDE\u30A2\u30A4\u30BC\u30CA\u30CF\u3002BMW\u30FB\u30A2\u30A4\u30BC\u30CA\u30CF\u5DE5\u5834\u3092\u30D9\u30FC\u30B9\u3068\u3057\u30661948\u5E74\u304B\u30891991\u5E74\u307E\u3067\u306E\u9593\u6D3B\u52D5\u3057\u305F\u3002\u6771\u30C9\u30A4\u30C4\u306E\u4EE3\u8868\u7684\u306A\u4E57\u7528\u8ECA\u3067\u3042\u308B\u30F4\u30A1\u30EB\u30C8\u30D6\u30EB\u30AF\u3092\u88FD\u9020\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"La EMW, acronimo di Eisenacher Motoren Werk (dal tedesco, Fabbrica Motoristica di Eisenach), era un marchio automobilistico tedesco-orientale attivo tra il 1952 ed il 1956."@it ;
+	owl:sameAs	wikidata:Q988514 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Eisenacher_Motorenwerk	owl:sameAs	dbpedia-wikidata:Q988514 ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30A4\u30BC\u30CA\u30CF\u30FC\u30FB\u30E2\u30C8\u30FC\u30EC\u30F3\u30F4\u30A7\u30EB\u30AF> ,
+		dbr:Eisenacher_Motorenwerk .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Eisenacher_Motorenwerk	owl:sameAs	dbpedia-id:Eisenacher_Motorenwerk ,
+		<http://it.dbpedia.org/resource/EMW_(automobili)> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Eisenacher_Motorenwerk	owl:sameAs	dbpedia-fr:Eisenacher_Motorenwerk .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Eisenacher_Motorenwerk	owl:sameAs	dbpedia-nl:EMW ,
+		<http://rdf.freebase.com/ns/m.04kp9d> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Eisenacher_Motorenwerk	owl:sameAs	yago-res:Eisenacher_Motorenwerk .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Eisenacher_Motorenwerk	dct:subject	dbc:Formula_One_entrants ,
+		dbc:BMW ,
+		dbc:Car_manufacturers_of_East_Germany ,
+		dbc:Defunct_motor_vehicle_manufacturers_of_Germany ,
+		dbc:Eisenach ,
+		dbc:German_racecar_constructors ,
+		dbc:German_auto_racing_teams ,
+		dbc:Transport_in_East_Germany ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Eisenacher_Motorenwerk	foaf:name	"Eisenacher Motorenwerk"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Emw.JPG> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Eisenacher_Motorenwerk	foaf:isPrimaryTopicOf	wikipedia-en:Eisenacher_Motorenwerk .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Eisenacher_Motorenwerk	dbp:logoCaption	"EMW logo"^^xsd:string ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:founded	"Circa 1945 Eisenach, German Democratic Republic"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Eisenacher_Motorenwerk	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Eisenacher_Motorenwerk?oldid=742029305> ;
+	dbp:entrants	"Rennkollektiv EMW"^^xsd:string ;
+	dbo:industry	dbr:Motorcycle ;
+	dbp:logo	<http://dbpedia.org/resource/File:EMW.jpg> ;
+	dbp:formerName	dbr:BMW ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Eisenach, East Germany"^^xsd:string ;
+	dbp:engines	"EMW 2.0l L6"^^xsd:string ;
+	dbp:debut	1953 ;
+	dbo:abstract	"Eisenacher Motorenwerk (EMW) est un constructeur automobile bas\u00E9 \u00E0 Eisenach, implant\u00E9 dans l'ancienne usine BMW nationalis\u00E9e en 1945, car situ\u00E9e dans la zone d'occupation sovi\u00E9tique. De 1945 \u00E0 1952, l'usine fabrique des automobiles et motocyclettes sous la marque BMW mais une d\u00E9cision judiciaire impose un changement de nom et de logo. Devenue EMW en 1952, elle est rebaptis\u00E9e AWE en 1954 et abandonne peu apr\u00E8s la fabrication de mod\u00E8les d\u00E9riv\u00E9s des BMW d'avant-guerre."@fr ,
+		"\u30A2\u30A4\u30BC\u30CA\u30CF\u30FC\u30FB\u30E2\u30C8\u30FC\u30EC\u30F3\u30F4\u30A7\u30EB\u30AF\uFF08\u30C9\u30A4\u30C4\u8A9E: Eisenacher Motorenwerk, \u7565\u79F0\uFF1AEMW\uFF09\u306F\u3001\u65E7\u6771\u30C9\u30A4\u30C4\u3067\u81EA\u52D5\u8ECA\u88FD\u9020\u3092\u884C\u3063\u3066\u3044\u305F\u56FD\u55B6\u4F01\u696D\u3002\u6240\u5728\u5730\u306F\u30C6\u30E5\u30FC\u30EA\u30F3\u30B2\u30F3\u5DDE\u30A2\u30A4\u30BC\u30CA\u30CF\u3002BMW\u30FB\u30A2\u30A4\u30BC\u30CA\u30CF\u5DE5\u5834\u3092\u30D9\u30FC\u30B9\u3068\u3057\u30661948\u5E74\u304B\u30891991\u5E74\u307E\u3067\u306E\u9593\u6D3B\u52D5\u3057\u305F\u3002\u6771\u30C9\u30A4\u30C4\u306E\u4EE3\u8868\u7684\u306A\u4E57\u7528\u8ECA\u3067\u3042\u308B\u30F4\u30A1\u30EB\u30C8\u30D6\u30EB\u30AF\u3092\u88FD\u9020\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"La EMW, acronimo di Eisenacher Motoren Werk (dal tedesco, Fabbrica Motoristica di Eisenach), era un marchio automobilistico tedesco-orientale attivo tra il 1952 ed il 1956."@it ,
+		"Eisenacher Motorenwerk (EMW) was an East German manufacturer of automobiles and motorcycles based in Eisenach. EMW also entered Formula One as a constructor in 1953, but participated in only one race, the 1953 German Grand Prix. The car retired after 12 laps with exhaust problems. One of the pre-World War II BMW factories was located in Eisenach, which after the war was taken over by the Soviets, since Eisenach was situated in the Soviet occupation zone. The factory continued producing cars and motorcycles under the BMW brand, but after a lawsuit in 1952 they had to change the name to EMW instead. The logotype was also similar, but instead of the blue BMW used, EMW used red. Later the automobile section of EMW became VEB Automobilwerk Eisenach and built the Wartburg. Motorcycle manufacture ended in the 1950s and was replaced by the AWO 425 built by Simson at Suhl."@en ,
+		"EMW is een historisch merk van motorfietsen en auto's. Volledige bedrijfsnaam: Eisenacher Motoren Werk. Aktiengesellschaft f\u00FCr Maschinenbau vormals BMW, daarna Staatliche Aktiengesellschaft Awtowelo Werk BMW Eisenach, VEB IFA Automobilwerk EMW Eisenach en uiteindelijk VEB Automobilwerk Eisenach (Ook wel afgekort tot AWE) (1945-1956). Oost-Duits bedrijf dat in feite in 1896 was opgericht door Heinrich Ehrhardt (Fahrzeugfabrik Eisenach). In 1899 begon de autoproductie daadwerkelijk met de Wartburg. In 1904 ging men onder de naam Dixi verder. Dixi werd in 1928 door BMW overgenomen om er personenauto's te gaan maken. In 1942 verplaatste BMW ook de motorfietsproductie naar Eisenach."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Emw.JPG?width=300> ;
+	dbo:wikiPageRevisionID	742029305 ;
+	dbo:wikiPageID	1233360 ;
+	dbp:officialName	"Eisenacher Motorenwerk"^^xsd:string ;
+	dbp:hqLocationCity	dbr:Eisenach ;
+	dbp:races	1 ;
+	dbp:name	"EMW"^^xsd:string ;
+	dbp:wins	0 .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+dbr:Eisenacher_Motorenwerk	ns20:hypernym	dbr:Manufacturer ;
+	dbp:finalRace	1953 .
+wikipedia-en:Eisenacher_Motorenwerk	foaf:primaryTopic	dbr:Eisenacher_Motorenwerk .
+dbr:Edgar_Barth	<http://dbpedia.org/property/team(s)_>	dbr:Eisenacher_Motorenwerk .
+dbr:Eisenacher_Motoren_Werke	dbo:wikiPageRedirects	dbr:Eisenacher_Motorenwerk .
+dbr:EMW_motorcycle	dbo:wikiPageRedirects	dbr:Eisenacher_Motorenwerk .

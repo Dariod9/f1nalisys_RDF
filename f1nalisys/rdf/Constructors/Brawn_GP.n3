@@ -1,0 +1,198 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2009_Monaco_Grand_Prix>	dbo:poleDriverTeam	dbr:Brawn_GP ;
+	dbo:secondTeam	dbr:Brawn_GP ;
+	dbo:firstDriverTeam	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Italian_Grand_Prix>	dbo:secondTeam	dbr:Brawn_GP ;
+	dbo:firstDriverTeam	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_European_Grand_Prix>	dbo:firstDriverTeam	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Australian_Grand_Prix>	dbo:poleDriverTeam	dbr:Brawn_GP ;
+	dbo:secondTeam	dbr:Brawn_GP ;
+	dbo:firstDriverTeam	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Brazilian_Grand_Prix>	dbo:poleDriverTeam	dbr:Brawn_GP .
+dbr:Brawn_F1	dbo:wikiPageRedirects	dbr:Brawn_GP .
+dbr:BrawnGP	dbo:wikiPageRedirects	dbr:Brawn_GP .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Brawn_GP	rdf:type	dbo:Organisation ,
+		dbo:SportsTeam .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Brawn_GP	rdf:type	owl:Thing ,
+		dbo:FormulaOneTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Brawn_GP	rdf:type	wikidata:Q43229 .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Brawn_GP	rdf:type	ns5:SocialPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Brawn_GP	rdf:type	yago:CausalAgent100007347 ,
+		ns5:Agent ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Brawn_GP	rdf:type	geo:SpatialThing ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix schema:	<http://schema.org/> .
+dbr:Brawn_GP	rdf:type	schema:SportsTeam ,
+		dbo:Agent ,
+		schema:Organization ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Brawn_GP	rdfs:label	"\u30D6\u30E9\u30A6\u30F3GP"@ja ,
+		"Brawn GP"@pt ,
+		"Brawn GP"@de ,
+		"Brawn GP"@it ,
+		"Brawn GP"@nl ,
+		"Brawn GP"@en ,
+		"\u0411\u0440\u0430\u0443\u043D (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"\u5E03\u6717\u8ECA\u968A"@zh ,
+		"Brawn GP"@pl ,
+		"Brawn GP"@es ,
+		"Brawn GP Formula One Team"@fr ;
+	rdfs:comment	"Brawn GP Ltd. \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB. \u0421\u043E\u0437\u0434\u0430\u043D\u0430 6 \u043C\u0430\u0440\u0442\u0430 2009 \u0433\u043E\u0434\u0430 \u043F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E, \u043A\u0430\u043A \u044D\u0442\u043E \u043F\u043E\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043B \u0420\u043E\u0441\u0441 \u0411\u0440\u0430\u0443\u043D, \u0431\u044B\u0432\u0448\u0438\u0439 \u0431\u043E\u0441\u0441 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00ABHonda Racing\u00BB , \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043A\u0443\u043F\u0438\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0437\u0430 \u0441\u0438\u043C\u0432\u043E\u043B\u0438\u0447\u0435\u0441\u043A\u0443\u044E \u0446\u0435\u043D\u0443 \u0432 1 \u0434\u043E\u043B\u043B\u0430\u0440 \u0421\u0428\u0410 \u0443 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 \u00ABHonda\u00BB  \u0432 \u0441\u0432\u044F\u0437\u0438 \u0441 \u0443\u0445\u043E\u0434\u043E\u043C \u00AB\u0425\u043E\u043D\u0434\u044B\u00BB \u0438\u0437 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0432 \u0434\u0435\u043A\u0430\u0431\u0440\u0435 2008 \u0433\u043E\u0434\u0430. \u041D\u043E\u0432\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0441\u043E\u0432\u0435\u0440\u0448\u0438\u043B\u0430 \u0441\u0432\u043E\u0439 \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0439 \u0434\u0435\u0431\u044E\u0442 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 2009 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 29 \u043C\u0430\u0440\u0442\u0430 2009 \u0433\u043E\u0434\u0430, \u0432\u044B\u0438\u0433\u0440\u0430\u0432 \u0433\u043E\u043D\u043A\u0443 \u0438 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u0432 \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E."@ru ,
+		"Brawn GP Formula One Team ou plus simplement Brawn GP est une ancienne \u00E9curie de Formule 1 britannique cr\u00E9\u00E9e le 6 mars 2009 pour d\u00E9buter en comp\u00E9tition \u00E0 l'occasion du championnat du monde de Formule 1 2009 qu'elle a remport\u00E9 avec Jenson Button avant d'\u00EAtre rachet\u00E9e par Mercedes Grand Prix. Une seule saison, disput\u00E9e au sommet et couronn\u00E9e de succ\u00E8s, fait de Brawn GP un cas singulier dans l'histoire de la Formule 1."@fr ,
+		"Brawn GP Formula One Team foi uma equipe e construtora de F\u00F3rmula 1, criada no dia 6 de mar\u00E7o de 2009, liderada por Ross Brawn, antigo chefe de equipe da Honda Racing F1. A escuderia foi vendida \u00E0 Mercedes-Benz, sendo que o an\u00FAncio oficial deu-se \u00E0s 10h05 do dia 16 de novembro de 2009."@pt ,
+		"Brawn GP Formula One Team, the trading name of Brawn GP Limited, was a Formula One world championship-winning motor racing team and constructor, created by a management buyout of Honda Racing F1 Team, but using a Mercedes engine. It only competed in the 2009 Formula One World Championship, with drivers Jenson Button and Rubens Barrichello. The team clinched that year's Constructors' Championship, and Button took the drivers' title. For 2010, the team again changed identity, becoming Mercedes GP."@en ,
+		"\u5E03\u6717GP\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8ECA\u968A\uFF08\u82F1\u8BED\uFF1ABrawn GP Formula One Team\uFF09\u662F\u4E00\u652F\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u53C3\u8CFD\u8ECA\u968A\uFF0C\u7531\u524D\u672C\u7530\u8ECA\u968A\u7D93\u7406\u7F85\u65AF\u00B7\u5E03\u6717\uFF08\u4E5F\u66FE\u64D4\u4EFB\u904E\u6CD5\u62C9\u5229\u8ECA\u968A\u6280\u8853\u7E3D\u76E3\uFF09\u8CFC\u8CB7\u672C\u7530\u8ECA\u968A\u5F8C\u6539\u540D\uFF0C\u65BC2009\u5E743\u67086\u65E5\u6210\u7ACB\u30022009\u5E7411\u6708\u8D77\u7531\u4E8E\u6885\u8CFD\u5FB7\u65AF-\u5954\u9A70\u7684\u6536\u8D2D\u53D8\u66F4\u4E3A\u6885\u8D5B\u5FB7\u65AF\u5927\u5956\u8D5B\u8F66\u961F\u3002 \u8ECA\u624B\u9663\u5BB9\uFF1A \n*  22.\u8A79\u68EE\u00B7\u5DF4\u9813\uFF08\u82F1\u570B\uFF09 2008\u5E74\u6210\u7EE9\uFF1A\u5E74\u5EA6\u7B2C\u5341\u516B\u540D\uFF1B\u7E3D\u52063\u5206 \n*  23.\u9B6F\u672C\u65AF\u00B7\u5DF4\u91CC\u5207\u7F85\uFF08\u5DF4\u897F\uFF09 2008\u5E74\u6210\u7EE9\uFF1A\u5E74\u5EA6\u7B2C\u5341\u56DB\u540D\uFF1B\u7E3D\u520611\u5206 \u8A72\u968A\u4F7F\u7528\u6885\u585E\u5FB7\u65AF\u5F15\u64CE\uFF0C\u666E\u5229\u53F8\u901A\u8F2A\u80CE\u3002 \u7531\u65BC\u5E03\u6717F1\u8ECA\u968A\u5C6C\u65BC\u65B0\u6210\u8ECD\u8ECA\u968A\uFF0C\u56E0\u6B64\u5FC5\u9808\u5217\u5728\u6700\u5F8C\u9806\u4F4D\uFF0CFIA\u65BC\u662F\u5C07\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5169\u4F4D\u8ECA\u624B\u7684\u7DE8\u865F\u5F80\u524D\u79FB\u5230\u539F\u672C\u9810\u7559\u7D66\u672C\u7530\u8ECA\u968A\u768418\u300119\u865F\u4F4D\u7F6E\uFF0C\u800C\u5E03\u6717GP\u8ECA\u968A\u5247\u70BA20\u300121\u865F\u3002 \u4E0D\u904E\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5411FIA\u6295\u8A34\u8868\u793A\u8CFD\u5B63\u524D\u5DF2\u7D93\u4F9D\u64DA\u539F\u672C\u7684\u865F\u78BC\u5B8C\u6210\u5404\u9805\u92B7\u552E\u5546\u54C1\u8207\u5EE3\u544A\u7684\u6E96\u5099\uFF0C\u56E0\u6B64FIA\u540C\u610F\u6062\u5FA9\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u70BA20\u300121\u865F\uFF0C\u5E03\u6717F1\u8ECA\u968A\u905E\u5EF6\u70BA22\u300123\u865F\u3002 2009\u5E74\u8CFD\u5B63\uFF0C\u5E03\u6717\u8ECA\u968A\u5728\u5DF4\u897F\u7AD9\u63D0\u524D\u62FF\u4E0B2009\u5E74\u7684\u8ECA\u968A\u7E3D\u51A0\u8ECD\uFF0C\u5275\u4E0B\u65B0\u6210\u8ECD\u7B2C\u4E00\u5E74\u5C31\u62FF\u4E0B\u51A0\u8ECD\u7684\u9996\u4F8B\uFF0C\u9996\u5E2D\u8ECA\u624B\u8A79\u68EE\u00B7\u5DF4\u9813\u4E5F\u5728\u5DF4\u897F\u7AD9\u63D0\u524D\u62FF\u4E0B\u8ECA\u624B\u7E3D\u51A0\u8ECD\u3002"@zh ,
+		"La Brawn GP Ltd. (nome completo Brawn Grand Prix Limited) \u00E8 stato un costruttore britannico di Formula 1, con sede a Brackley, nel Northamptonshire. Il team fu fondato il 6 marzo 2009, dalle ceneri della Honda Racing F1 Team, dopo che vi era stata la conferma che Ross Brawn, l'ex team manager della Ferrari, aveva perfezionato l'acquisto della scuderia stessa. Il 16 novembre 2009 la Mercedes-Benz ha annunciato di avere acquistato la maggioranza della Brawn GP, che \u00E8 stata conseguentemente ridenominata Mercedes GP."@it ,
+		"Brawn GP Formula One Team \u2013 by\u0142y brytyjski zesp\u00F3\u0142 i konstruktor Formu\u0142y 1 utworzony w 2009 r. przez Rossa Brawna na bazie Honda Racing F1. Zesp\u00F3\u0142 startowa\u0142 w sezonie 2009 mistrzostw \u015Bwiata. Jego kierowca Jenson Button zaj\u0105\u0142 1. miejsce w 6. wy\u015Bcigach Grand Prix i uzyska\u0142 tytu\u0142 mistrzowski, drugi kierowca Rubens Barrichello by\u0142 pierwszy w dw\u00F3ch wy\u015Bcigach i zaj\u0105\u0142 trzecie miejsce w klasyfikacji generalnej. Zesp\u00F3\u0142 zwyci\u0119\u017Cy\u0142 te\u017C w klasyfikacji konstruktor\u00F3w. 16 listopada 2009 poinformowano o wykupieniu przez sp\u00F3\u0142k\u0119 Daimler AG 75,1% akcji zespo\u0142u i przemianowaniu go na Mercedes Grand Prix."@pl ,
+		"Brawn GP Formula One Team, de handelsnaam van Brawn GP Limited, was een Brits Formule 1-team dat actief was in 2009. Het team werd opgericht op 6 maart 2009 nadat werd bevestigd dat Ross Brawn, de ex-teambaas van het Honda Racing F1 Team, het team had gekocht van Honda. Het team maakte zijn debuut op de Grand Prix van Australi\u00EB op 29 maart 2009. Op 16 november 2009 wordt bekend dat Mercedes-Benz de meerderheid van de aandelen overneemt van het Brawn team. Hiermee kwam een einde aan Brawn GP en ontstond Mercedes Grand Prix."@nl ,
+		"Das Brawn GP F1 Team ist ein ehemaliger britischer Formel-1-Rennstall. Er ging am 3. M\u00E4rz 2009 aus dem Honda Racing F1 Team hervor und nahm 2009 an der Formel-1-Weltmeisterschaft teil. \u00DCberraschend gewann das Team auf Anhieb die Fahrer- und Konstrukteursweltmeisterschaft. Nach der erfolgreichen Deb\u00FCtsaison wurde Brawn GP wiederum mehrheitlich von der Daimler AG \u00FCbernommen und trat 2010 unter dem Namen \u201EMercedes GP\u201C an."@de ,
+		"Brawn GP Formula One Team, formalmente Brawn GP Limited, fue una escuder\u00EDa brit\u00E1nica de F\u00F3rmula 1 que gan\u00F3 el Campeonato Mundial de Constructores de F\u00F3rmula 1 en 2009. Se form\u00F3 el 6 de marzo de 2009, despu\u00E9s de que se confirmase que Ross Brawn, hasta entonces director t\u00E9cnico de Honda Racing F1, hab\u00EDa comprado el equipo de F1 de Honda. Previamente, los ingenieros de Super Aguri se hab\u00EDan incorporado a este equipo, a ra\u00EDz de la retirada de la escuder\u00EDa japonesa de la F\u00F3rmula 1 en mayo de 2008."@es ,
+		"\u30D6\u30E9\u30A6\u30F3GP\uFF08Brawn GP\uFF09\u306F\u3001\u30A6\u30A3\u30EA\u30A2\u30E0\u30BA\u3001\u30A2\u30ED\u30A6\u30BA\u3001\u30D9\u30CD\u30C8\u30F3\u3001\u30B9\u30AF\u30FC\u30C7\u30EA\u30A2\u30FB\u30D5\u30A7\u30E9\u30FC\u30EA\u3001\u30DB\u30F3\u30C0\u306A\u3069\u3067\u6D3B\u8E8D\u3057\u305F\u30ED\u30B9\u30FB\u30D6\u30E9\u30A6\u30F3\u304C2009\u5E74\u306B\u8A2D\u7ACB\u3057\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30022009\u5E7411\u6708\u3001\u30E1\u30EB\u30BB\u30C7\u30B9\u306B\u8CB7\u53CE\u3055\u308C\u30E1\u30EB\u30BB\u30C7\u30B9GP\u3068\u306A\u3063\u305F\u3002 \u30C1\u30FC\u30E0\u540D\uFF08\u53CA\u3073\u30C1\u30FC\u30E0\u4EE3\u8868\uFF09\u306E\u300CBrawn\u300D\u306F\u3001\u65E5\u672C\u306E\u30E1\u30C7\u30A3\u30A2\u3067\u306F\u30D6\u30E9\u30A6\u30F3\u3068\u8868\u8A18\u3059\u308B\u306E\u304C\u4E00\u822C\u7684\u3060\u304C\u3001\u82F1\u8A9E\u3067\u306E\"aw\"\u306F\u767A\u97F3\u3092\u30AB\u30BF\u30AB\u30CA\u8868\u8A18\u3059\u308B\u3068\u300C\u30AA\u30FC\u300D\u3067\u3042\u308A\u3001\u30D6\u30ED\u30FC\u30F3\u306E\u65B9\u304C\u5B9F\u969B\u306E\u767A\u97F3\u306B\u8FD1\u3044\u3002\u307E\u305F\u3001\u4E00\u90E8\u306EF1\u96D1\u8A8C\u30FB\u8A18\u4E8B\uFF08\u300EF1 STINGER\u300F\uFF08\u30CD\u30B3\u30FB\u30D1\u30D6\u30EA\u30C3\u30B7\u30F3\u30B0\uFF09\u306A\u3069\uFF09\u3067\u300C\u30D6\u30ED\u30A6\u30F3GP\u300D\u3068\u3044\u3046\u8868\u8A18\u3082\u898B\u3089\u308C\u308B\u3002\u672C\u8A18\u4E8B\u3067\u306F\u4FBF\u5B9C\u4E0A\u3001\u4EE5\u4E0B\u65E5\u672C\u3067\u4E00\u822C\u7684\u306A\u300C\u30D6\u30E9\u30A6\u30F3GP\u300D\u306E\u8868\u8A18\u3067\u7D71\u4E00\u3059\u308B\u3002"@ja ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.05p8qly> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-fr:Brawn_GP_Formula_One_Team .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	yago-res:Brawn_GP .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-it:Brawn_GP ,
+		wikidata:Q17596 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-wikidata:Q17596 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-es:Brawn_GP .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-pt:Brawn_GP .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-id:Brawn_GP .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-nl:Brawn_GP .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-cs:Brawn_GP .
+@prefix dbpedia-el:	<http://el.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-el:Brawn_GP ,
+		<http://ja.dbpedia.org/resource/\u30D6\u30E9\u30A6\u30F3GP> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-pl:Brawn_GP ,
+		dbr:Brawn_GP ,
+		<http://ko.dbpedia.org/resource/\uBE0C\uB860_GP> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Brawn_GP	owl:sameAs	dbpedia-de:Brawn_GP .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Brawn_GP	dct:subject	dbc:Laureus_World_Sports_Awards_winners ,
+		dbc:Sport_in_Northamptonshire ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Brawn_GP	foaf:name	"Brawn GP Formula One Team"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Brawn_GP	geo:lat	"52.021945953369140625"^^xsd:float ;
+	geo:long	"-1.1449999809265136719"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Brawn_GP_logo.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Brawn_GP	foaf:isPrimaryTopicOf	wikipedia-en:Brawn_GP .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Brawn_GP	geo:geometry	"POINT(-1.1449999809265 52.021945953369)"^^virtrdf:Geometry .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Brawn_GP	dbp:races	17 ;
+	dbp:constructorName	"Brawn"^^xsd:string ;
+	dbp:founders	dbr:Ross_Brawn ;
+	dbp:debut	2009 ;
+	dbp:years	2010 ;
+	dbp:after	dbr:Red_Bull_Racing ,
+		dbr:Spain_national_football_team ;
+	dbp:wins	8 ;
+	dbp:consChamp	1 ;
+	dbp:drivers	"Rubens Barrichello"^^xsd:string ,
+		"Jenson Button"^^xsd:string ;
+	dbp:driversChamp	1 ;
+	dbp:fastestLaps	4 ;
+	dbp:poles	5 ;
+	dbp:shortName	"Brawn"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Brawn_GP	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Brawn_GP?oldid=738999954> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Brawn_GP	georss:point	"52.02194444444444 -1.145" ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/teams_and_drivers/teams/189/> ;
+	dbp:staff	dbr:Nick_Fry ,
+		dbr:Ross_Brawn ,
+		<http://dbpedia.org/resource/J\u00F6rg_Zander> ,
+		<http://dbpedia.org/resource/Lo\u00EFc_Bigois> ;
+	dbp:base	dbr:United_Kingdom ,
+		dbr:Northamptonshire ,
+		dbr:Brackley ;
+	dbp:before	dbr:China_at_the_2008_Summer_Olympics ,
+		dbr:Scuderia_Ferrari ;
+	dbp:engines	"Mercedes-Benz FO 108W"^^xsd:string ;
+	dbo:abstract	"Brawn GP Ltd. \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB. \u0421\u043E\u0437\u0434\u0430\u043D\u0430 6 \u043C\u0430\u0440\u0442\u0430 2009 \u0433\u043E\u0434\u0430 \u043F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E, \u043A\u0430\u043A \u044D\u0442\u043E \u043F\u043E\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043B \u0420\u043E\u0441\u0441 \u0411\u0440\u0430\u0443\u043D, \u0431\u044B\u0432\u0448\u0438\u0439 \u0431\u043E\u0441\u0441 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00ABHonda Racing\u00BB , \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043A\u0443\u043F\u0438\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0437\u0430 \u0441\u0438\u043C\u0432\u043E\u043B\u0438\u0447\u0435\u0441\u043A\u0443\u044E \u0446\u0435\u043D\u0443 \u0432 1 \u0434\u043E\u043B\u043B\u0430\u0440 \u0421\u0428\u0410 \u0443 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 \u00ABHonda\u00BB  \u0432 \u0441\u0432\u044F\u0437\u0438 \u0441 \u0443\u0445\u043E\u0434\u043E\u043C \u00AB\u0425\u043E\u043D\u0434\u044B\u00BB \u0438\u0437 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0432 \u0434\u0435\u043A\u0430\u0431\u0440\u0435 2008 \u0433\u043E\u0434\u0430. \u041D\u043E\u0432\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0441\u043E\u0432\u0435\u0440\u0448\u0438\u043B\u0430 \u0441\u0432\u043E\u0439 \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0439 \u0434\u0435\u0431\u044E\u0442 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 2009 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 29 \u043C\u0430\u0440\u0442\u0430 2009 \u0433\u043E\u0434\u0430, \u0432\u044B\u0438\u0433\u0440\u0430\u0432 \u0433\u043E\u043D\u043A\u0443 \u0438 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u0432 \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430 \u0441\u0432\u043E\u0438 \u0448\u0430\u0441\u0441\u0438 \u0438 \u0442\u0440\u0430\u043D\u0441\u043C\u0438\u0441\u0441\u0438\u044E, \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0443 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u0432\u0435\u043B\u0430 \u0435\u0449\u0451 \u0441 2008 \u0433\u043E\u0434\u0430, \u0430 \u043C\u043E\u0442\u043E\u0440\u044B \u043F\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0438\u0441\u044C \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439 \u00ABMercedes-Benz\u00BB. \u0413\u043E\u043D\u0449\u0438\u043A\u0430\u043C\u0438 \u00ABBrawn GP\u00BB \u0441\u0442\u0430\u043B\u0438 \u0431\u044B\u0432\u0448\u0438\u0435 \u0433\u043E\u043D\u0449\u0438\u043A\u0438 \u00ABHonda Racing\u00BB \u0414\u0436\u0435\u043D\u0441\u043E\u043D \u0411\u0430\u0442\u0442\u043E\u043D \u0438 \u0420\u0443\u0431\u0435\u043D\u0441 \u0411\u0430\u0440\u0440\u0438\u043A\u0435\u043B\u043B\u043E. 16 \u043D\u043E\u044F\u0431\u0440\u044F 2009 \u0433\u043E\u0434\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F \u00ABMercedes\u00BB \u043E\u0431\u044A\u044F\u0432\u0438\u043B\u0430 \u043E \u043F\u043E\u043A\u0443\u043F\u043A\u0435 75,1 % \u0430\u043A\u0446\u0438\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00ABBrawn GP.\u00BB \u0412 \u0441\u0435\u0437\u043E\u043D\u0435 2010 \u0433\u043E\u0434\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043F\u0440\u0435\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0430 \u0432 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u00ABMercedes-Benz\u00BB. \u0413\u043E\u043D\u0449\u0438\u043A\u0430\u043C\u0438 \u00ABMercedes GP\u00BB \u0441\u0442\u0430\u043B\u0438 \u041C\u0438\u0445\u0430\u044D\u043B\u044C \u0428\u0443\u043C\u0430\u0445\u0435\u0440 \u0438 \u041D\u0438\u043A\u043E \u0420\u043E\u0441\u0431\u0435\u0440\u0433."@ru ,
+		"\u5E03\u6717GP\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8ECA\u968A\uFF08\u82F1\u8BED\uFF1ABrawn GP Formula One Team\uFF09\u662F\u4E00\u652F\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u53C3\u8CFD\u8ECA\u968A\uFF0C\u7531\u524D\u672C\u7530\u8ECA\u968A\u7D93\u7406\u7F85\u65AF\u00B7\u5E03\u6717\uFF08\u4E5F\u66FE\u64D4\u4EFB\u904E\u6CD5\u62C9\u5229\u8ECA\u968A\u6280\u8853\u7E3D\u76E3\uFF09\u8CFC\u8CB7\u672C\u7530\u8ECA\u968A\u5F8C\u6539\u540D\uFF0C\u65BC2009\u5E743\u67086\u65E5\u6210\u7ACB\u30022009\u5E7411\u6708\u8D77\u7531\u4E8E\u6885\u8CFD\u5FB7\u65AF-\u5954\u9A70\u7684\u6536\u8D2D\u53D8\u66F4\u4E3A\u6885\u8D5B\u5FB7\u65AF\u5927\u5956\u8D5B\u8F66\u961F\u3002 \u8ECA\u624B\u9663\u5BB9\uFF1A \n*  22.\u8A79\u68EE\u00B7\u5DF4\u9813\uFF08\u82F1\u570B\uFF09 2008\u5E74\u6210\u7EE9\uFF1A\u5E74\u5EA6\u7B2C\u5341\u516B\u540D\uFF1B\u7E3D\u52063\u5206 \n*  23.\u9B6F\u672C\u65AF\u00B7\u5DF4\u91CC\u5207\u7F85\uFF08\u5DF4\u897F\uFF09 2008\u5E74\u6210\u7EE9\uFF1A\u5E74\u5EA6\u7B2C\u5341\u56DB\u540D\uFF1B\u7E3D\u520611\u5206 \u8A72\u968A\u4F7F\u7528\u6885\u585E\u5FB7\u65AF\u5F15\u64CE\uFF0C\u666E\u5229\u53F8\u901A\u8F2A\u80CE\u3002 \u7531\u65BC\u5E03\u6717F1\u8ECA\u968A\u5C6C\u65BC\u65B0\u6210\u8ECD\u8ECA\u968A\uFF0C\u56E0\u6B64\u5FC5\u9808\u5217\u5728\u6700\u5F8C\u9806\u4F4D\uFF0CFIA\u65BC\u662F\u5C07\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5169\u4F4D\u8ECA\u624B\u7684\u7DE8\u865F\u5F80\u524D\u79FB\u5230\u539F\u672C\u9810\u7559\u7D66\u672C\u7530\u8ECA\u968A\u768418\u300119\u865F\u4F4D\u7F6E\uFF0C\u800C\u5E03\u6717GP\u8ECA\u968A\u5247\u70BA20\u300121\u865F\u3002 \u4E0D\u904E\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5411FIA\u6295\u8A34\u8868\u793A\u8CFD\u5B63\u524D\u5DF2\u7D93\u4F9D\u64DA\u539F\u672C\u7684\u865F\u78BC\u5B8C\u6210\u5404\u9805\u92B7\u552E\u5546\u54C1\u8207\u5EE3\u544A\u7684\u6E96\u5099\uFF0C\u56E0\u6B64FIA\u540C\u610F\u6062\u5FA9\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u70BA20\u300121\u865F\uFF0C\u5E03\u6717F1\u8ECA\u968A\u905E\u5EF6\u70BA22\u300123\u865F\u3002 2009\u5E74\u8CFD\u5B63\uFF0C\u5E03\u6717\u8ECA\u968A\u5728\u5DF4\u897F\u7AD9\u63D0\u524D\u62FF\u4E0B2009\u5E74\u7684\u8ECA\u968A\u7E3D\u51A0\u8ECD\uFF0C\u5275\u4E0B\u65B0\u6210\u8ECD\u7B2C\u4E00\u5E74\u5C31\u62FF\u4E0B\u51A0\u8ECD\u7684\u9996\u4F8B\uFF0C\u9996\u5E2D\u8ECA\u624B\u8A79\u68EE\u00B7\u5DF4\u9813\u4E5F\u5728\u5DF4\u897F\u7AD9\u63D0\u524D\u62FF\u4E0B\u8ECA\u624B\u7E3D\u51A0\u8ECD\u3002 2009\u5E7411\u670817\u65E5\u8CD3\u58EB\u96C6\u5718\u5BA3\u5E03\u6536\u8CFC\u5E03\u6717GP\u8ECA\u968A75.1%\u7684\u80A1\u4EFD\u3002\u65B0\u8F66\u961F\u66F4\u540D\u4E3A\u6885\u8D5B\u5FB7\u65AF\u5927\u5956\u8D5B\u8F66\u961F\uFF08\u82F1\u8BED\uFF1AMercedes GP Petronas F1 Team\uFF09\u3002\u4ECE\u6B64\u4F5C\u4E3A\u201C\u5E03\u6717GP\u201D\u8FD9\u4E2A\u540D\u79F0\u5728\u53C2\u8D5B\u7B2C\u4E00\u8D5B\u5B63\u4FBF\u5F97\u5230\u53CC\u51A0\u4E4B\u540E\u9000\u51FA\u5386\u53F2\u821E\u53F0\u3002\u4F46\u7F57\u65AF\u00B7\u5E03\u6717\u4ECD\u5C06\u62C5\u4EFB\u8F66\u961F\u7684\u4E3B\u5E2D\u804C\u52A1\u3002"@zh ,
+		"Brawn GP Formula One Team, formalmente Brawn GP Limited, fue una escuder\u00EDa brit\u00E1nica de F\u00F3rmula 1 que gan\u00F3 el Campeonato Mundial de Constructores de F\u00F3rmula 1 en 2009. Se form\u00F3 el 6 de marzo de 2009, despu\u00E9s de que se confirmase que Ross Brawn, hasta entonces director t\u00E9cnico de Honda Racing F1, hab\u00EDa comprado el equipo de F1 de Honda. Previamente, los ingenieros de Super Aguri se hab\u00EDan incorporado a este equipo, a ra\u00EDz de la retirada de la escuder\u00EDa japonesa de la F\u00F3rmula 1 en mayo de 2008. Brawn GP hizo su debut en en el Gran Premio de Australia de 2009 con el ingl\u00E9s Jenson Button y el brasile\u00F1o Rubens Barrichello como pilotos. En aquella carrera sus pilotos consiguieron las dos primeras posiciones de clasificaci\u00F3n y de carrera. El equipo utiliz\u00F3 motores de Mercedes-Benz. Pese a las dificultades iniciales, el equipo consigui\u00F3 varios patrocinadores conforme avanzaba la temporada, incluyendo Virgin, MIG Investments, Henri Lloyd y PerkinElmer. Al finalizar la temporada, Brawn GP se hab\u00EDa convertido en el primer equipo de la historia de esta categor\u00EDa en conseguir el Campeonato Mundial de Constructores y el Campeonato Mundial de Pilotos en el mismo a\u00F1o de su debut. Jenson Button acab\u00F3 primero de la clasificaci\u00F3n de pilotos y Rubens Barrichello, tercero. El 16 de noviembre del 2009 la empresa alemana Mercedes-Benz, en colaboraci\u00F3n con Aabar Inversiones, anunci\u00F3 la compra del 75,1% del equipo Brawn GP, por lo cual pas\u00F3 a llamarse Mercedes GP, y convirtiendo a Brawn GP en la escuder\u00EDa con mejores estad\u00EDsticas de la historia de la F\u00F3rmula 1."@es ,
+		"Brawn GP Formula One Team, the trading name of Brawn GP Limited, was a Formula One world championship-winning motor racing team and constructor, created by a management buyout of Honda Racing F1 Team, but using a Mercedes engine. It only competed in the 2009 Formula One World Championship, with drivers Jenson Button and Rubens Barrichello. The team clinched that year's Constructors' Championship, and Button took the drivers' title. For 2010, the team again changed identity, becoming Mercedes GP. On its racing debut, the season-opening 2009 Australian Grand Prix, the team took pole position and 2nd place in qualifying and went on to finish first and second in the race. Button won six of the first seven races of the season and on 18 October at the Brazilian Grand Prix, he secured the 2009 Drivers' Championship and the team won the Constructors' Championship. Barrichello won twice and finished third in the Drivers' Championship. The team won eight of the season's seventeen races, and by winning both titles in its only year of competition became the first to achieve a 100% championship success rate. On 16 November 2009 it was confirmed that the team's engine supplier, Mercedes-Benz, in partnership with Aabar Investments had purchased a 75.1% stake in Brawn GP (Mercedes: 45.1%; Aabar: 30%), which was renamed Mercedes GP for the 2010 season."@en ,
+		"La Brawn GP Ltd. (nome completo Brawn Grand Prix Limited) \u00E8 stato un costruttore britannico di Formula 1, con sede a Brackley, nel Northamptonshire. Il team fu fondato il 6 marzo 2009, dalle ceneri della Honda Racing F1 Team, dopo che vi era stata la conferma che Ross Brawn, l'ex team manager della Ferrari, aveva perfezionato l'acquisto della scuderia stessa. Il 4 dicembre 2008 infatti, vi era stato l'annuncio da parte della casa giapponese dell'abbandono della Formula 1 e la messa in vendita della struttura. Nel 2009 ha conquistato entrambi i titoli di Formula 1, divenendo l'unica squadra, nella storia della Formula 1, ad aver vinto il titolo costruttori nell'anno del suo esordio (con l'eccezione dell'Alfa Romeo, che vinse il primo campionato di F1 della storia, dove tutti erano \"all'esordio\"). Il 16 novembre 2009 la Mercedes-Benz ha annunciato di avere acquistato la maggioranza della Brawn GP, che \u00E8 stata conseguentemente ridenominata Mercedes GP."@it ,
+		"Das Brawn GP F1 Team ist ein ehemaliger britischer Formel-1-Rennstall. Er ging am 3. M\u00E4rz 2009 aus dem Honda Racing F1 Team hervor und nahm 2009 an der Formel-1-Weltmeisterschaft teil. \u00DCberraschend gewann das Team auf Anhieb die Fahrer- und Konstrukteursweltmeisterschaft. Nach der erfolgreichen Deb\u00FCtsaison wurde Brawn GP wiederum mehrheitlich von der Daimler AG \u00FCbernommen und trat 2010 unter dem Namen \u201EMercedes GP\u201C an."@de ,
+		"Brawn GP Formula One Team foi uma equipe e construtora de F\u00F3rmula 1, criada no dia 6 de mar\u00E7o de 2009, liderada por Ross Brawn, antigo chefe de equipe da Honda Racing F1. A escuderia foi vendida \u00E0 Mercedes-Benz, sendo que o an\u00FAncio oficial deu-se \u00E0s 10h05 do dia 16 de novembro de 2009. A Brawn GP foi a equipe de crescimento mais mete\u00F3rico na hist\u00F3ria da F\u00F3rmula 1, sendo que na sua 1\u00AA e \u00FAnica temporada, alcan\u00E7ou o t\u00EDtulo de pilotos e o mundial de construtores. Teve como seus pilotos Jenson Button e Rubens Barrichello. Teve todo seu sucesso creditado a Ross Brawn, que assim, se tornou um grande nome na categoria levando uma equipe falida como a Honda F1, a equipe com o melhor aproveitamento em corridas da hist\u00F3ria da categoria, superior a 75% dos pontos disputados."@pt ,
+		"Brawn GP Formula One Team \u2013 by\u0142y brytyjski zesp\u00F3\u0142 i konstruktor Formu\u0142y 1 utworzony w 2009 r. przez Rossa Brawna na bazie Honda Racing F1. Zesp\u00F3\u0142 startowa\u0142 w sezonie 2009 mistrzostw \u015Bwiata. Jego kierowca Jenson Button zaj\u0105\u0142 1. miejsce w 6. wy\u015Bcigach Grand Prix i uzyska\u0142 tytu\u0142 mistrzowski, drugi kierowca Rubens Barrichello by\u0142 pierwszy w dw\u00F3ch wy\u015Bcigach i zaj\u0105\u0142 trzecie miejsce w klasyfikacji generalnej. Zesp\u00F3\u0142 zwyci\u0119\u017Cy\u0142 te\u017C w klasyfikacji konstruktor\u00F3w. 16 listopada 2009 poinformowano o wykupieniu przez sp\u00F3\u0142k\u0119 Daimler AG 75,1% akcji zespo\u0142u i przemianowaniu go na Mercedes Grand Prix."@pl ,
+		"Brawn GP Formula One Team, de handelsnaam van Brawn GP Limited, was een Brits Formule 1-team dat actief was in 2009. Het team werd opgericht op 6 maart 2009 nadat werd bevestigd dat Ross Brawn, de ex-teambaas van het Honda Racing F1 Team, het team had gekocht van Honda. Het team maakte zijn debuut op de Grand Prix van Australi\u00EB op 29 maart 2009. Op 16 november 2009 wordt bekend dat Mercedes-Benz de meerderheid van de aandelen overneemt van het Brawn team. Hiermee kwam een einde aan Brawn GP en ontstond Mercedes Grand Prix. Dit betekent dan ook dat Brawn GP het eerste debuterend team in de geschiedenis geworden is dat alle kampioenschappen gewonnen heeft waar het aan meedeed. Bovendien werd een indrukwekkende deelname / race overwinningsverhouding gehaald van 47,05% (8 van de 17 deelnames)."@nl ,
+		"\u30D6\u30E9\u30A6\u30F3GP\uFF08Brawn GP\uFF09\u306F\u3001\u30A6\u30A3\u30EA\u30A2\u30E0\u30BA\u3001\u30A2\u30ED\u30A6\u30BA\u3001\u30D9\u30CD\u30C8\u30F3\u3001\u30B9\u30AF\u30FC\u30C7\u30EA\u30A2\u30FB\u30D5\u30A7\u30E9\u30FC\u30EA\u3001\u30DB\u30F3\u30C0\u306A\u3069\u3067\u6D3B\u8E8D\u3057\u305F\u30ED\u30B9\u30FB\u30D6\u30E9\u30A6\u30F3\u304C2009\u5E74\u306B\u8A2D\u7ACB\u3057\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30022009\u5E7411\u6708\u3001\u30E1\u30EB\u30BB\u30C7\u30B9\u306B\u8CB7\u53CE\u3055\u308C\u30E1\u30EB\u30BB\u30C7\u30B9GP\u3068\u306A\u3063\u305F\u3002 \u30C1\u30FC\u30E0\u540D\uFF08\u53CA\u3073\u30C1\u30FC\u30E0\u4EE3\u8868\uFF09\u306E\u300CBrawn\u300D\u306F\u3001\u65E5\u672C\u306E\u30E1\u30C7\u30A3\u30A2\u3067\u306F\u30D6\u30E9\u30A6\u30F3\u3068\u8868\u8A18\u3059\u308B\u306E\u304C\u4E00\u822C\u7684\u3060\u304C\u3001\u82F1\u8A9E\u3067\u306E\"aw\"\u306F\u767A\u97F3\u3092\u30AB\u30BF\u30AB\u30CA\u8868\u8A18\u3059\u308B\u3068\u300C\u30AA\u30FC\u300D\u3067\u3042\u308A\u3001\u30D6\u30ED\u30FC\u30F3\u306E\u65B9\u304C\u5B9F\u969B\u306E\u767A\u97F3\u306B\u8FD1\u3044\u3002\u307E\u305F\u3001\u4E00\u90E8\u306EF1\u96D1\u8A8C\u30FB\u8A18\u4E8B\uFF08\u300EF1 STINGER\u300F\uFF08\u30CD\u30B3\u30FB\u30D1\u30D6\u30EA\u30C3\u30B7\u30F3\u30B0\uFF09\u306A\u3069\uFF09\u3067\u300C\u30D6\u30ED\u30A6\u30F3GP\u300D\u3068\u3044\u3046\u8868\u8A18\u3082\u898B\u3089\u308C\u308B\u3002\u672C\u8A18\u4E8B\u3067\u306F\u4FBF\u5B9C\u4E0A\u3001\u4EE5\u4E0B\u65E5\u672C\u3067\u4E00\u822C\u7684\u306A\u300C\u30D6\u30E9\u30A6\u30F3GP\u300D\u306E\u8868\u8A18\u3067\u7D71\u4E00\u3059\u308B\u3002"@ja ,
+		"Brawn GP Formula One Team ou plus simplement Brawn GP est une ancienne \u00E9curie de Formule 1 britannique cr\u00E9\u00E9e le 6 mars 2009 pour d\u00E9buter en comp\u00E9tition \u00E0 l'occasion du championnat du monde de Formule 1 2009 qu'elle a remport\u00E9 avec Jenson Button avant d'\u00EAtre rachet\u00E9e par Mercedes Grand Prix. Une seule saison, disput\u00E9e au sommet et couronn\u00E9e de succ\u00E8s, fait de Brawn GP un cas singulier dans l'histoire de la Formule 1. Bien qu'issue du rachat du Honda Racing F1 Team par son directeur technique Ross Brawn et quatre autres membres de l'\u00E9curie (Nick Fry, Nigel Kerr, Caroline McGrory et John Marsden) l'\u00E9quipe est cependant consid\u00E9r\u00E9e par la FIA comme une nouvelle \u00E9curie \u00E9tant donn\u00E9 que le contrat que la FIA poss\u00E9dait avec le constructeur japonais a \u00E9t\u00E9 rompu. La BGP 001, qui n'est que l'\u00E9volution de la Honda RA109, d\u00E9velopp\u00E9e durant l'hiver et dot\u00E9e de plusieurs solutions innovantes, est finalement propuls\u00E9e par un moteur Mercedes-Benz. Brawn GP effectue des d\u00E9buts historiques en Formule 1 en obtenant une victoire d\u00E8s sa premi\u00E8re course, avec Jenson Button au Grand Prix d'Australie \u00E0 Melbourne, et en remportant les deux titres mondiaux au bout d'une unique saison marqu\u00E9e par huit victoires (six pour Button et deux pour Rubens Barrichello). Jenson Button devient champion du monde 2009 \u00E0 l'issue du Grand Prix du Br\u00E9sil, le 18 octobre, tandis que l'\u00E9curie remporte le classement des constructeurs. Le 16 novembre 2009, Mercedes Benz, son motoriste, et Aabar Investments acqui\u00E8rent 75,1 % des parts de l'\u00E9curie 45,1 % pour Daimler, la maison m\u00E8re du constructeur Mercedes, et 30 % pour Aabar. L'\u00E9curie est rebaptis\u00E9e Mercedes Grand Prix et reprend le fil d'une histoire interrompue en 1955. Les 24,9 % restants sont acquis en f\u00E9vrier 2011, Daimler poss\u00E9dant 60 % du capital de l'\u00E9quipe et Aabar 40 %. En une seule saison de championnat du monde et dix-sept Grands Prix, l'\u00E9curie r\u00E9ussit la performance de remporter les titres de champions du monde des pilotes et des constructeurs, obtenir huit victoires, quinze podiums, cinq pole positions et quatre meilleurs tours en course. Avec un total de 172 points, sa moyenne s'\u00E9tablit \u00E0 10,12 points par Grand Prix. En 2010, Brawn GP re\u00E7oit le Laureus World Sports Awards de l'\u00E9quipe de l'ann\u00E9e."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Brawn_GP_logo.svg?width=300> ;
+	dbo:wikiPageRevisionID	738999954 ;
+	dbo:wikiPageID	21835217 ;
+	dbp:logo	225 ;
+	dbp:podiums	15 ;
+	dbp:previousName	dbr:Honda_in_Formula_One ;
+	dbp:nextName	dbr:Mercedes-Benz_in_Formula_One .
+@prefix ns31:	<http://purl.org/linguistics/gold/> .
+dbr:Brawn_GP	ns31:hypernym	dbr:Formula ;
+	dbp:title	dbr:Laureus_World_Sports_Award_for_Team_of_the_Year ,
+		<http://dbpedia.org/resource/List_of_Formula_One_World_Constructors\u0027_Champions> ;
+	dbp:lastRace	2009 .
+dbr:Honda_in_Formula_One	dbp:nextName	dbr:Brawn_GP .
+dbr:Brawn_gp	dbo:wikiPageRedirects	dbr:Brawn_GP .
+dbr:Brawn_Grand_Prix	dbo:wikiPageRedirects	dbr:Brawn_GP .
+dbr:Brawn-Mercedes	dbo:wikiPageRedirects	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Chinese_Grand_Prix>	dbo:fastestDriverTeam	dbr:Brawn_GP ;
+	dbo:thirdTeam	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Malaysian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Brawn_GP ;
+	dbo:poleDriverTeam	dbr:Brawn_GP ;
+	dbo:firstDriverTeam	dbr:Brawn_GP .
+dbr:Brawn_Mercedes	dbo:wikiPageRedirects	dbr:Brawn_GP .
+dbr:Brawn_GP_Formula_One_Team	dbo:wikiPageRedirects	dbr:Brawn_GP .
+wikipedia-en:Brawn_GP	foaf:primaryTopic	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Formula_One_season>	dbp:champions	dbr:Brawn_GP .
+<http://dbpedia.org/resource/Brawn_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Abu_Dhabi_Grand_Prix>	dbo:thirdTeam	dbr:Brawn_GP .
+dbr:Red_Bull_Racing	dbp:before	dbr:Brawn_GP .
+dbr:Mercedes-Benz_in_Formula_One	dbp:previousName	dbr:Brawn_GP .
+dbr:Scuderia_Ferrari	dbp:after	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_British_Grand_Prix>	dbo:thirdTeam	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Spanish_Grand_Prix>	dbo:fastestDriverTeam	dbr:Brawn_GP ;
+	dbo:poleDriverTeam	dbr:Brawn_GP ;
+	dbo:secondTeam	dbr:Brawn_GP ;
+	dbo:firstDriverTeam	dbr:Brawn_GP .
+dbr:Brawn_BGP_001	dbp:team	dbr:Brawn_GP ;
+	dbp:constructor	dbr:Brawn_GP ;
+	dbp:gearboxName	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Turkish_Grand_Prix>	dbo:fastestDriverTeam	dbr:Brawn_GP ;
+	dbo:firstDriverTeam	dbr:Brawn_GP .
+<http://dbpedia.org/resource/2009_Bahrain_Grand_Prix>	dbo:firstDriverTeam	dbr:Brawn_GP .
+dbr:Brawngp	dbo:wikiPageRedirects	dbr:Brawn_GP .

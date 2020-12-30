@@ -1,0 +1,249 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__18__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__19__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__35__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_1000km_of_Brands_Hatch__P3.0__2>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_1000km_of_Monza__6__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__5__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Circuit_de_Charade	dbp:recordTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1968_French_Grand_Prix>	dbo:thirdTeam	dbr:Equipe_Matra_Sports .
+dbr:Matra_MS80	dbp:constructor	dbr:Equipe_Matra_Sports .
+dbr:Matra_MS10	dbp:constructor	dbr:Equipe_Matra_Sports .
+dbr:Matra_MS84	dbp:constructor	dbr:Equipe_Matra_Sports .
+dbr:Matra_MS9	dbp:constructor	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__4__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+dbr:Circuit_de_Spa-Francorchamps	dbp:recordTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1971_BRDC_International_Trophy>	dbo:poleDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1967_International_Gold_Cup>	dbo:secondTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1968_International_Gold_Cup>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_Race_of_Champions>	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1968_Deutschland_Troph\u00E4e>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:poleDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:secondTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1968_German_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_German_Grand_Prix>	dbo:secondTeam	dbr:Equipe_Matra_Sports .
+dbr:Chris_Amon	<http://dbpedia.org/property/team(s)_>	dbr:Equipe_Matra_Sports .
+dbr:Matra_MS620	dbp:team	dbr:Equipe_Matra_Sports ;
+	dbp:constructor	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_International_Gold_Cup>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:poleDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1974_24_Hours_of_Le_Mans__1__1>	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1974_24_Hours_of_Le_Mans__33__1>	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1974_24_Hours_of_Le_Mans__34__1>	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1974_24_Hours_of_Le_Mans__3__1>	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__25__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_Belgian_Grand_Prix>	dbo:thirdTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1972_Belgian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1968_Italian_Grand_Prix>	dbo:secondTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_Italian_Grand_Prix>	dbo:thirdTeam	dbr:Equipe_Matra_Sports ;
+	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1971_Italian_Grand_Prix>	dbo:poleDriverTeam	dbr:Equipe_Matra_Sports .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Equipe_Matra_Sports	rdf:type	wikidata:Q43229 ,
+		dbo:FormulaOneTeam ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Equipe_Matra_Sports	rdf:type	owl:Thing ,
+		dbo:Organisation .
+@prefix schema:	<http://schema.org/> .
+dbr:Equipe_Matra_Sports	rdf:type	schema:Organization .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Equipe_Matra_Sports	rdf:type	ns7:Agent ,
+		dbo:SportsTeam ,
+		schema:SportsTeam ,
+		ns7:SocialPerson ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Equipe_Matra_Sports	rdfs:label	"Equipe Matra Sports"@en ,
+		"Matra Sports"@de ,
+		"\u041C\u0430\u0442\u0440\u0430 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Matra Sports"@nl ,
+		"\u30DE\u30C8\u30E9 (\u81EA\u52D5\u8ECA)"@ja ,
+		"Matra Sports"@fr ,
+		"Matra Sports"@pl ;
+	rdfs:comment	"Matra Sports was een Frans constructeur van sportwagens en Formule-1-racewagens, onderdeel van het Franse conglomeraat Matra. Ze waren actief als autoproducent en in de racerij vanaf het moment dat de failliete boedel van Ren\u00E9 Bonnet werd overgenomen in 1964, tot ze zich terugtrokken uit de racerij in 1974. Hierna was Matra tot 2003 nog actief als onafhankelijk autoproducent Matra Automobile."@nl ,
+		"\u30DE\u30C8\u30E9\u30FB\u30AA\u30C8\u30E2\u30D3\u30EB\uFF08Matra Automobile \uFF09\u306F\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30D5\u30E9\u30F3\u30B9\u306E\u81EA\u52D5\u8ECA\u30E1\u30FC\u30AB\u30FC\u3002"@ja ,
+		"Matra Sports war ein im Automobilsport engagiertes Tochterunternehmen des franz\u00F6sischen R\u00FCstungskonzerns Matra. Das Unternehmen konstruierte und baute eigene Rennwagen und Motoren, die in verschiedenen nationalen und internationalen Motorsportklassen eingesetzt wurden. In den meisten Klassen unterhielt Matra ein eigenes Werksteam; teilweise wurden auch andere Teams mit Chassis bzw. Motoren beliefert. Besonders erfolgreich war Matra in der Formel 1: Als Chassislieferant des britischen Teams Tyrrell gewann Matra 1969 die Fahrer- und die Konstrukteursweltmeisterschaft. Im Langstreckensport gewann Matra dreimal in Folge das 24-Stunden-Rennen von Le Mans."@de ,
+		"Matra Company\u00B4s sports division under the name of Matra Sports, Equipe Matra Elf and Equipe Matra Sports (after a takeover by Simca in 1969 as Matra-Simca Division Automobile) was formed in 1965 and based at Champagne-sur-Seine (1965\u20131967), Romorantin-Lanthenay (1967\u20131969) and V\u00E9lizy-Villacoublay (1969\u20131979). In 1979 the sports division was taken over by Peugeot and renamed as Automobiles Talbot. Matra entered Formula One in 1968 when Jackie Stewart was a serious contender, winning several Grands Prix in the Tyrrell-run Matra MS10 which competed alongside the works team."@en ,
+		"Matra Sports est la branche sportive du constructeur automobile fran\u00E7ais Matra Automobiles (propri\u00E9t\u00E9 du groupe industriel Matra), impliqu\u00E9e en comp\u00E9tition en Formule 1, Formule 2, Formule 3 et Sport-Prototypes dans les ann\u00E9es 1960 et 1970."@fr ,
+		"Matra Sports \u2013 oddzia\u0142 francuskiej firmy Matra, odpowiedzialny za sporty motorowe i funkcjonuj\u0105cy w latach 1964\u20131974. Samochody Matra odnosi\u0142y sukcesy w takich seriach wy\u015Bcigowych, jak 24h Le Mans, Formu\u0142a 3, Formu\u0142a 2 czy Formu\u0142a 1, zdobywaj\u0105c w tej ostatniej w sezonie 1969 mistrzostwo konstruktor\u00F3w oraz za spraw\u0105 Jackiego Stewarta kierowc\u00F3w."@pl ,
+		"Matra (\u0430\u043A\u0440\u043E\u043D\u0438\u043C \u0444\u0440. M\u00E9canique Avion TRAction) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0430\u044F \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 \u043C\u0430\u0440\u0430\u0444\u043E\u043D\u0435 \u043D\u0430 \u0432\u044B\u043D\u043E\u0441\u043B\u0438\u0432\u043E\u0441\u0442\u044C \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B\u0430 \u0432 1966 \u0433\u043E\u0434\u0443, \u043F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E, \u043A\u0430\u043A \u0432 1965 \u0433\u043E\u0434\u0443, \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u0430\u044F \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Matra (\u0442\u043E\u0433\u0434\u0430 \u043E\u0434\u0438\u043D \u0438\u0437 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u0435\u0439 \u0430\u0432\u0438\u0430\u043A\u043E\u0441\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0438 \u0432\u043E\u043E\u0440\u0443\u0436\u0435\u043D\u0438\u044F) \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u043B\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044E Rene Bonnet (\u00AB\u0420\u0435\u043D\u044D \u0411\u043E\u043D\u043D\u044D\u00BB) \u0434\u043B\u044F \u0432\u044B\u043F\u0443\u0441\u043A\u0430 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0438 \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 Matra \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1967 \u2014 1972 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. Matra-Ford \u2014 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043A\u0443\u0431\u043A\u0430 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u0432 1969 \u0433\u043E\u0434\u0430 \u0432\u043C\u0435\u0441\u0442\u0435 \u0441 \u0414\u0436\u0435\u043A\u0438 \u0421\u0442\u044E\u0430\u0440\u0442\u043E\u043C."@ru ;
+	dbp:drivers	"Henri Pescarolo"^^xsd:string ,
+		"Jean-Pierre Beltoise"^^xsd:string ,
+		"Jackie Stewart"^^xsd:string ,
+		"Johnny Servoz-Gavin"^^xsd:string ,
+		"Chris Amon"^^xsd:string .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Equipe_Matra_Sports	owl:sameAs	dbpedia-nl:Matra_Sports ,
+		<http://rdf.freebase.com/ns/m.0kxyj> ,
+		dbr:Equipe_Matra_Sports .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Equipe_Matra_Sports	owl:sameAs	dbpedia-wikidata:Q844092 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Equipe_Matra_Sports	owl:sameAs	dbpedia-pl:Matra_Sports ,
+		wikidata:Q844092 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Equipe_Matra_Sports	owl:sameAs	dbpedia-de:Matra_Sports .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Equipe_Matra_Sports	owl:sameAs	dbpedia-fr:Matra_Sports ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30C8\u30E9_(\u81EA\u52D5\u8ECA)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Equipe_Matra_Sports	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_teams> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Equipe_Matra_Sports	dct:subject	dbc:World_Sportscar_Championship_teams ,
+		dbc:French_Formula_3_teams ,
+		dbc:Formula_Two_constructors ,
+		dbc:Formula_Two_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:French_racecar_constructors ,
+		dbc:French_auto_racing_teams .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Equipe_Matra_Sports	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/StewartJackie19690801MatraFord.jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Equipe_Matra_Sports	foaf:isPrimaryTopicOf	wikipedia-en:Equipe_Matra_Sports ;
+	dbp:consChamp	1 ;
+	dbp:driversChamp	1 ;
+	dbp:title	<http://dbpedia.org/resource/List_of_Formula_One_World_Constructors\u0027_Champions> ;
+	dbp:principal	<http://dbpedia.org/resource/Jean-Luc_Lagard\u00E8re> ;
+	dbp:style	"float:right;clear:none"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Equipe_Matra_Sports	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Equipe_Matra_Sports?oldid=696625568> ;
+	dbp:before	dbr:Team_Lotus ;
+	dbp:after	dbr:Team_Lotus ;
+	dbp:founders	"Marcel Chassagny"^^xsd:string ,
+		<http://dbpedia.org/resource/Jean-Luc_Lagard\u00E8re> ;
+	dbp:logo	<http://dbpedia.org/resource/File:Matra_Sports.gif> ;
+	dbp:fastestLaps	12 ;
+	dbp:poles	4 ;
+	dbp:base	"V\u00E9lizy-Villacoublay, Paris, France"^^xsd:string ;
+	dbp:debut	1967 ;
+	dbo:wikiPageExternalLink	<http://www.epaf.fr> ,
+		<http://www.matrasport.dk/> ;
+	dbo:soundRecording	dbr:Equipe_Matra_Sports__1 ;
+	dbo:abstract	"\u30DE\u30C8\u30E9\u30FB\u30AA\u30C8\u30E2\u30D3\u30EB\uFF08Matra Automobile \uFF09\u306F\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30D5\u30E9\u30F3\u30B9\u306E\u81EA\u52D5\u8ECA\u30E1\u30FC\u30AB\u30FC\u3002"@ja ,
+		"Matra Sports war ein im Automobilsport engagiertes Tochterunternehmen des franz\u00F6sischen R\u00FCstungskonzerns Matra. Das Unternehmen konstruierte und baute eigene Rennwagen und Motoren, die in verschiedenen nationalen und internationalen Motorsportklassen eingesetzt wurden. In den meisten Klassen unterhielt Matra ein eigenes Werksteam; teilweise wurden auch andere Teams mit Chassis bzw. Motoren beliefert. Besonders erfolgreich war Matra in der Formel 1: Als Chassislieferant des britischen Teams Tyrrell gewann Matra 1969 die Fahrer- und die Konstrukteursweltmeisterschaft. Im Langstreckensport gewann Matra dreimal in Folge das 24-Stunden-Rennen von Le Mans."@de ,
+		"Matra Sports \u2013 oddzia\u0142 francuskiej firmy Matra, odpowiedzialny za sporty motorowe i funkcjonuj\u0105cy w latach 1964\u20131974. Samochody Matra odnosi\u0142y sukcesy w takich seriach wy\u015Bcigowych, jak 24h Le Mans, Formu\u0142a 3, Formu\u0142a 2 czy Formu\u0142a 1, zdobywaj\u0105c w tej ostatniej w sezonie 1969 mistrzostwo konstruktor\u00F3w oraz za spraw\u0105 Jackiego Stewarta kierowc\u00F3w."@pl ,
+		"Matra Sports est la branche sportive du constructeur automobile fran\u00E7ais Matra Automobiles (propri\u00E9t\u00E9 du groupe industriel Matra), impliqu\u00E9e en comp\u00E9tition en Formule 1, Formule 2, Formule 3 et Sport-Prototypes dans les ann\u00E9es 1960 et 1970."@fr ,
+		"Matra Company\u00B4s sports division under the name of Matra Sports, Equipe Matra Elf and Equipe Matra Sports (after a takeover by Simca in 1969 as Matra-Simca Division Automobile) was formed in 1965 and based at Champagne-sur-Seine (1965\u20131967), Romorantin-Lanthenay (1967\u20131969) and V\u00E9lizy-Villacoublay (1969\u20131979). In 1979 the sports division was taken over by Peugeot and renamed as Automobiles Talbot. In the mid-1960s, Matra enjoyed considerable success in Formula 3 and F2 racing, particularly with the MS5 monocoque-based car, winning the French and European championships. In 1967, Jacky Ickx surprised the F1 establishment by posting the third-fastest qualifying time of 8:14\" at the German N\u00FCrburgring in his 1600cc Matra MS7 F2, which was allowed to enter alongside the 3000cc F1 cars. In the race, he failed to finish due to a broken suspension. Matra entered Formula One in 1968 when Jackie Stewart was a serious contender, winning several Grands Prix in the Tyrrell-run Matra MS10 which competed alongside the works team. The F1 team was established at V\u00E9lizy-Villacoublay in the southwestern suburbs of Paris, France. The car's most innovative feature was the use of aviation-inspired structural fuel tanks. These allowed the chassis to be around 15 kg (33 lb) lighter, while still being stronger than its competitors. The FIA considered the technology to be unsafe and decided to ban it for 1970. Matra CEO Jean-Luc Lagard\u00E8re made a strategic decision for the 1969 championship: the Matra works team would not compete in Formula One. Matra would instead focus its efforts on Ken Tyrrell\u00B4s team (renamed Matra International) and build a new DFV powered car with structural fuel tanks, even though it would only be eligible for a single season. The decision was even more radical given that Matra was seeking a partnership with Simca, which would preclude using Ford-branded engines for the following year. Stewart won the 1969 title easily with the new Cosworth-powered Matra MS80, which was designed by G\u00E9rard Ducarouge and Bernard Boyer, and corrected most of the weaknesses of the MS10. It was a spectacular achievement from a constructor that had only entered Formula One the previous year. France became only the third country (after the United Kingdom and Italy) to have produced a winning constructor, and Matra became the only constructor to have won the Constructors' Championship without running its own works team. Like Cosworth, Lotus and McLaren, Matra experimented with four wheel drive during the 1969 season. Johnny Servoz-Gavin became the one and only driver to score a point with a 4WD car, finishing sixth with the Matra MS84 at the Canadian Grand Prix. The MS84, along with Brabham's BT26A, was one of the last spaceframe cars to compete in Formula One. For 1970 following the agreement with Simca, Matra asked Tyrrell to use their V12 engine rather than the Cosworth. Stewart got to test the Matra V12, but since a large part of the Tyrrell budget was provided by Ford, and another significant sponsor was French state-owned petroleum company Elf, which had an agreement with Renault that precluded supporting a Simca partner, the partnership between Matra and Tyrrell ended. Matra V12 engines powered the Shadow DN7 car in two races of 1975 and then the Ligier Formula 1 team from 1976\u20131978, and again from 1981-1982 (branded as Talbot). The firm was also successful in endurance racing with cars powered by the V12 engine. The sportscar team was based at first at V\u00E9lizy-Villacoublay and then moved to Le Castellet, near Marseille, France. The Matra MS670 won the 24 Hours of Le Mans in 1972, 1973, and 1974. It also delivered the World Championship for Makes to Matra in both 1973 and 1974."@en ,
+		"Matra (\u0430\u043A\u0440\u043E\u043D\u0438\u043C \u0444\u0440. M\u00E9canique Avion TRAction) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0430\u044F \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 \u043C\u0430\u0440\u0430\u0444\u043E\u043D\u0435 \u043D\u0430 \u0432\u044B\u043D\u043E\u0441\u043B\u0438\u0432\u043E\u0441\u0442\u044C \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B\u0430 \u0432 1966 \u0433\u043E\u0434\u0443, \u043F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E, \u043A\u0430\u043A \u0432 1965 \u0433\u043E\u0434\u0443, \u043E\u0434\u043D\u043E\u0438\u043C\u0451\u043D\u043D\u0430\u044F \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Matra (\u0442\u043E\u0433\u0434\u0430 \u043E\u0434\u0438\u043D \u0438\u0437 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u0435\u0439 \u0430\u0432\u0438\u0430\u043A\u043E\u0441\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0438 \u0432\u043E\u043E\u0440\u0443\u0436\u0435\u043D\u0438\u044F) \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u043B\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044E Rene Bonnet (\u00AB\u0420\u0435\u043D\u044D \u0411\u043E\u043D\u043D\u044D\u00BB) \u0434\u043B\u044F \u0432\u044B\u043F\u0443\u0441\u043A\u0430 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0438 \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 Matra \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1967 \u2014 1972 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. Matra-Ford \u2014 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043A\u0443\u0431\u043A\u0430 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u0432 1969 \u0433\u043E\u0434\u0430 \u0432\u043C\u0435\u0441\u0442\u0435 \u0441 \u0414\u0436\u0435\u043A\u0438 \u0421\u0442\u044E\u0430\u0440\u0442\u043E\u043C."@ru ,
+		"Matra Sports was een Frans constructeur van sportwagens en Formule-1-racewagens, onderdeel van het Franse conglomeraat Matra. Ze waren actief als autoproducent en in de racerij vanaf het moment dat de failliete boedel van Ren\u00E9 Bonnet werd overgenomen in 1964, tot ze zich terugtrokken uit de racerij in 1974. Hierna was Matra tot 2003 nog actief als onafhankelijk autoproducent Matra Automobile."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/StewartJackie19690801MatraFord.jpg?width=300> ;
+	dbo:wikiPageRevisionID	696625568 ;
+	dbo:wikiPageID	41433258 ;
+	dbp:races	61 ;
+	dbp:name	"Equipe Matra Sports"^^xsd:string ;
+	dbp:wins	9 ;
+	dbp:staff	"Bernard Boyer"^^xsd:string ,
+		<http://dbpedia.org/resource/G\u00E9rard_Ducarouge> ,
+		dbr:Ken_Tyrrell ;
+	dbp:lastRace	1972 .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__29__1>	dbo:team	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__43__1>	dbo:team	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__39__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__7__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+wikipedia-en:Equipe_Matra_Sports	foaf:primaryTopic	dbr:Equipe_Matra_Sports .
+dbr:Jackie_Stewart	<http://dbpedia.org/property/team(s)_>	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_French_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:poleDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:secondTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1972_French_Grand_Prix>	dbo:thirdTeam	dbr:Equipe_Matra_Sports ;
+	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:poleDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_British_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/G\u00E9rard_Ducarouge>	dbo:knownFor	dbr:Equipe_Matra_Sports .
+dbr:Jean-Pierre_Beltoise	<http://dbpedia.org/property/team(s)_>	dbr:Equipe_Matra_Sports .
+dbr:Equipe_Ligier	dbp:engines	dbr:Equipe_Matra_Sports .
+dbr:Jo_Schlesser	<http://dbpedia.org/property/team(s)_>	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_Formula_One_season>	dbp:champions	dbr:Equipe_Matra_Sports .
+dbr:Formula_One_engines__1__1	dbo:team	dbr:Equipe_Matra_Sports .
+dbr:Formula_One_engines__2__1	dbo:team	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__2__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_South_African_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+dbr:Johnny_Servoz-Gavin	<http://dbpedia.org/property/team(s)_>	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/Derek_Gardner_(designer)>	dbo:knownFor	dbr:Equipe_Matra_Sports .
+dbr:Formula_One_engines__5__1	dbo:team	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__5__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__12__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+dbr:Tyrrell_Racing	dbp:constructors	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1968_United_States_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+dbr:Matra_MS11	dbp:team	dbr:Equipe_Matra_Sports ;
+	dbp:constructor	dbr:Equipe_Matra_Sports .
+dbr:Matra_MS120	dbp:team	dbr:Equipe_Matra_Sports ;
+	dbp:constructor	dbr:Equipe_Matra_Sports ;
+	dbp:engineName	dbr:Equipe_Matra_Sports .
+dbr:Matra_MS5	dbp:team	dbr:Equipe_Matra_Sports ;
+	dbp:constructor	dbr:Equipe_Matra_Sports .
+dbr:Matra_MS7	dbp:team	dbr:Equipe_Matra_Sports ;
+	dbp:constructor	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__19__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__55__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1971_Argentine_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1968_Spanish_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_Spanish_Grand_Prix>	dbo:thirdTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1971_Spanish_Grand_Prix>	dbo:thirdTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_Italian_Grand_Prix>	dbo:thirdTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_Monaco_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:poleDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__46__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1968_Dutch_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:secondTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_Dutch_Grand_Prix>	dbo:fastestDriverTeam	dbr:Equipe_Matra_Sports ;
+	dbo:firstDriverTeam	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__37__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__20__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__3__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+dbr:Team_Lotus	dbp:before	dbr:Equipe_Matra_Sports ;
+	dbp:after	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__1__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__1__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_Can-Am_season__16=__2>	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1969_Can-Am_season__28=__2>	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__10__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__36__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_1000km_of_Brands_Hatch__12__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+<http://dbpedia.org/resource/1970_1000km_of_Monza__5__1>	dbo:team	dbr:Equipe_Matra_Sports ;
+	dbo:manufacturer	dbr:Equipe_Matra_Sports .
+dbr:Equipe_Matra	dbo:wikiPageRedirects	dbr:Equipe_Matra_Sports .
+dbr:Equipe_Matra-Sports	dbo:wikiPageRedirects	dbr:Equipe_Matra_Sports .
+dbr:Matra_Sports	dbo:wikiPageRedirects	dbr:Equipe_Matra_Sports .
+dbr:Matra_Sports_SARL	dbo:wikiPageRedirects	dbr:Equipe_Matra_Sports .

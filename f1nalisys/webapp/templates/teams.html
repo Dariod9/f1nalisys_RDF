@@ -1,18 +1,24 @@
 {% extends "base2.html" %}
 {% block content %}
-            {#    <h1>Teams</h1>#}
-            {#    <div class="row row-cols-1 row-cols-md-2">#}
-            {#    {% for name, natio in teams.items %}#}
-            {#        <div class="col mb-4">#}
-            {#            <div class="card">#}
-            {#              <div class="card-body">#}
-            {#                <h5 class="card-title"> {{ name }}</h5>#}
-            {#                <p class="card-text"> {{ natio }}</p>#}
-            {#              </div>#}
-            {#            </div>#}
-            {#        </div>#}
-            {#    {% endfor %}#}
-            {#    </div>#}
-
-            {{ html | safe }}
+<h2>Teams</h2>
+    <div class="row row-cols-1 row-cols-md-2">
+        {% for i in info %}
+            <div class="col mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <a target="_blank" style="color:rgb(255,0,0);" href="{{ i.link }}">
+                                {{ i.nome }}
+                            </a>
+                        </h5>
+                        <p class="card-text">
+                            races: {{ i.races }};
+                            wins: {{ i.wins }};
+                            poles: {{ i.poles }};
+                        </p>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
 {% endblock %}

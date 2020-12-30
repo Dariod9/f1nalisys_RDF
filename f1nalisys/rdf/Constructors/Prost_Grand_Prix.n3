@@ -1,0 +1,175 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Prost_AP04	dbp:team	dbr:Prost_Grand_Prix ;
+	dbp:constructor	dbr:Prost_Grand_Prix .
+dbr:Prost_AP03	dbp:team	dbr:Prost_Grand_Prix ;
+	dbp:constructor	dbr:Prost_Grand_Prix .
+dbr:Prost_AP01	dbp:team	dbr:Prost_Grand_Prix ;
+	dbp:constructor	dbr:Prost_Grand_Prix .
+dbr:Prost_AP02	dbp:team	dbr:Prost_Grand_Prix ;
+	dbp:constructor	dbr:Prost_Grand_Prix .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1997_Brazilian_Grand_Prix>	dbo:thirdTeam	dbr:Prost_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Prost_Grand_Prix	foaf:primaryTopic	dbr:Prost_Grand_Prix .
+<http://dbpedia.org/resource/Tom\u00E1\u0161_Enge>	<http://dbpedia.org/property/team(s)_>	dbr:Prost_Grand_Prix .
+<http://dbpedia.org/resource/Prost_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Prost_Grand_Prix .
+<http://dbpedia.org/resource/Prost_(racing_team)>	dbo:wikiPageRedirects	dbr:Prost_Grand_Prix .
+dbr:Prost_Junior_Team	dbo:wikiPageRedirects	dbr:Prost_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Prost_Grand_Prix	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Prost_Grand_Prix	rdf:type	schema:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Prost_Grand_Prix	rdf:type	yago:WikicatFormulaThreeTeams ,
+		schema:Organization ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dbo:Agent ,
+		yago:WikicatFrenchRacecarConstructors ,
+		yago:Unit108189659 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Prost_Grand_Prix	rdf:type	wikidata:Q24229398 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Prost_Grand_Prix	rdf:type	ns10:SocialPerson ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		ns10:Agent ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		yago:Abstraction100002137 ,
+		dbo:Organisation ,
+		yago:Organism100004475 ,
+		wikidata:Q43229 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Prost_Grand_Prix	rdf:type	geo:SpatialThing ,
+		yago:CausalAgent100007347 ,
+		dbo:SportsTeam ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Team108208560 ,
+		dbo:FormulaOneTeam ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Prost_Grand_Prix	rdfs:label	"Prost Grand Prix"@es ,
+		"Prost Grand Prix"@nl ,
+		"Prost Grand Prix"@en ,
+		"Prost Grand Prix"@pl ,
+		"\u041F\u0440\u043E\u0441\u0442 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Prost Grand Prix"@de ,
+		"Prost Grand Prix"@it ,
+		"\u30D7\u30ED\u30B9\u30C8\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"Prost Grand Prix"@fr ,
+		"Prost Grand Prix"@pt ;
+	rdfs:comment	"Prost Grand Prix est une ancienne \u00E9curie de Formule 1 fran\u00E7aise et un ancien constructeur, fond\u00E9s et dirig\u00E9s par Alain Prost de 1997 (apr\u00E8s le rachat de Ligier) jusqu'\u00E0 la faillite de l'entreprise en fin d'ann\u00E9e 2001. Prost Grand Prix a disput\u00E9 83 Grands Prix de Formule 1 et inscrit 35 points au championnat du monde des constructeurs. Les Prost ont \u00E9galement d\u00E9croch\u00E9 3 podiums et parcouru 37 tours (soit 160 km) en t\u00EAte de Grands Prix."@fr ,
+		"Prost Grand Prix was een Formule 1-team van de oud-coureur Alain Prost. Het team heeft aan slechts vijf seizoenen deelgenomen, tussen 1997 en 2001. Tijdens de eerste jaren (1997 - 1999) kon het team nog goed meedoen in de punten. De jaren daarna (2000, 2001) had het team moeite om sponsors te vinden en punten te scoren, en vocht het achterin met de teams van Arrows en Minardi"@nl ,
+		"\u041F\u0440\u043E\u0441\u0442 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 (\u0444\u0440. Prost Grand Prix) \u0431\u044B\u043B\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u0432\u043E\u0437\u0433\u043B\u0430\u0432\u043B\u044F\u043B \u0431\u044B\u0432\u0448\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u0410\u043B\u0435\u043D \u041F\u0440\u043E\u0441\u0442. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0432 \u043F\u044F\u0442\u0438 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 \u0441 1997 \u043F\u043E 2001 \u0433\u043E\u0434\u044B \u0432\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E."@ru ,
+		"Prost Grand Prix \u2013 by\u0142y zesp\u00F3\u0142 Formu\u0142y 1, za\u0142o\u017Cony przez jej by\u0142ego czterokrotnego mistrza Alaina Prosta i uczestnicz\u0105cy w niej w sezonach 1997\u20132001. Na pocz\u0105tku roku 1997 Alain Prost postanowi\u0142 wystawi\u0107 w\u0142asny zesp\u00F3\u0142 w Formule 1. W tym celu zakupi\u0142 utytu\u0142owany, ale bankrutuj\u0105cy team Ligier i zmieni\u0142 nazw\u0119 zespo\u0142u na Prost Grand Prix. Od sezonu 1998 team mia\u0142 je\u017Adzi\u0107 z silnikami Peugeot (mimo \u017Ce silniki tej firmy zawodzi\u0142y w McLarenach w sezonie 1994), ale na sezon 1997 postanowiono, \u017Ce zesp\u00F3\u0142 skorzysta z silnik\u00F3w Mugen, na kt\u00F3rych wcze\u015Bniej je\u017Adzi\u0142 Ligier. W charakterze kierowc\u00F3w postanowiono zaanga\u017Cowa\u0107 Oliviera Panisa i Shinjiego Nakano."@pl ,
+		"A Prost Grand Prix Racing Team foi uma equipe francesa de automobilismo que competiu no campeonato da F\u00F3rmula 1 e era de propriedade do ex-piloto Alain Prost, tetracampe\u00E3o mundial de F\u00F3rmula 1. Participou de cinco temporadas entre 1997 e 2001. Sua sede ficava em Guyancourt, nos arredores de Paris."@pt ,
+		"Alain Prost Grand Prix fue un equipo franc\u00E9s de F\u00F3rmula 1 dirigido por el ex campe\u00F3n Alain Prost. Alain Prost adquiri\u00F3 el equipo Ligier a principios de 1997, cambi\u00E1ndole el nombre a Prost Grand Prix. El equipo particip\u00F3 en las competiciones de F\u00F3rmula 1 entre 1997 y 2001 teniendo como mejor resultado un 2\u00B0 puesto en el Gran Premio de Europa de 1999. El equipo logr\u00F3 algunas buenas actuaciones, en particular, gracias al piloto Olivier Panis y logr\u00F3 un convenio para utilizar los motores producidos por Peugeot, pero esto no fue suficiente para llevarlo a los primeros puestos y a principios de 2002 el equipo debi\u00F3 cerrar sus puertas despu\u00E9s de que una corte lo declarara en quiebra.Tras esto, hubo intentos de un grupo empresario DART de utilizar sus coches en la temporada 2002, pero la FIA los r"@es ,
+		"Prost Grand Prix ist ein ehemaliges franz\u00F6sisches Formel-1-Team (1997\u20132001), das nach seinem Mehrheitsbesitzer Alain Prost benannt war. Der viermalige Formel-1-Weltmeister hatte 1996 das franz\u00F6sische Traditionsteam Ligier \u00FCbernommen und auf seinen eigenen Namen getauft. Prost managte sein Team selbst."@de ,
+		"\u30D7\u30ED\u30B9\u30C8\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA (Prost Grand Prix) \u3068\u306F\u30011997\u5E74\u304B\u30892001\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u305F\u30D5\u30E9\u30F3\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u540C\u3058\u30D5\u30E9\u30F3\u30B9\u306E\u30EA\u30B8\u30A7\u3092\u8CB7\u53CE\u3057\u3066\u8A95\u751F\u3057\u305F\u3002\u5275\u8A2D\u8005\u517C\u30AA\u30FC\u30CA\u30FC\u306F\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30A2\u30E9\u30F3\u30FB\u30D7\u30ED\u30B9\u30C8\u3002"@ja ,
+		"La Prost Grand Prix \u00E8 stata una scuderia di Formula 1 fondata e gestita dal gi\u00E0 quattro volte campione del mondo Alain Prost. Dopo aver rilevato il materiale della scuderia Ligier, la squadra ha iniziato la sua attivit\u00E0 con un buon 6\u00BA posto nel 1997 grazie ad Olivier Panis, che conquista ben due podi, per poi perdere posizioni sulla \"griglia\" ed avviarsi al fallimento, avvenuto alla fine della stagione 2001 dopo 83 corse senza vittorie."@it ,
+		"Prost Grand Prix was a Formula One racing team owned and managed by former world champion Alain Prost. The team participated in five seasons from 1997 to 2001."@en ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30D7\u30ED\u30B9\u30C8\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-fr:Prost_Grand_Prix .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-pt:Prost_Grand_Prix .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-es:Prost_Grand_Prix .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q173110 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-cs:Prost_Grand_Prix ,
+		<http://rdf.freebase.com/ns/m.016w9n> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-id:Prost_Grand_Prix .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-de:Prost_Grand_Prix .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-it:Prost_Grand_Prix .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	yago-res:Prost_Junior_Team ,
+		wikidata:Q173110 ,
+		dbr:Prost_Grand_Prix ,
+		<http://el.dbpedia.org/resource/\u03A0\u03C1\u03BF\u03C3\u03C4_\u0393\u03BA\u03C1\u03B1\u03BD-\u03A0\u03C1\u03B9> ,
+		yago-res:Prost_Grand_Prix .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-nl:Prost_Grand_Prix .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Prost_Grand_Prix	owl:sameAs	dbpedia-pl:Prost_Grand_Prix .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Prost_Grand_Prix	dct:subject	dbc:French_auto_racing_teams ,
+		dbc:French_racecar_constructors ,
+		dbc:Companies_disestablished_in_2002 ,
+		dbc:Companies_established_in_1997 ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ;
+	foaf:name	"Prost Grand Prix"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Prost_Grand_Prix	geo:lat	"48.783611297607421875"^^xsd:float ;
+	geo:long	"2.0672221183776855469"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Olivier_Panis_1998.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Prost_Grand_Prix .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Prost_Grand_Prix	geo:geometry	"POINT(2.0672221183777 48.783611297607)"^^virtrdf:Geometry ;
+	dbp:races	83 ;
+	dbp:founders	dbr:Alain_Prost ;
+	dbp:debut	1997 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Jarno Trulli"^^xsd:string ,
+		"Jean Alesi"^^xsd:string ,
+		"Olivier Panis"^^xsd:string ,
+		"Heinz-Harald Frentzen"^^xsd:string ,
+		"Nick Heidfeld"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:shortName	"Prost"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Prost_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Prost_Grand_Prix?oldid=736951248> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Prost_Grand_Prix	georss:point	"48.783611111111114 2.067222222222222" ;
+	dbo:wikiPageExternalLink	<http://www.funof1.com.ar/tx/mk199701014_eng_lnco_.htm> ;
+	dbp:staff	dbr:Bernard_Dudot ,
+		<http://dbpedia.org/resource/Lo\u00EFc_Bigois> ,
+		dbr:John_Barnard ;
+	dbp:base	dbr:Paris ,
+		dbr:France ,
+		dbr:Guyancourt ;
+	dbo:abstract	"A Prost Grand Prix Racing Team foi uma equipe francesa de automobilismo que competiu no campeonato da F\u00F3rmula 1 e era de propriedade do ex-piloto Alain Prost, tetracampe\u00E3o mundial de F\u00F3rmula 1. Participou de cinco temporadas entre 1997 e 2001. Sua sede ficava em Guyancourt, nos arredores de Paris."@pt ,
+		"Prost Grand Prix was a Formula One racing team owned and managed by former world champion Alain Prost. The team participated in five seasons from 1997 to 2001."@en ,
+		"Alain Prost Grand Prix fue un equipo franc\u00E9s de F\u00F3rmula 1 dirigido por el ex campe\u00F3n Alain Prost. Alain Prost adquiri\u00F3 el equipo Ligier a principios de 1997, cambi\u00E1ndole el nombre a Prost Grand Prix. El equipo particip\u00F3 en las competiciones de F\u00F3rmula 1 entre 1997 y 2001 teniendo como mejor resultado un 2\u00B0 puesto en el Gran Premio de Europa de 1999. El equipo logr\u00F3 algunas buenas actuaciones, en particular, gracias al piloto Olivier Panis y logr\u00F3 un convenio para utilizar los motores producidos por Peugeot, pero esto no fue suficiente para llevarlo a los primeros puestos y a principios de 2002 el equipo debi\u00F3 cerrar sus puertas despu\u00E9s de que una corte lo declarara en quiebra.Tras esto, hubo intentos de un grupo empresario DART de utilizar sus coches en la temporada 2002, pero la FIA los rechaz\u00F3 finalmente."@es ,
+		"Prost Grand Prix \u2013 by\u0142y zesp\u00F3\u0142 Formu\u0142y 1, za\u0142o\u017Cony przez jej by\u0142ego czterokrotnego mistrza Alaina Prosta i uczestnicz\u0105cy w niej w sezonach 1997\u20132001. Na pocz\u0105tku roku 1997 Alain Prost postanowi\u0142 wystawi\u0107 w\u0142asny zesp\u00F3\u0142 w Formule 1. W tym celu zakupi\u0142 utytu\u0142owany, ale bankrutuj\u0105cy team Ligier i zmieni\u0142 nazw\u0119 zespo\u0142u na Prost Grand Prix. Od sezonu 1998 team mia\u0142 je\u017Adzi\u0107 z silnikami Peugeot (mimo \u017Ce silniki tej firmy zawodzi\u0142y w McLarenach w sezonie 1994), ale na sezon 1997 postanowiono, \u017Ce zesp\u00F3\u0142 skorzysta z silnik\u00F3w Mugen, na kt\u00F3rych wcze\u015Bniej je\u017Adzi\u0142 Ligier. W charakterze kierowc\u00F3w postanowiono zaanga\u017Cowa\u0107 Oliviera Panisa i Shinjiego Nakano."@pl ,
+		"\u041F\u0440\u043E\u0441\u0442 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 (\u0444\u0440. Prost Grand Prix) \u0431\u044B\u043B\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u0432\u043E\u0437\u0433\u043B\u0430\u0432\u043B\u044F\u043B \u0431\u044B\u0432\u0448\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u0410\u043B\u0435\u043D \u041F\u0440\u043E\u0441\u0442. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0432 \u043F\u044F\u0442\u0438 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 \u0441 1997 \u043F\u043E 2001 \u0433\u043E\u0434\u044B \u0432\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E."@ru ,
+		"\u30D7\u30ED\u30B9\u30C8\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA (Prost Grand Prix) \u3068\u306F\u30011997\u5E74\u304B\u30892001\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u305F\u30D5\u30E9\u30F3\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u540C\u3058\u30D5\u30E9\u30F3\u30B9\u306E\u30EA\u30B8\u30A7\u3092\u8CB7\u53CE\u3057\u3066\u8A95\u751F\u3057\u305F\u3002\u5275\u8A2D\u8005\u517C\u30AA\u30FC\u30CA\u30FC\u306F\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30A2\u30E9\u30F3\u30FB\u30D7\u30ED\u30B9\u30C8\u3002"@ja ,
+		"Prost Grand Prix was een Formule 1-team van de oud-coureur Alain Prost. Het team heeft aan slechts vijf seizoenen deelgenomen, tussen 1997 en 2001. Tijdens de eerste jaren (1997 - 1999) kon het team nog goed meedoen in de punten. De jaren daarna (2000, 2001) had het team moeite om sponsors te vinden en punten te scoren, en vocht het achterin met de teams van Arrows en Minardi"@nl ,
+		"Prost Grand Prix ist ein ehemaliges franz\u00F6sisches Formel-1-Team (1997\u20132001), das nach seinem Mehrheitsbesitzer Alain Prost benannt war. Der viermalige Formel-1-Weltmeister hatte 1996 das franz\u00F6sische Traditionsteam Ligier \u00FCbernommen und auf seinen eigenen Namen getauft. Prost managte sein Team selbst."@de ,
+		"Prost Grand Prix est une ancienne \u00E9curie de Formule 1 fran\u00E7aise et un ancien constructeur, fond\u00E9s et dirig\u00E9s par Alain Prost de 1997 (apr\u00E8s le rachat de Ligier) jusqu'\u00E0 la faillite de l'entreprise en fin d'ann\u00E9e 2001. Prost Grand Prix a disput\u00E9 83 Grands Prix de Formule 1 et inscrit 35 points au championnat du monde des constructeurs. Les Prost ont \u00E9galement d\u00E9croch\u00E9 3 podiums et parcouru 37 tours (soit 160 km) en t\u00EAte de Grands Prix."@fr ,
+		"La Prost Grand Prix \u00E8 stata una scuderia di Formula 1 fondata e gestita dal gi\u00E0 quattro volte campione del mondo Alain Prost. Dopo aver rilevato il materiale della scuderia Ligier, la squadra ha iniziato la sua attivit\u00E0 con un buon 6\u00BA posto nel 1997 grazie ad Olivier Panis, che conquista ben due podi, per poi perdere posizioni sulla \"griglia\" ed avviarsi al fallimento, avvenuto alla fine della stagione 2001 dopo 83 corse senza vittorie."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Olivier_Panis_1998.jpg?width=300> ;
+	dbo:wikiPageRevisionID	736951248 ;
+	dbo:wikiPageID	26060604 ;
+	dbp:logo	<http://dbpedia.org/resource/File:Prost_logo.png> ;
+	dbp:podiums	3 ;
+	dbp:previousName	dbr:Equipe_Ligier .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Prost_Grand_Prix	ns30:hypernym	dbr:Formula ;
+	dbp:lastRace	2001 .
+dbr:Equipe_Ligier	dbp:nextName	dbr:Prost_Grand_Prix .
+dbr:Luciano_Burti	<http://dbpedia.org/property/team(s)_>	dbr:Prost_Grand_Prix .
+dbr:Heinz-Harald_Frentzen	<http://dbpedia.org/property/team(s)_>	dbr:Prost_Grand_Prix .
+dbr:Prost_JS45	dbp:team	dbr:Prost_Grand_Prix ;
+	dbp:constructor	dbr:Prost_Grand_Prix .
+dbr:Prost_GP	dbo:wikiPageRedirects	dbr:Prost_Grand_Prix .

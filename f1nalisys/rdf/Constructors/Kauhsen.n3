@@ -1,0 +1,108 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Kauhsen	foaf:primaryTopic	dbr:Kauhsen .
+dbr:Gianfranco_Brancatelli	<http://dbpedia.org/property/team(s)_>	dbr:Kauhsen .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1972_Can-Am_season__26=__3>	dbo:team	dbr:Kauhsen ;
+	dbo:firstDriver	dbr:Kauhsen .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Kauhsen	rdf:type	wikidata:Q43229 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Kauhsen	rdf:type	owl:Thing ,
+		dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Kauhsen	rdf:type	yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Kauhsen	rdf:type	schema:SportsTeam ,
+		schema:Organization ,
+		dbo:Organisation .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Kauhsen	rdf:type	ns9:SocialPerson ,
+		yago:Builder109878275 ,
+		yago:WikicatFormulaTwoConstructors ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		wikidata:Q24229398 ,
+		ns9:Agent ,
+		dbo:FormulaOneTeam ,
+		yago:Organism100004475 ,
+		yago:WikicatGermanRacecarConstructors ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		dbo:SportsTeam ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Kauhsen	rdfs:label	"Kauhsen"@pt ,
+		"Willi Kauhsen Racing Team"@de ,
+		"Kauhsen"@pl ,
+		"Willi Kauhsen Racing Team"@it ,
+		"Kauhsen"@en ,
+		"\u041A\u0430\u0443\u0437\u0435\u043D (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ;
+	rdfs:comment	"\u041A\u0430\u0443\u0437\u0435\u043D (Kauhsen) - \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 1979 \u0433\u043E\u0434\u0430 \u0432\u0441\u0435\u0433\u043E \u0432 \u0434\u0432\u0443\u0445 \u0433\u043E\u043D\u043A\u0430\u0445. \u041E\u0431\u0430 \u0440\u0430\u0437\u0430 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0414\u0436\u0430\u043D\u0444\u0440\u0430\u043D\u043A\u043E \u0411\u0440\u0430\u043D\u043A\u0430\u0442\u0435\u043B\u043B\u0438 \u043D\u0435 \u0441\u043C\u043E\u0433 \u043F\u0440\u043E\u0439\u0442\u0438 \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044E."@ru ,
+		"Kauhsen was a Formula One constructor from Germany, founded by former sportscar driver Willi Kauhsen. The team started in Formula Two in 1976, purchasing Renault cars, and raced with an assortment of drivers with limited success. Kauhsen then entered the 1979 Formula One season, spending 1978 designing their own chassis with Cosworth engines. They participated in two World Championship Grands Prix with Gianfranco Brancatelli, failing to qualify on both occasions, before the team was shut down."@en ,
+		"La Willi Kauhsen Racing Team (WKRT) fu una scuderia automobilistica tedesca, nata nel 1971, che corse fino al 1979. Fondata da Willi Kauhsen partecip\u00F2 a varie categorie, tra cui l'Interserie e la Formula 2, fino a quando, nel 1979, si iscrisse al mondiale di Formula 1. Tent\u00F2 la qualificazione a due Gran Premi, fallendo per\u00F2 sempre."@it ,
+		"Kauhsen foi uma equipe alem\u00E3 de automobilismo, fundada por Willi Kauhsen, inscrita para 2 Grandes Pr\u00EAmios na temporada de 1979 da F\u00F3rmula 1, sem obter classifica\u00E7\u00E3o para nenhum deles."@pt ,
+		"Das Willi Kauhsen Racing Team war ein deutsches Motorsportteam, das zwischen 1972 und 1979 in der Interserie, der Sportwagen-Weltmeisterschaft, der Formel 2 und kurzzeitig sogar in der Formel 1 mit eigenen Fahrzeugen an den Start ging."@de ,
+		"Willi Kauhsen Racing Team \u2013 by\u0142y niemiecki zesp\u00F3\u0142 wy\u015Bcigowy za\u0142o\u017Cony przez Williego Kauhsena w 1971 roku. Zesp\u00F3\u0142 uczestniczy\u0142 w takich seriach jak Interserie, Mistrzostwa \u015Awiata Samochod\u00F3w Sportowych czy Formu\u0142a 2. W 1979 zesp\u00F3\u0142 wzi\u0105\u0142 udzia\u0142 w dw\u00F3ch Grand Prix Formu\u0142y 1, do kt\u00F3rych si\u0119 nie zakwalifikowa\u0142 i po kt\u00F3rych zosta\u0142 rozwi\u0105zany."@pl ;
+	owl:sameAs	dbr:Kauhsen ,
+		wikidata:Q172541 ,
+		<http://rdf.freebase.com/ns/m.04n6hq> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Kauhsen	owl:sameAs	dbpedia-pt:Kauhsen .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Kauhsen	owl:sameAs	dbpedia-it:Willi_Kauhsen_Racing_Team .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Kauhsen	owl:sameAs	yago-res:Kauhsen .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Kauhsen	owl:sameAs	dbpedia-wikidata:Q172541 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Kauhsen	owl:sameAs	dbpedia-pl:Kauhsen .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Kauhsen	owl:sameAs	dbpedia-de:Willi_Kauhsen_Racing_Team .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Kauhsen	dct:subject	dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:German_auto_racing_teams ,
+		dbc:World_Sportscar_Championship_teams ,
+		dbc:German_racecar_constructors ,
+		dbc:Formula_Two_entrants ;
+	foaf:name	"Willi Kauhsen Racing Team"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/PescaroloKauhsen1975.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Kauhsen .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Kauhsen	dbp:races	2 ;
+	dbp:founders	"Willi Kauhsen"^^xsd:string ;
+	dbp:debut	1979 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Gianfranco Brancatelli"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:shortName	"Kauhsen"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Kauhsen	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Kauhsen?oldid=724792980> ;
+	dbp:staff	"Klaus Kapitza"^^xsd:string ;
+	dbp:base	dbr:Eschweiler ,
+		dbr:Germany ;
+	dbo:abstract	"Willi Kauhsen Racing Team \u2013 by\u0142y niemiecki zesp\u00F3\u0142 wy\u015Bcigowy za\u0142o\u017Cony przez Williego Kauhsena w 1971 roku. Zesp\u00F3\u0142 uczestniczy\u0142 w takich seriach jak Interserie, Mistrzostwa \u015Awiata Samochod\u00F3w Sportowych czy Formu\u0142a 2. W 1979 zesp\u00F3\u0142 wzi\u0105\u0142 udzia\u0142 w dw\u00F3ch Grand Prix Formu\u0142y 1, do kt\u00F3rych si\u0119 nie zakwalifikowa\u0142 i po kt\u00F3rych zosta\u0142 rozwi\u0105zany."@pl ,
+		"Das Willi Kauhsen Racing Team war ein deutsches Motorsportteam, das zwischen 1972 und 1979 in der Interserie, der Sportwagen-Weltmeisterschaft, der Formel 2 und kurzzeitig sogar in der Formel 1 mit eigenen Fahrzeugen an den Start ging."@de ,
+		"Kauhsen foi uma equipe alem\u00E3 de automobilismo, fundada por Willi Kauhsen, inscrita para 2 Grandes Pr\u00EAmios na temporada de 1979 da F\u00F3rmula 1, sem obter classifica\u00E7\u00E3o para nenhum deles."@pt ,
+		"Kauhsen was a Formula One constructor from Germany, founded by former sportscar driver Willi Kauhsen. The team started in Formula Two in 1976, purchasing Renault cars, and raced with an assortment of drivers with limited success. Kauhsen then entered the 1979 Formula One season, spending 1978 designing their own chassis with Cosworth engines. They participated in two World Championship Grands Prix with Gianfranco Brancatelli, failing to qualify on both occasions, before the team was shut down."@en ,
+		"La Willi Kauhsen Racing Team (WKRT) fu una scuderia automobilistica tedesca, nata nel 1971, che corse fino al 1979. Fondata da Willi Kauhsen partecip\u00F2 a varie categorie, tra cui l'Interserie e la Formula 2, fino a quando, nel 1979, si iscrisse al mondiale di Formula 1. Tent\u00F2 la qualificazione a due Gran Premi, fallendo per\u00F2 sempre."@it ,
+		"\u041A\u0430\u0443\u0437\u0435\u043D (Kauhsen) - \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 1979 \u0433\u043E\u0434\u0430 \u0432\u0441\u0435\u0433\u043E \u0432 \u0434\u0432\u0443\u0445 \u0433\u043E\u043D\u043A\u0430\u0445. \u041E\u0431\u0430 \u0440\u0430\u0437\u0430 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0414\u0436\u0430\u043D\u0444\u0440\u0430\u043D\u043A\u043E \u0411\u0440\u0430\u043D\u043A\u0430\u0442\u0435\u043B\u043B\u0438 \u043D\u0435 \u0441\u043C\u043E\u0433 \u043F\u0440\u043E\u0439\u0442\u0438 \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044E."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/PescaroloKauhsen1975.jpg?width=300> ;
+	dbo:wikiPageRevisionID	724792980 ;
+	dbo:wikiPageID	1262602 .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Kauhsen	ns21:hypernym	dbr:Constructor ;
+	dbp:lastRace	1979 .
+dbr:Willi_Kauhsen_Racing_Team	dbo:wikiPageRedirects	dbr:Kauhsen .

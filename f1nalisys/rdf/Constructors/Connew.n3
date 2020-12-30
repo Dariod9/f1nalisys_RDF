@@ -1,0 +1,114 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Connew	foaf:primaryTopic	dbr:Connew .
+<http://dbpedia.org/resource/Fran\u00E7ois_Migault>	<http://dbpedia.org/property/team(s)_>	dbr:Connew .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Surtees_TS7	dbp:designer	dbr:Connew .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Connew	rdf:type	wikidata:Q43229 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Connew	rdf:type	yago:Whole100003553 ,
+		yago:LivingThing100004258 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Connew	rdf:type	ns7:Agent ,
+		yago:CausalAgent100007347 .
+@prefix schema:	<http://schema.org/> .
+dbr:Connew	rdf:type	schema:Organization ,
+		yago:Organism100004475 ,
+		ns7:SocialPerson ,
+		schema:SportsTeam .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Connew	rdf:type	dbo:Agent ,
+		dbo:SportsTeam ,
+		wikidata:Q24229398 ,
+		dbo:FormulaOneTeam ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Connew	rdf:type	owl:Thing ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		yago:WikicatBritishRacecarConstructors ,
+		dbo:Organisation ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Contractor109960891 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Connew	rdfs:label	"Connew Racing Team"@fr ,
+		"Connew"@pt ,
+		"Connew"@pl ,
+		"Connew"@en ,
+		"Connew"@it ;
+	rdfs:comment	"Connew Racing Team foi uma equipe inglesa de F\u00F3rmula 1. Construiu apenas um carro na categoria, o PC01, e disputou apenas uma corrida na categoria, GP da \u00C1ustria de 1972, com o piloto franc\u00EAs Fran\u00E7ois Migault."@pt ,
+		"Connew Racing Team, commonly known as Connew /\u02C8k\u0252nju\u02D0/, was a short lived British Formula One constructor. Founded in 1971 by Peter Connew, the team constructed a single car, the PC1. The first monococque had to be aborted due to a change in regulations and the second tub was known as PC2. However, record books show the car driven by Migault and others as PC1. The intent was to compete in the Formula One World Championship in 1972, but a lack of financial and technical resources meant that the car only managed to start in one championship race, the 1972 Austrian Grand Prix, with French driver Fran\u00E7ois Migault at the wheel. Following the Austrian race, the car competed in a handful of non-championship races before being converted to meet Formula 5000 specifications for the 1973 season. The "@en ,
+		"Darnval Connew Racing Team \u2014 plus commun\u00E9ment appel\u00E9e Connew \u2014 \u00E9tait une \u00E9ph\u00E9m\u00E8re \u00E9curie anglaise artisanale fond\u00E9e en 1971 par Peter Connew. Cette \u00E9curie a construit son propre ch\u00E2ssis de Formule 1, la Connew PC1, destin\u00E9 \u00E0 \u00EAtre engag\u00E9 en championnat du monde en 1972. Faute de moyens financiers et techniques, la PC1 n'a r\u00E9ussi \u00E0 prendre qu'un seul d\u00E9part en championnat du monde, \u00E0 l'occasion du Grand Prix d'Autriche avec le pilote fran\u00E7ais Fran\u00E7ois Migault \u00E0 son volant. \u00C0 l'issue de cette course o\u00F9 sa monoplace abandonne apr\u00E8s une vingtaine de tours, Peter Connew renonce \u00E0 poursuivre en championnat du monde et s'engage sur quelques \u00E9preuves hors-championnat du monde, sans succ\u00E8s. La monoplace est alors convertie en Formule 5000 mais le manque de r\u00E9sultats conduit l'\u00E9curie \u00E0 fermer d\u00E9finit"@fr ,
+		"Connew, pe\u0142na nazwa Connew Racing Team lub Darnvall Connew Racing Team \u2013 brytyjski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1972 roku."@pl ,
+		"La Connew \u00E8 stata una societ\u00E0 costruttrice britannica di auto di Formula 1. Fondata da Peter Connew, ex progettista della Surtees, rappresent\u00F2 un tipico esempio di produzione artigianale della Formula 1 dell'epoca."@it ;
+	dbp:drivers	"David Purley"^^xsd:string ,
+		"Fran\u00E7ois Migault"^^xsd:string .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Connew	owl:sameAs	dbpedia-fr:Connew_Racing_Team ,
+		<http://rdf.freebase.com/ns/m.04kpc4> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Connew	owl:sameAs	dbpedia-it:Connew .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Connew	owl:sameAs	yago-res:Connew ,
+		dbr:Connew .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Connew	owl:sameAs	dbpedia-wikidata:Q586041 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Connew	owl:sameAs	dbpedia-pt:Connew .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Connew	owl:sameAs	dbpedia-id:Connew ,
+		wikidata:Q586041 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Connew	owl:sameAs	dbpedia-pl:Connew .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Connew	dct:subject	<http://dbpedia.org/resource/Category:1973_disestablishments_in_the_United_Kingdom> ,
+		<http://dbpedia.org/resource/Category:1972_establishments_in_the_United_Kingdom> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Connew	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ;
+	foaf:name	"Connew Racing Team"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Connew ;
+	dbp:shortName	"Connew"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Connew	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Connew?oldid=738938738> ;
+	dbp:founders	"Peter Connew"^^xsd:string ;
+	dbp:logo	<http://dbpedia.org/resource/File:Connew.png> ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Chadwell Heath, UK"^^xsd:string ;
+	dbp:engines	dbr:Cosworth_DFV ;
+	dbp:debut	1972 ;
+	dbo:wikiPageExternalLink	<http://www.oldracingcars.com/f5000/races.php> .
+@prefix ns22:	<http://archive.motorsportmagazine.com/article/august-1986/26/> .
+dbr:Connew	dbo:wikiPageExternalLink	ns22:story-connew-gp-car ,
+		<http://www.oldracingcars.com/results/result.php?RaceID=R572> ,
+		<http://62.149.36.46/~bruce/cgi-bin/story1.htm> ,
+		<http://www.oldracingcars.com/results/result.php?RaceID=VR72> ,
+		<http://www.forix.com/8w/connew.html> ,
+		<http://www.youtube.com/watch?v=boZlncP1PKY> ,
+		<http://www.formula1.com/results/season/1972/> ;
+	dbo:abstract	"La Connew \u00E8 stata una societ\u00E0 costruttrice britannica di auto di Formula 1. Fondata da Peter Connew, ex progettista della Surtees, rappresent\u00F2 un tipico esempio di produzione artigianale della Formula 1 dell'epoca."@it ,
+		"Darnval Connew Racing Team \u2014 plus commun\u00E9ment appel\u00E9e Connew \u2014 \u00E9tait une \u00E9ph\u00E9m\u00E8re \u00E9curie anglaise artisanale fond\u00E9e en 1971 par Peter Connew. Cette \u00E9curie a construit son propre ch\u00E2ssis de Formule 1, la Connew PC1, destin\u00E9 \u00E0 \u00EAtre engag\u00E9 en championnat du monde en 1972. Faute de moyens financiers et techniques, la PC1 n'a r\u00E9ussi \u00E0 prendre qu'un seul d\u00E9part en championnat du monde, \u00E0 l'occasion du Grand Prix d'Autriche avec le pilote fran\u00E7ais Fran\u00E7ois Migault \u00E0 son volant. \u00C0 l'issue de cette course o\u00F9 sa monoplace abandonne apr\u00E8s une vingtaine de tours, Peter Connew renonce \u00E0 poursuivre en championnat du monde et s'engage sur quelques \u00E9preuves hors-championnat du monde, sans succ\u00E8s. La monoplace est alors convertie en Formule 5000 mais le manque de r\u00E9sultats conduit l'\u00E9curie \u00E0 fermer d\u00E9finitivement ses portes \u00E0 la fin de l'ann\u00E9e 1974."@fr ,
+		"Connew, pe\u0142na nazwa Connew Racing Team lub Darnvall Connew Racing Team \u2013 brytyjski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1972 roku."@pl ,
+		"Connew Racing Team, commonly known as Connew /\u02C8k\u0252nju\u02D0/, was a short lived British Formula One constructor. Founded in 1971 by Peter Connew, the team constructed a single car, the PC1. The first monococque had to be aborted due to a change in regulations and the second tub was known as PC2. However, record books show the car driven by Migault and others as PC1. The intent was to compete in the Formula One World Championship in 1972, but a lack of financial and technical resources meant that the car only managed to start in one championship race, the 1972 Austrian Grand Prix, with French driver Fran\u00E7ois Migault at the wheel. Following the Austrian race, the car competed in a handful of non-championship races before being converted to meet Formula 5000 specifications for the 1973 season. The chassis was damaged beyond repair during the season finale at Brands Hatch and the team closed."@en ,
+		"Connew Racing Team foi uma equipe inglesa de F\u00F3rmula 1. Construiu apenas um carro na categoria, o PC01, e disputou apenas uma corrida na categoria, GP da \u00C1ustria de 1972, com o piloto franc\u00EAs Fran\u00E7ois Migault."@pt ;
+	dbo:wikiPageRevisionID	738938738 ;
+	dbo:wikiPageID	1233382 ;
+	dbp:races	2 ;
+	dbp:source	"Stuart Turner, Competition Manager for Ford."^^xsd:string ;
+	dbp:wins	0 ;
+	dbp:staff	"Roger Doran"^^xsd:string ,
+		"Barry Boor"^^xsd:string ;
+	dbp:quote	"His car proves you can build a Formula One car by sweat alone, and makes you wonder about some of the astronomic development costs you hear the Establishment quoting!\""^^xsd:string ;
+	dbp:width	24 ;
+	dbp:lastRace	1972 .
+dbr:Connew_PC1	dbo:wikiPageRedirects	dbr:Connew .

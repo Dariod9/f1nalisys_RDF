@@ -1,0 +1,184 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2009_Japanese_Grand_Prix>	dbo:secondTeam	dbr:Toyota_Racing .
+<http://dbpedia.org/resource/2005_Japanese_Grand_Prix>	dbo:poleDriverTeam	dbr:Toyota_Racing .
+<http://dbpedia.org/resource/2008_Hungarian_Grand_Prix>	dbo:secondTeam	dbr:Toyota_Racing .
+<http://dbpedia.org/resource/2009_European_Grand_Prix>	dbo:fastestDriverTeam	dbr:Toyota_Racing .
+<http://dbpedia.org/resource/2009_Australian_Grand_Prix>	dbo:thirdTeam	dbr:Toyota_Racing .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Toyota_TF110	dbp:constructor	dbr:Toyota_Racing ;
+	dbp:gearboxName	dbr:Toyota_Racing .
+dbr:Toyota_TF109	dbp:constructor	dbr:Toyota_Racing ;
+	dbp:gearboxName	dbr:Toyota_Racing .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Toyota_Racing	foaf:primaryTopic	dbr:Toyota_Racing .
+<http://dbpedia.org/resource/2009_Malaysian_Grand_Prix>	dbo:thirdTeam	dbr:Toyota_Racing .
+<http://dbpedia.org/resource/2009_Singapore_Grand_Prix>	dbo:secondTeam	dbr:Toyota_Racing .
+<http://dbpedia.org/resource/2006_Australian_Grand_Prix>	dbo:thirdTeam	dbr:Toyota_Racing .
+<http://dbpedia.org/resource/2005_Chinese_Grand_Prix>	dbo:thirdTeam	dbr:Toyota_Racing .
+dbr:Toyota_F1	dbo:wikiPageRedirects	dbr:Toyota_Racing .
+dbr:Panasonic_Toyota_Racing	dbo:wikiPageRedirects	dbr:Toyota_Racing .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Toyota_Racing	rdf:type	dbo:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Toyota_Racing	rdf:type	yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		dbo:FormulaOneTeam .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Toyota_Racing	rdf:type	ns7:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Toyota_Racing	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		ns7:SocialPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Toyota_Racing	rdf:type	wikidata:Q43229 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Toyota_Racing	rdf:type	schema:Organization ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		schema:SportsTeam ,
+		dbo:Organisation ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Toyota_Racing	rdfs:label	"Toyota Racing"@es ,
+		"Toyota Racing"@en ,
+		"Toyota Racing"@de ,
+		"\u8C50\u7530\u8ECA\u968A"@zh ,
+		"Toyota F1"@pl ,
+		"\u30C8\u30E8\u30BFF1"@ja ,
+		"Toyota F1 Team"@fr ,
+		"\u0422\u043E\u0439\u043E\u0442\u0430 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Toyota Racing"@it ,
+		"Toyota Racing"@nl ,
+		"Toyota Racing"@pt ,
+		"\u062A\u0648\u064A\u0648\u062A\u0627 \u0625\u0641 1"@ar ;
+	rdfs:comment	"La Panasonic Toyota Racing fu la squadra approntata dal costruttore giapponese Toyota per partecipare al Campionato mondiale di Formula 1 a partire dal 2002, fino a quello del 2009. A differenza di altri costruttori, la Toyota ha preferito costruire in proprio sia la vettura che il motore senza appoggiarsi a squadre esistenti. La scuderia ha sede operativa a Colonia in Germania nella struttura Toyota Motorsports GmbH. A seguito della crisi economica il 4 novembre 2009 la Toyota ha annunciato l'abbandono della F1 dal 2010."@it ,
+		"A Toyota Racing foi uma equipe de automobilismo que competiu no campeonato da F\u00F3rmula 1, entre 2002 e 2009. Apesar de ter a nacionalidade japonesa, a equipe era sediada na cidade alem\u00E3 de Col\u00F4nia. Retirou-se de forma s\u00FAbita da categoria em 4 de novembro de 2009. Atualmente a equipe est\u00E1 competindo na FIA Campeonato Mundial de Resist\u00EAncia desde 2012 com o Toyota TS030 Hybrid."@pt ,
+		"Toyota Racing war ein Motorsport-Rennteam und das Werksteam des japanischen Automobilherstellers Toyota in der FIA-Formel-1-Weltmeisterschaft, an der es von 2002 bis 2009 teilnahm. Im November 2009 gab das Team den R\u00FCckzug aus der Formel 1 bekannt. Sitz der Toyota Motorsport GmbH ist K\u00F6ln-Marsdorf. Die Panasonic Corporation war dabei ein Sponsoringpartner."@de ,
+		"Panasonic Toyota Racing was a Formula One team owned by Japanese car manufacturer Toyota and based in Cologne, Germany. Toyota announced their plans to participate in F1 in 1999, and after extensive testing with their initial car, dubbed the TF101, the team made their debut in 2002. The new team grew from Toyota's long-standing Toyota Motorsport GmbH organisation, which had previously competed in the World Rally Championship and the 24 Hours of Le Mans. Despite a point in their first-ever race, Panasonic Toyota Racing never won a Grand Prix, their best finish being 2nd place, which they achieved five times \u2013 in 2005, 2008 and 2009."@en ,
+		"\u0422\u043E\u0439\u043E\u0442\u0430 \u0420\u0435\u0439\u0441\u0438\u043D\u0433 (Toyota Racing) \u2013 \u0431\u044B\u0432\u0448\u0430\u044F \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043F\u0440\u0438\u043D\u0430\u0434\u043B\u0435\u0436\u0430\u0432\u0448\u0430\u044F \u043A\u0440\u0443\u043F\u043D\u043E\u043C\u0443 \u043C\u0438\u0440\u043E\u0432\u043E\u043C\u0443 \u043A\u043E\u043D\u0446\u0435\u0440\u043D\u0443 \u043F\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0443 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 Toyota Motor Corporation."@ru ,
+		"\u30C8\u30E8\u30BFF1 (TOYOTA F1) \u306F\u3001\u65E5\u672C\u306E\u30C8\u30E8\u30BF\u81EA\u52D5\u8ECA\u304C\u904B\u55B6\u3057\u305FF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30022002\u5E74\uFF08\u5E73\u621014\u5E74\uFF09\u304B\u30892009\u5E74\uFF08\u5E73\u621021\u5E74\uFF09\u307E\u3067F1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u305F\u3002\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u306E\u6B63\u5F0F\u540D\u79F0\u306F\u30D1\u30CA\u30BD\u30CB\u30C3\u30AF\u30FB\u30C8\u30E8\u30BF\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0 (Panasonic TOYOTA Racing) \u3002"@ja ,
+		"Toyota Racing es el equipo de automovilismo con el cual la multinacional japonesa Toyota particip\u00F3 en la F\u00F3rmula 1 desde 2002 hasta 2009. La base del equipo estaba en las instalaciones del Toyota Team Europe (TTE) en K\u00F6ln (Colonia), Alemania. En diciembre de 2001 se present\u00F3 el proyecto de la casa japonesa con Mika Salo y Allan McNish como pilotos titulares. En su temporada de debut (2002) lograron obtener dos puntos."@es ,
+		"Toyota F1 \u2013 zesp\u00F3\u0142 Formu\u0142y 1 startuj\u0105cy w Mistrzostwach w sezonach 2002\u20132009. Dyrektorem zespo\u0142u przed rozwi\u0105zaniem by\u0142 Tsutomu Tomita, a dyrektorem technicznym Pascal Vasselon. Siedziba stajni mie\u015Bci\u0142a si\u0119 w Kolonii w Niemczech."@pl ,
+		"Toyota Racing was een Formule 1-team dat eigendom was van de Japanse autofabrikant Toyota, en vanaf 2002 tot 2009 deelnam aan de Grand Prix Formule 1."@nl ,
+		"\u4E30\u7530\u8F66\u961F\uFF08Toyota F1\uFF09\u662F\u73B0\u5728\uFF082014\u5E74\uFF09\u5DF2\u7ECF\u4E0D\u5B58\u5728\u7684\u4E00\u652FF1\u8F66\u961F\uFF0C\u5B83\u7531\u65E5\u672C\u7684\u6C7D\u8F66\u5236\u9020\u5546\u2014\u2014\u4E30\u7530\u6C7D\u8F66\u516C\u53F8\u6B63\u5F0F\u7EC4\u5EFA\u4E8E2002\u5E74\uFF0C\u8F66\u961F\u603B\u90E8\u4F4D\u4E8E\u5FB7\u56FD\u79D1\u9686\u3002\u4ECE1999\u5E74\u5F00\u59CB\uFF0C\u4E30\u7530\u516C\u53F8\u5C31\u8BA1\u5212\u53C2\u52A0F1\u8D5B\u4E8B\uFF0C\u5E76\u4E14\u5F00\u59CB\u6D4B\u8BD5\u4ED6\u4EEC\u7684\u578B\u53F7\u4E3A\u3010TF101\u3011\u7684\u539F\u578B\u8F66\uFF0C\u5E76\u4E14\u57282002\u5E74\u6B63\u5F0F\u51FA\u73B0\u5728\u4E86F1\u7684\u8D5B\u573A\u3002 \u7136\u800C\u4EE4\u4EBA\u9057\u61BE\u7684\u662F\uFF0C\u5728\u8BE5\u8F66\u961F\u5B58\u5728\u76848\u5E74\u5386\u53F2\u4E0A\uFF0C\u4ED6\u4EEC\u4ECE\u672A\u83B7\u5F97\u8FC7\u4EFB\u4F55\u4E00\u4E2A\u5206\u7AD9\u8D5B\u51A0\u519B\uFF0C\u4ED6\u4EEC\u7684\u6700\u597D\u6210\u7EE9\u662F\u57282005\u8D5B\u5B63\u4E2D\u83B7\u5F97\u4E86\u4E00\u4E2A \u5206\u7AD9\u8D5B\u7684\u4E9A\u519B\u3002\u5728\u8F66\u961F\u52A0\u76DFF1\u7684\u6700\u521D\u51E0\u4E2A\u8D5B\u5B63\u4E2D\u4ED6\u4EEC\u7684\u6210\u7EE9\u59CB\u7EC8\u975E\u5E38\u7CDF\u7CD5\uFF0C\u76F4\u52302005\u8D5B\u5B63\u5F15\u8FDB\u4E86\u62C9\u5C14\u592B\u00B7\u8212\u9A6C\u8D6B\u540E\u8F66\u961F\u624D\u9010\u6E10\u6210\u4E3AF1\u8D5B\u573A\u4E0A\u7684\u4E2D\u575A\u529B\u91CF\u3002\u8F66\u961F\u57282005\u5E74-2006\u5E74\u4E2D\u56DB\u6B21\u83B7\u5F97\u5206\u7AD9\u8D5B\u7684\u5B63\u519B\uFF0C\u4F46\u4E5F\u6709\u6279\u8BC4\u8005\u6307\u8D23\u8F66\u961F\u7684\u6210\u7EE9\u4E0D\u591F\u7406\u60F3\uFF0C\u4E30\u7530\u5BF9\u8F66\u961F\u7684\u6295\u5165\u5F88\u5927\uFF0C\u62E5\u6709\u7740\u5F3A\u5927\u7684\u5236\u9020\u5546\u548C\u5DE8\u5927\u7684\u91CE\u5FC3\uFF0C\u53EF\u60DC\u6CA1\u6709\u5F88\u51FA\u8272\u7684\u6210\u7EE9\u3002"@zh ,
+		"\u062A\u0648\u064A\u0648\u062A\u0627 \u0625\u0641 1 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Toyota F1) \u0643\u0627\u0646 \u0623\u062D\u062F \u0641\u0631\u0642 \u0627\u0644\u0641\u0648\u0631\u0645\u064A\u0648\u0644\u0627 1 \u0648\u0627\u0644\u0630\u064A \u0643\u0627\u0646\u062A \u062A\u0645\u062A\u0644\u0643\u0647 \u0634\u0631\u0643\u0629 \u062A\u0648\u064A\u0648\u062A\u0627 \u0648\u0645\u0642\u0631\u0647 \u0627\u0644\u0631\u0626\u064A\u0633\u064A \u0628\u0623\u0644\u0645\u0627\u0646\u064A\u0627. \u0648\u0641\u064A 4 \u0646\u0648\u0641\u0645\u0628\u0631 2009 \u0623\u0639\u0644\u0646\u062A \u0634\u0631\u0643\u0629 \u062A\u0648\u064A\u0648\u062A\u0627 \u0627\u0646\u0633\u062D\u0627\u0628\u0647\u0627 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u064A\u0648\u0644\u0627 1 \u0628\u0633\u0628\u0628 \u062A\u0623\u062B\u0631\u0647\u0627 \u0628\u0627\u0644\u0623\u0632\u0645\u0629 \u0627\u0644\u0645\u0627\u0644\u064A\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629."@ar ,
+		"Panasonic Toyota Racing, initialement d\u00E9nomm\u00E9e Toyota F1 Team, est une ancienne branche de Toyota Motorsport GmbH, d\u00E9pendante de Toyota Motorsport, filiale sportive du constructeur automobile japonais Toyota. Panasonic Toyota Racing a \u00E9t\u00E9 engag\u00E9e en championnat du monde de Formule 1 entre 2002 et 2009."@fr ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.046fx_> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-it:Toyota_Racing ,
+		dbr:Toyota_Racing ,
+		wikidata:Q61979 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-id:Toyota_F1 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-nl:Toyota_Racing ,
+		<http://ja.dbpedia.org/resource/\u30C8\u30E8\u30BFF1> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-es:Toyota_Racing .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-pl:Toyota_F1 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-wikidata:Q61979 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-pt:Toyota_Racing .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	yago-res:Toyota_Racing .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-fr:Toyota_F1_Team .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-de:Toyota_Racing ,
+		<http://ko.dbpedia.org/resource/\uD1A0\uC694\uD0C0_F1> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Toyota_Racing	owl:sameAs	dbpedia-cs:Toyota_F1 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Toyota_Racing	dct:subject	dbc:Toyota_in_motorsport ,
+		dbc:Panasonic ,
+		dbc:Formula_One_engine_manufacturers ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ;
+	foaf:name	"PanasonicToyotaRacing"@en ;
+	foaf:homepage	<http://www.toyota-motorsport.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/1999_Toyota_TS020_01.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Toyota_Racing ;
+	dbp:races	140 ;
+	dbp:debut	2002 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Jarno Trulli"^^xsd:string ,
+		"Ricardo Zonta"^^xsd:string ,
+		"Timo Glock"^^xsd:string ,
+		"Ralf Schumacher"^^xsd:string ,
+		"Cristiano da Matta"^^xsd:string ,
+		"Olivier Panis"^^xsd:string ,
+		"Allan McNish"^^xsd:string ,
+		"Mika Salo"^^xsd:string ,
+		"Kamui Kobayashi"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	3 ;
+	dbp:poles	3 ;
+	dbp:shortName	"Toyota"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Toyota_Racing	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Toyota_Racing?oldid=744725381> ;
+	dbo:wikiPageExternalLink	<http://ms.toyota.co.jp/en/F1archive/> ,
+		<http://www.toyota-motorsport.com> ,
+		<http://www.formula1.com/archive/season/2006.html> ;
+	dbo:team	dbr:Toyota_Racing__2007__4 ,
+		dbr:Toyota_Racing__2008__1 ,
+		dbr:Toyota_Racing__2008__2 ,
+		dbr:Toyota_Racing__2005__1 ,
+		dbr:Toyota_Racing__2005__2 ,
+		dbr:Toyota_Racing__2005__3 ,
+		dbr:Toyota_Racing__2006__2 ,
+		dbr:Toyota_Racing__2006__3 ,
+		dbr:Toyota_Racing__2007__1 ,
+		dbr:Toyota_Racing__2007__2 ,
+		dbr:Toyota_Racing__2006__1 ,
+		dbr:Toyota_Racing__2008__3 ,
+		dbr:Toyota_Racing__2009__1 ,
+		dbr:Toyota_Racing__2009__2 ,
+		dbr:Toyota_Racing__2009__3 ,
+		dbr:Toyota_Racing__2007__3 ;
+	dbp:staff	dbr:Pascal_Vasselon ,
+		dbr:Ove_Andersson ,
+		dbr:Tadashi_Yamashina ;
+	dbp:base	dbr:Germany ,
+		dbr:Cologne ;
+	dbo:abstract	"Toyota F1 \u2013 zesp\u00F3\u0142 Formu\u0142y 1 startuj\u0105cy w Mistrzostwach w sezonach 2002\u20132009. Dyrektorem zespo\u0142u przed rozwi\u0105zaniem by\u0142 Tsutomu Tomita, a dyrektorem technicznym Pascal Vasselon. Siedziba stajni mie\u015Bci\u0142a si\u0119 w Kolonii w Niemczech."@pl ,
+		"\u30C8\u30E8\u30BFF1 (TOYOTA F1) \u306F\u3001\u65E5\u672C\u306E\u30C8\u30E8\u30BF\u81EA\u52D5\u8ECA\u304C\u904B\u55B6\u3057\u305FF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30022002\u5E74\uFF08\u5E73\u621014\u5E74\uFF09\u304B\u30892009\u5E74\uFF08\u5E73\u621021\u5E74\uFF09\u307E\u3067F1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u305F\u3002\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u306E\u6B63\u5F0F\u540D\u79F0\u306F\u30D1\u30CA\u30BD\u30CB\u30C3\u30AF\u30FB\u30C8\u30E8\u30BF\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0 (Panasonic TOYOTA Racing) \u3002"@ja ,
+		"Panasonic Toyota Racing, initialement d\u00E9nomm\u00E9e Toyota F1 Team, est une ancienne branche de Toyota Motorsport GmbH, d\u00E9pendante de Toyota Motorsport, filiale sportive du constructeur automobile japonais Toyota. Panasonic Toyota Racing a \u00E9t\u00E9 engag\u00E9e en championnat du monde de Formule 1 entre 2002 et 2009."@fr ,
+		"A Toyota Racing foi uma equipe de automobilismo que competiu no campeonato da F\u00F3rmula 1, entre 2002 e 2009. Apesar de ter a nacionalidade japonesa, a equipe era sediada na cidade alem\u00E3 de Col\u00F4nia. Retirou-se de forma s\u00FAbita da categoria em 4 de novembro de 2009. Atualmente a equipe est\u00E1 competindo na FIA Campeonato Mundial de Resist\u00EAncia desde 2012 com o Toyota TS030 Hybrid."@pt ,
+		"Toyota Racing es el equipo de automovilismo con el cual la multinacional japonesa Toyota particip\u00F3 en la F\u00F3rmula 1 desde 2002 hasta 2009. La base del equipo estaba en las instalaciones del Toyota Team Europe (TTE) en K\u00F6ln (Colonia), Alemania. En diciembre de 2001 se present\u00F3 el proyecto de la casa japonesa con Mika Salo y Allan McNish como pilotos titulares. En su temporada de debut (2002) lograron obtener dos puntos. En 2004, el renombrado dise\u00F1ador Mike Gascoyne fue contratado por el equipo. Toyota finaliz\u00F3 la temporada 2004 de F\u00F3rmula 1 con Jarno Trulli y Ricardo Zonta como pilotos titulares. El brasile\u00F1o Cristiano da Matta fue despojado de la butaca titular que ocupaba al iniciar la temporada, debido a que no estuvo a la altura de las expectativas. Para la temporada 2005, el equipo present\u00F3 una alineaci\u00F3n compuesta por Ralf Schumacher y Jarno Trulli. En esta temporada el equipo empez\u00F3 mostrando un gran rendimiento, con 3 podios en las 5 primeras carreras; y al final obtuvo 88 puntos, 5 podios y 2 pole positions, ocupando el 4\u00BA lugar de la clasificaci\u00F3n de constructores a la conclusi\u00F3n del campeonato. Fue claramente su mejor temporada, aunque hubieran podido finalizar en 3\u00BA puesto entre las escuder\u00EDas en caso de haber competido en el Gran Premio de los Estados Unidos, donde Jarno Trulli hab\u00EDa conseguido la primera pole position para Toyota y en el cual Ferrari consigui\u00F3 18 puntos que fueron determinantes para finalmente superar a Toyota por 12 unidades. Despu\u00E9s de tres a\u00F1os con la marca francesa de neum\u00E1ticos Michelin y la mejor posici\u00F3n del equipo en el a\u00F1o 2005, el equipo decide usar para las siguientes temporadas los neum\u00E1ticos de la empresa japonesa Bridgestone. En 2006, Mike Gascoyne fue despedido, y el equipo pas\u00F3 a tener unos resultados discretos. Al finalizar una decepcionante temporada 2007, la escuder\u00EDa japonesa decidi\u00F3 finalizar el contrato con el piloto alem\u00E1n Ralf Schumacher tras 3 a\u00F1os de servicio. As\u00ED, Jarno Trulli se convirti\u00F3 en el primer piloto para 2008, y Timo Glock ocupar\u00E1 el segundo asiento del equipo, tras haber sido su contrato autorizado. En la temporada 2008, Toyota mejor\u00F3 notablemente y se sit\u00FAa quinto en el campeonato de constructores, con dos podios en su casillero.En 2009, el Toyota mejora a\u00FAn m\u00E1s y se coloca como el tercer mejor coche al comienzo. Parec\u00EDa que la escuder\u00EDa pod\u00EDa luchar por el mundial, pero al final las cosas no salen como se esperaban y terminan en quinto lugar en el Campeonato de Constructores. El 4 de noviembre de 2009 Toyota Racing emiti\u00F3 un comunicado que confirmaba su retirada de la F\u00F3rmula 1. La crisis econ\u00F3mica y la falta de victorias fueron los motivos principales que se destacaron en la prensa."@es ,
+		"Toyota Racing was een Formule 1-team dat eigendom was van de Japanse autofabrikant Toyota, en vanaf 2002 tot 2009 deelnam aan de Grand Prix Formule 1."@nl ,
+		"La Panasonic Toyota Racing fu la squadra approntata dal costruttore giapponese Toyota per partecipare al Campionato mondiale di Formula 1 a partire dal 2002, fino a quello del 2009. A differenza di altri costruttori, la Toyota ha preferito costruire in proprio sia la vettura che il motore senza appoggiarsi a squadre esistenti. La scuderia ha sede operativa a Colonia in Germania nella struttura Toyota Motorsports GmbH. L'impegno in Formula 1 della Toyota si \u00E8 sempre caratterizzato per le enormi risorse economiche a disposizione a cui non sono seguiti risultati adeguati prima del 2005; vi sono stati inoltre moltissimi e continui cambiamenti di personale, sia dirigenziale che tecnico, che di piloti. In generale le vetture Toyota sono sempre state considerate molto potenti come motore ma carenti come progetti e aerodinamica, da cui l'alternarsi di diversi progettisti l'ultimo dei quali, l'inglese Mike Gascoyne, ha lasciato la squadra dopo tre gare della stagione 2006. A seguito della crisi economica il 4 novembre 2009 la Toyota ha annunciato l'abbandono della F1 dal 2010."@it ,
+		"\u4E30\u7530\u8F66\u961F\uFF08Toyota F1\uFF09\u662F\u73B0\u5728\uFF082014\u5E74\uFF09\u5DF2\u7ECF\u4E0D\u5B58\u5728\u7684\u4E00\u652FF1\u8F66\u961F\uFF0C\u5B83\u7531\u65E5\u672C\u7684\u6C7D\u8F66\u5236\u9020\u5546\u2014\u2014\u4E30\u7530\u6C7D\u8F66\u516C\u53F8\u6B63\u5F0F\u7EC4\u5EFA\u4E8E2002\u5E74\uFF0C\u8F66\u961F\u603B\u90E8\u4F4D\u4E8E\u5FB7\u56FD\u79D1\u9686\u3002\u4ECE1999\u5E74\u5F00\u59CB\uFF0C\u4E30\u7530\u516C\u53F8\u5C31\u8BA1\u5212\u53C2\u52A0F1\u8D5B\u4E8B\uFF0C\u5E76\u4E14\u5F00\u59CB\u6D4B\u8BD5\u4ED6\u4EEC\u7684\u578B\u53F7\u4E3A\u3010TF101\u3011\u7684\u539F\u578B\u8F66\uFF0C\u5E76\u4E14\u57282002\u5E74\u6B63\u5F0F\u51FA\u73B0\u5728\u4E86F1\u7684\u8D5B\u573A\u3002 \u7136\u800C\u4EE4\u4EBA\u9057\u61BE\u7684\u662F\uFF0C\u5728\u8BE5\u8F66\u961F\u5B58\u5728\u76848\u5E74\u5386\u53F2\u4E0A\uFF0C\u4ED6\u4EEC\u4ECE\u672A\u83B7\u5F97\u8FC7\u4EFB\u4F55\u4E00\u4E2A\u5206\u7AD9\u8D5B\u51A0\u519B\uFF0C\u4ED6\u4EEC\u7684\u6700\u597D\u6210\u7EE9\u662F\u57282005\u8D5B\u5B63\u4E2D\u83B7\u5F97\u4E86\u4E00\u4E2A \u5206\u7AD9\u8D5B\u7684\u4E9A\u519B\u3002\u5728\u8F66\u961F\u52A0\u76DFF1\u7684\u6700\u521D\u51E0\u4E2A\u8D5B\u5B63\u4E2D\u4ED6\u4EEC\u7684\u6210\u7EE9\u59CB\u7EC8\u975E\u5E38\u7CDF\u7CD5\uFF0C\u76F4\u52302005\u8D5B\u5B63\u5F15\u8FDB\u4E86\u62C9\u5C14\u592B\u00B7\u8212\u9A6C\u8D6B\u540E\u8F66\u961F\u624D\u9010\u6E10\u6210\u4E3AF1\u8D5B\u573A\u4E0A\u7684\u4E2D\u575A\u529B\u91CF\u3002\u8F66\u961F\u57282005\u5E74-2006\u5E74\u4E2D\u56DB\u6B21\u83B7\u5F97\u5206\u7AD9\u8D5B\u7684\u5B63\u519B\uFF0C\u4F46\u4E5F\u6709\u6279\u8BC4\u8005\u6307\u8D23\u8F66\u961F\u7684\u6210\u7EE9\u4E0D\u591F\u7406\u60F3\uFF0C\u4E30\u7530\u5BF9\u8F66\u961F\u7684\u6295\u5165\u5F88\u5927\uFF0C\u62E5\u6709\u7740\u5F3A\u5927\u7684\u5236\u9020\u5546\u548C\u5DE8\u5927\u7684\u91CE\u5FC3\uFF0C\u53EF\u60DC\u6CA1\u6709\u5F88\u51FA\u8272\u7684\u6210\u7EE9\u3002 \u800C\u96A8\u84572006\u5E74\u8CFD\u5B63\u7684\u5230\u4F86\uFF0C\u4E30\u7530\u8F66\u961F\u53C8\u662F\u7B2C\u4E00\u652F\u767C\u8868\u65B0\u8CFD\u8ECA\u7684\u968A\u4F0D\uFF0CTF106\u53EF\u4EE5\u7B97\u662FTF105B\u7684\u9032\u5316\u7248\u672C\uFF0C\u65E2\u71362005\u5E74\u8CFD\u5B63\u90FD\u80FD\u62FF\u4E0B\u8ECA\u968A\u7B2C\u56DB\u540D\uFF0CToyota\u8ECA\u968A\u7684\u65E2\u5B9A\u76EE\u6A19\u662F\u57282006\u5E74\u5F97\u64E0\u9032\u524D\u4E09\u540D\u3002\u8AB0\u6599TF106\u8CFD\u8ECA\u5728\u8CFD\u5B63\u521D\u671F\u8868\u73FE\u51FA\u5B8C\u5168\u75B2\u8EDF\u7684\u614B\u52E2\uFF0C\u6BD4\u8CFD\u5DF2\u7D93\u9032\u884C\u4E86\u4E09\u7AD9\uFF0C\u8CFD\u8ECA\u537B\u9084\u8655\u5728\u9069\u61C9\u8F2A\u80CE\u7684\u968E\u6BB5\u3002\u984F\u9762\u76E1\u5931\u7684\u8ECA\u968A\u9AD8\u5C64\u76DB\u6012\u4E4B\u4E0B\u89E3\u96C7\u4E86\u79D1\u6280\u7E3D\u76E3Mike Gascoyne\uFF0C\u7136\u800C\u8AF7\u523A\u7684\u662FToyota\u8CFD\u8ECA\u7684\u72C0\u614B\u5728\u9019\u6642\u7ADF\u958B\u59CB\u5FA9\u8607\uFF0C\u5728\u63A5\u4E0B\u4F86\u7684\u516D\u500B\u5206\u7AD9\u8868\u73FE\u90FD\u9084\u4E0D\u932F\u3002\u4F46\u9019\u4E26\u4E0D\u8868\u793A\u4ED6\u5011\u80FD\u548C\u5F37\u968A\u7AF6\u722D\uFF0C\u96D6\u7136Toyota\u7684\u8ECA\u624B\u5728\u6392\u4F4D\u8CFD\u4E2D\u770B\u8D77\u4F86\u90FD\u5F88\u6709\u5E0C\u671B\uFF0C\u4F46\u9019\u7A2E\u5E0C\u671B\u5F80\u5F80\u5728\u6B63\u8CFD\u4E2D\u5316\u70BA\u6CE1\u5F71\uFF0C\u8ECA\u968A\u6700\u7D42\u50C5\u7372\u5F97\u4E00\u500B\u7B2C\u4E09\u540D\uFF0C\u5E74\u5EA6\u6392\u540D\u7B2C\u516D\uFF0C\u6BD405\u5E74\u8CFD\u5B63\u4E0B\u6ED1\u4E86\u5169\u500B\u4F4D\u7F6E\u3002\u5728\u968F\u540E\u7684\u51E0\u5E74\u91CC\uFF0C\u4ED6\u4EEC\u8F66\u961F\u7684\u603B\u6392\u540D\u5206\u522B\u662F2007\u5E74\u7B2C\u516D\u540D\uFF0C2008\u5E74\u7B2C\u4E94\u540D\uFF0C2009\u5E74\u7B2C\u4E94\u540D\u3002"@zh ,
+		"\u062A\u0648\u064A\u0648\u062A\u0627 \u0625\u0641 1 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Toyota F1) \u0643\u0627\u0646 \u0623\u062D\u062F \u0641\u0631\u0642 \u0627\u0644\u0641\u0648\u0631\u0645\u064A\u0648\u0644\u0627 1 \u0648\u0627\u0644\u0630\u064A \u0643\u0627\u0646\u062A \u062A\u0645\u062A\u0644\u0643\u0647 \u0634\u0631\u0643\u0629 \u062A\u0648\u064A\u0648\u062A\u0627 \u0648\u0645\u0642\u0631\u0647 \u0627\u0644\u0631\u0626\u064A\u0633\u064A \u0628\u0623\u0644\u0645\u0627\u0646\u064A\u0627. \u0648\u0641\u064A 4 \u0646\u0648\u0641\u0645\u0628\u0631 2009 \u0623\u0639\u0644\u0646\u062A \u0634\u0631\u0643\u0629 \u062A\u0648\u064A\u0648\u062A\u0627 \u0627\u0646\u0633\u062D\u0627\u0628\u0647\u0627 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u064A\u0648\u0644\u0627 1 \u0628\u0633\u0628\u0628 \u062A\u0623\u062B\u0631\u0647\u0627 \u0628\u0627\u0644\u0623\u0632\u0645\u0629 \u0627\u0644\u0645\u0627\u0644\u064A\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629."@ar ,
+		"Toyota Racing war ein Motorsport-Rennteam und das Werksteam des japanischen Automobilherstellers Toyota in der FIA-Formel-1-Weltmeisterschaft, an der es von 2002 bis 2009 teilnahm. Im November 2009 gab das Team den R\u00FCckzug aus der Formel 1 bekannt. Sitz der Toyota Motorsport GmbH ist K\u00F6ln-Marsdorf. Die Panasonic Corporation war dabei ein Sponsoringpartner."@de ,
+		"\u0422\u043E\u0439\u043E\u0442\u0430 \u0420\u0435\u0439\u0441\u0438\u043D\u0433 (Toyota Racing) \u2013 \u0431\u044B\u0432\u0448\u0430\u044F \u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043F\u0440\u0438\u043D\u0430\u0434\u043B\u0435\u0436\u0430\u0432\u0448\u0430\u044F \u043A\u0440\u0443\u043F\u043D\u043E\u043C\u0443 \u043C\u0438\u0440\u043E\u0432\u043E\u043C\u0443 \u043A\u043E\u043D\u0446\u0435\u0440\u043D\u0443 \u043F\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0443 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 Toyota Motor Corporation."@ru ,
+		"Panasonic Toyota Racing was a Formula One team owned by Japanese car manufacturer Toyota and based in Cologne, Germany. Toyota announced their plans to participate in F1 in 1999, and after extensive testing with their initial car, dubbed the TF101, the team made their debut in 2002. The new team grew from Toyota's long-standing Toyota Motorsport GmbH organisation, which had previously competed in the World Rally Championship and the 24 Hours of Le Mans. Despite a point in their first-ever race, Panasonic Toyota Racing never won a Grand Prix, their best finish being 2nd place, which they achieved five times \u2013 in 2005, 2008 and 2009. Toyota drew criticism for their lack of success, especially after the 2006 Formula One season, in which the team's best result was 3rd place in the Australian Grand Prix. Toyota was a well-funded team, but despite this, strong results had never been consistent. On November 4, 2009, Toyota announced its immediate withdrawal from Formula One, ending the team's involvement in the sport after eight seasons."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/1999_Toyota_TS020_01.jpg?width=300> ;
+	dbo:wikiPageRevisionID	744725381 ;
+	dbo:wikiPageID	1105741 ;
+	dbp:logo	250 ;
+	dbp:podiums	13 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Toyota_Racing	ns26:hypernym	dbr:Team ;
+	dbp:lastRace	2009 .
+dbr:Valencia_Street_Circuit	dbp:recordTeam	dbr:Toyota_Racing .
+dbr:Toyota_TF106	dbp:team	dbr:Toyota_Racing ;
+	dbp:constructor	dbr:Toyota_Racing .
+dbr:Toyota_f1	dbo:wikiPageRedirects	dbr:Toyota_Racing .
+<http://dbpedia.org/resource/2009_Bahrain_Grand_Prix>	dbo:fastestDriverTeam	dbr:Toyota_Racing ;
+	dbo:poleDriverTeam	dbr:Toyota_Racing ;
+	dbo:thirdTeam	dbr:Toyota_Racing .

@@ -1,0 +1,142 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Chris_Amon_Racing	foaf:primaryTopic	dbr:Chris_Amon_Racing .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbr:Chris_Amon_Racing	rdf:type	schema:SportsTeam .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Chris_Amon_Racing	rdf:type	dbo:FormulaOneTeam ,
+		schema:Organization ,
+		dbo:SportsTeam ,
+		dbo:Organisation .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Chris_Amon_Racing	rdf:type	yago:WikicatNewZealandRacecarConstructors ,
+		yago:Organism100004475 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Chris_Amon_Racing	rdf:type	wikidata:Q43229 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Chris_Amon_Racing	rdf:type	ns8:SocialPerson ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		dbo:Agent ,
+		ns8:Agent ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Chris_Amon_Racing	rdf:type	owl:Thing ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Chris_Amon_Racing	rdfs:label	"Amon (F\u00F3rmula 1)"@pt ,
+		"Amon (azienda)"@it ,
+		"Chris Amon Racing"@fr ,
+		"Chris Amon Racing"@de ,
+		"\u30A8\u30A4\u30E2\u30F3"@ja ,
+		"Chris Amon Racing"@pl ,
+		"Chris Amon Racing"@en ;
+	rdfs:comment	"Amon \u00E8 stata un costruttore britannico di Formula 1. Scuderia fondata dal pilota neozelandese Chris Amon, rimasto senza volante per la stagione 1974, grazie ai finanziamenti di John Dalton. La vettura, chiamata AF101, progettata da Gordon Fowell, si qualific\u00F2 solo al Gran Premio di Spagna, abbandonando la corsa per un problema ai freni. Cercher\u00E0 di qualificarsi in altri 4 Gran Premi (uno con al volante Larry Perkins)."@it ,
+		"Chris Amon Racing, also known simply as Amon, was a Formula One team established by New Zealand driver Chris Amon. It competed as a privateer team in the 1966 Italian Grand Prix, then as a constructor in its own right in the 1974 Formula One season."@en ,
+		"Chris Amon Racing war der Name eines kurzlebigen Rennstalls des neuseel\u00E4ndischen Rennfahrers Chris Amon, mit dem dieser 1974 zu einzelnen Weltmeisterschaftsl\u00E4ufen der Formel 1 antrat."@de ,
+		"Chris Amon Racing foi uma equipe de F\u00F3rmula 1 da Nova Zel\u00E2ndia. Foi fundada pelo piloto Chris Amon e disputou a temporada de 1974."@pt ,
+		"\u30A8\u30A4\u30E2\u30F3\uFF08Chris Amon Racing\uFF09\u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u306EF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002"@ja ,
+		"Chris Amon Racing \u00E9tait une \u00E9curie de Formule 1 fond\u00E9e par le pilote de Formule 1 n\u00E9o-z\u00E9landais Chris Amon en 1974. Les Amon n'ont \u00E9t\u00E9 engag\u00E9es qu'\u00E0 cinq reprises au cours de la saison 1974 et n'ont d\u00E9croch\u00E9 leur qualification qu'en seulement deux occasions (Espagne et Monaco) et pris le d\u00E9part d'un seul Grand Prix du championnat du monde (Espagne). La meilleure qualification d'une Amon est une 23e place et elles n'ont jamais re\u00E7u le drapeau \u00E0 damiers."@fr ,
+		"Chris Amon Racing \u2013 by\u0142y zesp\u00F3\u0142 i konstruktor Formu\u0142y 1, za\u0142o\u017Cony przez Chrisa Amona. Wzi\u0105\u0142 udzia\u0142 w jednym Grand Prix w 1966 roku. Za\u0142o\u017Cony ponownie w 1974 roku, wzi\u0105\u0142 udzia\u0142 w czterech Grand Prix."@pl .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Chris_Amon_Racing	owl:sameAs	dbpedia-pl:Chris_Amon_Racing ,
+		<http://it.dbpedia.org/resource/Amon_(azienda)> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Chris_Amon_Racing	owl:sameAs	dbpedia-fr:Chris_Amon_Racing ,
+		dbr:Chris_Amon_Racing ,
+		<http://id.dbpedia.org/resource/Amon_(tim_balap)> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Chris_Amon_Racing	owl:sameAs	dbpedia-de:Chris_Amon_Racing .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Chris_Amon_Racing	owl:sameAs	yago-res:Chris_Amon_Racing ,
+		wikidata:Q172158 ,
+		<http://rdf.freebase.com/ns/m.05js63> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Chris_Amon_Racing	owl:sameAs	dbpedia-wikidata:Q172158 ,
+		<http://pt.dbpedia.org/resource/Amon_(F\u00F3rmula_1)> ,
+		<http://ja.dbpedia.org/resource/\u30A8\u30A4\u30E2\u30F3> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Chris_Amon_Racing	dct:subject	dbc:New_Zealand_racecar_constructors ,
+		dbc:New_Zealand_auto_racing_teams ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ;
+	foaf:name	"Chris Amon Racing"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Amon_F101.JPG> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Chris_Amon_Racing .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Chris_Amon_Racing	dbp:races	4 ,
+		5 ;
+	dbp:configuration	90 ;
+	dbp:founders	dbr:Chris_Amon ;
+	dbp:debut	1974 ,
+		1966 ;
+	dbp:wins	0 ;
+	dbp:drivers	"Larry Perkins"^^xsd:string ,
+		"Chris Amon"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:carName	"Amon AF101"^^xsd:string ;
+	dbp:enginePosition	<http://dbpedia.org/resource/Rear_mid-engine,_rear-wheel_drive_layout> ;
+	dbp:gears	5 .
+@prefix ns19:	<http://dbpedia.org/property/turbo/> .
+dbr:Chris_Amon_Racing	ns19:na	dbr:Naturally_aspirated ;
+	dbp:shortName	"Amon"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Chris_Amon_Racing	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Chris_Amon_Racing?oldid=743253718> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20061004164124/http:/f1rejects.com/teams/amon/index.html> ;
+	dbp:caption	"The AF101 at Silverstone in 2012"^^xsd:string ,
+		"Chris Amon in the AF101 at the NZ Festival of Motor Racing 2011"^^xsd:string ,
+		"The Amon F1 car."^^xsd:string ;
+	dbp:tyres	dbr:Firestone_Tire_and_Rubber_Company ;
+	dbp:designer	dbr:Gordon_Fowell ,
+		dbr:Tom_Boyce ;
+	dbp:align	"center"^^xsd:string ;
+	dbp:image	"Amon F101 at Silverstone Classic 2011.jpg"^^xsd:string ,
+		"ChrisAmonAF101.jpg"^^xsd:string ;
+	dbp:staff	<http://dbpedia.org/resource/John_Dalton_(racing)> ,
+		dbr:Gordon_Fowell ;
+	dbp:base	"New Zealand"^^xsd:string ;
+	dbp:team	"Chris Amon Racing"^^xsd:string ;
+	dbp:category	dbr:Formula_One ;
+	dbp:constructor	"Chris Amon Racing"^^xsd:string ;
+	dbp:constructors	dbr:Chris_Amon ,
+		dbr:British_Racing_Motors ,
+		dbr:Ford_Motor_Company ,
+		dbr:Brabham ;
+	dbp:engineName	dbr:Cosworth_DFV ,
+		dbr:Ford_Motor_Company ;
+	dbo:abstract	"Chris Amon Racing \u00E9tait une \u00E9curie de Formule 1 fond\u00E9e par le pilote de Formule 1 n\u00E9o-z\u00E9landais Chris Amon en 1974. Les Amon n'ont \u00E9t\u00E9 engag\u00E9es qu'\u00E0 cinq reprises au cours de la saison 1974 et n'ont d\u00E9croch\u00E9 leur qualification qu'en seulement deux occasions (Espagne et Monaco) et pris le d\u00E9part d'un seul Grand Prix du championnat du monde (Espagne). La meilleure qualification d'une Amon est une 23e place et elles n'ont jamais re\u00E7u le drapeau \u00E0 damiers."@fr ,
+		"Chris Amon Racing \u2013 by\u0142y zesp\u00F3\u0142 i konstruktor Formu\u0142y 1, za\u0142o\u017Cony przez Chrisa Amona. Wzi\u0105\u0142 udzia\u0142 w jednym Grand Prix w 1966 roku. Za\u0142o\u017Cony ponownie w 1974 roku, wzi\u0105\u0142 udzia\u0142 w czterech Grand Prix."@pl ,
+		"Amon \u00E8 stata un costruttore britannico di Formula 1. Scuderia fondata dal pilota neozelandese Chris Amon, rimasto senza volante per la stagione 1974, grazie ai finanziamenti di John Dalton. La vettura, chiamata AF101, progettata da Gordon Fowell, si qualific\u00F2 solo al Gran Premio di Spagna, abbandonando la corsa per un problema ai freni. Cercher\u00E0 di qualificarsi in altri 4 Gran Premi (uno con al volante Larry Perkins)."@it ,
+		"Chris Amon Racing war der Name eines kurzlebigen Rennstalls des neuseel\u00E4ndischen Rennfahrers Chris Amon, mit dem dieser 1974 zu einzelnen Weltmeisterschaftsl\u00E4ufen der Formel 1 antrat."@de ,
+		"Chris Amon Racing, also known simply as Amon, was a Formula One team established by New Zealand driver Chris Amon. It competed as a privateer team in the 1966 Italian Grand Prix, then as a constructor in its own right in the 1974 Formula One season."@en ,
+		"\u30A8\u30A4\u30E2\u30F3\uFF08Chris Amon Racing\uFF09\u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u306EF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002"@ja ,
+		"Chris Amon Racing foi uma equipe de F\u00F3rmula 1 da Nova Zel\u00E2ndia. Foi fundada pelo piloto Chris Amon e disputou a temporada de 1974."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Amon_F101.JPG?width=300> ;
+	dbo:wikiPageRevisionID	743253718 ;
+	dbo:wikiPageID	1639234 ;
+	dbp:logo	200 ;
+	dbp:type	"manual gearbox, with Borg & Beck clutch."^^xsd:string .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Chris_Amon_Racing	ns21:hypernym	dbr:Team ;
+	dbp:gearboxName	"Hewland FG 400"^^xsd:string ;
+	dbp:direction	"horizontal"^^xsd:string ;
+	dbp:chassis	"Aluminium monocoque, with engine as a fully stressed member."^^xsd:string ;
+	dbp:wcResultsOnly	"Yes"^^xsd:string ;
+	dbp:lastRace	1974 .
+<http://dbpedia.org/resource/Amon_(Formula_One_team)>	dbo:wikiPageRedirects	dbr:Chris_Amon_Racing .
+dbr:Amon_AF101	dbo:wikiPageRedirects	dbr:Chris_Amon_Racing .
+dbr:Amon_AF1	dbo:wikiPageRedirects	dbr:Chris_Amon_Racing .

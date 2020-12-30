@@ -1,0 +1,45 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Heron_(automobile)>	foaf:primaryTopic	<http://dbpedia.org/resource/Heron_(automobile)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Heron_(automobile)>	rdf:type	yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActor .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Heron_(automobile)>	rdf:type	dbo:HockeyTeam ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Builder109878275 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:Party110402824 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Heron_(automobile)>	rdfs:label	"Heron (automobile)"@en ;
+	rdfs:comment	"The Heron was a Formula Junior racing car designed by Les Redmond and Syd (aka Jim or Dig) Diggory. It was fitted with a Ford 105E engine."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Heron_(automobile)>	owl:sameAs	<http://dbpedia.org/resource/Heron_(automobile)> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Heron_(automobile)>	owl:sameAs	wikidata:Q17141318 ,
+		<http://yago-knowledge.org/resource/Heron_(automobile)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Heron_(automobile)>	owl:sameAs	dbpedia-wikidata:Q17141318 ,
+		<http://rdf.freebase.com/ns/m.0h3l_z4> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Heron_(automobile)>	dct:subject	dbc:Formula_One_constructors ,
+		dbc:Formula_Junior_cars ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Heron_(automobile)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Heron_(automobile)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Heron_(automobile)?oldid=739317546> ;
+	dbo:wikiPageExternalLink	<http://www.chicanef1.dyndns.org/indiv.pl?name=Heron&type=C> ;
+	dbo:abstract	"The Heron was a Formula Junior racing car designed by Les Redmond and Syd (aka Jim or Dig) Diggory. It was fitted with a Ford 105E engine."@en ;
+	dbo:wikiPageRevisionID	739317546 ;
+	dbo:wikiPageID	32916908 .
+@prefix ns11:	<http://purl.org/linguistics/gold/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Heron_(automobile)>	ns11:hypernym	dbr:Junior .
+<http://dbpedia.org/resource/Heron_(disambiguation)>	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Heron_(automobile)> .

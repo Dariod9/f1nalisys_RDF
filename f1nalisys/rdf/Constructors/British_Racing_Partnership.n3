@@ -1,0 +1,148 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Cliff_Allison	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Partnership .
+dbr:Innes_Ireland	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Partnership .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbr:British_Racing_Partnership	rdf:type	schema:Organization .
+@prefix ns3:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:British_Racing_Partnership	rdf:type	ns3:Agent ,
+		schema:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:British_Racing_Partnership	rdf:type	yago:Contractor109960891 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:British_Racing_Partnership	rdf:type	dbo:Agent ,
+		yago:WikicatFormulaOneConstructors ,
+		dbo:Organisation ,
+		yago:Builder109878275 ,
+		ns3:SocialPerson ,
+		yago:Party110402824 ,
+		yago:Organism100004475 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:British_Racing_Partnership	rdf:type	owl:Thing ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:WikicatBritishRacecarConstructors ,
+		dbo:SportsTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:British_Racing_Partnership	rdf:type	wikidata:Q43229 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q24229398 ,
+		dbo:FormulaOneTeam .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:British_Racing_Partnership	rdfs:label	"British Racing Partnership"@en ,
+		"British Racing Partnership"@fr ,
+		"British Racing Partnership"@pt ,
+		"British Racing Partnership"@pl ,
+		"British Racing Partnership"@de ,
+		"\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30D1\u30FC\u30C8\u30CA\u30FC\u30B7\u30C3\u30D7"@ja ,
+		"British Racing Partnership"@it ;
+	rdfs:comment	"British Racing Partnership \u2013 zesp\u00F3\u0142 i konstruktor Formu\u0142y 1, aktywny w latach 1958\u20131964."@pl ,
+		"Le British Racing Partnership (BRP) \u00E9tait une \u00E9curie britannique de Formule 1, en activit\u00E9 entre les saisons 1959 et 1964."@fr ,
+		"British Racing Partnership foi uma equipe de corridas automobil\u00EDsticas do Reino Unido."@pt ,
+		"\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30D1\u30FC\u30C8\u30CA\u30FC\u30B7\u30C3\u30D7\uFF08British Racing Partnership, BRP\uFF09\u306F\u30011958\u5E74\u304B\u30891964\u5E74\u306B\u304B\u3051\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30C1\u30FC\u30E0\u30021962\u5E74\u307E\u3067\u306F\u30AF\u30FC\u30D1\u30FC\u3084BRM\u3001\u30ED\u30FC\u30BF\u30B9\u306E\u30B7\u30E3\u30B7\u3092\u8CFC\u5165\u3057\u3066\u53C2\u6226\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"British Racing Partnership, auch als B.R.P. bezeichnet, war ein britisches Motorsportteam, das 1963 und 1964 mit Eigenkonstruktionen in der Formel-1-Weltmeisterschaft am Start war."@de ,
+		"British Racing Partnership (BRP) was a racing team, and latterly constructor, from the United Kingdom. It was established by Alfred Moss and Ken Gregory \u2014 Stirling Moss's father and former manager respectively \u2014 in 1957 to run cars for Stirling, when not under contract with other firms, along with other up-and-coming drivers."@en ,
+		"La British Racing Partnership (BRP) \u00E8 stato un costruttore britannico di Formula 1. Scuderia fondata da Alfred Moss e Ken Gregory, rispettivamente padre e manager di Stirling Moss. Nella prima stagione, anno 1963, esord\u00EC col modello MK1 nel Gran Premio del Belgio, dove Innes Ireland, partito settimo, fu costretto al ritiro. Il pilota inglese seppe conquistare per\u00F2 nella stagione due quarti posti (Gran Premio d'Olanda e Gran Premio d'Italia). Nel 1966 la scuderia John Willment Automobiles iscrisse una BRP privata, motorizzata Climax, al Gran Premio d'Italia ma non vi prese parte."@it .
+@prefix ns9:	<http://dbpedia.org/property/designer/> .
+dbr:British_Racing_Partnership	ns9:s	<http://dbpedia.org/resource/Tony_Robinson_(engineer)> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:British_Racing_Partnership	owl:sameAs	dbpedia-fr:British_Racing_Partnership ,
+		wikidata:Q172148 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:British_Racing_Partnership	owl:sameAs	dbpedia-id:British_Racing_Partnership ,
+		<http://rdf.freebase.com/ns/m.04n6b2> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:British_Racing_Partnership	owl:sameAs	dbpedia-de:British_Racing_Partnership .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:British_Racing_Partnership	owl:sameAs	dbpedia-wikidata:Q172148 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:British_Racing_Partnership	owl:sameAs	dbpedia-pt:British_Racing_Partnership ,
+		dbr:British_Racing_Partnership .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:British_Racing_Partnership	owl:sameAs	dbpedia-it:British_Racing_Partnership ,
+		<http://ja.dbpedia.org/resource/\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30D1\u30FC\u30C8\u30CA\u30FC\u30B7\u30C3\u30D7> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:British_Racing_Partnership	owl:sameAs	yago-res:British_Racing_Partnership .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:British_Racing_Partnership	owl:sameAs	dbpedia-pl:British_Racing_Partnership .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:British_Racing_Partnership	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:World_Sportscar_Championship_teams ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_teams> ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:British_Racing_Partnership	foaf:name	"British Racing Partnership"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/British_Racing_Partnership_logo.png> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:British_Racing_Partnership	foaf:isPrimaryTopicOf	wikipedia-en:British_Racing_Partnership .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:British_Racing_Partnership	dbp:races	43 ,
+		13 ;
+	dbp:founders	dbr:Alfred_Moss ,
+		<http://dbpedia.org/resource/Ken_Gregory_(motor_racing)> ;
+	dbp:debut	1963 ,
+		1958 ;
+	dbp:wins	0 ;
+	dbp:drivers	"Masten Gregory"^^xsd:string ,
+		"Trevor Taylor"^^xsd:string ,
+		"Innes Ireland"^^xsd:string ,
+		"Jim Hall"^^xsd:string ,
+		"Stirling Moss"^^xsd:string ;
+	dbp:fastestLaps	0 ,
+		2 ;
+	dbp:poles	0 ;
+	dbp:shortName	"BRP"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:British_Racing_Partnership	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/British_Racing_Partnership?oldid=721471916> ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/results/> ,
+		<http://www.f1technical.net/f1db/teams/20> ,
+		<http://www.grandprix.com/gpe/con-briti.html> ,
+		<http://8w.forix.com/brp.html> ;
+	dbp:staff	<http://dbpedia.org/resource/Tony_Robinson_(engineer)> ;
+	dbp:base	dbr:Tring ,
+		dbr:Hertfordshire ,
+		dbr:United_Kingdom ;
+	dbp:entrants	"British Racing Partnership"^^xsd:string ;
+	dbp:constructors	"Cooper, BRM, Lotus, BRP"^^xsd:string ;
+	dbp:engines	dbr:British_Racing_Motors ,
+		dbr:Coventry_Climax ,
+		dbr:Borgward ;
+	dbo:abstract	"British Racing Partnership, auch als B.R.P. bezeichnet, war ein britisches Motorsportteam, das 1963 und 1964 mit Eigenkonstruktionen in der Formel-1-Weltmeisterschaft am Start war."@de ,
+		"Le British Racing Partnership (BRP) \u00E9tait une \u00E9curie britannique de Formule 1, en activit\u00E9 entre les saisons 1959 et 1964."@fr ,
+		"British Racing Partnership foi uma equipe de corridas automobil\u00EDsticas do Reino Unido."@pt ,
+		"British Racing Partnership \u2013 zesp\u00F3\u0142 i konstruktor Formu\u0142y 1, aktywny w latach 1958\u20131964."@pl ,
+		"La British Racing Partnership (BRP) \u00E8 stato un costruttore britannico di Formula 1. Scuderia fondata da Alfred Moss e Ken Gregory, rispettivamente padre e manager di Stirling Moss. Nella prima stagione, anno 1963, esord\u00EC col modello MK1 nel Gran Premio del Belgio, dove Innes Ireland, partito settimo, fu costretto al ritiro. Il pilota inglese seppe conquistare per\u00F2 nella stagione due quarti posti (Gran Premio d'Olanda e Gran Premio d'Italia). L'anno seguente Ireland seppe conquistare due quinti posti (Austria e Italia), col modello MK2. In entrambe le stagioni la vettura era equipaggiata con motore BRM. Nel 1966 la scuderia John Willment Automobiles iscrisse una BRP privata, motorizzata Climax, al Gran Premio d'Italia ma non vi prese parte."@it ,
+		"British Racing Partnership (BRP) was a racing team, and latterly constructor, from the United Kingdom. It was established by Alfred Moss and Ken Gregory \u2014 Stirling Moss's father and former manager respectively \u2014 in 1957 to run cars for Stirling, when not under contract with other firms, along with other up-and-coming drivers."@en ,
+		"\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30D1\u30FC\u30C8\u30CA\u30FC\u30B7\u30C3\u30D7\uFF08British Racing Partnership, BRP\uFF09\u306F\u30011958\u5E74\u304B\u30891964\u5E74\u306B\u304B\u3051\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30C1\u30FC\u30E0\u30021962\u5E74\u307E\u3067\u306F\u30AF\u30FC\u30D1\u30FC\u3084BRM\u3001\u30ED\u30FC\u30BF\u30B9\u306E\u30B7\u30E3\u30B7\u3092\u8CFC\u5165\u3057\u3066\u53C2\u6226\u3057\u3066\u3044\u305F\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/British_Racing_Partnership_logo.png?width=300> ;
+	dbo:wikiPageRevisionID	721471916 ;
+	dbo:wikiPageID	1262579 ;
+	dbp:logo	<http://dbpedia.org/resource/File:British_Racing_Partnership_logo.png> .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:British_Racing_Partnership	ns24:hypernym	dbr:Team ;
+	dbp:lastRace	1964 ;
+	dbp:finalRace	1964 .
+<http://dbpedia.org/resource/1964_Mediterranean_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Partnership .
+wikipedia-en:British_Racing_Partnership	foaf:primaryTopic	dbr:British_Racing_Partnership .
+dbr:Lucien_Bianchi	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Partnership .
+dbr:Masten_Gregory	dbp:teams	dbr:British_Racing_Partnership .
+dbr:BRP	dbo:wikiPageDisambiguates	dbr:British_Racing_Partnership .
+<http://dbpedia.org/resource/1964_Daily_Mirror_Trophy>	dbo:firstDriverTeam	dbr:British_Racing_Partnership .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__41__1>	dbo:team	dbr:British_Racing_Partnership .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__29__1>	dbo:team	dbr:British_Racing_Partnership .
+<http://dbpedia.org/resource/1963_Solitude_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Partnership .
+dbr:Maserati_250F	dbp:team	dbr:British_Racing_Partnership .
+dbr:Lotus_18	dbp:team	dbr:British_Racing_Partnership .
+dbr:Lotus_24	dbp:team	dbr:British_Racing_Partnership .
+dbr:Juan_Manuel_Bordeu	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Partnership .
+dbr:Tom_Bridger	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Partnership .
+dbr:BRP_Mk2	dbo:wikiPageRedirects	dbr:British_Racing_Partnership .
+dbr:UDT_Laystall	dbo:wikiPageRedirects	dbr:British_Racing_Partnership .

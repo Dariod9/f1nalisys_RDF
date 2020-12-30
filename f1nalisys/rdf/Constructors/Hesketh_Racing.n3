@@ -1,0 +1,164 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Alan_Jones_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Hesketh_Racing .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1974_Swedish_Grand_Prix>	dbo:thirdTeam	dbr:Hesketh_Racing .
+dbr:Ibec-Hesketh_308LM	dbo:wikiPageRedirects	dbr:Hesketh_Racing .
+dbr:Alex_Ribeiro	<http://dbpedia.org/property/team(s)_>	dbr:Hesketh_Racing .
+<http://dbpedia.org/resource/1974_BRDC_International_Trophy>	dbo:fastestDriverTeam	dbr:Hesketh_Racing ;
+	dbo:firstDriverTeam	dbr:Hesketh_Racing ;
+	dbo:poleDriverTeam	dbr:Hesketh_Racing .
+<http://dbpedia.org/resource/1975_BRDC_International_Trophy>	dbo:fastestDriverTeam	dbr:Hesketh_Racing ;
+	dbo:poleDriverTeam	dbr:Hesketh_Racing .
+<http://dbpedia.org/resource/1974_Austrian_Grand_Prix>	dbo:thirdTeam	dbr:Hesketh_Racing .
+<http://dbpedia.org/resource/1975_Dutch_Grand_Prix>	dbo:firstDriverTeam	dbr:Hesketh_Racing .
+<http://dbpedia.org/resource/1975_French_Grand_Prix>	dbo:secondTeam	dbr:Hesketh_Racing .
+dbr:Derek_Daly	<http://dbpedia.org/property/team(s)_>	dbr:Hesketh_Racing .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Hesketh_308E	dbp:constructor	dbr:Hesketh_Racing .
+dbr:Rupert_Keegan	<http://dbpedia.org/property/team(s)_>	dbr:Hesketh_Racing .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Hesketh_Racing	foaf:primaryTopic	dbr:Hesketh_Racing .
+dbr:Hesketh	dbo:wikiPageDisambiguates	dbr:Hesketh_Racing .
+<http://dbpedia.org/resource/1974_Race_of_Champions>	dbo:poleDriverTeam	dbr:Hesketh_Racing .
+<http://dbpedia.org/resource/1976_Race_of_Champions>	dbo:thirdTeam	dbr:Hesketh_Racing .
+dbr:Eddie_Cheever	<http://dbpedia.org/property/team(s)_>	dbr:Hesketh_Racing .
+dbr:Harald_Ertl	<http://dbpedia.org/property/team(s)_>	dbr:Hesketh_Racing .
+dbr:Brett_Lunger__1975__1	dbo:team	dbr:Hesketh_Racing .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Hesketh_Racing	rdf:type	wikidata:Q43229 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Hesketh_Racing	rdf:type	ns7:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Hesketh_Racing	rdf:type	yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		dbo:SportsTeam ,
+		yago:CausalAgent100007347 ,
+		ns7:SocialPerson .
+@prefix schema:	<http://schema.org/> .
+dbr:Hesketh_Racing	rdf:type	schema:Organization ,
+		dbo:Agent ,
+		yago:Contractor109960891 ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		schema:SportsTeam .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Hesketh_Racing	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:PhysicalEntity100001930 ,
+		yago:Content105809192 ,
+		yago:Model105937112 ,
+		yago:WikicatSportsPrototypes ,
+		yago:Cognition100023271 ,
+		yago:PsychologicalFeature100023100 ,
+		dbo:FormulaOneTeam ,
+		yago:Prototype105937524 ,
+		yago:Representation105926676 ,
+		dbo:Organisation ,
+		yago:Abstraction100002137 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Hesketh_Racing	rdfs:label	"Hesketh Racing"@pl ,
+		"Hesketh (Formule 1)"@nl ,
+		"\u0425\u0435\u0441\u043A\u0435\u0442 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Hesketh Racing"@de ,
+		"Hesketh"@es ,
+		"Hesketh Racing"@pt ,
+		"Hesketh Racing"@it ,
+		"Hesketh Racing"@fr ,
+		"Hesketh Racing"@en ,
+		"\u30D8\u30B9\u30B1\u30B9\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0"@ja ;
+	rdfs:comment	"Hesketh Racing fue un equipo de F\u00F3rmula 1 fundado por el arist\u00F3crata ingl\u00E9s Lord Alexander Hesketh. Particip\u00F3 en el campeonato de F\u00F3rmula 1 de 1974 y 1978 y gan\u00F3 el Gran Premio de los Pa\u00EDses Bajos de 1975 con James Hunt. Previamente fue un equipo de F\u00F3rmula 3, siempre con Hunt como piloto."@es ,
+		"Hesketh Racing was a Formula One constructor from the United Kingdom, which competed from 1973 to 1978. The team competed in 52 World Championship Grands Prix, winning one and achieving eight further podium finishes. Its best placing in the World Constructors' Championship was fourth in 1975. Hesketh was notable for giving James Hunt his Formula One debut and he brought the team most of its success. Alan Jones also began his Formula One career in a privately entered Hesketh."@en ,
+		"Hesketh Racing foi uma equipe de F\u00F3rmula 1 fundada pelo aristocrata ingl\u00EAs Lord Alexander Hesketh. Participou da F\u00F3rmula 1 de 1974 a 1978 (em 1973, n\u00E3o teve os pontos computados por n\u00E3o ter se inscrito), e venceu o Grande Pr\u00EAmio da Holanda com James Hunt. Antes da F\u00F3rmula 1, a equipe disputava a F\u00F3rmula 3, sempre com Hunt como piloto. Al\u00E9m do ingl\u00EAs, outros pilotos correram pela equipe, como Alan Jones, Alex Dias Ribeiro, Eddie Cheever, Derek Daly e Rolf Stommelen."@pt ,
+		"\u0425\u0435\u0441\u043A\u0435\u0442 (\u0430\u043D\u0433\u043B. Hesketh \u0438\u043B\u0438 \u0430\u043D\u0433\u043B. Hesketh Racing) \u2014 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0441 1973 \u043F\u043E 1978 \u0433\u043E\u0434."@ru ,
+		"Hesketh Racing est une ancienne \u00E9curie de Formule 1 qui a disput\u00E9 six saisons du championnat du monde entre 1973 et 1978. L'\u00E9curie a pris part \u00E0 52 Grands Prix, a sign\u00E9 sa seule victoire au Grand Prix des Pays-Bas 1975 et sa meilleure qualification est une seconde place sur la grille (James Hunt \u00E0 deux reprises : \u00C9tats-Unis 1974 et Autriche 1975)."@fr ,
+		"La Hesketh Racing \u00E8 stata una squadra di Formula 1 fondata dall'aristocratico inglese Lord Alexander Hesketh. Ha partecipato al campionato dal 1974 al 1978 e ha vinto il Gran Premio d'Olanda 1975 con James Hunt. In precedenza aveva dato vita ad un team di Formula 3, sempre con Hunt come pilota."@it ,
+		"Hesketh Racing was een Brits raceteam dat uitkwam in de Formule 1 en werd opgericht door Alexander Hesketh. Het team nam tussen 1973 en 1978 deel aan het wereldkampioenschap Formule 1. Het team begon in 1972 in de lagere Formules met rijder James Hunt en schreef een groot aantal auto's af. Hesketh dacht dat het net zo duur was een Formule 1 auto af te schrijven als een in de lagere klassen en schreef zich in voor de Formule 1 met rijder Hunt. In tegenstelling tot het imago van rijder en team, zou Hunt gedurende het team steeds beter presteren; 6e tijdens de Franse, 4e in de Britse, 3e in de Nederlandse en uiteindelijk een zelfs een tweede plaats in de Amerikaanse Grand Prix."@nl ,
+		"Hesketh Racing \u2013 brytyjski zesp\u00F3\u0142 Formu\u0142y 1 za\u0142o\u017Cony przez lorda Alexandra Hesketha w 1972 roku. G\u0142\u00F3wnym konstruktorem zespo\u0142u by\u0142 dr Harvey Postelethwaite. W 1973 roku odkupili bolid od firmy March. W 1972 James Hunt zdoby\u0142 drugie miejsce i ustanowi\u0142 rekord toru w Grand Prix Stan\u00F3w Zjednoczonych w 1973 roku. W 1975 Hesketh odni\u00F3s\u0142 zwyci\u0119stwo w Grand Prix Holandii. Przez nast\u0119pne trzy sezony Hesketh zatrudnia\u0142 r\u00F3\u017Cnych kierowc\u00F3w, jednak nie odni\u00F3s\u0142 \u017Cadnych sukces\u00F3w. W 1978 roku wycofa\u0142 si\u0119 z wy\u015Bcig\u00F3w Grand Prix."@pl ,
+		"Hesketh Racing war ein englisches Motorsportteam, das von 1973 bis 1978 in der Formel 1 antrat und zeitweise auch bei Formel-3- und Formel-2-Rennen an den Start ging. Das Team hatte das Image einer Partytruppe und wird in erster Linie mit dem Rennfahrer James Hunt in Verbindung gebracht, der von 1972 bis einschlie\u00DFlich 1975 f\u00FCr Hesketh fuhr."@de ,
+		"\u30D8\u30B9\u30B1\u30B9 (Hesketh) \u306F1974\u5E74\u304B\u30891978\u5E74\u307E\u3067\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u30021973\u5E74\u30681974\u5E74\u306E\u5E8F\u76E42\u6226\u306F\u30DE\u30FC\u30C1\u306E\u30B7\u30E3\u30FC\u30B7\u3092\u4F7F\u3063\u3066\u53C2\u6226\u3057\u3066\u3044\u305F\u3002\u30C1\u30FC\u30E0\u4EE3\u8868\u306F\u30A2\u30EC\u30AF\u30B5\u30F3\u30C0\u30FC\u30FB\u30D8\u30B9\u30B1\u30B9\uFF08\u7B2C3\u4EE3\u30D8\u30B9\u30B1\u30B9\u7537\u7235\uFF09\u3002"@ja ;
+	dbp:drivers	"James Hunt"^^xsd:string ,
+		"Alan Jones"^^xsd:string .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Hesketh_Racing	owl:sameAs	dbpedia-wikidata:Q171596 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Hesketh_Racing	owl:sameAs	yago-res:Ibec-Hesketh_308LM .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Hesketh_Racing	owl:sameAs	dbpedia-pl:Hesketh_Racing .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Hesketh_Racing	owl:sameAs	dbpedia-pt:Hesketh_Racing ,
+		<http://rdf.freebase.com/ns/m.04k2tp> ,
+		<http://nl.dbpedia.org/resource/Hesketh_(Formule_1)> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Hesketh_Racing	owl:sameAs	dbpedia-fr:Hesketh_Racing .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Hesketh_Racing	owl:sameAs	dbpedia-cs:Hesketh ,
+		wikidata:Q171596 ,
+		dbr:Hesketh_Racing .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Hesketh_Racing	owl:sameAs	dbpedia-es:Hesketh .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Hesketh_Racing	owl:sameAs	dbpedia-de:Hesketh_Racing .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Hesketh_Racing	owl:sameAs	dbpedia-it:Hesketh_Racing ,
+		<http://ja.dbpedia.org/resource/\u30D8\u30B9\u30B1\u30B9\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0> ,
+		yago-res:Hesketh_Racing .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Hesketh_Racing	dct:subject	dbc:Formula_Two_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ,
+		dbc:British_auto_racing_teams ;
+	foaf:name	"Hesketh Racing"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Hesketh.gif> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Hesketh_Racing ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Hesketh"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Hesketh_Racing	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Hesketh_Racing?oldid=739521258> ;
+	dbp:logo	180 ;
+	dbp:fastestLaps	1 ;
+	dbp:poles	0 ;
+	dbp:base	"United Kingdom"^^xsd:string ;
+	dbp:debut	1974 ;
+	dbo:abstract	"La Hesketh Racing \u00E8 stata una squadra di Formula 1 fondata dall'aristocratico inglese Lord Alexander Hesketh. Ha partecipato al campionato dal 1974 al 1978 e ha vinto il Gran Premio d'Olanda 1975 con James Hunt. In precedenza aveva dato vita ad un team di Formula 3, sempre con Hunt come pilota."@it ,
+		"\u30D8\u30B9\u30B1\u30B9 (Hesketh) \u306F1974\u5E74\u304B\u30891978\u5E74\u307E\u3067\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u30021973\u5E74\u30681974\u5E74\u306E\u5E8F\u76E42\u6226\u306F\u30DE\u30FC\u30C1\u306E\u30B7\u30E3\u30FC\u30B7\u3092\u4F7F\u3063\u3066\u53C2\u6226\u3057\u3066\u3044\u305F\u3002\u30C1\u30FC\u30E0\u4EE3\u8868\u306F\u30A2\u30EC\u30AF\u30B5\u30F3\u30C0\u30FC\u30FB\u30D8\u30B9\u30B1\u30B9\uFF08\u7B2C3\u4EE3\u30D8\u30B9\u30B1\u30B9\u7537\u7235\uFF09\u3002"@ja ,
+		"Hesketh Racing war ein englisches Motorsportteam, das von 1973 bis 1978 in der Formel 1 antrat und zeitweise auch bei Formel-3- und Formel-2-Rennen an den Start ging. Das Team hatte das Image einer Partytruppe und wird in erster Linie mit dem Rennfahrer James Hunt in Verbindung gebracht, der von 1972 bis einschlie\u00DFlich 1975 f\u00FCr Hesketh fuhr."@de ,
+		"Hesketh Racing \u2013 brytyjski zesp\u00F3\u0142 Formu\u0142y 1 za\u0142o\u017Cony przez lorda Alexandra Hesketha w 1972 roku. G\u0142\u00F3wnym konstruktorem zespo\u0142u by\u0142 dr Harvey Postelethwaite. W 1973 roku odkupili bolid od firmy March. W 1972 James Hunt zdoby\u0142 drugie miejsce i ustanowi\u0142 rekord toru w Grand Prix Stan\u00F3w Zjednoczonych w 1973 roku. W 1975 Hesketh odni\u00F3s\u0142 zwyci\u0119stwo w Grand Prix Holandii. Przez nast\u0119pne trzy sezony Hesketh zatrudnia\u0142 r\u00F3\u017Cnych kierowc\u00F3w, jednak nie odni\u00F3s\u0142 \u017Cadnych sukces\u00F3w. W 1978 roku wycofa\u0142 si\u0119 z wy\u015Bcig\u00F3w Grand Prix."@pl ,
+		"Hesketh Racing was a Formula One constructor from the United Kingdom, which competed from 1973 to 1978. The team competed in 52 World Championship Grands Prix, winning one and achieving eight further podium finishes. Its best placing in the World Constructors' Championship was fourth in 1975. Hesketh was notable for giving James Hunt his Formula One debut and he brought the team most of its success. Alan Jones also began his Formula One career in a privately entered Hesketh."@en ,
+		"Hesketh Racing est une ancienne \u00E9curie de Formule 1 qui a disput\u00E9 six saisons du championnat du monde entre 1973 et 1978. L'\u00E9curie a pris part \u00E0 52 Grands Prix, a sign\u00E9 sa seule victoire au Grand Prix des Pays-Bas 1975 et sa meilleure qualification est une seconde place sur la grille (James Hunt \u00E0 deux reprises : \u00C9tats-Unis 1974 et Autriche 1975)."@fr ,
+		"Hesketh Racing fue un equipo de F\u00F3rmula 1 fundado por el arist\u00F3crata ingl\u00E9s Lord Alexander Hesketh. Particip\u00F3 en el campeonato de F\u00F3rmula 1 de 1974 y 1978 y gan\u00F3 el Gran Premio de los Pa\u00EDses Bajos de 1975 con James Hunt. Previamente fue un equipo de F\u00F3rmula 3, siempre con Hunt como piloto."@es ,
+		"Hesketh Racing was een Brits raceteam dat uitkwam in de Formule 1 en werd opgericht door Alexander Hesketh. Het team nam tussen 1973 en 1978 deel aan het wereldkampioenschap Formule 1. Het team begon in 1972 in de lagere Formules met rijder James Hunt en schreef een groot aantal auto's af. Hesketh dacht dat het net zo duur was een Formule 1 auto af te schrijven als een in de lagere klassen en schreef zich in voor de Formule 1 met rijder Hunt. In tegenstelling tot het imago van rijder en team, zou Hunt gedurende het team steeds beter presteren; 6e tijdens de Franse, 4e in de Britse, 3e in de Nederlandse en uiteindelijk een zelfs een tweede plaats in de Amerikaanse Grand Prix. Het team had ontwerper Harvey Postlethwaite aangenomen, die de Hesketh 308 ontwierp voor het seizoen 1974. Het team won prompt de eerste race, die echter niet meetelde voor het kampioenschap, tijdens de Silverstone International Trophee. Het team zou met Hunt driemaal een derde plaats halen, waardoor men zelfs auto's kon verkopen aan andere teams. Hesketh won met de auto in 1975 een race. Dit zou Hunt aan het einde van het seizoen een vierde plaats overall geven. In 1976 vertrok Hunt, Hesketh trok zich terug, maar het team bleef bestaan, echter onder een andere eigenaar. Het geluk bleef weg voor het team; men behaalde geen hogere positie dan de 7e in de seizoenen '76 en '77 en in 1978 ging het team uiteindelijk failliet."@nl ,
+		"\u0425\u0435\u0441\u043A\u0435\u0442 (\u0430\u043D\u0433\u043B. Hesketh \u0438\u043B\u0438 \u0430\u043D\u0433\u043B. Hesketh Racing) \u2014 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0441 1973 \u043F\u043E 1978 \u0433\u043E\u0434."@ru ,
+		"Hesketh Racing foi uma equipe de F\u00F3rmula 1 fundada pelo aristocrata ingl\u00EAs Lord Alexander Hesketh. Participou da F\u00F3rmula 1 de 1974 a 1978 (em 1973, n\u00E3o teve os pontos computados por n\u00E3o ter se inscrito), e venceu o Grande Pr\u00EAmio da Holanda com James Hunt. Antes da F\u00F3rmula 1, a equipe disputava a F\u00F3rmula 3, sempre com Hunt como piloto. Al\u00E9m do ingl\u00EAs, outros pilotos correram pela equipe, como Alan Jones, Alex Dias Ribeiro, Eddie Cheever, Derek Daly e Rolf Stommelen."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Hesketh.gif?width=300> ;
+	dbo:wikiPageRevisionID	739521258 ;
+	dbo:wikiPageID	1226685 ;
+	dbp:races	52 ;
+	dbp:wins	1 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Hesketh_Racing	ns24:hypernym	dbr:Constructor ;
+	dbp:staff	<http://dbpedia.org/resource/Alexander_Fermor-Hesketh,_3rd_Baron_Hesketh> ,
+		dbr:Harvey_Postlethwaite ;
+	dbp:lastRace	1978 .
+<http://dbpedia.org/resource/1974_United_States_Grand_Prix>	dbo:thirdTeam	dbr:Hesketh_Racing .
+dbr:James_Hunt	<http://dbpedia.org/property/team(s)_>	dbr:Hesketh_Racing .
+dbr:Hesketh_308C	dbp:team	dbr:Hesketh_Racing ;
+	dbp:constructor	dbr:Hesketh_Racing .
+<http://dbpedia.org/resource/1975_Argentine_Grand_Prix>	dbo:fastestDriverTeam	dbr:Hesketh_Racing ;
+	dbo:secondTeam	dbr:Hesketh_Racing .
+dbr:Harvey_Postlethwaite	dbo:knownFor	dbr:Hesketh_Racing .
+dbr:Guy_Edwards	<http://dbpedia.org/property/team(s)_>	dbr:Hesketh_Racing .
+<http://dbpedia.org/resource/1975_Austrian_Grand_Prix>	dbo:secondTeam	dbr:Hesketh_Racing .
+dbr:Hesketh_308LM	dbo:wikiPageRedirects	dbr:Hesketh_Racing .
+dbr:Ibec_P6	dbo:wikiPageRedirects	dbr:Hesketh_Racing .

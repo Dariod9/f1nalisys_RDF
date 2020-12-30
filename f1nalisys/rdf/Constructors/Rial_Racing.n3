@@ -1,0 +1,131 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Rial_(racing_team)>	dbo:wikiPageRedirects	dbr:Rial_Racing .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Rial_Racing	foaf:primaryTopic	dbr:Rial_Racing .
+dbr:Rial	dbo:wikiPageDisambiguates	dbr:Rial_Racing .
+dbr:Christian_Danner__1989__1	dbo:team	dbr:Rial_Racing .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Rial_ARC1	dbp:team	dbr:Rial_Racing ;
+	dbp:constructor	dbr:Rial_Racing .
+dbr:Rial_ARC2	dbp:team	dbr:Rial_Racing ;
+	dbp:constructor	dbr:Rial_Racing .
+dbr:Andrea_de_Cesaris	<http://dbpedia.org/property/team(s)_>	dbr:Rial_Racing .
+dbr:Bertrand_Gachot	<http://dbpedia.org/property/team(s)_>	dbr:Rial_Racing .
+dbr:Gregor_Foitek	<http://dbpedia.org/property/team(s)_>	dbr:Rial_Racing .
+dbr:Pierre-Henri_Raphanel	<http://dbpedia.org/property/team(s)_>	dbr:Rial_Racing .
+dbr:Volker_Weidler	<http://dbpedia.org/property/team(s)_>	dbr:Rial_Racing .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Rial_Racing	rdf:type	wikidata:Q43229 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Rial_Racing	rdf:type	owl:Thing ,
+		dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Rial_Racing	rdf:type	yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Rial_Racing	rdf:type	schema:SportsTeam .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Rial_Racing	rdf:type	ns10:SocialPerson ,
+		schema:Organization ,
+		yago:Contractor109960891 ,
+		dbo:Organisation ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		ns10:Agent ,
+		wikidata:Q24229398 ,
+		dbo:FormulaOneTeam ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		dbo:SportsTeam ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatGermanRacecarConstructors ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Rial_Racing	rdfs:label	"Rial (automobilismo)"@it ,
+		"Rial (equipo de F\u00F3rmula 1)"@es ,
+		"Rial Racing"@pl ,
+		"Rial Racing"@en ,
+		"Rial Racing"@pt ,
+		"Rial (Formule 1)"@nl ,
+		"Rial Racing"@de ,
+		"Rial Racing"@fr ,
+		"\u30EA\u30A2\u30EB (F1)"@ja ;
+	rdfs:comment	"\u30EA\u30A2\u30EB\uFF08Rial\uFF09\u306F1978\u5E74\u306B\u5275\u696D\u3057\u305F\u30C9\u30A4\u30C4\u306E\u30DB\u30A4\u30FC\u30EB\u30E1\u30FC\u30AB\u30FC\u3067\u3042\u308A\u30011988\u5E74\u304B\u30891989\u5E74\u306B\u304B\u3051\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u3002\u672C\u62E0\u5730\u306F\u30C9\u30A4\u30C4\u3002F1\u30C1\u30FC\u30E0\u5275\u7ACB\u8005\u306F1977\u5E74\u304B\u30891984\u5E74\u307E\u3067ATS\u30C1\u30FC\u30E0\u306E\u30AA\u30FC\u30CA\u30FC\u3060\u3063\u305F\u30AE\u30E5\u30F3\u30BF\u30FC\u30FB\u30B7\u30E5\u30DF\u30C3\u30C8\u3002"@ja ,
+		"Rial is a German producer of light alloy wheels and rims, and was a Formula One constructor competing in the 1988 and 1989 seasons. Founded in the 1970s as a wheel rim producer, the company was bought by G\u00FCnter Schmid, ex-owner of the ATS wheels company in 1987. Schmid followed the same strategy as he had at ATS, advertising the Rial wheel brand by entering Formula One as a constructor. Rial participated in 32 Grands Prix, entering a total of 48 cars. They scored six championship points, finishing a highest of ninth in the constructors championship in 1988. After leaving Formula One at the end of the 1989 season, the Rial Racing division was closed, and the company did not race again. Rial continues to manufacture wheels and rims from its factory in Fu\u00DFg\u00F6nheim."@en ,
+		"La Rial \u00E8 una ex scuderia di formula 1 presente nei campionato 1988 e 1989 fondata da Gunther Schmidt, gi\u00E0 titolare della scuderia ATS che corse in formula 1 dal 1977 al 1984.Come la precedente scuderia dell'imprenditore tedesco, il nome derivava da quello di una societ\u00E0 produttrice di cerchi in lega per automobili."@it ,
+		"Rial (pe\u0142na nazwa Rial Racing) \u2013 niemiecki zesp\u00F3\u0142 wy\u015Bcigowy, za\u0142o\u017Cony w 1987 r. przez G\u00FCnther Schmidt w\u0142a\u015Bciciela zespo\u0142u ATS kt\u00F3ry startowa\u0142 w Formule 1 latach 1977-1984. Nazwa zespo\u0142u pochodzi od utworzonej nowej firmy Schmidta pod nazw\u0105 Rial. W historii Formu\u0142y 1 kierowcy Rial zdobyli tylko 6 punkt\u00F3w w 32 wy\u015Bcigach Grand Prix. Najlepszy wynik - czwarte miejsce - uzyskano z: (Andrea de Cesaris w Grand Prix Stan\u00F3w Zjednoczonych - Wsch\u00F3d 1988 i Christian Danner w Grand Prix Stan\u00F3w Zjednoczonych 1989)."@pl ,
+		"Mario Rial es una marca alemana de llantas de aleaci\u00F3n ligera y tambi\u00E9n fue un equipo que compiti\u00F3 en la F\u00F3rmula 1 en las temporadas de 1988 y 1989. Estaba compuesto de s\u00F3lo 20 miembros y para \u00E9sta escuder\u00EDa pilotaron Andrea de Cesaris y Christian Danner."@es ,
+		"Rial was een Duits Formule 1-team dat deelnam aan het kampioenschap in 1988 en 1989. Het team werd opgericht door velgenfabrikant G\u00FCnther Schmid die eerder de oprichter was van het ATS-team dat tussen 1977 en 1984 actief was in de Formule 1."@nl ,
+		"Rial Racing foi uma equipe de F\u00F3rmula 1 da Alemanha e participou dos campeonatos de 1988 e 1989. Foi uma equipe com pouco dinheiro, mas com muita compet\u00EAncia. No seu ano de estreia, a equipe alem\u00E3 contou com o italiano Andrea de Cesaris. O carro era muito bom, melhor que muita equipe grande, e De Cesaris conseguiu se classificar em todas as corridas da Temporada de 1988. Mas em muitas vezes o carro tinha problemas, alguns boatos diziam que ela n\u00E3o tinha um carro que tinha automonia de combustivel, mesmo com o carro cheio de gasolina. Naquela \u00E9poca n\u00E3o se podia reabastecer. No Grande Pr\u00EAmio do Canad\u00E1, De Cesaris estava pr\u00F3x\u00EDmo dos dois primeiros pontos do time, mas um problema no carro tirou o italiano da zona de pontos. Na corrida seguinte, o italiano finalmente consegue levar o time alem\u00E3"@pt ,
+		"Rial Racing est une ancienne \u00E9curie de Formule 1 qui a disput\u00E9 deux saisons de championnat du monde en 1988 et 1989. En 20 qualifications, Rial a inscrit 6 points en championnat du monde."@fr ,
+		"Rial Racing war ein Formel-1-Team des deutschen Unternehmen Rial Leichtmetallfelgen GmbH (RIAL) aus Fu\u00DFg\u00F6nheim, das in den Jahren 1988 und 1989 an der Formel-1-Weltmeisterschaft teilnahm. Teamleiter war in jener Zeit G\u00FCnther Schmid, der einige Jahre zuvor bereits Teamleiter bei ATS Racing gewesen war."@de .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Rial_Racing	owl:sameAs	dbpedia-wikidata:Q171974 ,
+		dbr:Rial_Racing .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Rial_Racing	owl:sameAs	dbpedia-de:Rial_Racing ,
+		<http://ja.dbpedia.org/resource/\u30EA\u30A2\u30EB_(F1)> ,
+		<http://nl.dbpedia.org/resource/Rial_(Formule_1)> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Rial_Racing	owl:sameAs	dbpedia-pt:Rial_Racing .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Rial_Racing	owl:sameAs	dbpedia-fr:Rial_Racing ,
+		<http://it.dbpedia.org/resource/Rial_(automobilismo)> ,
+		<http://rdf.freebase.com/ns/m.04n6n9> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Rial_Racing	owl:sameAs	yago-res:Rial_Racing .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Rial_Racing	owl:sameAs	dbpedia-pl:Rial_Racing ,
+		<http://es.dbpedia.org/resource/Rial_(equipo_de_F\u00F3rmula_1)> ,
+		wikidata:Q171974 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Rial_Racing	dct:subject	dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:German_auto_racing_teams ,
+		dbc:German_racecar_constructors ;
+	foaf:name	"Rial Racing"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Rial_Racing ;
+	dbp:races	32 ;
+	dbp:founders	<http://dbpedia.org/resource/G\u00FCnter_Schmid> ;
+	dbp:debut	1988 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Andrea de Cesaris"^^xsd:string ,
+		"Christian Danner"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:shortName	"Rial"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Rial_Racing	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Rial_Racing?oldid=697108409> .
+@prefix ns21:	<http://rial.de/_rial/index.php/en/> .
+dbr:Rial_Racing	dbo:wikiPageExternalLink	ns21:rial-home ;
+	dbp:staff	"G\u00FCnter Schmid, Gustav Brunner, Stefan Fober"^^xsd:string ;
+	dbp:base	<http://dbpedia.org/resource/Fu\u00DFg\u00F6nheim> ,
+		dbr:Germany ,
+		dbr:Rhineland-Palatinate ;
+	dbo:abstract	"Mario Rial es una marca alemana de llantas de aleaci\u00F3n ligera y tambi\u00E9n fue un equipo que compiti\u00F3 en la F\u00F3rmula 1 en las temporadas de 1988 y 1989. Estaba compuesto de s\u00F3lo 20 miembros y para \u00E9sta escuder\u00EDa pilotaron Andrea de Cesaris y Christian Danner. En la temporada de 1988, Rial compiti\u00F3 con un \u00FAnico coche pilotado por Andrea de Cesaris, siendo la sorpresa en el Gran Premio de Detroit de 1988 clasificando duod\u00E9cimo y en la final acabando el cuarto, un milagro.El a\u00F1o 1989 vio a Rial compet\u00EDr con dos coches, el primero al mando de de Cesaris y el segundo por el debutante Christian Danner.En ese a\u00F1o Rial concebi\u00F3 otro milagro, Danner clasific\u00F3 \u00FAltimo en el Gran Premio de USA, y acab\u00F3 finalmente en cuarta posici\u00F3n final.Despu\u00E9s del GP de Canad\u00E1 el equipo jam\u00E1s consigui\u00F3 clasificar a un Gran Premio y sumado a los problemas financieros que acarreaba, el equipo puso f\u00EDn a su estad\u00EDa en la Formula 1."@es ,
+		"Rial (pe\u0142na nazwa Rial Racing) \u2013 niemiecki zesp\u00F3\u0142 wy\u015Bcigowy, za\u0142o\u017Cony w 1987 r. przez G\u00FCnther Schmidt w\u0142a\u015Bciciela zespo\u0142u ATS kt\u00F3ry startowa\u0142 w Formule 1 latach 1977-1984. Nazwa zespo\u0142u pochodzi od utworzonej nowej firmy Schmidta pod nazw\u0105 Rial. W historii Formu\u0142y 1 kierowcy Rial zdobyli tylko 6 punkt\u00F3w w 32 wy\u015Bcigach Grand Prix. Najlepszy wynik - czwarte miejsce - uzyskano z: (Andrea de Cesaris w Grand Prix Stan\u00F3w Zjednoczonych - Wsch\u00F3d 1988 i Christian Danner w Grand Prix Stan\u00F3w Zjednoczonych 1989)."@pl ,
+		"\u30EA\u30A2\u30EB\uFF08Rial\uFF09\u306F1978\u5E74\u306B\u5275\u696D\u3057\u305F\u30C9\u30A4\u30C4\u306E\u30DB\u30A4\u30FC\u30EB\u30E1\u30FC\u30AB\u30FC\u3067\u3042\u308A\u30011988\u5E74\u304B\u30891989\u5E74\u306B\u304B\u3051\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u3002\u672C\u62E0\u5730\u306F\u30C9\u30A4\u30C4\u3002F1\u30C1\u30FC\u30E0\u5275\u7ACB\u8005\u306F1977\u5E74\u304B\u30891984\u5E74\u307E\u3067ATS\u30C1\u30FC\u30E0\u306E\u30AA\u30FC\u30CA\u30FC\u3060\u3063\u305F\u30AE\u30E5\u30F3\u30BF\u30FC\u30FB\u30B7\u30E5\u30DF\u30C3\u30C8\u3002"@ja ,
+		"Rial Racing est une ancienne \u00E9curie de Formule 1 qui a disput\u00E9 deux saisons de championnat du monde en 1988 et 1989. En 20 qualifications, Rial a inscrit 6 points en championnat du monde."@fr ,
+		"La Rial \u00E8 una ex scuderia di formula 1 presente nei campionato 1988 e 1989 fondata da Gunther Schmidt, gi\u00E0 titolare della scuderia ATS che corse in formula 1 dal 1977 al 1984.Come la precedente scuderia dell'imprenditore tedesco, il nome derivava da quello di una societ\u00E0 produttrice di cerchi in lega per automobili."@it ,
+		"Rial is a German producer of light alloy wheels and rims, and was a Formula One constructor competing in the 1988 and 1989 seasons. Founded in the 1970s as a wheel rim producer, the company was bought by G\u00FCnter Schmid, ex-owner of the ATS wheels company in 1987. Schmid followed the same strategy as he had at ATS, advertising the Rial wheel brand by entering Formula One as a constructor. Rial participated in 32 Grands Prix, entering a total of 48 cars. They scored six championship points, finishing a highest of ninth in the constructors championship in 1988. After leaving Formula One at the end of the 1989 season, the Rial Racing division was closed, and the company did not race again. Rial continues to manufacture wheels and rims from its factory in Fu\u00DFg\u00F6nheim."@en ,
+		"Rial was een Duits Formule 1-team dat deelnam aan het kampioenschap in 1988 en 1989. Het team werd opgericht door velgenfabrikant G\u00FCnther Schmid die eerder de oprichter was van het ATS-team dat tussen 1977 en 1984 actief was in de Formule 1."@nl ,
+		"Rial Racing war ein Formel-1-Team des deutschen Unternehmen Rial Leichtmetallfelgen GmbH (RIAL) aus Fu\u00DFg\u00F6nheim, das in den Jahren 1988 und 1989 an der Formel-1-Weltmeisterschaft teilnahm. Teamleiter war in jener Zeit G\u00FCnther Schmid, der einige Jahre zuvor bereits Teamleiter bei ATS Racing gewesen war."@de ,
+		"Rial Racing foi uma equipe de F\u00F3rmula 1 da Alemanha e participou dos campeonatos de 1988 e 1989. Foi uma equipe com pouco dinheiro, mas com muita compet\u00EAncia. No seu ano de estreia, a equipe alem\u00E3 contou com o italiano Andrea de Cesaris. O carro era muito bom, melhor que muita equipe grande, e De Cesaris conseguiu se classificar em todas as corridas da Temporada de 1988. Mas em muitas vezes o carro tinha problemas, alguns boatos diziam que ela n\u00E3o tinha um carro que tinha automonia de combustivel, mesmo com o carro cheio de gasolina. Naquela \u00E9poca n\u00E3o se podia reabastecer. No Grande Pr\u00EAmio do Canad\u00E1, De Cesaris estava pr\u00F3x\u00EDmo dos dois primeiros pontos do time, mas um problema no carro tirou o italiano da zona de pontos. Na corrida seguinte, o italiano finalmente consegue levar o time alem\u00E3o aos primeiros pontos na sua hist\u00F3ria, com um 4\u00BA lugar num GP excessivamente desgastante. O carro resistiu e chegou ao final atr\u00E1s apenas de Ayrton Senna e Alain Prost com os McLaren, e de Thierry Boutsen, com a Benetton. Na \u00FAltima corrida do ano, a Rial estava de novo nos pontos, mas um problema no final da corrida acabava com a chance do time terminar com mais um resultado na Zona de Pontua\u00E7\u00E3o. A Rial chegou ao final do ano com 3 pontos, pouco para o que ela fez na temporada inteira. Merecia pelo menos ter feito uns 7 ou 8 pontos. Em 1989, a Rial j\u00E1 era um carro bem mais fraco do que o carro de 1988. Mas ainda assim, conquistou 3 pontos e ficou numa honrosa 12\u00BA Posi\u00E7\u00E3o na Temporada, e os pontos foram marcados em uma \u00FAnica corrida pelo piloto alem\u00E3o Christian Danner. A Rial, na Segunda parte da Temporada de 1989, n\u00E3o conseguiu classifica\u00E7\u00E3o em nenhum GP. O time correu 4 corridas apenas com um carro s\u00F3, sempre com Danner. E as quatro vezes o carro terminou a corrida. Os pilotos em 1989 foram: Christian Danner, Volker Weidler, Pierre-Henri Raphanel, Gregor Foitek e Bertrand Gachot. Depois da Temporada de 1989, a equipe n\u00E3o continuou suas opera\u00E7\u00F5es por absoluta falta de dinheiro."@pt ;
+	dbo:wikiPageRevisionID	697108409 ;
+	dbo:wikiPageID	1262626 ;
+	dbp:logo	250 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:Rial_Racing	ns22:hypernym	dbr:Producer ;
+	dbp:lastRace	1989 .
+dbr:Christian_Danner	<http://dbpedia.org/property/team(s)_>	dbr:Rial_Racing .

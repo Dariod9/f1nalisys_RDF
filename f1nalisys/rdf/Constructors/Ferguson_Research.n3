@@ -1,0 +1,73 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Ferguson_Research	foaf:primaryTopic	dbr:Ferguson_Research .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ferguson_Research	rdf:type	yago:Contractor109960891 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Organism100004475 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Ferguson_Research	rdf:type	dbo:Company ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:Businessperson109882716 ,
+		yago:Capitalist109609232 ,
+		yago:Supplier110677271 ,
+		yago:WikicatAutoPartsSuppliers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ferguson_Research	rdfs:label	"Ferguson Research"@en ,
+		"Ferguson Research"@pl ,
+		"Ferguson Research"@de ;
+	rdfs:comment	"Die Ferguson Research Ltd. war ein Unternehmen aus England, das von Sir Harry Ferguson sowie dem Rennfahrer und Techniker Tony Rolt gegr\u00FCndet wurde und haupts\u00E4chlich f\u00FCr seinen innovativen Allradantrieb sowie als Hersteller eines allradgetriebenen F1-Rennwagens bekannt ist."@de ,
+		"Harry Ferguson Research Limited was a British company founded by Harry Ferguson who was mostly known as \"the father of the modern farm tractor\". He was also a pioneer aviator, becoming one of the first to build and fly his own aeroplane in Ireland, and also went on develop four-wheel drive systems for cars including pioneering their use in Formula One racing cars. The company was based in Siskin Drive, in Coventry, England."@en ,
+		"Ferguson, pe\u0142na nazwa Harry Ferguson Research lub Ferguson Research \u2013 brytyjska firma za\u0142o\u017Cona w 1950 roku przez Harry\u2019ego Fergusona. Firma ta zaprojektowa\u0142a mi\u0119dzy innymi pierwszy samoch\u00F3d z nap\u0119dem na cztery ko\u0142a \u2013 Ferguson P99, kt\u00F3ry startowa\u0142 w wy\u015Bcigach Formu\u0142y 1 w 1961 roku."@pl .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ferguson_Research	owl:sameAs	wikidata:Q174065 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ferguson_Research	owl:sameAs	yago-res:Ferguson_Research ,
+		<http://id.dbpedia.org/resource/Ferguson_Research_Ltd.> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ferguson_Research	owl:sameAs	dbpedia-pl:Ferguson_Research .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ferguson_Research	owl:sameAs	dbpedia-de:Ferguson_Research ,
+		dbr:Ferguson_Research .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Ferguson_Research	owl:sameAs	dbpedia-wikidata:Q174065 ,
+		<http://rdf.freebase.com/ns/m.037qkj> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ferguson_Research	dct:subject	dbc:British_racecar_constructors ,
+		dbc:British_auto_racing_teams ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ferguson_climax_P99.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ferguson_Research .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ferguson_Research	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ferguson_Research?oldid=721092863> ;
+	dbo:wikiPageExternalLink	<http://www.ferguson-museum.co.uk/index.php> ,
+		<http://www.masseyferguson.com> ,
+		<http://www.formula1.com/results/> ,
+		<http://www.f1fanatic.co.uk/2011/07/02/ferguson-p99-fourwheeldrive-f1-winner/> ;
+	dbo:abstract	"Ferguson, pe\u0142na nazwa Harry Ferguson Research lub Ferguson Research \u2013 brytyjska firma za\u0142o\u017Cona w 1950 roku przez Harry\u2019ego Fergusona. Firma ta zaprojektowa\u0142a mi\u0119dzy innymi pierwszy samoch\u00F3d z nap\u0119dem na cztery ko\u0142a \u2013 Ferguson P99, kt\u00F3ry startowa\u0142 w wy\u015Bcigach Formu\u0142y 1 w 1961 roku."@pl ,
+		"Die Ferguson Research Ltd. war ein Unternehmen aus England, das von Sir Harry Ferguson sowie dem Rennfahrer und Techniker Tony Rolt gegr\u00FCndet wurde und haupts\u00E4chlich f\u00FCr seinen innovativen Allradantrieb sowie als Hersteller eines allradgetriebenen F1-Rennwagens bekannt ist. Harry Ferguson war urspr\u00FCnglich an dem Unternehmen Massey Ferguson beteiligt, einem auch damals schon weltweit agierenden Hersteller von Traktoren. 1950 entschloss er sich jedoch, dieses Unternehmen zu verlassen, seine Anteile zu verkaufen und mit dem Erl\u00F6s die Ferguson Research Ltd. zu gr\u00FCnden. Dort widmete er sich in erster Linie der Entwicklung von Rennwagen-Komponenten, bis er 1960 \u00FCberraschend starb. Nach der Schlie\u00DFung von Ferguson Research gr\u00FCndete Tony Rolt 1971 mit dem Einverst\u00E4ndnis von Fergusons Familie das Nachfolgeunternehmen FF Developments, das er selbst 1994 verkaufte."@de ,
+		"Harry Ferguson Research Limited was a British company founded by Harry Ferguson who was mostly known as \"the father of the modern farm tractor\". He was also a pioneer aviator, becoming one of the first to build and fly his own aeroplane in Ireland, and also went on develop four-wheel drive systems for cars including pioneering their use in Formula One racing cars. The company was based in Siskin Drive, in Coventry, England."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ferguson_climax_P99.jpg?width=300> ;
+	dbo:wikiPageRevisionID	721092863 ;
+	dbo:wikiPageID	744474 .
+@prefix ns16:	<http://purl.org/linguistics/gold/> .
+dbr:Ferguson_Research	ns16:hypernym	dbr:Company .
+<http://dbpedia.org/resource/Ferguson_Research_Ltd.>	dbo:wikiPageRedirects	dbr:Ferguson_Research .
+dbr:Harry_Ferguson_Research	dbo:wikiPageRedirects	dbr:Ferguson_Research .
+<http://dbpedia.org/resource/Ferguson_(constructor)>	dbo:wikiPageRedirects	dbr:Ferguson_Research .
+dbr:Ferguson_Research_Ltd	dbo:wikiPageRedirects	dbr:Ferguson_Research .

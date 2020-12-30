@@ -1,0 +1,298 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Ecurie_Bonnier	dbp:constructors	dbr:Maserati_in_motorsport .
+dbr:Danny_Kladis	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Maserati_in_motorsport	rdf:type	wikidata:Q43229 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Maserati_in_motorsport	rdf:type	yago:Enterprise108056231 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Maserati_in_motorsport	rdf:type	dbo:FormulaOneTeam ,
+		yago:Manufacturer108060446 ,
+		yago:Business108061042 ,
+		yago:Team108208560 ,
+		yago:Unit108189659 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Maserati_in_motorsport	rdf:type	owl:Thing ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatFormulaOneEngineManufacturers ,
+		dbo:Organisation ,
+		dbo:Agent .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Maserati_in_motorsport	rdf:type	ns7:SocialPerson ,
+		yago:WikicatGrandPrixTeams ,
+		ns7:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Maserati_in_motorsport	rdf:type	schema:SportsTeam ,
+		yago:WikicatWorldSportscarChampionshipTeams ,
+		yago:Abstraction100002137 ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		yago:WikicatSportsCarManufacturers ,
+		schema:Organization ,
+		dbo:SportsTeam ,
+		wikidata:Q24229398 ,
+		yago:CarManufacturer108066763 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Maserati_in_motorsport	rdfs:label	"Maserati in motorsport"@en ,
+		"Maserati Squadra Corse"@it ,
+		"\u041C\u0430\u0437\u0435\u0440\u0430\u0442\u0438 (\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430)"@ru ;
+	rdfs:comment	"Maserati Corse \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0441\u043E\u0431\u043E\u0439 \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u0435\u043D\u0438\u0435 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u043E\u0439 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Maserati. \u0421\u0435\u0439\u0447\u0430\u0441 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 FIA GT1 \u0438 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u043E\u0432\u044B\u0432\u0430\u0435\u0442 \u043C\u043E\u043D\u043E\u043A\u0443\u0431\u043E\u043A \u00ABTrofeo Maserati\u00BB \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 Maserati GranTurismo MC Stradale."@ru ,
+		"La Squadra Corse della Maserati ha rappresentato per molti anni l'anima della casa automobilistica, impegnandosi in ogni settore delle competizioni: la storia della Maserati \u00E8 caratterizzata proprio dalla sorprendente versatilit\u00E0 dell'impegno sportivo, sin dalla nascita come Garage-Officina Alfieri Maserati."@it ,
+		"Throughout its history, the Italian auto manufacturer Maserati has participated in various forms of motorsports including Formula One, sportscar racing and touring car racing, both as a works team and through private entrants."@en ;
+	dbp:drivers	"Juan Manuel Fangio"^^xsd:string ,
+		"Stirling Moss"^^xsd:string .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Maserati_in_motorsport	owl:sameAs	yago-res:Maserati_in_motorsport ,
+		dbr:Maserati_in_motorsport .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Maserati_in_motorsport	owl:sameAs	dbpedia-wikidata:Q27154893 ,
+		wikidata:Q27154893 ,
+		<http://rdf.freebase.com/ns/m.0bm9tzb> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Maserati_in_motorsport	owl:sameAs	dbpedia-it:Maserati_Squadra_Corse .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Maserati_in_motorsport	dct:subject	dbc:Sports_car_manufacturers ,
+		dbc:Formula_One_engine_manufacturers ,
+		dbc:Vehicle_constructors_in_motorsport ,
+		dbc:Maserati ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Italian_racecar_constructors ,
+		dbc:World_Sportscar_Championship_teams ,
+		dbc:Italian_auto_racing_teams ,
+		dbc:Grand_Prix_teams .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Maserati_in_motorsport	foaf:name	"Officine Alfieri Maserati"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Maserati_in_motorsport	foaf:isPrimaryTopicOf	wikipedia-en:Maserati_in_motorsport ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	2 ;
+	dbp:shortName	"Maserati"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Maserati_in_motorsport	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Maserati_in_motorsport?oldid=740471194> ;
+	dbp:founders	dbr:Maserati_Brothers ;
+	dbp:fastestLaps	13 ;
+	dbp:poles	8 ;
+	dbp:base	"Modena, Italy"^^xsd:string ;
+	dbp:debut	1950 ;
+	dbo:wikiPageExternalLink	<http://www.maseraticorse.com/> ;
+	dbo:abstract	"La Squadra Corse della Maserati ha rappresentato per molti anni l'anima della casa automobilistica, impegnandosi in ogni settore delle competizioni: la storia della Maserati \u00E8 caratterizzata proprio dalla sorprendente versatilit\u00E0 dell'impegno sportivo, sin dalla nascita come Garage-Officina Alfieri Maserati."@it ,
+		"Throughout its history, the Italian auto manufacturer Maserati has participated in various forms of motorsports including Formula One, sportscar racing and touring car racing, both as a works team and through private entrants."@en ,
+		"Maserati Corse \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0441\u043E\u0431\u043E\u0439 \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u0435\u043D\u0438\u0435 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u043E\u0439 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Maserati. \u0421\u0435\u0439\u0447\u0430\u0441 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 FIA GT1 \u0438 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u043E\u0432\u044B\u0432\u0430\u0435\u0442 \u043C\u043E\u043D\u043E\u043A\u0443\u0431\u043E\u043A \u00ABTrofeo Maserati\u00BB \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 Maserati GranTurismo MC Stradale."@ru ;
+	dbo:wikiPageRevisionID	740471194 ;
+	dbo:wikiPageID	26878200 ;
+	dbp:races	56 ;
+	dbp:wins	9 ;
+	dbp:staff	"Valerio Colotti"^^xsd:string ,
+		dbr:Gioacchino_Colombo ;
+	dbp:lastRace	1957 .
+dbr:Ecurie_Rosier	dbp:constructors	dbr:Maserati_in_motorsport ;
+	dbp:engines	dbr:Maserati_in_motorsport .
+dbr:Jean_Behra	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Guerino_Bertocchi	dbo:knownFor	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1955_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1949_French_Grand_Prix>	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1955_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1957_Australian_Grand_Prix>	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1948_Buenos_Aires_Grand_Prix_(I)>	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1950_Richmond_Trophy>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1933_Tunis_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1957_Moroccan_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1936_Pau_Grand_Prix>	dbo:firstDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_Buenos_Aires_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1958_Caen_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1953_German_Grand_Prix>	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_Belgian_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_German_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1957_German_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1949_Swiss_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+dbr:Maserati_in_Formula_One	dbo:wikiPageRedirects	dbr:Maserati_in_motorsport .
+dbr:Officine_Alfieri_Maserati	dbo:wikiPageRedirects	dbr:Maserati_in_motorsport .
+dbr:Hermann_Lang__1	dbo:team	dbr:Maserati_in_motorsport ;
+	dbo:manufacturer	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1933_Belgian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1953_Belgian_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1954_Belgian_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1949_Belgian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1950_Chilean_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+dbr:Hermann_Lang	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Luigi_Piotti	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Sergio_Mantovani	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1949_San_Remo_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1948_Italian_Grand_Prix>	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1949_Italian_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1930_Monza_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1930_Rome_Grand_Prix>	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1950_San_Remo_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1937_San_Remo_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1948_San_Remo_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1952_Italian_Grand_Prix>	dbp:fastTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1953_Italian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_Italian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1957_Italian_Grand_Prix>	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1957_Pescara_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+dbr:San_Remo_Grand_Prix	dbp:recordTeam	dbr:Maserati_in_motorsport .
+wikipedia-en:Maserati_in_motorsport	foaf:primaryTopic	dbr:Maserati_in_motorsport .
+dbr:Phil_Hill	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Carl_Forberg	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Jackie_Holmes	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Johnny_McDowell	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Travis_Webb	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Manny_Ayulo	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Jim_Rigsby	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Henry_Banks	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Cesare_Perdisa	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1933_French_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1947_French_Grand_Prix>	dbp:fastTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1950_Pau_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1957_Pau_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1953_French_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_French_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1957_French_Grand_Prix>	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1953_British_Grand_Prix>	dbp:fastTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1954_British_Grand_Prix>	dbp:fastTeam	dbr:Maserati_in_motorsport ;
+	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_British_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+dbr:Fred_Agabashian	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Harry_Schell	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1953_Swiss_Grand_Prix>	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+dbr:Toulo_de_Graffenried	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1959_Australian_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+dbr:Louis_Chiron	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/Peter_Collins_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/Jos\u00E9_Froil\u00E1n_Gonz\u00E1lez>	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Umberto_Maglioli	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/Nasif_Est\u00E9fano>	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Luigi_Villoresi	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/Enrico_Plat\u00E9>	dbp:constructors	dbr:Maserati_in_motorsport .
+dbr:Roy_Salvadori	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Alberto_Ascari	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Franco_Comotti	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Piero_Taruffi	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1950_Jersey_Road_Race>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+dbr:Louis_Rosier	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Bill_Vukovich	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/Ron_Flockhart_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1949_British_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1955_Avon_Trophy>	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/Gerino_Gerini_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Luigi_Musso	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Roberto_Mieres	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Juan_Manuel_Fangio	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Carlos_Menditeguy	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/Oscar_Alfredo_G\u00E1lvez>	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1953_Argentine_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1954_Argentine_Grand_Prix>	dbo:firstDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_Argentine_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1957_Argentine_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1958_Argentine_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1930_San_Sebasti\u00E1n_Grand_Prix>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1954_Spanish_Grand_Prix>	dbo:secondTeam	dbr:Maserati_in_motorsport .
+dbr:Franco_Rol	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Maserati_in_Motorsport	dbo:wikiPageRedirects	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1950_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1957_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1932_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1931_Monaco_Grand_Prix>	dbp:fastTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_BARC_Aintree_200>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1956_Glover_Trophy>	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:firstDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:poleDriverTeam	dbr:Maserati_in_motorsport ;
+	dbo:secondTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1950_British_Empire_Trophy>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+dbr:Bruce_Halford	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1951_Dutch_Grand_Prix>	dbo:poleDriverTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1953_Dutch_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/1955_Dutch_Grand_Prix>	dbo:thirdTeam	dbr:Maserati_in_motorsport ;
+	dbo:fastestDriverTeam	dbr:Maserati_in_motorsport .
+dbr:Troy_Ruttman	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+<http://dbpedia.org/resource/Onofre_Marim\u00F3n>	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Hans_Herrmann	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Casimiro_de_Oliveira	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Ecurie_Nationale_Belge	dbp:constructors	dbr:Maserati_in_motorsport .

@@ -1,0 +1,119 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Kojima_Racing	dbo:wikiPageRedirects	dbr:Kojima_Engineering .
+<http://dbpedia.org/resource/1976_Japanese_Grand_Prix>	dbo:fastestDriverTeam	dbr:Kojima_Engineering .
+dbr:Kojima	dbo:wikiPageDisambiguates	dbr:Kojima_Engineering .
+dbr:Masahiro_Hasemi	<http://dbpedia.org/property/team(s)_>	dbr:Kojima_Engineering .
+dbr:Noritake_Takahara	<http://dbpedia.org/property/team(s)_>	dbr:Kojima_Engineering .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Kojima_Engineering	foaf:primaryTopic	dbr:Kojima_Engineering .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Kojima_Engineering	rdf:type	dbo:FormulaOneTeam ,
+		dbo:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Kojima_Engineering	rdf:type	yago:Contractor109960891 ,
+		dbo:Organisation .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Kojima_Engineering	rdf:type	ns6:SocialPerson ,
+		yago:Party110402824 ,
+		yago:Builder109878275 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Kojima_Engineering	rdf:type	wikidata:Q24229398 ,
+		yago:Organism100004475 ,
+		ns6:Agent ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 .
+@prefix schema:	<http://schema.org/> .
+dbr:Kojima_Engineering	rdf:type	schema:SportsTeam ,
+		schema:Organization .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Kojima_Engineering	rdf:type	owl:Thing ,
+		wikidata:Q43229 ,
+		yago:WikicatJapaneseRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Kojima_Engineering	rdfs:label	"Kojima Engineering"@es ,
+		"Kojima Engineering"@pl ,
+		"\u30B3\u30B8\u30DE\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0"@ja ,
+		"Kojima"@it ,
+		"Kojima Engineering"@de ,
+		"Kojima"@fr ,
+		"Kojima Engineering"@en ,
+		"Kojima"@pt ;
+	rdfs:comment	"Kojima war ein 1976 und 1977 in der Formel 1 aktiver Rennstall. In beiden Jahren startete das Team ausschlie\u00DFlich beim Japan-Grand-Prix in Fuji. 1976 ging das Team mit nur einem Fahrer an den Start. Beim letzten Saisonrennen in japanischen Fuji startete der Japaner Masahiro Hasemi im Ford-Cosworth DFV getriebenen Kojima KE007 von Startplatz 10 und wurde im Regenchaos Elfter. Die schnellste Rennrunde ging in diesem Rennen ebenfalls an Hasemi, allerdings war seine Zeit auch die einzige gewertete Rundenzeit des Rennens."@de ,
+		"Kojima est une ancienne \u00E9curie japonaise de sport automobile. Pr\u00E9sente pendant plusieurs ann\u00E9es dans le championnat du Japon de Formule 2, Kojima a \u00E9galement con\u00E7u une Formule 1 qui a particip\u00E9 aux deux premiers Grands Prix du Japon en 1976 et 1977. Si Kojima n'a disput\u00E9 que deux Grands Prix de Formule 1 et couvert seulement 602 km (soit 138 tours) elle a r\u00E9ussi l'exploit de r\u00E9aliser un meilleur tour en course en 1976 gr\u00E2ce \u00E0 Masahiro Hasemi sur la KE007."@fr ,
+		"Kojima Engineering was a Japanese Formula One constructor who entered cars in the Japanese Grand Prix in 1976 and 1977. The team was founded in 1976 by Matsuhisa Kojima. Kojima had made a fortune importing bananas, and was a motor-racing enthusiast, having ridden in Motocross himself in the 1960s. He began entering Formula Two cars in Japan, and struck a deal with Dunlop to supply tyres for the 1976 Japanese Grand Prix. To go with these, the company constructed the KE007 chassis, and brought in several staff-members from the Maki team. They helped arrange an entry for the Grand Prix at Fuji, and a Cosworth DFV engine."@en ,
+		"Kojima Engineering \u2013 japo\u0144ski konstruktor samochod\u00F3w wy\u015Bcigowych i by\u0142y zesp\u00F3\u0142 Formu\u0142y 1. Za\u0142o\u017Cony przez Matsuhisa Kojima, motocyklist\u0119 motocrossowego, kt\u00F3ry zdoby\u0142 maj\u0105tek na imporcie banan\u00F3w. Zesp\u00F3\u0142 zadebiutowa\u0142 podczas drugiej rundy w All-Japan F2000 sezonie 1974, debiutanckim sezonie zdo\u0142a\u0142 zdoby\u0107 tytu\u0142 wicemistrza kierowc\u00F3w za spraw\u0105 Masahiro Hasemi, a Kazuyoshi Hoshino zako\u0144czy\u0142 sezon na pi\u0105tym miejscu klasyfikacji generalnej, maj\u0105c tyle samo punkt\u00F3w co: Moto Kitano i Tetsu Izukawa."@pl ,
+		"La Kojima \u00E8 stata un costruttore giapponese di Formula 1. Fondata da Matsuhisa Kojima partecip\u00F2 a due sole edizioni del Gran Premio del Giappone: 1976 e 1977."@it ,
+		"\u682A\u5F0F\u4F1A\u793E\u30B3\u30B8\u30DE\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0\u306F\u3001\u4EAC\u90FD\u5E9C\u306B\u672C\u793E\u3092\u7F6E\u304F\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u95A2\u9023\u4F01\u696D\u30FB\u30C1\u30FC\u30E0\u3002\u304B\u3064\u3066\u306F\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066\u6D3B\u52D5\u3057\u3001F1\u306E\u65E5\u672C\u3067\u306E\u4E16\u754C\u9078\u624B\u6A29\u516C\u5F0F\u6226\u306B\u30822\u5EA6\u30B9\u30DD\u30C3\u30C8\u53C2\u6226\u3057\u305F\u3002 \u73FE\u5728\u306F\u30D1\u30EF\u30FC\u30DC\u30FC\u30C8\u30EC\u30FC\u30B9\u306B\u53C2\u6226\u3059\u308BKE\u30EC\u30FC\u30B7\u30F3\u30B0\u306E\u307B\u304B\u3001\u5404\u7A2E\u30DC\u30FC\u30C8\u306E\u8CA9\u58F2\u30FB\u30E1\u30F3\u30C6\u30CA\u30F3\u30B9\u3092\u53D6\u308A\u6271\u3046KE\u30DE\u30EA\u30F3\u3001\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u306E\u30C1\u30E3\u30FC\u30BF\u30FC\u4FBF\u3092\u6271\u3046KE\u30A8\u30A2\u3001\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u30A4\u30D9\u30F3\u30C8\u4F01\u753B\u306A\u3069\u306E\u4E8B\u696D\u3092\u884C\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"Kojima Engineering foi uma equipe japonesa de F\u00F3rmula 1 que disputou apenas dois grandes pr\u00EAmios, ambos no Jap\u00E3o, em 1976 e 1977. A equipe foi fundada por Matsuhisa Kojima, e teve como pilotos Masahiro Hasemi, Noritake Takahara e Kazuyoshi Hoshino. Sua melhor coloca\u00E7\u00E3o foi um d\u00E9cimo-primeiro lugar no GP do Jap\u00E3o de 1976, obtido por Hasemi, que ainda fez a melhor volta da prova, beneficiado pelo rendimento dos pneus Dunlop."@pt ,
+		"Matsuhisa Kojima, el fundador, hizo fortuna \"importando pl\u00E1tanos\" y le apasionaba el mundo del motor, por lo que fue piloto de motocross durante los a\u00F1os 60. Antes de empezar su aventura en la F\u00F3rmula 1 fund\u00F3 su equipo en la F\u00F3rmula 2 en los '70. Lleg\u00F3 a un acuerdo con Dunlop para montar sus neum\u00E1ticos y competir en el Gran Premio de Jap\u00F3n de 1976 y dejar la F\u00F3rmula 2."@es .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Kojima_Engineering	dbp:drivers	"Masahiro Hasemi"^^xsd:string .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Kojima_Engineering	owl:sameAs	yago-res:Kojima_Engineering .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Kojima_Engineering	owl:sameAs	dbpedia-fr:Kojima ,
+		<http://ja.dbpedia.org/resource/\u30B3\u30B8\u30DE\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Kojima_Engineering	owl:sameAs	dbpedia-es:Kojima_Engineering ,
+		<http://rdf.freebase.com/ns/m.04kvys> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Kojima_Engineering	owl:sameAs	dbpedia-wikidata:Q172465 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Kojima_Engineering	owl:sameAs	dbpedia-pt:Kojima ,
+		wikidata:Q172465 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Kojima_Engineering	owl:sameAs	dbpedia-de:Kojima_Engineering .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Kojima_Engineering	owl:sameAs	dbpedia-it:Kojima .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Kojima_Engineering	owl:sameAs	dbpedia-pl:Kojima_Engineering ,
+		dbr:Kojima_Engineering .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Kojima_Engineering	dct:subject	dbc:Japanese_auto_racing_teams ,
+		dbc:Japanese_racecar_constructors ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ;
+	foaf:name	"Kojima Engineering"@en ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/KojimaEngineering.png> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Kojima_Engineering ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Kojima Engineering"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Kojima_Engineering	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Kojima_Engineering?oldid=689040044> ;
+	dbp:founders	dbr:Matsuhisa_Kojima ;
+	dbp:logo	<http://dbpedia.org/resource/File:KojimaEngineering.png> ;
+	dbp:fastestLaps	1 ;
+	dbp:poles	0 ;
+	dbp:base	dbr:Japan ;
+	dbp:constructors	"Kojima-Ford"^^xsd:string ;
+	dbp:debut	1976 ;
+	dbo:wikiPageExternalLink	<http://www.oldracingcars.com/f1/marque.php?MarqueID=KOJ> ;
+	dbo:abstract	"Kojima Engineering \u2013 japo\u0144ski konstruktor samochod\u00F3w wy\u015Bcigowych i by\u0142y zesp\u00F3\u0142 Formu\u0142y 1. Za\u0142o\u017Cony przez Matsuhisa Kojima, motocyklist\u0119 motocrossowego, kt\u00F3ry zdoby\u0142 maj\u0105tek na imporcie banan\u00F3w. Zesp\u00F3\u0142 zadebiutowa\u0142 podczas drugiej rundy w All-Japan F2000 sezonie 1974, debiutanckim sezonie zdo\u0142a\u0142 zdoby\u0107 tytu\u0142 wicemistrza kierowc\u00F3w za spraw\u0105 Masahiro Hasemi, a Kazuyoshi Hoshino zako\u0144czy\u0142 sezon na pi\u0105tym miejscu klasyfikacji generalnej, maj\u0105c tyle samo punkt\u00F3w co: Moto Kitano i Tetsu Izukawa."@pl ,
+		"Kojima est une ancienne \u00E9curie japonaise de sport automobile. Pr\u00E9sente pendant plusieurs ann\u00E9es dans le championnat du Japon de Formule 2, Kojima a \u00E9galement con\u00E7u une Formule 1 qui a particip\u00E9 aux deux premiers Grands Prix du Japon en 1976 et 1977. Si Kojima n'a disput\u00E9 que deux Grands Prix de Formule 1 et couvert seulement 602 km (soit 138 tours) elle a r\u00E9ussi l'exploit de r\u00E9aliser un meilleur tour en course en 1976 gr\u00E2ce \u00E0 Masahiro Hasemi sur la KE007."@fr ,
+		"\u682A\u5F0F\u4F1A\u793E\u30B3\u30B8\u30DE\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0\u306F\u3001\u4EAC\u90FD\u5E9C\u306B\u672C\u793E\u3092\u7F6E\u304F\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u95A2\u9023\u4F01\u696D\u30FB\u30C1\u30FC\u30E0\u3002\u304B\u3064\u3066\u306F\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066\u6D3B\u52D5\u3057\u3001F1\u306E\u65E5\u672C\u3067\u306E\u4E16\u754C\u9078\u624B\u6A29\u516C\u5F0F\u6226\u306B\u30822\u5EA6\u30B9\u30DD\u30C3\u30C8\u53C2\u6226\u3057\u305F\u3002 \u73FE\u5728\u306F\u30D1\u30EF\u30FC\u30DC\u30FC\u30C8\u30EC\u30FC\u30B9\u306B\u53C2\u6226\u3059\u308BKE\u30EC\u30FC\u30B7\u30F3\u30B0\u306E\u307B\u304B\u3001\u5404\u7A2E\u30DC\u30FC\u30C8\u306E\u8CA9\u58F2\u30FB\u30E1\u30F3\u30C6\u30CA\u30F3\u30B9\u3092\u53D6\u308A\u6271\u3046KE\u30DE\u30EA\u30F3\u3001\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u306E\u30C1\u30E3\u30FC\u30BF\u30FC\u4FBF\u3092\u6271\u3046KE\u30A8\u30A2\u3001\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u30A4\u30D9\u30F3\u30C8\u4F01\u753B\u306A\u3069\u306E\u4E8B\u696D\u3092\u884C\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"Kojima Engineering foi uma equipe japonesa de F\u00F3rmula 1 que disputou apenas dois grandes pr\u00EAmios, ambos no Jap\u00E3o, em 1976 e 1977. A equipe foi fundada por Matsuhisa Kojima, e teve como pilotos Masahiro Hasemi, Noritake Takahara e Kazuyoshi Hoshino. Sua melhor coloca\u00E7\u00E3o foi um d\u00E9cimo-primeiro lugar no GP do Jap\u00E3o de 1976, obtido por Hasemi, que ainda fez a melhor volta da prova, beneficiado pelo rendimento dos pneus Dunlop."@pt ,
+		"Kojima Engineering was a Japanese Formula One constructor who entered cars in the Japanese Grand Prix in 1976 and 1977. The team was founded in 1976 by Matsuhisa Kojima. Kojima had made a fortune importing bananas, and was a motor-racing enthusiast, having ridden in Motocross himself in the 1960s. He began entering Formula Two cars in Japan, and struck a deal with Dunlop to supply tyres for the 1976 Japanese Grand Prix. To go with these, the company constructed the KE007 chassis, and brought in several staff-members from the Maki team. They helped arrange an entry for the Grand Prix at Fuji, and a Cosworth DFV engine. The car was tested throughout the Autumn of 1976, with Masahiro Hasemi, a Japanese Formula 2 driver, at the wheel. Hasemi then scored a huge stir at the Japanese Grand Prix, posting 4th best time in the first qualifying session. However, he crashed in the second session, and the car had to be rebuilt virtually from scratch. Hasemi started 10th, and ran superbly before tyre trouble led to an eventual 11th place. He was credited with fastest lap, but since then there have been questions raised over the accuracy of this. A planned entry into the 1977 South American races didn't emerge, but the team built a new Kojima KE009 for the 1977 Japanese Grand Prix. Bridgestone this time supplied the tyres, but these were unsatisfactory, and Noritake Takahara started only 19th before crashing avoiding debris. A second KE009 was entered by Heros Racing for the same race, Kazuyoshi Hoshino starting and finishing 11th. Kojima continued as an F2 entrant until the late 1980s, but did not venture again beyond domestic racing."@en ,
+		"Kojima war ein 1976 und 1977 in der Formel 1 aktiver Rennstall. In beiden Jahren startete das Team ausschlie\u00DFlich beim Japan-Grand-Prix in Fuji. 1976 ging das Team mit nur einem Fahrer an den Start. Beim letzten Saisonrennen in japanischen Fuji startete der Japaner Masahiro Hasemi im Ford-Cosworth DFV getriebenen Kojima KE007 von Startplatz 10 und wurde im Regenchaos Elfter. Die schnellste Rennrunde ging in diesem Rennen ebenfalls an Hasemi, allerdings war seine Zeit auch die einzige gewertete Rundenzeit des Rennens. Im Jahr darauf setzte Kojima Noritake Takahara ein. Ebenfalls mit dem V8-Motor von Ford-Cosworth im Heck, startete der Japaner in einem Kojima KE009 und konnte vom 19. Startplatz aus das Rennen aufgrund eines Unfalls nicht beenden. Das Kundenteam Heros Racing Corporation setzte ebenfalls ein baugleiches Fahrzeug im selben Rennen ein. Kazuyoshi Hoshino beendete das Rennen von Platz elf gestartet auf dem elften Rang. Nach dem Ende der Saison wurde eine Weitergabe des Autos an das deutsche Team Kauhsen erwogen; Willi Kauhsen entschied sich aber letztlich f\u00FCr die Entwicklung eines eigenen Fahrzeugs. Nach 1977 trat das Team in der Formel 1 nicht mehr in Erscheinung, war aber noch bis in die 1980er in der japanischen Formel 2 am Start. Der Hauptfokus lag ab 1978 auf Powerboat-Rennen."@de ,
+		"La Kojima \u00E8 stata un costruttore giapponese di Formula 1. Fondata da Matsuhisa Kojima partecip\u00F2 a due sole edizioni del Gran Premio del Giappone: 1976 e 1977."@it ,
+		"Matsuhisa Kojima, el fundador, hizo fortuna \"importando pl\u00E1tanos\" y le apasionaba el mundo del motor, por lo que fue piloto de motocross durante los a\u00F1os 60. Antes de empezar su aventura en la F\u00F3rmula 1 fund\u00F3 su equipo en la F\u00F3rmula 2 en los '70. Lleg\u00F3 a un acuerdo con Dunlop para montar sus neum\u00E1ticos y competir en el Gran Premio de Jap\u00F3n de 1976 y dejar la F\u00F3rmula 2."@es ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/KojimaEngineering.png?width=300> ;
+	dbo:wikiPageRevisionID	689040044 ;
+	dbo:wikiPageID	1235176 ;
+	dbp:races	2 ;
+	dbp:wins	0 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Kojima_Engineering	ns23:hypernym	dbr:Constructor ;
+	dbp:lastRace	1977 .
+dbr:Kojima_KE007	dbo:wikiPageRedirects	dbr:Kojima_Engineering .
+dbr:Kojima_KE009	dbo:wikiPageRedirects	dbr:Kojima_Engineering .

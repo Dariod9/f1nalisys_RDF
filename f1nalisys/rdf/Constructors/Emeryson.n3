@@ -1,0 +1,98 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Emeryson	foaf:primaryTopic	dbr:Emeryson .
+dbr:Paul_Emery	<http://dbpedia.org/property/team(s)_>	dbr:Emeryson .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1961_Lewis-Evans_Trophy>	dbo:secondTeam	dbr:Emeryson .
+dbr:Tony_Settember	<http://dbpedia.org/property/team(s)_>	dbr:Emeryson .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Ecurie_Nationale_Belge	dbp:constructors	dbr:Emeryson .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Emeryson	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:Contractor109960891 ,
+		yago:Organism100004475 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:WikicatFormulaTwoConstructors .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Emeryson	rdfs:label	"Emeryson"@fr ,
+		"Emeryson"@it ,
+		"Emeryson"@en ,
+		"Emeryson Cars"@de ,
+		"Emeryson"@pl ,
+		"Emeryson"@pt ;
+	rdfs:comment	"Emeryson \u00E8 stato un costruttore di auto da competizione britannico.Le prime vetture videro la luce nel laboratorio di George Emery e Alan Brown negli anni '30, ma fu il figlio di George, Paul, che assicur\u00F2 lo sviluppo della casa negli anni '50 con la partecipazione alle competizioni. Le Emeryson debuttarono nella Formula 3 inglese, che prevedeva motori di derivazione motociclistica da 500 cm\u00B3 a partire dal 1953. Le vetture, prima con motori Alta e poi Aston Martin furono poco competitive e non ottennero grandi risultati, questo per\u00F2 non scoraggi\u00F2 Paul Emery che nel 1954 costru\u00EC una vettura per la Formula 1 che per\u00F2 fu impiegata solo in gare al di fuori del campionato mondiale e senza ottenere risultati di prestigio."@it ,
+		"Emeryson Cars \u2013 brytyjski konstruktor samochod\u00F3w wy\u015Bcigowych, za\u0142o\u017Cony w latach 30. XX wieku. Emeryson bra\u0142 udzia\u0142 w kilku wy\u015Bcigach Formu\u0142y 1, nie odnosz\u0105c sukces\u00F3w."@pl ,
+		"Emeryson \u00E9tait un constructeur de monoplaces de Formule 1 britannique fond\u00E9 par Paul Emery, George Emery et Alan Brown dans les ann\u00E9es 1930 et engag\u00E9e \u00E0 plusieurs reprises en Formule 1 entre 1956 et 1962. Les Emeryson n'ont jamais inscrit de points en championnat, le meilleur r\u00E9sultat obtenu \u00E9tant une onzi\u00E8me place au Grand Prix de Grande-Bretagne 1962."@fr ,
+		"Emeryson Cars war ein Hersteller von Sport- und Monoposto-Rennwagen, der mit diversen Rennfahrzeugen von 1956 bis 1962 immer wieder bei Formel-1-Rennen am Start war. Der Name Emeryson geht auf die Familie Emery zur\u00FCck, die eng mit dem Unternehmen verbunden war. Wichtigster Repr\u00E4sentant der Familie war der britische Konstrukteur und Rennfahrer Paul Emery, der die meisten Emeryson-Fahrzeuge konstruierte. Schon dessen Vater George baute in den 1930er-Jahren 250-cm\u00B3-Einsitzer."@de ,
+		"Emeryson foi uma equipe de F\u00F3rmula 1 brit\u00E2nica. Fundada em 1956, correu em 1961 e 1962."@pt ,
+		"Emeryson was a Formula One constructor briefly in 1956, and then again briefly in 1961 and 1962."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Emeryson	owl:sameAs	wikidata:Q173553 ,
+		<http://rdf.freebase.com/ns/m.04kwjt> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Emeryson	owl:sameAs	dbpedia-pl:Emeryson .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Emeryson	owl:sameAs	dbpedia-pt:Emeryson .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Emeryson	owl:sameAs	dbpedia-it:Emeryson ,
+		dbr:Emeryson .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Emeryson	owl:sameAs	dbpedia-id:Emeryson .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Emeryson	owl:sameAs	dbpedia-de:Emeryson_Cars .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Emeryson	owl:sameAs	yago-res:Emeryson .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Emeryson	owl:sameAs	dbpedia-wikidata:Q173553 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Emeryson	owl:sameAs	dbpedia-fr:Emeryson .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Emeryson	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Emeryson_F2_F1.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Emeryson ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Emeryson	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Emeryson?oldid=701479398> ;
+	dbp:founders	dbr:Paul_Emery ;
+	dbp:entrants	dbr:Ecurie_Maarsbergen ,
+		"Andr\u00E9 Pilette,"^^xsd:string ,
+		"Emeryson,"^^xsd:string ,
+		"Ecurie Nationale Belge,"^^xsd:string ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:engines	dbr:Straight-4 ,
+		dbr:Coventry_Climax ,
+		dbr:Alta_Car_and_Engineering_Company ,
+		dbr:Maserati_in_Motorsport ;
+	dbp:debut	1956 ;
+	dbo:abstract	"Emeryson \u00E8 stato un costruttore di auto da competizione britannico.Le prime vetture videro la luce nel laboratorio di George Emery e Alan Brown negli anni '30, ma fu il figlio di George, Paul, che assicur\u00F2 lo sviluppo della casa negli anni '50 con la partecipazione alle competizioni. Le Emeryson debuttarono nella Formula 3 inglese, che prevedeva motori di derivazione motociclistica da 500 cm\u00B3 a partire dal 1953. Le vetture, prima con motori Alta e poi Aston Martin furono poco competitive e non ottennero grandi risultati, questo per\u00F2 non scoraggi\u00F2 Paul Emery che nel 1954 costru\u00EC una vettura per la Formula 1 che per\u00F2 fu impiegata solo in gare al di fuori del campionato mondiale e senza ottenere risultati di prestigio. Nel 1956, Paul Emery disput\u00F2 la sua prima gara nel campionato, il Gran Premio di Gran Bretagna, con una Emeryson-Alta 56, dove part\u00EC 23\u00B0 ma dovette ritirarsi dopo 11 giri. La monoposto non fu pi\u00F9 usata in campionato ed Emery, conscio della mancanza di competitivit\u00E0 della vettura decise di proseguire la sua carriera di pilota con una Connaught-Alta. Nel 1960 Connaught lasci\u00F2 la Formula 1 ed Emery riprese la sua attivit\u00E0 di costruttore, con l'appoggio dei meccanici che lavoravano per la Connaught, costruendo una nuova monoposto di Formula 2. Nel 1961, la giovane squadra Ecurie Nationale Belge (costituita nel 1959) acquist\u00F2 due Emeryson-Maserati 61 per Lucien Bianchi e Olivier Gendebien, sempre senza risultati. La squadra belga riprogett\u00F2 le Emeryson per cercare di renderle pi\u00F9 competitive ma n\u00E9 Bianchi n\u00E9 Gendebien riuscirono a qualificarsi ai gran premi cui provarono a partecipare, tanto che la ENB decise di passare alle Lotus. Nel 1962 le Emeryson ottennero per tre volte la qualificazione, Wolfgang Seidel, su Emeryson-Climax 61, part\u00EC in ventesima posizione al Gran Premio d'Olanda ma fin\u00EC non classificato. La squadra fu allora venduta a Hugh Powell che affid\u00F2 la monoposto a Tony Settember. Settember al Gran Premio di Gran Bretagna, realizz\u00F2 i migliori risultati di sempre per la marca, qualificandosi diciannovesimo e terminando la gara undicesimo, poi si qualific\u00F2 al Gran Premio d'Italia senza per\u00F2 terminare la gara. Nel 1963 le Emeryson-Powell furono ribattezzate Scirocco-Powell SP e motorizzate, di volta in volta, con un BRM o con un Climax, qualificandosi in altre 5 gare del campionato del mondo nel 1963 e 1964. Tuttavia Emeryson non spar\u00EC dal mondo delle competizioni automobilistiche ma Paul Emery e suo figlio costruirono ancora vetture destinate alla Formula Junior."@it ,
+		"Emeryson Cars \u2013 brytyjski konstruktor samochod\u00F3w wy\u015Bcigowych, za\u0142o\u017Cony w latach 30. XX wieku. Emeryson bra\u0142 udzia\u0142 w kilku wy\u015Bcigach Formu\u0142y 1, nie odnosz\u0105c sukces\u00F3w."@pl ,
+		"Emeryson foi uma equipe de F\u00F3rmula 1 brit\u00E2nica. Fundada em 1956, correu em 1961 e 1962."@pt ,
+		"Emeryson Cars war ein Hersteller von Sport- und Monoposto-Rennwagen, der mit diversen Rennfahrzeugen von 1956 bis 1962 immer wieder bei Formel-1-Rennen am Start war. Der Name Emeryson geht auf die Familie Emery zur\u00FCck, die eng mit dem Unternehmen verbunden war. Wichtigster Repr\u00E4sentant der Familie war der britische Konstrukteur und Rennfahrer Paul Emery, der die meisten Emeryson-Fahrzeuge konstruierte. Schon dessen Vater George baute in den 1930er-Jahren 250-cm\u00B3-Einsitzer. Paul Emery konstruierte Fahrzeuge f\u00FCr die Formel Junior, die Formel 2, die Formel 3 sowie die Formel 1 und fuhr die Wagen teilweise auch selbst. Emery baute innovative und schnelle Rennfahrzeuge, die aber wenig Standfest waren. Das Unternehmen litt best\u00E4ndig unter fehlenden Finanzmitteln, daran \u00E4nderte auch die Sponsort\u00E4tigkeit des fr\u00FCheren Rennfahrers Alan Brown Ende der 1950er-Jahre nichts. 1960 investierte der US-Amerikaner Hugh Powell erhebliche Mittel in das Unternehmen, zog sich nach Unstimmigkeiten mit Emery aber wieder zur\u00FCck. Powell gr\u00FCndete 1963 gemeinsam mit Tony Settember Scirocco Powell Racing Cars und Emeryson stellte 1962 Produktion und Rennbetrieb ein."@de ,
+		"Emeryson \u00E9tait un constructeur de monoplaces de Formule 1 britannique fond\u00E9 par Paul Emery, George Emery et Alan Brown dans les ann\u00E9es 1930 et engag\u00E9e \u00E0 plusieurs reprises en Formule 1 entre 1956 et 1962. Les Emeryson n'ont jamais inscrit de points en championnat, le meilleur r\u00E9sultat obtenu \u00E9tant une onzi\u00E8me place au Grand Prix de Grande-Bretagne 1962."@fr ,
+		"Emeryson was a Formula One constructor briefly in 1956, and then again briefly in 1961 and 1962."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Emeryson_F2_F1.jpg?width=300> ;
+	dbo:wikiPageRevisionID	701479398 ;
+	dbo:wikiPageID	1235381 ;
+	dbp:races	7 ;
+	dbp:name	"Emeryson"^^xsd:string ;
+	dbp:wins	0 ;
+	dbp:finalRace	1962 .

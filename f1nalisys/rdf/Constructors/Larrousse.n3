@@ -1,0 +1,162 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Pierre-Henri_Raphanel	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+dbr:Hideki_Noda	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+dbr:Ukyo_Katayama	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+dbr:Olivier_Beretta	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Larrousse	foaf:primaryTopic	dbr:Larrousse .
+dbr:Aguri_Suzuki	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+dbr:Yannick_Dalmas	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+<http://dbpedia.org/resource/\u00C9rik_Comas>	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+<http://dbpedia.org/resource/\u00C9ric_Bernard>	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Larrousse	rdf:type	wikidata:Q24229398 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Larrousse	rdf:type	dbo:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Larrousse	rdf:type	yago:WikicatFrenchRacecarConstructors ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		yago:WikicatFormulaOneConstructors .
+@prefix schema:	<http://schema.org/> .
+dbr:Larrousse	rdf:type	schema:Organization ,
+		yago:Party110402824 ,
+		dbo:Agent ,
+		yago:Builder109878275 ,
+		yago:Contractor109960891 ,
+		wikidata:Q43229 ,
+		yago:PhysicalEntity100001930 ,
+		schema:SportsTeam ,
+		dbo:Organisation ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Larrousse	rdf:type	owl:Thing .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Larrousse	rdf:type	ns9:Agent ,
+		ns9:SocialPerson ,
+		dbo:FormulaOneTeam .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Larrousse	rdfs:label	"Larrousse"@it ,
+		"Larrousse"@pt ,
+		"Larrousse"@es ,
+		"Larrousse"@fr ,
+		"\u30E9\u30EB\u30FC\u30B9 (F1\u30C1\u30FC\u30E0)"@ja ,
+		"Larrousse"@en ,
+		"Larrousse (Formule 1)"@nl ,
+		"Larrousse"@de ,
+		"\u041B\u0430\u0440\u0440\u0443\u0441\u0441 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Larrousse"@pl ;
+	rdfs:comment	"\u041B\u0430\u0440\u0440\u0443\u0301\u0441\u0441 (\u0444\u0440. Larrousse) \u2014 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1987 \u0433\u043E\u0434\u0443 \u0414\u0438\u0434\u044C\u0435 \u041A\u0430\u043B\u044C\u043C\u0435\u043B\u0435\u043C \u0438 \u0431\u044B\u0432\u0448\u0438\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C \u0416\u0435\u0440\u0430\u0440\u043E\u043C \u041B\u0430\u0440\u0440\u0443\u0441\u0441\u043E\u043C. \u041F\u0435\u0440\u0432\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u043E\u0441\u0438\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u00AB\u041B\u0430\u0440\u0440\u0443\u0441\u0441 \u0438 \u041A\u0430\u043B\u044C\u043C\u0435\u043B\u044C\u00BB \u2014 \u0444\u0440. Larrousse & Calmels). \u0411\u0430\u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u043D\u0430\u0445\u043E\u0434\u0438\u043B\u0430\u0441\u044C \u0432 \u044E\u0436\u043D\u044B\u0445 \u043F\u0440\u0438\u0433\u043E\u0440\u043E\u0434\u0430\u0445 \u041F\u0430\u0440\u0438\u0436\u0430. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 \u00AB\u041B\u0430\u0440\u0440\u0443\u0441\u0441\u00BB \u0432 1989 \u0433\u043E\u0434\u0443 \u043F\u043E\u0441\u043B\u0435 \u0430\u0440\u0435\u0441\u0442\u0430 \u041A\u0430\u043B\u044C\u043C\u0435\u043B\u044F \u0437\u0430 \u043F\u0440\u0438\u043C\u0435\u043D\u0435\u043D\u0438\u0435 \u043E\u0440\u0443\u0436\u0438\u044F \u0432 \u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0439 \u0441\u0441\u043E\u0440\u0435. \u041F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u041C\u0438\u0440\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0441 1987 \u043F\u043E 1994 \u0433\u043E\u0434, \u043F\u043E\u0441\u043B\u0435 \u0447\u0435\u0433\u043E \u043F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u043B\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F \u0438\u0437-\u0437\u0430 \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u0445 \u043F\u0440\u043E\u0431\u043B\u0435\u043C. \u0417\u0430 \u0432\u0441\u0451 \u0432\u0440\u0435\u043C\u044F \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0439 \u043B\u0443\u0447\u0448\u0438\u043C \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0441\u0442\u0430\u043B\u043E \u0442\u0440\u0435\u0442\u044C\u0435 \u043C\u0435\u0441\u0442\u043E \u0410\u0433\u0443\u0440\u0438 \u0421\u0443\u0434\u0437\u0443\u043A\u0438 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042F\u043F\u043E\u043D\u0438\u0438 1990 \u0433\u043E\u0434\u0430."@ru ,
+		"Larrousse Formula One was a motorsports racing team founded in 1987 by Didier Calmels and former racer G\u00E9rard Larrousse, originally under the name Larrousse & Calmels. It was based in Antony, in the southern suburbs of Paris. It was renamed Larrousse after the departure of Calmels for legal reasons. The team competed in Formula One from 1987 to 1994 before succumbing to financial problems, scoring a best finish of third at the 1990 Japanese Grand Prix during this time."@en ,
+		"A Larrousse foi uma equipe de automobilismo que competiu na F\u00F3rmula 1 entre 1987 e 1992, usando chassis da Lola (1987-1991) e da Venturi (apenas uma temporada). Foi fundada em 1987 por Didier Calmels e G\u00E9rard Larrousse, com o nome de Larrousse & Calmels. Em 1989, depois que Didier Calmels foi preso por atirar em sua mulher com uma arma de fogo, a escuderia passou a chamar-se apenas Larrousse."@pt ,
+		"La Larrousse \u00E8 stata una squadra di Formula 1 attiva tra il 1987 e 1994 senza notevoli successi: il miglior risultato nel Campionato costruttori fu un sesto posto nel 1990."@it ,
+		"Larrousse-Calmels fue un equipo de automovilismo fundado en 1987 por Didier Calmels y el piloto retirado G\u00E9rard Larrousse. Ten\u00EDa su base en Antony, en los suburbios de Par\u00EDs, y compiti\u00F3 en la F\u00F3rmula 1 desde 1987 hasta 1994. Tiempo despu\u00E9s fue renombrado simplemente como Larrousse, tras un incidente en el cual Calmels fue arrestado por dispararle con un arma de fuego a su esposa, en medio de una disputa dom\u00E9stica durante la primavera de 1989."@es ,
+		"\u30E9\u30EB\u30FC\u30B9 (Larrousse) \u306F\u30011987\u5E74\u304B\u30891994\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002"@ja ,
+		"Larrousse est une ancienne \u00E9curie de Formule 1 fran\u00E7aise et un ancien constructeur fond\u00E9s par G\u00E9rard Larrousse et Didier Calmels. L'\u00E9curie a particip\u00E9 au championnat du monde de F1 de 1987 \u00E0 1994 et ses pilotes ont inscrit un total de 23 points en 48 Grands Prix. L'\u00E9curie, quant \u00E0 elle, n'a inscrit que 12 points en championnat du monde des constructeurs car elle a \u00E9t\u00E9 d\u00E9class\u00E9e en 1990 et a perdu le b\u00E9n\u00E9fice des 11 points inscrits cette ann\u00E9e-l\u00E0."@fr ,
+		"Larrousse F1 \u2013 dawny zesp\u00F3\u0142 wy\u015Bcigowy Formu\u0142y 1 stworzony w 1987 przez Didiera Calmels i kierowc\u0119 wy\u015Bcigowego G\u00E9rarda Larrousse, znanym tak\u017Ce jako Larrousse-Calmels. Baza mie\u015Bci\u0142a si\u0119 w Antony, na po\u0142udniowych przedmie\u015Bciach Pary\u017Ca. Team przemianowano na Larrousse po odej\u015Bciu ze sp\u00F3\u0142ki Didiera Calmels."@pl ,
+		"Larrousse (anfangs Larrousse-Calmels, 1992 auch Venturi-Larrousse) war ein von Didier Calmels und dem ehemaligen Rennfahrer und Renault-Sportchef G\u00E9rard Larrousse gegr\u00FCndetes franz\u00F6sisches Motorsportteam, das von 1987 bis 1994 an den L\u00E4ufen der Formel-1-Weltmeisterschaft teilnahm. Bis 1991 war der Rennstall technisch eng mit Lola Cars verbunden. Larrousse brachte 1989 den italienischen Sportwagenhersteller Lamborghini als Motorenhersteller in die Formel 1."@de ,
+		"Larrousse is een voormalig Frans Formule 1-team, in 1987 opgericht door de voormalig Renault F1-baas Gerard Larrousse en Didier Calmels. Van 1987 tot en met 1994 deed het team mee zonder veel succes en behaalde het slechts 1 podiumplaats. In de volgende winter kreeg Gerard Larrousse ruzie met zijn chassisbouwers en een nieuwe auto werd niet meer gebouwd. Na nog wat herstartpogingen werd in april 1995 definitief de stekker uit het Larrousse Formule 1-team getrokken nadat ook nog eens allerlei rechtszaken zich aandienden. Gerard Larrousse leidde hierna sportcar-teams maar met weinig succes."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Larrousse	dbp:drivers	"Aguri Suzuki"^^xsd:string ,
+		"Ukyo Katayama"^^xsd:string ,
+		"Philippe Alliot"^^xsd:string ,
+		"\u00C9rik Comas"^^xsd:string ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04h90h> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Larrousse	owl:sameAs	dbpedia-it:Larrousse .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Larrousse	owl:sameAs	dbpedia-pt:Larrousse ,
+		<http://ja.dbpedia.org/resource/\u30E9\u30EB\u30FC\u30B9_(F1\u30C1\u30FC\u30E0)> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Larrousse	owl:sameAs	dbpedia-de:Larrousse ,
+		<http://nl.dbpedia.org/resource/Larrousse_(Formule_1)> ,
+		dbr:Larrousse .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Larrousse	owl:sameAs	dbpedia-cs:Larrousse .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Larrousse	owl:sameAs	yago-res:Larrousse ,
+		wikidata:Q172958 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Larrousse	owl:sameAs	dbpedia-wikidata:Q172958 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Larrousse	owl:sameAs	dbpedia-pl:Larrousse .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Larrousse	owl:sameAs	dbpedia-fr:Larrousse .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Larrousse	owl:sameAs	dbpedia-es:Larrousse .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Larrousse	dct:subject	dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:French_racecar_constructors ,
+		dbc:French_auto_racing_teams ;
+	foaf:name	"Larrousse & Calmels"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Aguri_Suzuki_demonstrating_Lola_LC90_2012_Japan.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Larrousse ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Larrousse"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Larrousse	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Larrousse?oldid=717459935> ;
+	dbp:founders	<http://dbpedia.org/resource/G\u00E9rard_Larrousse> ,
+		dbr:Didier_Calmels ;
+	dbp:entrants	"Larrousse"^^xsd:string ;
+	dbp:logo	<http://dbpedia.org/resource/File:Larrousse_logo.png> ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Antony, Paris, France"^^xsd:string ;
+	dbp:constructors	dbr:Lola_Cars ,
+		"Larrousse"^^xsd:string ,
+		dbr:Venturi_Automobiles ;
+	dbp:debut	1987 ,
+		1993 ;
+	dbo:abstract	"Larrousse F1 \u2013 dawny zesp\u00F3\u0142 wy\u015Bcigowy Formu\u0142y 1 stworzony w 1987 przez Didiera Calmels i kierowc\u0119 wy\u015Bcigowego G\u00E9rarda Larrousse, znanym tak\u017Ce jako Larrousse-Calmels. Baza mie\u015Bci\u0142a si\u0119 w Antony, na po\u0142udniowych przedmie\u015Bciach Pary\u017Ca. Team przemianowano na Larrousse po odej\u015Bciu ze sp\u00F3\u0142ki Didiera Calmels."@pl ,
+		"Larrousse-Calmels fue un equipo de automovilismo fundado en 1987 por Didier Calmels y el piloto retirado G\u00E9rard Larrousse. Ten\u00EDa su base en Antony, en los suburbios de Par\u00EDs, y compiti\u00F3 en la F\u00F3rmula 1 desde 1987 hasta 1994. Tiempo despu\u00E9s fue renombrado simplemente como Larrousse, tras un incidente en el cual Calmels fue arrestado por dispararle con un arma de fuego a su esposa, en medio de una disputa dom\u00E9stica durante la primavera de 1989. El primer veh\u00EDculo del equipo fue comisionado a la armadora Lola y la planta motriz era un motor DFZ V8 de Cosworth. fue pilotado por Philippe Alliot. Al final de 1987, se construy\u00F3 un segundo veh\u00EDculo, pilotado por Yannick Dalmas. para 1989, contratan a Lamborguini como motoristas El equipo sigui\u00F3 compitiendo durante fin de los 80 y principios de los 90, aunque con poco \u00E9xito. La escuder\u00EDa Larrouse rara vez resultaba ser competitiva, y por lo general frecuentaba los \u00FAltimos lugares de la clasificaci\u00F3n. La mayor\u00EDa de los puntos obtenidos por el equipo se lograron por permanecer en la pista mientras otros pilotos abandonaban la competencia. La mejor temporada de Larrousse fue 1990. Aguri Suzuki obtuvo un tercer puesto en el Gran Premio de Jap\u00F3n (el \u00FAnico podio del equipo) y dos sexto puestos, en tanto que \u00C9ric Bernard consigui\u00F3 un cuarto lugar y dos sextos. Los 11 puntos obtenidos lo colocaron sexto en el campeonato de constructores. La relacion entre Lola y Larrousse se deterior\u00F2 al final de la temporada 1991, ya que Lola nunca recibio el pago de Larrouse por los coches de 1990-1991, esto y mas la perdida de su patrocinador principal, puso el equipo en problemas, La compa\u00F1ia japonesa central park compro el equipo en 1992 y el auto fue fabricado por Venturi y vuelven con los motores Lamborguini, la mejor carrera del equipo fue en monaco en donde Betrand Gachot llego sexto recibiendo un punto aunque e al final el equipo fue vendido a finales de ese a\u00F1o. las temporadas 1993-1994 fueron complicadas para el equipo con los fondos cada vez mas escasos , aunque lograron anotar puntos algunas veces, fueron necesarios usar los pilotos de pago para mantener el equipo a flote como Toshio Suzuki, Hideki Noda y Jean-Denis Deletraz. Al final de la temporada de 1994, a pesar de que con los costes en ascenso y con muchos equipos independientes en dificultades financieras. El equipo Larrousse se habian inscrito para la temporada 1995, pero no pudieron participar debido que el coche nunca se construy\u00F2 y al no pudieron encontrar apoyo econ\u00F3mico. El equipo fue forzado a retirarse de la F\u00F3rmula 1."@es ,
+		"\u30E9\u30EB\u30FC\u30B9 (Larrousse) \u306F\u30011987\u5E74\u304B\u30891994\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002"@ja ,
+		"\u041B\u0430\u0440\u0440\u0443\u0301\u0441\u0441 (\u0444\u0440. Larrousse) \u2014 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1987 \u0433\u043E\u0434\u0443 \u0414\u0438\u0434\u044C\u0435 \u041A\u0430\u043B\u044C\u043C\u0435\u043B\u0435\u043C \u0438 \u0431\u044B\u0432\u0448\u0438\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C \u0416\u0435\u0440\u0430\u0440\u043E\u043C \u041B\u0430\u0440\u0440\u0443\u0441\u0441\u043E\u043C. \u041F\u0435\u0440\u0432\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u043E\u0441\u0438\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u00AB\u041B\u0430\u0440\u0440\u0443\u0441\u0441 \u0438 \u041A\u0430\u043B\u044C\u043C\u0435\u043B\u044C\u00BB \u2014 \u0444\u0440. Larrousse & Calmels). \u0411\u0430\u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u043D\u0430\u0445\u043E\u0434\u0438\u043B\u0430\u0441\u044C \u0432 \u044E\u0436\u043D\u044B\u0445 \u043F\u0440\u0438\u0433\u043E\u0440\u043E\u0434\u0430\u0445 \u041F\u0430\u0440\u0438\u0436\u0430. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 \u00AB\u041B\u0430\u0440\u0440\u0443\u0441\u0441\u00BB \u0432 1989 \u0433\u043E\u0434\u0443 \u043F\u043E\u0441\u043B\u0435 \u0430\u0440\u0435\u0441\u0442\u0430 \u041A\u0430\u043B\u044C\u043C\u0435\u043B\u044F \u0437\u0430 \u043F\u0440\u0438\u043C\u0435\u043D\u0435\u043D\u0438\u0435 \u043E\u0440\u0443\u0436\u0438\u044F \u0432 \u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0439 \u0441\u0441\u043E\u0440\u0435. \u041F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u041C\u0438\u0440\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0441 1987 \u043F\u043E 1994 \u0433\u043E\u0434, \u043F\u043E\u0441\u043B\u0435 \u0447\u0435\u0433\u043E \u043F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u043B\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F \u0438\u0437-\u0437\u0430 \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u0445 \u043F\u0440\u043E\u0431\u043B\u0435\u043C. \u0417\u0430 \u0432\u0441\u0451 \u0432\u0440\u0435\u043C\u044F \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0439 \u043B\u0443\u0447\u0448\u0438\u043C \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0441\u0442\u0430\u043B\u043E \u0442\u0440\u0435\u0442\u044C\u0435 \u043C\u0435\u0441\u0442\u043E \u0410\u0433\u0443\u0440\u0438 \u0421\u0443\u0434\u0437\u0443\u043A\u0438 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042F\u043F\u043E\u043D\u0438\u0438 1990 \u0433\u043E\u0434\u0430. \u0412 1987\u20141991 \u0433\u0433. \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430 \u0448\u0430\u0441\u0441\u0438 \u00ABLola\u00BB \u043F\u043E\u0434 \u043E\u0431\u043E\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438 LC87\u2014LC91 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u043E. \u041D\u0430\u0438\u043B\u0443\u0447\u0448\u0438\u0439 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442 \u0431\u044B\u043B \u0434\u043E\u0441\u0442\u0438\u0433\u043D\u0443\u0442 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 1990 \u0433\u043E\u0434\u0430, \u043A\u043E\u0433\u0434\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0437\u0430\u043D\u044F\u043B\u0430 6-\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u041A\u0443\u0431\u043A\u0435 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u0432, \u0430 \u0410\u0433\u0443\u0440\u0438 \u0421\u0443\u0434\u0437\u0443\u043A\u0438 \u0437\u0430\u043D\u044F\u043B 3-\u0435 \u043C\u0435\u0441\u0442\u043E \u043D\u0430 \u0434\u043E\u043C\u0430\u0448\u043D\u0435\u043C \u0434\u043B\u044F \u0441\u0435\u0431\u044F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042F\u043F\u043E\u043D\u0438\u0438. \u0412 1992 \u0433. \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u043E\u0441\u044C \u0448\u0430\u0441\u0441\u0438 LC92, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043E\u0435 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439 \u00AB\u0412\u0435\u043D\u0442\u0443\u0440\u0438\u00BB (Venturi), \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u0430\u0431\u0440\u0430\u043B\u0430 \u0442\u043E\u043B\u044C\u043A\u043E \u043E\u0434\u043D\u043E \u043E\u0447\u043A\u043E. \u0414\u0432\u0430 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0445 \u0441\u0435\u0437\u043E\u043D\u0430 \u00AB\u041B\u0430\u0440\u0440\u0443\u0441\u0441\u00BB \u043F\u0440\u043E\u0432\u0451\u043B \u043D\u0430 \u0448\u0430\u0441\u0441\u0438 \u0441\u0432\u043E\u0435\u0439 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438, \u043D\u043E \u0435\u0433\u043E \u043F\u0438\u043B\u043E\u0442\u044B \u043D\u0438 \u0440\u0430\u0437\u0443 \u043D\u0435 \u043F\u043E\u0434\u043D\u044F\u043B\u0438\u0441\u044C \u0432\u044B\u0448\u0435 5-\u0433\u043E \u043C\u0435\u0441\u0442\u0430 \u043D\u0430 \u0444\u0438\u043D\u0438\u0448\u0435. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0441\u0442\u0440\u0430\u0434\u0430\u043B\u0430 \u043E\u0442 \u043D\u0435\u0434\u043E\u0441\u0442\u0430\u0442\u043A\u0430 \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432, \u0440\u044F\u0434 \u0440\u0435\u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0439 \u043D\u0435 \u043F\u043E\u043C\u043E\u0433 \u0435\u0439, \u043F\u043E\u043F\u044B\u0442\u043A\u0430 \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u044F \u0441 \u043A\u043E\u043C\u0430\u043D\u0434\u0430\u043C\u0438 \u043C\u043B\u0430\u0434\u0448\u0438\u0445 \u00AB\u0444\u043E\u0440\u043C\u0443\u043B\u00BB \u043D\u0435 \u0443\u0432\u0435\u043D\u0447\u0430\u043B\u0438\u0441\u044C \u0443\u0441\u043F\u0435\u0445\u043E\u043C, \u0438 \u0432 1995 \u0433\u043E\u0434\u0443 \u00AB\u041B\u0430\u0440\u0440\u0443\u0441\u0441\u00BB \u043F\u043E\u043A\u0438\u043D\u0443\u043B \u0424\u043E\u0440\u043C\u0443\u043B\u0443-1."@ru ,
+		"Larrousse (anfangs Larrousse-Calmels, 1992 auch Venturi-Larrousse) war ein von Didier Calmels und dem ehemaligen Rennfahrer und Renault-Sportchef G\u00E9rard Larrousse gegr\u00FCndetes franz\u00F6sisches Motorsportteam, das von 1987 bis 1994 an den L\u00E4ufen der Formel-1-Weltmeisterschaft teilnahm. Bis 1991 war der Rennstall technisch eng mit Lola Cars verbunden. Larrousse brachte 1989 den italienischen Sportwagenhersteller Lamborghini als Motorenhersteller in die Formel 1."@de ,
+		"La Larrousse \u00E8 stata una squadra di Formula 1 attiva tra il 1987 e 1994 senza notevoli successi: il miglior risultato nel Campionato costruttori fu un sesto posto nel 1990."@it ,
+		"Larrousse est une ancienne \u00E9curie de Formule 1 fran\u00E7aise et un ancien constructeur fond\u00E9s par G\u00E9rard Larrousse et Didier Calmels. L'\u00E9curie a particip\u00E9 au championnat du monde de F1 de 1987 \u00E0 1994 et ses pilotes ont inscrit un total de 23 points en 48 Grands Prix. L'\u00E9curie, quant \u00E0 elle, n'a inscrit que 12 points en championnat du monde des constructeurs car elle a \u00E9t\u00E9 d\u00E9class\u00E9e en 1990 et a perdu le b\u00E9n\u00E9fice des 11 points inscrits cette ann\u00E9e-l\u00E0."@fr ,
+		"A Larrousse foi uma equipe de automobilismo que competiu na F\u00F3rmula 1 entre 1987 e 1992, usando chassis da Lola (1987-1991) e da Venturi (apenas uma temporada). Foi fundada em 1987 por Didier Calmels e G\u00E9rard Larrousse, com o nome de Larrousse & Calmels. Em 1989, depois que Didier Calmels foi preso por atirar em sua mulher com uma arma de fogo, a escuderia passou a chamar-se apenas Larrousse."@pt ,
+		"Larrousse is een voormalig Frans Formule 1-team, in 1987 opgericht door de voormalig Renault F1-baas Gerard Larrousse en Didier Calmels. Van 1987 tot en met 1994 deed het team mee zonder veel succes en behaalde het slechts 1 podiumplaats. In 1987 begint het team met een door Lola gefabriceerd chassis. Aanvankelijk wordt er slechts met 1 coureur gereden (Philippe Alliot) maar in de loop van het seizoen komt Yannick Dalmas erbij als tweede coureur. Alliot pakt 3 punten. Larrousse verlengt het contract met Lola met 3 jaar en voor 1988 zijn Alliot en Dalmas opnieuw de coureurs. Punten worden er niet gescoord en Dalmas moet aan het eind van het seizoen verstek laten gaan vanwege veteranenziekte. Hij wordt vervangen door Aguri Suzuki en Pierre-Henri Raphanel. Eind 1988 wordt Larrousse genoodzaakt het team helemaal alleen te leiden als Camels wordt opgepakt voor het neerschieten van zijn vrouw. Hij moet 7 jaar de cel in. Gerard Ducourage wordt aangetrokken als nieuwe engineer. 1989 bleek een moeilijk jaar voor het team, ondanks de komst van Lamborghini als motorenleverancier. Door grote startvelden was het moeilijk om punten te scoren of zelfs te kwalificeren. Bovendien wist Dalmas niet meer op zijn niveau te komen van voor zijn ziekte. Debutant Eric Bernard vervangt hem 2 races, Michele Alboreto daarna definitief. Alliot scoort het enige punt van het seizoen in Spanje. Tijdens dat seizoen werd 50% van de aandelen verkocht aan het Japanse bedrijf Espo Corporation. Hierdoor keerde Aguri Suzuki in 1990 terug bij het team naast Eric Bernard. Suzuki zorgde voor het hoogtepunt in het bestaan van het team door de derde plaats bij de Grand Prix van Japan. Het team behaald in totaal 11 punten en wordt zesde in het constructeurskampioenschap hoewel de punten later worden teruggenomen door problemen met de FIA over het chassis. Voor 1991 ziet het er weer somberder uit, Lamborghini vertrekt om een eigen team te beginnen en als Larrousse bijna rond is met Brian Hart als nieuwe motorenleverancier trekt Espo zich terug. Het team raakt in grote financi\u00EBle problemen en het Japanse bedrijf Central Park stapt in het team. Intussen was Ducourage vertrokken en was een fusie met AGS mislukt. Lola vertrok ook bij het team zodat de auto's voortaan gewoon Larrousse heten. Er werden tussendoor ook nog 2 punten gehaald door Suzuki en Bernard. Eind 1991 verkoopt Larrousse 65% van de aandelen aan Venturi en keerde Lamborghini terug nadat hun eigen Formule 1-avontuur volledig mislukt was. Het seizoen 1992 is opnieuw matig met slechts 1 punt, gescoord door Bertrand Gachot in Monaco. De andere coureur dat seizoen is de Japanner Ukyo Katayama. In september 1992 verkoopt Venturi haar aandelen weer aan een handelsgroep genaamd Comstock, geleid door de Duitser Rainer Walldorf. Walldorf had echter geen brandschoon verleden en kwam later om bij een vuurgevecht met de Duitse politie. Het seizoen 1993 levert Larrousse nog 3 punten dankzij Erik Comas en de teruggekeerde Alliot. Financi\u00EBle problemen blijven het team echter teisteren en aan het eind van het seizoen doet men een beroep op de Japanse pay-driver Toshio Suzuki (geen familie van Aguri). Gerard Larrousse reorganiseert het team opnieuw voor het seizoen 1994, nieuwe zakenpartner werd Fast Group SA, een Zwitserse onderneming waarbij ook oud Ferrari-coureur Patrick Tambay betrokken was. De Lamborghini motoren werden gedumpt en de gehoopte Peugeot-motoren liep men mis waardoor Larrousse het moest doen met de Ford-motor. Erik Comas behaalde 2 punten maar financi\u00EBle problemen staken opnieuw de kop op waardoor de rijdersbezetting in de tweede helft van het seizoen onoverzichtelijk werd met naast aanvankelijke coureurs Comas en Olivier Beretta ook Alliot, Dalmas, en de \"pay-drivers\" Jean-Denis D\u00E9l\u00E9traz en Hideki Noda. In de volgende winter kreeg Gerard Larrousse ruzie met zijn chassisbouwers en een nieuwe auto werd niet meer gebouwd. Na nog wat herstartpogingen werd in april 1995 definitief de stekker uit het Larrousse Formule 1-team getrokken nadat ook nog eens allerlei rechtszaken zich aandienden. Gerard Larrousse leidde hierna sportcar-teams maar met weinig succes."@nl ,
+		"Larrousse Formula One was a motorsports racing team founded in 1987 by Didier Calmels and former racer G\u00E9rard Larrousse, originally under the name Larrousse & Calmels. It was based in Antony, in the southern suburbs of Paris. It was renamed Larrousse after the departure of Calmels for legal reasons. The team competed in Formula One from 1987 to 1994 before succumbing to financial problems, scoring a best finish of third at the 1990 Japanese Grand Prix during this time."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Aguri_Suzuki_demonstrating_Lola_LC90_2012_Japan.jpg?width=300> ;
+	dbo:wikiPageRevisionID	717459935 ;
+	dbo:wikiPageID	1206975 ;
+	dbp:races	127 ,
+		32 ;
+	dbp:wins	0 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Larrousse	ns24:hypernym	dbr:Motorsports ;
+	dbp:staff	dbr:Eric_Broadley ,
+		<http://dbpedia.org/resource/James_Allison_(motorsport)> ,
+		<http://dbpedia.org/resource/Ralph_Bellamy_(motor_racing)> ,
+		dbr:Robin_Herd ;
+	dbp:lastRace	1994 ;
+	dbp:finalRace	1994 .
+<http://dbpedia.org/resource/G\u00E9rard_Ducarouge>	dbo:knownFor	dbr:Larrousse .
+dbr:Larrousse_LH94	dbp:team	dbr:Larrousse ;
+	dbp:constructor	dbr:Larrousse .
+dbr:Larrousse_LH93	dbp:team	dbr:Larrousse ;
+	dbp:constructor	dbr:Larrousse ;
+	dbp:gearboxName	dbr:Larrousse .
+<http://dbpedia.org/resource/Jean-Denis_D\u00E9l\u00E9traz>	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+dbr:Philippe_Alliot	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+dbr:Lola_LC87	dbp:team	dbr:Larrousse .
+dbr:Lola_LC88	dbp:team	dbr:Larrousse .
+dbr:Lola_LC91	dbp:team	dbr:Larrousse .
+dbr:Venturi_LC92	dbp:team	dbr:Larrousse .
+dbr:Lola_LC89	dbp:team	dbr:Larrousse .
+dbr:Lola_LC90	dbp:team	dbr:Larrousse .
+<http://dbpedia.org/resource/Toshio_Suzuki_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .
+dbr:Larrousse_F1	dbo:wikiPageRedirects	dbr:Larrousse .
+dbr:Larrousse-Calmels	dbo:wikiPageRedirects	dbr:Larrousse .
+dbr:Larousse	dbo:wikiPageDisambiguates	dbr:Larrousse .
+dbr:Bertrand_Gachot	<http://dbpedia.org/property/team(s)_>	dbr:Larrousse .

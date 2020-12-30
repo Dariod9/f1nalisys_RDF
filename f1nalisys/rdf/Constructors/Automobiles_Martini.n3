@@ -1,0 +1,114 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Martini_(cars)>	dbo:wikiPageRedirects	dbr:Automobiles_Martini .
+dbr:Martini_Cars	dbo:wikiPageRedirects	dbr:Automobiles_Martini .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Automobiles_Martini	foaf:primaryTopic	dbr:Automobiles_Martini .
+<http://dbpedia.org/resource/Ren\u00E9_Arnoux>	<http://dbpedia.org/property/team(s)_>	dbr:Automobiles_Martini .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Automobiles_Martini	rdf:type	dbo:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Automobiles_Martini	rdf:type	schema:SportsTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Automobiles_Martini	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Automobiles_Martini	rdf:type	yago:WikicatFormulaOneConstructors ,
+		yago:WikicatFormulaTwoConstructors ,
+		dbo:FormulaOneTeam ,
+		schema:Organization ,
+		yago:WikicatFrenchRacecarConstructors ,
+		dbo:Organisation ,
+		yago:Whole100003553 ,
+		yago:Party110402824 ,
+		yago:LivingThing100004258 ,
+		yago:Builder109878275 ,
+		yago:CausalAgent100007347 ,
+		yago:Organism100004475 ,
+		wikidata:Q43229 ,
+		yago:Contractor109960891 ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActor .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Automobiles_Martini	rdf:type	ns8:SocialPerson ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		dbo:SportsTeam .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Automobiles_Martini	rdf:type	owl:Thing ,
+		ns8:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Automobiles_Martini	rdfs:label	"Automobiles Martini"@de ,
+		"Automobiles Martini"@pl ,
+		"Martini (automobilismo)"@it ,
+		"Martini Cars"@pt ,
+		"Automobiles Martini"@en ,
+		"Automobiles Martini"@fr ;
+	rdfs:comment	"La Martini \u00E8 stato un costruttore automobilistico francese, che ha partecipato anche al Campionato mondiale di Formula 1 nella stagione 1978 con il pilota Ren\u00E9 Arnoux."@it ,
+		"Automobiles Martini war ein franz\u00F6sischer Rennwagenhersteller aus Nevers, der seit den sp\u00E4ten 1960er Jahren Kundenfahrzeuge f\u00FCr unterschiedliche Rennklassen produzierte und 1978 kurzfristig mit einem eigenen Team in der Formel 1 engagiert war."@de ,
+		"Automobiles Martini is a constructor of Formula racing cars from France, founded by Renato \"Tico\" Martini in 1965, when Martini and partner Bill Knight founded the Winfield Racing School at the Magny-Cours circuit, in France. Martini's first car was the MW3, a Formula Three car built in 1968. With Reynard, Ralt and Dallara crowding out the F3 market in the late 1980s, Martini reduced their customer program, keeping a stubborn presence in the French F3 championship during the 1990s, until Tico Martini finally sold the team to Guy Ligier in 2004."@en ,
+		" Pour les articles homonymes, voir Martini. Automobiles Martini est un fabricant de voitures de course fran\u00E7ais fond\u00E9 par Renato Tico Martini et bas\u00E9 \u00E0 Magny-Cours dans la Ni\u00E8vre."@fr ,
+		"Martini Cars foi uma equipe francesa de F\u00F3rmula 1, fundada por Renato \"Tico\" Martini em 1965. Disputou apenas a temporada de 1978 da categoria, tendo como piloto Ren\u00E9 Arnoux. Sua melhor posi\u00E7\u00E3o de chegada foi um nono lugar no GP da \u00C1ustria. Ap\u00F3s a F-1, seguiu disputando o campeonato franc\u00EAs de F\u00F3rmula 3 at\u00E9 ser vendida para Guy Ligier em 2004."@pt ,
+		"Automobiles Martini \u2013 francuski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1978 roku."@pl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Automobiles_Martini	dbp:points	0 ;
+	dbp:drivers	"Ren\u00E9 Arnoux"^^xsd:string ;
+	dbp:longName	"Automobiles Martini"^^xsd:string ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04n6ks> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Automobiles_Martini	owl:sameAs	dbpedia-wikidata:Q173497 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Automobiles_Martini	owl:sameAs	yago-res:Automobiles_Martini .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Automobiles_Martini	owl:sameAs	dbpedia-pl:Automobiles_Martini ,
+		wikidata:Q173497 ,
+		dbr:Automobiles_Martini .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Automobiles_Martini	owl:sameAs	dbpedia-fr:Automobiles_Martini ,
+		<http://it.dbpedia.org/resource/Martini_(automobilismo)> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Automobiles_Martini	owl:sameAs	dbpedia-pt:Martini_Cars .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Automobiles_Martini	owl:sameAs	dbpedia-de:Automobiles_Martini .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Automobiles_Martini	dct:subject	dbc:French_racecar_constructors ,
+		dbc:French_auto_racing_teams ,
+		dbc:Formula_Two_constructors ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:French_Formula_3_teams ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Automobiles_Martini ;
+	dbp:podiums	0 ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Automobiles_Martini	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Automobiles_Martini?oldid=726053805> ;
+	dbp:founders	"Bill Knight"^^xsd:string ,
+		dbr:Renato_Martini ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Magny-Cours, France"^^xsd:string ;
+	dbp:engines	dbr:Ford_Motor_Company ,
+		dbr:V8_engine ,
+		dbr:Cosworth_DFV ;
+	dbp:debut	1978 ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/con-marti.html> ,
+		<http://www.formula1.com/results/> ,
+		<http://www.ligier-martini.com/EN/index.html> ;
+	dbo:abstract	"Automobiles Martini is a constructor of Formula racing cars from France, founded by Renato \"Tico\" Martini in 1965, when Martini and partner Bill Knight founded the Winfield Racing School at the Magny-Cours circuit, in France. Martini's first car was the MW3, a Formula Three car built in 1968. Although better known for their successful efforts in Formula Three, Formula Renault and other lower formulae during the 1970s and 1980s, they are also known for having taken part in nine rounds of the 1978 Formula One season with the single MK23 chassis, giving Ren\u00E9 Arnoux (later a driver for Renault and Ferrari) his debut in Formula One. Future four time World Drivers' Champion Alain Prost also used a Renault powered Martini to win the 1978 and 1979 French Formula Three Championship while driving for French team Oreca. With Reynard, Ralt and Dallara crowding out the F3 market in the late 1980s, Martini reduced their customer program, keeping a stubborn presence in the French F3 championship during the 1990s, until Tico Martini finally sold the team to Guy Ligier in 2004."@en ,
+		"La Martini \u00E8 stato un costruttore automobilistico francese, che ha partecipato anche al Campionato mondiale di Formula 1 nella stagione 1978 con il pilota Ren\u00E9 Arnoux."@it ,
+		"Martini Cars foi uma equipe francesa de F\u00F3rmula 1, fundada por Renato \"Tico\" Martini em 1965. Disputou apenas a temporada de 1978 da categoria, tendo como piloto Ren\u00E9 Arnoux. Sua melhor posi\u00E7\u00E3o de chegada foi um nono lugar no GP da \u00C1ustria. Ap\u00F3s a F-1, seguiu disputando o campeonato franc\u00EAs de F\u00F3rmula 3 at\u00E9 ser vendida para Guy Ligier em 2004."@pt ,
+		"Automobiles Martini \u2013 francuski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1978 roku."@pl ,
+		" Pour les articles homonymes, voir Martini. Automobiles Martini est un fabricant de voitures de course fran\u00E7ais fond\u00E9 par Renato Tico Martini et bas\u00E9 \u00E0 Magny-Cours dans la Ni\u00E8vre."@fr ,
+		"Automobiles Martini war ein franz\u00F6sischer Rennwagenhersteller aus Nevers, der seit den sp\u00E4ten 1960er Jahren Kundenfahrzeuge f\u00FCr unterschiedliche Rennklassen produzierte und 1978 kurzfristig mit einem eigenen Team in der Formel 1 engagiert war."@de ;
+	dbo:wikiPageRevisionID	726053805 ;
+	dbo:wikiPageID	1262617 ;
+	dbp:races	9 ;
+	dbp:name	"Martini"^^xsd:string ;
+	dbp:wins	0 .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Automobiles_Martini	ns21:hypernym	dbr:Constructor ;
+	dbp:lastRace	1978 .
+dbr:Martini	dbo:wikiPageDisambiguates	dbr:Automobiles_Martini .

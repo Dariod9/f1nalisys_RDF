@@ -1,0 +1,57 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Mike_Parkes	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Fry_(racing_team)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Fry_(racing_team)>	rdf:type	yago:WikicatBritishRacecarConstructors .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Fry_(racing_team)>	rdf:type	dbo:FormulaOneTeam ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Organism100004475 ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Fry_(racing_team)>	rdfs:label	"Fry (zesp\u00F3\u0142 wy\u015Bcigowy)"@pl ,
+		"Fry (F\u00F3rmula 1)"@pt ,
+		"Fry (racing team)"@en ;
+	rdfs:comment	"Fry \u2013 brytyjski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Grand Prix Wielkiej Brytanii Formu\u0142y 1 w 1959 roku."@pl ,
+		"Fry foi uma construtora de F\u00F3rmula 2 do Reino Unido. Com seu carro de F2, participou do Grande Pr\u00EAmio da Gr\u00E3-Bretanha de 1959."@pt ,
+		"Fry was a Formula Two constructor from the United Kingdom. The team was founded by David Fry and Alec Issigonis, whose previous employer John Parkes at Alvis brought his son Mike Parkes as a development driver. The car, built to Formula 2 specifications, was fitted with a Coventry Climax engine and was constructed with several advanced concepts, featuring a semi-monocoque design, an extreme forward driving position and a shark fin on its rear."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Fry_(racing_team)>	owl:sameAs	dbpedia-wikidata:Q957511 ,
+		<http://pt.dbpedia.org/resource/Fry_(F\u00F3rmula_1)> ,
+		<http://dbpedia.org/resource/Fry_(racing_team)> ,
+		<http://pl.dbpedia.org/resource/Fry_(zesp\u00F3\u0142_wy\u015Bcigowy)> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Fry_(racing_team)>	owl:sameAs	wikidata:Q957511 ,
+		<http://rdf.freebase.com/ns/m.04n6gl> ,
+		<http://yago-knowledge.org/resource/Fry_(racing_team)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Fry_(racing_team)>	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Fry_(racing_team)>	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Fry_(racing_team)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Fry_(racing_team)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Fry_(racing_team)?oldid=688895021> ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/results/> ;
+	dbo:abstract	"Fry \u2013 brytyjski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Grand Prix Wielkiej Brytanii Formu\u0142y 1 w 1959 roku."@pl ,
+		"Fry was a Formula Two constructor from the United Kingdom. The team was founded by David Fry and Alec Issigonis, whose previous employer John Parkes at Alvis brought his son Mike Parkes as a development driver. The car, built to Formula 2 specifications, was fitted with a Coventry Climax engine and was constructed with several advanced concepts, featuring a semi-monocoque design, an extreme forward driving position and a shark fin on its rear. The Fry F2 made its d\u00E9but appearance in June 1958 at Brands Hatch, with Parkes finishing its first race sixth at the Crystal Palace circuit. Appearing in a number of Formula Two events throughout 1958 and 1959, the car was entered for the Formula One 1959 British Grand Prix. Parkes did not qualify for the race, setting the 27th fastest time, and the car was not entered for another World Championship Grand Prix. The car participated in several more races, before the final appearance with a second-place finish at the Brands Hatch Boxing Day event."@en ,
+		"Fry foi uma construtora de F\u00F3rmula 2 do Reino Unido. Com seu carro de F2, participou do Grande Pr\u00EAmio da Gr\u00E3-Bretanha de 1959."@pt ;
+	dbo:wikiPageRevisionID	688895021 ;
+	dbo:wikiPageID	1262599 .
+@prefix ns12:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/Fry_(racing_team)>	ns12:hypernym	dbr:Constructor .
+<http://en.wikipedia.org/wiki/Fry_(racing_team)>	foaf:primaryTopic	<http://dbpedia.org/resource/Fry_(racing_team)> .
+dbr:Fry	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Fry_(racing_team)> .

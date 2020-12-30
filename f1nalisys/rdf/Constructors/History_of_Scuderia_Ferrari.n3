@@ -1,0 +1,27 @@
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:History_of_Scuderia_Ferrari	rdfs:label	"History of Scuderia Ferrari"@en ;
+	rdfs:comment	"The Scuderia Ferrari motor racing team has a long and successful history."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:History_of_Scuderia_Ferrari	owl:sameAs	<http://rdf.freebase.com/ns/m.01177mnz> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:History_of_Scuderia_Ferrari	owl:sameAs	wikidata:Q5866426 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:History_of_Scuderia_Ferrari	owl:sameAs	dbpedia-wikidata:Q5866426 ,
+		dbr:History_of_Scuderia_Ferrari .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:History_of_Scuderia_Ferrari	dct:subject	dbc:Ferrari ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:History_of_Scuderia_Ferrari	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Piloti_Alfa_Romeo_2.JPG> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:History_of_Scuderia_Ferrari	foaf:isPrimaryTopicOf	wikipedia-en:History_of_Scuderia_Ferrari .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:History_of_Scuderia_Ferrari	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/History_of_Scuderia_Ferrari?oldid=684779029> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:History_of_Scuderia_Ferrari	dbo:abstract	"The Scuderia Ferrari motor racing team has a long and successful history."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Piloti_Alfa_Romeo_2.JPG?width=300> ;
+	dbo:wikiPageRevisionID	684779029 ;
+	dbo:wikiPageID	21243918 .
+wikipedia-en:History_of_Scuderia_Ferrari	foaf:primaryTopic	dbr:History_of_Scuderia_Ferrari .

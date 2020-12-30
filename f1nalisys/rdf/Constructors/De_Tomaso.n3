@@ -1,0 +1,172 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:De_Tomaso	foaf:primaryTopic	dbr:De_Tomaso .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:De_Tomaso_Modena_SpA	dbo:wikiPageRedirects	dbr:De_Tomaso .
+<http://dbpedia.org/resource/De_Tomaso_Modena_S.p.A.>	dbo:wikiPageRedirects	dbr:De_Tomaso .
+<http://dbpedia.org/resource/De_Tomaso_Automobili_S.p.A.>	dbo:wikiPageRedirects	dbr:De_Tomaso .
+dbr:De_Tomaso_Automobili_SpA	dbo:wikiPageRedirects	dbr:De_Tomaso .
+dbr:De_Tomaso_Longchamp	dbo:manufacturer	dbr:De_Tomaso .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:De_Tomaso	rdf:type	yago:Manufacturer108060446 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:De_Tomaso	rdf:type	umbel-rc:Organization ,
+		yago:WikicatCompaniesOfItaly ,
+		yago:WikicatCompaniesListedOnTheBorsaItaliana ,
+		dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:De_Tomaso	rdf:type	wikidata:Q24229398 ,
+		yago:WikicatCompaniesEstablishedIn1959 ,
+		yago:WikicatCompaniesBasedInEmilia-Romagna .
+@prefix schema:	<http://schema.org/> .
+dbr:De_Tomaso	rdf:type	schema:Organization ,
+		yago:Abstraction100002137 ,
+		dbo:Organisation ,
+		umbel-rc:Business ,
+		yago:WikicatSportsCarManufacturers ,
+		yago:SocialGroup107950920 ,
+		dbo:Company ,
+		yago:Group100031264 ,
+		yago:Organization108008335 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:De_Tomaso	rdf:type	ns9:Agent ,
+		yago:WikicatFormulaOneEngineManufacturers ,
+		yago:WikicatCarManufacturersOfItaly .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:De_Tomaso	rdf:type	owl:Thing ,
+		ns9:SocialPerson ,
+		yago:WikicatAutomotiveCompaniesOfItaly ,
+		yago:Company108058098 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatMotorVehicleManufacturersOfItaly ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:CarManufacturer108066763 ,
+		yago:Enterprise108056231 ,
+		yago:Business108061042 ,
+		wikidata:Q43229 ,
+		yago:Institution108053576 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:De_Tomaso	rdfs:label	"\u30C7\u30FB\u30C8\u30DE\u30BD"@ja ,
+		"De Tomaso"@de ,
+		"De Tomaso"@it ,
+		"De Tomaso"@pt ,
+		"De Tomaso"@fr ,
+		"De Tomaso"@nl ,
+		"\u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648"@ar ,
+		"De Tomaso"@es ,
+		"De Tomaso"@en ,
+		"De Tomaso"@ru ,
+		"De Tomaso"@pl ;
+	rdfs:comment	"De Tomaso Modena SpA was an Italian car-manufacturing company. It was founded by the Argentine-born Alejandro de Tomaso (1928\u20132003) in Modena in 1959. It originally produced various prototypes and racing cars, including a Formula One car for Frank Williams' team in 1970. The company went on to develop and produce both sports cars and luxury vehicles. From 1976 to 1993 De Tomaso owned legendary Italian sports car maker Maserati, and was responsible for producing cars including the Biturbo, the Kyalami, Quattroporte III, Karif, and the Chrysler TC. De Tomaso also owned motorcycle company Moto Guzzi from 1973 to 1993."@en ,
+		"\u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0645\u0648\u062F\u064A\u0646\u0627 \u0633\u0628\u0627: \u0634\u0631\u0643\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0644\u062A\u0635\u0646\u064A\u0639 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A\u060C \u062A\u0623\u0633\u0633\u062A \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646\u064A \u0623\u0644\u064A\u062E\u0627\u0646\u062F\u0631\u0648 \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 (1928-2003) \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0645\u0648\u062F\u064A\u0646\u0627 \u0641\u064A \u0639\u0627\u0645 1959. \u0648\u0643\u0627\u0646\u062A \u062A\u0646\u062A\u062C \u0645\u062E\u062A\u0644\u0641 \u0627\u0644\u0646\u0645\u0627\u0630\u062C \u0648\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0633\u0628\u0627\u0642\u060C \u0628\u0645\u0627 \u0641\u064A \u0630\u0644\u0643 \u0633\u064A\u0627\u0631\u0629 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0644\u0641\u0631\u064A\u0642 \u0641\u0631\u0627\u0646\u0643 \u0648\u0644\u064A\u0627\u0645\u0632 \u0641\u064A \u0639\u0627\u0645 1970. \u0628\u062F\u0623\u062A \u0627\u0644\u0634\u0631\u0643\u0629 \u0628\u062A\u0637\u0648\u064A\u0631 \u0648\u0625\u0646\u062A\u0627\u062C \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629 \u0648\u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0641\u0627\u062E\u0631\u0629 \u0645\u0646 1976-1993 \u0648 \u0627\u0645\u062A\u0644\u0643\u062A \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0634\u0631\u0643\u0629 \u0645\u0627\u0632\u064A\u0631\u0627\u062A\u064A \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0644\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629\u060C \u0648\u0627\u0635\u0628\u062D\u062A \u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0625\u0646\u062A\u0627\u062C \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0628\u0645\u0627 \u0641\u064A \u0630\u0644\u0643 \u0645\u0627\u0632\u064A\u0631\u0627\u062A\u064A \u0628\u064A\u062A\u0648\u0631\u0628\u0648 \u0648\u0645\u0627\u0632\u064A\u0631\u0627\u062A\u064A \u0643\u064A\u0627\u0644\u0627\u0645\u064A \u0648\u0645\u0627\u0632\u064A\u0631\u0627\u062A\u064A \u0643\u0648\u0627\u062A\u0631\u0648\u0628\u0648\u0631\u062A\u064A. \u0643\u0645\u0627 \u0627\u0645\u062A\u0644\u0643\u062A \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0634\u0631\u0643\u0629 \u0627\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0645\u0648\u062A\u0648 \u0643\u0648\u0632\u064A \u0645\u0646 1973 \u0627\u0644\u0649 1993."@ar ,
+		"De Tomaso Modena S.p.A. \u2013 w\u0142oska firma produkuj\u0105ca luksusowe samochody sportowe w Modenie pod mark\u0105 De Tomaso. W p\u00F3\u017Aniejszym czasie grupa przemys\u0142owa pod t\u0105 sam\u0105 nazw\u0105 obejmuj\u0105ca kilka marek motocykli i samochod\u00F3w."@pl ,
+		"De Tomaso Modena SpA \u00E9 uma montadora de autom\u00F3veis italiana. Foi fundada por Alejandro de Tomaso (1928\u20132003) em M\u00F3dena em 1959 e liquidada em 2004."@pt ,
+		"De TomasoFichier:Detomasologo.jpg De Tomaso est une soci\u00E9t\u00E9 italienne de construction d'automobiles. Elle fut fond\u00E9e par l'Argentin Alejandro de Tomaso (1928-2003) \u00E0 Mod\u00E8ne en Italie en 1959. Le logo de la marque, reprenant le signe repr\u00E9sentant la d\u00E9esse \u00E9gyptienne Isis, rend hommage \u00E0 la femme d'Alejandro de Tomaso, Isabella. On avance aussi qu'il proviendrait du signe dont il marquait ses vaches dans son ancien ranch aux \u00C9tats-Unis. \u00C0 l'origine, De Tomaso produit diff\u00E9rents prototypes de voitures de course, dont une Formule 1 pour l'\u00E9quipe de Frank Williams en 1970."@fr ,
+		"\u30C7\u30FB\u30C8\u30DE\u30BD\u307E\u305F\u306F\u30C7\u30FB\u30C8\u30DE\u30BE\uFF08De Tomaso \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u81EA\u52D5\u8ECA\u30E1\u30FC\u30AB\u30FC\u3067\u3042\u308B\u3002 1959\u5E74\u306B\u30C7\u30FB\u30C8\u30DE\u30BD\u30FB\u30A2\u30A6\u30C8\u30E2\u30D3\u30EA\u3068\u3057\u3066\u3001\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u51FA\u8EAB\u306E\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u30FB\u30C7\u30FB\u30C8\u30DE\u30BD\u304C\u30A4\u30BF\u30EA\u30A2\u306E\u30E2\u30C7\u30CA\u306B\u8A2D\u7ACB\u3057\u305F\u3002\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u306F\u6280\u8853\u8005\u3067\u3082\u3001\u65B0\u4E8B\u696D\u3092\u7A4D\u6975\u7684\u306B\u7ACB\u3061\u4E0A\u3052\u308B\u3053\u3068\u306B\u91CE\u5FC3\u3092\u71C3\u3084\u3059\u5B9F\u696D\u5BB6\u3067\u3082\u306A\u304F\u3001\u30EC\u30FC\u30B5\u30FC\u3068\u3057\u3066\u8155\u3092\u9CF4\u3089\u3057\u305F\u4EBA\u7269\u3060\u3063\u305F\u30022003\u5E74\u306B\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u304C\u4EA1\u304F\u306A\u308A\u3001\u4F1A\u793E\u306F2004\u5E745\u6708\u306B\u89E3\u6563\u3055\u308C\u305F\u3002\u305D\u306E\u5F8C2009\u5E7411\u6708\u3001\u30D5\u30A3\u30A2\u30C3\u30C8\u306E\u5143\u91CD\u5F79\u3067\u3042\u3063\u305F\u30A4\u30BF\u30EA\u30A2\u306E\u5B9F\u696D\u5BB6\u30B8\u30E3\u30F3\u30FB\u30DE\u30EA\u30AA\u30FB\u30ED\u30B7\u30CB\u30E7\u30FC\u30ED\u304C\u5546\u6A19\u6A29\u3092\u53D6\u5F97\u30022011\u5E74\u30B8\u30E5\u30CD\u30FC\u30D6\u30E2\u30FC\u30BF\u30FC\u30B7\u30E7\u30FC\u306B\u3066\u300C\u30C7\u30FB\u30C8\u30DE\u30BD\u300D\u30D6\u30E9\u30F3\u30C9\u3067\u65B0\u578B\u8ECA\u3092\u767A\u8868\u3001\u65B0\u751F\u30C7\u30FB\u30C8\u30DE\u30BD\u3068\u3057\u3066\u5FA9\u6D3B\u3057\u305F\u3002 \u30A8\u30F3\u30D6\u30EC\u30E0\u306F\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u306E\u6BCD\u56FD\u30FB\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u306E\u56FD\u65D7\u306B\u3082\u4F7F\u308F\u308C\u308B\u300C\u6C34\u8272\u30FB\u767D\u30FB\u6C34\u8272\u300D\u306E\u914D\u8272\u306B\u53E4\u4EE3\u30A8\u30B8\u30D7\u30C8\u306E\u5973\u795E\u300C\u30A4\u30B7\u30B9\u300D\u3092\u8868\u3059\u8C61\u5F62\u6587\u5B57\uFF08\u30D2\u30A8\u30ED\u30B0\u30EA\u30D5\uFF09\u3092\u7D44\u307F\u5408\u308F\u305B\u305F\u3082\u306E\u3002\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u306F\u300C\u59BB\u30FB\u30A4\u30B6\u30D9\u30EB\u300D\u306E\u30A4\u30CB\u30B7\u30E3\u30EB\u3068\u79F0\u3057\u3066\u3044\u305F\u3068\u3044\u3046\u304C\u3001\u305D\u306E\u4E3B\u5F35\u306B\u5F93\u3046\u3068\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u81EA\u8EAB\u306F\u51A5\u754C\u306E\u738B\u30AA\u30B7\u30EA\u30B9\u306B\u5F53\u305F\u308B\u3053\u3068\u304B\u3089\u3001\u30ED\u30FC\u30DE\u30F3\u30AB\u30C8\u30EA\u30C3\u30AF\u306E\u304A\u819D\u4E0B\u305F\u308B\u30A4\u30BF\u30EA\u30A2\u3067\u306F\u30BF\u30D6\u30FC\u8996\u3055\u308C\u3066\u3044\u305F\u3002"@ja ,
+		"De Tomaso Automobili SpA \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F, \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u0432\u0448\u0430\u044F\u0441\u044F \u043D\u0430 \u0432\u044B\u043F\u0443\u0441\u043A\u0435 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439. \u0428\u0442\u0430\u0431-\u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u041C\u043E\u0434\u0435\u043D\u0435 (\u0418\u0442\u0430\u043B\u0438\u044F). \u0411\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0442\u0435\u043B\u0435\u043C \u0430\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F \u0410\u043B\u0435\u0445\u0430\u043D\u0434\u0440\u043E \u0434\u0435 \u0422\u043E\u043C\u0430\u0437\u043E (1928\u20142003) \u0432 1959 \u0433\u043E\u0434\u0443."@ru ,
+		"La De Tomaso \u00E8 stata una societ\u00E0 italiana per la produzione di automobili, fondata a Modena nel 1959 dal pilota italo-argentino Alejandro de Tomaso. Nel corso degli anni ha cambiato pi\u00F9 volte la sua denominazione sociale, pur restando sempre sotto il pieno controllo del suo fondatore, deceduto nel 2003 all'et\u00E0 di 75 anni."@it ,
+		"De Tomaso Automobili S.p.A. fue un fabricante italiano de autom\u00F3viles. La marca fue fundada en 1959 en M\u00F3dena (Italia) por el constructor italo-argentino Alejandro de Tomaso (1928 \u2013 2003). De Tomaso dise\u00F1\u00F3 y fabric\u00F3 varios prototipos de autom\u00F3viles de competici\u00F3n, incluyendo un F\u00F3rmula 1 para el equipo de Frank Williams en 1970. Entre los modelos m\u00E1s famosos se encuentran el De Tomaso Mangusta, De Tomaso Pantera y el De Tomasso Longchamps. El \u00FAltimo portaba el nombre de su lugar de nacimiento en Argentina."@es ,
+		"Die Basis des Unternehmens war der Motorsport. In Modena er\u00F6ffnete De Tomaso eine Tuningwerkstatt. Zusammen mit dem Karosseriewerk Ghia schuf er Renn-Spider mit Ford-Motoren. Daraus abgeleitet entstand 1965 der erste Stra\u00DFensportwagen Vallelunga. Aber zun\u00E4chst versuchte De Tomaso, eigene Rennwagen f\u00FCr die Formel 1 und f\u00FCr andere Kategorien zu bauen und zu verkaufen. Nachdem diese Ans\u00E4tze nur von geringem Erfolg gekr\u00F6nt waren, legte de Tomaso den Schwerpunkt seines Unternehmens Mitte der 1960er Jahre auf die Entwicklung von Stra\u00DFensportwagen."@de ,
+		"De Tomaso was een Italiaans sportwagenmerk."@nl .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	dbpedia-es:De_Tomaso .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	dbpedia-pt:De_Tomaso .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	dbpedia-de:De_Tomaso .
+@prefix ns15:	<http://www4.wiwiss.fu-berlin.de/wikicompany/resource/> .
+dbr:De_Tomaso	owl:sameAs	ns15:De_Tomaso .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	dbpedia-nl:De_Tomaso .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	dbpedia-wikidata:Q173085 ,
+		<http://ja.dbpedia.org/resource/\u30C7\u30FB\u30C8\u30DE\u30BD> ,
+		wikidata:Q173085 ,
+		dbr:De_Tomaso ,
+		<http://rdf.freebase.com/ns/m.03jv4k> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	dbpedia-fr:De_Tomaso .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	dbpedia-id:De_Tomaso .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	dbpedia-pl:De_Tomaso .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	yago-res:De_Tomaso .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:De_Tomaso	owl:sameAs	dbpedia-it:De_Tomaso .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:De_Tomaso	dct:subject	dbc:Italian_racecar_constructors ,
+		dbc:Italian_auto_racing_teams ,
+		dbc:Formula_One_constructors ,
+		dbc:Sports_car_manufacturers ,
+		dbc:Car_manufacturers_of_Italy ,
+		dbc:Motor_vehicle_manufacturers_of_Italy ,
+		dbc:Italian_brands ,
+		dbc:De_Tomaso ;
+	foaf:name	"De Tomaso Modena"@en ;
+	foaf:homepage	<http://www.detomaso.it> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/ElvisDeTomaso.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:De_Tomaso ;
+	dbo:foundedBy	dbr:Alejandro_de_Tomaso ;
+	dbo:industry	dbr:Automotive_industry .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:De_Tomaso	dbo:internationally	"true"^^xsd:boolean ;
+	dbo:subsidiary	dbr:Moto_Guzzi ,
+		dbr:Maserati .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:De_Tomaso	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/De_Tomaso?oldid=743196563> ;
+	dbo:wikiPageExternalLink	<http://www.detomaso.de> ,
+		<http://www.DeTomasoRegistry.org/> ,
+		<http://home.comcast.net/~parapantera> ,
+		<http://www.synthesisdesign.it/guara.html> ,
+		<http://www.detomaso.it> ,
+		<http://www.pantera.ch> ;
+	dbo:extinctionYear	"2004"^^xsd:gYear .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:De_Tomaso	dbp:areaServed	"Worldwide"^^xsd:string ;
+	dbo:location	dbr:Modena ;
+	dbp:products	"Performance automobiles"^^xsd:string ;
+	dbo:abstract	"De Tomaso Automobili SpA \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F, \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u0432\u0448\u0430\u044F\u0441\u044F \u043D\u0430 \u0432\u044B\u043F\u0443\u0441\u043A\u0435 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439. \u0428\u0442\u0430\u0431-\u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u041C\u043E\u0434\u0435\u043D\u0435 (\u0418\u0442\u0430\u043B\u0438\u044F). \u0411\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0442\u0435\u043B\u0435\u043C \u0430\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F \u0410\u043B\u0435\u0445\u0430\u043D\u0434\u0440\u043E \u0434\u0435 \u0422\u043E\u043C\u0430\u0437\u043E (1928\u20142003) \u0432 1959 \u0433\u043E\u0434\u0443."@ru ,
+		"De Tomaso Modena SpA \u00E9 uma montadora de autom\u00F3veis italiana. Foi fundada por Alejandro de Tomaso (1928\u20132003) em M\u00F3dena em 1959 e liquidada em 2004."@pt ,
+		"\u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0645\u0648\u062F\u064A\u0646\u0627 \u0633\u0628\u0627: \u0634\u0631\u0643\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0644\u062A\u0635\u0646\u064A\u0639 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A\u060C \u062A\u0623\u0633\u0633\u062A \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646\u064A \u0623\u0644\u064A\u062E\u0627\u0646\u062F\u0631\u0648 \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 (1928-2003) \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0645\u0648\u062F\u064A\u0646\u0627 \u0641\u064A \u0639\u0627\u0645 1959. \u0648\u0643\u0627\u0646\u062A \u062A\u0646\u062A\u062C \u0645\u062E\u062A\u0644\u0641 \u0627\u0644\u0646\u0645\u0627\u0630\u062C \u0648\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0633\u0628\u0627\u0642\u060C \u0628\u0645\u0627 \u0641\u064A \u0630\u0644\u0643 \u0633\u064A\u0627\u0631\u0629 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0644\u0641\u0631\u064A\u0642 \u0641\u0631\u0627\u0646\u0643 \u0648\u0644\u064A\u0627\u0645\u0632 \u0641\u064A \u0639\u0627\u0645 1970. \u0628\u062F\u0623\u062A \u0627\u0644\u0634\u0631\u0643\u0629 \u0628\u062A\u0637\u0648\u064A\u0631 \u0648\u0625\u0646\u062A\u0627\u062C \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629 \u0648\u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0641\u0627\u062E\u0631\u0629 \u0645\u0646 1976-1993 \u0648 \u0627\u0645\u062A\u0644\u0643\u062A \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0634\u0631\u0643\u0629 \u0645\u0627\u0632\u064A\u0631\u0627\u062A\u064A \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0644\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629\u060C \u0648\u0627\u0635\u0628\u062D\u062A \u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0625\u0646\u062A\u0627\u062C \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0628\u0645\u0627 \u0641\u064A \u0630\u0644\u0643 \u0645\u0627\u0632\u064A\u0631\u0627\u062A\u064A \u0628\u064A\u062A\u0648\u0631\u0628\u0648 \u0648\u0645\u0627\u0632\u064A\u0631\u0627\u062A\u064A \u0643\u064A\u0627\u0644\u0627\u0645\u064A \u0648\u0645\u0627\u0632\u064A\u0631\u0627\u062A\u064A \u0643\u0648\u0627\u062A\u0631\u0648\u0628\u0648\u0631\u062A\u064A. \u0643\u0645\u0627 \u0627\u0645\u062A\u0644\u0643\u062A \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0634\u0631\u0643\u0629 \u0627\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0645\u0648\u062A\u0648 \u0643\u0648\u0632\u064A \u0645\u0646 1973 \u0627\u0644\u0649 1993. \u0630\u0647\u0628 \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0625\u0644\u0649 \u0627\u0644\u062A\u0635\u0641\u064A\u0629 \u0641\u064A \u0639\u0627\u0645 2004\u060C  \u0639\u0644\u0649 \u0627\u0644\u0631\u063A\u0645 \u0645\u0646 \u0627\u0633\u062A\u0645\u0631\u0627\u0631 \u0625\u0646\u062A\u0627\u062C \u0633\u064A\u0627\u0631\u0629 \u062C\u062F\u064A\u062F\u0629 \u0628\u0639\u062F \u0647\u0630\u0627 \u0627\u0644\u062A\u0627\u0631\u064A\u062E. \u0648\u0628\u062D\u0644\u0648\u0644 \u0639\u0627\u0645 2008 \u0643\u0627\u0646 \u064A\u062C\u0631\u064A \u0627\u0644\u0628\u062D\u062B \u0639\u0646 \u0645\u0634\u062A\u0631 \u0644\u0645\u0635\u0646\u0639 \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0648\u0627\u0644\u0639\u0644\u0627\u0645\u0627\u062A \u0627\u0644\u062A\u062C\u0627\u0631\u064A\u0629\u060C \u0648\u0641\u0642\u0627 \u0644\u0644\u0645\u0635\u0646\u0641\u064A\u0646 \u0627\u0644\u0630\u064A\u0646 \u0639\u064A\u0646\u062A\u0647\u0645 \u0627\u0644\u0645\u062D\u0643\u0645\u0629. \u0641\u064A \u0639\u0627\u0645 2009 \u0627\u0634\u062A\u0631\u062A \u062C\u064A\u0627\u0646 \u0645\u0627\u0631\u064A\u0648 \u0631\u0648\u0633\u064A\u0646\u0648 \u0627\u0644\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u062A\u062C\u0627\u0631\u064A\u0629 \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0648\u0623\u0633\u0633 \u0634\u0631\u0643\u0629 \u062C\u062F\u064A\u062F\u0629 \u0628\u0627\u0633\u0645 \u062F\u064A \u062A\u0648\u0645\u0627\u0633\u0648 \u0623\u0648\u062A\u0648\u0645\u0648\u0628\u064A\u0644\u064A \u0633\u0628\u0627 \u0631\u0648\u0633\u064A\u0646\u0648 \u0648\u0627\u0644\u062A\u064A \u0642\u0627\u0645\u062A \u0628\u062A\u062C\u0645\u064A\u0639 \u0627\u0644\u0647\u064A\u0643\u0644 \u0648\u0627\u0644\u0647\u064A\u0626\u0627\u062A \u0641\u064A \u0648\u0627\u062D\u062F\u0629 \u0645\u0646 \u0645\u0631\u0627\u0641\u0642 \u0627\u0644\u0625\u0646\u062A\u0627\u062C \u0627\u0644\u0642\u062F\u064A\u0645\u0629 \u062F\u0644\u0641\u064A \u0623\u0648\u062A\u0648\u0645\u0648\u062A\u064A\u0641 \u0641\u064A \u0644\u064A\u0641\u0648\u0631\u0646\u0648 \u0648\u062A\u0646\u0627\u0633\u0628 \u0647\u064A\u0643\u0644 \u0627\u0644\u0633\u064A\u0627\u0631\u0629\u060C \u0648\u0627\u0644\u0637\u0644\u0627\u0621\u060C \u0648\u0641\u064A \u0627\u0644\u0645\u0635\u0646\u0639 \u0628\u064A\u0646\u064A\u0646\u0641\u0627\u0631\u064A\u0646\u0627 \u0627\u0644\u0633\u0627\u0628\u0642 \u0641\u064A \u063A\u0631\u0648\u0644\u064A\u0627\u0633\u0643\u0648 \u0625\u064A\u0637\u0627\u0644\u064A\u0627.\u0641\u064A \u0639\u0627\u0645 2014 \u062A\u0645 \u0625\u063A\u0644\u0627\u0642 \u0648\u0631\u0634\u0629 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0623\u0635\u0644\u064A \u0641\u064A \u0645\u0648\u062F\u064A\u0646."@ar ,
+		"De Tomaso Modena S.p.A. \u2013 w\u0142oska firma produkuj\u0105ca luksusowe samochody sportowe w Modenie pod mark\u0105 De Tomaso. W p\u00F3\u017Aniejszym czasie grupa przemys\u0142owa pod t\u0105 sam\u0105 nazw\u0105 obejmuj\u0105ca kilka marek motocykli i samochod\u00F3w."@pl ,
+		"Die Basis des Unternehmens war der Motorsport. In Modena er\u00F6ffnete De Tomaso eine Tuningwerkstatt. Zusammen mit dem Karosseriewerk Ghia schuf er Renn-Spider mit Ford-Motoren. Daraus abgeleitet entstand 1965 der erste Stra\u00DFensportwagen Vallelunga. Aber zun\u00E4chst versuchte De Tomaso, eigene Rennwagen f\u00FCr die Formel 1 und f\u00FCr andere Kategorien zu bauen und zu verkaufen. Nachdem diese Ans\u00E4tze nur von geringem Erfolg gekr\u00F6nt waren, legte de Tomaso den Schwerpunkt seines Unternehmens Mitte der 1960er Jahre auf die Entwicklung von Stra\u00DFensportwagen."@de ,
+		"\u30C7\u30FB\u30C8\u30DE\u30BD\u307E\u305F\u306F\u30C7\u30FB\u30C8\u30DE\u30BE\uFF08De Tomaso \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u81EA\u52D5\u8ECA\u30E1\u30FC\u30AB\u30FC\u3067\u3042\u308B\u3002 1959\u5E74\u306B\u30C7\u30FB\u30C8\u30DE\u30BD\u30FB\u30A2\u30A6\u30C8\u30E2\u30D3\u30EA\u3068\u3057\u3066\u3001\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u51FA\u8EAB\u306E\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u30FB\u30C7\u30FB\u30C8\u30DE\u30BD\u304C\u30A4\u30BF\u30EA\u30A2\u306E\u30E2\u30C7\u30CA\u306B\u8A2D\u7ACB\u3057\u305F\u3002\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u306F\u6280\u8853\u8005\u3067\u3082\u3001\u65B0\u4E8B\u696D\u3092\u7A4D\u6975\u7684\u306B\u7ACB\u3061\u4E0A\u3052\u308B\u3053\u3068\u306B\u91CE\u5FC3\u3092\u71C3\u3084\u3059\u5B9F\u696D\u5BB6\u3067\u3082\u306A\u304F\u3001\u30EC\u30FC\u30B5\u30FC\u3068\u3057\u3066\u8155\u3092\u9CF4\u3089\u3057\u305F\u4EBA\u7269\u3060\u3063\u305F\u30022003\u5E74\u306B\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u304C\u4EA1\u304F\u306A\u308A\u3001\u4F1A\u793E\u306F2004\u5E745\u6708\u306B\u89E3\u6563\u3055\u308C\u305F\u3002\u305D\u306E\u5F8C2009\u5E7411\u6708\u3001\u30D5\u30A3\u30A2\u30C3\u30C8\u306E\u5143\u91CD\u5F79\u3067\u3042\u3063\u305F\u30A4\u30BF\u30EA\u30A2\u306E\u5B9F\u696D\u5BB6\u30B8\u30E3\u30F3\u30FB\u30DE\u30EA\u30AA\u30FB\u30ED\u30B7\u30CB\u30E7\u30FC\u30ED\u304C\u5546\u6A19\u6A29\u3092\u53D6\u5F97\u30022011\u5E74\u30B8\u30E5\u30CD\u30FC\u30D6\u30E2\u30FC\u30BF\u30FC\u30B7\u30E7\u30FC\u306B\u3066\u300C\u30C7\u30FB\u30C8\u30DE\u30BD\u300D\u30D6\u30E9\u30F3\u30C9\u3067\u65B0\u578B\u8ECA\u3092\u767A\u8868\u3001\u65B0\u751F\u30C7\u30FB\u30C8\u30DE\u30BD\u3068\u3057\u3066\u5FA9\u6D3B\u3057\u305F\u3002 \u30A8\u30F3\u30D6\u30EC\u30E0\u306F\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u306E\u6BCD\u56FD\u30FB\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u306E\u56FD\u65D7\u306B\u3082\u4F7F\u308F\u308C\u308B\u300C\u6C34\u8272\u30FB\u767D\u30FB\u6C34\u8272\u300D\u306E\u914D\u8272\u306B\u53E4\u4EE3\u30A8\u30B8\u30D7\u30C8\u306E\u5973\u795E\u300C\u30A4\u30B7\u30B9\u300D\u3092\u8868\u3059\u8C61\u5F62\u6587\u5B57\uFF08\u30D2\u30A8\u30ED\u30B0\u30EA\u30D5\uFF09\u3092\u7D44\u307F\u5408\u308F\u305B\u305F\u3082\u306E\u3002\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u306F\u300C\u59BB\u30FB\u30A4\u30B6\u30D9\u30EB\u300D\u306E\u30A4\u30CB\u30B7\u30E3\u30EB\u3068\u79F0\u3057\u3066\u3044\u305F\u3068\u3044\u3046\u304C\u3001\u305D\u306E\u4E3B\u5F35\u306B\u5F93\u3046\u3068\u30A2\u30EC\u30CF\u30F3\u30C9\u30ED\u81EA\u8EAB\u306F\u51A5\u754C\u306E\u738B\u30AA\u30B7\u30EA\u30B9\u306B\u5F53\u305F\u308B\u3053\u3068\u304B\u3089\u3001\u30ED\u30FC\u30DE\u30F3\u30AB\u30C8\u30EA\u30C3\u30AF\u306E\u304A\u819D\u4E0B\u305F\u308B\u30A4\u30BF\u30EA\u30A2\u3067\u306F\u30BF\u30D6\u30FC\u8996\u3055\u308C\u3066\u3044\u305F\u3002"@ja ,
+		"De TomasoFichier:Detomasologo.jpg De Tomaso est une soci\u00E9t\u00E9 italienne de construction d'automobiles. Elle fut fond\u00E9e par l'Argentin Alejandro de Tomaso (1928-2003) \u00E0 Mod\u00E8ne en Italie en 1959. Le logo de la marque, reprenant le signe repr\u00E9sentant la d\u00E9esse \u00E9gyptienne Isis, rend hommage \u00E0 la femme d'Alejandro de Tomaso, Isabella. On avance aussi qu'il proviendrait du signe dont il marquait ses vaches dans son ancien ranch aux \u00C9tats-Unis. \u00C0 l'origine, De Tomaso produit diff\u00E9rents prototypes de voitures de course, dont une Formule 1 pour l'\u00E9quipe de Frank Williams en 1970."@fr ,
+		"La De Tomaso \u00E8 stata una societ\u00E0 italiana per la produzione di automobili, fondata a Modena nel 1959 dal pilota italo-argentino Alejandro de Tomaso. Nel corso degli anni ha cambiato pi\u00F9 volte la sua denominazione sociale, pur restando sempre sotto il pieno controllo del suo fondatore, deceduto nel 2003 all'et\u00E0 di 75 anni."@it ,
+		"De Tomaso Automobili S.p.A. fue un fabricante italiano de autom\u00F3viles. La marca fue fundada en 1959 en M\u00F3dena (Italia) por el constructor italo-argentino Alejandro de Tomaso (1928 \u2013 2003). De Tomaso dise\u00F1\u00F3 y fabric\u00F3 varios prototipos de autom\u00F3viles de competici\u00F3n, incluyendo un F\u00F3rmula 1 para el equipo de Frank Williams en 1970. Entre los modelos m\u00E1s famosos se encuentran el De Tomaso Mangusta, De Tomaso Pantera y el De Tomasso Longchamps. El \u00FAltimo portaba el nombre de su lugar de nacimiento en Argentina. En el sal\u00F3n de Ginebra 2011 De Tomaso Automobili S.p.A. present\u00F3 su nuevo veh\u00EDculo. El De Tomaso Deauville 2011."@es ,
+		"De Tomaso Modena SpA was an Italian car-manufacturing company. It was founded by the Argentine-born Alejandro de Tomaso (1928\u20132003) in Modena in 1959. It originally produced various prototypes and racing cars, including a Formula One car for Frank Williams' team in 1970. The company went on to develop and produce both sports cars and luxury vehicles. From 1976 to 1993 De Tomaso owned legendary Italian sports car maker Maserati, and was responsible for producing cars including the Biturbo, the Kyalami, Quattroporte III, Karif, and the Chrysler TC. De Tomaso also owned motorcycle company Moto Guzzi from 1973 to 1993. De Tomaso went into liquidation in 2004, although production of new cars continued after this date. By 2008 a buyer was being sought for the De Tomaso factory and trademarks, as per the court-appointed liquidators. In 2009 Gian Mario Rossignolo bought the De Tomaso trademark and founded a new company named De Tomaso Automobili SpA. Rossignolo planned to assemble chassis and bodies in one of Delphi Automotive\u2019s old production facilities in Livorno and to fit bodywork, paint and finish its cars in the former Pininfarina factory in Grugliasco. In May 2012, De Tomaso was again for sale after their business plan failed to gather sufficient financial backing. In July 2012, Rossignolo was arrested following allegations that he misused \u20AC7.5 million worth of government funds. In September 2012, speculation emerged that BMW might be interested in the brand factory to produce new BMW models. In 2014 the original workshop in Modena was in abandonment. In April 2015 an Italian bankruptcy court approved the sale of the company to China's Consolidated Ideal TeamVenture, for 1.05 million euros, or approximately $1.17 million USD. Per that sale report \"A lawyer for the buyer announced that Ideal TeamVenture plans to produce cars in China bearing the De Tomaso name.\""@en ,
+		"De Tomaso was een Italiaans sportwagenmerk."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/ElvisDeTomaso.jpg?width=300> ;
+	dbo:wikiPageRevisionID	743196563 ;
+	dbo:wikiPageID	866388 .
+@prefix ns28:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:De_Tomaso	dbp:wordnet_type	ns28:synset-company-noun-1 ;
+	dbp:logo	<http://dbpedia.org/resource/File:De_Tomaso_Logo.jpg> ;
+	dbp:type	"Private"^^xsd:string ;
+	dbo:foundingYear	"1959"^^xsd:gYear .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:De_Tomaso	ns29:hypernym	dbr:Company ;
+	dbo:fate	"liquidation"@en .
+<http://dbpedia.org/resource/De_Tomaso_Guar\u00E0>	dbo:manufacturer	dbr:De_Tomaso .
+dbr:De_Tomaso_Mangusta	dbo:manufacturer	dbr:De_Tomaso .
+dbr:De_Tomaso_Vallelunga	dbo:manufacturer	dbr:De_Tomaso .
+dbr:Innocenti	dbo:parentCompany	dbr:De_Tomaso .
+dbr:De_Tomaso_F1	dbo:wikiPageRedirects	dbr:De_Tomaso .
+dbr:De_Tomaso_801	dbo:wikiPageRedirects	dbr:De_Tomaso .
+dbr:Piers_Courage	<http://dbpedia.org/property/team(s)_>	dbr:De_Tomaso .
+dbr:De_Tomaso_Sport_5000	dbp:team	dbr:De_Tomaso ;
+	dbp:constructor	dbr:De_Tomaso .
+<http://dbpedia.org/resource/De_Tomaso_505/38>	dbp:constructor	dbr:De_Tomaso .
+<http://dbpedia.org/resource/Nasif_Est\u00E9fano>	<http://dbpedia.org/property/team(s)_>	dbr:De_Tomaso .
+dbr:Roberto_Bussinello	<http://dbpedia.org/property/team(s)_>	dbr:De_Tomaso .
+dbr:De_Tomaso_Pantera	dbo:manufacturer	dbr:De_Tomaso .
+dbr:De_Tomaso_Deauville	dbo:manufacturer	dbr:De_Tomaso .
+dbr:DeTomaso	dbo:wikiPageRedirects	dbr:De_Tomaso .
+dbr:De_T	dbo:wikiPageRedirects	dbr:De_Tomaso .
+dbr:De_Tomaso_Modena	dbo:wikiPageRedirects	dbr:De_Tomaso .
+dbr:De_Tomaso_Automobili	dbo:wikiPageRedirects	dbr:De_Tomaso .

@@ -1,0 +1,102 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Eifelland	foaf:primaryTopic	dbr:Eifelland .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Eifelland	rdf:type	dbo:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Eifelland	rdf:type	yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:PhysicalEntity100001930 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:WikicatGermanRacecarConstructors ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Eifelland	rdfs:label	"Eifelland"@pt ,
+		"Eifelland"@en ,
+		"Eifelland Racing"@it ,
+		"Team Eifelland Caravans"@de ,
+		"Eifelland Racing"@fr ,
+		"Eifelland"@pl ;
+	rdfs:comment	"Team Eifelland Caravans, ou apenas Eifelland, foi uma construtora de F\u00F3rmula 1 da Alemanha. Participou da temporada de 1972, tendo como piloto o alem\u00E3o Rolf Stommelen. Seu nome \u00E9 uma refer\u00EAncia \u00E0s montanhas de Eifel, situadas pr\u00F3ximas de N\u00FCrburgring e que foi onde nasceu o fundador da equipe, G\u00FCnther Hennerici. Seu melhor resultado nas oito corridas que disputou foi um 10\u00B0 lugar, conquistado nos GP's de M\u00F4naco e da Inglaterra."@pt ,
+		"Eifelland was a German Formula One team, named after its German owner G\u00FCnther Hennerici's caravan manufacturing company. Hennerici owned a successful business and in the beginning he saw racing as a great possibility to advertise his product. The name Eifelland was chosen after the Eifel mountains where Hennerici was born, which are located close to the N\u00FCrburgring. Eifelland only participated in the FIA Formula One World Championship in the 1972 Formula One season. Their driver was German Rolf Stommelen, however the two soon suffered disagreements."@en ,
+		"Team Eifelland Caravans war ein Motorsportteam, das 1972 auch in der Formel-1-Weltmeisterschaft am Start war."@de ,
+		"Eifelland, pe\u0142na nazwa Team Eifelland Caravans \u2013 niemiecki zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1972 roku."@pl ,
+		"L'Eifelland \u00E8 stato un costruttore tedesco di Formula 1. Fondata da G\u00FCnther Hennerici, imprenditore nel campo della produzione di caravan che inizi\u00F2 a interessarsi al mondo delle corse sponsorizzando alcune vetture del campionato di Formula 2 e di Formula 3. L'esordio avvenne nel Gran Premio del Sud Africa 1972, in cui ottenne il 25 posto sulla griglia e il tredicesimo all'arrivo. Corse in totale 8 gran premi validi per il campionato del mondo, sempre con Rolf Stommelen alla guida, senza ottenere risultati di rilievo."@it ,
+		"Eifelland Racing est une \u00E9curie de course automobile allemande, fond\u00E9e en 1972 par Gunther Henerici, qui a connu une \u00E9ph\u00E9m\u00E8re carri\u00E8re en Formule 1. L'\u00E9curie a particip\u00E9 \u00E0 huit Grands Prix durant la saison 1972 sans parvenir \u00E0 inscrire de point en championnat. Le meilleur r\u00E9sultat obtenu est une dixi\u00E8me place \u00E0 Monaco, la meilleure qualification \u00E9tant une quatorzi\u00E8me place lors de son Grand Prix national disput\u00E9 au N\u00FCrburgring."@fr .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Eifelland	owl:sameAs	dbpedia-fr:Eifelland_Racing .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Eifelland	owl:sameAs	dbpedia-pt:Eifelland .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Eifelland	owl:sameAs	dbpedia-id:Eifelland .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Eifelland	owl:sameAs	dbpedia-de:Team_Eifelland_Caravans .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Eifelland	owl:sameAs	yago-res:Eifelland .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Eifelland	owl:sameAs	wikidata:Q173543 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Eifelland	owl:sameAs	dbpedia-wikidata:Q173543 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Eifelland	owl:sameAs	dbpedia-it:Eifelland_Racing .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Eifelland	owl:sameAs	dbpedia-pl:Eifelland ,
+		<http://rdf.freebase.com/ns/m.04vdlh> ,
+		dbr:Eifelland .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Eifelland	dct:subject	dbc:German_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_Two_entrants ,
+		dbc:German_auto_racing_teams ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Eifelland-March_E21_(2011-08-13_Sp).JPG> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Eifelland .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Eifelland	dbp:races	8 ;
+	dbp:founders	"G\u00FCnther Hennerici"^^xsd:string ;
+	dbp:debut	1972 ;
+	dbp:wins	0 ;
+	dbp:en	"Hannelore Werner"^^xsd:string ;
+	dbp:lang	"de"^^xsd:string ;
+	dbp:verticalAlign	"sup"^^xsd:string ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Eifelland	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Eifelland?oldid=737675282> ;
+	dbo:wikiPageExternalLink	<http://8w.forix.com/eifelland.html> ,
+		<http://www.motorsport-total.com/f1/db/object.php?subject=team&id=127> ,
+		<https://web.archive.org/web/20101228033826/http:/f1rejects.com/teams/eifelland/profile.html> ;
+	dbp:officialName	"Team Eifelland Caravans"^^xsd:string ;
+	dbp:staff	dbr:Luigi_Colani ;
+	dbp:base	"West Germany"^^xsd:string ;
+	dbp:name	"Eifelland"^^xsd:string ;
+	dbp:engines	dbr:V8_engine ,
+		dbr:Cosworth ;
+	dbo:abstract	"Team Eifelland Caravans, ou apenas Eifelland, foi uma construtora de F\u00F3rmula 1 da Alemanha. Participou da temporada de 1972, tendo como piloto o alem\u00E3o Rolf Stommelen. Seu nome \u00E9 uma refer\u00EAncia \u00E0s montanhas de Eifel, situadas pr\u00F3ximas de N\u00FCrburgring e que foi onde nasceu o fundador da equipe, G\u00FCnther Hennerici. Seu melhor resultado nas oito corridas que disputou foi um 10\u00B0 lugar, conquistado nos GP's de M\u00F4naco e da Inglaterra."@pt ,
+		"Team Eifelland Caravans war ein Motorsportteam, das 1972 auch in der Formel-1-Weltmeisterschaft am Start war."@de ,
+		"Eifelland Racing est une \u00E9curie de course automobile allemande, fond\u00E9e en 1972 par Gunther Henerici, qui a connu une \u00E9ph\u00E9m\u00E8re carri\u00E8re en Formule 1. L'\u00E9curie a particip\u00E9 \u00E0 huit Grands Prix durant la saison 1972 sans parvenir \u00E0 inscrire de point en championnat. Le meilleur r\u00E9sultat obtenu est une dixi\u00E8me place \u00E0 Monaco, la meilleure qualification \u00E9tant une quatorzi\u00E8me place lors de son Grand Prix national disput\u00E9 au N\u00FCrburgring."@fr ,
+		"L'Eifelland \u00E8 stato un costruttore tedesco di Formula 1. Fondata da G\u00FCnther Hennerici, imprenditore nel campo della produzione di caravan che inizi\u00F2 a interessarsi al mondo delle corse sponsorizzando alcune vetture del campionato di Formula 2 e di Formula 3. Nel 1971 decise di impegnarsi direttamente nella costruzione di vetture acquistando una March 721 che venne poi rimodellata con l'aiuto di Luigi Colani. Per tale motivo \u00E8 indicata anche come Eifelland-March. La vettura, ribattezzata E21, aveva una forma alquanto avveniristica con una grande presa d'aria posta sulla parte alta del musetto, davanti al pilota. Su questa presa era posto l'unico specchietto retrovisore, in una curiosa posizione centrale. Problemi di raffreddamento costrinsero la scuderia a rivedere il progetto iniziale, che prevedeva un muso carenato a tutta larghezza e due scivoli laterali che convogliavano l'ala su un grande alettone posteriore.Le versioni successive, impiegate in gara, ebbero muso e un alettone posteriore pi\u00F9 convenzionali e videro l'eliminazione degli scivoli laterali.Furono mantenuti la presa d'aria davanti all'abitacolo e lo specchietto a periscopio. L'esordio avvenne nel Gran Premio del Sud Africa 1972, in cui ottenne il 25 posto sulla griglia e il tredicesimo all'arrivo. Corse in totale 8 gran premi validi per il campionato del mondo, sempre con Rolf Stommelen alla guida, senza ottenere risultati di rilievo. Al termine della stagione Henerici vendette la sua societ\u00E0 di caravan e l'impegno nel mondo delle corse non venne proseguito."@it ,
+		"Eifelland was a German Formula One team, named after its German owner G\u00FCnther Hennerici's caravan manufacturing company. Hennerici owned a successful business and in the beginning he saw racing as a great possibility to advertise his product. The name Eifelland was chosen after the Eifel mountains where Hennerici was born, which are located close to the N\u00FCrburgring. Hennerici had a twin brother Heinz who lost his left arm in the Second World War. However, he was a devoted racing driver who still holds a record in his group at the N\u00FCrburgring. The brothers were very involved in racing in general and helped to establish the AC Mayen with many other racing fanatics in and from Mayen. G\u00FCnther's third wife Hannelore Werner was a successful Formula 2 driver, and Heinz's grandson Marc Hennerici was a very successful racing driver in his own right. Heinz was a popular figure around the N\u00FCrburgring until his death. However, Hennerici was known to have a temperament which is still rather famous in and outside the paddock. He sold his business a couple of years later and turned back to racing, but most of his achievements are lost. His dream from the '70s came true in 2010 when Mercedes Benz re-established itself in Formula One. The Hennerici brothers were very passionate about the old style racing and G\u00FCnther is remembered as one of the pioneers and visionaries of modern German racing principals. Eifelland only participated in the FIA Formula One World Championship in the 1972 Formula One season. Their driver was German Rolf Stommelen, however the two soon suffered disagreements. The car was based on a March 721 Formula One car, redesigned by German designer Luigi Colani in his typical rounded aerodynamic style. The car featured an air intake in front of the driver, with the air being guided around the cockpit to the engine. A single rear view mirror was mounted in front of the driver. Problems with overheating, downforce and reliability meant that the team had to replace some of Colani's designs with the originally-designed parts from March."@en ,
+		"Eifelland, pe\u0142na nazwa Team Eifelland Caravans \u2013 niemiecki zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1972 roku."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Eifelland-March_E21_(2011-08-13_Sp).JPG?width=300> ;
+	dbo:wikiPageRevisionID	737675282 ;
+	dbo:wikiPageID	1344823 .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Eifelland	ns21:hypernym	dbr:Team ;
+	dbp:finalRace	1972 .
+dbr:Rolf_Stommelen	<http://dbpedia.org/property/team(s)_>	dbr:Eifelland .
+dbr:Eifelland_21	dbo:wikiPageRedirects	dbr:Eifelland .

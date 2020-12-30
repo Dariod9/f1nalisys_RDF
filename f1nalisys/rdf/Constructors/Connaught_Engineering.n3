@@ -1,0 +1,148 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Bernie_Ecclestone	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Connaught_(racing_team)>	dbo:wikiPageRedirects	dbr:Connaught_Engineering .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1954_II_Cornwall_MRC_Formula_1_Race>	dbp:fastTeam	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/1954_I_Cornwall_MRC_Formula_1_Race>	dbo:fastestDriverTeam	dbr:Connaught_Engineering ;
+	dbo:firstDriverTeam	dbr:Connaught_Engineering ;
+	dbo:poleDriverTeam	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/1955_Cornwall_MRC_Formula_1_Race>	dbo:fastestDriverTeam	dbr:Connaught_Engineering ;
+	dbo:firstDriverTeam	dbr:Connaught_Engineering ;
+	dbo:poleDriverTeam	dbr:Connaught_Engineering ;
+	dbo:secondTeam	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/1957_Glover_Trophy>	dbo:firstDriverTeam	dbr:Connaught_Engineering ;
+	dbo:secondTeam	dbr:Connaught_Engineering .
+dbr:Ecurie_Ecosse	dbp:constructors	dbr:Connaught_Engineering .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Connaught_Engineering	foaf:primaryTopic	dbr:Connaught_Engineering .
+dbr:Archie_Scott_Brown	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/1956_Italian_Grand_Prix>	dbo:thirdTeam	dbr:Connaught_Engineering .
+dbr:Les_Leston	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/1957_Pau_Grand_Prix>	dbo:thirdTeam	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/Eric_Thompson_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+dbr:Roy_Salvadori	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/Ron_Flockhart_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+dbr:Rob_Walker_Racing_Team	dbp:constructors	dbr:Connaught_Engineering .
+dbr:Jack_Fairman	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+dbr:Ivor_Bueb	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+dbr:Stuart_Lewis-Evans	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+dbr:Paul_Emery	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/1956_BARC_Aintree_200>	dbo:poleDriverTeam	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/1956_Glover_Trophy>	dbo:thirdTeam	dbr:Connaught_Engineering .
+dbr:Desmond_Titterington	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+dbr:Kenneth_McAlpine	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+dbr:Dennis_Poore	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Connaught_Engineering	rdf:type	yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Connaught_Engineering	rdf:type	schema:SportsTeam ,
+		yago:Contractor109960891 ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:WikicatFormulaTwoConstructors .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Connaught_Engineering	rdf:type	owl:Thing .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Connaught_Engineering	rdf:type	ns9:Agent ,
+		dbo:Organisation .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Connaught_Engineering	rdf:type	wikidata:Q43229 ,
+		yago:Organism100004475 ,
+		ns9:SocialPerson ,
+		dbo:FormulaOneTeam ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		dbo:Agent ,
+		wikidata:Q24229398 ,
+		schema:Organization ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		dbo:SportsTeam .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Connaught_Engineering	rdfs:label	"Connaught Engineering"@fr ,
+		"Connaught (automovilismo)"@es ,
+		"Connaught Engineering"@pt ,
+		"Connaught Engineering"@de ,
+		"Connaught Engineering"@en ,
+		"Connaught Engineering"@pl ,
+		"Connaught (automobilismo)"@it ,
+		"\u30B3\u30F3\u30CE\u30FC\u30C8\u30FB\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0"@ja ;
+	rdfs:comment	"Connaught Engineering \u2013 by\u0142y brytyjski konstruktor samochodowy Formu\u0142y 1. Jego bolidy zadebiutowa\u0142y w wy\u015Bcigu o Grand Prix Wielkiej Brytanii 19 lipca 1952 roku, a w ostatnim wy\u015Bcigu walczy\u0142y o Grand Prix Stan\u00F3w Zjednoczonych 12 grudnia 1959 roku. Bra\u0142y udzia\u0142 w 12 wy\u015Bcigach, nigdy nie zwyci\u0119\u017Cy\u0142y, ale zdoby\u0142y 17 punkt\u00F3w do klasyfikacji konstruktor\u00F3w."@pl ,
+		"Connaught Engineering, often referred to simply as Connaught, was a Formula One and sports car constructor from the United Kingdom. Their cars participated in 18 Grands Prix, entering a total of 52 races with their A, B, and C Type Formula 2 and Formula 1 Grand Prix Cars. They achieved 1 podium and scored 17 championship points. The name Connaught is a pun on Continental Autos, the garage in Send, Surrey, which specialised in sales and repair of European sports cars such as Bugatti, and where the cars were built."@en ,
+		"Connaught Engineering est un constructeur de ch\u00E2ssis de course automobile et une ancienne \u00E9curie de Formule 1 britannique fond\u00E9e par Kenneth McAlpine, Rodney Clarke et Mike Oliver en 1950. Les Connaught ont d\u00E9but\u00E9 en championnat du monde de Formule 1 en 1952 et ont disput\u00E9 17 Grands Prix jusqu'en 1959. L'entreprise Connaught cesse toute activit\u00E9 en 1960 mais Paul Emery, fondateur d'Emeryson, rach\u00E8te l'outillage de course et, avec l'appui d'anciens m\u00E9caniciens de Connaught, construit l'Emeryson 61 qui dispute \u00E9galement quelques Grands Prix de Formule 1 en 1962."@fr ,
+		"\u30B3\u30F3\u30CE\u30FC\u30C8\u30FB\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0 (Connaught Engineering) \u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u3001\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002\u3057\u3070\u3057\u3070\u5358\u306B\u30B3\u30F3\u30CE\u30FC\u30C8 (Connaught) \u3068\u3057\u3066\u547C\u3070\u308C\u308B\u3002\u30B3\u30F3\u30CE\u30FC\u30C8\u306E\u30DE\u30B7\u30F3\u306F18\u306E\u30B0\u30E9\u30F3\u30D7\u30EA\u306B\u53C2\u52A0\u3001\u30BF\u30A4\u30D7A\u3001B\u3001C\u3068\u3044\u3063\u305F\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\u304A\u3088\u3073\u30D5\u30A9\u30FC\u30DF\u30E5\u30E92\u30DE\u30B7\u30F3\u306F\u5408\u8A0852\u306E\u30EC\u30FC\u30B9\u306B\u51FA\u8D70\u3057\u305F\u3002F1\u3067\u306F\u4E00\u5EA6\u306E\u8868\u5F70\u53F0\u3068\u5408\u8A0817\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3057\u305F\u3002\u300C\u30B3\u30F3\u30CE\u30FC\u30C8 (Connaught)\u300D\u306E\u540D\u79F0\u306F\u300C\u30B3\u30F3\u30C1\u30CD\u30F3\u30BF\u30EB\u30FB\u30AA\u30FC\u30C8 (Continental Autos)\u300D\u304B\u3089\u306E\u9020\u8A9E\u3067\u3001\u30B5\u30EA\u30FC\u5DDE\u30BB\u30F3\u30C9\u3092\u62E0\u70B9\u3068\u3057\u3066\u3001\u30D6\u30AC\u30C3\u30C6\u30A3\u3092\u59CB\u3081\u3068\u3059\u308B\u30E8\u30FC\u30ED\u30D4\u30A2\u30F3\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u306E\u8CA9\u58F2\u3001\u4FEE\u7406\u306B\u7279\u5316\u3057\u3001\u540C\u5730\u3067\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u306E\u88FD\u9020\u3092\u884C\u3063\u305F\u3002"@ja ,
+		"Connaught Engineering, m\u00E1s concocido sencillamente como Connaught, fue un equipo de F\u00F3rmula 1 y fabricante de coches deportivos brit\u00E1nico. Particip\u00F3 en 18 grandes premios consiguiendo un podio y 17 puntos de campeonato. El nombre Connaught deriva de Continental Autos, el taller en Send, Surrey, que se especializaba en ventas y reparaci\u00F3n coches deportivos europeos como Bugatti, donde construyeron los coches."@es ,
+		"Connaught Engineering, bzw. Connaught Cars Ltd. war ein britischer Hersteller von Automobilen und Rennwagen, der in Send (Surrey) ans\u00E4ssig war."@de ,
+		"Connaught \u00E8 stato un team britannico di Formula 1 negli anni cinquanta. In aggiunta all'impiego sportivo l'azienda costru\u00EC un piccolo numero di vetture sportive da strada che ebbero successo nelle competizioni a loro riservate. Il nome Connaught (che \u00E8 anche quello di una regione dell'Irlanda) deriva da Continental Autos, un'officina meccanica di Send nel Surrey specializzata in auto sportive dove le vetture venivano costruite. Dal 2013 \u00E8 anche coinvolta nella produzione di vetture stradali, e la sua prima creazione \u00E8 stata la Type-D GT"@it ,
+		"A Connaught Engineering foi uma construtora de F\u00F3rmula 1 do Reino Unido. Participaram de dezoito grandes pr\u00EAmios entre 1952 e 1959. Entre seus pilotos, destacavam-se Stirling Moss, Ron Flockhart (respons\u00E1vel pelo \u00FAnico p\u00F3dio da equipe, em 1956), Stuart Lewis-Evans e at\u00E9 Bernie Ecclestone, atual CEO da Formula One Management, que tentou disputar o GP de M\u00F4naco de 1958 pela Connaught, sem sucesso."@pt ;
+	dbp:drivers	"Stuart Lewis-Evans"^^xsd:string ,
+		"Stirling Moss"^^xsd:string ;
+	owl:sameAs	dbr:Connaught_Engineering ,
+		<http://es.dbpedia.org/resource/Connaught_(automovilismo)> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Connaught_Engineering	owl:sameAs	yago-res:Connaught_Engineering .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Connaught_Engineering	owl:sameAs	dbpedia-pt:Connaught_Engineering .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Connaught_Engineering	owl:sameAs	dbpedia-pl:Connaught_Engineering ,
+		<http://it.dbpedia.org/resource/Connaught_(automobilismo)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Connaught_Engineering	owl:sameAs	dbpedia-wikidata:Q173536 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Connaught_Engineering	owl:sameAs	dbpedia-fr:Connaught_Engineering ,
+		<http://rdf.freebase.com/ns/m.04n6bs> ,
+		<http://ja.dbpedia.org/resource/\u30B3\u30F3\u30CE\u30FC\u30C8\u30FB\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Connaught_Engineering	owl:sameAs	dbpedia-id:Connaught_Engineering .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Connaught_Engineering	owl:sameAs	dbpedia-de:Connaught_Engineering ,
+		wikidata:Q173536 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Connaught_Engineering	dct:subject	dbc:Sports_car_manufacturers ,
+		dbc:British_auto_racing_teams ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ;
+	foaf:name	"Connaught Engineering"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Connaught_Engineering ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Connaught"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Connaught_Engineering	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Connaught_Engineering?oldid=716691411> ;
+	dbp:founders	"Mike Oliver"^^xsd:string ,
+		<http://dbpedia.org/resource/Rodney_Clarke_(motorsport)> ;
+	dbp:logo	<http://dbpedia.org/resource/File:Connaught_Engineering.png> ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	<http://dbpedia.org/resource/Send,_Surrey> ,
+		dbr:United_Kingdom ;
+	dbp:debut	1952 ;
+	dbo:wikiPageExternalLink	<http://www.connaughtmotorco.com/> ;
+	dbo:abstract	"Connaught \u00E8 stato un team britannico di Formula 1 negli anni cinquanta. In aggiunta all'impiego sportivo l'azienda costru\u00EC un piccolo numero di vetture sportive da strada che ebbero successo nelle competizioni a loro riservate. Il nome Connaught (che \u00E8 anche quello di una regione dell'Irlanda) deriva da Continental Autos, un'officina meccanica di Send nel Surrey specializzata in auto sportive dove le vetture venivano costruite. Dal 2013 \u00E8 anche coinvolta nella produzione di vetture stradali, e la sua prima creazione \u00E8 stata la Type-D GT"@it ,
+		"Connaught Engineering, often referred to simply as Connaught, was a Formula One and sports car constructor from the United Kingdom. Their cars participated in 18 Grands Prix, entering a total of 52 races with their A, B, and C Type Formula 2 and Formula 1 Grand Prix Cars. They achieved 1 podium and scored 17 championship points. The name Connaught is a pun on Continental Autos, the garage in Send, Surrey, which specialised in sales and repair of European sports cars such as Bugatti, and where the cars were built."@en ,
+		"Connaught Engineering \u2013 by\u0142y brytyjski konstruktor samochodowy Formu\u0142y 1. Jego bolidy zadebiutowa\u0142y w wy\u015Bcigu o Grand Prix Wielkiej Brytanii 19 lipca 1952 roku, a w ostatnim wy\u015Bcigu walczy\u0142y o Grand Prix Stan\u00F3w Zjednoczonych 12 grudnia 1959 roku. Bra\u0142y udzia\u0142 w 12 wy\u015Bcigach, nigdy nie zwyci\u0119\u017Cy\u0142y, ale zdoby\u0142y 17 punkt\u00F3w do klasyfikacji konstruktor\u00F3w."@pl ,
+		"Connaught Engineering, m\u00E1s concocido sencillamente como Connaught, fue un equipo de F\u00F3rmula 1 y fabricante de coches deportivos brit\u00E1nico. Particip\u00F3 en 18 grandes premios consiguiendo un podio y 17 puntos de campeonato. El nombre Connaught deriva de Continental Autos, el taller en Send, Surrey, que se especializaba en ventas y reparaci\u00F3n coches deportivos europeos como Bugatti, donde construyeron los coches."@es ,
+		"\u30B3\u30F3\u30CE\u30FC\u30C8\u30FB\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0 (Connaught Engineering) \u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u3001\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002\u3057\u3070\u3057\u3070\u5358\u306B\u30B3\u30F3\u30CE\u30FC\u30C8 (Connaught) \u3068\u3057\u3066\u547C\u3070\u308C\u308B\u3002\u30B3\u30F3\u30CE\u30FC\u30C8\u306E\u30DE\u30B7\u30F3\u306F18\u306E\u30B0\u30E9\u30F3\u30D7\u30EA\u306B\u53C2\u52A0\u3001\u30BF\u30A4\u30D7A\u3001B\u3001C\u3068\u3044\u3063\u305F\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\u304A\u3088\u3073\u30D5\u30A9\u30FC\u30DF\u30E5\u30E92\u30DE\u30B7\u30F3\u306F\u5408\u8A0852\u306E\u30EC\u30FC\u30B9\u306B\u51FA\u8D70\u3057\u305F\u3002F1\u3067\u306F\u4E00\u5EA6\u306E\u8868\u5F70\u53F0\u3068\u5408\u8A0817\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3057\u305F\u3002\u300C\u30B3\u30F3\u30CE\u30FC\u30C8 (Connaught)\u300D\u306E\u540D\u79F0\u306F\u300C\u30B3\u30F3\u30C1\u30CD\u30F3\u30BF\u30EB\u30FB\u30AA\u30FC\u30C8 (Continental Autos)\u300D\u304B\u3089\u306E\u9020\u8A9E\u3067\u3001\u30B5\u30EA\u30FC\u5DDE\u30BB\u30F3\u30C9\u3092\u62E0\u70B9\u3068\u3057\u3066\u3001\u30D6\u30AC\u30C3\u30C6\u30A3\u3092\u59CB\u3081\u3068\u3059\u308B\u30E8\u30FC\u30ED\u30D4\u30A2\u30F3\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u306E\u8CA9\u58F2\u3001\u4FEE\u7406\u306B\u7279\u5316\u3057\u3001\u540C\u5730\u3067\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u306E\u88FD\u9020\u3092\u884C\u3063\u305F\u3002"@ja ,
+		"Connaught Engineering est un constructeur de ch\u00E2ssis de course automobile et une ancienne \u00E9curie de Formule 1 britannique fond\u00E9e par Kenneth McAlpine, Rodney Clarke et Mike Oliver en 1950. Les Connaught ont d\u00E9but\u00E9 en championnat du monde de Formule 1 en 1952 et ont disput\u00E9 17 Grands Prix jusqu'en 1959. Le meilleur classement d'une Connaught est une troisi\u00E8me place obtenue par Ron Flockart au Grand Prix d'Italie \u00E0 Monza sur une Connaught B. Si l'\u00E9curie officielle Connaught se retire du championnat du monde \u00E0 l'issue de la saison 1953, de nombreux \"gentlemen drivers\" continuent d'engager \u00E0 titre priv\u00E9 des ch\u00E2ssis Connaught jusqu'en 1959. L'entreprise Connaught cesse toute activit\u00E9 en 1960 mais Paul Emery, fondateur d'Emeryson, rach\u00E8te l'outillage de course et, avec l'appui d'anciens m\u00E9caniciens de Connaught, construit l'Emeryson 61 qui dispute \u00E9galement quelques Grands Prix de Formule 1 en 1962. La marque rena\u00EEt en 2002 et produit, artisanalement et en faible volume, un mod\u00E8le routier, la Type D GT Syracuse (berline quatre place motoris\u00E9e par un bloc V10 de deux litres d\u00E9veloppant 300 chevaux)."@fr ,
+		"A Connaught Engineering foi uma construtora de F\u00F3rmula 1 do Reino Unido. Participaram de dezoito grandes pr\u00EAmios entre 1952 e 1959. Entre seus pilotos, destacavam-se Stirling Moss, Ron Flockhart (respons\u00E1vel pelo \u00FAnico p\u00F3dio da equipe, em 1956), Stuart Lewis-Evans e at\u00E9 Bernie Ecclestone, atual CEO da Formula One Management, que tentou disputar o GP de M\u00F4naco de 1958 pela Connaught, sem sucesso. Dos 27 pilotos que correram pela Connaught, 22 eram brit\u00E2nicos. Os americanos Bruce Kessler e Bob Said, o belga Andr\u00E9 Pilette, o italiano Piero Scotti e o tailand\u00EAs Birabongse Bhanubandh (Pr\u00EDncipe Bira), foram os representantes estrangeiros do time."@pt ,
+		"Connaught Engineering, bzw. Connaught Cars Ltd. war ein britischer Hersteller von Automobilen und Rennwagen, der in Send (Surrey) ans\u00E4ssig war."@de ;
+	dbo:wikiPageRevisionID	716691411 ;
+	dbo:wikiPageID	1262583 ;
+	dbp:races	18 ;
+	dbp:wins	0 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:Connaught_Engineering	ns22:hypernym	dbr:Formula ;
+	dbp:staff	dbr:Kenneth_McAlpine ;
+	dbp:lastRace	1959 .
+dbr:Ken_Downing	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__44__1>	dbo:team	dbr:Connaught_Engineering .

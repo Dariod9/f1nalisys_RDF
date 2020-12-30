@@ -1,0 +1,111 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Tecno	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Tecno_(motorsport)> .
+dbr:Chris_Amon	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Tecno_(motorsport)> .
+<http://dbpedia.org/resource/1972_Italian_Republic_Grand_Prix>	dbo:thirdTeam	<http://dbpedia.org/resource/Tecno_(motorsport)> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Tecno_(motorsport)>	foaf:primaryTopic	<http://dbpedia.org/resource/Tecno_(motorsport)> .
+dbr:Nanni_Galli	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Tecno_(motorsport)> .
+<http://dbpedia.org/resource/Derek_Bell_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Tecno_(motorsport)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	rdf:type	dbo:FormulaOneTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	rdf:type	yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	rdf:type	owl:Thing ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	rdf:type	ns6:SocialPerson ,
+		yago:Object100002684 ,
+		dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	rdf:type	wikidata:Q43229 ,
+		ns6:Agent ,
+		yago:Party110402824 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:WikicatFormulaTwoConstructors ,
+		yago:WikicatItalianRacecarConstructors ,
+		yago:Contractor109960891 ,
+		dbo:Organisation ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	rdf:type	schema:SportsTeam ,
+		yago:Organism100004475 ,
+		dbo:VideoGame ,
+		schema:Organization ,
+		wikidata:Q24229398 ,
+		dbo:SportsTeam .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	rdfs:label	"Tecno"@fr ,
+		"Tecno Racing Team"@pt ,
+		"Tecno"@de ,
+		"Tecno (motorsport)"@en ,
+		"Tecno"@pl ,
+		"Tecno"@it ;
+	rdfs:comment	"Tecno was an Italian kart and racing car constructor. It started out as a conventional engineering business manufacturing hydraulic pumps. The company eventually became a Formula One constructor and participated in 10 grands prix, entering a total of 11 cars, and scoring one championship point."@en ,
+		"Tecno Racing Team foi uma construtora de F\u00F3rmula 1 da It\u00E1lia, fundada em 1961 pelo irm\u00E3os Luciano e Gianfranco Pederzani. Com sede em Bolonha, participou de 10 grandes pr\u00EAmios, com onze diferentes carros entre 1972 e 1973. Marcou apenas 1 ponto, com o neozeland\u00EAs Chris Amon, ao chegar em sexto lugar no GP dos Pa\u00EDses Baixos de 1973. O ingl\u00EAs Derek Bell e o italiano Nanni Galli tamb\u00E9m correram pela equipe, em 1972."@pt ,
+		"Tecno war ein italienischer Formel-1-Rennstall. Er wurde von den Gebr\u00FCdern Pederzani in Bologna gegr\u00FCndet und baute in den Anfangsjahren Kart-Chassis (Tecnokart), die noch heute eingesetzt werden. \u00DCber die Entwicklung von Formel-3- und Formel-2-Chassis (1970 F2-Europameisterschaft f\u00FCr Clay Regazzoni) arbeitete sich der Rennstall bis zur Formel 1 hoch. Zwischen 1972 und 1973 nahm Tecno an zehn Weltmeisterschafts-Rennen teil. An der Konstruktion des Wagens war Ron Tauranac beteiligt. Chris Amon errang 1973 mit seinem sechsten Platz beim Gro\u00DFen Preis von Belgien den einzigen Weltmeisterschaftspunkt f\u00FCr den Rennstall."@de ,
+		"Tecno \u2013 w\u0142oski konstruktor, zesp\u00F3\u0142 wy\u015Bcigowy oraz dostawca silnik\u00F3w, uczestnicz\u0105cy w Formule 1 w 1969 roku oraz latach 1972\u20131973."@pl ,
+		"Tecno est un ancien constructeur italien de sport automobile, pr\u00E9sent en Formule 1 entre 1972 et 1973, mais \u00E9galement dans d'autres disciplines telles que la Formule 3, la Formule 2, la Formule 3000 et le karting."@fr ,
+		"La Tecno \u00E8 stata una scuderia automobilistica italiana. Fondata dai fratelli Pederzani, gi\u00E0 costruttori di kart con la Tecnokart, il team corse in varie categoria tra cui Formula 3, Formula 2 e Formula 1."@it .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	dbp:drivers	"Derek Bell"^^xsd:string ,
+		"Chris Amon"^^xsd:string ,
+		"Nanni Galli"^^xsd:string .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	owl:sameAs	dbpedia-pl:Tecno .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	owl:sameAs	dbpedia-fr:Tecno ,
+		wikidata:Q172631 ,
+		<http://rdf.freebase.com/ns/m.04n6qf> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	owl:sameAs	dbpedia-wikidata:Q172631 ,
+		<http://dbpedia.org/resource/Tecno_(motorsport)> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	owl:sameAs	dbpedia-pt:Tecno_Racing_Team ,
+		<http://yago-knowledge.org/resource/Tecno_(motorsport)> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	owl:sameAs	dbpedia-it:Tecno .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	owl:sameAs	dbpedia-de:Tecno .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	dct:subject	dbc:Formula_Two_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Italian_auto_racing_teams ,
+		dbc:Italian_racecar_constructors ;
+	foaf:name	"Tecno Racing Team"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/1972_Tecno_PA123_(19807884464).jpg> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Tecno_(motorsport)> ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Tecno"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tecno_(motorsport)?oldid=736800634> ;
+	dbp:founders	"Luciano Pederzani"^^xsd:string ,
+		"Gianfranco Pederzani"^^xsd:string ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Bologna, Italy"^^xsd:string ;
+	dbp:debut	1972 ;
+	dbo:abstract	"Tecno Racing Team foi uma construtora de F\u00F3rmula 1 da It\u00E1lia, fundada em 1961 pelo irm\u00E3os Luciano e Gianfranco Pederzani. Com sede em Bolonha, participou de 10 grandes pr\u00EAmios, com onze diferentes carros entre 1972 e 1973. Marcou apenas 1 ponto, com o neozeland\u00EAs Chris Amon, ao chegar em sexto lugar no GP dos Pa\u00EDses Baixos de 1973. O ingl\u00EAs Derek Bell e o italiano Nanni Galli tamb\u00E9m correram pela equipe, em 1972."@pt ,
+		"Tecno was an Italian kart and racing car constructor. It started out as a conventional engineering business manufacturing hydraulic pumps. The company eventually became a Formula One constructor and participated in 10 grands prix, entering a total of 11 cars, and scoring one championship point."@en ,
+		"Tecno war ein italienischer Formel-1-Rennstall. Er wurde von den Gebr\u00FCdern Pederzani in Bologna gegr\u00FCndet und baute in den Anfangsjahren Kart-Chassis (Tecnokart), die noch heute eingesetzt werden. \u00DCber die Entwicklung von Formel-3- und Formel-2-Chassis (1970 F2-Europameisterschaft f\u00FCr Clay Regazzoni) arbeitete sich der Rennstall bis zur Formel 1 hoch. Zwischen 1972 und 1973 nahm Tecno an zehn Weltmeisterschafts-Rennen teil. An der Konstruktion des Wagens war Ron Tauranac beteiligt. Chris Amon errang 1973 mit seinem sechsten Platz beim Gro\u00DFen Preis von Belgien den einzigen Weltmeisterschaftspunkt f\u00FCr den Rennstall."@de ,
+		"La Tecno \u00E8 stata una scuderia automobilistica italiana. Fondata dai fratelli Pederzani, gi\u00E0 costruttori di kart con la Tecnokart, il team corse in varie categoria tra cui Formula 3, Formula 2 e Formula 1."@it ,
+		"Tecno est un ancien constructeur italien de sport automobile, pr\u00E9sent en Formule 1 entre 1972 et 1973, mais \u00E9galement dans d'autres disciplines telles que la Formule 3, la Formule 2, la Formule 3000 et le karting."@fr ,
+		"Tecno \u2013 w\u0142oski konstruktor, zesp\u00F3\u0142 wy\u015Bcigowy oraz dostawca silnik\u00F3w, uczestnicz\u0105cy w Formule 1 w 1969 roku oraz latach 1972\u20131973."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/1972_Tecno_PA123_(19807884464).jpg?width=300> ;
+	dbo:wikiPageRevisionID	736800634 ;
+	dbo:wikiPageID	1262634 ;
+	dbp:races	10 ;
+	dbp:wins	0 .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/Tecno_(motorsport)>	ns20:hypernym	dbr:Kart ;
+	dbp:staff	"Gordon Fowell, Alan McCall, David Yorke"^^xsd:string ;
+	dbp:lastRace	1973 .

@@ -1,0 +1,180 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1997_Monaco_Grand_Prix>	dbo:secondTeam	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1999_San_Marino_Grand_Prix>	dbo:thirdTeam	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1999_French_Grand_Prix>	dbo:poleDriverTeam	dbr:Stewart_Grand_Prix ;
+	dbo:thirdTeam	dbr:Stewart_Grand_Prix .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Stewart_SF01	dbp:constructor	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1994_Macau_Grand_Prix__Paul_Stewart_Racing__2>	dbo:team	dbr:Stewart_Grand_Prix .
+dbr:Stewart_SF02	dbp:team	dbr:Stewart_Grand_Prix ;
+	dbp:constructor	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1991_Macau_Grand_Prix__Paul_Stewart_Racing__2>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1992_Macau_Grand_Prix__Paul_Stewart_Racing__1>	dbo:team	dbr:Stewart_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Stewart_Grand_Prix	foaf:primaryTopic	dbr:Stewart_Grand_Prix .
+dbr:Stewart	dbo:wikiPageDisambiguates	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1996_Macau_Grand_Prix__Paul_Stewart_Racing__2>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1989_Macau_Grand_Prix__Camel_Stewart_Team__1>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1989_Macau_Grand_Prix__Camel_Stewart_Team__2>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1991_Macau_Grand_Prix__Paul_Stewart_Racing__1>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1992_Macau_Grand_Prix__Paul_Stewart_Racing__2>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1993_Macau_Grand_Prix__Paul_Stewart_Racing__1>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1993_Macau_Grand_Prix__Paul_Stewart_Racing__2>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1994_Macau_Grand_Prix__Paul_Stewart_Racing__1>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1995_Macau_Grand_Prix__Paul_Stewart_Racing__1>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1995_Macau_Grand_Prix__Paul_Stewart_Racing__2>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1996_Macau_Grand_Prix__Paul_Stewart_Racing__1>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1997_Macau_Grand_Prix__Paul_Stewart_Racing__1>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1997_Macau_Grand_Prix__Paul_Stewart_Racing__2>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1998_Macau_Grand_Prix__Paul_Stewart_Racing__1>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1998_Macau_Grand_Prix__Paul_Stewart_Racing__2>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1999_Macau_Grand_Prix__Paul_Stewart_Racing__1>	dbo:team	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1999_Macau_Grand_Prix__Paul_Stewart_Racing__2>	dbo:team	dbr:Stewart_Grand_Prix .
+dbr:Stewart_Racing	dbo:wikiPageRedirects	dbr:Stewart_Grand_Prix .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Red_Bull_Racing	rdfs:seeAlso	dbr:Stewart_Grand_Prix .
+dbr:Jaguar_Racing	dbp:previousName	dbr:Stewart_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Stewart_Grand_Prix	rdf:type	yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		dbo:Agent ,
+		yago:Abstraction100002137 ,
+		dbo:Organisation ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Stewart_Grand_Prix	rdf:type	wikidata:Q43229 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:Team108208560 ,
+		dbo:SportsTeam ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Stewart_Grand_Prix	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Stewart_Grand_Prix	rdf:type	schema:SportsTeam ,
+		schema:Organization .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Stewart_Grand_Prix	rdf:type	ns11:SocialPerson ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Unit108189659 ,
+		wikidata:Q24229398 ,
+		yago:Builder109878275 ,
+		ns11:Agent ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:WikicatFormulaThreeTeams ,
+		dbo:FormulaOneTeam ;
+	rdfs:label	"Stewart Grand Prix"@fr ,
+		"\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"Stewart Grand Prix"@es ,
+		"Stewart Grand Prix"@pt ,
+		"Stewart Grand Prix"@en ,
+		"Stewart Grand Prix"@pl ,
+		"\u0421\u0442\u044E\u0430\u0440\u0442 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Stewart Grand Prix"@de ,
+		"Stewart Grand Prix"@it ,
+		"Stewart Grand Prix"@nl ;
+	rdfs:comment	"La Stewart \u00E8 stato un team di Formula 1 fondato nel 1996 con sede a Milton Keynes dall'ex-campione del mondo Jackie Stewart e dal figlio Paul dalla loro esperienza nelle formule minori con la Stewart Racing. La scuderia ha gareggiato per tre stagioni nella massima categoria, dal 1997 al 1999, ottenendo una inaspettata vittoria con Johnny Herbert al Gran Premio d'Europa 1999. La squadra \u00E8 stata poi venduta alla Ford che l'ha trasformata in Jaguar Racing; dopodich\u00E9 \u00E8 stata acquistata dalla Red Bull che le ha cambiato nuovamente nome in Red Bull Racing."@it ,
+		"\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8\uFF08\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA\u3001Stewart Grand Prix\uFF09\u306F\u30011997\u5E74\u304B\u30891999\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002"@ja ,
+		"Stewart Grand Prix \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u043C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u043C\u0438\u0440\u0430 \u0414\u0436\u0435\u043A\u0438 \u0421\u0442\u044E\u0430\u0440\u0442\u043E\u043C \u0438 \u0435\u0433\u043E \u0441\u044B\u043D\u043E\u043C \u041F\u043E\u043B\u043E\u043C \u0421\u0442\u044E\u0430\u0440\u0442\u043E\u043C \u0432 1996 \u0433\u043E\u0434\u0443. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u043F\u0440\u0438 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0435 Ford \u0441 1997 \u043F\u043E 1999 \u0433\u043E\u0434\u0430. \u0417\u0430 \u0432\u0440\u0435\u043C\u044F \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0439 \u043E\u0434\u0435\u0440\u0436\u0430\u043B\u0430 \u043E\u0434\u043D\u0443 \u043F\u043E\u0431\u0435\u0434\u0443 \u0438 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B\u0430 \u043E\u0434\u0438\u043D \u043F\u043E\u0443\u043B-\u043F\u043E\u0437\u0438\u0446\u0438\u044E. \u0412 \u043A\u043E\u043D\u0446\u0435 1999 \u0433\u043E\u0434\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043A\u0443\u043F\u043B\u0435\u043D\u0430 \u043A\u043E\u043D\u0446\u0435\u0440\u043D\u043E\u043C Ford \u0438 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 Jaguar Racing. \u0412 2004 \u0433\u043E\u0434\u0443 Jaguar Racing \u0431\u044B\u043B\u0430 \u043F\u0440\u043E\u0434\u0430\u043D\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 \u043F\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0443 \u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043D\u0430\u043F\u0438\u0442\u043A\u043E\u0432 Red Bull \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 Red Bull Racing."@ru ,
+		"Stewart Grand Prix war ein britischer Motorsport-Rennstall, der von der Saison 1997 bis zur Saison 1999 an der Formel-1-Weltmeisterschaft teilnahm."@de ,
+		"Stewart Grand Prix (anciennement Paul Stewart Racing) est une ancienne \u00E9curie de sport automobile, fond\u00E9e en 1988. Pr\u00E9sente en Formule 1 de 1997 \u00E0 1999, elle a \u00E9t\u00E9 revendue \u00E0 Ford qui l'a renomm\u00E9e Jaguar Racing."@fr ,
+		"Stewart Grand Prix \u2013 by\u0142y brytyjski zesp\u00F3\u0142 i konstruktor Formu\u0142y 1, za\u0142o\u017Cony przez trzykrotnego mistrza \u015Bwiata Formu\u0142y 1 Jackiego Stewarta w 1996 roku. Stewart Grand Prix by\u0142 fabrycznym zespo\u0142em Forda i uczestniczy\u0142 w Formule 1 w sezonach 1997\u20131999. Najlepszym sezonem Stewart Grand Prix by\u0142 1999, kiedy to Rubens Barrichello zdoby\u0142 pole position w Grand Prix Francji, a Johnny Herbert wygra\u0142 Grand Prix Europy. Wtedy te\u017C zesp\u00F3\u0142 zaj\u0105\u0142 czwarte miejsce w klasyfikacji konstruktor\u00F3w. Og\u00F3\u0142em Stewart wystartowa\u0142 w 49 Grand Prix Formu\u0142y 1, zdobywaj\u0105c 47 punkt\u00F3w. W 1999 roku Ford kupi\u0142 zesp\u00F3\u0142 i przekszta\u0142ci\u0142 go w Jaguar Racing."@pl ,
+		"La escuder\u00EDa Stewart Grand Prix fue fundada en 1997 por el tres veces campe\u00F3n de F\u00F3rmula 1 Jackie Stewart y su hijo Paul Stewart. El equipo compiti\u00F3 en la categor\u00EDa solamente 3 a\u00F1os, durante este per\u00EDodo fue apoyado por Ford, logrando una victoria y una Pole position. Al final de 1999 Ford compr\u00F3 la escuder\u00EDa y la renombr\u00F3 Jaguar Racing. En el 2004 Jaguar Racing fue comprada por la compa\u00F1\u00EDa de bebidas energizantes Red Bull y se convirti\u00F3 en Red Bull Racing."@es ,
+		"Stewart Grand Prix foi uma equipe de automobilismo fundada pelo piloto tricampe\u00E3o de F\u00F3rmula 1 Jackie Stewart juntamente com seu filho Paul Stewart. A equipe competiu no campeonato de F\u00F3rmula 1 por tr\u00EAs anos."@pt ,
+		"Stewart Grand Prix is het Formule 1 team van oud-formule 1 coureur Jackie Stewart. Het team was actief in de formule 1 van 1997 tot en met 1999."@nl ,
+		"Stewart Grand Prix was a Formula One constructor and racing team formed by three times Formula One champion Jackie Stewart and his son Paul Stewart in 1996. The team competed in F1, as the Ford works-supported team, for only three seasons, from 1997 to 1999. The 1999 season was by far its strongest, yielding one win (Johnny Herbert at the European Grand Prix) and one pole position (Rubens Barrichello at the French Grand Prix) en route to finishing fourth overall in the Constructors Championship."@en ;
+	owl:sameAs	dbr:Stewart_Grand_Prix .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-de:Stewart_Grand_Prix .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q173066 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-cs:Stewart_Grand_Prix .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-pt:Stewart_Grand_Prix .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-id:Stewart_Grand_Prix .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-fr:Stewart_Grand_Prix .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	yago-res:Stewart_Racing ,
+		yago-res:Stewart_Grand_Prix .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-nl:Stewart_Grand_Prix .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-pl:Stewart_Grand_Prix ,
+		<http://ja.dbpedia.org/resource/\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA> ,
+		wikidata:Q173066 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-it:Stewart_Grand_Prix .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Stewart_Grand_Prix	owl:sameAs	dbpedia-es:Stewart_Grand_Prix ,
+		<http://rdf.freebase.com/ns/m.04k1p8> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Stewart_Grand_Prix	dct:subject	dbc:British_Formula_Three_teams ,
+		dbc:Companies_established_in_1996 ,
+		dbc:Companies_disestablished_in_1999 ,
+		dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ;
+	foaf:name	"Stewart Grand Prix"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Stewart_SF_1_01.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Stewart_Grand_Prix ;
+	dbp:races	49 ;
+	dbp:founders	<http://dbpedia.org/resource/Paul_Stewart_(driver)> ,
+		dbr:Jackie_Stewart ;
+	dbp:debut	1997 ;
+	dbp:wins	1 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Rubens Barrichello"^^xsd:string ,
+		"Jan Magnussen"^^xsd:string ,
+		"Johnny Herbert"^^xsd:string ,
+		"Jos Verstappen"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	1 ;
+	dbp:shortName	"Stewart"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Stewart_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Stewart_Grand_Prix?oldid=699038627> ;
+	dbp:staff	<http://dbpedia.org/resource/Gary_Anderson_(motorsport)> ,
+		<http://dbpedia.org/resource/Alan_Jenkins_(engineer)> ;
+	dbp:base	"Milton Keynes, United Kingdom"^^xsd:string ;
+	dbp:engines	dbr:Ford_Motor_Company ;
+	dbo:abstract	"Stewart Grand Prix war ein britischer Motorsport-Rennstall, der von der Saison 1997 bis zur Saison 1999 an der Formel-1-Weltmeisterschaft teilnahm."@de ,
+		"\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8\uFF08\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA\u3001Stewart Grand Prix\uFF09\u306F\u30011997\u5E74\u304B\u30891999\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002"@ja ,
+		"Stewart Grand Prix \u2013 by\u0142y brytyjski zesp\u00F3\u0142 i konstruktor Formu\u0142y 1, za\u0142o\u017Cony przez trzykrotnego mistrza \u015Bwiata Formu\u0142y 1 Jackiego Stewarta w 1996 roku. Stewart Grand Prix by\u0142 fabrycznym zespo\u0142em Forda i uczestniczy\u0142 w Formule 1 w sezonach 1997\u20131999. Najlepszym sezonem Stewart Grand Prix by\u0142 1999, kiedy to Rubens Barrichello zdoby\u0142 pole position w Grand Prix Francji, a Johnny Herbert wygra\u0142 Grand Prix Europy. Wtedy te\u017C zesp\u00F3\u0142 zaj\u0105\u0142 czwarte miejsce w klasyfikacji konstruktor\u00F3w. Og\u00F3\u0142em Stewart wystartowa\u0142 w 49 Grand Prix Formu\u0142y 1, zdobywaj\u0105c 47 punkt\u00F3w. W 1999 roku Ford kupi\u0142 zesp\u00F3\u0142 i przekszta\u0142ci\u0142 go w Jaguar Racing."@pl ,
+		"Stewart Grand Prix \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u043C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u043C\u0438\u0440\u0430 \u0414\u0436\u0435\u043A\u0438 \u0421\u0442\u044E\u0430\u0440\u0442\u043E\u043C \u0438 \u0435\u0433\u043E \u0441\u044B\u043D\u043E\u043C \u041F\u043E\u043B\u043E\u043C \u0421\u0442\u044E\u0430\u0440\u0442\u043E\u043C \u0432 1996 \u0433\u043E\u0434\u0443. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u043F\u0440\u0438 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0435 Ford \u0441 1997 \u043F\u043E 1999 \u0433\u043E\u0434\u0430. \u0417\u0430 \u0432\u0440\u0435\u043C\u044F \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0439 \u043E\u0434\u0435\u0440\u0436\u0430\u043B\u0430 \u043E\u0434\u043D\u0443 \u043F\u043E\u0431\u0435\u0434\u0443 \u0438 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B\u0430 \u043E\u0434\u0438\u043D \u043F\u043E\u0443\u043B-\u043F\u043E\u0437\u0438\u0446\u0438\u044E. \u0412 \u043A\u043E\u043D\u0446\u0435 1999 \u0433\u043E\u0434\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043A\u0443\u043F\u043B\u0435\u043D\u0430 \u043A\u043E\u043D\u0446\u0435\u0440\u043D\u043E\u043C Ford \u0438 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 Jaguar Racing. \u0412 2004 \u0433\u043E\u0434\u0443 Jaguar Racing \u0431\u044B\u043B\u0430 \u043F\u0440\u043E\u0434\u0430\u043D\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 \u043F\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0443 \u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043D\u0430\u043F\u0438\u0442\u043A\u043E\u0432 Red Bull \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 Red Bull Racing."@ru ,
+		"La Stewart \u00E8 stato un team di Formula 1 fondato nel 1996 con sede a Milton Keynes dall'ex-campione del mondo Jackie Stewart e dal figlio Paul dalla loro esperienza nelle formule minori con la Stewart Racing. La scuderia ha gareggiato per tre stagioni nella massima categoria, dal 1997 al 1999, ottenendo una inaspettata vittoria con Johnny Herbert al Gran Premio d'Europa 1999. La squadra \u00E8 stata poi venduta alla Ford che l'ha trasformata in Jaguar Racing; dopodich\u00E9 \u00E8 stata acquistata dalla Red Bull che le ha cambiato nuovamente nome in Red Bull Racing."@it ,
+		"La escuder\u00EDa Stewart Grand Prix fue fundada en 1997 por el tres veces campe\u00F3n de F\u00F3rmula 1 Jackie Stewart y su hijo Paul Stewart. El equipo compiti\u00F3 en la categor\u00EDa solamente 3 a\u00F1os, durante este per\u00EDodo fue apoyado por Ford, logrando una victoria y una Pole position. Al final de 1999 Ford compr\u00F3 la escuder\u00EDa y la renombr\u00F3 Jaguar Racing. En el 2004 Jaguar Racing fue comprada por la compa\u00F1\u00EDa de bebidas energizantes Red Bull y se convirti\u00F3 en Red Bull Racing."@es ,
+		"Stewart Grand Prix (anciennement Paul Stewart Racing) est une ancienne \u00E9curie de sport automobile, fond\u00E9e en 1988. Pr\u00E9sente en Formule 1 de 1997 \u00E0 1999, elle a \u00E9t\u00E9 revendue \u00E0 Ford qui l'a renomm\u00E9e Jaguar Racing."@fr ,
+		"Stewart Grand Prix was a Formula One constructor and racing team formed by three times Formula One champion Jackie Stewart and his son Paul Stewart in 1996. The team competed in F1, as the Ford works-supported team, for only three seasons, from 1997 to 1999. The 1999 season was by far its strongest, yielding one win (Johnny Herbert at the European Grand Prix) and one pole position (Rubens Barrichello at the French Grand Prix) en route to finishing fourth overall in the Constructors Championship. At the end of 1999, Ford bought the team outright and it was renamed Jaguar Racing. In 2004 Jaguar Racing was sold to energy drink company Red Bull and was rebranded Red Bull Racing in 2005."@en ,
+		"Stewart Grand Prix is het Formule 1 team van oud-formule 1 coureur Jackie Stewart. Het team was actief in de formule 1 van 1997 tot en met 1999."@nl ,
+		"Stewart Grand Prix foi uma equipe de automobilismo fundada pelo piloto tricampe\u00E3o de F\u00F3rmula 1 Jackie Stewart juntamente com seu filho Paul Stewart. A equipe competiu no campeonato de F\u00F3rmula 1 por tr\u00EAs anos."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Stewart_SF_1_01.jpg?width=300> ;
+	dbo:wikiPageRevisionID	699038627 ;
+	dbo:wikiPageID	1226442 ;
+	dbp:logo	<http://dbpedia.org/resource/File:Stewart_logo.png> ;
+	dbp:nextName	dbr:Jaguar_Racing .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Stewart_Grand_Prix	ns26:hypernym	dbr:Constructor ;
+	dbp:lastRace	1999 .
+dbr:Stewart_SF3	dbp:team	dbr:Stewart_Grand_Prix ;
+	dbp:constructor	dbr:Stewart_Grand_Prix .
+dbr:Johnny_Herbert	<http://dbpedia.org/property/team(s)_>	dbr:Stewart_Grand_Prix .
+<http://dbpedia.org/resource/1999_European_Grand_Prix>	dbo:thirdTeam	dbr:Stewart_Grand_Prix ;
+	dbo:firstDriverTeam	dbr:Stewart_Grand_Prix .
+dbr:Stewart_GP	dbo:wikiPageRedirects	dbr:Stewart_Grand_Prix .

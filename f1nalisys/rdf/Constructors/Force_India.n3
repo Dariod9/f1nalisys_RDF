@@ -1,0 +1,204 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2015_Russian_Grand_Prix>	dbo:thirdTeam	dbr:Force_India .
+<http://dbpedia.org/resource/2009_Belgian_Grand_Prix>	dbo:poleDriverTeam	dbr:Force_India ;
+	dbo:secondTeam	dbr:Force_India .
+<http://dbpedia.org/resource/2016_European_Grand_Prix>	dbo:thirdTeam	dbr:Force_India .
+<http://dbpedia.org/resource/2009_Italian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Force_India .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Chinese_Grand_Prix	dbp:fastestLapTeam	dbr:Force_India .
+dbr:European_Grand_Prix	dbp:thirdTeam	dbr:Force_India .
+dbr:Spyker_F8-VII	dbp:team	dbr:Force_India ;
+	dbp:constructor	dbr:Force_India .
+dbr:Force_India_F1	dbo:wikiPageRedirects	dbr:Force_India .
+dbr:Force_India_Mercedes	dbo:wikiPageRedirects	dbr:Force_India .
+dbr:Otmar_Szafnauer	dbo:occupation	dbr:Force_India .
+dbr:Spyker_F1	dbp:nextName	dbr:Force_India .
+dbr:Giancarlo_Fisichella	dbp:teams	dbr:Force_India .
+dbr:Force1ndia	dbo:wikiPageRedirects	dbr:Force_India .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Force_India	foaf:primaryTopic	dbr:Force_India .
+dbr:VJM03	dbo:wikiPageRedirects	dbr:Force_India .
+<http://dbpedia.org/resource/2012_Singapore_Grand_Prix>	dbo:fastestDriverTeam	dbr:Force_India .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Force_India	rdf:type	dbo:Agent ,
+		dbo:FormulaOneTeam ,
+		dbo:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Force_India	rdf:type	yago:Team108208560 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Force_India	rdf:type	geo:SpatialThing .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Force_India	rdf:type	ns8:SocialPerson ,
+		ns8:Agent ,
+		yago:Institution108053576 ,
+		yago:Unit108189659 ,
+		yago:Company108058098 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Force_India	rdf:type	owl:Thing ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		yago:WikicatCompaniesBasedInNorthamptonshire ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Force_India	rdf:type	wikidata:Q43229 ,
+		yago:Abstraction100002137 ,
+		dbo:Organisation ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatOrganizationsEstablishedIn2007 .
+@prefix schema:	<http://schema.org/> .
+dbr:Force_India	rdf:type	schema:SportsTeam ,
+		schema:Organization ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Force_India	rdfs:label	"Sahara Force India F1 Team"@es ,
+		"Force India"@fr ,
+		"Force India"@pt ,
+		"Force India"@en ,
+		"Force India F1 Team"@nl ,
+		"\u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0633 \u0625\u0646\u062F\u064A\u0627"@ar ,
+		"Force India"@de ,
+		"\u30D5\u30A9\u30FC\u30B9\u30FB\u30A4\u30F3\u30C7\u30A3\u30A2"@ja ,
+		"\u0424\u043E\u0440\u0441 \u0418\u043D\u0434\u0438\u044F"@ru ,
+		"Force India"@pl ,
+		"\u5370\u5EA6\u529B\u91CF\u8ECA\u968A"@zh ,
+		"Force India"@it ;
+	rdfs:comment	"Force India (oficjalnie Sahara Force India F1 Team) \u2013 zesp\u00F3\u0142 Formu\u0142y 1, kt\u00F3ry zadebiutowa\u0142 w sezonie 2008."@pl ,
+		"The Sahara Force India F1 Team is a Formula One racing team based in Silverstone, United Kingdom with an Indian licence. The team was formed in October 2007 when a consortium led by Indian businessman Vijay Mallya and Dutch businessman Michiel Mol bought the Spyker F1 team for \u20AC90 million. In October 2011, Indian company Sahara India Pariwar, purchased 42.5% of Force India F1's shares at US$100 million."@en ,
+		"Force India F1 Team is een Formule 1 team dat vanaf het seizoen 2008 deelneemt aan het Formule 1 kampioenschap. Force India is ontstaan uit het Spyker F1 team, dat voortkwam uit Midland, dat op zijn beurt voortkwam uit het Jordan-team en dat in oktober 2007 werd overgenomen door een consortium van de Nederlander Michiel Mol en Vijay Mallya, een bekende zakenman uit India. Een meerderheidsbelang is in handen van Mallya."@nl ,
+		"A Force India Formula One \u00E9 uma equipe de F\u00F3rmula 1, cuja estreia foi em 2008."@pt ,
+		"La Force India, chiamata per motivi di sponsorizzazione Sahara Force India F1 Team, \u00E8 una squadra indiana di Formula 1, di propriet\u00E0 del magnate indiano Vijay Mallya, del gruppo finanziario Sahara India Pariwar e della famiglia Mol."@it ,
+		"\u0421\u0430\u0445\u0430\u0440\u0430 \u0424\u043E\u0440\u0441 \u0418\u043D\u0434\u0438\u044F (\u0430\u043D\u0433\u043B. Sahara Force India F1 Team) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412\u043E\u0437\u043D\u0438\u043A\u043B\u0430 \u0432 \u043E\u043A\u0442\u044F\u0431\u0440\u0435 2007 \u0433\u043E\u0434\u0430 \u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u0438\u043D\u0434\u0438\u0439\u0441\u043A\u0438\u043C \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D\u043E\u043C \u0412\u0438\u0434\u0436\u0430\u0435\u043C \u041C\u0430\u043B\u043B\u044C\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0421\u043F\u0430\u0439\u043A\u0435\u0440\u00BB.\u041D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 2009 \u0433\u043E\u0434\u0430 \u0414\u0436\u0430\u043D\u043A\u0430\u0440\u043B\u043E \u0424\u0438\u0437\u0438\u043A\u0435\u043B\u043B\u0430 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u0443\u043B \u0434\u043B\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u044B, \u0430 \u0432 \u0441\u0430\u043C\u043E\u0439 \u0433\u043E\u043D\u043A\u0435 \u0437\u0430\u043D\u044F\u043B \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E, \u0443\u0441\u0442\u0443\u043F\u0438\u0432 \u0442\u043E\u043B\u044C\u043A\u043E \u041A\u0438\u043C\u0438 \u0420\u0430\u0439\u043A\u043A\u043E\u043D\u0435\u043D\u0443 \u0438\u0437 \u00AB\u0424\u0435\u0440\u0440\u0430\u0440\u0438\u00BB."@ru ,
+		"\u0641\u0631\u064A\u0642 \u0635\u062D\u0627\u0631\u0649 \u0641\u0648\u0631\u0633 \u0625\u0646\u062F\u064A\u0627 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Sahara Force India Formula One Team) \u0647\u0648 \u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u062A\u062C\u0627\u0631\u064A \u0644\u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0633 \u0625\u0646\u062F\u064A\u0627 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0627\u0644\u0645\u062D\u062F\u0648\u062F, \u0647\u0648 \u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0645\u0631\u0643\u0632\u0647 \u0641\u064A \u0633\u064A\u0644\u0641\u0631\u0633\u062A\u0648\u0646, \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0630\u064A \u064A\u062D\u0645\u0644 \u062D\u0627\u0644\u064A\u0627\u064B \u0631\u062E\u0635\u0629 \u0647\u0646\u062F\u064A\u0629. \u062A\u0645 \u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u0641\u0631\u064A\u0642 \u0641\u064A \u0634\u0647\u0631 \u0623\u0643\u062A\u0648\u0628\u0631 2007 \u0639\u0646\u062F\u0645\u0627 \u0642\u0627\u0645 \u0627\u062A\u062D\u0627\u062F \u0634\u0631\u0643\u0627\u062A \u0628\u0642\u064A\u0627\u062F\u0629 \u0631\u062C\u0644\u064A \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0647\u0646\u062F\u064A\u0627\u0646 \u0641\u064A\u062C\u0627\u064A \u0645\u0627\u0644\u064A\u0627 \u0648\u0645\u064A\u0634\u064A\u0644 \u0645\u0648\u0644 \u0628\u0634\u0631\u0627\u0621 \u0641\u0631\u064A\u0642 \u0633\u0628\u064A\u0643\u0631 \u0625\u06411 \u0645\u0642\u0627\u0628\u0644 90 \u0645\u0644\u064A\u0648\u0646 \u064A\u0648\u0631\u0648. \u0641\u0631\u064A\u0642 \u0641\u0648\u0633 \u0625\u0646\u062F\u064A\u0627 \u064A\u0642\u062F\u0645 \u0635\u0648\u0631\u0629 \u0639\u0646 \u0627\u0644\u0627\u0647\u062A\u0645\u0627\u0645 \u0627\u0644\u0645\u062A\u0632\u0627\u064A\u062F \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0644\u062F\u0649 \u0627\u0644\u0647\u0646\u062F \u062C\u0646\u0628\u0627\u064B \u0625\u0644\u0649 \u062C\u0646\u0646\u0628 \u0645\u0639 \u0627\u0633\u062A\u0636\u0627\u0641\u0629 \u062D\u0644\u0628\u0629 \u0646\u0648\u064A\u062F\u0627 \u0627\u0644\u0639\u0638\u064A\u0645 \u0644\u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0647\u0646\u062F \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0641\u064A \u0639\u0627\u0645 2011. \u0623\u0643\u062F \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u062A\u063A\u064A\u064A\u0631 \u0627\u0644\u0627\u0633\u0645 \u0645\u0646 \u0633\u0628\u064A\u0643\u0631 \u0625\u0644\u0649 \u0641\u0648\u0631\u0633 \u0625\u0646\u062F\u064A\u0627 \u0641\u064A 24 \u0623\u0643\u062A\u0648\u0628\u0631 2007."@ar ,
+		"Das Sahara Force India F1 Team (kurz Force India) ist ein mit indischer Lizenz fahrender Formel-1-Rennstall mit Sitz im englischen Silverstone. Es ist das erste indische Team der Formel-1-Geschichte. Force India entstand durch die \u00DCbernahme des Spyker-Teams durch den indischen Industriellen Vijay Mallya im Jahr 2007. Spyker war seinerseits 2006 aus dem russischen Midland Team hervorgegangen, das im Jahr zuvor die Nachfolge des Traditionsteams Jordan Grand Prix angetreten hatte. Im Oktober 2011 \u00FCbernahm das indische Unternehmen Sahara India Pariwar 42,5 Prozent der Anteile am Rennstall, das seitdem erg\u00E4nzend im Meldenamen gef\u00FChrt wird."@de ,
+		"\u30B5\u30CF\u30E9\u30FB\u30D5\u30A9\u30FC\u30B9\u30FB\u30A4\u30F3\u30C7\u30A3\u30A2\u30FB\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9\u30EF\u30F3\u30FB\u30C1\u30FC\u30E0\uFF08Sahara Force India Formula One Team\uFF09\u306F\u30012008\u5E74\u304B\u3089F1\u306B\u53C2\u6226\u3057\u3066\u3044\u308B\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002"@ja ,
+		"\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\uFF08Force India Formula One\uFF09\u662F\u4E00\u652F\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u8ECA\u968A\uFF0C\u6210\u7ACB\u65BC2007\u5E7410\u6708\u3002\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u7684\u524D\u8EAB\u70BA2006\u5E74\u6210\u7ACB\u7684\u4E16\u7235\u8ECA\u968A\uFF0C\u8A72\u8ECA\u968A\u5728\u77ED\u77ED\u53C3\u8CFD\u4E00\u5E74\u5F8C\u7531\u65BC\u8CC7\u91D1\u77ED\u7F3A\uFF0C\u800C\u7531\u5370\u5EA6\u5BCC\u5546\u3001\u7FE0\u9E1F\u822A\u7A7A\uFF08Kingfisher Airlines\uFF09\u7E3D\u88C1\u7DAD\u5091\u00B7\u99AC\u723E\u96C5\uFF08Vijay Mallya\uFF09\u8207\u4E16\u7235\u8ECA\u968A\u524D\u4EFB\u57F7\u884C\u9577\u7C73\u6B47\u723E\u00B7\u6469\u723E\uFF08Michiel Mol\uFF09\u4EE58,800\u842C\u6B50\u5143\u7684\u50F9\u683C\u6240\u6536\u8CFC \uFF0C\u4E26\u65BC10\u670824\u65E5\u7372\u5F97\u570B\u969B\u6C7D\u8ECA\u806F\u76DF\uFF08FIA\uFF09\u7684\u8A8D\u53EF\uFF0C\u5C07\u8ECA\u968A\u540D\u7A31\u6B63\u5F0F\u6539\u70BA\u300C\u5370\u5EA6\u529B\u91CF\u300D\u3002 \u57282009\u5E74\u8CFD\u5B63\uFF0C\u7531\u65BC\u5E03\u6717F1\u8ECA\u968A\u5C6C\u65BC\u65B0\u6210\u8ECD\u8ECA\u968A\uFF0C\u56E0\u6B64\u5FC5\u9808\u5217\u5728\u6700\u5F8C\u9806\u4F4D\uFF0CFIA\u65BC\u662F\u5C07\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5169\u4F4D\u8ECA\u624B\u7684\u7DE8\u865F\u5F80\u524D\u79FB\u5230\u539F\u672C\u9810\u7559\u7D66\u672C\u7530\u8ECA\u968A\u768418\u300119\u865F\u4F4D\u7F6E\uFF0C\u800C\u5E03\u6717F1\u8ECA\u968A\u5247\u70BA20\u300121\u865F\u3002\u4E0D\u904E\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5411FIA\u6295\u8A34\u8868\u793A\u8CFD\u5B63\u524D\u5DF2\u7D93\u4F9D\u64DA\u539F\u672C\u7684\u865F\u78BC\u5B8C\u6210\u5404\u9805\u92B7\u552E\u5546\u54C1\u8207\u5EE3\u544A\u7684\u6E96\u5099\uFF0C\u56E0\u6B64FIA\u540C\u610F\u6062\u5FA9\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u70BA20\u300121\u865F\u3002"@zh ,
+		"Sahara Force India Formula One Team, usuellement d\u00E9nomm\u00E9e Force India, est une \u00E9curie de Formule 1 indienne qui a fait ses d\u00E9buts en comp\u00E9tition \u00E0 l'occasion de la saison 2008. Bas\u00E9e \u00E0 Silverstone en Angleterre, Force India est n\u00E9e \u00E0 la suite du rachat et du changement de d\u00E9nomination de l'\u00E9curie n\u00E9erlandaise Spyker F1 Team, descendante de l'\u00E9curie Jordan Grand Prix."@fr ,
+		"Sahara Force India Formula One Team, tambi\u00E9n conocida como Force India, es una escuder\u00EDa india de F\u00F3rmula 1 creada en octubre de 2007, surgida a ra\u00EDz de la compra de Spyker F1 por parte del consorcio formado por el empresario de la India Vijay Mallya y por el holand\u00E9s Michiel Mol, pagando 88 millones de euros para adquirir la mitad de las acciones del equipo. Particip\u00F3 en el Mundial de F\u00F3rmula 1 desde 2008. En octubre de 2011, la compa\u00F1\u00EDa India Sahara India Pariwar adquiri\u00F3 el 42,5% de las acciones de Force India F1 por 100 millones de $."@es .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-wikidata:Q138933 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Force_India	owl:sameAs	yago-res:Force_India ,
+		<http://rdf.freebase.com/ns/m.03cm859> ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A9\u30FC\u30B9\u30FB\u30A4\u30F3\u30C7\u30A3\u30A2> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-es:Sahara_Force_India_F1_Team .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-pl:Force_India .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-nl:Force_India_F1_Team ,
+		dbr:Force_India .
+@prefix dbpedia-el:	<http://el.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-el:Force_India .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-id:Force_India .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-de:Force_India ,
+		<http://ko.dbpedia.org/resource/\uD3EC\uC2A4_\uC778\uB514\uC544> ,
+		wikidata:Q138933 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-fr:Force_India .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-it:Force_India .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-pt:Force_India .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Force_India	owl:sameAs	dbpedia-cs:Force_India .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Force_India	dct:subject	dbc:Organizations_established_in_2007 ,
+		dbc:Companies_based_in_Northamptonshire ,
+		dbc:Indian_auto_racing_teams ,
+		dbc:Sahara_India_Pariwar ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:British_racecar_constructors ;
+	foaf:name	"Sahara Force India F1 Team"@en ;
+	foaf:homepage	<http://www.forceindiaf1.com/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Force_India	geo:lat	"52.075832366943359375"^^xsd:float ;
+	geo:long	"-1.0294444561004638672"^^xsd:float ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Force_India .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Force_India	geo:geometry	"POINT(-1.0294444561005 52.075832366943)"^^virtrdf:Geometry ;
+	dbp:races	167 ;
+	<http://dbpedia.org/property/2016Chassis>	dbr:Force_India_VJM09 ;
+	<http://dbpedia.org/property/2016Drivers>	11 ,
+		27 ;
+	<http://dbpedia.org/property/2016Engine>	dbr:Mercedes_PU106-Type_Hybrid ;
+	<http://dbpedia.org/property/2016TestDrivers>	"Nikita Mazepin"^^xsd:string ,
+		"Alfonso Celis Jr."^^xsd:string ;
+	<http://dbpedia.org/property/2016Tyres>	dbr:Pirelli ;
+	dbp:constructorName	"Force India-Mercedes"^^xsd:string ;
+	dbp:engineeringHead	"Andrew Green"^^xsd:string ,
+		"Andy Stevenson"^^xsd:string ,
+		"Steve Curnow"^^xsd:string ;
+	dbp:engineeringHeadPosition	"Director"^^xsd:string ;
+	dbp:lastPosition	5 ;
+	dbp:debut	2008 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	4 ;
+	dbp:poles	1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Force_India	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Force_India?oldid=744377046> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Force_India	georss:point	"52.075833333333335 -1.0294444444444444" ;
+	dbo:wikiPageExternalLink	<http://www.forceindiaf1.com/> ;
+	dbp:lastSeason	2015 ;
+	dbp:base	dbr:Silverstone ,
+		"United Kingdom"^^xsd:string ,
+		"Northamptonshire,"^^xsd:string ;
+	dbp:principal	dbr:Subrata_Roy ,
+		"Robert Fernley"^^xsd:string ,
+		"Otmar Szafnauer"^^xsd:string ,
+		"Vijay Mallya"^^xsd:string ;
+	dbo:abstract	"The Sahara Force India F1 Team is a Formula One racing team based in Silverstone, United Kingdom with an Indian licence. The team was formed in October 2007 when a consortium led by Indian businessman Vijay Mallya and Dutch businessman Michiel Mol bought the Spyker F1 team for \u20AC90 million. After going through 29 races without scoring points, Force India won their first Formula One world championship points and podium place when Giancarlo Fisichella finished second in the 2009 Belgian Grand Prix. Force India scored points again in the following race when Adrian Sutil finished fourth, and set the team's first fastest lap, at the Italian Grand Prix. The team's other podium finishes to date are four third-places, in the 2014 Bahrain Grand Prix, 2015 Russian Grand Prix, 2016 Monaco Grand Prix and the 2016 European Grand Prix, all achieved by Sergio P\u00E9rez. In October 2011, Indian company Sahara India Pariwar, purchased 42.5% of Force India F1's shares at US$100 million."@en ,
+		"\u0421\u0430\u0445\u0430\u0440\u0430 \u0424\u043E\u0440\u0441 \u0418\u043D\u0434\u0438\u044F (\u0430\u043D\u0433\u043B. Sahara Force India F1 Team) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412\u043E\u0437\u043D\u0438\u043A\u043B\u0430 \u0432 \u043E\u043A\u0442\u044F\u0431\u0440\u0435 2007 \u0433\u043E\u0434\u0430 \u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u0438\u043D\u0434\u0438\u0439\u0441\u043A\u0438\u043C \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D\u043E\u043C \u0412\u0438\u0434\u0436\u0430\u0435\u043C \u041C\u0430\u043B\u043B\u044C\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0421\u043F\u0430\u0439\u043A\u0435\u0440\u00BB.\u041D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 2009 \u0433\u043E\u0434\u0430 \u0414\u0436\u0430\u043D\u043A\u0430\u0440\u043B\u043E \u0424\u0438\u0437\u0438\u043A\u0435\u043B\u043B\u0430 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u0443\u043B \u0434\u043B\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u044B, \u0430 \u0432 \u0441\u0430\u043C\u043E\u0439 \u0433\u043E\u043D\u043A\u0435 \u0437\u0430\u043D\u044F\u043B \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E, \u0443\u0441\u0442\u0443\u043F\u0438\u0432 \u0442\u043E\u043B\u044C\u043A\u043E \u041A\u0438\u043C\u0438 \u0420\u0430\u0439\u043A\u043A\u043E\u043D\u0435\u043D\u0443 \u0438\u0437 \u00AB\u0424\u0435\u0440\u0440\u0430\u0440\u0438\u00BB."@ru ,
+		"\u30B5\u30CF\u30E9\u30FB\u30D5\u30A9\u30FC\u30B9\u30FB\u30A4\u30F3\u30C7\u30A3\u30A2\u30FB\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9\u30EF\u30F3\u30FB\u30C1\u30FC\u30E0\uFF08Sahara Force India Formula One Team\uFF09\u306F\u30012008\u5E74\u304B\u3089F1\u306B\u53C2\u6226\u3057\u3066\u3044\u308B\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002"@ja ,
+		"Sahara Force India Formula One Team, usuellement d\u00E9nomm\u00E9e Force India, est une \u00E9curie de Formule 1 indienne qui a fait ses d\u00E9buts en comp\u00E9tition \u00E0 l'occasion de la saison 2008. Bas\u00E9e \u00E0 Silverstone en Angleterre, Force India est n\u00E9e \u00E0 la suite du rachat et du changement de d\u00E9nomination de l'\u00E9curie n\u00E9erlandaise Spyker F1 Team, descendante de l'\u00E9curie Jordan Grand Prix."@fr ,
+		"\u0641\u0631\u064A\u0642 \u0635\u062D\u0627\u0631\u0649 \u0641\u0648\u0631\u0633 \u0625\u0646\u062F\u064A\u0627 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Sahara Force India Formula One Team) \u0647\u0648 \u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u062A\u062C\u0627\u0631\u064A \u0644\u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0633 \u0625\u0646\u062F\u064A\u0627 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0627\u0644\u0645\u062D\u062F\u0648\u062F, \u0647\u0648 \u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0645\u0631\u0643\u0632\u0647 \u0641\u064A \u0633\u064A\u0644\u0641\u0631\u0633\u062A\u0648\u0646, \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0630\u064A \u064A\u062D\u0645\u0644 \u062D\u0627\u0644\u064A\u0627\u064B \u0631\u062E\u0635\u0629 \u0647\u0646\u062F\u064A\u0629. \u062A\u0645 \u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u0641\u0631\u064A\u0642 \u0641\u064A \u0634\u0647\u0631 \u0623\u0643\u062A\u0648\u0628\u0631 2007 \u0639\u0646\u062F\u0645\u0627 \u0642\u0627\u0645 \u0627\u062A\u062D\u0627\u062F \u0634\u0631\u0643\u0627\u062A \u0628\u0642\u064A\u0627\u062F\u0629 \u0631\u062C\u0644\u064A \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0647\u0646\u062F\u064A\u0627\u0646 \u0641\u064A\u062C\u0627\u064A \u0645\u0627\u0644\u064A\u0627 \u0648\u0645\u064A\u0634\u064A\u0644 \u0645\u0648\u0644 \u0628\u0634\u0631\u0627\u0621 \u0641\u0631\u064A\u0642 \u0633\u0628\u064A\u0643\u0631 \u0625\u06411 \u0645\u0642\u0627\u0628\u0644 90 \u0645\u0644\u064A\u0648\u0646 \u064A\u0648\u0631\u0648. \u0641\u0631\u064A\u0642 \u0641\u0648\u0633 \u0625\u0646\u062F\u064A\u0627 \u064A\u0642\u062F\u0645 \u0635\u0648\u0631\u0629 \u0639\u0646 \u0627\u0644\u0627\u0647\u062A\u0645\u0627\u0645 \u0627\u0644\u0645\u062A\u0632\u0627\u064A\u062F \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0644\u062F\u0649 \u0627\u0644\u0647\u0646\u062F \u062C\u0646\u0628\u0627\u064B \u0625\u0644\u0649 \u062C\u0646\u0646\u0628 \u0645\u0639 \u0627\u0633\u062A\u0636\u0627\u0641\u0629 \u062D\u0644\u0628\u0629 \u0646\u0648\u064A\u062F\u0627 \u0627\u0644\u0639\u0638\u064A\u0645 \u0644\u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0647\u0646\u062F \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0641\u064A \u0639\u0627\u0645 2011. \u0623\u0643\u062F \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u062A\u063A\u064A\u064A\u0631 \u0627\u0644\u0627\u0633\u0645 \u0645\u0646 \u0633\u0628\u064A\u0643\u0631 \u0625\u0644\u0649 \u0641\u0648\u0631\u0633 \u0625\u0646\u062F\u064A\u0627 \u0641\u064A 24 \u0623\u0643\u062A\u0648\u0628\u0631 2007. \u0628\u0639\u062F \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064A 29 \u0633\u0628\u0627\u0642\u0627\u064B \u062F\u0648\u0646 \u062A\u062D\u0642\u064A\u0642 \u0623\u064A\u0629 \u0646\u0642\u0627\u0637, \u0641\u0627\u0632 \u0641\u0631\u064A\u0642 \u0641\u0648\u0633 \u0625\u0646\u062F\u064A\u0627 \u0628\u0628\u0639\u0636 \u0627\u0644\u0646\u0642\u0627\u0637 \u0628\u0641\u0636\u0644 \u062D\u0635\u0648\u0644\u0647 \u0639\u0644\u0649 \u0645\u0631\u0643\u0632 \u0641\u064A \u0645\u0646\u0635\u0629 \u0627\u0644\u062A\u062A\u0648\u064A\u062C \u0641\u064A \u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0628\u0644\u062C\u064A\u0643\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0639\u0627\u0645 2009. \u062D\u0642\u0642 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0645\u0632\u064A\u062F \u0645\u0646 \u0627\u0644\u0646\u0642\u0627\u0637 \u0628\u0648\u0642\u0648\u0639 \u0633\u0627\u0626\u0642\u0647 \u0623\u062F\u0631\u064A\u0627\u0646 \u0633\u0648\u062A\u064A\u0644 \u0641\u064A \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0631\u0627\u0628\u0639 \u0648\u062A\u062D\u0642\u064A\u0642\u0647 \u0623\u0633\u0631\u0639 \u0644\u0641\u0629 \u0641\u064A \u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649. \u0633\u0627\u0626\u0642\u0648\u0627 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u062D\u0627\u0644\u064A\u064A\u0646 \u0647\u0645 \u0628\u0648\u0644 \u062F\u064A \u0631\u064A\u0633\u062A\u0627 \u0648\u0646\u064A\u0643\u0648 \u0647\u0648\u0644\u0643\u064A\u0646\u0628\u064A\u0631\u063A. \u0641\u064A \u0623\u0643\u062A\u0648\u0628\u0631 2011, \u0627\u0634\u062A\u0631\u062A \u0634\u0631\u0643\u0629 \u0635\u062D\u0627\u0631\u0649 \u0628\u0627\u0631\u064A\u0648\u0648\u0631 \u0627\u0644\u0647\u0646\u062F\u064A\u0629 \u062D\u0635\u0629 42.5% \u0645\u0646 \u0623\u0633\u0647\u0645 \u0627\u0644\u0641\u0631\u064A\u0642 \u0628\u0645\u0627 \u064A\u0642\u0627\u0628\u0644 100 \u0645\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064A\u0643\u064A."@ar ,
+		"A Force India Formula One \u00E9 uma equipe de F\u00F3rmula 1, cuja estreia foi em 2008."@pt ,
+		"\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\uFF08Force India Formula One\uFF09\u662F\u4E00\u652F\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u8ECA\u968A\uFF0C\u6210\u7ACB\u65BC2007\u5E7410\u6708\u3002\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u7684\u524D\u8EAB\u70BA2006\u5E74\u6210\u7ACB\u7684\u4E16\u7235\u8ECA\u968A\uFF0C\u8A72\u8ECA\u968A\u5728\u77ED\u77ED\u53C3\u8CFD\u4E00\u5E74\u5F8C\u7531\u65BC\u8CC7\u91D1\u77ED\u7F3A\uFF0C\u800C\u7531\u5370\u5EA6\u5BCC\u5546\u3001\u7FE0\u9E1F\u822A\u7A7A\uFF08Kingfisher Airlines\uFF09\u7E3D\u88C1\u7DAD\u5091\u00B7\u99AC\u723E\u96C5\uFF08Vijay Mallya\uFF09\u8207\u4E16\u7235\u8ECA\u968A\u524D\u4EFB\u57F7\u884C\u9577\u7C73\u6B47\u723E\u00B7\u6469\u723E\uFF08Michiel Mol\uFF09\u4EE58,800\u842C\u6B50\u5143\u7684\u50F9\u683C\u6240\u6536\u8CFC \uFF0C\u4E26\u65BC10\u670824\u65E5\u7372\u5F97\u570B\u969B\u6C7D\u8ECA\u806F\u76DF\uFF08FIA\uFF09\u7684\u8A8D\u53EF\uFF0C\u5C07\u8ECA\u968A\u540D\u7A31\u6B63\u5F0F\u6539\u70BA\u300C\u5370\u5EA6\u529B\u91CF\u300D\u3002 \u57282009\u5E74\u8CFD\u5B63\uFF0C\u7531\u65BC\u5E03\u6717F1\u8ECA\u968A\u5C6C\u65BC\u65B0\u6210\u8ECD\u8ECA\u968A\uFF0C\u56E0\u6B64\u5FC5\u9808\u5217\u5728\u6700\u5F8C\u9806\u4F4D\uFF0CFIA\u65BC\u662F\u5C07\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5169\u4F4D\u8ECA\u624B\u7684\u7DE8\u865F\u5F80\u524D\u79FB\u5230\u539F\u672C\u9810\u7559\u7D66\u672C\u7530\u8ECA\u968A\u768418\u300119\u865F\u4F4D\u7F6E\uFF0C\u800C\u5E03\u6717F1\u8ECA\u968A\u5247\u70BA20\u300121\u865F\u3002\u4E0D\u904E\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5411FIA\u6295\u8A34\u8868\u793A\u8CFD\u5B63\u524D\u5DF2\u7D93\u4F9D\u64DA\u539F\u672C\u7684\u865F\u78BC\u5B8C\u6210\u5404\u9805\u92B7\u552E\u5546\u54C1\u8207\u5EE3\u544A\u7684\u6E96\u5099\uFF0C\u56E0\u6B64FIA\u540C\u610F\u6062\u5FA9\u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u70BA20\u300121\u865F\u3002"@zh ,
+		"La Force India, chiamata per motivi di sponsorizzazione Sahara Force India F1 Team, \u00E8 una squadra indiana di Formula 1, di propriet\u00E0 del magnate indiano Vijay Mallya, del gruppo finanziario Sahara India Pariwar e della famiglia Mol."@it ,
+		"Sahara Force India Formula One Team, tambi\u00E9n conocida como Force India, es una escuder\u00EDa india de F\u00F3rmula 1 creada en octubre de 2007, surgida a ra\u00EDz de la compra de Spyker F1 por parte del consorcio formado por el empresario de la India Vijay Mallya y por el holand\u00E9s Michiel Mol, pagando 88 millones de euros para adquirir la mitad de las acciones del equipo. Particip\u00F3 en el Mundial de F\u00F3rmula 1 desde 2008. En octubre de 2011, la compa\u00F1\u00EDa India Sahara India Pariwar adquiri\u00F3 el 42,5% de las acciones de Force India F1 por 100 millones de $. Sahara Force India F1 Team representa el incremento de participaci\u00F3n de India en la F\u00F3rmula 1 junto con el Circuito Internacional de Buddh, que alberg\u00F3 el primer Gran Premio de la India en 2011, los pilotos Karun Chandhok y Narain Karthikeyan, y el Sahara India Pariwar Group."@es ,
+		"Force India (oficjalnie Sahara Force India F1 Team) \u2013 zesp\u00F3\u0142 Formu\u0142y 1, kt\u00F3ry zadebiutowa\u0142 w sezonie 2008."@pl ,
+		"Das Sahara Force India F1 Team (kurz Force India) ist ein mit indischer Lizenz fahrender Formel-1-Rennstall mit Sitz im englischen Silverstone. Es ist das erste indische Team der Formel-1-Geschichte. Force India entstand durch die \u00DCbernahme des Spyker-Teams durch den indischen Industriellen Vijay Mallya im Jahr 2007. Spyker war seinerseits 2006 aus dem russischen Midland Team hervorgegangen, das im Jahr zuvor die Nachfolge des Traditionsteams Jordan Grand Prix angetreten hatte. Im Oktober 2011 \u00FCbernahm das indische Unternehmen Sahara India Pariwar 42,5 Prozent der Anteile am Rennstall, das seitdem erg\u00E4nzend im Meldenamen gef\u00FChrt wird. Seit 2009 tritt Force India mit Kundenmotoren von Mercedes an."@de ,
+		"Force India F1 Team is een Formule 1 team dat vanaf het seizoen 2008 deelneemt aan het Formule 1 kampioenschap. Force India is ontstaan uit het Spyker F1 team, dat voortkwam uit Midland, dat op zijn beurt voortkwam uit het Jordan-team en dat in oktober 2007 werd overgenomen door een consortium van de Nederlander Michiel Mol en Vijay Mallya, een bekende zakenman uit India. Een meerderheidsbelang is in handen van Mallya."@nl ;
+	dbo:wikiPageRevisionID	744377046 ;
+	dbo:wikiPageID	13888015 ;
+	dbp:logo	200 ;
+	dbp:podiums	5 ;
+	dbp:previousName	dbr:Spyker_F1 .
+@prefix ns31:	<http://purl.org/linguistics/gold/> .
+dbr:Force_India	ns31:hypernym	dbr:Formula .
+<http://dbpedia.org/resource/2016_Chinese_Grand_Prix>	dbo:fastestDriverTeam	dbr:Force_India .
+dbr:Force_India_F1_Team	dbo:wikiPageRedirects	dbr:Force_India .
+<http://dbpedia.org/resource/Sergio_P\u00E9rez>	<http://dbpedia.org/property/2016Team>	dbr:Force_India .
+dbr:Adrian_Sutil	dbp:teams	dbr:Force_India .
+dbr:Vitantonio_Liuzzi	<http://dbpedia.org/property/team(s)_>	dbr:Force_India .
+dbr:Force_India_VJM09	dbp:team	dbr:Force_India ;
+	dbp:constructor	dbr:Force_India .
+<http://dbpedia.org/resource/2014_Austrian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Force_India .
+<http://dbpedia.org/resource/2016_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Force_India .
+dbr:Force_India_VJM08	dbp:team	dbr:Force_India ;
+	dbp:constructor	dbr:Force_India .
+dbr:Force_India_VJM06	dbp:team	dbr:Force_India ;
+	dbp:constructor	dbr:Force_India .
+dbr:Force_India_VJM02	dbp:constructor	dbr:Force_India .
+dbr:Force_India_VJM03	dbp:team	dbr:Force_India ;
+	dbp:constructor	dbr:Force_India .
+dbr:Force_India_VJM04	dbp:team	dbr:Force_India ;
+	dbp:constructor	dbr:Force_India .
+dbr:Force_India_VJM05	dbp:team	dbr:Force_India ;
+	dbp:constructor	dbr:Force_India .
+dbr:Monaco_Grand_Prix	dbp:thirdTeam	dbr:Force_India .
+dbr:Force_India_VJM07	dbp:team	dbr:Force_India ;
+	dbp:constructor	dbr:Force_India .
+dbr:Force_1ndia	dbo:wikiPageRedirects	dbr:Force_India .
+<http://dbpedia.org/resource/2014_Bahrain_Grand_Prix>	dbo:thirdTeam	dbr:Force_India .
+dbr:Sahara_Force_India	dbo:wikiPageRedirects	dbr:Force_India .

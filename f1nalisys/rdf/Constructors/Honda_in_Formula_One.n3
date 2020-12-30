@@ -1,0 +1,176 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Honda_RA107	dbp:constructor	dbr:Honda_in_Formula_One .
+dbr:Honda_RA106	dbp:constructor	dbr:Honda_in_Formula_One .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Honda_in_Formula_One	rdf:type	yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Honda_in_Formula_One	rdf:type	ns4:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Honda_in_Formula_One	rdf:type	wikidata:Q43229 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Honda_in_Formula_One	rdf:type	dbo:Agent ,
+		ns4:SocialPerson ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		dbo:FormulaOneTeam ,
+		wikidata:Q24229398 ,
+		dbo:SportsTeam .
+@prefix schema:	<http://schema.org/> .
+dbr:Honda_in_Formula_One	rdf:type	schema:Organization ,
+		yago:WikicatFormulaOneConstructors ,
+		schema:SportsTeam .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Honda_in_Formula_One	rdf:type	owl:Thing ,
+		dbo:Organisation ,
+		yago:WikicatJapaneseRacecarConstructors ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		yago:Contractor109960891 ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Honda_in_Formula_One	rdfs:label	"Honda Racing F1 Team"@it ,
+		"Honda in Formula One"@en ,
+		"Honda Racing F1"@de ,
+		"\u0425\u043E\u043D\u0434\u0430 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Honda Racing F1 Team"@pt ,
+		"Honda Racing F1 Team"@nl ,
+		"\u672C\u7530\u8F66\u961F"@zh ,
+		"\u30DB\u30F3\u30C0F1"@ja ,
+		"Honda Racing F1"@es ,
+		"Honda Racing F1"@pl ,
+		"Honda Racing F1 Team"@fr ;
+	rdfs:comment	"Honda Racing F1 Team foi uma equipe de automobilismo que competiu no campeonato da F\u00F3rmula 1 a partir de 1964, fornecendo motores para a Lotus, abandonando a ideia posteriormente, estreando com equipe pr\u00F3pria, at\u00E9 1968. Em 1983, a empresa voltou, fornecendo motores \u00E0s equipes, mas saiu em 1992."@pt ,
+		"Honda Racing F1 \u2013 japo\u0144ski zesp\u00F3\u0142 i producent silnik\u00F3w Formu\u0142y 1, za\u0142o\u017Cony w 1962 roku. Honda uczestniczy\u0142a w Mistrzostwach \u015Awiata w sezonach 1964-1968. W sezonie 1983 powr\u00F3ci\u0142a w roli dostawcy silnik\u00F3w. Do ko\u0144ca sezonu 1992 wywalczy\u0142a \u0142\u0105cznie jedena\u015Bcie tytu\u0142\u00F3w. W sezonie 2006, po wykupieniu 100% udzia\u0142\u00F3w w zespole British American Racing, powr\u00F3ci\u0142a w roli konstruktora. Japo\u0144ski koncern postanowi\u0142 wycofa\u0107 si\u0119 z Formu\u0142y 1 pod koniec 2008 roku z powodu k\u0142opot\u00F3w finansowych. 6 marca Ross Brawn poinformowa\u0142 o przej\u0119ciu zespo\u0142u i przekszta\u0142ceniu go w Brawn GP."@pl ,
+		"Honda Racing F1 Team est une \u00E9curie de Formule 1 et un manufacturier de moteurs de course automobile appartenant au constructeur automobile japonais Honda. L'\u00E9quipe est pr\u00E9sente en Formule 1 de 1964 \u00E0 1968, puis n'est plus engag\u00E9e qu'en tant que motoriste de 1983 \u00E0 2005 o\u00F9 elle est associ\u00E9e aux huit titres pilotes et constructeurs remport\u00E9s par Alain Prost et Ayrton Senna sur McLaren. Avec le rachat de l'\u00E9quipe britannique British American Racing, Honda fait son retour en tant qu'\u00E9curie compl\u00E8te, de 2006 \u00E0 la fin de la saison 2008, obtenant une unique victoire avec Jenson Button \u00E0 l'arriv\u00E9e du Grand Prix de Hongrie 2006. En 2015, Honda renoue avec son r\u00F4le de motoriste en fournissant \u00E0 nouveau McLaren Racing."@fr ,
+		"Honda Racing F1 Team fue un equipo de F\u00F3rmula 1, formado despu\u00E9s de la adquisici\u00F3n del equipo BAR por Honda en 2005 y que compiti\u00F3 de 2006 a 2008."@es ,
+		"\u30DB\u30F3\u30C0F1\uFF08Honda F1\uFF09\u306F\u30012006\u5E74\u304B\u30892008\u5E74\u307E\u3067\u65E7B\u30FBA\u30FBR\u306E\u682A\u5F0F\u3092\u30DB\u30F3\u30C0\u304C100%\u53D6\u5F97\u3057\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u6B63\u5F0F\u540D\u79F0\u306F\u30DB\u30F3\u30C0\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FBF1\u30C1\u30FC\u30E0\uFF08Honda Racing F1 Team\uFF09\u3002 F1\u53C2\u6226\u306F\u3001\u30B7\u30E3\u30FC\u30B7\u3001\u30A8\u30F3\u30B8\u30F3\u542B\u3081\u5168\u3066\u81EA\u793E\u88FD\u9020\u3057\u30D5\u30EB\u30EF\u30FC\u30AF\u30B9\u4F53\u5236\u3067\u30C1\u30FC\u30E0\u3068\u3057\u3066\u53C2\u6226\u3057\u305F\u7B2C1\u671F\u3001\u65E2\u5B58\u30C1\u30FC\u30E0\u306B\u30A8\u30F3\u30B8\u30F3\u3092\u4F9B\u7D66\u3059\u308B\u3068\u3044\u3046\u300C\u30A8\u30F3\u30B8\u30F3\u30B5\u30D7\u30E9\u30A4\u30E4\u30FC\u300D\u306E\u304B\u305F\u3061\u3092\u3068\u3063\u305F\u7B2C2\u671F\u3001\u5F53\u521D\u30A8\u30F3\u30B8\u30F3\u306E\u307F\u3092\u4F9B\u7D66\u3057\u3001\u5F8C\u306B\u30D5\u30EB\u30EF\u30FC\u30AF\u30B9\u4F53\u5236\u306E\u30DB\u30F3\u30C0F1\u30C1\u30FC\u30E0\u306B\u79FB\u884C\u3057\u305F\u7B2C3\u671F\u3001\u30A8\u30F3\u30B8\u30F3\u3068\u30A8\u30CD\u30EB\u30AE\u30FC\u56DE\u751F\u30B7\u30B9\u30C6\u30E0\uFF08ERS\uFF09\u3092\u30D1\u30C3\u30B1\u30FC\u30B8\u3057\u305F\u30D1\u30EF\u30FC\u30E6\u30CB\u30C3\u30C8\u306E\u30B5\u30D7\u30E9\u30A4\u30E4\u30FC\u3068\u306A\u308B\u7B2C4\u671F\u306B\u5206\u304B\u308C\u308B\u3002\u53B3\u5BC6\u306B\u3044\u3048\u3070\u3001\u53C2\u6226\u4F53\u5236\u306F\u3001\u7B2C1\u671F\u30FB\u7B2C2\u671F\u30FB\u7B2C4\u671F\u306E\u53C2\u6226\u306F\u672C\u7530\u6280\u7814\u5DE5\u696D\u53CA\u3073\u672C\u7530\u6280\u8853\u7814\u7A76\u6240\u306B\u3088\u308B\u3082\u306E\u3067\u3042\u308A\u30012006\u5E74\u4EE5\u964D\u3092\u542B\u3080\u7B2C3\u671F\u53C2\u6226\u306F\u672C\u7530\u6280\u7814\u5DE5\u696D\u306B\u3088\u308A1999\u5E74\u306B\u30A4\u30AE\u30EA\u30B9\u306B\u8A2D\u7ACB\u3055\u308C\u305F\u30DB\u30F3\u30C0\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C7\u30A3\u30D9\u30ED\u30C3\u30D7\u30E1\u30F3\u30C8\uFF08HRD\uFF09\u793E\u306B\u3088\u308B\u3082\u306E\u3067\u3042\u308B\u3002 \u306A\u304A\u30011964\u5E74\u304B\u30891968\u5E74\u306E\u5358\u72EC\u30C1\u30FC\u30E0\u306B\u3088\u308B\u53C2\u6226\uFF08\u7B2C1\u671F\uFF09\u3068\u30011983\u5E74\u304B\u30891992\u5E74\uFF08\u7B2C2\u671F\uFF09\u304A\u3088\u30732000\u5E74\u304B\u30892005\u5E74\uFF08\u7B2C3\u671F\uFF09\u306E\u30A8\u30F3\u30B8\u30F3\u4F9B\u7D66\u306B\u3088\u308B\u53C2\u6226\u30012015\u5E74\u304B\u3089\u306E\u30D1\u30EF\u30FC\u30E6\u30CB\u30C3\u30C8\u4F9B\u7D66\u306B\u3088\u308B\u53C2\u6226\uFF08\u7B2C4\u671F\uFF09\u306B\u95A2\u3057\u3066\u3082\u3053\u3053\u3067\u8FF0\u3079\u308B\u3002"@ja ,
+		"Honda has participated in Formula One, as an entrant, constructor and engine supplier, for various periods since 1964. Honda's involvement in Formula One began with the 1964 season; their withdrawal in 1968 was precipitated by the death of Honda driver Jo Schlesser during the 1968 French Grand Prix. They returned in 1983 as an engine supplier, a role that ended in 1992. They returned again in 2000, providing engines for British American Racing (BAR). By the end of 2005 they had bought out the BAR team, based at Brackley, United Kingdom, and renamed their new subsidiary Honda Racing."@en ,
+		"La Honda Racing F1 Team \u00E8 stata una scuderia giapponese di Formula 1 controllata dalla casa automobilistica Honda. L'impegno nell'automobilismo del costruttore giapponese ha preso il via gi\u00E0 nel 1964, pochi anni dopo l'ingresso stesso nella produzione di serie, e direttamente dalla Formula 1 in cui ha gareggiato sino al 1968; il ritorno \u00E8 avvenuto nella stagione 2006 con una scuderia a proprio nome (Honda Racing F1 Team) dopo l'acquisto completo della British American Racing di cui era partner tecnologico. I maggiori risultati la Honda li ha ottenuti per\u00F2 come fornitore di motori, in Formula 1 tra il 1983 e il 1992 e ancora (con meno fortuna) tra il 2000 e il 2008, e nella Indy Racing League di cui \u00E8 stata dal 2006 al 2011 fornitore unico. La scuderia, in vendita per problemi finanziari da"@it ,
+		"Honda Racing F1 war ein Motorsport-Rennstall und Werksteam des japanischen Automobilkonzerns Honda, das von 1964 bis 1968 sowie von 2006 bis 2008 an der Formel-1-Weltmeisterschaft teilnahm. Der Rennstall operierte jeweils von einer Basis in Gro\u00DFbritannien. Das zweite Formel-1-Engagement war eine Fortsetzung des britischen BAR-Teams, das Honda 2005 \u00FCbernommen hatte. Als solches ist es zugleich ein Vorg\u00E4nger des gegenw\u00E4rtig in der Formel-1-Weltmeisterschaft gemeldeten Teams Mercedes Grand Prix. Daneben lieferte Honda mehrere Jahrzehnte lang Motoren f\u00FCr diverse Formel-1-Teams, unter anderem f\u00FCr Williams und McLaren. Die Verbindung zu McLaren war eine der erfolgreichsten Partnerschaften der Formel-1-Geschichte. Honda kehrte 2015 als Motorenlieferant f\u00FCr McLaren in die Formel 1 zur\u00FCck."@de ,
+		"Honda Racing F1 Team \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0432\u0435\u0440\u043D\u0443\u0432\u0448\u0430\u044F\u0441\u044F \u0432 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0438 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u0432\u044B\u043A\u0443\u043F\u0438\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 B.A.R.. 5 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2008 \u0431\u044B\u043B\u043E \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u043E, \u0447\u0442\u043E \u043A\u043E\u043D\u0446\u0435\u0440\u043D Honda \u0432\u044B\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u043D\u0430 \u043F\u0440\u043E\u0434\u0430\u0436\u0443, \u0438 Honda \u043F\u043E\u043A\u0438\u0434\u0430\u0435\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043A\u0430\u043A \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0435\u0439 \u0438 \u043A\u0430\u043A \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u0431\u043E\u043B\u0438\u0434\u043E\u0432."@ru ,
+		"\u672C\u7530F1\u8D5B\u8F66\u961F\uFF08Honda Racing F1 Team\uFF09\u662F\u73B0\u5728\uFF082014\u5E74\uFF09\u5DF2\u7ECF\u4E0D\u5B58\u5728\u7684\u4E00\u652FF1\u8F66\u961F\uFF0C\u5B83\u7531\u65E5\u672C\u7684\u6C7D\u8F66\u5236\u9020\u5546\u2014\u2014\u672C\u7530\u516C\u53F8\u7EC4\u5EFA\u4E8E2006\u5E74\uFF0C\u5176\u603B\u90E8\u4F4D\u4E8E\u82F1\u56FD\u7684\u5E03\u83B1\u514B\u96F7\u3002\u672C\u7530\u8F66\u961F\u7EE7\u627F\u4E86\u5DF2\u7ECF\u9000\u51FAF1\u821E\u53F0\u7684\u82F1\u7F8E\u8F66\u961F\u3002\u57282006\u5E74\u4E4B\u524D\u672C\u7530\u516C\u53F8\u66FE\u662F\u82F1\u7F8E\u8F66\u961F\u7684\u80A1\u4E1C\u548C\u5F15\u64CE\u4F9B\u5E94\u5546\uFF0C\u5176\u62E5\u6709\u82F1\u7F8E\u8F66\u961F\u5168\u90E8\u80A1\u4EFD\u768445%\uFF0C\u540E\u6765\u4ECE2006\u5E74\u5F00\u59CB\u53C8100%\u5168\u8D44\u63A7\u80A1\u4E86\u82F1\u7F8E\u8F66\u961F\uFF0C\u5E76\u5C06\u5176\u6539\u540D\u4E3A\u672C\u7530\u8F66\u961F\uFF0C\u8FD9\u662F\u8BE5\u516C\u53F8\u8FD140\u5E74\u4EE5\u6765\u7B2C\u4E00\u6B21\u5B8C\u5168\u63A7\u5236\u4E00\u652FF1\u8F66\u961F\u3002\u57281964\uFF0D1968\u5E74\u671F\u95F4\uFF0C\u672C\u7530\u8F66\u961F\u4E5F\u66FE\u72EC\u7ACB\u51FA\u73B0\u5728F1\u8D5B\u573A\u4E0A\uFF0C\u4F46\u662F\u6574\u4E2A\u8F66\u961F\u57284\u5E74\u91CC\u768435\u573A\u5206\u7AD9\u8D5B\u4E2D\u53EA\u83B7\u5F97\u4E862\u4E2A\u5206\u7AD9\u8D5B\u51A0\u519B \uFF0C\u6700\u7EC8\u60E8\u6DE1\u6536\u573A\u3002\u81EA\u4ECE2006\u5E74\u5168\u65B0\u7684\u672C\u7530\u8F66\u961F\u6210\u7ACB\u4EE5\u6765\uFF0C\u66FE\u4E3A\u8BE5\u8F66\u961F\u6548\u529B\u7684\u8F66\u624B\u6709\u5DF4\u897F\u540D\u5C06\u9C81\u672C\u65AF\u00B7\u5DF4\u91CC\u5207\u7F57\u548C\u82F1\u56FD\u8F66\u624B\u8A79\u68EE\u00B7\u5DF4\u987F\uFF0C\u5176\u8D5B\u8F66\u4F7F\u7528\u7684\u5F15\u64CE\u578B\u53F7\u662F\uFF1AHONDA RA807E\u3002 \u5317\u4EAC\u65F6\u95F42008\u5E7412\u67085\u65E5\u4E0A\u5348\uFF0C\u672C\u7530\u516C\u53F8\u5728\u65E5\u672C\u4E1C\u4EAC\u53EC\u5F00\u65B0\u95FB\u53D1\u5E03\u4F1A\uFF0C\u516C\u53F8CEO\u798F\u4E95\u5A01\u592B\uFF08Takeo Fukui\uFF09\u8868\u793A\uFF0C\u7531\u4E8E\u76EE\u524D\u56F0\u96BE\u7684\u7ECF\u6D4E\u60C5\u51B5\uFF0C\u516C\u53F8\u6B63\u5F0F\u5BA3\u5E03\u5C06\u9000\u51FAF1\uFF0C2009\u5E743\u67086\u65E5\uFF0C\u672C\u7530\u5C07\u8ECA\u968A\u8CE3\u7D66\u7F85\u65AF\u00B7\u5E03\u6717\uFF0C\u8ECA\u968A\u4EA6\u6703\u6539\u540D\u70BA\u5E03\u6717F1\u8ECA\u968A\u3002 2013\u5E745\u6708\uFF0C\u672C\u7530\u786E\u8BA4\u57282015\u8D5B\u5B63\u65F6\u672C\u7530\u5C06\u4F5C\u4E3A\u8FC8\u51EF\u8F6E\u8F66\u961F\u7684\u5F15\u64CE\u4F9B\u5E94\u5546\uFF0C\u65F6\u96946\u5E74\u518D\u6B21\u56DE\u5F52\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u4E8B\u3002"@zh ,
+		"Honda Racing F1 Team was een Formule 1-team dat tussen 1964 en 1968 en tussen 2006 - 2008 meedeed aan het kampioenschap Formule 1, daarna werd het Brawn GP. Tegenwoordig is dat team omgedoopt tot Mercedes Grand Prix. Het team is ontstaan door de overname van BAR-Honda door de Japanse Hondafabriek, producent van onder meer auto's. Het team heeft, evenals zijn voorganger, zijn basis in Brackley, Groot-Brittanni\u00EB, en wordt geleid door Nick Fry en Geoff Willis."@nl ;
+	dbp:drivers	"Jo Schlesser,"^^xsd:string ,
+		"Ronnie Bucknum,"^^xsd:string ,
+		"Jenson Button,"^^xsd:string ,
+		"Rubens Barrichello"^^xsd:string ,
+		"Richie Ginther,"^^xsd:string ,
+		"John Surtees,"^^xsd:string ;
+	owl:sameAs	dbr:Honda_in_Formula_One .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-it:Honda_Racing_F1_Team .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	yago-res:Honda_Racing_F1 ,
+		wikidata:Q171342 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-wikidata:Q171342 ,
+		<http://ja.dbpedia.org/resource/\u30DB\u30F3\u30C0F1> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-pl:Honda_Racing_F1 ,
+		<http://rdf.freebase.com/ns/m.08z2rt> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-fr:Honda_Racing_F1_Team .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-pt:Honda_Racing_F1_Team ,
+		yago-res:Honda_in_Formula_One .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-nl:Honda_Racing_F1_Team .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-cs:Honda_F1 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-id:Honda_di_Formula_Satu .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-es:Honda_Racing_F1 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Honda_in_Formula_One	owl:sameAs	dbpedia-de:Honda_Racing_F1 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Honda_in_Formula_One	dct:subject	dbc:Japanese_auto_racing_teams ,
+		dbc:Honda ,
+		dbc:Formula_One_engine_manufacturers ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Japanese_racecar_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Honda_in_Formula_One	foaf:name	"Honda Racing F1 Team (2006\u20132008)"@en ,
+		"Honda R & D Company"@en ,
+		"(1964\u20131968)"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Honda-logo.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Honda_in_Formula_One	foaf:isPrimaryTopicOf	wikipedia-en:Honda_in_Formula_One ;
+	dbp:podiums	9 ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Honda"^^xsd:string ;
+	dbp:nextName	dbr:Brawn_GP ;
+	dbp:previousName	dbr:British_American_Racing .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Honda_in_Formula_One	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Honda_in_Formula_One?oldid=741343730> ;
+	dbp:logo	<http://dbpedia.org/resource/File:Honda-logo.svg> ;
+	dbp:fastestLaps	2 ;
+	dbp:poles	2 ;
+	dbp:base	dbr:Japan ,
+		dbr:United_Kingdom ,
+		dbr:Netherlands ,
+		dbr:Tokyo ,
+		"Brackley, UK and Tochigi, Japan"^^xsd:string ,
+		dbr:Amsterdam ,
+		dbr:Slough ;
+	dbp:debut	1964 ;
+	dbo:wikiPageExternalLink	<http://www.forumula1.com/features/car-design-technology/honda-recovery-will-take-time/> ,
+		<http://en.hondaracingf1.com> ,
+		<http://www.f1network.net/main/s169/st19511.htm> ,
+		<http://www.f1network.net/main/s169/st109779.htm> ,
+		<http://newsonf1.net/2005/news/12/dec01b1.htm> ,
+		<http://www.autoblog.com/2006/07/19/honda-f1-view-suspended-the-ultimate-technical-diagram/> ,
+		<http://newsonf1.net/2006/news/11/nov15b.htm> ;
+	dbo:abstract	"Honda Racing F1 Team fue un equipo de F\u00F3rmula 1, formado despu\u00E9s de la adquisici\u00F3n del equipo BAR por Honda en 2005 y que compiti\u00F3 de 2006 a 2008."@es ,
+		"Honda has participated in Formula One, as an entrant, constructor and engine supplier, for various periods since 1964. Honda's involvement in Formula One began with the 1964 season; their withdrawal in 1968 was precipitated by the death of Honda driver Jo Schlesser during the 1968 French Grand Prix. They returned in 1983 as an engine supplier, a role that ended in 1992. They returned again in 2000, providing engines for British American Racing (BAR). By the end of 2005 they had bought out the BAR team, based at Brackley, United Kingdom, and renamed their new subsidiary Honda Racing. It was announced on 5 December 2008 that Honda would be exiting Formula One with immediate effect due to the global financial crisis and were looking to sell their team. On 27 February 2009 it was announced that team principal Ross Brawn had led a management buyout of the Brackley team. The team raced successfully as Brawn GP in 2009, and was subsequently sold to Daimler AG and renamed Mercedes GP for the 2010 season. On 17 May 2013 Honda announced their intention to return to the sport in the 2015 season under a works agreement with McLaren to supply V6 engines and kinetic energy recovery system (KERS) units."@en ,
+		"\u672C\u7530F1\u8D5B\u8F66\u961F\uFF08Honda Racing F1 Team\uFF09\u662F\u73B0\u5728\uFF082014\u5E74\uFF09\u5DF2\u7ECF\u4E0D\u5B58\u5728\u7684\u4E00\u652FF1\u8F66\u961F\uFF0C\u5B83\u7531\u65E5\u672C\u7684\u6C7D\u8F66\u5236\u9020\u5546\u2014\u2014\u672C\u7530\u516C\u53F8\u7EC4\u5EFA\u4E8E2006\u5E74\uFF0C\u5176\u603B\u90E8\u4F4D\u4E8E\u82F1\u56FD\u7684\u5E03\u83B1\u514B\u96F7\u3002\u672C\u7530\u8F66\u961F\u7EE7\u627F\u4E86\u5DF2\u7ECF\u9000\u51FAF1\u821E\u53F0\u7684\u82F1\u7F8E\u8F66\u961F\u3002\u57282006\u5E74\u4E4B\u524D\u672C\u7530\u516C\u53F8\u66FE\u662F\u82F1\u7F8E\u8F66\u961F\u7684\u80A1\u4E1C\u548C\u5F15\u64CE\u4F9B\u5E94\u5546\uFF0C\u5176\u62E5\u6709\u82F1\u7F8E\u8F66\u961F\u5168\u90E8\u80A1\u4EFD\u768445%\uFF0C\u540E\u6765\u4ECE2006\u5E74\u5F00\u59CB\u53C8100%\u5168\u8D44\u63A7\u80A1\u4E86\u82F1\u7F8E\u8F66\u961F\uFF0C\u5E76\u5C06\u5176\u6539\u540D\u4E3A\u672C\u7530\u8F66\u961F\uFF0C\u8FD9\u662F\u8BE5\u516C\u53F8\u8FD140\u5E74\u4EE5\u6765\u7B2C\u4E00\u6B21\u5B8C\u5168\u63A7\u5236\u4E00\u652FF1\u8F66\u961F\u3002\u57281964\uFF0D1968\u5E74\u671F\u95F4\uFF0C\u672C\u7530\u8F66\u961F\u4E5F\u66FE\u72EC\u7ACB\u51FA\u73B0\u5728F1\u8D5B\u573A\u4E0A\uFF0C\u4F46\u662F\u6574\u4E2A\u8F66\u961F\u57284\u5E74\u91CC\u768435\u573A\u5206\u7AD9\u8D5B\u4E2D\u53EA\u83B7\u5F97\u4E862\u4E2A\u5206\u7AD9\u8D5B\u51A0\u519B \uFF0C\u6700\u7EC8\u60E8\u6DE1\u6536\u573A\u3002\u81EA\u4ECE2006\u5E74\u5168\u65B0\u7684\u672C\u7530\u8F66\u961F\u6210\u7ACB\u4EE5\u6765\uFF0C\u66FE\u4E3A\u8BE5\u8F66\u961F\u6548\u529B\u7684\u8F66\u624B\u6709\u5DF4\u897F\u540D\u5C06\u9C81\u672C\u65AF\u00B7\u5DF4\u91CC\u5207\u7F57\u548C\u82F1\u56FD\u8F66\u624B\u8A79\u68EE\u00B7\u5DF4\u987F\uFF0C\u5176\u8D5B\u8F66\u4F7F\u7528\u7684\u5F15\u64CE\u578B\u53F7\u662F\uFF1AHONDA RA807E\u3002 \u5317\u4EAC\u65F6\u95F42008\u5E7412\u67085\u65E5\u4E0A\u5348\uFF0C\u672C\u7530\u516C\u53F8\u5728\u65E5\u672C\u4E1C\u4EAC\u53EC\u5F00\u65B0\u95FB\u53D1\u5E03\u4F1A\uFF0C\u516C\u53F8CEO\u798F\u4E95\u5A01\u592B\uFF08Takeo Fukui\uFF09\u8868\u793A\uFF0C\u7531\u4E8E\u76EE\u524D\u56F0\u96BE\u7684\u7ECF\u6D4E\u60C5\u51B5\uFF0C\u516C\u53F8\u6B63\u5F0F\u5BA3\u5E03\u5C06\u9000\u51FAF1\uFF0C2009\u5E743\u67086\u65E5\uFF0C\u672C\u7530\u5C07\u8ECA\u968A\u8CE3\u7D66\u7F85\u65AF\u00B7\u5E03\u6717\uFF0C\u8ECA\u968A\u4EA6\u6703\u6539\u540D\u70BA\u5E03\u6717F1\u8ECA\u968A\u3002 2013\u5E745\u6708\uFF0C\u672C\u7530\u786E\u8BA4\u57282015\u8D5B\u5B63\u65F6\u672C\u7530\u5C06\u4F5C\u4E3A\u8FC8\u51EF\u8F6E\u8F66\u961F\u7684\u5F15\u64CE\u4F9B\u5E94\u5546\uFF0C\u65F6\u96946\u5E74\u518D\u6B21\u56DE\u5F52\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u4E8B\u3002"@zh ,
+		"\u30DB\u30F3\u30C0F1\uFF08Honda F1\uFF09\u306F\u30012006\u5E74\u304B\u30892008\u5E74\u307E\u3067\u65E7B\u30FBA\u30FBR\u306E\u682A\u5F0F\u3092\u30DB\u30F3\u30C0\u304C100%\u53D6\u5F97\u3057\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u6B63\u5F0F\u540D\u79F0\u306F\u30DB\u30F3\u30C0\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FBF1\u30C1\u30FC\u30E0\uFF08Honda Racing F1 Team\uFF09\u3002 F1\u53C2\u6226\u306F\u3001\u30B7\u30E3\u30FC\u30B7\u3001\u30A8\u30F3\u30B8\u30F3\u542B\u3081\u5168\u3066\u81EA\u793E\u88FD\u9020\u3057\u30D5\u30EB\u30EF\u30FC\u30AF\u30B9\u4F53\u5236\u3067\u30C1\u30FC\u30E0\u3068\u3057\u3066\u53C2\u6226\u3057\u305F\u7B2C1\u671F\u3001\u65E2\u5B58\u30C1\u30FC\u30E0\u306B\u30A8\u30F3\u30B8\u30F3\u3092\u4F9B\u7D66\u3059\u308B\u3068\u3044\u3046\u300C\u30A8\u30F3\u30B8\u30F3\u30B5\u30D7\u30E9\u30A4\u30E4\u30FC\u300D\u306E\u304B\u305F\u3061\u3092\u3068\u3063\u305F\u7B2C2\u671F\u3001\u5F53\u521D\u30A8\u30F3\u30B8\u30F3\u306E\u307F\u3092\u4F9B\u7D66\u3057\u3001\u5F8C\u306B\u30D5\u30EB\u30EF\u30FC\u30AF\u30B9\u4F53\u5236\u306E\u30DB\u30F3\u30C0F1\u30C1\u30FC\u30E0\u306B\u79FB\u884C\u3057\u305F\u7B2C3\u671F\u3001\u30A8\u30F3\u30B8\u30F3\u3068\u30A8\u30CD\u30EB\u30AE\u30FC\u56DE\u751F\u30B7\u30B9\u30C6\u30E0\uFF08ERS\uFF09\u3092\u30D1\u30C3\u30B1\u30FC\u30B8\u3057\u305F\u30D1\u30EF\u30FC\u30E6\u30CB\u30C3\u30C8\u306E\u30B5\u30D7\u30E9\u30A4\u30E4\u30FC\u3068\u306A\u308B\u7B2C4\u671F\u306B\u5206\u304B\u308C\u308B\u3002\u53B3\u5BC6\u306B\u3044\u3048\u3070\u3001\u53C2\u6226\u4F53\u5236\u306F\u3001\u7B2C1\u671F\u30FB\u7B2C2\u671F\u30FB\u7B2C4\u671F\u306E\u53C2\u6226\u306F\u672C\u7530\u6280\u7814\u5DE5\u696D\u53CA\u3073\u672C\u7530\u6280\u8853\u7814\u7A76\u6240\u306B\u3088\u308B\u3082\u306E\u3067\u3042\u308A\u30012006\u5E74\u4EE5\u964D\u3092\u542B\u3080\u7B2C3\u671F\u53C2\u6226\u306F\u672C\u7530\u6280\u7814\u5DE5\u696D\u306B\u3088\u308A1999\u5E74\u306B\u30A4\u30AE\u30EA\u30B9\u306B\u8A2D\u7ACB\u3055\u308C\u305F\u30DB\u30F3\u30C0\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C7\u30A3\u30D9\u30ED\u30C3\u30D7\u30E1\u30F3\u30C8\uFF08HRD\uFF09\u793E\u306B\u3088\u308B\u3082\u306E\u3067\u3042\u308B\u3002 \u306A\u304A\u30011964\u5E74\u304B\u30891968\u5E74\u306E\u5358\u72EC\u30C1\u30FC\u30E0\u306B\u3088\u308B\u53C2\u6226\uFF08\u7B2C1\u671F\uFF09\u3068\u30011983\u5E74\u304B\u30891992\u5E74\uFF08\u7B2C2\u671F\uFF09\u304A\u3088\u30732000\u5E74\u304B\u30892005\u5E74\uFF08\u7B2C3\u671F\uFF09\u306E\u30A8\u30F3\u30B8\u30F3\u4F9B\u7D66\u306B\u3088\u308B\u53C2\u6226\u30012015\u5E74\u304B\u3089\u306E\u30D1\u30EF\u30FC\u30E6\u30CB\u30C3\u30C8\u4F9B\u7D66\u306B\u3088\u308B\u53C2\u6226\uFF08\u7B2C4\u671F\uFF09\u306B\u95A2\u3057\u3066\u3082\u3053\u3053\u3067\u8FF0\u3079\u308B\u3002"@ja ,
+		"Honda Racing F1 \u2013 japo\u0144ski zesp\u00F3\u0142 i producent silnik\u00F3w Formu\u0142y 1, za\u0142o\u017Cony w 1962 roku. Honda uczestniczy\u0142a w Mistrzostwach \u015Awiata w sezonach 1964-1968. W sezonie 1983 powr\u00F3ci\u0142a w roli dostawcy silnik\u00F3w. Do ko\u0144ca sezonu 1992 wywalczy\u0142a \u0142\u0105cznie jedena\u015Bcie tytu\u0142\u00F3w. W sezonie 2006, po wykupieniu 100% udzia\u0142\u00F3w w zespole British American Racing, powr\u00F3ci\u0142a w roli konstruktora. Japo\u0144ski koncern postanowi\u0142 wycofa\u0107 si\u0119 z Formu\u0142y 1 pod koniec 2008 roku z powodu k\u0142opot\u00F3w finansowych. 6 marca Ross Brawn poinformowa\u0142 o przej\u0119ciu zespo\u0142u i przekszta\u0142ceniu go w Brawn GP. Ostatnia siedziba zespo\u0142u znajdowa\u0142a si\u0119 w Brackley w Wielkiej Brytanii, za\u015B ostatnimi kierowcami zespo\u0142u byli Jenson Button i Rubens Barrichello."@pl ,
+		"Honda Racing F1 Team est une \u00E9curie de Formule 1 et un manufacturier de moteurs de course automobile appartenant au constructeur automobile japonais Honda. L'\u00E9quipe est pr\u00E9sente en Formule 1 de 1964 \u00E0 1968, puis n'est plus engag\u00E9e qu'en tant que motoriste de 1983 \u00E0 2005 o\u00F9 elle est associ\u00E9e aux huit titres pilotes et constructeurs remport\u00E9s par Alain Prost et Ayrton Senna sur McLaren. Avec le rachat de l'\u00E9quipe britannique British American Racing, Honda fait son retour en tant qu'\u00E9curie compl\u00E8te, de 2006 \u00E0 la fin de la saison 2008, obtenant une unique victoire avec Jenson Button \u00E0 l'arriv\u00E9e du Grand Prix de Hongrie 2006. En 2015, Honda renoue avec son r\u00F4le de motoriste en fournissant \u00E0 nouveau McLaren Racing."@fr ,
+		"La Honda Racing F1 Team \u00E8 stata una scuderia giapponese di Formula 1 controllata dalla casa automobilistica Honda. L'impegno nell'automobilismo del costruttore giapponese ha preso il via gi\u00E0 nel 1964, pochi anni dopo l'ingresso stesso nella produzione di serie, e direttamente dalla Formula 1 in cui ha gareggiato sino al 1968; il ritorno \u00E8 avvenuto nella stagione 2006 con una scuderia a proprio nome (Honda Racing F1 Team) dopo l'acquisto completo della British American Racing di cui era partner tecnologico. I maggiori risultati la Honda li ha ottenuti per\u00F2 come fornitore di motori, in Formula 1 tra il 1983 e il 1992 e ancora (con meno fortuna) tra il 2000 e il 2008, e nella Indy Racing League di cui \u00E8 stata dal 2006 al 2011 fornitore unico. La scuderia, in vendita per problemi finanziari dal 4 dicembre 2008, \u00E8 stata ceduta a Ross Brawn, manager fino alla stagione 2008 della stessa. L'annuncio ufficiale della cessione \u00E8 stato fatto il 6 marzo 2009. Brawn ha ribattezzato la scuderia con il nome Brawn GP."@it ,
+		"Honda Racing F1 war ein Motorsport-Rennstall und Werksteam des japanischen Automobilkonzerns Honda, das von 1964 bis 1968 sowie von 2006 bis 2008 an der Formel-1-Weltmeisterschaft teilnahm. Der Rennstall operierte jeweils von einer Basis in Gro\u00DFbritannien. Das zweite Formel-1-Engagement war eine Fortsetzung des britischen BAR-Teams, das Honda 2005 \u00FCbernommen hatte. Als solches ist es zugleich ein Vorg\u00E4nger des gegenw\u00E4rtig in der Formel-1-Weltmeisterschaft gemeldeten Teams Mercedes Grand Prix. Daneben lieferte Honda mehrere Jahrzehnte lang Motoren f\u00FCr diverse Formel-1-Teams, unter anderem f\u00FCr Williams und McLaren. Die Verbindung zu McLaren war eine der erfolgreichsten Partnerschaften der Formel-1-Geschichte. Honda kehrte 2015 als Motorenlieferant f\u00FCr McLaren in die Formel 1 zur\u00FCck."@de ,
+		"Honda Racing F1 Team \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0432\u0435\u0440\u043D\u0443\u0432\u0448\u0430\u044F\u0441\u044F \u0432 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0438 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u0432\u044B\u043A\u0443\u043F\u0438\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 B.A.R.. 5 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2008 \u0431\u044B\u043B\u043E \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u043E, \u0447\u0442\u043E \u043A\u043E\u043D\u0446\u0435\u0440\u043D Honda \u0432\u044B\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u043D\u0430 \u043F\u0440\u043E\u0434\u0430\u0436\u0443, \u0438 Honda \u043F\u043E\u043A\u0438\u0434\u0430\u0435\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043A\u0430\u043A \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0435\u0439 \u0438 \u043A\u0430\u043A \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u0431\u043E\u043B\u0438\u0434\u043E\u0432."@ru ,
+		"Honda Racing F1 Team foi uma equipe de automobilismo que competiu no campeonato da F\u00F3rmula 1 a partir de 1964, fornecendo motores para a Lotus, abandonando a ideia posteriormente, estreando com equipe pr\u00F3pria, at\u00E9 1968. Em 1983, a empresa voltou, fornecendo motores \u00E0s equipes, mas saiu em 1992."@pt ,
+		"Honda Racing F1 Team was een Formule 1-team dat tussen 1964 en 1968 en tussen 2006 - 2008 meedeed aan het kampioenschap Formule 1, daarna werd het Brawn GP. Tegenwoordig is dat team omgedoopt tot Mercedes Grand Prix. Het team is ontstaan door de overname van BAR-Honda door de Japanse Hondafabriek, producent van onder meer auto's. Het team heeft, evenals zijn voorganger, zijn basis in Brackley, Groot-Brittanni\u00EB, en wordt geleid door Nick Fry en Geoff Willis. In 2006 wordt gereden met auto's van het type RA106, aangedreven door de RA806E-motor. De wagens hebben dezelfde witte uitmonstering als de Honda's die in de jaren zestig aan de races deelnamen. Op vrijdag 5 december 2008 werd bekendgemaakt dat Honda per direct uit de Formule 1 stapte. Het team noemde als reden de financi\u00EBle vooruitzichten. Honda-president Takeo Fukui liet weten dat de renstal een maand lang te koop zou staan. Indien de van origine Japanse renstal uit het Britse Brackley dan nog niet overgenomen zou zijn, zou het team definitief opgeheven worden.De geruchten gingen dat het uitblijven van positieve resultaten een van de oorzaken was voor de genomen beslissing maar dit werd ontkend. Overigens waren er drie serieuze ge\u00EFnteresseerden, en Jenson Button was verzekerd zijn van een stoeltje in 2009. Eerder in 2008 was dochterteam Super Aguri al genoodzaakt zich uit de Formule 1 terug te trekken vanwege financi\u00EBle problemen, wat dus een voorbode blijkt te zijn geweest voor het einde van het grote Honda F1. Op 6 maart 2009 werd bekend dat het (oude) team van Honda toch aan de start stond bij de eerste Grand Prix van 2009. Het team was overgenomen door voormalig teammanager Ross Brawn, die het team had omgedoopt in Brawn GP. De BGP 001 (de eerste Brawn GP bolide) verscheen zonder het nieuwe KERS-systeem aan de start in Melbourne.Vervolgens werd Brawn GP op 16 november 2009 overgenomen door Mercedes Benz, dat een meerderheidsbelang in de aandelen kocht. Het team heet voortaan Mercedes Grand Prix."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Honda-logo.svg?width=300> ;
+	dbo:wikiPageRevisionID	741343730 ;
+	dbo:wikiPageID	3204171 ;
+	dbp:races	88 ;
+	dbp:wins	3 ;
+	dbp:staff	dbr:Ross_Brawn ,
+		dbr:Nick_Fry ;
+	dbp:lastRace	2008 .
+wikipedia-en:Honda_in_Formula_One	foaf:primaryTopic	dbr:Honda_in_Formula_One .
+dbr:Honda_Racing_Green_Peace	dbo:wikiPageRedirects	dbr:Honda_in_Formula_One .
+dbr:Honda_Racing_F1_Team	dbo:wikiPageRedirects	dbr:Honda_in_Formula_One .
+dbr:Honda_f1	dbo:wikiPageRedirects	dbr:Honda_in_Formula_One .
+dbr:Earth_car	dbo:wikiPageRedirects	dbr:Honda_in_Formula_One .
+dbr:Lucky_Strike_Honda_Racing_F1_Team	dbo:wikiPageRedirects	dbr:Honda_in_Formula_One .
+dbr:Honda_in_F1	dbo:wikiPageRedirects	dbr:Honda_in_Formula_One .
+dbr:Phoenix_street_circuit	dbp:recordTeam	dbr:Honda_in_Formula_One .
+<http://dbpedia.org/resource/2006_Australian_Grand_Prix>	dbo:poleDriverTeam	dbr:Honda_in_Formula_One .
+dbr:Honda_Racing_F1	dbo:wikiPageRedirects	dbr:Honda_in_Formula_One .
+dbr:Italian_Grand_Prix	dbp:fastestLapTeam	dbr:Honda_in_Formula_One .
+dbr:Jenson_Button	<http://dbpedia.org/property/2016Team>	dbr:Honda_in_Formula_One .
+dbr:Honda_RA271	dbp:team	dbr:Honda_in_Formula_One .
+dbr:Super_Aguri_F1	dbp:engines	dbr:Honda_in_Formula_One .
+<http://dbpedia.org/resource/1968_United_States_Grand_Prix>	dbo:thirdTeam	dbr:Honda_in_Formula_One .
+dbr:McLaren_MP4-31	dbp:engineName	dbr:Honda_in_Formula_One .
+dbr:McLaren_MP4-30	dbp:engineName	dbr:Honda_in_Formula_One .
+dbr:Honda_RA272	dbp:constructor	dbr:Honda_in_Formula_One ;
+	dbp:engineName	dbr:Honda_in_Formula_One .
+dbr:Honda_RA099	dbp:constructor	dbr:Honda_in_Formula_One .
+dbr:Honda_RC100	dbp:constructor	dbr:Honda_in_Formula_One .
+dbr:Fernando_Alonso	<http://dbpedia.org/property/2016Team>	dbr:Honda_in_Formula_One .
+dbr:Brawn_GP	dbp:previousName	dbr:Honda_in_Formula_One .
+dbr:Honda_F1	dbo:wikiPageRedirects	dbr:Honda_in_Formula_One .

@@ -1,0 +1,137 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Onyx_Racing	dbo:wikiPageRedirects	dbr:Onyx_Grand_Prix .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Onyx_Grand_Prix	foaf:primaryTopic	dbr:Onyx_Grand_Prix .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Onyx_Grand_Prix	rdf:type	owl:Thing ,
+		dbo:SportsTeam ,
+		dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Onyx_Grand_Prix	rdf:type	yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneTeam ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Onyx_Grand_Prix	rdf:type	wikidata:Q43229 ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Onyx_Grand_Prix	rdf:type	ns8:Agent ,
+		yago:Party110402824 .
+@prefix schema:	<http://schema.org/> .
+dbr:Onyx_Grand_Prix	rdf:type	schema:Organization ,
+		wikidata:Q24229398 ,
+		ns8:SocialPerson ,
+		yago:WikicatFormulaTwoConstructors ,
+		schema:SportsTeam ,
+		dbo:Organisation .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Onyx_Grand_Prix	rdfs:label	"Onyx Grand Prix"@pt ,
+		"Onyx Grand Prix"@de ,
+		"Onyx Grand Prix"@en ,
+		"Onyx (Formule 1)"@nl ,
+		"\u30AA\u30CB\u30AF\u30B9\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA"@ja ,
+		"Onyx Grand Prix"@fr ,
+		"Onyx Race Engineering"@it ,
+		"Onyx Grand Prix"@pl ,
+		"Onyx Grand Prix"@ru ,
+		"Onyx Grand Prix"@es ;
+	rdfs:comment	"Onyx Race Engineering (ORE) fue un constructor Brit\u00E1nico de F\u00F3rmula 1. Inicialmente era un prometedor equipo con potencial pero por una serie de malas decisiones, el equipo termin\u00F3 en un rotundo fracaso."@es ,
+		"Onyx Grand Prix \u2013 by\u0142y brytyjski zesp\u00F3\u0142 wy\u015Bcigowy i konstruktor Formu\u0142y 1. Zesp\u00F3\u0142 na startowa\u0142 w Mistrzostwach Europy Formu\u0142y 2 od 1979 do 1984. P\u00F3\u017Aniej w sezonach 1985-1988 zesp\u00F3\u0142 uczestniczy\u0142 w Formule 3000, kt\u00F3ra zast\u0105pi\u0142a F2. Po sezonie 1988 Onyx wycofa\u0142 si\u0119 z F3000 i podj\u0105\u0142 decyzj\u0119 o startach w Formule 1. W tej serii zesp\u00F3\u0142 startowa\u0142 w sezonach 1989-1990. Onyx w siedemnastu wy\u015Bcigach do kt\u00F3rych si\u0119 zakwalifikowa\u0142 zdoby\u0142 sze\u015B\u0107 punkt\u00F3w. Najwi\u0119kszym sukcesem zespo\u0142u by\u0142o trzecie miejsce zdobyte przez Stefana Johanssona podczas wy\u015Bcigu o Grand Prix Portugalii 1989."@pl ,
+		"Onyx Grand Prix foi uma equipe de F\u00F3rmula 1 brit\u00E2nica fundada por Mike Earle e Greg Field. Disputou as temporadas de 1989 e 1990."@pt ,
+		"Onyx war der Name eines britischen Motorsport-Rennteams, das in der Formel 2, Formel 3000 und Formel 1 angetreten ist. Das Team war ans\u00E4ssig in Littlehampton, Gro\u00DFbritannien."@de ,
+		"Onyx is een voormalig autoraceteam dat in 1989 en 1990 in de Formule 1 uitkwam en daarin een podiumplaats scoorde."@nl ,
+		"La Onyx Race Engineering \u00E8 una scuderia automobilistica inglese fondata da Mike Earle, nota soprattutto per la sua partecipazione alla Formula 1, dove ha corso nelle stagioni 1989 e 1990."@it ,
+		"\u30AA\u30CB\u30AF\u30B9\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08Onyx Grand Prix\uFF09\u306F\u30011989\u5E74\u304B\u30891990\u5E74\u306B\u304B\u3051\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u5275\u7ACB\u8005\u306F\u30DE\u30A4\u30AF\u30FB\u30A2\u30FC\u30EB\u3002"@ja ,
+		"Onyx, qui deviendra plus tard Monteverdi est une ancienne \u00E9curie de sport automobile anglaise qui a disput\u00E9 en 1989 et en 1990 le championnat du monde de Formule 1. En 17 Grands Prix, Onyx-Monteverdi a inscrit un total de 10 points et d\u00E9croch\u00E9 un podium (Johansson troisi\u00E8me du Grand Prix du Portugal \u00E0 Estoril en 1989)."@fr ,
+		"Onyx Grand Prix \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u0430\u044F \u043F\u043E \u0441\u0432\u043E\u0438\u043C \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F\u043C \u0432 \u0440\u044F\u0434\u0435 \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u0445 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0441\u0435\u0440\u0438\u0439. \u0411\u0430\u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0440\u0430\u0441\u043F\u043E\u043B\u0430\u0433\u0430\u043B\u0430\u0441\u044C \u0432 \u0417\u0430\u043F\u0430\u0434\u043D\u043E\u043C \u0421\u0443\u0441\u0441\u0435\u043A\u0441\u0435, \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F."@ru ,
+		"Onyx Grand Prix is a former Formula One constructor from Britain that competed in the 1989 and 1990 Formula One seasons. The team participated in 26 World Championship Grands Prix (25 starts) and scored six World Constructors' Championship points. Its best result was third place, for Stefan Johansson, in the 1989 Portuguese Grand Prix."@en .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Onyx_Grand_Prix	owl:sameAs	dbpedia-wikidata:Q172109 ,
+		wikidata:Q172109 ,
+		<http://nl.dbpedia.org/resource/Onyx_(Formule_1)> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Onyx_Grand_Prix	owl:sameAs	dbpedia-pl:Onyx_Grand_Prix .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Onyx_Grand_Prix	owl:sameAs	dbpedia-fr:Onyx_Grand_Prix .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Onyx_Grand_Prix	owl:sameAs	dbpedia-pt:Onyx_Grand_Prix .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Onyx_Grand_Prix	owl:sameAs	dbpedia-es:Onyx_Grand_Prix ,
+		<http://rdf.freebase.com/ns/m.04n6lv> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Onyx_Grand_Prix	owl:sameAs	dbpedia-it:Onyx_Race_Engineering ,
+		dbr:Onyx_Grand_Prix .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Onyx_Grand_Prix	owl:sameAs	dbpedia-de:Onyx_Grand_Prix ,
+		<http://ja.dbpedia.org/resource/\u30AA\u30CB\u30AF\u30B9\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Onyx_Grand_Prix	owl:sameAs	yago-res:Onyx_Grand_Prix .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Onyx_Grand_Prix	dct:subject	dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_3000_teams ,
+		dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_Two_entrants ;
+	foaf:name	"Onyx Grand Prix"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Onyx_Grand_Prix .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Onyx_Grand_Prix	dbp:races	26 ;
+	dbp:founders	"Mike Earle"^^xsd:string ,
+		"Greg Field"^^xsd:string ;
+	dbp:debut	1989 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Stefan Johansson"^^xsd:string ,
+		"Bertrand Gachot"^^xsd:string ,
+		"JJ Lehto"^^xsd:string ,
+		"Gregor Foitek"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:shortName	"Onyx"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Onyx_Grand_Prix	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Onyx_Grand_Prix?oldid=737668928> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20061231162358/http:/www.f1rejects.com/teams/onyx/index.html> ;
+	dbp:staff	"Jean-Pierre Van Rossem"^^xsd:string ,
+		"Mike Earle"^^xsd:string ,
+		"Greg Field"^^xsd:string ,
+		"Paul Shakespeare"^^xsd:string ,
+		"Jo Chamberlain"^^xsd:string ,
+		"Alan Jenkins"^^xsd:string ,
+		"Martin Dickson"^^xsd:string ,
+		"Peter Rheinhardt"^^xsd:string ,
+		"Peter Monteverdi"^^xsd:string ;
+	dbp:base	"Westergate House, West Sussex, United Kingdom"^^xsd:string ;
+	dbp:engines	dbr:Ford_Motor_Company ;
+	dbo:abstract	"Onyx Grand Prix \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u0430\u044F \u043F\u043E \u0441\u0432\u043E\u0438\u043C \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F\u043C \u0432 \u0440\u044F\u0434\u0435 \u043A\u043E\u043B\u044C\u0446\u0435\u0432\u044B\u0445 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0441\u0435\u0440\u0438\u0439. \u0411\u0430\u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0440\u0430\u0441\u043F\u043E\u043B\u0430\u0433\u0430\u043B\u0430\u0441\u044C \u0432 \u0417\u0430\u043F\u0430\u0434\u043D\u043E\u043C \u0421\u0443\u0441\u0441\u0435\u043A\u0441\u0435, \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F."@ru ,
+		"Onyx Grand Prix \u2013 by\u0142y brytyjski zesp\u00F3\u0142 wy\u015Bcigowy i konstruktor Formu\u0142y 1. Zesp\u00F3\u0142 na startowa\u0142 w Mistrzostwach Europy Formu\u0142y 2 od 1979 do 1984. P\u00F3\u017Aniej w sezonach 1985-1988 zesp\u00F3\u0142 uczestniczy\u0142 w Formule 3000, kt\u00F3ra zast\u0105pi\u0142a F2. Po sezonie 1988 Onyx wycofa\u0142 si\u0119 z F3000 i podj\u0105\u0142 decyzj\u0119 o startach w Formule 1. W tej serii zesp\u00F3\u0142 startowa\u0142 w sezonach 1989-1990. Onyx w siedemnastu wy\u015Bcigach do kt\u00F3rych si\u0119 zakwalifikowa\u0142 zdoby\u0142 sze\u015B\u0107 punkt\u00F3w. Najwi\u0119kszym sukcesem zespo\u0142u by\u0142o trzecie miejsce zdobyte przez Stefana Johanssona podczas wy\u015Bcigu o Grand Prix Portugalii 1989."@pl ,
+		"\u30AA\u30CB\u30AF\u30B9\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA\uFF08Onyx Grand Prix\uFF09\u306F\u30011989\u5E74\u304B\u30891990\u5E74\u306B\u304B\u3051\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u5275\u7ACB\u8005\u306F\u30DE\u30A4\u30AF\u30FB\u30A2\u30FC\u30EB\u3002"@ja ,
+		"Onyx Race Engineering (ORE) fue un constructor Brit\u00E1nico de F\u00F3rmula 1. Inicialmente era un prometedor equipo con potencial pero por una serie de malas decisiones, el equipo termin\u00F3 en un rotundo fracaso."@es ,
+		"La Onyx Race Engineering \u00E8 una scuderia automobilistica inglese fondata da Mike Earle, nota soprattutto per la sua partecipazione alla Formula 1, dove ha corso nelle stagioni 1989 e 1990."@it ,
+		"Onyx Grand Prix is a former Formula One constructor from Britain that competed in the 1989 and 1990 Formula One seasons. The team participated in 26 World Championship Grands Prix (25 starts) and scored six World Constructors' Championship points. Its best result was third place, for Stefan Johansson, in the 1989 Portuguese Grand Prix."@en ,
+		"Onyx is een voormalig autoraceteam dat in 1989 en 1990 in de Formule 1 uitkwam en daarin een podiumplaats scoorde."@nl ,
+		"Onyx war der Name eines britischen Motorsport-Rennteams, das in der Formel 2, Formel 3000 und Formel 1 angetreten ist. Das Team war ans\u00E4ssig in Littlehampton, Gro\u00DFbritannien."@de ,
+		"Onyx, qui deviendra plus tard Monteverdi est une ancienne \u00E9curie de sport automobile anglaise qui a disput\u00E9 en 1989 et en 1990 le championnat du monde de Formule 1. En 17 Grands Prix, Onyx-Monteverdi a inscrit un total de 10 points et d\u00E9croch\u00E9 un podium (Johansson troisi\u00E8me du Grand Prix du Portugal \u00E0 Estoril en 1989)."@fr ,
+		"Onyx Grand Prix foi uma equipe de F\u00F3rmula 1 brit\u00E2nica fundada por Mike Earle e Greg Field. Disputou as temporadas de 1989 e 1990."@pt ;
+	dbo:wikiPageRevisionID	737668928 ;
+	dbo:wikiPageID	1262622 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Onyx_Grand_Prix	ns23:hypernym	dbr:Constructor ;
+	dbp:lastRace	1990 .
+dbr:Bertrand_Gachot	<http://dbpedia.org/property/team(s)_>	dbr:Onyx_Grand_Prix .
+<http://dbpedia.org/resource/Onyx_(racing_team)>	dbo:wikiPageRedirects	dbr:Onyx_Grand_Prix .
+<http://dbpedia.org/resource/Onyx_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Onyx_Grand_Prix .

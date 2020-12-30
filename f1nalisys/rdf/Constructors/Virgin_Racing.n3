@@ -1,0 +1,146 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Nick_Wirth	dbo:knownFor	dbr:Virgin_Racing .
+<http://dbpedia.org/resource/2016_Paris_ePrix>	dbo:poleDriverTeam	dbr:Virgin_Racing ;
+	dbo:secondTeam	dbr:Virgin_Racing .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Virgin_MVR-02	dbp:team	dbr:Virgin_Racing ;
+	dbp:constructor	dbr:Virgin_Racing .
+dbr:Virgin_VR-01	dbp:team	dbr:Virgin_Racing ;
+	dbp:constructor	dbr:Virgin_Racing .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Virgin_Racing	foaf:primaryTopic	dbr:Virgin_Racing .
+<http://dbpedia.org/resource/Virgin_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Virgin_Racing .
+<http://dbpedia.org/resource/2014_Beijing_ePrix>	dbo:thirdTeam	dbr:Virgin_Racing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Marussia_F1	rdfs:seeAlso	dbr:Virgin_Racing ;
+	dbp:previousName	dbr:Virgin_Racing .
+dbr:Manor_GP	dbo:wikiPageRedirects	dbr:Virgin_Racing .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Virgin_Racing	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Virgin_Racing	rdf:type	yago:Person100007846 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:Object100002684 ,
+		dbo:Agent ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q43229 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		dbo:FormulaOneTeam .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Virgin_Racing	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Virgin_Racing	rdf:type	schema:SportsTeam ,
+		yago:Organism100004475 ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		schema:Organization .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Virgin_Racing	rdf:type	ns11:SocialPerson ,
+		dbo:SportsTeam ,
+		ns11:Agent ,
+		dbo:Organisation ;
+	rdfs:label	"Virgin Racing"@es ,
+		"\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0"@ja ,
+		"Virgin Racing"@fr ,
+		"Virgin Racing"@pl ,
+		"Virgin Racing"@pt ,
+		"Virgin Racing"@en ,
+		"Virgin Racing"@nl ,
+		"\u0412\u0451\u0440\u0434\u0436\u0438\u043D (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ;
+	rdfs:comment	"Virgin Racing \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0430\u044F \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 2010 \u0438 2011 \u0441\u0435\u0437\u043E\u043D\u0430\u0445. \u041F\u0440\u0430\u0432\u043E \u043D\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435 \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0430 12 \u0438\u044E\u043D\u044F 2009 \u0433\u043E\u0434\u0430, \u0442\u0430\u043A \u0436\u0435 \u043A\u0430\u043A \u0438 \u0434\u0432\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u043D\u043E\u0432\u0438\u0447\u043A\u043E\u0432. \u041F\u0440\u043E\u043E\u0431\u0440\u0430\u0437 \u043A\u043E\u043C\u0430\u043D\u0434\u044B, Manor Motorsport, \u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u0430 \u043A\u0430\u043A \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3, \u043D\u044B\u043D\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044E\u0449\u0430\u044F \u0432 \u0415\u0432\u0440\u043E\u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0434\u043E\u043B\u0436\u043D\u0430 \u0431\u044B\u043B\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0442\u044C \u043F\u043E\u0434 \u0438\u043C\u0435\u043D\u0435\u043C Manor Grand Prix, \u043D\u043E \u043A \u043D\u0430\u0447\u0430\u043B\u0443 \u0441\u0435\u0437\u043E\u043D\u0430 2010 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043A\u0443\u043F\u043B\u0435\u043D\u0430 \u0420\u0438\u0447\u0430\u0440\u0434\u043E\u043C \u0411\u0440\u044D\u043D\u0441\u043E\u043D\u043E\u043C \u0438 \u0441\u043C\u0435\u043D\u0438\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043D\u0430 Virgin Racing. \u041B\u0438\u0446\u0435\u043D\u0437\u0438\u044F \u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0431\u044B\u043B\u0430 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F. \u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Marussia Motors \u0432 \u043B\u0438\u0446\u0435 \u0435\u0451 \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F \u0438 \u043E\u0441\u043D\u043E\u0432\u0430\u0442\u0435\u043B\u044F \u041D\u0438\u043A\u043E\u043B\u0430\u044F \u0424\u043E\u043C\u0435\u043D\u043A\u043E, \u0432 2010 \u0433\u043E\u0434\u0443 \u044F\u0432\u043B\u044F\u043B\u0430\u0441\u044C \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B. \u041A\u0440\u043E\u043C\u0435 \u0442\u043E\u0433\u043E, \u0424\u043E\u043C\u0435\u043D\u043A\u043E \u0442\u0430\u043A\u0436\u0435 \u0432\u044B\u043F\u043E\u043B\u043D\u044F\u043B \u0440\u043E\u043B\u044C \u0433\u043B\u0430\u0432\u044B \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u043D\u043E\u0433\u043E \u0434\u0435\u043F\u0430\u0440\u0442\u0430\u043C\u0435\u043D\u0442\u0430. \u0412 \u043A\u043E\u043D\u0446\u0435 2010 \u0433\u043E\u0434\u0430 \u0411\u0440\u044D\u043D\u0441\u043E\u043D \u043F\u0440\u043E\u0434\u0430\u043B \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Marussia Motors \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u044C\u043D\u044B\u0439 \u043F\u0430\u043A\u0435\u0442 \u0430\u043A\u0446\u0438\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B, \u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432 2011 \u0441\u0435\u0437\u043E\u043D\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430"@ru ,
+		"Virgin Racing est une \u00E9curie automobile britannique, propri\u00E9t\u00E9 de Virgin Group, cr\u00E9\u00E9e en 2009 apr\u00E8s le rachat de Manor Grand Prix, \u00E9manation de l'\u00E9curie britannique Manor Motorsport pour s'engager au championnat du monde de Formule 1 2010. Depuis 2014, l'\u00E9curie Virgin court en Formule E, le championnat des monoplaces \u00E9lectriques, sous le nom Virgin Racing Formula E Team, puis DS Virgin Racing Formula E Team apr\u00E8s accord en 2015 avec le constructeur DS."@fr ,
+		"Virgin Racing subsequently Marussia Virgin Racing was a Formula One racing team which was under management of Manor Motorsport, Wirth Research and Richard Branson's Virgin Group which competed in Formula One in 2010 and 2011. It scored no points and finished last in the Constructor's Championship for the two years the team competed. Marussia Virgin Racing was renamed to Marussia F1 Team at the end of 2011. The company retained the base in Dinnington, as well as setting up the technical base in Banbury for the construction of the racing cars."@en ,
+		"\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0 (\u82F1: Virgin Racing )\u306F\u30012010\u5E74\u304B\u30892011\u5E74\u307E\u3067\u53C2\u6226\u3057\u3066\u3044\u305FF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30022011\u5E74\u306EF1\u4E16\u754C\u9078\u624B\u6A29\u3067\u306F\u30DE\u30EB\u30B7\u30A2\u30FB\u30E2\u30FC\u30BF\u30FC\u30BA\u3078\u4E00\u90E8\u682A\u5F0F\u58F2\u5374\u3092\u884C\u306A\u3063\u3066\u3044\u305F\u70BA\u30DE\u30EB\u30B7\u30E3\u30FB\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0 (\u82F1: Marussia Virgin Racing) \u3068\u3044\u3046\u540D\u79F0\u3067\u53C2\u6226\u3057\u3066\u3044\u305F\u3002 F1\u304B\u3089\u306F\u3059\u3067\u306B\u64A4\u9000\u3057\u3066\u3044\u308B\u304C\u30012014\u5E749\u6708\u3088\u308A\u59CB\u307E\u3063\u305F\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9E\u9078\u624B\u6A29\u306B\u53C2\u6226\u4E2D\u3002"@ja ,
+		"Virgin Racing, posteriormente Marussia Virgin Racing, foi uma equipe de automobilismo que disputou a F\u00F3rmula 1. A equipe estava sob a gest\u00E3o da Manor Motorsport, Wirth Research e Richard Branson da Virgin Group, que competiu na F\u00F3rmula 1 em 2010 e 2011. Ela n\u00E3o marcou nenhum ponto e terminou em \u00FAltimo no Campeonato de Construtores nos dois anos em que a equipe competiu. A Marussia Virgin Racing foi renomeada para Marussia F1 Team no final de 2011. A empresa manteve a base em Dinnington, bem como a cria\u00E7\u00E3o da base t\u00E9cnica em Banbury para a constru\u00E7\u00E3o dos carros de corrida."@pt ,
+		"(Marussia) Virgin Racing  was van origine een Brits raceteam, dat sinds 2010 deelnam aan het wereldkampioenschap Formule 1. In 2011 werd het team overgenomen door het Russische bedrijf Marussia, dat titelsponsor werd van het toenmalige Virgin Racing. In 2012 veranderde de naam van Marussia Virgin Racing naar Marussia F1 Team."@nl ,
+		"Virgin Racing es una escuder\u00EDa brit\u00E1nica que en el pasado particip\u00F3 en el campeonato mundial de F\u00F3rmula 1, y que desde la temporada 2014-15 participar\u00E1 en el campeonato mundial de F\u00F3rmula E bajo la denominaci\u00F3n Virgin Racing Formula E Team. En su pasado con la F\u00F3rmula 1, particip\u00F3 en la especialidad en las temporadas 2010 y 2011. En su segundo a\u00F1o compiti\u00F3 bajo el patrocinio de Marussia Motors, denomin\u00E1ndose Marussia Virgin Racing y participando con nacionalidad rusa."@es ,
+		"Virgin Racing (Manor Grand Prix w 2009, Marussia Virgin Racing w 2011) \u2013 brytyjski (w 2011 roku rosyjski) zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy utworzony w 2009 roku, kt\u00F3ry zadebiutowa\u0142 w sezonie 2010 mistrzostw \u015Bwiata Formu\u0142y 1 podczas Grand Prix Bahrajnu. Najwy\u017Csz\u0105 pozycj\u0105 w historii teamu by\u0142o 14. miejsce w Grand Prix Malezji i Grand Prix Japonii (Lucas di Grassi i Timo Glock) w 2010 roku i Grand Prix Australii i Grand Prix Kanady w 2011 roku (J\u00E9r\u00F4me d'Ambrosio), w kwalifikacjach najlepszym osi\u0105gni\u0119ciem by\u0142o 16. miejsce, kt\u00F3re zosta\u0142o wywalczone przez Glocka podczas Grand Prix Malezji w 2010 roku."@pl ;
+	rdfs:seeAlso	<http://dbpedia.org/resource/2010_Formula_One_season> ,
+		<http://dbpedia.org/resource/2011_Formula_One_season> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Virgin_Racing	owl:sameAs	yago-res:Virgin_Racing .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Virgin_Racing	owl:sameAs	dbpedia-wikidata:Q179408 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Virgin_Racing	owl:sameAs	dbpedia-nl:Virgin_Racing .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Virgin_Racing	owl:sameAs	dbpedia-cs:Virgin_Racing ,
+		dbr:Virgin_Racing ,
+		<http://rdf.freebase.com/ns/m.065yz23> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Virgin_Racing	owl:sameAs	dbpedia-fr:Virgin_Racing .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Virgin_Racing	owl:sameAs	dbpedia-pl:Virgin_Racing ,
+		<http://ja.dbpedia.org/resource/\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Virgin_Racing	owl:sameAs	dbpedia-pt:Virgin_Racing ,
+		wikidata:Q179408 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Virgin_Racing	owl:sameAs	dbpedia-es:Virgin_Racing .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Virgin_Racing	dct:subject	dbc:Marussia_Motors ,
+		dbc:Virgin_Group ,
+		dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Russian_auto_racing_teams ,
+		dbc:Companies_based_in_South_Yorkshire ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ;
+	foaf:name	"(2010)"@en ,
+		"(2011)"@en ,
+		"Virgin Racing"@en ,
+		"Marussia Virgin Racing"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Virgin_Racing ;
+	dbp:races	38 ;
+	dbp:debut	2010 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Timo Glock"^^xsd:string ,
+		"Lucas di Grassi"^^xsd:string ,
+		"J\u00E9r\u00F4me d'Ambrosio"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:shortName	"Virgin"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Virgin_Racing	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Virgin_Racing?oldid=728252804> ;
+	dbp:staff	dbr:Pat_Symonds ,
+		dbr:Nikolai_Fomenko ,
+		<http://dbpedia.org/resource/John_Booth_(auto_racing)> ,
+		dbr:Alex_Tai ,
+		dbr:Richard_Branson ,
+		dbr:Nick_Wirth ,
+		dbr:Etienne_de_Villiers ,
+		dbr:Graeme_Lowdon ;
+	dbp:base	"Dinnington, South Yorkshire, United Kingdom"^^xsd:string ;
+	dbo:abstract	"Virgin Racing est une \u00E9curie automobile britannique, propri\u00E9t\u00E9 de Virgin Group, cr\u00E9\u00E9e en 2009 apr\u00E8s le rachat de Manor Grand Prix, \u00E9manation de l'\u00E9curie britannique Manor Motorsport pour s'engager au championnat du monde de Formule 1 2010. Le 12 juin 2009, l'\u00E9curie est inscrite pour le championnat du monde de Formule 1 2010 sous le nom \u00AB Manor Grand Prix \u00BB et poursuit ses engagements dans les autres formules de course. Le 17 novembre 2009, Virgin Group, le sponsor principal de l'\u00E9curie, prend une participation dans le capital de l'\u00E9curie qui est rebaptis\u00E9e et engag\u00E9e en Formule 1 sous l'appellation \u00AB Virgin Racing \u00BB. Fin 2010, Marussia Motors, commanditaire principal de l'\u00E9curie, acquiert environ 40 % du capital de l'\u00E9quipe qui est alors engag\u00E9e en championnat du monde sous le nom \u00AB Marussia Virgin Racing \u00BB. L'\u00E9curie s'engage en 2011 sous licence russe, devenant la seconde \u00E9curie de Formule 1 russe apr\u00E8s Midland F1 Racing. Fin 2011, Marussia acquiert l'ensemble de l'\u00E9quipe et, avec l'accord des autres \u00E9curies, la renomme Marussia F1 Team lors de son engagement en championnat du monde en 2012. Depuis 2014, l'\u00E9curie Virgin court en Formule E, le championnat des monoplaces \u00E9lectriques, sous le nom Virgin Racing Formula E Team, puis DS Virgin Racing Formula E Team apr\u00E8s accord en 2015 avec le constructeur DS."@fr ,
+		"Virgin Racing subsequently Marussia Virgin Racing was a Formula One racing team which was under management of Manor Motorsport, Wirth Research and Richard Branson's Virgin Group which competed in Formula One in 2010 and 2011. It scored no points and finished last in the Constructor's Championship for the two years the team competed. The team was one of the four granted an entry for the 2010 season, and was originally known as Manor Grand Prix, before being renamed Virgin Racing when Virgin brought a shareholding and naming rights at the end of 2009. The team's original car, the Virgin VR-01, was the first in Formula One to be developed using only computational fluid dynamics, and was driven by Timo Glock and Lucas di Grassi. At the end of the season, Marussia Motors bought a stake in the team and became the main sponsor, with the team known as Marussia Virgin Racing and racing under a Russian licence for 2011. The partnership with Wirth ended midway though 2011, and a new technical structure bringing car development in-house was set up for 2012. Marussia Virgin Racing was renamed to Marussia F1 Team at the end of 2011. The company retained the base in Dinnington, as well as setting up the technical base in Banbury for the construction of the racing cars."@en ,
+		"Virgin Racing \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0430\u044F \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 2010 \u0438 2011 \u0441\u0435\u0437\u043E\u043D\u0430\u0445. \u041F\u0440\u0430\u0432\u043E \u043D\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435 \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0430 12 \u0438\u044E\u043D\u044F 2009 \u0433\u043E\u0434\u0430, \u0442\u0430\u043A \u0436\u0435 \u043A\u0430\u043A \u0438 \u0434\u0432\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u043D\u043E\u0432\u0438\u0447\u043A\u043E\u0432. \u041F\u0440\u043E\u043E\u0431\u0440\u0430\u0437 \u043A\u043E\u043C\u0430\u043D\u0434\u044B, Manor Motorsport, \u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u0430 \u043A\u0430\u043A \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3, \u043D\u044B\u043D\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044E\u0449\u0430\u044F \u0432 \u0415\u0432\u0440\u043E\u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0434\u043E\u043B\u0436\u043D\u0430 \u0431\u044B\u043B\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0442\u044C \u043F\u043E\u0434 \u0438\u043C\u0435\u043D\u0435\u043C Manor Grand Prix, \u043D\u043E \u043A \u043D\u0430\u0447\u0430\u043B\u0443 \u0441\u0435\u0437\u043E\u043D\u0430 2010 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043A\u0443\u043F\u043B\u0435\u043D\u0430 \u0420\u0438\u0447\u0430\u0440\u0434\u043E\u043C \u0411\u0440\u044D\u043D\u0441\u043E\u043D\u043E\u043C \u0438 \u0441\u043C\u0435\u043D\u0438\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043D\u0430 Virgin Racing. \u041B\u0438\u0446\u0435\u043D\u0437\u0438\u044F \u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0431\u044B\u043B\u0430 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F. \u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Marussia Motors \u0432 \u043B\u0438\u0446\u0435 \u0435\u0451 \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F \u0438 \u043E\u0441\u043D\u043E\u0432\u0430\u0442\u0435\u043B\u044F \u041D\u0438\u043A\u043E\u043B\u0430\u044F \u0424\u043E\u043C\u0435\u043D\u043A\u043E, \u0432 2010 \u0433\u043E\u0434\u0443 \u044F\u0432\u043B\u044F\u043B\u0430\u0441\u044C \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B. \u041A\u0440\u043E\u043C\u0435 \u0442\u043E\u0433\u043E, \u0424\u043E\u043C\u0435\u043D\u043A\u043E \u0442\u0430\u043A\u0436\u0435 \u0432\u044B\u043F\u043E\u043B\u043D\u044F\u043B \u0440\u043E\u043B\u044C \u0433\u043B\u0430\u0432\u044B \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u043D\u043E\u0433\u043E \u0434\u0435\u043F\u0430\u0440\u0442\u0430\u043C\u0435\u043D\u0442\u0430. \u0412 \u043A\u043E\u043D\u0446\u0435 2010 \u0433\u043E\u0434\u0430 \u0411\u0440\u044D\u043D\u0441\u043E\u043D \u043F\u0440\u043E\u0434\u0430\u043B \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Marussia Motors \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u044C\u043D\u044B\u0439 \u043F\u0430\u043A\u0435\u0442 \u0430\u043A\u0446\u0438\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B, \u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432 2011 \u0441\u0435\u0437\u043E\u043D\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u043F\u043E\u0434 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u043C Marussia Virgin Racing. \u041D\u0430 \u043B\u043E\u043D\u0434\u043E\u043D\u0441\u043A\u043E\u0439 \u043F\u0440\u0435\u0437\u0435\u043D\u0442\u0430\u0446\u0438\u0438 \u0448\u0430\u0441\u0441\u0438 MVR-02 \u0431\u044B\u043B\u043E \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u043E, \u0447\u0442\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u0443\u0434\u0435\u0442 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0442\u044C \u043F\u043E\u0434 \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u043C \u0444\u043B\u0430\u0433\u043E\u043C, \u043E\u0434\u043D\u0430\u043A\u043E \u0434\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u044D\u0442\u043E\u0433\u043E \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0442\u043E\u043B\u044C\u043A\u043E \u043A \u043D\u0430\u0447\u0430\u043B\u0443 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0435\u0433\u043E, 2012 \u0441\u0435\u0437\u043E\u043D\u0430, \u0430 \u0432\u0435\u0441\u044C 2011 \u0441\u0435\u0437\u043E\u043D \u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u043E\u0441\u0442\u0430\u043B\u0430\u0441\u044C \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0439, \u0448\u0430\u0441\u0441\u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0432\u0441\u0435 \u0442\u0430\u043A\u0436\u0435 \u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043B\u0438\u0441\u044C Virgin. \u041D\u0430\u043A\u043E\u043D\u0435\u0446, \u043F\u0435\u0440\u0435\u0434 \u0441\u0435\u0437\u043E\u043D\u043E\u043C 2012 \u0433\u043E\u0434\u0430 \u0411\u0440\u044D\u043D\u0441\u043E\u043D \u043F\u0440\u043E\u0434\u0430\u043B \u0438 \u043E\u0441\u0442\u0430\u0432\u0448\u0438\u0435\u0441\u044F \u0430\u043A\u0446\u0438\u0438, \u0438 \u0432\u0441\u043B\u0435\u0434\u0441\u0442\u0432\u0438\u0435 \u043F\u0435\u0440\u0435\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0441 \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u043E\u0439 \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u043E\u0439 \u043B\u0438\u0446\u0435\u043D\u0437\u0438\u0435\u0439 \u043E\u043D\u0430 \u0431\u044B\u043B\u0430 \u043F\u0440\u0435\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0430 \u0432 \u043D\u043E\u0432\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u041C\u0430\u0440\u0443\u0441\u044F, \u041E\u0431\u0430 \u0441\u0435\u0437\u043E\u043D\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 Virgin \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0438 Cosworth."@ru ,
+		"Virgin Racing es una escuder\u00EDa brit\u00E1nica que en el pasado particip\u00F3 en el campeonato mundial de F\u00F3rmula 1, y que desde la temporada 2014-15 participar\u00E1 en el campeonato mundial de F\u00F3rmula E bajo la denominaci\u00F3n Virgin Racing Formula E Team. En su pasado con la F\u00F3rmula 1, particip\u00F3 en la especialidad en las temporadas 2010 y 2011. En su segundo a\u00F1o compiti\u00F3 bajo el patrocinio de Marussia Motors, denomin\u00E1ndose Marussia Virgin Racing y participando con nacionalidad rusa. Fue comprado por Richard Branson, propietario de Virgin, a John Booth y Nick Wirth (antiguo due\u00F1o de Simtek), que hab\u00EDan firmado un acuerdo para usar motores Cosworth."@es ,
+		"\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0 (\u82F1: Virgin Racing )\u306F\u30012010\u5E74\u304B\u30892011\u5E74\u307E\u3067\u53C2\u6226\u3057\u3066\u3044\u305FF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30022011\u5E74\u306EF1\u4E16\u754C\u9078\u624B\u6A29\u3067\u306F\u30DE\u30EB\u30B7\u30A2\u30FB\u30E2\u30FC\u30BF\u30FC\u30BA\u3078\u4E00\u90E8\u682A\u5F0F\u58F2\u5374\u3092\u884C\u306A\u3063\u3066\u3044\u305F\u70BA\u30DE\u30EB\u30B7\u30E3\u30FB\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0 (\u82F1: Marussia Virgin Racing) \u3068\u3044\u3046\u540D\u79F0\u3067\u53C2\u6226\u3057\u3066\u3044\u305F\u3002 F1\u304B\u3089\u306F\u3059\u3067\u306B\u64A4\u9000\u3057\u3066\u3044\u308B\u304C\u30012014\u5E749\u6708\u3088\u308A\u59CB\u307E\u3063\u305F\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9E\u9078\u624B\u6A29\u306B\u53C2\u6226\u4E2D\u3002"@ja ,
+		"(Marussia) Virgin Racing  was van origine een Brits raceteam, dat sinds 2010 deelnam aan het wereldkampioenschap Formule 1. In 2011 werd het team overgenomen door het Russische bedrijf Marussia, dat titelsponsor werd van het toenmalige Virgin Racing. In 2012 veranderde de naam van Marussia Virgin Racing naar Marussia F1 Team."@nl ,
+		"Virgin Racing, posteriormente Marussia Virgin Racing, foi uma equipe de automobilismo que disputou a F\u00F3rmula 1. A equipe estava sob a gest\u00E3o da Manor Motorsport, Wirth Research e Richard Branson da Virgin Group, que competiu na F\u00F3rmula 1 em 2010 e 2011. Ela n\u00E3o marcou nenhum ponto e terminou em \u00FAltimo no Campeonato de Construtores nos dois anos em que a equipe competiu. A equipe foi uma das quatro que receberam uma entrada para a temporada de 2010, e foi originalmente conhecida como Manor Grand Prix, antes de ser renomeada para Virgin Racing quando a Virgin adquiriu uma participa\u00E7\u00E3o e direitos de nomea\u00E7\u00E3o no final de 2009. O carro original da equipe, o Virgin VR-01, foi o primeiro na F\u00F3rmula 1 a ser desenvolvido usando apenas fluidodin\u00E2mica computacional, e foi conduzido por Timo Glock e Lucas Di Grassi. No final da temporada, A Marussia Motors comprou uma participa\u00E7\u00E3o na equipe e se tornou no seu principal patrocinador, com o time conhecido como Marussia Virgin Racing e correndo sob uma licen\u00E7a russa em 2011. Por\u00E9m a parceria com Wirth terminou durante a temporada de 2011, e uma nova estrutura t\u00E9cnica para o desenvolvimento do carro foi criada para a temporada de 2012. A Marussia Virgin Racing foi renomeada para Marussia F1 Team no final de 2011. A empresa manteve a base em Dinnington, bem como a cria\u00E7\u00E3o da base t\u00E9cnica em Banbury para a constru\u00E7\u00E3o dos carros de corrida."@pt ,
+		"Virgin Racing (Manor Grand Prix w 2009, Marussia Virgin Racing w 2011) \u2013 brytyjski (w 2011 roku rosyjski) zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy utworzony w 2009 roku, kt\u00F3ry zadebiutowa\u0142 w sezonie 2010 mistrzostw \u015Bwiata Formu\u0142y 1 podczas Grand Prix Bahrajnu. Najwy\u017Csz\u0105 pozycj\u0105 w historii teamu by\u0142o 14. miejsce w Grand Prix Malezji i Grand Prix Japonii (Lucas di Grassi i Timo Glock) w 2010 roku i Grand Prix Australii i Grand Prix Kanady w 2011 roku (J\u00E9r\u00F4me d'Ambrosio), w kwalifikacjach najlepszym osi\u0105gni\u0119ciem by\u0142o 16. miejsce, kt\u00F3re zosta\u0142o wywalczone przez Glocka podczas Grand Prix Malezji w 2010 roku. 11 listopada 2010 roku ujawniono, \u017Ce rosyjski producent samochod\u00F3w sportowych, Marussia wykupi\u0142 g\u0142\u00F3wny pakiet akcji Virgin Racing, a zesp\u00F3\u0142 od sezonu 2011 b\u0119dzie nosi\u0142 nazw\u0119 Marussia Virgin Racing. W 2011 roku poinformowano, \u017Ce w sezonie 2012 Marussia Virgin Racing zmieni nazw\u0119 na Marussia F1 Team, a jego podwozia b\u0119d\u0105 nosi\u0142y nazw\u0119 Marussia."@pl ;
+	dbo:wikiPageRevisionID	728252804 ;
+	dbo:wikiPageID	25258106 ;
+	dbp:logo	180 ;
+	dbp:nextName	dbr:Marussia_F1 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Virgin_Racing	ns23:hypernym	dbr:Formula ;
+	dbp:lastRace	2011 .
+dbr:Manor_Racing	rdfs:seeAlso	dbr:Virgin_Racing .
+dbr:Alex_Tai	dbo:occupation	dbr:Virgin_Racing .
+<http://dbpedia.org/resource/2016_Berlin_ePrix>	dbo:poleDriverTeam	dbr:Virgin_Racing .
+dbr:Marussia_Virgin_Racing	dbo:wikiPageRedirects	dbr:Virgin_Racing .
+dbr:Virgin_F1	dbo:wikiPageRedirects	dbr:Virgin_Racing .
+dbr:Berlin_ePrix	dbp:poleTeam	dbr:Virgin_Racing .

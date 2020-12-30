@@ -1,0 +1,77 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Scarab	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Scarab_(constructor)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	rdf:type	yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:WikicatAmericanRacecarConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Organism100004475 ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:Person100007846 ,
+		yago:LivingThing100004258 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Automobile .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	rdfs:label	"Scarab-Reventlow Automobiles"@fr ,
+		"Scarab (motorfietsen)"@nl ,
+		"Scarab"@it ,
+		"Scarab (Automobilmarke)"@de ,
+		"Scarab (constructor)"@en ,
+		"Scarab"@pl ;
+	rdfs:comment	"Scarab (dt.: Skarab\u00E4us) war eine US-amerikanische Automobilmarke, die nur 1958 von der Reventlow Automobile Company in Los Angeles (Kalifornien) gebaut wurde. Gr\u00FCnder und Eigent\u00FCmer dieser Firma war der Rennfahrer Lance Reventlow, der Sohn der Kaufhauserbin Barbara Hutton. Nur drei Exemplare wurden verkauft, dann war das Interesse an dieser Konstruktion wieder verflogen."@de ,
+		"Scarab est une ancienne \u00E9curie de Formule 1, en activit\u00E9 durant seulement la saison de 1960 o\u00F9 elle ne participa qu'\u00E0 quelques Grands Prix en ne se qualifiant qu'\u00E0 deux reprises. Scarab doit surtout sa r\u00E9putation au fait d'avoir permis \u00E0 Richie Ginther de commencer sa carri\u00E8re en Formule 1."@fr ,
+		"La Scarab era un'azienda costruttrice di automobili da competizione fondata nel 1957 a Venice (California), name da Lance Reventlow, figlio della celebre ereditiera Barbara Hutton. L'attivit\u00E0 venne chiusa nel 1962."@it ,
+		"Onder de merknaam Scarab werd een aantal motorfietsen van het merk Ancilotti in sommige landen (onder andere de Verenigde Staten) verkocht. Gualtiero Ancilotti, later G. Ancilotti & Filli, Sambuca, Firenze. Bepaalde modellen van Ancilotti werden Scarab genoemd, maar deze naam is in enkele landen ook als merkaanduiding toegepast."@nl ,
+		"Scarab, pe\u0142na nazwa Reventlow Automobiles Inc \u2013 ameryka\u0144ski konstruktor, zesp\u00F3\u0142 wy\u015Bcigowy oraz dostawca silnik\u00F3w, uczestnicz\u0105cy w Formule 1 w 1960 roku."@pl ,
+		"Scarab was an all-American open-wheel race car and sports car constructor from the United States featuring cars designed and built by Tom Barnes and Dick Troutman for Reventlow Automobiles Inc, owned by Lance Reventlow. The Chevrolet 283 CI V-8 engines were built by Traco Engineering (Jim Travers and Frank Coons, nicknamed \"The Whiz Kids\")."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	owl:sameAs	<http://dbpedia.org/resource/Scarab_(constructor)> ,
+		<http://nl.dbpedia.org/resource/Scarab_(motorfietsen)> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	owl:sameAs	wikidata:Q1783689 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	owl:sameAs	dbpedia-fr:Scarab-Reventlow_Automobiles ,
+		<http://rdf.freebase.com/ns/m.04n6tv> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	owl:sameAs	dbpedia-pl:Scarab ,
+		<http://de.dbpedia.org/resource/Scarab_(Automobilmarke)> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	owl:sameAs	dbpedia-it:Scarab ,
+		<http://yago-knowledge.org/resource/Scarab_(constructor)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	owl:sameAs	dbpedia-wikidata:Q1783689 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	dct:subject	dbc:American_auto_racing_teams ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:American_racecar_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Scarab_1960_Formula_One_car.JPG> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Scarab_(constructor)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Scarab_(constructor)?oldid=743068746> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/con-scara.html> ;
+	dbo:abstract	"Onder de merknaam Scarab werd een aantal motorfietsen van het merk Ancilotti in sommige landen (onder andere de Verenigde Staten) verkocht. Gualtiero Ancilotti, later G. Ancilotti & Filli, Sambuca, Firenze. Bepaalde modellen van Ancilotti werden Scarab genoemd, maar deze naam is in enkele landen ook als merkaanduiding toegepast."@nl ,
+		"Scarab (dt.: Skarab\u00E4us) war eine US-amerikanische Automobilmarke, die nur 1958 von der Reventlow Automobile Company in Los Angeles (Kalifornien) gebaut wurde. Gr\u00FCnder und Eigent\u00FCmer dieser Firma war der Rennfahrer Lance Reventlow, der Sohn der Kaufhauserbin Barbara Hutton. Der zweisitzige Roadster mit GFK-Karosserie war nur f\u00FCr den Renneinsatz gedacht, besa\u00DF aber eine Stra\u00DFenzulassung. Das Fahrgestell bestand aus einem Stahlrohrrahmen, in den eine De-Dion-Hinterachse eingeh\u00E4ngt war. Die Vorderr\u00E4der waren einzeln aufgeh\u00E4ngt. F\u00FCr den Antrieb sorgte ein obengesteuerter V8-Motor aus dem Chevrolet Corvette, der aus 5572 cm\u00B3 Hubraum eine Leistung von 385 bhp (283 kW) zog. Der Wagen war mit Magnesiumr\u00E4dern ausgestattet. Nur drei Exemplare wurden verkauft, dann war das Interesse an dieser Konstruktion wieder verflogen."@de ,
+		"La Scarab era un'azienda costruttrice di automobili da competizione fondata nel 1957 a Venice (California), name da Lance Reventlow, figlio della celebre ereditiera Barbara Hutton. L'attivit\u00E0 venne chiusa nel 1962."@it ,
+		"Scarab was an all-American open-wheel race car and sports car constructor from the United States featuring cars designed and built by Tom Barnes and Dick Troutman for Reventlow Automobiles Inc, owned by Lance Reventlow. The Chevrolet 283 CI V-8 engines were built by Traco Engineering (Jim Travers and Frank Coons, nicknamed \"The Whiz Kids\")."@en ,
+		"Scarab, pe\u0142na nazwa Reventlow Automobiles Inc \u2013 ameryka\u0144ski konstruktor, zesp\u00F3\u0142 wy\u015Bcigowy oraz dostawca silnik\u00F3w, uczestnicz\u0105cy w Formule 1 w 1960 roku."@pl ,
+		"Scarab est une ancienne \u00E9curie de Formule 1, en activit\u00E9 durant seulement la saison de 1960 o\u00F9 elle ne participa qu'\u00E0 quelques Grands Prix en ne se qualifiant qu'\u00E0 deux reprises. Scarab doit surtout sa r\u00E9putation au fait d'avoir permis \u00E0 Richie Ginther de commencer sa carri\u00E8re en Formule 1."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Scarab_1960_Formula_One_car.JPG?width=300> ;
+	dbo:wikiPageRevisionID	743068746 ;
+	dbo:wikiPageID	1262654 .
+@prefix ns15:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/Scarab_(constructor)>	ns15:hypernym	dbr:Car .
+<http://en.wikipedia.org/wiki/Scarab_(constructor)>	foaf:primaryTopic	<http://dbpedia.org/resource/Scarab_(constructor)> .
+dbr:Richie_Ginther	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Scarab_(constructor)> .
+dbr:Lance_Reventlow	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Scarab_(constructor)> .
+dbr:Chuck_Daigh	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Scarab_(constructor)> .
+dbr:Scarab_F1	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Scarab_(constructor)> .

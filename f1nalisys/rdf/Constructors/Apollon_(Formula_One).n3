@@ -1,0 +1,106 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	rdf:type	dbo:Agent ,
+		dbo:FormulaOneTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	rdf:type	wikidata:Q24229398 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	rdf:type	owl:Thing .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	rdf:type	ns4:Agent ,
+		dbo:Organisation .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	rdf:type	yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	rdf:type	schema:Organization ,
+		ns4:SocialPerson ,
+		schema:SportsTeam ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:WikicatSwissRacecarConstructors ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q43229 ,
+		dbo:SportsTeam .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	rdfs:label	"Apollon Racing"@fr ,
+		"Apollon (F\u00F3rmula 1)"@es ,
+		"Apollon (F\u00F3rmula 1)"@pt ,
+		"Apollon (konstruktor)"@pl ,
+		"Apollon (Formule 1)"@nl ,
+		"Apollon (automobilismo)"@it ,
+		"Apollon (Formula One)"@en ;
+	rdfs:comment	"Apollon fut une tr\u00E8s \u00E9ph\u00E9m\u00E8re \u00E9curie de Formule 1 suisse fond\u00E9e par le pilote suisse Loris Kessel gr\u00E2ce au soutien de la manufacture d'horlogerie Tissot et du Jolly Club suisse."@fr ,
+		"Apollon foi uma equipe de F\u00F3rmula 1 da Su\u00ED\u00E7a. Teve somente uma participa\u00E7\u00E3o em Grandes Pr\u00EAmios. Em 1977, o Jolly Club da Su\u00ED\u00E7a comprou e reconstruiu um Williams FW03 de 1973. O carro foi renomeado para Apollon Fly, e foi pilotado por Loris Kessel (dono da equipe e herdeiro da Kessel Watches) no GP da It\u00E1lia de 1977. O carro sofreu um acidente nos treinos, n\u00E3o participando da prova. Ap\u00F3s a falha na classifica\u00E7\u00E3o, a Apollon nunca mais participou de nenhuma prova oficial."@pt ,
+		"Apollon era un equipo de F\u00F3rmula Uno con base en Suiza. Particip\u00F3 tan s\u00F3lo en un gran premio. En 1977, el Jolly Club de Switzerland compr\u00F3 un Frank Williams Racing Cars FW03 de 1973 dise\u00F1ado por John Clarke. Al coche se le instal\u00F3 una carrocer\u00EDa mejorada, se le renombr\u00F3 como Apollon Fly y fue pilotado por Loris Kessel en el GP de Italia. El coche era muy lento, y se estrell\u00F3 durante la clasificaci\u00F3n. Loris Kessel tambi\u00E9n era el propietario del Apollon. Antres del GP de Italia, Kessel intent\u00F3 competir en B\u00E9lgica, Francia, Austria y Holanda. De todos modos, para B\u00E9lgica y Francia, Kessel tuvo problemas de transporte, y para las otras dos carreras, el coche no pudo ser transportado. El motor Ford Cosworth del FW03 se mantuvo, al igual que sus neum\u00E1ticos Goodyear."@es ,
+		"Apollon \u00E8 stato un costruttore svizzero di Formula 1. L'avventura inizia nel 1977 quando il Jolly Club di Svizzera compra una vecchia Williams FW03 del 1973 e ne aggiorna il telaio, trasformandola nella Apollon Fly. Dopo vari problemi tecnici che bloccano in debutto della vettura in estate, al Gran Premio d'Italia 1977 Loris Kessel tenter\u00E0 senza successo di qualificare la Fly. Subito dopo ci sar\u00E0 il ritiro dalle corse."@it ,
+		"Apollon was a Formula One racing car constructor from Switzerland. The team participated in one Formula One World Championship Grand Prix but failed to qualify. The team was formed by racing driver Loris Kessel."@en ,
+		"Apollon was een Formule 1 team uit Zwitserland. Het team nam deel aan \u00E9\u00E9n Grand Prix maar wist zich hiervoor niet te kwalificeren. Het team is opgericht door autocoureur Loris Kessel."@nl ,
+		"Apollon \u2013 szwajcarski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Grand Prix W\u0142och Formu\u0142y 1 w 1977 roku."@pl ;
+	owl:sameAs	<http://pl.dbpedia.org/resource/Apollon_(konstruktor)> ,
+		<http://nl.dbpedia.org/resource/Apollon_(Formule_1)> ,
+		<http://rdf.freebase.com/ns/m.057432> ,
+		<http://pt.dbpedia.org/resource/Apollon_(F\u00F3rmula_1)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	owl:sameAs	dbpedia-wikidata:Q2324666 ,
+		<http://it.dbpedia.org/resource/Apollon_(automobilismo)> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	owl:sameAs	dbpedia-fr:Apollon_Racing ,
+		<http://yago-knowledge.org/resource/Apollon_(Formula_One)> ,
+		wikidata:Q2324666 ,
+		<http://dbpedia.org/resource/Apollon_(Formula_One)> ,
+		<http://id.dbpedia.org/resource/Apollon_(Formula_Satu)> ,
+		<http://es.dbpedia.org/resource/Apollon_(F\u00F3rmula_1)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	dct:subject	dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Swiss_auto_racing_teams ,
+		dbc:Swiss_racecar_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	foaf:name	"Apollon"@en ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Apollon_(Formula_One)> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	dbp:races	1 .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	dbp:founders	dbr:Loris_Kessel ;
+	dbp:debut	1977 ;
+	dbp:points	0 ;
+	dbp:wins	0 ;
+	dbp:bot	"InternetArchiveBot"^^xsd:string ;
+	dbp:fixAttempted	"yes"^^xsd:string ;
+	dbp:drivers	"Loris Kessel"^^xsd:string ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:shortName	"Apollon"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Apollon_(Formula_One)?oldid=744625659> ;
+	dbo:wikiPageExternalLink	<http://www.histomobile.com/dvd_histomobile/usa/1214/menu.htm> ,
+		<http://autosport.aeiou.pt/gen.pl?p=stories&op=view&fokey=as.stories/62805> ;
+	dbp:engines	dbr:Cosworth ;
+	dbo:abstract	"Apollon fut une tr\u00E8s \u00E9ph\u00E9m\u00E8re \u00E9curie de Formule 1 suisse fond\u00E9e par le pilote suisse Loris Kessel gr\u00E2ce au soutien de la manufacture d'horlogerie Tissot et du Jolly Club suisse."@fr ,
+		"Apollon \u00E8 stato un costruttore svizzero di Formula 1. L'avventura inizia nel 1977 quando il Jolly Club di Svizzera compra una vecchia Williams FW03 del 1973 e ne aggiorna il telaio, trasformandola nella Apollon Fly. Dopo vari problemi tecnici che bloccano in debutto della vettura in estate, al Gran Premio d'Italia 1977 Loris Kessel tenter\u00E0 senza successo di qualificare la Fly. Subito dopo ci sar\u00E0 il ritiro dalle corse."@it ,
+		"Apollon foi uma equipe de F\u00F3rmula 1 da Su\u00ED\u00E7a. Teve somente uma participa\u00E7\u00E3o em Grandes Pr\u00EAmios. Em 1977, o Jolly Club da Su\u00ED\u00E7a comprou e reconstruiu um Williams FW03 de 1973. O carro foi renomeado para Apollon Fly, e foi pilotado por Loris Kessel (dono da equipe e herdeiro da Kessel Watches) no GP da It\u00E1lia de 1977. O carro sofreu um acidente nos treinos, n\u00E3o participando da prova. Ap\u00F3s a falha na classifica\u00E7\u00E3o, a Apollon nunca mais participou de nenhuma prova oficial."@pt ,
+		"Apollon was een Formule 1 team uit Zwitserland. Het team nam deel aan \u00E9\u00E9n Grand Prix maar wist zich hiervoor niet te kwalificeren. Het team is opgericht door autocoureur Loris Kessel."@nl ,
+		"Apollon was a Formula One racing car constructor from Switzerland. The team participated in one Formula One World Championship Grand Prix but failed to qualify. The team was formed by racing driver Loris Kessel."@en ,
+		"Apollon era un equipo de F\u00F3rmula Uno con base en Suiza. Particip\u00F3 tan s\u00F3lo en un gran premio. En 1977, el Jolly Club de Switzerland compr\u00F3 un Frank Williams Racing Cars FW03 de 1973 dise\u00F1ado por John Clarke. Al coche se le instal\u00F3 una carrocer\u00EDa mejorada, se le renombr\u00F3 como Apollon Fly y fue pilotado por Loris Kessel en el GP de Italia. El coche era muy lento, y se estrell\u00F3 durante la clasificaci\u00F3n. Loris Kessel tambi\u00E9n era el propietario del Apollon. Antres del GP de Italia, Kessel intent\u00F3 competir en B\u00E9lgica, Francia, Austria y Holanda. De todos modos, para B\u00E9lgica y Francia, Kessel tuvo problemas de transporte, y para las otras dos carreras, el coche no pudo ser transportado. El motor Ford Cosworth del FW03 se mantuvo, al igual que sus neum\u00E1ticos Goodyear."@es ,
+		"Apollon \u2013 szwajcarski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Grand Prix W\u0142och Formu\u0142y 1 w 1977 roku."@pl ;
+	dbo:wikiPageRevisionID	744625659 ;
+	dbo:wikiPageID	1513983 ;
+	dbp:logo	100 ;
+	dbp:date	"October 2016"^^xsd:string .
+@prefix ns16:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/Apollon_(Formula_One)>	ns16:hypernym	dbr:Formula ;
+	dbp:lastRace	1977 .
+dbr:Apollon	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/Apollon_(Formula_One)> .
+<http://en.wikipedia.org/wiki/Apollon_(Formula_One)>	foaf:primaryTopic	<http://dbpedia.org/resource/Apollon_(Formula_One)> .
+dbr:Loris_Kessel	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Apollon_(Formula_One)> .
+dbr:Apollon_Fly	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Apollon_(Formula_One)> .

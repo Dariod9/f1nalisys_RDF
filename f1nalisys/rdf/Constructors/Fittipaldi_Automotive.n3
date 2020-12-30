@@ -1,0 +1,157 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Wilson_Fittipaldi_J\u00FAnior>	<http://dbpedia.org/property/team(s)_>	dbr:Fittipaldi_Automotive .
+dbr:Chico_Serra	<http://dbpedia.org/property/team(s)_>	dbr:Fittipaldi_Automotive .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1978_Brazilian_Grand_Prix>	dbo:secondTeam	dbr:Fittipaldi_Automotive .
+dbr:Alex_Ribeiro	<http://dbpedia.org/property/team(s)_>	dbr:Fittipaldi_Automotive .
+<http://dbpedia.org/resource/1978_BRDC_International_Trophy>	dbo:fastestDriverTeam	dbr:Fittipaldi_Automotive ;
+	dbo:secondTeam	dbr:Fittipaldi_Automotive .
+<http://dbpedia.org/resource/1980_United_States_Grand_Prix_West>	dbo:thirdTeam	dbr:Fittipaldi_Automotive .
+<http://dbpedia.org/resource/Fittipaldi_(team)>	dbo:wikiPageRedirects	dbr:Fittipaldi_Automotive .
+dbr:Fittipaldi_F8C	dbo:wikiPageRedirects	dbr:Fittipaldi_Automotive .
+dbr:Fittipaldi_F8D	dbo:wikiPageRedirects	dbr:Fittipaldi_Automotive .
+dbr:Fittipaldi	dbo:wikiPageDisambiguates	dbr:Fittipaldi_Automotive .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Fittipaldi_Automotive	foaf:primaryTopic	dbr:Fittipaldi_Automotive .
+dbr:Fittipaldi_F8	dbo:wikiPageRedirects	dbr:Fittipaldi_Automotive .
+dbr:Keke_Rosberg	<http://dbpedia.org/property/team(s)_>	dbr:Fittipaldi_Automotive .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Fittipaldi_F5	dbp:team	dbr:Fittipaldi_Automotive ;
+	dbp:constructor	dbr:Fittipaldi_Automotive .
+dbr:Emerson_Fittipaldi	<http://dbpedia.org/property/team(s)_>	dbr:Fittipaldi_Automotive .
+dbr:Ingo_Hoffmann	<http://dbpedia.org/property/team(s)_>	dbr:Fittipaldi_Automotive .
+dbr:Wolf_WR7	dbp:team	dbr:Fittipaldi_Automotive ;
+	dbp:constructor	dbr:Fittipaldi_Automotive .
+dbr:Fittipaldi_FD	dbp:team	dbr:Fittipaldi_Automotive ;
+	dbp:constructor	dbr:Fittipaldi_Automotive .
+<http://dbpedia.org/resource/1980_Argentine_Grand_Prix>	dbo:thirdTeam	dbr:Fittipaldi_Automotive .
+dbr:Chico_Serra__1981__1	dbo:team	dbr:Fittipaldi_Automotive .
+dbr:Chico_Serra__1982__1	dbo:team	dbr:Fittipaldi_Automotive .
+dbr:Chico_Serra__1982__2	dbo:team	dbr:Fittipaldi_Automotive .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Fittipaldi_Automotive	rdf:type	wikidata:Q43229 ,
+		dbo:FormulaOneTeam .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Fittipaldi_Automotive	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Fittipaldi_Automotive	rdf:type	yago:Contractor109960891 ,
+		dbo:Agent ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		dbo:SportsTeam .
+@prefix schema:	<http://schema.org/> .
+dbr:Fittipaldi_Automotive	rdf:type	schema:SportsTeam ,
+		yago:Organism100004475 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Fittipaldi_Automotive	rdf:type	ns10:SocialPerson ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q24229398 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		schema:Organization ,
+		ns10:Agent ,
+		yago:Person100007846 ,
+		dbo:Organisation ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatBrazilianRacecarConstructors .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Fittipaldi_Automotive	rdfs:label	"Fittipaldi Automotive"@pl ,
+		"Fittipaldi Automotive"@de ,
+		"Fittipaldi F1 Racing"@es ,
+		"Fittipaldi Automotive"@fr ,
+		"Escuderia Fittipaldi"@pt ,
+		"\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3"@ja ,
+		"Fittipaldi Automotive"@en ,
+		"Fittipaldi Automotive"@it ;
+	rdfs:comment	"\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3 (Fittipaldi) \u306F\u30011975\u5E74\u304B\u30891982\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30D6\u30E9\u30B8\u30EB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002F1\u53F2\u4E0A\u552F\u4E00\u306E\u30D6\u30E9\u30B8\u30EB\u56FD\u7C4D\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3067\u3042\u308A\u30011974\u5E74\u306B\u5144\u5F1FF1\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30A6\u30A3\u30EB\u30BD\u30F3\u30FB\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u3068\u30A8\u30DE\u30FC\u30BD\u30F3\u30FB\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u306B\u3088\u3063\u3066\u8A2D\u7ACB\u3055\u308C\u305F\u3002 \u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u540D\u306F\u30011979\u5E74\u307E\u3067\u306F\u30BF\u30A4\u30C8\u30EB\u30B9\u30DD\u30F3\u30B5\u30FC\u3067\u3042\u308B\u30B3\u30D1\u30B9\u30AB\u30FC(Copersucar\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u8A9E\u306E\u767A\u97F3\u306F\u300C\u30B3\u30DA\u30EB\u30B9\u30AB\u30EB\u300D)\u3092\u7528\u3044\u30011980\u5E74\u304B\u30891982\u5E74\u306B\u304B\u3051\u3066\u306F\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u3092\u7528\u3044\u305F\u3002\u300C\u30B3\u30D1\u30B9\u30AB\u30FC\u300D\u6642\u4EE3\u3082\u30A8\u30F3\u30C8\u30EA\u30FC\u540D\u4EE5\u5916\u3067\u306F\u300C\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u300D\u306E\u540D\u79F0\u3092\u4E3B\u306B\u4F75\u8A18\u306E\u5F62\u3067\u7528\u3044\u305F\u305F\u3081\u3001\u3053\u306E\u6642\u671F\u306E\u30C1\u30FC\u30E0\u306B\u3064\u3044\u3066\u306F\u300C\u30B3\u30D1\u30B9\u30AB\u30FC\u30FB\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u300D\u3068\u3082\u547C\u79F0\u3059\u308B\u3002"@ja ,
+		"Fittipaldi Automotive (czasem od swojego pierwszego g\u0142\u00F3wnego sponsora zwany Copersucar) \u2013 pierwszy i jedyny brazylijski zesp\u00F3\u0142 i konstruktor Formu\u0142y 1. Zosta\u0142 utworzony przez kierowc\u00F3w wy\u015Bcigowych, braci Fittipaldi: starszego Wilsona i m\u0142odszego, dwukrotnego mistrza \u015Bwiata, Emersona, ze wsparciem finansowym brazylijskiego producenta cukru i alkoholu, Copersucar. W 1976 roku Emerson Fittipaldi opu\u015Bci\u0142 McLarena i rozpocz\u0105\u0142 \u015Bciganie si\u0119 dla Fittipaldi."@pl ,
+		"Fittipaldi Automotive \u00E9tait une \u00E9curie de Formule 1 br\u00E9silienne fond\u00E9e en 1975 par Wilson Fittipaldi, le fr\u00E8re a\u00EEn\u00E9 d'Emerson, sous le nom Copersucar-Fittipaldi. L'\u00E9curie a \u00E9t\u00E9 rebaptis\u00E9e Fittipaldi Automotive en 1978. Sous ces diff\u00E9rentes d\u00E9nominations l'\u00E9curie a particip\u00E9 au championnat du monde de Formule 1 de 1975 \u00E0 1982, disputant un total de 103 Grands Prix. Elle a inscrit 44 points et d\u00E9croch\u00E9 3 podiums (Emerson Fittipaldi : 2e au Br\u00E9sil en 1978 et 3e en Argentine et aux \u00C9tats-Unis Ouest en 1980). Le meilleur classement d\u00E9croch\u00E9 au championnat constructeur est une 7e place en 1978."@fr ,
+		"La Fittipaldi Automotive \u00E8 stato un team di Formula 1 tra il 1975 e il 1982 fondato dal fratello del due volte campione del Mondo Emerson Fittipaldi, Wilson Fittipaldi. Ebbe questa denominazione nei due bienni 1978-1979 e 1981-1982 per complessive quattro stagioni. Nelle prime tre stagioni di vita (1975-1977) aveva la denominazione Copersucar-Fittipaldi e nel 1980 assunse il nome Skol Fittipaldi Team."@it ,
+		"Fittipaldi Automotive war ein brasilianischer Motorsport-Rennstall, der zwischen 1975 und 1982 an insgesamt 103 Grand Prix zur Formel-1-Weltmeisterschaft teilnahm. Das Team, das zun\u00E4chst in Brasilien stationiert war und sp\u00E4ter von England aus operierte, startete bis 1977 offiziell unter dem Namen seines Hauptsponsors, des brasilianischen Zuckerproduzenten Copersucar. Ab 1978 trug sich das Team unter dem Namen seiner Gr\u00FCnder, des zweimaligen Formel-1-Weltmeisters Emerson Fittipaldi und dessen Bruder Wilson, in die Meldelisten ein."@de ,
+		"Fittipaldi Automotive o Fittipaldi F1 Racing, a veces llamado Copersucar en alusi\u00F3n a su primer auspiciador importante, fue el \u00FAnico equipo y constructor de F\u00F3rmula 1 que tuvo como base Brasil. Fue fundado en 1974 por el corredor Wilson Fittipaldi y su hermano menor, el doble campe\u00F3n mundial Emerson, con dinero de la cooperativa brasile\u00F1a de az\u00FAcar y alcohol Copersucar. En 1976 Emerson sorprendi\u00F3 al mundo del automovilismo al dejar al equipo campe\u00F3n McLaren para manejar por su poco exitoso equipo familiar. El que luego fuera campe\u00F3n mundial Keke Rosberg consigui\u00F3 su primer podio en la F\u00F3rmula 1 con este equipo."@es ,
+		"Fittipaldi Automotive, sometimes called Copersucar after its first major sponsor, was the only Formula One motor racing team and constructor ever to be based in Brazil. It was formed during 1974 by racing driver Wilson Fittipaldi and his younger brother, double world champion Emerson, with money from the Brazilian sugar and alcohol cooperative Copersucar. In 1976 Emerson surprised the motor racing world by leaving the title-winning McLaren team to drive for the unsuccessful family outfit. Future world champion Keke Rosberg took his first podium finish in Formula One with the team."@en ,
+		"Escuderia Fittipaldi, tamb\u00E9m conhecida como: Copersucar-Fittipaldi, Skol-Fittipaldi ou Fittipaldi Automotive, foi uma escuderia de F\u00F3rmula 1 brasileira fundada em 1975 pelos irm\u00E3os Emerson e Wilson Fittipaldi Jr. (n\u00E3o confundir com Wilson Fittipaldi, o \"Bar\u00E3o\", que chegou a cortar a ajuda financeira aos filhos para tentar desencoraj\u00E1-los da ideia). Competiu num total de 104 grandes pr\u00EAmios. Sua estreia ocorreu no GP da Argentina de 1975, com Wilson Fittipaldi Jr.Ap\u00F3s trinta anos de sua apresenta\u00E7\u00E3o oficial em Bras\u00EDlia, em 16 de outubro de 1974, o modelo FD01, o Copersucar pilotado por Wilson Fittipaldi Jr. - primeiro carro brasileiro a disputar uma prova de F\u00F3rmula 1 - voltou em 10 de novembro de 2004 \u00E0 pista do Aut\u00F3dromo de Interlagos, totalmente restaurado."@pt ;
+	dbp:drivers	"Keke Rosberg"^^xsd:string ,
+		"Arturo Merzario"^^xsd:string ,
+		"Emerson Fittipaldi"^^xsd:string ,
+		"Ingo Hoffmann"^^xsd:string ,
+		"Alex Ribeiro"^^xsd:string ,
+		"Wilson Fittipaldi"^^xsd:string ,
+		"Chico Serra"^^xsd:string .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Fittipaldi_Automotive	owl:sameAs	dbpedia-pt:Escuderia_Fittipaldi ,
+		<http://rdf.freebase.com/ns/m.04n6fq> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Fittipaldi_Automotive	owl:sameAs	dbpedia-it:Fittipaldi_Automotive .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Fittipaldi_Automotive	owl:sameAs	dbpedia-wikidata:Q171665 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Fittipaldi_Automotive	owl:sameAs	dbpedia-id:Fittipaldi_Automotive ,
+		wikidata:Q171665 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Fittipaldi_Automotive	owl:sameAs	yago-res:Fittipaldi_Automotive ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3> ,
+		dbr:Fittipaldi_Automotive .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Fittipaldi_Automotive	owl:sameAs	dbpedia-de:Fittipaldi_Automotive .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Fittipaldi_Automotive	owl:sameAs	dbpedia-pl:Fittipaldi_Automotive .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Fittipaldi_Automotive	owl:sameAs	dbpedia-fr:Fittipaldi_Automotive .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Fittipaldi_Automotive	owl:sameAs	dbpedia-es:Fittipaldi_F1_Racing .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Fittipaldi_Automotive	dct:subject	dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Brazilian_racecar_constructors ,
+		dbc:Brazilian_auto_racing_teams ;
+	foaf:name	"Fittipaldi Automotive"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Fitti_Vee_1966.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Fittipaldi_Automotive ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Fittipaldi"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Fittipaldi_Automotive	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Fittipaldi_Automotive?oldid=715428703> ;
+	dbp:founders	dbr:Emerson_Fittipaldi ,
+		<http://dbpedia.org/resource/Wilson_Fittipaldi_J\u00FAnior> ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	dbr:Berkshire ,
+		<http://dbpedia.org/resource/Reading,_Berkshire> ,
+		dbr:United_Kingdom ;
+	dbp:engines	dbr:Ford_Motor_Company ;
+	dbp:debut	1975 ;
+	dbo:wikiPageExternalLink	<http://www.bestlap.com.br/copersucar/> ,
+		<http://www.amazon.co.uk/exec/obidos/ASIN/185960837X> ,
+		<http://www.silhouet.com/motorsport/archive/f1/title.html> ,
+		<http://www.formula1.com/results/season/1972/> ,
+		<http://www.tgpf1.com> ;
+	dbo:abstract	"Escuderia Fittipaldi, tamb\u00E9m conhecida como: Copersucar-Fittipaldi, Skol-Fittipaldi ou Fittipaldi Automotive, foi uma escuderia de F\u00F3rmula 1 brasileira fundada em 1975 pelos irm\u00E3os Emerson e Wilson Fittipaldi Jr. (n\u00E3o confundir com Wilson Fittipaldi, o \"Bar\u00E3o\", que chegou a cortar a ajuda financeira aos filhos para tentar desencoraj\u00E1-los da ideia). Competiu num total de 104 grandes pr\u00EAmios. Sua estreia ocorreu no GP da Argentina de 1975, com Wilson Fittipaldi Jr.Ap\u00F3s trinta anos de sua apresenta\u00E7\u00E3o oficial em Bras\u00EDlia, em 16 de outubro de 1974, o modelo FD01, o Copersucar pilotado por Wilson Fittipaldi Jr. - primeiro carro brasileiro a disputar uma prova de F\u00F3rmula 1 - voltou em 10 de novembro de 2004 \u00E0 pista do Aut\u00F3dromo de Interlagos, totalmente restaurado."@pt ,
+		"Fittipaldi Automotive \u00E9tait une \u00E9curie de Formule 1 br\u00E9silienne fond\u00E9e en 1975 par Wilson Fittipaldi, le fr\u00E8re a\u00EEn\u00E9 d'Emerson, sous le nom Copersucar-Fittipaldi. L'\u00E9curie a \u00E9t\u00E9 rebaptis\u00E9e Fittipaldi Automotive en 1978. Sous ces diff\u00E9rentes d\u00E9nominations l'\u00E9curie a particip\u00E9 au championnat du monde de Formule 1 de 1975 \u00E0 1982, disputant un total de 103 Grands Prix. Elle a inscrit 44 points et d\u00E9croch\u00E9 3 podiums (Emerson Fittipaldi : 2e au Br\u00E9sil en 1978 et 3e en Argentine et aux \u00C9tats-Unis Ouest en 1980). Le meilleur classement d\u00E9croch\u00E9 au championnat constructeur est une 7e place en 1978."@fr ,
+		"\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3 (Fittipaldi) \u306F\u30011975\u5E74\u304B\u30891982\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30D6\u30E9\u30B8\u30EB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002F1\u53F2\u4E0A\u552F\u4E00\u306E\u30D6\u30E9\u30B8\u30EB\u56FD\u7C4D\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3067\u3042\u308A\u30011974\u5E74\u306B\u5144\u5F1FF1\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30A6\u30A3\u30EB\u30BD\u30F3\u30FB\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u3068\u30A8\u30DE\u30FC\u30BD\u30F3\u30FB\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u306B\u3088\u3063\u3066\u8A2D\u7ACB\u3055\u308C\u305F\u3002 \u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u540D\u306F\u30011979\u5E74\u307E\u3067\u306F\u30BF\u30A4\u30C8\u30EB\u30B9\u30DD\u30F3\u30B5\u30FC\u3067\u3042\u308B\u30B3\u30D1\u30B9\u30AB\u30FC(Copersucar\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u8A9E\u306E\u767A\u97F3\u306F\u300C\u30B3\u30DA\u30EB\u30B9\u30AB\u30EB\u300D)\u3092\u7528\u3044\u30011980\u5E74\u304B\u30891982\u5E74\u306B\u304B\u3051\u3066\u306F\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u3092\u7528\u3044\u305F\u3002\u300C\u30B3\u30D1\u30B9\u30AB\u30FC\u300D\u6642\u4EE3\u3082\u30A8\u30F3\u30C8\u30EA\u30FC\u540D\u4EE5\u5916\u3067\u306F\u300C\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u300D\u306E\u540D\u79F0\u3092\u4E3B\u306B\u4F75\u8A18\u306E\u5F62\u3067\u7528\u3044\u305F\u305F\u3081\u3001\u3053\u306E\u6642\u671F\u306E\u30C1\u30FC\u30E0\u306B\u3064\u3044\u3066\u306F\u300C\u30B3\u30D1\u30B9\u30AB\u30FC\u30FB\u30D5\u30A3\u30C3\u30C6\u30A3\u30D1\u30EB\u30C7\u30A3\u300D\u3068\u3082\u547C\u79F0\u3059\u308B\u3002"@ja ,
+		"Fittipaldi Automotive o Fittipaldi F1 Racing, a veces llamado Copersucar en alusi\u00F3n a su primer auspiciador importante, fue el \u00FAnico equipo y constructor de F\u00F3rmula 1 que tuvo como base Brasil. Fue fundado en 1974 por el corredor Wilson Fittipaldi y su hermano menor, el doble campe\u00F3n mundial Emerson, con dinero de la cooperativa brasile\u00F1a de az\u00FAcar y alcohol Copersucar. En 1976 Emerson sorprendi\u00F3 al mundo del automovilismo al dejar al equipo campe\u00F3n McLaren para manejar por su poco exitoso equipo familiar. El que luego fuera campe\u00F3n mundial Keke Rosberg consigui\u00F3 su primer podio en la F\u00F3rmula 1 con este equipo. El equipo ten\u00EDa su base en S\u00E3o Paulo, a casi 10.000 kil\u00F3metros del centro del mundo del automovilismo deportivo en el Reino Unido, hasta que se mud\u00F3 a Reading, Reino Unido durante 1974. Particip\u00F3 en 119 grandes premios entre 1975 y 1982, con un total de 156 coches inscriptos. Consigui\u00F3 3 podios y 44 puntos."@es ,
+		"Fittipaldi Automotive (czasem od swojego pierwszego g\u0142\u00F3wnego sponsora zwany Copersucar) \u2013 pierwszy i jedyny brazylijski zesp\u00F3\u0142 i konstruktor Formu\u0142y 1. Zosta\u0142 utworzony przez kierowc\u00F3w wy\u015Bcigowych, braci Fittipaldi: starszego Wilsona i m\u0142odszego, dwukrotnego mistrza \u015Bwiata, Emersona, ze wsparciem finansowym brazylijskiego producenta cukru i alkoholu, Copersucar. W 1976 roku Emerson Fittipaldi opu\u015Bci\u0142 McLarena i rozpocz\u0105\u0142 \u015Bciganie si\u0119 dla Fittipaldi. Pocz\u0105tkowo zesp\u00F3\u0142 mia\u0142 siedzib\u0119 w S\u00E3o Paulo, ale potem przeniesiono j\u0105 do brytyjskiego Reading. Zesp\u00F3\u0142 bra\u0142 udzia\u0142 w 119 wy\u015Bcigach Formu\u0142y 1 w latach 1975\u20131982 i zdoby\u0142 \u0142\u0105cznie 44 punkty i trzy miejsca na podium. Nigdy nie odni\u00F3s\u0142 zwyci\u0119stwa."@pl ,
+		"Fittipaldi Automotive, sometimes called Copersucar after its first major sponsor, was the only Formula One motor racing team and constructor ever to be based in Brazil. It was formed during 1974 by racing driver Wilson Fittipaldi and his younger brother, double world champion Emerson, with money from the Brazilian sugar and alcohol cooperative Copersucar. In 1976 Emerson surprised the motor racing world by leaving the title-winning McLaren team to drive for the unsuccessful family outfit. Future world champion Keke Rosberg took his first podium finish in Formula One with the team. The team was based in S\u00E3o Paulo, almost 6,000 miles (10,000 km) away from the centre of the world motor racing industry in the UK, before moving to Reading, UK during 1977. It participated in 119 grands prix between 1975 and 1982, entering a total of 156 cars. It achieved three podiums and scored 44 championship points."@en ,
+		"Fittipaldi Automotive war ein brasilianischer Motorsport-Rennstall, der zwischen 1975 und 1982 an insgesamt 103 Grand Prix zur Formel-1-Weltmeisterschaft teilnahm. Das Team, das zun\u00E4chst in Brasilien stationiert war und sp\u00E4ter von England aus operierte, startete bis 1977 offiziell unter dem Namen seines Hauptsponsors, des brasilianischen Zuckerproduzenten Copersucar. Ab 1978 trug sich das Team unter dem Namen seiner Gr\u00FCnder, des zweimaligen Formel-1-Weltmeisters Emerson Fittipaldi und dessen Bruder Wilson, in die Meldelisten ein."@de ,
+		"La Fittipaldi Automotive \u00E8 stato un team di Formula 1 tra il 1975 e il 1982 fondato dal fratello del due volte campione del Mondo Emerson Fittipaldi, Wilson Fittipaldi. Ebbe questa denominazione nei due bienni 1978-1979 e 1981-1982 per complessive quattro stagioni. Nelle prime tre stagioni di vita (1975-1977) aveva la denominazione Copersucar-Fittipaldi e nel 1980 assunse il nome Skol Fittipaldi Team."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Fitti_Vee_1966.jpg?width=300> ;
+	dbo:wikiPageRevisionID	715428703 ;
+	dbo:wikiPageID	1262596 ;
+	dbp:races	120 ;
+	dbp:wins	0 ;
+	dbp:staff	dbr:Harvey_Postlethwaite ,
+		dbr:Richard_Divila ,
+		<http://dbpedia.org/resource/Jo_Ram\u00EDrez> ,
+		dbr:Adrian_Newey ;
+	dbp:lastRace	1982 .
+<http://dbpedia.org/resource/Fittipaldi_(constructor)>	dbo:wikiPageRedirects	dbr:Fittipaldi_Automotive .
+dbr:Fittipaldi_F6	dbp:team	dbr:Fittipaldi_Automotive ;
+	dbp:constructor	dbr:Fittipaldi_Automotive .

@@ -1,0 +1,112 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Trojan\u2013Tauranac_Racing>	foaf:primaryTopic	<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	rdf:type	yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	rdf:type	dbo:SportsTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	rdf:type	wikidata:Q43229 ,
+		dbo:Company ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Organism100004475 .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	rdf:type	schema:Organization ,
+		dbo:Organisation ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:Contractor109960891 ,
+		yago:LivingThing100004258 ,
+		schema:SportsTeam .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	rdf:type	ns6:Agent ,
+		wikidata:Q24229398 ,
+		yago:Party110402824 ,
+		yago:Builder109878275 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	rdf:type	owl:Thing ,
+		dbo:FormulaOneTeam ,
+		ns6:SocialPerson ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	rdfs:label	"Trojan-Tauranac Racing"@it ,
+		"Trojan-Tauranac Racing"@pl ,
+		"Trojan\u2013Tauranac Racing"@en ,
+		"Trojan-Tauranac Racing"@fr ,
+		"Trojan (automobilismo)"@pt ,
+		"Trojan-Tauranac Racing"@es ;
+	rdfs:comment	"Trojan-Tauranac Racing (ou apenas Trojan) foi uma equipe de F\u00F3rmula 1 do Reino Unido. Teve em seus quadros o engenheiro e ex-dirigente da Brabham Ron Tauranac. Inscreveu-se em 8 provas da temporada de 1974, largando em seis, todas com o australiano Tim Schenken. A melhor posi\u00E7\u00E3o de largada foi um 19\u00BA lugar no GP da \u00C1ustria, enquanto que a melhor classifica\u00E7\u00E3o em corridas foi um 10\u00BA lugar no GP da B\u00E9lgica."@pt ,
+		"L'esperienza acquisita dalla Trojan costruendo le vetture Can-Am (M8C, M8E, M8F, M12) e Formula 5000 (M18, M22) per la McLaren fece s\u00EC che l'azienda pensasse di produrre in proprio alcuni progetti derivati da quelli McLaren, ma quando i rapporti tra le due aziende si deteriorarono, la Trojan si ritrov\u00F2 a dover fare affidamento solo sulle proprie forze e realizz\u00F2 la T101 per la Formula 5000 (una vettura simile alla McLaren M21 di Formula 2) con cui Jody Scheckter vinse il campionato nordamericano di F5000 nel 1973. Grazie all'aiuto dell'ex-progettista della Brabham Racing Organisation Ron Tauranac fu realizzata la T102 per la F5000 e la sua derivata T103, adattata in economia per poter partecipare alla Formula 1 e spinta dal Ford Cosworth DFV."@it ,
+		"Trojan-Tauranac Racing \u00E9tait une \u00E9curie de course automobile britannique fond\u00E9e par Peter Agg et bas\u00E9e \u00E0 Croydon dans le sud londonien. Apr\u00E8s quelques saisons en Formule 5000, Trojan s'engage en Formule 1 en 1974. Trojan a pris le d\u00E9part de 6 Grands Prix de Formule 1 et a obtenu comme meilleur r\u00E9sultat une 10e place lors des \u00E9preuves disput\u00E9e en Espagne puis en Autriche."@fr ,
+		"Trojan was an automobile manufacturer and a Formula One constructor, in conjunction with Australian Ron Tauranac, from the United Kingdom. The car producer Trojan Limited was founded by Leslie Hounsfield in 1914 in Purley Way, Croydon, Surrey, (South London) and produced cars and especially delivery vans until 1964. The Trojan T101 Formula 5000 model met with success when Jody Scheckter won the 1973 SCCA L&M Championship driving a T101 and a Lola T330. \n* Trojan T101 Formula 5000 car \n* Trojan T103 Formula One car"@en ,
+		"Trojan, pe\u0142na nazwa Trojan Tauranac Racing \u2013 brytyjski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1974 roku."@pl ,
+		"Trojan-Tauranac Racing es un equipo que compiti\u00F3 en var\u00EDas carreras de la temporada 1974 de F\u00F3rmula 1."@es .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	dbp:points	0 .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	dbp:drivers	dbr:Tim_Schenken .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	owl:sameAs	dbpedia-wikidata:Q1078831 ,
+		<http://www4.wiwiss.fu-berlin.de/wikicompany/resource/Trojan_(Racing_team)> ,
+		<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	owl:sameAs	dbpedia-fr:Trojan-Tauranac_Racing ,
+		<http://rdf.freebase.com/ns/m.04n6sf> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	owl:sameAs	dbpedia-it:Trojan-Tauranac_Racing .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	owl:sameAs	yago-res:Trojan-Tauranac_Racing ,
+		<http://pt.dbpedia.org/resource/Trojan_(automobilismo)> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	owl:sameAs	dbpedia-pl:Trojan-Tauranac_Racing ,
+		<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	owl:sameAs	dbpedia-es:Trojan-Tauranac_Racing ,
+		wikidata:Q1078831 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	dct:subject	dbc:Defunct_motor_vehicle_manufacturers_of_the_United_Kingdom ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ,
+		dbc:British_auto_racing_teams ;
+	foaf:name	"Trojan\u2013Tauranac Racing"@en ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Trojan\u2013Tauranac_Racing> ;
+	dbp:podiums	0 ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Trojan"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Trojan\u2013Tauranac_Racing?oldid=737668940> ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:engines	dbr:Ford_Motor_Company ;
+	dbp:debut	1974 ;
+	dbo:wikiPageExternalLink	<http://www.trojanmuseumtrust.org> ,
+		<https://web.archive.org/web/20080509072355/http:/f1rejects.com/teams/trojan/index.html> ,
+		<http://www.formula1.com/> ,
+		<http://8w.forix.com/trojan.html> ;
+	dbo:abstract	"Trojan-Tauranac Racing (ou apenas Trojan) foi uma equipe de F\u00F3rmula 1 do Reino Unido. Teve em seus quadros o engenheiro e ex-dirigente da Brabham Ron Tauranac. Inscreveu-se em 8 provas da temporada de 1974, largando em seis, todas com o australiano Tim Schenken. A melhor posi\u00E7\u00E3o de largada foi um 19\u00BA lugar no GP da \u00C1ustria, enquanto que a melhor classifica\u00E7\u00E3o em corridas foi um 10\u00BA lugar no GP da B\u00E9lgica."@pt ,
+		"Trojan, pe\u0142na nazwa Trojan Tauranac Racing \u2013 brytyjski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1974 roku."@pl ,
+		"L'esperienza acquisita dalla Trojan costruendo le vetture Can-Am (M8C, M8E, M8F, M12) e Formula 5000 (M18, M22) per la McLaren fece s\u00EC che l'azienda pensasse di produrre in proprio alcuni progetti derivati da quelli McLaren, ma quando i rapporti tra le due aziende si deteriorarono, la Trojan si ritrov\u00F2 a dover fare affidamento solo sulle proprie forze e realizz\u00F2 la T101 per la Formula 5000 (una vettura simile alla McLaren M21 di Formula 2) con cui Jody Scheckter vinse il campionato nordamericano di F5000 nel 1973. Grazie all'aiuto dell'ex-progettista della Brabham Racing Organisation Ron Tauranac fu realizzata la T102 per la F5000 e la sua derivata T103, adattata in economia per poter partecipare alla Formula 1 e spinta dal Ford Cosworth DFV. L'azienda, col nome di Trojan-Tauranac Racing ha partecipato a 6 Gran Premi nel 1974 con una sola vettura pilotata da Tim Schenken, debuttando nel G.P. di Spagna e ottenendo come miglior risultato un 10\u00BA posto in gara (G.P. del Belgio e G.P. d'Austria)."@it ,
+		"Trojan-Tauranac Racing es un equipo que compiti\u00F3 en var\u00EDas carreras de la temporada 1974 de F\u00F3rmula 1."@es ,
+		"Trojan-Tauranac Racing \u00E9tait une \u00E9curie de course automobile britannique fond\u00E9e par Peter Agg et bas\u00E9e \u00E0 Croydon dans le sud londonien. Apr\u00E8s quelques saisons en Formule 5000, Trojan s'engage en Formule 1 en 1974. Trojan a pris le d\u00E9part de 6 Grands Prix de Formule 1 et a obtenu comme meilleur r\u00E9sultat une 10e place lors des \u00E9preuves disput\u00E9e en Espagne puis en Autriche."@fr ,
+		"Trojan was an automobile manufacturer and a Formula One constructor, in conjunction with Australian Ron Tauranac, from the United Kingdom. The car producer Trojan Limited was founded by Leslie Hounsfield in 1914 in Purley Way, Croydon, Surrey, (South London) and produced cars and especially delivery vans until 1964. Around 1960, the Trojan business was sold to Peter Agg who imported Lambretta scooters for the British market. In 1962, the rights to manufacture the Heinkel microcar were acquired and the production line was moved from Dundalk, Ireland to Croydon, Surrey. Production then commenced, renaming the bubble car as Trojan Cabin Cruiser. Production continued until 1965, when some 6,000 cars had been produced. Speaking to Motor Cycle in 1965 after cessation of production, Peter Agg confirmed that a 1962 British government reduction in purchase tax from 50% to 25% aligning car taxation with three-wheelers and motorbikes, had given a big boost to the cheaper end of the car market, adversely affecting sales of the economy-sector three-wheeler, making continued production uneconomical. Also in 1962, Trojan acquired the Elva sports car business and started to make the Mk IV Elva Courier.This in turn led to the manufacturing of McLaren racing cars until vehicle production finally ceased in the early 1970s. Trojan Limited still exists as an independent company though the factory was sold in the 1970s. The Trojan T101 Formula 5000 model met with success when Jody Scheckter won the 1973 SCCA L&M Championship driving a T101 and a Lola T330. They participated in eight grands prix, entering a total of 8 cars. In 1974 David Purley won the Brighton Speed Trials driving a Trojan-Chevrolet T101. While Formula One remained the major series, sports cars were also fashionable on either side of the Atlantic. The McLaren M1 was put into production by Peter Agg's Lambretta Trojan Group in Rye, Sussex. They would make 200 McLarens during ten years. \n* Trojan T101 Formula 5000 car \n* Trojan T103 Formula One car"@en ;
+	dbo:wikiPageRevisionID	737668940 ;
+	dbo:wikiPageID	1262642 ;
+	dbp:races	8 ;
+	dbp:wins	0 .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing>	ns20:hypernym	dbr:Manufacturer ;
+	dbp:lastRace	1974 .
+dbr:McLaren_M4B	dbp:constructor	<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing> .
+<http://dbpedia.org/resource/Trojan_(Racing_team)>	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing> .
+<http://dbpedia.org/resource/Trojan_(racing_team)>	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing> .
+dbr:Trojan_T101	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing> .
+dbr:Trojan-Tauranac_Racing	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing> .
+dbr:Trojan_T102	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Trojan\u2013Tauranac_Racing> .

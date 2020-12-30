@@ -1,0 +1,266 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2005_Japanese_Grand_Prix>	dbo:thirdTeam	dbr:Renault_in_Formula_One ;
+	dbo:secondTeam	dbr:Renault_in_Formula_One .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Renault_in_Formula_One	rdf:type	yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Renault_in_Formula_One	rdf:type	owl:Thing .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Renault_in_Formula_One	rdf:type	ns5:SocialPerson ,
+		yago:WikicatFrenchRacecarConstructors ,
+		dbo:FormulaOneTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Renault_in_Formula_One	rdf:type	wikidata:Q24229398 ,
+		ns5:Agent ,
+		yago:WikicatBritishRacecarConstructors .
+@prefix schema:	<http://schema.org/> .
+dbr:Renault_in_Formula_One	rdf:type	schema:SportsTeam ,
+		schema:Organization ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		dbo:Organisation ,
+		dbo:SportsTeam ,
+		dbo:Agent ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		wikidata:Q43229 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Renault_in_Formula_One	rdfs:label	"\u0420\u0435\u043D\u043E (\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430)"@ru ,
+		"Renault F1 Team"@pt ,
+		"Renault in Formula One"@en ,
+		"Renault F1 Team"@nl ,
+		"Renault F1"@it ,
+		"\u30EB\u30CE\u30FCF1"@ja ,
+		"\u96F7\u8BFA\u8F66\u961F"@zh ,
+		"Renault F1 Team"@fr ,
+		"Renault F1"@pl ,
+		"Renault Sport F1 Team"@de ,
+		"Renault Sport F1 Team"@es ;
+	rdfs:comment	"\u0420\u0435\u043D\u043E\u0301 (\u0444\u0440. Renault) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1977 \u0433\u043E\u0434\u0443 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439-\u0430\u0432\u0442\u043E\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u0435\u043C Renault. \u041F\u043E\u0441\u043B\u0435 \u0441\u0435\u0437\u043E\u043D\u0430 1985 \u0433\u043E\u0434\u0430 \u043F\u043E\u043A\u0438\u043D\u0443\u043B\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u0443-1, \u043E\u0434\u043D\u0430\u043A\u043E \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u043B\u0430 \u043F\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0442\u044C \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0438 \u0434\u0440\u0443\u0433\u0438\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u0430\u043C. \u0412\u043D\u043E\u0432\u044C \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0441 2002 \u0433\u043E\u0434\u0430 \u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Benetton. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0438\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u0435 \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0430 \u0438 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F, \u0442\u0430\u0431\u0430\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Mild Seven \u043E\u0441\u0442\u0430\u0432\u0430\u043B\u0430\u0441\u044C \u0442\u0438\u0442\u0443\u043B\u044C\u043D\u044B\u043C \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0432\u043F\u043B\u043E\u0442\u044C \u0434\u043E \u043A\u043E\u043D\u0446\u0430 2006 \u0433\u043E\u0434\u0430. \u041F\u043E\u043B\u043D\u043E\u0435 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0441 2007 \u0433\u043E\u0434\u0430 \u043F\u043E 2009 \u2014 ING Renault F1 Team. \u0412 2010 \u0433\u043E\u0434\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u0430\u0437\u044B\u0432\u0430\u043B\u0430\u0441\u044C Renault F1 Team. \u0412 2011 \u0433\u043E\u0434\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u0430\u0437\u044B\u0432\u0430\u043B\u0430\u0441\u044C Lotus Renault GP. \u0412 \u043A\u043E\u043D\u0446\u0435 2011 \u0433\u043E\u0434\u0430 \u0430\u043A\u0446\u0438\u043E\u043D\u0435\u0440\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0441\u0442\u0430\u043B\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Lotus Cars, \u0438 \u0442\u0430 \u0431\u044B\u043B\u0430 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 \u041B\u043E\u0442\u0443\u0441 (Lotus F1 Team)."@ru ,
+		"\u96F7\u8BFA\u8F66\u961F\uFF08Renault F1\uFF09\u4E8E20\u4E16\u7EAA70\u5E74\u4EE3\u540E\u671F\u523020\u4E16\u7EAA80\u5E74\u4EE3\u65E9\u671F\u53C2\u52A0\u4E86\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u3002\u800C\u96F7\u8BFA\u8F66\u961F\u66FE\u57282002\u5E74\u901A\u8FC7\u63A5\u624B\u7FA9\u5927\u5229\u8457\u540D\u6210\u8863\u54C1\u724C\u73ED\u5C3C\u9813\u6240\u6210\u7ACB\u7684\u8D1D\u7EB3\u901A\u8F66\u961F\uFF08Benetton\uFF09\u56DE\u5230F1\u8FD9\u9879\u8FD0\u52A8\u4E2D\uFF1B\u4F46\u662F\u57282010\u5E74\u5C06\u8F66\u961F\u51FA\u552E\uFF0C\u57282016\u5E74\u8D5B\u5B63\u518D\u6B21\u56DE\u5F52\u3002 \u96F7\u8BFA\u8F66\u961F\u5728\u725B\u6D25\u5B8C\u6210\u5BF9\u5E95\u76D8\u7684\u8BBE\u8BA1\uFF0C\u5F15\u64CE\u7684\u8BBE\u8BA1\u5219\u5728\u6CD5\u56FD\u7684Viry-Ch\u00E2tillon\u8FDB\u884C\u3002"@zh ,
+		"La Renault F1 \u00E8 una scuderia francese di Formula 1 presente in Formula 1 in tre fasi distinte: dal 1977 al 1985 con una squadra completa che introdusse l'innovazione del motore con turbocompressore, dal 2002 nuovamente con un team proprio dopo aver rilevato la squadra Benetton di cui ha conservato la struttura e la sede a Enstone in Inghilterra. Alla fine della stagione 2010 la Genii Capital ha acquistato interamente il team francese, e nel 2011 ha corso con licenza britannica con il nome di Lotus Renault GP, visto l'accordo di sponsorizzazione con Lotus Cars. La Renault ha vinto i suoi primi 15 Gran Premi fra il 1977 e il 1985, ma i titoli mondiali sono arrivati solo dopo il ritorno in prima persona in Formula 1, nel 2005 e nel 2006 con Fernando Alonso. Dal 2012 diventa Lotus F1 Team, con"@it ,
+		"Renault is een autosportteam actief in de Formule 1."@nl ,
+		"Renault Sport Formula One Team est un constructeur de ch\u00E2ssis et motoriste en Formule 1 de 1977 \u00E0 1985, de 2002 \u00E0 2011 et \u00E0 partir de 2016. Entretemps, il pr\u00E9f\u00E8re s'en tenir au r\u00F4le de motoriste. Renault, qui d\u00E9bute en tant que constructeur en Formule 1 lors de la saison 1977, y introduit le moteur V6 turbocompress\u00E9. Les d\u00E9buts sont difficiles et les observateurs britanniques ne manquent pas de surnommer la monoplace fran\u00E7aise \u00AB la th\u00E9i\u00E8re jaune \u00BB. En 1979, Renault remporte sa premi\u00E8re victoire lors du Grand Prix de France avec Jean-Pierre Jabouille."@fr ,
+		"Renault Sport F1 Team es una escuder\u00EDa francesa de F\u00F3rmula 1, creada en 1977 y que retorn\u00F3 a la categor\u00EDa para disputar la temporada 2016. Renault no particip\u00F3 como equipo entre 1986-2001 y 2012-2015, limit\u00E1ndose a suministrar motores a otros constructores. Anteriormente compiti\u00F3 en la F\u00F3rmula 1 como Equipe Renault Elf y con licencia francesa desde finales de los a\u00F1os 1970 hasta 1985, y regres\u00F3 con el tradicional nombre de Renault F1 Team a partir de 2002, tras adquirir a Benetton, que a su vez compr\u00F3 el equipo Toleman en 1986. A su vez, en 2011 particip\u00F3 con licencia brit\u00E1nica y bajo el nombre comercial de Lotus Renault GP."@es ,
+		"\u30EB\u30CE\u30FCF1\uFF08Renault F1\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u306E\u81EA\u52D5\u8ECA\u30E1\u30FC\u30AB\u30FC\u3001\u30EB\u30CE\u30FC\u304C\u904B\u55B6\u3059\u308B\u30EF\u30FC\u30AF\u30B9\u30FB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002 2016\u5E74\u304B\u3089\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u540D\u306F\u3001\u30EB\u30CE\u30FC\u30FB\u30B9\u30DD\u30FC\u30EB\u30FB\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9\u30EF\u30F3\u30FB\u30C1\u30FC\u30E0\uFF08Renault Sport Formula One Team\uFF09\u3002 \u672C\u9805\u3067\u306F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3068\u3057\u3066\u306E\u6D3B\u52D5\u306E\u307B\u304B\u3001\u30EB\u30CE\u30FC\u304A\u3088\u3073\u305D\u306E\u5B50\u4F1A\u793E\u306E\u30EB\u30CE\u30FC\u30FB\u30B9\u30DD\u30FC\u30EB\u306B\u3088\u308B\u30A8\u30F3\u30B8\u30F3\u4F9B\u7D66\u306E\u304B\u305F\u3061\u3067\u306EF1\u53C2\u6226\u306B\u3064\u3044\u3066\u3082\u6271\u3046\u3002"@ja ,
+		"Renault Sport F1 Team ist ein in Gro\u00DFbritannien ans\u00E4ssiger Motorsportrennstall, der 2016 an der Formel-1-Weltmeisterschaft teilnimmt. Das zum franz\u00F6sischen Automobilhersteller Renault geh\u00F6rende Team tritt die Nachfolge des bisherigen Lotus F1 Teams an. Es ist bereits der dritte werksseitige Formel-1-Einsatz des franz\u00F6sischen Unternehmens. Renault war bereits von 1977 bis 1985 als \u00C9quipe Renault und von 2001 bis 2009 als Renault F1 werksseitig in der Formel 1 engagiert; Fernando Alonso wurde 2005 und 2006 mit dem Werksteam Weltmeister. Dar\u00FCber hinaus ist das Unternehmen einer der erfolgreichsten Hersteller von Formel-1-Motoren der letzten 30 Jahre. Als Ausr\u00FCster von Teams wie Williams, Benetton und Red Bull gewann Renault zwischen 1992 und 2013 insgesamt neun Fahrerweltmeisterschaften mit N"@de ,
+		"A Renault Sport Formula One Team \u00E9 uma equipe francesa de automobilismo que disputa a F\u00F3rmula 1 baseada em Enstone, Oxfordshire, no Reino Unido. A Renault tem estado envolvida na F\u00F3rmula 1 tanto como construtor e fornecedor de motores em v\u00E1rios per\u00EDodos desde 1977. Em 1977, a empresa entrou nessa categoria como construtor, atrav\u00E9s da Equipe Renault Elf sob licen\u00E7a francesa e, com a equipe introduzindo o motor turbo na Formula 1 em seu primeiro carro, o Renault RS01. Em 1983, a Renault come\u00E7ou a fornecer motores para outras equipes. Embora mesmo com a equipe Renault ganhando corridas e competindo por t\u00EDtulos mundiais, ela se retirou da competi\u00E7\u00E3o no final de 1985. No entanto, a Renault continuou fornecendo motores para outras equipes at\u00E9 1986, depois, novamente entre 1989 e 1997."@pt ,
+		"Renault are currently involved in Formula One as a constructor, under the name of Renault Sport Formula One Team. They have been associated with Formula One as both constructor and engine supplier for various periods since 1977. In 1977, the company entered Formula One as a constructor, introducing the turbo engine to Formula One in its first car, the Renault RS01. In 1983, Renault began supplying engines to other teams. Although the Renault team won races and competed for world titles, it withdrew at the end of 1985. Renault continued supplying engines to other teams until 1986, then again from 1989 to 1997."@en ,
+		"Renault F1 (oficjalnie Renault Sport Formula One Team) \u2013 zesp\u00F3\u0142 Formu\u0142y 1, kt\u00F3ry zosta\u0142 za\u0142o\u017Cony pod koniec lat 70. XX w. Wycofa\u0142 si\u0119 ze sportu po sezonie 1985. Zesp\u00F3\u0142 powr\u00F3ci\u0142 w sezonie 2002. Nowy zesp\u00F3\u0142 powsta\u0142 na bazie zespo\u0142u Benetton. Firm\u0119 Renault w innych sportach motorowych reprezentuje Renault Sport. Siedziba zespo\u0142u znajduje si\u0119 w Enstone, gdzie projektowane i budowane s\u0105 samochody."@pl ;
+	rdfs:seeAlso	dbr:Renault_EF-Type_engine .
+@prefix dbpedia-el:	<http://el.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-el:Renault_F1_Team ,
+		wikidata:Q172722 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-wikidata:Q172722 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	yago-res:Renault_in_Formula_One ,
+		<http://rdf.freebase.com/ns/m.01jw8g> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-de:Renault_Sport_F1_Team ,
+		<http://ko.dbpedia.org/resource/\uB974\uB178_F1> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-it:Renault_F1 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-cs:Renault_F1 ,
+		<http://ja.dbpedia.org/resource/\u30EB\u30CE\u30FCF1> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-fr:Renault_F1_Team .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-pl:Renault_F1 ,
+		yago-res:Renault_F1 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-pt:Renault_F1_Team .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-nl:Renault_F1_Team .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-es:Renault_Sport_F1_Team .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Renault_in_Formula_One	owl:sameAs	dbpedia-id:Renault_di_Formula_Satu ,
+		dbr:Renault_in_Formula_One .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Renault_in_Formula_One	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Companies_based_in_Oxfordshire ,
+		dbc:Laureus_World_Sports_Awards_winners ,
+		dbc:Renault_in_motorsport ,
+		dbc:Formula_One_engine_manufacturers ,
+		dbc:Formula_One_entrants ,
+		dbc:French_auto_racing_teams ,
+		dbc:French_racecar_constructors ,
+		dbc:Formula_One_constructors ,
+		dbc:Companies_based_in_Paris .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Renault_in_Formula_One	foaf:name	"Formula One Team"@en ,
+		"Renault Sport"@en ;
+	foaf:homepage	<http://www.renaultsport.com> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Renault_in_Formula_One	foaf:isPrimaryTopicOf	wikipedia-en:Renault_in_Formula_One .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Renault_in_Formula_One	dbp:races	320 ;
+	<http://dbpedia.org/property/2016Chassis>	dbr:Renault_RS16 ;
+	<http://dbpedia.org/property/2016Drivers>	20 ,
+		30 ;
+	<http://dbpedia.org/property/2016Engine>	"Renault RE16"^^xsd:string ;
+	<http://dbpedia.org/property/2016TestDrivers>	"Nicholas Latifi"^^xsd:string ,
+		"Carmen Jord\u00E1"^^xsd:string ,
+		"Sergey Sirotkin"^^xsd:string ,
+		"Esteban Ocon"^^xsd:string ;
+	<http://dbpedia.org/property/2016Tyres>	dbr:Pirelli ;
+	dbp:quote	"The ING Renault F1 Team will not dispute the recent allegations made by the FIA concerning the 2008 Singapore Grand Prix.\n\nIt also wishes to state that its managing director, Flavio Briatore and its executive director of engineering, Pat Symonds, have left the team."^^xsd:string ;
+	dbp:debut	1977 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	dbp:after	dbr:Scuderia_Ferrari ;
+	dbp:wins	35 ;
+	dbp:director	<http://dbpedia.org/resource/Bob_Bell_(motorsport)> ,
+		"Nick Chester"^^xsd:string ,
+		"R\u00E9mi Taffin"^^xsd:string ;
+	dbp:consChamp	2 ;
+	dbp:driversChamp	2 ;
+	dbp:fastestLaps	31 ;
+	dbp:poles	51 ;
+	dbp:shortName	"Renault"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Renault_in_Formula_One	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Renault_in_Formula_One?oldid=744595118> ;
+	dbo:wikiPageExternalLink	<http://www.renaultsportf1.com/?lang=en> ,
+		<http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8266090.stm> ,
+		<https://web.archive.org/web/20110219233037/http:/www.f1-corner.com/f1-team_Renault.aspx> ,
+		<https://web.archive.org/web/20070312125346/http:/www.ina.fr/archivespourtous/index.php?vue=notice&from=themes&cs_page=3&cs_order=0&code=C0524222302&num_notice=23&total_notices=31> ,
+		<http://www.renaultsport.com> ,
+		<http://www.renaultsportf1.com/?lang=fr> ;
+	dbp:align	"right"^^xsd:string ;
+	dbp:base	"Viry-Ch\u00E2tillon, France"^^xsd:string ,
+		"Enstone, United Kingdom"^^xsd:string ;
+	dbp:before	dbr:Scuderia_Ferrari ;
+	dbp:principal	dbr:Carlos_Ghosn ,
+		"Fr\u00E9d\u00E9ric Vasseur"^^xsd:string ,
+		"Cyril Abiteboul"^^xsd:string ,
+		"J\u00E9r\u00F4me Stoll"^^xsd:string ;
+	dbo:abstract	"Renault is een autosportteam actief in de Formule 1."@nl ,
+		"\u96F7\u8BFA\u8F66\u961F\uFF08Renault F1\uFF09\u4E8E20\u4E16\u7EAA70\u5E74\u4EE3\u540E\u671F\u523020\u4E16\u7EAA80\u5E74\u4EE3\u65E9\u671F\u53C2\u52A0\u4E86\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u3002\u800C\u96F7\u8BFA\u8F66\u961F\u66FE\u57282002\u5E74\u901A\u8FC7\u63A5\u624B\u7FA9\u5927\u5229\u8457\u540D\u6210\u8863\u54C1\u724C\u73ED\u5C3C\u9813\u6240\u6210\u7ACB\u7684\u8D1D\u7EB3\u901A\u8F66\u961F\uFF08Benetton\uFF09\u56DE\u5230F1\u8FD9\u9879\u8FD0\u52A8\u4E2D\uFF1B\u4F46\u662F\u57282010\u5E74\u5C06\u8F66\u961F\u51FA\u552E\uFF0C\u57282016\u5E74\u8D5B\u5B63\u518D\u6B21\u56DE\u5F52\u3002 \u96F7\u8BFA\u8F66\u961F\u5728\u725B\u6D25\u5B8C\u6210\u5BF9\u5E95\u76D8\u7684\u8BBE\u8BA1\uFF0C\u5F15\u64CE\u7684\u8BBE\u8BA1\u5219\u5728\u6CD5\u56FD\u7684Viry-Ch\u00E2tillon\u8FDB\u884C\u3002"@zh ,
+		"La Renault F1 \u00E8 una scuderia francese di Formula 1 presente in Formula 1 in tre fasi distinte: dal 1977 al 1985 con una squadra completa che introdusse l'innovazione del motore con turbocompressore, dal 2002 nuovamente con un team proprio dopo aver rilevato la squadra Benetton di cui ha conservato la struttura e la sede a Enstone in Inghilterra. Alla fine della stagione 2010 la Genii Capital ha acquistato interamente il team francese, e nel 2011 ha corso con licenza britannica con il nome di Lotus Renault GP, visto l'accordo di sponsorizzazione con Lotus Cars. La Renault ha vinto i suoi primi 15 Gran Premi fra il 1977 e il 1985, ma i titoli mondiali sono arrivati solo dopo il ritorno in prima persona in Formula 1, nel 2005 e nel 2006 con Fernando Alonso. Dal 2012 diventa Lotus F1 Team, con la Renault che diventa solo fornitrice di motori fino al 2014. Dal 2016 torna come costruttore a tempo pieno, dopo la riacquisizione della stessa Lotus F1 Team, con il nome di Renault Sport F1 Team. Dal 1989 al 1997 e nel 2001 \u00E8 stata presente solamente come fornitore di motori (6 titoli consecutivi dal 1992 al 1997)."@it ,
+		"Renault Sport F1 Team es una escuder\u00EDa francesa de F\u00F3rmula 1, creada en 1977 y que retorn\u00F3 a la categor\u00EDa para disputar la temporada 2016. Renault no particip\u00F3 como equipo entre 1986-2001 y 2012-2015, limit\u00E1ndose a suministrar motores a otros constructores. Anteriormente compiti\u00F3 en la F\u00F3rmula 1 como Equipe Renault Elf y con licencia francesa desde finales de los a\u00F1os 1970 hasta 1985, y regres\u00F3 con el tradicional nombre de Renault F1 Team a partir de 2002, tras adquirir a Benetton, que a su vez compr\u00F3 el equipo Toleman en 1986. A su vez, en 2011 particip\u00F3 con licencia brit\u00E1nica y bajo el nombre comercial de Lotus Renault GP. Renault vendi\u00F3 el 75% del equipo a Genii Capital a finales de 2009; renombrando la escuder\u00EDa como Lotus Renault GP y anunciando la creaci\u00F3n de Renault Sport F1 para el suministro de motores y tecnolog\u00EDa a partir de 2011, el cual sigue controlando el 25% de la escuder\u00EDa. Luego de competir en 2011 como Renault, Genii Capital solicit\u00F3 el cambio de nombre del equipo en la lista de inscriptos de 2012, luego de que Proton (actual propietaria de la marca Lotus Cars) tomara en 2012 el control del equipo, renombr\u00E1ndolo a Lotus F1 Team y dejando a Renault como proveedor de motores. Renault consigui\u00F3 dos t\u00EDtulos de campe\u00F3n de pilotos (con Fernando Alonso) y dos t\u00EDtulos como campe\u00F3n de constructores, ambos en 2005 y 2006."@es ,
+		"\u30EB\u30CE\u30FCF1\uFF08Renault F1\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u306E\u81EA\u52D5\u8ECA\u30E1\u30FC\u30AB\u30FC\u3001\u30EB\u30CE\u30FC\u304C\u904B\u55B6\u3059\u308B\u30EF\u30FC\u30AF\u30B9\u30FB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002 2016\u5E74\u304B\u3089\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u540D\u306F\u3001\u30EB\u30CE\u30FC\u30FB\u30B9\u30DD\u30FC\u30EB\u30FB\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9\u30EF\u30F3\u30FB\u30C1\u30FC\u30E0\uFF08Renault Sport Formula One Team\uFF09\u3002 \u672C\u9805\u3067\u306F\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3068\u3057\u3066\u306E\u6D3B\u52D5\u306E\u307B\u304B\u3001\u30EB\u30CE\u30FC\u304A\u3088\u3073\u305D\u306E\u5B50\u4F1A\u793E\u306E\u30EB\u30CE\u30FC\u30FB\u30B9\u30DD\u30FC\u30EB\u306B\u3088\u308B\u30A8\u30F3\u30B8\u30F3\u4F9B\u7D66\u306E\u304B\u305F\u3061\u3067\u306EF1\u53C2\u6226\u306B\u3064\u3044\u3066\u3082\u6271\u3046\u3002"@ja ,
+		"Renault Sport Formula One Team est un constructeur de ch\u00E2ssis et motoriste en Formule 1 de 1977 \u00E0 1985, de 2002 \u00E0 2011 et \u00E0 partir de 2016. Entretemps, il pr\u00E9f\u00E8re s'en tenir au r\u00F4le de motoriste. Renault, qui d\u00E9bute en tant que constructeur en Formule 1 lors de la saison 1977, y introduit le moteur V6 turbocompress\u00E9. Les d\u00E9buts sont difficiles et les observateurs britanniques ne manquent pas de surnommer la monoplace fran\u00E7aise \u00AB la th\u00E9i\u00E8re jaune \u00BB. En 1979, Renault remporte sa premi\u00E8re victoire lors du Grand Prix de France avec Jean-Pierre Jabouille. Le turbocompresseur se g\u00E9n\u00E9ralise en Formule 1 au d\u00E9but des ann\u00E9es 1980 ; en 1981, Renault engage Alain Prost qui remporte neuf victoires, obtient dix pole positions et ne passe pas loin du titre mondial en 1983. Renault se retire du championnat \u00E0 la fin de la saison 1985 et conserve son r\u00F4le de motoriste, permettant dans les ann\u00E9es 1990 \u00E0 Williams de remporter cinq titres des constructeurs et \u00E0 Benetton de s'en adjuger un. Le groupe fran\u00E7ais revient en tant que constructeur de ch\u00E2ssis en 2002 apr\u00E8s le rachat de l'\u00E9curie Benetton Formula intervenu deux ans plus t\u00F4t. Il obtient deux titres mondiaux des constructeurs en 2005 et 2006 ainsi que deux titres de champion du monde des pilotes avec Fernando Alonso. \u00C0 partir de 2009, le fonds d'investissement Genii Capital devient actionnaire de l'\u00E9curie avec le rachat d'une partie des parts du constructeur automobile fran\u00E7ais Renault. Fin 2010, Genii Capital devient le propri\u00E9taire unique de l'\u00E9curie et la d\u00E9nomination commerciale de l'\u00E9curie est Lotus Renault GP. \u00C0 partir de 2012, Genii Capital produit ses propres ch\u00E2ssis et s'inscrit en championnat du monde sous la d\u00E9nomination Lotus F1 Team. Renault F1 Team, qui a quitt\u00E9 le championnat du monde des constructeurs, reprend son r\u00F4le de motoriste pour r\u00E9gner sur l'\u00E8re des V8 atmosph\u00E9riques avec Red Bull Racing (quatre titres mondiaux pilotes et constructeurs) puis rach\u00E8te les parts de Genii Capital afin de revenir en 2016 en tant que constructeur sous la d\u00E9nomination Renault Sport Formula 1 Team, avec Cyril Abiteboul comme directeur g\u00E9n\u00E9ral, Fr\u00E9d\u00E9ric Vasseur  comme patron de la comp\u00E9tition, Kevin Magnussen et Jolyon Palmer comme pilotes."@fr ,
+		"Renault are currently involved in Formula One as a constructor, under the name of Renault Sport Formula One Team. They have been associated with Formula One as both constructor and engine supplier for various periods since 1977. In 1977, the company entered Formula One as a constructor, introducing the turbo engine to Formula One in its first car, the Renault RS01. In 1983, Renault began supplying engines to other teams. Although the Renault team won races and competed for world titles, it withdrew at the end of 1985. Renault continued supplying engines to other teams until 1986, then again from 1989 to 1997. Renault returned to Formula One in 2000 when it acquired the Enstone-based Benetton Formula team (formerly Toleman Motorsport). In 2002 Renault re-branded the team as \"Renault F1 Team\" and started to use Renault as their constructor name, winning both the Drivers' and Constructors' Championships in 2005 and 2006. For the 2011 Formula One season the team competed under the name Lotus Renault GP but retained the Renault constructor name. In 2012, the team changed their constructor name to Lotus and operated as Lotus F1 until 2016, when they returned to the control of Renault as a works manufacturer. Renault has also supplied engines to other teams, including Red Bull Racing (2007\u20132015), Benetton Formula (1995\u20131997, 2001) and Williams (1989\u20131997, 2012\u201313). In addition to its two own team F1 World Constructors' Championships (2005, 2006) and two Drivers' Championships, as an engine supplier, Renault has contributed to nine other World Drivers' Championships. It has collected over 160 wins as engine supplier, ranking third in Formula One history."@en ,
+		"\u0420\u0435\u043D\u043E\u0301 (\u0444\u0440. Renault) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1977 \u0433\u043E\u0434\u0443 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439-\u0430\u0432\u0442\u043E\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u0435\u043C Renault. \u041F\u043E\u0441\u043B\u0435 \u0441\u0435\u0437\u043E\u043D\u0430 1985 \u0433\u043E\u0434\u0430 \u043F\u043E\u043A\u0438\u043D\u0443\u043B\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u0443-1, \u043E\u0434\u043D\u0430\u043A\u043E \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u043B\u0430 \u043F\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0442\u044C \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0438 \u0434\u0440\u0443\u0433\u0438\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u0430\u043C. \u0412\u043D\u043E\u0432\u044C \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0441 2002 \u0433\u043E\u0434\u0430 \u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Benetton. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0438\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u0435 \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0430 \u0438 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F, \u0442\u0430\u0431\u0430\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Mild Seven \u043E\u0441\u0442\u0430\u0432\u0430\u043B\u0430\u0441\u044C \u0442\u0438\u0442\u0443\u043B\u044C\u043D\u044B\u043C \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0432\u043F\u043B\u043E\u0442\u044C \u0434\u043E \u043A\u043E\u043D\u0446\u0430 2006 \u0433\u043E\u0434\u0430. \u041F\u043E\u043B\u043D\u043E\u0435 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0441 2007 \u0433\u043E\u0434\u0430 \u043F\u043E 2009 \u2014 ING Renault F1 Team. \u0412 2010 \u0433\u043E\u0434\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u0430\u0437\u044B\u0432\u0430\u043B\u0430\u0441\u044C Renault F1 Team. \u0412 2011 \u0433\u043E\u0434\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u0430\u0437\u044B\u0432\u0430\u043B\u0430\u0441\u044C Lotus Renault GP. \u0412 \u043A\u043E\u043D\u0446\u0435 2011 \u0433\u043E\u0434\u0430 \u0430\u043A\u0446\u0438\u043E\u043D\u0435\u0440\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0441\u0442\u0430\u043B\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Lotus Cars, \u0438 \u0442\u0430 \u0431\u044B\u043B\u0430 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 \u041B\u043E\u0442\u0443\u0441 (Lotus F1 Team). \u041F\u043E\u0441\u043B\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0410\u0431\u0443-\u0414\u0430\u0431\u0438 2015 \u0433\u043E\u0434\u0430 \u0431\u044B\u043B\u043E \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u043E, \u0447\u0442\u043E \u043F\u043E\u0441\u043B\u0435 \u0432\u044B\u043F\u043B\u0430\u0442\u044B \u0434\u043E\u043B\u0433\u043E\u0432 Lotus F1 Team \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u0443\u0434\u0435\u0442 \u043A\u0443\u043F\u043B\u0435\u043D\u0430 \u0430\u0432\u0442\u043E\u043A\u043E\u043D\u0446\u0435\u0440\u043D\u043E\u043C Renault \u0438 \u0441\u0442\u0430\u043D\u0435\u0442 \u0435\u0433\u043E \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439. \u041F\u0438\u043B\u043E\u0442\u0430\u043C\u0438 \u0431\u0443\u0434\u0443\u0442 \u0414\u0436\u043E\u043B\u0438\u043E\u043D \u041F\u0430\u043B\u043C\u0435\u0440 \u0438 \u041F\u0430\u0441\u0442\u043E\u0440 \u041C\u0430\u043B\u044C\u0434\u043E\u043D\u0430\u0434\u043E, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0431\u044B\u043B\u0438 \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043D\u044B \u0435\u0449\u0451 \u0434\u043E \u043F\u043E\u043A\u0443\u043F\u043A\u0438 Lotus. \u041F\u043E\u0437\u0434\u043D\u0435\u0435 \u0441\u0442\u0430\u043B\u043E \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E, \u0447\u0442\u043E \u041C\u0430\u043B\u044C\u0434\u043E\u043D\u0430\u0434\u043E \u0437\u0430\u043C\u0435\u043D\u0438\u0442 \u041A\u0435\u0432\u0438\u043D \u041C\u0430\u0433\u043D\u0443\u0441\u0441\u0435\u043D."@ru ,
+		"Renault Sport F1 Team ist ein in Gro\u00DFbritannien ans\u00E4ssiger Motorsportrennstall, der 2016 an der Formel-1-Weltmeisterschaft teilnimmt. Das zum franz\u00F6sischen Automobilhersteller Renault geh\u00F6rende Team tritt die Nachfolge des bisherigen Lotus F1 Teams an. Es ist bereits der dritte werksseitige Formel-1-Einsatz des franz\u00F6sischen Unternehmens. Renault war bereits von 1977 bis 1985 als \u00C9quipe Renault und von 2001 bis 2009 als Renault F1 werksseitig in der Formel 1 engagiert; Fernando Alonso wurde 2005 und 2006 mit dem Werksteam Weltmeister. Dar\u00FCber hinaus ist das Unternehmen einer der erfolgreichsten Hersteller von Formel-1-Motoren der letzten 30 Jahre. Als Ausr\u00FCster von Teams wie Williams, Benetton und Red Bull gewann Renault zwischen 1992 und 2013 insgesamt neun Fahrerweltmeisterschaften mit Nigel Mansell, Alain Prost, Michael Schumacher, Damon Hill, Jacques Villeneuve und Sebastian Vettel. Renault F1 etablierte Ende der 1970er-Jahre die Turbo-Technologie im Grand Prix-Sport. Renaults Engagement in der Formel 1 f\u00FChrte dazu, dass zahlreiche weitere Automobilhersteller als Motorenlieferanten in die h\u00F6chste Motorsportklasse einstiegen. In der aktuellen Saison tritt Renault mit Kevin Magnussen und Jolyon Palmer als Stammfahrer an. Zugleich r\u00FCstet Renault auch Red Bull Racing mit Motoren aus, die dort allerdings den Namen des Sponsors TAG Heuer tragen."@de ,
+		"Renault F1 (oficjalnie Renault Sport Formula One Team) \u2013 zesp\u00F3\u0142 Formu\u0142y 1, kt\u00F3ry zosta\u0142 za\u0142o\u017Cony pod koniec lat 70. XX w. Wycofa\u0142 si\u0119 ze sportu po sezonie 1985. Zesp\u00F3\u0142 powr\u00F3ci\u0142 w sezonie 2002. Nowy zesp\u00F3\u0142 powsta\u0142 na bazie zespo\u0142u Benetton. Firm\u0119 Renault w innych sportach motorowych reprezentuje Renault Sport. Siedziba zespo\u0142u znajduje si\u0119 w Enstone, gdzie projektowane i budowane s\u0105 samochody."@pl ,
+		"A Renault Sport Formula One Team \u00E9 uma equipe francesa de automobilismo que disputa a F\u00F3rmula 1 baseada em Enstone, Oxfordshire, no Reino Unido. A Renault tem estado envolvida na F\u00F3rmula 1 tanto como construtor e fornecedor de motores em v\u00E1rios per\u00EDodos desde 1977. Em 1977, a empresa entrou nessa categoria como construtor, atrav\u00E9s da Equipe Renault Elf sob licen\u00E7a francesa e, com a equipe introduzindo o motor turbo na Formula 1 em seu primeiro carro, o Renault RS01. Em 1983, a Renault come\u00E7ou a fornecer motores para outras equipes. Embora mesmo com a equipe Renault ganhando corridas e competindo por t\u00EDtulos mundiais, ela se retirou da competi\u00E7\u00E3o no final de 1985. No entanto, a Renault continuou fornecendo motores para outras equipes at\u00E9 1986, depois, novamente entre 1989 e 1997. A Renault retornou \u00E0 F\u00F3rmula 1 em 2000, quando adquiriu a equipe baseada em Enstone, a Benetton Formula (anteriormente Toleman Motorsport), uma equipe que havia ganhado o mundial de pilotos em 1994 e ambos os mundiais de pilotos e construtores em 1995. Em 2002, a Renault rebatizou a equipe para Renault F1 Team e come\u00E7ou a usar a nomenclatura \"Renault\" como nome de construtor e, posteriormente, ganhou os dois mundiais de pilotos e de construtores em dois anos consecutivos, em 2005 e 2006. A Renault vendeu 75% da equipe a Genii Capital no final de 2009 e, no final do ano seguinte, atrav\u00E9s de um acordo entre o Grupo Lotus e a Renault, a equipe competiu a temporada de 2011 sob licen\u00E7a brit\u00E2nica e com o nome comercial de Lotus Renault GP. A empresa francesa, que ainda controlava 25% da equipe, tamb\u00E9m anunciou a cria\u00E7\u00E3o da Renault Sport F1 para fornecer motores e tecnologia a equipe e seus demais clientes a partir de 2011. A Proton, o atual propriet\u00E1rio da marca Lotus Cars, passou a controlar a equipe em 2012, renomeando-a para Lotus F1 Team e deixando a Renault como fornecedora de motores. Com a venda da equipe encerrou a segunda era do time franc\u00EAs. Na temporada de 2016, a Renault iniciou sua terceira era como construtora na F\u00F3rmula 1, ap\u00F3s readquirir a equipe Lotus no final do ano de 2015."@pt ;
+	dbo:wikiPageRevisionID	744595118 ;
+	dbo:wikiPageID	240378 ;
+	dbp:logo	"Renault_Sport_Formula_One_Team_logo.svg"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Renault_in_Formula_One	dbp:source	"--09-16"^^xsd:gMonthDay ;
+	dbp:website	<http://www.renaultsport.com> ;
+	dbp:previousName	dbr:Lotus_F1 ;
+	dbp:title	<http://dbpedia.org/resource/List_of_Formula_One_World_Constructors\u0027_Champions> .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+dbr:Renault_in_Formula_One	dbp:width	"27.0"^^ns28:perCent .
+<http://dbpedia.org/resource/2004_Monaco_Grand_Prix>	dbo:poleDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:firstDriverTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2004_Spanish_Grand_Prix>	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1984_Belgian_Grand_Prix>	dbo:secondTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2011_Australian_Grand_Prix>	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1979_United_States_Grand_Prix>	dbo:secondTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1979_Italian_Grand_Prix>	dbo:poleDriverTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2004_Belgian_Grand_Prix>	dbo:poleDriverTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1979_French_Grand_Prix>	dbo:fastestDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:poleDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:thirdTeam	dbr:Renault_in_Formula_One ;
+	dbo:firstDriverTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2010_Australian_Grand_Prix>	dbo:secondTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/Ren\u00E9_Arnoux>	<http://dbpedia.org/property/team(s)_>	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2010_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+dbr:Renault_RS16	dbp:team	dbr:Renault_in_Formula_One ;
+	dbp:constructor	dbr:Renault_in_Formula_One .
+dbr:Renault_R31	dbp:constructor	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1992_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1993_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1994_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1995_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1996_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1997_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+dbr:Renault_F1_Team	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2004_French_Grand_Prix>	dbo:poleDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:secondTeam	dbr:Renault_in_Formula_One .
+dbr:Cyril_Abiteboul	dbo:employer	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/Bob_Bell_(motorsport)>	dbo:employer	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1979_British_Grand_Prix>	dbo:secondTeam	dbr:Renault_in_Formula_One .
+dbr:Renault_Sport_F1_Team	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Kevin_Magnussen	<http://dbpedia.org/property/2016Team>	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2010_Turkish_Grand_Prix>	dbo:fastestDriverTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1980_Brazilian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:poleDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:firstDriverTeam	dbr:Renault_in_Formula_One .
+dbr:Lotus_95T__1	dbo:manufacturer	dbr:Renault_in_Formula_One .
+dbr:Lotus_95T__2	dbo:manufacturer	dbr:Renault_in_Formula_One .
+dbr:Lotus_95T__3	dbo:manufacturer	dbr:Renault_in_Formula_One .
+wikipedia-en:Renault_in_Formula_One	foaf:primaryTopic	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2013_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2010_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2011_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2012_Formula_One_season>	dbp:champions	dbr:Renault_in_Formula_One .
+dbr:ING_Renault_F1_Team	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Lotus_Renault_GP	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2003_Hungarian_Grand_Prix>	dbo:poleDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:firstDriverTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2006_Australian_Grand_Prix>	dbo:firstDriverTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2005_Chinese_Grand_Prix>	dbo:poleDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:firstDriverTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2005_Brazilian_Grand_Prix>	dbo:poleDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2003_Malaysian_Grand_Prix>	dbo:poleDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2003_Spanish_Grand_Prix>	dbo:secondTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2003_Brazilian_Grand_Prix>	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2004_Australian_Grand_Prix>	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2004_Hungarian_Grand_Prix>	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+dbr:Simon_Rennie	dbo:knownFor	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2003_Canadian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2010_Canadian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Renault_in_Formula_One .
+dbr:Caterham_F1	dbp:engines	dbr:Renault_in_Formula_One .
+dbr:Lotus_F1	dbp:engines	dbr:Renault_in_Formula_One ;
+	dbp:previousName	dbr:Renault_in_Formula_One ;
+	dbp:nextName	dbr:Renault_in_Formula_One .
+dbr:Scuderia_Ferrari	dbp:after	dbr:Renault_in_Formula_One ;
+	dbp:before	dbr:Renault_in_Formula_One .
+dbr:Jolyon_Palmer	<http://dbpedia.org/property/2016Team>	dbr:Renault_in_Formula_One .
+dbr:LRGP	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2005_British_Grand_Prix>	dbo:poleDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:secondTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/Fran\u00E7ois_Hesnault>	<http://dbpedia.org/property/team(s)_>	dbr:Renault_in_Formula_One .
+dbr:Renault_F1	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2008_German_Grand_Prix>	dbo:secondTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2003_German_Grand_Prix>	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/2004_German_Grand_Prix>	dbo:thirdTeam	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/1983_British_Grand_Prix>	dbo:fastestDriverTeam	dbr:Renault_in_Formula_One ;
+	dbo:firstDriverTeam	dbr:Renault_in_Formula_One .
+dbr:Indian_Grand_Prix	dbp:fastestLapTeam	dbr:Renault_in_Formula_One ;
+	dbp:winningTeam	dbr:Renault_in_Formula_One ;
+	dbp:poleTeam	dbr:Renault_in_Formula_One ;
+	dbp:thirdTeam	dbr:Renault_in_Formula_One .
+dbr:Korean_Grand_Prix	dbp:secondTeam	dbr:Renault_in_Formula_One ;
+	dbp:thirdTeam	dbr:Renault_in_Formula_One .
+dbr:Benetton_B201	dbp:team	dbr:Renault_in_Formula_One .
+<http://dbpedia.org/resource/Renault_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Renault_in_Formula_One .
+dbr:Renault_Sport_Formula_One_Team	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Lotus_Renault_Grand_Prix	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Equipe_Renault_Elf	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Mild_Seven_Renault_F1_Team	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Renault_Sport_F1	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Lotus-Renault_GP	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Equipe_Renault	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Renault_in_F1	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .
+dbr:Renault_GP	dbo:wikiPageRedirects	dbr:Renault_in_Formula_One .

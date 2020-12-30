@@ -1,0 +1,81 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:JBW	foaf:primaryTopic	dbr:JBW .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:JBW_Type_1	dbo:wikiPageRedirects	dbr:JBW .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:JBW	rdf:type	yago:YagoLegalActorGeo ,
+		yago:Builder109878275 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Wikicat1961FormulaOneSeasonCars ,
+		yago:Party110402824 ,
+		yago:Wikicat1960FormulaOneSeasonCars ,
+		dbo:Company ,
+		yago:Vehicle104524313 ,
+		yago:WheeledVehicle104576211 ,
+		yago:Conveyance103100490 ,
+		yago:Self-propelledVehicle104170037 ,
+		yago:Organism100004475 ,
+		yago:Container103094503 ,
+		yago:CausalAgent100007347 ,
+		yago:MotorVehicle103791235 ,
+		yago:Car102958343 ,
+		yago:Whole100003553 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:LivingThing100004258 ,
+		yago:Artifact100021939 ,
+		yago:Instrumentality103575240 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:Contractor109960891 ,
+		yago:YagoLegalActor ,
+		yago:WikicatFormulaOneConstructors .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:JBW	rdfs:label	"JBW"@en ,
+		"JBW"@pl ,
+		"JBW"@ja ;
+	rdfs:comment	"JBW(JBW Cars)\u306F1959\u5E74\u304B\u30891961\u5E74\u306B\u304B\u3051\u3066F1\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30C1\u30FC\u30E0\u3002"@ja ,
+		"JBW Cars was a British racing car manufacturer in the late 1950s, who were a Formula One constructor from 1959 to 1961. Brian Naylor, an amateur driver from Stockport, financed his mechanic Fred Wilkinson to build a number of sports cars that were competitive against second-level national fields but were not competitive on the international stage. As well as constructing their own sports racers, JBW also prepared and entered Cooper single-seater racing cars for Naylor to drive in Formula Two and occasional Formula One events."@en ,
+		"JBW \u2013 brytyjski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w latach 1957\u20131961."@pl .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:JBW	owl:sameAs	dbpedia-pl:JBW .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:JBW	owl:sameAs	wikidata:Q3267645 ,
+		<http://rdf.freebase.com/ns/m.04kp5k> .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbr:JBW	owl:sameAs	dbpedia-ja:JBW .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:JBW	owl:sameAs	dbpedia-wikidata:Q3267645 ,
+		dbr:JBW .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:JBW	owl:sameAs	yago-res:JBW ,
+		yago-res:JBW_Type_1 ,
+		yago-res:JBW_Type_2 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:JBW	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/JBW_Type_1_at_Goodwood_Revival_2012.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:JBW .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:JBW	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/JBW?oldid=677684206> ;
+	dbo:wikiPageExternalLink	<http://www.gpracing.net192.com/cars/data/264.cfm> ,
+		<http://www.grandprix.com/gpe/con-jbw.html> ,
+		<http://www.silhouet.com/motorsport/archive/f1/title.html> ,
+		<http://www.f1-images.de/009900/index.htm> ,
+		<http://www.gpracing.net192.com/cars/data/263.cfm> ;
+	dbo:abstract	"JBW Cars was a British racing car manufacturer in the late 1950s, who were a Formula One constructor from 1959 to 1961. Brian Naylor, an amateur driver from Stockport, financed his mechanic Fred Wilkinson to build a number of sports cars that were competitive against second-level national fields but were not competitive on the international stage. As well as constructing their own sports racers, JBW also prepared and entered Cooper single-seater racing cars for Naylor to drive in Formula Two and occasional Formula One events."@en ,
+		"JBW \u2013 brytyjski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w latach 1957\u20131961."@pl ,
+		"JBW(JBW Cars)\u306F1959\u5E74\u304B\u30891961\u5E74\u306B\u304B\u3051\u3066F1\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30C1\u30FC\u30E0\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/JBW_Type_1_at_Goodwood_Revival_2012.jpg?width=300> ;
+	dbo:wikiPageRevisionID	677684206 ;
+	dbo:wikiPageID	1233315 .
+@prefix ns16:	<http://purl.org/linguistics/gold/> .
+dbr:JBW	ns16:hypernym	dbr:Manufacturer .
+dbr:JBW_Type_2	dbo:wikiPageRedirects	dbr:JBW .
+<http://dbpedia.org/resource/JBW_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:JBW .

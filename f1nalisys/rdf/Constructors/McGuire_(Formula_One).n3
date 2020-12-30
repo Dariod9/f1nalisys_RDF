@@ -1,0 +1,95 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/McGuire_(Formula_One)>	foaf:primaryTopic	<http://dbpedia.org/resource/McGuire_(Formula_One)> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Brian_McGuire	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/McGuire_(Formula_One)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	rdf:type	wikidata:Q43229 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	rdf:type	yago:WikicatFormulaOneConstructors ,
+		yago:WikicatAustralianRacecarConstructors ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	rdf:type	schema:Organization .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	rdf:type	dbo:Agent ,
+		yago:Party110402824 ,
+		dbo:SportsTeam ,
+		yago:Builder109878275 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:Contractor109960891 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		schema:SportsTeam ,
+		dbo:Organisation .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	rdf:type	ns7:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	rdf:type	owl:Thing ,
+		ns7:SocialPerson ,
+		dbo:FormulaOneTeam ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	rdfs:label	"McGuire (Formel 1)"@de ,
+		"McGuire"@pl ,
+		"McGuire (Formula One)"@en ,
+		"McGuire"@it ,
+		"McGuire (F\u00F3rmula 1)"@pt ;
+	rdfs:comment	"McGuire foi uma equipe australiana de F\u00F3rmula 1. Participou de apenas um Grande Pr\u00EAmio. O McGuire foi uma update do Williams FW04 modificado pelo piloto Brian McGuire, que morreu em um acidente, em 1977."@pt ,
+		"McGuire war ein Formel-1-Team, das seine einzige Meldung beim Gro\u00DFen Preis von Gro\u00DFbritannien 1977 hatte. Sein Gr\u00FCnder und Teamchef war der australische Rennfahrer Brian McGuire."@de ,
+		"McGuire \u2013 australijski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1977 roku."@pl ,
+		"La McGuire fu una scuderia britannica di Formula 1 fondata negli anni settanta dal pilota Brian McGuire. Brian McGuire, corridore automobilistico australiano, conobbe un certo successo in Formula 3 tra le stagioni 1971 e 1972. Nel 1976, acquista una Williams per correre nella categoria britannica Formula Shellsport (che era un via di mezzo tra la Formula 1 e la Formula 5000). La vettura fu ridisegnata durante l'inverno 1976-77 e fu rinominata McGuire BM1. Collabor\u00F2 al progetto Ray Stokoe. Sfortunatamente Brian McGuire fu ucciso da una ruota della sua vettura durante delle prove a Brands Hatch."@it ,
+		"McGuire was a Formula One racing car constructor founded by Australian driver Brian McGuire. The team participated in one Formula One World Championship Grand Prix but failed to qualify. Brian McGuire first started to race in the British-based Shellsport G8 International Series in 1976, as a private entry with the Formula One-specification Williams FW04. He also entered the car for the 1976 British Grand Prix but was only listed as a reserve and never made it on to the track. For the 1977 season McGuire made extensive modifications to the Williams and it was entered for the 1977 British Grand Prix as the McGuire BM1. However, the car was uncompetitive in the special pre-qualifying sessions, slower than all the other entrants except Mikko Kozarowitzky who had an accident, and McGuire failed"@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	dbp:points	0 ;
+	dbp:drivers	"Brian McGuire"^^xsd:string ;
+	owl:sameAs	wikidata:Q2524270 ,
+		<http://de.dbpedia.org/resource/McGuire_(Formel_1)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	owl:sameAs	dbpedia-wikidata:Q2524270 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	owl:sameAs	dbpedia-pl:McGuire ,
+		<http://rdf.freebase.com/ns/m.04n6l3> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	owl:sameAs	dbpedia-it:McGuire ,
+		<http://pt.dbpedia.org/resource/McGuire_(F\u00F3rmula_1)> ,
+		<http://yago-knowledge.org/resource/McGuire_(Formula_One)> ,
+		<http://dbpedia.org/resource/McGuire_(Formula_One)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	dct:subject	dbc:Australian_auto_racing_teams ,
+		dbc:Australian_racecar_constructors ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ;
+	foaf:name	"McGuire"@en ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/McGuire_(Formula_One)> ;
+	dbp:shortName	"McGuire"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/McGuire_(Formula_One)?oldid=731516438> ;
+	dbp:founders	dbr:Brian_McGuire ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:engines	dbr:V8_engine ,
+		dbr:Cosworth ;
+	dbp:debut	1977 ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/con-mcgui.html> ,
+		<http://www.formula1.com/results/> ;
+	dbo:abstract	"McGuire foi uma equipe australiana de F\u00F3rmula 1. Participou de apenas um Grande Pr\u00EAmio. O McGuire foi uma update do Williams FW04 modificado pelo piloto Brian McGuire, que morreu em um acidente, em 1977."@pt ,
+		"McGuire war ein Formel-1-Team, das seine einzige Meldung beim Gro\u00DFen Preis von Gro\u00DFbritannien 1977 hatte. Sein Gr\u00FCnder und Teamchef war der australische Rennfahrer Brian McGuire."@de ,
+		"La McGuire fu una scuderia britannica di Formula 1 fondata negli anni settanta dal pilota Brian McGuire. Brian McGuire, corridore automobilistico australiano, conobbe un certo successo in Formula 3 tra le stagioni 1971 e 1972. Nel 1976, acquista una Williams per correre nella categoria britannica Formula Shellsport (che era un via di mezzo tra la Formula 1 e la Formula 5000). La vettura fu ridisegnata durante l'inverno 1976-77 e fu rinominata McGuire BM1. Collabor\u00F2 al progetto Ray Stokoe. McGuire si present\u00F2 al Gran Premio di Gran Bretagna ma non riusc\u00EC a qualificarsi. Il pilota decise per\u00F2 di concentrarsi ancora di pi\u00F9 sulla vettura per renderla competitiva. Sfortunatamente Brian McGuire fu ucciso da una ruota della sua vettura durante delle prove a Brands Hatch."@it ,
+		"McGuire was a Formula One racing car constructor founded by Australian driver Brian McGuire. The team participated in one Formula One World Championship Grand Prix but failed to qualify. Brian McGuire first started to race in the British-based Shellsport G8 International Series in 1976, as a private entry with the Formula One-specification Williams FW04. He also entered the car for the 1976 British Grand Prix but was only listed as a reserve and never made it on to the track. For the 1977 season McGuire made extensive modifications to the Williams and it was entered for the 1977 British Grand Prix as the McGuire BM1. However, the car was uncompetitive in the special pre-qualifying sessions, slower than all the other entrants except Mikko Kozarowitzky who had an accident, and McGuire failed to make it through to the full qualifying sessions. Brian McGuire was killed at the wheel of the car at Brands Hatch later in 1977."@en ,
+		"McGuire \u2013 australijski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1977 roku."@pl ;
+	dbo:wikiPageRevisionID	731516438 ;
+	dbo:wikiPageID	1262618 ;
+	dbp:races	1 ;
+	dbp:wins	0 .
+@prefix ns17:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	ns17:hypernym	dbr:Formula ;
+	dbp:lastRace	1977 .
+dbr:Williams_FW04	dbp:constructor	<http://dbpedia.org/resource/McGuire_(Formula_One)> .
+dbr:McGuire	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/McGuire_(Formula_One)> .

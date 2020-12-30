@@ -1,0 +1,187 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/John_Allison_(RAF_officer)>	dbo:occupation	dbr:Jaguar_Racing .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jaguar_R1	dbp:team	dbr:Jaguar_Racing ;
+	dbp:constructor	dbr:Jaguar_Racing ;
+	dbp:gearboxName	dbr:Jaguar_Racing .
+dbr:Jaguar_R2	dbp:team	dbr:Jaguar_Racing ;
+	dbp:constructor	dbr:Jaguar_Racing ;
+	dbp:gearboxName	dbr:Jaguar_Racing .
+dbr:Christian_Klien	<http://dbpedia.org/property/team(s)_>	dbr:Jaguar_Racing .
+<http://dbpedia.org/resource/2001_British_Formula_Three_Championship__Jaguar_Junior_Team__1>	dbo:team	dbr:Jaguar_Racing .
+<http://dbpedia.org/resource/2001_British_Formula_Three_Championship__Jaguar_Junior_Team__2>	dbo:team	dbr:Jaguar_Racing .
+dbr:Jaguar_Junior_Team	dbo:wikiPageRedirects	dbr:Jaguar_Racing .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jaguar_Racing	foaf:primaryTopic	dbr:Jaguar_Racing .
+<http://dbpedia.org/resource/2002_Italian_Grand_Prix>	dbo:thirdTeam	dbr:Jaguar_Racing .
+dbr:Jaguar_R4	dbp:team	dbr:Jaguar_Racing ;
+	dbp:constructor	dbr:Jaguar_Racing ;
+	dbp:gearboxName	dbr:Jaguar_Racing .
+dbr:Stewart_Grand_Prix	dbp:nextName	dbr:Jaguar_Racing .
+dbr:Luciano_Burti	<http://dbpedia.org/property/team(s)_>	dbr:Jaguar_Racing .
+<http://dbpedia.org/resource/Jaguar_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Jaguar_Racing .
+dbr:Red_Bull_Racing	dbp:previousName	dbr:Jaguar_Racing .
+dbr:Pedro_de_la_Rosa	dbp:teams	dbr:Jaguar_Racing .
+<http://dbpedia.org/resource/2001_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Jaguar_Racing .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jaguar_Racing	rdf:type	yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		yago:Abstraction100002137 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jaguar_Racing	rdf:type	wikidata:Q43229 ,
+		dbo:FormulaOneTeam .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jaguar_Racing	rdf:type	owl:Thing ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Contractor109960891 ,
+		yago:Party110402824 ,
+		dbo:Agent ,
+		yago:Builder109878275 ,
+		dbo:SportsTeam .
+@prefix schema:	<http://schema.org/> .
+dbr:Jaguar_Racing	rdf:type	schema:SportsTeam ,
+		yago:Organism100004475 ,
+		wikidata:Q24229398 ,
+		yago:Whole100003553 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jaguar_Racing	rdf:type	ns10:SocialPerson ,
+		yago:WikicatFormulaThreeTeams ,
+		yago:LivingThing100004258 ,
+		schema:Organization ,
+		yago:CausalAgent100007347 ,
+		yago:YagoLegalActor ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActorGeo ,
+		ns10:Agent ,
+		yago:Person100007846 ,
+		dbo:Organisation ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jaguar_Racing	rdfs:label	"Jaguar Racing"@nl ,
+		"Jaguar Racing"@fr ,
+		"\u6377\u8C79\u8ECA\u968A"@zh ,
+		"Jaguar Racing"@es ,
+		"Jaguar Racing"@de ,
+		"\u30B8\u30E3\u30AC\u30FC\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0"@ja ,
+		"Jaguar Racing"@pt ,
+		"Jaguar Racing"@it ,
+		"Jaguar Racing"@en ,
+		"\u042F\u0433\u0443\u0430\u0440 (\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430)"@ru ,
+		"Jaguar Racing"@pl ;
+	rdfs:comment	"\u30B8\u30E3\u30AC\u30FC\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\uFF08Jaguar Racing\uFF09\u306F\u30012000\u5E74\u304B\u30892004\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002"@ja ,
+		"Jaguar Racing est une ancienne \u00E9curie britannique de Formule 1 engag\u00E9e en championnat du monde de 2000 \u00E0 2004. Cette \u00E9curie a \u00E9t\u00E9 fond\u00E9e sur les bases de l'ancienne \u00E9quipe Stewart Grand Prix. En 5 saisons et 85 Grands Prix, Jaguar Racing a inscrit un total de 49 points, d\u00E9croch\u00E9 2 podiums (gr\u00E2ce \u00E0 deux 3e places d'Eddie Irvine \u00E0 Monaco en 2001 et \u00E0 Monza en 2002) et pris la t\u00EAte d'une course \u00E0 2 reprises. Le meilleur classement de Jaguar Racing est une 7e place du championnat du monde des constructeurs en 2002, 2003 et 2004."@fr ,
+		"Jaguar Racing fue una escuder\u00EDa de F\u00F3rmula 1 que compiti\u00F3 en la m\u00E1xima categor\u00EDa del automovilismo mundial durante 5 temporadas, entre los a\u00F1os 2000 y 2004. Constituida despu\u00E9s de que Ford adquiri\u00F3 el equipo Stewart Grand Prix de Jackie Stewart en junio de 1999, la escuder\u00EDa adopt\u00F3 oficialmente el nombre de Jaguar en el 2000. Durante un tiempo bajo la direcci\u00F3n de Bobby Rahal, luego el equipo pas\u00F3 a estar a las \u00F3rdenes de Niki Lauda. Tras una reestructuraci\u00F3n en noviembre de 2002, Lauda y otros 70 empleados del equipo fueron cesados. Los motores, bajo la denominaci\u00F3n Cosworth, eran abastecidos por Ford."@es ,
+		"Jaguar Racing \u2013 brytyjski zesp\u00F3\u0142 wy\u015Bcigowy i konstruktor, kt\u00F3ry w sezonach 2000\u20132004 bra\u0142 udzia\u0142 w mistrzostwach \u015Bwiata Formu\u0142y 1. Zesp\u00F3\u0142 zosta\u0142 utworzony na bazie dawnego zespo\u0142u Stewart Grand Prix. W barwach Jaguara je\u017Adzili m.in. Eddie Irvine, Johnny Herbert i Mark Webber. Po zako\u0144czeniu dzia\u0142alno\u015Bci i sprzeda\u017Cy firmie Red Bull zosta\u0142 przekszta\u0142cony w Red Bull Racing. Jaguar Racing w 85 wy\u015Bcigach zdoby\u0142 49 punkt\u00F3w. Najwi\u0119kszym sukcesem brytyjskiego teamu by\u0142o dwukrotne zaj\u0119cie 3. miejsca w wy\u015Bcigu: podczas Grand Prix Monako 2001 oraz Grand Prix W\u0142och 2002. Najwi\u0119cej punkt\u00F3w zesp\u00F3\u0142 zdoby\u0142 w sezonie 2003, kiedy to w 16 wy\u015Bcigach uzyska\u0142 ich 18."@pl ,
+		"Jaguar Racing \u0431\u044B\u043B\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u0432\u0448\u0435\u0439 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445 FIA Formula 1 World Championship \u0441 2000 \u043F\u043E 2004 \u0433\u043E\u0434\u0430. \u041E\u043D\u0430 \u0431\u044B\u043B\u0430 \u0441\u0444\u043E\u0440\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0430 \u043F\u0443\u0442\u0451\u043C \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u0424\u043E\u0440\u0434\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0414\u0436\u0435\u043A\u0438 \u0421\u0442\u044E\u0430\u0440\u0442\u0430 Stewart Grand Prix \u0432 \u0438\u044E\u043D\u0435 1999 \u0433\u043E\u0434\u0430. \u0424\u043E\u0440\u0434 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0432 Jaguar Racing \u043A\u0430\u043A \u0447\u0430\u0441\u0442\u044C \u0441\u0432\u043E\u0435\u0439 \u0433\u043B\u043E\u0431\u0430\u043B\u044C\u043D\u043E\u0439 \u043C\u0430\u0440\u043A\u0435\u0442\u0438\u043D\u0433\u043E\u0432\u043E\u0439 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u043F\u043E \u043F\u0440\u043E\u0434\u0432\u0438\u0436\u0435\u043D\u0438\u044E \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Jaguar, \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0435\u0439 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u044B\u0435 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0438. \u041E\u0434\u043D\u0430\u043A\u043E, \u0437\u0430 \u0433\u043E\u0434\u044B \u043F\u0440\u0438\u043D\u0430\u0434\u043B\u0435\u0436\u043D\u043E\u0441\u0442\u0438 \u0424\u043E\u0440\u0434\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u0435 \u0441\u043C\u043E\u0433\u043B\u0430 \u0434\u043E\u0441\u0442\u0438\u0447\u044C \u0443\u0440\u043E\u0432\u043D\u044F 1999 \u0433\u043E\u0434\u0430 \u0438 \u0431\u044B\u043B\u0430 \u043F\u0440\u043E\u0434\u0430\u043D\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Red Bull. \u0421 2005 \u0433\u043E\u0434\u0430 \u0435\u0451 \u043C\u0435\u0441\u0442\u043E \u0437\u0430\u043D\u044F\u043B\u0430 Red Bull Racing."@ru ,
+		"Jaguar Racing war ein britischer Formel-1-Rennstall mit Sitz im englischen Milton Keynes. Er ging Ende 1999 aus dem Stewart Grand Prix Team hervor, das zuvor vollst\u00E4ndig von der Ford Motor Company gekauft worden war. Ende 2004 stieg Ford aus der Formel 1 aus und ver\u00E4u\u00DFerte das Team an den \u00F6sterreichischen Energydrink-Hersteller Red Bull, der seit 2005 als Red Bull Racing an der Weltmeisterschaft teilnimmt. Im Dezember 2015 gab Jaguar bekannt, ab der Saison 2016/17 ebenfalls unter dem Namen Jaguar Racing in der FIA-Formel-E-Meisterschaft anzutreten."@de ,
+		"La Jaguar Racing \u00E8 la scuderia con il quale la Jaguar ha partecipato al Campionato mondiale di Formula 1 dal 2000 al 2004 dopo aver rilevato la Stewart Grand Prix. In queste stagioni i risultati si sono fatti attendere, anche a causa di continui cambiamenti nella struttura tecnica e direttiva, e cos\u00EC la casa automobilistica Ford proprietaria del marchio Jaguar e della scuderia ha ceduto tutta la struttura alla Red Bull Racing. Nel 2015 la Jaguar annuncia l'intenzione di partecipare il campionato di Formula E e il 15 dicembre arriva l'ufficialit\u00E0."@it ,
+		"\u6377\u8C79\u8ECA\u968A\uFF08\u82F1\u8BED\uFF1AJaguar Racing\uFF09\u662F\u4E00\u652F\u57282002\u81F32004\u5E74\u9593\u53C3\u8CFD\u570B\u969B\u6C7D\u806F\u4E16\u754C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u7684\u8ECA\u968A\u3002 \u9019\u662F\u7D93\u7531\u798F\u7279\u57281999\u5E746\u6708\u6536\u8CFC\u5091\u5947\u00B7\u53F2\u90FD\u83EF\u7684\u53F2\u90FD\u83EF\u8ECA\u968A\u800C\u6210\u7ACB\u3002\u798F\u7279\u5C07\u539F\u5148\u7684\u8ECA\u968A\u66F4\u540D\u70BA\u6377\u8C79\u8ECA\u968A\uFF0C\u4EE5\u4F5C\u70BA\u63A8\u5EE3\u4ED6\u5011\u6377\u8C79\u8C6A\u83EF\u6C7D\u8ECA\u516C\u53F8\u5168\u7403\u71DF\u904B\u7684\u4E00\u90E8\u4EFD\u3002\u96D6\u8AAA\u639B\u8457\u9019\u500B\u54C1\u724C\uFF0C\u4F46\u662F\u4ED6\u5011\u4ECD\u6CBF\u7528\u798F\u7279-\u8003\u65AF\u6C83\u65AF\u5F15\u64CE\uFF0C\u4E26\u6C92\u6709\u904B\u7528\u6377\u8C79\u7684\u6280\u8853\u3002\u5728\u798F\u7279\u6301\u6709\u7684\u9019\u5E7E\u5E74\u9593\uFF0C\u8ECA\u968A\u59CB\u7D42\u7121\u6CD5\u91CD\u73FE\u4ED6\u50111999\u5E74\u7576\u6642\u7684\u8868\u73FE\u3002"@zh ,
+		"Jaguar Racing is the name given to Jaguar's racing interests. It made its Formula E debut ahead of the 2016\u201317 Formula E season. It was previously a Formula One constructor that competed in the FIA Formula One World Championship from 2000 to 2004."@en ,
+		"Jaguar Racing was een Formule 1-team uit Engeland. Het team ontstond in 2000 nadat moederconcern Ford, het Stewart Grand Prix kocht. Het team was weinig succesvol en werd door bezuinigingen van Ford aan het einde van het seizoen 2004 opgeheven. Het team werd verkocht aan Red Bull en ging verder als Red Bull Racing. Voor Jaguar reden onder anderen coureurs als Johnny Herbert, Eddie Irvine, Pedro de la Rosa, Mark Webber en Christian Klien."@nl ,
+		"A Jaguar Racing foi uma equipe de F\u00F3rmula 1, anteriormente denominada Stewart. Foi comprada pela Ford em 1999, assumindo o nome de Jaguar Racing. Em 2004 foi vendida para a Red Bull, dando origem \u00E0 equipe Red Bull Racing."@pt ;
+	dbp:currentDrivers	"Adam Carroll"^^xsd:string ,
+		"Mitch Evans"^^xsd:string ;
+	dbp:drivers	"Mark Webber"^^xsd:string ,
+		"Eddie Irvine"^^xsd:string ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30AC\u30FC\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-wikidata:Q173055 ,
+		<http://rdf.freebase.com/ns/m.047mbl> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-it:Jaguar_Racing .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-de:Jaguar_Racing .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	yago-res:Jaguar_Junior_Team .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-es:Jaguar_Racing .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-id:Jaguar_Racing .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-nl:Jaguar_Racing .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-pt:Jaguar_Racing .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-fr:Jaguar_Racing .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-cs:Jaguar_Racing ,
+		yago-res:Jaguar_Racing ,
+		dbr:Jaguar_Racing ,
+		wikidata:Q173055 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jaguar_Racing	owl:sameAs	dbpedia-pl:Jaguar_Racing .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jaguar_Racing	dct:subject	dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ,
+		dbc:Sports_clubs_established_in_2014 ,
+		<http://dbpedia.org/resource/Category:2016_establishments_in_the_United_Kingdom> ,
+		dbc:Formula_E_teams ,
+		dbc:Jaguar_Cars ,
+		dbc:British_auto_racing_teams ;
+	foaf:name	"Jaguar Racing F1 Team"@en ;
+	foaf:homepage	<http://www.jaguar.co.uk/jaguar-racing/index.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Pedro_de_la_Rosa_2001_Canada.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jaguar_Racing ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Jaguar"^^xsd:string ;
+	dbp:nextName	dbr:Red_Bull_Racing ;
+	dbp:previousName	dbr:Stewart_Grand_Prix .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jaguar_Racing	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jaguar_Racing?oldid=743789121> ;
+	dbp:formerSeries	dbr:Formula_One ;
+	dbp:logo	"Jaguar_2012_logo.png"^^xsd:string ,
+		100 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	dbr:Milton_Keynes ,
+		dbr:United_Kingdom ;
+	dbp:debut	2000 ;
+	dbo:wikiPageExternalLink	<http://www.jaguar.co.uk/jaguar-racing/index.html> ;
+	dbo:abstract	"Jaguar Racing is the name given to Jaguar's racing interests. It made its Formula E debut ahead of the 2016\u201317 Formula E season. It was previously a Formula One constructor that competed in the FIA Formula One World Championship from 2000 to 2004."@en ,
+		"Jaguar Racing was een Formule 1-team uit Engeland. Het team ontstond in 2000 nadat moederconcern Ford, het Stewart Grand Prix kocht. Het team was weinig succesvol en werd door bezuinigingen van Ford aan het einde van het seizoen 2004 opgeheven. Het team werd verkocht aan Red Bull en ging verder als Red Bull Racing. Voor Jaguar reden onder anderen coureurs als Johnny Herbert, Eddie Irvine, Pedro de la Rosa, Mark Webber en Christian Klien."@nl ,
+		"Jaguar Racing war ein britischer Formel-1-Rennstall mit Sitz im englischen Milton Keynes. Er ging Ende 1999 aus dem Stewart Grand Prix Team hervor, das zuvor vollst\u00E4ndig von der Ford Motor Company gekauft worden war. Ende 2004 stieg Ford aus der Formel 1 aus und ver\u00E4u\u00DFerte das Team an den \u00F6sterreichischen Energydrink-Hersteller Red Bull, der seit 2005 als Red Bull Racing an der Weltmeisterschaft teilnimmt. Im Dezember 2015 gab Jaguar bekannt, ab der Saison 2016/17 ebenfalls unter dem Namen Jaguar Racing in der FIA-Formel-E-Meisterschaft anzutreten."@de ,
+		"A Jaguar Racing foi uma equipe de F\u00F3rmula 1, anteriormente denominada Stewart. Foi comprada pela Ford em 1999, assumindo o nome de Jaguar Racing. Em 2004 foi vendida para a Red Bull, dando origem \u00E0 equipe Red Bull Racing."@pt ,
+		"Jaguar Racing fue una escuder\u00EDa de F\u00F3rmula 1 que compiti\u00F3 en la m\u00E1xima categor\u00EDa del automovilismo mundial durante 5 temporadas, entre los a\u00F1os 2000 y 2004. Constituida despu\u00E9s de que Ford adquiri\u00F3 el equipo Stewart Grand Prix de Jackie Stewart en junio de 1999, la escuder\u00EDa adopt\u00F3 oficialmente el nombre de Jaguar en el 2000. Durante un tiempo bajo la direcci\u00F3n de Bobby Rahal, luego el equipo pas\u00F3 a estar a las \u00F3rdenes de Niki Lauda. Tras una reestructuraci\u00F3n en noviembre de 2002, Lauda y otros 70 empleados del equipo fueron cesados. Los motores, bajo la denominaci\u00F3n Cosworth, eran abastecidos por Ford. 2004 fue el \u00FAltimo a\u00F1o de Jaguar en F\u00F3rmula 1, ya que Ford decidi\u00F3 poner la escuder\u00EDa a la venta tras decidir su salida de la m\u00E1xima categor\u00EDa. Tras el Gran Premio de Brasil de 2004, Bernie Ecclestone, Max Mosley y varios otros directivos y pilotos del mundo de la F1 firmaron sobre la carrocer\u00EDa del b\u00F3lido, tras lo cual los mec\u00E1nicos anunciaron su intenci\u00F3n de subastarlo en eBay y donar lo recaudado a obras de caridad. A pesar de las grandes inversiones realizadas en el equipo, Jaguar nunca logr\u00F3 sobresalir en la F\u00F3rmula 1, al punto de no haber ganado ning\u00FAn Gran Premio en sus 5 a\u00F1os de existencia. Tampoco obtuvo pole positions, y sus dos \u00FAnicos podios fueron logrados por Eddie Irvine, quien se encontraba en el ocaso de su carrera. Los pilotos m\u00E1s satisfactorios en la historia del equipo fueron el mencionado Eddie Irvine con 18 puntos, Mark Webber con 24 puntos y Pedro de la Rosa con 3 puntos. El 15 de noviembre de 2004, Red Bull confirm\u00F3 la compra de la escuder\u00EDa Jaguar a Ford. El nuevo equipo pas\u00F3 a llamarse Red Bull Racing, utilizando el mismo proveedor de motores en su primera temporada, Cosworth."@es ,
+		"\u6377\u8C79\u8ECA\u968A\uFF08\u82F1\u8BED\uFF1AJaguar Racing\uFF09\u662F\u4E00\u652F\u57282002\u81F32004\u5E74\u9593\u53C3\u8CFD\u570B\u969B\u6C7D\u806F\u4E16\u754C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u7684\u8ECA\u968A\u3002 \u9019\u662F\u7D93\u7531\u798F\u7279\u57281999\u5E746\u6708\u6536\u8CFC\u5091\u5947\u00B7\u53F2\u90FD\u83EF\u7684\u53F2\u90FD\u83EF\u8ECA\u968A\u800C\u6210\u7ACB\u3002\u798F\u7279\u5C07\u539F\u5148\u7684\u8ECA\u968A\u66F4\u540D\u70BA\u6377\u8C79\u8ECA\u968A\uFF0C\u4EE5\u4F5C\u70BA\u63A8\u5EE3\u4ED6\u5011\u6377\u8C79\u8C6A\u83EF\u6C7D\u8ECA\u516C\u53F8\u5168\u7403\u71DF\u904B\u7684\u4E00\u90E8\u4EFD\u3002\u96D6\u8AAA\u639B\u8457\u9019\u500B\u54C1\u724C\uFF0C\u4F46\u662F\u4ED6\u5011\u4ECD\u6CBF\u7528\u798F\u7279-\u8003\u65AF\u6C83\u65AF\u5F15\u64CE\uFF0C\u4E26\u6C92\u6709\u904B\u7528\u6377\u8C79\u7684\u6280\u8853\u3002\u5728\u798F\u7279\u6301\u6709\u7684\u9019\u5E7E\u5E74\u9593\uFF0C\u8ECA\u968A\u59CB\u7D42\u7121\u6CD5\u91CD\u73FE\u4ED6\u50111999\u5E74\u7576\u6642\u7684\u8868\u73FE\u3002"@zh ,
+		"\u30B8\u30E3\u30AC\u30FC\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\uFF08Jaguar Racing\uFF09\u306F\u30012000\u5E74\u304B\u30892004\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002"@ja ,
+		"Jaguar Racing \u0431\u044B\u043B\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u0432\u0448\u0435\u0439 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445 FIA Formula 1 World Championship \u0441 2000 \u043F\u043E 2004 \u0433\u043E\u0434\u0430. \u041E\u043D\u0430 \u0431\u044B\u043B\u0430 \u0441\u0444\u043E\u0440\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0430 \u043F\u0443\u0442\u0451\u043C \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u0424\u043E\u0440\u0434\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0414\u0436\u0435\u043A\u0438 \u0421\u0442\u044E\u0430\u0440\u0442\u0430 Stewart Grand Prix \u0432 \u0438\u044E\u043D\u0435 1999 \u0433\u043E\u0434\u0430. \u0424\u043E\u0440\u0434 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0432 Jaguar Racing \u043A\u0430\u043A \u0447\u0430\u0441\u0442\u044C \u0441\u0432\u043E\u0435\u0439 \u0433\u043B\u043E\u0431\u0430\u043B\u044C\u043D\u043E\u0439 \u043C\u0430\u0440\u043A\u0435\u0442\u0438\u043D\u0433\u043E\u0432\u043E\u0439 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u043F\u043E \u043F\u0440\u043E\u0434\u0432\u0438\u0436\u0435\u043D\u0438\u044E \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Jaguar, \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u044F\u0449\u0435\u0439 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u044B\u0435 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0438. \u041E\u0434\u043D\u0430\u043A\u043E, \u0437\u0430 \u0433\u043E\u0434\u044B \u043F\u0440\u0438\u043D\u0430\u0434\u043B\u0435\u0436\u043D\u043E\u0441\u0442\u0438 \u0424\u043E\u0440\u0434\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u0435 \u0441\u043C\u043E\u0433\u043B\u0430 \u0434\u043E\u0441\u0442\u0438\u0447\u044C \u0443\u0440\u043E\u0432\u043D\u044F 1999 \u0433\u043E\u0434\u0430 \u0438 \u0431\u044B\u043B\u0430 \u043F\u0440\u043E\u0434\u0430\u043D\u0430 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Red Bull. \u0421 2005 \u0433\u043E\u0434\u0430 \u0435\u0451 \u043C\u0435\u0441\u0442\u043E \u0437\u0430\u043D\u044F\u043B\u0430 Red Bull Racing."@ru ,
+		"La Jaguar Racing \u00E8 la scuderia con il quale la Jaguar ha partecipato al Campionato mondiale di Formula 1 dal 2000 al 2004 dopo aver rilevato la Stewart Grand Prix. In queste stagioni i risultati si sono fatti attendere, anche a causa di continui cambiamenti nella struttura tecnica e direttiva, e cos\u00EC la casa automobilistica Ford proprietaria del marchio Jaguar e della scuderia ha ceduto tutta la struttura alla Red Bull Racing. Nel 2015 la Jaguar annuncia l'intenzione di partecipare il campionato di Formula E e il 15 dicembre arriva l'ufficialit\u00E0."@it ,
+		"Jaguar Racing \u2013 brytyjski zesp\u00F3\u0142 wy\u015Bcigowy i konstruktor, kt\u00F3ry w sezonach 2000\u20132004 bra\u0142 udzia\u0142 w mistrzostwach \u015Bwiata Formu\u0142y 1. Zesp\u00F3\u0142 zosta\u0142 utworzony na bazie dawnego zespo\u0142u Stewart Grand Prix. W barwach Jaguara je\u017Adzili m.in. Eddie Irvine, Johnny Herbert i Mark Webber. Po zako\u0144czeniu dzia\u0142alno\u015Bci i sprzeda\u017Cy firmie Red Bull zosta\u0142 przekszta\u0142cony w Red Bull Racing. Jaguar Racing w 85 wy\u015Bcigach zdoby\u0142 49 punkt\u00F3w. Najwi\u0119kszym sukcesem brytyjskiego teamu by\u0142o dwukrotne zaj\u0119cie 3. miejsca w wy\u015Bcigu: podczas Grand Prix Monako 2001 oraz Grand Prix W\u0142och 2002. Najwi\u0119cej punkt\u00F3w zesp\u00F3\u0142 zdoby\u0142 w sezonie 2003, kiedy to w 16 wy\u015Bcigach uzyska\u0142 ich 18."@pl ,
+		"Jaguar Racing est une ancienne \u00E9curie britannique de Formule 1 engag\u00E9e en championnat du monde de 2000 \u00E0 2004. Cette \u00E9curie a \u00E9t\u00E9 fond\u00E9e sur les bases de l'ancienne \u00E9quipe Stewart Grand Prix. En 5 saisons et 85 Grands Prix, Jaguar Racing a inscrit un total de 49 points, d\u00E9croch\u00E9 2 podiums (gr\u00E2ce \u00E0 deux 3e places d'Eddie Irvine \u00E0 Monaco en 2001 et \u00E0 Monza en 2002) et pris la t\u00EAte d'une course \u00E0 2 reprises. Le meilleur classement de Jaguar Racing est une 7e place du championnat du monde des constructeurs en 2002, 2003 et 2004. L'\u00E9curie participe depuis 2016 au Championnat de Formule E FIA 2016-2017 avec Mitch Evans et Adam Carroll."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Pedro_de_la_Rosa_2001_Canada.jpg?width=300> ;
+	dbo:wikiPageRevisionID	743789121 ;
+	dbo:wikiPageID	1118425 ;
+	dbp:currentSeries	dbr:Formula_E ;
+	dbp:races	85 ;
+	dbp:name	"Panasonic Jaguar Racing"^^xsd:string ;
+	dbp:wins	0 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Jaguar_Racing	ns26:hypernym	dbr:Constructor ;
+	dbp:staff	"Bobby Rahal"^^xsd:string ,
+		dbr:David_Pitchforth ,
+		"Niki Lauda"^^xsd:string ,
+		"Tony Purnell"^^xsd:string ;
+	dbp:lastRace	2004 ;
+	dbp:currentTestDrivers	"Ho-Pin Tung"^^xsd:string .
+dbr:Johnny_Herbert	<http://dbpedia.org/property/team(s)_>	dbr:Jaguar_Racing .
+dbr:Eddie_Irvine	<http://dbpedia.org/property/team(s)_>	dbr:Jaguar_Racing .
+dbr:Jaguar_R5	dbp:team	dbr:Jaguar_Racing ;
+	dbp:constructor	dbr:Jaguar_Racing .
+dbr:Jaguar_R3	dbp:team	dbr:Jaguar_Racing ;
+	dbp:constructor	dbr:Jaguar_Racing ;
+	dbp:gearboxName	dbr:Jaguar_Racing .
+dbr:Jaguar_F1	dbo:wikiPageRedirects	dbr:Jaguar_Racing .
+dbr:Jaguar_F1_team	dbo:wikiPageRedirects	dbr:Jaguar_Racing .
+dbr:Jaguar-Cosworth	dbo:wikiPageRedirects	dbr:Jaguar_Racing .
+dbr:Jaguar_racing	dbo:wikiPageRedirects	dbr:Jaguar_Racing .

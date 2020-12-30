@@ -1,0 +1,60 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Stebro	foaf:primaryTopic	dbr:Stebro .
+dbr:Peter_Broeker	<http://dbpedia.org/property/team(s)_>	dbr:Stebro .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Stebro	rdf:type	yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:Builder109878275 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Party110402824 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Stebro	rdf:type	dbo:Company ,
+		yago:WikicatCanadianRacecarConstructors ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Stebro	rdfs:label	"Stebro"@en ,
+		"Stebro"@pl ,
+		"Stebro"@it ;
+	rdfs:comment	"Stebro \u2013 by\u0142y zesp\u00F3\u0142 Formu\u0142y 1. Stebro, za\u0142o\u017Cony przez Kanadyjczyk\u00F3w \u2013 Johna Stevensa i Petera Broekera, pocz\u0105tkowo by\u0142 konstruktorem samochod\u00F3w dla Formu\u0142y Junior. Zesp\u00F3\u0142 postanowi\u0142 wystartowa\u0107 samochodem przeznaczonym dla Formu\u0142y Junior w zawodach Formu\u0142y 1. Jedyny start zespo\u0142u mia\u0142 miejsce podczas Grand Prix Stan\u00F3w Zjednoczonych w sezonie 1963. Za kierownic\u0105 samochodu z numerem 21 o oznaczeniu Mk IV z silnikiem Ford R4 zasiad\u0142 Peter Broeker (drugim zg\u0142oszonym przez zesp\u00F3\u0142 kierowc\u0105 by\u0142 Kanadyjczyk Ernie de Vos, ale nie wystartowa\u0142 z powodu braku bolidu). Broeker zaj\u0105\u0142 w tamtym wy\u015Bcigu ostatnie, si\u00F3dme miejsce, z 22 okr\u0105\u017Ceniami straty do zwyci\u0119zcy (Grahama Hilla), co nie da\u0142o ani jemu, ani jego zespo\u0142owi punkt\u00F3w. Zesp\u00F3\u0142 Canadian Stebro Racing ju\u017C nigdy wi\u0119cej nie wystartowa\u0142 w Formule 1."@pl ,
+		"'Stebro' was a Canadian constructor of Formula Junior racing cars. The team also competed in one Formula One race, the 1963 United States Grand Prix, where their one car finished in seventh place. Peter Broeker, the owner and president of a firm of automotive accessory manufacturers, designed and built the Stebros in his Montreal plant, to promote the company in the Canadian market. A Stebro Formula Junior chassis, fitted with an enlarged Ford 105E engine appeared in one Formula One Grand Prix, the 1963 United States Grand Prix. The engine, including a Hewland gearbox, was the only alteration, with the Weber Ford 1,500 c.c. engine developing 110 hp (82 kW). The car was driven by Broeker and, against the more powerful Formula One cars of the day, finished in seventh place, completing 88 of "@en ,
+		"Stebro \u00E8 stato un costruttore canadese di Formula 1. Fondata da John Stevens e Peter Broeker, dopo una certa esperienza fatta nelle serie minori nordamericane, partecip\u00F2 solamente al Gran Premio degli Stati Uniti del 1963 con il modello Mk 4. Iscrisse due vetture a tale gran premio anche se poi in realt\u00E0 schier\u00F2 solo la vettura guidata proprio da Peter Broeker. Partito ventunesimo (a 15 secondi dal tempo del poleman Graham Hill) sfior\u00F2 la zona punti, ottenendo il settimo posto, anche se a 22 giri del vincitore. Il motore che spingeva la vettura era un Ford, curiosamente per\u00F2 non Cosworth."@it .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Stebro	owl:sameAs	dbr:Stebro .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Stebro	owl:sameAs	yago-res:Stebro ,
+		<http://rdf.freebase.com/ns/m.04kwnj> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Stebro	owl:sameAs	dbpedia-pl:Stebro .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Stebro	owl:sameAs	wikidata:Q590733 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Stebro	owl:sameAs	dbpedia-wikidata:Q590733 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Stebro	owl:sameAs	dbpedia-it:Stebro .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Stebro	dct:subject	dbc:Canadian_auto_racing_teams ,
+		dbc:Canadian_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Stebro .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Stebro	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Stebro?oldid=732060747> ;
+	dbo:abstract	"Stebro \u2013 by\u0142y zesp\u00F3\u0142 Formu\u0142y 1. Stebro, za\u0142o\u017Cony przez Kanadyjczyk\u00F3w \u2013 Johna Stevensa i Petera Broekera, pocz\u0105tkowo by\u0142 konstruktorem samochod\u00F3w dla Formu\u0142y Junior. Zesp\u00F3\u0142 postanowi\u0142 wystartowa\u0107 samochodem przeznaczonym dla Formu\u0142y Junior w zawodach Formu\u0142y 1. Jedyny start zespo\u0142u mia\u0142 miejsce podczas Grand Prix Stan\u00F3w Zjednoczonych w sezonie 1963. Za kierownic\u0105 samochodu z numerem 21 o oznaczeniu Mk IV z silnikiem Ford R4 zasiad\u0142 Peter Broeker (drugim zg\u0142oszonym przez zesp\u00F3\u0142 kierowc\u0105 by\u0142 Kanadyjczyk Ernie de Vos, ale nie wystartowa\u0142 z powodu braku bolidu). Broeker zaj\u0105\u0142 w tamtym wy\u015Bcigu ostatnie, si\u00F3dme miejsce, z 22 okr\u0105\u017Ceniami straty do zwyci\u0119zcy (Grahama Hilla), co nie da\u0142o ani jemu, ani jego zespo\u0142owi punkt\u00F3w. Zesp\u00F3\u0142 Canadian Stebro Racing ju\u017C nigdy wi\u0119cej nie wystartowa\u0142 w Formule 1."@pl ,
+		"'Stebro' was a Canadian constructor of Formula Junior racing cars. The team also competed in one Formula One race, the 1963 United States Grand Prix, where their one car finished in seventh place. Peter Broeker, the owner and president of a firm of automotive accessory manufacturers, designed and built the Stebros in his Montreal plant, to promote the company in the Canadian market. A Stebro Formula Junior chassis, fitted with an enlarged Ford 105E engine appeared in one Formula One Grand Prix, the 1963 United States Grand Prix. The engine, including a Hewland gearbox, was the only alteration, with the Weber Ford 1,500 c.c. engine developing 110 hp (82 kW). The car was driven by Broeker and, against the more powerful Formula One cars of the day, finished in seventh place, completing 88 of the 110 laps. Broeker's Stebro later won the all-formula sprint at the Indian Summer Trophy races at Mosport on September 4, 1965. After ending the race program, Stebro remained a manufacturer of stainless steel performance exhaust systems for European and American cars until recently. Their products were developed and manufactured from the factory in Ottawa, Canada."@en ,
+		"Stebro \u00E8 stato un costruttore canadese di Formula 1. Fondata da John Stevens e Peter Broeker, dopo una certa esperienza fatta nelle serie minori nordamericane, partecip\u00F2 solamente al Gran Premio degli Stati Uniti del 1963 con il modello Mk 4. Iscrisse due vetture a tale gran premio anche se poi in realt\u00E0 schier\u00F2 solo la vettura guidata proprio da Peter Broeker. Partito ventunesimo (a 15 secondi dal tempo del poleman Graham Hill) sfior\u00F2 la zona punti, ottenendo il settimo posto, anche se a 22 giri del vincitore. Il motore che spingeva la vettura era un Ford, curiosamente per\u00F2 non Cosworth."@it ;
+	dbo:wikiPageRevisionID	732060747 ;
+	dbo:wikiPageID	1235402 .
+@prefix ns16:	<http://purl.org/linguistics/gold/> .
+dbr:Stebro	ns16:hypernym	dbr:Manufacturer .
+dbr:Ernie_de_Vos	<http://dbpedia.org/property/team(s)_>	dbr:Stebro .

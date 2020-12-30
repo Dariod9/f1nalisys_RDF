@@ -1,0 +1,129 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Spirit_Racing	foaf:primaryTopic	dbr:Spirit_Racing .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Spirit_Racing	rdf:type	yago:Whole100003553 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Spirit_Racing	rdf:type	wikidata:Q24229398 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Spirit_Racing	rdf:type	ns6:Agent ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:WikicatFormulaTwoConstructors .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Spirit_Racing	rdf:type	dbo:Organisation ,
+		yago:Organism100004475 ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		ns6:SocialPerson ,
+		yago:Contractor109960891 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Spirit_Racing	rdf:type	owl:Thing ,
+		dbo:FormulaOneTeam ,
+		dbo:Agent ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		wikidata:Q43229 .
+@prefix schema:	<http://schema.org/> .
+dbr:Spirit_Racing	rdf:type	schema:Organization ,
+		schema:SportsTeam ,
+		dbo:SportsTeam .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Spirit_Racing	rdfs:label	"Spirit Racing"@en ,
+		"\u30B9\u30D4\u30EA\u30C3\u30C8\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0"@ja ,
+		"Spirit Racing"@pl ,
+		"Spirit Racing"@de ,
+		"Spirit Racing"@fr ,
+		"\u0421\u043F\u0438\u0440\u0438\u0442 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Spirit (Formule 1)"@nl ,
+		"Spirit Racing"@pt ,
+		"Spirit (automobilismo)"@it ;
+	rdfs:comment	"Spirit Racing \u00E9tait une \u00E9curie de course automobile fond\u00E9e par John Wickham. Spirit a particip\u00E9 au championnat du monde de Formule 1 de 1983 \u00E0 1985. L'\u00E9curie a disput\u00E9 un total de 23 Grands Prix, 4 347 km en course sans parvenir \u00E0 inscrire de point au championnat du monde des constructeurs."@fr ,
+		"Spirit was een Brits Formule 1-team dat deelnam aan het kampioenschap tussen 1983 en 1985."@nl ,
+		"Spirit Racing foi uma equipe de F\u00F3rmula 1 do Reino Unido. Disputou 23 GPs entre 1983 \u00E0 1985. No seu primeiro ano na categoria, sua fornecedora de motores foi a Honda, que voltou \u00E0 F\u00F3rmula 1 ap\u00F3s 15 anos afastada."@pt ,
+		"\u0421\u043F\u0438\u0440\u0438\u0442 (\u0432 \u043E\u0440\u0438\u0433\u0438\u043D\u0430\u043B\u0435 \u0430\u043D\u0433\u043B. Spirit Racing) \u2014 \u0431\u044B\u0432\u0448\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430-\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1981 \u0433\u043E\u0434\u0443. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0439 \u0444\u043E\u0440\u043C\u0443\u043B\u044B-2 1982 \u0433\u043E\u0434\u0430, \u0430 \u0437\u0430\u0442\u0435\u043C \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 1983-1985 \u0433\u043E\u0434\u0430\u0445. \u0412 23 \u043F\u0440\u043E\u0432\u0435\u0434\u0451\u043D\u043D\u044B\u0445 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043B\u0443\u0447\u0448\u0438\u043C \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0431\u044B\u043B\u043E \u0441\u0435\u0434\u044C\u043C\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u043E\u0432 1983 \u0433\u043E\u0434\u0430."@ru ,
+		"Spirit Racing was a racing car constructor and racing team from the United Kingdom. Founded in 1981, it participated in the 1982 European Formula Two Championship, then in Formula One between 1983 and 1985, before competing in the 1988 F3000 season before finally folding at the end of the year. In 26 F1 races (including the non-championship 1983 Race of Champions), its best finish was seventh at the 1983 Dutch Grand Prix."@en ,
+		"\u30B9\u30D4\u30EA\u30C3\u30C8\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\uFF08Spirit Racing\uFF09\u306F\u304B\u3064\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3067\u3042\u308B\u300225\u30EC\u30FC\u30B9\u306B\u53C2\u52A0\uFF08\u3046\u30612\u30EC\u30FC\u30B9\u306F\u4E88\u9078\u843D\u3061\uFF09\u3057\u3001\u5EF6\u307925\u53F0\u306E\u30DE\u30B7\u30F3\u3092\u51FA\u8D70\u3055\u305B\u305F\u3002"@ja ,
+		"Spirit \u2013 zesp\u00F3\u0142 wy\u015Bcigowy startuj\u0105cy w Formule 1 w latach 1983\u20131985."@pl ,
+		"Das Spirit Racing Team war ein zun\u00E4chst in der Formel 2 und danach in der Formel 1 aktives Team aus Gro\u00DFbritannien, das zwischen 1983 und 1985 an 25 Formel-1-Rennen teilnahm. Spirit Racing wurde im August 1981 von Gordon Coppuck und John Wickham gegr\u00FCndet; beide waren zuvor Mitarbeiter von March Engineering gewesen."@de ,
+		"La Spirit \u00E8 stato un team britannico di Formula 1 che ha corso dal 1983 al 1985. Fondata da John Wickman, esperto manager di scuderia di Formula 2, non \u00E8 mai riuscita a segnare punti mondiali, pur potendo utilizzare i progetti di Gordon Coppuck."@it .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Spirit_Racing	dbp:points	0 ;
+	dbp:drivers	"Huub Rothengatter"^^xsd:string ,
+		"Mauro Baldi"^^xsd:string ,
+		"Stefan Johansson"^^xsd:string ,
+		"Thierry Boutsen"^^xsd:string ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04n6pq> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Spirit_Racing	owl:sameAs	dbpedia-pl:Spirit_Racing ,
+		dbr:Spirit_Racing .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Spirit_Racing	owl:sameAs	dbpedia-pt:Spirit_Racing .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Spirit_Racing	owl:sameAs	dbpedia-de:Spirit_Racing .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Spirit_Racing	owl:sameAs	dbpedia-fr:Spirit_Racing .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Spirit_Racing	owl:sameAs	yago-res:Spirit_Racing ,
+		wikidata:Q173088 ,
+		<http://nl.dbpedia.org/resource/Spirit_(Formule_1)> ,
+		<http://it.dbpedia.org/resource/Spirit_(automobilismo)> ,
+		<http://ja.dbpedia.org/resource/\u30B9\u30D4\u30EA\u30C3\u30C8\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Spirit_Racing	owl:sameAs	dbpedia-wikidata:Q173088 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Spirit_Racing	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:Formula_Two_constructors ,
+		dbc:Formula_Two_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Spirit201-F2.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Spirit_Racing ;
+	dbp:podiums	0 ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Spirit_Racing	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Spirit_Racing?oldid=740677043> ;
+	dbp:founders	<http://dbpedia.org/resource/John_Wickham_(motorsport)> ,
+		dbr:Gordon_Coppuck ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Slough, Berkshire, United Kingdom"^^xsd:string ;
+	dbp:engines	"Hart 415T L4"^^xsd:string ,
+		"Ford Cosworth DFV V8"^^xsd:string ,
+		"Honda RA163E V6"^^xsd:string ;
+	dbp:debut	1983 ;
+	dbo:abstract	"Spirit Racing \u00E9tait une \u00E9curie de course automobile fond\u00E9e par John Wickham. Spirit a particip\u00E9 au championnat du monde de Formule 1 de 1983 \u00E0 1985. L'\u00E9curie a disput\u00E9 un total de 23 Grands Prix, 4 347 km en course sans parvenir \u00E0 inscrire de point au championnat du monde des constructeurs."@fr ,
+		"Spirit Racing was a racing car constructor and racing team from the United Kingdom. Founded in 1981, it participated in the 1982 European Formula Two Championship, then in Formula One between 1983 and 1985, before competing in the 1988 F3000 season before finally folding at the end of the year. In 26 F1 races (including the non-championship 1983 Race of Champions), its best finish was seventh at the 1983 Dutch Grand Prix."@en ,
+		"\u30B9\u30D4\u30EA\u30C3\u30C8\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\uFF08Spirit Racing\uFF09\u306F\u304B\u3064\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3067\u3042\u308B\u300225\u30EC\u30FC\u30B9\u306B\u53C2\u52A0\uFF08\u3046\u30612\u30EC\u30FC\u30B9\u306F\u4E88\u9078\u843D\u3061\uFF09\u3057\u3001\u5EF6\u307925\u53F0\u306E\u30DE\u30B7\u30F3\u3092\u51FA\u8D70\u3055\u305B\u305F\u3002"@ja ,
+		"\u0421\u043F\u0438\u0440\u0438\u0442 (\u0432 \u043E\u0440\u0438\u0433\u0438\u043D\u0430\u043B\u0435 \u0430\u043D\u0433\u043B. Spirit Racing) \u2014 \u0431\u044B\u0432\u0448\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430-\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1981 \u0433\u043E\u0434\u0443. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0439 \u0444\u043E\u0440\u043C\u0443\u043B\u044B-2 1982 \u0433\u043E\u0434\u0430, \u0430 \u0437\u0430\u0442\u0435\u043C \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 1983-1985 \u0433\u043E\u0434\u0430\u0445. \u0412 23 \u043F\u0440\u043E\u0432\u0435\u0434\u0451\u043D\u043D\u044B\u0445 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043B\u0443\u0447\u0448\u0438\u043C \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0431\u044B\u043B\u043E \u0441\u0435\u0434\u044C\u043C\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u043E\u0432 1983 \u0433\u043E\u0434\u0430."@ru ,
+		"Spirit was een Brits Formule 1-team dat deelnam aan het kampioenschap tussen 1983 en 1985."@nl ,
+		"Spirit Racing foi uma equipe de F\u00F3rmula 1 do Reino Unido. Disputou 23 GPs entre 1983 \u00E0 1985. No seu primeiro ano na categoria, sua fornecedora de motores foi a Honda, que voltou \u00E0 F\u00F3rmula 1 ap\u00F3s 15 anos afastada. Em 3 temporadas, o melhor resultado da equipe foi um 7\u00BA lugar de Stefan Johansson no GP da Holanda, em 1983 - na \u00E9poca, apenas 6 pilotos pontuavam. Na temporada seguinte, o brasileiro Emerson Fittipaldi, afastado da categoria desde 1980, testou o carro da Spirit no circuito de Jacarepagu\u00E1 juntamente com o italiano Fulvio Ballabio, que levava o patroc\u00EDnio da Editora Mondadori, que representava a Disney em seu pa\u00EDs. Nos testes, Emerson obt\u00E9m o 17\u00BA tempo, enquanto que Ballabio fica em pen\u00FAltimo. O bicampe\u00E3o n\u00E3o gostou do que viu e decidiu mudar-se para a CART, onde faria sucesso, ao contr\u00E1rio do italiano, que teve a superlicen\u00E7a negada por decis\u00E3o da CSAI (\u00F3rg\u00E3o ligado \u00E0 Federa\u00E7\u00E3o Italiana de Automobilismo) - Mauro Baldi foi o escolhido, correndo em 8 provas. O holand\u00EAs Huub Rothengatter tamb\u00E9m foi inscrito para 8 GP's, n\u00E3o conseguindo vaga em Detroit. Ap\u00F3s 3 corridas em 1985, a Spirit encerrou sua trajet\u00F3ria na F\u00F3rmula 1;"@pt ,
+		"Das Spirit Racing Team war ein zun\u00E4chst in der Formel 2 und danach in der Formel 1 aktives Team aus Gro\u00DFbritannien, das zwischen 1983 und 1985 an 25 Formel-1-Rennen teilnahm. Spirit Racing wurde im August 1981 von Gordon Coppuck und John Wickham gegr\u00FCndet; beide waren zuvor Mitarbeiter von March Engineering gewesen."@de ,
+		"Spirit \u2013 zesp\u00F3\u0142 wy\u015Bcigowy startuj\u0105cy w Formule 1 w latach 1983\u20131985."@pl ,
+		"La Spirit \u00E8 stato un team britannico di Formula 1 che ha corso dal 1983 al 1985. Fondata da John Wickman, esperto manager di scuderia di Formula 2, non \u00E8 mai riuscita a segnare punti mondiali, pur potendo utilizzare i progetti di Gordon Coppuck."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Spirit201-F2.jpg?width=300> ;
+	dbo:wikiPageRevisionID	740677043 ;
+	dbo:wikiPageID	1262631 ;
+	dbp:races	25 ;
+	dbp:name	"Spirit Racing"^^xsd:string ;
+	dbp:wins	0 .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Spirit_Racing	ns21:hypernym	dbr:Constructor ;
+	dbp:lastRace	1985 .
+<http://dbpedia.org/resource/Spirit_(racing_team)>	dbo:wikiPageRedirects	dbr:Spirit_Racing .
+dbr:Gordon_Coppuck	dbo:knownFor	dbr:Spirit_Racing .
+<http://dbpedia.org/resource/Spirit_(Formula_1_team)>	dbo:wikiPageRedirects	dbr:Spirit_Racing .
+dbr:Huub_Rothengatter__1984__1	dbo:team	dbr:Spirit_Racing .
+dbr:Spirit_101	dbp:team	dbr:Spirit_Racing ;
+	dbp:constructor	dbr:Spirit_Racing .
+dbr:Huub_Rothengatter__1984__2	dbo:team	dbr:Spirit_Racing .

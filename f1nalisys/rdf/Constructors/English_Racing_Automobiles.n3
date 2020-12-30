@@ -1,0 +1,137 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Aspendale_Racecourse	dbp:recordTeam	dbr:English_Racing_Automobiles .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1937_Campbell_Trophy>	dbo:fastestDriverTeam	dbr:English_Racing_Automobiles .
+<http://dbpedia.org/resource/1950_British_Empire_Trophy>	dbo:fastestDriverTeam	dbr:English_Racing_Automobiles ;
+	dbo:poleDriverTeam	dbr:English_Racing_Automobiles ;
+	dbo:secondTeam	dbr:English_Racing_Automobiles ;
+	dbo:firstDriverTeam	dbr:English_Racing_Automobiles .
+dbr:Cuth_Harrison	<http://dbpedia.org/property/team(s)_>	dbr:English_Racing_Automobiles .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:English_Racing_Automobiles	foaf:primaryTopic	dbr:English_Racing_Automobiles .
+<http://dbpedia.org/resource/1938_Australian_Grand_Prix>	dbo:firstDriverTeam	dbr:English_Racing_Automobiles .
+<http://dbpedia.org/resource/1950_Richmond_Trophy>	dbo:poleDriverTeam	dbr:English_Racing_Automobiles ;
+	dbo:thirdTeam	dbr:English_Racing_Automobiles .
+<http://dbpedia.org/resource/1948_British_Grand_Prix>	dbo:thirdTeam	dbr:English_Racing_Automobiles .
+<http://dbpedia.org/resource/1949_British_Grand_Prix>	dbo:secondTeam	dbr:English_Racing_Automobiles .
+<http://dbpedia.org/resource/1947_Reims_Grand_Prix>	dbo:thirdTeam	dbr:English_Racing_Automobiles .
+dbr:ERA	dbo:wikiPageDisambiguates	dbr:English_Racing_Automobiles .
+<http://dbpedia.org/resource/Leslie_Johnson_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:English_Racing_Automobiles .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:English_Racing_Automobiles	rdf:type	yago:Whole100003553 ,
+		dbo:Person ,
+		yago:WikicatRacingCars ,
+		yago:Racer104037443 ,
+		yago:Company108058098 ,
+		yago:WikicatMotorVehicleManufacturersOfEngland ,
+		yago:WikicatMotorVehicleManufacturersOfTheUnitedKingdom .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:English_Racing_Automobiles	rdf:type	umbel-rc:Automobile ,
+		yago:Instrumentality103575240 ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Manufacturer108060446 ,
+		yago:Organization108008335 ,
+		yago:WikicatDefunctMotorVehicleManufacturersOfTheUnitedKingdom ,
+		yago:Abstraction100002137 ,
+		yago:Enterprise108056231 ,
+		yago:Business108061042 ,
+		yago:Container103094503 ,
+		yago:MotorVehicle103791235 ,
+		yago:Car102958343 ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:WheeledVehicle104576211 ,
+		yago:Self-propelledVehicle104170037 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatCompaniesOfTheUnitedKingdom ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Institution108053576 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Object100002684 ,
+		yago:Conveyance103100490 ,
+		yago:Artifact100021939 ,
+		yago:WikicatGrandPrixTeams ,
+		yago:Vehicle104524313 ,
+		yago:WikicatFormulaOneEngineManufacturers ,
+		yago:WikicatCompaniesBasedInLincolnshire .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:English_Racing_Automobiles	rdfs:label	"ERA (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"\u30A4\u30F3\u30B0\u30EA\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30AA\u30FC\u30C8\u30E2\u30D3\u30EB\u30BA"@ja ,
+		"English Racing Automobiles"@en ,
+		"English Racing Automobiles"@nl ,
+		"English Racing Automobiles"@fr ,
+		"English Racing Automobiles"@pl ,
+		"English Racing Automobiles"@it ,
+		"English Racing Automobiles"@de ;
+	rdfs:comment	"English Racing Automobiles ou ERA \u00E9tait un constructeur automobile britannique, actif de 1933 \u00E0 1954. Actuellement, la marque est d\u00E9tenue par un fabricant britannique de kit-car."@fr ,
+		"English Racing Automobiles is een Britse autosportorganisatie. ERA werd in november 1933 opgericht door Humphrey Cook, Raymond Mays en Peter Berthon en nam vanaf 1934 deel aan races. In de Formule 1 was het team actief van 1950 tot 1952, waarin het geen punten scoorde en met Bob Gerard als coureur twee zesde plaatsen als beste resultaat behaalde. Later ging English Racing Automobiles verder onder de naam British Racing Motors."@nl ,
+		"English Racing Automobiles Ltd. (ERA) war ein englischer Hersteller von Sport- und Rennwagen. Die Firma bestand von 1933 bis 1954. In den 1930er-Jahren produzierte ERA einen der feinsten einsitzigen Rennwagen der sogenannten Voiturette-Klasse. Die 1\u00BD- und 2-Liter-Riley-Motoren mit obenliegenden Nockenwellen sorgten daf\u00FCr, dass ERA die meisten Rekorde bei Berg- und Beschleunigungsrennen hielt. Zwischen 1934 und 1939 kam ERA durch das Design und die Konstruktion ihrer Rennwagen, die zu den erfolgreichsten ihrer Zeit geh\u00F6rten, zu einem sehr guten Ruf."@de ,
+		"\u30A4\u30F3\u30B0\u30EA\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30AA\u30FC\u30C8\u30E2\u30D3\u30EB\u30BA (English Racing Automobiles, ERA) \u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30DE\u30CB\u30D5\u30A1\u30AF\u30C1\u30E3\u30E9\u30FC\u30021933\u5E74\u304B\u30891954\u5E74\u307E\u3067\u6D3B\u52D5\u3057\u305F\u3002"@ja ,
+		"ERA (English Racing Automobiles) \u2014 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u0441 1933 \u043F\u043E 1954 \u0433\u0433. \u0410\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0438 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0438 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1950-1951 \u0433\u043E\u0434\u043E\u0432. \u0412\u0441\u0435\u0433\u043E \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0438 \u0432 12 \u0433\u043E\u043D\u043A\u0430\u0445."@ru ,
+		"English Racing Automobiles (ERA) was a British racing car manufacturer active from 1933 to 1954."@en ,
+		"English Racing Automobiles lub ERA \u2013 brytyjski konstruktor Formu\u0142y 1 w latach 1950\u20131952 oraz dostawca silnik\u00F3w dla Formu\u0142y 1."@pl ,
+		"L\u2019English Racing Automobiles (ERA) \u00E8 stata una casa automobilistica britannica attiva tra il 1933 ed il 1954 che produceva vetture da competizione. Ha partecipato a tre campionati di Formula 1 (nella stagione 1950, nel 1951 e nel 1952).Oggi il marchio ERA appartiene ad un costruttore britannico di kit-car (le kit-car sono automobili \u201Cin scatola di montaggio\u201D, dove \u00E8 il cliente a costruirle per conto suo)."@it .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:English_Racing_Automobiles	owl:sameAs	dbpedia-wikidata:Q172153 ,
+		<http://rdf.freebase.com/ns/m.0119bz18> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:English_Racing_Automobiles	owl:sameAs	dbpedia-fr:English_Racing_Automobiles .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:English_Racing_Automobiles	owl:sameAs	wikidata:Q172153 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:English_Racing_Automobiles	owl:sameAs	dbpedia-id:English_Racing_Automobiles ,
+		dbr:English_Racing_Automobiles .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:English_Racing_Automobiles	owl:sameAs	yago-res:ERA_30 ,
+		yago-res:English_Racing_Automobiles .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:English_Racing_Automobiles	owl:sameAs	dbpedia-it:English_Racing_Automobiles ,
+		<http://rdf.freebase.com/ns/m.04kv9y> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:English_Racing_Automobiles	owl:sameAs	dbpedia-de:English_Racing_Automobiles ,
+		<http://ja.dbpedia.org/resource/\u30A4\u30F3\u30B0\u30EA\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30AA\u30FC\u30C8\u30E2\u30D3\u30EB\u30BA> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:English_Racing_Automobiles	owl:sameAs	dbpedia-nl:English_Racing_Automobiles .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:English_Racing_Automobiles	owl:sameAs	dbpedia-pl:English_Racing_Automobiles .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:English_Racing_Automobiles	dct:subject	dbc:British_companies_established_in_1933 ,
+		dbc:Grand_Prix_teams ,
+		dbc:Companies_based_in_Lincolnshire ,
+		dbc:Manufacturing_companies_established_in_1933 ,
+		dbc:British_auto_racing_teams ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_One_constructors ,
+		<http://dbpedia.org/resource/Category:1933_establishments_in_England> ,
+		dbc:Motor_vehicle_manufacturers_of_England ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/ERA_R6B_Donington_2007.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:English_Racing_Automobiles .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:English_Racing_Automobiles	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/English_Racing_Automobiles?oldid=742838674> ;
+	dbo:wikiPageExternalLink	<http://8w.forix.com/era.html> ,
+		<http://www.motorsnippets.com/cars/era/index.htm> ;
+	dbo:abstract	"English Racing Automobiles Ltd. (ERA) war ein englischer Hersteller von Sport- und Rennwagen. Die Firma bestand von 1933 bis 1954. In den 1930er-Jahren produzierte ERA einen der feinsten einsitzigen Rennwagen der sogenannten Voiturette-Klasse. Die 1\u00BD- und 2-Liter-Riley-Motoren mit obenliegenden Nockenwellen sorgten daf\u00FCr, dass ERA die meisten Rekorde bei Berg- und Beschleunigungsrennen hielt. Zwischen 1934 und 1939 kam ERA durch das Design und die Konstruktion ihrer Rennwagen, die zu den erfolgreichsten ihrer Zeit geh\u00F6rten, zu einem sehr guten Ruf. Nach dem Krieg scheiterte jedoch der Versuch, an die fr\u00FCheren Erfolge anzukn\u00FCpfen, und das Unternehmen stellte schlie\u00DFlich die Produktion ein. Dennoch blieben die meisten ERA-Rennwagen in der Hand von Privatfahrern weiterhin aktiv, von denen viele bis heute im Rahmen von Rennen f\u00FCr historische Rennwagen eingesetzt werden."@de ,
+		"English Racing Automobiles is een Britse autosportorganisatie. ERA werd in november 1933 opgericht door Humphrey Cook, Raymond Mays en Peter Berthon en nam vanaf 1934 deel aan races. In de Formule 1 was het team actief van 1950 tot 1952, waarin het geen punten scoorde en met Bob Gerard als coureur twee zesde plaatsen als beste resultaat behaalde. Later ging English Racing Automobiles verder onder de naam British Racing Motors."@nl ,
+		"L\u2019English Racing Automobiles (ERA) \u00E8 stata una casa automobilistica britannica attiva tra il 1933 ed il 1954 che produceva vetture da competizione. Ha partecipato a tre campionati di Formula 1 (nella stagione 1950, nel 1951 e nel 1952).Oggi il marchio ERA appartiene ad un costruttore britannico di kit-car (le kit-car sono automobili \u201Cin scatola di montaggio\u201D, dove \u00E8 il cliente a costruirle per conto suo)."@it ,
+		"English Racing Automobiles ou ERA \u00E9tait un constructeur automobile britannique, actif de 1933 \u00E0 1954. Actuellement, la marque est d\u00E9tenue par un fabricant britannique de kit-car."@fr ,
+		"English Racing Automobiles (ERA) was a British racing car manufacturer active from 1933 to 1954."@en ,
+		"English Racing Automobiles lub ERA \u2013 brytyjski konstruktor Formu\u0142y 1 w latach 1950\u20131952 oraz dostawca silnik\u00F3w dla Formu\u0142y 1."@pl ,
+		"ERA (English Racing Automobiles) \u2014 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u0441 1933 \u043F\u043E 1954 \u0433\u0433. \u0410\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0438 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0438 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1950-1951 \u0433\u043E\u0434\u043E\u0432. \u0412\u0441\u0435\u0433\u043E \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0438 \u0432 12 \u0433\u043E\u043D\u043A\u0430\u0445."@ru ,
+		"\u30A4\u30F3\u30B0\u30EA\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30AA\u30FC\u30C8\u30E2\u30D3\u30EB\u30BA (English Racing Automobiles, ERA) \u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30DE\u30CB\u30D5\u30A1\u30AF\u30C1\u30E3\u30E9\u30FC\u30021933\u5E74\u304B\u30891954\u5E74\u307E\u3067\u6D3B\u52D5\u3057\u305F\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/ERA_R6B_Donington_2007.jpg?width=300> ;
+	dbo:wikiPageRevisionID	742838674 ;
+	dbo:wikiPageID	1235032 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:English_Racing_Automobiles	ns22:hypernym	dbr:English .
+dbr:Swedish_Winter_Grand_Prix	dbp:fastestLapTeam	dbr:English_Racing_Automobiles ;
+	dbp:winningTeam	dbr:English_Racing_Automobiles ;
+	dbp:secondTeam	dbr:English_Racing_Automobiles ;
+	dbp:thirdTeam	dbr:English_Racing_Automobiles .

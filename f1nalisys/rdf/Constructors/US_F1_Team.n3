@@ -1,0 +1,138 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:US_F1_Team	foaf:primaryTopic	dbr:US_F1_Team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:US_F1_Team	rdf:type	dbo:Organisation .
+@prefix schema:	<http://schema.org/> .
+dbr:US_F1_Team	rdf:type	schema:Organization .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:US_F1_Team	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:US_F1_Team	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		yago:SocialGroup107950920 ,
+		yago:Company108058098 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		yago:Abstraction100002137 ,
+		schema:SportsTeam ,
+		dbo:Agent ,
+		dbo:SportsTeam .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:US_F1_Team	rdf:type	owl:Thing ,
+		yago:Team108208560 ,
+		yago:Unit108189659 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:US_F1_Team	rdf:type	ns9:Agent ,
+		yago:Institution108053576 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		ns9:SocialPerson ,
+		wikidata:Q43229 ,
+		dbo:FormulaOneTeam ,
+		yago:WikicatCompaniesDisestablishedIn2010 ,
+		yago:WikicatCompaniesEstablishedIn2009 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:US_F1_Team	rdfs:label	"US F1 Team"@nl ,
+		"\u7F8E\u56FDF1\u8F66\u961F"@zh ,
+		"US F1\u30C1\u30FC\u30E0"@ja ,
+		"US F1 Team"@pl ,
+		"US F1 Team"@de ,
+		"US F1"@es ,
+		"US F1 Team"@ru ,
+		"Team US F1"@it ,
+		"USF1"@fr ,
+		"US F1 Team"@pt ,
+		"US F1 Team"@en ;
+	rdfs:comment	"Das US F1 Team war ein US-amerikanisches Motorsportprojekt mit Sitz in Charlotte im US-Bundesstaat North Carolina, das seit dem Fr\u00FChjahr 2009 die Teilnahme an der Formel-1-Weltmeisterschaft ab 2010 plante und von der FIA offiziell als Teilnehmer best\u00E4tigt wurde. Nachdem zu Beginn des Jahres 2010 Ger\u00FCchte \u00FCber ein Scheitern des Projekts zunahmen, wurde schlie\u00DFlich am 2. M\u00E4rz die vor\u00FCbergehende Einstellung des Betriebes in Charlotte bekanntgegeben und ein Start in der Saison 2010 ausgeschlossen."@de ,
+		"USF1 est une \u00E9curie de Formule 1 am\u00E9ricaine, fond\u00E9e en f\u00E9vrier 2009 pour d\u00E9buter en championnat du monde en 2010, mais qui a renonc\u00E9 \u00E0 son engagement."@fr ,
+		"US F1 Team (United States Formula one Team) is een nieuw raceteam, dat vanaf 2010 deel zou nemen aan het WK Formule 1. Het team kwam aanvankelijk met de naam USF1, maar deze werd niet goedgekeurd door de organisatie van de Formule 1. Nadien kwamen ze met de naam USGPE (United States Grand Prix Enigineering), maar er werd uiteindelijk gekozen voor 'US F1 Team'. Het team is in handen van Ken Anderson, voormalig teambaas van het Franse F1 team van Ligier. De bedoeling was dat het team vanaf het seizoen 2010 aan de start zou verschijnen met twee Amerikaanse coureurs, maar er werd gekozen voor coureurs die het meeste geld mee zouden brengen."@nl ,
+		"USF1 Team (tambi\u00E9n llamado informalmente USGPE, United States Grand Prix Engineering, o USF1) fue un proyecto fallido de equipo estadounidense de F\u00F3rmula 1, que se encontraba inscripto para participar en la temporada 2010."@es ,
+		"US F1 Team \u00E9 uma equipe norte americana que esteve inscrita para disputar a temporada de 2010 de F\u00F3rmula 1. Devido a problemas financeiros para concluir o carro, a equipe desistiu da inscri\u00E7\u00E3o e acabou sendo banida da categoria."@pt ,
+		"US F1 Team was a proposed Formula One team that was granted entry to the 2010 season. However, the team stopped work on its car and did not compete in 2010. It informed the FIA that it was not in a position to race and was removed from the official entry list."@en ,
+		"US F1\u30C1\u30FC\u30E0 (US F1 Team) \u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u30022010\u5E74\u306EF1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3059\u308B\u4E88\u5B9A\u3060\u3063\u305F\u3002 \u30C1\u30FC\u30E0\u4EE3\u8868\u306F\u5143\u30EA\u30B8\u30A7\u306E\u30C6\u30AF\u30CB\u30AB\u30EB\u30C7\u30A3\u30EC\u30AF\u30BF\u30FC\u3067\u3001\u30CF\u30FC\u30B9\u30FBCNC\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u306E\u30C6\u30AF\u30CB\u30AB\u30EB\u30C7\u30A3\u30EC\u30AF\u30BF\u30FC\u3092\u52D9\u3081\u308B\u30B1\u30F3\u30FB\u30A2\u30F3\u30C0\u30FC\u30BD\u30F3\u3002\u30B9\u30DD\u30FC\u30C6\u30A3\u30F3\u30B0\u30C7\u30A3\u30EC\u30AF\u30BF\u30FC\u306F\u30A6\u30A3\u30EA\u30A2\u30E0\u30BA\u3084\u30D5\u30A7\u30E9\u30FC\u30EA\u3001\u30CA\u30A4\u30B8\u30A7\u30EB\u30FB\u30DE\u30F3\u30BB\u30EB\u306E\u30DE\u30CD\u30FC\u30B8\u30E3\u30FC\u3092\u52D9\u3081\u305F\u3053\u3068\u306E\u3042\u308B\u3001\u30B8\u30E3\u30FC\u30CA\u30EA\u30B9\u30C8\u306E\u30D4\u30FC\u30BF\u30FC\u30FB\u30A6\u30A3\u30F3\u30B6\u30FC\u3002"@ja ,
+		"US F1 Team (pe\u0142na nazwa Team US F1) \u2013 ameryka\u0144ski zesp\u00F3\u0142 wy\u015Bcigowy, kt\u00F3ry mia\u0142 zadebiutowa\u0107 w Formule 1 w sezonie 2010."@pl ,
+		"Il Team US F1 \u00E8 stata una scuderia automobilistica statunitense fondata nel 2009. Ottenne l'iscrizione al mondiale di Formula 1 2010, \u2013 pagando anche alla FIA la quota d'iscrizione non rimborsabile (400 000 euro) \u2013 ma poi rinunci\u00F2 a parteciparvi."@it ,
+		"US F1 Team (\u0441\u043E\u043A\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u043E\u0442 United States Formula One Team ) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0434\u043E\u043B\u0436\u043D\u0430 \u0431\u044B\u043B\u0430 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0432 2010 \u0433\u043E\u0434\u0443."@ru ,
+		"\u7F8E\u56FDF1\u8F66\u961F\uFF08US F1 Team\uFF092009\u5E742\u670825\u65E5\u6210\u7ACB\u4E8E\u7F8E\u56FD\u5317\u5361\u7F57\u83B1\u7EB3\u5DDE\u7684\u590F\u6D1B\u7279\u3002\u7531\u524D\u5A01\u5EC9\u59C6\u65AF\u8F66\u961F\u7ECF\u7406\u3001\u73B0\u7F8E\u56FDF1\u7535\u89C6\u76F4\u64AD\u5458\u76AE\u7279\u00B7\u6E29\u745F\u5C14(Peter Windsor)\u548C\u66FE\u4E8E80\u5E74\u4EE3\u4EFBF1\u8F66\u961F\u6280\u672F\u603B\u76D1\u7684\u8D5B\u8F66\u5DE5\u7A0B\u5E08\u80AF\u00B7\u5B89\u5FB7\u68EE(Ken Anderson)\u8054\u624B\u521B\u5EFA\u3002\u5B89\u5FB7\u68EE\u62C5\u4EFB\u9886\u961F\uFF0C\u6E29\u745F\u5C14\u62C5\u4EFB\u8FD0\u52A8\u603B\u76D1\uFF0C\u4E24\u4EBA\u5206\u522B\u8D1F\u8D23\u6280\u672F\u5DE5\u7A0B\u548C\u8F66\u961F\u8FD0\u8425\u3002\u7F8E\u56FDF1\u8F66\u961F\u539F\u672C\u5C06\u4F1A\u53C2\u52A02010\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\uFF0C\u4F46\u56E0\u8CC7\u91D1\u4E0D\u8DB3\u7B49\u7B49\u539F\u56E0\u9000\u51FA2010\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u3002"@zh .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-de:US_F1_Team ,
+		<http://ja.dbpedia.org/resource/US_F1\u30C1\u30FC\u30E0> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-pl:US_F1_Team ,
+		dbr:US_F1_Team .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-id:US_F1_Team .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	yago-res:US_F1_Team .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-it:Team_US_F1 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-es:US_F1 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-fr:USF1 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-nl:US_F1_Team .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-cs:Team_USF1 ,
+		<http://rdf.freebase.com/ns/m.05f39__> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-wikidata:Q173230 ,
+		wikidata:Q173230 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:US_F1_Team	owl:sameAs	dbpedia-pt:US_F1_Team .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:US_F1_Team	dct:subject	dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		<http://dbpedia.org/resource/Category:2010_disestablishments_in_North_Carolina> ,
+		dbc:Companies_disestablished_in_2010 ,
+		<http://dbpedia.org/resource/Category:2009_establishments_in_North_Carolina> ,
+		dbc:American_auto_racing_teams ,
+		dbc:American_racecar_constructors ,
+		dbc:Companies_established_in_2009 ;
+	foaf:name	"US F1 Team"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:US_F1_Team .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:US_F1_Team	dbp:principal	dbr:Peter_Windsor ,
+		<http://dbpedia.org/resource/Ken_Anderson_(motorsport)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:US_F1_Team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/US_F1_Team?oldid=718469925> ;
+	dbp:logo	<http://dbpedia.org/resource/File:Usf1teamlogo2.png> ;
+	dbp:base	dbr:North_Carolina ,
+		<http://dbpedia.org/resource/Alca\u00F1iz> ,
+		dbr:United_States ,
+		<http://dbpedia.org/resource/Charlotte,_North_Carolina> ,
+		dbr:Spain ,
+		dbr:Aragon ;
+	dbo:abstract	"USF1 est une \u00E9curie de Formule 1 am\u00E9ricaine, fond\u00E9e en f\u00E9vrier 2009 pour d\u00E9buter en championnat du monde en 2010, mais qui a renonc\u00E9 \u00E0 son engagement."@fr ,
+		"US F1 Team (\u0441\u043E\u043A\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u043E\u0442 United States Formula One Team ) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0434\u043E\u043B\u0436\u043D\u0430 \u0431\u044B\u043B\u0430 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0432 2010 \u0433\u043E\u0434\u0443."@ru ,
+		"Das US F1 Team war ein US-amerikanisches Motorsportprojekt mit Sitz in Charlotte im US-Bundesstaat North Carolina, das seit dem Fr\u00FChjahr 2009 die Teilnahme an der Formel-1-Weltmeisterschaft ab 2010 plante und von der FIA offiziell als Teilnehmer best\u00E4tigt wurde. Nachdem zu Beginn des Jahres 2010 Ger\u00FCchte \u00FCber ein Scheitern des Projekts zunahmen, wurde schlie\u00DFlich am 2. M\u00E4rz die vor\u00FCbergehende Einstellung des Betriebes in Charlotte bekanntgegeben und ein Start in der Saison 2010 ausgeschlossen."@de ,
+		"US F1 Team \u00E9 uma equipe norte americana que esteve inscrita para disputar a temporada de 2010 de F\u00F3rmula 1. Devido a problemas financeiros para concluir o carro, a equipe desistiu da inscri\u00E7\u00E3o e acabou sendo banida da categoria."@pt ,
+		"US F1 Team (pe\u0142na nazwa Team US F1) \u2013 ameryka\u0144ski zesp\u00F3\u0142 wy\u015Bcigowy, kt\u00F3ry mia\u0142 zadebiutowa\u0107 w Formule 1 w sezonie 2010."@pl ,
+		"US F1\u30C1\u30FC\u30E0 (US F1 Team) \u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u30022010\u5E74\u306EF1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3059\u308B\u4E88\u5B9A\u3060\u3063\u305F\u3002 \u30C1\u30FC\u30E0\u4EE3\u8868\u306F\u5143\u30EA\u30B8\u30A7\u306E\u30C6\u30AF\u30CB\u30AB\u30EB\u30C7\u30A3\u30EC\u30AF\u30BF\u30FC\u3067\u3001\u30CF\u30FC\u30B9\u30FBCNC\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u306E\u30C6\u30AF\u30CB\u30AB\u30EB\u30C7\u30A3\u30EC\u30AF\u30BF\u30FC\u3092\u52D9\u3081\u308B\u30B1\u30F3\u30FB\u30A2\u30F3\u30C0\u30FC\u30BD\u30F3\u3002\u30B9\u30DD\u30FC\u30C6\u30A3\u30F3\u30B0\u30C7\u30A3\u30EC\u30AF\u30BF\u30FC\u306F\u30A6\u30A3\u30EA\u30A2\u30E0\u30BA\u3084\u30D5\u30A7\u30E9\u30FC\u30EA\u3001\u30CA\u30A4\u30B8\u30A7\u30EB\u30FB\u30DE\u30F3\u30BB\u30EB\u306E\u30DE\u30CD\u30FC\u30B8\u30E3\u30FC\u3092\u52D9\u3081\u305F\u3053\u3068\u306E\u3042\u308B\u3001\u30B8\u30E3\u30FC\u30CA\u30EA\u30B9\u30C8\u306E\u30D4\u30FC\u30BF\u30FC\u30FB\u30A6\u30A3\u30F3\u30B6\u30FC\u3002"@ja ,
+		"\u7F8E\u56FDF1\u8F66\u961F\uFF08US F1 Team\uFF092009\u5E742\u670825\u65E5\u6210\u7ACB\u4E8E\u7F8E\u56FD\u5317\u5361\u7F57\u83B1\u7EB3\u5DDE\u7684\u590F\u6D1B\u7279\u3002\u7531\u524D\u5A01\u5EC9\u59C6\u65AF\u8F66\u961F\u7ECF\u7406\u3001\u73B0\u7F8E\u56FDF1\u7535\u89C6\u76F4\u64AD\u5458\u76AE\u7279\u00B7\u6E29\u745F\u5C14(Peter Windsor)\u548C\u66FE\u4E8E80\u5E74\u4EE3\u4EFBF1\u8F66\u961F\u6280\u672F\u603B\u76D1\u7684\u8D5B\u8F66\u5DE5\u7A0B\u5E08\u80AF\u00B7\u5B89\u5FB7\u68EE(Ken Anderson)\u8054\u624B\u521B\u5EFA\u3002\u5B89\u5FB7\u68EE\u62C5\u4EFB\u9886\u961F\uFF0C\u6E29\u745F\u5C14\u62C5\u4EFB\u8FD0\u52A8\u603B\u76D1\uFF0C\u4E24\u4EBA\u5206\u522B\u8D1F\u8D23\u6280\u672F\u5DE5\u7A0B\u548C\u8F66\u961F\u8FD0\u8425\u3002\u7F8E\u56FDF1\u8F66\u961F\u539F\u672C\u5C06\u4F1A\u53C2\u52A02010\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\uFF0C\u4F46\u56E0\u8CC7\u91D1\u4E0D\u8DB3\u7B49\u7B49\u539F\u56E0\u9000\u51FA2010\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u3002"@zh ,
+		"US F1 Team (United States Formula one Team) is een nieuw raceteam, dat vanaf 2010 deel zou nemen aan het WK Formule 1. Het team kwam aanvankelijk met de naam USF1, maar deze werd niet goedgekeurd door de organisatie van de Formule 1. Nadien kwamen ze met de naam USGPE (United States Grand Prix Enigineering), maar er werd uiteindelijk gekozen voor 'US F1 Team'. Het team is in handen van Ken Anderson, voormalig teambaas van het Franse F1 team van Ligier. De bedoeling was dat het team vanaf het seizoen 2010 aan de start zou verschijnen met twee Amerikaanse coureurs, maar er werd gekozen voor coureurs die het meeste geld mee zouden brengen."@nl ,
+		"USF1 Team (tambi\u00E9n llamado informalmente USGPE, United States Grand Prix Engineering, o USF1) fue un proyecto fallido de equipo estadounidense de F\u00F3rmula 1, que se encontraba inscripto para participar en la temporada 2010."@es ,
+		"US F1 Team was a proposed Formula One team that was granted entry to the 2010 season. However, the team stopped work on its car and did not compete in 2010. It informed the FIA that it was not in a position to race and was removed from the official entry list. The team was fronted by former Haas CNC Racing technical director Ken Anderson and journalist (and former Williams and Ferrari manager) Peter Windsor. US F1 was aiming to be the only F1 team based outside Europe, with their factory located in Charlotte, North Carolina. This was part of Anderson and Windsor's plan to promote American drivers and technology, as was their initial aim to run two American drivers in the 2010 season."@en ,
+		"Il Team US F1 \u00E8 stata una scuderia automobilistica statunitense fondata nel 2009. Ottenne l'iscrizione al mondiale di Formula 1 2010, \u2013 pagando anche alla FIA la quota d'iscrizione non rimborsabile (400 000 euro) \u2013 ma poi rinunci\u00F2 a parteciparvi."@it ;
+	dbo:wikiPageRevisionID	718469925 ;
+	dbo:wikiPageID	21418344 ;
+	dbp:constructorName	"Team US F1"^^xsd:string ;
+	dbp:engineeringHead	"John Anderson"^^xsd:string ;
+	dbp:engineeringHeadPosition	"Managing Director"^^xsd:string .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:US_F1_Team	ns26:hypernym	dbr:Team .
+dbr:US_F1_Type_1	dbo:wikiPageRedirects	dbr:US_F1_Team .
+<http://dbpedia.org/resource/USF1_(Formula_One)>	dbo:wikiPageRedirects	dbr:US_F1_Team .
+dbr:USGPE	dbo:wikiPageRedirects	dbr:US_F1_Team .
+dbr:USF1_Team	dbo:wikiPageRedirects	dbr:US_F1_Team .
+dbr:US_F1_Team_Type_1	dbo:wikiPageRedirects	dbr:US_F1_Team .
+<http://dbpedia.org/resource/USF1_(Formula_1)>	dbo:wikiPageRedirects	dbr:US_F1_Team .
+dbr:US_GPE	dbo:wikiPageRedirects	dbr:US_F1_Team .
+dbr:Team_US_F1	dbo:wikiPageRedirects	dbr:US_F1_Team .
+dbr:US_F1	dbo:wikiPageRedirects	dbr:US_F1_Team .
+dbr:US_Grand_Prix_Engineering	dbo:wikiPageRedirects	dbr:US_F1_Team .
+dbr:Team_USF1	dbo:wikiPageRedirects	dbr:US_F1_Team .
+dbr:Cypher_Group	dbo:wikiPageRedirects	dbr:US_F1_Team .

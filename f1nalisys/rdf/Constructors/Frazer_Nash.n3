@@ -1,0 +1,95 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Nash	dbo:wikiPageDisambiguates	dbr:Frazer_Nash .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Frazer_Nash	rdf:type	yago:Abstraction100002137 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		yago:Enterprise108056231 ,
+		yago:WikicatDefunctMotorVehicleManufacturersOfTheUnitedKingdom ,
+		yago:Business108061042 ,
+		yago:WikicatMotorVehicleManufacturersOfTheUnitedKingdom ,
+		dbo:Company ,
+		yago:Manufacturer108060446 ,
+		yago:Institution108053576 ,
+		yago:Company108058098 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Frazer_Nash	rdfs:label	"Frazer Nash"@en ,
+		"Frazer-Nash"@pl ,
+		"Frazer Nash"@fr ,
+		"Frazer Nash"@de ,
+		"Frazer Nash"@it ;
+	rdfs:comment	"Frazer-Nash Ltd. \u2013 nieistniej\u0105ca ju\u017C brytyjska firma produkuj\u0105ca samochody sportowe."@pl ,
+		"Frazer Nash \u00E8 stata una marca britannica di automobili fondata nel 1922 da Archibald Frazer Nash a Kingston upon Thames e un team di Formula 1 che ha partecipato a 4 Gran Premi nel 1952. Ha ottenuto come miglior risultato un 4\u00BA posto al Gran Premio di Svizzera con Ken Wharton, su Frazer-Nash FN48 a motore Bristol. Ha anche vinto con Franco Cortese la Targa Florio del 1951."@it ,
+		"Frazer Nash war ein englischer Hersteller von Sportwagen und Formel 1-Fahrzeugen."@de ,
+		"Frazer Nash est un constructeur britannique de voitures de sport et de course. Fond\u00E9e en 1922 par Archibald Frazer-Nash et Henry Ronald Godfrey, la marque (rebaptis\u00E9e AFN Limited en 1927) fut reprise par les fr\u00E8res Aldington en 1929. Jusqu'\u00E0 la Seconde Guerre mondiale, la compagnie produisit des v\u00E9hicules \u00E0 transmission par cha\u00EEne, mais importa \u00E9galement des BMW, commercialis\u00E9es sous l'appellation Frazer Nash-BMW. Apr\u00E8s guerre, les fr\u00E8res Aldington acquirent les droits de BMW, et produisirent des voitures de sport \u00E0 moteur BMW, moteur produit \u00E0 l'usine Bristol sous cette appellation. La production cessa en 1957, AFN Limited devenant alors concessionnaire Porsche pour la Grande-Bretagne."@fr ,
+		"(This article is about the car company founded in 1922. For the electric & hybrid vehicle company Frazer-Nash Research, see Kamkorp. For the UK engineering consultancy, see Frazer-Nash Consultancy Ltd. For the aircraft equipment manufacturer, see Nash & Thompson.)"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Frazer_Nash	owl:sameAs	dbpedia-wikidata:Q1452093 ,
+		dbr:Frazer_Nash ,
+		<http://rdf.freebase.com/ns/m.04n6g5> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Frazer_Nash	owl:sameAs	dbpedia-fr:Frazer_Nash .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Frazer_Nash	owl:sameAs	yago-res:Frazer_Nash .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Frazer_Nash	owl:sameAs	dbpedia-it:Frazer_Nash .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Frazer_Nash	owl:sameAs	dbpedia-pl:Frazer-Nash .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Frazer_Nash	owl:sameAs	dbpedia-de:Frazer_Nash .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Frazer_Nash	owl:sameAs	wikidata:Q1452093 .
+@prefix ns13:	<http://www4.wiwiss.fu-berlin.de/wikicompany/resource/> .
+dbr:Frazer_Nash	owl:sameAs	ns13:Frazer_Nash .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Frazer_Nash	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Defunct_motor_vehicle_manufacturers_of_the_United_Kingdom .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Frazer_Nash	foaf:homepage	<http://www.frazernash.co.uk> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/1931_Frazer_Nash_Falcon.JPG> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Frazer_Nash	foaf:isPrimaryTopicOf	wikipedia-en:Frazer_Nash .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Frazer_Nash	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Frazer_Nash?oldid=735962865> ;
+	dbo:wikiPageExternalLink	<http://www.frazernash.co.uk> ,
+		<http://www.frazernash-usa.com> ;
+	dbo:abstract	"(This article is about the car company founded in 1922. For the electric & hybrid vehicle company Frazer-Nash Research, see Kamkorp. For the UK engineering consultancy, see Frazer-Nash Consultancy Ltd. For the aircraft equipment manufacturer, see Nash & Thompson.) Frazer Nash is a British sports car manufacturer and engineering company founded by Archibald Frazer-Nash in 1922. It produced sports cars incorporating a unique multi-chain transmission before the Second World War and also imported BMW cars to the UK. After the war it continued producing sports cars with conventional transmission until 1957. It also continued selling BMW cars and motorcycles and finally in 1956 became the official importer of Porsche cars."@en ,
+		"Frazer Nash \u00E8 stata una marca britannica di automobili fondata nel 1922 da Archibald Frazer Nash a Kingston upon Thames e un team di Formula 1 che ha partecipato a 4 Gran Premi nel 1952. Ha ottenuto come miglior risultato un 4\u00BA posto al Gran Premio di Svizzera con Ken Wharton, su Frazer-Nash FN48 a motore Bristol. Ha anche vinto con Franco Cortese la Targa Florio del 1951."@it ,
+		"Frazer Nash est un constructeur britannique de voitures de sport et de course. Fond\u00E9e en 1922 par Archibald Frazer-Nash et Henry Ronald Godfrey, la marque (rebaptis\u00E9e AFN Limited en 1927) fut reprise par les fr\u00E8res Aldington en 1929. Jusqu'\u00E0 la Seconde Guerre mondiale, la compagnie produisit des v\u00E9hicules \u00E0 transmission par cha\u00EEne, mais importa \u00E9galement des BMW, commercialis\u00E9es sous l'appellation Frazer Nash-BMW. Apr\u00E8s guerre, les fr\u00E8res Aldington acquirent les droits de BMW, et produisirent des voitures de sport \u00E0 moteur BMW, moteur produit \u00E0 l'usine Bristol sous cette appellation. La production cessa en 1957, AFN Limited devenant alors concessionnaire Porsche pour la Grande-Bretagne."@fr ,
+		"Frazer Nash war ein englischer Hersteller von Sportwagen und Formel 1-Fahrzeugen."@de ,
+		"Frazer-Nash Ltd. \u2013 nieistniej\u0105ca ju\u017C brytyjska firma produkuj\u0105ca samochody sportowe."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/1931_Frazer_Nash_Falcon.JPG?width=300> ;
+	dbo:wikiPageRevisionID	735962865 ;
+	dbo:wikiPageID	1262598 .
+@prefix ns19:	<http://purl.org/linguistics/gold/> .
+dbr:Frazer_Nash	ns19:hypernym	dbr:Manufacturer .
+dbr:Frazer	dbo:wikiPageDisambiguates	dbr:Frazer_Nash .
+dbr:Frazer-Nash	dbo:wikiPageRedirects	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__14__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__22__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__13__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__34__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__11__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__33__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__46__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__10__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__51__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__24__1>	dbo:team	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__23__1>	dbo:team	dbr:Frazer_Nash .
+wikipedia-en:Frazer_Nash	foaf:primaryTopic	dbr:Frazer_Nash .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bob_Gerard	dbp:teams	dbr:Frazer_Nash .
+<http://dbpedia.org/resource/1937_24_Hours_of_Le_Mans__34__1>	dbo:team	dbr:Frazer_Nash .
+dbr:Frazer_Nash_Le_Mans_Mark_II	dbo:wikiPageRedirects	dbr:Frazer_Nash .
+dbr:Fraser_Nash	dbo:wikiPageRedirects	dbr:Frazer_Nash .

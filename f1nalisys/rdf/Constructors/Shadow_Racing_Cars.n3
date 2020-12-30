@@ -1,0 +1,191 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Alan_Jones_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1975_Swiss_Grand_Prix>	dbo:fastestDriverTeam	dbr:Shadow_Racing_Cars ;
+	dbo:poleDriverTeam	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1970_Can-Am_season__15=__1>	dbo:team	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1975_Brazilian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Shadow_Racing_Cars ;
+	dbo:poleDriverTeam	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1976_Brazilian_Grand_Prix>	dbo:thirdTeam	dbr:Shadow_Racing_Cars ;
+	dbo:fastestDriverTeam	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1974_BRDC_International_Trophy>	dbo:thirdTeam	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1975_British_Grand_Prix>	dbo:poleDriverTeam	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1977_Austrian_Grand_Prix>	dbo:firstDriverTeam	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1977_Italian_Grand_Prix>	dbo:thirdTeam	dbr:Shadow_Racing_Cars .
+dbr:Clay_Regazzoni	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Shadow_DN5	dbp:entrant	dbr:Shadow_Racing_Cars ;
+	dbp:constructor	dbr:Shadow_Racing_Cars .
+dbr:Shadow_DN8	dbp:entrant	dbr:Shadow_Racing_Cars ;
+	dbp:constructor	dbr:Shadow_Racing_Cars .
+dbr:Shadow_DN9	dbp:entrant	dbr:Shadow_Racing_Cars ;
+	dbp:constructor	dbr:Shadow_Racing_Cars .
+dbr:Shadow_DN1	dbp:team	dbr:Shadow_Racing_Cars ;
+	dbp:constructor	dbr:Shadow_Racing_Cars .
+dbr:Shadow_DN3	dbp:entrant	dbr:Shadow_Racing_Cars ;
+	dbp:constructor	dbr:Shadow_Racing_Cars .
+dbr:Shadow_DN7	dbp:entrant	dbr:Shadow_Racing_Cars ;
+	dbp:constructor	dbr:Shadow_Racing_Cars .
+dbr:Brian_Redman	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/David_Kennedy_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+dbr:Arturo_Merzario	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+dbr:Geoff_Lees	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+dbr:Jackie_Oliver	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+dbr:Shadow_Grand_Prix_results	dbo:wikiPageRedirects	dbr:Shadow_Racing_Cars .
+dbr:Shadow_DN6	dbo:wikiPageRedirects	dbr:Shadow_Racing_Cars .
+dbr:Shadow_DN6B	dbo:wikiPageRedirects	dbr:Shadow_Racing_Cars .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Shadow_Racing_Cars	foaf:primaryTopic	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1973_Canadian_Grand_Prix>	dbo:thirdTeam	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/Shadow_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1975_Race_of_Champions>	dbo:fastestDriverTeam	dbr:Shadow_Racing_Cars ;
+	dbo:firstDriverTeam	dbr:Shadow_Racing_Cars ;
+	dbo:poleDriverTeam	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1971_Can-Am_season__14=__2>	dbo:team	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1972_Can-Am_season__15__1>	dbo:team	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1972_Can-Am_season__8__1>	dbo:team	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1973_Can-Am_season__9__1>	dbo:team	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1974_Can-Am_season__1__1>	dbo:team	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1974_Can-Am_season__2__1>	dbo:team	dbr:Shadow_Racing_Cars .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Shadow_Racing_Cars	rdf:type	yago:CausalAgent100007347 ,
+		dbo:SportsTeam ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		dbo:Agent ,
+		dbo:Organisation ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Shadow_Racing_Cars	rdf:type	schema:Organization ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Shadow_Racing_Cars	rdf:type	ns8:Agent ,
+		dbo:FormulaOneTeam ,
+		yago:Consequence111410625 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Shadow_Racing_Cars	rdf:type	wikidata:Q24229398 ,
+		schema:SportsTeam ,
+		yago:WikicatAmericanRacecarConstructors ,
+		ns8:SocialPerson ,
+		yago:Process100029677 ,
+		wikidata:Q43229 ,
+		yago:Phenomenon100034213 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:WikicatFormulaOneConstructorResults .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Shadow_Racing_Cars	rdf:type	owl:Thing ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		yago:Contractor109960891 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Shadow_Racing_Cars	rdfs:label	"Shadow Racing Cars"@fr ,
+		"Shadow Racing Cars"@pt ,
+		"Shadow Racing Cars"@en ,
+		"Shadow Racing Cars"@es ,
+		"\u30B7\u30E3\u30C9\u30A6\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30AB\u30FC\u30BA"@ja ,
+		"Shadow (Formule 1)"@nl ,
+		"Shadow Racing Cars"@it ,
+		"Shadow Racing Cars"@de ,
+		"Shadow Racing Cars"@pl ;
+	rdfs:comment	"\u30B7\u30E3\u30C9\u30A6\uFF08Shadow Racing Cars \uFF09\u306F\u3001\u3044\u304F\u3064\u304B\u306E\u81EA\u52D5\u8ECA\u7AF6\u6280\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u305F\u30A2\u30E1\u30EA\u30AB\u53CA\u3073\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B9\u30C1\u30FC\u30E0\u3067\u30011973\u5E74\u304B\u30891980\u5E74\u307E\u3067\u306FF1\u306B\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066\u53C2\u6226\u3057\u305F\u3002"@ja ,
+		"Shadow Racing Cars was a Formula One and sports car racing team, founded and initially based in the United States although later Formula One operations were run from Britain. The team held an American licence from 1973 to 1975 and a British licence from 1976 to 1980, thus becoming the first constructor to officially change its nationality. Their only F1 victory was achieved as a British team."@en ,
+		"Shadow Racing Cars fue un equipo norteamericano de F\u00F3rmula Uno de la d\u00E9cada de 1970. La compa\u00F1\u00EDa fue fundada por Don Nichols en 1971 como Advance Vehicle Systems (Sistemas de Veh\u00EDculos Avanzados), pero la escuder\u00EDa se llamaba Shadow. El primer Shadow fue el Mk.I. La escuder\u00EDa debut\u00F3 en F1 en 1973 con los corredores Brian Redman y George Follmer. El equipo gan\u00F3 una \u00FAnica carrera, el Gran Premio de Austria de 1977. En 1980 fue absorbido por Theodore Racing, pero por falta de fondos la escuder\u00EDa se quebr\u00F3 a mitad de la temporada."@es ,
+		"Shadow was een Amerikaans-Brits Formule 1-team dat deelnam aan het kampioenschap tussen 1973 en 1980."@nl ,
+		"Shadow Racing Cars war ein US-amerikanisch/britisches Formel-1-, Can-Am- und Sportwagen-Team."@de ,
+		"La Shadow Racing Cars \u00E8 stato un team statunitense di Formula 1 che ha corso dal 1973 al 1980. Ha vinto il Gran Premio d'Austria nel 1977 con Alan Jones. \u00C8 stata fondata dallo statunitense Don Nichols, ex agente della CIA in Estremo Oriente. Le prime apparizioni della scuderia avvengono nel campionato Can-Am con pilota Jackie Oliver, che ottiene subito un secondo posto in una gara disputata a Mosport. Secondo posto ottenuto anche in due altre gare della stagione 1971. Il 1972 \u00E8 meno foriero di buoni risultati mentre nel 1973 la Shadow conquister\u00E0 altri due podi sempre nella Can Am."@it ,
+		"Shadow Racing Cars \u2013 zesp\u00F3\u0142 wy\u015Bcigowy startuj\u0105cy w Formule 1 w latach 1973\u20131980."@pl ,
+		"Shadow Racing Cars est une \u00E9curie de CanAm et de Formule 1 fond\u00E9e par Don Nichols et install\u00E9e \u00E0 l\u2019origine aux \u00C9tats-Unis, bien que les activit\u00E9s de Formule 1 aient \u00E9t\u00E9 d\u00E9velopp\u00E9es en Grande-Bretagne. Shadow a particip\u00E9 au championnat du monde de Formule 1 de 1973 \u00E0 1980. En 104 Grands Prix, l'\u00E9curie a marqu\u00E9 un total de 67,5 points, sign\u00E9 3 pole positions et remport\u00E9 une victoire gr\u00E2ce \u00E0 Alan Jones au Grand Prix automobile d'Autriche 1977."@fr ,
+		"Shadow Racing Cars foi uma equipe de F\u00F3rmula 1 da Inglaterra. Fundada por Don Nichols em 1971, como Advance Vehicle Systems."@pt ;
+	dbp:drivers	"Peter Revson"^^xsd:string ,
+		"Jean-Pierre Jarier"^^xsd:string ,
+		"Tom Pryce"^^xsd:string ,
+		"Alan Jones"^^xsd:string .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Shadow_Racing_Cars	owl:sameAs	dbpedia-wikidata:Q173879 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Shadow_Racing_Cars	owl:sameAs	dbpedia-it:Shadow_Racing_Cars .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Shadow_Racing_Cars	owl:sameAs	dbpedia-fr:Shadow_Racing_Cars ,
+		<http://rdf.freebase.com/ns/m.04vldp> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Shadow_Racing_Cars	owl:sameAs	dbpedia-de:Shadow_Racing_Cars .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Shadow_Racing_Cars	owl:sameAs	yago-res:Shadow_Grand_Prix_results ,
+		<http://ja.dbpedia.org/resource/\u30B7\u30E3\u30C9\u30A6\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30AB\u30FC\u30BA> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Shadow_Racing_Cars	owl:sameAs	dbpedia-pl:Shadow_Racing_Cars .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Shadow_Racing_Cars	owl:sameAs	dbpedia-pt:Shadow_Racing_Cars ,
+		wikidata:Q173879 ,
+		yago-res:Shadow_Racing_Cars ,
+		<http://nl.dbpedia.org/resource/Shadow_(Formule_1)> ,
+		dbr:Shadow_Racing_Cars .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Shadow_Racing_Cars	owl:sameAs	dbpedia-es:Shadow_Racing_Cars .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Shadow_Racing_Cars	dct:subject	dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ,
+		dbc:Can-Am_entrants ,
+		dbc:British_auto_racing_teams ,
+		dbc:Companies_established_in_1971 ,
+		dbc:American_racecar_constructors ,
+		dbc:American_auto_racing_teams ,
+		dbc:Companies_disestablished_in_1980 ,
+		dbc:World_Sportscar_Championship_teams ;
+	foaf:name	"Shadow Racing Cars Inc."@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Shadow_Racing_Cars ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"/  Shadow"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Shadow_Racing_Cars	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Shadow_Racing_Cars?oldid=721080165> ;
+	dbp:founders	"Don Nichols"^^xsd:string ;
+	dbp:logo	<http://dbpedia.org/resource/File:UOP_Shadow_logo.png> ;
+	dbp:fastestLaps	2 ;
+	dbp:poles	3 ;
+	dbp:base	"Northampton, United Kingdom"^^xsd:string ;
+	dbp:debut	1973 ;
+	dbo:abstract	"\u30B7\u30E3\u30C9\u30A6\uFF08Shadow Racing Cars \uFF09\u306F\u3001\u3044\u304F\u3064\u304B\u306E\u81EA\u52D5\u8ECA\u7AF6\u6280\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u305F\u30A2\u30E1\u30EA\u30AB\u53CA\u3073\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B9\u30C1\u30FC\u30E0\u3067\u30011973\u5E74\u304B\u30891980\u5E74\u307E\u3067\u306FF1\u306B\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066\u53C2\u6226\u3057\u305F\u3002"@ja ,
+		"Shadow Racing Cars was a Formula One and sports car racing team, founded and initially based in the United States although later Formula One operations were run from Britain. The team held an American licence from 1973 to 1975 and a British licence from 1976 to 1980, thus becoming the first constructor to officially change its nationality. Their only F1 victory was achieved as a British team."@en ,
+		"Shadow Racing Cars \u2013 zesp\u00F3\u0142 wy\u015Bcigowy startuj\u0105cy w Formule 1 w latach 1973\u20131980."@pl ,
+		"Shadow Racing Cars est une \u00E9curie de CanAm et de Formule 1 fond\u00E9e par Don Nichols et install\u00E9e \u00E0 l\u2019origine aux \u00C9tats-Unis, bien que les activit\u00E9s de Formule 1 aient \u00E9t\u00E9 d\u00E9velopp\u00E9es en Grande-Bretagne. Shadow a particip\u00E9 au championnat du monde de Formule 1 de 1973 \u00E0 1980. En 104 Grands Prix, l'\u00E9curie a marqu\u00E9 un total de 67,5 points, sign\u00E9 3 pole positions et remport\u00E9 une victoire gr\u00E2ce \u00E0 Alan Jones au Grand Prix automobile d'Autriche 1977."@fr ,
+		"Shadow Racing Cars war ein US-amerikanisch/britisches Formel-1-, Can-Am- und Sportwagen-Team."@de ,
+		"La Shadow Racing Cars \u00E8 stato un team statunitense di Formula 1 che ha corso dal 1973 al 1980. Ha vinto il Gran Premio d'Austria nel 1977 con Alan Jones. \u00C8 stata fondata dallo statunitense Don Nichols, ex agente della CIA in Estremo Oriente. Le prime apparizioni della scuderia avvengono nel campionato Can-Am con pilota Jackie Oliver, che ottiene subito un secondo posto in una gara disputata a Mosport. Secondo posto ottenuto anche in due altre gare della stagione 1971. Il 1972 \u00E8 meno foriero di buoni risultati mentre nel 1973 la Shadow conquister\u00E0 altri due podi sempre nella Can Am. Nel 1973 entra in Formula 1 schierando accanto a Oliver un altro pilota di vetture sport, George Follmer. Nella prima stagione la scuderia americana conquister\u00E0 due terzi posti con Follmer in Spagna e Oliver in Canada.Una vettura \u00E8 anche schierata dal team Embassy-Hill di Graham Hill con lui stesso alla guida. Nel 1974 Oliver fa suo il titolo CanAm conquistando 4 vittorie mentre la vettura di formula 1 viene affidata a Jean-Pierre Jarier e Peter Revson. Il veloce pilota statunitense morir\u00E0 nel corso di una sessione di prove in marzo a Kyalami e durante il resto del campionato sar\u00E0 sostituito da Brian Redman, e poi da Tom Pryce. Anche in questa stagione verr\u00E0 conquistato un podio, con Jarier a Monaco. Dal 1975 la Shadow inizia a ottenere risultati meno sporadici grazie al modello DN5. Jarier conquista la pole all'esordio in Brasile e Pryce vince la Race of Champions. Nel corso dell'anno saranno altre due le pole, condite da un terzo posto (Pryce in Austria). Nel 1976 l'abbandono dello sponsor UOP render\u00E0 pi\u00F9 difficile alla Shadow essere competitiva, nonostante questo Tom Pryce conquister\u00E0 il podio e due volte il quarto posto. L'anno seguente Pryce trover\u00E0 la morte durante il Gran Premio del Sud Africa mentre il suo sostituto Alan Jones porter\u00E0 alla Shadow la sua prima e unica vittoria in Formula 1. Nel 1978, Jackie Oliver, Tony Southgate e Alan Rees lasciano la Shadow per fondare la scuderia Arrows. Southgate sar\u00E0 sospettato da Nichols, suo ex datore di lavoro alla Shadow, di aver copiato la Shadow DN9 per concepire la prima Arrows. Un tribunale dar\u00E0 ragione a Nichols e bloccher\u00E0 la Arrows. Questo per\u00F2 non arresta il declino della scuderia statunitense che nella stagione far\u00E0 segnare solo 6 punti. Nel 1979 solo il quarto posto ottenuto all'ultima gara da Elio De Angelis consentir\u00E0 alla Shadow di segnare punti nel mondiale. Nel 1980, Shadow correr\u00E0 solo a Kyalami. Il team era stato ceduto nel frattempo a Teddy Yip, che dopo averlo ribattezzato \"Shadow Theodore\", dopo le numerose non qualificazioni ritirer\u00E0 il team dopo il Gran premio di Francia per ripresentarsi nel 1981 come Theodore Racing, con una vettura progettata nuovamente da Tony Southgate."@it ,
+		"Shadow Racing Cars foi uma equipe de F\u00F3rmula 1 da Inglaterra. Fundada por Don Nichols em 1971, como Advance Vehicle Systems."@pt ,
+		"Shadow was een Amerikaans-Brits Formule 1-team dat deelnam aan het kampioenschap tussen 1973 en 1980."@nl ,
+		"Shadow Racing Cars fue un equipo norteamericano de F\u00F3rmula Uno de la d\u00E9cada de 1970. La compa\u00F1\u00EDa fue fundada por Don Nichols en 1971 como Advance Vehicle Systems (Sistemas de Veh\u00EDculos Avanzados), pero la escuder\u00EDa se llamaba Shadow. El primer Shadow fue el Mk.I. La escuder\u00EDa debut\u00F3 en F1 en 1973 con los corredores Brian Redman y George Follmer. El equipo gan\u00F3 una \u00FAnica carrera, el Gran Premio de Austria de 1977. En 1980 fue absorbido por Theodore Racing, pero por falta de fondos la escuder\u00EDa se quebr\u00F3 a mitad de la temporada."@es ;
+	dbo:wikiPageRevisionID	721080165 ;
+	dbo:wikiPageID	1347025 ;
+	dbp:races	112 ;
+	dbp:wins	1 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Shadow_Racing_Cars	ns23:hypernym	dbr:Formula ;
+	dbp:staff	"Alan Rees"^^xsd:string ,
+		"Jackie Oliver"^^xsd:string ,
+		"Jo Ram\u00EDrez"^^xsd:string ;
+	dbp:lastRace	1980 .
+<http://dbpedia.org/resource/Alan_Jones_(racing_driver)__1977__1>	dbo:team	dbr:Shadow_Racing_Cars .
+dbr:Shadow_Racing_Team	dbo:wikiPageRedirects	dbr:Shadow_Racing_Cars .
+dbr:Formula_One_engines__10__2	dbo:team	dbr:Shadow_Racing_Cars .
+dbr:Elio_de_Angelis	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+dbr:Riccardo_Patrese	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+dbr:Hans-Joachim_Stuck	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1975_Argentine_Grand_Prix>	dbo:poleDriverTeam	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1973_Spanish_Grand_Prix>	dbo:thirdTeam	dbr:Shadow_Racing_Cars .
+dbr:Jean-Pierre_Jarier	dbp:teams	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1974_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Shadow_Racing_Cars .
+dbr:Nigel_Stepney	dbo:knownFor	dbr:Shadow_Racing_Cars .
+dbr:Tom_Pryce	rdfs:seeAlso	dbr:Shadow_Racing_Cars ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+dbr:Embassy_Hill	dbp:constructors	dbr:Shadow_Racing_Cars .
+<http://dbpedia.org/resource/1975_Austrian_Grand_Prix>	dbo:thirdTeam	dbr:Shadow_Racing_Cars .
+dbr:Bertil_Roos	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .

@@ -1,0 +1,204 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Lotus	dbo:wikiPageDisambiguates	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_Korean_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 ;
+	dbo:secondTeam	dbr:Lotus_F1 .
+dbr:Lotus_Formula_One	dbo:wikiPageRedirects	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_Japanese_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Renault_in_Formula_One	dbp:previousName	dbr:Lotus_F1 .
+dbr:Lotus_E22	dbp:team	dbr:Lotus_F1 ;
+	dbp:constructor	dbr:Lotus_F1 ;
+	dbp:gearboxName	dbr:Lotus_F1 .
+dbr:Lotus_E21	dbp:team	dbr:Lotus_F1 ;
+	dbp:constructor	dbr:Lotus_F1 ;
+	dbp:gearboxName	dbr:Lotus_F1 .
+dbr:Lotus_E20	dbp:team	dbr:Lotus_F1 ;
+	dbp:constructor	dbr:Lotus_F1 .
+dbr:Lotus_F1_Team	dbo:wikiPageRedirects	dbr:Lotus_F1 .
+dbr:Formula_One_engines__9__1	dbo:team	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_Hungarian_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 ;
+	dbo:secondTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_Hungarian_Grand_Prix>	dbo:secondTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_Indian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Lotus_F1 ;
+	dbo:thirdTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_United_States_Grand_Prix>	dbo:secondTeam	dbr:Lotus_F1 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Lotus_F1	foaf:primaryTopic	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_Spanish_Grand_Prix>	dbo:secondTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_European_Grand_Prix>	dbo:secondTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_Malaysian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_British_Grand_Prix>	dbo:fastestDriverTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_Spanish_Grand_Prix>	dbo:fastestDriverTeam	dbr:Lotus_F1 ;
+	dbo:thirdTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Lotus_F1 ;
+	dbo:firstDriverTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_Singapore_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_Abu_Dhabi_Grand_Prix>	dbo:firstDriverTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_Canadian_Grand_Prix>	dbo:secondTeam	dbr:Lotus_F1 .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lotus_F1	rdf:type	yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		yago:Institution108053576 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Lotus_F1	rdf:type	ns7:SocialPerson ,
+		yago:Abstraction100002137 ,
+		dbo:FormulaOneTeam ,
+		dbo:Organisation ,
+		ns7:Agent ,
+		yago:WikicatCompaniesBasedInOxfordshire ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:SportsTeam ,
+		yago:Team108208560 ,
+		dbo:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Lotus_F1	rdf:type	schema:SportsTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lotus_F1	rdf:type	wikidata:Q24229398 ,
+		schema:Organization .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lotus_F1	rdf:type	owl:Thing ,
+		wikidata:Q43229 ,
+		yago:Unit108189659 ,
+		yago:Company108058098 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lotus_F1	rdfs:label	"\u8DEF\u7279\u65AFF1\u8F66\u961F"@zh ,
+		"\u0641\u0631\u064A\u0642 \u0644\u0648\u062A\u0633"@ar ,
+		"Lotus F1 Team"@nl ,
+		"Lotus F1 Team"@de ,
+		"\u041B\u043E\u0442\u0443\u0441 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, 2012)"@ru ,
+		"Lotus F1 Team"@fr ,
+		"Lotus F1 Team"@pt ,
+		"Lotus F1 Team"@it ,
+		"Lotus F1"@en ,
+		"Lotus F1 Team"@es ,
+		"\u30ED\u30FC\u30BF\u30B9F1\u30C1\u30FC\u30E0"@ja ;
+	rdfs:comment	"\u30ED\u30FC\u30BF\u30B9F1\u30C1\u30FC\u30E0\uFF08Lotus F1 Team\uFF09\u306F\u30012012\u5E74\u304B\u30892015\u5E74\u307E\u3067F1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u30EB\u30CE\u30FC\u3092\u524D\u8EAB\u3068\u3057\u30012011\u5E74\u306F\u30ED\u30FC\u30BF\u30B9\u30FB\u30EB\u30CE\u30FCGP\u306E\u540D\u3067\u53C2\u6226\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"\u041B\u043E\u0442\u0443\u0441 (\u0430\u043D\u0433\u043B. Lotus F1 Team) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0430\u044F \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u0440\u0435\u0435\u043C\u043D\u0438\u0446\u0435\u0439 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0420\u0435\u043D\u043E\u00BB, \u043F\u0440\u043E\u0434\u0430\u043D\u043D\u043E\u0439 \u0432 \u043A\u043E\u043D\u0446\u0435 2009 \u0433\u043E\u0434\u0430 \u0447\u0430\u0441\u0442\u043D\u043E\u043C\u0443 \u043B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0441\u043A\u043E\u043C\u0443 \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043E\u043D\u043D\u043E\u043C\u0443 \u0444\u043E\u043D\u0434\u0443 Genii Capital. \u0412 \u0441\u0435\u0437\u043E\u043D\u0435 2010 \u0433\u043E\u0434\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u043F\u043E\u0434 \u0438\u043C\u0435\u043D\u0435\u043C \u0420\u0435\u043D\u043E, \u043D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0442\u043E \u0447\u0442\u043E \u044F\u0432\u043B\u044F\u043B\u0430\u0441\u044C \u0447\u0430\u0441\u0442\u043D\u043E\u0439."@ru ,
+		"A Lotus F1 Team foi uma equipe brit\u00E2nica de F\u00F3rmula 1. A equipe recebeu o nome de seu parceiro de marca, o Grupo Lotus, a Lotus F1 Team disputou a F\u00F3rmula 1 sob este nome a partir da temporada de 2012 at\u00E9 a temporada de 2015 quando foi adquirida de volta pela Renault. A hist\u00F3ria da equipe come\u00E7ou no final do ano de 2010 atrav\u00E9s de um acordo entre o Grupo Lotus e a Renault, renomeando ent\u00E3o a equipe Renault F1 Team que desde o fim do ano de 2009 pertencia a um grupo de capital de risco com sede em Luxemburgo, a Genii Capital, para Lotus Renault GP Team para disputar a temporada de 2011."@pt ,
+		"Lotus F1 Team was a British Formula One racing team. The team competed under the Lotus name from 2012 until 2015, following the renaming of the former Renault team based at Enstone in Oxfordshire. Lotus F1 Team was majority owned by Genii Capital and later the French car manufacturer Renault. Lotus F1 Team was named after its branding partner Group Lotus. The team achieved a race victory and fourth position in the Formula One Constructors' World Championship in their first season under the Lotus title. The team was sold back to Groupe Renault on 18 December 2015, Lotus F1 was officially dropped on 3 February 2016, and announced that they would compete as Renault Sport F1."@en ,
+		"Das Lotus F1 Team war ein im Vereinigten K\u00F6nigreich ans\u00E4ssiger, zum luxemburgischen Investmentunternehmen Genii Capital geh\u00F6render Formel-1-Rennstall, der von 2010 bis 2015 unter wechselnden Bezeichnungen an der Formel-1-Weltmeisterschaft teilnahm. Er ging aus dem ehemaligen Renault -Werksteam hervor. Der Rennstall wurde bis zum Fr\u00FChjahr 2012 von dem britischen Sportwagenhersteller Lotus Cars unterst\u00FCtzt; die Teambezeichnung soll auf diese Verbindung hinweisen. Eine Beziehung zu dem traditionsreichen, von 1958 bis 1994 in der Formel 1 aktiven Rennstall Team Lotus besteht nicht; es gab auch keine Verbindung zu dem mit malaysischer Lizenz startenden Team Lotus Racing, das 2011 seinerseits die Bezeichnung Team Lotus nutzte. Nachdem Lotus 2015 in wirtschaftliche Schwierigkeiten geraten war, ka"@de ,
+		"\u8DEF\u7279\u65AFF1\u8F66\u961F\uFF08Lotus F1 Team\uFF09\u662F\u4E00\u652F\u53C2\u4E0E\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8D5B\u4E8B\u7684\u82F1\u56FD\u8F66\u961F\u3002\u57282012\u5E74\u8D5B\u5B63\u662F\u4ED6\u4EEC\u7B2C\u4E00\u6B21\u5B8C\u5168\u4EE5\u201C\u8DEF\u7279\u65AF\u201D\u4E4B\u540D\u53C2\u52A0\u7684\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8D5B\u5B63\u3002\u8F66\u961F\u603B\u90E8\u7EE7\u7EED\u6CBF\u7528\u524D\u8EAB\u96F7\u8BFA\u8F66\u961F\u8BBE\u5728\u82F1\u56FD\u725B\u6D25\u90E1\u6069\u65AF\u987F\u9547\uFF08Enstone\uFF09\u7684\u57FA\u5730\u3002"@zh ,
+		"Lotus F1 Team est une \u00E9curie de Formule 1 pr\u00E9sente dans le championnat du monde en tant que constructeur de 2012 \u00E0 2015. L'\u00E9curie est issue du rachat partiel en 2010 par Genii Capital de la structure bas\u00E9e \u00E0 Enstone appartenant \u00E0 Renault F1 Team. En 2011, l'\u00E9curie devient Lotus Renault GP, puis en 2012 Renault se d\u00E9sengage totalement et nait le nouveau Lotus F1 Team avec Genii Capital comme actionnaire majoritaire. Le constructeur Lotus Cars, initialement commanditaire publicitaire principal, ne constitue qu'un pr\u00EAte-nom pour l'\u00E9quipe. En 2013, Genii Capital vend 35 % de ses parts au consortium d'investissement Infinity Racing. Lotus F1 Team, bien que distincte de sa devanci\u00E8re Team Lotus pr\u00E9sente en Formule 1 de 1958 \u00E0 1994 et qui remporta six titres mondiaux des pilotes et sept titres co"@fr ,
+		"La Lotus F1 Team \u00E8 stata una scuderia britannica di Formula 1 che ha partecipato al mondiale dal 2012 al 2015. Deriva dall'acquisizione, da parte della societ\u00E0 lussemburghese Genii Capital, della scuderia Renault F1 (a sua volta gi\u00E0 sponsorizzata dalla Lotus Cars)."@it ,
+		"\u0641\u0631\u064A\u0642 \u0644\u0648\u062A\u0633 \u0625\u06411 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lotus F1 Team) \u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A. \u064A\u062A\u0646\u0627\u0641\u0633 \u0627\u0644\u0641\u0631\u064A\u0642 \u062A\u062D\u062A \u0627\u0633\u0645\u0647 \u0627\u0644\u062D\u0627\u0644\u064A \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0645\u0648\u0633\u0645 2012, \u0648\u0630\u0644\u0643 \u0628\u0639\u062F \u0627\u0646 \u062A\u0645 \u0625\u0639\u0627\u062F\u0629 \u062A\u0633\u0645\u064A\u062A\u0647 \u0645\u0646 \u0641\u0631\u064A\u0642 \u0631\u064A\u0646\u0648 \u0627\u0644\u0633\u0627\u0628\u0642. \u0645\u0631\u0643\u0632 \u0627\u0644\u0641\u0631\u064A\u0642 \u0641\u064A \u0625\u0646\u0633\u062A\u0648\u0646 \u0641\u064A \u0623\u0643\u0633\u0641\u0648\u0631\u062F. \u062A\u0639\u0648\u062F \u0645\u0644\u0643\u064A\u0629 \u0627\u0644\u0641\u0631\u064A\u0642 \u0644\u0634\u0631\u0643\u0629 \u062C\u064A\u0646\u064A \u0643\u0627\u0628\u064A\u062A\u0627\u0644 \u0648\u0627\u0644\u062A\u064A \u0645\u0631\u0643\u0632\u0647\u0627 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0648\u062A\u0645 \u062A\u0633\u0645\u064A\u0629 \u0627\u0644\u0641\u0631\u064A\u0642 \u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0627\u0633\u0645 \u0634\u0631\u0643\u0629 \u0644\u0648\u062A\u0633 \u0627\u0644\u0634\u0631\u064A\u0643\u0629 \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642."@ar ,
+		"Lotus F1 Team was een Brits Formule 1-team dat actief was in de jaren 2012 tot en met 2015. Lotus nam het Renault F1 Team volledig over, waarna het eind 2015 weer teruggekocht werd. Het laatste jaar reed het team met motoren van Mercedes als opvolger van Renault."@nl ,
+		"Lotus F1 Team fue una escuder\u00EDa brit\u00E1nica de F\u00F3rmula 1. Disput\u00F3 en 2012 su primera temporada con Kimi R\u00E4ikk\u00F6nen y Romain Grosjean como pilotos. La escuder\u00EDa Lotus F1 (antiguamente, Renault F1 Team) pertenece completamente a la empresa luxemburguesa Genii Capital desde finales de 2010 y tambi\u00E9n estuvo patrocinada por Proton, propietaria de la marca Lotus Cars, que a su vez tiene la opci\u00F3n de convertirse en un accionista del equipo."@es ;
+	rdfs:seeAlso	dbr:Renault ,
+		dbr:Formula_One ,
+		<http://dbpedia.org/resource/2012_Formula_One_season> ,
+		<http://dbpedia.org/resource/2013_Formula_One_season> ,
+		<http://dbpedia.org/resource/2015_Formula_One_season> ,
+		<http://dbpedia.org/resource/2014_Formula_One_season> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-de:Lotus_F1_Team .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-nl:Lotus_F1_Team ,
+		wikidata:Q173018 ,
+		<http://rdf.freebase.com/ns/m.0hzrxf2> ,
+		<http://ja.dbpedia.org/resource/\u30ED\u30FC\u30BF\u30B9F1\u30C1\u30FC\u30E0> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-es:Lotus_F1_Team .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-pt:Lotus_F1_Team ,
+		<http://rdf.freebase.com/ns/m.0hzrty8> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-fr:Lotus_F1_Team .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-it:Lotus_F1_Team .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-cs:Lotus_F1 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	yago-res:Lotus_F1 .
+@prefix dbpedia-el:	<http://el.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-el:Lotus_F1 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-wikidata:Q173018 ,
+		<http://ko.dbpedia.org/resource/\uB85C\uD130\uC2A4_F1> ,
+		dbr:Lotus_F1 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Lotus_F1	owl:sameAs	dbpedia-id:Lotus_F1 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lotus_F1	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Lotus_Cars ,
+		dbc:Companies_based_in_Oxfordshire ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ;
+	foaf:name	"Lotus F1 Team"@en ;
+	foaf:homepage	<http://www.lotusf1team.com/> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Lotus_F1 ;
+	dbp:races	77 ;
+	dbp:debut	2012 ;
+	dbp:wins	2 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"J\u00E9r\u00F4me d'Ambrosio"^^xsd:string ,
+		"Romain Grosjean"^^xsd:string ,
+		"Heikki Kovalainen"^^xsd:string ,
+		"Kimi R\u00E4ikk\u00F6nen"^^xsd:string ,
+		"Pastor Maldonado"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	4 ;
+	dbp:poles	0 ;
+	dbp:shortName	"Lotus"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lotus_F1	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lotus_F1?oldid=742470336> ;
+	dbo:wikiPageExternalLink	<http://www.lotusf1team.com/> ;
+	dbp:staff	"Matthew Carter"^^xsd:string ,
+		"\u00C9ric Boullier"^^xsd:string ,
+		<http://dbpedia.org/resource/James_Allison_(motorsport)> ,
+		"Ayao Komatsu"^^xsd:string ,
+		"G\u00E9rard Lopez"^^xsd:string ,
+		"Andy Ruhan"^^xsd:string ,
+		"Nick Chester"^^xsd:string ,
+		"Eric Lux"^^xsd:string ,
+		"Federico Gastaldi"^^xsd:string ,
+		"Alan Permane"^^xsd:string ;
+	dbp:base	"Enstone, Oxfordshire,"^^xsd:string ,
+		"United Kingdom"^^xsd:string ;
+	dbp:engines	dbr:Mercedes_AMG_High_Performance_Powertrains ,
+		dbr:Renault_in_Formula_One ;
+	dbo:abstract	"La Lotus F1 Team \u00E8 stata una scuderia britannica di Formula 1 che ha partecipato al mondiale dal 2012 al 2015. Deriva dall'acquisizione, da parte della societ\u00E0 lussemburghese Genii Capital, della scuderia Renault F1 (a sua volta gi\u00E0 sponsorizzata dalla Lotus Cars)."@it ,
+		"\u041B\u043E\u0442\u0443\u0441 (\u0430\u043D\u0433\u043B. Lotus F1 Team) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0430\u044F \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u0440\u0435\u0435\u043C\u043D\u0438\u0446\u0435\u0439 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0420\u0435\u043D\u043E\u00BB, \u043F\u0440\u043E\u0434\u0430\u043D\u043D\u043E\u0439 \u0432 \u043A\u043E\u043D\u0446\u0435 2009 \u0433\u043E\u0434\u0430 \u0447\u0430\u0441\u0442\u043D\u043E\u043C\u0443 \u043B\u044E\u043A\u0441\u0435\u043C\u0431\u0443\u0440\u0433\u0441\u043A\u043E\u043C\u0443 \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043E\u043D\u043D\u043E\u043C\u0443 \u0444\u043E\u043D\u0434\u0443 Genii Capital. \u0412 \u0441\u0435\u0437\u043E\u043D\u0435 2010 \u0433\u043E\u0434\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u043F\u043E\u0434 \u0438\u043C\u0435\u043D\u0435\u043C \u0420\u0435\u043D\u043E, \u043D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0442\u043E \u0447\u0442\u043E \u044F\u0432\u043B\u044F\u043B\u0430\u0441\u044C \u0447\u0430\u0441\u0442\u043D\u043E\u0439. \u0421 2011 \u0433\u043E\u0434\u0430 \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u0438 \u0441\u043E\u0432\u043B\u0430\u0434\u0435\u043B\u0435\u0446\u0435\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u044F\u0432\u043B\u044F\u043B\u0430\u0441\u044C \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Lotus Cars, \u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u043D\u0430\u0437\u044B\u0432\u0430\u043B\u0430\u0441\u044C Lotus Renault GP. \u0412 \u0441\u0435\u0437\u043E\u043D\u0435 2012 \u0433\u043E\u0434\u0430 \u0431\u044B\u043B\u0430 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 Lotus F1 Team, \u043E\u0434\u043D\u0430\u043A\u043E \u0432 \u0430\u043F\u0440\u0435\u043B\u0435 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u0432\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u2014 \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Genii \u2014 \u0440\u0430\u0437\u043E\u0440\u0432\u0430\u043B\u0430 \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0442\u0438\u0442\u0443\u043B\u044C\u043D\u043E\u0433\u043E \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u0430 \u0441 Lotus Cars \u043F\u043E\u0441\u043B\u0435 \u0442\u043E\u0433\u043E, \u043A\u0430\u043A \u0441\u0442\u0430\u043B\u043E \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E \u043E \u043D\u0435\u0443\u0441\u0442\u043E\u0439\u0447\u0438\u0432\u043E\u043C \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u043E\u043C \u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0438 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F \u0441\u043F\u043E\u0440\u0442\u043A\u0430\u0440\u043E\u0432."@ru ,
+		"Lotus F1 Team est une \u00E9curie de Formule 1 pr\u00E9sente dans le championnat du monde en tant que constructeur de 2012 \u00E0 2015. L'\u00E9curie est issue du rachat partiel en 2010 par Genii Capital de la structure bas\u00E9e \u00E0 Enstone appartenant \u00E0 Renault F1 Team. En 2011, l'\u00E9curie devient Lotus Renault GP, puis en 2012 Renault se d\u00E9sengage totalement et nait le nouveau Lotus F1 Team avec Genii Capital comme actionnaire majoritaire. Le constructeur Lotus Cars, initialement commanditaire publicitaire principal, ne constitue qu'un pr\u00EAte-nom pour l'\u00E9quipe. En 2013, Genii Capital vend 35 % de ses parts au consortium d'investissement Infinity Racing. Lotus F1 Team, bien que distincte de sa devanci\u00E8re Team Lotus pr\u00E9sente en Formule 1 de 1958 \u00E0 1994 et qui remporta six titres mondiaux des pilotes et sept titres constructeurs, souhaite s'inscrire dans sa continuit\u00E9 \u00E0 travers son logotype et la livr\u00E9e noire et or de ses voitures. De 2012 \u00E0 2015, motoris\u00E9e par Renault puis par Mercedes, Lotus obtient deux victoires avec Kimi R\u00E4ikk\u00F6nen et vingt-quatre podiums, avec le pilote finlandais, Romain Grosjean et Pastor Maldonado. Elle connait de grave difficult\u00E9s financi\u00E8res en 2015. Le 3 d\u00E9cembre 2015, Renault annonce sa reprise de l'\u00E9curie Lotus et son retour en Formule 1 en tant que constructeur."@fr ,
+		"Lotus F1 Team was a British Formula One racing team. The team competed under the Lotus name from 2012 until 2015, following the renaming of the former Renault team based at Enstone in Oxfordshire. Lotus F1 Team was majority owned by Genii Capital and later the French car manufacturer Renault. Lotus F1 Team was named after its branding partner Group Lotus. The team achieved a race victory and fourth position in the Formula One Constructors' World Championship in their first season under the Lotus title. The team was sold back to Groupe Renault on 18 December 2015, Lotus F1 was officially dropped on 3 February 2016, and announced that they would compete as Renault Sport F1."@en ,
+		"Das Lotus F1 Team war ein im Vereinigten K\u00F6nigreich ans\u00E4ssiger, zum luxemburgischen Investmentunternehmen Genii Capital geh\u00F6render Formel-1-Rennstall, der von 2010 bis 2015 unter wechselnden Bezeichnungen an der Formel-1-Weltmeisterschaft teilnahm. Er ging aus dem ehemaligen Renault -Werksteam hervor. Der Rennstall wurde bis zum Fr\u00FChjahr 2012 von dem britischen Sportwagenhersteller Lotus Cars unterst\u00FCtzt; die Teambezeichnung soll auf diese Verbindung hinweisen. Eine Beziehung zu dem traditionsreichen, von 1958 bis 1994 in der Formel 1 aktiven Rennstall Team Lotus besteht nicht; es gab auch keine Verbindung zu dem mit malaysischer Lizenz startenden Team Lotus Racing, das 2011 seinerseits die Bezeichnung Team Lotus nutzte. Nachdem Lotus 2015 in wirtschaftliche Schwierigkeiten geraten war, kaufte Renault den Rennstall im Dezember 2015 zur\u00FCck. In der Formel-1-Saison 2016 tritt das Team als Renault-Werksteam unter der Bezeichnung Renault Sport F1 Team an; es nutzt weiterhin die in Gro\u00DFbritannien ans\u00E4ssige Basis des ehemaligen Lotus-Teams."@de ,
+		"\u30ED\u30FC\u30BF\u30B9F1\u30C1\u30FC\u30E0\uFF08Lotus F1 Team\uFF09\u306F\u30012012\u5E74\u304B\u30892015\u5E74\u307E\u3067F1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u30EB\u30CE\u30FC\u3092\u524D\u8EAB\u3068\u3057\u30012011\u5E74\u306F\u30ED\u30FC\u30BF\u30B9\u30FB\u30EB\u30CE\u30FCGP\u306E\u540D\u3067\u53C2\u6226\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"Lotus F1 Team fue una escuder\u00EDa brit\u00E1nica de F\u00F3rmula 1. Disput\u00F3 en 2012 su primera temporada con Kimi R\u00E4ikk\u00F6nen y Romain Grosjean como pilotos. La escuder\u00EDa Lotus F1 (antiguamente, Renault F1 Team) pertenece completamente a la empresa luxemburguesa Genii Capital desde finales de 2010 y tambi\u00E9n estuvo patrocinada por Proton, propietaria de la marca Lotus Cars, que a su vez tiene la opci\u00F3n de convertirse en un accionista del equipo. Este equipo es el hijo germen originado en torno al antiguo proyecto de la desaparecida escuder\u00EDa Renault F1 Team con elementos en parte del antiguo equipo Team Lotus original y que hab\u00EDa regresado brevemente en 2010-11. El fabricante franc\u00E9s Renault recompr\u00F3 la escuder\u00EDa Lotus para la temporada 2016, recuperando la denominaci\u00F3n Renault F1."@es ,
+		"Lotus F1 Team was een Brits Formule 1-team dat actief was in de jaren 2012 tot en met 2015. Lotus nam het Renault F1 Team volledig over, waarna het eind 2015 weer teruggekocht werd. Het laatste jaar reed het team met motoren van Mercedes als opvolger van Renault."@nl ,
+		"\u8DEF\u7279\u65AFF1\u8F66\u961F\uFF08Lotus F1 Team\uFF09\u662F\u4E00\u652F\u53C2\u4E0E\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8D5B\u4E8B\u7684\u82F1\u56FD\u8F66\u961F\u3002\u57282012\u5E74\u8D5B\u5B63\u662F\u4ED6\u4EEC\u7B2C\u4E00\u6B21\u5B8C\u5168\u4EE5\u201C\u8DEF\u7279\u65AF\u201D\u4E4B\u540D\u53C2\u52A0\u7684\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8D5B\u5B63\u3002\u8F66\u961F\u603B\u90E8\u7EE7\u7EED\u6CBF\u7528\u524D\u8EAB\u96F7\u8BFA\u8F66\u961F\u8BBE\u5728\u82F1\u56FD\u725B\u6D25\u90E1\u6069\u65AF\u987F\u9547\uFF08Enstone\uFF09\u7684\u57FA\u5730\u3002"@zh ,
+		"\u0641\u0631\u064A\u0642 \u0644\u0648\u062A\u0633 \u0625\u06411 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lotus F1 Team) \u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A. \u064A\u062A\u0646\u0627\u0641\u0633 \u0627\u0644\u0641\u0631\u064A\u0642 \u062A\u062D\u062A \u0627\u0633\u0645\u0647 \u0627\u0644\u062D\u0627\u0644\u064A \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0645\u0648\u0633\u0645 2012, \u0648\u0630\u0644\u0643 \u0628\u0639\u062F \u0627\u0646 \u062A\u0645 \u0625\u0639\u0627\u062F\u0629 \u062A\u0633\u0645\u064A\u062A\u0647 \u0645\u0646 \u0641\u0631\u064A\u0642 \u0631\u064A\u0646\u0648 \u0627\u0644\u0633\u0627\u0628\u0642. \u0645\u0631\u0643\u0632 \u0627\u0644\u0641\u0631\u064A\u0642 \u0641\u064A \u0625\u0646\u0633\u062A\u0648\u0646 \u0641\u064A \u0623\u0643\u0633\u0641\u0648\u0631\u062F. \u062A\u0639\u0648\u062F \u0645\u0644\u0643\u064A\u0629 \u0627\u0644\u0641\u0631\u064A\u0642 \u0644\u0634\u0631\u0643\u0629 \u062C\u064A\u0646\u064A \u0643\u0627\u0628\u064A\u062A\u0627\u0644 \u0648\u0627\u0644\u062A\u064A \u0645\u0631\u0643\u0632\u0647\u0627 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A \u0648\u062A\u0645 \u062A\u0633\u0645\u064A\u0629 \u0627\u0644\u0641\u0631\u064A\u0642 \u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0627\u0633\u0645 \u0634\u0631\u0643\u0629 \u0644\u0648\u062A\u0633 \u0627\u0644\u0634\u0631\u064A\u0643\u0629 \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642."@ar ,
+		"A Lotus F1 Team foi uma equipe brit\u00E2nica de F\u00F3rmula 1. A equipe recebeu o nome de seu parceiro de marca, o Grupo Lotus, a Lotus F1 Team disputou a F\u00F3rmula 1 sob este nome a partir da temporada de 2012 at\u00E9 a temporada de 2015 quando foi adquirida de volta pela Renault. A hist\u00F3ria da equipe come\u00E7ou no final do ano de 2010 atrav\u00E9s de um acordo entre o Grupo Lotus e a Renault, renomeando ent\u00E3o a equipe Renault F1 Team que desde o fim do ano de 2009 pertencia a um grupo de capital de risco com sede em Luxemburgo, a Genii Capital, para Lotus Renault GP Team para disputar a temporada de 2011. A equipe conseguiu uma vit\u00F3ria e a quarta coloca\u00E7\u00E3o no Campeonato Mundial de Construtores da F\u00F3rmula 1 em sua primeira temporada sob o t\u00EDtulo Lotus."@pt ;
+	dbo:wikiPageRevisionID	742470336 ;
+	dbo:wikiPageID	14195696 ;
+	dbp:logo	<http://dbpedia.org/resource/File:Lotus_F1_Team_logo.png> ;
+	dbp:podiums	25 ;
+	dbp:previousName	dbr:Renault_in_Formula_One ;
+	dbp:nextName	dbr:Renault_in_Formula_One .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Lotus_F1	ns26:hypernym	dbr:Formula ;
+	dbp:lastRace	2015 .
+<http://dbpedia.org/resource/2013_Chinese_Grand_Prix>	dbo:secondTeam	dbr:Lotus_F1 .
+dbr:Pastor_Maldonado	dbp:teams	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_German_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_German_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 ;
+	dbo:secondTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2015_Belgian_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_Belgian_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 .
+dbr:Lotus_E23_Hybrid	dbp:constructor	dbr:Lotus_F1 .
+dbr:Indian_Grand_Prix	dbp:fastestLapTeam	dbr:Lotus_F1 ;
+	dbp:thirdTeam	dbr:Lotus_F1 .
+dbr:Korean_Grand_Prix	dbp:secondTeam	dbr:Lotus_F1 ;
+	dbp:thirdTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/Team_Lotus_(current)>	dbo:wikiPageRedirects	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2013_Bahrain_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 ;
+	dbo:secondTeam	dbr:Lotus_F1 .
+<http://dbpedia.org/resource/2012_Bahrain_Grand_Prix>	dbo:thirdTeam	dbr:Lotus_F1 ;
+	dbo:secondTeam	dbr:Lotus_F1 .
+dbr:F1_Lotus_Team	dbo:wikiPageRedirects	dbr:Lotus_F1 .

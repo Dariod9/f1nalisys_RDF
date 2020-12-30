@@ -1,0 +1,356 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Harry_Schell	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:Jean-Pierre_Beltoise	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:McLaren_M5A	dbp:engineName	dbr:British_Racing_Motors .
+dbr:BRM_P261	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors .
+dbr:BRM_P48	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:engineName	dbr:British_Racing_Motors ;
+	dbp:gearboxName	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/BRM_P48/57>	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1968_Monaco_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors .
+dbr:Howden_Ganley__1972__1	dbo:manufacturer	dbr:British_Racing_Motors .
+dbr:Howden_Ganley__1972__2	dbo:manufacturer	dbr:British_Racing_Motors .
+dbr:Howden_Ganley__1972__3	dbo:manufacturer	dbr:British_Racing_Motors .
+dbr:Owen_Racing_Organisation	dbo:wikiPageRedirects	dbr:British_Racing_Motors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:British_Racing_Motors	foaf:primaryTopic	dbr:British_Racing_Motors .
+dbr:Team_Lotus	dbp:before	dbr:British_Racing_Motors .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:British_Racing_Motors	rdf:type	dbo:FormulaOneTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:British_Racing_Motors	rdf:type	yago:Enterprise108056231 ,
+		yago:Business108061042 ,
+		yago:Manufacturer108060446 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:British_Racing_Motors	rdf:type	ns7:Agent ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:British_Racing_Motors	rdf:type	owl:Thing ,
+		ns7:SocialPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:British_Racing_Motors	rdf:type	wikidata:Q43229 ,
+		yago:WikicatCompaniesOfTheUnitedKingdom ,
+		wikidata:Q24229398 ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix schema:	<http://schema.org/> .
+dbr:British_Racing_Motors	rdf:type	schema:Organization ,
+		schema:SportsTeam ,
+		yago:Institution108053576 ,
+		yago:WikicatFormulaOneEngineManufacturers ,
+		dbo:MotorsportSeason ,
+		yago:Company108058098 ,
+		yago:Abstraction100002137 ,
+		dbo:Organisation ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		dbo:SportsTeam ,
+		dbo:Agent ,
+		yago:WikicatCompaniesBasedInLincolnshire .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:British_Racing_Motors	rdfs:label	"British Racing Motors"@pt ,
+		"BRM"@ru ,
+		"British Racing Motors"@pl ,
+		"British Racing Motors"@en ,
+		"\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30E2\u30FC\u30BF\u30FC\u30B9"@ja ,
+		"British Racing Motors"@es ,
+		"British Racing Motors"@fr ,
+		"British Racing Motors"@nl ,
+		"British Racing Motors"@it ,
+		"British Racing Motors"@de ;
+	rdfs:comment	"La BRM (sigla di British Racing Motors) \u00E8 stata un team inglese di Formula 1, vincitrice di 17 Gran Premi e Campione del Mondo Costruttori nel 1962. Il team debutt\u00F2 nel primo Gran Premio valido per il Campionato Mondiale, a Silverstone nel 1950 con un avveniristico motore a sedici cilindri disposti a V di 135\u00B0, dalla cilindrata di 1500 cm\u00B3 sovralimentato da un compressore centrifugo a doppio stadio Rolls Royce, che raggiungeva una pressione di 5,7 bar portando la potenza del motore a 600 CV a 12.000 rpm e arrivando quindi all'eccezionale potenza specifica di 400 CV/Litro."@it ,
+		"British Racing Motors (kurz B.R.M.) war ein britischer Motorsport-Rennstall, der zwischen 1951 und 1977 an der Formel-1-Weltmeisterschaft teilnahm. Der gr\u00F6\u00DFte Erfolg der Teamgeschichte war der Gewinn der Fahrerweltmeisterschaft 1962 durch Graham Hill sowie des Konstrukteurstitels im selben Jahr."@de ,
+		"British Racing Motors is een Britse autosportorganisatie. Voortgekomen uit het oudere English Racing Automobiles van Raymond Mays, groeide het na de Tweede Wereldoorlog langzamerhand uit naar een merk van formaat in de vroege jaren zestig. In 1962 werd Graham Hill met de BRM P57/P578 \"Stackpipes\" wereldkampioen Formule 1. Ook met de latere types P261 en P160 werden F1-overwinningen geboekt, maar in 1977 verdween het merk van het toneel.De BRM's P261 en P83 zijn op de computer nagebootst en rijdbaar in de racesimulator Grand Prix Legends."@nl ,
+		"A British Racing Motors, mais conhecida como BRM, foi uma equipe de competi\u00E7\u00F5es automobil\u00EDsticas."@pt ,
+		"British Racing Motors, generalmente conocido como BRM, fue un equipo brit\u00E1nico de F\u00F3rmula 1. Fundado en 1945, compiti\u00F3 desde 1950 a 1977, participando en 197 Grandes Premios y ganando 17. En 1962 el equipo BRM gan\u00F3 el t\u00EDtulo de constructores. Al mismo tiempo, su piloto Graham Hill gana el campeonato mundial. En 1963, 1964, 1965 y 1971, BRM fue segundo en el campeonato de constructores. La f\u00E1brica principal de BRM estaba en Spalding Road, Bourne, Lincolnshire, detr\u00E1s de la casa Eastgate, hogar de su l\u00EDder, Raymond Mays."@es ,
+		"British Racing Motors (BRM) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1945 \u0433\u043E\u0434\u0443, \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445 1951\u20141977 \u0433\u043E\u0434\u043E\u0432, \u0432 197 \u0433\u0440\u0430\u043D-\u043F\u0440\u0438 (\u0432\u044B\u0438\u0433\u0440\u0430\u043B\u0430 17). \u0412 1962 \u0433\u043E\u0434\u0443 \u0432\u044B\u0438\u0433\u0440\u0430\u043B\u0430 \u043A\u0443\u0431\u043E\u043A \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u0432."@ru ,
+		" Pour les articles homonymes, voir BRM. British Racing Motors (BRM) est une ancienne \u00E9curie de sport automobile britannique, pr\u00E9sente en Formule 1 de 1951 \u00E0 1977."@fr ,
+		"British Racing Motors (BRM) \u2013 konsorcjum za\u0142o\u017Cone przez Raymonda Maysa, konstruuj\u0105ce samochody wy\u015Bcigowe. uczestnik wy\u015Bcig\u00F3w Formu\u0142y 1 w latach 1951\u20131977."@pl ,
+		"British Racing Motors (BRM) was a British Formula One motor racing team. Founded in 1945 and based in the market town of Bourne in Lincolnshire, it participated from 1950 to 1977, competing in 197 grands prix and winning seventeen. BRM won the constructors' title in 1962 when its driver Graham Hill became world champion. In 1963, 1964, 1965 and 1971, BRM came second in the constructors' competition."@en ,
+		"\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30E2\u30FC\u30BF\u30FC\u30B9\uFF08British Racing Motors\uFF0CBRM\uFF09\u306F\u3001\u304B\u3064\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30021962\u5E74\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30C1\u30FC\u30E0\u540D\u306F\u4E3B\u306B\u30AA\u30FC\u30A6\u30A7\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\uFF08Owen Racing Organisation\uFF09\u3068\u3057\u3066\u6D3B\u52D5\u3057\u3066\u3044\u305F\u3002"@ja ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30E2\u30FC\u30BF\u30FC\u30B9> ,
+		wikidata:Q173012 ,
+		dbr:British_Racing_Motors .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	dbpedia-fr:British_Racing_Motors .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	dbpedia-pt:British_Racing_Motors .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	dbpedia-es:British_Racing_Motors .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	dbpedia-it:British_Racing_Motors ,
+		<http://rdf.freebase.com/ns/m.03km8x> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	dbpedia-wikidata:Q173012 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	dbpedia-de:British_Racing_Motors .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	dbpedia-id:British_Racing_Motors .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	yago-res:British_Racing_Motors .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	dbpedia-nl:British_Racing_Motors .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:British_Racing_Motors	owl:sameAs	dbpedia-pl:British_Racing_Motors .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:British_Racing_Motors	dct:subject	dbc:Formula_One_engine_manufacturers ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Companies_based_in_Lincolnshire ,
+		<http://dbpedia.org/resource/Category:1945_establishments_in_England> ,
+		dbc:British_companies_established_in_1945 ;
+	foaf:name	"British Racing Motors"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/1950_BRM_Type_15.JPG> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:British_Racing_Motors ;
+	dbp:races	197 ;
+	dbp:style	"float:right;clear:none"^^xsd:string ;
+	dbp:founders	"Peter Berthon"^^xsd:string ,
+		"Raymond Mays"^^xsd:string ;
+	dbp:debut	1951 ;
+	dbp:after	dbr:Team_Lotus ;
+	dbp:wins	17 ;
+	dbp:consChamp	1 ;
+	dbp:drivers	"John Surtees"^^xsd:string ,
+		"Jo Bonnier"^^xsd:string ,
+		"Niki Lauda"^^xsd:string ,
+		"Ron Flockhart"^^xsd:string ,
+		"Jackie Stewart"^^xsd:string ,
+		"Mike Hawthorn"^^xsd:string ,
+		"Reg Parnell"^^xsd:string ,
+		"Clay Regazzoni"^^xsd:string ,
+		"Dan Gurney"^^xsd:string ,
+		"Harry Schell"^^xsd:string ,
+		"Graham Hill"^^xsd:string ,
+		"Maurice Trintignant"^^xsd:string ,
+		"Jo Siffert"^^xsd:string ,
+		"Pedro Rodr\u00EDguez"^^xsd:string ;
+	dbp:driversChamp	1 ;
+	dbp:fastestLaps	15 ;
+	dbp:poles	11 ;
+	dbp:shortName	"BRM"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:British_Racing_Motors	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/British_Racing_Motors?oldid=742391722> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/con-brm.html> ,
+		<http://homepages.which.net/~rex/bourne/Raymond%20Mays4.htm> ,
+		<http://members.madasafish.com/~d_hodgkinson/brmplaces.htm> ,
+		<http://homepages.which.net/~rex/bourne/brmtrophies.htm> ,
+		<http://www.a2a.org.uk/html/152-mss338.htm> ,
+		<http://members.madasafish.com/~d_hodgkinson/brmpeopl.htm> ;
+	dbp:staff	"Louis Stanley"^^xsd:string ,
+		"Alfred Owen"^^xsd:string ,
+		"Tony Rudd"^^xsd:string ,
+		"Jean Stanley"^^xsd:string ;
+	dbp:base	"Bourne, Lincolnshire, England"^^xsd:string ;
+	dbp:before	dbr:Scuderia_Ferrari ;
+	dbp:engines	"BRM 1.5 litre V16, 2.5l inline four, 1.5l Coventry-Climax FPF, 1.5l, 1.9l and 2.1l V8, 3.0l H16, 3.0l V12"^^xsd:string ;
+	dbo:soundRecording	dbr:British_Racing_Motors__1 ;
+	dbo:abstract	"British Racing Motors (BRM) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1945 \u0433\u043E\u0434\u0443, \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445 1951\u20141977 \u0433\u043E\u0434\u043E\u0432, \u0432 197 \u0433\u0440\u0430\u043D-\u043F\u0440\u0438 (\u0432\u044B\u0438\u0433\u0440\u0430\u043B\u0430 17). \u0412 1962 \u0433\u043E\u0434\u0443 \u0432\u044B\u0438\u0433\u0440\u0430\u043B\u0430 \u043A\u0443\u0431\u043E\u043A \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u0432."@ru ,
+		" Pour les articles homonymes, voir BRM. British Racing Motors (BRM) est une ancienne \u00E9curie de sport automobile britannique, pr\u00E9sente en Formule 1 de 1951 \u00E0 1977."@fr ,
+		"\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30E2\u30FC\u30BF\u30FC\u30B9\uFF08British Racing Motors\uFF0CBRM\uFF09\u306F\u3001\u304B\u3064\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30021962\u5E74\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30C1\u30FC\u30E0\u540D\u306F\u4E3B\u306B\u30AA\u30FC\u30A6\u30A7\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\uFF08Owen Racing Organisation\uFF09\u3068\u3057\u3066\u6D3B\u52D5\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"British Racing Motors (BRM) was a British Formula One motor racing team. Founded in 1945 and based in the market town of Bourne in Lincolnshire, it participated from 1950 to 1977, competing in 197 grands prix and winning seventeen. BRM won the constructors' title in 1962 when its driver Graham Hill became world champion. In 1963, 1964, 1965 and 1971, BRM came second in the constructors' competition."@en ,
+		"British Racing Motors (kurz B.R.M.) war ein britischer Motorsport-Rennstall, der zwischen 1951 und 1977 an der Formel-1-Weltmeisterschaft teilnahm. Der gr\u00F6\u00DFte Erfolg der Teamgeschichte war der Gewinn der Fahrerweltmeisterschaft 1962 durch Graham Hill sowie des Konstrukteurstitels im selben Jahr."@de ,
+		"La BRM (sigla di British Racing Motors) \u00E8 stata un team inglese di Formula 1, vincitrice di 17 Gran Premi e Campione del Mondo Costruttori nel 1962. Il team debutt\u00F2 nel primo Gran Premio valido per il Campionato Mondiale, a Silverstone nel 1950 con un avveniristico motore a sedici cilindri disposti a V di 135\u00B0, dalla cilindrata di 1500 cm\u00B3 sovralimentato da un compressore centrifugo a doppio stadio Rolls Royce, che raggiungeva una pressione di 5,7 bar portando la potenza del motore a 600 CV a 12.000 rpm e arrivando quindi all'eccezionale potenza specifica di 400 CV/Litro. Seri problemi di affidabilit\u00E0 compromisero la carriera del motore e fu ben presto sostituito da un 4 cilindri in linea da 2,5 litri aspirato (come imponeva il nuovo regolamento del 1954) e con questo motore un pilota BRM, Joakim Bonnier, diede alla sua scuderia la prima vittoria ufficiale in un mondiale di Formula 1 durante il Gran Premio d'Olanda sul circuito di Zandvoort nel 1959. Diversamente dagli altri team inglesi dell'epoca, che si limitavano ad allestire il telaio e ad acquistare il motore da altre societ\u00E0 (e per questo chiamati \"assemblatori\" da Enzo Ferrari), la BRM utilizz\u00F2 sempre motori e telai progettati in casa. Nel 1960 entr\u00F2 in squadra Graham Hill che nel 1962, con la BRM P57 dotata di motore V8 di 1,5 litri, regal\u00F2 alla casa il suo unico mondiale, dopo un appassionante duello con Jim Clark durato tutta la stagione. Due anni dopo la BRM e Hill si presentarono all'ultimo Gran Premio in testa alla classifica generale ma un incidente tra il pilota inglese e Lorenzo Bandini pose fine ai sogni di Hill, che arriv\u00F2 secondo in classifica generale. Il 1965 fu l'anno del debutto in squadra di un giovane pilota scozzese destinato a diventare tre volte campione del mondo: Jackie Stewart, che al debutto centr\u00F2 una vittoria a Monza. Nel 1966 cambiarono i regolamenti che innalzarono la cilindrata dei motori da 1500 a 3000 cm\u00B3; la BRM dapprima gareggi\u00F2 con un motore otto cilindri portato a 2000 cm\u00B3, poi opt\u00F2 per un motore ad H di 16 cilindri da 3000 cm\u00B3, pesante ma molto potente, che si impose in un solo Gran Premio ufficiale, ma su una Lotus. In seguito fu adottato un motore V12 progettato da Geoff Johnson per le vetture sport. Molto pi\u00F9 convenzionale, esord\u00EC su una McLaren, per iniziativa di Bruce McLaren. Questo motore permise alla BRM di aggiudicarsi qualche altro GP; l'ultima vittoria arriv\u00F2 con Jean-Pierre Beltoise al Gran Premio di Monaco 1972. Tra il 1970 e il 1972 la squadra partecip\u00F2 al campionato Can-Am con la BRM P154, la quale riusc\u00EC a cogliere pochi risultati. Dopo un progressivo calare delle prestazioni, la BRM si ritir\u00F2 alla fine del 1974, cedendo le attivit\u00E0 a Louis Stanley che fece gareggiare la squadra nelle stagioni 1975 e 1976 come Stanley-BRM per poi ritirarsi definitivamente al termine del Campionato di Formula 1 del 1977, anno in cui con il pilota Larry Perkins disput\u00F2 due soli Gran Premi, Brasile (con la nuova P207) e Sudafrica, con la vecchissima P201. La Stanley BRM gareggi\u00F2 ancora per un paio di anni nella serie inglese Aurora AFX affidando la P 207 a Teddy Pilette, prima di ritirarsi definitivamente per mancanza di soldi e per sviluppare la nuova P 230, la prima vettura ad effetto suolo. Nel 1980 il materiale della Stanley-BRM fu ceduto a Ted Jordan che modific\u00F2 e fece gareggiare la vettura P07-B in alcune gare di salita inglesi. Nel 1990 il marchio fu rilevato e la casa rinacque, tentando due volte la fortuna a Le Mans, senza risultati; dal 2007 costruisce auto per le gare in salita inglesi."@it ,
+		"A British Racing Motors, mais conhecida como BRM, foi uma equipe de competi\u00E7\u00F5es automobil\u00EDsticas."@pt ,
+		"British Racing Motors, generalmente conocido como BRM, fue un equipo brit\u00E1nico de F\u00F3rmula 1. Fundado en 1945, compiti\u00F3 desde 1950 a 1977, participando en 197 Grandes Premios y ganando 17. En 1962 el equipo BRM gan\u00F3 el t\u00EDtulo de constructores. Al mismo tiempo, su piloto Graham Hill gana el campeonato mundial. En 1963, 1964, 1965 y 1971, BRM fue segundo en el campeonato de constructores. La f\u00E1brica principal de BRM estaba en Spalding Road, Bourne, Lincolnshire, detr\u00E1s de la casa Eastgate, hogar de su l\u00EDder, Raymond Mays. El desarrollo m\u00E1s notable de BRM fue el motor de carrera 135\u00BA V16 1,5 litros, que era muy potente en la \u00E9poca para su cilindrada. Ten\u00EDa el defecto de que la potencia ca\u00EDa fuera de un rango muy peque\u00F1o de r\u00E9gimen. Por ello, para poder aprovechar su capacidad al m\u00E1ximo, eran necesarios muchos cambios de velocidad por parte de los pilotos. Este motor fue notable tanto como por ser una valiente tentativa en desarrollo de motores, como por su distintivo sonido. Cuando la regulaci\u00F3n de 1,5 litros atmosf\u00E9rico (es decir, no sobrealimentados) de F\u00F3rmula Uno fue introducida, BRM logr\u00F3 construir un motor dise\u00F1ado por Aubrey Woods (BRM P56 V8) que estaba a la par con el Dino V6 utilizado por Ferrari y el Coventry-Climax V8 utilizado por otros equipos brit\u00E1nicos. Un autom\u00F3vil modelo P578 con este motor gan\u00F3 el Campeonato Mundial, con Graham Hill como piloto. Sin embargo, BRM fall\u00F3 en su entrada a la regulaci\u00F3n de 3 litros rechazando la propuesta de Aubrey Woods de construir un motor V12, por un extra\u00F1o motor H 16 (BRM 75). Este motor era potente pero pesado y poco fiable, ten\u00EDa poco par y un centro de gravedad alto. La raz\u00F3n de esta elecci\u00F3n sigue siendo un misterio, pero es probable que el H 16 fuera seductor para BRM porque compart\u00EDa algunas partes con el V8 1,5 litros. En ese momento, BRM se gan\u00F3 el sobrenombre de \"British Racing Misery\". A pesar de todo, debido a la escasez de motores 3 litros de F1 en ese momento, el H 16 fue vendido a Lotus y Jim Clark logr\u00F3 ganar un Gran Premio con un coche con ese motor. Tiempo despu\u00E9s, la firma vendi\u00F3 motores a otros constructores como John Wyer, McLaren y Matra."@es ,
+		"British Racing Motors is een Britse autosportorganisatie. Voortgekomen uit het oudere English Racing Automobiles van Raymond Mays, groeide het na de Tweede Wereldoorlog langzamerhand uit naar een merk van formaat in de vroege jaren zestig. In 1962 werd Graham Hill met de BRM P57/P578 \"Stackpipes\" wereldkampioen Formule 1. Ook met de latere types P261 en P160 werden F1-overwinningen geboekt, maar in 1977 verdween het merk van het toneel.De BRM's P261 en P83 zijn op de computer nagebootst en rijdbaar in de racesimulator Grand Prix Legends."@nl ,
+		"British Racing Motors (BRM) \u2013 konsorcjum za\u0142o\u017Cone przez Raymonda Maysa, konstruuj\u0105ce samochody wy\u015Bcigowe. uczestnik wy\u015Bcig\u00F3w Formu\u0142y 1 w latach 1951\u20131977."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/1950_BRM_Type_15.JPG?width=300> ;
+	dbo:wikiPageRevisionID	742391722 ;
+	dbo:wikiPageID	874041 ;
+	dbp:logo	<http://dbpedia.org/resource/File:BritishRacingMotorsLogo.png> .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:British_Racing_Motors	ns25:hypernym	dbr:Motor ;
+	dbp:title	<http://dbpedia.org/resource/List_of_Formula_One_World_Constructors\u0027_Champions> ;
+	dbp:lastRace	1977 .
+<http://dbpedia.org/resource/1963_Monaco_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1966_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_German_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1964_German_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1970_United_States_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1971_United_States_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1964_Austrian_Grand_Prix>	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_Italian_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1968_Belgian_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1968_Dutch_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1974_South_African_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1965_Monaco_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:thirdTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1972_Monaco_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1965_South_African_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1962_Belgian_Grand_Prix>	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1962_Dutch_Grand_Prix>	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+dbr:Reg_Parnell_Racing	dbp:constructors	dbr:British_Racing_Motors .
+dbr:Niki_Lauda	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:Roy_Salvadori	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:Clay_Regazzoni	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:Larry_Perkins	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1967_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1966_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1962_Formula_One_season>	dbp:champions	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__33__1>	dbo:manufacturer	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__29__1>	dbo:manufacturer	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1959_French_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1962_French_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_French_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1964_French_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1968_French_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors .
+dbr:British_Racing_Motor	dbo:wikiPageRedirects	dbr:British_Racing_Motors .
+dbr:Mike_Pilbeam	dbo:knownFor	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1956_BARC_Aintree_200>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors .
+dbr:Graham_Hill	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:Innes_Ireland	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:British_Racing_Partnership	dbp:engines	dbr:British_Racing_Motors .
+dbr:BRM_P126	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors .
+dbr:BRM_P160	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:engineName	dbr:British_Racing_Motors .
+dbr:BRM_P180	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:engineName	dbr:British_Racing_Motors .
+dbr:BRM_P207	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:engineName	dbr:British_Racing_Motors .
+dbr:BRM_P57	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors .
+dbr:BRM_P67	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__13__1>	dbo:team	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__10__1>	dbo:team	dbr:British_Racing_Motors .
+dbr:Bernard_White_Racing	dbp:constructors	dbr:British_Racing_Motors ;
+	dbp:engines	dbr:British_Racing_Motors .
+dbr:BRM	dbo:wikiPageRedirects	dbr:British_Racing_Motors .
+dbr:Lotus_33	dbp:engineName	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1966_New_Zealand_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1967_New_Zealand_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1962_German_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+dbr:BRM_P83	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors .
+dbr:BRM_Type_15	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:engineName	dbr:British_Racing_Motors ;
+	dbp:gearboxName	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_Aintree_200>	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1964_Aintree_200>	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1964_Monaco_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1957_Glover_Trophy>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1958_Caen_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1959_Glover_Trophy>	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1960_International_Gold_Cup>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1972_International_Gold_Cup>	dbo:poleDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1964_BRDC_International_Trophy>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1958_Dutch_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_Mexican_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_South_African_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_United_States_Grand_Prix>	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1965_German_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1965_United_States_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1966_Dutch_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1969_United_States_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1964_News_of_the_World_Trophy>	dbo:fastestDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1972_World_Championship_Victory_Race>	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1962_Italian_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1965_Italian_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors ;
+	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+dbr:BRM_P351	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:gearboxName	dbr:British_Racing_Motors .
+dbr:Gilby_Engineering	dbp:engines	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1968_Canadian_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1962_South_African_Grand_Prix>	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_Belgian_Grand_Prix>	dbo:poleDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1962_United_States_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+dbr:Scuderia_Ferrari	dbp:after	dbr:British_Racing_Motors .
+dbr:Chris_Amon_Racing	dbp:constructors	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/Aut\u00F3dromo_Juan_y_Oscar_G\u00E1lvez>	dbp:recordTeam	dbr:British_Racing_Motors .
+dbr:Richie_Ginther	dbp:teams	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1964_United_States_Grand_Prix>	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1957_Moroccan_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+dbr:Len_Terry	dbo:knownFor	dbr:British_Racing_Motors .
+dbr:BRM_P201	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:engineName	dbr:British_Racing_Motors .
+dbr:Maserati_250F	dbp:team	dbr:British_Racing_Motors .
+dbr:Louis_Stanley	dbo:knownFor	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/BRM_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1959_British_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1960_British_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1961_British_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1964_British_Grand_Prix>	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1963_British_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1965_British_Grand_Prix>	dbo:fastestDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1966_British_Grand_Prix>	dbo:thirdTeam	dbr:British_Racing_Motors .
+dbr:Scirocco-Powell	dbp:engines	dbr:British_Racing_Motors .
+dbr:Jackie_Stewart	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:Hans_Herrmann	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:Vern_Schuppan	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:Teddy_Pilette	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+dbr:Alex_Soler-Roig	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1965_Belgian_Grand_Prix>	dbo:poleDriverTeam	dbr:British_Racing_Motors ;
+	dbo:secondTeam	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1970_Belgian_Grand_Prix>	dbo:firstDriverTeam	dbr:British_Racing_Motors .
+dbr:BRM_P139	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:engineName	dbr:British_Racing_Motors .
+dbr:Rover-BRM	dbo:manufacturer	dbr:British_Racing_Motors .
+dbr:BRM_P133	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors .
+dbr:BRM_P138	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:engineName	dbr:British_Racing_Motors .
+dbr:McLaren_M4B	dbp:engineName	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__37__1>	dbo:manufacturer	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__45__1>	dbo:manufacturer	dbr:British_Racing_Motors .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__43__1>	dbo:manufacturer	dbr:British_Racing_Motors .
+dbr:Howden_Ganley__1971__1	dbo:manufacturer	dbr:British_Racing_Motors .
+dbr:Howden_Ganley__1971__2	dbo:manufacturer	dbr:British_Racing_Motors .
+dbr:BRM_P115	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors .
+dbr:BRM_P25	dbp:constructor	dbr:British_Racing_Motors ;
+	dbp:engineName	dbr:British_Racing_Motors ;
+	dbp:gearboxName	dbr:British_Racing_Motors .
+dbr:BRM_P61	dbp:team	dbr:British_Racing_Motors ;
+	dbp:constructor	dbr:British_Racing_Motors .
+dbr:Glover_Trophy	dbp:fastestLapTeam	dbr:British_Racing_Motors ;
+	dbp:poleTeam	dbr:British_Racing_Motors ;
+	dbp:secondTeam	dbr:British_Racing_Motors .

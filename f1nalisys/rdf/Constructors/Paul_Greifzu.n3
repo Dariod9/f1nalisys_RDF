@@ -1,0 +1,75 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Paul_Greifzu	foaf:primaryTopic	dbr:Paul_Greifzu .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Greifzu	dbo:wikiPageRedirects	dbr:Paul_Greifzu .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Paul_Greifzu	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Paul_Greifzu	rdf:type	yago:WikicatPeopleFromTheProvinceOfSaxony ,
+		yago:WikicatPeopleFromSuhl ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatEthnicGermanPeople ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:Builder109878275 ,
+		yago:CausalAgent100007347 ,
+		yago:YagoLegalActor ,
+		yago:Party110402824 ,
+		yago:YagoLegalActorGeo ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		dbo:Athlete ,
+		yago:WikicatGermanRacecarConstructors .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Paul_Greifzu	rdfs:label	"Paul Greifzu"@de ,
+		"Paul Greifzu"@en ;
+	rdfs:comment	"Paul Greifzu (* 7. April 1902 in Suhl; \u2020 10. Mai 1952 bei Dessau) war ein deutscher Automobil- und Motorradrennfahrer."@de ,
+		"Paul Greifzu (7 April 1902 in Suhl \u2013 10 May 1952 in Dessau) was a German motorsport racer and constructor from Suhl. He was successful before and after World War II with motorcycles and sports cars. After having won several races in 1951, Greifzu was killed in practice at Dessau for an event held on a stretch of Autobahn in East Germany."@en .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Paul_Greifzu	owl:sameAs	yago-res:Paul_Greifzu .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Paul_Greifzu	owl:sameAs	wikidata:Q88645 ,
+		dbr:Paul_Greifzu .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Paul_Greifzu	owl:sameAs	dbpedia-de:Paul_Greifzu ,
+		<http://d-nb.info/gnd/123996120> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Paul_Greifzu	owl:sameAs	dbpedia-wikidata:Q88645 ,
+		<http://rdf.freebase.com/ns/m.0cr6x_> ,
+		<http://viaf.org/viaf/74773647> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Paul_Greifzu	dct:subject	dbc:German_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:People_from_Suhl ,
+		dbc:People_from_the_Province_of_Saxony ,
+		<http://dbpedia.org/resource/Category:1952_deaths> ,
+		<http://dbpedia.org/resource/Category:1902_births> ;
+	foaf:name	"Paul Greifzu"@en ;
+	dct:description	"German motorsport racer and constructor"@en ;
+	foaf:givenName	"Paul"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Paul_Greifzu ;
+	foaf:surname	"Greifzu"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Paul_Greifzu	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Paul_Greifzu?oldid=726983906> ;
+	dbo:wikiPageExternalLink	<http://www.paul-greifzu-schule.de/paul-greifzu/pg_biogr.html> ;
+	dbo:abstract	"Paul Greifzu (* 7. April 1902 in Suhl; \u2020 10. Mai 1952 bei Dessau) war ein deutscher Automobil- und Motorradrennfahrer."@de ,
+		"Paul Greifzu (7 April 1902 in Suhl \u2013 10 May 1952 in Dessau) was a German motorsport racer and constructor from Suhl. He was successful before and after World War II with motorcycles and sports cars. After having won several races in 1951, Greifzu was killed in practice at Dessau for an event held on a stretch of Autobahn in East Germany."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Paul_Greifzu	dbo:birthDate	"1902-4-7"^^xsd:date ;
+	dbo:deathDate	"1952-5-10"^^xsd:date ;
+	dbo:deathPlace	dbr:Dessau ;
+	dbo:wikiPageRevisionID	726983906 ;
+	dbo:birthPlace	dbr:Suhl ;
+	dbo:wikiPageID	4856543 .
+@prefix ns16:	<http://purl.org/linguistics/gold/> .
+dbr:Paul_Greifzu	ns16:hypernym	dbr:Racer .

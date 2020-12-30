@@ -1,0 +1,147 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Slim_Borgudd	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:ATS	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Gerhard_Berger	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Manfred_Winkelhock	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Hans_Binder	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Marc_Surer	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns3:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/ATS_(wheels)>	rdf:type	ns3:SocialPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/ATS_(wheels)>	rdf:type	wikidata:Q43229 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/ATS_(wheels)>	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/ATS_(wheels)>	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/ATS_(wheels)>	rdf:type	schema:Organization ,
+		dbo:SportsTeam ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:WikicatFormulaTwoConstructors ,
+		schema:SportsTeam ,
+		wikidata:Q24229398 ,
+		yago:Party110402824 ,
+		yago:Builder109878275 ,
+		yago:Contractor109960891 ,
+		dbo:Agent ,
+		yago:Whole100003553 ,
+		yago:WikicatGermanRacecarConstructors ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneTeam ,
+		ns3:Agent ,
+		yago:Organism100004475 ,
+		dbo:Organisation .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/ATS_(wheels)>	rdfs:label	"ATS (Auto Technisches Spezialzubeh\u00F6r)"@es ,
+		"ATS Racing Team"@de ,
+		"Auto Technisches Spezialzubeh\u00F6r"@fr ,
+		"Auto Technisches Spezialzubeh\u00F6r"@it ,
+		"ATS (F1\u30FB\u30C9\u30A4\u30C4)"@ja ,
+		"Auto Technisches Spezialzubeh\u00F6r"@pl ,
+		"Auto Technisches Spezialzubeh\u00F6r"@pt ,
+		"ATS (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"ATS (wheels)"@en ;
+	rdfs:comment	"Auto Technisches Spezialzubeh\u00F6r, ou plus commun\u00E9ment ATS, \u00E9tait une \u00E9curie de Formule 1 fond\u00E9e par Gunther Schmidt en 1977. L'\u00E9curie a disput\u00E9 89 Grands Prix de Formule 1 de 1978 \u00E0 1984, a inscrit sept points, et son meilleur classement en championnat du monde des constructeurs est une onzi\u00E8me place en 1979."@fr ,
+		"Auto Technisches Spezialzubeh\u00F6r (conhecida apenas por ATS) foi uma escuderia alem\u00E3 de F\u00F3rmula 1 fundada em 1977 a partir do esp\u00F3lio da opera\u00E7\u00E3o europeia da Penske, que encerrava as atividades na F\u00F3rmula 1 naquele ano. Naquela temporada de 1977, a ATS fez 11 provas com o chassi Penske e pontuando na prova de estreia com o 6\u00BA lugar em Long Beach sendo pilotado por Jean-Pierre Jarier. Em 1978, a equipe come\u00E7ou pra valer no campeonato fazendo seu pr\u00F3prio chassi."@pt ,
+		"ATS was a German Formula One team, named after German alloy wheel brand Auto Technisches Spezialzubeh\u00F6r. The company is based in Bad D\u00FCrkheim near the Hockenheimring, its team was active in Formula One from 1977 to 1984."@en ,
+		"Das ATS Racing Team war ein deutscher Motorsport-Rennstall, der sich zun\u00E4chst in der Formel 2 und von 1977 bis 1984 in der Formel 1 engagierte. Das Team wurde von G\u00FCnter Schmid initiiert und gef\u00FChrt. Es war, ebenso wie das gleichnamige Unternehmen ATS, in Bad D\u00FCrkheim bei Mannheim ans\u00E4ssig."@de ,
+		"ATS \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0430\u044F \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u0446\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u043E \u043E\u0442 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F \u043A\u043E\u043B\u0451\u0441 Auto Technisches Spezialzubeh\u00F6r. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u0430\u0437\u0438\u0440\u043E\u0432\u0430\u043B\u0430\u0441\u044C \u0432 Bad D\u00FCrkheim \u043D\u0435\u043F\u043E\u0434\u0430\u043B\u0451\u043A\u0443 \u043E\u0442 \u0425\u043E\u043A\u0435\u043D\u0445\u0430\u0439\u043C\u0440\u0438\u0433\u0430. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 \u0441 1977 \u043F\u043E 1984 \u0433\u043E\u0434\u043E\u0432. \u0412\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 ATS \u0413\u044E\u043D\u0442\u0435\u0440 \u0428\u043C\u0438\u0434\u0442 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u043A, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u043E\u0432\u0430\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0434\u043B\u044F \u0440\u0435\u043A\u043B\u0430\u043C\u044B \u0441\u0432\u043E\u0435\u0439 \u043F\u0440\u043E\u0434\u0443\u043A\u0446\u0438\u0438."@ru ,
+		"ATS(Auto Technisches Spezialzubeh\u00F6)\u306F1978\u5E74\u304B\u30891984\u5E74\u307E\u3067\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30C9\u30A4\u30C4\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u30C1\u30FC\u30E0\u4EE3\u8868\u306F\u30AE\u30E5\u30F3\u30BF\u30FC\u30FB\u30B7\u30E5\u30DF\u30C3\u30C8\u3002"@ja ,
+		"ATS (Auto Technisches Spezialzubeh\u00F6r) es un equipo alem\u00E1n de F\u00F3rmula 1 de finales de los a\u00F1os '70 y principios de los a\u00F1os '80, creado por Hans Gunther Schmid, empresario dedicado a las ruedas de aleaci\u00F3n. Schmid hab\u00EDa corrido a principios de los a\u00F1os 70 en la F\u00F3rmula Vee y S\u00FAper-Vee, en la escuder\u00EDa Lola patrocinada por su marca ATS-Wheels."@es ,
+		"ATS (pe\u0142na nazwa Auto Technisches Spezialzubeh\u00F6r) \u2013 niemiecki zesp\u00F3\u0142 Formu\u0142y 1, wyst\u0119puj\u0105cy w Mistrzostwach \u015Awiata w latach 1977-1984. Szefem zespo\u0142u by\u0142 G\u00FCnther Schmidt, w\u0142a\u015Bciciel firmy produkuj\u0105cej felgi aluminiowe pod t\u0105 sam\u0105 nazw\u0105. W pierwszym sezonie start\u00F3w ATS u\u017Cywa\u0142 nadwozi zespo\u0142u Penske, kt\u00F3ry wycofa\u0142 si\u0119 z Mistrzostw \u015Awiata Formu\u0142y 1 wraz z ko\u0144cem poprzedniego roku. Od 1978 roku ATS wystawia\u0142 ju\u017C samochody w\u0142asnej konstrukcji."@pl ,
+		"La ATS (sigla di Auto Technisches Spezialzubeh\u00F6r) fu una squadra tedesca di Formula 1 presente nel Campionato Mondiale dal 1978 al 1984. A volte chiamata l'ATS tedesca per distinguerla dall'italiana ATS - Automobili Turismo e Sport degli anni sessanta. Essa prendeva il nome dal marchio di ruote in lega (Auto Technisches Spezialzubeh\u00F6r), di propriet\u00E0 dell'imprenditore tedesco G\u00FCnther Schmidt."@it .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/ATS_(wheels)>	dbp:drivers	"Keke Rosberg"^^xsd:string ,
+		"Eliseo Salazar"^^xsd:string ,
+		"Jean-Pierre Jarier"^^xsd:string ,
+		"Gerhard Berger"^^xsd:string ,
+		"Manfred Winkelhock"^^xsd:string ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/ATS_(F1\u30FB\u30C9\u30A4\u30C4)> ,
+		<http://dbpedia.org/resource/ATS_(wheels)> ,
+		<http://id.dbpedia.org/resource/ATS_(roda)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/ATS_(wheels)>	owl:sameAs	dbpedia-wikidata:Q172162 ,
+		<http://fr.dbpedia.org/resource/Auto_Technisches_Spezialzubeh\u00F6r> ,
+		<http://it.dbpedia.org/resource/Auto_Technisches_Spezialzubeh\u00F6r> ,
+		wikidata:Q172162 ,
+		<http://es.dbpedia.org/resource/ATS_(Auto_Technisches_Spezialzubeh\u00F6r)> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/ATS_(wheels)>	owl:sameAs	dbpedia-de:ATS_Racing_Team ,
+		<http://pt.dbpedia.org/resource/Auto_Technisches_Spezialzubeh\u00F6r> ,
+		<http://yago-knowledge.org/resource/ATS_(wheels)> ,
+		<http://rdf.freebase.com/ns/m.087vm9> ,
+		<http://pl.dbpedia.org/resource/Auto_Technisches_Spezialzubeh\u00F6r> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/ATS_(wheels)>	dct:subject	dbc:Economy_of_Rhineland-Palatinate ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:German_racecar_constructors ,
+		dbc:German_auto_racing_teams .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/ATS_(wheels)>	foaf:name	"ATS Wheels"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/ATS_logo.gif> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/ATS_(wheels)> ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"ATS"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/ATS_(wheels)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/ATS_(wheels)?oldid=742053814> ;
+	dbp:founders	<http://dbpedia.org/resource/G\u00FCnter_Schmid> ;
+	dbp:logo	<http://dbpedia.org/resource/File:ATS_logo.gif> ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Germany"^^xsd:string ;
+	dbp:debut	1977 ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20080410075819/http:/www.ats-wheels.com:80/english/index_english.html> ;
+	dbo:abstract	"ATS \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0430\u044F \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u0446\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u043E \u043E\u0442 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F \u043A\u043E\u043B\u0451\u0441 Auto Technisches Spezialzubeh\u00F6r. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u0430\u0437\u0438\u0440\u043E\u0432\u0430\u043B\u0430\u0441\u044C \u0432 Bad D\u00FCrkheim \u043D\u0435\u043F\u043E\u0434\u0430\u043B\u0451\u043A\u0443 \u043E\u0442 \u0425\u043E\u043A\u0435\u043D\u0445\u0430\u0439\u043C\u0440\u0438\u0433\u0430. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 \u0441 1977 \u043F\u043E 1984 \u0433\u043E\u0434\u043E\u0432. \u041A\u043E\u043F\u0430\u043D\u0438\u044F ATS \u0438\u0437\u043E\u0431\u0440\u0435\u043B\u0430 \u0438 \u0438\u0437\u0433\u043E\u0442\u0430\u0432\u043B\u0438\u0432\u0430\u043B\u0430 \u043D\u043E\u0432\u044B\u0435 \u0440\u0435\u0432\u043E\u043B\u044E\u0446\u0438\u043E\u043D\u043D\u043E \u043B\u0435\u0433\u043A\u043E\u0441\u043F\u043B\u0430\u0432\u043D\u044B\u0435 \u043A\u043E\u043B\u0435\u0441\u043D\u044B\u0435 \u0434\u0438\u0441\u043A\u0438 \u0434\u043B\u044F \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u041F\u043E\u0440\u0448\u0435 \u0438 VW. ATS \u0438\u0437\u0433\u043E\u0442\u0430\u0432\u043B\u0438\u0432\u0430\u043B\u0430 \u043B\u0451\u0433\u043A\u0438\u0435 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\u0435\u0432\u044B\u0435 \u0434\u0438\u0441\u043A\u0438 \u0441 \u043F\u044F\u0442\u044C\u044E \u0441\u043F\u0438\u0446\u0430\u043C\u0438 \u0434\u043B\u044F AMG, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0442\u044E\u043D\u0438\u043D\u0433\u043E\u0432\u0430\u043B\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0438 \u041C\u0435\u0440\u0441\u0435\u0434\u0435\u0441-\u0411\u0435\u043D\u0446 \u0432 1970-\u0435 \u0438 1980-\u0435 \u0433\u043E\u0434\u044B. \u042D\u0442\u0438 \u043A\u043E\u043B\u0451\u0441\u0430 \u0431\u044B\u043B\u0438 \u043E\u0447\u0435\u043D\u044C \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B \u0438 \u0431\u044B\u043B\u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B \u043A\u0430\u043A \u0434\u0438\u0441\u043A\u0438 AMG \u00ABPenta\u00BB. \u0414\u0438\u0441\u043A\u0438 AMG \u00ABPenta\u00BB \u043E\u0442 ATS \u0431\u044B\u043B\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\u043D\u044B Hans-Werner Aufrecht \u0432 1979 \u0433\u043E\u0434\u044B. \u042D\u0442\u0438 \u0434\u0438\u0441\u043A\u0438 \u0431\u044B\u043B\u0438 \u043F\u0435\u0440\u0432\u044B\u043C\u0438 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\u0435\u0432\u044B\u043C\u0438 \u043B\u0435\u0433\u043A\u043E\u0441\u043F\u043B\u0430\u0432\u043D\u044B\u043C\u0438 \u0434\u0438\u0441\u043A\u0430\u043C\u0438, \u043F\u0440\u043E\u0434\u0430\u0436\u0430\u043C\u0438 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u0437\u0430\u043D\u0438\u043C\u0430\u043B\u0430\u0441\u044C \u043D\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043C\u0430\u044F \u0442\u044E\u043D\u0438\u043D\u0433-\u0430\u0442\u0435\u043B\u044C\u0435 AMG. \u0412\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 ATS \u0413\u044E\u043D\u0442\u0435\u0440 \u0428\u043C\u0438\u0434\u0442 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u043E\u043C \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u043A, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u043E\u0432\u0430\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0434\u043B\u044F \u0440\u0435\u043A\u043B\u0430\u043C\u044B \u0441\u0432\u043E\u0435\u0439 \u043F\u0440\u043E\u0434\u0443\u043A\u0446\u0438\u0438."@ru ,
+		"ATS (Auto Technisches Spezialzubeh\u00F6r) es un equipo alem\u00E1n de F\u00F3rmula 1 de finales de los a\u00F1os '70 y principios de los a\u00F1os '80, creado por Hans Gunther Schmid, empresario dedicado a las ruedas de aleaci\u00F3n. Schmid hab\u00EDa corrido a principios de los a\u00F1os 70 en la F\u00F3rmula Vee y S\u00FAper-Vee, en la escuder\u00EDa Lola patrocinada por su marca ATS-Wheels."@es ,
+		"ATS(Auto Technisches Spezialzubeh\u00F6)\u306F1978\u5E74\u304B\u30891984\u5E74\u307E\u3067\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30C9\u30A4\u30C4\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3002\u30C1\u30FC\u30E0\u4EE3\u8868\u306F\u30AE\u30E5\u30F3\u30BF\u30FC\u30FB\u30B7\u30E5\u30DF\u30C3\u30C8\u3002"@ja ,
+		"Das ATS Racing Team war ein deutscher Motorsport-Rennstall, der sich zun\u00E4chst in der Formel 2 und von 1977 bis 1984 in der Formel 1 engagierte. Das Team wurde von G\u00FCnter Schmid initiiert und gef\u00FChrt. Es war, ebenso wie das gleichnamige Unternehmen ATS, in Bad D\u00FCrkheim bei Mannheim ans\u00E4ssig. Besitzer des Teams war neben Schmid der Industrielle Erich Stahlschmidt aus dem sauerl\u00E4ndischen Werdohl, der die Gesch\u00E4ftsanteile von dem ATS-Mitbegr\u00FCnder Bruch erwarb und die rennsportlichen Pl\u00E4ne von Schmid nicht nur unterst\u00FCtzte, sondern erst erm\u00F6glichte. Als Teamchef fungierte jedoch ausschlie\u00DFlich Schmid. Er war in den 1960er-Jahren selbst Rennfahrer und hatte eine Reihe von Rennen in der Formel V bestritten. Seine letzten Rennen fuhr er 1972, als er sich bereits hauptberuflich bei dem Felgenhersteller einbrachte. Danach sponserte Schmid verschiedene nationale Motorsportveranstaltungen, bevor sich sein Unternehmen aktiv am Motorsport beteiligte, um f\u00FCr die Marke ATS zu werben."@de ,
+		"Auto Technisches Spezialzubeh\u00F6r (conhecida apenas por ATS) foi uma escuderia alem\u00E3 de F\u00F3rmula 1 fundada em 1977 a partir do esp\u00F3lio da opera\u00E7\u00E3o europeia da Penske, que encerrava as atividades na F\u00F3rmula 1 naquele ano. Naquela temporada de 1977, a ATS fez 11 provas com o chassi Penske e pontuando na prova de estreia com o 6\u00BA lugar em Long Beach sendo pilotado por Jean-Pierre Jarier. Em 1978, a equipe come\u00E7ou pra valer no campeonato fazendo seu pr\u00F3prio chassi. Teve, entre seus pilotos, o alem\u00E3o Hans Stuck, o finland\u00EAs Keke Rosberg, o franc\u00EAs Jean-Pierre Jarier e o austr\u00EDaco Gerhard Berger. Fechou as portas ap\u00F3s o fim da temporada de 1984, tendo como melhor resultado dois quintos lugares, com Manfred Winkelhock no Brasil e com Eliseo Salazar em San Marino."@pt ,
+		"La ATS (sigla di Auto Technisches Spezialzubeh\u00F6r) fu una squadra tedesca di Formula 1 presente nel Campionato Mondiale dal 1978 al 1984. A volte chiamata l'ATS tedesca per distinguerla dall'italiana ATS - Automobili Turismo e Sport degli anni sessanta. Essa prendeva il nome dal marchio di ruote in lega (Auto Technisches Spezialzubeh\u00F6r), di propriet\u00E0 dell'imprenditore tedesco G\u00FCnther Schmidt. La compagnia aveva sede a Bad D\u00FCrkheim vicino all'Hockenheimring, ed aveva creato alcune tipologie rivoluzionare di ruota leggera per Porsche e Volkswagen. Inoltre costruiva speciali ruote in alluminio per AMG, il preparatore di vetture speciali Mercedes-Benz, negli anni settanta e ottanta. Inoltre ATS aveva sponsorizzato molti eventi sportivi per promuovere il suo marchio. Fu naturale dunque la creazione di un proprio team, anche se il difficile carattere del titolare rese travagliata la vita del team con continui cambiamenti nell'organigramma."@it ,
+		"ATS was a German Formula One team, named after German alloy wheel brand Auto Technisches Spezialzubeh\u00F6r. The company is based in Bad D\u00FCrkheim near the Hockenheimring, its team was active in Formula One from 1977 to 1984."@en ,
+		"ATS (pe\u0142na nazwa Auto Technisches Spezialzubeh\u00F6r) \u2013 niemiecki zesp\u00F3\u0142 Formu\u0142y 1, wyst\u0119puj\u0105cy w Mistrzostwach \u015Awiata w latach 1977-1984. Szefem zespo\u0142u by\u0142 G\u00FCnther Schmidt, w\u0142a\u015Bciciel firmy produkuj\u0105cej felgi aluminiowe pod t\u0105 sam\u0105 nazw\u0105. W pierwszym sezonie start\u00F3w ATS u\u017Cywa\u0142 nadwozi zespo\u0142u Penske, kt\u00F3ry wycofa\u0142 si\u0119 z Mistrzostw \u015Awiata Formu\u0142y 1 wraz z ko\u0144cem poprzedniego roku. Od 1978 roku ATS wystawia\u0142 ju\u017C samochody w\u0142asnej konstrukcji. W historii Formu\u0142y 1 kierowcy ATS zdobyli tylko 8 punkt\u00F3w w 99 wy\u015Bcigach Grand Prix. Najlepszy wynik \u2013 pi\u0105te miejsce \u2013 uzyskano trzykrotnie: (Hans Joachim Stuck w Grand Prix Stan\u00F3w Zjednoczonych \u2013 Zach\u00F3d 1979; Manfred Winkelhock w Grand Prix Brazylii 1982 oraz Eliseo Salazar w Grand Prix San Marino 1982). W latach 1977-1982 zesp\u00F3\u0142 u\u017Cywa\u0142 silnik\u00F3w Forda. Ekspansja jednostek nap\u0119dowych z turbodo\u0142adowaniem spowodowa\u0142a, i\u017C w 1983 roku ATS r\u00F3wnie\u017C do\u0142\u0105czy\u0142 do grona u\u017Cytkownik\u00F3w tego typu silnik\u00F3w. Dostawc\u0105 zosta\u0142 bawarski koncern BMW. Umowa z BMW nie przynios\u0142a jednak spodziewanych korzy\u015Bci. Po dw\u00F3ch sezonach, w kt\u00F3rych ATS nie zdoby\u0142 \u017Cadnego punktu, BMW zrezygnowa\u0142o z dalszej wsp\u00F3\u0142pracy. G\u00FCnther Schmidt nie zdo\u0142a\u0142 znale\u017A\u0107 nowego dostawcy silnik\u00F3w i zesp\u00F3\u0142 znikn\u0105\u0142 ze sceny F1 wraz z ko\u0144cem 1984 roku."@pl ,
+		"Auto Technisches Spezialzubeh\u00F6r, ou plus commun\u00E9ment ATS, \u00E9tait une \u00E9curie de Formule 1 fond\u00E9e par Gunther Schmidt en 1977. L'\u00E9curie a disput\u00E9 89 Grands Prix de Formule 1 de 1978 \u00E0 1984, a inscrit sept points, et son meilleur classement en championnat du monde des constructeurs est une onzi\u00E8me place en 1979."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/ATS_logo.gif?width=300> ;
+	dbo:wikiPageRevisionID	742053814 ;
+	dbo:wikiPageID	2867191 ;
+	dbp:races	101 ;
+	dbp:wins	0 .
+@prefix ns16:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/ATS_(wheels)>	ns16:hypernym	dbr:Team ;
+	dbp:staff	<http://dbpedia.org/resource/Jo_Ram\u00EDrez> ,
+		dbr:Gustav_Brunner ,
+		dbr:Robin_Herd ,
+		dbr:Giacomo_Caliri ;
+	dbp:lastRace	1984 .
+dbr:Hans_Heyer	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+<http://en.wikipedia.org/wiki/ATS_(wheels)>	foaf:primaryTopic	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Keke_Rosberg	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Harald_Ertl	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:ATS_D7	dbp:team	<http://dbpedia.org/resource/ATS_(wheels)> ;
+	dbp:constructor	<http://dbpedia.org/resource/ATS_(wheels)> ;
+	dbp:gearboxName	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:ATS_D4	dbo:wikiPageRedirects	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Jochen_Mass	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Hans-Joachim_Stuck	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Michael_Bleekemolen	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Alberto_Colombo	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:Jean-Pierre_Jarier	dbp:teams	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:ATS_D5	dbp:team	<http://dbpedia.org/resource/ATS_(wheels)> ;
+	dbp:constructor	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:ATS_D6	dbp:team	<http://dbpedia.org/resource/ATS_(wheels)> ;
+	dbp:constructor	<http://dbpedia.org/resource/ATS_(wheels)> ;
+	dbp:gearboxName	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:ATS_D1	dbp:team	<http://dbpedia.org/resource/ATS_(wheels)> ;
+	dbp:constructor	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:ATS_D2	dbp:team	<http://dbpedia.org/resource/ATS_(wheels)> ;
+	dbp:constructor	<http://dbpedia.org/resource/ATS_(wheels)> .
+dbr:ATS_Wheels	dbo:wikiPageRedirects	<http://dbpedia.org/resource/ATS_(wheels)> .

@@ -1,0 +1,95 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Aston_Butterworth	rdf:type	yago:WikicatBritishRacecarConstructors ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:WikicatFormulaTwoConstructors ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Contractor109960891 ,
+		yago:Organism100004475 ,
+		yago:WikicatFormulaOneConstructors .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Aston_Butterworth	rdf:type	dbo:FormulaOneTeam ,
+		yago:Builder109878275 ,
+		yago:Party110402824 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Aston_Butterworth	rdfs:label	"Aston Butterworth"@en ,
+		"Aston Butterworth"@es ,
+		"Aston (Formel 1)"@de ,
+		"WS Aston"@fr ,
+		"Aston Butterworth"@pt ,
+		"Aston Butterworth"@pl ;
+	rdfs:comment	"WS Aston est une \u00E9curie de Formule 1 fond\u00E9e en 1952 \u00E0 l\u2019initiative du pilote amateur britannique Bill Aston. Une seule monoplace a \u00E9t\u00E9 produite, l'Aston NB41 et engag\u00E9e, sans r\u00E9sultat, \u00E0 quatre reprises lors du championnat du monde de Formule 1 1952."@fr ,
+		"Aston Butterworth was a Formula Two constructor from the United Kingdom, which competed in the seasons 1952-1953 when the World Drivers' Championship was run to Formula Two regulations. The team participated in four World Championship Grands Prix."@en ,
+		"Aston Butterworth fue un constructor de monoplazas de F\u00F3rmula 2, que debido al nuevo reglamento del Campeonato Mundial de F\u00F3rmula 1 en 1952 pudo participar en varias carreras de ese campeonato."@es ,
+		"Aston war ein 1952 aktiver Rennstall in der Formel 1. Das Privatteam von Bill Aston war lediglich f\u00FCr vier WM-L\u00E4ufe gemeldet, von denen es bei zweien startete. Das erste Rennen in Belgien fuhr der Brite Robin Montgomerie-Charrington, das er allerdings aufgrund eines technischen Defekts (Elektrik) in der 17. Runde aufgeben musste. Es folgte der Gro\u00DFe Preis von Gro\u00DFbritannien, f\u00FCr den sich Bill Aston zwar qualifizieren konnte, allerdings musste er wegen erneuter technischer M\u00E4ngel das Rennen absagen. In Deutschland fiel Bill Aston wiederum wegen eines fehlenden \u00D6ldrucks schon in der zweiten Runde aus, und beim letzten gemeldeten Rennen in Italien verpasste Bill Aston die Qualifikation. Nach diesen vier Rennen endete auch die Existenz des Rennstalls, und Bill Aston sowie Robert Montgomerie-Ch"@de ,
+		"A Aston Butterworth foi uma construtora de F\u00F3rmula 1 que disputou quatro GPs na 1952. A equipe foi criada por Bill Aston, usando um carro que era uma c\u00F3pia do Cooper da F\u00F3rmula 2. Teve como pilotos os brit\u00E2nicos Bill Aston e Robin Montgomerie-Charrington."@pt ,
+		"Aston Butterworth \u2013 brytyjski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy a tak\u017Ce dostawca silnik\u00F3w, uczestnicz\u0105cy w Formule 1 w 1952 roku."@pl .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Aston_Butterworth	owl:sameAs	dbr:Aston_Butterworth ,
+		<http://rdf.freebase.com/ns/m.04n6v5> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Aston_Butterworth	owl:sameAs	dbpedia-fr:WS_Aston .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Aston_Butterworth	owl:sameAs	dbpedia-wikidata:Q173485 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Aston_Butterworth	owl:sameAs	dbpedia-pl:Aston_Butterworth .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Aston_Butterworth	owl:sameAs	yago-res:Aston_Butterworth .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Aston_Butterworth	owl:sameAs	wikidata:Q173485 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Aston_Butterworth	owl:sameAs	dbpedia-pt:Aston_Butterworth .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Aston_Butterworth	owl:sameAs	dbpedia-es:Aston_Butterworth .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Aston_Butterworth	owl:sameAs	dbpedia-id:Aston_Butterworth ,
+		<http://de.dbpedia.org/resource/Aston_(Formel_1)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Aston_Butterworth	dct:subject	<http://dbpedia.org/resource/Category:1952_Formula_One_season_cars> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Aston_Butterworth	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_Two_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Aston_Butterworth	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Aston_Butterworth.JPG> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Aston_Butterworth	foaf:isPrimaryTopicOf	wikipedia-en:Aston_Butterworth .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Aston_Butterworth	dbp:formerSeries	<http://dbpedia.org/resource/List_of_Formula_One_World_Drivers\u0027_Champions> ;
+	dbp:founders	dbr:Archie_Butterworth ,
+		"Bill Aston"^^xsd:string ;
+	dbp:drivers	"Bill Aston"^^xsd:string ,
+		"Robin Montgomerie-Charrington"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Aston_Butterworth	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Aston_Butterworth?oldid=710811152> ;
+	dbo:wikiPageExternalLink	<http://www.motorsportatthepalace.co.uk/> ;
+	dbp:teamTitles	0 ;
+	dbp:base	"United Kingdom"^^xsd:string ;
+	dbp:founded	1952 ;
+	dbp:name	"Aston Butterworth"^^xsd:string ;
+	dbp:principal	dbr:Bill_Aston ;
+	dbo:abstract	"Aston Butterworth was a Formula Two constructor from the United Kingdom, which competed in the seasons 1952-1953 when the World Drivers' Championship was run to Formula Two regulations. The team participated in four World Championship Grands Prix. The project was instigated by Bill Aston, who decided to build a car for Formula Two. The chassis was a copy of a Formula Two Cooper, fitted with a flat-four engine devised by Archie Butterworth. The car made its debut in April 1952 in the Lavant Cup at Goodwood, finishing eighth with Aston at the wheel. In May, a second car was added, driven by Robin Montgomerie-Charrington, who achieved the team's best finish, a third place at Chimay in June. This car was designated NB42 and as of May 2015 was in its original specification. Aston entered the car, fitted with Allard-Steyr cylinder heads and a new carburettor, in the 1952 German Grand Prix. He withdrew on lap two after losing oil pressure. Aston continued to appear in races throughout the 1953 season, but there was never enough money to develop the program properly. A major problem was the supply of fuel - the Aston Butterworth sometimes had fuel starvation, and sometimes caught on fire. When the new F1 regulations came in 1954, Aston-Butterworth ceased participating."@en ,
+		"Aston Butterworth \u2013 brytyjski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy a tak\u017Ce dostawca silnik\u00F3w, uczestnicz\u0105cy w Formule 1 w 1952 roku."@pl ,
+		"Aston Butterworth fue un constructor de monoplazas de F\u00F3rmula 2, que debido al nuevo reglamento del Campeonato Mundial de F\u00F3rmula 1 en 1952 pudo participar en varias carreras de ese campeonato."@es ,
+		"A Aston Butterworth foi uma construtora de F\u00F3rmula 1 que disputou quatro GPs na 1952. A equipe foi criada por Bill Aston, usando um carro que era uma c\u00F3pia do Cooper da F\u00F3rmula 2. Teve como pilotos os brit\u00E2nicos Bill Aston e Robin Montgomerie-Charrington."@pt ,
+		"WS Aston est une \u00E9curie de Formule 1 fond\u00E9e en 1952 \u00E0 l\u2019initiative du pilote amateur britannique Bill Aston. Une seule monoplace a \u00E9t\u00E9 produite, l'Aston NB41 et engag\u00E9e, sans r\u00E9sultat, \u00E0 quatre reprises lors du championnat du monde de Formule 1 1952."@fr ,
+		"Aston war ein 1952 aktiver Rennstall in der Formel 1. Das Privatteam von Bill Aston war lediglich f\u00FCr vier WM-L\u00E4ufe gemeldet, von denen es bei zweien startete. Das erste Rennen in Belgien fuhr der Brite Robin Montgomerie-Charrington, das er allerdings aufgrund eines technischen Defekts (Elektrik) in der 17. Runde aufgeben musste. Es folgte der Gro\u00DFe Preis von Gro\u00DFbritannien, f\u00FCr den sich Bill Aston zwar qualifizieren konnte, allerdings musste er wegen erneuter technischer M\u00E4ngel das Rennen absagen. In Deutschland fiel Bill Aston wiederum wegen eines fehlenden \u00D6ldrucks schon in der zweiten Runde aus, und beim letzten gemeldeten Rennen in Italien verpasste Bill Aston die Qualifikation. Nach diesen vier Rennen endete auch die Existenz des Rennstalls, und Bill Aston sowie Robert Montgomerie-Charrington beendeten ihre Formel-1-Karrieren."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Aston_Butterworth.JPG?width=300> ;
+	dbo:wikiPageRevisionID	710811152 ;
+	dbo:wikiPageID	1262658 ;
+	dbp:driverTitles	0 .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+dbr:Aston_Butterworth	ns20:hypernym	dbr:Constructor ;
+	dbp:folded	1954 .
+wikipedia-en:Aston_Butterworth	foaf:primaryTopic	dbr:Aston_Butterworth .
+dbr:Butterworth	dbo:wikiPageDisambiguates	dbr:Aston_Butterworth .
+dbr:Bill_Aston	<http://dbpedia.org/property/team(s)_>	dbr:Aston_Butterworth .

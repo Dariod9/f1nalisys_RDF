@@ -1,0 +1,109 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Bellasi	rdf:type	dbo:Company .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Bellasi	rdf:type	yago:WikicatSwissRacecarConstructors ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:Organisation ,
+		dbo:Agent ,
+		yago:Party110402824 .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Bellasi	rdf:type	ns4:SocialPerson ,
+		yago:Builder109878275 ,
+		yago:Contractor109960891 ,
+		yago:CausalAgent100007347 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Bellasi	rdf:type	wikidata:Q24229398 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		yago:WikicatItalianRacecarConstructors ,
+		ns4:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Bellasi	rdf:type	owl:Thing ,
+		yago:WikicatFormulaOneConstructors .
+@prefix schema:	<http://schema.org/> .
+dbr:Bellasi	rdf:type	schema:Organization ,
+		wikidata:Q43229 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Bellasi	rdfs:label	"Bellasi"@fr ,
+		"Bellasi"@pt ,
+		"Bellasi"@pl ,
+		"Bellasi"@en ;
+	rdfs:comment	"Bellasi is a motorsport company, and was a Formula One constructor from Italy that raced under Swiss nationality. They participated in six grands prix during the early 1970s, entering a total of six cars."@en ,
+		"A Bellasi foi uma construtora de F\u00F3rmula 1 da It\u00E1lia que correu defendendo a Su\u00ED\u00E7a em 6 grandes pr\u00EAmios entre 1970 e 1971, mas largou em apenas 2, com Silvio Moser ao volante."@pt ,
+		"Bellasi \u2013 szwajcarski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1970 i 1971 roku. Silvio Moser nie zakwalifikowa\u0142 si\u0119 do czterech wy\u015Bcig\u00F3w oraz dw\u00F3ch nie uko\u0144czy\u0142."@pl ,
+		"Bellasi \u00E9tait une \u00E9curie de course automobile italienne fond\u00E9e en 1966 par Guglielmo Bellasi. Bellasi a particip\u00E9 \u00E0 deux Grands Prix de Formule 1 en 1970 et 1971, sans parvenir \u00E0 inscrire de point. Bellasi est revenu \u00E0 la Formule 1 en 1978 lorsque Arturo Merzario, fondateur de l\u2019\u00E9curie Team Merzario eut recours aux conseils et aux moyens techniques de Guglielmo Bellasi pour concevoir le ch\u00E2ssis de ses monoplaces."@fr .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Bellasi	owl:sameAs	dbpedia-pl:Bellasi .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Bellasi	owl:sameAs	dbpedia-fr:Bellasi .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Bellasi	owl:sameAs	dbpedia-pt:Bellasi ,
+		wikidata:Q2343891 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Bellasi	owl:sameAs	dbpedia-id:Bellasi .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Bellasi	owl:sameAs	yago-res:Bellasi ,
+		dbr:Bellasi ,
+		<http://rdf.freebase.com/ns/m.04n691> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Bellasi	owl:sameAs	dbpedia-wikidata:Q2343891 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Bellasi	dct:subject	dbc:Swiss_racecar_constructors ,
+		dbc:Swiss_auto_racing_teams ,
+		dbc:Italian_racecar_constructors ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Italian_auto_racing_teams .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Bellasi	foaf:name	"Bellasi srl"@en ;
+	foaf:homepage	<http://www.bellasi.com/> ,
+		<http://www.bellasi.com//> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Bellasi	foaf:isPrimaryTopicOf	wikipedia-en:Bellasi .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bellasi	dbp:areaServed	"Worldwide"^^xsd:string ;
+	dbp:products	"Motorsport technology"^^xsd:string ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:founder	"Guglielmo Bellasi"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Bellasi	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bellasi?oldid=741359318> ;
+	dbp:founders	"Guglielmo Bellasi"^^xsd:string ;
+	dbp:entrants	"Jolly Club Switzerland"^^xsd:string ,
+		dbr:Silvio_Moser ;
+	dbo:industry	dbr:Automotive_industry ;
+	dbo:keyPerson	dbr:Chairman .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Bellasi	dbo:foundingYear	"1966"^^xsd:gYear ;
+	dbo:internationally	"true"^^xsd:boolean ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Italy"^^xsd:string ;
+	dbp:engines	dbr:Cosworth ,
+		dbr:V8_engine ;
+	dbp:debut	1970 ;
+	dbo:wikiPageExternalLink	<http://www.bellasi.com/> ;
+	dbo:abstract	"A Bellasi foi uma construtora de F\u00F3rmula 1 da It\u00E1lia que correu defendendo a Su\u00ED\u00E7a em 6 grandes pr\u00EAmios entre 1970 e 1971, mas largou em apenas 2, com Silvio Moser ao volante."@pt ,
+		"Bellasi is a motorsport company, and was a Formula One constructor from Italy that raced under Swiss nationality. They participated in six grands prix during the early 1970s, entering a total of six cars. Guglielmo Bellasi was one of several car manufacturers to try to establish themselves in Italian Formula 3 circles in the late 1960s. The first Bellasi F3 car appeared in 1966, entered by Scuderia Inter Corse and driven by Guglielmo Bellasi himself. This Ford-engined machine clearly had some potential as it finished third in the Circuito del Lago di Garda race a month later. Bellasi F3 cars appeared again in 1967 with Bellasi and Sandro Angeleri driving on occasional outings but there was a more concerted effort in 1968 with Scuderia Jolly Club running as many as four cars for Angeleri, Pino Mariella, Franco Conti and others. The best result was a fifth place for Mariella in the Coppa Autodromo at Monza. Similar cars continued to be seen in 1969 with Georges Ferreira, Pino Pica and Giorgio Pianta among the drivers. One odd feature of the 1969 car was a rear-mounted water radiator, with the coolant warmed by the exhaust. For 1970 Swiss racer Silvio Moser commissioned Bellasi to design a Grand Prix car for him. This Cosworth-powered device (using some components from the Brabham BT24-3 Moser had raced for the Silvio Moser Racing Team SA) featured a simple riveted aluminium monocoque with tubular sub-frame carrying the radiator and front suspension. The Bellasi was ready for the Dutch Grand Prix in June but failed to qualify there and again in France. The team did not bother to go to Britain because there was no starting money and there was another failure to qualify in Germany before Moser finally made it onto the grid at the 1970 Austrian Grand Prix. The car lasted 13 laps before breaking down and at Monza it was back to non-qualification. The car reappeared for the non-championship Argentine Grand Prix in 1971, entered by the Jolly Club. In September the car was entered again at the 1971 Italian Grand Prix and qualified but retired after only five laps."@en ,
+		"Bellasi \u00E9tait une \u00E9curie de course automobile italienne fond\u00E9e en 1966 par Guglielmo Bellasi. Bellasi a particip\u00E9 \u00E0 deux Grands Prix de Formule 1 en 1970 et 1971, sans parvenir \u00E0 inscrire de point. Bellasi est revenu \u00E0 la Formule 1 en 1978 lorsque Arturo Merzario, fondateur de l\u2019\u00E9curie Team Merzario eut recours aux conseils et aux moyens techniques de Guglielmo Bellasi pour concevoir le ch\u00E2ssis de ses monoplaces."@fr ,
+		"Bellasi \u2013 szwajcarski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy, uczestnicz\u0105cy w Formule 1 w 1970 i 1971 roku. Silvio Moser nie zakwalifikowa\u0142 si\u0119 do czterech wy\u015Bcig\u00F3w oraz dw\u00F3ch nie uko\u0144czy\u0142."@pl ;
+	dbo:wikiPageRevisionID	741359318 ;
+	dbo:wikiPageID	1262572 ;
+	dbo:location	dbr:Novara ;
+	dbp:races	6 ;
+	dbp:type	"Private"^^xsd:string ;
+	dbp:name	"Bellasi"^^xsd:string ;
+	dbp:wins	0 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:Bellasi	ns22:hypernym	dbr:Company ;
+	dbp:finalRace	1971 .
+wikipedia-en:Bellasi	foaf:primaryTopic	dbr:Bellasi .
+dbr:Bellasi_F1	dbo:wikiPageRedirects	dbr:Bellasi .

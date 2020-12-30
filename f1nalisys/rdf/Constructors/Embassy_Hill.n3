@@ -1,0 +1,148 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Graham_Hill	<http://dbpedia.org/property/team(s)_>	dbr:Embassy_Hill .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Embassy_Hill	foaf:primaryTopic	dbr:Embassy_Hill .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Alan_Jones_(racing_driver)__1975__2>	dbo:team	dbr:Embassy_Hill .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Embassy_Hill	rdf:type	ns5:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Embassy_Hill	rdf:type	yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:Organism100004475 ,
+		yago:WikicatFormulaOneConstructors .
+@prefix schema:	<http://schema.org/> .
+dbr:Embassy_Hill	rdf:type	schema:Organization ,
+		yago:Whole100003553 ,
+		ns5:SocialPerson ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		dbo:Organisation ,
+		schema:SportsTeam ,
+		dbo:SportsTeam ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Embassy_Hill	rdf:type	wikidata:Q43229 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneTeam ,
+		dbo:Agent ,
+		yago:WikicatBritishRacecarConstructors .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Embassy_Hill	rdf:type	owl:Thing ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Embassy_Hill	rdfs:label	"Embassy Hill"@it ,
+		"Embassy Hill"@nl ,
+		"Embassy Hill"@de ,
+		"Embassy-Hill"@fr ,
+		"Embassy Hill"@pt ,
+		"Embassy Hill"@en ,
+		"\u0425\u0438\u043B\u043B (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"\u30A8\u30F3\u30D0\u30B7\u30FC\u30FB\u30D2\u30EB"@ja ,
+		"Embassy Hill"@pl ;
+	rdfs:comment	"\u30A8\u30F3\u30D0\u30B7\u30FC\u30FB\u30D2\u30EB\uFF08Embassy Hill \uFF09\u306F\u30011962\u5E74\u30681968\u5E74\u306E\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308B\u30B0\u30E9\u30CF\u30E0\u30FB\u30D2\u30EB\u304C\u8A2D\u7ACB\u3057\u30011973\u5E74\u304B\u30891975\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u306A\u304A\u6700\u521D\u306E2\u5E74\u9593\u306F\u30B7\u30E3\u30B7\u30FC\u3092\u8CFC\u5165\u3057\u3066\u53C2\u6226\u3057\u3066\u3044\u305F\u305F\u3081\u3001\u300C\u30D2\u30EB\u300D\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u540D\u3067\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306F1975\u5E74\u306E\u307F\u3067\u3042\u3063\u305F\u3002"@ja ,
+		"Embassy-Hill (ou plus exactement Embassy Racing With Graham Hill) est une ancienne \u00E9curie de Formule 1, qui a particip\u00E9 au championnat du monde entre 1973 et 1975. L'\u00E9quipe a disput\u00E9 38 GP et inscrit un total de 4 points. Le meilleur r\u00E9sultat en course de l'\u00E9curie est une 5e place obtenue par Alan Jones au GP d'Allemagne au N\u00FCrburgring 1975."@fr ,
+		"L'Embassy Hill \u00E8 stata un costruttore britannico di Formula 1. Scuderia fondata dal bicampione del mondo Graham Hill si iscrisse per la prima volta al campionato 1973 con il nome Embassy Racing utilizzando una Shadow e, l'anno successivo una Lola derivata dalla formula 5000, facendo segnare anche un punto nel Gran Premio di Svezia (punto assegnato al costruttore Lola)."@it ,
+		"\u042D\u043C\u0431\u0430\u0441\u0441\u0438 \u0425\u0438\u043B\u043B (\u0430\u043D\u0433\u043B. Embassy Hill) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u043C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u043C\u0438\u0440\u0430 \u0413\u0440\u044D\u043C\u043E\u043C \u0425\u0438\u043B\u043B\u043E\u043C. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u0432 \u0432 1973 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0441\u0442\u0430\u043B\u0430 \u043F\u043E\u043B\u043D\u043E\u0446\u0435\u043D\u043D\u044B\u043C \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u043C \u0448\u0430\u0441\u0441\u0438 \u0432 1975 \u0433\u043E\u0434\u0443 \u2014 \u0433\u043E\u0434\u0443, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u043F\u043E\u0433\u0438\u0431 \u0441\u0430\u043C \u0425\u0438\u043B\u043B \u0438 \u0435\u0449\u0451 5 \u0447\u043B\u0435\u043D\u043E\u0432 \u0435\u0433\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u044B."@ru ,
+		"Hill respektive Embassy Hill war ein britisches Formel-1-Team, das von dem zweimaligen Formel-1-Fahrerweltmeister Graham Hill gegr\u00FCndet und vom britischen Tabakkonzern W.D. & H.O. Wills f\u00FCr die Zigarettenmarke Embassy gesponsert wurde. Das Team war f\u00FCr elf Rennen in der Saison 1975 gemeldet und konnte sich in zehn Rennen mit insgesamt 19 Rennwagen-Starts qualifizieren. Fahrer im Team von Graham Hill waren Rolf Stommelen, Fran\u00E7ois Migault, Tony Brise, Vern Schuppan und Alan Jones."@de ,
+		"Embassy Hill was een Formule 1-team van 1973 tot en met 1975, geleid door tweevoudig Formule 1-kampioen Graham Hill. Embassy Racing With Graham Hill zag het levenslicht in 1973 toen Graham Hill de auto's kocht van het Shadow Racing Cars team. Voor het seizoen van 1974 kocht het team de chassis van Lola. Nadat Graham Hill zich niet wist te kwalificeren voor de Grand Prix van Monaco in 1975 besloot hij andere coureurs aan het stuur te zetten. Het waren toen Alan Jones en Tony Brise. Ze scoorde een vijfde plek tijdens de Grand Prix van Duitsland en een zesde plek tijdens de Grand Prix van Zweden."@nl ,
+		"Embassy Hill foi uma equipe de F\u00F3rmula 1 criada pelo bicampe\u00E3o do mundo Graham Hill. Disputou tr\u00EAs temporadas entre 1973 e 1975, e teve como melhor resultado um quinto lugar no GP da Alemanha de 1975 em N\u00FCrburgring, com o australiano Alan Jones."@pt ,
+		"Embassy Hill \u2013 brytyjski zesp\u00F3\u0142 wy\u015Bcigowy Formu\u0142y 1 za\u0142o\u017Cony przez dwukrotnego mistrza \u015Bwiata Grahama Hilla. Zesp\u00F3\u0142 startowa\u0142 w latach 1973-1975. Po sezonie 1972 niezadowolony z atmosfery w zespole Brabham Graham Hill postanowi\u0142 z niego odej\u015B\u0107 i za\u0142o\u017Cy\u0107 w\u0142asny zesp\u00F3\u0142. Po znalezieniu sponsora, kt\u00F3rym sta\u0142a si\u0119 marka Embassy, zakupiono nadwozie od Shadow i team m\u00F3g\u0142 wystartowa\u0107 do sezonu 1973. Jedynym kierowc\u0105 w zespole by\u0142 Graham Hill. Najlepszym miejscem zaj\u0119tym w tym sezonie by\u0142a 9., niepunktowana lokata na torze Zolder zdobyta przez Hilla, kt\u00F3ry wystartowa\u0142 do wy\u015Bcigu z ostatniego \u2013 23. miejsca."@pl ,
+		"Embassy Hill was a short-lived Formula One team started by the two-time Formula One world-champion Graham Hill, racing as a constructor with its own chassis in 1975. The team debuted in 1973 and had limited success in three seasons of racing, but everything was cut short by the death of Hill, Tony Brise and some of the team's top personnel in the crash of a light aircraft in the autumn before the 1976 season. The team was sponsored by Imperial Tobacco's Embassy cigarette brand and ran under various names during its time."@en .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Embassy_Hill	owl:sameAs	dbpedia-nl:Embassy_Hill .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Embassy_Hill	owl:sameAs	yago-res:Embassy_Hill .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Embassy_Hill	owl:sameAs	dbpedia-it:Embassy_Hill ,
+		<http://ja.dbpedia.org/resource/\u30A8\u30F3\u30D0\u30B7\u30FC\u30FB\u30D2\u30EB> ,
+		dbr:Embassy_Hill .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Embassy_Hill	owl:sameAs	dbpedia-pl:Embassy_Hill .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Embassy_Hill	owl:sameAs	dbpedia-de:Embassy_Hill ,
+		wikidata:Q173301 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Embassy_Hill	owl:sameAs	dbpedia-fr:Embassy-Hill .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Embassy_Hill	owl:sameAs	dbpedia-wikidata:Q173301 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Embassy_Hill	owl:sameAs	dbpedia-pt:Embassy_Hill ,
+		<http://rdf.freebase.com/ns/m.06rwcf> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Embassy_Hill	dct:subject	dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ;
+	foaf:name	"Embassy Racing With Graham Hill"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Embassy_Hill .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Embassy_Hill	dbp:races	11 ,
+		41 ;
+	dbp:founders	"Graham Hill"^^xsd:string ;
+	dbp:debut	1975 ,
+		1973 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Rolf Stommelen"^^xsd:string ,
+		"Tony Brise"^^xsd:string ,
+		"Graham Hill"^^xsd:string ,
+		"Alan Jones"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:shortName	"Hill"^^xsd:string ,
+		"Embassy Racing With Graham Hill"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Embassy_Hill	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Embassy_Hill?oldid=742608394> ;
+	dbp:caption	"Hill's  Shadow DN1 being demonstrated at the 2008 Goodwood Festival of Speed."^^xsd:string ,
+		"The Lola T370 of the 1974 season displayed at Haynes International Motor Museum"^^xsd:string ,
+		"The Hill GH2"^^xsd:string ,
+		dbr:Graham_Hill ,
+		"Hill driving the Lola T370 at the 1974 British Grand Prix"^^xsd:string ;
+	dbp:align	"center"^^xsd:string ;
+	dbp:image	"Shadow DN1  2008 Goodwood.jpg"^^xsd:string ,
+		"Graham Hill 1974 British GP.jpg"^^xsd:string ,
+		"HillGraham1966Aug.jpg"^^xsd:string ,
+		119 ,
+		"Haynes International Motor Museum - IMG 1496 - Flickr - Adam Woodford.jpg"^^xsd:string ;
+	dbp:base	dbr:United_Kingdom ;
+	dbp:entrants	"Embassy Hill"^^xsd:string ;
+	dbp:constructors	dbr:Ford_Motor_Company ,
+		dbr:Shadow_Racing_Cars ,
+		dbr:Graham_Hill ,
+		dbr:Lola_Cars ;
+	dbo:abstract	"Embassy Hill foi uma equipe de F\u00F3rmula 1 criada pelo bicampe\u00E3o do mundo Graham Hill. Disputou tr\u00EAs temporadas entre 1973 e 1975, e teve como melhor resultado um quinto lugar no GP da Alemanha de 1975 em N\u00FCrburgring, com o australiano Alan Jones."@pt ,
+		"\u30A8\u30F3\u30D0\u30B7\u30FC\u30FB\u30D2\u30EB\uFF08Embassy Hill \uFF09\u306F\u30011962\u5E74\u30681968\u5E74\u306E\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308B\u30B0\u30E9\u30CF\u30E0\u30FB\u30D2\u30EB\u304C\u8A2D\u7ACB\u3057\u30011973\u5E74\u304B\u30891975\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u306A\u304A\u6700\u521D\u306E2\u5E74\u9593\u306F\u30B7\u30E3\u30B7\u30FC\u3092\u8CFC\u5165\u3057\u3066\u53C2\u6226\u3057\u3066\u3044\u305F\u305F\u3081\u3001\u300C\u30D2\u30EB\u300D\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u540D\u3067\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306F1975\u5E74\u306E\u307F\u3067\u3042\u3063\u305F\u3002"@ja ,
+		"\u042D\u043C\u0431\u0430\u0441\u0441\u0438 \u0425\u0438\u043B\u043B (\u0430\u043D\u0433\u043B. Embassy Hill) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u043C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u043C\u0438\u0440\u0430 \u0413\u0440\u044D\u043C\u043E\u043C \u0425\u0438\u043B\u043B\u043E\u043C. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u0432 \u0432 1973 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0441\u0442\u0430\u043B\u0430 \u043F\u043E\u043B\u043D\u043E\u0446\u0435\u043D\u043D\u044B\u043C \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u043C \u0448\u0430\u0441\u0441\u0438 \u0432 1975 \u0433\u043E\u0434\u0443 \u2014 \u0433\u043E\u0434\u0443, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u043F\u043E\u0433\u0438\u0431 \u0441\u0430\u043C \u0425\u0438\u043B\u043B \u0438 \u0435\u0449\u0451 5 \u0447\u043B\u0435\u043D\u043E\u0432 \u0435\u0433\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u044B."@ru ,
+		"Embassy Hill \u2013 brytyjski zesp\u00F3\u0142 wy\u015Bcigowy Formu\u0142y 1 za\u0142o\u017Cony przez dwukrotnego mistrza \u015Bwiata Grahama Hilla. Zesp\u00F3\u0142 startowa\u0142 w latach 1973-1975. Po sezonie 1972 niezadowolony z atmosfery w zespole Brabham Graham Hill postanowi\u0142 z niego odej\u015B\u0107 i za\u0142o\u017Cy\u0107 w\u0142asny zesp\u00F3\u0142. Po znalezieniu sponsora, kt\u00F3rym sta\u0142a si\u0119 marka Embassy, zakupiono nadwozie od Shadow i team m\u00F3g\u0142 wystartowa\u0107 do sezonu 1973. Jedynym kierowc\u0105 w zespole by\u0142 Graham Hill. Najlepszym miejscem zaj\u0119tym w tym sezonie by\u0142a 9., niepunktowana lokata na torze Zolder zdobyta przez Hilla, kt\u00F3ry wystartowa\u0142 do wy\u015Bcigu z ostatniego \u2013 23. miejsca. Nadwozie w 1974 roku kupiono od Lola. Graham Hill zdoby\u0142 pierwszy w historii start\u00F3w i ostatni w tym sezonie punkt podczas GP Szwecji. Za kierownic\u0105 Embassy pojawili si\u0119 r\u00F3wnie\u017C Rolf Stommelen, Guy Edwards i Peter Gethin. W sezonie 1975 Embassy zadebiutowa\u0142 z w\u0142asnym nadwoziem zaprojektowanym przez Alana Smallmana (kt\u00F3ry wzorowa\u0142 si\u0119 na projekcie samochodu Loli z poprzedniego sezonu). Podczas Grand Prix Hiszpanii bolid GH1 prowadzony przez Rolfa Stommelena nagle uderzy\u0142 w t\u0142um kibic\u00F3w po tym, jak tylne skrzyd\u0142o urwa\u0142o si\u0119 od samochodu. Zgin\u0119\u0142y 4 osoby. Dwa wy\u015Bcigi p\u00F3\u017Aniej Tony Brise zdoby\u0142 punkt zajmuj\u0105c 6. miejsce podczas GP Szwecji. Dla zespo\u0142u punktowa\u0142 tak\u017Ce Alan Jones, kt\u00F3ry zaj\u0105\u0142 5. miejsce w Niemczech."@pl ,
+		"L'Embassy Hill \u00E8 stata un costruttore britannico di Formula 1. Scuderia fondata dal bicampione del mondo Graham Hill si iscrisse per la prima volta al campionato 1973 con il nome Embassy Racing utilizzando una Shadow e, l'anno successivo una Lola derivata dalla formula 5000, facendo segnare anche un punto nel Gran Premio di Svezia (punto assegnato al costruttore Lola). Nella stagione 1975 fece debuttare una vettura di sua costruzione, anche se derivata da il modello Lola T370, al Gran premio del Sud Africa con Rolf Stommelen che chiuse settimo. Il debutto ufficiale della Embassy Racing with Graham Hill con una propria vettura, denominata GH1, si ebbe nel successivo Gran Premio di Spagna dove gareggiarono per il team Fran\u00E7ois Migault e Rolf Stommelen. Proprio quando il pilota tedesco era in testa al Gran Premio, la perdita dell'alettone provoc\u00F2 la sua uscita di pista con l'uccisione di quattro spettatori. Nel Gran premio di Montecarlo proprio Graham Hill tent\u00F2 di qualificarsi, ma senza fortuna. Questo gli fece prendere la decisione di ritirarsi dall'attivit\u00E0 di pilota, per concentrarsi sulla gestione della squadra. Sostituito Stommelen con Tony Brise (pupillo di Hill), la scuderia riusc\u00EC ad ottenere i suoi primi punti iridati al Gran Premio di Svezia proprio con Brise che arriv\u00F2 sesto. Successivamente, il futuro campione del mondo Alan Jones, conquist\u00F2 un ottimo quinto posto nel Gran Premio di Germania disputato al N\u00FCrburgring. L'incidente aereo in cui mor\u00EC Graham Hill, assieme al pilota Tony Brise, determin\u00F2 la chiusura della scuderia."@it ,
+		"Hill respektive Embassy Hill war ein britisches Formel-1-Team, das von dem zweimaligen Formel-1-Fahrerweltmeister Graham Hill gegr\u00FCndet und vom britischen Tabakkonzern W.D. & H.O. Wills f\u00FCr die Zigarettenmarke Embassy gesponsert wurde. Das Team war f\u00FCr elf Rennen in der Saison 1975 gemeldet und konnte sich in zehn Rennen mit insgesamt 19 Rennwagen-Starts qualifizieren. Fahrer im Team von Graham Hill waren Rolf Stommelen, Fran\u00E7ois Migault, Tony Brise, Vern Schuppan und Alan Jones. Zuvor war das Team bereits in den Jahren 1973 und 1974 als Shadow- beziehungsweise Lola-Kundenteam in Erscheinung getreten. Ende November 1975 st\u00FCrzte die Piper Aztec, die sich Teamchef Hill von seiner Siegpr\u00E4mie f\u00FCr das Indy 500 1966 gekauft hatte, beim Anflug auf den Flughafen Elstree in dichtem Nebel \u00FCber der Ortschaft Arkley in Hertfordshire ab. Neben Hill kamen f\u00FCnf weitere Mitglieder des Embassy-Hill-Teams dabei ums Leben, unter ihnen Tony Brise, damals eine gro\u00DFe britische Formel-1-Hoffnung. Der Unfall bedeutete auch das Ende f\u00FCr den Rennstall."@de ,
+		"Embassy Hill was een Formule 1-team van 1973 tot en met 1975, geleid door tweevoudig Formule 1-kampioen Graham Hill. Embassy Racing With Graham Hill zag het levenslicht in 1973 toen Graham Hill de auto's kocht van het Shadow Racing Cars team. Voor het seizoen van 1974 kocht het team de chassis van Lola. Nadat Graham Hill zich niet wist te kwalificeren voor de Grand Prix van Monaco in 1975 besloot hij andere coureurs aan het stuur te zetten. Het waren toen Alan Jones en Tony Brise. Ze scoorde een vijfde plek tijdens de Grand Prix van Duitsland en een zesde plek tijdens de Grand Prix van Zweden. Dat jaar kwamen ook Fran\u00E7ois Migault en Vern Schuppan achter het stuur te zitten. Op een mistige ochtend in 1975 vloog Graham Hill en de rest van de team top naar Engeland. Het vliegtuig crashte en alle inzittenden kwamen om, ook Graham Hill. Omdat er geen leiding meer was in het team, hield het team op te bestaan. Een deel van de inventaris van Embassy werd voor vijftigduizend gulden gekocht door de Nederlandse broers Rody en Bob Hoogenboom, die met hun HB Bewaking een jaar actief zijn in de Formule 1 . Met de spullen van Embassy en een chassis van Ensign (de N175), overgehouden aan een ruzie met Ensign-eigenaar Mo Nunn, beginnen ze een eigen formule 1 team- BoRo. Onder de spullen die ze overnemen zitten onder meer kwalificatiebanden die niet voldoen aan de regels"@nl ,
+		"Embassy Hill was a short-lived Formula One team started by the two-time Formula One world-champion Graham Hill, racing as a constructor with its own chassis in 1975. The team debuted in 1973 and had limited success in three seasons of racing, but everything was cut short by the death of Hill, Tony Brise and some of the team's top personnel in the crash of a light aircraft in the autumn before the 1976 season. The team was sponsored by Imperial Tobacco's Embassy cigarette brand and ran under various names during its time."@en ,
+		"Embassy-Hill (ou plus exactement Embassy Racing With Graham Hill) est une ancienne \u00E9curie de Formule 1, qui a particip\u00E9 au championnat du monde entre 1973 et 1975. L'\u00E9quipe a disput\u00E9 38 GP et inscrit un total de 4 points. Le meilleur r\u00E9sultat en course de l'\u00E9curie est une 5e place obtenue par Alan Jones au GP d'Allemagne au N\u00FCrburgring 1975."@fr ;
+	dbo:wikiPageRevisionID	742608394 ;
+	dbo:wikiPageID	2167517 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Embassy_Hill	ns23:hypernym	dbr:Team ;
+	dbp:width	275 ,
+		122 ,
+		120 ,
+		243 ;
+	dbp:direction	"horizontal"^^xsd:string ;
+	dbp:lastRace	1975 ;
+	dbp:finalRace	1975 .
+dbr:Hill_GH1	dbp:team	dbr:Embassy_Hill ;
+	dbp:constructor	dbr:Embassy_Hill .
+dbr:Lola_T370	dbp:team	dbr:Embassy_Hill .
+dbr:Rolf_Stommelen	<http://dbpedia.org/property/team(s)_>	dbr:Embassy_Hill .
+dbr:Tony_Brise	<http://dbpedia.org/property/team(s)_>	dbr:Embassy_Hill .
+dbr:Shadow_DN1	dbp:team	dbr:Embassy_Hill .
+<http://dbpedia.org/resource/Hill_(constructor)>	dbo:wikiPageRedirects	dbr:Embassy_Hill .

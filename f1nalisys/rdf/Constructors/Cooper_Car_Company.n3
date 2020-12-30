@@ -1,0 +1,415 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Harry_Schell	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Charles_Cooper_(motor_manufacturer)>	dbp:organization	dbr:Cooper_Car_Company .
+dbr:Cooper_T81	dbp:team	dbr:Cooper_Car_Company ;
+	dbp:constructor	dbr:Cooper_Car_Company .
+dbr:Zerex_Special	dbp:constructor	dbr:Cooper_Car_Company .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Cooper_Motor_Corporation	owl:differentFrom	dbr:Cooper_Car_Company .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1968_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Flugplatzrennen>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_VII_South_African_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1951__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1954__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1955__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1955__2	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1956__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1957__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1958__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1959__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1960__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1961__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Cooper_Car_Company	rdf:type	yago:Organism100004475 ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Cooper_Car_Company	rdf:type	ns6:Agent ,
+		yago:WikicatFormulaTwoConstructors ,
+		ns6:SocialPerson ,
+		dbo:SportsTeam ,
+		dbo:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Cooper_Car_Company	rdf:type	schema:Organization ,
+		owl:Thing ,
+		schema:SportsTeam ,
+		dbo:Organisation .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Cooper_Car_Company	rdf:type	wikidata:Q43229 ,
+		dbo:FormulaOneTeam ,
+		wikidata:Q24229398 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Cooper_Car_Company	rdfs:label	"Cooper Car Company"@es ,
+		"Cooper Car Company"@it ,
+		"Cooper Car Company"@nl ,
+		"\u041A\u0443\u043F\u0435\u0440 (\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430)"@ru ,
+		"\u30AF\u30FC\u30D1\u30FC\u30FB\u30AB\u30FC\u30FB\u30AB\u30F3\u30D1\u30CB\u30FC"@ja ,
+		"\u5EAB\u73C0\u6C7D\u8ECA\u516C\u53F8"@zh ,
+		"Cooper Car Company"@pt ,
+		"Cooper Car Company"@pl ,
+		"Cooper Car Company"@fr ,
+		"Cooper Car Company"@en ,
+		"Cooper Car Company"@de ;
+	rdfs:comment	"A Cooper Car Company \u00E9 uma equipe brit\u00E2nica de automobilismo que competiu no campeonato da F\u00F3rmula 1. Seus carros eram os mais leves da \u00E9poca. A equipe conquistou os campeonatos de 1959 e 1960, com o lend\u00E1rio piloto australiano Jack Brabham. A Equipe somou 129 GP's disputados, a estr\u00E9ia foi no GP de M\u00F4naco / Montecarlo onde conseguiu dar nenhuma volta por causa do acidente com os carros da Talbot Lago e Gordini. A sua \u00FAltima corrida foi em 1969 no GP de M\u00F4naco / Montecarlo onde o \u00FAnico piloto da equipe na pista Vic Elford ficou em 7\u00BA Lugar."@pt ,
+		"The Cooper Car Company was founded in December 1947 by Charles Cooper and his son John Cooper. Together with John's boyhood friend, Eric Brandon, they began by building racing cars in Charles' small garage in Surbiton, Surrey, UK in 1946. Through the 1950s and early 1960s, they reached motor racing's highest levels as their rear-engined, single-seat cars altered the face of Formula One and the Indianapolis 500, and their Mini Cooper dominated rally racing. Due in part to Cooper's legacy, Britain remains the home of a thriving racing industry, and the Cooper name lives on in the Cooper versions of the Mini production cars that are still built in England, but are now owned and marketed by BMW."@en ,
+		"Cooper Car Company est une \u00E9curie de course automobile fond\u00E9e par Charles et John Cooper. Charles a commenc\u00E9 \u00E0 construire des monoplaces de course dans un petit garage de Surbiton dans le Surrey avant que son fils ne le rejoigne pour fonder leur officine en 1953. Cooper, en tant qu'\u00E9curie officielle, a particip\u00E9 notamment \u00E0 115 Grands Prix de Formule 1 entre 1953 et 1968 et remport\u00E9 le championnat du monde des constructeurs en 1959 et 1960, permettant, ces deux ann\u00E9es, au pilote Jack Brabham de remporter le championnat du monde des pilotes."@fr ,
+		"\u30AF\u30FC\u30D1\u30FC\u30FB\u30AB\u30FC\u30FB\u30AB\u30F3\u30D1\u30CB\u30FC\uFF08Cooper Car Company \uFF09\u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002F1\u306E1959\u5E74\u30011960\u5E74\u5EA6\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002F2\u3001F3\u306A\u3069\u306E\u4E0B\u90E8\u30AB\u30C6\u30B4\u30EA\u30FC\u3067\u3082\u597D\u6210\u7E3E\u3092\u53CE\u3081\u305F\u3002"@ja ,
+		"\u5EAB\u73C0\u6C7D\u8ECA\u516C\u53F8\uFF08\u82F1\u8BED\uFF1ACooper Car Company\uFF09\u7531\u67E5\u723E\u65AF\u00B7\u5EAB\u73C0\u548C\u4ED6\u7684\u5152\u5B50\u7D04\u7FF0\u00B7\u5EAB\u73C0\u6210\u7ACB\u65BC1946\u5E74\u3002\u8D77\u521D\u8207\u7D04\u7FF0\u7684\u5152\u6642\u73A9\u4F34\u57C3\u91CC\u514B\u00B7\u5E03\u862D\u767B\u4E00\u8D77\u5728\u67E5\u723E\u65AF\u4F4D\u65BC\u82F1\u683C\u862D\u85A9\u91CC\u90E1\u8607\u5225\u9813\u7684\u5C0F\u8ECA\u5EAB\u88E1\u5EFA\u9020\u8CFD\u8ECA\u30021950\u5E74\u4EE3\u52301960\u5E74\u4EE3\u65E9\u671F\uFF0C\u4ED6\u5011\u56E0\u4ED6\u5011\u7684\u5F8C\u7F6E\u5F15\u64CE\u800C\u63A5\u89F8\u4E86\u8CFD\u8ECA\u754C\u7684\u6700\u9AD8\u6C34\u5E73\u7684\u8CFD\u4E8B\uFF0C\u6539\u8B8A\u4E86\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u548C\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF500\u7684\u55AE\u4EBA\u5EA7\u8CFD\u8ECA\u9762\u8C8C\uFF0C\u800C\u4ED6\u5011\u7684\u8FF7\u4F60\u5EAB\u73C0\u66F4\u662F\u7A31\u9738\u65BC\u62C9\u529B\u8CFD\u3002\u82F1\u570B\u73FE\u5728\u4ECD\u662F\u4E00\u500B\u8208\u65FA\u767C\u9054\u7684\u8CFD\u8ECA\u5DE5\u696D\u570B\u5BB6\uFF0C\u4E00\u90E8\u4EFD\u8981\u6B78\u529F\u65BC\u5EAB\u73C0\u7684\u958B\u5275\u5148\u92D2\uFF0C\u800C\u5EAB\u73C0\u9019\u500B\u540D\u5B57\u4ECD\u7136\u5B58\u5728\u65BC\u73FE\u5728\u65BC\u82F1\u683C\u862D\u751F\u7522\u7684\u8FF7\u4F60\u5EAB\u73C0\u7248\u6C7D\u8ECA\u4E2D\uFF0C\u53EA\u4E0D\u904E\u73FE\u5728\u6B78\u5C6C\u65BC\u5BF6\u99AC\uFF0C\u4E14\u7531\u4ED6\u5011\u92B7\u552E\u3002"@zh ,
+		"Cooper Car Company \u00E8 stato un team britannico di Formula 1, vincitore di 17 Gran Premi. La casa fu fondata da Charles Cooper e dal figlio John. Il suo pi\u00F9 grande pilota fu Jack Brabham, che vinse il titolo riservato ai conduttori nel 1959, ripetendosi anche l'anno dopo in maniera ancor pi\u00F9 netta. La Cooper fu anche Campione del Mondo Costruttori nel 1959 e nel 1960. La scuderia britannica non riesce a rimanere al vertice ed imbocca la strada del declino, che inizia con la partenza di Brabham, intenzionato a creare una squadra con il suo nome. Malgrado le dimensioni minuscole, la squadra cerca di mantenersi a galla con giovani promesse quali Bruce McLaren e Pedro Rodr\u00EDguez. Emblematico il Gran Premio di Monaco 1962: la Cooper si presenta con due piloti, due macchine e letteralmente due mecc"@it ,
+		"Cooper ist ein britischer Rennwagenhersteller, der in den 1950er und 1960er Jahren mit eigenen Werksteams in diversen Motorsportklassen vertreten war. Cooper trat in der Formel Junior, der Formel 3, bei den 500 Meilen von Indianapolis, bei den 24-Stunden-Rennen von Le Mans sowie in der Formel 1 an. Daneben lieferte das Unternehmen regelm\u00E4\u00DFig auch Fahrzeuge f\u00FCr Kundenteams. Zeitweise geh\u00F6rte Cooper zu den erfolgreichsten Formel-1-Teams. Jack Brabham, Bruce McLaren und Jochen Rindt fuhren auf Coopers Werkswagen Erfolge ein. Bekannt ist das Unternehmen au\u00DFerdem durch den Mini Cooper."@de ,
+		"La Cooper Car Company fue fundada en 1947 por Charles Cooper y su hijo John Cooper. Juntos, comenzaron construyendo autos en el peque\u00F1o garaje de Charles en Surbiton, Surrey, Inglaterra en 1947. Para finales de los 50s y principios de los 60s, alcanzaron los m\u00E1s altos niveles de las carreras automovil\u00EDsticas, mientras sus carros de motor trasero y un solo asiento cambiaban la faz de la F\u00F3rmula 1 y el Indian\u00E1polis 500, y sus sedanes dominaban los rallies. Gracias en parte al legado de los Cooper, el Reino Unido sigue siendo hogar de una industria automovil\u00EDstica competitiva exitosa, y el nombre de Cooper vive en el Mini actual, construido en Inglaterra por BMW."@es ,
+		"Cooper \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1946 \u0433\u043E\u0434\u0443 \u0427\u0430\u0440\u043B\u044C\u0437\u043E\u043C \u041A\u0443\u043F\u0435\u0440\u043E\u043C \u0438 \u0435\u0433\u043E \u0441\u044B\u043D\u043E\u043C \u0414\u0436\u043E\u043D\u043E\u043C. \u0412\u043C\u0435\u0441\u0442\u0435 \u0441 \u0434\u0440\u0443\u0433\u043E\u043C \u0434\u0435\u0442\u0441\u0442\u0432\u0430 \u0414\u0436\u043E\u043D\u0430 \u042D\u0440\u0438\u043A\u043E\u043C \u0411\u0440\u044D\u043D\u0434\u043E\u043D\u043E\u043C \u043E\u043D\u0438 \u043D\u0430\u0447\u0430\u043B\u0438 \u0441\u0442\u0440\u043E\u0438\u0442\u044C \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0438 \u0432 \u043C\u0430\u043B\u0435\u043D\u044C\u043A\u043E\u043C \u0433\u0430\u0440\u0430\u0436\u0435 \u0427\u0430\u0440\u043B\u044C\u0437\u0430 \u0432 \u0421\u0435\u0440\u0431\u0438\u0442\u043E\u043D\u0435 \u0432 1946 \u0433\u043E\u0434\u0443. \u041D\u0430 \u043F\u0440\u043E\u0442\u044F\u0436\u0435\u043D\u0438\u0438 50-\u0445 \u0438 \u0440\u0430\u043D\u043D\u0438\u0445 60-\u0445 \u0433\u043E\u0434\u043E\u0432 \u0438\u0445 \u0431\u043E\u043B\u0438\u0434 \u0441 \u0437\u0430\u0434\u043D\u0438\u043C \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435\u043C \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044F \u0438\u0437\u043C\u0435\u043D\u0438\u043B \u043B\u0438\u0446\u043E \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"De Cooper Car Company was een Engelse autofabrikant. Het bedrijf werd opgericht in 1947 door Charles Cooper en zijn zoon John Cooper. Ze begonnen samen met het bouwen van raceauto's in Charles' kleine garage in Surbiton, Surrey, Engeland. In de late jaren vijftig en begin jaren zestig haalde Cooper grote successen in de Formule 1 en Indianapolis 500, waaronder de F1-wereldtitel met Jack Brabham in 1959 en 1960. Betere balancering van de Coopers door de plaatsing van de motor achterin in plaats van voorin, zorgde ervoor dat deze constructie in de Formule 1 de maatstaf werd. De laatste Formule-Coopers verdwenen in 1968 (Cooper T86) bij gebrek aan succes van het F1-toneel; de laatste overwinning van het merk was tijdens de GP van Zuid-Afrika in 1967."@nl ,
+		"Cooper Car Company \u2013 brytyjska firma samochodowa, za\u0142o\u017Cona w 1946 roku przez Charlesa Coopera i jego syna Johna. W wy\u015Bcigach Formu\u0142y 1, Cooper zwyci\u0119\u017Ca\u0142 16 razy w tym 2 w mistrzostwach konstruktor\u00F3w. Swoje pierwsze zwyci\u0119stwo zanotowa\u0142 w 1958 roku podczas Grand Prix Argentyny, a ostatnie w 1967 roku w Grand Prix RPA. Kierowcy, kt\u00F3rzy je\u017Adzili dla tej stajni to m.in. Stirling Moss, Jack Brabham, Masten Gregory i Pedro Rodr\u00EDguez. W 1968 roku zesp\u00F3\u0142 wycofa\u0142 si\u0119 z wy\u015Bcig\u00F3w."@pl .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	dbpedia-pl:Cooper_Car_Company ,
+		wikidata:Q173003 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	dbpedia-nl:Cooper_Car_Company .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	dbpedia-id:Cooper_Car_Company .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	dbpedia-de:Cooper_Car_Company ,
+		<http://ja.dbpedia.org/resource/\u30AF\u30FC\u30D1\u30FC\u30FB\u30AB\u30FC\u30FB\u30AB\u30F3\u30D1\u30CB\u30FC> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	dbpedia-it:Cooper_Car_Company .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	dbpedia-fr:Cooper_Car_Company .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	dbpedia-es:Cooper_Car_Company .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	yago-res:Cooper_Car_Company .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	dbpedia-wikidata:Q173003 ,
+		<http://rdf.freebase.com/ns/m.02k8zp> ,
+		dbr:Cooper_Car_Company .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Cooper_Car_Company	owl:sameAs	dbpedia-pt:Cooper_Car_Company .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Cooper_Car_Company	dct:subject	dbc:Motor_vehicle_manufacturers_of_the_United_Kingdom ,
+		dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_Two_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Cooper_Car_Company	foaf:name	"Cooper Car Company"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Cooper_Mk9_JAP.jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Cooper_Car_Company	foaf:isPrimaryTopicOf	wikipedia-en:Cooper_Car_Company ;
+	dbp:races	129 ;
+	dbp:founders	"John Cooper"^^xsd:string ,
+		<http://dbpedia.org/resource/Charles_Cooper_(motor_manufacturer)> ;
+	dbp:debut	1950 ;
+	dbp:years	"-"^^xsd:string ;
+	dbp:after	dbr:Scuderia_Ferrari ;
+	dbp:wins	16 ;
+	dbp:consChamp	2 ;
+	dbp:drivers	"Bruce McLaren"^^xsd:string ,
+		"Stirling Moss"^^xsd:string ,
+		"Jack Brabham"^^xsd:string ,
+		"John Surtees"^^xsd:string ,
+		"Maurice Trintignant"^^xsd:string ,
+		"Pedro Rodr\u00EDguez"^^xsd:string ,
+		"Jochen Rindt"^^xsd:string ;
+	dbp:driversChamp	2 ;
+	dbp:fastestLaps	14 ;
+	dbp:poles	11 ;
+	dbp:shortName	"Cooper"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Cooper_Car_Company	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Cooper_Car_Company?oldid=744800352> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/ft/ftdt019.html> ,
+		<http://www.johncooper.co.uk/> ,
+		<http://www.atlasf1.com/2001/jan10/horton.html> ,
+		<http://www.500race.org/Marques/Cooper.htm> ,
+		<http://www.race-cars.com/utility/cooperr.htm> ;
+	dbp:base	"Surbiton, Surrey, United Kingdom"^^xsd:string ;
+	dbp:before	dbr:Vanwall ;
+	dbo:abstract	"La Cooper Car Company fue fundada en 1947 por Charles Cooper y su hijo John Cooper. Juntos, comenzaron construyendo autos en el peque\u00F1o garaje de Charles en Surbiton, Surrey, Inglaterra en 1947. Para finales de los 50s y principios de los 60s, alcanzaron los m\u00E1s altos niveles de las carreras automovil\u00EDsticas, mientras sus carros de motor trasero y un solo asiento cambiaban la faz de la F\u00F3rmula 1 y el Indian\u00E1polis 500, y sus sedanes dominaban los rallies. Gracias en parte al legado de los Cooper, el Reino Unido sigue siendo hogar de una industria automovil\u00EDstica competitiva exitosa, y el nombre de Cooper vive en el Mini actual, construido en Inglaterra por BMW."@es ,
+		"Cooper Car Company \u2013 brytyjska firma samochodowa, za\u0142o\u017Cona w 1946 roku przez Charlesa Coopera i jego syna Johna. W wy\u015Bcigach Formu\u0142y 1, Cooper zwyci\u0119\u017Ca\u0142 16 razy w tym 2 w mistrzostwach konstruktor\u00F3w. Swoje pierwsze zwyci\u0119stwo zanotowa\u0142 w 1958 roku podczas Grand Prix Argentyny, a ostatnie w 1967 roku w Grand Prix RPA. Kierowcy, kt\u00F3rzy je\u017Adzili dla tej stajni to m.in. Stirling Moss, Jack Brabham, Masten Gregory i Pedro Rodr\u00EDguez. W 1968 roku zesp\u00F3\u0142 wycofa\u0142 si\u0119 z wy\u015Bcig\u00F3w."@pl ,
+		"\u5EAB\u73C0\u6C7D\u8ECA\u516C\u53F8\uFF08\u82F1\u8BED\uFF1ACooper Car Company\uFF09\u7531\u67E5\u723E\u65AF\u00B7\u5EAB\u73C0\u548C\u4ED6\u7684\u5152\u5B50\u7D04\u7FF0\u00B7\u5EAB\u73C0\u6210\u7ACB\u65BC1946\u5E74\u3002\u8D77\u521D\u8207\u7D04\u7FF0\u7684\u5152\u6642\u73A9\u4F34\u57C3\u91CC\u514B\u00B7\u5E03\u862D\u767B\u4E00\u8D77\u5728\u67E5\u723E\u65AF\u4F4D\u65BC\u82F1\u683C\u862D\u85A9\u91CC\u90E1\u8607\u5225\u9813\u7684\u5C0F\u8ECA\u5EAB\u88E1\u5EFA\u9020\u8CFD\u8ECA\u30021950\u5E74\u4EE3\u52301960\u5E74\u4EE3\u65E9\u671F\uFF0C\u4ED6\u5011\u56E0\u4ED6\u5011\u7684\u5F8C\u7F6E\u5F15\u64CE\u800C\u63A5\u89F8\u4E86\u8CFD\u8ECA\u754C\u7684\u6700\u9AD8\u6C34\u5E73\u7684\u8CFD\u4E8B\uFF0C\u6539\u8B8A\u4E86\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u548C\u5370\u7B2C\u5B89\u7D0D\u6CE2\u5229\u65AF500\u7684\u55AE\u4EBA\u5EA7\u8CFD\u8ECA\u9762\u8C8C\uFF0C\u800C\u4ED6\u5011\u7684\u8FF7\u4F60\u5EAB\u73C0\u66F4\u662F\u7A31\u9738\u65BC\u62C9\u529B\u8CFD\u3002\u82F1\u570B\u73FE\u5728\u4ECD\u662F\u4E00\u500B\u8208\u65FA\u767C\u9054\u7684\u8CFD\u8ECA\u5DE5\u696D\u570B\u5BB6\uFF0C\u4E00\u90E8\u4EFD\u8981\u6B78\u529F\u65BC\u5EAB\u73C0\u7684\u958B\u5275\u5148\u92D2\uFF0C\u800C\u5EAB\u73C0\u9019\u500B\u540D\u5B57\u4ECD\u7136\u5B58\u5728\u65BC\u73FE\u5728\u65BC\u82F1\u683C\u862D\u751F\u7522\u7684\u8FF7\u4F60\u5EAB\u73C0\u7248\u6C7D\u8ECA\u4E2D\uFF0C\u53EA\u4E0D\u904E\u73FE\u5728\u6B78\u5C6C\u65BC\u5BF6\u99AC\uFF0C\u4E14\u7531\u4ED6\u5011\u92B7\u552E\u3002"@zh ,
+		"\u30AF\u30FC\u30D1\u30FC\u30FB\u30AB\u30FC\u30FB\u30AB\u30F3\u30D1\u30CB\u30FC\uFF08Cooper Car Company \uFF09\u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3002F1\u306E1959\u5E74\u30011960\u5E74\u5EA6\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002F2\u3001F3\u306A\u3069\u306E\u4E0B\u90E8\u30AB\u30C6\u30B4\u30EA\u30FC\u3067\u3082\u597D\u6210\u7E3E\u3092\u53CE\u3081\u305F\u3002"@ja ,
+		"Cooper Car Company \u00E8 stato un team britannico di Formula 1, vincitore di 17 Gran Premi. La casa fu fondata da Charles Cooper e dal figlio John. Il suo pi\u00F9 grande pilota fu Jack Brabham, che vinse il titolo riservato ai conduttori nel 1959, ripetendosi anche l'anno dopo in maniera ancor pi\u00F9 netta. La Cooper fu anche Campione del Mondo Costruttori nel 1959 e nel 1960. La scuderia britannica non riesce a rimanere al vertice ed imbocca la strada del declino, che inizia con la partenza di Brabham, intenzionato a creare una squadra con il suo nome. Malgrado le dimensioni minuscole, la squadra cerca di mantenersi a galla con giovani promesse quali Bruce McLaren e Pedro Rodr\u00EDguez. Emblematico il Gran Premio di Monaco 1962: la Cooper si presenta con due piloti, due macchine e letteralmente due meccanici ma riesce comunque a vincere la corsa. Nel 1966, con l'avvento del nuovo regolamento che sostituiva i vecchi motori 1500 cm\u00B3 con i pi\u00F9 grossi e potenti 3000 cm\u00B3 la Cooper si lega alla Maserati: \u00E8 una mossa sbagliata perch\u00E9 se da un lato arrivano due vittorie (una con John Surtees nel 1966 e una con Rodriguez l'anno dopo) dall'altro impedisce alla squadra di utilizzare il motore Ford-Cosworth, che dal 1967 inizia a dominare prepotentemente la scena. L'ultimo anno di partecipazione \u00E8 stato il 1969, in cui le Cooper vennero prevalentemente affidate a piloti privati, con scarsi risultati."@it ,
+		"Cooper Car Company est une \u00E9curie de course automobile fond\u00E9e par Charles et John Cooper. Charles a commenc\u00E9 \u00E0 construire des monoplaces de course dans un petit garage de Surbiton dans le Surrey avant que son fils ne le rejoigne pour fonder leur officine en 1953. Cooper, en tant qu'\u00E9curie officielle, a particip\u00E9 notamment \u00E0 115 Grands Prix de Formule 1 entre 1953 et 1968 et remport\u00E9 le championnat du monde des constructeurs en 1959 et 1960, permettant, ces deux ann\u00E9es, au pilote Jack Brabham de remporter le championnat du monde des pilotes. L'\u00E9curie Cooper a inscrit un total de 342 points en championnat, obtenu douze victoires, six pole positions et dix meilleurs tours en course. Les monoplaces Cooper ont \u00E9galement \u00E9t\u00E9 engag\u00E9es par de nombreuses \u00E9curies priv\u00E9es, dont le Rob Walker Racing Team qui a remport\u00E9 quatre victoires en championnat du monde de Formule 1. Au total, les monoplaces Cooper (officielles et priv\u00E9es) ont inscrit 58 podiums, seize victoires, onze pole positions et quatorze meilleurs tours en course."@fr ,
+		"Cooper \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1946 \u0433\u043E\u0434\u0443 \u0427\u0430\u0440\u043B\u044C\u0437\u043E\u043C \u041A\u0443\u043F\u0435\u0440\u043E\u043C \u0438 \u0435\u0433\u043E \u0441\u044B\u043D\u043E\u043C \u0414\u0436\u043E\u043D\u043E\u043C. \u0412\u043C\u0435\u0441\u0442\u0435 \u0441 \u0434\u0440\u0443\u0433\u043E\u043C \u0434\u0435\u0442\u0441\u0442\u0432\u0430 \u0414\u0436\u043E\u043D\u0430 \u042D\u0440\u0438\u043A\u043E\u043C \u0411\u0440\u044D\u043D\u0434\u043E\u043D\u043E\u043C \u043E\u043D\u0438 \u043D\u0430\u0447\u0430\u043B\u0438 \u0441\u0442\u0440\u043E\u0438\u0442\u044C \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0438 \u0432 \u043C\u0430\u043B\u0435\u043D\u044C\u043A\u043E\u043C \u0433\u0430\u0440\u0430\u0436\u0435 \u0427\u0430\u0440\u043B\u044C\u0437\u0430 \u0432 \u0421\u0435\u0440\u0431\u0438\u0442\u043E\u043D\u0435 \u0432 1946 \u0433\u043E\u0434\u0443. \u041D\u0430 \u043F\u0440\u043E\u0442\u044F\u0436\u0435\u043D\u0438\u0438 50-\u0445 \u0438 \u0440\u0430\u043D\u043D\u0438\u0445 60-\u0445 \u0433\u043E\u0434\u043E\u0432 \u0438\u0445 \u0431\u043E\u043B\u0438\u0434 \u0441 \u0437\u0430\u0434\u043D\u0438\u043C \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435\u043C \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044F \u0438\u0437\u043C\u0435\u043D\u0438\u043B \u043B\u0438\u0446\u043E \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"De Cooper Car Company was een Engelse autofabrikant. Het bedrijf werd opgericht in 1947 door Charles Cooper en zijn zoon John Cooper. Ze begonnen samen met het bouwen van raceauto's in Charles' kleine garage in Surbiton, Surrey, Engeland. In de late jaren vijftig en begin jaren zestig haalde Cooper grote successen in de Formule 1 en Indianapolis 500, waaronder de F1-wereldtitel met Jack Brabham in 1959 en 1960. Betere balancering van de Coopers door de plaatsing van de motor achterin in plaats van voorin, zorgde ervoor dat deze constructie in de Formule 1 de maatstaf werd. De laatste Formule-Coopers verdwenen in 1968 (Cooper T86) bij gebrek aan succes van het F1-toneel; de laatste overwinning van het merk was tijdens de GP van Zuid-Afrika in 1967. Cooper heeft er mede toe bijgedragen dat Groot-Brittanni\u00EB tot op de dag van vandaag belangrijk is in en voor de autosport. Grote bekendheid kreeg Cooper natuurlijk door de Mini. Vanaf 1961 tot heden is de naam van Cooper aan de Mini gekoppeld. De eerste auto's gebouwd door Cooper waren eenzitters; kleine 500cc Formule 3-raceauto's gereden door John Cooper en Eric Brandon. Ze werden aangedreven door een JAP-motorfietsmotor. Omdat materialen na de Tweede Wereldoorlog schaars waren, werden de auto's geconstrueerd door twee Fiat Topolinodelen samen te voegen. Omdat de wagen van een motorfietsmotor werd voorzien, dacht men dat het beter uitkwam de motor achter de bestuurder te plaatsen, aangedreven door een ketting."@nl ,
+		"The Cooper Car Company was founded in December 1947 by Charles Cooper and his son John Cooper. Together with John's boyhood friend, Eric Brandon, they began by building racing cars in Charles' small garage in Surbiton, Surrey, UK in 1946. Through the 1950s and early 1960s, they reached motor racing's highest levels as their rear-engined, single-seat cars altered the face of Formula One and the Indianapolis 500, and their Mini Cooper dominated rally racing. Due in part to Cooper's legacy, Britain remains the home of a thriving racing industry, and the Cooper name lives on in the Cooper versions of the Mini production cars that are still built in England, but are now owned and marketed by BMW."@en ,
+		"A Cooper Car Company \u00E9 uma equipe brit\u00E2nica de automobilismo que competiu no campeonato da F\u00F3rmula 1. Seus carros eram os mais leves da \u00E9poca. A equipe conquistou os campeonatos de 1959 e 1960, com o lend\u00E1rio piloto australiano Jack Brabham. A Equipe somou 129 GP's disputados, a estr\u00E9ia foi no GP de M\u00F4naco / Montecarlo onde conseguiu dar nenhuma volta por causa do acidente com os carros da Talbot Lago e Gordini. Em 1958 finalmente a equipe teve sua primeira vit\u00F3ria com o piloto Stirling Moss no primeiro Grande Pr\u00EAmio do ano, o GP da Argentina / Buenos Aires. Sua \u00FAltima vit\u00F3ria fechando a 16\u00BA vit\u00F3ria da equipe na F1 foi no GP da \u00C1frica do Sul / Kyalami em 1967 com o piloto mexicano Pedro Rodr\u00EDguez. A sua \u00FAltima corrida foi em 1969 no GP de M\u00F4naco / Montecarlo onde o \u00FAnico piloto da equipe na pista Vic Elford ficou em 7\u00BA Lugar."@pt ,
+		"Cooper ist ein britischer Rennwagenhersteller, der in den 1950er und 1960er Jahren mit eigenen Werksteams in diversen Motorsportklassen vertreten war. Cooper trat in der Formel Junior, der Formel 3, bei den 500 Meilen von Indianapolis, bei den 24-Stunden-Rennen von Le Mans sowie in der Formel 1 an. Daneben lieferte das Unternehmen regelm\u00E4\u00DFig auch Fahrzeuge f\u00FCr Kundenteams. Zeitweise geh\u00F6rte Cooper zu den erfolgreichsten Formel-1-Teams. Jack Brabham, Bruce McLaren und Jochen Rindt fuhren auf Coopers Werkswagen Erfolge ein. Bekannt ist das Unternehmen au\u00DFerdem durch den Mini Cooper."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Cooper_Mk9_JAP.jpg?width=300> ;
+	dbo:wikiPageRevisionID	744800352 ;
+	dbo:wikiPageID	513463 ;
+	dbp:logo	<http://dbpedia.org/resource/File:Cooper_Car_Company.png> ;
+	dbp:title	<http://dbpedia.org/resource/List_of_Formula_One_World_Constructors\u0027_Champions> ;
+	dbp:lastRace	1969 .
+<http://dbpedia.org/resource/1957_Australian_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1958_Glover_Trophy>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbp:fastTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Naples_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1958_Monaco_Grand_Prix>	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1963_Monaco_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_Italian_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_Belgian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Italian_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1964_Italian_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1966_Belgian_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1967_Syracuse_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1958_Australian_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1958_German_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1963_Italian_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1968_Spanish_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_Monaco_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_Monaco_Grand_Prix>	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1958_Argentine_Grand_Prix>	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_Argentine_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1966_BRDC_International_Trophy>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1967_Race_of_Champions>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_Monaco_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_United_States_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_Dutch_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_Aintree_200>	dbo:secondTeam	dbr:Cooper_Car_Company .
+dbr:Reg_Parnell_Racing	dbp:constructors	dbr:Cooper_Car_Company .
+dbr:Ecurie_Nationale_Belge	dbp:constructors	dbr:Cooper_Car_Company .
+dbr:Melbourne_Grand_Prix_Circuit	dbp:recordTeam	dbr:Cooper_Car_Company .
+dbr:Roy_Salvadori	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Chris_Amon	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/Pedro_Rodr\u00EDguez_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Ludovico_Scarfiotti	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_Australian_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_Australian_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_Australian_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1963_Australian_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1964_Australian_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbp:fastTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1965_Australian_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1955_Cornwall_MRC_Formula_1_Race>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Coppa_Italia>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_French_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_French_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_French_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1963_French_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company .
+dbr:Cooper_Car_Co_Limited	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Bruce_Halford	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Vanwall	dbp:after	dbr:Cooper_Car_Company .
+dbr:Vic_Elford	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Ian_Burgess	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_Crystal_Palace_Trophy>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+dbr:Cooper_T51	dbp:team	dbr:Cooper_Car_Company ;
+	dbp:constructor	dbr:Cooper_Car_Company .
+dbr:Cooper_T86	dbp:team	dbr:Cooper_Car_Company ;
+	dbp:constructor	dbr:Cooper_Car_Company .
+dbr:Gnoo_Blas_Motor_Racing_Circuit	dbp:recordTeam	dbr:Cooper_Car_Company .
+dbr:List_of_British_Formula_Three_champions__1964__1	dbo:manufacturer	dbr:Cooper_Car_Company .
+dbr:Cooper_T62	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_Type_40	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1964_New_Zealand_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_Glover_Trophy>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_Lavant_Cup>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/Cooper_Car_Co.>	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_Type_23	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_Mark_V	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Danish_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1955_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1954_II_Cornwall_MRC_Formula_1_Race>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1954_I_Cornwall_MRC_Formula_1_Race>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1963_Syracuse_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_BRDC_International_Trophy>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1955_Avon_Trophy>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1965_Cape_South_Easter_Trophy>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Lombank_Trophy>	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1958_Caen_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_Glover_Trophy>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_International_Gold_Cup>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Glover_Trophy>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Pau_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_Dutch_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_Dutch_Grand_Prix>	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1966_German_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1966_United_States_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_Glover_Trophy>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_London_Trophy>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+dbr:Cooper_Type_33	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+wikipedia-en:Cooper_Car_Company	foaf:primaryTopic	dbr:Cooper_Car_Company .
+dbr:Lucien_Bianchi	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_Italian_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1967_South_African_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+dbr:Cooper	dbo:wikiPageDisambiguates	dbr:Cooper_Car_Company .
+dbr:Jochen_Rindt	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Jack_Fairman	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Johnny_Servoz-Gavin	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1966_Mexican_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__33rd__1>	dbo:team	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_Reims_Grand_Prix>	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_International_Gold_Cup>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1963_BRDC_International_Trophy>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1963_Glover_Trophy>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_South_African_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1963_Belgian_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1964_Belgian_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Aintree_200>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_Silver_City_Trophy>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_United_States_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_United_States_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+dbr:Ecurie_Ecosse	dbp:constructors	dbr:Cooper_Car_Company .
+dbr:Scuderia_Ferrari	dbp:before	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/Aut\u00F3dromo_Juan_y_Oscar_G\u00E1lvez>	dbp:recordTeam	dbr:Cooper_Car_Company .
+dbr:Richie_Ginther	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_United_States_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company .
+dbr:Lance_Reventlow	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Phil_Hill	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Chuck_Daigh	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Ecurie_Bonnier	dbp:constructors	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/Cooper_(car)>	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_Cars	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1964_Daily_Mirror_Trophy>	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company .
+dbr:Cooper_Racing	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_Portuguese_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/Ron_Flockhart_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1951_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1952_Lady_Wigram_Trophy>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company .
+dbr:Cooper_Monaco	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1952_British_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1958_British_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_British_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbp:fastTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_British_Grand_Prix>	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/Oliver\u0027s_Mount>	dbp:recordTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1962_British_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+dbr:Bruce_McLaren	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Robin_Widdows	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Owen_Maddock	dbo:knownFor	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/John_Barber_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Hans_Herrmann	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/Mois\u00E9s_Solana>	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Rob_Walker_Racing_Team	dbp:constructors	dbr:Cooper_Car_Company .
+dbr:Adolfo_Schwelm_Cruz	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Brian_Redman	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Dick_Gibson	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:George_Constantine	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Les_Leston	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Mike_MacDowel	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Timmy_Mayer	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Walt_Hansgen	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Richard_Attwood	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+dbr:Colin_Crabbe_Racing	dbp:constructors	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Brussels_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1965_Belgian_Grand_Prix>	dbo:thirdTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Kanonloppet>	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbp:fastTeam	dbr:Cooper_Car_Company .
+dbr:Cooper_T53	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_T79	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_T67	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_T66	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_T70	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_car	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_T23	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_Portuguese_Grand_Prix>	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/Cooper_Mk.IV>	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_Mk_IV	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__50__1>	dbo:team	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__21__1>	dbo:team	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__8__1>	dbo:team	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__15__1>	dbo:team	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1959_Formula_One_season>	dbp:champions	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1960_Formula_One_season>	dbp:champions	dbr:Cooper_Car_Company .
+<http://dbpedia.org/resource/1961_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:poleDriverTeam	dbr:Cooper_Car_Company ;
+	dbo:thirdTeam	dbr:Cooper_Car_Company ;
+	dbp:fastTeam	dbr:Cooper_Car_Company ;
+	dbo:secondTeam	dbr:Cooper_Car_Company ;
+	dbo:firstDriverTeam	dbr:Cooper_Car_Company .
+dbr:Cooper_Mk_V	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_T55	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_T40	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_T20	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_T88	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .
+dbr:Cooper_Type_39	dbo:wikiPageRedirects	dbr:Cooper_Car_Company .

@@ -1,0 +1,109 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Scuderia	dbo:wikiPageDisambiguates	dbr:Scuderia_Milano .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns3:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Scuderia_Milano	rdf:type	ns3:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Scuderia_Milano	rdf:type	yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		ns3:SocialPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Scuderia_Milano	rdf:type	wikidata:Q43229 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:SportsTeam ,
+		yago:WikicatItalianRacecarConstructors ,
+		dbo:FormulaOneTeam ,
+		wikidata:Q24229398 ,
+		dbo:MotorsportSeason .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Scuderia_Milano	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Scuderia_Milano	rdf:type	schema:Organization ,
+		schema:SportsTeam ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:Builder109878275 ,
+		dbo:Organisation ,
+		yago:Party110402824 ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Scuderia_Milano	rdfs:label	"Scuderia Milano"@de ,
+		"Scuderia Milano"@pl ,
+		"Scuderia Milano"@pt ,
+		"Scuderia Milano"@en ,
+		"Scuderia Milano"@fr ,
+		"Scuderia Milano"@it ;
+	rdfs:comment	"La Scuderia Milano \u00E8 stata un'azienda operante nel campo delle competizioni automobilistiche, fondata dai fratelli Ruggeri (o Ruggieri), che corse con la Maserati negli anni successivi alla seconda guerra mondiale . Parteciparono ad un solo Campionato di Formula 1 come costruttore, nella stagione 1950. Nella stagione 1951 fornirono solamente il motore."@it ,
+		"Scuderia Milano was an Italian motor racing team run by the Ruggeri (or Ruggieri) brothers that raced Maseratis in the early post-war period. They participated in a single Formula One Grand Prix as a constructor in 1950. The team scored two World Championship points, with a best finish (in its debut race) of fifth for Felice Bonetto at the 1950 Swiss Grand Prix."@en ,
+		"La Scuderia Milano est une ancienne \u00E9curie italienne de sport automobile."@fr ,
+		"Milano war ein italienisches Auto-Rennteam der 1950er Jahre. 1949, knapp nach dem Zweiten Weltkrieg, waren moderne Rennfahrzeuge bei Autorennen noch rar und die Starterfelder klein. Die Organisatoren des italienischen Grand Prix 1949 sicherten allen Wettbewerbern, die zwei Fahrzeuge an den Start brachten, einen Extrabonus zu. Die Br\u00FCder Ruggeri \u2013 sie leiteten die Scuderia Milano \u2013 brachten daher zwei Maserati 4 CLT/48 an den Start und meldeten die Fahrzeuge unter der Typbezeichnung Milano. Der Radstand der beiden Grand-Prix-Wagen wurde verk\u00FCrzt und die Karosserie daran angepasst. Mario Speluzzi, ein Spezialist f\u00FCr Schiffsmotoren, bekam den Auftrag, dem Motor 30 PS mehr zu entlocken."@de ,
+		"Scuderia Milano foi uma equipe italiana de F\u00F3rmula 1 que disputou seis provas da categoria entre 1950 a 1953. Suas cores oficiais eram o azul e o amarelo. A sua sede localizava-se em Mil\u00E3o, e teve como pilotos os italianos Felice Bonetto e Franco Comotti, o argentino Onofre Marim\u00F3n, os espanhois Paco Godia e Juan Jover, o brasileiro Chico Landi e o tailand\u00EAs Birabongse Bhanubandh (Pr\u00EDncipe Bira). Seu melhor resultado veio na primeira corrida da escuderia, com um quinto lugar no GP da Su\u00ED\u00E7a de 1950, conquistado por Bonetto."@pt ,
+		"Scuderia Milano lub Milano, pe\u0142na nazwa Scuderia Automobilistica Milano \u2013 w\u0142oski zesp\u00F3\u0142 i konstruktor Formu\u0142y 1 startuj\u0105cy w niej w latach 1950\u20131951 i 1953, za\u0142o\u017Cony przez Mario Speluzziego, Arialdo Ruggeriego i Emilio Ruggeriego."@pl .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Scuderia_Milano	owl:sameAs	dbpedia-de:Scuderia_Milano .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Scuderia_Milano	owl:sameAs	dbpedia-pl:Scuderia_Milano .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Scuderia_Milano	owl:sameAs	dbpedia-pt:Scuderia_Milano ,
+		dbr:Scuderia_Milano ,
+		<http://rdf.freebase.com/ns/m.04q7_mj> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Scuderia_Milano	owl:sameAs	dbpedia-it:Scuderia_Milano .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Scuderia_Milano	owl:sameAs	dbpedia-wikidata:Q172787 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Scuderia_Milano	owl:sameAs	dbpedia-fr:Scuderia_Milano .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Scuderia_Milano	owl:sameAs	yago-res:Scuderia_Milano ,
+		wikidata:Q172787 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Scuderia_Milano	dct:subject	dbc:Italian_racecar_constructors ,
+		dbc:Italian_auto_racing_teams ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Scuderia_Milano	foaf:isPrimaryTopicOf	wikipedia-en:Scuderia_Milano .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Scuderia_Milano	dbp:races	6 ;
+	dbp:founders	"Ruggieri brothers"^^xsd:string ;
+	dbp:debut	1950 ;
+	dbp:points	2 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Onofre Marim\u00F3n"^^xsd:string ,
+		"Felice Bonetto"^^xsd:string ,
+		"Prince Bira"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Scuderia_Milano	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Scuderia_Milano?oldid=734679372> ;
+	dbp:base	"Italy"^^xsd:string ;
+	dbp:name	"Scuderia Milano"^^xsd:string ;
+	dbp:constructors	"Milano, Maserati"^^xsd:string ;
+	dbp:engines	"Speluzzi  1.5 L4C , Maserati L4C  and L6, Milano L4C"^^xsd:string ;
+	dbo:abstract	"Milano war ein italienisches Auto-Rennteam der 1950er Jahre. 1949, knapp nach dem Zweiten Weltkrieg, waren moderne Rennfahrzeuge bei Autorennen noch rar und die Starterfelder klein. Die Organisatoren des italienischen Grand Prix 1949 sicherten allen Wettbewerbern, die zwei Fahrzeuge an den Start brachten, einen Extrabonus zu. Die Br\u00FCder Ruggeri \u2013 sie leiteten die Scuderia Milano \u2013 brachten daher zwei Maserati 4 CLT/48 an den Start und meldeten die Fahrzeuge unter der Typbezeichnung Milano. Der Radstand der beiden Grand-Prix-Wagen wurde verk\u00FCrzt und die Karosserie daran angepasst. Mario Speluzzi, ein Spezialist f\u00FCr Schiffsmotoren, bekam den Auftrag, dem Motor 30 PS mehr zu entlocken. Beide, nunmehr als Milano-Speluzzi bezeichneten Fahrzeuge, nahmen am Rennen teil und sorgten f\u00FCr die Extrapr\u00E4mie. Am Volant waren die beiden Top-Piloten Giuseppe Farina und Piero Taruffi. Nur die Werks-Ferrari waren im Training schneller. Im Rennen gab Farina nach 18 Runden mit dem Argument, er k\u00F6nne mit den Ferrari nicht mithalten, einfach auf. Taruffi wurde immerhin Dritter. Die Br\u00FCder Ruggeri wollten 1950 dann gro\u00DF in den Grand-Prix-Sport einsteigen und entwarfen ein neues Fahrzeug. Es sollten zwei Boliden entstehen. Beide Wagen hatten einen Rohrrahmen mit Dreiecksquerlenkern und Drehst\u00E4ben vorne, der eine jedoch eine De-Dion-Hinterachse mit Querfederblatt, der zweite eine Hinterachse mit doppeltem L\u00E4ngslenker. Die geringen Ressourcen der Scuderia und die ungew\u00F6hnliche Idee, zwei unterschiedliche Chassis zu bauen, verz\u00F6gerten die Fertigstellung betr\u00E4chtlich. Schlussendlich wurde nur die De-Dion-Variante fertig. In der Zwischenzeit setzte die Scuderia die Maserati weiter als Milano ein. Felice Bonetto sah man damit 1950 beim Gro\u00DFen Preis der Schweiz und beim Gro\u00DFen Preis von Frankreich. In der Schweiz wurde er Sechster, in Frankreich schied er aus. Der De-Dion-Milano hatte sein Deb\u00FCt beim Gro\u00DFen Preis der Nationen, gefahren 1950 auf einem Kurs in Genf (das Rennen z\u00E4hlte nicht zur Weltmeisterschaft). Am Steuer sa\u00DF Gianfranco Comotti. Er fiel nach acht Runden aus, w\u00E4hrend Bonetto im Milano-Maserati Achter wurde. F\u00FCr das Freiburger-Bergrennen 1950 konnte die Scuderia den deutschen Paul Pietsch verpflichten. Pietsch wollte aber nicht den De-Dion-Milano fahren und sa\u00DF beim Rennen daher im Milano-Maserati von 1949. Er siegte mit Bestzeit. Die Unklarheit, welches Wagenkonzept nun zu verfolgen sei, war neben den letztlich fehlenden Geldmitteln auch ein Grund f\u00FCr das Ende der Scuderia. Die Br\u00FCder Ruggeri setzten zwar weiterhin auf den Neubau, mussten aber beim Gro\u00DFen Preis von Pescara 1950 die Grenzen ihres Tuns erkennen. Der Wagen litt schlicht an fehlender Leistung. Bonetto erreichte auf der Geraden zwar eine H\u00F6chstgeschwindigkeit von 244,5 km/h, war damit aber um fast 50 km/h langsamer als der schnellste Alfa Romeo, gefahren von Juan Manuel Fangio. Beim Gro\u00DFen Preis von Italien war die Scuderia mit Comotti und dem De-Dion-Wagen noch einmal am Start. Speluzzi konstruierte f\u00FCr das Rennen Zylinderk\u00F6pfe mit jeweils zwei Kerzen, um die Leistung zu erh\u00F6hen. Der Motor, der nun angeblich 320 PS hatte, wurde den Anspr\u00FCchen nicht gerecht. Comotti schied in der 16. Runde mit Motorschaden aus und die Scuderia stellte den Rennbetrieb ein. Das zweite, nie eingesetzte Fahrgestell wurde sp\u00E4ter verkauft und diente als Basis f\u00FCr den Arzani-Volpini-Formel-1-Wagen von 1955."@de ,
+		"Scuderia Milano was an Italian motor racing team run by the Ruggeri (or Ruggieri) brothers that raced Maseratis in the early post-war period. They participated in a single Formula One Grand Prix as a constructor in 1950. The team scored two World Championship points, with a best finish (in its debut race) of fifth for Felice Bonetto at the 1950 Swiss Grand Prix. Scuderia Milano modified two Maserati 4CLT single-seaters with a shorter wheelbase, De Dion suspensions, larger brakes and an engine redesigned by Mario Speluzzi, refitted with two-stage superchargers, racing them in the 1950 and 1951 F1 seasons. One Scuderia Milano 4CLT was redesigned as the Arzani-Volpini in 1955."@en ,
+		"La Scuderia Milano \u00E8 stata un'azienda operante nel campo delle competizioni automobilistiche, fondata dai fratelli Ruggeri (o Ruggieri), che corse con la Maserati negli anni successivi alla seconda guerra mondiale . Parteciparono ad un solo Campionato di Formula 1 come costruttore, nella stagione 1950. Nella stagione 1951 fornirono solamente il motore."@it ,
+		"Scuderia Milano lub Milano, pe\u0142na nazwa Scuderia Automobilistica Milano \u2013 w\u0142oski zesp\u00F3\u0142 i konstruktor Formu\u0142y 1 startuj\u0105cy w niej w latach 1950\u20131951 i 1953, za\u0142o\u017Cony przez Mario Speluzziego, Arialdo Ruggeriego i Emilio Ruggeriego."@pl ,
+		"Scuderia Milano foi uma equipe italiana de F\u00F3rmula 1 que disputou seis provas da categoria entre 1950 a 1953. Suas cores oficiais eram o azul e o amarelo. A sua sede localizava-se em Mil\u00E3o, e teve como pilotos os italianos Felice Bonetto e Franco Comotti, o argentino Onofre Marim\u00F3n, os espanhois Paco Godia e Juan Jover, o brasileiro Chico Landi e o tailand\u00EAs Birabongse Bhanubandh (Pr\u00EDncipe Bira). Seu melhor resultado veio na primeira corrida da escuderia, com um quinto lugar no GP da Su\u00ED\u00E7a de 1950, conquistado por Bonetto."@pt ,
+		"La Scuderia Milano est une ancienne \u00E9curie italienne de sport automobile."@fr ;
+	dbo:wikiPageRevisionID	734679372 ;
+	dbo:wikiPageID	19846729 ;
+	dbp:podiums	0 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:Scuderia_Milano	ns22:hypernym	dbr:Motor ;
+	dbp:lastRace	1953 .
+wikipedia-en:Scuderia_Milano	foaf:primaryTopic	dbr:Scuderia_Milano .
+<http://dbpedia.org/resource/Milano_(racing_team)>	dbo:wikiPageRedirects	dbr:Scuderia_Milano .
+dbr:Maserati_4CL_and_4CLT	dbp:team	dbr:Scuderia_Milano .
+<http://dbpedia.org/resource/Milano_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Scuderia_Milano .

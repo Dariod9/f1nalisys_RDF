@@ -1,0 +1,168 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Toleman_TG183	dbp:team	dbr:Toleman ;
+	dbp:constructor	dbr:Toleman .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1982_Dutch_Grand_Prix>	dbo:fastestDriverTeam	dbr:Toleman .
+<http://dbpedia.org/resource/1985_German_Grand_Prix>	dbo:poleDriverTeam	dbr:Toleman .
+<http://dbpedia.org/resource/1984_Monaco_Grand_Prix>	dbo:fastestDriverTeam	dbr:Toleman ;
+	dbo:secondTeam	dbr:Toleman .
+dbr:Stefan_Johansson	<http://dbpedia.org/property/team(s)_>	dbr:Toleman .
+dbr:Johnny_Cecotto	<http://dbpedia.org/property/team(s)_>	dbr:Toleman .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Toleman	rdf:type	dbo:Organisation .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Toleman	rdf:type	owl:Thing ,
+		dbo:SportsTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Toleman	rdf:type	wikidata:Q43229 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Toleman	rdf:type	ns6:SocialPerson ,
+		dbo:FormulaOneTeam ,
+		ns6:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Toleman	rdf:type	yago:Organism100004475 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:CausalAgent100007347 ,
+		yago:Builder109878275 ,
+		yago:Whole100003553 ,
+		yago:Party110402824 ,
+		yago:LivingThing100004258 ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:Person100007846 ,
+		yago:WikicatFormulaTwoConstructors ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Toleman	rdf:type	schema:SportsTeam ,
+		dbo:Agent ,
+		wikidata:Q24229398 ,
+		schema:Organization .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Toleman	rdfs:label	"Toleman"@nl ,
+		"Toleman"@en ,
+		"Toleman"@it ,
+		"Toleman"@pl ,
+		"Toleman"@es ,
+		"Toleman"@pt ,
+		"\u30C8\u30FC\u30EB\u30DE\u30F3"@ja ,
+		"Toleman"@fr ,
+		"Toleman"@de ,
+		"\u0422\u043E\u0443\u043B\u043C\u0435\u043D (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ;
+	rdfs:comment	"Toleman foi a equipe de F\u00F3rmula 1 em que Ayrton Senna fez sua estreia na temporada de 1984. Na temporada de 1985, a equipe foi comprada pelo grupo italiano Benetton e passou a utilizar este nome at\u00E9 ser adquirida pela Renault em 2002. Em 2010 a equipe foi adquirida pelo Grupo de investimentos Genii Capital, que manteve o nome Renault no time at\u00E9 o final de 2011. Durante o ano de 2011 o Grupo Lotus adquiriu parte da equipe e sendo assim, em 2012, a antiga equipe Renault F1 passou a se chamar Lotus F1 Team. Foi fundada por Ted Toleman, e pela equipe passou o projetista Rory Byrne."@pt ,
+		"Toleman \u2014 \u0431\u044B\u0432\u0448\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430-\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u043F\u0440\u0438\u043D\u044F\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 4 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445 \u043C\u0438\u0440\u0430 \u0432 \u043F\u0435\u0440\u0438\u043E\u0434 \u0441 1981 \u043F\u043E 1985 \u0433\u043E\u0434\u0430."@ru ,
+		"\u30C8\u30FC\u30EB\u30DE\u30F3\uFF08Toleman\uFF09\u306F\u304B\u3064\u3066F1\u306B\u53C2\u52A0\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30DE\u30B7\u30F3\u88FD\u9020\u8005\uFF08\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\uFF09\u3001\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"Toleman Motorsport was a Formula One constructor based in the UK. It was active between 1981 and 1985 and attended 70 Grands Prix."@en ,
+		"Toleman was een Formule 1 team tussen de jaren 1981 en 1985, het behaalde maar weinig successen en was opgericht door de rijke Brit Ted Toleman. Het team reed voordat het in de Formule 1 kwam in de Formule 2, het won daar regelmatig races en was dus erg succesvol."@nl ,
+		"La Toleman \u00E8 stata una scuderia inglese fondata da Ted Toleman, attiva dal 1977 al 1985. Durante la sua storia ha preso parte a diverse competizioni motoristiche su pista, anche se il suo nome rimane particolarmente legato alla Formula 1, categoria in cui ha corso dal 1981 al 1985, e ad Ayrton Senna, che proprio con la casa inglese fece il suo debutto nella massima serie. Nel palmar\u00E8s della Toleman figura anche una vittoria del campionato europeo di Formula 2 del 1980, oltre a vari successi in singole gare."@it ,
+		"Toleman Motorsport fue un equipo ingl\u00E9s de automovilismo fundado por los hermanos Ted y Bob Toleman en los a\u00F1os 1970. En 1977 participaron en la F\u00F3rmula Ford 2000, al a\u00F1o siguiente pasaron a la F\u00F3rmula 2 hasta 1980. En 1981 comenz\u00F3 su proyecto de F\u00F3rmula 1 que durar\u00E1 cinco temporadas hasta que en el invierno de 1985 es vendida la escuder\u00EDa a su principal patrocinador United Colors of Benetton, pasando a llamarse a partir de entonces el equipo Benetton Formula."@es ,
+		"Toleman \u2013 zesp\u00F3\u0142 wy\u015Bcigowy startuj\u0105cy w Formule 1 w latach 1981\u20131985."@pl ,
+		"Toleman est une \u00E9curie de course automobile britannique fond\u00E9e par les fr\u00E8res Toleman, industriels britanniques sp\u00E9cialis\u00E9s dans le transport routier international. Toleman a particip\u00E9 au championnat du monde de Formule 1 de 1981 \u00E0 1985, disputant 57 Grands Prix et marquant 26 points. L'\u00E9curie a sign\u00E9 trois podiums, une pole position gr\u00E2ce \u00E0 Teo Fabi et deux meilleurs tours en course gr\u00E2ce \u00E0 Derek Warwick et Ayrton Senna. Toleman est l'\u00E9curie qui a permis \u00E0 Senna de d\u00E9buter en Formule 1."@fr ,
+		"Toleman Motorsport war ein britisches Motorsport-Team, das vor allem in der Formel 2 und in der Formel 1 engagiert war. Toleman gewann mit einem selbst konstruierten Fahrzeug 1980 die Formel-2-Europameisterschaft. Im darauf folgenden Jahr deb\u00FCtierte das Team zusammen mit dem britischen Motorenhersteller Hart in der Formel 1. Bis 1985 nahm Toleman an 70 Gro\u00DFen Preisen teil und erreichte dabei 26 WM-Punkte, drei Podestpl\u00E4tze und eine Pole-Position. 1984 deb\u00FCtierte der sp\u00E4tere dreifache Weltmeister Ayrton Senna mit Toleman in der Formel 1. Ab 1986 wechselte das Team mehrfach den Eigent\u00FCmer und die Bezeichnung. Es ist Vorl\u00E4ufer der Teams Benetton und Renault; seit 2010 ist es unter der Bezeichnung Lotus F1 Team in der Formel 1 engagiert."@de ;
+	owl:sameAs	wikidata:Q172987 ,
+		dbr:Toleman ,
+		<http://rdf.freebase.com/ns/m.04n6rz> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Toleman	owl:sameAs	dbpedia-de:Toleman .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Toleman	owl:sameAs	dbpedia-cs:Toleman .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Toleman	owl:sameAs	dbpedia-wikidata:Q172987 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Toleman	owl:sameAs	dbpedia-nl:Toleman .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Toleman	owl:sameAs	yago-res:Toleman .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Toleman	owl:sameAs	dbpedia-pl:Toleman .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Toleman	owl:sameAs	dbpedia-it:Toleman .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Toleman	owl:sameAs	dbpedia-pt:Toleman .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Toleman	owl:sameAs	dbpedia-es:Toleman ,
+		<http://ja.dbpedia.org/resource/\u30C8\u30FC\u30EB\u30DE\u30F3> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Toleman	owl:sameAs	dbpedia-fr:Toleman .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Toleman	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_Two_entrants ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Toleman	foaf:name	"Toleman Motorsport"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Toleman	foaf:isPrimaryTopicOf	wikipedia-en:Toleman ;
+	dbp:races	70 ;
+	dbp:founders	dbr:Alex_Hawkridge ,
+		dbr:Ted_Toleman ;
+	dbp:debut	1981 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Teo Fabi"^^xsd:string ,
+		"Stefan Johansson"^^xsd:string ,
+		"Piercarlo Ghinzani"^^xsd:string ,
+		"Bruno Giacomelli"^^xsd:string ,
+		"Johnny Cecotto"^^xsd:string ,
+		"Ayrton Senna"^^xsd:string ,
+		"Derek Warwick"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	2 ;
+	dbp:poles	1 ;
+	dbp:shortName	"Toleman"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Toleman	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Toleman?oldid=722309049> ;
+	dbo:wikiPageExternalLink	<http://forix.autosport.com/cmake.php?l=0&r=1981000435&c=0> ,
+		<http://www.grandprix.com/gpe/con-tolem.html> ,
+		<http://www.mcz.com/f1/team/toleman.htm> ;
+	dbp:staff	dbr:Rory_Byrne ,
+		dbr:John_Gentry ,
+		dbr:Roger_Silman ,
+		dbr:Christopher_Witty ,
+		dbr:George_McAllister ,
+		dbr:Pat_Symonds ;
+	dbp:base	dbr:Witney ,
+		dbr:Oxfordshire ,
+		dbr:United_Kingdom ;
+	dbo:abstract	"\u30C8\u30FC\u30EB\u30DE\u30F3\uFF08Toleman\uFF09\u306F\u304B\u3064\u3066F1\u306B\u53C2\u52A0\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u30DE\u30B7\u30F3\u88FD\u9020\u8005\uFF08\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\uFF09\u3001\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"Toleman was een Formule 1 team tussen de jaren 1981 en 1985, het behaalde maar weinig successen en was opgericht door de rijke Brit Ted Toleman. Het team reed voordat het in de Formule 1 kwam in de Formule 2, het won daar regelmatig races en was dus erg succesvol."@nl ,
+		"Toleman Motorsport fue un equipo ingl\u00E9s de automovilismo fundado por los hermanos Ted y Bob Toleman en los a\u00F1os 1970. En 1977 participaron en la F\u00F3rmula Ford 2000, al a\u00F1o siguiente pasaron a la F\u00F3rmula 2 hasta 1980. En 1981 comenz\u00F3 su proyecto de F\u00F3rmula 1 que durar\u00E1 cinco temporadas hasta que en el invierno de 1985 es vendida la escuder\u00EDa a su principal patrocinador United Colors of Benetton, pasando a llamarse a partir de entonces el equipo Benetton Formula."@es ,
+		"Toleman foi a equipe de F\u00F3rmula 1 em que Ayrton Senna fez sua estreia na temporada de 1984. Na temporada de 1985, a equipe foi comprada pelo grupo italiano Benetton e passou a utilizar este nome at\u00E9 ser adquirida pela Renault em 2002. Em 2010 a equipe foi adquirida pelo Grupo de investimentos Genii Capital, que manteve o nome Renault no time at\u00E9 o final de 2011. Durante o ano de 2011 o Grupo Lotus adquiriu parte da equipe e sendo assim, em 2012, a antiga equipe Renault F1 passou a se chamar Lotus F1 Team. Foi fundada por Ted Toleman, e pela equipe passou o projetista Rory Byrne."@pt ,
+		"Toleman est une \u00E9curie de course automobile britannique fond\u00E9e par les fr\u00E8res Toleman, industriels britanniques sp\u00E9cialis\u00E9s dans le transport routier international. Toleman a particip\u00E9 au championnat du monde de Formule 1 de 1981 \u00E0 1985, disputant 57 Grands Prix et marquant 26 points. L'\u00E9curie a sign\u00E9 trois podiums, une pole position gr\u00E2ce \u00E0 Teo Fabi et deux meilleurs tours en course gr\u00E2ce \u00E0 Derek Warwick et Ayrton Senna. Toleman est l'\u00E9curie qui a permis \u00E0 Senna de d\u00E9buter en Formule 1."@fr ,
+		"Toleman \u2014 \u0431\u044B\u0432\u0448\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430-\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u043F\u0440\u0438\u043D\u044F\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 4 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445 \u043C\u0438\u0440\u0430 \u0432 \u043F\u0435\u0440\u0438\u043E\u0434 \u0441 1981 \u043F\u043E 1985 \u0433\u043E\u0434\u0430."@ru ,
+		"Toleman Motorsport war ein britisches Motorsport-Team, das vor allem in der Formel 2 und in der Formel 1 engagiert war. Toleman gewann mit einem selbst konstruierten Fahrzeug 1980 die Formel-2-Europameisterschaft. Im darauf folgenden Jahr deb\u00FCtierte das Team zusammen mit dem britischen Motorenhersteller Hart in der Formel 1. Bis 1985 nahm Toleman an 70 Gro\u00DFen Preisen teil und erreichte dabei 26 WM-Punkte, drei Podestpl\u00E4tze und eine Pole-Position. 1984 deb\u00FCtierte der sp\u00E4tere dreifache Weltmeister Ayrton Senna mit Toleman in der Formel 1. Ab 1986 wechselte das Team mehrfach den Eigent\u00FCmer und die Bezeichnung. Es ist Vorl\u00E4ufer der Teams Benetton und Renault; seit 2010 ist es unter der Bezeichnung Lotus F1 Team in der Formel 1 engagiert."@de ,
+		"Toleman Motorsport was a Formula One constructor based in the UK. It was active between 1981 and 1985 and attended 70 Grands Prix."@en ,
+		"Toleman \u2013 zesp\u00F3\u0142 wy\u015Bcigowy startuj\u0105cy w Formule 1 w latach 1981\u20131985."@pl ,
+		"La Toleman \u00E8 stata una scuderia inglese fondata da Ted Toleman, attiva dal 1977 al 1985. Durante la sua storia ha preso parte a diverse competizioni motoristiche su pista, anche se il suo nome rimane particolarmente legato alla Formula 1, categoria in cui ha corso dal 1981 al 1985, e ad Ayrton Senna, che proprio con la casa inglese fece il suo debutto nella massima serie. Nel palmar\u00E8s della Toleman figura anche una vittoria del campionato europeo di Formula 2 del 1980, oltre a vari successi in singole gare."@it ;
+	dbo:wikiPageRevisionID	722309049 ;
+	dbo:wikiPageID	1262640 ;
+	dbp:logo	<http://dbpedia.org/resource/File:Toleman_logo.png> ;
+	dbp:nextName	dbr:Benetton_Formula .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Toleman	ns25:hypernym	dbr:Constructor ;
+	dbp:lastRace	1985 .
+dbr:Benetton_Formula	dbp:previousName	dbr:Toleman .
+dbr:Toleman_TG184	dbp:team	dbr:Toleman ;
+	dbp:constructor	dbr:Toleman .
+dbr:Toleman_Motorsport	dbo:wikiPageRedirects	dbr:Toleman .
+dbr:Toleman_Group_Motorsport	dbo:wikiPageRedirects	dbr:Toleman .
+wikipedia-en:Toleman	foaf:primaryTopic	dbr:Toleman .
+dbr:Pierluigi_Martini	<http://dbpedia.org/property/team(s)_>	dbr:Toleman .
+dbr:Ayrton_Senna	<http://dbpedia.org/property/team(s)_>	dbr:Toleman .
+dbr:Bruno_Giacomelli	<http://dbpedia.org/property/team(s)_>	dbr:Toleman .
+dbr:Derek_Warwick	<http://dbpedia.org/property/team(s)_>	dbr:Toleman .
+dbr:Piercarlo_Ghinzani	<http://dbpedia.org/property/team(s)_>	dbr:Toleman .
+<http://dbpedia.org/resource/1984_British_Grand_Prix>	dbo:thirdTeam	dbr:Toleman .
+dbr:Toleman_TG185	dbp:team	dbr:Toleman ;
+	dbp:constructor	dbr:Toleman .
+<http://dbpedia.org/resource/1984_Portuguese_Grand_Prix>	dbo:thirdTeam	dbr:Toleman .
+dbr:Toleman_TG185__1	dbo:team	dbr:Toleman .
+dbr:Toleman_TG185__2	dbo:team	dbr:Toleman .
+dbr:Toleman_TG185__3	dbo:team	dbr:Toleman .
+dbr:Johnny_Cecotto__1984__1	dbo:team	dbr:Toleman .
+dbr:Johnny_Cecotto__1984__2	dbo:team	dbr:Toleman .
+dbr:Toleman_TA860	dbo:wikiPageRedirects	dbr:Toleman .

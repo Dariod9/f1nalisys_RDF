@@ -1,0 +1,26 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1955_Monaco_Grand_Prix>	dbo:secondTeam	dbr:Lancia_in_Formula_One .
+<http://dbpedia.org/resource/Paul_Fr\u00E8re__1956__1>	dbo:manufacturer	dbr:Lancia_in_Formula_One .
+<http://dbpedia.org/resource/1955_Belgian_Grand_Prix>	dbo:poleDriverTeam	dbr:Lancia_in_Formula_One .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lancia_in_Formula_One	rdfs:label	"Lancia in Formula One"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lancia_in_Formula_One	owl:sameAs	dbr:Lancia_in_Formula_One .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lancia_in_Formula_One	dct:subject	dbc:Formula_One_engine_manufacturers ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Lancia_in_Formula_One	foaf:isPrimaryTopicOf	wikipedia-en:Lancia_in_Formula_One .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lancia_in_Formula_One	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lancia_in_Formula_One?oldid=155205069> ;
+	dbo:wikiPageRedirects	dbr:Lancia ;
+	dbo:wikiPageRevisionID	155205069 ;
+	dbo:wikiPageID	11991334 .
+wikipedia-en:Lancia_in_Formula_One	foaf:primaryTopic	dbr:Lancia_in_Formula_One .
+dbr:Luigi_Villoresi	<http://dbpedia.org/property/team(s)_>	dbr:Lancia_in_Formula_One .
+dbr:Alberto_Ascari	<http://dbpedia.org/property/team(s)_>	dbr:Lancia_in_Formula_One .
+dbr:Louis_Chiron	<http://dbpedia.org/property/team(s)_>	dbr:Lancia_in_Formula_One .

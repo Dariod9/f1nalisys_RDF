@@ -1,0 +1,181 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Arrows_A9	dbp:team	dbr:BMW_in_Formula_One .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2006_Hungarian_Grand_Prix>	dbo:thirdTeam	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/2006_Italian_Grand_Prix>	dbo:thirdTeam	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.08__3>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.06__2006__4>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.07__3>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+dbr:BMW_Sauber_F1	dbo:wikiPageRedirects	dbr:BMW_in_Formula_One .
+dbr:Bmw_sauber	dbo:wikiPageRedirects	dbr:BMW_in_Formula_One .
+dbr:BMW_Sauber_F1_Team	dbo:wikiPageRedirects	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/2008_Belgian_Grand_Prix>	dbo:secondTeam	dbr:BMW_in_Formula_One .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:BMW_in_Formula_One	rdf:type	dbo:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:BMW_in_Formula_One	rdf:type	schema:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:BMW_in_Formula_One	rdf:type	yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		schema:Organization .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:BMW_in_Formula_One	rdf:type	owl:Thing ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:BMW_in_Formula_One	rdf:type	wikidata:Q24229398 ,
+		dbo:Organisation .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:BMW_in_Formula_One	rdf:type	ns8:SocialPerson ,
+		ns8:Agent ,
+		yago:WikicatGermanRacecarConstructors ,
+		yago:WikicatSwissRacecarConstructors ,
+		yago:Organism100004475 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q43229 ,
+		dbo:FormulaOneTeam ,
+		dbo:SportsTeam .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:BMW_in_Formula_One	rdfs:label	"BMW Sauber F1 Team"@pt ,
+		"BMW (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"BMW in Formula One"@en ,
+		"BMW Sauber F1 Team"@fr ,
+		"BMW\u30B6\u30A6\u30D0\u30FC"@ja ,
+		"\u5B9D\u9A6C\u7D22\u4F2F\u8F66\u961F"@zh ,
+		"BMW Sauber F1 Team"@nl ,
+		"BMW Sauber"@pl ,
+		"BMW Sauber F1"@de ,
+		"BMW (F\u00F3rmula 1)"@es ;
+	rdfs:comment	"BMW Sauber was een Formule 1-team dat meedeed in de seizoenen 2006 tot en met 2009. Het team was ontstaan door het stoppen van BMW als motorleverancier voor Williams. BMW wilde daarna zelfstandig verder gaan als F1-team en heeft daarom het Zwitserse Sauber-team overgenomen. Uit respect voor het oude Sauber-team en oprichter Peter Sauber, heette het nieuwe team BMW Sauber. Het team trok zich na 2009 terug uit de Formule 1."@nl ,
+		"Das BMW Sauber F1 Team war ein deutscher Formel-1-Rennstall und das Werksteam des Automobilherstellers BMW. Es war von 2006 bis 2009 in der h\u00F6chsten Motorsportklasse vertreten und ging aus dem schweizerischen Vorg\u00E4ngerteam Sauber hervor. Hauptsitz und Produktionsstandort war Hinwil in der Schweiz, die Motoren wurden in M\u00FCnchen gefertigt. Nach der Saison 2009 zog sich BMW aus der Formel 1 zur\u00FCck und verkaufte seine Anteile von 80 Prozent am Team an den urspr\u00FCnglichen Besitzer Peter Sauber."@de ,
+		"BMW\u30B6\u30A6\u30D0\u30FCF1\uFF08BMW Sauber F1 Team\uFF09\u306F\u30012006\u5E74\u304B\u30892009\u5E74\u307E\u3067F1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30022005\u5E74\u306B\u81EA\u52D5\u8ECA\u4F1A\u793E\u306EBMW\u304C\u65E2\u5B58\u306E\u30C1\u30FC\u30E0\u30B6\u30A6\u30D0\u30FC\u3092\u8CB7\u53CE\u3057\u3066\u8A2D\u7ACB\u3057\u305F\u3002\u3057\u304B\u30572009\u5E74\u30B7\u30FC\u30BA\u30F3\u5F8C\u306B\u30C1\u30FC\u30E0\u306F\u5143\u306E\u30B6\u30A6\u30D0\u30FC\u306E\u624B\u306B\u58F2\u5374\u3055\u308C\u305F \u30B6\u30A6\u30D0\u30FC\u306E\u65BD\u8A2D\u3092\u7D99\u7D9A\u3057\u3066\u4F7F\u7528\u3059\u308B\u305F\u3081\u3001\u672C\u62E0\u5730\u306F\u30B9\u30A4\u30B9\u306B\u3042\u308B\u304C\u3001\u30A8\u30F3\u30B8\u30F3\u958B\u767A\u306E\u672C\u62E0\u5730\u306FBMW\u672C\u793E\u306E\u3042\u308B\u30C9\u30A4\u30C4\u30FB\u30DF\u30E5\u30F3\u30D8\u30F3\u3067\u3042\u308A\u3001\u30C1\u30FC\u30E0\u56FD\u7C4D\u306F\u30C9\u30A4\u30C4\u3067\u767B\u9332\u3055\u308C\u3066\u3044\u305F\u3002"@ja ,
+		"A BMW Sauber F1 Team, foi uma equipe formada a partir da compra da equipe Sauber pela construtora BMW, para disputar os campeonatos de F\u00F3rmula 1."@pt ,
+		"BMW Sauber fue la escuder\u00EDa de BMW de F\u00F3rmula 1 con base en Munich, Alemania y Hinwil, Suiza (el nombre Sauber se mantuvo por respeto al anterior due\u00F1o y director de la escuder\u00EDa Sauber Petronas, Peter Sauber). Compiti\u00F3 entre 2006 y 2009. La primera temporada en que BMW particip\u00F3 en la F\u00F3rmula 1 fue en el Gran Premio de Alemania de 1952 y repiti\u00F3 en la misma competici\u00F3n al a\u00F1o siguiente, abandonando la categor\u00EDa al t\u00E9rmino de la misma. BMW anunci\u00F3 la adquisici\u00F3n de Sauber a mediados de 2005, para competir con su propio equipo de F1 en 2006."@es ,
+		"BMW Sauber F1 Team \u2014 \u0433\u0435\u0440\u043C\u0430\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0441\u043E\u0431\u043E\u0439 \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u0435\u043D\u0438\u0435 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u043E\u0439 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 BMW. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B 1 \u0441 2006 \u043F\u043E 2009 \u0433\u043E\u0434."@ru ,
+		"BMW Sauber F1 Team est une \u00E9curie de Formule 1 bas\u00E9e \u00E0 Hinwil en Suisse qui \u00E9volue dans le championnat du monde de Formule 1 \u00E0 partir de 2006. Elle est fond\u00E9e \u00E0 la fin de la saison 2005 apr\u00E8s le rachat de l'\u00E9curie Sauber par le constructeur BMW, qui fournissait pr\u00E9c\u00E9demment des moteurs \u00E0 Williams. Le 29 juillet 2009, BMW annonce son retrait de la comp\u00E9tition \u00E0 la fin de la saison 2009 et la revente de l'\u00E9curie. Peter Sauber rach\u00E8te son ancienne \u00E9quipe mais son inscription au championnat du monde demeure BMW Sauber. L'\u00E9quipe est rebaptis\u00E9e Sauber F1 Team en 2011."@fr ,
+		"\u5B9D\u9A6C\u7D22\u4F2F\u8F66\u961F\uFF08BMW Sauber F1\uFF09 \u662F\u4E00\u652F\u603B\u90E8\u8BBE\u5728\u745E\u58EB\u6B23\u7EF4\u5C14\u548C\u5FB7\u56FD\u6155\u5C3C\u9ED1\u7684\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8F66\u961F\u3002\u8FD9\u4E2A\u8F66\u961F\u6210\u7ACB\u4E8E2005\u5E74F1\u8D5B\u5B63\u7ED3\u675F\u65F6\uFF0C\u505A\u4E3A\u539F\u7D22\u4F2F\u8F66\u961F\u7684\u7EE7\u627F\u8005\uFF0C\u7531\u5FB7\u56FD\u7684\u6C7D\u8F66\u5382\u5546\u5B9D\u9A6CBMW\u6240\u63A5\u7BA1\u3002\u5728\u5B9D\u9A6C\u7D22\u4F2F\u8F66\u961F\u6240\u53C2\u52A0\u7684\u7B2C1\u4E2A\u8D5B\u5B63\uFF0D2006\u8D5B\u5B63\u4E2D\uFF0C\u8F66\u961F\u5171\u4E0A\u8FC72\u6B21\u9886\u5956\u53F0\uFF0C\u5E74\u7EC8\u8F66\u961F\u6392\u540D\u7B2C5\u7684\u6210\u7EE9\u30022007\u8D5B\u5B63\u4E2D\uFF0C\u5728\u8FC8\u51EF\u4F26\u8F66\u961F\u88AB\u53D6\u6D88\u8F66\u961F\u79EF\u5206\u7684\u60C5\u51B5\u4E0B\uFF0C\u5B9D\u9A6C\u7D22\u4F2F\u8F66\u961F\u83B7\u5F97\u4E86\u5E74\u5EA6\u4E9A\u519B\u7684\u6210\u7EE9\u3002\u57282008\u5E746\u67089\u65E5\u4E3E\u884C\u76842008\u8D5B\u5B63F1\u52A0\u62FF\u5927\u5927\u5956\u8D5B\u4E2D\uFF0C\u8F66\u961F\u76842\u53F7\u8F66\u624B\u7F57\u4F2F\u7279\u00B7\u5E93\u6BD4\u67E5\u53D6\u5F97\u4E86\u51A0\u519B\uFF0C1\u53F7\u8F66\u624B\u5C3C\u514B\u00B7\u6D77\u8D39\u5C14\u5FB7\u540D\u5217\u7B2C\u4E8C\uFF0C\u8FD9\u662F\u5B9D\u9A6C\u7D22\u4F2F\u8F66\u961F\u81EA\u6210\u7ACB\u4EE5\u540E\u6240\u53D6\u5F97\u7684\u7B2C1\u4E2A\u5206\u7AD9\u8D5B\u51A0\u519B\uFF0C\u4E5F\u662F\u7B2C1\u6B21\u5728\u4E00\u573A\u6BD4\u8D5B\u4E2D\u5305\u63FD\u51A0\u4E9A\u519B\u30022009\u5E74 7\u670829\u65E5\uFF0C\u5B9D\u9A6C\u5728\u6155\u5C3C\u9ED1\u53EC\u5F00\u65B0\u95FB\u53D1\u5E03\u4F1A\uFF0C\u5BA3\u5E03\u7531\u4E8E\u516C\u53F8\u6218\u7565\u91CD\u7EC4\uFF0C\u5C06\u4E8E2009\u5E74\u8D5B\u5B63\u7ED3\u675F\u540E\uFF0C\u4E0D\u518D\u53C2\u4E0EF1\u8D5B\u8F66\u8FD0\u52A8\u3002\u8F66\u961F\u91CD\u7531\u5F7C\u5F97\u00B7\u7D22\u4F2F\u63A5\u7BA1\u3002"@zh ,
+		"BMW Sauber \u2013 by\u0142y, fabryczny zesp\u00F3\u0142 firmy BMW, startuj\u0105cy w Formule 1 w latach 2006-2010. Siedziba stajni znajdowa\u0142a si\u0119 w Hinwil, a jej dyrektorem by\u0142 Dr Mario Theissen."@pl ,
+		"BMW has been involved in Formula One in a number of capacities since the inauguration of the World Drivers' Championship in 1950. The company entered occasional races in the 1950s and 1960s (often under Formula Two regulations), before building the BMW M12/13 inline-four turbocharged engine in the 1980s. This engine was the result of a deal between BMW and Brabham, which resulted in the team's chassis being powered by BMW engines from 1982 until 1987, a period in which Nelson Piquet won the 1983 championship driving a Brabham BT52-BMW. BMW also supplied the M12/13 on a customer basis to the ATS, Arrows, Benetton and Ligier teams during this period, with various degrees of success. In 1988, Brabham temporarily withdrew from the sport and BMW withdrew its official backing from the engines, w"@en .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:BMW_in_Formula_One	owl:sameAs	dbpedia-wikidata:Q154118 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:BMW_in_Formula_One	owl:sameAs	dbpedia-nl:BMW_Sauber_F1_Team ,
+		<http://rdf.freebase.com/ns/m.01jnsc> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:BMW_in_Formula_One	owl:sameAs	dbpedia-pt:BMW_Sauber_F1_Team .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:BMW_in_Formula_One	owl:sameAs	dbpedia-fr:BMW_Sauber_F1_Team .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:BMW_in_Formula_One	owl:sameAs	dbpedia-de:BMW_Sauber_F1 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:BMW_in_Formula_One	owl:sameAs	yago-res:BMW_in_Formula_One ,
+		<http://es.dbpedia.org/resource/BMW_(F\u00F3rmula_1)> .
+@prefix dbpedia-el:	<http://el.dbpedia.org/resource/> .
+dbr:BMW_in_Formula_One	owl:sameAs	dbpedia-el:Sauber_F1_Team .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:BMW_in_Formula_One	owl:sameAs	dbpedia-pl:BMW_Sauber ,
+		yago-res:BMW_Sauber ,
+		wikidata:Q154118 ,
+		dbr:BMW_in_Formula_One .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:BMW_in_Formula_One	owl:sameAs	dbpedia-cs:BMW_Sauber ,
+		<http://ja.dbpedia.org/resource/BMW\u30B6\u30A6\u30D0\u30FC> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:BMW_in_Formula_One	dct:subject	dbc:BMW_in_motorsport ,
+		dbc:German_racecar_constructors ,
+		dbc:Formula_One_engine_manufacturers ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:German_auto_racing_teams .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:BMW_in_Formula_One	foaf:name	"BMW Sauber F1 Team"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/BMW.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:BMW_in_Formula_One	foaf:isPrimaryTopicOf	wikipedia-en:BMW_in_Formula_One ;
+	dbp:races	70 ;
+	dbp:debut	2006 ;
+	dbp:wins	1 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Robert Kubica"^^xsd:string ,
+		"Nick Heidfeld"^^xsd:string ,
+		"Jacques Villeneuve"^^xsd:string ,
+		"Sebastian Vettel"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	2 ;
+	dbp:poles	1 ;
+	dbp:shortName	"BMW Sauber"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:BMW_in_Formula_One	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/BMW_in_Formula_One?oldid=741564283> ;
+	dbo:wikiPageExternalLink	<http://www.bmw-sauber-f1.com/> ,
+		<http://bmw-motorsport.com/ms/en/index.html> ,
+		<http://www.sauberf1team.com/> ;
+	dbp:staff	dbr:Mario_Theissen ,
+		dbr:Willy_Rampf ,
+		dbr:Peter_Sauber ;
+	dbp:base	dbr:Hinwil ,
+		dbr:Switzerland ,
+		dbr:Zurich ;
+	dbo:abstract	"BMW Sauber F1 Team \u2014 \u0433\u0435\u0440\u043C\u0430\u043D\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0441\u043E\u0431\u043E\u0439 \u043F\u043E\u0434\u0440\u0430\u0437\u0434\u0435\u043B\u0435\u043D\u0438\u0435 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u043E\u0439 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 BMW. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B 1 \u0441 2006 \u043F\u043E 2009 \u0433\u043E\u0434."@ru ,
+		"\u5B9D\u9A6C\u7D22\u4F2F\u8F66\u961F\uFF08BMW Sauber F1\uFF09 \u662F\u4E00\u652F\u603B\u90E8\u8BBE\u5728\u745E\u58EB\u6B23\u7EF4\u5C14\u548C\u5FB7\u56FD\u6155\u5C3C\u9ED1\u7684\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8F66\u961F\u3002\u8FD9\u4E2A\u8F66\u961F\u6210\u7ACB\u4E8E2005\u5E74F1\u8D5B\u5B63\u7ED3\u675F\u65F6\uFF0C\u505A\u4E3A\u539F\u7D22\u4F2F\u8F66\u961F\u7684\u7EE7\u627F\u8005\uFF0C\u7531\u5FB7\u56FD\u7684\u6C7D\u8F66\u5382\u5546\u5B9D\u9A6CBMW\u6240\u63A5\u7BA1\u3002\u5728\u5B9D\u9A6C\u7D22\u4F2F\u8F66\u961F\u6240\u53C2\u52A0\u7684\u7B2C1\u4E2A\u8D5B\u5B63\uFF0D2006\u8D5B\u5B63\u4E2D\uFF0C\u8F66\u961F\u5171\u4E0A\u8FC72\u6B21\u9886\u5956\u53F0\uFF0C\u5E74\u7EC8\u8F66\u961F\u6392\u540D\u7B2C5\u7684\u6210\u7EE9\u30022007\u8D5B\u5B63\u4E2D\uFF0C\u5728\u8FC8\u51EF\u4F26\u8F66\u961F\u88AB\u53D6\u6D88\u8F66\u961F\u79EF\u5206\u7684\u60C5\u51B5\u4E0B\uFF0C\u5B9D\u9A6C\u7D22\u4F2F\u8F66\u961F\u83B7\u5F97\u4E86\u5E74\u5EA6\u4E9A\u519B\u7684\u6210\u7EE9\u3002\u57282008\u5E746\u67089\u65E5\u4E3E\u884C\u76842008\u8D5B\u5B63F1\u52A0\u62FF\u5927\u5927\u5956\u8D5B\u4E2D\uFF0C\u8F66\u961F\u76842\u53F7\u8F66\u624B\u7F57\u4F2F\u7279\u00B7\u5E93\u6BD4\u67E5\u53D6\u5F97\u4E86\u51A0\u519B\uFF0C1\u53F7\u8F66\u624B\u5C3C\u514B\u00B7\u6D77\u8D39\u5C14\u5FB7\u540D\u5217\u7B2C\u4E8C\uFF0C\u8FD9\u662F\u5B9D\u9A6C\u7D22\u4F2F\u8F66\u961F\u81EA\u6210\u7ACB\u4EE5\u540E\u6240\u53D6\u5F97\u7684\u7B2C1\u4E2A\u5206\u7AD9\u8D5B\u51A0\u519B\uFF0C\u4E5F\u662F\u7B2C1\u6B21\u5728\u4E00\u573A\u6BD4\u8D5B\u4E2D\u5305\u63FD\u51A0\u4E9A\u519B\u30022009\u5E74 7\u670829\u65E5\uFF0C\u5B9D\u9A6C\u5728\u6155\u5C3C\u9ED1\u53EC\u5F00\u65B0\u95FB\u53D1\u5E03\u4F1A\uFF0C\u5BA3\u5E03\u7531\u4E8E\u516C\u53F8\u6218\u7565\u91CD\u7EC4\uFF0C\u5C06\u4E8E2009\u5E74\u8D5B\u5B63\u7ED3\u675F\u540E\uFF0C\u4E0D\u518D\u53C2\u4E0EF1\u8D5B\u8F66\u8FD0\u52A8\u3002\u8F66\u961F\u91CD\u7531\u5F7C\u5F97\u00B7\u7D22\u4F2F\u63A5\u7BA1\u3002"@zh ,
+		"BMW\u30B6\u30A6\u30D0\u30FCF1\uFF08BMW Sauber F1 Team\uFF09\u306F\u30012006\u5E74\u304B\u30892009\u5E74\u307E\u3067F1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30022005\u5E74\u306B\u81EA\u52D5\u8ECA\u4F1A\u793E\u306EBMW\u304C\u65E2\u5B58\u306E\u30C1\u30FC\u30E0\u30B6\u30A6\u30D0\u30FC\u3092\u8CB7\u53CE\u3057\u3066\u8A2D\u7ACB\u3057\u305F\u3002\u3057\u304B\u30572009\u5E74\u30B7\u30FC\u30BA\u30F3\u5F8C\u306B\u30C1\u30FC\u30E0\u306F\u5143\u306E\u30B6\u30A6\u30D0\u30FC\u306E\u624B\u306B\u58F2\u5374\u3055\u308C\u305F \u30B6\u30A6\u30D0\u30FC\u306E\u65BD\u8A2D\u3092\u7D99\u7D9A\u3057\u3066\u4F7F\u7528\u3059\u308B\u305F\u3081\u3001\u672C\u62E0\u5730\u306F\u30B9\u30A4\u30B9\u306B\u3042\u308B\u304C\u3001\u30A8\u30F3\u30B8\u30F3\u958B\u767A\u306E\u672C\u62E0\u5730\u306FBMW\u672C\u793E\u306E\u3042\u308B\u30C9\u30A4\u30C4\u30FB\u30DF\u30E5\u30F3\u30D8\u30F3\u3067\u3042\u308A\u3001\u30C1\u30FC\u30E0\u56FD\u7C4D\u306F\u30C9\u30A4\u30C4\u3067\u767B\u9332\u3055\u308C\u3066\u3044\u305F\u3002"@ja ,
+		"A BMW Sauber F1 Team, foi uma equipe formada a partir da compra da equipe Sauber pela construtora BMW, para disputar os campeonatos de F\u00F3rmula 1."@pt ,
+		"BMW Sauber F1 Team est une \u00E9curie de Formule 1 bas\u00E9e \u00E0 Hinwil en Suisse qui \u00E9volue dans le championnat du monde de Formule 1 \u00E0 partir de 2006. Elle est fond\u00E9e \u00E0 la fin de la saison 2005 apr\u00E8s le rachat de l'\u00E9curie Sauber par le constructeur BMW, qui fournissait pr\u00E9c\u00E9demment des moteurs \u00E0 Williams. L'\u00E9curie d\u00E9croche deux podiums et termine \u00E0 la cinqui\u00E8me place du classement constructeur en 2006, sa premi\u00E8re saison en Formule 1, et finit deuxi\u00E8me du classement constructeur 2007 apr\u00E8s que McLaren a \u00E9t\u00E9 exclue du championnat. Robert Kubica remporte la premi\u00E8re et unique victoire BMW Sauber au Grand Prix du Canada 2008. Le 29 juillet 2009, BMW annonce son retrait de la comp\u00E9tition \u00E0 la fin de la saison 2009 et la revente de l'\u00E9curie. Peter Sauber rach\u00E8te son ancienne \u00E9quipe mais son inscription au championnat du monde demeure BMW Sauber. L'\u00E9quipe est rebaptis\u00E9e Sauber F1 Team en 2011."@fr ,
+		"BMW Sauber \u2013 by\u0142y, fabryczny zesp\u00F3\u0142 firmy BMW, startuj\u0105cy w Formule 1 w latach 2006-2010. Siedziba stajni znajdowa\u0142a si\u0119 w Hinwil, a jej dyrektorem by\u0142 Dr Mario Theissen."@pl ,
+		"BMW has been involved in Formula One in a number of capacities since the inauguration of the World Drivers' Championship in 1950. The company entered occasional races in the 1950s and 1960s (often under Formula Two regulations), before building the BMW M12/13 inline-four turbocharged engine in the 1980s. This engine was the result of a deal between BMW and Brabham, which resulted in the team's chassis being powered by BMW engines from 1982 until 1987, a period in which Nelson Piquet won the 1983 championship driving a Brabham BT52-BMW. BMW also supplied the M12/13 on a customer basis to the ATS, Arrows, Benetton and Ligier teams during this period, with various degrees of success. In 1988, Brabham temporarily withdrew from the sport and BMW withdrew its official backing from the engines, which were still used by the Arrows team under the Megatron badge. Turbocharged engines were banned by the revised Formula One Technical Regulations for 1989, rendering the M12/13 obsolete. BMW decided to return to Formula One in the late 1990s by signing an exclusive contract with the Williams team, which needed a new long-term engine supplier after the withdrawal of Renault in 1997. The programme resulted in the creation of a new V10 engine which made its race d\u00E9but in the Williams FW22 in 2000. The following year saw the partnership move from the midfield to challenging for race victories, but the desired championship remained elusive due to the dominance of Michael Schumacher and Ferrari in the first half of the 2000s. By 2005, the relationship between BMW and Williams had deteriorated, and BMW chose to part company and buy the rival Sauber team outright. The BMW Sauber project lasted from 2006 until 2009, and resulted in a substantial increase in competitiveness for the Swiss former privateer team. Two podium finishes in the first year were followed by a solid third in the Constructors' Championship in 2007 (which became second when McLaren was disqualified). In 2008, Robert Kubica won the team's only race, the 2008 Canadian Grand Prix, and led the Drivers' Championship at one point, but the team chose to focus on development of its 2009 car and slipped back in the standings by the end of the season. The 2009 season was a major disappointment as the F1.09 chassis proved uncompetitive. Combined with the global financial recession and the company's frustration about the limitations of the contemporary technical regulations in developing technology relevant to road cars, BMW chose to withdraw from the sport, selling the team back to its founder, Peter Sauber."@en ,
+		"BMW Sauber was een Formule 1-team dat meedeed in de seizoenen 2006 tot en met 2009. Het team was ontstaan door het stoppen van BMW als motorleverancier voor Williams. BMW wilde daarna zelfstandig verder gaan als F1-team en heeft daarom het Zwitserse Sauber-team overgenomen. Uit respect voor het oude Sauber-team en oprichter Peter Sauber, heette het nieuwe team BMW Sauber. Het team trok zich na 2009 terug uit de Formule 1."@nl ,
+		"BMW Sauber fue la escuder\u00EDa de BMW de F\u00F3rmula 1 con base en Munich, Alemania y Hinwil, Suiza (el nombre Sauber se mantuvo por respeto al anterior due\u00F1o y director de la escuder\u00EDa Sauber Petronas, Peter Sauber). Compiti\u00F3 entre 2006 y 2009. La primera temporada en que BMW particip\u00F3 en la F\u00F3rmula 1 fue en el Gran Premio de Alemania de 1952 y repiti\u00F3 en la misma competici\u00F3n al a\u00F1o siguiente, abandonando la categor\u00EDa al t\u00E9rmino de la misma. El equipo predecesor (Sauber Petronas) compiti\u00F3 en la categor\u00EDa desde 1993. En 2006 cambi\u00F3 de nombre y BMW retorn\u00F3 nuevamente como constructor a la categor\u00EDa reina del automovilismo. Con la compra por parte de BMW, el equipo us\u00F3 todas las piezas de la f\u00E1brica alemana de veh\u00EDculos, despu\u00E9s de que la marca fuera el proveedor de motores de Williams F1. BMW anunci\u00F3 la adquisici\u00F3n de Sauber a mediados de 2005, para competir con su propio equipo de F1 en 2006."@es ,
+		"Das BMW Sauber F1 Team war ein deutscher Formel-1-Rennstall und das Werksteam des Automobilherstellers BMW. Es war von 2006 bis 2009 in der h\u00F6chsten Motorsportklasse vertreten und ging aus dem schweizerischen Vorg\u00E4ngerteam Sauber hervor. Hauptsitz und Produktionsstandort war Hinwil in der Schweiz, die Motoren wurden in M\u00FCnchen gefertigt. Nach der Saison 2009 zog sich BMW aus der Formel 1 zur\u00FCck und verkaufte seine Anteile von 80 Prozent am Team an den urspr\u00FCnglichen Besitzer Peter Sauber. BMW war bereits in den 1980er Jahren als Motorenlieferant in der Formel 1 aufgetreten. Mit Nelson Piquet und dem Brabham-Team wurde BMW 1983 Weltmeister \u2013 als erste im Turbo-Zeitalter. Wiederaufgenommen wurde dieses Engagement etwa 15 Jahre sp\u00E4ter, als BMW von 2000 bis 2005 Williams mit Motoren belieferte. Siehe dazu auch BMW Motorsport."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/BMW.svg?width=300> ;
+	dbo:wikiPageRevisionID	741564283 ;
+	dbo:wikiPageID	239002 ;
+	dbp:logo	250 ;
+	dbp:podiums	17 ;
+	dbp:lastRace	2009 .
+<http://dbpedia.org/resource/BMW_Sauber_F1.06__2006__3>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.08__1>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.06__2006__1>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+dbr:Christian_Danner__1986__2	dbo:manufacturer	dbr:BMW_in_Formula_One .
+dbr:Christian_Danner__1986__3	dbo:manufacturer	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.07__1>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+wikipedia-en:BMW_in_Formula_One	foaf:primaryTopic	dbr:BMW_in_Formula_One .
+dbr:Dutch_Grand_Prix	dbp:poleTeam	dbr:BMW_in_Formula_One .
+dbr:BMW_Sauber	dbo:wikiPageRedirects	dbr:BMW_in_Formula_One .
+dbr:BMW_F1	dbo:wikiPageRedirects	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.08__2>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.06__2006__2>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.07__2>	dbo:team	dbr:BMW_in_Formula_One ;
+	dbo:manufacturer	dbr:BMW_in_Formula_One .
+dbr:Dieter_Quester	<http://dbpedia.org/property/team(s)_>	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/2008_German_Grand_Prix>	dbo:fastestDriverTeam	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.08>	dbp:team	dbr:BMW_in_Formula_One ;
+	dbp:constructor	dbr:BMW_in_Formula_One ;
+	dbp:gearboxName	dbr:BMW_in_Formula_One .
+dbr:Arrows_A7	dbp:team	dbr:BMW_in_Formula_One .
+dbr:Arrows_A8	dbp:team	dbr:BMW_in_Formula_One .
+dbr:Benetton_B186	dbp:fuel	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.06>	dbp:team	dbr:BMW_in_Formula_One ;
+	dbp:constructor	dbr:BMW_in_Formula_One ;
+	dbp:gearboxName	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.07>	dbp:team	dbr:BMW_in_Formula_One ;
+	dbp:constructor	dbr:BMW_in_Formula_One ;
+	dbp:gearboxName	dbr:BMW_in_Formula_One .
+dbr:Brabham_BT52	dbp:team	dbr:BMW_in_Formula_One .
+<http://dbpedia.org/resource/BMW_Sauber_F1.09>	dbp:constructor	dbr:BMW_in_Formula_One .

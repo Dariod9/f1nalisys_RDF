@@ -1,0 +1,56 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Societa_Valdostana_Automobili	foaf:primaryTopic	dbr:Societa_Valdostana_Automobili .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Societa_Valdostana_Automobili	rdf:type	yago:Person100007846 ,
+		yago:Object100002684 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Societa_Valdostana_Automobili	rdf:type	dbo:Company ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		yago:WikicatItalianRacecarConstructors ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Societa_Valdostana_Automobili	rdfs:label	"Societ\u00E0 Valdostana Automobili"@pl ,
+		"SVA (azienda)"@it ,
+		"Societa Valdostana Automobili"@en ;
+	rdfs:comment	"Societ\u00E0 Valdostana Automobili \u2013 konstruktor samochod\u00F3w wy\u015Bcigowych aktywny na prze\u0142omie lat 40. i 50. XX wieku."@pl ,
+		"La SVA, acronimo di Societ\u00E0 Valdostana Automobili, \u00E8 stata una casa automobilistica italiana, attiva a Pont Saint Martin dal 1948 al 1951 Fondata da Virgilio Conrero e Giovanni Savonuzzi, entrambi provenienti dal reparto competizioni della Fiat Aviazione, la SVA venne fondata allo scopo di elaborare le vetture Cisitalia utilizzate nelle gare automobilistiche. La SVA 1500, affidata al pilota Rudi Fischer, scese in pista sia nel Gran Premio di San Remo, sia nel Gran Premio di Svizzera del 1950, dimostrandosi potente e velocissima, ma anche particolarmente fragile."@it ,
+		"The Societa Valdostana Automobili (SVA), was an Italian automobile manufacturer, active in Pont Saint Martin from 1948 to 1951. Founded by John and Virgil Conrero Savonuzzi, both from Fiat's aviation competitions department, the SVA was founded in order to develop the cars made by Cisitalia. Despite having achieved numerous victories in minor races and the confidence of drivers as important as Giovanni Bracco, the SVA ran into severe difficulties following the placement into receivership of Cisitalia and tried again, resulting in the creation of open-wheel single-seaters."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Societa_Valdostana_Automobili	owl:sameAs	<http://pl.dbpedia.org/resource/Societ\u00E0_Valdostana_Automobili> ,
+		<http://rdf.freebase.com/ns/m.0w1dblj> ,
+		dbr:Societa_Valdostana_Automobili .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Societa_Valdostana_Automobili	owl:sameAs	wikidata:Q3943986 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Societa_Valdostana_Automobili	owl:sameAs	dbpedia-wikidata:Q3943986 ,
+		<http://it.dbpedia.org/resource/SVA_(azienda)> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Societa_Valdostana_Automobili	owl:sameAs	yago-res:Societa_Valdostana_Automobili .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Societa_Valdostana_Automobili	dct:subject	dbc:Car_manufacturers_of_Italy ,
+		dbc:Italian_racecar_constructors ,
+		dbc:Formula_One_constructors ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Societa_Valdostana_Automobili .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Societa_Valdostana_Automobili	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Societa_Valdostana_Automobili?oldid=685280826> ;
+	dbo:abstract	"La SVA, acronimo di Societ\u00E0 Valdostana Automobili, \u00E8 stata una casa automobilistica italiana, attiva a Pont Saint Martin dal 1948 al 1951 Fondata da Virgilio Conrero e Giovanni Savonuzzi, entrambi provenienti dal reparto competizioni della Fiat Aviazione, la SVA venne fondata allo scopo di elaborare le vetture Cisitalia utilizzate nelle gare automobilistiche. Pur avendo ottenuto numerose vittorie in gare minori e la fiducia di piloti importanti come Giovanni Bracco, la SVA si trov\u00F2 in gravi difficolt\u00E0 in seguito al posizionamento in amministrazione controllata della Cisitalia e cerc\u00F2 nuovo sbocco nella realizzazione di monoposto a ruote scoperte. Un primo esperimento venne fatto con una vettura di Formula 3 con motore da 500 cm\u00B3 della Moto Guzzi e, successivamente, venne realizzata una vettura di Formula 1, con motore da 1500 cm\u00B3 di derivazione FIAT, alimentato a miscela di benzina-alcool e dotato di compressore volumetrico. La SVA 1500, affidata al pilota Rudi Fischer, scese in pista sia nel Gran Premio di San Remo, sia nel Gran Premio di Svizzera del 1950, dimostrandosi potente e velocissima, ma anche particolarmente fragile. Alla fine del 1951 la SVA venne chiusa."@it ,
+		"Societ\u00E0 Valdostana Automobili \u2013 konstruktor samochod\u00F3w wy\u015Bcigowych aktywny na prze\u0142omie lat 40. i 50. XX wieku."@pl ,
+		"The Societa Valdostana Automobili (SVA), was an Italian automobile manufacturer, active in Pont Saint Martin from 1948 to 1951. Founded by John and Virgil Conrero Savonuzzi, both from Fiat's aviation competitions department, the SVA was founded in order to develop the cars made by Cisitalia. Despite having achieved numerous victories in minor races and the confidence of drivers as important as Giovanni Bracco, the SVA ran into severe difficulties following the placement into receivership of Cisitalia and tried again, resulting in the creation of open-wheel single-seaters. A first experiment was done with a Formula 3 car with a 500 cc (31 cu in) Moto Guzzi engine, and later a Formula One car was built, with a 1,500 cc (92 cu in) supercharged Fiat-derived engine, fueled by a mixture of petrol and alcohol. The SVA 1500, entrusted to driver Rudi Fischer, took to the track in both the Grand Prix of San Remo and the Swiss Grand Prix in 1950, proving to be powerful and fast, but also very fragile. At the end of 1951, the SVA was closed."@en ;
+	dbo:wikiPageRevisionID	685280826 ;
+	dbo:wikiPageID	39727290 .
+@prefix ns14:	<http://purl.org/linguistics/gold/> .
+dbr:Societa_Valdostana_Automobili	ns14:hypernym	dbr:Manufacturer .
+dbr:SVA	dbo:wikiPageDisambiguates	dbr:Societa_Valdostana_Automobili .

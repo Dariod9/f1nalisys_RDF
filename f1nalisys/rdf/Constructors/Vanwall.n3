@@ -1,0 +1,202 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Harry_Schell	<http://dbpedia.org/property/team(s)_>	dbr:Vanwall .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Cooper_Car_Company	dbp:before	dbr:Vanwall .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1958_Monaco_Grand_Prix>	dbo:poleDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1958_Belgian_Grand_Prix>	dbo:thirdTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1958_Italian_Grand_Prix>	dbo:poleDriverTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1958_Moroccan_Grand_Prix>	dbo:fastestDriverTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1958_German_Grand_Prix>	dbo:fastestDriverTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1957_Italian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Vanwall ;
+	dbo:poleDriverTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+dbr:Moroccan_Grand_Prix	dbp:fastestLapTeam	dbr:Vanwall ;
+	dbp:winningTeam	dbr:Vanwall .
+dbr:Roy_Salvadori	<http://dbpedia.org/property/team(s)_>	dbr:Vanwall .
+<http://dbpedia.org/resource/Peter_Collins_(racing_driver)>	<http://dbpedia.org/property/team(s)_>	dbr:Vanwall .
+<http://dbpedia.org/resource/Jos\u00E9_Froil\u00E1n_Gonz\u00E1lez>	<http://dbpedia.org/property/team(s)_>	dbr:Vanwall .
+dbr:Piero_Taruffi	<http://dbpedia.org/property/team(s)_>	dbr:Vanwall .
+<http://dbpedia.org/resource/1958_Formula_One_season>	dbp:champions	dbr:Vanwall .
+<http://dbpedia.org/resource/1958_French_Grand_Prix>	dbo:secondTeam	dbr:Vanwall .
+dbr:Pescara_Circuit	dbp:recordTeam	dbr:Vanwall .
+dbr:Mike_Hawthorn	<http://dbpedia.org/property/team(s)_>	dbr:Vanwall .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Vanwall	rdf:type	yago:Person100007846 ,
+		yago:Object100002684 .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Vanwall	rdf:type	ns5:SocialPerson ,
+		yago:PhysicalEntity100001930 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Vanwall	rdf:type	wikidata:Q43229 ,
+		dbo:SportsTeam .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Vanwall	rdf:type	owl:Thing ,
+		dbo:FormulaOneTeam ,
+		wikidata:Q24229398 ,
+		yago:Organism100004475 .
+@prefix schema:	<http://schema.org/> .
+dbr:Vanwall	rdf:type	schema:Organization ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		schema:SportsTeam ,
+		dbo:Agent ,
+		dbo:Organisation ,
+		dbo:MotorsportSeason ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		ns5:Agent ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Vanwall	rdfs:label	"Vanwall"@de ,
+		"\u0412\u0430\u043D\u0443\u043E\u043B\u043B (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Vanwall"@pl ,
+		"Vanwall"@it ,
+		"\u30F4\u30A1\u30F3\u30A6\u30A9\u30FC\u30EB"@ja ,
+		"Vanwall"@fr ,
+		"Vanwall"@es ,
+		"Vanwall"@nl ,
+		"Vanwall"@en ,
+		"Vanwall"@pt ;
+	rdfs:comment	"La Vanwall \u00E8 stata una scuderia inglese di Formula 1 negli anni '50. Il nome Vanwall si ottiene combinando il nome del proprietario del team Tony Vandervell con quello del suo marchio di bronzine Thinwall bearing, prodotte nello stabilimento Vanderwell Acton, a Londra."@it ,
+		"Vanwall war ein englischer Formel-1-Rennstall. Er gewann 1958 die Konstrukteurswertung der Formel 1, die in diesem Jahr zum ersten Mal ausgetragen wurde."@de ,
+		"Vanwall est une ancienne marque de sport automobile, pr\u00E9sente en Formule 1 de 1954 \u00E0 1960. Elle a notamment remport\u00E9 le tout premier championnat du monde des constructeurs de formule 1."@fr ,
+		"\u30F4\u30A1\u30F3\u30A6\u30A9\u30FC\u30EB\uFF08Vandervell Products Ltd\uFF09\u306F\u3001\u304B\u3064\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30021958\u5E74\u306B\u5236\u5B9A\u3055\u308C\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30BA\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30B7\u30C3\u30D7\u306E\u521D\u4EE3\u7372\u5F97\u8005\u3067\u3042\u308B\u3002\u30F4\u30A1\u30F3\u30A6\u30A9\u30FC\u30EB\u3068\u3044\u3046\u540D\u79F0\u306F\u3001\u6BCD\u4F53\u3067\u3042\u308B\u30F4\u30A1\u30F3\u30C0\u30FC\u30D9\u30EB\u793E\u3068\u305D\u306E\u5546\u6A19\u300C\u30B7\u30F3\u30A6\u30A9\u30FC\u30EB\u300D\u3092\u7D44\u307F\u5408\u308F\u305B\u3066\u547D\u540D\u3055\u308C\u305F\u3002"@ja ,
+		"Vanwall was een Brits Formule 1-team dat deelnam aan het kampioenschap tussen 1954 en 1960. Het werd opgericht door industrieel Tony Vandervell. Het team won het constructeurskampioenschap van 1958."@nl ,
+		"Vanwall fue un equipo de automovilismo fundado por el empresario brit\u00E1nico Tony Vandervell que compiti\u00F3 en la F\u00F3rmula 1 y otras categor\u00EDas de monoplazas en la d\u00E9cada de 1950. El nombre Vanwall nace de la combinaci\u00F3n del nombre del propietario Tony Vandervell y del producto m\u00E1s conocido de sus empresas: juntas para bastidores (thinwall bearings en ingl\u00E9s). Tony Vandervell inicialmente apoy\u00F3 al equipo British Racing Motors, que hizo participar en competencias versiones modificadas de autom\u00F3viles Ferrari con el nombre de \"Thinwall Special\"."@es ,
+		"Vanwall foi uma equipe de F\u00F3rmula 1 fundada na d\u00E9cada de 50 por Tony Vandervell. O time alcan\u00E7ou o campeonato de construtores de 1958, mas abandonou as competi\u00E7\u00F5es ao final da temporada, s\u00F3 regressando \u00E0 categoria no ano seguinte."@pt ,
+		"Vanwall \u2013 brytyjski zesp\u00F3\u0142 Formu\u0142y 1. Za\u0142o\u017Cony zosta\u0142 w 1955 roku przez Tony\u2019ego Vandervella. Jako pierwszy zesp\u00F3\u0142 w historii wygra\u0142 klasyfikacje konstruktor\u00F3w w 1958 roku. Pierwotnie Vanwall by\u0142 cz\u0119\u015Bci\u0105 British Racing Motors. Korporacj\u0119 opu\u015Bci\u0142 po konfliktach spowodowanych kolektywnym zarz\u0105dzaniem. Vanwall wystawia\u0142 do wy\u015Bcig\u00F3w swoje samochody w ramach stajni Thinwall Specials. Pierwszy egzemplarz bolidu Vanwalla pojawi\u0142 si\u0119 w 1955 roku i posiada\u0142 1-cylindrowy silnik motocyklowy Nortona. Zatrudni\u0142 tak\u017Ce specjalist\u0119 Franka Costina oraz in\u017Cyniera Lotusa Colina Chapmana. W 1957 roku Tony Brooks i Stirling Moss odnie\u015Bli zwyci\u0119stwo w Grand Prix Wielkiej Brytanii. W nast\u0119pnym sezonie wygrali 6 wy\u015Bcig\u00F3w Grand Prix i wygrali mistrzostwa \u015Bwiata konstruktor\u00F3w. W ostatnim wy\u015Bcigu sezonu o Grand Prix"@pl ,
+		"Vanwall was a motor racing team and racing car constructor that was active in Formula One during the 1950s. Founded by Tony Vandervell, the Vanwall name was derived by combining the name of the team owner with that of his Thinwall bearings produced at the Vandervell Products factory at Acton, London. Originally entering modified Ferraris in non-championship races, Vanwall constructed their first cars to race in the 1954 Formula One season. The team achieved their first race win in the 1957 British Grand Prix, with Stirling Moss and Tony Brooks sharing a VW 5, earning the team the distinction of constructing the first British-built car to win a World Championship race. Vanwall won the inaugural Constructors Championship in 1958, in the process allowing Moss and Brooks to finish second and t"@en ,
+		"\u00AB\u0412\u0430\u0301\u043D\u0443\u043E\u043B\u043B\u00BB (\u0430\u043D\u0433\u043B. Vanwall) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438. \u0412\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 1950-\u0445 \u0433\u043E\u0434\u0430\u0445.\u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u00AB\u0412\u0430\u043D\u0443\u043E\u043B\u043B\u00BB \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u0435\u0440\u0432\u044B\u043C \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u0435\u043C \u043A\u0443\u0431\u043A\u0430 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u0432, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043E\u043D\u0430 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B\u0430 \u0432 1958 \u0433\u043E\u0434\u0443, \u043A\u043E\u0433\u0434\u0430 \u044D\u0442\u043E\u0442 \u043A\u0443\u0431\u043E\u043A \u0432\u043F\u0435\u0440\u0432\u044B\u0435 \u0431\u044B\u043B \u0440\u0430\u0437\u044B\u0433\u0440\u0430\u043D. \u0412 \u0440\u0430\u0437\u043D\u044B\u0435 \u0433\u043E\u0434\u044B \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0438 \u0442\u0430\u043A\u0438\u0435 \u0433\u043E\u043D\u0449\u0438\u043A\u0438, \u043A\u0430\u043A \u0421\u0442\u0438\u0440\u043B\u0438\u043D\u0433 \u041C\u043E\u0441\u0441 (\u0430\u043D\u0433\u043B. Stirling Moss), \u0422\u043E\u043D\u0438 \u0411\u0440\u0443\u043A\u0441 (\u0430\u043D\u0433\u043B. Tony Brooks) \u0438 \u0434\u0430\u0436\u0435 \u041A\u043E\u043B\u0438\u043D \u0427\u0435\u043F\u043C\u0435\u043D (\u0430\u043D\u0433\u043B. Colin Chapman), \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0431\u044B\u043B \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u043E\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u044B."@ru .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Vanwall	owl:sameAs	dbpedia-it:Vanwall .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Vanwall	owl:sameAs	dbpedia-wikidata:Q173093 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Vanwall	owl:sameAs	dbpedia-pt:Vanwall .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Vanwall	owl:sameAs	dbpedia-de:Vanwall .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Vanwall	owl:sameAs	dbpedia-fr:Vanwall .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Vanwall	owl:sameAs	yago-res:Vanwall .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Vanwall	owl:sameAs	dbpedia-es:Vanwall ,
+		dbr:Vanwall .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Vanwall	owl:sameAs	dbpedia-id:Vanwall ,
+		wikidata:Q173093 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Vanwall	owl:sameAs	dbpedia-nl:Vanwall ,
+		<http://rdf.freebase.com/ns/m.029cc1> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Vanwall	owl:sameAs	dbpedia-pl:Vanwall ,
+		<http://ja.dbpedia.org/resource/\u30F4\u30A1\u30F3\u30A6\u30A9\u30FC\u30EB> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Vanwall	dct:subject	dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		<http://dbpedia.org/resource/Category:1954_establishments_in_England> ,
+		dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		<http://dbpedia.org/resource/Category:1961_disestablishments_in_England> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Vanwall	foaf:name	"Vanwall"@en ;
+	foaf:homepage	<http://www.vanwallcars.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Thinwall_special.jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Vanwall	foaf:isPrimaryTopicOf	wikipedia-en:Vanwall ;
+	dbp:races	29 ;
+	dbp:style	"float:right"^^xsd:string ;
+	dbp:founders	dbr:Tony_Vandervell ;
+	dbp:debut	1954 ;
+	dbp:after	dbr:Cooper_Car_Company ;
+	dbp:wins	9 ;
+	dbp:consChamp	1 ;
+	dbp:drivers	"Harry Schell"^^xsd:string ,
+		"Stuart Lewis-Evans"^^xsd:string ,
+		"Stirling Moss"^^xsd:string ,
+		"Maurice Trintignant"^^xsd:string ,
+		"Tony Brooks"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	6 ;
+	dbp:poles	7 ;
+	dbp:shortName	"Vanwall"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Vanwall	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Vanwall?oldid=737157203> ;
+	dbo:wikiPageExternalLink	<http://www.autocoursegpa.com/team_team~teamsroot_id~7695.htm> ,
+		<http://www.forix.com/8w/vanwall1.html> ,
+		<http://www.forix.com/8w/vanwalls.html> ,
+		<http://www.forix.com/8w/thinwall.html> ,
+		<http://www.forix.com/8w/vanwall.html> ,
+		<http://www.forix.com/8w/gb57.html> ,
+		<http://www.vanwallcars.com/> ,
+		<https://web.archive.org/web/20071220114721/http:/www.autocoursegpa.com/team_team~teamsroot_id~7695.htm> ,
+		<http://www.chicanef1.com/indiv.pl?name=Vanwall&type=a> ,
+		<http://www.grandprix.com/gpe/con-vanwa.html> ;
+	dbp:staff	dbr:Colin_Chapman ,
+		dbr:Frank_Costin ;
+	dbp:base	<http://dbpedia.org/resource/Acton,_London> ,
+		dbr:United_Kingdom ,
+		dbr:London ;
+	dbp:before	"Inaugural Champions"^^xsd:string ;
+	dbo:soundRecording	dbr:Vanwall__1 ;
+	dbo:abstract	"Vanwall \u2013 brytyjski zesp\u00F3\u0142 Formu\u0142y 1. Za\u0142o\u017Cony zosta\u0142 w 1955 roku przez Tony\u2019ego Vandervella. Jako pierwszy zesp\u00F3\u0142 w historii wygra\u0142 klasyfikacje konstruktor\u00F3w w 1958 roku. Pierwotnie Vanwall by\u0142 cz\u0119\u015Bci\u0105 British Racing Motors. Korporacj\u0119 opu\u015Bci\u0142 po konfliktach spowodowanych kolektywnym zarz\u0105dzaniem. Vanwall wystawia\u0142 do wy\u015Bcig\u00F3w swoje samochody w ramach stajni Thinwall Specials. Pierwszy egzemplarz bolidu Vanwalla pojawi\u0142 si\u0119 w 1955 roku i posiada\u0142 1-cylindrowy silnik motocyklowy Nortona. Zatrudni\u0142 tak\u017Ce specjalist\u0119 Franka Costina oraz in\u017Cyniera Lotusa Colina Chapmana. W 1957 roku Tony Brooks i Stirling Moss odnie\u015Bli zwyci\u0119stwo w Grand Prix Wielkiej Brytanii. W nast\u0119pnym sezonie wygrali 6 wy\u015Bcig\u00F3w Grand Prix i wygrali mistrzostwa \u015Bwiata konstruktor\u00F3w. W ostatnim wy\u015Bcigu sezonu o Grand Prix Maroka zgin\u0105\u0142 Stuart Lewis-Evans. W 1958 roku Vanwall wycofa\u0142 si\u0119 z wy\u015Bcig\u00F3w grand prix. W zespole Vanwall je\u017Adzili m.in. Mike Hawthorn, Colin Chapman, Harry Schell."@pl ,
+		"\u00AB\u0412\u0430\u0301\u043D\u0443\u043E\u043B\u043B\u00BB (\u0430\u043D\u0433\u043B. Vanwall) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438. \u0412\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 1950-\u0445 \u0433\u043E\u0434\u0430\u0445.\u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u00AB\u0412\u0430\u043D\u0443\u043E\u043B\u043B\u00BB \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u0435\u0440\u0432\u044B\u043C \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u0435\u043C \u043A\u0443\u0431\u043A\u0430 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440\u043E\u0432, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043E\u043D\u0430 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B\u0430 \u0432 1958 \u0433\u043E\u0434\u0443, \u043A\u043E\u0433\u0434\u0430 \u044D\u0442\u043E\u0442 \u043A\u0443\u0431\u043E\u043A \u0432\u043F\u0435\u0440\u0432\u044B\u0435 \u0431\u044B\u043B \u0440\u0430\u0437\u044B\u0433\u0440\u0430\u043D. \u0412 \u0440\u0430\u0437\u043D\u044B\u0435 \u0433\u043E\u0434\u044B \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0438 \u0442\u0430\u043A\u0438\u0435 \u0433\u043E\u043D\u0449\u0438\u043A\u0438, \u043A\u0430\u043A \u0421\u0442\u0438\u0440\u043B\u0438\u043D\u0433 \u041C\u043E\u0441\u0441 (\u0430\u043D\u0433\u043B. Stirling Moss), \u0422\u043E\u043D\u0438 \u0411\u0440\u0443\u043A\u0441 (\u0430\u043D\u0433\u043B. Tony Brooks) \u0438 \u0434\u0430\u0436\u0435 \u041A\u043E\u043B\u0438\u043D \u0427\u0435\u043F\u043C\u0435\u043D (\u0430\u043D\u0433\u043B. Colin Chapman), \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0431\u044B\u043B \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u043E\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u044B."@ru ,
+		"\u30F4\u30A1\u30F3\u30A6\u30A9\u30FC\u30EB\uFF08Vandervell Products Ltd\uFF09\u306F\u3001\u304B\u3064\u3066F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30021958\u5E74\u306B\u5236\u5B9A\u3055\u308C\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30BA\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30B7\u30C3\u30D7\u306E\u521D\u4EE3\u7372\u5F97\u8005\u3067\u3042\u308B\u3002\u30F4\u30A1\u30F3\u30A6\u30A9\u30FC\u30EB\u3068\u3044\u3046\u540D\u79F0\u306F\u3001\u6BCD\u4F53\u3067\u3042\u308B\u30F4\u30A1\u30F3\u30C0\u30FC\u30D9\u30EB\u793E\u3068\u305D\u306E\u5546\u6A19\u300C\u30B7\u30F3\u30A6\u30A9\u30FC\u30EB\u300D\u3092\u7D44\u307F\u5408\u308F\u305B\u3066\u547D\u540D\u3055\u308C\u305F\u3002"@ja ,
+		"Vanwall was a motor racing team and racing car constructor that was active in Formula One during the 1950s. Founded by Tony Vandervell, the Vanwall name was derived by combining the name of the team owner with that of his Thinwall bearings produced at the Vandervell Products factory at Acton, London. Originally entering modified Ferraris in non-championship races, Vanwall constructed their first cars to race in the 1954 Formula One season. The team achieved their first race win in the 1957 British Grand Prix, with Stirling Moss and Tony Brooks sharing a VW 5, earning the team the distinction of constructing the first British-built car to win a World Championship race. Vanwall won the inaugural Constructors Championship in 1958, in the process allowing Moss and Brooks to finish second and third in the drivers standings, winning three races each. Vandervell's failing health meant 1958 would be the last full season; the squad ran cars in a handful of races in the following years, but finished racing in 1961."@en ,
+		"Vanwall war ein englischer Formel-1-Rennstall. Er gewann 1958 die Konstrukteurswertung der Formel 1, die in diesem Jahr zum ersten Mal ausgetragen wurde."@de ,
+		"Vanwall foi uma equipe de F\u00F3rmula 1 fundada na d\u00E9cada de 50 por Tony Vandervell. O time alcan\u00E7ou o campeonato de construtores de 1958, mas abandonou as competi\u00E7\u00F5es ao final da temporada, s\u00F3 regressando \u00E0 categoria no ano seguinte."@pt ,
+		"Vanwall was een Brits Formule 1-team dat deelnam aan het kampioenschap tussen 1954 en 1960. Het werd opgericht door industrieel Tony Vandervell. Het team won het constructeurskampioenschap van 1958."@nl ,
+		"Vanwall est une ancienne marque de sport automobile, pr\u00E9sente en Formule 1 de 1954 \u00E0 1960. Elle a notamment remport\u00E9 le tout premier championnat du monde des constructeurs de formule 1."@fr ,
+		"La Vanwall \u00E8 stata una scuderia inglese di Formula 1 negli anni '50. Il nome Vanwall si ottiene combinando il nome del proprietario del team Tony Vandervell con quello del suo marchio di bronzine Thinwall bearing, prodotte nello stabilimento Vanderwell Acton, a Londra."@it ,
+		"Vanwall fue un equipo de automovilismo fundado por el empresario brit\u00E1nico Tony Vandervell que compiti\u00F3 en la F\u00F3rmula 1 y otras categor\u00EDas de monoplazas en la d\u00E9cada de 1950. El nombre Vanwall nace de la combinaci\u00F3n del nombre del propietario Tony Vandervell y del producto m\u00E1s conocido de sus empresas: juntas para bastidores (thinwall bearings en ingl\u00E9s). Tony Vandervell inicialmente apoy\u00F3 al equipo British Racing Motors, que hizo participar en competencias versiones modificadas de autom\u00F3viles Ferrari con el nombre de \"Thinwall Special\". Los primeros autom\u00F3viles Vanwall se denominaron Vanwall Specials y fueron construidos para adaptarse a las reglas de la F\u00F3rmula 1 de 1954. El chasis fue dise\u00F1ado por Owen Maddock y construido por Cooper Car Company. Los motores de dos litros fueron dise\u00F1ados por el ingeniero de Norton Leo Kuzmicki, y eran esencialmente dos motores Norton de 500cc convertidos en un s\u00F3lo motor. El autom\u00F3vil se present\u00F3 para su estreno en el Gran Premio de Gran Breta\u00F1a de ese a\u00F1o. El desarrollo continu\u00F3 hasta que se obtuvo un motor de 2,5 litros. Vanwalls corri\u00F3 por dos a\u00F1os consecutivos sin mucho \u00E9xito. Se concluy\u00F3 que el motor estaba a la altura mas no el chasis y se contrat\u00F3 al joven dise\u00F1ador de autom\u00F3viles Colin Chapman para redise\u00F1ar el chasis. Los nuevos autom\u00F3viles dise\u00F1ados por Chapman (junto con Frank Costin, responsable de la aerodin\u00E1mica) se mostraron prometedores en 1956 al ganar una carrera no v\u00E1lida para el campeonato F1 en Silverstone. En 1957, Stirling Moss se incorpor\u00F3 como piloto junto con Tony Brooks y Stuart Lewis-Evans. La primera victoria en F\u00F3rmula 1 fue obtenida en Italia y luego en Pescara. En 1958, el equipo gan\u00F3 seis v\u00E1lidas para el campeonato, convirti\u00E9ndose en el primer equipo en ganar la copa de constructores de la F\u00F3rmula 1. El campeonato de pilotos de ese a\u00F1o fue sin embargo ganado por Mike Hawthorn por un punto por encima de Moss. Lamentablemente, durante la \u00FAltima carrera de la temporada en Marruecos, Lewis-Evans sufri\u00F3 heridas fatales en un accidente. Durante la temporada 1958, Vanwall particip\u00F3 en todas las carreras v\u00E1lidas por el campeonato menos la primera fecha, disputada en Argentina.. Al final de esa temporada Vandervell debi\u00F3 retirarse por razones de salud y con lo que el equipo fue decayendo y ya no gan\u00F3 m\u00E1s carreras. El \u00FAltimo Vanwall en competir fue una m\u00E1quina producida para la F\u00F3rmula Intercontinental de 1961. Pero cuando el p\u00FAblico no se interes\u00F3 en la competencia, las inversiones cesaron y el auto ya no mejor\u00F3."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Thinwall_special.jpg?width=300> ;
+	dbo:wikiPageRevisionID	737157203 ;
+	dbo:wikiPageID	445654 ;
+	dbp:logo	250 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Vanwall	ns25:hypernym	dbr:Motor ;
+	dbp:title	<http://dbpedia.org/resource/List_of_Formula_One_World_Constructors\u0027_Champions> ;
+	dbp:lastRace	1960 .
+dbr:Colin_Chapman	<http://dbpedia.org/property/team(s)_>	dbr:Vanwall .
+dbr:Vanw	dbo:wikiPageRedirects	dbr:Vanwall .
+<http://dbpedia.org/resource/1955_Avon_Trophy>	dbo:fastestDriverTeam	dbr:Vanwall ;
+	dbo:poleDriverTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1957_Monaco_Grand_Prix>	dbo:secondTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1957_Glover_Trophy>	dbo:fastestDriverTeam	dbr:Vanwall ;
+	dbo:poleDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1958_Dutch_Grand_Prix>	dbo:fastestDriverTeam	dbr:Vanwall ;
+	dbo:poleDriverTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1957_Reims_Grand_Prix>	dbo:thirdTeam	dbr:Vanwall .
+dbr:Thinwall_Special	dbo:wikiPageRedirects	dbr:Vanwall .
+wikipedia-en:Vanwall	foaf:primaryTopic	dbr:Vanwall .
+<http://dbpedia.org/resource/1957_Pescara_Grand_Prix>	dbo:fastestDriverTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1957_Moroccan_Grand_Prix>	dbo:poleDriverTeam	dbr:Vanwall ;
+	dbo:secondTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1957_British_Grand_Prix>	dbo:fastestDriverTeam	dbr:Vanwall ;
+	dbo:poleDriverTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1958_British_Grand_Prix>	dbo:poleDriverTeam	dbr:Vanwall .
+dbr:Stuart_Lewis-Evans	<http://dbpedia.org/property/team(s)_>	dbr:Vanwall .
+dbr:Vanwall_VW_2	dbo:wikiPageRedirects	dbr:Vanwall .
+dbr:Vanwall_VW_55	dbo:wikiPageRedirects	dbr:Vanwall .
+dbr:Coppa_Acerbo	dbp:fastestLapTeam	dbr:Vanwall ;
+	dbp:winningTeam	dbr:Vanwall .
+<http://dbpedia.org/resource/1958_Portuguese_Grand_Prix>	dbo:poleDriverTeam	dbr:Vanwall ;
+	dbo:thirdTeam	dbr:Vanwall ;
+	dbo:firstDriverTeam	dbr:Vanwall .
+dbr:Vanwall_Cars	dbo:wikiPageRedirects	dbr:Vanwall .

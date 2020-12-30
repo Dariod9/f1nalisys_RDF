@@ -1,0 +1,48 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:List_of_British_cars	dbo:wikiPageRedirects	dbr:List_of_car_manufacturers_of_the_United_Kingdom .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:List_of_car_manufacturers_of_the_United_Kingdom	rdfs:label	"List of car manufacturers of the United Kingdom"@en ,
+		"\u0421\u043F\u0438\u0441\u043E\u043A \u0430\u0432\u0442\u043E\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u0435\u0439 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438"@ru ;
+	rdfs:comment	"\u042D\u0442\u043E \u0441\u043F\u0438\u0441\u043E\u043A \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0438 \u043B\u0438\u043A\u0432\u0438\u0434\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0445 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u0435\u0439 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438."@ru ,
+		"As of 2014 there are approximately 35 active British car manufacturers and over 500 defunct British car manufacturers. This page lists car manufacturers that build or built cars in the UK."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:List_of_car_manufacturers_of_the_United_Kingdom	owl:sameAs	dbpedia-wikidata:Q4431781 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:List_of_car_manufacturers_of_the_United_Kingdom	owl:sameAs	wikidata:Q4431781 ,
+		<http://rdf.freebase.com/ns/m.015smg> ,
+		dbr:List_of_car_manufacturers_of_the_United_Kingdom .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:List_of_car_manufacturers_of_the_United_Kingdom	dct:subject	dbc:Automobile-related_lists ,
+		dbc:Veteran_vehicles ,
+		dbc:Vintage_vehicles ,
+		dbc:Economy_of_the_United_Kingdom-related_lists ,
+		dbc:British_brands ,
+		dbc:Lists_of_automobiles_by_country ,
+		dbc:Motor_vehicle_manufacturers_of_the_United_Kingdom ,
+		dbc:Sports_car_manufacturers ,
+		dbc:Formula_One_constructors ,
+		dbc:Car_manufacturers_of_the_United_Kingdom ,
+		dbc:Brass_Era_vehicles ,
+		dbc:Cyclecars ,
+		dbc:Kit_car_manufacturers ,
+		dbc:Defunct_motor_vehicle_manufacturers_of_the_United_Kingdom ,
+		dbc:Luxury_motor_vehicle_manufacturers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:List_of_car_manufacturers_of_the_United_Kingdom	foaf:isPrimaryTopicOf	wikipedia-en:List_of_car_manufacturers_of_the_United_Kingdom .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:List_of_car_manufacturers_of_the_United_Kingdom	dbp:num	"no"^^xsd:string ;
+	dbp:side	"yes"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:List_of_car_manufacturers_of_the_United_Kingdom	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/List_of_car_manufacturers_of_the_United_Kingdom?oldid=741811492> ;
+	dbo:abstract	"\u042D\u0442\u043E \u0441\u043F\u0438\u0441\u043E\u043A \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0438 \u043B\u0438\u043A\u0432\u0438\u0434\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0445 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u0435\u0439 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438."@ru ,
+		"As of 2014 there are approximately 35 active British car manufacturers and over 500 defunct British car manufacturers. This page lists car manufacturers that build or built cars in the UK."@en ;
+	dbo:wikiPageRevisionID	741811492 ;
+	dbo:wikiPageID	16985942 ;
+	dbp:top	"no"^^xsd:string .
+wikipedia-en:List_of_car_manufacturers_of_the_United_Kingdom	foaf:primaryTopic	dbr:List_of_car_manufacturers_of_the_United_Kingdom .
+dbr:List_of_British_car_manufacturers	dbo:wikiPageRedirects	dbr:List_of_car_manufacturers_of_the_United_Kingdom .

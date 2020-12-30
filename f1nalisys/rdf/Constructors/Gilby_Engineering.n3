@@ -1,0 +1,105 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1962_Naples_Grand_Prix>	dbo:thirdTeam	dbr:Gilby_Engineering .
+dbr:Ian_Raby	<http://dbpedia.org/property/team(s)_>	dbr:Gilby_Engineering .
+<http://dbpedia.org/resource/1963_Rome_Grand_Prix>	dbo:thirdTeam	dbr:Gilby_Engineering .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Gilby_Engineering	foaf:primaryTopic	dbr:Gilby_Engineering .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Gilby_Engineering	rdf:type	owl:Thing ,
+		dbo:SportsTeam ,
+		dbo:FormulaOneTeam .
+@prefix schema:	<http://schema.org/> .
+dbr:Gilby_Engineering	rdf:type	schema:SportsTeam .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Gilby_Engineering	rdf:type	wikidata:Q24229398 ,
+		schema:Organization .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Gilby_Engineering	rdf:type	yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatBritishRacecarConstructors ,
+		dbo:MotorsportSeason ,
+		yago:Organism100004475 ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		wikidata:Q43229 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors ,
+		dbo:Organisation ,
+		yago:Builder109878275 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Gilby_Engineering	rdf:type	ns9:SocialPerson ,
+		yago:Party110402824 ,
+		dbo:Agent ,
+		ns9:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Gilby_Engineering	rdfs:label	"Gilby Engineering"@pl ,
+		"Gilby Engineering"@en ,
+		"Gilby Engineering"@fr ,
+		"Gilby (F\u00F3rmula 1)"@pt ;
+	rdfs:comment	"Gilby Engineering \u00E9tait une \u00E9curie de course automobile britannique qui devint plus tard un constructeur de voitures de voitures de course. L'\u00E9curie a particip\u00E9 \u00E0 12 Grand Prix en Championnat du monde de Formule 1 entre 1954 et 1962. Les voitures Gilby \u00E9taient construites par Syd Greene pour que son fils, Keith Greene puisse courir en Grand Prix, auparavant l'\u00E9curie utilisait une Maserati 250F pour Roy Salvadori et Ivor Bueb ainsi qu'une Cooper T45 puis T43 pour Keith Greene. Ce dernier devint plus tard c\u00E9l\u00E8bre pour avoir \u00E9t\u00E9 directeur d'\u00E9curies de Formule 1 et de voitures de sport. Apr\u00E8s qu'ils aient cess\u00E9 de courir dans la discipline reine, la Gilby 62 fut engag\u00E9e \u00E0 titre priv\u00E9 par Ian Raby d\u00E8s 1963."@fr ,
+		"Gilby Engineering \u2013 dawny brytyjski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy za\u0142o\u017Cony przez Sida Greene'a, w latach 1954\u20131963 uczestnik Mistrzostw \u015Awiata Formu\u0142y 1."@pl ,
+		"(This article is about motor racing team and racing car constructor. For the city in North Dakota, see Gilby, North Dakota. For people named Gilby, see Gilby (surname).) Gilby Engineering was a motor racing team and later racing car constructor from the United Kingdom. The team competed in 12 Formula One World Championship Grands Prix, including 6 with cars of their own construction, but scored no World Championship points. The Gilby cars were constructed by Syd Greene for his son Keith to drive, having previously entered a Maserati 250F for Roy Salvadori and Ivor Bueb and also a Cooper for Greene Jr. Keith Greene later became better known as a team manager in Formula One and sports car racing. Gilby made its debut in the 1954 French Grand Prix with the Maserati, for Salvadori, who also dr"@en ,
+		"Gilby Engineering foi uma construtora de F\u00F3rmula 1 do Reino Unido fundada por Syd Greene. Participou de 15 grandes pr\u00EAmios entre 1954 e 1963 (largou em 11), por\u00E9m n\u00E3o conseguiu pontuar em nenhum deles. Teve como pilotos os brit\u00E2nicos Roy Salvadori, Ivor Bueb, Keith Greene e Ian Raby. O melhor resultado da equipe foi um 11\u00B0 lugar, obtido por Salvadori no GP da It\u00E1lia de 1954."@pt .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Gilby_Engineering	owl:sameAs	dbpedia-fr:Gilby_Engineering ,
+		<http://pt.dbpedia.org/resource/Gilby_(F\u00F3rmula_1)> ,
+		<http://rdf.freebase.com/ns/m.04n6hc> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Gilby_Engineering	owl:sameAs	dbpedia-wikidata:Q3312686 ,
+		dbr:Gilby_Engineering ,
+		wikidata:Q3312686 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Gilby_Engineering	owl:sameAs	dbpedia-pl:Gilby_Engineering .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Gilby_Engineering	owl:sameAs	yago-res:Gilby_Engineering .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Gilby_Engineering	dct:subject	dbc:British_auto_racing_teams ,
+		dbc:British_racecar_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Gilby_Engineering .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Gilby_Engineering	dbp:races	12 ;
+	dbp:founders	"Syd Greene"^^xsd:string ;
+	dbp:debut	1954 ;
+	dbp:points	0 ;
+	dbp:longName	"Gilby Engineering"^^xsd:string ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Keith Greene"^^xsd:string ,
+		"Roy Salvadori"^^xsd:string ,
+		"Ivor Bueb"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Gilby_Engineering	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gilby_Engineering?oldid=734776543> ;
+	dbp:staff	dbr:Len_Terry ;
+	dbp:name	"Gilby"^^xsd:string ;
+	dbp:constructors	"Maserati, Cooper, Gilby"^^xsd:string ;
+	dbp:engines	dbr:Coventry_Climax ,
+		dbr:Maserati_in_Motorsport ,
+		dbr:Inline_four_engine ,
+		dbr:V8_engine ,
+		dbr:British_Racing_Motors ,
+		dbr:Straight-6 ;
+	dbo:abstract	"(This article is about motor racing team and racing car constructor. For the city in North Dakota, see Gilby, North Dakota. For people named Gilby, see Gilby (surname).) Gilby Engineering was a motor racing team and later racing car constructor from the United Kingdom. The team competed in 12 Formula One World Championship Grands Prix, including 6 with cars of their own construction, but scored no World Championship points. The Gilby cars were constructed by Syd Greene for his son Keith to drive, having previously entered a Maserati 250F for Roy Salvadori and Ivor Bueb and also a Cooper for Greene Jr. Keith Greene later became better known as a team manager in Formula One and sports car racing. Gilby made its debut in the 1954 French Grand Prix with the Maserati, for Salvadori, who also drove for the team in 1955 and 1956, and the team's last event was the 1962 Italian Grand Prix. After the team ceased competing in Formula One, the final Gilby car was purchased and entered in three events in 1963, by privateer Ian Raby. Keith Greene achieved a third-place finish in the non-championship Naples Grand Prix of 1962, with the BRM-engined car, behind the works Ferrari's of Willy Mairesse and Lorenzo Bandini."@en ,
+		"Gilby Engineering \u00E9tait une \u00E9curie de course automobile britannique qui devint plus tard un constructeur de voitures de voitures de course. L'\u00E9curie a particip\u00E9 \u00E0 12 Grand Prix en Championnat du monde de Formule 1 entre 1954 et 1962. Les voitures Gilby \u00E9taient construites par Syd Greene pour que son fils, Keith Greene puisse courir en Grand Prix, auparavant l'\u00E9curie utilisait une Maserati 250F pour Roy Salvadori et Ivor Bueb ainsi qu'une Cooper T45 puis T43 pour Keith Greene. Ce dernier devint plus tard c\u00E9l\u00E8bre pour avoir \u00E9t\u00E9 directeur d'\u00E9curies de Formule 1 et de voitures de sport. Apr\u00E8s qu'ils aient cess\u00E9 de courir dans la discipline reine, la Gilby 62 fut engag\u00E9e \u00E0 titre priv\u00E9 par Ian Raby d\u00E8s 1963."@fr ,
+		"Gilby Engineering foi uma construtora de F\u00F3rmula 1 do Reino Unido fundada por Syd Greene. Participou de 15 grandes pr\u00EAmios entre 1954 e 1963 (largou em 11), por\u00E9m n\u00E3o conseguiu pontuar em nenhum deles. Teve como pilotos os brit\u00E2nicos Roy Salvadori, Ivor Bueb, Keith Greene e Ian Raby. O melhor resultado da equipe foi um 11\u00B0 lugar, obtido por Salvadori no GP da It\u00E1lia de 1954."@pt ,
+		"Gilby Engineering \u2013 dawny brytyjski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy za\u0142o\u017Cony przez Sida Greene'a, w latach 1954\u20131963 uczestnik Mistrzostw \u015Awiata Formu\u0142y 1."@pl ;
+	dbo:wikiPageRevisionID	734776543 ;
+	dbo:wikiPageID	1262601 ;
+	dbp:podiums	0 .
+@prefix ns19:	<http://purl.org/linguistics/gold/> .
+dbr:Gilby_Engineering	ns19:hypernym	dbr:Motor ;
+	dbp:lastRace	1962 .
+dbr:Gilby	dbo:wikiPageDisambiguates	dbr:Gilby_Engineering .
+dbr:Keith_Greene	<http://dbpedia.org/property/team(s)_>	dbr:Gilby_Engineering .

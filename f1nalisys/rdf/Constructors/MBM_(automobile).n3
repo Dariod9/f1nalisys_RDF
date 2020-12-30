@@ -1,0 +1,80 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Peter_Monteverdi	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/MBM_(automobile)> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/MBM_(automobile)>	foaf:primaryTopic	<http://dbpedia.org/resource/MBM_(automobile)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/MBM_(automobile)>	rdf:type	yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/MBM_(automobile)>	rdf:type	schema:Organization .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/MBM_(automobile)>	rdf:type	dbo:Organisation ,
+		yago:WikicatSwissRacecarConstructors ,
+		schema:SportsTeam .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/MBM_(automobile)>	rdf:type	ns6:Agent ,
+		dbo:Agent ,
+		dbo:SportsTeam ,
+		yago:Builder109878275 ,
+		yago:Party110402824 ,
+		yago:Contractor109960891 ,
+		yago:WikicatFormulaOneConstructors .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/MBM_(automobile)>	rdf:type	owl:Thing ,
+		yago:Whole100003553 ,
+		ns6:SocialPerson ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/MBM_(automobile)>	rdf:type	wikidata:Q24229398 ,
+		yago:Organism100004475 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneTeam ,
+		wikidata:Q43229 ,
+		yago:YagoLegalActor .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/MBM_(automobile)>	rdfs:label	"MBM (automobile)"@en ;
+	rdfs:comment	"The MBM was a Swiss Formula One racing car. The car was built by Peter Monteverdi at his base in Binningen, and was designed to compete in Grands Prix, although this aim was ultimately not achieved. Monteverdi built his first single-seater racing car, a Formula Junior, in 1960, with the help of DKW engine expert Dieter Mantzel. The car was designed to be able to accommodate a 1.5 litre engine to suit the contemporary Formula One regulations."@en ;
+	owl:sameAs	wikidata:Q6714733 ,
+		<http://yago-knowledge.org/resource/MBM_(automobile)> ,
+		<http://dbpedia.org/resource/MBM_(automobile)> ,
+		<http://rdf.freebase.com/ns/m.0cn__qj> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/MBM_(automobile)>	owl:sameAs	dbpedia-wikidata:Q6714733 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/MBM_(automobile)>	dct:subject	dbc:Formula_One_constructors ,
+		dbc:Swiss_racecar_constructors ;
+	foaf:name	"Monteverdi Basle Mantzel"@en ,
+		"Monteverdi Basle Motoren"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Emblem_MBM.JPG> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/MBM_(automobile)> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/MBM_(automobile)>	dbp:races	1 ;
+	dbp:founders	dbr:Peter_Monteverdi ;
+	dbp:debut	1961 ;
+	dbp:points	0 ;
+	dbp:wins	0 ;
+	dbp:consChamp	0 ;
+	dbp:drivers	"Peter Monteverdi"^^xsd:string ;
+	dbp:driversChamp	0 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:shortName	"MBM"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/MBM_(automobile)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/MBM_(automobile)?oldid=665896877> ;
+	dbp:base	dbr:Binningen ,
+		dbr:Switzerland ;
+	dbp:engines	dbr:Porsche_in_Formula_One ;
+	dbo:abstract	"The MBM was a Swiss Formula One racing car. The car was built by Peter Monteverdi at his base in Binningen, and was designed to compete in Grands Prix, although this aim was ultimately not achieved. Monteverdi built his first single-seater racing car, a Formula Junior, in 1960, with the help of DKW engine expert Dieter Mantzel. The car was designed to be able to accommodate a 1.5 litre engine to suit the contemporary Formula One regulations. For 1961, two MBM chassis were constructed, and fitted with Porsche Flat-4 engines, and initially driven in hillclimbs by Monteverdi himself. He then entered one of the cars in the 1961 Solitude Grand Prix, a non-championship Formula One race. Unable to set a representative time in practice, Monteverdi lined up on the grid at the back of the field, and retired with engine failure after just two laps. This car was subsequently written off in an accident at Hockenheim, and Monteverdi buried the wreckage, deciding against continuing with the project. He had entered the car for the 1961 German Grand Prix but this entry was withdrawn after the accident. The other chassis was later exhibited in Monteverdi showrooms. Some sports cars, the MBM Special, Tourismo, and MBM Sports were also built in very limited numbers before Monteverdi began building cars under his own name in 1967."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Emblem_MBM.JPG?width=300> ;
+	dbo:wikiPageRevisionID	665896877 ;
+	dbo:wikiPageID	28205906 ;
+	dbp:logo	100 .
+@prefix ns15:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/MBM_(automobile)>	ns15:hypernym	dbr:Formula ;
+	dbp:lastRace	1961 .
+dbr:MBM	dbo:wikiPageDisambiguates	<http://dbpedia.org/resource/MBM_(automobile)> .
+dbr:MBM_Tourismo	dbo:manufacturer	<http://dbpedia.org/resource/MBM_(automobile)> .

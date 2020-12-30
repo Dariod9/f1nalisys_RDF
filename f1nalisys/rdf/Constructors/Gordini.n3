@@ -1,0 +1,203 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Jacques_Pollet	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+dbr:Harry_Schell	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+dbr:Roger_Loyer	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1937_24_Hours_of_Le_Mans__17__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1937_24_Hours_of_Le_Mans__21__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1937_24_Hours_of_Le_Mans__29__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1937_24_Hours_of_Le_Mans__33__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1939_24_Hours_of_Le_Mans__10__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1939_24_Hours_of_Le_Mans__13__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1939_24_Hours_of_Le_Mans__19__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1939_24_Hours_of_Le_Mans__20__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1939_24_Hours_of_Le_Mans__39__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__31__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__41__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__40__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+dbr:Simca_Gordini_T15	dbo:wikiPageRedirects	dbr:Gordini .
+<http://dbpedia.org/resource/1952_Belgian_Grand_Prix>	dbo:thirdTeam	dbr:Gordini .
+<http://dbpedia.org/resource/1952_Swiss_Grand_Prix>	dbo:thirdTeam	dbr:Gordini .
+dbr:Jean_Behra	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+<http://dbpedia.org/resource/Paul_Fr\u00E8re>	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__25__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__25__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+dbr:Hermano_da_Silva_Ramos	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+dbr:Mike_Sparken	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+<http://dbpedia.org/resource/1948_Roussillon_Grand_Prix>	dbo:fastestDriverTeam	dbr:Gordini ;
+	dbo:firstDriverTeam	dbr:Gordini .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns3:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Gordini	rdf:type	ns3:SocialPerson ,
+		ns3:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Gordini	rdf:type	yago:WikicatFormulaOneEngineManufacturers ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Manufacturer108060446 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Gordini	rdf:type	wikidata:Q43229 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Gordini	rdf:type	owl:Thing ,
+		yago:Enterprise108056231 ,
+		yago:Business108061042 ,
+		yago:WikicatMotorVehicleManufacturersOfFrance ,
+		yago:Company108058098 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Gordini	rdf:type	schema:Organization ,
+		yago:WikicatDefunctMotorVehicleManufacturersOfFrance ,
+		dbo:Company ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		dbo:Agent ,
+		yago:Abstraction100002137 ,
+		dbo:Organisation ,
+		yago:Institution108053576 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Gordini	rdfs:label	"Gordini"@fr ,
+		"Gordini"@pl ,
+		"Gordini"@de ,
+		"Gordini"@pt ,
+		"Gordini"@nl ,
+		"Simca-Gordini"@it ,
+		"\u0413\u043E\u0440\u0434\u0438\u043D\u0438 (\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430)"@ru ,
+		"Gordini"@en ,
+		"\u30B4\u30EB\u30C7\u30A3\u30FC\u30CB"@ja ,
+		"Gordini"@es ;
+	rdfs:comment	"Gordini is een Franse sportwagenfabrikant. Het bedrijf is opgericht door Am\u00E9d\u00E9e Gordini die als bijnaam \"Le Sorcier\" (De Tovenaar) had. De zoon van Am\u00E9d\u00E9e, Aldo Gordini, werkte als monteur voor het bedrijf en was daarnaast coureur voor het Gordini team. Gordini nam deel aan de Formule 1 van 1950 tot 1956. Van 1962 tot 1969 werkte Gordini samen met Renault en werd onder de naam Renault-Gordini aan de 24 uur van Le Mans deelgenomen. Na deze periode ging Gordini met pensioen en verkocht hij zijn bedrijf aan Renault. Op 1 januari 1976 werd Ren\u00E9 Vuaillat directeur van Gordini."@nl ,
+		"Gordini fue una marca de manufactura de autom\u00F3viles francesa. La compa\u00F1\u00EDa fue creada por Am\u00E9d\u00E9e Gordini (Bazzano, Italia, 23 de junio de 1899 - \u2020 Par\u00EDs, 25 de mayo de 1979) apodado \"Le Sorcier\" (El Brujo). Al comienzo Gordini estuvo cercano a Simca cuyo fundador fue Henri Pigozzi compartiendo modelos entre ambas marcas. Gordini compiti\u00F3 en F\u00F3rmula 1 desde 1950 hasta 1956. Posteriormente Gordini trabaj\u00F3 con Renault como ajustador de motores hasta que vendi\u00F3 la firma a Renault. El 1 de enero 1976, Ren\u00E9 Vuaillat se convirti\u00F3 en director del Gordini."@es ,
+		"Gordini \u2013 francuskie przedsi\u0119biorstwo produkuj\u0105ce samochody, za\u0142o\u017Cone przez znanego konstruktora Am\u00E9d\u00E9e Gordini. Firma znana jest z udzia\u0142u w wy\u015Bcigach samochodowych. Pocz\u0105tkowo budowa\u0142a w\u0142asne konstrukcje z wykorzystaniem zespo\u0142\u00F3w firmy Simca. By\u0142y to modele oznaczane jako Simca-Gordini. W latach 1950 \u2013 1956 firma bra\u0142a udzia\u0142 w wy\u015Bcigach Formu\u0142y 1. Firma z modeli 15, 16 i 32, pomalowanych na charakterystyczny niebieski kolor symbolizuj\u0105cy Francj\u0119. Firma anga\u017Cowa\u0142a si\u0119 te\u017C w wy\u015Bcigi Le Mans. Nast\u0119pnie firma rozpocz\u0119\u0142a \u015Bcis\u0142\u0105 wsp\u00F3\u0142prac\u0119 z Renault, po czym w 1969 firma zosta\u0142a w\u0142\u0105czona w sk\u0142ad koncernu."@pl ,
+		"Gordini est une soci\u00E9t\u00E9 fond\u00E9e par Am\u00E9d\u00E9e Gordini, sp\u00E9cialis\u00E9e dans la pr\u00E9paration d\u2019automobiles principalement des marques Renault et Simca. La marque \u00AB Gordini \u00BB est la propri\u00E9t\u00E9 de Renault depuis 1969."@fr ,
+		"La Simca-Gordini \u00E8 stata un team francese di Formula 1 dal 1950 al 1956. Fu fondata da Amedeo Gordini dopo aver stretto un accordo con la casa automobilistica Simca."@it ,
+		"A Gordini \u00E9 uma divis\u00E3o da Renault Sport Technologies (Renault Sport). No passado ela foi uma fabricante e preparadora de carros esportivos, fundada em 1946 por Am\u00E9d\u00E9e Gordini, apelidado de \"Le Sorcier\" (\"O bruxo\"). A Gordini tornou-se uma divis\u00E3o da Renault em 1968, e da Renault Sport em 1976. Em 01 de janeiro de 1976, Ren\u00E9 Vuaillat tornou-se diretor de Gordini."@pt ,
+		"Gordini war ein franz\u00F6sischer Formel-1-Rennstall, Sportwagen-Produzent und Tuner."@de ,
+		"Gordini (French pronunciation: \u200B[\u0261\u0254\u0281dini]) is a division of Renault Sport Technologies (Renault Sport). In the past, it was a sports car manufacturer and performance tuner, established in 1946 by Am\u00E9d\u00E9e Gordini, nicknamed \"Le Sorcier\" (The Sorcerer). Gordini became a division of Renault in 1968 and of Renault Sport in 1976."@en ,
+		"\u30B4\u30EB\u30C7\u30A3\u30FC\u30CB\uFF08Gordini\uFF09\u306F\u304B\u3064\u3066\u30D5\u30E9\u30F3\u30B9\u306B\u5B58\u5728\u3057\u305F\u81EA\u52D5\u8ECA\u306E\u30C1\u30E5\u30FC\u30CB\u30F3\u30B0\u30E1\u30FC\u30AB\u30FC\u3067\u3042\u308B\u3002\u73FE\u5728\u3001\u300C\u30B4\u30EB\u30C7\u30A3\u30FC\u30CB\u300D\u306E\u5546\u6A19\u6A29\u306F\u30EB\u30CE\u30FC\u304C\u6240\u6709\u3057\u3066\u3044\u308B\u3002\u5F8C\u8FF0\u3059\u308B\u3088\u3046\u306B\u3001F1\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066\u53C2\u6226\u3057\u3066\u3044\u305F\u6642\u671F\u3082\u3042\u3063\u305F\u3002"@ja ,
+		"Gordini \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u0430-\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0410\u043C\u0430\u0434\u0435\u0435\u043C \u0413\u043E\u0440\u0434\u0438\u043D\u0438 \u043F\u043E \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0443 \u00ABLe Sorcier\u00BB \u0432 1945 \u0433\u043E\u0434\u0443."@ru .
+@prefix ns9:	<http://www4.wiwiss.fu-berlin.de/wikicompany/resource/> .
+dbr:Gordini	owl:sameAs	ns9:Gordini .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Gordini	owl:sameAs	dbpedia-es:Gordini .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Gordini	owl:sameAs	dbpedia-wikidata:Q173222 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Gordini	owl:sameAs	yago-res:Gordini .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Gordini	owl:sameAs	dbpedia-it:Simca-Gordini .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Gordini	owl:sameAs	dbpedia-pl:Gordini .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Gordini	owl:sameAs	dbpedia-fr:Gordini ,
+		wikidata:Q173222 ,
+		<http://ja.dbpedia.org/resource/\u30B4\u30EB\u30C7\u30A3\u30FC\u30CB> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Gordini	owl:sameAs	dbpedia-de:Gordini .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Gordini	owl:sameAs	dbpedia-pt:Gordini ,
+		<http://rdf.freebase.com/ns/m.04k2w6> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Gordini	owl:sameAs	dbpedia-nl:Gordini ,
+		dbr:Gordini .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Gordini	dct:subject	dbc:Renault ,
+		dbc:Formula_One_engine_manufacturers ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_Two_constructors ,
+		dbc:French_auto_racing_teams ,
+		dbc:French_racecar_constructors .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Gordini	foaf:name	"Gordini"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Gordini_Type_16.jpg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Gordini	foaf:isPrimaryTopicOf	wikipedia-en:Gordini ;
+	dbo:industry	dbr:Automotive .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Gordini	dbo:internationally	"true"^^xsd:boolean .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Gordini	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gordini?oldid=729361980> ;
+	dbo:locationCity	dbr:Les_Ulis ;
+	dbo:abstract	"Gordini \u2013 francuskie przedsi\u0119biorstwo produkuj\u0105ce samochody, za\u0142o\u017Cone przez znanego konstruktora Am\u00E9d\u00E9e Gordini. Firma znana jest z udzia\u0142u w wy\u015Bcigach samochodowych. Pocz\u0105tkowo budowa\u0142a w\u0142asne konstrukcje z wykorzystaniem zespo\u0142\u00F3w firmy Simca. By\u0142y to modele oznaczane jako Simca-Gordini. W latach 1950 \u2013 1956 firma bra\u0142a udzia\u0142 w wy\u015Bcigach Formu\u0142y 1. Firma z modeli 15, 16 i 32, pomalowanych na charakterystyczny niebieski kolor symbolizuj\u0105cy Francj\u0119. Firma anga\u017Cowa\u0142a si\u0119 te\u017C w wy\u015Bcigi Le Mans. Nast\u0119pnie firma rozpocz\u0119\u0142a \u015Bcis\u0142\u0105 wsp\u00F3\u0142prac\u0119 z Renault, po czym w 1969 firma zosta\u0142a w\u0142\u0105czona w sk\u0142ad koncernu. Dla potrzeb Renault firma przygotowa\u0142a sportowe wersje modeli Renault Dauphine, Renault 8, Renault 12, a nawet Renault Twingo. Dlatego nazwa \"Gordini\" pojawia si\u0119 przy niekt\u00F3rych modelach Renault dla podkre\u015Blenia ich sportowego charakteru, na podobnej zasadzie jak FIAT u\u017Cywa nazwy Abarth. \n* Formu\u0142a 1 Gordini Type 16 \n* Renault 8 Gordini \n* Renault 17 Gordini \n* Renault Twingo RS Gordini"@pl ,
+		"Gordini est une soci\u00E9t\u00E9 fond\u00E9e par Am\u00E9d\u00E9e Gordini, sp\u00E9cialis\u00E9e dans la pr\u00E9paration d\u2019automobiles principalement des marques Renault et Simca. La marque \u00AB Gordini \u00BB est la propri\u00E9t\u00E9 de Renault depuis 1969."@fr ,
+		"Gordini is een Franse sportwagenfabrikant. Het bedrijf is opgericht door Am\u00E9d\u00E9e Gordini die als bijnaam \"Le Sorcier\" (De Tovenaar) had. De zoon van Am\u00E9d\u00E9e, Aldo Gordini, werkte als monteur voor het bedrijf en was daarnaast coureur voor het Gordini team. Gordini nam deel aan de Formule 1 van 1950 tot 1956. Van 1962 tot 1969 werkte Gordini samen met Renault en werd onder de naam Renault-Gordini aan de 24 uur van Le Mans deelgenomen. Na deze periode ging Gordini met pensioen en verkocht hij zijn bedrijf aan Renault. Op 1 januari 1976 werd Ren\u00E9 Vuaillat directeur van Gordini. Renault gebruikte de naam Gordini als aanduiding voor sportieve versies van onder meer de Renault Dauphine, Renault 5, Renault 8 en de Renault 12. In november 2009 kondigde Renault aan dat de naam Gordini gebruikt zou gaan worden voor een exlusive en sportieve lijn van auto's, net zoals Fiat de naam Abarth gebruikt.. Renault-COO Carlos Tavares zei het volgende over de merknaam Gordini: \u201CRenaultsport models will be sporty and Gordini will be a step beyond \u2013 the ultimate track-focused car. A Gordini will only be sold for the road as a derivative of a special track car.\u201D"@nl ,
+		"Gordini (French pronunciation: \u200B[\u0261\u0254\u0281dini]) is a division of Renault Sport Technologies (Renault Sport). In the past, it was a sports car manufacturer and performance tuner, established in 1946 by Am\u00E9d\u00E9e Gordini, nicknamed \"Le Sorcier\" (The Sorcerer). Gordini became a division of Renault in 1968 and of Renault Sport in 1976."@en ,
+		"Gordini fue una marca de manufactura de autom\u00F3viles francesa. La compa\u00F1\u00EDa fue creada por Am\u00E9d\u00E9e Gordini (Bazzano, Italia, 23 de junio de 1899 - \u2020 Par\u00EDs, 25 de mayo de 1979) apodado \"Le Sorcier\" (El Brujo). Al comienzo Gordini estuvo cercano a Simca cuyo fundador fue Henri Pigozzi compartiendo modelos entre ambas marcas. Gordini compiti\u00F3 en F\u00F3rmula 1 desde 1950 hasta 1956. Posteriormente Gordini trabaj\u00F3 con Renault como ajustador de motores hasta que vendi\u00F3 la firma a Renault. El 1 de enero 1976, Ren\u00E9 Vuaillat se convirti\u00F3 en director del Gordini."@es ,
+		"La Simca-Gordini \u00E8 stata un team francese di Formula 1 dal 1950 al 1956. Fu fondata da Amedeo Gordini dopo aver stretto un accordo con la casa automobilistica Simca."@it ,
+		"A Gordini \u00E9 uma divis\u00E3o da Renault Sport Technologies (Renault Sport). No passado ela foi uma fabricante e preparadora de carros esportivos, fundada em 1946 por Am\u00E9d\u00E9e Gordini, apelidado de \"Le Sorcier\" (\"O bruxo\"). A Gordini tornou-se uma divis\u00E3o da Renault em 1968, e da Renault Sport em 1976. Em 01 de janeiro de 1976, Ren\u00E9 Vuaillat tornou-se diretor de Gordini."@pt ,
+		"Gordini war ein franz\u00F6sischer Formel-1-Rennstall, Sportwagen-Produzent und Tuner."@de ,
+		"\u30B4\u30EB\u30C7\u30A3\u30FC\u30CB\uFF08Gordini\uFF09\u306F\u304B\u3064\u3066\u30D5\u30E9\u30F3\u30B9\u306B\u5B58\u5728\u3057\u305F\u81EA\u52D5\u8ECA\u306E\u30C1\u30E5\u30FC\u30CB\u30F3\u30B0\u30E1\u30FC\u30AB\u30FC\u3067\u3042\u308B\u3002\u73FE\u5728\u3001\u300C\u30B4\u30EB\u30C7\u30A3\u30FC\u30CB\u300D\u306E\u5546\u6A19\u6A29\u306F\u30EB\u30CE\u30FC\u304C\u6240\u6709\u3057\u3066\u3044\u308B\u3002\u5F8C\u8FF0\u3059\u308B\u3088\u3046\u306B\u3001F1\u306E\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u3068\u3057\u3066\u53C2\u6226\u3057\u3066\u3044\u305F\u6642\u671F\u3082\u3042\u3063\u305F\u3002"@ja ,
+		"Gordini \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u0430-\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0410\u043C\u0430\u0434\u0435\u0435\u043C \u0413\u043E\u0440\u0434\u0438\u043D\u0438 \u043F\u043E \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0443 \u00ABLe Sorcier\u00BB \u0432 1945 \u0433\u043E\u0434\u0443."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Gordini_Type_16.jpg?width=300> ;
+	dbo:wikiPageRevisionID	729361980 ;
+	dbo:wikiPageID	1226712 .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Gordini	dbp:logo	<http://dbpedia.org/resource/File:Logo_of_Gordini.svg> ;
+	dbo:foundingYear	"1946"^^xsd:gYear ;
+	dbo:locationCountry	dbr:France .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Gordini	ns26:hypernym	dbr:Division ;
+	dbo:parentCompany	dbr:Renault_Sport ;
+	dbo:type	<http://dbpedia.org/resource/Division_(business)> .
+<http://dbpedia.org/resource/\u00C9lie_Bayol>	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__33__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__46__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__48__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__52__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__56__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__38__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__46__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__50__1>	dbo:team	dbr:Gordini .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__57__1>	dbo:team	dbr:Gordini .
+dbr:Simca-Gordini_T15	dbo:wikiPageRedirects	dbr:Gordini .
+dbr:Simca_Gordini_Type_15	dbo:wikiPageRedirects	dbr:Gordini .
+wikipedia-en:Gordini	foaf:primaryTopic	dbr:Gordini .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__41__1>	dbo:team	dbr:Gordini .
+dbr:Fred_Wacker	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+dbr:Gordini_T24S	dbo:wikiPageRedirects	dbr:Gordini .
+dbr:Simca-Gordini_T-15	dbo:wikiPageRedirects	dbr:Gordini .
+dbr:Roberto_Mieres	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+dbr:Renault_Sport	dbo:division	dbr:Gordini .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__DNS__2>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__28__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1949_24_Hours_of_Le_Mans__14__1>	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1949_24_Hours_of_Le_Mans__17__1>	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__44__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__57__1>	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__47__1>	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__39__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__45__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__6__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__30__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__46__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__52__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/Paul_Fr\u00E8re__1952__2>	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/Paul_Fr\u00E8re__1954__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+<http://dbpedia.org/resource/1954_British_Grand_Prix>	dbp:fastTeam	dbr:Gordini .
+dbr:Pablo_Birger	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+<http://dbpedia.org/resource/Andr\u00E9_Milhoux>	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+dbr:Carlos_Menditeguy	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+dbr:Jean_Lucas	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+<http://dbpedia.org/resource/Jes\u00FAs_Iglesias>	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+dbr:Penya_Rhin_Grand_Prix	dbp:fastestLapTeam	dbr:Gordini .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__6__1>	dbo:team	dbr:Gordini ;
+	dbo:manufacturer	dbr:Gordini .
+dbr:Simca-Gordini	dbo:wikiPageRedirects	dbr:Gordini .

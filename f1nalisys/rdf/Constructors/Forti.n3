@@ -1,0 +1,179 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Pedro_Diniz	<http://dbpedia.org/property/team(s)_>	dbr:Forti .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Forti	rdf:type	yago:WikicatFormula3000Teams ,
+		yago:Institution108053576 ,
+		yago:Company108058098 ,
+		yago:WikicatCompaniesBasedInPiedmont ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		yago:Abstraction100002137 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Forti	rdf:type	wikidata:Q24229398 ,
+		yago:WikicatMotorVehicleManufacturersOfItaly .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Forti	rdf:type	dbo:SportsTeam ,
+		dbo:MotorsportSeason ,
+		yago:WikicatCompaniesEstablishedIn1978 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Manufacturer108060446 ,
+		yago:Business108061042 ,
+		dbo:FormulaOneTeam ,
+		wikidata:Q43229 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Forti	rdf:type	owl:Thing ,
+		yago:Enterprise108056231 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Forti	rdf:type	ns6:SocialPerson ,
+		dbo:Organisation .
+@prefix schema:	<http://schema.org/> .
+dbr:Forti	rdf:type	schema:SportsTeam ,
+		ns6:Agent ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dbo:Agent ,
+		yago:WikicatFormulaThreeTeams ,
+		schema:Organization .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Forti	rdfs:label	"Forti Corse"@de ,
+		"Forti"@pl ,
+		"Forti"@nl ,
+		"Forti Corse"@it ,
+		"Forti Corse"@fr ,
+		"Forti"@pt ,
+		"\u0424\u043E\u0440\u0442\u0438 (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Forti"@es ,
+		"\u30D5\u30A9\u30EB\u30C6\u30A3"@ja ,
+		"Forti"@en ;
+	rdfs:comment	"Forti Corse, commonly known as Forti, was an Italian motor racing team chiefly known for its brief, and unsuccessful, involvement in Formula One in the mid-1990s. It was established in the late 1970s and competed in lower formulae for two decades. The team's successes during this period included four Drivers' Championships in Italian Formula Three during the 1980s, and race wins in the International Formula 3000 championship, in which it competed from 1987 to 1994. From 1992, team co-founder Guido Forti developed a relationship with the wealthy Brazilian businessman Ab\u00EDlio dos Santos Diniz that gave Diniz's racing driver son, Pedro, a permanent seat in the team and the outfit a sufficiently high budget to consider entering Formula One."@en ,
+		"A Forti-Corse (ou apenas Forti) foi uma equipe italiana de automobilismo que fez parte da F\u00F3rmula 1 nas temporadas de 1995 e 1996. Correu tamb\u00E9m na extinta F\u00F3rmula 3000. A equipe contava com v\u00E1rios investidores brasileiros, chegando a ser chamada de equipe \u00EDtalo-brasileira, tanto que teve no in\u00EDcio dois pilotos brasileiros."@pt ,
+		"Forti Corse (\u043E\u0431\u044B\u0447\u043D\u043E \u0443\u043F\u043E\u043C\u0438\u043D\u0430\u0435\u0442\u0441\u044F \u043A\u0430\u043A Forti) \u2014 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0413\u0443\u0438\u0434\u043E \u0424\u043E\u0440\u0442\u0438 \u0432 1978 \u0433\u043E\u0434\u0443. \u0423\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0441 1995 \u043F\u043E 1996 \u0433\u043E\u0434. Forti \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u0430\u043B\u0430 \u0432 \u043E\u0431\u0449\u0435\u0439 \u0441\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0432 27 \u0433\u043E\u043D\u043A\u0430\u0445, \u043D\u0435 \u043D\u0430\u0431\u0440\u0430\u0432 \u043D\u0438 \u043E\u0434\u043D\u043E\u0433\u043E \u043E\u0447\u043A\u0430. Forti \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0445 \u00AB\u043C\u0430\u043B\u0435\u043D\u044C\u043A\u0438\u0445\u00BB \u0447\u0430\u0441\u0442\u043D\u044B\u0445 \u043A\u043E\u043C\u0430\u043D\u0434, \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u0432\u0448\u0438\u0445 \u0432 \u044D\u043F\u043E\u0445\u0443 \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u044E\u0449\u0438\u0445\u0441\u044F \u0431\u044E\u0434\u0436\u0435\u0442\u043E\u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1"@ru ,
+		"Forti Corse, com\u00FAnmente conocido como Forti, era un equipo de automovilismo italiano m\u00E1s conocido por su fugaz y poco exitosa trayectoria en la F\u00F3rmula 1 a mediados de los 90. El equipo se estableci\u00F3 en los a\u00F1os 70 y compiti\u00F3 en categor\u00EDas inferiores a la f\u00F3rmula 1 durante dos d\u00E9cadas, con algunos \u00E9xitos. El equipo ingres\u00F3 en la F\u00F3rmula 1 en la temporada 1995 y continu\u00F3 en la 1996, antes de sucumbir por problemas financieros a mitad de temporada. El equipo compiti\u00F3 en un total de 27 grandes premios, sin conseguir puntos, y fue reconocido como uno de los peores equipos privados en competir en una \u00E9poca en la que cada vez entraban m\u00E1s equipos de compa\u00F1\u00EDas automovil\u00EDsticas."@es ,
+		"Forti Corse, puis Forti, est une ancienne \u00E9curie de sport automobile italienne qui s'est notamment engag\u00E9e en Formule 1 lors du championnat du monde 1995 puis du championnat du monde 1996, qu'elle ne termine pas. Cr\u00E9\u00E9e en 1978, l'\u00E9curie a particip\u00E9 \u00E0 diff\u00E9rentes formules de comp\u00E9tition pendant pr\u00E8s de deux d\u00E9cennies. Forti Corse a d\u00E9croch\u00E9 quatre titres de champion des pilotes de Formule 3 italienne obtenus pendant la seconde moiti\u00E9 des ann\u00E9es 1980 et quelques victoires en championnats de Formule 3000 auxquels elle a particip\u00E9 entre 1987 et 1994."@fr ,
+		"Forti Corse war ein italienischer Motorsport-Rennstall, der zwischen 1970 und 1996 an Rennen der Formel Ford, Formel 3, Formel 3000 und Formel 1 teilnahm."@de ,
+		"Forti was een Italiaans raceteam dat in 1995 en 1996 deelnam aan 27 Grands Prix Formule 1, zonder overigens ook maar een punt te scoren. Het team werd in de jaren zeventig opgericht door de Italiaanse zakenlieden Guido Forti en Paolo Guerci, en was gevestigd in Alessandria, in het noorden van Itali\u00EB. In de beginjaren streed het team in de Formule Ford- en Formule 3-klassen, zowel op Italiaans als op Europees niveau. Dankzij de kwaliteiten van het team, de auto's, en coureurs als Franco Forini, Enrico Bertaggia en Gianni Morbidelli, werden in de jaren tachtig regelmatig overwinningen behaald."@nl ,
+		"La Forti \u00E8 stata una scuderia italiana, della citt\u00E0 di Alessandria, fondata nel 1977 da Guido Forti (1940-2013) e Paolo Guerci, che ha partecipato ai campionati di Formula 1 1995 e 1996."@it ,
+		"\u30D5\u30A9\u30EB\u30C6\u30A3\uFF08Forti\uFF09\u306F\u30011995\u5E74\u304B\u30891996\u5E74\u306BF1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30BF\u30EA\u30A2\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u6B63\u5F0F\u540D\u79F0\u306F\u30D5\u30A9\u30EB\u30C6\u30A3\u30FB\u30B3\u30EB\u30BB\u3002\u30AA\u30FC\u30CA\u30FC\u306F\u30B0\u30A4\u30C9\u30FB\u30D5\u30A9\u30EB\u30C6\u30A3\u3002"@ja ,
+		"Forti Corse, znany tak\u017Ce jako Forti \u2013 by\u0142y w\u0142oski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, startuj\u0105cy w Formule 1 w po\u0142owie lat 90. Zesp\u00F3\u0142 zosta\u0142 za\u0142o\u017Cony w 1978 roku i przez dwie dekady bra\u0142 udzia\u0142 w ni\u017Cszych formu\u0142ach wy\u015Bcigowych. Sukcesy zespo\u0142u obejmuj\u0105 zwyci\u0119stwa w klasyfikacji kierowc\u00F3w we W\u0142oskiej Formule 3 w latach 80. oraz dwa zwyci\u0119stwa w zawodach Mi\u0119dzynarodowej Formu\u0142y 3000, w kt\u00F3rej zesp\u00F3\u0142 bra\u0142 udzia\u0142 w latach 1987\u20131994. Od 1992 roku wsp\u00F3\u0142za\u0142o\u017Cyciel zespo\u0142u, Guido Forti, utrzymywa\u0142 kontakt z brazylijskim biznesmenem, Ab\u00EDlio dos Santosem Dinizem. Na skutek tej znajomo\u015Bci Diniz zapewni\u0142 zespo\u0142owi kierowc\u0119 wy\u015Bcigowego \u2013 swojego syna Pedro, oraz wystarczaj\u0105cy bud\u017Cet do start\u00F3w w Formule 1."@pl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Forti	dbp:points	0 ;
+	dbp:drivers	"Roberto Moreno"^^xsd:string ,
+		"Pedro Diniz"^^xsd:string ,
+		"Luca Badoer"^^xsd:string ,
+		"Andrea Montermini"^^xsd:string .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-pl:Forti .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-es:Forti ,
+		wikidata:Q172974 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-id:Forti .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-cs:Forti .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-de:Forti_Corse .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-it:Forti_Corse ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A9\u30EB\u30C6\u30A3> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-wikidata:Q172974 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-pt:Forti ,
+		dbr:Forti .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-fr:Forti_Corse .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Forti	owl:sameAs	dbpedia-nl:Forti ,
+		<http://rdf.freebase.com/ns/m.04k2_j> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Forti	owl:sameAs	yago-res:Forti .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Forti	dct:subject	dbc:Italian_racecar_constructors ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:Formula_Three_teams ,
+		dbc:Formula_3000_teams ,
+		dbc:Italian_auto_racing_teams .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Forti	foaf:name	"("@en ,
+		"Forti"@en ,
+		"Forti Grand Prix ("@en ,
+		")"@en ,
+		"Parmalat"@en ,
+		"Ford"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Forti	foaf:isPrimaryTopicOf	wikipedia-en:Forti ;
+	dbp:podiums	0 ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Forti"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Forti	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Forti?oldid=737665555> ;
+	dbp:founders	dbr:Guido_Forti ,
+		dbr:Paolo_Guerci ;
+	dbp:logo	<http://dbpedia.org/resource/File:Forti_logo.png> ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	dbr:Alessandria ,
+		dbr:Italy ;
+	dbp:debut	1995 ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/> ,
+		<http://www.autocoursegpa.com/team_team~teamsroot_id~7519.htm> ,
+		<https://web.archive.org/web/20120505073534/http:/f1rejects.com/teams/forti/index.html> ,
+		<https://web.archive.org/web/20070926232412/http:/www.autocoursegpa.com/team_team~teamsroot_id~7519.htm> ;
+	dbo:abstract	"Forti was een Italiaans raceteam dat in 1995 en 1996 deelnam aan 27 Grands Prix Formule 1, zonder overigens ook maar een punt te scoren. Het team werd in de jaren zeventig opgericht door de Italiaanse zakenlieden Guido Forti en Paolo Guerci, en was gevestigd in Alessandria, in het noorden van Itali\u00EB. In de beginjaren streed het team in de Formule Ford- en Formule 3-klassen, zowel op Italiaans als op Europees niveau. Dankzij de kwaliteiten van het team, de auto's, en coureurs als Franco Forini, Enrico Bertaggia en Gianni Morbidelli, werden in de jaren tachtig regelmatig overwinningen behaald."@nl ,
+		"Forti Corse (\u043E\u0431\u044B\u0447\u043D\u043E \u0443\u043F\u043E\u043C\u0438\u043D\u0430\u0435\u0442\u0441\u044F \u043A\u0430\u043A Forti) \u2014 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0413\u0443\u0438\u0434\u043E \u0424\u043E\u0440\u0442\u0438 \u0432 1978 \u0433\u043E\u0434\u0443. \u0423\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0441 1995 \u043F\u043E 1996 \u0433\u043E\u0434. Forti \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u0430\u043B\u0430 \u0432 \u043E\u0431\u0449\u0435\u0439 \u0441\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0432 27 \u0433\u043E\u043D\u043A\u0430\u0445, \u043D\u0435 \u043D\u0430\u0431\u0440\u0430\u0432 \u043D\u0438 \u043E\u0434\u043D\u043E\u0433\u043E \u043E\u0447\u043A\u0430. Forti \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0445 \u00AB\u043C\u0430\u043B\u0435\u043D\u044C\u043A\u0438\u0445\u00BB \u0447\u0430\u0441\u0442\u043D\u044B\u0445 \u043A\u043E\u043C\u0430\u043D\u0434, \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u0432\u0448\u0438\u0445 \u0432 \u044D\u043F\u043E\u0445\u0443 \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u044E\u0449\u0438\u0445\u0441\u044F \u0431\u044E\u0434\u0436\u0435\u0442\u043E\u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0412 1992-\u043C \u0433\u043E\u0434\u0443 \u043E\u0441\u043D\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0413\u0443\u0438\u0434\u043E \u0424\u043E\u0440\u0442\u0438 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u043B \u043E\u0442\u043D\u043E\u0448\u0435\u043D\u0438\u044F \u0441 \u0431\u043E\u0433\u0430\u0442\u044B\u043C \u0431\u0440\u0430\u0437\u0438\u043B\u044C\u0441\u043A\u0438\u043C \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D\u043E\u043C \u0410\u0431\u0438\u043B\u0438\u043E \u0414\u0438\u043D\u0438\u0446\u0435\u043C, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0436\u0435\u043B\u0430\u043B \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0442\u044C \u0441\u0432\u043E\u0435\u043C\u0443 \u0441\u044B\u043D\u0443 \u041F\u0435\u0434\u0440\u043E \u043F\u043E\u0441\u0442\u043E\u044F\u043D\u043D\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 \u0432\u044B\u0434\u0435\u043B\u0438\u043B \u0434\u043B\u044F Forti \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u0441\u043A\u0438\u0439 \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442, \u043F\u043E\u0437\u0432\u043E\u043B\u044F\u0432\u0448\u0438\u0439 \u043F\u0440\u0438\u043D\u044F\u0442\u044C \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u0424-1.Forti \u0432\u0441\u0442\u0443\u043F\u0438\u043B\u0430 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0443-1 \u0432 1995 \u0433\u043E\u0434\u0443, \u043D\u043E \u043F\u0435\u0440\u0432\u0430\u044F \u043C\u0430\u0448\u0438\u043D\u0430 Forti FG01 \u043E\u043A\u0430\u0437\u0430\u043B\u0430\u0441\u044C \u043D\u0435\u043A\u043E\u043D\u043A\u0443\u0440\u0435\u043D\u0442\u043E\u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0439. \u041A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u0414\u0438\u043D\u0438\u0446\u0435\u043C \u0431\u044B\u043B \u0440\u0430\u0441\u0442\u043E\u0440\u0433\u043D\u0443\u0442, \u043A\u043E\u0433\u0434\u0430 \u041F\u0435\u0434\u0440\u043E \u043F\u0435\u0440\u0435\u0448\u0451\u043B \u0432 Ligier \u043F\u0435\u0440\u0435\u0434 \u0441\u0435\u0437\u043E\u043D\u043E\u043C 1996 \u0433\u043E\u0434\u0430, \u0443\u0432\u0435\u0434\u044F \u0441 \u0441\u043E\u0431\u043E\u0439 \u0431\u043E\u043B\u044C\u0448\u0443\u044E \u0447\u0430\u0441\u0442\u044C \u0441\u043F\u043E\u043D\u0441\u043E\u0440\u0441\u043A\u0438\u0445 \u0434\u0435\u043D\u0435\u0433. \u0422\u0435\u043C \u043D\u0435 \u043C\u0435\u043D\u0435\u0435 Forti \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445. \u0411\u044B\u043B\u0430 \u0441\u043E\u0437\u0434\u0430\u043D\u0430 \u043D\u043E\u0432\u0430\u044F, \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u0443\u0441\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u0441\u0442\u0432\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u043C\u0430\u0448\u0438\u043D\u0430 FG03, \u043D\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0441\u0442\u043E\u043B\u043A\u043D\u0443\u043B\u0430\u0441\u044C \u0441 \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u043C\u0438 \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u0430\u043C\u0438 \u0438 \u043E\u0431\u0430\u043D\u043A\u0440\u043E\u0442\u0438\u043B\u0430\u0441\u044C \u0432 \u0441\u0435\u0440\u0435\u0434\u0438\u043D\u0435 \u0441\u0435\u0437\u043E\u043D\u0430, \u043F\u043E\u0441\u043B\u0435 \u0437\u0430\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F \u0434\u043E\u0433\u043E\u0432\u043E\u0440\u0430 \u0441 \u0441\u043E\u043C\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439 Shannon Racing.\u041E\u0434\u043D\u043E\u0439 \u0438\u0437 \u043E\u0441\u043D\u043E\u0432\u043D\u044B\u0445 \u043F\u0440\u0438\u0447\u0438\u043D, \u0441\u043A\u0430\u0437\u0430\u0432\u0448\u0438\u0445\u0441\u044F \u043D\u0430 \u0443\u0445\u043E\u0434\u0435 Forti \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043C\u0430\u043B\u0435\u043D\u044C\u043A\u0438\u0445 \u043A\u043E\u043C\u0430\u043D\u0434 \u0438\u0437 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0431\u044B\u043B\u043E \u00AB\u043F\u0440\u0430\u0432\u0438\u043B\u043E 107%\u00BB, \u0432\u0432\u0435\u0434\u0451\u043D\u043D\u043E\u0435 \u0432 1996-\u043C \u0433\u043E\u0434\u0443. \u0421\u043B\u0430\u0431\u044B\u0435 \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0435 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u044B \u044D\u0442\u0438\u0445 \u043A\u043E\u043C\u0430\u043D\u0434 \u043D\u0435 \u0434\u0430\u0432\u0430\u043B\u0438 \u043F\u0440\u0430\u0432\u0430 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u0442\u044C \u0432 \u0433\u043E\u043D\u043A\u0430\u0445."@ru ,
+		"Forti Corse, com\u00FAnmente conocido como Forti, era un equipo de automovilismo italiano m\u00E1s conocido por su fugaz y poco exitosa trayectoria en la F\u00F3rmula 1 a mediados de los 90. El equipo se estableci\u00F3 en los a\u00F1os 70 y compiti\u00F3 en categor\u00EDas inferiores a la f\u00F3rmula 1 durante dos d\u00E9cadas, con algunos \u00E9xitos. El equipo ingres\u00F3 en la F\u00F3rmula 1 en la temporada 1995 y continu\u00F3 en la 1996, antes de sucumbir por problemas financieros a mitad de temporada. El equipo compiti\u00F3 en un total de 27 grandes premios, sin conseguir puntos, y fue reconocido como uno de los peores equipos privados en competir en una \u00E9poca en la que cada vez entraban m\u00E1s equipos de compa\u00F1\u00EDas automovil\u00EDsticas."@es ,
+		"La Forti \u00E8 stata una scuderia italiana, della citt\u00E0 di Alessandria, fondata nel 1977 da Guido Forti (1940-2013) e Paolo Guerci, che ha partecipato ai campionati di Formula 1 1995 e 1996."@it ,
+		"Forti Corse, puis Forti, est une ancienne \u00E9curie de sport automobile italienne qui s'est notamment engag\u00E9e en Formule 1 lors du championnat du monde 1995 puis du championnat du monde 1996, qu'elle ne termine pas. Cr\u00E9\u00E9e en 1978, l'\u00E9curie a particip\u00E9 \u00E0 diff\u00E9rentes formules de comp\u00E9tition pendant pr\u00E8s de deux d\u00E9cennies. Forti Corse a d\u00E9croch\u00E9 quatre titres de champion des pilotes de Formule 3 italienne obtenus pendant la seconde moiti\u00E9 des ann\u00E9es 1980 et quelques victoires en championnats de Formule 3000 auxquels elle a particip\u00E9 entre 1987 et 1994. \u00C0 partir de 1992, Guido Forti, le cofondateur de Forti, entre en relation avec l'homme d'affaires br\u00E9silien Ab\u00EDlio dos Santos Diniz, pour que son fils, Pedro Diniz, ait un baquet permanent dans l'\u00E9quipe et pour obtenir des moyens financiers pour entrer en Formule 1. Forti s'engage en Formule 1 en tant que constructeur en 1995 mais sa premi\u00E8re monoplace, la Forti FG01-95, n'est pas comp\u00E9titive et ne d\u00E9croche aucun point. Malgr\u00E9 cet \u00E9chec, Forti signe un contrat de trois ans avec Diniz, contrat bris\u00E9 lorsque le pilote br\u00E9silien part chez Ligier pour la saison 1996 en emportant avec lui les commanditaires de l'\u00E9curie italienne. N\u00E9anmoins Forti continue son aventure en Formule 1 et con\u00E7oit une nouvelle monoplace, la Forti FG03-96, avant de faire faillite \u00E0 la mi-saison \u00E0 la suite des probl\u00E8mes financiers rencontr\u00E9s apr\u00E8s le rachat par Shannon Racing, une \u00E9curie irlandaise de Formule 3000. Forti s'est qualifi\u00E9e \u00E0 vingt-trois reprises en Grand Prix, son meilleur r\u00E9sultat en course \u00E9tant une septi\u00E8me place par Diniz en Australie en 1995 et sa meilleure qualification est une dix-neuvi\u00E8me place par Badoer au Br\u00E9sil en 1996. Forti est une des derni\u00E8res \u00E9curies priv\u00E9es engag\u00E9e en Formule 1 \u00E0 une p\u00E9riode o\u00F9 les grands constructeurs automobiles augmentent leur participation en course automobile."@fr ,
+		"Forti Corse, znany tak\u017Ce jako Forti \u2013 by\u0142y w\u0142oski zesp\u00F3\u0142 i konstruktor wy\u015Bcigowy, startuj\u0105cy w Formule 1 w po\u0142owie lat 90. Zesp\u00F3\u0142 zosta\u0142 za\u0142o\u017Cony w 1978 roku i przez dwie dekady bra\u0142 udzia\u0142 w ni\u017Cszych formu\u0142ach wy\u015Bcigowych. Sukcesy zespo\u0142u obejmuj\u0105 zwyci\u0119stwa w klasyfikacji kierowc\u00F3w we W\u0142oskiej Formule 3 w latach 80. oraz dwa zwyci\u0119stwa w zawodach Mi\u0119dzynarodowej Formu\u0142y 3000, w kt\u00F3rej zesp\u00F3\u0142 bra\u0142 udzia\u0142 w latach 1987\u20131994. Od 1992 roku wsp\u00F3\u0142za\u0142o\u017Cyciel zespo\u0142u, Guido Forti, utrzymywa\u0142 kontakt z brazylijskim biznesmenem, Ab\u00EDlio dos Santosem Dinizem. Na skutek tej znajomo\u015Bci Diniz zapewni\u0142 zespo\u0142owi kierowc\u0119 wy\u015Bcigowego \u2013 swojego syna Pedro, oraz wystarczaj\u0105cy bud\u017Cet do start\u00F3w w Formule 1. Forti zadebiutowa\u0142o w Formule 1 w roku 1995, ale ich samoch\u00F3d \u2013 Forti FG01 \u2013 nie by\u0142 konkurencyjny, a zesp\u00F3\u0142 nie zdo\u0142a\u0142 zdoby\u0107 ani jednego punktu. Pomimo tego niepowodzenia Forti podpisa\u0142o trzyletni kontrakt z Dinizem, kt\u00F3ry jednak zosta\u0142 rozwi\u0105zany po tym, gdy Brazylijczyk przed sezonem 1996 odszed\u0142 do zespo\u0142u Ligier, pozbawiaj\u0105c Forti tym samym pieni\u0119dzy, kt\u00F3rych dostarczali zespo\u0142owi sponsorzy Diniza. Mimo tego zesp\u00F3\u0142 zdo\u0142a\u0142 wzi\u0105\u0107 udzia\u0142 w sezonie 1996, wybudowawszy na niego nowy model \u2013 FG03. W trakcie sezonu cz\u0119\u015B\u0107 udzia\u0142\u00F3w zespo\u0142u zosta\u0142a odsprzedana grupie Shannon Racing, ale nie uchroni\u0142o to zespo\u0142u przed bankructwem i w po\u0142owie sezonu zesp\u00F3\u0142 wycofa\u0142 si\u0119 z zawod\u00F3w Formu\u0142y 1."@pl ,
+		"A Forti-Corse (ou apenas Forti) foi uma equipe italiana de automobilismo que fez parte da F\u00F3rmula 1 nas temporadas de 1995 e 1996. Correu tamb\u00E9m na extinta F\u00F3rmula 3000. A equipe contava com v\u00E1rios investidores brasileiros, chegando a ser chamada de equipe \u00EDtalo-brasileira, tanto que teve no in\u00EDcio dois pilotos brasileiros. A log\u00EDstica da equipe e da f\u00E1brica ficaram por conta dos italianos, enquanto os neg\u00F3cios e patrocinadores ficavam por encargo da parte brasileira dos investidores, foi assim que eles conseguiram facilmente o patroc\u00EDnio de grandes empresas nacionais como Arisco, Parmalat e Kaiser. A equipe disputou 27 corridas, n\u00E3o conseguindo marcar pontos. Por ela passaram os pilotos brasileiros Pedro Paulo Diniz e Roberto Pupo Moreno (em 1995), os italianos Luca Badoer e Andrea Montermini (titulares no ano de 1996) e o franc\u00EAs Franck Lagorce, como piloto de testes (tamb\u00E9m em 1996)."@pt ,
+		"\u30D5\u30A9\u30EB\u30C6\u30A3\uFF08Forti\uFF09\u306F\u30011995\u5E74\u304B\u30891996\u5E74\u306BF1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30BF\u30EA\u30A2\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u6B63\u5F0F\u540D\u79F0\u306F\u30D5\u30A9\u30EB\u30C6\u30A3\u30FB\u30B3\u30EB\u30BB\u3002\u30AA\u30FC\u30CA\u30FC\u306F\u30B0\u30A4\u30C9\u30FB\u30D5\u30A9\u30EB\u30C6\u30A3\u3002"@ja ,
+		"Forti Corse war ein italienischer Motorsport-Rennstall, der zwischen 1970 und 1996 an Rennen der Formel Ford, Formel 3, Formel 3000 und Formel 1 teilnahm."@de ,
+		"Forti Corse, commonly known as Forti, was an Italian motor racing team chiefly known for its brief, and unsuccessful, involvement in Formula One in the mid-1990s. It was established in the late 1970s and competed in lower formulae for two decades. The team's successes during this period included four Drivers' Championships in Italian Formula Three during the 1980s, and race wins in the International Formula 3000 championship, in which it competed from 1987 to 1994. From 1992, team co-founder Guido Forti developed a relationship with the wealthy Brazilian businessman Ab\u00EDlio dos Santos Diniz that gave Diniz's racing driver son, Pedro, a permanent seat in the team and the outfit a sufficiently high budget to consider entering Formula One. Forti graduated to Formula One as a constructor and entrant in 1995, but its first car\u2014the Forti FG01\u2014proved to be uncompetitive, and the team failed to score a point. Despite this setback, Forti was committed to a three-year deal with Diniz, which was broken when Pedro moved to the Ligier team prior to the 1996 season, taking most of the team's sponsorship money with him. Nevertheless, Forti continued to compete in the sport, and produced the much-improved FG03 chassis, before succumbing to financial problems mid-season after an ultimately fruitless deal with a mysterious entity known as Shannon Racing. The team competed in a total of 27 Grands Prix, scoring no points, and is recognised as one of the last truly privateer teams to race in an era when many large car manufacturers were increasing their involvement in the sport."@en ;
+	dbo:wikiPageRevisionID	737665555 ;
+	dbo:wikiPageID	1226756 ;
+	dbp:races	27 ;
+	dbp:source	"\u2013Giorgio Stirano on the problems experienced with the FG01."^^xsd:string ;
+	dbp:wins	0 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Forti	ns26:hypernym	dbr:Motor ;
+	dbp:staff	dbr:Cesare_Fiorio ,
+		dbr:Giorgio_Stirano ,
+		dbr:Giacomo_Caliri ,
+		"Hans Fouche"^^xsd:string ,
+		dbr:Sergio_Rinland ,
+		"Daniele Coronna"^^xsd:string ,
+		dbr:George_Ryton ,
+		"Riccardo de Marco"^^xsd:string ,
+		"Chris Radage"^^xsd:string ,
+		dbr:Carlo_Vallarino_Gancia ;
+	dbp:quote	"\"It simply wasn't efficient and we had to restart it. We took off more than 60 kg from the first version to the last and by Silverstone [for the 1995 British Grand Prix] we were on the minimum weight limit. During the year we also had to re-homologate the nose and side pods, develop the semi-automatic gearbox, which was worth about half a second a lap, and redesign the monocoque, not in terms of shape but in terms of the lay-up of the skins.\""^^xsd:string ;
+	dbp:width	300 ;
+	dbp:align	"right"^^xsd:string ;
+	dbp:lastRace	1996 .
+dbr:Andrea_Montermini	<http://dbpedia.org/property/team(s)_>	dbr:Forti .
+wikipedia-en:Forti	foaf:primaryTopic	dbr:Forti .
+dbr:Forti_FG01	dbp:team	dbr:Forti ;
+	dbp:constructor	dbr:Forti .
+<http://dbpedia.org/resource/1985_Macau_Grand_Prix__Forti_Corse__1>	dbo:team	dbr:Forti .
+<http://dbpedia.org/resource/1985_Macau_Grand_Prix__Forti_Corse__2>	dbo:team	dbr:Forti .
+<http://dbpedia.org/resource/1986_Macau_Grand_Prix__Forti_Corse__1>	dbo:team	dbr:Forti .
+<http://dbpedia.org/resource/1987_Macau_Grand_Prix__Forti_Corse__1>	dbo:team	dbr:Forti .
+<http://dbpedia.org/resource/1987_Macau_Grand_Prix__Forti_Corse__2>	dbo:team	dbr:Forti .
+<http://dbpedia.org/resource/1988_Macau_Grand_Prix__Forti_Corse__1>	dbo:team	dbr:Forti .
+<http://dbpedia.org/resource/1988_Macau_Grand_Prix__Forti_Corse__2>	dbo:team	dbr:Forti .
+<http://dbpedia.org/resource/1989_Macau_Grand_Prix__Forti_Corse__1>	dbo:team	dbr:Forti .
+dbr:Forti-Corse	dbo:wikiPageRedirects	dbr:Forti .
+dbr:Forti_Ford	dbo:wikiPageRedirects	dbr:Forti .
+dbr:Forti_Grand_Prix	dbo:wikiPageRedirects	dbr:Forti .
+dbr:Parmalat_Forti_Ford	dbo:wikiPageRedirects	dbr:Forti .
+dbr:Forti_Corse	dbo:wikiPageRedirects	dbr:Forti .
+<http://dbpedia.org/resource/1989_Macau_Grand_Prix__Forti_Corse__2>	dbo:team	dbr:Forti .
+dbr:Forti_FG03	dbp:team	dbr:Forti ;
+	dbp:constructor	dbr:Forti .

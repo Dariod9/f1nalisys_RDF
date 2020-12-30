@@ -1,0 +1,149 @@
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Andrea_Montermini	<http://dbpedia.org/property/team(s)_>	dbr:Simtek .
+dbr:Taki_Inoue	<http://dbpedia.org/property/team(s)_>	dbr:Simtek .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Simtek	foaf:primaryTopic	dbr:Simtek .
+dbr:Roland_Ratzenberger	<http://dbpedia.org/property/team(s)_>	dbr:Simtek .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Nick_Wirth	dbo:knownFor	dbr:Simtek .
+dbr:Jean-Marc_Gounon	<http://dbpedia.org/property/team(s)_>	dbr:Simtek .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Simtek	rdf:type	wikidata:Q43229 .
+@prefix schema:	<http://schema.org/> .
+dbr:Simtek	rdf:type	schema:Organization ,
+		schema:SportsTeam ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Simtek	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Simtek	rdf:type	yago:PhysicalEntity100001930 ,
+		wikidata:Q24229398 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Simtek	rdf:type	ns9:Agent ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:SportsTeam ,
+		ns9:SocialPerson ,
+		yago:WikicatBritishRacecarConstructors ,
+		yago:Party110402824 ,
+		yago:WikicatFormulaOneConstructors ,
+		dbo:FormulaOneTeam ,
+		yago:Builder109878275 ,
+		yago:Contractor109960891 ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		dbo:Company ,
+		dbo:Organisation .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Simtek	rdfs:label	"Simtek"@pl ,
+		"Simtek"@it ,
+		"Simtek"@de ,
+		"Simtek"@nl ,
+		"\u30B7\u30E0\u30C6\u30C3\u30AF"@ja ,
+		"Simtek"@en ,
+		"Simtek"@es ,
+		"Simtek"@fr ,
+		"\u0421\u0438\u043C\u0442\u0435\u043A"@ru ,
+		"Simtek"@pt ;
+	rdfs:comment	"Simtek (Simulation Technology) was an engineering consultancy firm and Formula One racing team. The Formula One (F1) engineering consultancy arm, Simtek Research, was founded in 1989 by Max Mosley and Nick Wirth. It originally was involved in many areas of Formula One, including wind tunnel construction and chassis building for third parties. Simtek Grand Prix, the racing team, launched in 1993 and competed in the 1994 and 1995 seasons achieving a best result of ninth place. With large debts and a lack of sponsorship money, Simtek went into voluntary liquidation in June 1995."@en ,
+		"\u30B7\u30E0\u30C6\u30C3\u30AF\uFF08Simtek\uFF09 \u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30A4\u30AE\u30EA\u30B9\u306EF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC/\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u30021994\u5E74\u304B\u30891995\u5E74\u306B\u304B\u3051\u3066F1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u305F\u3002\u4EE3\u8868\u306F\u30B7\u30E3\u30FC\u30B7\u30C7\u30B6\u30A4\u30CA\u30FC\u3067\u3082\u3042\u308B\u30CB\u30C3\u30AF\u30FB\u30EF\u30FC\u30B9\u3002 \u30B7\u30E0\u30C6\u30C3\u30AF\u306E\u540D\u524D\u306F\u201CSimulation Technology\u201D\u306E\u7565\u3067\u3042\u308B\u3002\u30C1\u30FC\u30E0\u30AB\u30E9\u30FC\u306F\u30E1\u30BF\u30EA\u30C3\u30AF\u30D1\u30FC\u30D7\u30EB\u3002"@ja ,
+		"Simtek was een Brits Formule 1-team onder leiding van Nick Wirth. Het team deed mee aan 21 races en behaalde geen punten. Het bedrijf bestond van 1989 tot 1995 en werd opgericht door Nick Wirth en Max Mosley. In 1994 en 1995 nam het met een eigen team deel aan het Wereldkampioenschap Formule 1."@nl ,
+		"Simtek, pe\u0142na nazwa Simulation Technology \u2013 dawna brytyjska firma badawczo-konstrukcyjna oraz by\u0142y zesp\u00F3\u0142 i konstruktor Formu\u0142y 1. Firma Simtek Research Ltd. zosta\u0142a utworzona w 1989 roku przez Nicka Wirtha oraz Maksa Mosleya. Po wybudowaniu w\u0142asnego tunelu aerodynamicznego zaanga\u017Cowa\u0142a si\u0119 w tworzenie projekt\u00F3w i samochod\u00F3w przeznaczonych do wy\u015Bcig\u00F3w w cyklu Formu\u0142y 1. W 1990 roku zbudowa\u0142a samoch\u00F3d dla BMW. W 1993 roku dosz\u0142o do utworzenia zespo\u0142u Simtek Grand Prix Ltd., kt\u00F3ry w sezonie 1994 zadebiutowa\u0142 w Formule 1. W ci\u0105gu ca\u0142ego debiutanckiego sezonu Simtek nie zdoby\u0142 ani jednego punktu, ponadto podczas Grand Prix San Marino zgin\u0105\u0142 kierowca zespo\u0142u \u2013 Roland Ratzenberger. W po\u0142owie 1995 roku z powodu d\u0142ug\u00F3w oraz braku sponsor\u00F3w zesp\u00F3\u0142 wycofa\u0142 si\u0119 z rywalizacji w Formule 1."@pl ,
+		"Simtek est un ancien constructeur de sport automobile qui a disput\u00E9 en tant qu'\u00E9curie les championnats du monde de Formule 1 1994 et 1995. En 21 qualifications en Grands Prix, Simtek n'a jamais inscrit de point, son meilleur r\u00E9sultat en course est une 9e place (France 1994 et Argentine 1995) et sa meilleure qualification est une 14e position sur la grille de d\u00E9part (Argentine 1995)."@fr ,
+		"Simtek (Simulation Technology) foi uma firma de consultoria de engenharia e uma equipe de F\u00F3rmula 1 fundada pelos projetistas Nick Wirth e Max Mosley (ent\u00E3o presidente da FIA), que competiu entre os anos de 1994 e 1995."@pt ,
+		"La Simtek Grand Prix \u00E8 stata una scuderia inglese di Formula 1, attiva nei campionati 1994 e 1995. Ha esordito al Gran Premio del Brasile 1994, disputando un totale di 21 Gran Premi senza mai ottenere punti."@it ,
+		"Simtek Grand Prix ist ein ehemaliger Rennstall, der aus der 1989 von Max Mosley und Nick Wirth gegr\u00FCndeten Motorsporttechnologiefirma Simtek Research Ltd. hervorging und in den Jahren 1994 und 1995 an der Formel-1-Weltmeisterschaft teilnahm. Der Name \u201ESimtek\u201C setzt sich aus den Begriffen \u201ESimulation\u201C und \u201ETechnology\u201C zusammen."@de ,
+		"Simtek (Simulation Technology) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438. \u041F\u0440\u043E\u0432\u0435\u043B\u0430 \u0434\u0432\u0430 \u043D\u0435\u043F\u043E\u043B\u043D\u044B\u0445 \u0441\u0435\u0437\u043E\u043D\u0430 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 1994 \u0438 1995 \u0433\u043E\u0434\u0430\u0445, \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u0430\u0432 \u0432 \u043E\u0431\u0449\u0435\u0439 \u0441\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0432 20 \u0433\u043E\u043D\u043A\u0430\u0445."@ru ,
+		"Simtek (del ingl\u00E9s Simulation Technology) fue una empresa de ingieneria automovilistica y un equipo de la F\u00F3rmula 1, fundado en 1989 por Max Mosley y Nick Wirth."@es ;
+	owl:differentFrom	dbr:Simtek_Corporation .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Simtek	dbp:drivers	"Roland Ratzenberger"^^xsd:string ,
+		"Jean-Marc Gounon"^^xsd:string ,
+		"Jos Verstappen"^^xsd:string ,
+		"Taki Inoue"^^xsd:string ,
+		"Andrea Montermini"^^xsd:string ,
+		"Domenico Schiattarella"^^xsd:string ,
+		"David Brabham"^^xsd:string .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Simtek	owl:sameAs	dbpedia-es:Simtek ,
+		dbr:Simtek .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Simtek	owl:sameAs	yago-res:Simtek .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Simtek	owl:sameAs	dbpedia-wikidata:Q172976 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Simtek	owl:sameAs	dbpedia-it:Simtek .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Simtek	owl:sameAs	dbpedia-pl:Simtek ,
+		<http://ja.dbpedia.org/resource/\u30B7\u30E0\u30C6\u30C3\u30AF> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Simtek	owl:sameAs	dbpedia-de:Simtek .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Simtek	owl:sameAs	dbpedia-cs:Simtek .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Simtek	owl:sameAs	dbpedia-fr:Simtek .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Simtek	owl:sameAs	dbpedia-pt:Simtek ,
+		wikidata:Q172976 ,
+		<http://rdf.freebase.com/ns/m.03_3fk> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Simtek	owl:sameAs	dbpedia-nl:Simtek .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Simtek	dct:subject	dbc:Engineering_consulting_firms ,
+		dbc:British_auto_racing_teams ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ;
+	foaf:name	"MTVSimtekFord"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Simtek ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Simtek"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Simtek	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Simtek?oldid=737644432> ;
+	dbp:founders	dbr:Max_Mosley ,
+		dbr:Nick_Wirth ;
+	dbp:logo	<http://dbpedia.org/resource/File:Simtek_gp_logo.png> ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Banbury, Oxfordshire, United Kingdom"^^xsd:string ;
+	dbp:engines	dbr:Ford_Motor_Company ;
+	dbp:debut	1994 ;
+	dbo:wikiPageExternalLink	<http://racer.com/more/viewpoints/item/103166-remembering-roland-ratzenberger-the-day-formula-1-lost-a-great-guy-by-nick-wirth> ,
+		<https://web.archive.org/web/20060620203605/http:/f1rejects.com/teams/simtek/index.html> ,
+		<http://www.formula1.com/results/team/1994/1982.html> ;
+	dbo:abstract	"Simtek Grand Prix ist ein ehemaliger Rennstall, der aus der 1989 von Max Mosley und Nick Wirth gegr\u00FCndeten Motorsporttechnologiefirma Simtek Research Ltd. hervorging und in den Jahren 1994 und 1995 an der Formel-1-Weltmeisterschaft teilnahm. Der Name \u201ESimtek\u201C setzt sich aus den Begriffen \u201ESimulation\u201C und \u201ETechnology\u201C zusammen."@de ,
+		"Simtek (Simulation Technology) \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438. \u041F\u0440\u043E\u0432\u0435\u043B\u0430 \u0434\u0432\u0430 \u043D\u0435\u043F\u043E\u043B\u043D\u044B\u0445 \u0441\u0435\u0437\u043E\u043D\u0430 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 1994 \u0438 1995 \u0433\u043E\u0434\u0430\u0445, \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u0430\u0432 \u0432 \u043E\u0431\u0449\u0435\u0439 \u0441\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0432 20 \u0433\u043E\u043D\u043A\u0430\u0445."@ru ,
+		"Simtek (Simulation Technology) was an engineering consultancy firm and Formula One racing team. The Formula One (F1) engineering consultancy arm, Simtek Research, was founded in 1989 by Max Mosley and Nick Wirth. It originally was involved in many areas of Formula One, including wind tunnel construction and chassis building for third parties. Simtek Grand Prix, the racing team, launched in 1993 and competed in the 1994 and 1995 seasons achieving a best result of ninth place. With large debts and a lack of sponsorship money, Simtek went into voluntary liquidation in June 1995."@en ,
+		"\u30B7\u30E0\u30C6\u30C3\u30AF\uFF08Simtek\uFF09 \u306F\u3001\u304B\u3064\u3066\u5B58\u5728\u3057\u305F\u30A4\u30AE\u30EA\u30B9\u306EF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC/\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u30021994\u5E74\u304B\u30891995\u5E74\u306B\u304B\u3051\u3066F1\u4E16\u754C\u9078\u624B\u6A29\u306B\u53C2\u6226\u3057\u305F\u3002\u4EE3\u8868\u306F\u30B7\u30E3\u30FC\u30B7\u30C7\u30B6\u30A4\u30CA\u30FC\u3067\u3082\u3042\u308B\u30CB\u30C3\u30AF\u30FB\u30EF\u30FC\u30B9\u3002 \u30B7\u30E0\u30C6\u30C3\u30AF\u306E\u540D\u524D\u306F\u201CSimulation Technology\u201D\u306E\u7565\u3067\u3042\u308B\u3002\u30C1\u30FC\u30E0\u30AB\u30E9\u30FC\u306F\u30E1\u30BF\u30EA\u30C3\u30AF\u30D1\u30FC\u30D7\u30EB\u3002"@ja ,
+		"Simtek (Simulation Technology) foi uma firma de consultoria de engenharia e uma equipe de F\u00F3rmula 1 fundada pelos projetistas Nick Wirth e Max Mosley (ent\u00E3o presidente da FIA), que competiu entre os anos de 1994 e 1995."@pt ,
+		"La Simtek Grand Prix \u00E8 stata una scuderia inglese di Formula 1, attiva nei campionati 1994 e 1995. Ha esordito al Gran Premio del Brasile 1994, disputando un totale di 21 Gran Premi senza mai ottenere punti."@it ,
+		"Simtek est un ancien constructeur de sport automobile qui a disput\u00E9 en tant qu'\u00E9curie les championnats du monde de Formule 1 1994 et 1995. En 21 qualifications en Grands Prix, Simtek n'a jamais inscrit de point, son meilleur r\u00E9sultat en course est une 9e place (France 1994 et Argentine 1995) et sa meilleure qualification est une 14e position sur la grille de d\u00E9part (Argentine 1995)."@fr ,
+		"Simtek (del ingl\u00E9s Simulation Technology) fue una empresa de ingieneria automovilistica y un equipo de la F\u00F3rmula 1, fundado en 1989 por Max Mosley y Nick Wirth."@es ,
+		"Simtek was een Brits Formule 1-team onder leiding van Nick Wirth. Het team deed mee aan 21 races en behaalde geen punten. Het bedrijf bestond van 1989 tot 1995 en werd opgericht door Nick Wirth en Max Mosley. In 1994 en 1995 nam het met een eigen team deel aan het Wereldkampioenschap Formule 1."@nl ,
+		"Simtek, pe\u0142na nazwa Simulation Technology \u2013 dawna brytyjska firma badawczo-konstrukcyjna oraz by\u0142y zesp\u00F3\u0142 i konstruktor Formu\u0142y 1. Firma Simtek Research Ltd. zosta\u0142a utworzona w 1989 roku przez Nicka Wirtha oraz Maksa Mosleya. Po wybudowaniu w\u0142asnego tunelu aerodynamicznego zaanga\u017Cowa\u0142a si\u0119 w tworzenie projekt\u00F3w i samochod\u00F3w przeznaczonych do wy\u015Bcig\u00F3w w cyklu Formu\u0142y 1. W 1990 roku zbudowa\u0142a samoch\u00F3d dla BMW. W 1993 roku dosz\u0142o do utworzenia zespo\u0142u Simtek Grand Prix Ltd., kt\u00F3ry w sezonie 1994 zadebiutowa\u0142 w Formule 1. W ci\u0105gu ca\u0142ego debiutanckiego sezonu Simtek nie zdoby\u0142 ani jednego punktu, ponadto podczas Grand Prix San Marino zgin\u0105\u0142 kierowca zespo\u0142u \u2013 Roland Ratzenberger. W po\u0142owie 1995 roku z powodu d\u0142ug\u00F3w oraz braku sponsor\u00F3w zesp\u00F3\u0142 wycofa\u0142 si\u0119 z rywalizacji w Formule 1."@pl ;
+	dbo:wikiPageRevisionID	737644432 ;
+	dbo:wikiPageID	1022764 ;
+	dbp:races	20 ;
+	dbp:source	"David Brabham, on Ratzenberger and his decision to race following Roland's death."^^xsd:string ;
+	dbp:wins	0 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Simtek	ns25:hypernym	dbr:Firm ;
+	dbp:quote	"I lost a close friend yesterday. Though team-mates for a mere few weeks, we had already a lot of fun together and had every reason to look forward to a great year with the Simtek team. I am confident that the greatest tribute we can pay to Roland is to race today, hence my decision."^^xsd:string .
+@prefix ns26:	<http://dbpedia.org/datatype/> .
+dbr:Simtek	dbp:width	"25.0"^^ns26:perCent ;
+	dbp:align	"right"^^xsd:string ;
+	dbp:lastRace	1995 .
+dbr:Simtek_S951	dbp:team	dbr:Simtek ;
+	dbp:constructor	dbr:Simtek .
+dbr:Simtek_S941	dbp:team	dbr:Simtek ;
+	dbp:constructor	dbr:Simtek .
+dbr:David_Brabham	<http://dbpedia.org/property/team(s)_>	dbr:Simtek .
+dbr:Domenico_Schiattarella	<http://dbpedia.org/property/team(s)_>	dbr:Simtek .

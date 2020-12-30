@@ -1,0 +1,168 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Manor_Racing	dbp:previousName	dbr:Marussia_F1 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Marussia_F1	foaf:primaryTopic	dbr:Marussia_F1 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/John_Booth_(motor_racing)>	dbo:knownFor	dbr:Marussia_F1 .
+dbr:Will_Stevens	dbp:teams	dbr:Marussia_F1 .
+dbr:Virgin_Racing	dbp:nextName	dbr:Marussia_F1 .
+dbr:Marussia_MR03	dbp:team	dbr:Marussia_F1 ;
+	dbp:constructor	dbr:Marussia_F1 .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Marussia_F1	rdf:type	ns6:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Marussia_F1	rdf:type	yago:WikicatCompaniesBasedInOxfordshire ,
+		yago:Abstraction100002137 ,
+		yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:Organization108008335 ,
+		dbo:FormulaOneTeam ,
+		dbo:Organisation .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Marussia_F1	rdf:type	wikidata:Q43229 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dbo:SportsTeam ,
+		dbo:Agent ,
+		yago:Institution108053576 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Marussia_F1	rdf:type	owl:Thing ,
+		yago:Company108058098 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix schema:	<http://schema.org/> .
+dbr:Marussia_F1	rdf:type	schema:SportsTeam ,
+		ns6:SocialPerson ,
+		schema:Organization ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Marussia_F1	rdfs:label	"\u739B\u9C81\u897F\u4E9A\u8F66\u961F"@zh ,
+		"Marussia F1 Team"@pt ,
+		"\u30DE\u30EB\u30B7\u30E3F1\u30C1\u30FC\u30E0"@ja ,
+		"\u041C\u0430\u0440\u0443\u0441\u044F (\u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1)"@ru ,
+		"Marussia F1 Team"@it ,
+		"Marussia F1"@en ,
+		"Marussia F1 Team"@es ,
+		"Marussia F1"@pl ,
+		"Manor Marussia F1 Team"@fr ,
+		"\u0641\u0631\u064A\u0642 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0625\u06411"@ar ,
+		"Marussia F1 Team"@nl ;
+	rdfs:comment	"Marussia F1 Team was een Russisch Formule 1-team dat actief was van 2012 tot 2014. Marussia nam het Britse Virgin Racing-Formule 1-team in 2012 volledig over. Vanaf het seizoen 2015 ging het team verder als Manor F1 Team."@nl ,
+		"\u746A\u9B6F\u897F\u4E9EF1\u8F66\u961F\uFF08Marussia F1 team\uFF09\uFF0C\u524D\u8EAB\u4E3A\u7DAD\u73CD\u8F66\u961F\uFF0C\u662F\u4E00\u53EA\u6210\u7ACB\u4E8E2009\u5E74\u7684\u82F1\u56FD\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8F66\u961F\uFF0C\u53C2\u52A0\u4E862010\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u53CA2011\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u30022012\u8D5B\u5B63\uFF0C\u8F66\u961F\u4EE5\u201C\u739B\u9C81\u897F\u4E9A\u201D\u7684\u65B0\u540D\u79F0\u51FA\u6218\u3002"@zh ,
+		"The Marussia F1 Team (subsequently Manor Marussia F1 Team) was an Anglo-Russian Formula One racing team and constructor which was based in Banbury, Oxfordshire in the United Kingdom. The team was operated by Manor Motorsport (formerly Marussia Manor Racing), which was previously a subsidiary of Marussia Motors, a now defunct sports car manufacturer which was based in Moscow. The team originally started racing in 2010 under the \"Virgin Racing\" name; the following year Virgin adopted Marussia as a title sponsor becoming \"Marussia Virgin Racing\" until being fully rebranded as the \"Marussia F1 Team\" for 2012."@en ,
+		"Manor Marussia F1 Team est une \u00E9curie Formule 1 britannique qui succ\u00E8de \u00E0 l'\u00E9curie russe Marussia F1 Team qui succ\u00E9dait elle-m\u00EAme \u00E0 l'\u00E9curie britannique Virgin Racing, n\u00E9e sous le nom Manor Motorsport. Fin 2010, Marussia Motors, commanditaire principal de l'\u00E9curie, acquiert 40 % des parts de l'\u00E9quipe d\u00E9tenues par Virgin ; l'\u00E9quipe est alors engag\u00E9e en championnat du monde sous le nom Marussia Virgin Racing. En 2011, l'\u00E9curie s'engage sous licence russe et devient la seconde \u00E9curie de Formule 1 russe apr\u00E8s Midland F1 Racing."@fr ,
+		"Marussia F1 Team fue una escuder\u00EDa de F\u00F3rmula 1 que form\u00F3 parte de la categor\u00EDa desde la temporada 2012 hasta la temporada 2014, donde fue reemplazado por Manor. Estuvo controlada por la empresa Marussia Motors, tras adquirir dicha sociedad del antiguo equipo brit\u00E1nico Virgin Racing, que ya corri\u00F3 en 2011 bajo bandera rusa."@es ,
+		"\u30DE\u30CE\u30FC\u30FB\u30DE\u30EB\u30B7\u30E3F1\u30C1\u30FC\u30E0 (\u82F1: Manor Marussia F1 Team) \u306F\u30012012\u5E74\u304B\u30892015\u5E74\u307E\u3067\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306EF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30022010\u5E74\u3088\u308A\u53C2\u6226\u3057\u3066\u3044\u305F\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u304C\u30DE\u30EB\u30B7\u30E3\u30FB\u30E2\u30FC\u30BF\u30FC\u30BA\u306B\u30C1\u30FC\u30E0\u682A\u5F0F\u3092\u58F2\u5374\u3057\u30012011\u5E74\u306B\u30DE\u30EB\u30B7\u30E3\u30FB\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0 (\u82F1: Marussia Virgin Racing) \u30012012\u5E74\u304B\u30892014\u5E74\u306F\u30DE\u30EB\u30B7\u30E3F1\u30C1\u30FC\u30E0 (\u82F1: Marussia F1 Team)\u3068\u3044\u3046\u540D\u79F0\u3067\u53C2\u6226\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"Marussia F1 Team \u2014 \u0430\u043D\u0433\u043B\u043E-\u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u0432\u0448\u0430\u044F \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 2012. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0430 \u043D\u0430 \u043E\u0441\u043D\u043E\u0432\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0412\u0451\u0440\u0434\u0436\u0438\u043D\u00BB \u043F\u043E\u0441\u043B\u0435 \u0435\u0451 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439 Marussia Motors. \u0412 2012 \u0438 2013 \u0433\u043E\u0434\u0430\u0445 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0438 Cosworth, \u0432 2014 \u0433\u043E\u0434\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0438 Ferrari. \u0412 \u0430\u043F\u0440\u0435\u043B\u0435 2014 \u0441\u0442\u0430\u043B\u043E \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E, \u0447\u0442\u043E \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Marussia Motors \u041D\u0438\u043A\u043E\u043B\u0430\u0439 \u0424\u043E\u043C\u0435\u043D\u043A\u043E \u0431\u043E\u043B\u044C\u0448\u0435 \u043D\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0433\u043B\u0430\u0432\u043E\u0439 \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u043D\u043E\u0433\u043E \u0434\u0435\u043F\u0430\u0440\u0442\u0430\u043C\u0435\u043D\u0442\u0430 \u00AB\u041C\u0430\u0440\u0443\u0441\u0438\u00BB, \u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0443\u0436\u0435 \u043D\u0435 \u0438\u043C\u0435\u0435\u0442 \u043D\u0438 \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0445, \u043D\u0438 \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u0445 \u0441\u0432\u044F\u0437\u0435\u0439 \u0441 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439 \u0424\u043E\u043C\u0435\u043D\u043A\u043E."@ru ,
+		"A Marussia F1 Team (renomeada em 2015 para Manor Marussia F1 Team) foi uma equipe anglo-russa de automobilismo que disputou a F\u00F3rmula 1 que foi baseada em Banbury, Oxfordshire, no Reino Unido. A equipe foi operado pela Manor Motorsport (anteriormente Marussia Manor Racing), que anteriormente era uma subsidi\u00E1ria da Marussia Motors, uma fabricante de carros esportivos j\u00E1 extinta, que foi sediada em Moscou. A equipe originalmente come\u00E7ou a correr em 2010 sob o nome \"Virgin Racing\"; no ano seguinte Virgin Marussia adotado como um patrocinador do t\u00EDtulo se tornar \"Marussia Virgin Racing\", at\u00E9 ser totalmente rebatizada como \"Marussia F1 Team\" para disputar a temporada de 2012."@pt ,
+		"Manor Marussia F1 Team (poprzednio Marussia F1 Team) \u2013 brytyjski, a wcze\u015Bniej rosyjski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy startuj\u0105cy Formule 1 w latach 2012\u20132015. Zesp\u00F3\u0142 w swojej pierwotnej formie powsta\u0142 w 2010 roku jako Virgin Racing, nieca\u0142y rok p\u00F3\u017Aniej zosta\u0142 przej\u0119ty przez koncern Marussia Motors, a od roku 2012 w pe\u0142ni przemianowany na Marussia F1 Team. Pod koniec 2014 roku zesp\u00F3\u0142 stan\u0105\u0142 na skraju bankructwa po tym, jak z finansowania projektu wycofali si\u0119 rosyjscy w\u0142a\u015Bciciele. Uda\u0142o si\u0119 go jednak uratowa\u0107 i w 2015 roku funkcjonowa\u0142 on jako Manor Marussia F1 Team."@pl ,
+		"\u0641\u0631\u064A\u0642 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0625\u06411 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Marussia F1 Team) (\u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u062A\u062C\u0627\u0631\u064A \u0644\u062C\u0627\u0626\u0632\u0629 \u0645\u0627\u0646\u0627\u0631\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0645\u062D\u062F\u0648\u062F\u0629) \u0647\u0648 \u0642\u0633\u0645 \u0645\u0646 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0645\u0648\u062A\u0648\u0631\u0632 \u0643\u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1  \u0645\u0631\u0643\u0632\u0647 \u0641\u064A \u0628\u0627\u0646\u0628\u0631\u064A \u0641\u064A \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629. \u064A\u0646\u0627\u0641\u0633 \u0627\u0644\u0641\u0631\u064A\u0642 \u062A\u062D\u062A \u0627\u0633\u0645 \"\u0645\u0627\u0631\u0648\u0633\u064A\u0627\" (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Marussia) (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u041C\u0430\u0440\u0443\u0441\u044F) \u0648\u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064A \u0645\u0648\u0633\u0645 2012, \u0623\u062A\u0649 \u0630\u0644\u0643 \u064A\u0639\u062F \u0634\u0631\u0627\u0621 \u0627\u0644\u0641\u0631\u064A\u0642 \u0645\u0646 \u0642\u0628\u0644 \u0634\u0631\u0643\u0629 \u0631\u0648\u0633\u064A\u0629 \u0645\u0635\u0646\u0639\u0629 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u062A\u062F\u0639\u0649 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0645\u0648\u062A\u0648\u0631\u0632 \u0641\u064A \u0646\u0647\u0627\u064A\u0629 \u0627\u0644\u0639\u0627\u0645 2010. \u0627\u0644\u0641\u0631\u064A\u0642 \u0643\u0627\u0646 \u064A\u0646\u0627\u0641\u0633 \u0633\u0627\u0628\u0642\u0627\u064B \u062A\u062D\u062A \u062A\u062D\u062A \u0627\u0633\u0645 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0641\u064A\u0631\u062C\u064A\u0646 \u0631\u064A\u0633\u064A\u0646\u063A \u0641\u064A \u0645\u0648\u0633\u0645 2011 \u0648 \u0641\u064A\u0631\u062C\u064A\u0646 \u0631\u064A\u0633\u0646\u063A \u0641\u064A \u0645\u0648\u0633\u0645 2010. \u064A\u0639\u062A\u0628\u0631 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u062B\u0627\u0644\u062B \u0645\u0646 \u0628\u064A\u0646 \u0627\u0644\u0641\u0631\u0642 \u0627\u0644\u062A\u064A \u062A\u0646\u0627\u0641\u0633 \u062A\u062D\u062A \u0631\u062E\u0635\u0629 \u0631\u0648\u0633\u064A\u0629 \u0645\u0646 \u0628\u0639\u062F \u0641\u0631\u064A\u0642 \u0645\u064A\u062F\u0644\u0627\u0646\u062F \u0625\u06411 \u0648\u0641\u064A\u0631\u062C\u064A\u0646 \u0625\u06411 (\u0627\u0644\u0630\u064A \u0627\u062E\u062A\u0627\u0631 \u0627\u0644\u0631\u062E\u0635\u0629 \u0627\u0644\u0631\u0648\u0633\u064A\u0629 \u0628\u0639\u062F \u0627\u0647\u062A\u0645\u0627\u0645 \u0634\u0631\u0643\u0629 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0628\u0647)."@ar ;
+	rdfs:seeAlso	<http://dbpedia.org/resource/2013_Formula_One_season> ,
+		<http://dbpedia.org/resource/2012_Formula_One_season> ,
+		dbr:Virgin_Racing ,
+		<http://dbpedia.org/resource/2014_Formula_One_season> ,
+		<http://dbpedia.org/resource/2015_Formula_One_season> ;
+	dbp:points	2 ;
+	dbp:drivers	"Roberto Merhi"^^xsd:string ,
+		"Will Stevens"^^xsd:string ,
+		"Timo Glock"^^xsd:string ,
+		"Max Chilton"^^xsd:string ,
+		"Charles Pic"^^xsd:string ,
+		"Alexander Rossi"^^xsd:string ,
+		"Jules Bianchi"^^xsd:string .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Marussia_F1	owl:sameAs	dbpedia-es:Marussia_F1_Team ,
+		<http://ko.dbpedia.org/resource/\uB9C8\uB8E8\uC2DC\uC544_F1> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Marussia_F1	owl:sameAs	yago-res:Marussia_F1 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Marussia_F1	owl:sameAs	dbpedia-nl:Marussia_F1_Team .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Marussia_F1	owl:sameAs	dbpedia-it:Marussia_F1_Team .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Marussia_F1	owl:sameAs	dbpedia-fr:Manor_Marussia_F1_Team .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Marussia_F1	owl:sameAs	dbpedia-cs:Marussia_F1 ,
+		<http://rdf.freebase.com/ns/m.03mc8vw> ,
+		wikidata:Q173179 ,
+		<http://rdf.freebase.com/ns/m.0hzqkkv> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Marussia_F1	owl:sameAs	dbpedia-wikidata:Q173179 ,
+		dbr:Marussia_F1 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Marussia_F1	owl:sameAs	dbpedia-pl:Marussia_F1 ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30EB\u30B7\u30E3F1\u30C1\u30FC\u30E0> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Marussia_F1	owl:sameAs	dbpedia-pt:Marussia_F1_Team .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Marussia_F1	dct:subject	dbc:Companies_based_in_Banbury ,
+		dbc:Russian_auto_racing_teams ,
+		dbc:Companies_that_have_entered_administration_in_the_United_Kingdom ,
+		dbc:Formula_One_constructors ,
+		dbc:Formula_One_entrants ,
+		dbc:British_racecar_constructors ,
+		dbc:Marussia_Motors ;
+	foaf:name	"Marussia F1 Team"@en ,
+		"Manor Marussia F1 Team (2015)"@en ,
+		"(2012\u20132014)"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Marussia_F1 ;
+	dbp:consChamp	0 ;
+	dbp:driversChamp	0 ;
+	dbp:shortName	"Marussia"^^xsd:string ;
+	dbp:nextName	dbr:Manor_Racing ;
+	dbp:previousName	dbr:Virgin_Racing .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Marussia_F1	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Marussia_F1?oldid=739339980> ;
+	dbp:logo	"File:Marussia F1.png"^^xsd:string ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	0 ;
+	dbp:base	"Dinnington, South Yorkshire, United Kingdom"^^xsd:string ,
+		"Banbury, Oxfordshire, United Kingdom"^^xsd:string ;
+	dbp:engines	dbr:Cosworth ,
+		dbr:Scuderia_Ferrari ;
+	dbp:debut	2012 ;
+	dbo:wikiPageExternalLink	<http://www.manorf1team.com> ;
+	dbo:abstract	"A Marussia F1 Team (renomeada em 2015 para Manor Marussia F1 Team) foi uma equipe anglo-russa de automobilismo que disputou a F\u00F3rmula 1 que foi baseada em Banbury, Oxfordshire, no Reino Unido. A equipe foi operado pela Manor Motorsport (anteriormente Marussia Manor Racing), que anteriormente era uma subsidi\u00E1ria da Marussia Motors, uma fabricante de carros esportivos j\u00E1 extinta, que foi sediada em Moscou. A equipe originalmente come\u00E7ou a correr em 2010 sob o nome \"Virgin Racing\"; no ano seguinte Virgin Marussia adotado como um patrocinador do t\u00EDtulo se tornar \"Marussia Virgin Racing\", at\u00E9 ser totalmente rebatizada como \"Marussia F1 Team\" para disputar a temporada de 2012. Em 7 de outubro de 2014, a equipe entrou com um aviso na Alta Corte de Londres com a inten\u00E7\u00E3o de entrar em administra\u00E7\u00E3o legal. O administrador nomeado fez um comunicado oficial em 27 de outubro de 2014 e a equipe ainda foi inclu\u00EDda na lista de inscritos provis\u00F3ria da Federa\u00E7\u00E3o Internacional de Automobilismo (FIA) para a temporada de F\u00F3rmula 1 de 2015, mas como \"Manor F1 Team\". Em 7 de novembro de 2014, no entanto, o administrador anunciou que a equipe tinha deixado de operar. Em 19 de Janeiro de 2015, os administradores da Marussia anunciaram que o leil\u00E3o de seus carros e bens tinham sido cancelado, de modo a permitir uma poss\u00EDvel venda. A equipe saiu da administra\u00E7\u00E3o judicial em 19 de fevereiro de 2015, e foi restabelecido como \"Manor Marussia F1 Team\" depois de novos investimentos ser garantidos para salvar a equipe. O ex-diretor Justin King foi alegadamente apoiante principal da equipe. A equipe manteve o seu nome de construtor de Marussia durante toda a temporada de 2015, tamb\u00E9m adotando a nacionalidade brit\u00E2nica. Em 19 de janeiro de 2016, a equipe anunciou mudan\u00E7a de nome para \"Manor Racing\"."@pt ,
+		"Manor Marussia F1 Team (poprzednio Marussia F1 Team) \u2013 brytyjski, a wcze\u015Bniej rosyjski konstruktor i zesp\u00F3\u0142 wy\u015Bcigowy startuj\u0105cy Formule 1 w latach 2012\u20132015. Zesp\u00F3\u0142 w swojej pierwotnej formie powsta\u0142 w 2010 roku jako Virgin Racing, nieca\u0142y rok p\u00F3\u017Aniej zosta\u0142 przej\u0119ty przez koncern Marussia Motors, a od roku 2012 w pe\u0142ni przemianowany na Marussia F1 Team. Najwi\u0119kszym sukcesem Marussi jest wywalczenie przez Julesa Bianchiego 9. miejsca i dw\u00F3ch punkt\u00F3w mistrzowskich w Grand Prix Monako w sezonie 2014, co pozwoli\u0142o zespo\u0142owi na zaj\u0119cie 9. pozycji w klasyfikacji konstruktor\u00F3w na koniec tego\u017C roku. Uprzednio ekipa by\u0142a sklasyfikowana na 11. pozycji w sezonie 2012 oraz na 10. miejscu w sezonie 2013. Pod koniec 2014 roku zesp\u00F3\u0142 stan\u0105\u0142 na skraju bankructwa po tym, jak z finansowania projektu wycofali si\u0119 rosyjscy w\u0142a\u015Bciciele. Uda\u0142o si\u0119 go jednak uratowa\u0107 i w 2015 roku funkcjonowa\u0142 on jako Manor Marussia F1 Team."@pl ,
+		"\u0641\u0631\u064A\u0642 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0625\u06411 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Marussia F1 Team) (\u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u062A\u062C\u0627\u0631\u064A \u0644\u062C\u0627\u0626\u0632\u0629 \u0645\u0627\u0646\u0627\u0631\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0645\u062D\u062F\u0648\u062F\u0629) \u0647\u0648 \u0642\u0633\u0645 \u0645\u0646 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0645\u0648\u062A\u0648\u0631\u0632 \u0643\u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1  \u0645\u0631\u0643\u0632\u0647 \u0641\u064A \u0628\u0627\u0646\u0628\u0631\u064A \u0641\u064A \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629. \u064A\u0646\u0627\u0641\u0633 \u0627\u0644\u0641\u0631\u064A\u0642 \u062A\u062D\u062A \u0627\u0633\u0645 \"\u0645\u0627\u0631\u0648\u0633\u064A\u0627\" (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Marussia) (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u041C\u0430\u0440\u0443\u0441\u044F) \u0648\u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064A \u0645\u0648\u0633\u0645 2012, \u0623\u062A\u0649 \u0630\u0644\u0643 \u064A\u0639\u062F \u0634\u0631\u0627\u0621 \u0627\u0644\u0641\u0631\u064A\u0642 \u0645\u0646 \u0642\u0628\u0644 \u0634\u0631\u0643\u0629 \u0631\u0648\u0633\u064A\u0629 \u0645\u0635\u0646\u0639\u0629 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u062A\u062F\u0639\u0649 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0645\u0648\u062A\u0648\u0631\u0632 \u0641\u064A \u0646\u0647\u0627\u064A\u0629 \u0627\u0644\u0639\u0627\u0645 2010. \u0627\u0644\u0641\u0631\u064A\u0642 \u0643\u0627\u0646 \u064A\u0646\u0627\u0641\u0633 \u0633\u0627\u0628\u0642\u0627\u064B \u062A\u062D\u062A \u062A\u062D\u062A \u0627\u0633\u0645 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0641\u064A\u0631\u062C\u064A\u0646 \u0631\u064A\u0633\u064A\u0646\u063A \u0641\u064A \u0645\u0648\u0633\u0645 2011 \u0648 \u0641\u064A\u0631\u062C\u064A\u0646 \u0631\u064A\u0633\u0646\u063A \u0641\u064A \u0645\u0648\u0633\u0645 2010. \u064A\u0639\u062A\u0628\u0631 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u062B\u0627\u0644\u062B \u0645\u0646 \u0628\u064A\u0646 \u0627\u0644\u0641\u0631\u0642 \u0627\u0644\u062A\u064A \u062A\u0646\u0627\u0641\u0633 \u062A\u062D\u062A \u0631\u062E\u0635\u0629 \u0631\u0648\u0633\u064A\u0629 \u0645\u0646 \u0628\u0639\u062F \u0641\u0631\u064A\u0642 \u0645\u064A\u062F\u0644\u0627\u0646\u062F \u0625\u06411 \u0648\u0641\u064A\u0631\u062C\u064A\u0646 \u0625\u06411 (\u0627\u0644\u0630\u064A \u0627\u062E\u062A\u0627\u0631 \u0627\u0644\u0631\u062E\u0635\u0629 \u0627\u0644\u0631\u0648\u0633\u064A\u0629 \u0628\u0639\u062F \u0627\u0647\u062A\u0645\u0627\u0645 \u0634\u0631\u0643\u0629 \u0645\u0627\u0631\u0648\u0633\u064A\u0627 \u0628\u0647)."@ar ,
+		"\u30DE\u30CE\u30FC\u30FB\u30DE\u30EB\u30B7\u30E3F1\u30C1\u30FC\u30E0 (\u82F1: Manor Marussia F1 Team) \u306F\u30012012\u5E74\u304B\u30892015\u5E74\u307E\u3067\u53C2\u6226\u3057\u3066\u3044\u305F\u30A4\u30AE\u30EA\u30B9\u306EF1\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u30022010\u5E74\u3088\u308A\u53C2\u6226\u3057\u3066\u3044\u305F\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u304C\u30DE\u30EB\u30B7\u30E3\u30FB\u30E2\u30FC\u30BF\u30FC\u30BA\u306B\u30C1\u30FC\u30E0\u682A\u5F0F\u3092\u58F2\u5374\u3057\u30012011\u5E74\u306B\u30DE\u30EB\u30B7\u30E3\u30FB\u30F4\u30A1\u30FC\u30B8\u30F3\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0 (\u82F1: Marussia Virgin Racing) \u30012012\u5E74\u304B\u30892014\u5E74\u306F\u30DE\u30EB\u30B7\u30E3F1\u30C1\u30FC\u30E0 (\u82F1: Marussia F1 Team)\u3068\u3044\u3046\u540D\u79F0\u3067\u53C2\u6226\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"Manor Marussia F1 Team est une \u00E9curie Formule 1 britannique qui succ\u00E8de \u00E0 l'\u00E9curie russe Marussia F1 Team qui succ\u00E9dait elle-m\u00EAme \u00E0 l'\u00E9curie britannique Virgin Racing, n\u00E9e sous le nom Manor Motorsport. Fin 2010, Marussia Motors, commanditaire principal de l'\u00E9curie, acquiert 40 % des parts de l'\u00E9quipe d\u00E9tenues par Virgin ; l'\u00E9quipe est alors engag\u00E9e en championnat du monde sous le nom Marussia Virgin Racing. En 2011, l'\u00E9curie s'engage sous licence russe et devient la seconde \u00E9curie de Formule 1 russe apr\u00E8s Midland F1 Racing. Fin 2011, apr\u00E8s le rachat de la totalit\u00E9 des parts de Virgin, Marussia Motors, avec l'accord des autres \u00E9curies, renomme l'\u00E9quipe Marussia F1 Team lors de son engagement en championnat du monde en 2012. Marussia Motors revend ensuite ses parts \u00E0 la soci\u00E9t\u00E9 Marussia Communications Limited dont le si\u00E8ge social est \u00E0 Dublin. En 2015, apr\u00E8s une mise en liquidation judiciaire, l'\u00E9curie est reprise par Stephen Fitzpatrick qui s'appuie sur le duo directorial John Booth-Graeme Lowdon, fondateurs de Manor Motorsport et engag\u00E9e sous la d\u00E9nomination Manor Marussia F1 Team. En fin de saison, Booth et Lowdon d\u00E9missionnent et les nouveaux dirigeants obtiennent de droit d'engager l'\u00E9quipe en Formule 1 en 2016 sous une nouvelle raison sociale, Manor Racing, tandis que John Booth et Graeme Lowdon fondent Manor Endurance Racing Limited pour s'engager en cat\u00E9gorie LMP2 en Championnat du monde d'endurance FIA avec une Oreca 05-Nissan (avec Will Stevens) pour une dur\u00E9e minimum de deux ans."@fr ,
+		"The Marussia F1 Team (subsequently Manor Marussia F1 Team) was an Anglo-Russian Formula One racing team and constructor which was based in Banbury, Oxfordshire in the United Kingdom. The team was operated by Manor Motorsport (formerly Marussia Manor Racing), which was previously a subsidiary of Marussia Motors, a now defunct sports car manufacturer which was based in Moscow. The team originally started racing in 2010 under the \"Virgin Racing\" name; the following year Virgin adopted Marussia as a title sponsor becoming \"Marussia Virgin Racing\" until being fully rebranded as the \"Marussia F1 Team\" for 2012. The Marussia team scored its first championship points at the 2014 Monaco Grand Prix, where its leading driver, Jules Bianchi, finished ninth, and in doing so Marussia became the first Russian licensed constructor to score world championship points. Following a serious crash and injuries sustained by Bianchi at the 2014 Japanese Grand Prix, the team raced for the first time with a single car at the inaugural 2014 Russian Grand Prix. On 26 October 2014, news reports emerged that the Marussia team would not participate at the 2014 United States Grand Prix due to financial reasons and that, on 7 October 2014, the team filed a notice in the London High Court intending to go into administration. The appointed administrator released an official statement on 27 October 2014 and the team was still included in FIA's provisional entry list for the 2015 Formula One season but as the \"Manor F1 Team\". On 7 November 2014, however, the administrator announced that the team had ceased trading. On 19 January 2015, the administrators of Marussia announced that the auction of its cars and assets had been cancelled so as to allow a possible buy-out to take place. The team collapsed owing around \u00A360m, two of the companies out of pocket being Marussia's former competitors McLaren and Ferrari. The team exited administration on 19 February 2015, and was re-established as the Manor Marussia F1 Team after a CVA had been signed and new investment was secured to rescue the team. Former Sainsbury's CEO Justin King was reportedly the team's main backer. The team retained Marussia as its constructor name throughout the 2015 season, also adopting British nationality. In 2016, the team announced a name change to \"Manor Racing\". From the 2016 season on, Manor will use Mercedes-Benz power units."@en ,
+		"\u746A\u9B6F\u897F\u4E9EF1\u8F66\u961F\uFF08Marussia F1 team\uFF09\uFF0C\u524D\u8EAB\u4E3A\u7DAD\u73CD\u8F66\u961F\uFF0C\u662F\u4E00\u53EA\u6210\u7ACB\u4E8E2009\u5E74\u7684\u82F1\u56FD\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8F66\u961F\uFF0C\u53C2\u52A0\u4E862010\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u53CA2011\u5E74\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u30022012\u8D5B\u5B63\uFF0C\u8F66\u961F\u4EE5\u201C\u739B\u9C81\u897F\u4E9A\u201D\u7684\u65B0\u540D\u79F0\u51FA\u6218\u3002"@zh ,
+		"Marussia F1 Team fue una escuder\u00EDa de F\u00F3rmula 1 que form\u00F3 parte de la categor\u00EDa desde la temporada 2012 hasta la temporada 2014, donde fue reemplazado por Manor. Estuvo controlada por la empresa Marussia Motors, tras adquirir dicha sociedad del antiguo equipo brit\u00E1nico Virgin Racing, que ya corri\u00F3 en 2011 bajo bandera rusa. De cara a su primera temporada dentro de la F1 el equipo ruso mantuvo los motores Cosworth implementados por su antecesor Virgin, y mantuvo \u00E1reas del desarrollo del monoplaza en asociaci\u00F3n con McLaren, buscando as\u00ED mejorar los resultados conseguidos por sus antepasados. Las mismas consisten en la utilizaci\u00F3n de las instalaciones del equipo ingl\u00E9s, incluyendo el desarrollo del t\u00FAnel de viento."@es ,
+		"Marussia F1 Team was een Russisch Formule 1-team dat actief was van 2012 tot 2014. Marussia nam het Britse Virgin Racing-Formule 1-team in 2012 volledig over. Vanaf het seizoen 2015 ging het team verder als Manor F1 Team."@nl ,
+		"Marussia F1 Team \u2014 \u0430\u043D\u0433\u043B\u043E-\u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0430\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u0432\u0448\u0430\u044F \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 2012. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0430 \u043D\u0430 \u043E\u0441\u043D\u043E\u0432\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0412\u0451\u0440\u0434\u0436\u0438\u043D\u00BB \u043F\u043E\u0441\u043B\u0435 \u0435\u0451 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439 Marussia Motors. \u0412 2012 \u0438 2013 \u0433\u043E\u0434\u0430\u0445 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0438 Cosworth, \u0432 2014 \u0433\u043E\u0434\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0430 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0438 Ferrari. \u0412 \u0430\u043F\u0440\u0435\u043B\u0435 2014 \u0441\u0442\u0430\u043B\u043E \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E, \u0447\u0442\u043E \u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 Marussia Motors \u041D\u0438\u043A\u043E\u043B\u0430\u0439 \u0424\u043E\u043C\u0435\u043D\u043A\u043E \u0431\u043E\u043B\u044C\u0448\u0435 \u043D\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0433\u043B\u0430\u0432\u043E\u0439 \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u043D\u043E\u0433\u043E \u0434\u0435\u043F\u0430\u0440\u0442\u0430\u043C\u0435\u043D\u0442\u0430 \u00AB\u041C\u0430\u0440\u0443\u0441\u0438\u00BB, \u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0443\u0436\u0435 \u043D\u0435 \u0438\u043C\u0435\u0435\u0442 \u043D\u0438 \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0445, \u043D\u0438 \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u0445 \u0441\u0432\u044F\u0437\u0435\u0439 \u0441 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0435\u0439 \u0424\u043E\u043C\u0435\u043D\u043A\u043E. \u0412 \u043E\u043A\u0442\u044F\u0431\u0440\u0435 2014 \u0433\u043E\u0434\u0430 \u0432 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438 \u0431\u044B\u043B\u0430 \u0432\u0432\u0435\u0434\u0435\u043D\u0430 \u043F\u0440\u043E\u0446\u0435\u0434\u0443\u0440\u0430 \u0432\u043D\u0435\u0448\u043D\u0435\u0433\u043E \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F.7 \u043D\u043E\u044F\u0431\u0440\u044F 2014 \u0433\u043E\u0434\u0430 \u0431\u044B\u043B\u043E \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u043E \u043E \u043F\u0440\u0435\u043A\u0440\u0430\u0449\u0435\u043D\u0438\u0438 \u0434\u0435\u044F\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u0438 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438. \u0412 2015 \u0433\u043E\u0434\u0443 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0435\u0442 \u043D\u0430\u0447\u0438\u043D\u0430\u044F \u0441\u043E \u0432\u0442\u043E\u0440\u043E\u0439 \u0433\u043E\u043D\u043A\u0438 \u043F\u043E\u0434 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u043C Manor."@ru ;
+	dbo:wikiPageRevisionID	739339980 ;
+	dbo:wikiPageID	34216375 ;
+	dbp:races	74 ;
+	dbp:wins	0 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Marussia_F1	ns24:hypernym	dbr:Formula ;
+	dbp:staff	"Andrey Cheglakov"^^xsd:string ,
+		dbr:Nikolai_Fomenko ,
+		dbr:John_McQuilliam ,
+		dbr:Marc_Hynes ,
+		dbr:Pat_Symonds ,
+		<http://dbpedia.org/resource/Bob_Bell_(motorsport)> ,
+		<http://dbpedia.org/resource/John_Booth_(motor_racing)> ,
+		dbr:Graeme_Lowdon ,
+		"Andy Webb"^^xsd:string ;
+	dbp:lastRace	2015 .
+dbr:Jules_Bianchi	dbp:teams	dbr:Marussia_F1 .
+dbr:Roberto_Merhi	dbp:teams	dbr:Marussia_F1 .
+dbr:John_McQuilliam	dbo:knownFor	dbr:Marussia_F1 ;
+	dbo:occupation	dbr:Marussia_F1 .
+dbr:Marussia_MR02	dbp:team	dbr:Marussia_F1 ;
+	dbp:constructor	dbr:Marussia_F1 .
+dbr:Marussia_MR01	dbp:team	dbr:Marussia_F1 ;
+	dbp:constructor	dbr:Marussia_F1 .
+dbr:Marussia_Motors	dbo:subsidiary	dbr:Marussia_F1 .
+dbr:Manor_Marussia_F1	dbo:wikiPageRedirects	dbr:Marussia_F1 .
+dbr:Manor_Marussia_F1_Team	dbo:wikiPageRedirects	dbr:Marussia_F1 .
+dbr:Marussia_F1_Team	dbo:wikiPageRedirects	dbr:Marussia_F1 .
+dbr:Manor_Marussia	dbo:wikiPageRedirects	dbr:Marussia_F1 .
