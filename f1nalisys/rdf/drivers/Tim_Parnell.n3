@@ -1,0 +1,110 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Reg_Parnell_Racing	dbp:staff	dbr:Tim_Parnell .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Tim_Parnell	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:Operator110378412 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Tim_Parnell	rdf:type	dbo:RacingDriver .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Tim_Parnell	rdf:type	ns5:NaturalPerson ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Tim_Parnell	rdf:type	schema:Person ,
+		dbo:Agent ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Tim_Parnell	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Tim_Parnell	rdf:type	owl:Thing .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Tim_Parnell	rdf:type	foaf:Person ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		wikidata:Q5 ,
+		ns5:Agent ,
+		yago:Driver110034906 ,
+		wikidata:Q378622 ,
+		dbo:FormulaOneRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Tim_Parnell	rdfs:label	"Tim Parnell"@pt ,
+		"Tim Parnell"@it ,
+		"Tim Parnell"@de ,
+		"Tim Parnell"@nl ,
+		"Tim Parnell"@pl ,
+		"Tim Parnell"@en ;
+	rdfs:comment	"Reginald Harold Haslam \u201ETim\u201C Parnell (* 25. Juli 1932 in Derby) ist ein ehemaliger britischer Autorennfahrer und Teammanager. Tim Parnell ist der Sohn des britischen Rennfahrers und Rennstallbesitzers Reginald Parnell."@de ,
+		"Reginald \"Tim\" Parnell (ur. 25 czerwca 1932 w Derbach) \u2013 brytyjski kierowca Formu\u0142y 1."@pl ,
+		"Reginald \"Tim\" Parnell (Derby, 25 juni 1932) is een voormalig Brits Formule 1-coureur. Hij nam tussen 1959 en 1963 deel aan 4 Grands Prix voor de teams Cooper en Lotus, waarvoor hij zich in 2 van deze kwalificeerde. Hij scoorde geen punten."@nl ,
+		"Reginald Harold Haslam Parnell (Derby, Inglaterra, 25 de junho de 1932) foi um automobilista ingl\u00EAs que participou de 4 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1959 e 1963. \u00C9 filho do tamb\u00E9m automobilista Reg Parnell."@pt ,
+		"Come per il padre, la sua notoriet\u00E0 nell'ambiente delle corse di monoposto \u00E8 pi\u00F9 legata all'attivit\u00E0 di manager intrapresa dopo il termine dell'attivit\u00E0 agonistica. Nello specifico Tim fu team manager della scuderia BRM dal 1970 al 1974."@it ,
+		"Reginald Harold Haslam \"Tim\" Parnell (born 25 June 1932 in Derby) is a British former racing driver from England. He participated in four Formula One World Championship Grands Prix, debuting on 18 July 1959, and qualified for two of them. He scored no championship points. His only finish was tenth place in the 1961 Italian Grand Prix at Monza. Parnell managed the BRM Formula One team from 1970\u201374, and is the son of Reg Parnell, another racing driver and team boss.After his father's death in 1964, he took on the running of Reg Parnell Racing and on occasion managed his own team with entries for Mike Spence and Pedro Rodriguez."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Tim_Parnell	dbp:birthDate	"1932-06-25"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Tim_Parnell	owl:sameAs	dbpedia-it:Tim_Parnell ,
+		wikidata:Q172802 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Tim_Parnell	owl:sameAs	dbpedia-pt:Tim_Parnell .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Tim_Parnell	owl:sameAs	dbpedia-wikidata:Q172802 ,
+		<http://rdf.freebase.com/ns/m.04kxpv> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Tim_Parnell	owl:sameAs	dbpedia-nl:Tim_Parnell ,
+		dbr:Tim_Parnell .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Tim_Parnell	owl:sameAs	yago-res:Tim_Parnell .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Tim_Parnell	owl:sameAs	dbpedia-de:Tim_Parnell .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Tim_Parnell	owl:sameAs	dbpedia-pl:Tim_Parnell .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Tim_Parnell	dct:subject	dbc:English_racing_drivers ,
+		dbc:Formula_One_team_owners ,
+		dbc:Formula_One_people ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1932_births> ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ;
+	foaf:name	"Tim Parnell"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Tim"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Tim_Parnell	foaf:isPrimaryTopicOf	wikipedia-en:Tim_Parnell ;
+	foaf:surname	"Parnell"@en ;
+	dbp:points	0 ;
+	dbp:years	", ,"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	"privateer Cooper and Lotus"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Tim_Parnell	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tim_Parnell?oldid=719595988> ;
+	dbp:birthPlace	"Derby, Derbyshire, England, UK"^^xsd:string ;
+	dbo:abstract	"Come per il padre, la sua notoriet\u00E0 nell'ambiente delle corse di monoposto \u00E8 pi\u00F9 legata all'attivit\u00E0 di manager intrapresa dopo il termine dell'attivit\u00E0 agonistica. Nello specifico Tim fu team manager della scuderia BRM dal 1970 al 1974."@it ,
+		"Reginald Harold Haslam \u201ETim\u201C Parnell (* 25. Juli 1932 in Derby) ist ein ehemaliger britischer Autorennfahrer und Teammanager. Tim Parnell ist der Sohn des britischen Rennfahrers und Rennstallbesitzers Reginald Parnell."@de ,
+		"Reginald \"Tim\" Parnell (Derby, 25 juni 1932) is een voormalig Brits Formule 1-coureur. Hij nam tussen 1959 en 1963 deel aan 4 Grands Prix voor de teams Cooper en Lotus, waarvoor hij zich in 2 van deze kwalificeerde. Hij scoorde geen punten."@nl ,
+		"Reginald Harold Haslam \"Tim\" Parnell (born 25 June 1932 in Derby) is a British former racing driver from England. He participated in four Formula One World Championship Grands Prix, debuting on 18 July 1959, and qualified for two of them. He scored no championship points. His only finish was tenth place in the 1961 Italian Grand Prix at Monza. Parnell managed the BRM Formula One team from 1970\u201374, and is the son of Reg Parnell, another racing driver and team boss.After his father's death in 1964, he took on the running of Reg Parnell Racing and on occasion managed his own team with entries for Mike Spence and Pedro Rodriguez."@en ,
+		"Reginald Harold Haslam Parnell (Derby, Inglaterra, 25 de junho de 1932) foi um automobilista ingl\u00EAs que participou de 4 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1959 e 1963. \u00C9 filho do tamb\u00E9m automobilista Reg Parnell."@pt ,
+		"Reginald \"Tim\" Parnell (ur. 25 czerwca 1932 w Derbach) \u2013 brytyjski kierowca Formu\u0142y 1."@pl ;
+	dbo:birthDate	"1932-6-25"^^xsd:date ;
+	dbo:wikiPageRevisionID	719595988 ;
+	dbo:birthPlace	dbr:Derby ;
+	dbo:wikiPageID	1235663 ;
+	dbo:nationality	dbr:United_Kingdom ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1959_British_Grand_Prix> ;
+	dbo:races	"4"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1963_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Tim_Parnell	ns23:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1961_Lewis-Evans_Trophy>	dbo:thirdDriver	dbr:Tim_Parnell .
+wikipedia-en:Tim_Parnell	foaf:primaryTopic	dbr:Tim_Parnell .
+dbr:Parnell	dbo:wikiPageDisambiguates	dbr:Tim_Parnell .

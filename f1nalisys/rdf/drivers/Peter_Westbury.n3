@@ -1,0 +1,130 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__41__1>	dbo:firstDriver	dbr:Peter_Westbury .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Arthur_Owen	dbp:after	dbr:Peter_Westbury .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Peter_Westbury	rdf:type	yago:WikicatBritishHillclimbDrivers ,
+		dbo:MotorsportRacer .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Peter_Westbury	rdf:type	ns5:NaturalPerson .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Peter_Westbury	rdf:type	foaf:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Peter_Westbury	rdf:type	wikidata:Q378622 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		ns5:Agent ,
+		wikidata:Q5 ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Peter_Westbury	rdf:type	owl:Thing ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Peter_Westbury	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:FormulaOneRacer ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Peter_Westbury	rdf:type	schema:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Person ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Peter_Westbury	rdfs:label	"Peter Westbury"@it ,
+		"Peter Westbury"@pl ,
+		"Peter Westbury"@en ,
+		"Peter Westbury"@nl ,
+		"Peter Westbury"@de ,
+		"Peter Westbury"@pt ;
+	rdfs:comment	"Peter Westbury (Roehampton, Londres, Inglaterra, 26 de maio de 1938 - Scarborough, Trinidad e Tobago, 7 de dezembro de 2015) foi um automobilista ingl\u00EAs que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 em 1969 e do GP dos Estados Unidos em 1970."@pt ,
+		"Peter Westbury (ur. 26 maja 1938 w Roehampton, zm. 7 grudnia 2015) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Peter Westbury (Roehampton, Londen, 26 mei 1938 \u2013 Scarborough (Trinidad en Tobago), 7 december 2015) was een Brits autocoureur. In 1969 en 1970 nam hij tweemaal deel aan een Grand Prix Formule 1-wedstrijd voor de teams Brabham, de Grand Prix Formule 1 van Duitsland 1969 en BRM, de Grand Prix Formule 1 van de Verenigde Staten 1970 maar hij behaalde hierbij geen WK-punten."@nl ,
+		"Peter Westbury (26 May 1938 \u2013 7 December 2015) was a British racing driver from England. He participated in two World Championship Formula One Grands Prix, scoring no championship points. In 1969 he raced a Formula 2 Brabham-Cosworth, driving in his first Grand Prix in the 1969 German Grand Prix. He finished ninth on the road, fifth in the F2 class. The following year he failed to qualify for the 1970 United States Grand Prix driving a works BRM, after an engine failure."@en ,
+		"Peter Westbury (* 26. Mai 1938 in London; \u2020 7. Dezember 2015 in Scarborough, Trinidad und Tobago) war ein britischer Autorennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Peter_Westbury	dbp:birthDate	"1938-05-26"^^xsd:date ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04kx4r> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Peter_Westbury	owl:sameAs	yago-res:Peter_Westbury .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Peter_Westbury	owl:sameAs	dbpedia-nl:Peter_Westbury .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Peter_Westbury	owl:sameAs	dbpedia-pt:Peter_Westbury .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Peter_Westbury	owl:sameAs	dbpedia-wikidata:Q172429 ,
+		dbr:Peter_Westbury .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Peter_Westbury	owl:sameAs	dbpedia-de:Peter_Westbury .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Peter_Westbury	owl:sameAs	dbpedia-it:Peter_Westbury ,
+		wikidata:Q172429 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Peter_Westbury	owl:sameAs	dbpedia-pl:Peter_Westbury .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Peter_Westbury	dct:subject	dbc:British_hillclimb_drivers ,
+		dbc:English_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1938_births> ,
+		dbc:English_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2015_deaths> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Brighton_Speed_Trials_people ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:BRM_Formula_One_drivers ;
+	foaf:name	"Peter Westbury"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Peter_Westbury_1970_N\u00FCrburgring.JPG> ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Peter"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Peter_Westbury	foaf:isPrimaryTopicOf	wikipedia-en:Peter_Westbury ;
+	foaf:surname	"Westbury"@en ;
+	dbp:points	0 ;
+	dbp:years	"-"^^xsd:string ,
+		1963 ;
+	dbp:after	<http://dbpedia.org/resource/Tony_Marsh_(racing_driver)> ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Brabham, BRM"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Peter_Westbury	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Peter_Westbury?oldid=744672301> ;
+	dbp:caption	"Peter Westbury"^^xsd:string ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:birthPlace	"Roehampton, London, UK"^^xsd:string ;
+	dbp:deathDate	"2015-12-07"^^xsd:date ;
+	dbp:before	dbr:Arthur_Owen ;
+	dbp:deathPlace	dbr:Trinidad_and_Tobago ,
+		<http://dbpedia.org/resource/Scarborough,_Tobago> ;
+	dbo:abstract	"Peter Westbury (Roehampton, Londres, Inglaterra, 26 de maio de 1938 - Scarborough, Trinidad e Tobago, 7 de dezembro de 2015) foi um automobilista ingl\u00EAs que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 em 1969 e do GP dos Estados Unidos em 1970."@pt ,
+		"Peter Westbury (* 26. Mai 1938 in London; \u2020 7. Dezember 2015 in Scarborough, Trinidad und Tobago) war ein britischer Autorennfahrer."@de ,
+		"Peter Westbury (26 May 1938 \u2013 7 December 2015) was a British racing driver from England. He participated in two World Championship Formula One Grands Prix, scoring no championship points. In 1969 he raced a Formula 2 Brabham-Cosworth, driving in his first Grand Prix in the 1969 German Grand Prix. He finished ninth on the road, fifth in the F2 class. The following year he failed to qualify for the 1970 United States Grand Prix driving a works BRM, after an engine failure. Early in his racing career he campaigned a homebuilt special called the M.G.W., graduating to a Cooper-Climax in 1960 which was later fitted with a Daimler V8 engine. Westbury won the British Hill Climb Championship twice, in 1963 and 1964. In 1963 he drove the self-built Felday, with supercharged Daimler V8 2.6 litre motor. The following year he won in the 2.5 litre Climax-engined Ferguson P99 with four-wheel-drive, on loan from Ferguson Research Ltd. Westbury also drove the Ferguson P99 in the 1964 Brighton Speed Trials and at the First International Drag Festival, a series of six events held in England that year, where the car covered the standing-start quarter mile in 11.01 seconds. He also drove a Lotus 23-BRM sports car at the Drag Festival. During 1965 Westbury developed the Felday-BRM 4 sports car with four-wheel-drive. The car won on its debut at Brands Hatch on Boxing Day, 26 December 1965, driven by Mac Daghorn. At Mallory Park on 13 March 1966, Peter Westbury and Mac Daghorn shared the car, each winning a race. Jim Clark raced the Felday 4 in the Guards Trophy at Brands Hatch on 29 August 1966. The Felday 5 sports car was fitted with a 7-litre Ford Galaxie engine and four wheel drive, but only raced briefly. The Felday 6 was a 4.7 litre Ford-powered hillclimb single-seater, with rear wheel drive, built for Tony Griffiths. In 1967 Westbury raced a Brabham-Ford Formula Three car in England and in Continental Europe. He won the F3 race at the Silverstone circuit on 29 April, the Grand Prix des Fronti\u00E8res at Chimay on 14 May, and also at the Auvergne Trophy meeting on 18 June 1967, on the daunting Clermont-Ferrand circuit in France. The same year he resuscitated the old BRM P67 four-wheel-drive F1 car, designed by Mike Pilbeam in 1964, for David Good to campaign in the British Hill Climb Championship. The car led the series at the half-way mark, but then passed into the hands of Peter Lawson, who revamped it for 1968. The car was a dominant winner of the series in 1968."@en ,
+		"Peter Westbury (ur. 26 maja 1938 w Roehampton, zm. 7 grudnia 2015) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Peter Westbury (Roehampton, Londen, 26 mei 1938 \u2013 Scarborough (Trinidad en Tobago), 7 december 2015) was een Brits autocoureur. In 1969 en 1970 nam hij tweemaal deel aan een Grand Prix Formule 1-wedstrijd voor de teams Brabham, de Grand Prix Formule 1 van Duitsland 1969 en BRM, de Grand Prix Formule 1 van de Verenigde Staten 1970 maar hij behaalde hierbij geen WK-punten."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Peter_Westbury_1970_N\u00FCrburgring.JPG?width=300> ;
+	dbo:birthDate	"1938-5-26"^^xsd:date ;
+	dbo:deathDate	"2015-12-11"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Scarborough,_Tobago> ;
+	dbo:wikiPageRevisionID	744672301 ;
+	dbo:birthPlace	dbr:London ;
+	dbo:wikiPageID	1235574 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1969_German_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1970_United_States_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Peter_Westbury	ns24:hypernym	dbr:Driver ;
+	dbp:title	dbr:British_Hill_Climb_Championship .
+wikipedia-en:Peter_Westbury	foaf:primaryTopic	dbr:Peter_Westbury .
+dbr:Westbury	dbo:wikiPageDisambiguates	dbr:Peter_Westbury .
+<http://dbpedia.org/resource/Tony_Marsh_(racing_driver)>	dbp:before	dbr:Peter_Westbury .

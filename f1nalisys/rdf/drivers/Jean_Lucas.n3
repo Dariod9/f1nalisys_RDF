@@ -1,0 +1,123 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__32__1>	dbo:firstDriver	dbr:Jean_Lucas .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__8__1>	dbo:firstDriver	dbr:Jean_Lucas .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__30__1>	dbo:firstDriver	dbr:Jean_Lucas .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__34__1>	dbo:firstDriver	dbr:Jean_Lucas .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jean_Lucas	foaf:primaryTopic	dbr:Jean_Lucas .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__56__1>	dbo:firstDriver	dbr:Jean_Lucas .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Giuseppe_Farina	dbp:before	dbr:Jean_Lucas .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Jean_Lucas	rdf:type	dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jean_Lucas	rdf:type	yago:WikicatGordiniFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jean_Lucas	rdf:type	umbel-rc:RaceCarDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jean_Lucas	rdf:type	wikidata:Q5 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jean_Lucas	rdf:type	ns9:Agent ,
+		wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		ns9:NaturalPerson ,
+		dbo:MotorsportRacer ,
+		yago:Driver110034906 ,
+		dbo:Agent ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		wikidata:Q215627 ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Jean_Lucas	rdf:type	schema:Person ,
+		dbo:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jean_Lucas	rdf:type	owl:Thing ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jean_Lucas	rdfs:label	"Jean Lucas"@de ,
+		"Jean Lucas (pilota automobilistico)"@it ,
+		"Jean Lucas"@en ,
+		"Jean Lucas (pilote)"@fr ,
+		"Jean Lucas"@pt ,
+		"Jean Lucas"@pl ,
+		"Jean Lucas"@nl ;
+	rdfs:comment	"Jean Lucas (25 April 1917 \u2013 27 September 2003) was a racing driver from France. He participated in one Formula One World Championship Grand Prix, on 11 September 1955. Lucas was then manager of the Gordini team, and when regular driver Robert Manzon was unable to race, he stepped in to take his place. His retired his car with engine failure and scored no championship points. Lucas' best results as a driver were in sports car racing at the wheel of a Ferrari, winning at Spa-Francorchamps and Montlh\u00E9ry in 1949. He retired in 1957 after a crash at the Moroccan Grand Prix."@en ,
+		"Jean Lucas (ur. 25 kwietnia 1917 roku w Le Mans, zm. 27 wrze\u015Bnia 2003 roku w Saint-Martin-de-R\u00E9) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Jean Lucas (Le Mans, Fran\u00E7a, 25 de abril de 1917 \u2013 Saint Martin de R\u00E9, Fran\u00E7a, 27 de setembro de 2003) foi um automobilista franc\u00EAs que particiou do Grande Pr\u00EAmio da It\u00E1lia de F\u00F3rmula 1 em 1955."@pt ,
+		"Jean Lucas (* 25. April 1917 in Le Mans; \u2020 27. September 2003) war ein franz\u00F6sischer Automobilrennfahrer."@de ,
+		"Jean Lucas, n\u00E9 le 25 avril 1917 au Mans, et mort le 27 septembre 2003 \u00E0 Saint-Martin-de-R\u00E9 est un pilote automobile fran\u00E7ais qui a notamment particip\u00E9 \u00E0 un GP de Formule 1."@fr ,
+		"Jean Lucas (Le Mans, 25 april 1917 \u2013 Saint-Martin-de-R\u00E9, 27 september 2003) was een Formule 1-coureur uit Frankrijk. Hij was de manager van het team Gordini, maar toen de echte coureur van het team Robert Manzon niet kon rijden, stapte Lucas in in zijn plaats. Hij reed de Grand Prix van Itali\u00EB in 1955, maar behaalde geen punten."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jean_Lucas	dbp:birthDate	"1917-04-25"^^xsd:date .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Jean_Lucas	owl:sameAs	dbpedia-cs:Jean_Lucas .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jean_Lucas	owl:sameAs	dbpedia-pt:Jean_Lucas ,
+		dbr:Jean_Lucas .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jean_Lucas	owl:sameAs	dbpedia-nl:Jean_Lucas .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jean_Lucas	owl:sameAs	dbpedia-de:Jean_Lucas .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jean_Lucas	owl:sameAs	yago-res:Jean_Lucas .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jean_Lucas	owl:sameAs	dbpedia-wikidata:Q172350 ,
+		<http://rdf.freebase.com/ns/m.04kqs9> ,
+		wikidata:Q172350 ,
+		<http://it.dbpedia.org/resource/Jean_Lucas_(pilota_automobilistico)> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jean_Lucas	owl:sameAs	dbpedia-pl:Jean_Lucas ,
+		<http://fr.dbpedia.org/resource/Jean_Lucas_(pilote)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jean_Lucas	dct:subject	dbc:French_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1917_births> ,
+		dbc:French_racing_drivers ,
+		dbc:Gordini_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:2003_deaths> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Jean Lucas"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Jean"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jean_Lucas ;
+	foaf:surname	"Lucas"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jean_Lucas	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jean_Lucas?oldid=703975029> ;
+	dbp:nationality	"French"^^xsd:string ;
+	dbp:deathDate	"2003-09-27"^^xsd:date ;
+	dbo:abstract	"Jean Lucas (Le Mans, Fran\u00E7a, 25 de abril de 1917 \u2013 Saint Martin de R\u00E9, Fran\u00E7a, 27 de setembro de 2003) foi um automobilista franc\u00EAs que particiou do Grande Pr\u00EAmio da It\u00E1lia de F\u00F3rmula 1 em 1955."@pt ,
+		"Jean Lucas (Le Mans, 25 april 1917 \u2013 Saint-Martin-de-R\u00E9, 27 september 2003) was een Formule 1-coureur uit Frankrijk. Hij was de manager van het team Gordini, maar toen de echte coureur van het team Robert Manzon niet kon rijden, stapte Lucas in in zijn plaats. Hij reed de Grand Prix van Itali\u00EB in 1955, maar behaalde geen punten."@nl ,
+		"Jean Lucas, n\u00E9 le 25 avril 1917 au Mans, et mort le 27 septembre 2003 \u00E0 Saint-Martin-de-R\u00E9 est un pilote automobile fran\u00E7ais qui a notamment particip\u00E9 \u00E0 un GP de Formule 1."@fr ,
+		"Jean Lucas (* 25. April 1917 in Le Mans; \u2020 27. September 2003) war ein franz\u00F6sischer Automobilrennfahrer."@de ,
+		"Jean Lucas (ur. 25 kwietnia 1917 roku w Le Mans, zm. 27 wrze\u015Bnia 2003 roku w Saint-Martin-de-R\u00E9) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Jean Lucas (25 April 1917 \u2013 27 September 2003) was a racing driver from France. He participated in one Formula One World Championship Grand Prix, on 11 September 1955. Lucas was then manager of the Gordini team, and when regular driver Robert Manzon was unable to race, he stepped in to take his place. His retired his car with engine failure and scored no championship points. Lucas' best results as a driver were in sports car racing at the wheel of a Ferrari, winning at Spa-Francorchamps and Montlh\u00E9ry in 1949. He retired in 1957 after a crash at the Moroccan Grand Prix."@en ;
+	dbo:birthDate	"1917-4-25"^^xsd:date ;
+	dbo:deathDate	"2003-9-27"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Saint-Martin-de-R\u00E9> ;
+	dbo:wikiPageRevisionID	703975029 ;
+	dbo:birthPlace	dbr:Le_Mans ;
+	dbo:wikiPageID	1233873 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1955_Italian_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1955_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Jean_Lucas	ns24:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__51__1>	dbo:firstDriver	dbr:Jean_Lucas .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__3__1>	dbo:firstDriver	dbr:Jean_Lucas .

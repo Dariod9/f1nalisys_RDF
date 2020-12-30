@@ -1,0 +1,126 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix ns2:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:John_Riseley-Prichard	rdf:type	ns2:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:John_Riseley-Prichard	rdf:type	yago:PhysicalEntity100001930 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:John_Riseley-Prichard	rdf:type	foaf:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:John_Riseley-Prichard	rdf:type	umbel-rc:Athlete ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:John_Riseley-Prichard	rdf:type	dbo:Athlete .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:John_Riseley-Prichard	rdf:type	wikidata:Q378622 ,
+		yago:Operator110378412 ,
+		umbel-rc:RaceCarDriver ,
+		yago:Driver110034906 .
+@prefix schema:	<http://schema.org/> .
+dbr:John_Riseley-Prichard	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		dbo:FormulaOneRacer ,
+		dbo:Person ,
+		dbo:MotorsportRacer ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q24229398 ,
+		ns2:Agent ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:RacingDriver ,
+		wikidata:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:John_Riseley-Prichard	rdf:type	owl:Thing ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:John_Riseley-Prichard	rdfs:label	"\u30B8\u30E7\u30F3\u30FB\u30EA\u30BA\u30EA\u30FC\uFF1D\u30D7\u30EA\u30C1\u30E3\u30FC\u30C9"@ja ,
+		"John Riseley-Prichard"@en ,
+		"John Riseley-Prichard"@nl ,
+		"John Riseley-Prichard"@de ,
+		"John Riseley-Prichard"@fr ,
+		"John Riseley-Prichard"@pt ,
+		"John Riseley-Prichard"@pl ;
+	rdfs:comment	"John Henry Augustin Prichard, later Riseley-Prichard, (17 January 1924 in Hereford - 8 July 1993 in Thailand ) was a British insurance broker and racing driver. After getting a taste for motorsport in a road-going Riley, he bought a second-hand Connaught Type A from the Rob Walker Racing Team. Using this vehicle he participated in one Formula One World Championship Grand Prix: the British Grand Prix on 17 July 1954. He spun out of the race, scoring no championship points. In addition to this he competed in a number of non-Championship Formula One and Formula Libre races, including a victory in the 1954 I Cornwall MRC Formula 1 Race."@en ,
+		"John Riseley-Prichard, n\u00E9 le 17 janvier 1924 \u00E0 Hereford (Herefordshire) et mort le 8 juillet 1993 en Tha\u00EFlande, est un ancien pilote automobile amateur anglais. Il dispute des courses sur circuit au d\u00E9but des ann\u00E9es 1950 et remporte la victoire dans une course de Formule 2 \u00E0 Davidstow. Remarqu\u00E9 par Rob Walker, il prend le d\u00E9part, en 1954, du Grand Prix de Grande-Bretagne, comptant pour le championnat du monde, au volant d'une Connaught du Rob Walker Racing Team."@fr ,
+		"John Henry Augustin Prichard (Hereford, Inglaterra, 17 de janeiro de 1924 - Baan Kai Thuan, Tail\u00E2ndia, 8 de julho de 1993) foi um automobilista ingl\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1954."@pt ,
+		"John Henry Augustin Prichard (ur. 17 stycznia 1924 roku w Hereford, zm. 7 lipca 1993 w Baan Kai Thuan, Bangkoku) \u2013 brytyjski kierowca wy\u015Bcigowy. Na kr\u00F3tki czas przed \u015Bmierci\u0105 zachorowa\u0142 na AIDS w Bangkoku."@pl ,
+		"\u30B8\u30E7\u30F3\u30FB\u30EA\u30BA\u30EA\u30FC\uFF1D\u30D7\u30EA\u30C1\u30E3\u30FC\u30C9\uFF08\u51FA\u751F\u540D:John Henry Augustin Prichard\uFF08\u30B8\u30E7\u30F3\u30FB\u30D8\u30F3\u30EA\u30FC\u30FB\u30AA\u30FC\u30AC\u30B9\u30C6\u30A3\u30F3\u30FB\u30D7\u30EA\u30C1\u30E3\u30FC\u30C9\u3001\u5F8C\u306BRiseley-Prichard\uFF08\u30EA\u30BA\u30EA\u30FC\uFF1D\u30D7\u30EA\u30C1\u30E3\u30FC\u30C9\uFF09\u3092\u540D\u4E57\u308B\u30011924\u5E741\u670817\u65E5 - 1993\u5E747\u67088\u65E5\uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u4FDD\u967A\u30D6\u30ED\u30FC\u30AB\u30FC\u3001\u30EC\u30FC\u30B9\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"John Henry Augustin Prichard, later John Henry Augustin Riseley-Prichard, (Hereford, 17 januari 1924 - Baan Kai Thuan, Thailand , 8 juli 1993) was een Brits Formule 1-coureur. Hij nam deel aan zijn thuisrace in 1954 voor het team Rob Walker Racing Team, maar scoorde hierin geen punten."@nl ,
+		"John Henry Riseley-Prichard (* 17. Januar 1924 Hereford; \u2020 8. Juli 1993 in Baan Kai Thuan) war ein britischer Autorennfahrer."@de .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:John_Riseley-Prichard	dbp:points	0 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:John_Riseley-Prichard	owl:sameAs	yago-res:John_Riseley-Prichard .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:John_Riseley-Prichard	owl:sameAs	dbpedia-nl:John_Riseley-Prichard ,
+		<http://rdf.freebase.com/ns/m.04kv06> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:John_Riseley-Prichard	owl:sameAs	dbpedia-de:John_Riseley-Prichard ,
+		dbr:John_Riseley-Prichard .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:John_Riseley-Prichard	owl:sameAs	dbpedia-pt:John_Riseley-Prichard ,
+		wikidata:Q172801 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:John_Riseley-Prichard	owl:sameAs	dbpedia-fr:John_Riseley-Prichard ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E7\u30F3\u30FB\u30EA\u30BA\u30EA\u30FC\uFF1D\u30D7\u30EA\u30C1\u30E3\u30FC\u30C9> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:John_Riseley-Prichard	owl:sameAs	dbpedia-pl:John_Riseley-Prichard .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:John_Riseley-Prichard	owl:sameAs	dbpedia-wikidata:Q172801 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:John_Riseley-Prichard	dct:subject	dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1993_deaths> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1924_births> ,
+		dbc:Rob_Walker_Racing_Team_Formula_One_drivers ,
+		dbc:People_from_Hereford ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"John Riseley-Prichard"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"John"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:John_Riseley-Prichard	foaf:isPrimaryTopicOf	wikipedia-en:John_Riseley-Prichard ;
+	foaf:surname	"Riseley-Prichard"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:John_Riseley-Prichard	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/John_Riseley-Prichard?oldid=737666399> ;
+	dbp:birthPlace	"Hereford, England, UK"^^xsd:string ;
+	dbp:deathPlace	"Baan Kai Thuan, Thailand"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:John_Riseley-Prichard	dbp:birthDate	"1924-01-17"^^xsd:date ;
+	dbp:deathDate	"1993-07-08"^^xsd:date ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20070926232342/http:/www.autocoursegpa.com/driver~driver_id~12013.htm> ,
+		<http://www.historicracing.com/drivers.cfm?driverID=2109&AlphaIndex=R> ,
+		<http://www.autocoursegpa.com/driver~driver_id~12013.htm> ;
+	dbo:abstract	"John Henry Augustin Prichard, later John Henry Augustin Riseley-Prichard, (Hereford, 17 januari 1924 - Baan Kai Thuan, Thailand , 8 juli 1993) was een Brits Formule 1-coureur. Hij nam deel aan zijn thuisrace in 1954 voor het team Rob Walker Racing Team, maar scoorde hierin geen punten."@nl ,
+		"\u30B8\u30E7\u30F3\u30FB\u30EA\u30BA\u30EA\u30FC\uFF1D\u30D7\u30EA\u30C1\u30E3\u30FC\u30C9\uFF08\u51FA\u751F\u540D:John Henry Augustin Prichard\uFF08\u30B8\u30E7\u30F3\u30FB\u30D8\u30F3\u30EA\u30FC\u30FB\u30AA\u30FC\u30AC\u30B9\u30C6\u30A3\u30F3\u30FB\u30D7\u30EA\u30C1\u30E3\u30FC\u30C9\u3001\u5F8C\u306BRiseley-Prichard\uFF08\u30EA\u30BA\u30EA\u30FC\uFF1D\u30D7\u30EA\u30C1\u30E3\u30FC\u30C9\uFF09\u3092\u540D\u4E57\u308B\u30011924\u5E741\u670817\u65E5 - 1993\u5E747\u67088\u65E5\uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u4FDD\u967A\u30D6\u30ED\u30FC\u30AB\u30FC\u3001\u30EC\u30FC\u30B9\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"John Henry Augustin Prichard (Hereford, Inglaterra, 17 de janeiro de 1924 - Baan Kai Thuan, Tail\u00E2ndia, 8 de julho de 1993) foi um automobilista ingl\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1954."@pt ,
+		"John Henry Riseley-Prichard (* 17. Januar 1924 Hereford; \u2020 8. Juli 1993 in Baan Kai Thuan) war ein britischer Autorennfahrer."@de ,
+		"John Riseley-Prichard, n\u00E9 le 17 janvier 1924 \u00E0 Hereford (Herefordshire) et mort le 8 juillet 1993 en Tha\u00EFlande, est un ancien pilote automobile amateur anglais. Il dispute des courses sur circuit au d\u00E9but des ann\u00E9es 1950 et remporte la victoire dans une course de Formule 2 \u00E0 Davidstow. Remarqu\u00E9 par Rob Walker, il prend le d\u00E9part, en 1954, du Grand Prix de Grande-Bretagne, comptant pour le championnat du monde, au volant d'une Connaught du Rob Walker Racing Team. Hors-championnat du monde, il monte sur le podium lors du Joe Fry Memorial et dispute plusieurs \u00E9preuve en Formule Libre. Il arr\u00EAte sa carri\u00E8re \u00E0 la suite de la catastrophe des 24 Heures du Mans 1955, auxquelles il participait sur une Aston Martin partag\u00E9e avec Tony Brooks ; il lui c\u00E8de alors tout son mat\u00E9riel de course. Il devient agent d'assurance pour la Lloyd's of London mais, quelques ann\u00E9es plus tard, poursuivi pour p\u00E9dophilie, il part en Tha\u00EFlande pour \u00E9chapper \u00E0 la justice ; il y meurt du sida en 1993."@fr ,
+		"John Henry Augustin Prichard (ur. 17 stycznia 1924 roku w Hereford, zm. 7 lipca 1993 w Baan Kai Thuan, Bangkoku) \u2013 brytyjski kierowca wy\u015Bcigowy. Na kr\u00F3tki czas przed \u015Bmierci\u0105 zachorowa\u0142 na AIDS w Bangkoku."@pl ,
+		"John Henry Augustin Prichard, later Riseley-Prichard, (17 January 1924 in Hereford - 8 July 1993 in Thailand ) was a British insurance broker and racing driver. After getting a taste for motorsport in a road-going Riley, he bought a second-hand Connaught Type A from the Rob Walker Racing Team. Using this vehicle he participated in one Formula One World Championship Grand Prix: the British Grand Prix on 17 July 1954. He spun out of the race, scoring no championship points. In addition to this he competed in a number of non-Championship Formula One and Formula Libre races, including a victory in the 1954 I Cornwall MRC Formula 1 Race. Riseley-Prichard shared an Aston Martin in the infamous 1955 24 Hours of Le Mans race with a young Tony Brooks, but after the trauma of this event retired from race driving. Later in the same year he let Brooks take the wheel of his Connaught, giving the future Vanwall and Ferrari star his first big break. Later in life John Riseley-Prichard became the centre of a child pornography scandal, and he emigrated to Thailand. After a lengthy illness he died in Baan Kai Thuan, a remote village approximately 200 kilometres (120 miles) inland of Bangkok."@en ;
+	dbo:birthDate	"1924-1-17"^^xsd:date ;
+	dbo:deathDate	"1993-7-8"^^xsd:date ;
+	dbo:deathPlace	dbr:Thailand ;
+	dbo:wikiPageRevisionID	737666399 ;
+	dbo:birthPlace	dbr:Hereford ;
+	dbo:wikiPageID	1234950 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:John_Riseley-Prichard	ns24:hypernym	dbr:Broker ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1954_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1954_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Rob_Walker_Racing_Team ;
+	dbp:nationality	"British"^^xsd:string .
+<http://dbpedia.org/resource/1954_I_Cornwall_MRC_Formula_1_Race>	dbo:fastestDriver	dbr:John_Riseley-Prichard ;
+	dbo:firstDriver	dbr:John_Riseley-Prichard ;
+	dbo:poleDriver	dbr:John_Riseley-Prichard .
+wikipedia-en:John_Riseley-Prichard	foaf:primaryTopic	dbr:John_Riseley-Prichard .
+dbr:John_Riseley-Pritchard	dbo:wikiPageRedirects	dbr:John_Riseley-Prichard .

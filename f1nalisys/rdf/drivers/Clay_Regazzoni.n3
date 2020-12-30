@@ -1,0 +1,248 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1975_Swiss_Grand_Prix>	dbo:firstDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1974_French_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Clay_Regazzoni	foaf:primaryTopic	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1971_German_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1975_British_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1976_United_States_Grand_Prix_West>	dbo:fastestDriver	dbr:Clay_Regazzoni ;
+	dbo:firstDriver	dbr:Clay_Regazzoni ;
+	dbo:poleDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1974_Austrian_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1974_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1974_German_Grand_Prix>	dbo:firstDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1974_Spanish_Grand_Prix>	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1975_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1975_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1975_German_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1975_Swedish_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1979_German_Grand_Prix>	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1979_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni ;
+	dbo:fastestDriver	dbr:Clay_Regazzoni .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Clay_Regazzoni	rdf:type	dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Clay_Regazzoni	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatIndianapolis500Drivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Clay_Regazzoni	rdf:type	wikidata:Q378622 ,
+		wikidata:Q5 ,
+		foaf:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Clay_Regazzoni	rdf:type	schema:Person ,
+		yago:WikicatShadowFormulaOneDrivers ,
+		yago:WikicatEnsignFormulaOneDrivers ,
+		yago:WikicatDakarRallyDrivers ,
+		wikidata:Q24229398 ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Clay_Regazzoni	rdf:type	ns8:NaturalPerson ,
+		ns8:Agent ,
+		yago:Operator110378412 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Clay_Regazzoni	rdf:type	umbel-rc:Athlete ,
+		dbo:Agent ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		dbo:RacingDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Clay_Regazzoni	rdf:type	owl:Thing ,
+		dbo:Person ,
+		dbo:MotorsportRacer ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatRallyDrivers ,
+		yago:WikicatSwissFormulaOneDrivers ,
+		umbel-rc:RaceCarDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Clay_Regazzoni	rdfs:label	"Clay Regazzoni"@en ,
+		"Clay Regazzoni"@pt ,
+		"Clay Regazzoni"@it ,
+		"\u0420\u0435\u0433\u0430\u0446\u0446\u043E\u043D\u0438, \u041A\u043B\u0435\u0439"@ru ,
+		"\u0643\u0644\u0627\u064A \u0631\u064A\u062C\u0627\u062A\u0633\u0648\u0646\u064A"@ar ,
+		"\u514B\u96F7\u00B7\u96F7\u52A0\u4F50\u5C3C"@zh ,
+		"Clay Regazzoni"@nl ,
+		"Clay Regazzoni"@de ,
+		"Clay Regazzoni"@fr ,
+		"\u30AF\u30EC\u30A4\u30FB\u30EC\u30AC\u30C4\u30A9\u30FC\u30CB"@ja ,
+		"Clay Regazzoni"@pl ,
+		"Clay Regazzoni"@es ;
+	rdfs:comment	"Gianclaudio Giuseppe \"Clay\" Regazzoni (5 September 1939 \u2013 15 December 2006) was a Swiss racing driver. He competed in Formula One races from 1970 to 1980, winning five Grands Prix. His first win was the Italian Grand Prix at Monza in his debut season, driving for Ferrari. He remained with the Italian team until 1972. After a single season with BRM, Regazzoni returned to Ferrari for a further three years, 1974 to 1976. After finally leaving Ferrari at the end of 1976, Regazzoni joined the Ensign and Shadow teams, before moving to Williams in 1979, where he took the British team's first ever Grand Prix victory, the 1979 British Grand Prix at Silverstone."@en ,
+		"Gian-Claudio Giuseppe \u201EClay\u201C Regazzoni (* 5. September 1939 in Porza; \u2020 15. Dezember 2006 nahe Fontevivo bei Parma, Italien) war ein Schweizer Automobilrennfahrer. Er startete von 1970 bis 1980 in der Formel 1 und wurde 1974 Vizeweltmeister."@de ,
+		"\u0643\u0644\u0627\u064A \u0631\u064A\u062C\u0627\u062A\u0633\u0648\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 12 \u0623\u0628\u0631\u064A\u0644 1942 \u0641\u064A \u0633\u0627\u0646\u062A\u0627 \u0641\u064A\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0633\u0648\u064A\u0633\u0631\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1970. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0647\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1970\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1970. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 139 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 5 \u0645\u0646\u0647\u0627."@ar ,
+		"Gianclaudio Giuseppe \u201EClay\u201D Regazzoni (ur. 5 wrze\u015Bnia 1939 w Porza k. Lugano, zm. 15 grudnia 2006 w pobli\u017Cu Parmy) \u2013 szwajcarski kierowca wy\u015Bcigowy, wicemistrz \u015Bwiata Formu\u0142y 1 z 1974 roku i mistrz Formu\u0142y 2 z 1970 roku."@pl ,
+		"\u0414\u0436\u0430\u043D\u043A\u043B\u0430\u0443\u0434\u0438\u043E \u0414\u0436\u0443\u0437\u0435\u043F\u043F\u0435 \u00AB\u041A\u043B\u0435\u0439\u00BB \u0420\u0435\u0433\u0430\u0446\u0446\u043E\u043D\u0438 (\u0438\u0442\u0430\u043B. Gianclaudio Giuseppe \"Clay\" Regazzoni; 5 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1939, \u041B\u0443\u0433\u0430\u043D\u043E \u2014 15 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2006, \u0424\u043E\u043D\u0442\u0435\u0432\u0438\u0432\u043E) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u0438\u0446\u0435-\u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 1974 \u0433\u043E\u0434\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0433\u0438\u0431 \u0432 \u0430\u0432\u0442\u043E\u043A\u0430\u0442\u0430\u0441\u0442\u0440\u043E\u0444\u0435 \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u0435 \u0418\u0442\u0430\u043B\u0438\u0438 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u0430\u0440\u043C\u044B \u043D\u0430 \u0448\u043E\u0441\u0441\u0435 \u041015 \u041F\u0430\u0440\u043C\u0430-\u0421\u043F\u0435\u0446\u0438\u044F \u043F\u0440\u0438 \u0441\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u0438 \u0441 \u0433\u0440\u0443\u0437\u043E\u0432\u0438\u043A\u043E\u043C. \u0412 \u0444\u0438\u043B\u044C\u043C\u0435 2013 \u0433\u043E\u0434\u0430 \u00AB\u0413\u043E\u043D\u043A\u0430\u00BB \u0440\u043E\u043B\u044C \u0420\u0435\u0433\u0430\u0446\u0446\u043E\u043D\u0438 \u0441\u044B\u0433\u0440\u0430\u043B \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u043A\u0442\u0451\u0440 \u041F\u044C\u0435\u0440\u0444\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0424\u0430\u0432\u0438\u043D\u043E."@ru ,
+		"Pilota istintivo e dalla guida aggressiva, aveva un'ottima capacit\u00E0 nella messa a punto delle vetture dovute alle conoscenze di meccanica acquisite nell'officina di famiglia. Durante la sua carriera vinse il titolo di campione europeo di Formula 2 nel 1970 e conquist\u00F2 5 Gran Premi iridati in Formula 1, sfiorando la vittoria del mondiale nel 1974."@it ,
+		"Gianclaudio Regazzoni (Porza bij Lugano, 5 september 1939 \u2013 Parma, 15 december 2006) was een Zwitserse Formule 1-coureur. Hij was eerst actief in de Formule 3 en Formule 2 en daarna in de Formule 1 van 1970 tot 1980. In 1974 werd hij gekozen tot Zwitsers Sportman van het Jaar."@nl ,
+		"\u5409\u5B89\u514B\u52B3\u8FEA\u5965\u00B7\u6731\u585E\u4F69\u00B7\u201C\u514B\u96F7\u201D\u00B7\u96F7\u52A0\u4F50\u5C3C\uFF08\u610F\u5927\u5229\u8BED\uFF1AGianclaudio Giuseppe \"Clay\" Regazzoni\uFF0C1939\u5E749\u67085\u65E5\uFF0D2006\u5E7412\u670815\u65E5\uFF09\u662F\u4E00\u4F4D\u745E\u58EB\u8CFD\u8ECA\u624B\u3002\u4ED6\u57281970\u5E74\u81F31980\u5E74\u671F\u9593\u53C3\u8CFD\u65BC\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u8D0F\u904E5\u5834\u5927\u734E\u8CFD\u3002\u4ED6\u7684\u7B2C\u4E00\u5834\u52DD\u5229\u662F\u5728\u4ED6\u7684\u9996\u500B\u8CFD\u5B63\u65BC\u8499\u672D\u7684\u7FA9\u5927\u5229\u5927\u734E\u8CFD\uFF0C\u7576\u6642\u4ED6\u6548\u529B\u65BC\u6CD5\u62C9\u5229\u8ECA\u968A\u3002\u4ED6\u6301\u7E8C\u5F85\u5728\u7FA9\u5927\u5229\u8ECA\u968A\u76F4\u52301972\u5E74\u3002\u5728\u8F49\u5F80BRM\u4E00\u500B\u8CFD\u5B63\u5F8C\uFF0C\u96F7\u52A0\u4F50\u5C3C\u5F9E1974\u5E74\u81F31976\u5E74\u51713\u5E74\u7684\u6642\u9593\u518D\u6B21\u91CD\u8FD4\u6CD5\u62C9\u5229\u3002\u6700\u7D42\u57281976\u5E74\u5E95\u96E2\u958B\u6CD5\u62C9\u5229\u5F8C\uFF0C\u96F7\u52A0\u4F50\u5C3C\u52A0\u5165\u4E86\u6069\u8CFD\u548C\u5F71\u5B50\u8ECA\u968A\uFF0C\u4E4B\u5F8C\u53C8\u57281979\u5E74\u8F49\u5F80\u5A01\u5EC9\u65AF\uFF0C\u800C\u4ED6\u4E5F\u5728\u4F4D\u65BC\u9280\u77F3\u76841979\u5E74\u82F1\u570B\u5927\u734E\u8CFD\u5E6B\u52A9\u5A01\u5EC9\u65AF\u53D6\u5F97\u8A72\u968A\u7684\u9996\u5834\u5927\u734E\u8CFD\u52DD\u5229\u3002 \u4ED6\u65BC\u5A01\u5EC9\u65AF\u7684\u5E2D\u4F4D\u57281980\u5E74\u88AB\u5361\u6D1B\u65AF\u00B7\u745E\u7279\u66FC\u53D6\u4EE3\uFF0C\u4ED6\u56E0\u6B64\u91CD\u8FD4\u6069\u8CFD\u3002\u57281980\u5E74\u7F8E\u897F\u5927\u734E\u8CFD\u7684\u610F\u5916\u4F7F\u4ED6\u4E0B\u534A\u8EAB\u7671\u7613\uFF0C\u7D50\u675F\u4E86\u4ED6\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u751F\u6DAF\u3002\u7136\u800C\u96F7\u52A0\u4F50\u5C3C\u4E26\u6C92\u6709\u7D42\u6B62\u8CFD\u8ECA\uFF0C\u4ED6\u4ECD\u57281980\u5E74\u4EE3\u672B\u671F\u81F31990\u5E74\u4EE3\u521D\u671F\u4F7F\u7528\u624B\u63A7\u8CFD\u8ECA\uFF0C\u53C3\u8CFD\u9054\u5361\u62C9\u529B\u8CFD\u548C\u8CFD\u767E\u974812\u5C0F\u6642\u8010\u529B\u8CFD\u3002\u96F7\u52A0\u4F50\u5C3C\u57281996\u5E74\u6210\u70BA\u7FA9\u5927\u5229\u96FB\u8996\u53F0\u7684\u89E3\u8AAA\u54E1\u3002 \u4ED6\u65BC2006\u5E7412\u670815\u65E5\u7684\u4E00\u5834\u8ECA\u798D\u4E2D\u55AA\u751F\u3002"@zh ,
+		"\u30AF\u30EC\u30A4\u30FB\u30EC\u30AC\u30C4\u30A9\u30FC\u30CB\uFF08Gianclaudio Giuseppe \"Clay\" Regazzoni, 1939\u5E749\u67085\u65E5 - 2006\u5E7412\u670815\u65E5\uFF09\u306F\u30B9\u30A4\u30B9\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u300C\u30EC\u30AC\u30C3\u30C4\u30A9\u30FC\u30CB\u300D\u30FB\u300C\u30EC\u30AC\u30BE\u30FC\u30CB\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"Clay Regazzoni, (nacido como Gianclaudio Giuseppe Regazzoni, 5 de septiembre de 1939 en Lugano, Suiza - 15 de diciembre de 2006 en Parma, Italia) fue un piloto de automovilismo de velocidad suizo. Corri\u00F3 en la F\u00F3rmula 1 desde 1970 hasta 1980, donde logr\u00F3 cinco victorias y 28 podios. Fue subcampe\u00F3n en 1974, tercero en 1970, quinto en 1975, 1976 y 1979, y s\u00E9ptimo en 1971 y 1972. Tambi\u00E9n compiti\u00F3 en el Campeonato Mundial de Resistencia con el equipo oficial Ferrari."@es ,
+		"Gianclaudio Regazzoni, mais conhecido como Clay Regazzoni (Mendrisio, 5 de setembro de 1939 - Parma, 15 de dezembro de 2006) foi um piloto de F\u00F3rmula 1 su\u00ED\u00E7o."@pt ,
+		"Gianclaudio Giuseppe Regazzoni, dit Clay Regazzoni, n\u00E9 le 5 septembre 1939 \u00E0 Mendrisio pr\u00E8s de Lugano, dans le canton du Tessin en Suisse, et mort le 15 d\u00E9cembre 2006 \u00E0 Fontevivo, dans la province de Parme en Italie, est un pilote automobile suisse."@fr .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Clay_Regazzoni	dbp:points	209 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-de:Clay_Regazzoni .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-pt:Clay_Regazzoni ,
+		<http://viaf.org/viaf/71401735> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-pl:Clay_Regazzoni .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-id:Clay_Regazzoni ,
+		<http://d-nb.info/gnd/132574322> ,
+		<http://el.dbpedia.org/resource/\u039A\u03BB\u03AD\u03B9_\u03A1\u03B5\u03B3\u03BA\u03B1\u03C4\u03C3\u03CC\u03BD\u03B9> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-it:Clay_Regazzoni ,
+		<http://ja.dbpedia.org/resource/\u30AF\u30EC\u30A4\u30FB\u30EC\u30AC\u30C4\u30A9\u30FC\u30CB> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-es:Clay_Regazzoni ,
+		wikidata:Q173284 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-fr:Clay_Regazzoni ,
+		dbr:Clay_Regazzoni .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	yago-res:Clay_Regazzoni ,
+		<http://rdf.freebase.com/ns/m.04db2t> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-nl:Clay_Regazzoni .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-wikidata:Q173284 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Clay_Regazzoni	owl:sameAs	dbpedia-cs:Clay_Regazzoni .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Clay_Regazzoni	dct:subject	dbc:Ensign_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Road_incident_deaths_in_Italy ,
+		dbc:Swiss_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2006_deaths> ,
+		<http://dbpedia.org/resource/Category:1939_births> ,
+		dbc:Swiss_racing_drivers ,
+		dbc:Shadow_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Dakar_Rally_drivers ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:People_from_Mendrisio ,
+		dbc:BRM_Formula_One_drivers ;
+	foaf:name	"Clay Regazzoni"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Anefo_924-6609_Clay_Reggazoni,_Catherine_Blaton,_Jacky_Ickx_Zandvoort_18_06_1971_-_Cropped.jpg> ;
+	dct:description	"Swiss racecar driver"@en ;
+	foaf:givenName	"Clay"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Clay_Regazzoni ;
+	foaf:surname	"Regazzoni"@en ;
+	dbp:title	<http://dbpedia.org/resource/Race_of_Champions_(Brands_Hatch)> ,
+		dbr:European_Formula_Two_Championship ,
+		"Champion"^^xsd:string ,
+		dbr:Swiss_Sportspersonality_of_the_year ;
+	dbp:years	1970 ,
+		1971 ,
+		1974 ,
+		"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Clay_Regazzoni	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Clay_Regazzoni?oldid=744092227> ;
+	dbp:before	<http://dbpedia.org/resource/Werner_D\u00F6ssegger> ,
+		dbr:Jackie_Stewart ,
+		dbr:Johnny_Servoz-Gavin ;
+	dbp:after	dbr:Emerson_Fittipaldi ,
+		dbr:Rolf_Bernhard ,
+		dbr:Ronnie_Peterson ;
+	dbp:birthPlace	"Mendrisio, Switzerland"^^xsd:string ;
+	dbp:deathPlace	"Fontevivo, Italy"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1970_Italian_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1979_British_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Clay_Regazzoni	dbp:birthDate	"1939-09-05"^^xsd:date ;
+	dbp:deathDate	"2006-12-15"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.clubclayregazzoni.it> ,
+		<http://www.gpracing.net192.com/races/reports/250.cfm> ,
+		<http://wspr-racing.com/wspr/results/wscc/nf_ms_home.html> ,
+		<http://www.formula1.com/results/> ,
+		<http://www.formula2.net/index.html> ,
+		<http://cfm.globalf1.net/?page_id=135> ,
+		<http://www.silhouet.com/motorsport/archive/f1/title.html> ;
+	dbp:caption	"Regazzoni in 1971 at Zandvoort"^^xsd:string ;
+	dbo:abstract	"Gianclaudio Giuseppe \u201EClay\u201D Regazzoni (ur. 5 wrze\u015Bnia 1939 w Porza k. Lugano, zm. 15 grudnia 2006 w pobli\u017Cu Parmy) \u2013 szwajcarski kierowca wy\u015Bcigowy, wicemistrz \u015Bwiata Formu\u0142y 1 z 1974 roku i mistrz Formu\u0142y 2 z 1970 roku."@pl ,
+		"\u30AF\u30EC\u30A4\u30FB\u30EC\u30AC\u30C4\u30A9\u30FC\u30CB\uFF08Gianclaudio Giuseppe \"Clay\" Regazzoni, 1939\u5E749\u67085\u65E5 - 2006\u5E7412\u670815\u65E5\uFF09\u306F\u30B9\u30A4\u30B9\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u300C\u30EC\u30AC\u30C3\u30C4\u30A9\u30FC\u30CB\u300D\u30FB\u300C\u30EC\u30AC\u30BE\u30FC\u30CB\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"Gian-Claudio Giuseppe \u201EClay\u201C Regazzoni (* 5. September 1939 in Porza; \u2020 15. Dezember 2006 nahe Fontevivo bei Parma, Italien) war ein Schweizer Automobilrennfahrer. Er startete von 1970 bis 1980 in der Formel 1 und wurde 1974 Vizeweltmeister."@de ,
+		"\u0414\u0436\u0430\u043D\u043A\u043B\u0430\u0443\u0434\u0438\u043E \u0414\u0436\u0443\u0437\u0435\u043F\u043F\u0435 \u00AB\u041A\u043B\u0435\u0439\u00BB \u0420\u0435\u0433\u0430\u0446\u0446\u043E\u043D\u0438 (\u0438\u0442\u0430\u043B. Gianclaudio Giuseppe \"Clay\" Regazzoni; 5 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1939, \u041B\u0443\u0433\u0430\u043D\u043E \u2014 15 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2006, \u0424\u043E\u043D\u0442\u0435\u0432\u0438\u0432\u043E) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u0438\u0446\u0435-\u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 1974 \u0433\u043E\u0434\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u0440\u043E\u0432\u0451\u043B 139 (132 \u0441\u0442\u0430\u0440\u0442\u0430) \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432 \u0424-1, \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u043F\u044F\u0442\u044C \u043F\u043E\u0431\u0435\u0434, \u043F\u044F\u0442\u044C \u0440\u0430\u0437 \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C \u0432 \u0433\u043E\u043D\u043A\u0435, 15 \u0440\u0430\u0437 \u043F\u043E\u043A\u0430\u0437\u044B\u0432\u0430\u043B \u0431\u044B\u0441\u0442\u0440\u0435\u0439\u0448\u0438\u0439 \u043A\u0440\u0443\u0433. \u0412 \u043F\u0435\u0440\u0432\u044B\u0439 \u0436\u0435 \u0433\u043E\u0434 \u0432\u043E\u0448\u0451\u043B \u0432 \u043B\u0443\u0447\u0448\u0443\u044E \u0442\u0440\u043E\u0439\u043A\u0443 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430, \u0441\u0442\u0430\u0432 \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u043C \u043F\u0440\u0438\u0437\u0451\u0440\u043E\u043C \u0441\u0435\u0437\u043E\u043D\u0430 1970 \u0433\u043E\u0434\u0430. \u0412 \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0435 40 \u043B\u0435\u0442 \u043F\u0440\u0438\u0448\u0451\u043B \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Williams \u0438 \u043F\u0440\u0438\u043D\u0451\u0441 \u0435\u0439 \u043F\u0435\u0440\u0432\u0443\u044E \u0432 \u0435\u0451 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043F\u043E\u0431\u0435\u0434\u0443. \u0412 1980 \u043F\u0440\u043E\u0432\u0451\u043B \u0447\u0435\u0442\u044B\u0440\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438, \u043D\u0430 \u0433\u043E\u043D\u043A\u0435 \u0432 \u041B\u043E\u043D\u0433-\u0411\u0438\u0447 (\u0413\u041F \u0421\u0428\u0410-\u0417\u0430\u043F\u0430\u0434) \u043F\u043E\u043F\u0430\u043B \u0432 \u0430\u0432\u0430\u0440\u0438\u044E, \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u0441\u0435\u0440\u044C\u0451\u0437\u043D\u044B\u0435 \u0442\u0440\u0430\u0432\u043C\u044B \u0441\u043F\u0438\u043D\u044B \u0438 \u043E\u0441\u0442\u0430\u043B\u0441\u044F \u0438\u043D\u0432\u0430\u043B\u0438\u0434\u043E\u043C. \u0420\u0430\u0431\u043E\u0442\u0430\u043B \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0442\u043E\u0440\u043E\u043C \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u043E\u0433\u043E \u0442\u0435\u043B\u0435\u0432\u0438\u0434\u0435\u043D\u0438\u044F \u0431\u043E\u043B\u0435\u0435 \u0434\u0435\u0441\u044F\u0442\u0438 \u043B\u0435\u0442. \u0412\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u0445 \u043D\u0430 \u043C\u0430\u0448\u0438\u043D\u0430\u0445 \u0441 \u0440\u0443\u0447\u043D\u044B\u043C \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\u043C, \u043F\u0440\u0438\u043B\u043E\u0436\u0438\u043B \u043D\u0435\u043C\u0430\u043B\u043E \u0443\u0441\u0438\u043B\u0438\u0439 \u0434\u043B\u044F \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044F \u0442\u0430\u043A\u0438\u0445 \u043C\u0430\u0448\u0438\u043D. \u041F\u043E\u0433\u0438\u0431 \u0432 \u0430\u0432\u0442\u043E\u043A\u0430\u0442\u0430\u0441\u0442\u0440\u043E\u0444\u0435 \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u0435 \u0418\u0442\u0430\u043B\u0438\u0438 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u0430\u0440\u043C\u044B \u043D\u0430 \u0448\u043E\u0441\u0441\u0435 \u041015 \u041F\u0430\u0440\u043C\u0430-\u0421\u043F\u0435\u0446\u0438\u044F \u043F\u0440\u0438 \u0441\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u0438 \u0441 \u0433\u0440\u0443\u0437\u043E\u0432\u0438\u043A\u043E\u043C. \u0412 \u0444\u0438\u043B\u044C\u043C\u0435 2013 \u0433\u043E\u0434\u0430 \u00AB\u0413\u043E\u043D\u043A\u0430\u00BB \u0440\u043E\u043B\u044C \u0420\u0435\u0433\u0430\u0446\u0446\u043E\u043D\u0438 \u0441\u044B\u0433\u0440\u0430\u043B \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u043A\u0442\u0451\u0440 \u041F\u044C\u0435\u0440\u0444\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0424\u0430\u0432\u0438\u043D\u043E."@ru ,
+		"Gianclaudio Regazzoni (Porza bij Lugano, 5 september 1939 \u2013 Parma, 15 december 2006) was een Zwitserse Formule 1-coureur. Hij was eerst actief in de Formule 3 en Formule 2 en daarna in de Formule 1 van 1970 tot 1980. In 1974 werd hij gekozen tot Zwitsers Sportman van het Jaar."@nl ,
+		"Gianclaudio Giuseppe Regazzoni, dit Clay Regazzoni, n\u00E9 le 5 septembre 1939 \u00E0 Mendrisio pr\u00E8s de Lugano, dans le canton du Tessin en Suisse, et mort le 15 d\u00E9cembre 2006 \u00E0 Fontevivo, dans la province de Parme en Italie, est un pilote automobile suisse. Pilote embl\u00E9matique de la Formule 1 des ann\u00E9es 1970, il a disput\u00E9 132 Grand Prix et en a remport\u00E9 5, dont 4 pour la Scuderia Ferrari, sous les couleurs de laquelle il courut de 1970 \u00E0 1972 et de 1974 \u00E0 1976, et avec laquelle il fut vice-champion du monde en 1974. Il a \u00E9galement offert \u00E0 l'\u00E9quipe Williams son tout premier succ\u00E8s en 1979 \u00E0 l'occasion du Grand Prix de Grande-Bretagne. Sa carri\u00E8re en F1 prit fin en 1980 \u00E0 la suite d'un tr\u00E8s grave accident au Grand Prix des \u00C9tats-Unis Ouest sur le Circuit urbain de Long Beach en Californie qui le laissa parapl\u00E9gique."@fr ,
+		"\u5409\u5B89\u514B\u52B3\u8FEA\u5965\u00B7\u6731\u585E\u4F69\u00B7\u201C\u514B\u96F7\u201D\u00B7\u96F7\u52A0\u4F50\u5C3C\uFF08\u610F\u5927\u5229\u8BED\uFF1AGianclaudio Giuseppe \"Clay\" Regazzoni\uFF0C1939\u5E749\u67085\u65E5\uFF0D2006\u5E7412\u670815\u65E5\uFF09\u662F\u4E00\u4F4D\u745E\u58EB\u8CFD\u8ECA\u624B\u3002\u4ED6\u57281970\u5E74\u81F31980\u5E74\u671F\u9593\u53C3\u8CFD\u65BC\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u8D0F\u904E5\u5834\u5927\u734E\u8CFD\u3002\u4ED6\u7684\u7B2C\u4E00\u5834\u52DD\u5229\u662F\u5728\u4ED6\u7684\u9996\u500B\u8CFD\u5B63\u65BC\u8499\u672D\u7684\u7FA9\u5927\u5229\u5927\u734E\u8CFD\uFF0C\u7576\u6642\u4ED6\u6548\u529B\u65BC\u6CD5\u62C9\u5229\u8ECA\u968A\u3002\u4ED6\u6301\u7E8C\u5F85\u5728\u7FA9\u5927\u5229\u8ECA\u968A\u76F4\u52301972\u5E74\u3002\u5728\u8F49\u5F80BRM\u4E00\u500B\u8CFD\u5B63\u5F8C\uFF0C\u96F7\u52A0\u4F50\u5C3C\u5F9E1974\u5E74\u81F31976\u5E74\u51713\u5E74\u7684\u6642\u9593\u518D\u6B21\u91CD\u8FD4\u6CD5\u62C9\u5229\u3002\u6700\u7D42\u57281976\u5E74\u5E95\u96E2\u958B\u6CD5\u62C9\u5229\u5F8C\uFF0C\u96F7\u52A0\u4F50\u5C3C\u52A0\u5165\u4E86\u6069\u8CFD\u548C\u5F71\u5B50\u8ECA\u968A\uFF0C\u4E4B\u5F8C\u53C8\u57281979\u5E74\u8F49\u5F80\u5A01\u5EC9\u65AF\uFF0C\u800C\u4ED6\u4E5F\u5728\u4F4D\u65BC\u9280\u77F3\u76841979\u5E74\u82F1\u570B\u5927\u734E\u8CFD\u5E6B\u52A9\u5A01\u5EC9\u65AF\u53D6\u5F97\u8A72\u968A\u7684\u9996\u5834\u5927\u734E\u8CFD\u52DD\u5229\u3002 \u4ED6\u65BC\u5A01\u5EC9\u65AF\u7684\u5E2D\u4F4D\u57281980\u5E74\u88AB\u5361\u6D1B\u65AF\u00B7\u745E\u7279\u66FC\u53D6\u4EE3\uFF0C\u4ED6\u56E0\u6B64\u91CD\u8FD4\u6069\u8CFD\u3002\u57281980\u5E74\u7F8E\u897F\u5927\u734E\u8CFD\u7684\u610F\u5916\u4F7F\u4ED6\u4E0B\u534A\u8EAB\u7671\u7613\uFF0C\u7D50\u675F\u4E86\u4ED6\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u751F\u6DAF\u3002\u7136\u800C\u96F7\u52A0\u4F50\u5C3C\u4E26\u6C92\u6709\u7D42\u6B62\u8CFD\u8ECA\uFF0C\u4ED6\u4ECD\u57281980\u5E74\u4EE3\u672B\u671F\u81F31990\u5E74\u4EE3\u521D\u671F\u4F7F\u7528\u624B\u63A7\u8CFD\u8ECA\uFF0C\u53C3\u8CFD\u9054\u5361\u62C9\u529B\u8CFD\u548C\u8CFD\u767E\u974812\u5C0F\u6642\u8010\u529B\u8CFD\u3002\u96F7\u52A0\u4F50\u5C3C\u57281996\u5E74\u6210\u70BA\u7FA9\u5927\u5229\u96FB\u8996\u53F0\u7684\u89E3\u8AAA\u54E1\u3002 \u4ED6\u65BC2006\u5E7412\u670815\u65E5\u7684\u4E00\u5834\u8ECA\u798D\u4E2D\u55AA\u751F\u3002"@zh ,
+		"\u0643\u0644\u0627\u064A \u0631\u064A\u062C\u0627\u062A\u0633\u0648\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 12 \u0623\u0628\u0631\u064A\u0644 1942 \u0641\u064A \u0633\u0627\u0646\u062A\u0627 \u0641\u064A\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0633\u0648\u064A\u0633\u0631\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1970. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0647\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1970\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1970. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 139 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 5 \u0645\u0646\u0647\u0627."@ar ,
+		"Clay Regazzoni, (nacido como Gianclaudio Giuseppe Regazzoni, 5 de septiembre de 1939 en Lugano, Suiza - 15 de diciembre de 2006 en Parma, Italia) fue un piloto de automovilismo de velocidad suizo. Corri\u00F3 en la F\u00F3rmula 1 desde 1970 hasta 1980, donde logr\u00F3 cinco victorias y 28 podios. Fue subcampe\u00F3n en 1974, tercero en 1970, quinto en 1975, 1976 y 1979, y s\u00E9ptimo en 1971 y 1972. Tambi\u00E9n compiti\u00F3 en el Campeonato Mundial de Resistencia con el equipo oficial Ferrari. Habiendo crecido en la regi\u00F3n fronteriza Suiza-Italia, donde predomina el italiano, Regazzoni fue un gran orgullo para los tifosi italianos durante sus a\u00F1os con Ferrari en la d\u00E9cada de 1970."@es ,
+		"Gianclaudio Regazzoni, mais conhecido como Clay Regazzoni (Mendrisio, 5 de setembro de 1939 - Parma, 15 de dezembro de 2006) foi um piloto de F\u00F3rmula 1 su\u00ED\u00E7o."@pt ,
+		"Gianclaudio Giuseppe \"Clay\" Regazzoni (5 September 1939 \u2013 15 December 2006) was a Swiss racing driver. He competed in Formula One races from 1970 to 1980, winning five Grands Prix. His first win was the Italian Grand Prix at Monza in his debut season, driving for Ferrari. He remained with the Italian team until 1972. After a single season with BRM, Regazzoni returned to Ferrari for a further three years, 1974 to 1976. After finally leaving Ferrari at the end of 1976, Regazzoni joined the Ensign and Shadow teams, before moving to Williams in 1979, where he took the British team's first ever Grand Prix victory, the 1979 British Grand Prix at Silverstone. He was replaced by Carlos Reutemann at Williams for 1980 and moved back to Ensign. Following an accident at the 1980 United States Grand Prix West he was left paralyzed from the waist down, ending his career in Formula One. Regazzoni did not stop racing, however; he competed in the Paris-Dakar rally and Sebring 12 hours using a hand controlled car during the late 1980s and early 1990s. In 1996, Regazzoni became a commentator for Italian TV. He was known as a hard charging racer; Jody Scheckter stated that if \"he'd been a cowboy he'd have been the one in the black hat.\" Regazzoni died in a car accident in Italy on 15 December 2006."@en ,
+		"Pilota istintivo e dalla guida aggressiva, aveva un'ottima capacit\u00E0 nella messa a punto delle vetture dovute alle conoscenze di meccanica acquisite nell'officina di famiglia. Durante la sua carriera vinse il titolo di campione europeo di Formula 2 nel 1970 e conquist\u00F2 5 Gran Premi iridati in Formula 1, sfiorando la vittoria del mondiale nel 1974."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Anefo_924-6609_Clay_Reggazoni,_Catherine_Blaton,_Jacky_Ickx_Zandvoort_18_06_1971_-_Cropped.jpg?width=300> ;
+	dbo:birthDate	"1939-9-5"^^xsd:date ;
+	dbo:deathDate	"2006-12-15"^^xsd:date ;
+	dbo:deathPlace	dbr:Fontevivo ;
+	dbo:wikiPageRevisionID	744092227 ;
+	dbo:birthPlace	dbr:Lugano ;
+	dbo:wikiPageID	1172362 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Clay_Regazzoni	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"15"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1970_Dutch_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1980_United_States_Grand_Prix_West> ;
+	dbo:podiums	"28"^^xsd:nonNegativeInteger ;
+	dbo:poles	"5"^^xsd:nonNegativeInteger ;
+	dbo:races	"139"^^xsd:nonNegativeInteger ;
+	dbo:wins	"5"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Ensign_(racing_team)> ,
+		dbr:WilliamsF1 ,
+		dbr:Shadow_Racing_Cars ,
+		dbr:Scuderia_Ferrari ,
+		dbr:British_Racing_Motors ;
+	dbp:nationality	"Swiss"^^xsd:string .
+dbr:Shadow_DN9	dbp:drivers	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1971_Race_of_Champions>	dbo:firstDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1976_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1972_German_Grand_Prix>	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1976_Italian_Grand_Prix>	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1970_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni ;
+	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1974_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1971_British_Grand_Prix>	dbo:poleDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1970_Mexican_Grand_Prix>	dbo:secondDriver	dbr:Clay_Regazzoni ;
+	dbo:poleDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1979_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1971_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni .
+dbr:Johnny_Servoz-Gavin	dbp:after	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__44__1>	dbo:firstDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1974_Brazilian_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni ;
+	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1974_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1973_Argentine_Grand_Prix>	dbo:poleDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1974_Argentine_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni ;
+	dbo:fastestDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1972_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1970_Austrian_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni ;
+	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1970_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni ;
+	dbo:firstDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1976_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1979_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1979_British_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni ;
+	dbo:firstDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1971_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1976_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni ;
+	dbo:secondDriver	dbr:Clay_Regazzoni .
+dbr:Ferrari_312_PB	dbp:drivers	dbr:Clay_Regazzoni .
+<http://dbpedia.org/resource/1975_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Clay_Regazzoni ;
+	dbo:firstDriver	dbr:Clay_Regazzoni .
+dbr:Gianclaudio_Regazzoni	dbo:wikiPageRedirects	dbr:Clay_Regazzoni .
+dbr:Ronnie_Peterson	dbp:before	dbr:Clay_Regazzoni .

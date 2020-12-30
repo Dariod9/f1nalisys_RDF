@@ -1,0 +1,187 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Lorenzo_Bandini	dbp:before	dbr:Olivier_Gendebien .
+@prefix ns2:	<http://dbpedia.org/resource/Ferrari_330_TRI/> .
+ns2:LM	dbp:drivers	dbr:Olivier_Gendebien .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Olivier_Gendebien	foaf:primaryTopic	dbr:Olivier_Gendebien .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1960_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Olivier_Gendebien .
+dbr:Phil_Hill	dbp:years	dbr:Olivier_Gendebien ;
+	dbp:before	dbr:Olivier_Gendebien ;
+	dbp:after	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/1960_French_Grand_Prix>	dbo:secondDriver	dbr:Olivier_Gendebien .
+dbr:Ludovico_Scarfiotti	dbp:before	dbr:Olivier_Gendebien .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Olivier_Gendebien	rdf:type	ns7:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Olivier_Gendebien	rdf:type	yago:WikicatTeamLotusFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Olivier_Gendebien	rdf:type	wikidata:Q24229398 ,
+		foaf:Person ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		wikidata:Q215627 ,
+		yago:Operator110378412 ,
+		yago:WikicatBelgianRallyDrivers ,
+		wikidata:Q5 ,
+		yago:WikicatEcurieNationaleBelgeFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Olivier_Gendebien	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Olivier_Gendebien	rdf:type	schema:Person ,
+		yago:WikicatBelgianFormulaOneDrivers ,
+		dbo:Agent ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q378622 ,
+		dbo:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Olivier_Gendebien	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		dbo:Athlete ,
+		dbo:RacingDriver ,
+		ns7:NaturalPerson ,
+		yago:Driver110034906 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Olivier_Gendebien	rdfs:label	"\u30AA\u30EA\u30F4\u30A3\u30A8\u30FB\u30B8\u30E3\u30F3\u30C9\u30D3\u30A2\u30F3"@ja ,
+		"Olivier Gendebien"@it ,
+		"Olivier Gendebien"@es ,
+		"\u0416\u0430\u043D\u0434\u0435\u0431\u044C\u0435\u043D, \u041E\u043B\u0438\u0432\u044C\u0435"@ru ,
+		"Olivier Gendebien"@en ,
+		"Olivier Gendebien"@pl ,
+		"Olivier Gendebien"@fr ,
+		"Olivier Gendebien"@nl ,
+		"Olivier Gendebien"@de ,
+		"Olivier Gendebien"@pt ;
+	rdfs:comment	"Olivier Gendebien (Bruselas, B\u00E9lgica, 12 de enero de 1924 - 2 de octubre de 1998) fue un piloto de automovilismo belga que se destac\u00F3 en el Campeonato Mundial de Resistencia, en particular como piloto oficial de Ferrari. Gendebien luch\u00F3 en la resistencia belga y en el ej\u00E9rcito brit\u00E1nico durante la Segunda Guerra Mundial. Tambi\u00E9n estudi\u00F3 ingenier\u00EDa y agricultura, y vivi\u00F3 varios a\u00F1os en el Congo Belga."@es ,
+		"Olivier Gendebien (12 January 1924 \u2013 2 October 1998) was a Belgian racing driver who was called \"one of the greatest sportscar racers of all time\"."@en ,
+		"\u30AA\u30EA\u30F4\u30A3\u30A8\u30FB\u30B8\u30E3\u30F3\u30C9\u30D3\u30A2\u30F3\uFF08Olivier Gendebien \u30011924\u5E741\u670812\u65E5 - 1998\u5E7410\u67082\u65E5\uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u300C\u30B2\u30F3\u30C7\u30D3\u30A8\u30F3\u300D\u3068\u8868\u8A18\u3055\u308C\u3066\u3044\u308B\u5834\u5408\u3082\u3042\u308B\u3002 \u7279\u7B46\u3059\u3079\u304D\u306F\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u306F4\u52DD\u3092\u6319\u3052\u305F\u3053\u3068\u3067\u3001\u3053\u306E\u6642\u306E\u30C1\u30FC\u30E0\u306F\u3044\u305A\u308C\u3082\u30D5\u30A7\u30E9\u30FC\u30EA\u3067\u3042\u3063\u305F\u3002\u30BF\u30EB\u30AC\u30FB\u30D5\u30ED\u30FC\u30EA\u30AA\u3067\u30822\u52DD\u3057\u3066\u3044\u308B\u3002\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\u306B\u3082\u51FA\u5834\u3057\u305F\u304C\u3042\u307E\u308A\u632F\u308B\u308F\u306A\u304B\u3063\u305F\u3002"@ja ,
+		"Olivier Gendebien (* 12. Januar 1924 in Br\u00FCssel; \u2020 2. Oktober 1998 in Tarascon, Frankreich) war ein belgischer Automobilrennfahrer, der Ende der 1950er- bzw. Anfang der 1960er-Jahre das 24-Stunden-Rennen von Le Mans alleine viermal gewinnen konnte und als einer besten Sportwagenrennfahrer jener \u00C4ra gilt."@de ,
+		"Olivier Gendebien (ur. 12 stycznia 1924 w Brukselii, zm. 2 pa\u017Adziernika 1998 w Baux-de-Provence) \u2013 belgijski kierowca wy\u015Bcigowy formu\u0142y 1 w latach 1955-1956, 1958-1961 oraz 24h Le Mans w latach 1955-1962 . Je\u017Adzi\u0142 w bolidzie Ferrari. Najwi\u0119kszym sukcesem Gendebiena jest czterokrotne zwyci\u0119stwo w wy\u015Bcigu 24h Le Mans."@pl ,
+		"Olivier Gendebien (Brussel, 12 januari 1924 - Les Baux-de-Provence, 2 oktober 1998) was een oorlogsheld en autocoureur. Gendebien werd geboren in een rijke familie. Hij ging bouwkunde studeren aan de universiteit, maar toen de Tweede Wereldoorlog uitbrak, ging hij in het Belgische verzet. Hij zorgde dat Britse parachutisten konden landen in Belgi\u00EB. Aan het einde van de oorlog ging hij in het Engelse leger bij de Belgische parachutisten."@nl ,
+		"\u041E\u043B\u0438\u0432\u044C\u0435\u0301 \u0416\u0430\u043D\u0434\u0435\u0431\u044C\u0435\u0301\u043D (\u0444\u0440. Olivier Gendebien; 12 \u044F\u043D\u0432\u0430\u0440\u044F 1924, \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C \u2014 2 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1998, \u0422\u0430\u0440\u0430\u0441\u043A\u043E\u043D) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u0447\u0435\u0442\u044B\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u2014 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Olivier Gendebien (Bruxelas, 12 de janeiro de 1924 - Les Baux de Provence, 2 de outubro de 1998) foi um piloto belga de automobilismo. Na F\u00F3rmula 1, correu em 1956 e entre 1958 e 1961. Correu pelas equipes Ferrari, Rob Walker Racing e Emeryson, tendo como melhor resultado o segundo lugar no Grande Pr\u00EAmio da Fran\u00E7a de 1961. Abandonou a carreira em 1962, ao vencer os 1000 Quil\u00F4metros de N\u00FCrburgring. Em 1998, aos 74 anos, foi condecorado pelo rei Alberto II com a Ordem da \u00C1guia. Morreu em 2 de outubro do mesmo ano."@pt ,
+		" Pour les articles homonymes, voir Gendebien. Olivier Jean Marie Fernand Gendebien (n\u00E9 le 12 janvier 1924 \u00E0 Bruxelles - mort le 2 octobre 1998 \u00E0 Tarascon, France) est un pilote automobile belge."@fr ;
+	dbp:points	18 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Olivier_Gendebien	owl:sameAs	dbpedia-it:Olivier_Gendebien .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Olivier_Gendebien	owl:sameAs	dbpedia-pl:Olivier_Gendebien ,
+		wikidata:Q172142 ,
+		<http://viaf.org/viaf/73980835> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Olivier_Gendebien	owl:sameAs	dbpedia-fr:Olivier_Gendebien .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Olivier_Gendebien	owl:sameAs	dbpedia-pt:Olivier_Gendebien .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Olivier_Gendebien	owl:sameAs	yago-res:Olivier_Gendebien .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Olivier_Gendebien	owl:sameAs	dbpedia-nl:Olivier_Gendebien ,
+		dbr:Olivier_Gendebien ,
+		<http://rdf.freebase.com/ns/m.01y7hc> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Olivier_Gendebien	owl:sameAs	dbpedia-es:Olivier_Gendebien ,
+		<http://ja.dbpedia.org/resource/\u30AA\u30EA\u30F4\u30A3\u30A8\u30FB\u30B8\u30E3\u30F3\u30C9\u30D3\u30A2\u30F3> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Olivier_Gendebien	owl:sameAs	dbpedia-de:Olivier_Gendebien .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Olivier_Gendebien	owl:sameAs	dbpedia-wikidata:Q172142 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Olivier_Gendebien	dct:subject	dbc:Sportspeople_from_Brussels ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Crown_(Belgium)> ,
+		dbc:British_Racing_Partnership_Formula_One_drivers ,
+		dbc:Ecurie_Nationale_Belge_Formula_One_drivers ,
+		dbc:Belgian_racing_drivers ,
+		dbc:Belgian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1924_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1998_deaths> ;
+	foaf:name	"Olivier Gendebien"@en ;
+	dct:description	"Belgian racecar driver"@en ;
+	foaf:givenName	"Olivier"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Olivier_Gendebien ;
+	foaf:surname	"Gendebien"@en ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners ;
+	dbp:years	"&ndash;1962 (with:)"^^xsd:string ,
+		"\u2013, \u2013"^^xsd:string ,
+		dbr:Phil_Hill ,
+		<http://dbpedia.org/resource/Paul_Fr\u00E8re> ,
+		1958 ,
+		1960 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Olivier_Gendebien	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Olivier_Gendebien?oldid=736604686> ;
+	dbp:before	<http://dbpedia.org/resource/Ron_Flockhart_(auto_racing)> ,
+		dbr:Ivor_Bueb ,
+		dbr:Roy_Salvadori ,
+		dbr:Carroll_Shelby ,
+		"Olivier Gendebien"^^xsd:string ,
+		<http://dbpedia.org/resource/Paul_Fr\u00E8re> ;
+	dbp:after	dbr:Ludovico_Scarfiotti ,
+		dbr:Roy_Salvadori ,
+		dbr:Carroll_Shelby ,
+		"Olivier Gendebien"^^xsd:string ,
+		dbr:Lorenzo_Bandini ,
+		dbr:Phil_Hill ;
+	dbp:birthPlace	"Brussels, Belgium"^^xsd:string ;
+	dbp:deathPlace	"Les Baux-de-Provence, France"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Olivier_Gendebien	dbp:birthDate	"1924-01-12"^^xsd:date ;
+	dbp:deathDate	"1998-10-02"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://thespeedblog.com/racers-past-olivier-gendebien-1924-1998/> ;
+	dbo:abstract	"Olivier Gendebien (Bruxelas, 12 de janeiro de 1924 - Les Baux de Provence, 2 de outubro de 1998) foi um piloto belga de automobilismo. Na F\u00F3rmula 1, correu em 1956 e entre 1958 e 1961. Correu pelas equipes Ferrari, Rob Walker Racing e Emeryson, tendo como melhor resultado o segundo lugar no Grande Pr\u00EAmio da Fran\u00E7a de 1961. Abandonou a carreira em 1962, ao vencer os 1000 Quil\u00F4metros de N\u00FCrburgring. Em 1998, aos 74 anos, foi condecorado pelo rei Alberto II com a Ordem da \u00C1guia. Morreu em 2 de outubro do mesmo ano."@pt ,
+		"\u041E\u043B\u0438\u0432\u044C\u0435\u0301 \u0416\u0430\u043D\u0434\u0435\u0431\u044C\u0435\u0301\u043D (\u0444\u0440. Olivier Gendebien; 12 \u044F\u043D\u0432\u0430\u0440\u044F 1924, \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C \u2014 2 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1998, \u0422\u0430\u0440\u0430\u0441\u043A\u043E\u043D) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u0447\u0435\u0442\u044B\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u2014 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Olivier Gendebien (ur. 12 stycznia 1924 w Brukselii, zm. 2 pa\u017Adziernika 1998 w Baux-de-Provence) \u2013 belgijski kierowca wy\u015Bcigowy formu\u0142y 1 w latach 1955-1956, 1958-1961 oraz 24h Le Mans w latach 1955-1962 . Je\u017Adzi\u0142 w bolidzie Ferrari. Najwi\u0119kszym sukcesem Gendebiena jest czterokrotne zwyci\u0119stwo w wy\u015Bcigu 24h Le Mans."@pl ,
+		"Olivier Gendebien (Brussel, 12 januari 1924 - Les Baux-de-Provence, 2 oktober 1998) was een oorlogsheld en autocoureur. Gendebien werd geboren in een rijke familie. Hij ging bouwkunde studeren aan de universiteit, maar toen de Tweede Wereldoorlog uitbrak, ging hij in het Belgische verzet. Hij zorgde dat Britse parachutisten konden landen in Belgi\u00EB. Aan het einde van de oorlog ging hij in het Engelse leger bij de Belgische parachutisten. Na de oorlog ging Olivier Gendebien landbouw studeren. Voor zijn studie zat hij jarenlang in Belgisch-Congo, waar hij rallycoureur Charles Fraikin ontmoette. Toen hij terugkwam in Belgi\u00EB, werd hij zelf ook rallycoureur. Hij won verschillende races en werd ontdekt door Enzo Ferrari. Hij kreeg een contract als coureur in de Formule 1 bij het team van Scuderia Ferrari. Hij deed echter maar mee aan vijftien races, omdat hij de reserve werd van Ferrari. Desondanks wist hij in die vijftien races, verdeeld over drie F1-seizoenen, in totaal zestien WK-punten bij elkaar te rijden, waarvan tien in 1960. Hiermee eindigde hij dat jaar in de stand om het wereldkampioenschap op een gedeelde zesde plaats, samen met vaste Ferraririjder Wolfgang von Trips. In 1958 won hij samen met Phil Hill de 24 uur van Le Mans. Twee jaar later presteerde hij dit nogmaals, zij het deze keer met zijn landgenoot Paul Fr\u00E8re. Het jaar erop verkoos hij opnieuw een team te vormen met Phil Hill, met wie hij de uitputtingsslag vervolgens nog eens twee keer op zijn naam schreef. Uiteindelijk moest Olivier Gendebien zijn carri\u00E8re opgeven, omdat zijn vrouw het te gevaarlijk vond. Hij had nu een gezin met drie kinderen en de autosport was toen nog een sport waarin veel mensen dodelijk verongelukten."@nl ,
+		"Olivier Gendebien (12 January 1924 \u2013 2 October 1998) was a Belgian racing driver who was called \"one of the greatest sportscar racers of all time\"."@en ,
+		" Pour les articles homonymes, voir Gendebien. Olivier Jean Marie Fernand Gendebien (n\u00E9 le 12 janvier 1924 \u00E0 Bruxelles - mort le 2 octobre 1998 \u00E0 Tarascon, France) est un pilote automobile belge."@fr ,
+		"Olivier Gendebien (* 12. Januar 1924 in Br\u00FCssel; \u2020 2. Oktober 1998 in Tarascon, Frankreich) war ein belgischer Automobilrennfahrer, der Ende der 1950er- bzw. Anfang der 1960er-Jahre das 24-Stunden-Rennen von Le Mans alleine viermal gewinnen konnte und als einer besten Sportwagenrennfahrer jener \u00C4ra gilt."@de ,
+		"Olivier Gendebien (Bruselas, B\u00E9lgica, 12 de enero de 1924 - 2 de octubre de 1998) fue un piloto de automovilismo belga que se destac\u00F3 en el Campeonato Mundial de Resistencia, en particular como piloto oficial de Ferrari. Gendebien luch\u00F3 en la resistencia belga y en el ej\u00E9rcito brit\u00E1nico durante la Segunda Guerra Mundial. Tambi\u00E9n estudi\u00F3 ingenier\u00EDa y agricultura, y vivi\u00F3 varios a\u00F1os en el Congo Belga. Como piloto de autom\u00F3viles deportivos, obtuvo cuatro victorias absolutas en las 24 Horas de Le Mans de 1958, 1960, 1961 y 1962, tres en las 12 Horas de Sebring de 1959, 1960 y 1961, tres en la Targa Florio de 1958, 1961 y 1962, tres en el Tour de Francia Automovil\u00EDstico 1957, 1958, 1959, dos en las 12 Horas de Reims de 1957 y 1958, y una en los 1000 km de N\u00FCrburgring de 1962. Gendebien tambi\u00E9n disput\u00F3 15 Grandes Premios de F\u00F3rmula 1 para Ferrari, Equipe Nationale Belge, Reg Parnell y British Racing Partnership. Su mejor resultado de campeonato fue sexto en 1960, al lograr dos podios en cinco participaciones: segundo en el Gran Premio de Francia de 1960 y tercero en el Gran Premio de B\u00E9lgica de 1960. Puntu\u00F3 en otres tres carreras, al llegar cuarto en el Gran Premio de Francia de 1959 y el Gran Premio de B\u00E9lgica de 1961, y quinto en el Gran Premio de Argentina de 1956."@es ,
+		"\u30AA\u30EA\u30F4\u30A3\u30A8\u30FB\u30B8\u30E3\u30F3\u30C9\u30D3\u30A2\u30F3\uFF08Olivier Gendebien \u30011924\u5E741\u670812\u65E5 - 1998\u5E7410\u67082\u65E5\uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u300C\u30B2\u30F3\u30C7\u30D3\u30A8\u30F3\u300D\u3068\u8868\u8A18\u3055\u308C\u3066\u3044\u308B\u5834\u5408\u3082\u3042\u308B\u3002 \u7279\u7B46\u3059\u3079\u304D\u306F\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u306F4\u52DD\u3092\u6319\u3052\u305F\u3053\u3068\u3067\u3001\u3053\u306E\u6642\u306E\u30C1\u30FC\u30E0\u306F\u3044\u305A\u308C\u3082\u30D5\u30A7\u30E9\u30FC\u30EA\u3067\u3042\u3063\u305F\u3002\u30BF\u30EB\u30AC\u30FB\u30D5\u30ED\u30FC\u30EA\u30AA\u3067\u30822\u52DD\u3057\u3066\u3044\u308B\u3002\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\u306B\u3082\u51FA\u5834\u3057\u305F\u304C\u3042\u307E\u308A\u632F\u308B\u308F\u306A\u304B\u3063\u305F\u3002"@ja ;
+	dbo:birthDate	"1924-1-12"^^xsd:date ;
+	dbo:deathDate	"1998-10-2"^^xsd:date ;
+	dbo:deathPlace	dbr:Les_Baux-de-Provence ;
+	dbo:wikiPageRevisionID	736604686 ;
+	dbo:birthPlace	dbpedia-wikidata:Q9005 ;
+	dbo:wikiPageID	342234 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Olivier_Gendebien	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1956_Argentine_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1961_United_States_Grand_Prix> ;
+	dbo:podiums	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"15"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Cooper, Emeryson and Lotus"^^xsd:string ,
+		dbr:Scuderia_Ferrari ;
+	dbp:nationality	"Belgian"^^xsd:string .
+dbr:Roy_Salvadori	dbp:before	dbr:Olivier_Gendebien ;
+	dbp:after	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/Ron_Flockhart_(racing_driver)>	dbp:after	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__3__1>	dbo:firstDriver	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__36__1>	dbo:firstDriver	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__1st__1>	dbo:firstDriver	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__14th__1>	dbo:firstDriver	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__1st__1>	dbo:firstDriver	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Olivier_Gendebien .
+dbr:Carroll_Shelby	dbp:before	dbr:Olivier_Gendebien ;
+	dbp:after	dbr:Olivier_Gendebien .
+dbr:Ivor_Bueb	dbp:after	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__5__1>	dbo:firstDriver	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/Duncan_Hamilton_(racing_driver)>	dbp:after	dbr:Olivier_Gendebien .
+<http://dbpedia.org/resource/Paul_Fr\u00E8re>	dbp:years	dbr:Olivier_Gendebien ;
+	dbp:after	dbr:Olivier_Gendebien .

@@ -1,0 +1,160 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__52__1>	dbo:firstDriver	dbr:George_Follmer .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:George_Follmer	foaf:primaryTopic	dbr:George_Follmer .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Ford_G7	dbp:drivers	dbr:George_Follmer .
+<http://dbpedia.org/resource/1966_Can-Am_season__12__1>	dbo:firstDriver	dbr:George_Follmer .
+<http://dbpedia.org/resource/1968_Can-Am_season__7__1>	dbo:firstDriver	dbr:George_Follmer .
+dbr:Mark_Donohue	dbp:after	dbr:George_Follmer ;
+	dbp:before	dbr:George_Follmer .
+dbr:Peter_Revson	dbp:after	dbr:George_Follmer .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:George_Follmer	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:George_Follmer	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:George_Follmer	rdf:type	owl:Thing .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:George_Follmer	rdf:type	ns9:NaturalPerson ,
+		foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:George_Follmer	rdf:type	yago:WikicatShadowFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatNASCARDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q378622 ,
+		yago:WikicatRacingDriversFromArizona ,
+		dbo:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatChampCarDrivers ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatTrans-AmSeriesDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:George_Follmer	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Agent ,
+		ns9:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:George_Follmer	rdfs:label	"George Follmer"@en ,
+		"\u062C\u0648\u0631\u062C \u0641\u0648\u0644\u0645\u064A\u0631"@ar ,
+		"George Follmer"@nl ,
+		"George Follmer"@de ,
+		"\u0424\u043E\u043B\u043B\u043C\u0435\u0440, \u0414\u0436\u043E\u0440\u0434\u0436"@ru ,
+		"George Follmer"@it ,
+		"George Follmer"@fr ,
+		"George Follmer"@pl ,
+		"George Follmer"@pt ;
+	rdfs:comment	"La sua carriera si \u00E8 svolta principalmente nel paese natale dove ha corso nelle categorie e nelle competizioni pi\u00F9 importanti, sia relative alle monoposto come la 500 Miglia di Indianapolis, sia nella NASCAR e nel Campionato CanAm, di cui si laure\u00F2 campione nel 1972. Successivamente torn\u00F2 a dedicarsi alle corse americane."@it ,
+		"George Follmer (Phoenix, Arizona, 27 januari 1934) is een voormalig Amerikaans Formule 1-coureur. Hij reed in 1973 13 Grands Prix voor het team Shadow Racing Team."@nl ,
+		"George Follmer (Phoenix, 27 de Janeiro de 1934) \u00E9 um ex-automobilista norte-americano."@pt ,
+		"George FollmerFichier:George Follmer 1973.jpg George Follmer en 1973 au Grand Prix automobile d'Allemagne 1973 George Follmer (n\u00E9 le 27 janvier 1934 \u00E0 Phoenix dans l'Arizona) est un ancien pilote automobile am\u00E9ricain."@fr ,
+		"George Follmer (ur. 27 stycznia 1934) - ameryka\u0144ski kierowca wy\u015Bcigowy, kt\u00F3ry bra\u0142 udzia\u0142 w wy\u015Bcigu Indianapolis 500 w latach 1968-1971, 1975. Startowa\u0142 tak\u017Ce w Formu\u0142y 1 w sezonie 1973. Je\u017Adzi\u0142 w bolidzie Shadow, podczas Grand Prix Hiszpanii wywalczy\u0142 trzecie miejsce w wy\u015Bcigu."@pl ,
+		"\u062C\u0648\u0631\u062C \u0641\u0648\u0644\u0645\u064A\u0631 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: George Follmer) \u0645\u0648\u0627\u0644\u064A\u062F 27 \u064A\u0646\u0627\u064A\u0631 1934 \u0641\u064A \u0641\u064A\u0646\u064A\u0643\u0633\u060C \u0623\u0631\u064A\u0632\u0648\u0646\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1973. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1973. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 13 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"George Follmer (* 27. Januar 1934 in Phoenix) ist ein ehemaliger Automobil-Rennfahrer."@de ,
+		"George Follmer (born January 27, 1934) is an American former auto racing driver, and one of the most successful road racers of the 1970s. He was born in Phoenix, Arizona. His family moved to California when he was just a baby."@en ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436 \u0424\u043E\u043B\u043B\u043C\u0435\u0440 (\u0430\u043D\u0433\u043B. George Follmer, 27 \u044F\u043D\u0432\u0430\u0440\u044F 1934 \u0433\u043E\u0434\u0430, \u0424\u0438\u043D\u0438\u043A\u0441) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u00AB\u041A\u0430\u043D-\u0410\u043C\u00BB 1972 \u0433\u043E\u0434\u0430."@ru .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:George_Follmer	dbp:birthDate	"1934-01-27"^^xsd:date .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:George_Follmer	owl:sameAs	dbpedia-pt:George_Follmer .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:George_Follmer	owl:sameAs	dbpedia-wikidata:Q172096 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:George_Follmer	owl:sameAs	dbpedia-it:George_Follmer ,
+		<http://rdf.freebase.com/ns/m.04k8js> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:George_Follmer	owl:sameAs	dbpedia-fr:George_Follmer ,
+		dbr:George_Follmer ,
+		wikidata:Q172096 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:George_Follmer	owl:sameAs	dbpedia-pl:George_Follmer .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:George_Follmer	owl:sameAs	dbpedia-de:George_Follmer .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:George_Follmer	owl:sameAs	yago-res:George_Follmer .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:George_Follmer	owl:sameAs	dbpedia-nl:George_Follmer .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:George_Follmer	dct:subject	dbc:Indianapolis_500_drivers ,
+		dbc:American_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1934_births> ,
+		dbc:Racing_drivers_from_Arizona ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Phoenix,_Arizona> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Trans-Am_Series_drivers ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:NASCAR_drivers ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		dbc:Shadow_Formula_One_drivers ;
+	foaf:name	"George Follmer"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/George_Follmer_1973.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"George"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:George_Follmer ;
+	foaf:surname	"Follmer"@en ;
+	dbp:sp	"us"^^xsd:string ;
+	dbp:points	5 ;
+	dbp:years	1972 ;
+	dbp:after	dbr:Mark_Donohue ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Team .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:George_Follmer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/George_Follmer?oldid=714437483> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-folgeo.html> ,
+		<http://www.follmerbook.com> ,
+		<http://www.driverdb.com/drivers/george-follmer/> ,
+		<http://saleen.com/saleen-gf.html> .
+@prefix ns25:	<http://racing-reference.info/driver/> .
+dbr:George_Follmer	dbo:wikiPageExternalLink	ns25:George_Follmer ;
+	dbp:imageSize	250 ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Phoenix,_Arizona> ;
+	dbp:before	dbr:Peter_Revson ;
+	dbo:abstract	"George Follmer (* 27. Januar 1934 in Phoenix) ist ein ehemaliger Automobil-Rennfahrer."@de ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436 \u0424\u043E\u043B\u043B\u043C\u0435\u0440 (\u0430\u043D\u0433\u043B. George Follmer, 27 \u044F\u043D\u0432\u0430\u0440\u044F 1934 \u0433\u043E\u0434\u0430, \u0424\u0438\u043D\u0438\u043A\u0441) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u00AB\u041A\u0430\u043D-\u0410\u043C\u00BB 1972 \u0433\u043E\u0434\u0430."@ru ,
+		"La sua carriera si \u00E8 svolta principalmente nel paese natale dove ha corso nelle categorie e nelle competizioni pi\u00F9 importanti, sia relative alle monoposto come la 500 Miglia di Indianapolis, sia nella NASCAR e nel Campionato CanAm, di cui si laure\u00F2 campione nel 1972. Nel 1973 venne ingaggiato dalla Shadow per partecipare al Campionato mondiale di Formula 1 nel quale, al termine della stagione si classific\u00F2 al 13\u00BA posto con cinque punti ed un piazzamento sul podio. Proprio durante il Gran Premio di Spagna, che concluse al terzo posto si rese protagonista di un'accesa discussione con Fran\u00E7ois Cevert, che aveva criticato il suo modo di guidare, considerandolo troppo difensivo. Successivamente torn\u00F2 a dedicarsi alle corse americane."@it ,
+		"George Follmer (Phoenix, Arizona, 27 januari 1934) is een voormalig Amerikaans Formule 1-coureur. Hij reed in 1973 13 Grands Prix voor het team Shadow Racing Team."@nl ,
+		"George Follmer (born January 27, 1934) is an American former auto racing driver, and one of the most successful road racers of the 1970s. He was born in Phoenix, Arizona. His family moved to California when he was just a baby."@en ,
+		"\u062C\u0648\u0631\u062C \u0641\u0648\u0644\u0645\u064A\u0631 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: George Follmer) \u0645\u0648\u0627\u0644\u064A\u062F 27 \u064A\u0646\u0627\u064A\u0631 1934 \u0641\u064A \u0641\u064A\u0646\u064A\u0643\u0633\u060C \u0623\u0631\u064A\u0632\u0648\u0646\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1973. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1973. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 13 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"George FollmerFichier:George Follmer 1973.jpg George Follmer en 1973 au Grand Prix automobile d'Allemagne 1973 George Follmer (n\u00E9 le 27 janvier 1934 \u00E0 Phoenix dans l'Arizona) est un ancien pilote automobile am\u00E9ricain."@fr ,
+		"George Follmer (ur. 27 stycznia 1934) - ameryka\u0144ski kierowca wy\u015Bcigowy, kt\u00F3ry bra\u0142 udzia\u0142 w wy\u015Bcigu Indianapolis 500 w latach 1968-1971, 1975. Startowa\u0142 tak\u017Ce w Formu\u0142y 1 w sezonie 1973. Je\u017Adzi\u0142 w bolidzie Shadow, podczas Grand Prix Hiszpanii wywalczy\u0142 trzecie miejsce w wy\u015Bcigu."@pl ,
+		"George Follmer (Phoenix, 27 de Janeiro de 1934) \u00E9 um ex-automobilista norte-americano."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/George_Follmer_1973.jpg?width=300> ;
+	dbo:birthDate	"1934-1-27"^^xsd:date ;
+	dbo:wikiPageRevisionID	714437483 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Phoenix,_Arizona> ;
+	dbo:wikiPageID	1228397 ;
+	dbo:nationality	dbr:Americans ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1973_South_African_Grand_Prix> ;
+	dbo:races	"13"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1973_United_States_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:George_Follmer	ns26:hypernym	dbr:Auto ;
+	dbp:title	"Can-Am Champion"^^xsd:string .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__7__1>	dbo:firstDriver	dbr:George_Follmer .
+<http://dbpedia.org/resource/1972_Can-Am_season__1__1>	dbo:firstDriver	dbr:George_Follmer .
+<http://dbpedia.org/resource/1973_Can-Am_season__2__1>	dbo:firstDriver	dbr:George_Follmer .
+<http://dbpedia.org/resource/1973_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:George_Follmer .
+<http://dbpedia.org/resource/1967_Can-Am_season__7__1>	dbo:firstDriver	dbr:George_Follmer .
+<http://dbpedia.org/resource/1971_Can-Am_season__31=__2>	dbo:firstDriver	dbr:George_Follmer .
+<http://dbpedia.org/resource/1974_Can-Am_season__2__1>	dbo:firstDriver	dbr:George_Follmer .

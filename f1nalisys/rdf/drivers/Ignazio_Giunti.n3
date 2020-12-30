@@ -1,0 +1,141 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__S5.0__9>	dbo:firstDriver	dbr:Ignazio_Giunti .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__50__1>	dbo:firstDriver	dbr:Ignazio_Giunti .
+<http://dbpedia.org/resource/1970_1000km_of_Monza__2__1>	dbo:firstDriver	dbr:Ignazio_Giunti .
+<http://dbpedia.org/resource/1970_1000km_of_N\u00FCrburgring__S5.0__2>	dbo:firstDriver	dbr:Ignazio_Giunti .
+<http://dbpedia.org/resource/1970_1000km_of_Spa-Francorchamps__4__1>	dbo:firstDriver	dbr:Ignazio_Giunti .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__1__1>	dbo:firstDriver	dbr:Ignazio_Giunti .
+<http://dbpedia.org/resource/1970_Targa_Florio__3__1>	dbo:firstDriver	dbr:Ignazio_Giunti .
+<http://dbpedia.org/resource/1970_Watkins_Glen_6_Hours__3__1>	dbo:firstDriver	dbr:Ignazio_Giunti .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Ignazio_Giunti	rdf:type	umbel-rc:RaceCarDriver .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Ignazio_Giunti	rdf:type	ns4:NaturalPerson ,
+		dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ignazio_Giunti	rdf:type	yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		ns4:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ignazio_Giunti	rdf:type	wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Ignazio_Giunti	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Ignazio_Giunti	rdf:type	owl:Thing ,
+		wikidata:Q5 ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		wikidata:Q378622 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Ignazio_Giunti	rdf:type	foaf:Person ,
+		dbo:Athlete ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ignazio_Giunti	rdfs:label	"\u30A4\u30B0\u30CA\u30C4\u30A3\u30AA\u30FB\u30AE\u30E5\u30F3\u30C6\u30A3"@ja ,
+		"Ignazio Giunti"@fr ,
+		"Ignazio Giunti"@it ,
+		"\u0414\u0436\u0443\u043D\u0442\u0438, \u0418\u043D\u044C\u044F\u0446\u0438\u043E"@ru ,
+		"Ignazio Giunti"@en ,
+		"Ignazio Giunti"@pl ,
+		"Ignazio Giunti"@de ,
+		"Ignazio Giunti"@pt ,
+		"Ignazio Giunti"@nl ;
+	rdfs:comment	"Ignazio Giunti (Rome, 30 augustus 1941 - Buenos Aires, Argentini\u00EB, 10 januari 1971) was een Italiaans Formule 1-coureur. Hij reed in 1970 4 Grands Prix Formule 1 voor het team Ferrari; zijn beste resultaat was een vierde plaats in zijn eerste race, de Grand Prix van Belgi\u00EB in Spa-Francorchamps."@nl ,
+		"Ignazio Giunti (30 August 1941 \u2013 10 January 1971) was an Italian racing driver who made his name in saloon and Sports Car Racing in the late 1960s. Giunti was born in Rome. In 1968, driving for Alfa Romeo, he was second in the Targa Florio and fourth in the Le Mans 24 Hours race co-driving with Nanni Galli. Ferrari were also trialling the Swiss driver Clay Regazzoni and he put in some excellent drives to restrict Giunti's chances though he was re-signed by Ferrari for 1971."@en ,
+		"\u30A4\u30B0\u30CA\u30C4\u30A3\u30AA\u30FB\u30AE\u30E5\u30F3\u30C6\u30A3\uFF08Ignazio Giunti, 1941\u5E748\u670830\u65E5 - 1971\u5E741\u670810\u65E5 \u540D\u524D\u306E\u6B63\u3057\u3044\u8AAD\u307F\u65B9\u306F\u30A4\u30F3\u30CB\u30E3\u30C4\u30A3\u30AA\u30FB\u30B8\u30E5\u30F3\u30C6\u30A3\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30FB\u30ED\u30FC\u30DE\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Ignazio Giunti (ur. 30 sierpnia 1941 roku w Rzymie, zm. 10 stycznia 1971 roku w Buenos Aires w Argentynie) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Ignazio Giunti (* 30. August 1941 in Rom; \u2020 10. Januar 1971 in Buenos Aires) war ein italienischer Automobilrennfahrer."@de ,
+		"Ignazio Giunti (Roma, 30 de agosto de 1941  \u2014 Buenos Aires, 10 de janeiro de 1971) foi um piloto italiano de F\u00F3rmula 1. Disputou quatro corridas pela Scuderia Ferrari."@pt ,
+		"\u0418\u043D\u044C\u044F\u0446\u0438\u043E \u0414\u0436\u0443\u043D\u0442\u0438 (\u0438\u0442\u0430\u043B. Ignazio Giunti, 30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1941 \u0433\u043E\u0434\u0430, \u0420\u0438\u043C \u2014 10 \u044F\u043D\u0432\u0430\u0440\u044F 1971 \u0433\u043E\u0434\u0430, \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Ignazio Giunti Ignazio Giunti \u00E9tait un pilote automobile italien, n\u00E9 le 30 ao\u00FBt 1941 \u00E0 Rome (Italie) et d\u00E9c\u00E9d\u00E9 le 10 janvier 1971 \u00E0 Buenos Aires (Argentine) dans un accident survenu pendant l'\u00E9preuve des 1 000 km de Buenos Aires."@fr .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Ignazio_Giunti	dbp:birthDate	"1941-08-30"^^xsd:date .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Ignazio_Giunti	owl:sameAs	dbpedia-nl:Ignazio_Giunti .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Ignazio_Giunti	owl:sameAs	dbpedia-wikidata:Q172027 ,
+		wikidata:Q172027 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ignazio_Giunti	owl:sameAs	yago-res:Ignazio_Giunti .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Ignazio_Giunti	owl:sameAs	dbpedia-it:Ignazio_Giunti .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Ignazio_Giunti	owl:sameAs	dbpedia-fr:Ignazio_Giunti .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Ignazio_Giunti	owl:sameAs	dbpedia-pt:Ignazio_Giunti ,
+		<http://rdf.freebase.com/ns/m.02wz_2> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ignazio_Giunti	owl:sameAs	dbpedia-de:Ignazio_Giunti ,
+		dbr:Ignazio_Giunti ,
+		<http://ja.dbpedia.org/resource/\u30A4\u30B0\u30CA\u30C4\u30A3\u30AA\u30FB\u30AE\u30E5\u30F3\u30C6\u30A3> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ignazio_Giunti	owl:sameAs	dbpedia-pl:Ignazio_Giunti .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ignazio_Giunti	dct:subject	dbc:Ferrari_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Sport_deaths_in_Argentina ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1971_deaths> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Sportspeople_from_Rome ,
+		<http://dbpedia.org/resource/Category:1941_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Filmed_deaths_in_sports ;
+	foaf:name	"Ignazio Giunti"@en ;
+	dct:description	"Italian racing driver"@en ;
+	foaf:givenName	"Ignazio"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Ignazio_Giunti	foaf:isPrimaryTopicOf	wikipedia-en:Ignazio_Giunti ;
+	foaf:surname	"Giunti"@en ;
+	dbp:points	3 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scuderia_Ferrari .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ignazio_Giunti	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ignazio_Giunti?oldid=703247619> ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/results/season/1970/> ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:birthPlace	"Rome, Italy"^^xsd:string ;
+	dbp:deathDate	"1971-01-10"^^xsd:date ;
+	dbp:deathPlace	"Buenos Aires, Argentina"^^xsd:string ;
+	dbo:abstract	"\u0418\u043D\u044C\u044F\u0446\u0438\u043E \u0414\u0436\u0443\u043D\u0442\u0438 (\u0438\u0442\u0430\u043B. Ignazio Giunti, 30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1941 \u0433\u043E\u0434\u0430, \u0420\u0438\u043C \u2014 10 \u044F\u043D\u0432\u0430\u0440\u044F 1971 \u0433\u043E\u0434\u0430, \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Ignazio Giunti (Roma, 30 de agosto de 1941  \u2014 Buenos Aires, 10 de janeiro de 1971) foi um piloto italiano de F\u00F3rmula 1. Disputou quatro corridas pela Scuderia Ferrari."@pt ,
+		"Ignazio Giunti Ignazio Giunti \u00E9tait un pilote automobile italien, n\u00E9 le 30 ao\u00FBt 1941 \u00E0 Rome (Italie) et d\u00E9c\u00E9d\u00E9 le 10 janvier 1971 \u00E0 Buenos Aires (Argentine) dans un accident survenu pendant l'\u00E9preuve des 1 000 km de Buenos Aires."@fr ,
+		"Ignazio Giunti (* 30. August 1941 in Rom; \u2020 10. Januar 1971 in Buenos Aires) war ein italienischer Automobilrennfahrer."@de ,
+		"Ignazio Giunti (30 August 1941 \u2013 10 January 1971) was an Italian racing driver who made his name in saloon and Sports Car Racing in the late 1960s. Giunti was born in Rome. In 1968, driving for Alfa Romeo, he was second in the Targa Florio and fourth in the Le Mans 24 Hours race co-driving with Nanni Galli. In 1970, Giunti was signed by Ferrari primarily for their sports-car team and won the Sebring 12hrs and the Targa Florio as well as achieving several other high placings. His success earned him a Formula One chance and he debuted well, finishing fourth in the Belgian GP at Spa and raced three more times that year. Ferrari were also trialling the Swiss driver Clay Regazzoni and he put in some excellent drives to restrict Giunti's chances though he was re-signed by Ferrari for 1971. Tragedy struck in his first drive in 1971 whilst racing in the 1000 km Buenos Aires race, when his Ferrari 312PB prototype ploughed into the back of the Matra 660 of Jean-Pierre Beltoise, who was pushing the car along the track after it had run out of fuel. The impact and the subsequent fire gave the popular Italian no chance of survival."@en ,
+		"\u30A4\u30B0\u30CA\u30C4\u30A3\u30AA\u30FB\u30AE\u30E5\u30F3\u30C6\u30A3\uFF08Ignazio Giunti, 1941\u5E748\u670830\u65E5 - 1971\u5E741\u670810\u65E5 \u540D\u524D\u306E\u6B63\u3057\u3044\u8AAD\u307F\u65B9\u306F\u30A4\u30F3\u30CB\u30E3\u30C4\u30A3\u30AA\u30FB\u30B8\u30E5\u30F3\u30C6\u30A3\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30FB\u30ED\u30FC\u30DE\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Ignazio Giunti (Rome, 30 augustus 1941 - Buenos Aires, Argentini\u00EB, 10 januari 1971) was een Italiaans Formule 1-coureur. Hij reed in 1970 4 Grands Prix Formule 1 voor het team Ferrari; zijn beste resultaat was een vierde plaats in zijn eerste race, de Grand Prix van Belgi\u00EB in Spa-Francorchamps. Hij overleed na een ongeval tijdens de \"1000 Kilometer van Buenos Aires\" van 1971, een race voor sportwagens. Jean-Pierre Beltoise was met zijn Matra zonder brandstof gevallen en probeerde zijn wagen over de baan nog naar de pits te duwen. Giunti kon die niet meer ontwijken en reed met zijn Ferrari 312PB prototype op Beltoises wagen; na de botsing vloog zijn wagen in brand. Hij overleed in het ziekenhuis."@nl ,
+		"Ignazio Giunti (ur. 30 sierpnia 1941 roku w Rzymie, zm. 10 stycznia 1971 roku w Buenos Aires w Argentynie) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1941-8-30"^^xsd:date ;
+	dbo:deathDate	"1971-1-10"^^xsd:date ;
+	dbo:deathPlace	dbr:Buenos_Aires ;
+	dbo:wikiPageRevisionID	703247619 ;
+	dbo:birthPlace	dbr:Rome ;
+	dbo:wikiPageID	616438 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1970_Belgian_Grand_Prix> ;
+	dbo:races	"4"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1970_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Ignazio_Giunti	ns25:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__47__1>	dbo:firstDriver	dbr:Ignazio_Giunti .
+wikipedia-en:Ignazio_Giunti	foaf:primaryTopic	dbr:Ignazio_Giunti .
+dbr:Giunti	dbo:wikiPageDisambiguates	dbr:Ignazio_Giunti .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Ignazio_Giunti .
+dbr:Ignazio	dbo:wikiPageDisambiguates	dbr:Ignazio_Giunti .

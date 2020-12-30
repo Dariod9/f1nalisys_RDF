@@ -1,0 +1,188 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Jean_Louis_Schlesser	dbo:wikiPageRedirects	dbr:Jean-Louis_Schlesser .
+dbr:Schlesser	dbo:wikiPageDisambiguates	dbr:Jean-Louis_Schlesser .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Czechoslovakian_Grand_Prix	dbp:winner	dbr:Jean-Louis_Schlesser .
+dbr:Marc_Duez	dbp:before	dbr:Jean-Louis_Schlesser .
+dbr:Norisring	dbp:recordDriver	dbr:Jean-Louis_Schlesser .
+dbr:Mauro_Baldi	dbp:before	dbr:Jean-Louis_Schlesser .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jean-Louis_Schlesser	foaf:primaryTopic	dbr:Jean-Louis_Schlesser .
+<http://dbpedia.org/resource/1983_Macau_Grand_Prix__David_Price_Racing__2>	dbo:firstDriver	dbr:Jean-Louis_Schlesser .
+dbr:Jutta_Kleinschmidt	dbp:before	dbr:Jean-Louis_Schlesser .
+<http://dbpedia.org/resource/1986_100_Miles_of_Norisring__17__1>	dbo:firstDriver	dbr:Jean-Louis_Schlesser .
+dbr:Sandown_Raceway	dbp:recordDriver	dbr:Jean-Louis_Schlesser .
+dbr:Teo_Fabi	dbp:before	dbr:Jean-Louis_Schlesser .
+dbr:Martin_Brundle	dbp:after	dbr:Jean-Louis_Schlesser .
+<http://dbpedia.org/resource/6_Hours_of_Donington>	dbp:mostWinsDriver	dbr:Jean-Louis_Schlesser .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jean-Louis_Schlesser	rdf:type	ns6:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jean-Louis_Schlesser	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatFrenchFormulaThreeChampionshipDrivers ,
+		dbo:RacingDriver ,
+		ns6:NaturalPerson ,
+		yago:WikicatDakarRallyDrivers ,
+		yago:Operator110378412 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jean-Louis_Schlesser	rdf:type	wikidata:Q378622 ,
+		dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jean-Louis_Schlesser	rdf:type	owl:Thing ,
+		yago:Driver110034906 ,
+		dbo:Agent ,
+		wikidata:Q5 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jean-Louis_Schlesser	rdf:type	umbel-rc:Athlete .
+@prefix schema:	<http://schema.org/> .
+dbr:Jean-Louis_Schlesser	rdf:type	schema:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatEuropeanFormulaThreeChampionshipDrivers ,
+		wikidata:Q24229398 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatFrenchRallyDrivers ,
+		umbel-rc:RaceCarDriver ,
+		foaf:Person ,
+		wikidata:Q215627 ,
+		yago:WikicatFrenchFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jean-Louis_Schlesser	rdfs:label	"\u30B8\u30E3\u30F3\uFF1D\u30EB\u30A4\u30FB\u30B7\u30E5\u30EC\u30C3\u30B5\u30FC"@ja ,
+		"\u0428\u043B\u0435\u0441\u0441\u0435\u0440, \u0416\u0430\u043D-\u041B\u0443\u0438"@ru ,
+		"Jean-Louis Schlesser"@es ,
+		"Jean-Louis Schlesser"@fr ,
+		"Jean-Louis Schlesser"@en ,
+		"Jean-Louis Schlesser"@pt ,
+		"Jean-Louis Schlesser"@it ,
+		"Jean-Louis Schlesser"@pl ,
+		"Jean-Louis Schlesser"@de ,
+		"Jean-Louis Schlesser"@nl ;
+	rdfs:comment	"\u30B8\u30E3\u30F3\uFF1D\u30EB\u30A4\u30FB\u30DD\u30FC\u30EB\u30FB\u30B7\u30E5\u30EC\u30C3\u30B5\u30FC\uFF08Jean-Louis Paul Schlesser, 1948\u5E749\u670812\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30E0\u30EB\u30C8\uFF1D\u30A8\uFF1D\u30E2\u30BC\u30EB\u770C\u30CA\u30F3\u30B7\u30FC\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 1989\u5E74\u30FB1990\u5E74\u306B\u306F\u30B6\u30A6\u30D0\u30FC\u30FB\u30E1\u30EB\u30BB\u30C7\u30B9\u3092\u99C6\u308A\u3001\u4E16\u754C\u30B9\u30DD\u30FC\u30C4\u30D7\u30ED\u30C8\u30BF\u30A4\u30D7\u30AB\u30FC\u8010\u4E45\u9078\u624B\u6A29\uFF08WSPC\u3001\u5F8C\u306E\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u4E16\u754C\u9078\u624B\u6A29\uFF08SWC\uFF09\uFF09\u306E\u30B7\u30EA\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3092\u7372\u5F97\u3059\u308B\u306A\u3069\u30011990\u5E74\u4EE3\u524D\u534A\u307E\u3067\u306F\u4E3B\u306B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u306E\u30EC\u30FC\u30B9\u3067\u6D3B\u8E8D\u3059\u308B\u30C9\u30E9\u30A4\u30D0\u30FC\u3060\u3063\u305F\u3002 1992\u5E74\u306B\u72EC\u81EA\u958B\u767A\u306E\u30D0\u30AE\u30FC\u3067\u30C0\u30AB\u30FC\u30EB\u30FB\u30E9\u30EA\u30FC\u3078\u306E\u53C2\u6226\u3092\u958B\u59CB\u3002\u4EE5\u5F8C\u30E9\u30EA\u30FC\u30EC\u30A4\u30C9\u306B\u6D3B\u52D5\u306E\u4E3B\u8EF8\u3092\u79FB\u3059\u3088\u3046\u306B\u306A\u308A\u30011999\u5E74\u30FB2000\u5E74\u306B\u306F\u30C0\u30AB\u30FC\u30EB\u30FB\u30E9\u30EA\u30FC\u3067\u7DCF\u5408\u512A\u52DD\u3092\u679C\u305F\u3059\u30022007\u5E74\u307E\u3067\u30C0\u30AB\u30FC\u30EB\u30FB\u30E9\u30EA\u30FC\u3078\u306E\u53C2\u6226\u3092\u7D9A\u3051\u3066\u304D\u305F\u304C\u30012008\u5E74\u306E\u30C0\u30AB\u30FC\u30EB\u30FB\u30E9\u30EA\u30FC\u958B\u50AC\u304C\u4E2D\u6B62\u3068\u306A\u308A2009\u5E74\u306F\u958B\u50AC\u5730\u304C\u5357\u7C73\u306B\u79FB\u3055\u308C\u305F\u5F71\u97FF\u3082\u3042\u3063\u3066\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u898B\u9001\u3063\u3066\u3044\u308B\u3002 \u53D4\u7236\u306E\u30B8\u30E7\u30FC\u30FB\u30B7\u30E5\u30EC\u30C3\u30B5\u30FC\u3082\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Vincitore in carriera, tra l'altro, di cinque Coppa del mondo rally raid (dal 1998 al 2002), due Rally Dakar (1999 e 2000) e due Campionati mondiali prototipi (1989 e 1990)"@it ,
+		"Jean-Louis Schlesser (Nancy, Frankrijk, 12 september 1948) is een voormalig autocoureur uit Frankrijk. Hij nam in 1983 en 1988 deel aan 2 Grands Prix Formule 1 voor de teams RAM Racing en Williams, maar scoorde hierin geen punten. Hij is het neefje van Jo Schlesser, eveneens een voormalig Formule 1-coureur.Tegenwoordig houdt JLS zich samen met vriend Rene M\u00E9tge bezig met de Africa Eco Race omdat Dakar nog altijd in Afrika ligt en Rene M\u00E9tge de beste routes kan uitzetten en ze wars zijn van de regeltjes van de ASO"@nl ,
+		"Jean-Louis Schlesser (born 12 September 1948) is a French racing driver with experience in circuit racing and cross-country rallying. He is known for his wins of many different competitions. He is the nephew of Jo Schlesser, a former Formula One driver."@en ,
+		"Jean-Louis Schlesser (nacido el 12 de septiembre de 1948 en Nancy) es un piloto de automovilismo franc\u00E9s con experiencia tanto en circuitos como en rally raid. Es el sobrino del tambi\u00E9n piloto Jo Schlesser. Se destaca por haber ganado el Campeonato Franc\u00E9s de Superturismos de 1985, el Campeonato Mundial de Resistencia de 1989 y 1990, y el Rally Dakar de 1999 y 2000."@es ,
+		"Jean-Louis Schlesser (ur. 12 wrze\u015Bnia 1948 roku w Nancy, Meurthe-et-Moselle) \u2013 francuski kierowca wy\u015Bcigowy i rajdowy. Siostrzeniec Jo Schlessera, r\u00F3wnie\u017C kierowcy wy\u015Bcigowego kt\u00F3ry zgin\u0105\u0142 podczas Grand Prix Francji 1968."@pl ,
+		"Jean-Louis Schlesser, n\u00E9 le 12 septembre 1948 \u00E0 Nancy, est un pilote automobile fran\u00E7ais. Pilote \u00E9clectique, aussi \u00E0 l'aise sur circuit, o\u00F9 il a \u00E9t\u00E9 deux fois champion du monde de Sport-Prototypes, que sur les pistes africaines, Jean-Louis Schlesser est depuis pr\u00E8s de 20 ans un acteur majeur des rallye-raids, o\u00F9 il cumule les fonctions de pilote et de constructeur, avec \u00E0 son actif deux victoires au rallye Dakar et cinq titres de vainqueur de la Coupe du monde des Rallye-raid"@fr ,
+		"\u0416\u0430\u043D-\u041B\u0443\u0438 \u0428\u043B\u0435\u0441\u0441\u0435\u0301\u0440 (\u0444\u0440. Jean-Louis Schlesser, 12 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1948 \u0433\u043E\u0434\u0430, \u041D\u0430\u043D\u0441\u0438) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0438 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u0442\u0430\u043A\u0436\u0435 \u043F\u043E\u0434 \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435\u043C \u00AB\u041B\u0438\u0441 \u043F\u0443\u0441\u0442\u044B\u043D\u0438\u00BB. \u0414\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0440\u0430\u043B\u043B\u0438 \u041F\u0430\u0440\u0438\u0436-\u0414\u0430\u043A\u0430\u0440. \u041F\u043B\u0435\u043C\u044F\u043D\u043D\u0438\u043A \u0431\u044B\u0432\u0448\u0435\u0433\u043E \u0433\u043E\u043D\u0449\u0438\u043A\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0416\u043E \u0428\u043B\u0435\u0441\u0441\u0435\u0440\u0430."@ru ,
+		"Jean-Louis Schlesser (* 12. September 1948 in Nancy) ist ein franz\u00F6sischer Allround-Automobilrennfahrer und zweifacher Gewinner der Sportwagen-Weltmeisterschaft (1989 und 1990)."@de ,
+		"Jean-Louis Paul Schlesser (Nancy, 12 de Setembro de 1948) \u00E9 um automobilista franc\u00EAs que disputa atualmente ralis. Em 1983 participou do GP da Fran\u00E7a pela RAM-Ford, mas foi desqualificado. O ingl\u00EAs Martin Brundle faria a segunda corrida substituindo o compatriota Nigel Mansell que se ausentou mais uma vez por problemas de sa\u00FAde, por\u00E9m Brundle estava comprometido com o Mundial de Marcas. A equipe Williams convocou o franc\u00EAs Jean-Louis Schlesser para participar no Grande Pr\u00EAmio da It\u00E1lia em Monza de 1988. O piloto ia fazendo uma corrida disciplinada sem cometer praticamente nenhum erro, mas na 49\u00AA volta, o franc\u00EAs que estava na 11\u00AA posi\u00E7\u00E3o ao olhar pelos retrovisores e perceber a aproxima\u00E7\u00E3o do l\u00EDder da prova, o carro n\u00FAmero 12 da McLaren do brasileiro Ayrton Senna, encostou o seu Williams p"@pt ;
+	dbp:points	0 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	dbpedia-fr:Jean-Louis_Schlesser .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	dbpedia-pl:Jean-Louis_Schlesser .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	dbpedia-it:Jean-Louis_Schlesser ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30F3\uFF1D\u30EB\u30A4\u30FB\u30B7\u30E5\u30EC\u30C3\u30B5\u30FC> ,
+		dbr:Jean-Louis_Schlesser .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	dbpedia-id:Jean-Louis_Schlesser ,
+		<http://rdf.freebase.com/ns/m.03_r38> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	yago-res:Jean-Louis_Schlesser .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	dbpedia-pt:Jean-Louis_Schlesser .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	dbpedia-es:Jean-Louis_Schlesser ,
+		wikidata:Q171479 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	dbpedia-de:Jean-Louis_Schlesser .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	dbpedia-wikidata:Q171479 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jean-Louis_Schlesser	owl:sameAs	dbpedia-nl:Jean-Louis_Schlesser .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jean-Louis_Schlesser	dct:subject	dbc:Off-road_racing_drivers ,
+		dbc:Dakar_Rally_winning_drivers ,
+		dbc:French_rally_drivers ,
+		dbc:RAM_Racing_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1948_births> ,
+		dbc:European_Formula_Three_Championship_drivers ,
+		dbc:French_Formula_Three_Championship_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:French_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Dakar_Rally_drivers ,
+		dbc:French_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:People_from_Nancy,_France> ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		dbc:Living_people ;
+	foaf:name	"Jean-Louis Schlesser"@en ;
+	foaf:homepage	<http://www.schlesser-aventures.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Louis_Schlesser,_2013.JPG> ;
+	dct:description	"French racecar driver and constructor"@en ;
+	foaf:givenName	"Jean-Louis"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jean-Louis_Schlesser ;
+	foaf:surname	"Schlesser"@en ;
+	dbp:title	dbr:World_Sportscar_Championship ,
+		"Classic Master"^^xsd:string ,
+		"Car Winner"^^xsd:string ,
+		dbr:Race_of_Champions ,
+		dbr:French_Supertouring_Championship ,
+		dbr:Dakar_Rally ;
+	dbp:years	1999 ,
+		","^^xsd:string ,
+		1985 ,
+		1989 ,
+		1990 ,
+		1994 ;
+	dbo:nationality	dbr:French_Formula_Three_Championship .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jean-Louis_Schlesser	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jean-Louis_Schlesser?oldid=731756977> ;
+	dbp:before	dbr:Jean-Pierre_Fontenay ,
+		dbr:Dany_Snobeck ,
+		"Inaugural event"^^xsd:string ,
+		dbr:Martin_Brundle ;
+	dbp:after	dbr:Marc_Duez ,
+		dbr:Xavier_Lapeyre ,
+		dbr:Jutta_Kleinschmidt ,
+		dbr:Teo_Fabi ;
+	dbp:birthPlace	"Nancy, Meurthe-et-Moselle, France"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jean-Louis_Schlesser	dbp:birthDate	"1948-09-12"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.schlesser-aventures.com/> ,
+		<http://www.grandprix.com/ft/ft00002.html> ,
+		<http://www.africarace.com/> ;
+	dbp:caption	"Schlesser in October 2013"^^xsd:string ;
+	dbo:abstract	"\u30B8\u30E3\u30F3\uFF1D\u30EB\u30A4\u30FB\u30DD\u30FC\u30EB\u30FB\u30B7\u30E5\u30EC\u30C3\u30B5\u30FC\uFF08Jean-Louis Paul Schlesser, 1948\u5E749\u670812\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30E0\u30EB\u30C8\uFF1D\u30A8\uFF1D\u30E2\u30BC\u30EB\u770C\u30CA\u30F3\u30B7\u30FC\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 1989\u5E74\u30FB1990\u5E74\u306B\u306F\u30B6\u30A6\u30D0\u30FC\u30FB\u30E1\u30EB\u30BB\u30C7\u30B9\u3092\u99C6\u308A\u3001\u4E16\u754C\u30B9\u30DD\u30FC\u30C4\u30D7\u30ED\u30C8\u30BF\u30A4\u30D7\u30AB\u30FC\u8010\u4E45\u9078\u624B\u6A29\uFF08WSPC\u3001\u5F8C\u306E\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u4E16\u754C\u9078\u624B\u6A29\uFF08SWC\uFF09\uFF09\u306E\u30B7\u30EA\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3092\u7372\u5F97\u3059\u308B\u306A\u3069\u30011990\u5E74\u4EE3\u524D\u534A\u307E\u3067\u306F\u4E3B\u306B\u30B5\u30FC\u30AD\u30C3\u30C8\u3067\u306E\u30EC\u30FC\u30B9\u3067\u6D3B\u8E8D\u3059\u308B\u30C9\u30E9\u30A4\u30D0\u30FC\u3060\u3063\u305F\u3002 1992\u5E74\u306B\u72EC\u81EA\u958B\u767A\u306E\u30D0\u30AE\u30FC\u3067\u30C0\u30AB\u30FC\u30EB\u30FB\u30E9\u30EA\u30FC\u3078\u306E\u53C2\u6226\u3092\u958B\u59CB\u3002\u4EE5\u5F8C\u30E9\u30EA\u30FC\u30EC\u30A4\u30C9\u306B\u6D3B\u52D5\u306E\u4E3B\u8EF8\u3092\u79FB\u3059\u3088\u3046\u306B\u306A\u308A\u30011999\u5E74\u30FB2000\u5E74\u306B\u306F\u30C0\u30AB\u30FC\u30EB\u30FB\u30E9\u30EA\u30FC\u3067\u7DCF\u5408\u512A\u52DD\u3092\u679C\u305F\u3059\u30022007\u5E74\u307E\u3067\u30C0\u30AB\u30FC\u30EB\u30FB\u30E9\u30EA\u30FC\u3078\u306E\u53C2\u6226\u3092\u7D9A\u3051\u3066\u304D\u305F\u304C\u30012008\u5E74\u306E\u30C0\u30AB\u30FC\u30EB\u30FB\u30E9\u30EA\u30FC\u958B\u50AC\u304C\u4E2D\u6B62\u3068\u306A\u308A2009\u5E74\u306F\u958B\u50AC\u5730\u304C\u5357\u7C73\u306B\u79FB\u3055\u308C\u305F\u5F71\u97FF\u3082\u3042\u3063\u3066\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u898B\u9001\u3063\u3066\u3044\u308B\u3002 \u53D4\u7236\u306E\u30B8\u30E7\u30FC\u30FB\u30B7\u30E5\u30EC\u30C3\u30B5\u30FC\u3082\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Jean-Louis Paul Schlesser (Nancy, 12 de Setembro de 1948) \u00E9 um automobilista franc\u00EAs que disputa atualmente ralis. Em 1983 participou do GP da Fran\u00E7a pela RAM-Ford, mas foi desqualificado. O ingl\u00EAs Martin Brundle faria a segunda corrida substituindo o compatriota Nigel Mansell que se ausentou mais uma vez por problemas de sa\u00FAde, por\u00E9m Brundle estava comprometido com o Mundial de Marcas. A equipe Williams convocou o franc\u00EAs Jean-Louis Schlesser para participar no Grande Pr\u00EAmio da It\u00E1lia em Monza de 1988. O piloto ia fazendo uma corrida disciplinada sem cometer praticamente nenhum erro, mas na 49\u00AA volta, o franc\u00EAs que estava na 11\u00AA posi\u00E7\u00E3o ao olhar pelos retrovisores e perceber a aproxima\u00E7\u00E3o do l\u00EDder da prova, o carro n\u00FAmero 12 da McLaren do brasileiro Ayrton Senna, encostou o seu Williams pela direita para deixar o l\u00EDder executar a ultrapassagem pela esquerda no in\u00EDcio da chicane. Schlesser n\u00E3o queria causar nenhum problema, mas se atrapalhou, freando al\u00E9m do limite do contorno da curva; assim que se livrou dela, o franc\u00EAs passa com o carro na zebra no in\u00EDcio da segunda perna da chicane pegando um pouco de areia; Schlesser n\u00E3o consegue controlar o carro e atinge a parte lateral do carro de Senna que j\u00E1 estava comprometido com a curva. Com o toque, o McLaren do brasileiro d\u00E1 uma levantada fazendo 180\u00BA graus. O carro de Senna fica preso na zebra e o l\u00EDder da prova e praticamente de ponta a ponta abandona enquanto Schlesser concluiu o Grande Pr\u00EAmio.Jean-Louis Schlesser' participou do filme frances Taxi de 1998"@pt ,
+		"Jean-Louis Schlesser (Nancy, Frankrijk, 12 september 1948) is een voormalig autocoureur uit Frankrijk. Hij nam in 1983 en 1988 deel aan 2 Grands Prix Formule 1 voor de teams RAM Racing en Williams, maar scoorde hierin geen punten. Hij is het neefje van Jo Schlesser, eveneens een voormalig Formule 1-coureur.Tegenwoordig houdt JLS zich samen met vriend Rene M\u00E9tge bezig met de Africa Eco Race omdat Dakar nog altijd in Afrika ligt en Rene M\u00E9tge de beste routes kan uitzetten en ze wars zijn van de regeltjes van de ASO"@nl ,
+		"Jean-Louis Schlesser (* 12. September 1948 in Nancy) ist ein franz\u00F6sischer Allround-Automobilrennfahrer und zweifacher Gewinner der Sportwagen-Weltmeisterschaft (1989 und 1990)."@de ,
+		"Vincitore in carriera, tra l'altro, di cinque Coppa del mondo rally raid (dal 1998 al 2002), due Rally Dakar (1999 e 2000) e due Campionati mondiali prototipi (1989 e 1990)"@it ,
+		"Jean-Louis Schlesser (nacido el 12 de septiembre de 1948 en Nancy) es un piloto de automovilismo franc\u00E9s con experiencia tanto en circuitos como en rally raid. Es el sobrino del tambi\u00E9n piloto Jo Schlesser. Se destaca por haber ganado el Campeonato Franc\u00E9s de Superturismos de 1985, el Campeonato Mundial de Resistencia de 1989 y 1990, y el Rally Dakar de 1999 y 2000. Creci\u00F3 en Marruecos y regres\u00F3 a Francia para estudiar y completar el servicio militar. Comenz\u00F3 a competir en carreras en circuitos y fue cocampe\u00F3n de la F\u00F3rmula 3 Francesa junto con Alain Prost. En 1981, gan\u00F3 la F\u00F3rmula 3 Europea. Adem\u00E1s fue segundo en la general y primero en su clase en las 24 Horas de Le Mans con un Rondeau oficial. Schlesser finaliz\u00F3 tercero en el Gran Premio de M\u00F3naco de F\u00F3rmula 3 de 1980 y 1981. En 1982, se pas\u00F3 a la F\u00F3rmula 2 Europea. En 1983 ascendi\u00F3 a la F\u00F3rmula 1 al participar del Gran Premio de Francia por el equipo RAM Racing, sin lograr clasificar. Luego de su fallida incursi\u00F3n en la F\u00F3rmula 1, Schlesser pas\u00F3 a participar en competiciones de turismos y sport prototipos. Gan\u00F3 el Campeonato Franc\u00E9s de Superturismos de 1985 con un Rover Vitesse. En 1987 disput\u00F3 tres carreras del Campeonato Mundial de Turismos para la marca Alfa Romeo, resultando tercero en una de ellas. Tambi\u00E9n disput\u00F3 las 24 Horas de Le Mans desde 1982 hasta 1986 para diversos equipos sin obtener buenos resultados, y pilot\u00F3 para Jaguar en el Campeonato Mundial de Resistencia. Schlesser fue piloto de pruebas del equipo Williams F1 en 1987 y 1988. Volvi\u00F3 a correr en F\u00F3rmula 1 en el Gran Premio de Italia como sustituto de Nigel Mansell. A dos vueltas del final de la carrera, Ayrton Senna de McLaren y Schlesser chocaron en la primera chicana cuando el brasile\u00F1o lideraba e intentaba doblar al franc\u00E9s, haciendo que Ferrari consiguiera el doblete en Monza pocas semanas despu\u00E9s de la muerte de Enzo Ferrari. En 1988, Schlesser fich\u00F3 por el equipo Sauber-Mercedes, ganando la Supercopa Alemana y finalizando segundo en el Campeonato Mundial de Resistencia con tres victorias. Schlesser y Sauber ganaron los t\u00EDtulos de pilotos y equipos del Campeonato Mundial de Resistencia 1989 con cinco triunfos en ocho carreras. En 1990 gan\u00F3 seis de nueve y fue segundo en una, lo que le signific\u00F3 llevarse el t\u00EDtulo de pilotos junto con Mauro Baldi, su compa\u00F1ero de butaca, y el campeonato de equipos a Sauber. Schlesser disput\u00F3 para Sauber las cuatro primeras de la temporada 1991 en la clase C2, ganando tres de ellas, y las cuatro restantes en la clase C1, donde lleg\u00F3 quinto en una carrera y abandon\u00F3 las dem\u00E1s. Schlesser gan\u00F3 el Classic Masters en la Carrera de Campeones de 1994. Tras una primera participaci\u00F3n en 1984, Schlesser particip\u00F3 regularmente en el Rally Dakar a partir de 1989. En 1992, comenz\u00F3 a competir con un buggy de tracci\u00F3n trasera desarrollado por \u00E9l mismo. Con \u00E9l compiti\u00F3 en el Rally Dakar y otras carreras de rally raid. Obtuvo varias victorias de clase y absolutas en la disciplina, hasta lograr la victoria absoluta en el Rally Dakar en 1999 y 2000, adem\u00E1s de ganar el Campeonato del Mundo de Rally Raids entre 1998 y 2002."@es ,
+		"Jean-Louis Schlesser (ur. 12 wrze\u015Bnia 1948 roku w Nancy, Meurthe-et-Moselle) \u2013 francuski kierowca wy\u015Bcigowy i rajdowy. Siostrzeniec Jo Schlessera, r\u00F3wnie\u017C kierowcy wy\u015Bcigowego kt\u00F3ry zgin\u0105\u0142 podczas Grand Prix Francji 1968."@pl ,
+		"Jean-Louis Schlesser (born 12 September 1948) is a French racing driver with experience in circuit racing and cross-country rallying. He is known for his wins of many different competitions. He is the nephew of Jo Schlesser, a former Formula One driver."@en ,
+		"\u0416\u0430\u043D-\u041B\u0443\u0438 \u0428\u043B\u0435\u0441\u0441\u0435\u0301\u0440 (\u0444\u0440. Jean-Louis Schlesser, 12 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1948 \u0433\u043E\u0434\u0430, \u041D\u0430\u043D\u0441\u0438) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0438 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u0442\u0430\u043A\u0436\u0435 \u043F\u043E\u0434 \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435\u043C \u00AB\u041B\u0438\u0441 \u043F\u0443\u0441\u0442\u044B\u043D\u0438\u00BB. \u0414\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0440\u0430\u043B\u043B\u0438 \u041F\u0430\u0440\u0438\u0436-\u0414\u0430\u043A\u0430\u0440. \u041F\u043B\u0435\u043C\u044F\u043D\u043D\u0438\u043A \u0431\u044B\u0432\u0448\u0435\u0433\u043E \u0433\u043E\u043D\u0449\u0438\u043A\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0416\u043E \u0428\u043B\u0435\u0441\u0441\u0435\u0440\u0430."@ru ,
+		"Jean-Louis Schlesser, n\u00E9 le 12 septembre 1948 \u00E0 Nancy, est un pilote automobile fran\u00E7ais. Pilote \u00E9clectique, aussi \u00E0 l'aise sur circuit, o\u00F9 il a \u00E9t\u00E9 deux fois champion du monde de Sport-Prototypes, que sur les pistes africaines, Jean-Louis Schlesser est depuis pr\u00E8s de 20 ans un acteur majeur des rallye-raids, o\u00F9 il cumule les fonctions de pilote et de constructeur, avec \u00E0 son actif deux victoires au rallye Dakar et cinq titres de vainqueur de la Coupe du monde des Rallye-raid"@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Louis_Schlesser,_2013.JPG?width=300> ;
+	dbo:birthDate	"1948-9-12"^^xsd:date ;
+	dbo:wikiPageRevisionID	731756977 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Nancy,_France> ;
+	dbo:wikiPageID	1029728 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Jean-Louis_Schlesser	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1983_French_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1988_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Williams_F1 ,
+		dbr:RAM_Racing .

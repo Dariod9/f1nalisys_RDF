@@ -1,0 +1,219 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1980_British_Grand_Prix>	dbo:fastestDriver	dbr:Didier_Pironi ;
+	dbo:poleDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1982_British_Grand_Prix>	dbo:secondDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1982_Detroit_Grand_Prix>	dbo:thirdDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1980_French_Grand_Prix>	dbo:secondDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1982_French_Grand_Prix>	dbo:thirdDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1982_German_Grand_Prix>	dbo:poleDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1980_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1976_24_Hours_of_Le_Mans__19__1>	dbo:firstDriver	dbr:Didier_Pironi .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Didier_Pironi	foaf:primaryTopic	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1979_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1980_Belgian_Grand_Prix>	dbo:firstDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1982_San_Marino_Grand_Prix>	dbo:fastestDriver	dbr:Didier_Pironi ;
+	dbo:firstDriver	dbr:Didier_Pironi .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bill_Whittington	dbp:before	dbr:Didier_Pironi .
+dbr:Klaus_Ludwig	dbp:before	dbr:Didier_Pironi .
+dbr:Didier	dbo:wikiPageDisambiguates	dbr:Didier_Pironi .
+dbr:Hurley_Haywood	dbp:after	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1980_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Didier_Pironi ;
+	dbo:fastestDriver	dbr:Didier_Pironi .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbr:Didier_Pironi	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Didier_Pironi	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Didier_Pironi	rdf:type	yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Didier_Pironi	rdf:type	wikidata:Q5 ,
+		<http://dbpedia.org/class/yago/WikicatFrenchFormulaRenault2.0Drivers> ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		yago:WikicatAtlanticChampionshipDrivers ,
+		yago:Racer110502576 ,
+		foaf:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Didier_Pironi	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:WikicatLigierFormulaOneDrivers ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		dbo:MotorsportRacer ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:RacingDriver ,
+		yago:PhysicalEntity100001930 ,
+		yago:Operator110378412 ,
+		wikidata:Q24229398 ,
+		yago:Driver110034906 .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Didier_Pironi	rdf:type	ns11:Agent ,
+		wikidata:Q215627 ,
+		dbo:Agent ,
+		ns11:NaturalPerson ,
+		dbo:Athlete ,
+		yago:WikicatFrenchMotorboatRacers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Didier_Pironi	rdfs:label	"\u041F\u0438\u0440\u043E\u043D\u0438, \u0414\u0438\u0434\u044C\u0435"@ru ,
+		"Didier Pironi"@fr ,
+		"Didier Pironi"@es ,
+		"\u30C7\u30A3\u30C7\u30A3\u30A8\u30FB\u30D4\u30ED\u30FC\u30CB"@ja ,
+		"\u062F\u064A\u062F\u064A\u064A\u0647 \u0628\u064A\u0631\u0648\u0646\u064A"@ar ,
+		"Didier Pironi"@pl ,
+		"Didier Pironi"@it ,
+		"Didier Pironi"@nl ,
+		"Didier Pironi"@pt ,
+		"Didier Pironi"@de ,
+		"Didier Pironi"@en ;
+	rdfs:comment	"Didier Pironi (ur. 26 marca 1952, zm. 23 sierpnia 1987) \u2013 francuski kierowca Formu\u0142y 3, Formu\u0142y 2 i Formu\u0142y 1. W Formule 1 zadebiutowa\u0142 w ekipie Tyrrella w roku 1977. Pierwsze zwyci\u0119stwo odni\u00F3s\u0142 w GP Belgii 1980 w barwach stajni Ligier. W ca\u0142ym sezonie 2 razy zdoby\u0142 te\u017C pole position i zaj\u0105\u0142 5. miejsce w klasyfikacji generalnej. Pironi do \u015Bcigania ju\u017C nie wr\u00F3ci\u0142. Zgin\u0105\u0142 w wypadku motor\u00F3wki ko\u0142o wyspy Wight. W Formule 1 odni\u00F3s\u0142 3 zwyci\u0119stwa, 4 pierwsze pola startowe, 13 podi\u00F3w, 5 najszybszych okr\u0105\u017Ce\u0144 i 101 punkt\u00F3w podczas 70 wy\u015Bcig\u00F3w."@pl ,
+		"\u0414\u0438\u0434\u044C\u0435\u0301 \u041F\u0438\u0440\u043E\u043D\u0438\u0301 (\u0444\u0440. Didier Pironi, 26 \u043C\u0430\u0440\u0442\u0430 1952, \u041F\u0430\u0440\u0438\u0436 \u2014 23 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1987, \u043E-\u0432 \u0423\u0430\u0439\u0442) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u0438\u0446\u0435-\u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1982), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u00AB24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB 1978 \u0433\u043E\u0434\u0430."@ru ,
+		"Didier Joseph Louis Pironi (* 26. M\u00E4rz 1952 in Villecresnes; \u2020 23. August 1987 bei Southampton, Vereinigtes K\u00F6nigreich) war ein franz\u00F6sischer Autorennfahrer."@de ,
+		"Didier Joseph Louis Pironi (26 March 1952 \u2013 23 August 1987) was a French racing driver. During his career he competed in 72 Formula One World Championship Grands Prix, driving for Tyrrell (1978\u201379), Ligier (1980) and Ferrari (1981\u20131982). He won the 24 Hours of Le Mans in 1978 driving a Renault Alpine A442B."@en ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u062F\u064A\u062F\u064A\u064A\u0647 \u0628\u064A\u0631\u0648\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 26 \u0645\u0627\u0631\u0633 1952 \u0641\u064A \u0641\u0627\u0644 \u062F\u0648 \u0645\u0627\u0631\u0646\u060C \u0641\u0631\u0646\u0633\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1978. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1978\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0628\u0644\u062C\u064A\u0643\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1980. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 72 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 3 \u0645\u0646\u0647\u0627."@ar ,
+		"Ritiratosi dall'automobilismo a causa di un grave incidente, subito nel corso delle qualifiche del Gran Premio di Germania 1982, \u00E8 poi deceduto durante una gara di motonautica offshore."@it ,
+		"Didier Pironi, (Villecresnes, 26 de mar\u00E7o de 1952 - Southampton, 23 de agosto de 1987), foi um piloto franc\u00EAs de F\u00F3rmula 1 e de lancha off-shore."@pt ,
+		"Didier Pironi est un pilote automobile et motonautique fran\u00E7ais, n\u00E9 \u00E0 Villecresnes en Seine-et-Oise (aujourd'hui en Val-de-Marne), le 26 mars 1952 et mort accidentellement dans une course offshore de bateaux \u00E0 moteurs \u00E0 Poole au Royaume-Uni le 23 ao\u00FBt 1987."@fr ,
+		"Didier Pironi (* Villescresnes, Val-de-Marne, Francia, 26 de marzo de 1952 - \u2020 Poole, Reino Unido, 23 de agosto de 1987) fue un piloto de F\u00F3rmula Uno franc\u00E9s. Benefici\u00E1ndose de la campa\u00F1a que patrocinaba Elf para promover a los talentos j\u00F3venes del automovilismo franc\u00E9s, que hab\u00EDa llevado a luminarias como Patrick Tambay y Alain Prost a la F\u00F3rmula Uno, particip\u00F3 en 72 grandes premios, debutando el 15 de enero de 1978. Didier Pironi gan\u00F3 3 carreras, alcanz\u00F3 13 podios y consigui\u00F3 un total de 101 puntos de campeonato. Tambi\u00E9n obtuvo 4 pole positions."@es ,
+		"Didier Pironi (Parijs, 26 maart 1952 - Southampton (Verenigd Koninkrijk), 23 augustus 1987) was een Franse Formule 1-coureur."@nl ,
+		"\u30C7\u30A3\u30C7\u30A3\u30A8\u30FB\u30B8\u30E7\u30BC\u30D5\uFF1D\u30EB\u30A4\u30FB\u30D4\u30ED\u30FC\u30CB\uFF08Didier Joseph-Louis Pironi \u30011952\u5E743\u670826\u65E5 - 1987\u5E748\u670823\u65E5\uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021978\u5E74\u304B\u30891982\u5E74\u307E\u3067F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3068\u3057\u3066\u6D3B\u52D5\u3057\u305F\u3002"@ja ;
+	dbp:points	101 ;
+	owl:sameAs	dbr:Didier_Pironi ,
+		wikidata:Q171432 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-id:Didier_Pironi .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	yago-res:Didier_Pironi .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-nl:Didier_Pironi ,
+		<http://ja.dbpedia.org/resource/\u30C7\u30A3\u30C7\u30A3\u30A8\u30FB\u30D4\u30ED\u30FC\u30CB> ,
+		<http://viaf.org/viaf/14286753> ,
+		<http://d-nb.info/gnd/1042296995> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-pt:Didier_Pironi ,
+		<http://rdf.freebase.com/ns/m.04jgv7> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-fr:Didier_Pironi .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-cs:Didier_Pironi .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-pl:Didier_Pironi .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-it:Didier_Pironi .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-wikidata:Q171432 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-es:Didier_Pironi .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Didier_Pironi	owl:sameAs	dbpedia-de:Didier_Pironi .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Didier_Pironi	dct:subject	dbc:Tyrrell_Formula_One_drivers ,
+		dbc:Ligier_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:French_people_of_Italian_descent ,
+		dbc:Sport_deaths_in_England ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:French_Formula_One_drivers ,
+		dbc:French_racing_drivers ,
+		<http://dbpedia.org/resource/Category:French_Formula_Renault_2.0_drivers> ,
+		dbc:People_from_Villecresnes ,
+		dbc:Atlantic_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1987_deaths> ,
+		dbc:Motorboat_racers_killed_while_racing ,
+		<http://dbpedia.org/resource/Category:1952_births> ;
+	foaf:name	"Didier Pironi"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Didier_Pironi_1982.jpg> ;
+	dct:description	"French racing driver"@en ;
+	foaf:givenName	"Didier"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Didier_Pironi ;
+	foaf:surname	"Pironi"@en ;
+	dbp:classWins	1 ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners ;
+	dbp:years	dbr:Jean-Pierre_Jaussaud ,
+		1976 ,
+		1977 ,
+		1978 ,
+		"\u2013"^^xsd:string ;
+	dbo:nationality	dbr:France .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Didier_Pironi	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Didier_Pironi?oldid=735609436> ;
+	dbp:before	<http://dbpedia.org/resource/J\u00FCrgen_Barth> ,
+		dbr:Bruno_Giacomelli ,
+		dbr:Jacky_Ickx ,
+		dbr:Hurley_Haywood ;
+	dbp:after	dbr:Elio_de_Angelis ,
+		dbr:Don_Whittington ,
+		dbr:Klaus_Ludwig ,
+		dbr:Bill_Whittington ;
+	dbp:birthPlace	"Villecresnes, Val-de-Marne, France"^^xsd:string ;
+	dbp:deathPlace	"off the Isle of Wight, England, UK"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1980_Belgian_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1982_Dutch_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Didier_Pironi	dbp:birthDate	"1952-03-26"^^xsd:date ;
+	dbp:deathDate	"1987-08-23"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.didierpironi.net/> ,
+		<http://www.pironi.fr/> ;
+	dbp:caption	"Pironi after winning the 1982 Dutch Grand Prix at Zandvoort"^^xsd:string ;
+	dbo:abstract	"Didier Joseph Louis Pironi (26 March 1952 \u2013 23 August 1987) was a French racing driver. During his career he competed in 72 Formula One World Championship Grands Prix, driving for Tyrrell (1978\u201379), Ligier (1980) and Ferrari (1981\u20131982). He won the 24 Hours of Le Mans in 1978 driving a Renault Alpine A442B."@en ,
+		"\u30C7\u30A3\u30C7\u30A3\u30A8\u30FB\u30B8\u30E7\u30BC\u30D5\uFF1D\u30EB\u30A4\u30FB\u30D4\u30ED\u30FC\u30CB\uFF08Didier Joseph-Louis Pironi \u30011952\u5E743\u670826\u65E5 - 1987\u5E748\u670823\u65E5\uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021978\u5E74\u304B\u30891982\u5E74\u307E\u3067F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3068\u3057\u3066\u6D3B\u52D5\u3057\u305F\u3002"@ja ,
+		"Ritiratosi dall'automobilismo a causa di un grave incidente, subito nel corso delle qualifiche del Gran Premio di Germania 1982, \u00E8 poi deceduto durante una gara di motonautica offshore."@it ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u062F\u064A\u062F\u064A\u064A\u0647 \u0628\u064A\u0631\u0648\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 26 \u0645\u0627\u0631\u0633 1952 \u0641\u064A \u0641\u0627\u0644 \u062F\u0648 \u0645\u0627\u0631\u0646\u060C \u0641\u0631\u0646\u0633\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1978. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1978\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0628\u0644\u062C\u064A\u0643\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1980. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 72 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 3 \u0645\u0646\u0647\u0627."@ar ,
+		"Didier Pironi (* Villescresnes, Val-de-Marne, Francia, 26 de marzo de 1952 - \u2020 Poole, Reino Unido, 23 de agosto de 1987) fue un piloto de F\u00F3rmula Uno franc\u00E9s. Benefici\u00E1ndose de la campa\u00F1a que patrocinaba Elf para promover a los talentos j\u00F3venes del automovilismo franc\u00E9s, que hab\u00EDa llevado a luminarias como Patrick Tambay y Alain Prost a la F\u00F3rmula Uno, particip\u00F3 en 72 grandes premios, debutando el 15 de enero de 1978. En dos temporadas con el pobremente financiado equipo Tyrrell demostr\u00F3 suficiente potencial para que Guy Ligier lo contratara para su irregular equipo franc\u00E9s en 1980. No obstante, Pironi se las arregl\u00F3 para obtener su primera victoria, en el Gran Premio de B\u00E9lgica en Zolder, as\u00ED como varios finales en el podio. De hecho, tal era el desempe\u00F1o de Pironi, que tras su segunda carrera en la temporada, Enzo Ferrari expres\u00F3 inter\u00E9s en contar con sus servicios, algo que se hizo efectivo en la temporada 1981. Formando equipo con el incre\u00EDble Gilles Villeneuve, Pironi estuvo m\u00E1s bien ensombrecido en su primera temporada con Ferrari; para alguien que estaba tan preocupado en convertirse en el primer piloto franc\u00E9s en ganar el t\u00EDtulo de F\u00F3rmula uno, los eventos de ese a\u00F1o podr\u00EDan haber jugado un papel importante en la turbulenta e irregular campa\u00F1a de 1982. Tras establecer una buena relaci\u00F3n con los miembros de mayor antig\u00FCedad del equipo, se presume que Pironi sac\u00F3 provecho de ello en la memorable carrera del Gran Premio de San Marino de 1982, en la cual habr\u00EDa enga\u00F1ado a Villenueve para que concediera la victoria dando la impresi\u00F3n de que seguir\u00EDa a su compa\u00F1ero de equipo durante la \u00FAltima vuelta, solo para inesperadamente rebasarlo a \u00FAltima momento. La amistad de Pironi con los altos jerarcas del equipo brind\u00F3 respaldo a su dudosa historia de \"problemas mec\u00E1nicos\" para desgracia de Villenueve. El canadiense morir\u00EDa tr\u00E1gicamente en las rondas calificatorias durante la siguiente carrera, y su alterado estado de \u00E1nimo por el incidente con Pironi frecuentemente se considera como un factor determinante en su accidente. Con un veh\u00EDculo r\u00E1pido y confiable, el t\u00EDtulo parec\u00EDa estar al alcance de Pironi. No obstante, el estado mental del franc\u00E9s se vio sujeto a una severa tensi\u00F3n por la antipat\u00EDa que algunos le tomaron tras la tragedia de Zolder, la desintegraci\u00F3n de su matrimonio, y el observar en primera plana la muerte de Riccardo Paletti en el Gran Premio de Canad\u00E1, en el cual el joven italiano colision\u00F3 contra el Ferrari de Pironi detenido en la l\u00EDnea de largada. Algunos de estos eventos podr\u00EDan haber resultado en la altaner\u00EDa y arrogancia que sus compa\u00F1eros de equipo reportaron haber observado en el comportamiento de Pironi en los eventos subsecuentes (incluyendo una certeza absoluta de que ganar\u00EDa el t\u00EDtulo), y en tal estado mental, que lleg\u00F3 a girar sin sentido a altas velocidades en un Hockenheim empapado durante una sesi\u00F3n de pr\u00E1ctica en el Gran Premio de Alemania. Tras rebasar el Williams de Derek Daly, Pironi, sin ser visto, se estrell\u00F3 contra la retaguardia del Renault de Alain Prost, desencadenando un violento accidente similar al que hab\u00EDa sufrido Villenueve. Pironi sobrevivi\u00F3, pero las heridas en sus piernas le impedir\u00EDan volver a competir durante 1982. A pesar del accidente, termin\u00F3 en segundo lugar en el campeonato de 1982, una sombra de lo que pudo haber sido. En 1986 todo indicaba que Pironi regresar\u00EDa a las pistas. Intent\u00F3 calificar para el equipo Franc\u00E9s AGS, y demostr\u00F3 que todav\u00EDa era lo suficientemente r\u00E1pido para ser competitivo en F\u00F3rmula Uno. Pero cuando no pudo encontrar un lugar en un buen equipo en 1987, prefiri\u00F3 dedicarse a las carreras moton\u00E1uticas. El 23 de agosto de 1987, Didier Pironi falleci\u00F3 en un accidente a bordo de una embarcaci\u00F3n de carrera que tambi\u00E9n cobrar\u00EDa la vida de sus copilotos, el periodista Bernard Giroux y su viejo amigo Jean-Claude Guenard en el bote llamado\"Colibri 4\". Unas semanas m\u00E1s tarde de su muerte, la novia de Pironi dio luz a dos gemelos, los llam\u00F3 Didier y Gilles. Didier Pironi gan\u00F3 3 carreras, alcanz\u00F3 13 podios y consigui\u00F3 un total de 101 puntos de campeonato. Tambi\u00E9n obtuvo 4 pole positions."@es ,
+		"Didier Pironi, (Villecresnes, 26 de mar\u00E7o de 1952 - Southampton, 23 de agosto de 1987), foi um piloto franc\u00EAs de F\u00F3rmula 1 e de lancha off-shore."@pt ,
+		"Didier Pironi (Parijs, 26 maart 1952 - Southampton (Verenigd Koninkrijk), 23 augustus 1987) was een Franse Formule 1-coureur."@nl ,
+		"Didier Joseph Louis Pironi (* 26. M\u00E4rz 1952 in Villecresnes; \u2020 23. August 1987 bei Southampton, Vereinigtes K\u00F6nigreich) war ein franz\u00F6sischer Autorennfahrer."@de ,
+		"Didier Pironi (ur. 26 marca 1952, zm. 23 sierpnia 1987) \u2013 francuski kierowca Formu\u0142y 3, Formu\u0142y 2 i Formu\u0142y 1. W Formule 1 zadebiutowa\u0142 w ekipie Tyrrella w roku 1977. Pierwsze zwyci\u0119stwo odni\u00F3s\u0142 w GP Belgii 1980 w barwach stajni Ligier. W ca\u0142ym sezonie 2 razy zdoby\u0142 te\u017C pole position i zaj\u0105\u0142 5. miejsce w klasyfikacji generalnej. W 1981 przeszed\u0142 do Ferrari, w barwach kt\u00F3rego wygra\u0142 GP San Marino na torze Imola. Po Grand Prix zosta\u0142 oskar\u017Cony przez partnera z zespo\u0142u, Gilles'a Villeneuve'a o niestosowanie si\u0119 do polece\u0144 teamu \u2013 na kilka okr\u0105\u017Ce\u0144 przed met\u0105 pewny podw\u00F3jnego zwyci\u0119stwa zesp\u00F3\u0142 nakaza\u0142 kierowcom zwolni\u0107 i dojecha\u0107 do mety (na prowadzeniu znajdowa\u0142 si\u0119 Kanadyjczyk). Villeneuve pos\u0142ucha\u0142 i zwolni\u0142, Pironi nie zmniejszy\u0142 pr\u0119dko\u015Bci jazdy i wyprzedzi\u0142 koleg\u0119 tu\u017C przed met\u0105. Obra\u017Cony Villeneuve zapowiedzia\u0142, \u017Ce nigdy wi\u0119cej nie odezwie si\u0119 do Pironiego. Rzeczywi\u015Bcie tak si\u0119 sta\u0142o \u2013 Kanadyjczyk zgin\u0105\u0142 w wypadku w nast\u0119pnym wy\u015Bcigu. Po \u015Bmierci Gilles'a Villeneuve'a Didier Pironi zosta\u0142 pierwszym kierowc\u0105 Ferrari i wygra\u0142 Grand Prix Holandii. Prowadzi\u0142 w klasyfikacji mistrzostw z du\u017C\u0105 przewag\u0105, ale podczas Grand Prix Niemiec spowodowa\u0142 wypadek, w kt\u00F3rym odni\u00F3s\u0142 obra\u017Cenia n\u00F3g, przez co nie m\u00F3g\u0142 wykonywa\u0107 mocnych hamowa\u0144 i musia\u0142 wycofa\u0107 si\u0119 z dalszej rywalizacji, przynajmniej do ko\u0144ca sezonu. 39 punkt\u00F3w, kt\u00F3re zebra\u0142 przez niewiele ponad p\u00F3\u0142 sezonu wystarczy\u0142o mu do tytu\u0142u wicemistrza (mistrzem zosta\u0142 Keke Rosberg, kt\u00F3ry zgromadzi\u0142 44 punkty). Pironi do \u015Bcigania ju\u017C nie wr\u00F3ci\u0142. Zgin\u0105\u0142 w wypadku motor\u00F3wki ko\u0142o wyspy Wight. W Formule 1 odni\u00F3s\u0142 3 zwyci\u0119stwa, 4 pierwsze pola startowe, 13 podi\u00F3w, 5 najszybszych okr\u0105\u017Ce\u0144 i 101 punkt\u00F3w podczas 70 wy\u015Bcig\u00F3w."@pl ,
+		"\u0414\u0438\u0434\u044C\u0435\u0301 \u041F\u0438\u0440\u043E\u043D\u0438\u0301 (\u0444\u0440. Didier Pironi, 26 \u043C\u0430\u0440\u0442\u0430 1952, \u041F\u0430\u0440\u0438\u0436 \u2014 23 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1987, \u043E-\u0432 \u0423\u0430\u0439\u0442) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u0438\u0446\u0435-\u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1982), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u00AB24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB 1978 \u0433\u043E\u0434\u0430."@ru ,
+		"Didier Pironi est un pilote automobile et motonautique fran\u00E7ais, n\u00E9 \u00E0 Villecresnes en Seine-et-Oise (aujourd'hui en Val-de-Marne), le 26 mars 1952 et mort accidentellement dans une course offshore de bateaux \u00E0 moteurs \u00E0 Poole au Royaume-Uni le 23 ao\u00FBt 1987."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Didier_Pironi_1982.jpg?width=300> ;
+	dbo:birthDate	"1952-3-26"^^xsd:date ;
+	dbo:deathDate	"1987-8-23"^^xsd:date ;
+	dbo:deathPlace	dbr:Isle_of_Wight ;
+	dbo:wikiPageRevisionID	735609436 ;
+	dbo:birthPlace	dbr:Villecresnes ;
+	dbo:wikiPageID	1219767 .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+dbr:Didier_Pironi	dbp:bestFinish	"1.0"^^ns28:stone .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Didier_Pironi	ns29:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"5"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1978_Argentine_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1982_German_Grand_Prix> ;
+	dbo:podiums	"13"^^xsd:nonNegativeInteger ;
+	dbo:poles	"4"^^xsd:nonNegativeInteger ;
+	dbo:races	"72"^^xsd:nonNegativeInteger ;
+	dbo:wins	"3"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Porsche Kremer Racing, J. Haran de Chaunac, Renault Sport, BMW France"^^xsd:string ,
+		dbr:Tyrrell_Racing ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Equipe_Ligier .
+dbr:Jean-Pierre_Jaussaud	dbp:years	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1981_Caesars_Palace_Grand_Prix>	dbo:fastestDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1982_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Didier_Pironi ;
+	dbo:poleDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1980_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Didier_Pironi .
+dbr:Elio_de_Angelis	dbp:before	dbr:Didier_Pironi .
+dbr:Tyrrell_Racing	dbp:drivers	dbr:Didier_Pironi .
+dbr:Bruno_Giacomelli	dbp:after	dbr:Didier_Pironi .
+dbr:Jacky_Ickx	dbp:after	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1979_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1980_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/J\u00FCrgen_Barth>	dbp:after	dbr:Didier_Pironi .
+dbr:Don_Whittington	dbp:before	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1980_Monaco_Grand_Prix>	dbo:poleDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1982_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Didier_Pironi .
+<http://dbpedia.org/resource/1982_Dutch_Grand_Prix>	dbo:firstDriver	dbr:Didier_Pironi .

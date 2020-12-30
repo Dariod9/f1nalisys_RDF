@@ -1,0 +1,200 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Alexander_Yoong	dbo:wikiPageRedirects	dbr:Alex_Yoong .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2005\u201306_A1_Grand_Prix_of_Nations,_China>	dbp:flDriver	dbr:Alex_Yoong ;
+	dbp:poleDriver	dbr:Alex_Yoong ;
+	dbp:sprint1stDriver	dbr:Alex_Yoong ;
+	dbp:main2ndDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/2000_Macau_Grand_Prix__Swiss_Racing_Team__1>	dbo:firstDriver	dbr:Alex_Yoong .
+dbr:A1_Team_Malaysia__2005-06__3	dbo:firstDriver	dbr:Alex_Yoong .
+dbr:A1_Team_Malaysia__2006-07__2	dbo:firstDriver	dbr:Alex_Yoong .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Alex_Yoong	foaf:primaryTopic	dbr:Alex_Yoong .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Alex_Yoong	rdf:type	dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Alex_Yoong	rdf:type	umbel-rc:RaceCarDriver .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Alex_Yoong	rdf:type	yago:WikicatEuropeanLeMansSeriesDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Alex_Yoong	rdf:type	wikidata:Q5 ,
+		yago:WikicatFormulaNipponDrivers ,
+		yago:WikicatItalianFormulaThreeChampionshipDrivers ,
+		wikidata:Q378622 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatChampCarDrivers .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Alex_Yoong	rdf:type	ns9:Agent ,
+		yago:WikicatGP2AsiaSeriesDrivers ,
+		foaf:Person ,
+		yago:WikicatGP2SeriesDrivers ,
+		yago:WikicatA1TeamMalaysiaDrivers ,
+		yago:WikicatMalaysianFormulaOneDrivers ,
+		yago:WikicatSpeedcarSeriesDrivers ,
+		ns9:NaturalPerson ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Alex_Yoong	rdf:type	schema:Person ,
+		wikidata:Q215627 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatAutoGPWorldSeriesDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Alex_Yoong	rdf:type	owl:Thing ,
+		dbo:Agent ,
+		yago:WikicatV8SupercarDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		dbo:Athlete ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:Driver110034906 ,
+		yago:WikicatMinardiFormulaOneDrivers ,
+		yago:Operator110378412 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Alex_Yoong	rdfs:label	"Alex Yoong"@en ,
+		"Alex Yoong"@it ,
+		"Alex Yoong"@nl ,
+		"Alex Yoong"@de ,
+		"Alex Yoong"@pt ,
+		"\u30A2\u30EC\u30C3\u30AF\u30B9\u30FB\u30E6\u30FC\u30F3"@ja ,
+		"Alex Yoong"@es ,
+		"\u0419\u043E\u043D\u0433, \u0410\u043B\u0435\u043A\u0441"@ru ,
+		"Alex Yoong"@fr ,
+		"\u718A\u9F8D"@zh ,
+		"Alex Yoong"@pl ;
+	rdfs:comment	"Alex Yoong (* 20. Juli 1976 in Kuala Lumpur; eigentlich Alexander Charles Loong Yoong) ist ein malaysischer Automobilrennfahrer. Zu ersten sportlichen Erfolgen kam Yoong, als er dreifacher malaysischer Meister im Wasserski wurde."@de ,
+		"Alexander Charles Loong Yoong (Chin\u00EAs simplificado: \u718A\u9F99; Chin\u00EAs tradicional: \u718A\u9F8D (Kuala Lumpur, 20 de julho de 1976) \u00E9 um piloto malaio de corridas. Filho de m\u00E3e inglesa e pai chin\u00EAs de origem malaia, Yoong foi o \u00FAnico malaio a atuar na F\u00F3rmula 1, tendo pilotado na categoria entre 2001 e 2002, pela Minardi. Atualmente, ele est\u00E1 casado com Arriana Teoh e tem um filho, Alister, nascido em 2003."@pt ,
+		"(This is a Chinese name; the family name is Yoong (\u718A).) Alexander Charles Yoong Loong (simplified Chinese: \u718A\u9F99; traditional Chinese: \u718A\u9F8D; pinyin: Xi\u00F3ng L\u00F3ng, (born 20 July 1976), is a Malaysian Chinese professional racing driver of Han Chinese and English parentage."@en ,
+		"\u718A\u9F8D\uFF08Alex Yoong\uFF09\uFF081976\u5E747\u670820\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u99AC\u4F86\u897F\u4E9E\u7C4D\u83EF\u88D4\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u8ECA\u624B\uFF0C\u5176\u7236\u89AA\u70BA\u7576\u5730\u83EF\u4EBA\u718A\u82F1\u83EF\uFF0C\u6BCD\u89AA\u70BA\u82F1\u570B\u4EBA\u3002\u6709\u4E00\u59B9\u59B9Philippa Yoong\u3002 \u4ED6\u4E03\u6B72\u958B\u59CB\u63A5\u89F8\u8CFD\u8ECA\uFF0C\u5176\u5F8C\u66FE\u53C3\u52A0\u4E0D\u5C11\u65B9\u7A0B\u5F0F\u6BD4\u8CFD\u3002\u5305\u62EC\u82F1\u570B\u4E09\u7D1A\u65B9\u7A0B\u5F0F\u3001\u6B50\u6D32F3000\u53CA\u65E5\u672C\u65B9\u7A0B\u5F0F\u3002\u81F32001\u5E747\u6708\uFF0C\u718A\u9F8D\u5F97\u5230\u99AC\u4F86\u897F\u4E9E\u653F\u5E9C\u53CA\u842C\u80FD\u5F69\u7968\u516C\u53F8(Magnum)\u7684\u652F\u6301\uFF0C\u52A0\u5165\u4E86\u610F\u5927\u5229\u7C73\u7D0D\u723E\u8FEAF1\u8ECA\u968A\uFF0C\u65BC2001\u5E74\u8CFD\u5B63\u66FE\u53C3\u52A0\u6700\u5F8C\u4E09\u500B\u5206\u7AD9\u8CFD\u4E8B\uFF0C\u53CA2002\u5E74\u8CFD\u5B63\u9664\u6BD4\u5229\u6642\u7AD9\u5916\u6240\u6709\u5206\u7AD9\u8CFD\u4E8B\uFF0C\u4E4B\u5F8C\u4ED6\u7684\u4F4D\u7F6E\u88AB\u82F1\u570B\u8ECA\u624B\u5B89\u6771\u5C3C\u00B7\u6234\u7DAD\u68EE\u6240\u66FF\u4EE3\u3002\u4E4B\u5F8C\u718A\u9F8D\u53C3\u52A0\u4E86\u56DB\u5834Champ Car\u8CFD\u8ECA\u3002 \u718A\u9F8D\u73FE\u5728\u662F\u99AC\u4F86\u897F\u4E9EA1GP\u8ECA\u968A\u5169\u4F4D\u8ECA\u624B\u7684\u5176\u4E2D\u4E00\u4F4D\u3002 \u718A\u9F8D\u662F\u5168\u7403\u773E\u591A\u83EF\u88D4\u8ECA\u624B\u4E2D\uFF0C\u7B2C\u4E00\u500B\u53C3\u52A0F1\u6B63\u5F0F\u6BD4\u8CFD\u7684\u83EF\u4EBA\u3002"@zh ,
+		"Alexander Charles Loong Yoong ou plus couramment Alex Yoong (n\u00E9 le 20 juillet 1976 \u00E0 Kuala Lumpur, Malaisie) est un pilote automobile malaisien, qui a fait une courte carri\u00E8re en Formule 1 et reste aujourd'hui le seul repr\u00E9sentant de son pays \u00E0 avoir couru en Grand Prix."@fr ,
+		"Alexander Charles Loong \u201EAlex\u201D Yoong (chi\u0144. upr.: \u718A\u9F99; chi\u0144. trad.: \u718A\u9F8D; pinyin: Xi\u00F3ng L\u00F3ng; ur. 20 lipca 1976 roku w Kuala Lumpur) \u2013 malezyjski kierowca wy\u015Bcigowy."@pl ,
+		"Alex Yoong (\u718A\u9F8D, pinyin: Xi\u00F3ng L\u00F3ng, 20 juli 1976) is een Maleisisch autocoureur. Hij was de eerste coureur uit Maleisi\u00EB en de eerste etnisch-Chinese coureur in de Formule 1. Gesteund door de Maleisische loterij Magnum kreeg Yoong de kans om in 2001 drie Formule 1 races te rijden voor het Minardi-team. Hij debuteerde in de Grand Prix van Itali\u00EB. De overeenkomst werd verlengd voor het hele seizoen 2002. Ondanks een goede start, een zevende plaats in de Grand Prix van Australi\u00EB, lukte het Yoong niet om competitief te zijn. Nadat hij zich een aantal keren niet wist te plaatsen voor de race, werd hij in twee wedstrijden vervangen door Anthony Davidson. Hoewel Yoong zich later dat seizoen iets verbeterde, bleven zijn prestaties mager. Aan het einde van het seizoen 2002 werd zijn contract niet ve"@nl ,
+		"Alex Yoong (nacido el 20 de julio de 1976 en Kuala Lumpur, Malasia) es un ex piloto de F\u00F3rmula 1, siendo el primer malayo en correr en la m\u00E1xima categor\u00EDa del automovilismo mundial. Yoong hizo su debut en la F1 justamente en el Gran Premio de Italia de la temporada 2001, reemplazando al brasile\u00F1o Tarso Marques en la escuder\u00EDa de Minardi, siendo compa\u00F1ero de Fernando Alonso. Tambi\u00E9n disput\u00F3 la temporada 2002 con el equipo italiano. Su mejor resultado fue un 7\u00BA en Melbourne, pero no le sirvi\u00F3 para ganarse la continuidad en el equipo y abandon\u00F3 la categor\u00EDa."@es ,
+		"\u30A2\u30EC\u30AF\u30B5\u30F3\u30C0\u30FC\u30FB\u30C1\u30E3\u30FC\u30EB\u30BA\u30FB\u30EB\u30FC\u30F3\u30FB\u30E6\u30FC\u30F3\uFF08Alexander Charles Loong Yoong, \u4E2D\u56FD\u540D: \u718A\u9F8D, 1976\u5E747\u670820\u65E5-\uFF09\u306F\u3001\u30DE\u30EC\u30FC\u30B7\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30022001\u5E74\u306B\u30DE\u30EC\u30FC\u30B7\u30A2\u4EBA\u3068\u3057\u3066\u306F\u3058\u3081\u3066\u306EF1\u30C7\u30D3\u30E5\u30FC\u3092\u679C\u305F\u3057\u305F\u3002"@ja ,
+		"\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440 \u0427\u0430\u0440\u043B\u044C\u0437 \u041B\u0443\u043D \u0421\u044E\u043D (\u0442\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043A \u0410\u043B\u0435\u043A\u0441 \u0419\u043E\u043D\u0433, \u043A\u0438\u0442\u0430\u0439\u0441\u043A\u043E\u0435 \u0438\u043C\u044F \u2014 \u0421\u044E\u043D \u041B\u0443\u043D) (\u0430\u043D\u0433\u043B. Alexander Charles Loong Yoong, \u043A\u0438\u0442. \u0442\u0440\u0430\u0434. \u718A\u9F8D, \u0443\u043F\u0440. \u718A\u9F99, \u043F\u0438\u043D\u044C\u0438\u043D\u044C: Xi\u00F3ng L\u00F3ng, \u043F\u0430\u043B\u043B.: \u0421\u044E\u043D \u041B\u0443\u043D, 20 \u0438\u044E\u043B\u044F 1976, \u041A\u0443\u0430\u043B\u0430-\u041B\u0443\u043C\u043F\u0443\u0440) \u2014 \u043C\u0430\u043B\u0430\u0439\u0437\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0421\u044B\u043D \u0430\u043D\u0433\u043B\u0438\u0447\u0430\u043D\u043A\u0438 \u0414\u0436\u043E\u0430\u043D\u043D\u044B \u0411\u0438\u043D \u0438 \u043C\u0430\u043B\u0430\u0439\u0437\u0438\u0439\u0446\u0430 \u043A\u0438\u0442\u0430\u0439\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0431\u044B\u0432\u0448\u0435\u0433\u043E \u043C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u0430 \u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u044B \u0428\u0430\u0445-\u0410\u043B\u0430\u043C \u0425\u0430\u043D\u0438\u0444\u0430 \u0421\u044E\u043D \u0418\u043D\u0445\u0443\u0430 (\u718A\u82F1\u83EF, Hanifah Yoong Yin Fah)."@ru .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Alex_Yoong	dbp:birthDate	"1976-07-20"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	yago-res:Alex_Yoong .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-wikidata:Q172006 ,
+		<http://rdf.freebase.com/ns/m.03b68s> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-pl:Alex_Yoong .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-it:Alex_Yoong ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30EC\u30C3\u30AF\u30B9\u30FB\u30E6\u30FC\u30F3> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-pt:Alex_Yoong .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-id:Alex_Yoong .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-es:Alex_Yoong ,
+		wikidata:Q172006 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-fr:Alex_Yoong .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-de:Alex_Yoong .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-nl:Alex_Yoong ,
+		dbr:Alex_Yoong .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Alex_Yoong	owl:sameAs	dbpedia-cs:Alex_Yoong .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Alex_Yoong	dct:subject	dbc:Sportspeople_from_Kuala_Lumpur ,
+		dbc:Asian_Le_Mans_Series_drivers ,
+		dbc:A1_Grand_Prix_team_owners ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:Champ_Car_drivers ,
+		dbc:European_Le_Mans_Series_drivers ,
+		dbc:Formula_Nippon_drivers ,
+		dbc:Malaysian_Formula_One_drivers ,
+		dbc:Auto_GP_drivers ,
+		dbc:Malaysian_people_of_Chinese_descent ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:Malaysian_racing_drivers ,
+		dbc:Italian_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Living_people ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Speedcar_Series_drivers ,
+		dbc:Malaysian_people_of_English_descent ,
+		dbc:V8_Supercar_drivers ,
+		dbc:GP2_Asia_Series_drivers ,
+		dbc:A1_Team_Malaysia_drivers ,
+		dbc:Malaysian_Protestants ,
+		<http://dbpedia.org/resource/Category:1976_births> ;
+	foaf:name	"Alex Yoong"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/AlexYoong.JPG> ;
+	dct:description	"Malaysian racing driver"@en ;
+	foaf:givenName	"Alex"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Alex_Yoong ;
+	foaf:surname	"Yoong"@en ;
+	dbp:quote	"\"Ironically, my entry into F1 did very little to promote motorsports in the country. Malaysia had a very limited motorsports scene back then and the focus completely disappeared from local events. We needed more Grade-II circuits, which were missing\""^^xsd:string ;
+	dbp:points	0 ;
+	dbp:years	"\u2013"^^xsd:string ,
+		2014 ;
+	dbp:after	"Incumbent"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Alex_Yoong	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Alex_Yoong?oldid=745138581> ;
+	dbo:wikiPageExternalLink	<http://www.alexyoong.com> ;
+	dbp:caption	"Yoong at an A1 Grand Prix series meeting"^^xsd:string ;
+	dbp:nationality	"Malaysian"^^xsd:string ;
+	dbp:align	"right"^^xsd:string ;
+	dbp:birthName	"Alexander Charles Yoong Loong"^^xsd:string ;
+	dbp:birthPlace	"Kuala Lumpur, Malaysia"^^xsd:string ;
+	dbp:before	dbr:Adderly_Fong ;
+	dbp:teams	dbr:Minardi ;
+	dbp:s	"\u718A\u9F99"^^xsd:string ;
+	dbo:abstract	"\u718A\u9F8D\uFF08Alex Yoong\uFF09\uFF081976\u5E747\u670820\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u99AC\u4F86\u897F\u4E9E\u7C4D\u83EF\u88D4\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u8ECA\u624B\uFF0C\u5176\u7236\u89AA\u70BA\u7576\u5730\u83EF\u4EBA\u718A\u82F1\u83EF\uFF0C\u6BCD\u89AA\u70BA\u82F1\u570B\u4EBA\u3002\u6709\u4E00\u59B9\u59B9Philippa Yoong\u3002 \u4ED6\u4E03\u6B72\u958B\u59CB\u63A5\u89F8\u8CFD\u8ECA\uFF0C\u5176\u5F8C\u66FE\u53C3\u52A0\u4E0D\u5C11\u65B9\u7A0B\u5F0F\u6BD4\u8CFD\u3002\u5305\u62EC\u82F1\u570B\u4E09\u7D1A\u65B9\u7A0B\u5F0F\u3001\u6B50\u6D32F3000\u53CA\u65E5\u672C\u65B9\u7A0B\u5F0F\u3002\u81F32001\u5E747\u6708\uFF0C\u718A\u9F8D\u5F97\u5230\u99AC\u4F86\u897F\u4E9E\u653F\u5E9C\u53CA\u842C\u80FD\u5F69\u7968\u516C\u53F8(Magnum)\u7684\u652F\u6301\uFF0C\u52A0\u5165\u4E86\u610F\u5927\u5229\u7C73\u7D0D\u723E\u8FEAF1\u8ECA\u968A\uFF0C\u65BC2001\u5E74\u8CFD\u5B63\u66FE\u53C3\u52A0\u6700\u5F8C\u4E09\u500B\u5206\u7AD9\u8CFD\u4E8B\uFF0C\u53CA2002\u5E74\u8CFD\u5B63\u9664\u6BD4\u5229\u6642\u7AD9\u5916\u6240\u6709\u5206\u7AD9\u8CFD\u4E8B\uFF0C\u4E4B\u5F8C\u4ED6\u7684\u4F4D\u7F6E\u88AB\u82F1\u570B\u8ECA\u624B\u5B89\u6771\u5C3C\u00B7\u6234\u7DAD\u68EE\u6240\u66FF\u4EE3\u3002\u4E4B\u5F8C\u718A\u9F8D\u53C3\u52A0\u4E86\u56DB\u5834Champ Car\u8CFD\u8ECA\u3002 \u718A\u9F8D\u73FE\u5728\u662F\u99AC\u4F86\u897F\u4E9EA1GP\u8ECA\u968A\u5169\u4F4D\u8ECA\u624B\u7684\u5176\u4E2D\u4E00\u4F4D\u3002 \u718A\u9F8D\u662F\u5168\u7403\u773E\u591A\u83EF\u88D4\u8ECA\u624B\u4E2D\uFF0C\u7B2C\u4E00\u500B\u53C3\u52A0F1\u6B63\u5F0F\u6BD4\u8CFD\u7684\u83EF\u4EBA\u3002"@zh ,
+		"\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440 \u0427\u0430\u0440\u043B\u044C\u0437 \u041B\u0443\u043D \u0421\u044E\u043D (\u0442\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043A \u0410\u043B\u0435\u043A\u0441 \u0419\u043E\u043D\u0433, \u043A\u0438\u0442\u0430\u0439\u0441\u043A\u043E\u0435 \u0438\u043C\u044F \u2014 \u0421\u044E\u043D \u041B\u0443\u043D) (\u0430\u043D\u0433\u043B. Alexander Charles Loong Yoong, \u043A\u0438\u0442. \u0442\u0440\u0430\u0434. \u718A\u9F8D, \u0443\u043F\u0440. \u718A\u9F99, \u043F\u0438\u043D\u044C\u0438\u043D\u044C: Xi\u00F3ng L\u00F3ng, \u043F\u0430\u043B\u043B.: \u0421\u044E\u043D \u041B\u0443\u043D, 20 \u0438\u044E\u043B\u044F 1976, \u041A\u0443\u0430\u043B\u0430-\u041B\u0443\u043C\u043F\u0443\u0440) \u2014 \u043C\u0430\u043B\u0430\u0439\u0437\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0421\u044B\u043D \u0430\u043D\u0433\u043B\u0438\u0447\u0430\u043D\u043A\u0438 \u0414\u0436\u043E\u0430\u043D\u043D\u044B \u0411\u0438\u043D \u0438 \u043C\u0430\u043B\u0430\u0439\u0437\u0438\u0439\u0446\u0430 \u043A\u0438\u0442\u0430\u0439\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0431\u044B\u0432\u0448\u0435\u0433\u043E \u043C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u0430 \u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u0442\u0440\u0430\u0441\u0441\u044B \u0428\u0430\u0445-\u0410\u043B\u0430\u043C \u0425\u0430\u043D\u0438\u0444\u0430 \u0421\u044E\u043D \u0418\u043D\u0445\u0443\u0430 (\u718A\u82F1\u83EF, Hanifah Yoong Yin Fah)."@ru ,
+		"Alex Yoong (\u718A\u9F8D, pinyin: Xi\u00F3ng L\u00F3ng, 20 juli 1976) is een Maleisisch autocoureur. Hij was de eerste coureur uit Maleisi\u00EB en de eerste etnisch-Chinese coureur in de Formule 1. Gesteund door de Maleisische loterij Magnum kreeg Yoong de kans om in 2001 drie Formule 1 races te rijden voor het Minardi-team. Hij debuteerde in de Grand Prix van Itali\u00EB. De overeenkomst werd verlengd voor het hele seizoen 2002. Ondanks een goede start, een zevende plaats in de Grand Prix van Australi\u00EB, lukte het Yoong niet om competitief te zijn. Nadat hij zich een aantal keren niet wist te plaatsen voor de race, werd hij in twee wedstrijden vervangen door Anthony Davidson. Hoewel Yoong zich later dat seizoen iets verbeterde, bleven zijn prestaties mager. Aan het einde van het seizoen 2002 werd zijn contract niet verlengd. In totaal heeft hij 15 races in de Formule 1 gereden, met een zevende plaats in de Grand Prix van Australi\u00EB en een tiende plaats in de Grand Prix van Frankrijk als beste resultaten. In 2003 reed Yoong in de Amerikaanse Champcar-series. Door financi\u00EBle problemen van zijn team werd het seizoen voor hem voortijdig be\u00EBindigd. In 2004 reed hij enkele wedstrijden in de Australische V8 Supercar-series, maar ook hier wist hij geen indruk te maken. In zijn thuisland Maleisi\u00EB bleef hij onveranderd populair. Hij werkte enige tijd als verslaggever voor de Formule 1 voor de Maleisische televisie. In de seizoenen 2005-2006 en 2006-2007 reed hij namens Maleisi\u00EB mee in de A1GP-series. Dit deed hij meer verdienstelijk, met 4 overwinningen en een 5e (2006) en 6e (2007) plek op ranglijst."@nl ,
+		"Alexander Charles Loong Yoong (Chin\u00EAs simplificado: \u718A\u9F99; Chin\u00EAs tradicional: \u718A\u9F8D (Kuala Lumpur, 20 de julho de 1976) \u00E9 um piloto malaio de corridas. Filho de m\u00E3e inglesa e pai chin\u00EAs de origem malaia, Yoong foi o \u00FAnico malaio a atuar na F\u00F3rmula 1, tendo pilotado na categoria entre 2001 e 2002, pela Minardi. Atualmente, ele est\u00E1 casado com Arriana Teoh e tem um filho, Alister, nascido em 2003."@pt ,
+		"(This is a Chinese name; the family name is Yoong (\u718A).) Alexander Charles Yoong Loong (simplified Chinese: \u718A\u9F99; traditional Chinese: \u718A\u9F8D; pinyin: Xi\u00F3ng L\u00F3ng, (born 20 July 1976), is a Malaysian Chinese professional racing driver of Han Chinese and English parentage. Yoong began his career in saloon cars before moving into the Proton one-make series. He later raced in single-seater cars where he won the Malaysian Championship in 1995. He moved into Formula Renault in 1996 with help from sponsors but finished outside the top-10. Yoong consulted his father who believed his son would succeed in lower categories. Yoong decided to drive in Formula Three but dropped out in 1999 after withdrawal from his sponsors. He subsequently went into Formula 3000 and managed to improve despite a horrific crash at Spa-Francorchamps during the season. Yoong also raced in Formula Nippon where he achieved no success. Yoong became the first Malaysian to race in Formula One with Minardi at the 2001 Italian Grand Prix and left the sport in 2002. Yoong had a less successful career in CART World Series but had improved in the Porsche Carrera Cup with a less successful foray into V8 Supercars. Yoong raced in A1 Grand Prix series between 2005 and 2008 and scored three victories. In between this, Yoong raced in the Le Mans 24 Hours. Yoong worked for Lotus Racing as head of driver development and is also a commentator for Fox Sports Asia. Yoong married Arriana Teoh, who was Miss World 1997 Malaysia in 2002 and has a son, Alister, born in 2003."@en ,
+		"\u30A2\u30EC\u30AF\u30B5\u30F3\u30C0\u30FC\u30FB\u30C1\u30E3\u30FC\u30EB\u30BA\u30FB\u30EB\u30FC\u30F3\u30FB\u30E6\u30FC\u30F3\uFF08Alexander Charles Loong Yoong, \u4E2D\u56FD\u540D: \u718A\u9F8D, 1976\u5E747\u670820\u65E5-\uFF09\u306F\u3001\u30DE\u30EC\u30FC\u30B7\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30022001\u5E74\u306B\u30DE\u30EC\u30FC\u30B7\u30A2\u4EBA\u3068\u3057\u3066\u306F\u3058\u3081\u3066\u306EF1\u30C7\u30D3\u30E5\u30FC\u3092\u679C\u305F\u3057\u305F\u3002"@ja ,
+		"Alex Yoong (* 20. Juli 1976 in Kuala Lumpur; eigentlich Alexander Charles Loong Yoong) ist ein malaysischer Automobilrennfahrer. Zu ersten sportlichen Erfolgen kam Yoong, als er dreifacher malaysischer Meister im Wasserski wurde."@de ,
+		"Alex Yoong (nacido el 20 de julio de 1976 en Kuala Lumpur, Malasia) es un ex piloto de F\u00F3rmula 1, siendo el primer malayo en correr en la m\u00E1xima categor\u00EDa del automovilismo mundial. Yoong hizo su debut en la F1 justamente en el Gran Premio de Italia de la temporada 2001, reemplazando al brasile\u00F1o Tarso Marques en la escuder\u00EDa de Minardi, siendo compa\u00F1ero de Fernando Alonso. Tambi\u00E9n disput\u00F3 la temporada 2002 con el equipo italiano. Su mejor resultado fue un 7\u00BA en Melbourne, pero no le sirvi\u00F3 para ganarse la continuidad en el equipo y abandon\u00F3 la categor\u00EDa."@es ,
+		"Alexander Charles Loong \u201EAlex\u201D Yoong (chi\u0144. upr.: \u718A\u9F99; chi\u0144. trad.: \u718A\u9F8D; pinyin: Xi\u00F3ng L\u00F3ng; ur. 20 lipca 1976 roku w Kuala Lumpur) \u2013 malezyjski kierowca wy\u015Bcigowy."@pl ,
+		"Alexander Charles Loong Yoong ou plus couramment Alex Yoong (n\u00E9 le 20 juillet 1976 \u00E0 Kuala Lumpur, Malaisie) est un pilote automobile malaisien, qui a fait une courte carri\u00E8re en Formule 1 et reste aujourd'hui le seul repr\u00E9sentant de son pays \u00E0 avoir couru en Grand Prix."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/AlexYoong.JPG?width=300> ;
+	dbo:birthDate	"1976-7-20"^^xsd:date ;
+	dbo:wikiPageRevisionID	745138581 ;
+	dbo:birthPlace	dbr:Kuala_Lumpur ;
+	dbo:wikiPageID	771774 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/2001_Italian_Grand_Prix> ;
+	dbo:races	"18"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/2002_Japanese_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbp:source	"Alex Yoong, during an interview before the 2011 Indian Grand Prix, admitting his foray in Formula One did not influence drivers in Malaysia"^^xsd:string ;
+	dbp:p	"Xi\u00F3ng L\u00F3ng"^^xsd:string ;
+	dbp:t	"\u718A\u9F8D"^^xsd:string .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Alex_Yoong	ns28:hypernym	dbr:Driver ;
+	dbp:title	dbr:Audi_R8_LMS_Cup ,
+		"Champion"^^xsd:string .
+@prefix ns29:	<http://dbpedia.org/datatype/> .
+dbr:Alex_Yoong	dbp:width	"21.0"^^ns29:perCent .
+<http://dbpedia.org/resource/2005\u201306_A1_Grand_Prix_of_Nations,_Indonesia>	dbp:main2ndDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/1998_British_Formula_Three_Championship__Portman_Racing__2>	dbo:firstDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/2006\u201307_A1_Grand_Prix_of_Nations,_Mexico>	dbp:poleDriver	dbr:Alex_Yoong ;
+	dbp:sprint1stDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/1999_British_Formula_Three_Championship__Alan_Docking_Racing__3>	dbo:firstDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/1999_British_Formula_Three_Championship__Graff_Racing__1>	dbo:firstDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/1998_British_Formula_Three_Championship__Alan_Docking_Racing__4>	dbo:firstDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/2000_Formula_Nippon_Championship__Team_Malaysia__1>	dbo:firstDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/2001_Formula_Nippon_Championship__Team_LeMans__1>	dbo:firstDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/1998_Macau_Grand_Prix__Alan_Docking_Racing__1>	dbo:firstDriver	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/1999_Macau_Grand_Prix__Alan_Docking_Racing__1>	dbo:firstDriver	dbr:Alex_Yoong .
+dbr:Adderly_Fong	dbp:after	dbr:Alex_Yoong .
+<http://dbpedia.org/resource/2006\u201307_A1_Grand_Prix_of_Nations,_Czech_Republic>	dbp:flDriver	dbr:Alex_Yoong ;
+	dbp:sprint1stDriver	dbr:Alex_Yoong ;
+	dbp:main1stDriver	dbr:Alex_Yoong .

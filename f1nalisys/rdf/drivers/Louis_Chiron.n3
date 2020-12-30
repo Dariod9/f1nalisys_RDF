@@ -1,0 +1,205 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1949_French_Grand_Prix>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1934_Moroccan_Grand_Prix>	dbo:fastestDriver	dbr:Louis_Chiron ;
+	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1950_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__56__1>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/Chiron_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1935_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1936_Monaco_Grand_Prix>	dbo:poleDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1947_French_Grand_Prix>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1932_Nice_Circuit_Race>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1931_French_Grand_Prix>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1946_Ren\u00E9_le_B\u00E8gue_Cup>	dbo:secondDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1931_24_Hours_of_Le_Mans__21__1>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1932_24_Hours_of_Le_Mans__17__1>	dbo:firstDriver	dbr:Louis_Chiron .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bugatti_Type_53	dbp:drivers	dbr:Louis_Chiron .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Louis_Chiron	foaf:primaryTopic	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1948_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1932_Tunis_Grand_Prix>	dbo:fastestDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1930_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1931_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Louis_Chiron ;
+	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1948_British_Grand_Prix>	dbo:poleDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1947_Reims_Grand_Prix>	dbo:secondDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1928_Italian_Grand_Prix>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1930_Rome_Grand_Prix>	dbo:fastestDriver	dbr:Louis_Chiron ;
+	dbp:secondDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1929_24_Hours_of_Le_Mans__16__1>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1933_24_Hours_of_Le_Mans__16__1>	dbo:firstDriver	dbr:Louis_Chiron .
+dbr:Louis_Alexandre_Chiron	dbo:wikiPageRedirects	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1937_24_Hours_of_Le_Mans__48__1>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__32__1>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1938_24_Hours_of_Le_Mans__38__1>	dbo:firstDriver	dbr:Louis_Chiron .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Louis_Chiron	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:Driver110034906 .
+@prefix schema:	<http://schema.org/> .
+dbr:Louis_Chiron	rdf:type	schema:Person ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Louis_Chiron	rdf:type	wikidata:Q24229398 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Louis_Chiron	rdf:type	owl:Thing ,
+		wikidata:Q215627 ,
+		dbo:Agent ,
+		yago:WikicatMaseratiFormulaOneDrivers ,
+		yago:WikicatLanciaFormulaOneDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:Athlete ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Louis_Chiron	rdf:type	ns10:Agent ,
+		yago:WikicatMonegasqueFormulaOneDrivers ,
+		yago:WikicatMonegasqueRallyDrivers ,
+		yago:WikicatEcurieRosierFormulaOneDrivers ,
+		<http://dbpedia.org/class/yago/WikicatEnricoPlat\u00E9FormulaOneDrivers> ,
+		ns10:NaturalPerson ,
+		foaf:Person ,
+		yago:WikicatGrandPrixDrivers ,
+		dbo:MotorsportRacer ,
+		wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Louis_Chiron	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q378622 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Louis_Chiron	rdfs:label	"\u30EB\u30A4\u30FB\u30B7\u30ED\u30F3"@ja ,
+		"Louis Chiron"@de ,
+		"Louis Chiron"@fr ,
+		"Louis Chiron"@nl ,
+		"Louis Chiron"@en ,
+		"Louis Chiron"@es ,
+		"Louis Chiron"@pt ,
+		"\u0428\u0438\u0440\u043E\u043D, \u041B\u0443\u0438"@ru ,
+		"Louis Chiron"@pl ,
+		"\u0644\u0648\u064A\u0633 \u062A\u0634\u064A\u0631\u0648\u0646"@ar ,
+		"Louis Chiron"@it ;
+	rdfs:comment	"\u0644\u0648\u064A\u0633 \u062A\u0634\u064A\u0631\u0648\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 3 \u0623\u063A\u0633\u0637\u0633 1899 \u0641\u064A \u0645\u0648\u0646\u062A \u0643\u0627\u0631\u0644\u0648\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1928. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A 1950. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 19 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Louis Alexandre Chiron (Montecarlo, 3 de agosto de 1899 \u2013 ib\u00EDdem, 22 de junio de 1979) fue un piloto de automovilismo monegasco, vencedor de carreras de Gran Premio."@es ,
+		"Louis Alexandre Chiron (Monte Carlo, 3 augustus 1899 \u2013 aldaar, 22 juni 1979) was een Monegaskisch Formule 1-coureur. Hij reed in 1950, 1951, 1953, 1955, 1956 en 1958 19 Grands Prix voor de teams Maserati, Ecurie Rosier, Lancia en Scuderia Centro Sud. In 1950 werd Chiron derde tijdens de Grand Prix van Monaco. Mede hierdoor werd hij dat jaar tiende van de wereld.De in 2016 ge\u00EFntoduceerde Bugatti Chiron is naar deze coureur vernoemd."@nl ,
+		"Louis Chiron (ur. 3 sierpnia 1899 w Monte Carlo, zm. 22 czerwca 1979 tam\u017Ce) \u2013 monakijski kierowca Formu\u0142y 1. Startowa\u0142 w sezonach 1950\u20131958, jako kierowca zespo\u0142\u00F3w: Maserati, Ecurie Rosier, Scuderia Enrico Plat\u00E9, Louis Chiron, Lancia, Scuderia Centro Sud, Monte Carlo Auto Sport. W 1931 wygra\u0142 domowe Grand Prix Monako. W 1950 zaj\u0105\u0142 9. miejsce w klasyfikacji generalnej kierowc\u00F3w pierwszego sezonu Formu\u0142y 1."@pl ,
+		"\u30EB\u30A4\u30FB\u30A2\u30EC\u30AF\u30B5\u30F3\u30C9\u30EB\u30FB\u30B7\u30ED\u30F3\uFF08Louis Alexandre Chiron, 1899\u5E748\u67083\u65E5 - 1979\u5E746\u670822\u65E5\uFF09\u306F\u30E2\u30CA\u30B3\u306EF1\u30EC\u30FC\u30B5\u30FC\u304A\u3088\u3073\u30E9\u30EA\u30FC\u30B9\u30C8\u300219\u4E16\u7D00\u306E\u751F\u307E\u308C\u3067\u3042\u308A\u3001\u30D5\u30A3\u30EA\u30C3\u30D7\u30FB\u30A8\u30BF\u30F3\u30BB\u30E9\u30F3\u3001\u30EB\u30A4\u30B8\u30FB\u30D5\u30A1\u30B8\u30AA\u30FC\u30EA\u3068\u4E26\u3073\u81EA\u52D5\u8ECA\u306E\u8A95\u751F\u3084\u6210\u9577\u3068\u305D\u3063\u304F\u308A\u305D\u306E\u307E\u307E\u5E74\u9F62\u304C\u91CD\u306A\u308B\u3001\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u306E\u6B74\u53F2\u306E\u8A3C\u4EBA\u3068\u3082\u8A00\u3048\u308B\u4EBA\u7269\u3067\u3042\u308B\u3002"@ja ,
+		"Louis Alexandre Chiron (Monte Carlo, M\u00F4naco, 3 de agosto de 1899 - Monte Carlo, 22 de junho de 1979) foi um automobilista monegasco. Ainda adolescente, Chiron interessava-se por carros e corridas. Mais tarde, durante o per\u00EDodo entre-guerras, seria um importante piloto na era das corridas de Grandes Pr\u00EAmios, antecedentes da F\u00F3rmula 1."@pt ,
+		"Louis Alexandre Chiron (3 August 1899 \u2013 22 June 1979) was a Monegasque racing driver who competed in rallies, sports car races, and Grands Prix. He is the oldest driver ever to have raced in Formula One, having taken 6th place in the 1955 Monaco Grand Prix when he was 55."@en ,
+		"Alexandre Louis Chiron (* 3. August 1899 in Monte Carlo; \u2020 22. Juni 1979 ebenda) war ein monegassischer Automobilrennfahrer."@de ,
+		"Louis Alexandre Chiron, n\u00E9 le 3 ao\u00FBt 1899 \u00E0 Monaco et mort le 22 juin 1979 \u00E0 Monaco, \u00E9tait un pilote automobile mon\u00E9gasque. Aux c\u00F4t\u00E9s de Tazio Nuvolari, Achille Varzi, Rudolf Caracciola ou Bernd Rosemeyer, Louis Chiron fut l'un des plus glorieux pilotes d'avant-guerre. Surnomm\u00E9 le \u00AB Vieux Renard \u00BB, il savait \u00EAtre pr\u00E9sent au bon moment pour engranger, une \u00E0 une, les victoires, et ce durant un quart de si\u00E8cle (de 1924 au fort de Barbonnet en c\u00F4te, jusqu'au GP de France 1949). Louis Chiron fut par ailleurs c\u00E9l\u00E8bre pour son \u00E9l\u00E9gance, li\u00E9e notamment \u00E0 son fameux foulard \u00E0 pois."@fr ,
+		"\u041B\u0443\u0438-\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440 \u0428\u0438\u0440\u043E\u043D (\u0430\u043D\u0433\u043B. Louis Alexandre Chiron, 3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1899 \u2014 22 \u0438\u044E\u043D\u044F 1979) \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0437 \u041C\u043E\u043D\u0430\u043A\u043E. \u041D\u0430\u0440\u044F\u0434\u0443 c \u041D\u0443\u0432\u043E\u043B\u0430\u0440\u0438, \u0412\u0430\u0440\u0446\u0438, \u0420\u043E\u0437\u043C\u0430\u0439\u0435\u0440\u043E\u043C \u0438\u043B\u0438 \u041A\u0430\u0440\u0430\u0447\u0447\u0438\u043E\u043B\u043E\u0439, \u0428\u0438\u0440\u043E\u043D \u0431\u044B\u043B \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0441\u043B\u0430\u0432\u043D\u044B\u0445 \u043F\u0438\u043B\u043E\u0442\u043E\u0432 \u0434\u043E\u0432\u043E\u0435\u043D\u043D\u043E\u0439 \u044D\u043F\u043E\u0445\u0438. \u041B\u0443\u0438 \u0428\u0438\u0440\u043E\u043D \u0431\u044B\u043B \u0442\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u0441\u0432\u043E\u0435\u0439 \u044D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E\u0441\u0442\u044C\u044E, \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E \u0432 \u0441\u0432\u044F\u0437\u0438 \u0441 \u0435\u0433\u043E \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u044B\u043C \u043F\u043B\u0430\u0442\u043A\u043E\u043C \u0432 \u0433\u043E\u0440\u043E\u0448\u0435\u043A. \u0428\u0438\u0440\u043E\u043D \u0437\u0430\u0438\u043D\u0442\u0435\u0440\u0435\u0441\u043E\u0432\u0430\u043B\u0441\u044F \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u043C\u0438 \u0435\u0449\u0451 \u0432 \u044E\u043D\u043E\u0441\u0442\u0438. \u0412\u043E \u0432\u0440\u0435\u043C\u044F \u041F\u0435\u0440\u0432\u043E\u0439 \u043C\u0438\u0440\u043E\u0432\u043E\u0439 \u0432\u043E\u0439\u043D\u044B \u0428\u0438\u0440\u043E\u043D \u0441\u043B\u0443\u0436\u0438\u043B \u0432 \u0430\u0440\u0442\u0438\u043B\u043B\u0435\u0440\u0438\u0438, \u0430 \u043F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u0431\u043E\u0435\u0432\u044B\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u043E\u043D \u0441\u0442\u0430\u043B \u043B\u0438\u0447\u043D\u044B\u043C \u0432\u043E\u0434\u0438\u0442\u0435\u043B\u0435\u043C \u043C\u0430\u0440\u0448\u0430\u043B\u043E\u0432 \u0424\u043E\u0448\u0430 \u0438 \u041F\u0435\u0442\u0435\u043D\u0430, \u0440\u0430\u0431\u043E\u0442\u0430\u044F \u043D\u0430\u0434 \u0441\u0432\u043E\u0438\u043C \u043C\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E\u043C \u0432 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0438 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F."@ru ,
+		"\u00C8 tuttora il pilota pi\u00F9 anziano che abbia mai preso parte ad un Gran Premio di Formula 1 e ha dato nome alla Bugatti Chiron, un'autovettura da 1500 cavalli."@it .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Louis_Chiron	dbp:birthDate	"1899-08-03"^^xsd:date ;
+	owl:sameAs	wikidata:Q173226 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	dbpedia-pt:Louis_Chiron ,
+		<http://ja.dbpedia.org/resource/\u30EB\u30A4\u30FB\u30B7\u30ED\u30F3> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	dbpedia-it:Louis_Chiron .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	dbpedia-wikidata:Q173226 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	dbpedia-nl:Louis_Chiron .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	dbpedia-pl:Louis_Chiron .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	yago-res:Louis_Chiron ,
+		<http://rdf.freebase.com/ns/m.037nsw> ,
+		<http://d-nb.info/gnd/1050554353> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	dbpedia-de:Louis_Chiron .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	dbpedia-cs:Louis_Chiron .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	dbpedia-fr:Louis_Chiron ,
+		dbr:Louis_Chiron .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Louis_Chiron	owl:sameAs	dbpedia-es:Louis_Chiron .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Louis_Chiron	dct:subject	dbc:Bugatti_people ,
+		dbc:French_military_personnel_of_World_War_I ,
+		dbc:Monegasque_racing_drivers ,
+		dbc:Ecurie_Rosier_Formula_One_drivers ,
+		dbc:Monegasque_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Enrico_Plat\u00E9_Formula_One_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Indianapolis_500_drivers ,
+		<http://dbpedia.org/resource/Category:1979_deaths> ,
+		dbc:Monegasque_rally_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:1899_births> ,
+		dbc:Maserati_Formula_One_drivers ,
+		dbc:Lancia_Formula_One_drivers ,
+		dbc:Grand_Prix_drivers ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ;
+	foaf:name	"Louis Chiron"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Louis_Chiron_in_Montlh\u00E9ry_in_1927_(cropped).jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Louis"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Louis_Chiron ;
+	foaf:surname	"Chiron"@en ;
+	dbp:points	4 ;
+	dbp:years	"\u2013, , \u2013,"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport ,
+		dbr:Lancia_in_Formula_One ,
+		dbr:Scuderia_Centro_Sud ,
+		dbr:Ecurie_Rosier ,
+		"Private"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Louis_Chiron	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Louis_Chiron?oldid=709039729> ;
+	dbo:wikiPageExternalLink	<http://www.les24heures.fr/database-24h/FR/PAGE_24h_mans_pilote_lm.php?P1=255> ,
+		<http://www.ddavid.com/formula1/chiron.htm> ,
+		<http://www.carsandracingstuff.com/library/c/chironlouis.php> ;
+	dbp:imageSize	200 ;
+	dbp:caption	"Chiron in Montlh\u00E9ry in 1927"^^xsd:string ;
+	dbp:birthName	"Louis Alexandre Chiron"^^xsd:string ;
+	dbp:birthPlace	"Monte Carlo, Monaco"^^xsd:string ;
+	dbp:deathDate	"1979-06-22"^^xsd:date ;
+	dbp:deathPlace	"Monte Carlo, Monaco"^^xsd:string ;
+	dbo:abstract	"Louis Alexandre Chiron (3 August 1899 \u2013 22 June 1979) was a Monegasque racing driver who competed in rallies, sports car races, and Grands Prix. He is the oldest driver ever to have raced in Formula One, having taken 6th place in the 1955 Monaco Grand Prix when he was 55."@en ,
+		"Louis Alexandre Chiron (Montecarlo, 3 de agosto de 1899 \u2013 ib\u00EDdem, 22 de junio de 1979) fue un piloto de automovilismo monegasco, vencedor de carreras de Gran Premio."@es ,
+		"\u30EB\u30A4\u30FB\u30A2\u30EC\u30AF\u30B5\u30F3\u30C9\u30EB\u30FB\u30B7\u30ED\u30F3\uFF08Louis Alexandre Chiron, 1899\u5E748\u67083\u65E5 - 1979\u5E746\u670822\u65E5\uFF09\u306F\u30E2\u30CA\u30B3\u306EF1\u30EC\u30FC\u30B5\u30FC\u304A\u3088\u3073\u30E9\u30EA\u30FC\u30B9\u30C8\u300219\u4E16\u7D00\u306E\u751F\u307E\u308C\u3067\u3042\u308A\u3001\u30D5\u30A3\u30EA\u30C3\u30D7\u30FB\u30A8\u30BF\u30F3\u30BB\u30E9\u30F3\u3001\u30EB\u30A4\u30B8\u30FB\u30D5\u30A1\u30B8\u30AA\u30FC\u30EA\u3068\u4E26\u3073\u81EA\u52D5\u8ECA\u306E\u8A95\u751F\u3084\u6210\u9577\u3068\u305D\u3063\u304F\u308A\u305D\u306E\u307E\u307E\u5E74\u9F62\u304C\u91CD\u306A\u308B\u3001\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u306E\u6B74\u53F2\u306E\u8A3C\u4EBA\u3068\u3082\u8A00\u3048\u308B\u4EBA\u7269\u3067\u3042\u308B\u3002"@ja ,
+		"\u0644\u0648\u064A\u0633 \u062A\u0634\u064A\u0631\u0648\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 3 \u0623\u063A\u0633\u0637\u0633 1899 \u0641\u064A \u0645\u0648\u0646\u062A \u0643\u0627\u0631\u0644\u0648\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1928. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A 1950. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 19 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Louis Alexandre Chiron (Monte Carlo, 3 augustus 1899 \u2013 aldaar, 22 juni 1979) was een Monegaskisch Formule 1-coureur. Hij reed in 1950, 1951, 1953, 1955, 1956 en 1958 19 Grands Prix voor de teams Maserati, Ecurie Rosier, Lancia en Scuderia Centro Sud. In 1950 werd Chiron derde tijdens de Grand Prix van Monaco. Mede hierdoor werd hij dat jaar tiende van de wereld.De in 2016 ge\u00EFntoduceerde Bugatti Chiron is naar deze coureur vernoemd."@nl ,
+		"\u041B\u0443\u0438-\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440 \u0428\u0438\u0440\u043E\u043D (\u0430\u043D\u0433\u043B. Louis Alexandre Chiron, 3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1899 \u2014 22 \u0438\u044E\u043D\u044F 1979) \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0437 \u041C\u043E\u043D\u0430\u043A\u043E. \u041D\u0430\u0440\u044F\u0434\u0443 c \u041D\u0443\u0432\u043E\u043B\u0430\u0440\u0438, \u0412\u0430\u0440\u0446\u0438, \u0420\u043E\u0437\u043C\u0430\u0439\u0435\u0440\u043E\u043C \u0438\u043B\u0438 \u041A\u0430\u0440\u0430\u0447\u0447\u0438\u043E\u043B\u043E\u0439, \u0428\u0438\u0440\u043E\u043D \u0431\u044B\u043B \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0441\u043B\u0430\u0432\u043D\u044B\u0445 \u043F\u0438\u043B\u043E\u0442\u043E\u0432 \u0434\u043E\u0432\u043E\u0435\u043D\u043D\u043E\u0439 \u044D\u043F\u043E\u0445\u0438. \u041B\u0443\u0438 \u0428\u0438\u0440\u043E\u043D \u0431\u044B\u043B \u0442\u0430\u043A\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u0441\u0432\u043E\u0435\u0439 \u044D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E\u0441\u0442\u044C\u044E, \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E \u0432 \u0441\u0432\u044F\u0437\u0438 \u0441 \u0435\u0433\u043E \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u044B\u043C \u043F\u043B\u0430\u0442\u043A\u043E\u043C \u0432 \u0433\u043E\u0440\u043E\u0448\u0435\u043A. \u0428\u0438\u0440\u043E\u043D \u0437\u0430\u0438\u043D\u0442\u0435\u0440\u0435\u0441\u043E\u0432\u0430\u043B\u0441\u044F \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u043C\u0438 \u0435\u0449\u0451 \u0432 \u044E\u043D\u043E\u0441\u0442\u0438. \u0412\u043E \u0432\u0440\u0435\u043C\u044F \u041F\u0435\u0440\u0432\u043E\u0439 \u043C\u0438\u0440\u043E\u0432\u043E\u0439 \u0432\u043E\u0439\u043D\u044B \u0428\u0438\u0440\u043E\u043D \u0441\u043B\u0443\u0436\u0438\u043B \u0432 \u0430\u0440\u0442\u0438\u043B\u043B\u0435\u0440\u0438\u0438, \u0430 \u043F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u0431\u043E\u0435\u0432\u044B\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u043E\u043D \u0441\u0442\u0430\u043B \u043B\u0438\u0447\u043D\u044B\u043C \u0432\u043E\u0434\u0438\u0442\u0435\u043B\u0435\u043C \u043C\u0430\u0440\u0448\u0430\u043B\u043E\u0432 \u0424\u043E\u0448\u0430 \u0438 \u041F\u0435\u0442\u0435\u043D\u0430, \u0440\u0430\u0431\u043E\u0442\u0430\u044F \u043D\u0430\u0434 \u0441\u0432\u043E\u0438\u043C \u043C\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E\u043C \u0432 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0438 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F."@ru ,
+		"Louis Alexandre Chiron, n\u00E9 le 3 ao\u00FBt 1899 \u00E0 Monaco et mort le 22 juin 1979 \u00E0 Monaco, \u00E9tait un pilote automobile mon\u00E9gasque. Aux c\u00F4t\u00E9s de Tazio Nuvolari, Achille Varzi, Rudolf Caracciola ou Bernd Rosemeyer, Louis Chiron fut l'un des plus glorieux pilotes d'avant-guerre. Surnomm\u00E9 le \u00AB Vieux Renard \u00BB, il savait \u00EAtre pr\u00E9sent au bon moment pour engranger, une \u00E0 une, les victoires, et ce durant un quart de si\u00E8cle (de 1924 au fort de Barbonnet en c\u00F4te, jusqu'au GP de France 1949). Louis Chiron fut par ailleurs c\u00E9l\u00E8bre pour son \u00E9l\u00E9gance, li\u00E9e notamment \u00E0 son fameux foulard \u00E0 pois."@fr ,
+		"\u00C8 tuttora il pilota pi\u00F9 anziano che abbia mai preso parte ad un Gran Premio di Formula 1 e ha dato nome alla Bugatti Chiron, un'autovettura da 1500 cavalli."@it ,
+		"Louis Chiron (ur. 3 sierpnia 1899 w Monte Carlo, zm. 22 czerwca 1979 tam\u017Ce) \u2013 monakijski kierowca Formu\u0142y 1. Startowa\u0142 w sezonach 1950\u20131958, jako kierowca zespo\u0142\u00F3w: Maserati, Ecurie Rosier, Scuderia Enrico Plat\u00E9, Louis Chiron, Lancia, Scuderia Centro Sud, Monte Carlo Auto Sport. W 1931 wygra\u0142 domowe Grand Prix Monako. W 1950 zaj\u0105\u0142 9. miejsce w klasyfikacji generalnej kierowc\u00F3w pierwszego sezonu Formu\u0142y 1."@pl ,
+		"Alexandre Louis Chiron (* 3. August 1899 in Monte Carlo; \u2020 22. Juni 1979 ebenda) war ein monegassischer Automobilrennfahrer."@de ,
+		"Louis Alexandre Chiron (Monte Carlo, M\u00F4naco, 3 de agosto de 1899 - Monte Carlo, 22 de junho de 1979) foi um automobilista monegasco. Ainda adolescente, Chiron interessava-se por carros e corridas. Mais tarde, durante o per\u00EDodo entre-guerras, seria um importante piloto na era das corridas de Grandes Pr\u00EAmios, antecedentes da F\u00F3rmula 1. Disputou a primeira corrida do Campeonato Mundial de F\u00F3rmula 1 de 1950 e, ao se despedir em casa aos 58 anos, no Grande Pr\u00EAmio de M\u00F4naco de 1958, tornou-se o mais velho piloto a entrar em um GP na principal categoria do autobilismo mundial. Antes, j\u00E1 havia se tornado o mais velho a largar, quando o fez no Grande Pr\u00EAmio de M\u00F4naco de 1955 (tinha 55 anos e 292 dias), recorde que permanece at\u00E9 os dias atuais e que dificilmente ser\u00E1 quebrado."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Louis_Chiron_in_Montlh\u00E9ry_in_1927_(cropped).jpg?width=300> ;
+	dbo:birthDate	"1899-8-3"^^xsd:date ;
+	dbo:deathDate	"1979-6-22"^^xsd:date ;
+	dbo:deathPlace	dbr:Monaco ;
+	dbo:wikiPageRevisionID	709039729 ;
+	dbo:birthPlace	dbr:Monaco ;
+	dbo:wikiPageID	743911 ;
+	dbo:nationality	dbr:Monaco ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_British_Grand_Prix> ;
+	dbo:races	"19"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1958_Monaco_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Louis_Chiron	ns27:hypernym	dbr:Monegasque .
+<http://dbpedia.org/resource/1928_24_Hours_of_Le_Mans__22__1>	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1929_German_Grand_Prix>	dbo:fastestDriver	dbr:Louis_Chiron ;
+	dbo:firstDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1931_German_Grand_Prix>	dbo:secondDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1934_German_Grand_Prix>	dbo:thirdDriver	dbr:Louis_Chiron .
+dbr:Czechoslovakian_Grand_Prix	dbp:mostWinsDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1933_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Louis_Chiron .
+<http://dbpedia.org/resource/1931_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Louis_Chiron .

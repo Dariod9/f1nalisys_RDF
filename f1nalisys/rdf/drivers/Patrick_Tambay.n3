@@ -1,0 +1,198 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1983_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1983_German_Grand_Prix>	dbo:poleDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1985_San_Marino_Grand_Prix>	dbo:thirdDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1982_German_Grand_Prix>	dbo:firstDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1983_San_Marino_Grand_Prix>	dbo:firstDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1983_United_States_Grand_Prix_West>	dbo:poleDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1982_Italian_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1983_Austrian_Grand_Prix>	dbo:poleDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1983_South_African_Grand_Prix>	dbo:poleDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1983_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Tambay .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Geoff_Brabham	dbp:before	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1984_French_Grand_Prix>	dbo:poleDriver	dbr:Patrick_Tambay ;
+	dbo:secondDriver	dbr:Patrick_Tambay .
+dbr:Adrien_Tambay	dbp:relatedTo	dbr:Patrick_Tambay .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Patrick_Tambay	rdf:type	dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Patrick_Tambay	rdf:type	yago:WikicatFrenchFormulaOneDrivers ,
+		yago:WikicatGrandPrixMastersDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Athlete ,
+		dbo:Person ,
+		yago:WikicatTheodoreFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent ,
+		yago:WikicatSurteesFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatEnsignFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Patrick_Tambay	rdf:type	umbel-rc:RaceCarDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Patrick_Tambay	rdf:type	owl:Thing ,
+		yago:WikicatDakarRallyDrivers ,
+		yago:WikicatLigierFormulaOneDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Patrick_Tambay	rdf:type	foaf:Person ,
+		yago:WikicatLolaCarsFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Patrick_Tambay	rdf:type	wikidata:Q378622 ,
+		yago:WikicatHaasLolaFormulaOneDrivers .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Patrick_Tambay	rdf:type	ns9:NaturalPerson ,
+		yago:Operator110378412 ,
+		wikidata:Q5 ,
+		dbo:RacingDriver ,
+		ns9:Agent ,
+		yago:Driver110034906 ,
+		yago:WikicatFrenchRallyDrivers ,
+		wikidata:Q24229398 ,
+		yago:WikicatRenaultFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		dbo:FormulaOneRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Patrick_Tambay	rdf:type	schema:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Patrick_Tambay	rdfs:label	"Patrick Tambay"@nl ,
+		"\u0422\u0430\u043C\u0431\u044D, \u041F\u0430\u0442\u0440\u0438\u043A"@ru ,
+		"Patrick Tambay"@fr ,
+		"\u0628\u0627\u062A\u0631\u064A\u0643 \u062A\u0627\u0645\u0628\u0627\u064A"@ar ,
+		"Patrick Tambay"@it ,
+		"Patrick Tambay"@pt ,
+		"Patrick Tambay"@es ,
+		"\u30D1\u30C8\u30EA\u30C3\u30AF\u30FB\u30BF\u30F3\u30D9\u30A4"@ja ,
+		"Patrick Tambay"@de ,
+		"Patrick Tambay"@pl ,
+		"Patrick Tambay"@en ;
+	rdfs:comment	"Patrick Tambay (ur. 25 czerwca 1949 w Pary\u017Cu) \u2013 by\u0142y francuski kierowca Formu\u0142y 1."@pl ,
+		"Patrick Tambay (* 25. Juni 1949 in Paris) ist ein ehemaliger franz\u00F6sischer Automobilrennfahrer. Er nahm u. a. zwischen 1977 und 1986 an \u00FCber 100 Grand-Prix-Rennen zur Formel 1-Weltmeisterschaft teil. Tambays Sohn Adrien ist ebenfalls Rennfahrer."@de ,
+		"Patrick Tambay (nacido en 25 de junio de 1949 en Par\u00EDs, Francia), es un ex-piloto de automovilismo franc\u00E9s. Logr\u00F3 dos victorias, 11 podios y cinco pole positions en 114 carreras disputadas en F\u00F3rmula 1. Result\u00F3 cuarto en el campeonato 1983 y s\u00E9ptimo en 1982 con Ferrari, as\u00ED como 11\u00BA en 1984 y 12\u00BA en 1985 con Renault."@es ,
+		"Patrick Tambay, n\u00E9 le 25 juin 1949 \u00E0 Paris, est un pilote automobile fran\u00E7ais de Formule 1. Au cours de sa carri\u00E8re, de 1977 \u00E0 1986, il a particip\u00E9 \u00E0 114 Grands Prix, avec deux victoires. Apr\u00E8s une courte carri\u00E8re en ski, Patrick Tambay fait ses d\u00E9buts en sport automobile en 1972, marqu\u00E9s par sa victoire au Volant Elf. Il continue son ascension en monoplace, en \u00E9tant sacr\u00E9 vice-champion de Formule Renault en 1973, ce qui lui permet d'int\u00E9grer la Formule 2, l'antichambre de la Formule 1. Vice-champion en 1975 et favori pour la saison suivante, il termine troisi\u00E8me en 1976, ce qui lui bouche un avenir direct en Formule 1."@fr ,
+		"\u30D1\u30C8\u30EA\u30C3\u30AF\u30FB\u30C0\u30CB\u30A8\u30EB\u30FB\u30BF\u30F3\u30D9\u30A4\uFF08Patrick Daniel Tambay, 1949\u5E746\u670825\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021977\u5E74\u30FB1980\u5E74\u306E\u30AB\u30CA\u30C7\u30A3\u30A2\u30F3-\u30A2\u30E1\u30EA\u30AB\u30F3\u30FB\u30C1\u30E3\u30EC\u30F3\u30B8\u30AB\u30C3\u30D7\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002 \u591A\u304F\u306E\u30AB\u30C6\u30B4\u30EA\u30FC\u3067\u5B9F\u7E3E\u3092\u6B8B\u3057\u305F\u304C\u3001F1\u3067\u306E\u6D3B\u8E8D\u306F\u77ED\u547D\u306B\u7D42\u308F\u3063\u305F\u3002"@ja ,
+		"\u041F\u0430\u0442\u0440\u0438\u043A \u0414\u0430\u043D\u0438\u044D\u043B\u044C \u0422\u0430\u043C\u0431\u044D (\u0444\u0440. Patrick Daniel Tambay; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 25 \u0438\u044E\u043D\u044F 1949 \u0433\u043E\u0434\u0430 \u0432 \u041F\u0430\u0440\u0438\u0436\u0435, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D Can-Am."@ru ,
+		"Daniel Patrick Charles Maurice Nasri Tambay ou somente Patrick Tambay (Paris, 25 de Junho de 1949) \u00E9 um ex-piloto franc\u00EAs de F\u00F3rmula 1."@pt ,
+		"Patrick Tambay (Parijs, 25 juni 1949) is een Frans autocoureur. Hij won 2 keer een Grand Prix Formule 1. Tambay debuteerde in 1977 voor Surtees in de Formule 1 en stapte na een race (waarvoor hij zich niet kwalificeerde) over naar Theodore dat een Ensign inzette. In zijn debuutseizoen pakte hij vijf punten, hetgeen tot een contract bij McLaren leidde. Zijn twee seizoen bij dat team waren echter weinig succesvol, het team maakte een moeilijke periode door en in 1979 wist Tambay geen enkel punt te scoren waarna McLaren hem op straat zette."@nl ,
+		"\u0628\u0627\u062A\u0631\u064A\u0643 \u062A\u0627\u0645\u0628\u0627\u064A  \u0645\u0648\u0627\u0644\u064A\u062F 25 \u064A\u0648\u0646\u064A\u0648 1949 \u0641\u064A \u0628\u0627\u0631\u064A\u0633\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1977. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1977\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1982. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 123 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 2 \u0645\u0646\u0647\u0627."@ar ,
+		"Patrick Daniel Tambay (born 25 June 1949 in Paris) is a French former racing driver. He competed in 123 Formula One World Championship Grands Prix, winning twice, securing 5 pole positions and scoring a total of 103 Championship points. In 2006, he raced in the inaugural season of the Grand Prix Masters formula for retired Formula One drivers, and continued in the series in 2007."@en ,
+		"Appartenente alla categoria dei piloti \"ragionieri\", Tambay aveva uno stile di guida regolare e pulito, tanto da essere stato anche paragonato a Niki Lauda. Ha corso per buona parte della sua carriera in Formula 1, diventando uno dei piloti pi\u00F9 popolari nella prima met\u00E0 degli anni ottanta e imponendosi in due Gran Premi, tra cui quello svoltosi ad Imola nel 1983, che dedic\u00F2 a Gilles Villeneuve."@it .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Patrick_Tambay	dbp:birthDate	"1949-06-25"^^xsd:date ;
+	owl:sameAs	wikidata:Q173020 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	yago-res:Patrick_Tambay ,
+		<http://rdf.freebase.com/ns/m.04jv34> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	dbpedia-nl:Patrick_Tambay .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	dbpedia-es:Patrick_Tambay .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	dbpedia-fr:Patrick_Tambay .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	dbpedia-pt:Patrick_Tambay .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	dbpedia-it:Patrick_Tambay .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	dbpedia-id:Patrick_Tambay .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	dbpedia-pl:Patrick_Tambay ,
+		<http://ja.dbpedia.org/resource/\u30D1\u30C8\u30EA\u30C3\u30AF\u30FB\u30BF\u30F3\u30D9\u30A4> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	dbpedia-de:Patrick_Tambay ,
+		dbr:Patrick_Tambay .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Patrick_Tambay	owl:sameAs	dbpedia-wikidata:Q173020 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Patrick_Tambay	dct:subject	dbc:French_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Haas_Lola_Formula_One_drivers ,
+		dbc:Surtees_Formula_One_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Renault_Formula_One_drivers ,
+		dbc:McLaren_Formula_One_drivers ,
+		dbc:Theodore_Formula_One_drivers ,
+		dbc:Ligier_Formula_One_drivers ,
+		dbc:Sportspeople_from_Paris ,
+		dbc:Ensign_Formula_One_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:French_racing_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Grand_Prix_Masters_drivers ,
+		dbc:Dakar_Rally_drivers ,
+		<http://dbpedia.org/resource/Category:1949_births> ;
+	foaf:name	"Patrick Tambay"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Tambay_Renault_RE50_1984_Dallas_F1.jpg> ;
+	dct:description	"French racecar driver"@en ;
+	foaf:givenName	"Patrick"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Patrick_Tambay	foaf:isPrimaryTopicOf	wikipedia-en:Patrick_Tambay ;
+	foaf:surname	"Tambay"@en ;
+	dbp:points	103 ;
+	dbp:years	1980 ,
+		1977 ,
+		"\u2013, \u2013"^^xsd:string ;
+	dbp:after	dbr:Geoff_Brabham ,
+		<http://dbpedia.org/resource/Alan_Jones_(Formula_1)> ;
+	<http://dbpedia.org/property/team(s)_>	dbr:McLaren ,
+		dbr:Surtees ,
+		dbr:Theodore_Racing ,
+		dbr:Haas_Lola ,
+		dbr:Renault_F1 ,
+		dbr:Equipe_Ligier ,
+		dbr:Scuderia_Ferrari .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Patrick_Tambay	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Patrick_Tambay?oldid=737766275> ;
+	dbo:firstWin	<http://dbpedia.org/resource/1982_German_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1983_San_Marino_Grand_Prix> ;
+	dbp:birthPlace	"Paris, France"^^xsd:string ;
+	dbp:before	dbr:Jackie_Oliver ,
+		dbr:Jacky_Ickx ;
+	dbo:abstract	"Appartenente alla categoria dei piloti \"ragionieri\", Tambay aveva uno stile di guida regolare e pulito, tanto da essere stato anche paragonato a Niki Lauda. Ha corso per buona parte della sua carriera in Formula 1, diventando uno dei piloti pi\u00F9 popolari nella prima met\u00E0 degli anni ottanta e imponendosi in due Gran Premi, tra cui quello svoltosi ad Imola nel 1983, che dedic\u00F2 a Gilles Villeneuve. Una volta terminata la carriera nella massima serie ha partecipato a numerose competizioni a ruote coperte, tra cui la 24 Ore di Le Mans e la Parigi-Dakar. Si \u00E8 inoltre dedicato alla politica e ha seguito come manager, per un certo periodo, la carriera del figlio Adrien, anch'egli pilota."@it ,
+		"Daniel Patrick Charles Maurice Nasri Tambay ou somente Patrick Tambay (Paris, 25 de Junho de 1949) \u00E9 um ex-piloto franc\u00EAs de F\u00F3rmula 1."@pt ,
+		"Patrick Tambay (* 25. Juni 1949 in Paris) ist ein ehemaliger franz\u00F6sischer Automobilrennfahrer. Er nahm u. a. zwischen 1977 und 1986 an \u00FCber 100 Grand-Prix-Rennen zur Formel 1-Weltmeisterschaft teil. Tambays Sohn Adrien ist ebenfalls Rennfahrer."@de ,
+		"Patrick Tambay, n\u00E9 le 25 juin 1949 \u00E0 Paris, est un pilote automobile fran\u00E7ais de Formule 1. Au cours de sa carri\u00E8re, de 1977 \u00E0 1986, il a particip\u00E9 \u00E0 114 Grands Prix, avec deux victoires. Apr\u00E8s une courte carri\u00E8re en ski, Patrick Tambay fait ses d\u00E9buts en sport automobile en 1972, marqu\u00E9s par sa victoire au Volant Elf. Il continue son ascension en monoplace, en \u00E9tant sacr\u00E9 vice-champion de Formule Renault en 1973, ce qui lui permet d'int\u00E9grer la Formule 2, l'antichambre de la Formule 1. Vice-champion en 1975 et favori pour la saison suivante, il termine troisi\u00E8me en 1976, ce qui lui bouche un avenir direct en Formule 1. Tambay s'exile donc aux \u00C9tats-Unis en 1977 pour le CanAm qu'il domine largement, remportant ainsi le championnat. Recrut\u00E9 par Theodore en Formule 1, il marque ses premiers points dans les derni\u00E8res courses de la saison 1977. Impressionn\u00E9e, la prestigieuse \u00E9quipe McLaren recrute le Fran\u00E7ais. Toutefois, le niveau de l'\u00E9quipe britannique d\u00E9cline, et Tambay ne d\u00E9croche que quelques points en 1978 et aucun l'ann\u00E9e suivante. Sans volant pour la saison suivante, il r\u00E9int\u00E8gre le CanAm en 1980 et s'impose, ce qui lui permet de regagner de l'estime au sein du monde de la Formule 1. En 1981, il rejoint son ancienne \u00E9quipe Theodore. Il marque un point avant de rejoindre Ligier, mais abandonne \u00E0 chaque course. De nouveau sans volant, il revient en CanAm, mais ne participe qu'\u00E0 une course. Il rejoint la Scuderia Ferrari, en remplacement de Gilles Villeneuve, d\u00E9c\u00E9d\u00E9 quelques semaines auparavant. Le talent du pilote fran\u00E7ais explose lors de ses huit derni\u00E8res courses de la saison 1982 : Tambay d\u00E9croche ses premiers podiums et remporte son premier Grand Prix. Prolong\u00E9 chez Ferrari pour la saison 1983, Tambay remporte son deuxi\u00E8me Grand Prix et d\u00E9croche quatre autres podiums, ce qui lui permet de terminer quatri\u00E8me du championnat. Il rejoint ensuite Renault et r\u00E9colte trois podiums en deux saisons, sans pour autant retrouver la victoire. Il rejoint ensuite Haas Lola, mais n'atteint qu'une seule fois la cinqui\u00E8me place. Il arr\u00EAte sa carri\u00E8re en Formule 1, \u00E0 l'\u00E2ge de 37 ans. Apr\u00E8s cette carri\u00E8re en Formule 1, il participe \u00E0 plusieurs reprises aux 24 Heures du Mans et au Rallye Dakar, avant de devenir commentateur des Grands Prix de Formule 1, notamment pour RMC depuis 2002. Patrick Tambay se marie \u00E0 deux reprises, il a trois enfants, dont Adrien Tambay, pilote automobile, en DTM depuis 2012. Il est \u00E9galement le parrain de Jacques Villeneuve, champion du monde de Formule 1 en 1997."@fr ,
+		"Patrick Tambay (nacido en 25 de junio de 1949 en Par\u00EDs, Francia), es un ex-piloto de automovilismo franc\u00E9s. Logr\u00F3 dos victorias, 11 podios y cinco pole positions en 114 carreras disputadas en F\u00F3rmula 1. Result\u00F3 cuarto en el campeonato 1983 y s\u00E9ptimo en 1982 con Ferrari, as\u00ED como 11\u00BA en 1984 y 12\u00BA en 1985 con Renault."@es ,
+		"\u041F\u0430\u0442\u0440\u0438\u043A \u0414\u0430\u043D\u0438\u044D\u043B\u044C \u0422\u0430\u043C\u0431\u044D (\u0444\u0440. Patrick Daniel Tambay; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 25 \u0438\u044E\u043D\u044F 1949 \u0433\u043E\u0434\u0430 \u0432 \u041F\u0430\u0440\u0438\u0436\u0435, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D Can-Am."@ru ,
+		"Patrick Tambay (ur. 25 czerwca 1949 w Pary\u017Cu) \u2013 by\u0142y francuski kierowca Formu\u0142y 1."@pl ,
+		"\u0628\u0627\u062A\u0631\u064A\u0643 \u062A\u0627\u0645\u0628\u0627\u064A  \u0645\u0648\u0627\u0644\u064A\u062F 25 \u064A\u0648\u0646\u064A\u0648 1949 \u0641\u064A \u0628\u0627\u0631\u064A\u0633\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1977. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1977\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1982. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 123 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 2 \u0645\u0646\u0647\u0627."@ar ,
+		"Patrick Tambay (Parijs, 25 juni 1949) is een Frans autocoureur. Hij won 2 keer een Grand Prix Formule 1. Tambay debuteerde in 1977 voor Surtees in de Formule 1 en stapte na een race (waarvoor hij zich niet kwalificeerde) over naar Theodore dat een Ensign inzette. In zijn debuutseizoen pakte hij vijf punten, hetgeen tot een contract bij McLaren leidde. Zijn twee seizoen bij dat team waren echter weinig succesvol, het team maakte een moeilijke periode door en in 1979 wist Tambay geen enkel punt te scoren waarna McLaren hem op straat zette. Het volgend seizoen kon hij geen team vinden maar in 1981 keerde hij terug, eerst een half jaar bij Theodore (intussen met een eigen auto) en vervolgens een half jaar bij Ligier, waarvoor hij elke race uitviel. Opnieuw kwam Tambay toen aan de zijlijn te staan, maar in de loop van 1982 werd hij de opvolger van de verongelukte Gilles Villeneuve bij Ferrari. Hij won later dat jaar de Grand Prix van Duitsland nadat zijn teamgenoot Didier Pironi zwaargewond was geraakt in de training en nooit meer zou terugkeren in de Formule 1. Een jaar later won Tambay de Grand Prix van San Marino, de thuisrace van Ferrari, wat tot emotionele taferelen leidde na al de rampspoed van het team in het jaar ervoor. Ondanks deze zege en een vierde plaats in de eindrangschikking van het Wereldkampioenschap moest Tambay plaatsmaken voor Michele Alboreto. Hij vond een nieuw team in Renault dat zijn (voorlopig) laatste 2 jaar in de Formule 1 doormaakte, Tambay stond voor hen nog twee keer op het podium in 1985. Een jaar later volgde na een teleurstellend seizoen bij het door Ford gesteunde Lola Haas zijn afscheid van de Formule 1. Na een korte afwezigheid begon Tambay in 1989 weer met autosport en reed onder andere de 24 uur van Le Mans en Parijs-Dakar, waar hij twee keer in de top 3 finishte. Ook was Tambay betrokken bij een overname van het Larrousse Formule 1-team, maar dit was geen succes. In 2006 kwam hij uit in de Grand Prix Masters. Tambay is de peetoom van Jacques Villeneuve."@nl ,
+		"\u30D1\u30C8\u30EA\u30C3\u30AF\u30FB\u30C0\u30CB\u30A8\u30EB\u30FB\u30BF\u30F3\u30D9\u30A4\uFF08Patrick Daniel Tambay, 1949\u5E746\u670825\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021977\u5E74\u30FB1980\u5E74\u306E\u30AB\u30CA\u30C7\u30A3\u30A2\u30F3-\u30A2\u30E1\u30EA\u30AB\u30F3\u30FB\u30C1\u30E3\u30EC\u30F3\u30B8\u30AB\u30C3\u30D7\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002 \u591A\u304F\u306E\u30AB\u30C6\u30B4\u30EA\u30FC\u3067\u5B9F\u7E3E\u3092\u6B8B\u3057\u305F\u304C\u3001F1\u3067\u306E\u6D3B\u8E8D\u306F\u77ED\u547D\u306B\u7D42\u308F\u3063\u305F\u3002"@ja ,
+		"Patrick Daniel Tambay (born 25 June 1949 in Paris) is a French former racing driver. He competed in 123 Formula One World Championship Grands Prix, winning twice, securing 5 pole positions and scoring a total of 103 Championship points. In 2006, he raced in the inaugural season of the Grand Prix Masters formula for retired Formula One drivers, and continued in the series in 2007."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Tambay_Renault_RE50_1984_Dallas_F1.jpg?width=300> ;
+	dbo:birthDate	"1949-6-25"^^xsd:date ;
+	dbo:wikiPageRevisionID	737766275 ;
+	dbo:birthPlace	dbr:Paris ;
+	dbo:wikiPageID	1223181 ;
+	dbo:nationality	dbr:France ;
+	dbo:wins	"2"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"2"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1977_French_Grand_Prix> ;
+	dbo:races	"123"^^xsd:nonNegativeInteger ;
+	dbo:poles	"5"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1986_Australian_Grand_Prix> ;
+	dbo:podiums	"11"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Patrick_Tambay	ns27:hypernym	dbr:Driver ;
+	dbp:title	"Can-Am Champion"^^xsd:string .
+wikipedia-en:Patrick_Tambay	foaf:primaryTopic	dbr:Patrick_Tambay .
+dbr:Patric_Tambay	dbo:wikiPageRedirects	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1984_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1976_24_Hours_of_Le_Mans__40__1>	dbo:firstDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1983_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Patrick_Tambay ;
+	dbo:thirdDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/Alan_Jones_(racing_driver)>	dbp:before	dbr:Patrick_Tambay .
+dbr:Jacky_Ickx	dbp:after	dbr:Patrick_Tambay .
+dbr:Jackie_Oliver	dbp:after	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1982_British_Grand_Prix>	dbo:thirdDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1983_British_Grand_Prix>	dbo:thirdDriver	dbr:Patrick_Tambay .
+<http://dbpedia.org/resource/1985_Portuguese_Grand_Prix>	dbo:thirdDriver	dbr:Patrick_Tambay .
+dbr:Tambay	dbo:wikiPageDisambiguates	dbr:Patrick_Tambay .

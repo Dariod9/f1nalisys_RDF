@@ -1,0 +1,130 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Ecurie_Francorchamps	dbp:founders	dbr:Jacques_Swaters .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__39__1>	dbo:firstDriver	dbr:Jacques_Swaters .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jacques_Swaters	foaf:primaryTopic	dbr:Jacques_Swaters .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Jacques_Swaters	rdf:type	dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jacques_Swaters	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jacques_Swaters	rdf:type	wikidata:Q378622 ,
+		wikidata:Q5 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jacques_Swaters	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Agent .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jacques_Swaters	rdf:type	ns9:NaturalPerson ,
+		yago:WikicatBelgianFormulaOneDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		ns9:Agent ,
+		wikidata:Q24229398 ,
+		yago:WikicatEcurieFrancorchampsFormulaOneDrivers ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Jacques_Swaters	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jacques_Swaters	rdf:type	owl:Thing ,
+		yago:WikicatScuderiaFilipinettiFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		dbo:Person ,
+		foaf:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer ,
+		yago:Driver110034906 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jacques_Swaters	rdfs:label	"Jacques Swaters"@pt ,
+		"Jacques Swaters"@fr ,
+		"Jacques Swaters"@pl ,
+		"Jacques Swaters"@nl ,
+		"Jacques Swaters"@en ,
+		"Jacques Swaters"@it ,
+		"Jacques Swaters"@de ;
+	rdfs:comment	"Jacques Swaters (* 30. Oktober 1926 in Br\u00FCssel; \u2020 10. Dezember 2010 ebenda) war ein belgischer Automobilrennfahrer und Rennstallbesitzer."@de ,
+		"\u00C8 considerato uno dei pi\u00F9 importanti personaggi dell'automobilismo sportivo del XX secolo.Pilota, team manager, fondatore della \"Scuderia Francorchamps\" , dell'altrettanto rinomato \"Garage Francorchamps\" e del primo museo dedicato alla Ferrari denominato \"the Bunker\" in cui sin dagli anni settanta erano custoditi ed esposti cimeli del mondo Ferrari, oltre a diverse vetture Ferrari di rarit\u00E0, rilevanza ed importanza mondiale. \u00C8 il fondatore della prima concessionaria Ferrari nel mondo. La sua amicizia e collaborazione con Enzo Ferrari \u00E8 durata dagli anni cinquanta sino alla morte del \"Drake\"."@it ,
+		"Jacques Swaters (30 October 1926 \u2013 10 December 2010) was a racing driver from Belgium and former team owner of Ecurie Francorchamps and Ecurie Nationale Belge."@en ,
+		"Jacques Swaters (n\u00E9 le 30 octobre 1926 - mort le 10 d\u00E9cembre 2010) est un pilote de course belge, propri\u00E9taire des \u00E9quipes \u00C9curie Francorchamps et \u00C9curie nationale belge."@fr ,
+		"Jacques Swaters (Brussel, 30 oktober 1926 - aldaar, 10 december 2010) was een Belgisch autocoureur, teambaas en zakenman."@nl ,
+		"Jacques Swaters (ur. 30 pa\u017Adziernika 1926 w Woluwe-Saint-Lambert, zm. 10 grudnia 2010 w Uccle, Brukseli) \u2013 belgijski kierowca wy\u015Bcigowy."@pl ,
+		"Jacques Swaters (30 de outubro de 1926 - 10 de dezembro de 2010) foi um piloto de corridas da B\u00E9lgica e ex-dono das equipes Ecurie Francorchamps e Ecurie Nationale Belge."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jacques_Swaters	dbp:birthDate	"1926-10-30"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jacques_Swaters	owl:sameAs	yago-res:Jacques_Swaters .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jacques_Swaters	owl:sameAs	dbpedia-de:Jacques_Swaters .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jacques_Swaters	owl:sameAs	dbpedia-pl:Jacques_Swaters .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jacques_Swaters	owl:sameAs	dbpedia-wikidata:Q172508 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jacques_Swaters	owl:sameAs	dbpedia-pt:Jacques_Swaters ,
+		wikidata:Q172508 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jacques_Swaters	owl:sameAs	dbpedia-fr:Jacques_Swaters ,
+		dbr:Jacques_Swaters ,
+		<http://rdf.freebase.com/ns/m.04kqqg> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jacques_Swaters	owl:sameAs	dbpedia-it:Jacques_Swaters .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jacques_Swaters	owl:sameAs	dbpedia-nl:Jacques_Swaters .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jacques_Swaters	dct:subject	dbc:Scuderia_Filipinetti_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Belgian_racing_drivers ,
+		dbc:Belgian_Formula_One_drivers ,
+		dbc:Ecurie_Francorchamps_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1926_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:2010_deaths> ;
+	foaf:name	"Jacques Swaters"@en ;
+	dct:description	"auto racer, Ferrari businessman, historian, expert on Ferrari History"@en ;
+	foaf:givenName	"Jacques"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jacques_Swaters ;
+	foaf:surname	"Swaters"@en ;
+	dbp:points	0 ;
+	dbp:years	", \u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	"Non-works Talbot-Lago, Ferrari and Gordini"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jacques_Swaters	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jacques_Swaters?oldid=715616297> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-swajac.html> .
+@prefix ns25:	<http://jacquesswaters.com/> .
+dbr:Jacques_Swaters	dbo:wikiPageExternalLink	ns25:the-case-of-0384am ,
+		<http://www.npr.org/templates/story/story.php?storyId=129138503> ;
+	dbp:nationality	"Belgian"^^xsd:string ;
+	dbp:deathDate	"2010-12-10"^^xsd:date ;
+	dbo:abstract	"Jacques Swaters (* 30. Oktober 1926 in Br\u00FCssel; \u2020 10. Dezember 2010 ebenda) war ein belgischer Automobilrennfahrer und Rennstallbesitzer."@de ,
+		"Jacques Swaters (30 October 1926 \u2013 10 December 2010) was a racing driver from Belgium and former team owner of Ecurie Francorchamps and Ecurie Nationale Belge."@en ,
+		"Jacques Swaters (ur. 30 pa\u017Adziernika 1926 w Woluwe-Saint-Lambert, zm. 10 grudnia 2010 w Uccle, Brukseli) \u2013 belgijski kierowca wy\u015Bcigowy."@pl ,
+		"\u00C8 considerato uno dei pi\u00F9 importanti personaggi dell'automobilismo sportivo del XX secolo.Pilota, team manager, fondatore della \"Scuderia Francorchamps\" , dell'altrettanto rinomato \"Garage Francorchamps\" e del primo museo dedicato alla Ferrari denominato \"the Bunker\" in cui sin dagli anni settanta erano custoditi ed esposti cimeli del mondo Ferrari, oltre a diverse vetture Ferrari di rarit\u00E0, rilevanza ed importanza mondiale. \u00C8 il fondatore della prima concessionaria Ferrari nel mondo. La sua amicizia e collaborazione con Enzo Ferrari \u00E8 durata dagli anni cinquanta sino alla morte del \"Drake\". La sua importanza ed influenza nel mondo \"Ferrari\" \u00E8 tale da essere una delle poche persone all'epoca viventi, a cui la Ferrari ha dedicato un colore specifico per le vetture il Blue Swaters, disponibile dal 1992 sulla Ferrari 456 GT, che fu addirittura presentata presso il suo \"Garage Francorchamps\" anzich\u00E9 in un salone dell'automobile come di consueto avviene."@it ,
+		"Jacques Swaters (Brussel, 30 oktober 1926 - aldaar, 10 december 2010) was een Belgisch autocoureur, teambaas en zakenman."@nl ,
+		"Jacques Swaters (n\u00E9 le 30 octobre 1926 - mort le 10 d\u00E9cembre 2010) est un pilote de course belge, propri\u00E9taire des \u00E9quipes \u00C9curie Francorchamps et \u00C9curie nationale belge."@fr ,
+		"Jacques Swaters (30 de outubro de 1926 - 10 de dezembro de 2010) foi um piloto de corridas da B\u00E9lgica e ex-dono das equipes Ecurie Francorchamps e Ecurie Nationale Belge."@pt ;
+	dbo:birthDate	"1926-10-30"^^xsd:date ;
+	dbo:deathDate	"2010-12-10"^^xsd:date ;
+	dbo:deathPlace	dbpedia-wikidata:Q9005 ;
+	dbo:wikiPageRevisionID	715616297 ;
+	dbo:birthPlace	dbr:Woluwe-Saint-Lambert ;
+	dbo:wikiPageID	1233865 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1951_German_Grand_Prix> ;
+	dbo:races	"8"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1954_Spanish_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Jacques_Swaters	ns26:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Jacques_Swaters .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__3__1>	dbo:firstDriver	dbr:Jacques_Swaters .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Jacques_Swaters .

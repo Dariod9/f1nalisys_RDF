@@ -1,0 +1,128 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Fred_Wacker	rdf:type	dbo:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Fred_Wacker	rdf:type	umbel-rc:RaceCarDriver .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Fred_Wacker	rdf:type	yago:CausalAgent100007347 .
+@prefix schema:	<http://schema.org/> .
+dbr:Fred_Wacker	rdf:type	schema:Person ,
+		dbo:RacingDriver ,
+		yago:WikicatRacingDriversFromIllinois ,
+		dbo:MotorsportRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Fred_Wacker	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Fred_Wacker	rdf:type	ns7:NaturalPerson ,
+		dbo:Athlete ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		ns7:Agent ,
+		yago:WikicatGordiniFormulaOneDrivers ,
+		wikidata:Q5 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Fred_Wacker	rdf:type	foaf:Person ,
+		dbo:Agent ,
+		yago:Driver110034906 ,
+		wikidata:Q378622 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Fred_Wacker	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		yago:Operator110378412 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Fred_Wacker	rdfs:label	"Fred Wacker"@fr ,
+		"Fred Wacker"@pt ,
+		"Fred Wacker"@it ,
+		"Fred Wacker"@nl ,
+		"Fred Wacker"@de ,
+		"Fred Wacker"@en ,
+		"Fred Wacker"@pl ;
+	rdfs:comment	"Frederick G. Wacker Jr. (July 10, 1918 Chicago \u2013 June 16, 1998) was an engineer and former president of two large Chicago companies. He was also a prominent Chicago socialite, a jazz musician, and a racing driver. He participated in five Formula One World Championship races, debuting on June 21, 1953. He scored no championship points. He also participated in several non-Championship Formula One races."@en ,
+		"Frederick G. Wacker, Jr. (Chicago, Illinois, Estados Unidos, 10 de julho de 1918 - Lake Bluff, Illinois, Estados Unidos, 16 de junho de 1998) foi um automobilista norte-americano que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1953 e 1954."@pt ,
+		"Fred Wacker (ur. 10 lipca 1918 roku w Chicago w Illinois, zm. 16 czerwca 1998 roku w Lake Bluff w Illinois) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Frederick G. \u201EFred\u201C Wacker junior (* 10. Juli 1918 in Chicago; \u2020 16. Juli 1998 in Lake Bluff) war ein US-amerikanischer Automobilrennfahrer."@de ,
+		"Fred Wacker est un pilote automobile am\u00E9ricain, n\u00E9 le 10 juillet 1918 \u00E0 Chicago (Illinois) et mort le 16 juin 1998. Il a notamment pris le d\u00E9part de trois Grands Prix de championnat du monde, en 1953 et 1954, sur Gordini."@fr ,
+		"Fred Wacker (Chicago, 10 juli 1918 - 16 juni 1998) was een autocoureur uit de Verenigde Staten. Hij nam in 1953 en 1954 deel aan 5 Grands Prix Formule 1 voor het team Gordini, maar scoorde hierin geen WK-punten."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Fred_Wacker	dbp:points	0 ;
+	owl:sameAs	dbr:Fred_Wacker .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Fred_Wacker	owl:sameAs	dbpedia-nl:Fred_Wacker .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Fred_Wacker	owl:sameAs	dbpedia-pl:Fred_Wacker ,
+		wikidata:Q172374 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Fred_Wacker	owl:sameAs	dbpedia-pt:Fred_Wacker ,
+		<http://rdf.freebase.com/ns/m.04k8dw> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Fred_Wacker	owl:sameAs	dbpedia-wikidata:Q172374 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Fred_Wacker	owl:sameAs	dbpedia-it:Fred_Wacker .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Fred_Wacker	owl:sameAs	dbpedia-de:Fred_Wacker .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Fred_Wacker	owl:sameAs	yago-res:Fred_Wacker .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Fred_Wacker	owl:sameAs	dbpedia-fr:Fred_Wacker .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Fred_Wacker	dct:subject	dbc:Sportspeople_from_Chicago ,
+		dbc:Sports_deaths_in_New_York ,
+		dbc:American_naval_personnel_of_World_War_II ,
+		<http://dbpedia.org/resource/Category:20th-century_American_businesspeople> ,
+		dbc:Businesspeople_from_Chicago ,
+		dbc:Hotchkiss_School_alumni ,
+		<http://dbpedia.org/resource/Category:1998_deaths> ,
+		dbc:United_States_Navy_officers ,
+		<http://dbpedia.org/resource/Category:1918_births> ,
+		dbc:Racing_drivers_from_Illinois ,
+		dbc:Gordini_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Yale_University_alumni ,
+		dbc:American_Formula_One_drivers ;
+	foaf:name	"Fred Wacker"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Fred"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Fred_Wacker	foaf:isPrimaryTopicOf	wikipedia-en:Fred_Wacker ;
+	foaf:surname	"Wacker"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Fred_Wacker	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Fred_Wacker?oldid=743386019> ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Chicago,_Illinois> ;
+	dbp:deathPlace	<http://dbpedia.org/resource/Lake_Bluff,_Illinois> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Fred_Wacker	dbp:birthDate	"1918-07-10"^^xsd:date ;
+	dbp:deathDate	"1998-06-16"^^xsd:date ;
+	dbo:abstract	"Frederick G. Wacker, Jr. (Chicago, Illinois, Estados Unidos, 10 de julho de 1918 - Lake Bluff, Illinois, Estados Unidos, 16 de junho de 1998) foi um automobilista norte-americano que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1953 e 1954."@pt ,
+		"Fred Wacker est un pilote automobile am\u00E9ricain, n\u00E9 le 10 juillet 1918 \u00E0 Chicago (Illinois) et mort le 16 juin 1998. Il a notamment pris le d\u00E9part de trois Grands Prix de championnat du monde, en 1953 et 1954, sur Gordini."@fr ,
+		"Fred Wacker (Chicago, 10 juli 1918 - 16 juni 1998) was een autocoureur uit de Verenigde Staten. Hij nam in 1953 en 1954 deel aan 5 Grands Prix Formule 1 voor het team Gordini, maar scoorde hierin geen WK-punten."@nl ,
+		"Frederick G. Wacker Jr. (July 10, 1918 Chicago \u2013 June 16, 1998) was an engineer and former president of two large Chicago companies. He was also a prominent Chicago socialite, a jazz musician, and a racing driver. He participated in five Formula One World Championship races, debuting on June 21, 1953. He scored no championship points. He also participated in several non-Championship Formula One races. Wacker was the grandson of Charles H. Wacker, the first chairman of the Chicago Plan Commission and the man for whom Wacker Drive in Chicago is named. He attended The Hotchkiss School and Yale University. He worked with AC Spark Plug before enlisting in the United States Navy. Wacker was involved in a fatal accident during the second lap of the 1952 Watkins Glen Grand Prix, which at the time was a street course. While preparing for a right hand turn, his Allard J2 came dangerously close to a Cunningham driven by John Fitch, and both drivers swerved to avoid a collision. The back end of the Allard came out slightly to the left and closer to a throng of spectators sitting on the curb along the side of the course. Ten people were injured and a 7-year-old boy was killed. The tragedy caused the end of street racing at the Glen and elsewhere in the United States."@en ,
+		"Frederick G. \u201EFred\u201C Wacker junior (* 10. Juli 1918 in Chicago; \u2020 16. Juli 1998 in Lake Bluff) war ein US-amerikanischer Automobilrennfahrer."@de ,
+		"Fred Wacker (ur. 10 lipca 1918 roku w Chicago w Illinois, zm. 16 czerwca 1998 roku w Lake Bluff w Illinois) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1918-7-10"^^xsd:date ;
+	dbo:deathDate	"1998-6-16"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Lake_Bluff,_Illinois> ;
+	dbo:wikiPageRevisionID	743386019 ;
+	dbo:birthPlace	dbr:Chicago ;
+	dbo:wikiPageID	1228368 ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1953_Dutch_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1954_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"5"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Gordini ;
+	dbp:nationality	"American"^^xsd:string .
+wikipedia-en:Fred_Wacker	foaf:primaryTopic	dbr:Fred_Wacker .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__41__1>	dbo:firstDriver	dbr:Fred_Wacker .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__42__1>	dbo:firstDriver	dbr:Fred_Wacker .
+<http://dbpedia.org/resource/1951_Buenos_Aires_Grand_Prix_(III)>	dbo:secondDriver	dbr:Fred_Wacker .

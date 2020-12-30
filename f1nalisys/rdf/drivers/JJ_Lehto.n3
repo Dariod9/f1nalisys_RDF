@@ -1,0 +1,250 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/R\u00E9gis_Laconi>	dbp:before	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/1996_ITC_Helsinki_round>	dbp:thirdDriverR	dbr:JJ_Lehto .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:JJ_Lehto	foaf:primaryTopic	dbr:JJ_Lehto .
+dbr:Masanori_Sekiya	dbp:years	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/1996_ITC_Norisring_round>	dbp:thirdDriverR	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/1996_ITC_N\u00FCrburgring-1_round>	dbp:secondDriverR	dbr:JJ_Lehto .
+dbr:Mauro_Baldi	dbp:after	dbr:JJ_Lehto .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1991_San_Marino_Grand_Prix>	dbo:thirdDriver	dbr:JJ_Lehto .
+dbr:Rinaldo_Capello	dbp:after	dbr:JJ_Lehto .
+dbr:Alexander_Wurz	dbp:before	dbr:JJ_Lehto .
+dbr:Allan_McNish	dbp:before	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/Davy_Jones_(racing_driver)>	dbp:before	dbr:JJ_Lehto .
+dbr:Hurley_Haywood	dbp:after	dbr:JJ_Lehto .
+dbr:Yannick_Dalmas	dbp:years	dbr:JJ_Lehto ;
+	dbp:after	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/1996_ITC_Magny-Cours_round>	dbp:thirdDriverR	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/Tommi_M\u00E4kinen>	dbp:years	dbr:JJ_Lehto .
+dbr:Frank_Biela	dbp:before	dbr:JJ_Lehto ;
+	dbp:after	dbr:JJ_Lehto .
+dbr:Emanuele_Pirro	dbp:before	dbr:JJ_Lehto .
+dbr:Manuel_Reuter	dbp:before	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/1996_ITC_Silverstone_round>	dbp:secondDriverR	dbr:JJ_Lehto .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:JJ_Lehto	rdf:type	yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatChampCarDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatAmericanLeMansSeriesDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:JJ_Lehto	rdf:type	wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:JJ_Lehto	rdf:type	schema:Person ,
+		wikidata:Q215627 ,
+		yago:Operator110378412 ,
+		wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:JJ_Lehto	rdf:type	umbel-rc:Athlete ,
+		dbo:RacingDriver ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:JJ_Lehto	rdf:type	owl:Thing ,
+		wikidata:Q378622 ,
+		yago:WikicatSpeedcarSeriesDrivers ,
+		yago:WikicatBenettonFormulaOneDrivers ,
+		yago:WikicatSauberFormulaOneDrivers ,
+		yago:WikicatScuderiaItaliaFormulaOneDrivers ,
+		yago:WikicatOnyxFormulaOneDrivers ,
+		yago:WikicatFinnishFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		foaf:Person .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:JJ_Lehto	rdf:type	ns11:NaturalPerson ,
+		ns11:Agent ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatFIAGTChampionshipDrivers ,
+		umbel-rc:RaceCarDriver ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:JJ_Lehto	rdfs:label	"JJ Lehto"@it ,
+		"JJ Lehto"@pl ,
+		"JJ Lehto"@de ,
+		"JJ Lehto"@pt ,
+		"JJ Lehto"@en ,
+		"\u062C\u0627\u064A \u062C\u0627\u064A \u0644\u064A\u062A\u0648"@ar ,
+		"J.J.\u30EC\u30FC\u30C8"@ja ,
+		"Jyrki J\u00E4rvilehto"@es ,
+		"Jyrki J\u00E4rvilehto"@fr ,
+		"JJ Lehto"@nl ,
+		"\u042F\u0440\u0432\u0438\u043B\u0435\u0445\u0442\u043E, \u042E\u0440\u043A\u0438"@ru ;
+	rdfs:comment	"Campione di Formula 3 britannica nel 1988, ebbe l'occasione di debuttare in Formula 1 l'anno seguente. Nella massima serie dell'automobilismo non riusc\u00EC mai ad andare oltre un terzo posto, conquistato al Gran Premio di San Marino 1991, ma la sua carriera fu interrotta anzitempo a causa di un incidente avvenuto durante alcuni test all'inizio del 1994."@it ,
+		"JJ Lehto w\u0142a\u015Bc., Jyrki Juhani J\u00E4rvilehto (ur. 31 stycznia 1966 w Espoo) \u2013 fi\u0144ski kierowca Formu\u0142y 1. W swojej karierze m.in. zaliczy\u0142 70 start\u00F3w w wy\u015Bcigach Formu\u0142y 1 oraz wygra\u0142 dwukrotnie wy\u015Bcig 24h Le Mans."@pl ,
+		"Jyrki Juhani J\u00E4rvilehto, (31 de enero de 1966), m\u00E1s conocido como JJ J\u00E4rvilehto o JJ Lehto, es un piloto de F\u00F3rmula 1 retirado, nacido en Espoo, Finlandia. Compiti\u00F3 en F\u00F3rmula 1, participando en diferentes escuadras, entre ellas, Benetton (donde comparti\u00F3 equipo con Michael Schumacher) y Sauber."@es ,
+		"\u042E\u0301\u0440\u043A\u0438 \u042E\u0445\u0430\u043D\u0438 \u042F\u0301\u0440\u0432\u0438\u043B\u0435\u0301\u0445\u0442\u043E (\u0444\u0438\u043D. Jyrki Juhani J\u00E4rvilehto, 31 \u044F\u043D\u0432\u0430\u0440\u044F 1966 \u0433\u043E\u0434\u0430, \u042D\u0441\u043F\u043E\u043E, \u0424\u0438\u043D\u043B\u044F\u043D\u0434\u0438\u044F), \u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043A \u0414\u0436\u0435\u0439-\u0414\u0436\u0435\u0439 \u041B\u0435\u0445\u0442\u043E (\u0430\u043D\u0433\u043B. JJ Lehto) \u2014 \u0444\u0438\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 (1995, 2005) \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C ALMS 2004 \u0433\u043E\u0434\u0430, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043F\u0438\u043B\u043E\u0442 CART (1998), DTM (1995, 2002), ALMS (1999\u20142005), FIA GT (1997) \u0438 SpeedCar (2008)."@ru ,
+		"J.J.\u30EC\u30FC\u30C8\uFF08J.J. Lehto \u30011966\u5E741\u670831\u65E5 - \uFF09\u306F\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u30021988\u5E74\u306E\u30A4\u30AE\u30EA\u30B9F3\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u30922\u5EA6\u5236\u3057\u3066\u3044\u308B\u3002 \u672C\u540D\u306F\u30E6\u30EB\u30AD\u30FB\u30E6\u30CF\u30CB\u30FB\u30E4\u30EB\u30F4\u30A3\u30EC\u30D8\u30C8\uFF08Jyrki Juhani J\u00E4rvilehto \uFF09\u3067\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u570F\u3067\u306F\u767A\u97F3\u304C\u96E3\u3057\u3044\u3082\u306E\u3060\u3063\u305F\u305F\u3081\u3001\u30B1\u30B1\u30FB\u30ED\u30BA\u30D9\u30EB\u30B0\u304C\u300C\u899A\u3048\u3084\u3059\u3044\u3088\u3046\u306B\u300D\u3068\u306E\u7406\u7531\u3067\u300CJJ\u300D\u3092\u540D\u4E57\u308B\u3088\u3046\u6307\u793A\u3057\u305F\u3068\u3044\u3046\u30A8\u30D4\u30BD\u30FC\u30C9\u304C\u3042\u308B\u3002\u307E\u305F\u3001\u3053\u308C\u306F\u611B\u79F0\u3067\u3082\u3042\u308B\u3002"@ja ,
+		"Jyrki Juhani J\u00E4rvilehto (Espoo, 31 de janeiro de 1966), popularmente conhecido como J.J. Lehto, \u00E9 um ex-piloto de F\u00F3rmula 1 finland\u00EAs. Seu mentor foi Keke Rosberg, campe\u00E3o da modalidade em 1982, que sugeriu a Jyrki que simplificasse o nome."@pt ,
+		"JJ Lehto, de son vrai nom Jyrki J\u00E4rvilehto, est un pilote automobile finlandais n\u00E9 le 31 janvier 1966 \u00E0 Espoo (Finlande)."@fr ,
+		"\u062C\u0627\u064A \u062C\u0627\u064A \u0644\u064A\u062A\u0648 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u064A\u0646\u0627\u064A\u0631 1966 \u0641\u064A \u0625\u0633\u0628\u0648\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0646\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1989. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644 \u0627\u0644\u0643\u0628\u0631\u0649 1989. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 70 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Jyrki Juhani J\u00E4rvilehto, genannt JJ Lehto, (* 31. Januar 1966 in Espoo) ist ein finnischer Automobilrennfahrer. Er startete zwischen 1989 und 1994 in der h\u00F6chsten Motorsportklasse Formel 1 und gewann in seiner Karriere zweimal das 24-Stunden-Rennen von Le Mans."@de ,
+		"Jyrki Juhani J\u00E4rvilehto (Espoo, 31 januari 1966) is een Finse autocoureur, die vaak kortweg JJ Lehto wordt genoemd. J\u00E4rvilehto begint zijn autosportcarri\u00E8re zoals zovele coureurs in de kartsport om daarna, naar goed Fins gebruik, rally's te gaan rijden. Om financi\u00EBle redenen stapt hij over naar het racen op circuits, en rijdt hij in Scandinavi\u00EB het Formule Ford-kampioenschap. Vervolgens wint hij in 1988 het Britse Formule 3-kampioenschap."@nl ,
+		"Jyrki Juhani J\u00E4rvilehto (Finnish pronunciation: [\u02C8jyrki \u02C8j\u00E6rvilehto]; born 31 January 1966 in Espoo), better known as \"JJ Lehto\", is a racing driver from Finland. He won the 24 Hours of Le Mans twice, in 1995 and 2005. He is also a former Formula One driver. He was a prot\u00E9g\u00E9 of Finnish 1982 Formula One World Champion Keke Rosberg, who first suggested that Jyrki J\u00E4rvilehto should abbreviate his name to the more manageable JJ Lehto, much as Rosberg had done before him (\"Keke\" being derived from Keijo, his own given name)."@en ;
+	dbp:points	10 ;
+	owl:sameAs	<http://es.dbpedia.org/resource/Jyrki_J\u00E4rvilehto> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:JJ_Lehto	owl:sameAs	dbpedia-it:JJ_Lehto .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:JJ_Lehto	owl:sameAs	dbpedia-pl:JJ_Lehto .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:JJ_Lehto	owl:sameAs	dbpedia-wikidata:Q172979 ,
+		<http://rdf.freebase.com/ns/m.04k1x1> ,
+		<http://cs.dbpedia.org/resource/Jyrki_J\u00E4rvilehto> ,
+		<http://fr.dbpedia.org/resource/Jyrki_J\u00E4rvilehto> ,
+		<http://ja.dbpedia.org/resource/J.J.\u30EC\u30FC\u30C8> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:JJ_Lehto	owl:sameAs	yago-res:JJ_Lehto .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:JJ_Lehto	owl:sameAs	dbpedia-de:JJ_Lehto .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:JJ_Lehto	owl:sameAs	dbpedia-pt:JJ_Lehto .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:JJ_Lehto	owl:sameAs	dbpedia-nl:JJ_Lehto ,
+		wikidata:Q172979 ,
+		dbr:JJ_Lehto .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:JJ_Lehto	dct:subject	dbc:International_Formula_3000_drivers ,
+		dbc:Speedcar_Series_drivers ,
+		dbc:Scuderia_Italia_Formula_One_drivers ,
+		dbc:Finnish_racing_drivers ,
+		dbc:Sauber_Formula_One_drivers ,
+		dbc:Benetton_Formula_One_drivers ,
+		dbc:Onyx_Formula_One_drivers ,
+		dbc:Finnish_Formula_One_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Champ_Car_drivers ,
+		dbc:FIA_GT_Championship_drivers ,
+		dbc:Sportspeople_from_Espoo ,
+		dbc:Living_people ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		<http://dbpedia.org/resource/Category:1966_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:American_Le_Mans_Series_drivers ;
+	foaf:name	"JJ Lehto"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/JJ_Lehto_(Petit_Le_Mans,_2004).jpg> ;
+	dct:description	"Finnish racecar driver"@en ;
+	foaf:givenName	"Jyrki"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:JJ_Lehto ;
+	dbp:title	"National Racing Driver of the Year"^^xsd:string ,
+		dbr:List_of_American_Le_Mans_Series_champions ,
+		dbr:Autosport ,
+		dbr:Race_of_Champions ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		"Nations' Cup"^^xsd:string ,
+		dbr:British_Formula_3_Championship ;
+	dbp:years	<http://dbpedia.org/resource/Tommi_M\u00E4kinen> ,
+		dbr:Kari_Tiainen ,
+		dbr:Marco_Werner ,
+		2004 ,
+		2005 ,
+		1988 ,
+		1995 ,
+		1999 ,
+		"\u2013"^^xsd:string ,
+		<http://dbpedia.org/resource/Tom_Kristensen_(racing_driver)> ,
+		dbr:Masanori_Sekiya ,
+		dbr:Yannick_Dalmas .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:JJ_Lehto	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/JJ_Lehto?oldid=737271188> ;
+	dbp:before	dbr:Frank_Biela ,
+		dbr:Yannick_Dalmas ,
+		dbr:Seiji_Ara ,
+		dbr:Marco_Werner ,
+		dbr:Hurley_Haywood ,
+		<http://dbpedia.org/resource/Tom_Kristensen_(racing_driver)> ,
+		dbr:Rinaldo_Capello ,
+		dbr:Johnny_Herbert ,
+		dbr:Mauro_Baldi ,
+		"Inaugural event"^^xsd:string ;
+	dbp:after	<http://dbpedia.org/resource/Davy_Jones_(racing_driver)> ,
+		dbr:Frank_Biela ,
+		dbr:Emanuele_Pirro ,
+		<http://dbpedia.org/resource/R\u00E9gis_Laconi> ,
+		dbr:Manuel_Reuter ,
+		dbr:Yvan_Muller ,
+		dbr:Marco_Werner ,
+		dbr:Gilles_Panizzi ,
+		dbr:David_Brabham ,
+		dbr:Allan_McNish ,
+		dbr:Alexander_Wurz ;
+	dbp:birthPlace	"Espoo, Finland"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:JJ_Lehto	dbp:birthDate	"1966-01-31"^^xsd:date ;
+	dbo:abstract	"J.J.\u30EC\u30FC\u30C8\uFF08J.J. Lehto \u30011966\u5E741\u670831\u65E5 - \uFF09\u306F\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u30021988\u5E74\u306E\u30A4\u30AE\u30EA\u30B9F3\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u30922\u5EA6\u5236\u3057\u3066\u3044\u308B\u3002 \u672C\u540D\u306F\u30E6\u30EB\u30AD\u30FB\u30E6\u30CF\u30CB\u30FB\u30E4\u30EB\u30F4\u30A3\u30EC\u30D8\u30C8\uFF08Jyrki Juhani J\u00E4rvilehto \uFF09\u3067\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u570F\u3067\u306F\u767A\u97F3\u304C\u96E3\u3057\u3044\u3082\u306E\u3060\u3063\u305F\u305F\u3081\u3001\u30B1\u30B1\u30FB\u30ED\u30BA\u30D9\u30EB\u30B0\u304C\u300C\u899A\u3048\u3084\u3059\u3044\u3088\u3046\u306B\u300D\u3068\u306E\u7406\u7531\u3067\u300CJJ\u300D\u3092\u540D\u4E57\u308B\u3088\u3046\u6307\u793A\u3057\u305F\u3068\u3044\u3046\u30A8\u30D4\u30BD\u30FC\u30C9\u304C\u3042\u308B\u3002\u307E\u305F\u3001\u3053\u308C\u306F\u611B\u79F0\u3067\u3082\u3042\u308B\u3002"@ja ,
+		"Jyrki Juhani J\u00E4rvilehto, (31 de enero de 1966), m\u00E1s conocido como JJ J\u00E4rvilehto o JJ Lehto, es un piloto de F\u00F3rmula 1 retirado, nacido en Espoo, Finlandia. Compiti\u00F3 en F\u00F3rmula 1, participando en diferentes escuadras, entre ellas, Benetton (donde comparti\u00F3 equipo con Michael Schumacher) y Sauber. Luego se destac\u00F3 en resistencia, donde logr\u00F3 la victoria en las 24 Horas de Le Mans de 1995 y 2005. En 1997 result\u00F3 segundo en el Campeonato FIA GT. Fue campe\u00F3n de la American Le Mans Series 2004, consiguiendo 19 victorias absolutas. Durante su carrera fue patrocinado por el ex campe\u00F3n de F\u00F3rmula 1 Keke Rosberg."@es ,
+		"JJ Lehto w\u0142a\u015Bc., Jyrki Juhani J\u00E4rvilehto (ur. 31 stycznia 1966 w Espoo) \u2013 fi\u0144ski kierowca Formu\u0142y 1. W swojej karierze m.in. zaliczy\u0142 70 start\u00F3w w wy\u015Bcigach Formu\u0142y 1 oraz wygra\u0142 dwukrotnie wy\u015Bcig 24h Le Mans."@pl ,
+		"Jyrki Juhani J\u00E4rvilehto (Espoo, 31 januari 1966) is een Finse autocoureur, die vaak kortweg JJ Lehto wordt genoemd. J\u00E4rvilehto begint zijn autosportcarri\u00E8re zoals zovele coureurs in de kartsport om daarna, naar goed Fins gebruik, rally's te gaan rijden. Om financi\u00EBle redenen stapt hij over naar het racen op circuits, en rijdt hij in Scandinavi\u00EB het Formule Ford-kampioenschap. Vervolgens wint hij in 1988 het Britse Formule 3-kampioenschap. Lehto rijdt in 1989 zijn eerste kilometers in een Formule 1-auto voor het Onyx-team. In 1989 en 1990 rijdt hij in totaal vijf Formule 1-races voor dit team. Verder heeft hij enkele testkilometers mogen maken in een F1-wagen van Scuderia Ferrari. Zijn overstap naar het Dallara-team in 1991 kent tijdens de Grand Prix van San Marino een sensationeel hoogtepunt. Tijdens deze race rijdt hij zichzelf naar het podium; hij wordt derde. Ook in 1992 rijdt hij voor Dallara, maar weet geen WK-punten te scoren. Wanneer de Zwitser Peter Sauber in 1993 een nieuw Formule 1-team begint, gaat Lehto samen met Karl Wendlinger in een Sauber rijden. Tijdens de eerste race van de Sauber-Mercedes-Benz wordt Lehto vijfde en scoort daarmee twee WK-punten. Aan het eind van het seizoen '93 staat hij dertiende met vijf WK-punten. In 1994 wordt Lehto gecontracteerd bij het team van Benetton-Ford, als tweede coureur naast Michael Schumacher. Door een zware crash in een testrit voor de start van het seizoen wordt hem, vanwege een gebroken nekwervel, enige maanden verboden een Formule 1-wagen te besturen. Dat maakt de weg vrij voor het Formule 1-debuut van Jos Verstappen. Tijdens de Grand Prix van San Marino staat Lehto dan toch aan de start in een Benetton. Hij raakt tijdens de start van die race betrokken bij een zwaar ongeluk, maar blijft ongedeerd. Hij reed nog drie races voor Benetton en scoorde tijdens de grote prijs van Canada een punt. Dit belette echter niet dat hij vervangen werd door Jos Verstappen. Hij keerde later in dat jaar nog terug voor de grote prijzen van Itali\u00EB en Portugal, maar maakt het seizoen uiteindelijk vol bij Sauber. Lehto eindigde het seizoen als 24e met \u00E9\u00E9n punt. Daarna was de Formule 1-carri\u00E8re van JJ Lehto voorbij. Lang zal dat voor Lehto geen teleurstelling zijn geweest, want juist in 1995 behaalt hij de grootste zege uit zijn carri\u00E8re. In juni wint hij samen met Yannick Dalmas en Masanori Sekiya de 24 Uur van Le Mans, rijdend in een McLaren F1 GTR BMW-V12. Hij rijdt verder in de jaren 1995 en 1996 het Duitse Tourwagenkampioenschap met een Opel Calibra en in 1997 GT-races in de McLaren F1 GTR. In 1998 maakt hij de grote oversteek naar de Verenigde Staten om daar, na een mislukt jaar in het Cart-kampioenschap, vanaf 1999 met Sportscars te racen. In dit Amerikaanse Sportscars-kampioenschap, de American Le Mans Series, rijdt Lehto achtereenvolgens in een BMW M3 GTR, een Cadillac en een Audi R8. Dat doet hij niet zonder succes, meerdere malen weet hij races te winnen. Verder maakt hij regelmatig tijd vrij om in Scandinavi\u00EB rally's te rijden. Ook is hij sinds 2000 Formule 1-commentator voor de Finse televisie. In 2005 is Lehto terug in Europa. Samen met Tom Kristensen en Marco Werner wint hij opnieuw de 24 Uur van Le Mans, ditmaal in de Audi R8. Lehto raakte zwaargewond bij een bootongeluk op 17 juni 2010. Een vriend van hem kwam hierbij om het leven. Op 14 december 2011 werd hij hiervoor veroordeeld tot een gevangenisstraf van twee jaar en vier maanden. Volgens de aanklager was Letho dronken en voer hij te snel. Aangezien Lehto altijd had ontkend de boot te hebben bestuurd tekende zijn advocaat beroep aan tegen de straf."@nl ,
+		"\u062C\u0627\u064A \u062C\u0627\u064A \u0644\u064A\u062A\u0648 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u064A\u0646\u0627\u064A\u0631 1966 \u0641\u064A \u0625\u0633\u0628\u0648\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0646\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1989. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644 \u0627\u0644\u0643\u0628\u0631\u0649 1989. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 70 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"JJ Lehto, de son vrai nom Jyrki J\u00E4rvilehto, est un pilote automobile finlandais n\u00E9 le 31 janvier 1966 \u00E0 Espoo (Finlande)."@fr ,
+		"Jyrki Juhani J\u00E4rvilehto (Espoo, 31 de janeiro de 1966), popularmente conhecido como J.J. Lehto, \u00E9 um ex-piloto de F\u00F3rmula 1 finland\u00EAs. Seu mentor foi Keke Rosberg, campe\u00E3o da modalidade em 1982, que sugeriu a Jyrki que simplificasse o nome."@pt ,
+		"Campione di Formula 3 britannica nel 1988, ebbe l'occasione di debuttare in Formula 1 l'anno seguente. Nella massima serie dell'automobilismo non riusc\u00EC mai ad andare oltre un terzo posto, conquistato al Gran Premio di San Marino 1991, ma la sua carriera fu interrotta anzitempo a causa di un incidente avvenuto durante alcuni test all'inizio del 1994. Il suo nome \u00E8, per\u00F2, legato soprattutto agli sport prototipi, in cui ottenne i risultati di maggior rilievo, tra cui 2 vittorie alla 24 Ore di Le Mans nel 1995 e nel 2005. Considerava inoltre Keke Rosberg il suo mentore e quest'ultimo seppe dargli anche alcuni consigli nel corso della sua carriera."@it ,
+		"\u042E\u0301\u0440\u043A\u0438 \u042E\u0445\u0430\u043D\u0438 \u042F\u0301\u0440\u0432\u0438\u043B\u0435\u0301\u0445\u0442\u043E (\u0444\u0438\u043D. Jyrki Juhani J\u00E4rvilehto, 31 \u044F\u043D\u0432\u0430\u0440\u044F 1966 \u0433\u043E\u0434\u0430, \u042D\u0441\u043F\u043E\u043E, \u0424\u0438\u043D\u043B\u044F\u043D\u0434\u0438\u044F), \u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043A \u0414\u0436\u0435\u0439-\u0414\u0436\u0435\u0439 \u041B\u0435\u0445\u0442\u043E (\u0430\u043D\u0433\u043B. JJ Lehto) \u2014 \u0444\u0438\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 (1995, 2005) \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C ALMS 2004 \u0433\u043E\u0434\u0430, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043F\u0438\u043B\u043E\u0442 CART (1998), DTM (1995, 2002), ALMS (1999\u20142005), FIA GT (1997) \u0438 SpeedCar (2008)."@ru ,
+		"Jyrki Juhani J\u00E4rvilehto, genannt JJ Lehto, (* 31. Januar 1966 in Espoo) ist ein finnischer Automobilrennfahrer. Er startete zwischen 1989 und 1994 in der h\u00F6chsten Motorsportklasse Formel 1 und gewann in seiner Karriere zweimal das 24-Stunden-Rennen von Le Mans."@de ,
+		"Jyrki Juhani J\u00E4rvilehto (Finnish pronunciation: [\u02C8jyrki \u02C8j\u00E6rvilehto]; born 31 January 1966 in Espoo), better known as \"JJ Lehto\", is a racing driver from Finland. He won the 24 Hours of Le Mans twice, in 1995 and 2005. He is also a former Formula One driver. He was a prot\u00E9g\u00E9 of Finnish 1982 Formula One World Champion Keke Rosberg, who first suggested that Jyrki J\u00E4rvilehto should abbreviate his name to the more manageable JJ Lehto, much as Rosberg had done before him (\"Keke\" being derived from Keijo, his own given name)."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/JJ_Lehto_(Petit_Le_Mans,_2004).jpg?width=300> ;
+	dbo:birthDate	"1966-1-31"^^xsd:date ;
+	dbo:wikiPageRevisionID	737271188 ;
+	dbo:birthPlace	dbr:Espoo ;
+	dbo:wikiPageID	1226476 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:JJ_Lehto	ns24:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1989_Portuguese_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1994_Australian_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"70"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Benetton_Formula ,
+		dbr:Sauber ,
+		dbr:Scuderia_Italia ,
+		<http://dbpedia.org/resource/Onyx_(racing_team)> ;
+	dbp:nationality	"Finnish"^^xsd:string .
+dbr:Marco_Werner	dbp:years	dbr:JJ_Lehto ;
+	dbp:before	dbr:JJ_Lehto .
+dbr:Gilles_Panizzi	dbp:before	dbr:JJ_Lehto .
+dbr:Yvan_Muller	dbp:before	dbr:JJ_Lehto .
+dbr:Seiji_Ara	dbp:after	dbr:JJ_Lehto .
+dbr:Kari_Tiainen	dbp:years	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/Jyrki_J\u00E4rvilehto>	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+dbr:Jj_lehto	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/J.J._Letho>	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/J.J._Lehto>	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+dbr:Jyrki_Jarvilehto	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+dbr:Jyrki_Jarvilehto_Lehto	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/J.J_Letho>	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/J._J._Lehto>	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+dbr:Jyrki_Jaervilehto	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/J\u00E4rvilehto>	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/Jyrki_Juhani_J\u00E4rvilehto>	dbo:wikiPageRedirects	dbr:JJ_Lehto .
+dbr:Lehto	dbo:wikiPageDisambiguates	dbr:JJ_Lehto .
+dbr:Benetton_B194__4	dbo:firstDriver	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/2007_Rolex_Sports_Car_Series__75__1>	dbo:firstDriver	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/2007_Rolex_Sports_Car_Series__75__2>	dbo:firstDriver	dbr:JJ_Lehto .
+dbr:Sauber_C12__3	dbo:firstDriver	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/1998_CART_season__Hogan_Racing__1>	dbo:firstDriver	dbr:JJ_Lehto .
+dbr:Petit_Le_Mans__2003__1	dbo:firstDriver	dbr:JJ_Lehto .
+dbr:Petit_Le_Mans__2004__1	dbo:firstDriver	dbr:JJ_Lehto .
+dbr:Sauber_C13__4	dbo:firstDriver	dbr:JJ_Lehto .
+@prefix ns25:	<http://dbpedia.org/resource/1988_Macau_Grand_Prix__Pacific_Racing_w/> .
+ns25:_Theodore_Racing__1	dbo:firstDriver	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/1990_Formula_One_Indoor_Trophy>	dbp:rd2Team	dbr:JJ_Lehto ;
+	dbp:rd1Team	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/1991_Formula_One_Indoor_Trophy>	dbp:rd2Team	dbr:JJ_Lehto .
+<http://dbpedia.org/resource/1992_Formula_One_Indoor_Trophy>	dbp:rd3Team	dbr:JJ_Lehto .
+dbr:David_Brabham	dbp:before	dbr:JJ_Lehto .
+dbr:Johnny_Herbert	dbp:after	dbr:JJ_Lehto .

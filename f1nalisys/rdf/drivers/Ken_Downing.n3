@@ -1,0 +1,114 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Ken_Downing	foaf:primaryTopic	dbr:Ken_Downing .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Ken_Downing	rdf:type	ns4:NaturalPerson .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Ken_Downing	rdf:type	dbo:MotorsportRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Ken_Downing	rdf:type	umbel-rc:RaceCarDriver ,
+		ns4:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ken_Downing	rdf:type	yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ken_Downing	rdf:type	wikidata:Q378622 ,
+		dbo:Athlete .
+@prefix schema:	<http://schema.org/> .
+dbr:Ken_Downing	rdf:type	schema:Person ,
+		dbo:FormulaOneRacer ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q215627 ,
+		dbo:Person ,
+		wikidata:Q24229398 ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		foaf:Person ,
+		wikidata:Q5 ,
+		dbo:RacingDriver ,
+		yago:WikicatConnaughtFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Ken_Downing	rdf:type	owl:Thing ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ken_Downing	rdfs:label	"Ken Downing"@en ,
+		"Ken Downing"@de ,
+		"Ken Downing"@it ,
+		"Ken Downing"@fr ,
+		"Ken Downing"@pl ,
+		"Ken Downing"@nl ,
+		"Ken Downing"@pt ;
+	rdfs:comment	"Kenneth Henry Downing, n\u00E9 le 5 d\u00E9cembre 1917 \u00E0 Chesterton (Staffordshire) et mort le 3 mai 2004 \u00E0 Monaco, est un ancien pilote automobile britannique. D\u00E9butant en comp\u00E9tition \u00E0 la fin des ann\u00E9es 1940, il a notamment disput\u00E9 deux Grands Prix de championnat du monde en 1952, sur Connaught."@fr ,
+		"Kenneth Henry Downing (Chesterton, Staffordshire, Inglaterra, 5 de dezembro de 1917 - Monte Carlo, M\u00F4naco, 3 de maio de 2004) foi um automobilista ingl\u00EAs que participou dos Grandes Pr\u00EAmios de F\u00F3rmula 1 da Inglaterra e da Holanda de 1952."@pt ,
+		"(For the musician, see K. K. Downing.) Kenneth Henry Downing (5 December 1917 in Chesterton, Staffordshire \u2013 3 May 2004 in Monte Carlo) was a racing driver from England. Downing was born into a wealthy family, whose interests included manufacturing, transport and garages. He began racing at 21, competing in his first event the Eastbourne Rally in a Healey, and competed in sports car races throughout the 1940s. Initially racing a Brooke Special, he switched to a Connaught in 1951, winning 17 races throughout the year."@en ,
+		"Kenneth Henry Downing (ur. 5 grudnia 1917 roku w Chesterton, zm. 3 maja 2004 roku w Monte Carlo w Monako) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Kenneth Henry Downing (Chesterton, Staffordshire, 5 december 1917 - Monte Carlo, 3 mei 2004) was een Formule 1-coureur uit Groot-Brittanni\u00EB. Hij reed in 1952 2 Grands Prix voor het team Connaught."@nl ,
+		"Kenneth Henry \"Ken\" Downing (* 5. Dezember 1917 Chesterton; \u2020 3. Mai 2004 in Monte Carlo) war ein britischer Autorennfahrer."@de .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Ken_Downing	dbp:points	0 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ken_Downing	owl:sameAs	dbpedia-pl:Ken_Downing .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Ken_Downing	owl:sameAs	dbpedia-nl:Ken_Downing ,
+		wikidata:Q172344 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ken_Downing	owl:sameAs	dbpedia-de:Ken_Downing .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Ken_Downing	owl:sameAs	dbpedia-pt:Ken_Downing ,
+		<http://rdf.freebase.com/ns/m.04kv4d> ,
+		dbr:Ken_Downing .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ken_Downing	owl:sameAs	yago-res:Ken_Downing .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Ken_Downing	owl:sameAs	dbpedia-it:Ken_Downing .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Ken_Downing	owl:sameAs	dbpedia-wikidata:Q172344 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Ken_Downing	owl:sameAs	dbpedia-fr:Ken_Downing .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ken_Downing	dct:subject	dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:People_from_Chesterton,_Staffordshire> ,
+		dbc:English_expatriates_in_Monaco ,
+		dbc:English_emigrants_to_South_Africa ,
+		<http://dbpedia.org/resource/Category:1917_births> ,
+		dbc:Connaught_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2004_deaths> ;
+	foaf:name	"Ken Downing"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Ken"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ken_Downing ;
+	foaf:surname	"Downing"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ken_Downing	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ken_Downing?oldid=703977070> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Ken_Downing	dbp:birthDate	"1917-12-05"^^xsd:date ;
+	dbp:deathDate	"2004-05-03"^^xsd:date ;
+	dbo:abstract	"(For the musician, see K. K. Downing.) Kenneth Henry Downing (5 December 1917 in Chesterton, Staffordshire \u2013 3 May 2004 in Monte Carlo) was a racing driver from England. Downing was born into a wealthy family, whose interests included manufacturing, transport and garages. He began racing at 21, competing in his first event the Eastbourne Rally in a Healey, and competed in sports car races throughout the 1940s. Initially racing a Brooke Special, he switched to a Connaught in 1951, winning 17 races throughout the year. Downing switched to single seaters in 1952 racing a Connaught A-Type, and won the Madgwick Cup at Goodwood and second place at the Grand Prix des Fronti\u00E8res at Chimay Belgium, where he lost the lead at the end of the race several metres before the finish line. He finished ninth in his first World Championship event at Silverstone, but had run fourth in the race before spinning while avoiding a backmarker. He competed in the Dutch Grand Prix later that year, but retired from an oil-pressure problem. He switched to an Aston Martin DB3S for 1953, but decided to retire from racing soon after. He emigrated to South Africa in 1955, and later lived in Monaco where he died in 2004. His daughter Ann married Patrick McNally, whose company Allsport Management controls the corporate hospitality and circuit advertising for Formula One."@en ,
+		"Kenneth Henry Downing (ur. 5 grudnia 1917 roku w Chesterton, zm. 3 maja 2004 roku w Monte Carlo w Monako) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Kenneth Henry Downing (Chesterton, Staffordshire, Inglaterra, 5 de dezembro de 1917 - Monte Carlo, M\u00F4naco, 3 de maio de 2004) foi um automobilista ingl\u00EAs que participou dos Grandes Pr\u00EAmios de F\u00F3rmula 1 da Inglaterra e da Holanda de 1952."@pt ,
+		"Kenneth Henry Downing (Chesterton, Staffordshire, 5 december 1917 - Monte Carlo, 3 mei 2004) was een Formule 1-coureur uit Groot-Brittanni\u00EB. Hij reed in 1952 2 Grands Prix voor het team Connaught."@nl ,
+		"Kenneth Henry Downing, n\u00E9 le 5 d\u00E9cembre 1917 \u00E0 Chesterton (Staffordshire) et mort le 3 mai 2004 \u00E0 Monaco, est un ancien pilote automobile britannique. D\u00E9butant en comp\u00E9tition \u00E0 la fin des ann\u00E9es 1940, il a notamment disput\u00E9 deux Grands Prix de championnat du monde en 1952, sur Connaught."@fr ,
+		"Kenneth Henry \"Ken\" Downing (* 5. Dezember 1917 Chesterton; \u2020 3. Mai 2004 in Monte Carlo) war ein britischer Autorennfahrer."@de ;
+	dbo:birthDate	"1917-12-5"^^xsd:date ;
+	dbo:deathDate	"2004-5-3"^^xsd:date ;
+	dbo:deathPlace	dbr:Monte_Carlo ;
+	dbo:wikiPageRevisionID	703977070 ;
+	dbo:wikiPageID	1234970 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Ken_Downing	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1952_Dutch_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering ;
+	dbp:nationality	"British"^^xsd:string .

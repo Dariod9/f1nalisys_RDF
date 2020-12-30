@@ -1,0 +1,187 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2015_Hungarian_Grand_Prix>	dbo:secondDriver	dbr:Daniil_Kvyat .
+<http://dbpedia.org/resource/2016_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Daniil_Kvyat .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Daniil_Kvyat	rdf:type	yago:CausalAgent100007347 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Daniil_Kvyat	rdf:type	wikidata:Q24229398 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Daniil_Kvyat	rdf:type	foaf:Person ,
+		dbo:MotorsportRacer ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Daniil_Kvyat	rdf:type	schema:Person ,
+		yago:WikicatFIAEuropeanFormula3ChampionshipDrivers ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault2.0AlpsDrivers> ,
+		<http://dbpedia.org/class/yago/WikicatBritishFormulaRenault2.0Drivers> ,
+		dbo:Agent ,
+		wikidata:Q5 ,
+		yago:WikicatToroRossoFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Daniil_Kvyat	rdf:type	owl:Thing ,
+		yago:WikicatFormulaBMWEuropeDrivers ,
+		yago:WikicatFormulaBMWPacificDrivers ,
+		yago:WikicatRussianFormulaOneDrivers .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Daniil_Kvyat	rdf:type	ns8:Agent ,
+		wikidata:Q378622 ,
+		dbo:Athlete ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault2.0NECDrivers> ,
+		yago:WikicatGP3SeriesDrivers ,
+		yago:Driver110034906 ,
+		dbo:FormulaOneRacer ,
+		ns8:NaturalPerson ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		<http://dbpedia.org/class/yago/WikicatEurocupFormulaRenault2.0Drivers> ,
+		dbo:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Daniil_Kvyat	rdfs:label	"\u041A\u0432\u044F\u0442, \u0414\u0430\u043D\u0438\u0438\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\u043E\u0432\u0438\u0447"@ru ,
+		"\u4E39\u5C3C\u5C14\u00B7\u7EF4\u4E9A\u5207\u65AF\u62C9\u6C83\u7EF4\u5947\u00B7\u79D1\u7EF4\u4E9A\u7279"@zh ,
+		"Danii\u0142 Kwiat"@pl ,
+		"Daniil Wjatscheslawowitsch Kwjat"@de ,
+		"Daniil Kvyat"@pt ,
+		"Daniil Kvjat"@nl ,
+		"Daniil Kvjat"@it ,
+		"Daniil Kvyat"@es ,
+		"Daniil Kvyat"@fr ,
+		"\u30C0\u30CB\u30FC\u30EB\u30FB\u30AF\u30D3\u30A2\u30C8"@ja ,
+		"Daniil Kvyat"@en ;
+	rdfs:comment	"\u4E39\u5C3C\u5C14\u00B7\u7EF4\u4E9A\u5207\u65AF\u62C9\u6C83\u7EF4\u5947\u00B7\u79D1\u7EF4\u4E9A\u7279\uFF08\u4FC4\u8BED\uFF1A\u0414\u0430\u043D\u0438\u0438\u0301\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0301\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442\uFF0C1994\u5E744\u670826\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u4FC4\u7F57\u65AF\u5DF4\u4EC0\u79D1\u723E\u6258\u65AF\u5766\u5171\u548C\u570B\u4E4C\u6CD5\uFF0C\u73B0\u5F79\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u8CFD\u8F66\u624B\uFF0C\u65BC2012\u5E74\u96F7\u8BFA\u65B9\u7A0B\u5F0F2.0\u6B27\u6D32\u676F\u4E0A\u83B7\u5F97\u4E9A\u519B\uFF0C\u5728GP3\u7CFB\u5217\u8D5B\u4E0A\u593A\u5F97\u51A0\u519B\u30022014\u8D5B\u5B63\uFF0C\u4ED6\u6210\u4E3A\u7EA2\u725B\u4E8C\u961F\u7684\u6B63\u5F0F\u8F66\u624B\u3002"@zh ,
+		"Daniil Vyacheslavovich Kvyat (en russe : \u0414\u0430\u043D\u0438\u0438\u043B \u041A\u0432\u044F\u0442), n\u00E9 le 26 avril 1994 \u00E0 Oufa en Russie, est un pilote automobile russe. Vice-champion en Eurocup Formula Renault 2.0 2012, il remporte le championnat de GP3 Series 2013 tout en participant \u00E0 quelques courses de Championnat d'Europe de Formule 3 2013."@fr ,
+		"\u30C0\u30CB\u30FC\u30EB\u30FB\u30F4\u30E3\u30C1\u30A7\u30B9\u30E9\u30F4\u30A9\u30F4\u30A3\u30C3\u30C1\u30FB\u30AF\u30D3\u30A2\u30C8\uFF08Daniil Vyacheslavovich Kvyat, \u30ED\u30B7\u30A2\u8A9E: \u0414\u0430\u043D\u0438\u0438\u0301\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0301\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442 1994\u5E744\u670826\u65E5 - \uFF09\u306F\u3001\u30ED\u30B7\u30A2\u30FB\u30A6\u30D5\u30A1\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"\u0414\u0430\u043D\u0438\u0438\u0301\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0301\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442 (\u0440\u043E\u0434. 26 \u0430\u043F\u0440\u0435\u043B\u044F 1994, \u0423\u0444\u0430, \u0420\u043E\u0441\u0441\u0438\u044F) \u2014 \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 GP3 (2013). \u0421 2014 \u0433\u043E\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1, \u0441 \u043F\u044F\u0442\u043E\u0433\u043E \u044D\u0442\u0430\u043F\u0430 \u0441\u0435\u0437\u043E\u043D\u0430 2016 \u2014 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0422\u043E\u0440\u043E \u0420\u043E\u0441\u0441\u043E\u00BB, \u043A\u0443\u0434\u0430 \u0431\u044B\u043B \u043F\u0435\u0440\u0435\u0432\u0435\u0434\u0451\u043D \u0438\u0437 \u00AB\u0420\u0435\u0434 \u0411\u0443\u043B\u043B\u0430\u00BB."@ru ,
+		"Daniil Vyacheslavovich Kvyatt em russo, \u0414\u0430\u043D\u0438\u0438\u0301\u043B \u041A\u0432\u044F\u0442 (Ufa, 26 de abril de 1994) \u00E9 um automobilista russo. Defende a equipe Toro Rosso de F\u00F3rmula 1."@pt ,
+		"Daniil Wjatscheslawowitsch Kwjat (russisch \u0414\u0430\u043D\u0438\u0438\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442, englische Schreibweise Daniil Kvyat; * 26. April 1994 in Ufa, Baschkortostan) ist ein russischer Automobilrennfahrer. Er gewann 2013 die GP3-Serie. Seit 2014 tritt er in der Formel 1 an. 2016 startet er f\u00FCr die Scuderia Toro Rosso."@de ,
+		"Danii\u0142 Wiaczes\u0142awowicz Kwiat (ros. \u0414\u0430\u043D\u0438\u0438\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442, ur. 26 kwietnia 1994 w Ufie) \u2013 rosyjski kierowca wy\u015Bcigowy."@pl ,
+		"Daniil Kvjat (Russisch: \u0414\u0430\u043D\u0438\u0438\u043B \u041A\u0432\u044F\u0442) (Oefa, Basjkirostan, 26 april 1994) is een Russisch Formule 1-autocoureur. Hij rijdt voor Scuderia Toro Rosso."@nl ,
+		"Daniil Vyacheslavovich Kvyat (Russian: \u0414\u0430\u043D\u0438\u0438\u0301\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0301\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442; IPA: [d\u0259n\u02B2\u026A\u02C8il v\u02B2\u026At\u0255\u026A\u02C8slav\u0259v\u02B2\u026At\u0255 kv\u02B2at], born 26 April 1994) is a Russian auto racing driver. He was runner-up at the 2012 Eurocup Formula Renault 2.0, and GP3 Series champion in 2013. He joined Formula One as a Toro Rosso driver in 2014 finishing 15th in the World Championship. He then moved on to Red Bull Racing to partner Daniel Ricciardo for the 2015 season. He scored his first Formula One podium finish at the Hungarian Grand Prix on 26 July 2015, finishing second behind Sebastian Vettel. He returned to Toro Rosso ahead of the 2016 Spanish Grand Prix."@en ,
+		"Daniil Viachesl\u00E1vovich Kvyat (en ruso: \u0414\u0430\u043D\u0438\u0438\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442; Uf\u00E1, Baskortost\u00E1n, Rusia, 26 de abril de 1994) es un piloto ruso de automovilismo de velocidad. Debut\u00F3 en la F\u00F3rmula 1 como sustituto del piloto Daniel Ricciardo en el equipo italiano Toro Rosso para la temporada 2014, y actualmente es compa\u00F1ero de Carlos Sainz Jr. en Toro Rosso. En el a\u00F1o 2012 fue campe\u00F3n de la F\u00F3rmula Renault 2 con 7 victorias. En 2013 compiti\u00F3 en la F\u00F3rmula 3 Europea y se proclam\u00F3 campe\u00F3n de la GP3 Series."@es .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Daniil_Kvyat	dbp:birthDate	"1994-04-26"^^xsd:date .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	dbpedia-cs:Daniil_Kvjat .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	dbpedia-de:Daniil_Wjatscheslawowitsch_Kwjat .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	dbpedia-pt:Daniil_Kvyat ,
+		<http://ja.dbpedia.org/resource/\u30C0\u30CB\u30FC\u30EB\u30FB\u30AF\u30D3\u30A2\u30C8> ,
+		<http://el.dbpedia.org/resource/\u039D\u03C4\u03B1\u03BD\u03B9\u03AF\u03BB_\u039A\u03B2\u03AF\u03B1\u03C4> ,
+		wikidata:Q979668 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	dbpedia-it:Daniil_Kvjat .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	dbpedia-nl:Daniil_Kvjat ,
+		<http://rdf.freebase.com/ns/m.09gpb34> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	dbpedia-es:Daniil_Kvyat ,
+		<http://pl.dbpedia.org/resource/Danii\u0142_Kwiat> ,
+		dbr:Daniil_Kvyat .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	yago-res:Daniil_Kvyat .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	dbpedia-id:Daniil_Kvyat .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	dbpedia-fr:Daniil_Kvyat .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Daniil_Kvyat	owl:sameAs	dbpedia-wikidata:Q979668 .
+@prefix ns22:	<http://www.bbc.co.uk/things/3942939c-14fa-4768-b3c8-3d2bef605073#> .
+dbr:Daniil_Kvyat	owl:sameAs	ns22:id .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Daniil_Kvyat	dct:subject	dbc:Russian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_Renault_2.0_Alps_drivers> ,
+		<http://dbpedia.org/resource/Category:1994_births> ,
+		dbc:Russian_Formula_One_drivers ,
+		dbc:GP3_Series_Champions ,
+		dbc:Russian_expatriate_sportspeople ,
+		dbc:Toyota_Racing_Series_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_Renault_2.0_NEC_drivers> ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:British_Formula_Renault_2.0_drivers> ,
+		dbc:Toro_Rosso_Formula_One_drivers ,
+		dbc:Red_Bull_Formula_One_drivers ,
+		dbc:Formula_BMW_Europe_drivers ,
+		dbc:Living_people ,
+		dbc:Formula_BMW_Pacific_drivers ,
+		dbc:European_Formula_Three_Championship_drivers ,
+		dbc:GP3_Series_drivers ,
+		dbc:Sportspeople_from_Ufa ;
+	foaf:name	"Daniil Kvyat"@en ;
+	foaf:homepage	<http://www.daniilkvyat.me/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Kvyat_April_2016.jpg> ;
+	dct:description	"Russian racing car driver"@en ;
+	foaf:givenName	"Daniel"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Daniil_Kvyat	foaf:isPrimaryTopicOf	wikipedia-en:Daniil_Kvyat .
+@prefix ns26:	<http://dbpedia.org/datatype/> .
+dbr:Daniil_Kvyat	dbp:years	"6.27588E8"^^ns26:second ,
+		2012 ,
+		2013 ,
+		2014 ;
+	dbp:after	dbr:Antonio_Fuoco ,
+		dbr:Alex_Lynn ,
+		dbr:Max_Verstappen ,
+		"Max Verstappen"^^xsd:string ,
+		"5.520312E8"^^ns26:second .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Daniil_Kvyat	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Daniil_Kvyat?oldid=743734863> ;
+	dbo:wikiPageExternalLink	<http://www.daniilkvyat.me/> ;
+	dbp:imageSize	240 ;
+	dbp:caption	"Kvyat at the 2016 Bahrain Grand Prix"^^xsd:string ;
+	dbp:firstYear	2014 ;
+	dbp:nationality	"Russian"^^xsd:string ;
+	dbo:lastPosition	"7"^^xsd:positiveInteger ;
+	dbp:lastSeason	2015 ;
+	<http://dbpedia.org/property/2016Team>	dbr:Red_Bull_Racing ,
+		dbr:TAG_Heuer ,
+		dbr:Scuderia_Toro_Rosso ,
+		dbr:Scuderia_Ferrari ;
+	dbp:carNumber	26 ;
+	dbp:birthPlace	"Ufa, Russia"^^xsd:string ;
+	dbp:before	"6.29748E8"^^ns26:second ,
+		dbr:Sebastian_Vettel ,
+		dbr:Jules_Bianchi ,
+		<http://dbpedia.org/resource/Javier_Taranc\u00F3n> ,
+		dbr:Mitch_Evans ;
+	dbo:abstract	"Daniil Vyacheslavovich Kvyatt em russo, \u0414\u0430\u043D\u0438\u0438\u0301\u043B \u041A\u0432\u044F\u0442 (Ufa, 26 de abril de 1994) \u00E9 um automobilista russo. Defende a equipe Toro Rosso de F\u00F3rmula 1."@pt ,
+		"\u0414\u0430\u043D\u0438\u0438\u0301\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0301\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442 (\u0440\u043E\u0434. 26 \u0430\u043F\u0440\u0435\u043B\u044F 1994, \u0423\u0444\u0430, \u0420\u043E\u0441\u0441\u0438\u044F) \u2014 \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 GP3 (2013). \u0421 2014 \u0433\u043E\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1, \u0441 \u043F\u044F\u0442\u043E\u0433\u043E \u044D\u0442\u0430\u043F\u0430 \u0441\u0435\u0437\u043E\u043D\u0430 2016 \u2014 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0422\u043E\u0440\u043E \u0420\u043E\u0441\u0441\u043E\u00BB, \u043A\u0443\u0434\u0430 \u0431\u044B\u043B \u043F\u0435\u0440\u0435\u0432\u0435\u0434\u0451\u043D \u0438\u0437 \u00AB\u0420\u0435\u0434 \u0411\u0443\u043B\u043B\u0430\u00BB."@ru ,
+		"Daniil Wjatscheslawowitsch Kwjat (russisch \u0414\u0430\u043D\u0438\u0438\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442, englische Schreibweise Daniil Kvyat; * 26. April 1994 in Ufa, Baschkortostan) ist ein russischer Automobilrennfahrer. Er gewann 2013 die GP3-Serie. Seit 2014 tritt er in der Formel 1 an. 2016 startet er f\u00FCr die Scuderia Toro Rosso."@de ,
+		"Daniil Vyacheslavovich Kvyat (Russian: \u0414\u0430\u043D\u0438\u0438\u0301\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0301\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442; IPA: [d\u0259n\u02B2\u026A\u02C8il v\u02B2\u026At\u0255\u026A\u02C8slav\u0259v\u02B2\u026At\u0255 kv\u02B2at], born 26 April 1994) is a Russian auto racing driver. He was runner-up at the 2012 Eurocup Formula Renault 2.0, and GP3 Series champion in 2013. He joined Formula One as a Toro Rosso driver in 2014 finishing 15th in the World Championship. He then moved on to Red Bull Racing to partner Daniel Ricciardo for the 2015 season. He scored his first Formula One podium finish at the Hungarian Grand Prix on 26 July 2015, finishing second behind Sebastian Vettel. He returned to Toro Rosso ahead of the 2016 Spanish Grand Prix."@en ,
+		"\u4E39\u5C3C\u5C14\u00B7\u7EF4\u4E9A\u5207\u65AF\u62C9\u6C83\u7EF4\u5947\u00B7\u79D1\u7EF4\u4E9A\u7279\uFF08\u4FC4\u8BED\uFF1A\u0414\u0430\u043D\u0438\u0438\u0301\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0301\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442\uFF0C1994\u5E744\u670826\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u4FC4\u7F57\u65AF\u5DF4\u4EC0\u79D1\u723E\u6258\u65AF\u5766\u5171\u548C\u570B\u4E4C\u6CD5\uFF0C\u73B0\u5F79\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u8CFD\u8F66\u624B\uFF0C\u65BC2012\u5E74\u96F7\u8BFA\u65B9\u7A0B\u5F0F2.0\u6B27\u6D32\u676F\u4E0A\u83B7\u5F97\u4E9A\u519B\uFF0C\u5728GP3\u7CFB\u5217\u8D5B\u4E0A\u593A\u5F97\u51A0\u519B\u30022014\u8D5B\u5B63\uFF0C\u4ED6\u6210\u4E3A\u7EA2\u725B\u4E8C\u961F\u7684\u6B63\u5F0F\u8F66\u624B\u3002"@zh ,
+		"\u30C0\u30CB\u30FC\u30EB\u30FB\u30F4\u30E3\u30C1\u30A7\u30B9\u30E9\u30F4\u30A9\u30F4\u30A3\u30C3\u30C1\u30FB\u30AF\u30D3\u30A2\u30C8\uFF08Daniil Vyacheslavovich Kvyat, \u30ED\u30B7\u30A2\u8A9E: \u0414\u0430\u043D\u0438\u0438\u0301\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0301\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442 1994\u5E744\u670826\u65E5 - \uFF09\u306F\u3001\u30ED\u30B7\u30A2\u30FB\u30A6\u30D5\u30A1\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Daniil Vyacheslavovich Kvyat (en russe : \u0414\u0430\u043D\u0438\u0438\u043B \u041A\u0432\u044F\u0442), n\u00E9 le 26 avril 1994 \u00E0 Oufa en Russie, est un pilote automobile russe. Vice-champion en Eurocup Formula Renault 2.0 2012, il remporte le championnat de GP3 Series 2013 tout en participant \u00E0 quelques courses de Championnat d'Europe de Formule 3 2013. Il fait ses d\u00E9buts en Formule 1 avec la Scuderia Toro Rosso au Grand Prix d'Australie 2014 et rejoint l'\u00E9curie Red Bull Racing l'ann\u00E9e suivante, aux c\u00F4t\u00E9s de l'Australien Daniel Ricciardo. Le 5 mai 2016, Red Bull annonce sa d\u00E9cision \u00E0 effet imm\u00E9diat de transf\u00E9rer Daniil Kvyat chez Toro Rosso alors que le baquet de la voiture qu'il a pilot\u00E9 lors des quatre premiers Grand Prix de la saison 2016 est attribu\u00E9 \u00E0 Max Verstappen."@fr ,
+		"Daniil Kvjat (Russisch: \u0414\u0430\u043D\u0438\u0438\u043B \u041A\u0432\u044F\u0442) (Oefa, Basjkirostan, 26 april 1994) is een Russisch Formule 1-autocoureur. Hij rijdt voor Scuderia Toro Rosso."@nl ,
+		"Danii\u0142 Wiaczes\u0142awowicz Kwiat (ros. \u0414\u0430\u043D\u0438\u0438\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442, ur. 26 kwietnia 1994 w Ufie) \u2013 rosyjski kierowca wy\u015Bcigowy."@pl ,
+		"Daniil Viachesl\u00E1vovich Kvyat (en ruso: \u0414\u0430\u043D\u0438\u0438\u043B \u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432\u043E\u0432\u0438\u0447 \u041A\u0432\u044F\u0442; Uf\u00E1, Baskortost\u00E1n, Rusia, 26 de abril de 1994) es un piloto ruso de automovilismo de velocidad. Debut\u00F3 en la F\u00F3rmula 1 como sustituto del piloto Daniel Ricciardo en el equipo italiano Toro Rosso para la temporada 2014, y actualmente es compa\u00F1ero de Carlos Sainz Jr. en Toro Rosso. En el a\u00F1o 2012 fue campe\u00F3n de la F\u00F3rmula Renault 2 con 7 victorias. En 2013 compiti\u00F3 en la F\u00F3rmula 3 Europea y se proclam\u00F3 campe\u00F3n de la GP3 Series."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Kvyat_April_2016.jpg?width=300> ;
+	dbo:birthDate	"1994-4-26"^^xsd:date ;
+	dbo:wikiPageRevisionID	743734863 ;
+	dbo:birthPlace	dbr:Ufa ;
+	dbo:wikiPageID	25135615 ;
+	dbo:firstRace	<http://dbpedia.org/resource/2014_Australian_Grand_Prix> ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Daniil_Kvyat	ns28:hypernym	dbr:Auto ;
+	dbp:title	dbr:GP3_Series ,
+		"Champion"^^xsd:string ,
+		"Rookie of the Year"^^xsd:string ,
+		dbr:List_of_Formula_One_driver_records ,
+		dbr:Autosport_Awards ,
+		<http://dbpedia.org/resource/Formula_Renault_2.0_Alps> .
+dbr:Max_Verstappen	dbp:before	dbr:Daniil_Kvyat .
+dbr:Alex_Lynn	dbp:before	dbr:Daniil_Kvyat .
+<http://dbpedia.org/resource/2013_Silverstone_GP2_and_GP3_Series_rounds>	dbp:gp3fastDriverR	dbr:Daniil_Kvyat .
+<http://dbpedia.org/resource/2011_New_Zealand_Grand_Prix>	dbo:secondDriver	dbr:Daniil_Kvyat .
+wikipedia-en:Daniil_Kvyat	foaf:primaryTopic	dbr:Daniil_Kvyat .
+dbr:Daniel_Kvyat	dbo:wikiPageRedirects	dbr:Daniil_Kvyat .
+<http://dbpedia.org/resource/2016_Chinese_Grand_Prix>	dbo:thirdDriver	dbr:Daniil_Kvyat .
+dbr:Daniil	dbo:wikiPageDisambiguates	dbr:Daniil_Kvyat .
+dbr:Antonio_Fuoco	dbp:before	dbr:Daniil_Kvyat .
+dbr:Mitch_Evans	dbp:after	dbr:Daniil_Kvyat .
+dbr:Kvyat	dbo:wikiPageRedirects	dbr:Daniil_Kvyat .

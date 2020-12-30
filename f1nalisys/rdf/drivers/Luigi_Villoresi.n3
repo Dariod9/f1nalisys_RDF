@@ -1,0 +1,199 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1949_French_Grand_Prix>	dbo:poleDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1950_Buenos_Aires_Grand_Prix>	dbo:fastestDriver	dbr:Luigi_Villoresi ;
+	dbo:firstDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1950_San_Remo_Grand_Prix>	dbo:fastestDriver	dbr:Luigi_Villoresi ;
+	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1952_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1952_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1953_Argentine_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1953_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1949_Buenos_Aires_Grand_Prix_(III)>	dbo:poleDriver	dbr:Luigi_Villoresi ;
+	dbo:thirdDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1953_Buenos_Aires_Grand_Prix>	dbo:fastestDriver	dbr:Luigi_Villoresi ;
+	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1953_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1949_Swiss_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1953_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1949_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Luigi_Villoresi ;
+	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1950_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1951_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1951_French_Grand_Prix>	dbo:thirdDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__52__1>	dbo:firstDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__27__1>	dbo:firstDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1948_Italian_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1948_Swiss_Grand_Prix>	dbo:thirdDriver	dbr:Luigi_Villoresi .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Alfa_Romeo_Tipo_308	dbp:drivers	dbr:Luigi_Villoresi .
+dbr:Scuderia_Ambrosiana	dbp:founders	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1947_French_Grand_Prix>	dbp:fastDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1950_Pau_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1946_Nice_Grand_Prix>	dbo:poleDriver	dbr:Luigi_Villoresi ;
+	dbo:firstDriver	dbr:Luigi_Villoresi .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Luigi_Villoresi	foaf:primaryTopic	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1947_Buenos_Aires_Grand_Prix_(I)>	dbo:fastestDriver	dbr:Luigi_Villoresi ;
+	dbo:firstDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1948_Buenos_Aires_Grand_Prix_(I)>	dbo:fastestDriver	dbr:Luigi_Villoresi ;
+	dbo:firstDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1949_Buenos_Aires_Grand_Prix_(I)>	dbo:secondDriver	dbr:Luigi_Villoresi ;
+	dbp:fastDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1949_BRDC_International_Trophy>	dbo:thirdDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1948_British_Grand_Prix>	dbo:fastestDriver	dbr:Luigi_Villoresi ;
+	dbo:firstDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1948_Buenos_Aires_Grand_Prix_(II)>	dbo:fastestDriver	dbr:Luigi_Villoresi ;
+	dbo:poleDriver	dbr:Luigi_Villoresi ;
+	dbo:firstDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1949_Buenos_Aires_Grand_Prix_(II)>	dbo:fastestDriver	dbr:Luigi_Villoresi ;
+	dbo:poleDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1947_Buenos_Aires_Grand_Prix_(II)>	dbo:firstDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1949_British_Grand_Prix>	dbo:poleDriver	dbr:Luigi_Villoresi .
+dbr:Villoresi	dbo:wikiPageDisambiguates	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1947_Reims_Grand_Prix>	dbo:fastestDriver	dbr:Luigi_Villoresi .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Luigi_Villoresi	rdf:type	dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Luigi_Villoresi	rdf:type	owl:Thing ,
+		dbo:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Luigi_Villoresi	rdf:type	yago:CausalAgent100007347 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Luigi_Villoresi	rdf:type	wikidata:Q378622 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Luigi_Villoresi	rdf:type	umbel-rc:Athlete ,
+		yago:Driver110034906 ,
+		dbo:MotorsportSeason ,
+		yago:WikicatGrandPrixDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatMaseratiFormulaOneDrivers ,
+		yago:WikicatItalianRallyDrivers ,
+		yago:WikicatLanciaFormulaOneDrivers ,
+		foaf:Person ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers ,
+		umbel-rc:RaceCarDriver .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Luigi_Villoresi	rdf:type	ns10:NaturalPerson ,
+		wikidata:Q24229398 ,
+		ns10:Agent ,
+		dbo:Agent ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Luigi_Villoresi	rdf:type	schema:Person ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q5 ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatChampCarDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Luigi_Villoresi	rdfs:label	"Luigi Villoresi"@en ,
+		"Luigi Villoresi"@es ,
+		"Luigi Villoresi"@nl ,
+		"Luigi Villoresi"@pt ,
+		"\u0412\u0438\u043B\u043B\u043E\u0440\u0435\u0437\u0438, \u041B\u0443\u0438\u0434\u0436\u0438"@ru ,
+		"Luigi Villoresi"@fr ,
+		"Gigi Villoresi"@it ,
+		"Luigi Villoresi"@pl ,
+		"Luigi Villoresi"@de ;
+	rdfs:comment	"Luigi Villoresi (16 May 1909 \u2013 24 August 1997) was an Italian Grand Prix motor racing driver who continued racing on the Formula One circuit at the time of its inception."@en ,
+		"Luigi Villoresi (conhecido pelo apelido de Gigi, Mil\u00E3o, It\u00E1lia, 16 de maio de 1909 \u2013 Modena, It\u00E1lia, 24 de agosto de 1997) foi um automobilista italiano. Villoresi participou de 31 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1956. Seus melhores resultados foram os segundos lugares na Argentina e na B\u00E9lgica em 1953."@pt ,
+		"Luigi \u201EGigi\u201C Villoresi (* 16. Mai 1909 in Mailand; \u2020 24. August 1997 ebenda) war ein italienischer Formel-1-Rennfahrer."@de ,
+		"\u041B\u0443\u0438\u0301\u0434\u0436\u0438 \u0412\u0438\u043B\u043B\u043E\u0440\u0435\u0301\u0437\u0438 (\u0438\u0442\u0430\u043B. Luigi Villoresi, 16 \u043C\u0430\u044F 1909, \u041C\u0438\u043B\u0430\u043D \u2014 24 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1997, \u041C\u043E\u0434\u0435\u043D\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430, \u043E\u0434\u0438\u043D \u0438\u0437 \u043F\u0435\u0440\u0432\u044B\u0445 \u043F\u0438\u043B\u043E\u0442\u043E\u0432 Scuderia Ferrari \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1."@ru ,
+		"Luigi Villoresi (16 de mayo de 1909 Mil\u00E1n - 24 de agosto de 1997, M\u00F3dena) fue un piloto italiano de F\u00F3rmula 1 entre 1950 y 1956."@es ,
+		"Luigi Villoresi (Milaan, Lombardije, 16 mei 1909 \u2013 Modena, 24 augustus 1997) was een Italiaans autocoureur. Hij nam tussen 1950 en 1956 deel aan 34 Grands Prix Formule 1 voor de teams Ferrari, Maserati, Lancia en Scuderia Centro Sud en scoorde hierin 1 snelste ronde (Grand Prix van Nederland in 1953), 8 podia en 49 WK-punten."@nl ,
+		"Luigi Villoresi (ur. 16 maja 1909, zm. 24 sierpnia 1997) \u2013 w\u0142oski kierowca wy\u015Bcigowy. Startowa\u0142 w zespo\u0142ach Ferrari, Maserati, Lancia, Scuderia Centro Sud. O\u015Bmiokrotnie stawa\u0142 na podium, lecz nigdy nie wygra\u0142 wy\u015Bcigu Formu\u0142y 1. W 1946 roku wystartowa\u0142 w wy\u015Bcigu Indianapolis 500. Zmar\u0142 w 1997 roku."@pl ,
+		"Luigi Villoresi Luigi Villoresi, dit Gigi, (n\u00E9 le 16 mai 1909 \u00E0 Milan et mort le 24 ao\u00FBt 1997 \u00E0 Mod\u00E8ne) \u00E9tait un pilote automobile \u00ECtalien."@fr .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Luigi_Villoresi	dbp:birthDate	"1909-05-16"^^xsd:date .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Luigi_Villoresi	owl:sameAs	dbpedia-nl:Luigi_Villoresi .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Luigi_Villoresi	owl:sameAs	dbpedia-pt:Luigi_Villoresi .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Luigi_Villoresi	owl:sameAs	dbpedia-es:Luigi_Villoresi ,
+		<http://viaf.org/viaf/4337171> ,
+		<http://rdf.freebase.com/ns/m.04k203> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Luigi_Villoresi	owl:sameAs	dbpedia-pl:Luigi_Villoresi .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Luigi_Villoresi	owl:sameAs	dbpedia-it:Gigi_Villoresi .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Luigi_Villoresi	owl:sameAs	yago-res:Luigi_Villoresi .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Luigi_Villoresi	owl:sameAs	dbpedia-wikidata:Q171514 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Luigi_Villoresi	owl:sameAs	dbpedia-fr:Luigi_Villoresi ,
+		dbr:Luigi_Villoresi ,
+		wikidata:Q171514 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Luigi_Villoresi	owl:sameAs	dbpedia-de:Luigi_Villoresi .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Luigi_Villoresi	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Luigi_Villoresi	dct:subject	dbc:Maserati_Formula_One_drivers ,
+		dbc:Lancia_Formula_One_drivers ,
+		dbc:Grand_Prix_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1997_deaths> ,
+		<http://dbpedia.org/resource/Category:1909_births> ,
+		dbc:Sportspeople_from_Milan ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ;
+	foaf:name	"Luigi Villoresi"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Luigi"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Luigi_Villoresi ;
+	foaf:surname	"Villoresi"@en ;
+	dbp:points	46 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport ,
+		dbr:Scuderia_Centro_Sud ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Lancia_in_Formula_One .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Luigi_Villoresi	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Luigi_Villoresi?oldid=717768609> ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:birthPlace	"Milan, Lombardy, Italy"^^xsd:string ;
+	dbp:deathDate	"1997-08-24"^^xsd:date ;
+	dbp:deathPlace	"Modena, Emilia-Romagna, Italy"^^xsd:string ;
+	dbo:abstract	"Luigi Villoresi Luigi Villoresi, dit Gigi, (n\u00E9 le 16 mai 1909 \u00E0 Milan et mort le 24 ao\u00FBt 1997 \u00E0 Mod\u00E8ne) \u00E9tait un pilote automobile \u00ECtalien."@fr ,
+		"Luigi Villoresi (conhecido pelo apelido de Gigi, Mil\u00E3o, It\u00E1lia, 16 de maio de 1909 \u2013 Modena, It\u00E1lia, 24 de agosto de 1997) foi um automobilista italiano. Villoresi participou de 31 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1956. Seus melhores resultados foram os segundos lugares na Argentina e na B\u00E9lgica em 1953."@pt ,
+		"Luigi Villoresi (ur. 16 maja 1909, zm. 24 sierpnia 1997) \u2013 w\u0142oski kierowca wy\u015Bcigowy. Startowa\u0142 w zespo\u0142ach Ferrari, Maserati, Lancia, Scuderia Centro Sud. O\u015Bmiokrotnie stawa\u0142 na podium, lecz nigdy nie wygra\u0142 wy\u015Bcigu Formu\u0142y 1. W 1946 roku wystartowa\u0142 w wy\u015Bcigu Indianapolis 500. Zmar\u0142 w 1997 roku."@pl ,
+		"Luigi Villoresi (16 de mayo de 1909 Mil\u00E1n - 24 de agosto de 1997, M\u00F3dena) fue un piloto italiano de F\u00F3rmula 1 entre 1950 y 1956."@es ,
+		"Luigi Villoresi (Milaan, Lombardije, 16 mei 1909 \u2013 Modena, 24 augustus 1997) was een Italiaans autocoureur. Hij nam tussen 1950 en 1956 deel aan 34 Grands Prix Formule 1 voor de teams Ferrari, Maserati, Lancia en Scuderia Centro Sud en scoorde hierin 1 snelste ronde (Grand Prix van Nederland in 1953), 8 podia en 49 WK-punten."@nl ,
+		"Luigi \u201EGigi\u201C Villoresi (* 16. Mai 1909 in Mailand; \u2020 24. August 1997 ebenda) war ein italienischer Formel-1-Rennfahrer."@de ,
+		"\u041B\u0443\u0438\u0301\u0434\u0436\u0438 \u0412\u0438\u043B\u043B\u043E\u0440\u0435\u0301\u0437\u0438 (\u0438\u0442\u0430\u043B. Luigi Villoresi, 16 \u043C\u0430\u044F 1909, \u041C\u0438\u043B\u0430\u043D \u2014 24 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1997, \u041C\u043E\u0434\u0435\u043D\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430, \u043E\u0434\u0438\u043D \u0438\u0437 \u043F\u0435\u0440\u0432\u044B\u0445 \u043F\u0438\u043B\u043E\u0442\u043E\u0432 Scuderia Ferrari \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1."@ru ,
+		"Luigi Villoresi (16 May 1909 \u2013 24 August 1997) was an Italian Grand Prix motor racing driver who continued racing on the Formula One circuit at the time of its inception."@en ;
+	dbo:birthDate	"1909-5-16"^^xsd:date ;
+	dbo:deathDate	"1997-8-24"^^xsd:date ;
+	dbo:deathPlace	dbr:Milan ;
+	dbo:wikiPageRevisionID	717768609 ;
+	dbo:birthPlace	dbr:Milan ;
+	dbo:wikiPageID	1226496 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_Monaco_Grand_Prix> ;
+	dbo:races	"34"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1956_Italian_Grand_Prix> ;
+	dbo:podiums	"8"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Luigi_Villoresi	ns26:hypernym	dbr:Motor .
+dbr:Gianni_Marzotto	dbp:after	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1948_San_Remo_Grand_Prix>	dbo:fastestDriver	dbr:Luigi_Villoresi ;
+	dbo:secondDriver	dbr:Luigi_Villoresi .
+<http://dbpedia.org/resource/1951_British_Grand_Prix>	dbo:thirdDriver	dbr:Luigi_Villoresi .
+dbr:Gigi_Villoresi	dbo:wikiPageRedirects	dbr:Luigi_Villoresi .

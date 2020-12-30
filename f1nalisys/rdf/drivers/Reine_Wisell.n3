@@ -1,0 +1,147 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1970_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Reine_Wisell .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__47__1>	dbo:firstDriver	dbr:Reine_Wisell .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Reine_Wisell	foaf:primaryTopic	dbr:Reine_Wisell .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Roskilde_Ring	dbp:recordDriver	dbr:Reine_Wisell .
+dbr:Ronnie_Peterson	dbp:before	dbr:Reine_Wisell .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__26__1>	dbo:firstDriver	dbr:Reine_Wisell .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Reine_Wisell	rdf:type	yago:WikicatTeamLotusFormulaOneDrivers ,
+		foaf:Person ,
+		yago:WikicatBRMFormulaOneDrivers .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Reine_Wisell	rdf:type	ns7:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Reine_Wisell	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Reine_Wisell	rdf:type	schema:Person ,
+		ns7:NaturalPerson ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		dbo:FormulaOneRacer ,
+		dbo:RacingDriver ,
+		yago:WikicatSwedishFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Reine_Wisell	rdf:type	owl:Thing ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Reine_Wisell	rdfs:label	"Reine Wisell"@pt ,
+		"Reine Wisell"@fr ,
+		"Reine Wisell"@en ,
+		"Reine Wisell"@it ,
+		"\u0412\u0438\u0441\u0435\u043B\u043B\u044C, \u0420\u0435\u0439\u043D\u0435"@ru ,
+		"Reine Wisell"@pl ,
+		"Reine Wisell"@nl ,
+		"Reine Wisell"@es ,
+		"\u30EC\u30A4\u30CD\u30FB\u30A6\u30A3\u30BB\u30EB"@ja ,
+		"Reine Wisell"@de ;
+	rdfs:comment	"\u0420\u0435\u0439\u043D\u0435 \u0412\u0438\u0441\u0435\u043B\u043B\u044C (\u0448\u0432\u0435\u0434. Reine Wisell, 30 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1941 \u0433\u043E\u0434\u0430, \u041C\u0443\u0442\u0430\u043B\u0430) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0428\u0432\u0435\u0446\u0438\u0438 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 1967 \u0433\u043E\u0434\u0430."@ru ,
+		"Reine Tore Leif Wisell (Motala, 30 de setembro de 1941) \u00E9 um ex-automobilista sueco. Disputou 23 provas de F\u00F3rmula 1 entre 1970 e 1974, conseguiu um p\u00F3dio e marcou treze pontos no total."@pt ,
+		"\u30EC\u30A4\u30CD\u30FB\u30A6\u30A3\u30BB\u30EB\uFF08Reine Wisell, 1941\u5E749\u670830\u65E5 - \uFF09\u306F\u3001\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u30FB\u30E2\u30BF\u30E9\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Campione svedese di Formula 3 nel 1967, aveva uno stile di guida regolare e costante. Nel 1970 fece il suo esordio nella massima serie automobilistica, in cui ottenne un terzo posto come miglior risultato, correndo per Lotus, BRM e March. Terminata l'esperienza in Formula 1 nel 1974, si dedic\u00F2 soprattutto a gare a ruote coperte fino al ritiro, avvenuto durante gli anni ottanta."@it ,
+		"Reine Wisell (* 30. September 1941 in Motala) ist ein ehemaliger schwedischer Automobilrennfahrer, der zwischen 1970 und 1974 in der Formel 1 fuhr."@de ,
+		"Reine Tore Leif Wisell (ur. 30 wrze\u015Bnia 1941 w Motali) \u2013 szwedzki kierowca wy\u015Bcigowy."@pl ,
+		"Reine Wisell (born September 30, 1941) is a former racing driver from Sweden. He participated in 23 Formula One World Championship Grands Prix, debuting on October 4, 1970. He achieved 1 podium, and scored a total of 13 championship points. He also participated in several non-Championship Formula One races. He won the Swedish Formula 3 Championship in 1967 and three years later he made the big step and signed with Team Lotus who were the best team this year. In the 1970 United States Grand Prix in Watkins Glen, Wisell raced for Lotus who made their return in the championship after Jochen Rindt's death at Monza. Rindt's death caused his teammate John Miles to retire and Wisell replaced him. His first grand prix was the best in his career as he achieved a third-place finish, trailing only hi"@en ,
+		"Reine Wisell (30 de septiembre de 1941, Motala, \u00D6sterg\u00F6tland) es un expiloto de carreras sueco. Particip\u00F3 en 23 Grandes Premios de F\u00F3rmula 1, que debutando el 4 de octubre de 1970, en el Gran Premio de  Estados Unidos, con Lotus. En dicha categor\u00EDa obtuvo un podio, y se anot\u00F3 un total de 13 puntos en la cuatro temporadas que disput\u00F3."@es ,
+		"Reine WisellFichier:Reine Wisell 1970 N\u00FCrburgring.JPG Reine Wisell en 1970 au N\u00FCrburgring Reine Wisell (n\u00E9 le 30 septembre 1941 \u00E0 Motala, en Su\u00E8de) est un ancien pilote automobile.Il a particip\u00E9 \u00E0 23 Grands prix de Formule 1, fini une fois sur le podium et a marqu\u00E9 13 points durant sa carri\u00E8re."@fr ,
+		"Reine Wisell (Motala, 30 september 1941) is een autocoureur uit Zweden. Hij behaalde een podiumplaats in de Formule 1. Wisell was een generatiegenoot van Ronnie Peterson en reed vaak tegen hem in lagere categorie\u00EBn, waaronder in de Formule 3. In 1970 kreeg Wisell, in navolging van Peterson, een kans in de Formule 1. Hij werd de vervanger van de omgekomen Jochen Rindt bij Lotus. Zijn teamgenoot was de eveneens onervaren Emerson Fittipaldi."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Reine_Wisell	dbp:birthDate	"1941-09-30"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Reine_Wisell	owl:sameAs	dbpedia-it:Reine_Wisell .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Reine_Wisell	owl:sameAs	dbpedia-de:Reine_Wisell ,
+		wikidata:Q172262 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Reine_Wisell	owl:sameAs	dbpedia-pl:Reine_Wisell ,
+		<http://ja.dbpedia.org/resource/\u30EC\u30A4\u30CD\u30FB\u30A6\u30A3\u30BB\u30EB> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Reine_Wisell	owl:sameAs	dbpedia-fr:Reine_Wisell .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Reine_Wisell	owl:sameAs	yago-res:Reine_Wisell .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Reine_Wisell	owl:sameAs	dbpedia-es:Reine_Wisell ,
+		dbr:Reine_Wisell .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Reine_Wisell	owl:sameAs	dbpedia-nl:Reine_Wisell ,
+		<http://rdf.freebase.com/ns/m.04kylr> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Reine_Wisell	owl:sameAs	dbpedia-pt:Reine_Wisell .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Reine_Wisell	owl:sameAs	dbpedia-wikidata:Q172262 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Reine_Wisell	dct:subject	dbc:BRM_Formula_One_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1941_births> ,
+		dbc:March_Formula_One_drivers ,
+		dbc:Swedish_racing_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Swedish_Formula_One_drivers ;
+	foaf:name	"Reine Wisell"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Reine_Wisell_1970_N\u00FCrburgring.JPG> ;
+	dct:description	"Swedish racing driver"@en ;
+	foaf:givenName	"Reine"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Reine_Wisell ;
+	foaf:surname	"Wisell"@en ;
+	dbp:points	13 ;
+	dbp:years	"-"^^xsd:string ,
+		1967 ;
+	dbp:after	dbr:Ronnie_Peterson ;
+	<http://dbpedia.org/property/team(s)_>	"Lotus, BRM, March inc. non-works"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Reine_Wisell	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Reine_Wisell?oldid=703981002> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-wisrei.html> ;
+	dbp:caption	"Reine Wisell"^^xsd:string ;
+	dbp:nationality	"Swedish"^^xsd:string ;
+	dbp:birthPlace	"Motala, Sweden"^^xsd:string ;
+	dbp:before	dbr:Freddy_Kottulinsky ;
+	dbo:abstract	"Reine WisellFichier:Reine Wisell 1970 N\u00FCrburgring.JPG Reine Wisell en 1970 au N\u00FCrburgring Reine Wisell (n\u00E9 le 30 septembre 1941 \u00E0 Motala, en Su\u00E8de) est un ancien pilote automobile.Il a particip\u00E9 \u00E0 23 Grands prix de Formule 1, fini une fois sur le podium et a marqu\u00E9 13 points durant sa carri\u00E8re."@fr ,
+		"\u30EC\u30A4\u30CD\u30FB\u30A6\u30A3\u30BB\u30EB\uFF08Reine Wisell, 1941\u5E749\u670830\u65E5 - \uFF09\u306F\u3001\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u30FB\u30E2\u30BF\u30E9\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Reine Wisell (born September 30, 1941) is a former racing driver from Sweden. He participated in 23 Formula One World Championship Grands Prix, debuting on October 4, 1970. He achieved 1 podium, and scored a total of 13 championship points. He also participated in several non-Championship Formula One races. He won the Swedish Formula 3 Championship in 1967 and three years later he made the big step and signed with Team Lotus who were the best team this year. In the 1970 United States Grand Prix in Watkins Glen, Wisell raced for Lotus who made their return in the championship after Jochen Rindt's death at Monza. Rindt's death caused his teammate John Miles to retire and Wisell replaced him. His first grand prix was the best in his career as he achieved a third-place finish, trailing only his teammate and future champion Emerson Fittipaldi and Pedro Rodr\u00EDguez and finishing ahead of title contender Jacky Ickx. This result was Wisell's best, as the subsequent years were not so good for him, and he retired after his home grand prix in 1974."@en ,
+		"Reine Tore Leif Wisell (ur. 30 wrze\u015Bnia 1941 w Motali) \u2013 szwedzki kierowca wy\u015Bcigowy."@pl ,
+		"Reine Wisell (30 de septiembre de 1941, Motala, \u00D6sterg\u00F6tland) es un expiloto de carreras sueco. Particip\u00F3 en 23 Grandes Premios de F\u00F3rmula 1, que debutando el 4 de octubre de 1970, en el Gran Premio de  Estados Unidos, con Lotus. En dicha categor\u00EDa obtuvo un podio, y se anot\u00F3 un total de 13 puntos en la cuatro temporadas que disput\u00F3."@es ,
+		"Reine Wisell (Motala, 30 september 1941) is een autocoureur uit Zweden. Hij behaalde een podiumplaats in de Formule 1. Wisell was een generatiegenoot van Ronnie Peterson en reed vaak tegen hem in lagere categorie\u00EBn, waaronder in de Formule 3. In 1970 kreeg Wisell, in navolging van Peterson, een kans in de Formule 1. Hij werd de vervanger van de omgekomen Jochen Rindt bij Lotus. Zijn teamgenoot was de eveneens onervaren Emerson Fittipaldi. Tijdens de Amerikaanse Grand Prix dat jaar won Fittipaldi en werd Wisell derde waarna beiden mochten blijven in 1971. Maar waar Fittipaldi zou doorbreken wist Wisell niet te imponeren en na het seizoen kon hij vertrekken. Een opnieuw moeizaam jaar met de onbetrouwbare BRM volgde, voor Lotus hem eenmalig als invaller terughaalde. In 1973 en 1974 reed Wisell nog incidenteel in de Formule 1, maar in de tweede helft van de jaren zeventig was zijn autoracecarri\u00E8re op topsport-niveau voorbij."@nl ,
+		"Campione svedese di Formula 3 nel 1967, aveva uno stile di guida regolare e costante. Nel 1970 fece il suo esordio nella massima serie automobilistica, in cui ottenne un terzo posto come miglior risultato, correndo per Lotus, BRM e March. Terminata l'esperienza in Formula 1 nel 1974, si dedic\u00F2 soprattutto a gare a ruote coperte fino al ritiro, avvenuto durante gli anni ottanta."@it ,
+		"Reine Tore Leif Wisell (Motala, 30 de setembro de 1941) \u00E9 um ex-automobilista sueco. Disputou 23 provas de F\u00F3rmula 1 entre 1970 e 1974, conseguiu um p\u00F3dio e marcou treze pontos no total."@pt ,
+		"\u0420\u0435\u0439\u043D\u0435 \u0412\u0438\u0441\u0435\u043B\u043B\u044C (\u0448\u0432\u0435\u0434. Reine Wisell, 30 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1941 \u0433\u043E\u0434\u0430, \u041C\u0443\u0442\u0430\u043B\u0430) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0428\u0432\u0435\u0446\u0438\u0438 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 1967 \u0433\u043E\u0434\u0430."@ru ,
+		"Reine Wisell (* 30. September 1941 in Motala) ist ein ehemaliger schwedischer Automobilrennfahrer, der zwischen 1970 und 1974 in der Formel 1 fuhr."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Reine_Wisell_1970_N\u00FCrburgring.JPG?width=300> ;
+	dbo:birthDate	"1941-9-30"^^xsd:date ;
+	dbo:wikiPageRevisionID	703981002 ;
+	dbo:birthPlace	dbr:Motala ;
+	dbo:wikiPageID	1235871 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1970_United_States_Grand_Prix> ;
+	dbo:races	"23"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1974_Swedish_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Reine_Wisell	ns25:hypernym	dbr:Driver ;
+	dbp:title	dbr:Formula_Three .
+<http://dbpedia.org/resource/1974_24_Hours_of_Le_Mans__41__1>	dbo:firstDriver	dbr:Reine_Wisell .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__22__1>	dbo:firstDriver	dbr:Reine_Wisell .
+<http://dbpedia.org/resource/1970_1000km_of_Brands_Hatch__7__1>	dbo:firstDriver	dbr:Reine_Wisell .
+<http://dbpedia.org/resource/1970_1000km_of_Spa-Francorchamps__10__1>	dbo:firstDriver	dbr:Reine_Wisell .
+<http://dbpedia.org/resource/1970_Watkins_Glen_6_Hours__8__1>	dbo:firstDriver	dbr:Reine_Wisell .

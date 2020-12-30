@@ -1,0 +1,133 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__37th__1>	dbo:firstDriver	dbr:Giulio_Cabianca .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Alan_Stacey	dbp:after	dbr:Giulio_Cabianca .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Giulio_Cabianca	foaf:primaryTopic	dbr:Giulio_Cabianca .
+dbr:Wolfgang_von_Trips	dbp:before	dbr:Giulio_Cabianca .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Giulio_Cabianca	rdf:type	wikidata:Q215627 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Giulio_Cabianca	rdf:type	ns7:Agent ,
+		wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Giulio_Cabianca	rdf:type	yago:WikicatItalianFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Giulio_Cabianca	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Giulio_Cabianca	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatEcurieBonnierFormulaOneDrivers ,
+		foaf:Person ,
+		yago:CausalAgent100007347 ,
+		yago:Driver110034906 ,
+		dbo:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q378622 ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Giulio_Cabianca	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Agent ,
+		yago:WikicatOSCAFormulaOneDrivers ,
+		ns7:NaturalPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Giulio_Cabianca	rdfs:label	"\u041A\u0430\u0431\u044C\u044F\u043D\u043A\u0430, \u0414\u0436\u0443\u043B\u0438\u043E"@ru ,
+		"Giulio Cabianca"@it ,
+		"Giulio Cabianca"@pl ,
+		"Giulio Cabianca"@fr ,
+		"Giulio Cabianca"@nl ,
+		"Giulio Cabianca"@en ,
+		"Giulio Cabianca"@pt ,
+		"Giulio Cabianca"@de ;
+	rdfs:comment	"Giulio Cabianca, n\u00E9 le 19 f\u00E9vrier 1923 \u00E0 V\u00E9rone et d\u00E9c\u00E9d\u00E9 le 15 juin 1961 \u00E0 Mod\u00E8ne, \u00E9tait un pilote automobile italien sur circuits automobiles, \u00E0 bord de voitures de sport et de monoplaces."@fr ,
+		"Giulio Cabianca (Verona, 19 de fevereiro de 1923  \u2014 M\u00F3dena, 15 de junho de 1961) foi um automobilista italiano. Cabianca participou de quatro grandes-pr\u00EAmios de F\u00F3rmula 1, tendo como melhor resultado um quarto lugar na It\u00E1lia em 1960, conquistando os \u00FAnicos 3 pontos de sua carreira no Mundial de Pilotos. Faleceu em acidente quando testava um Cooper no Aut\u00F3dromo de M\u00F3dena. Sem freios, invadiu uma via p\u00FAblica e bateu em um T\u00E1xi, matando o motorista e dois passageiros."@pt ,
+		"Giulio Cabianca (ur. 19 lutego 1923 w Weronie, zm. 15 czerwca 1961 w Modenie) \u2013 w\u0142oski kierowca wy\u015Bcigowy, w latach 1958-1960 startowa\u0142 w wy\u015Bcigach Formu\u0142y 1. Je\u017Adzi\u0142 w bolidach zespo\u0142\u00F3w O.S.C.A., Jo Bonnier, Ottorino Volonterio i Eugenio Castellotti. Wystartowa\u0142 w 4 wy\u015Bcigach Formu\u0142y 1, raz zdobywaj\u0105c 3 punkty. Cabianca zgin\u0105\u0142 w wypadku samochodowym."@pl ,
+		"Giulio Cabianca (* 19. Februar 1923 in Verona; \u2020 15. Juni 1961 in Modena) war ein italienischer Rennfahrer."@de ,
+		"Giulio Cabianca (February 19, 1923 \u2013 June 15, 1961) was a Formula One driver from Italy. Cabianca was born in Verona, northern Italy. He participated in 4 World Championship Grands Prix, debuting on May 18, 1958. He scored a total of 3 championship points. He also participated in one non-Championship Formula One race. He also won the Dolomites Gold Cup Race in 1955."@en ,
+		"\u0414\u0436\u0443\u043B\u0438\u043E \u041A\u0430\u0431\u044C\u044F\u043D\u043A\u0430 (\u0438\u0442\u0430\u043B. Giulio Cabianca, 18 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1923, \u0412\u0435\u0440\u043E\u043D\u0430, \u0418\u0442\u0430\u043B\u0438\u044F \u2014 15 \u0438\u044E\u043D\u044F 1961, \u041C\u043E\u0434\u0435\u043D\u0430, \u0418\u0442\u0430\u043B\u0438\u044F) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0433\u043E\u043D\u043E\u043A \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Giulio Cabianca (Verona, 19 februari 1923 \u2013 Modena, 15 juni 1961) was een Formule 1-coureur uit Itali\u00EB. Hij reed 4 Grands Prix tussen 1958 en 1960 voor de teams OSCA, Maserati en Cooper. Zijn beste resultaat was in de Grand Prix van Itali\u00EB van 1960; hij werd hier vierde."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Giulio_Cabianca	dbp:birthDate	"1923-02-19"^^xsd:date .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Giulio_Cabianca	owl:sameAs	dbpedia-fr:Giulio_Cabianca .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Giulio_Cabianca	owl:sameAs	dbpedia-pt:Giulio_Cabianca ,
+		wikidata:Q711156 ,
+		dbr:Giulio_Cabianca ,
+		<http://rdf.freebase.com/ns/m.04k8rh> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Giulio_Cabianca	owl:sameAs	dbpedia-pl:Giulio_Cabianca .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Giulio_Cabianca	owl:sameAs	yago-res:Giulio_Cabianca .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Giulio_Cabianca	owl:sameAs	dbpedia-wikidata:Q711156 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Giulio_Cabianca	owl:sameAs	dbpedia-nl:Giulio_Cabianca .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Giulio_Cabianca	owl:sameAs	dbpedia-it:Giulio_Cabianca .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Giulio_Cabianca	owl:sameAs	dbpedia-de:Giulio_Cabianca .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Giulio_Cabianca	dct:subject	dbc:OSCA_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1961_deaths> ,
+		dbc:Sport_deaths_in_Italy ,
+		<http://dbpedia.org/resource/Category:1923_births> ,
+		dbc:Sportspeople_from_Verona ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Ecurie_Bonnier_Formula_One_drivers ;
+	foaf:name	"Giulio Cabianca"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Giulio"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Giulio_Cabianca ;
+	foaf:surname	"Cabianca"@en ;
+	dbp:points	3 ;
+	dbp:years	"-"^^xsd:string ,
+		"1961-06-15"^^xsd:date ;
+	dbp:after	dbr:Wolfgang_Von_Trips ;
+	<http://dbpedia.org/property/team(s)_>	"O.S.C.A., non-works Maserati & Cooper"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Giulio_Cabianca	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Giulio_Cabianca?oldid=694066598> ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:birthPlace	"Verona, Italy"^^xsd:string ;
+	dbp:deathDate	"1961-06-15"^^xsd:date ;
+	dbp:before	dbr:Alan_Stacey ;
+	dbp:deathPlace	"Modena Autodrome, Italy"^^xsd:string ;
+	dbo:abstract	"Giulio Cabianca (February 19, 1923 \u2013 June 15, 1961) was a Formula One driver from Italy. Cabianca was born in Verona, northern Italy. He participated in 4 World Championship Grands Prix, debuting on May 18, 1958. He scored a total of 3 championship points. He also participated in one non-Championship Formula One race. He also won the Dolomites Gold Cup Race in 1955. Cabianca's death resulted from a bizarre incident at the Modena Autodrome test track in Italy. The Modena Autodrome was situated near Via Emilia, which crosses the city of Modena. Cabianca was testing a Cooper-Ferrari F1 car, owned by Scuderia Castellotti, when he suffered a suspected stuck throttle. Unable to stop, his Cooper went off track, struck a spectator and then went through the gate of the Autodrome which was open because of men at work near the track. The car crossed the Via Emilia and crashed against the wall of a workshop. Crossing the road, Cabianca's Cooper struck a bicycle, a motorcycle, and a small mini-van (not a taxi as often reported) and three parked cars. The driver of the mini-van (also called \"giardinetta\" following a famous van of Fiat) and the motorcycle driver were killed at the scene. The biker was crushed and killed instantly by a heavy block of iron carried on the mini-van. Cabianca was conscious, but died a few hours later at the hospital. The spectator hit just after the car left the track suffered severe leg injuries, but survived."@en ,
+		"Giulio Cabianca (* 19. Februar 1923 in Verona; \u2020 15. Juni 1961 in Modena) war ein italienischer Rennfahrer."@de ,
+		"\u0414\u0436\u0443\u043B\u0438\u043E \u041A\u0430\u0431\u044C\u044F\u043D\u043A\u0430 (\u0438\u0442\u0430\u043B. Giulio Cabianca, 18 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1923, \u0412\u0435\u0440\u043E\u043D\u0430, \u0418\u0442\u0430\u043B\u0438\u044F \u2014 15 \u0438\u044E\u043D\u044F 1961, \u041C\u043E\u0434\u0435\u043D\u0430, \u0418\u0442\u0430\u043B\u0438\u044F) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0433\u043E\u043D\u043E\u043A \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Giulio Cabianca (Verona, 19 de fevereiro de 1923  \u2014 M\u00F3dena, 15 de junho de 1961) foi um automobilista italiano. Cabianca participou de quatro grandes-pr\u00EAmios de F\u00F3rmula 1, tendo como melhor resultado um quarto lugar na It\u00E1lia em 1960, conquistando os \u00FAnicos 3 pontos de sua carreira no Mundial de Pilotos. Faleceu em acidente quando testava um Cooper no Aut\u00F3dromo de M\u00F3dena. Sem freios, invadiu uma via p\u00FAblica e bateu em um T\u00E1xi, matando o motorista e dois passageiros."@pt ,
+		"Giulio Cabianca (ur. 19 lutego 1923 w Weronie, zm. 15 czerwca 1961 w Modenie) \u2013 w\u0142oski kierowca wy\u015Bcigowy, w latach 1958-1960 startowa\u0142 w wy\u015Bcigach Formu\u0142y 1. Je\u017Adzi\u0142 w bolidach zespo\u0142\u00F3w O.S.C.A., Jo Bonnier, Ottorino Volonterio i Eugenio Castellotti. Wystartowa\u0142 w 4 wy\u015Bcigach Formu\u0142y 1, raz zdobywaj\u0105c 3 punkty. Cabianca zgin\u0105\u0142 w wypadku samochodowym."@pl ,
+		"Giulio Cabianca, n\u00E9 le 19 f\u00E9vrier 1923 \u00E0 V\u00E9rone et d\u00E9c\u00E9d\u00E9 le 15 juin 1961 \u00E0 Mod\u00E8ne, \u00E9tait un pilote automobile italien sur circuits automobiles, \u00E0 bord de voitures de sport et de monoplaces."@fr ,
+		"Giulio Cabianca (Verona, 19 februari 1923 \u2013 Modena, 15 juni 1961) was een Formule 1-coureur uit Itali\u00EB. Hij reed 4 Grands Prix tussen 1958 en 1960 voor de teams OSCA, Maserati en Cooper. Zijn beste resultaat was in de Grand Prix van Itali\u00EB van 1960; hij werd hier vierde."@nl ;
+	dbo:birthDate	"1923-2-19"^^xsd:date ;
+	dbo:deathDate	"1961-6-15"^^xsd:date ;
+	dbo:deathPlace	dbr:Modena ;
+	dbo:wikiPageRevisionID	694066598 ;
+	dbo:birthPlace	dbr:Verona ;
+	dbo:wikiPageID	1228423 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1958_Monaco_Grand_Prix> ;
+	dbo:races	"4"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1960_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Giulio_Cabianca	ns25:hypernym	dbr:Driver ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__11__1>	dbo:firstDriver	dbr:Giulio_Cabianca .

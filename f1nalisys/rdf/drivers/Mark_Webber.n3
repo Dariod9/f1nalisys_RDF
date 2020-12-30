@@ -1,0 +1,329 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2013_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Mark_Webber	rdf:type	dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mark_Webber	rdf:type	wikidata:Q5 ,
+		wikidata:Q378622 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mark_Webber	rdf:type	yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatFIAWorldEnduranceChampionshipDrivers ,
+		yago:WikicatAustralianFormulaOneDrivers ,
+		yago:WikicatFIAGTChampionshipDrivers ,
+		yago:WikicatRacingDriversFromNewSouthWales ,
+		yago:WikicatFormulaHoldenDrivers ,
+		yago:WikicatRedBullFormulaOneDrivers ,
+		wikidata:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mark_Webber	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Mark_Webber	rdf:type	schema:Person .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mark_Webber	rdf:type	ns7:Agent ,
+		yago:WikicatMinardiFormulaOneDrivers ,
+		ns7:NaturalPerson ,
+		dbo:RacingDriver ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatFormulaFordDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:Operator110378412 ,
+		dbo:Person ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatJaguarFormulaOneDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Mark_Webber	rdf:type	foaf:Person ,
+		yago:Driver110034906 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mark_Webber	rdf:type	umbel-rc:RaceCarDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mark_Webber	rdfs:label	"Mark Webber"@en ,
+		"Mark Webber"@pl ,
+		"Mark Webber"@fr ,
+		"\u9A6C\u514B\u00B7\u97E6\u4F2F"@zh ,
+		"\u0645\u0627\u0631\u0643 \u0648\u064A\u0628\u0631"@ar ,
+		"Mark Webber"@it ,
+		"\u0423\u044D\u0431\u0431\u0435\u0440, \u041C\u0430\u0440\u043A"@ru ,
+		"Mark Webber"@de ,
+		"Mark Webber"@pt ,
+		"Mark Webber"@nl ,
+		"\u30DE\u30FC\u30AF\u30FB\u30A6\u30A7\u30D0\u30FC"@ja ,
+		"Mark Webber"@es ;
+	rdfs:comment	"\u9A6C\u514B\u00B7\u827E\u4F26\u00B7\u97CB\u4F2F\uFF08Mark Alan Webber\uFF0C1976\u5E748\u670827\u65E5\uFF0D\uFF09\u751F\u65BC\u6606\u6BD4\u6069 - \u662F\u6FB3\u5927\u5229\u4E9A\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8FD0\u52A8\u5458\uFF0C2013\u5E74\u6700\u5F8C\u6548\u529B\u4E8E\u7D05\u725B\u8ECA\u968A\u3002\u73FE\u6642\u4ED6\u9000\u51FA\u4E86\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u6B63\u5F0F\u6548\u529B\u4FDD\u6642\u6377\u8ECA\u968A\u3002\u7236\u89AA\u662F\u7576\u5730\u4E00\u540D\u8ECA\u884C\u8001\u95C6\u3002\u4ED6\u662F\u81EA\u5927\u536B\u00B7\u5E03\u62C9\u6C49\u59C6\u57281994\u5E74\u5F8C\u53E6\u4E00\u4F4D\u6FB3\u6D32\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8ECA\u624B\u3002\u6B64\u5916\u662F\u81EA\u827E\u502B\u00B7\u74CA\u65AF\u5F8C\uFF0C\u7B2C\u4E8C\u4F4D\u52DD\u51FA\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u4E8B\u7684\u6FB3\u6D32\u8ECA\u624B\u3002"@zh ,
+		"Mark Alan Webber (Queanbeyan, 27 de Agosto de 1976) \u00E9 um automobilista australiano que participou do campeonato mundial de F\u00F3rmula 1.E em 2014 Participou do Campeonato Mundial de Endurance da FIA"@pt ,
+		"\u0645\u0627\u0631\u0643 \u0622\u0644\u0627\u0646 \u0648\u064A\u0628\u0631 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Mark Alan Webber) (\u0648\u0644\u062F \u0641\u064A 27 \u0623\u063A\u0633\u0637\u0633 1976 \u0641\u064A \u0643\u0648\u064A\u0646\u0628\u064A\u0627\u0646\u060C \u0646\u064A\u0648 \u0633\u0627\u0648\u062B \u0648\u064A\u0644\u0632) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0633\u0628\u0627\u0642 \u0623\u0633\u062A\u0631\u0627\u0644\u064A \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A 2009 \u060C \u0623\u0635\u0628\u062D \u0623\u0648\u0644 \u0623\u0633\u062A\u0631\u0627\u0644\u064A \u064A\u0641\u0648\u0632 \u0628\u0627\u0644\u0633\u0628\u0627\u0642 \u0645\u0646\u0630 \u0623\u0644\u0627\u0646 \u062C\u0648\u0646\u0632 \u0641\u064A \u0627\u0644\u0639\u0627\u0645 1981. \u0628\u0639\u062F \u0628\u0639\u0636 \u0627\u0644\u0646\u062C\u0627\u062D \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0641\u064A \u0639\u0627\u0645 1995 \u0644\u0625\u0636\u0627\u0641\u0629 \u0627\u0644\u0645\u0632\u064A\u062F \u0625\u0644\u0649 \u0645\u0633\u064A\u0631\u062A\u0647 \u0641\u064A \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A. \u0648\u0628\u062F\u0623 \u0648\u064A\u0628\u0631 \u0634\u0631\u0627\u0643\u0629 \u0645\u0639 \u0632\u0645\u064A\u0644\u0647 \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A \u0628\u0648\u0644 \u0633\u062A\u0648\u062F\u0627\u0631\u062A \u0635\u0627\u062D\u0628 \u0641\u0631\u064A\u0642 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 3000 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u060C \u0648\u0627\u0644\u062A\u064A \u0642\u0627\u062F\u062A\u0647 \u0641\u064A \u0646\u0647\u0627\u064A\u0629 \u0627\u0644\u0645\u0637\u0627\u0641 \u0625\u0644\u0649 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0639\u0646\u062F\u0645\u0627 \u0627\u0634\u062A\u0631\u0649 \u0633\u062A\u0648\u062F\u0627\u0631\u062A \u0641\u0631\u064A\u0642 \u0645\u064A\u0646\u0627\u0631\u062F\u064A."@ar ,
+		"Mark Alan Webber, n\u00E9 le 27 ao\u00FBt 1976 \u00E0 Queanbeyan en Australie, est un pilote automobile australien qui a disput\u00E9 le championnat du monde de Formule 1 de la saison 2002 \u00E0 la saison 2013. Il se consacre ensuite \u00E0 l'endurance avec Porsche. Il est sacr\u00E9 champion du monde d'endurance en 2015."@fr ,
+		"Mark Alan Webber (Queanbeyan, Nieuw-Zuid-Wales, 27 augustus 1976) is een Australisch autocoureur. Zijn grootste overwinning is de GP van Duitsland op de N\u00FCrburgring in 2009. Webber begon zijn carri\u00E8re in de karting en Formule Ford en vertrok in 1996 naar Groot-Brittanni\u00EB omdat daar meer kansen lagen. Na een seizoen in de Formule 3 reed hij vanaf 1998 voor Mercedes-Benz in het GT-kampioenschap. Na 2 crashes tijdens de 24 uur van Le Mans in 1999 richtte Webber zich op de eenzitters en kwam in 2000 uit in de Formule 3000 bij het team van Paul Stoddart. Ook in 2001 reed hij in deze klasse en werd toen tweede in de eindstand."@nl ,
+		"Mark Alan Webber (Queanbeyan, Australia, 27 de agosto de 1976), es un piloto de automovilismo de velocidad australiano. Compiti\u00F3 en la F\u00F3rmula 1 desde el a\u00F1o 2002 hasta 2013, donde sum\u00F3 9 victorias, 42 podios y 13 pole positions, as\u00ED como el tercer puesto del campeonato en 2010, 2011 y 2013, y el cuarto en 2009. Form\u00F3 parte de los equipos Minardi, Jaguar, Williams y Red Bull. En 2014 dej\u00F3 la F\u00F3rmula 1 para competir en el Campeonato Mundial de Resistencia como piloto oficial de Porsche, resultando campe\u00F3n en 2015."@es ,
+		"\u30DE\u30FC\u30AF\u30FB\u30A2\u30E9\u30F3\u30FB\u30A6\u30A7\u30D0\u30FC\uFF08Mark Alan Webber, 1976\u5E748\u670827\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308A\u3001\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u65E5\u672C\u306E\u30DE\u30B9\u30E1\u30C7\u30A3\u30A2\u306B\u304A\u3044\u3066\u3001\u59D3\u306F\u300C\u30A6\u30A7\u30FC\u30D0\u30FC\u300D\u3068\u8868\u8A18\u30FB\u767A\u97F3\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Mark Alan Webber (born 27 August 1976) is an Australian professional racing driver, currently competing in the FIA World Endurance Championship as a Porsche works driver in LMP1, in which he is one of the three reigning World Drivers' Champions. On 13 October 2016, Webber announced that he would retire from driving at the the end of the 2016 season in order to take up a representative role with Porsche."@en ,
+		"\u041C\u0430\u0440\u043A \u0410\u043B\u0430\u043D \u0423\u044D\u0301\u0431\u0431\u0435\u0440 (\u0430\u043D\u0433\u043B. Mark Alan Webber, \u0440\u043E\u0434. 27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1976 \u0433\u043E\u0434\u0430) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0432\u044B\u043D\u043E\u0441\u043B\u0438\u0432\u043E\u0441\u0442\u044C \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u041F\u043E\u0440\u0448\u0435 (2015), \u0431\u044B\u0432\u0448\u0438\u0439 \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Mark Alan Webber (* 27. August 1976 in Queanbeyan, New South Wales) ist ein australischer Automobilrennfahrer. Webber nahm von 2002 bis 2013 an der Formel-1-Weltmeisterschaft teil und startete dort von 2007 bis 2013 f\u00FCr Red Bull Racing. Seine beste Gesamtplatzierung erzielte er 2010, 2011 und 2013 jeweils mit dem dritten Rang. Webber wurde 1998 Vizeweltmeister in der FIA-GT-Meisterschaft und 2001 Vizemeister der Formel 3000. Seit 2014 tritt Webber in der FIA-Langstrecken-Weltmeisterschaft (WEC) an. Dort gewann er 2015 den Fahrerweltmeistertitel."@de ,
+		"Mark Alan Webber (ur. 27 sierpnia 1976 w Queanbeyan) \u2013 australijski kierowca wy\u015Bcigowy. W latach 2002-2013 startowa\u0142 w Formule 1, gdzie trzykrotnie ko\u0144czy\u0142 sezon na trzeciej pozycji (2010, 2011, 2013)."@pl ;
+	owl:sameAs	wikidata:Q82667 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	yago-res:Mark_Webber ,
+		<http://el.dbpedia.org/resource/\u039C\u03B1\u03C1\u03BA_\u0393\u03BF\u03C5\u03AD\u03BC\u03C0\u03B5\u03C1> .
+@prefix ns12:	<http://sw.cyc.com/concept/> .
+dbr:Mark_Webber	owl:sameAs	ns12:Mx4rM5XP38ujQK-we6YhWOYZbA ,
+		<http://ko.dbpedia.org/resource/\uB9C8\uD06C_\uC6E8\uBC84> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-cs:Mark_Webber .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-id:Mark_Webber .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-wikidata:Q82667 ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30FC\u30AF\u30FB\u30A6\u30A7\u30D0\u30FC> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-es:Mark_Webber .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-it:Mark_Webber .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-fr:Mark_Webber ,
+		<http://rdf.freebase.com/ns/m.02qh03> ,
+		<http://data.linkedmdb.org/resource/actor/1258> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-pt:Mark_Webber .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-nl:Mark_Webber .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-pl:Mark_Webber .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mark_Webber	owl:sameAs	dbpedia-de:Mark_Webber ,
+		dbr:Mark_Webber .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mark_Webber	dct:subject	dbc:International_Formula_3000_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:Red_Bull_Formula_One_drivers ,
+		dbc:Jaguar_Formula_One_drivers ,
+		dbc:Australian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1976_births> ,
+		dbc:FIA_World_Endurance_Championship_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:FIA_GT_Championship_drivers ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:Australian_expatriate_sportspeople_in_the_United_Kingdom ,
+		dbc:BRDC_Gold_Star_winners ,
+		dbc:Formula_Holden_drivers ,
+		dbc:Racing_drivers_from_New_South_Wales ,
+		dbc:Formula_Ford_drivers ,
+		dbc:People_from_Queanbeyan ,
+		dbc:British_Formula_Three_Championship_drivers ;
+	foaf:name	"Mark Webber"@en ;
+	foaf:homepage	<http://www.markwebber.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Mark_Webber_2014_WEC_Fuji.jpg> ;
+	dct:description	"racing driver, 2015 World Endurance Drivers' Champion, 2002-2013 Formula 1 driver"@en ;
+	foaf:givenName	"Mark"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Mark_Webber	foaf:isPrimaryTopicOf	wikipedia-en:Mark_Webber ;
+	foaf:surname	"Webber"@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Mark_Webber	dbp:podiums	12 ;
+	dbp:title	dbr:FIA_World_Endurance_Championship ,
+		dbr:Hawthorn_Memorial_Trophy ,
+		dbr:Formula_Ford_Festival ,
+		dbr:Lorenzo_Bandini_Trophy ,
+		"Rookie of the Year"^^xsd:string ,
+		dbr:Autosport ,
+		dbr:DHL_Fastest_Lap_Award ;
+	dbp:years	dbr:Brendon_Hartley ,
+		1996 ,
+		dbr:Timo_Bernhard ,
+		2015 ,
+		2010 ,
+		2006 ,
+		2002 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mark_Webber	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mark_Webber?oldid=745209234> ;
+	dbp:before	dbr:Anthony_Davidson ,
+		dbr:Juan_Pablo_Montoya ,
+		dbr:Fernando_Alonso ,
+		<http://dbpedia.org/resource/S\u00E9bastien_Buemi> ,
+		dbr:Jenson_Button ,
+		dbr:Kevin_McGarrity ;
+	dbp:after	dbr:Dan_Wheldon ,
+		dbr:Sebastian_Vettel ,
+		dbr:Felipe_Massa ,
+		dbr:Jenson_Button ,
+		dbr:Jacky_van_der_Ende ,
+		"Incumbent"^^xsd:string ;
+	dbp:date	"August 2016"^^xsd:string ;
+	dbo:team	dbr:Porsche ;
+	dbp:birthName	"Mark Alan Webber"^^xsd:string ;
+	dbp:starts	22 ;
+	dbp:poles	7 ;
+	dbp:championships	1 ;
+	dbo:wikiPageExternalLink	<http://www.driverdb.com/drivers/15/career/> ,
+		<http://www.sportinglife.com/formula1/drivers/webber.html> ,
+		<http://www.grandprix.com/gpe/drv-webmar.html> ,
+		<http://www.grandprix.com/ft/ftng035.html> ,
+		<http://f1.racing-live.com/f1/en/season/2005drivers/cv_webber.shtml> ,
+		<http://www.planet-f1.com/driver_profile/?driver=WEBBER> ,
+		<http://www.crash.net/driver_view.asp?cid=1&did=845> ,
+		<http://www.pitpass.com/src/drivers/webber.php> ,
+		<https://web.archive.org/web/20051216020035/http:/www.markwebber.com/about/history.cfm> ,
+		<http://www.smh.com.au/articles/2003/03/06/1046826484428.html> ,
+		<http://www.markwebber.com/> ,
+		<https://web.archive.org/web/20051217223527/http:/www.planet-f1.com/driver_profile/?driver=WEBBER> ,
+		<http://www.markwebberchallenge.com> ,
+		<http://www.markwebber.com/about/history.cfm> ;
+	dbp:caption	"Webber in 2014"^^xsd:string ;
+	dbo:abstract	"Mark Alan Webber (Queanbeyan, Nieuw-Zuid-Wales, 27 augustus 1976) is een Australisch autocoureur. Zijn grootste overwinning is de GP van Duitsland op de N\u00FCrburgring in 2009. Webber begon zijn carri\u00E8re in de karting en Formule Ford en vertrok in 1996 naar Groot-Brittanni\u00EB omdat daar meer kansen lagen. Na een seizoen in de Formule 3 reed hij vanaf 1998 voor Mercedes-Benz in het GT-kampioenschap. Na 2 crashes tijdens de 24 uur van Le Mans in 1999 richtte Webber zich op de eenzitters en kwam in 2000 uit in de Formule 3000 bij het team van Paul Stoddart. Ook in 2001 reed hij in deze klasse en werd toen tweede in de eindstand. Op dat moment was hij ook al testcoureur bij het Formule 1-team van Benetton na een contract van Arrows te hebben afgeslagen. In 2002 maakte Webber zijn debuut in de Formule 1 voor het team van Minardi waar zijn landgenoot Stoddart intussen de baas was. Al in zijn eerste race (nota bene zijn thuisrace) zorgt Webber voor een sensatie door vijfde te worden en de eerste punten te scoren voor Minardi in 3 jaar. Het leverde hem een transfer op naar het Jaguar-team op waar hij het eerste jaar 17 punten scoorde en tiende werd in het kampioenschap. In 2004 ging het moeizamer, bovendien liet Ford, de eigenaar van het Jaguar-team, halverwege het seizoen weten met het team te stoppen. Webber kon in 2005 terecht bij Williams en de verwachting waren hooggespannen. Hij haalde voor de eerste keer het podium door derde te worden in de Grand Prix van Monaco. In de buurt van zeges kwam hij niet. Voor 2006 veranderde er veel bij Williams, motorenleverancier BMW vertrok en daar kwam Cosworth voor in de plaats. Ook zijn teamgenoot Nick Heidfeld vertrok. Webber bleef aan en kreeg Nico Rosberg als nieuwe teamgenoot. Maar ook in 2006 liep het seizoen niet goed. De auto was niet betrouwbaar, en alleen in het begin kon Webber strijden om de punten. In Monaco streed hij nog mee om de overwinning, maar ook daar begaf zijn motor het. Hij werd uiteindelijk veertiende met zeven punten. Aan het eind van het jaar maakte Webber bekend dat hij zou gaan overstappen naar zijn oude team Red Bull Racing, dat inmiddels Jaguar Racing had overgenomen. Hij hoopte daar om eindelijk zijn zege te pakken, met medewerking van de van McLaren overgenomen topontwerper, Adrian Newey. Zijn teamgenoot voor 2007 was David Coulthard. In het seizoen 2008 reden hij en Coulthard ook voor Red Bull Racing. In 2009 reed Mark Webber nog steeds voor Red Bull Racing, dit werd op 3 juli 2008 bekendgemaakt. Webber zou David Coulthard niet meer aan zijn zijde hebben, die eerder die dag zijn afscheid aangekondigde. Webber kreeg de Duitser Sebastian Vettel, een van de twee Toro Rosso rijders als teamgenoot. Op 12 juli 2009 won hij de GP van Duitsland op de N\u00FCrburgring. Mark Webber heeft op zijn 35e verjaardag (2011) zijn contract bij Red Bull verlengd tot eind 2012. Op 27 juni 2013 maakte Webber bekend dat hij aan het eind van dat jaar zou stoppen met Formule 1 en dat hij voor Porsche in het World Endurance Championship gaat rijden in 2014."@nl ,
+		"Mark Alan Webber (Queanbeyan, 27 de Agosto de 1976) \u00E9 um automobilista australiano que participou do campeonato mundial de F\u00F3rmula 1.E em 2014 Participou do Campeonato Mundial de Endurance da FIA"@pt ,
+		"Mark Alan Webber (* 27. August 1976 in Queanbeyan, New South Wales) ist ein australischer Automobilrennfahrer. Webber nahm von 2002 bis 2013 an der Formel-1-Weltmeisterschaft teil und startete dort von 2007 bis 2013 f\u00FCr Red Bull Racing. Seine beste Gesamtplatzierung erzielte er 2010, 2011 und 2013 jeweils mit dem dritten Rang. Webber wurde 1998 Vizeweltmeister in der FIA-GT-Meisterschaft und 2001 Vizemeister der Formel 3000. Seit 2014 tritt Webber in der FIA-Langstrecken-Weltmeisterschaft (WEC) an. Dort gewann er 2015 den Fahrerweltmeistertitel."@de ,
+		"Mark Alan Webber (born 27 August 1976) is an Australian professional racing driver, currently competing in the FIA World Endurance Championship as a Porsche works driver in LMP1, in which he is one of the three reigning World Drivers' Champions. After some racing success in Australia driving Formula Ford and Formula Holden, Webber moved to the United Kingdom in 1995 to further his motorsport career. Webber began a partnership with fellow Australian Paul Stoddart, at that time owner of the European Racing Formula 3000 team, which eventually took them both into Formula One when Stoddart bought the Minardi team. He also beat future F1 World Champion Fernando Alonso, then 19, in the 2000 International Formula 3000 season. Webber made his Formula One debut in 2002, scoring Minardi's first points in three years at his and Stoddart's home race. After his first season, Jaguar took him on as lead driver. During two years with the generally uncompetitive team, Webber qualified on the front two rows of the grid several times and outperformed his teammates. His first F1 win was with Red Bull at the 2009 German Grand Prix, which followed second places at the 2009 Chinese Grand Prix, 2009 Turkish Grand Prix and 2009 British Grand Prix. By the end of 2009, Webber had scored eight podiums, including another victory in Brazil. His eight podiums in 2009 compares to only two podiums in the first seven years of his career. He added ten more podiums in 2010, including victories in Spain, Monaco, Britain and Hungary. Webber finished the 2010 season in third place having led for a long period, losing out to teammate Sebastian Vettel in the final race of the season. Webber added another race victory in the 2011 Brazilian Grand Prix, as he once again finished third behind champion Vettel and runner-up Jenson Button. Webber partnered Vettel again in the 2012 season, outperforming him in the early season and looked to be a major title contender but fell away with no wins in the second half of the season after two in the Monaco and British Grand Prix. He finished the season in sixth position. Webber was also a long-term director of the Grand Prix Drivers' Association, the Formula One drivers' union. On 27 June 2013, Webber announced he would be retiring from Formula One at the end of the season. He began to race for Porsche in 2014, on a long-term deal, racing LMP1 Sportscars in the FIA World Endurance Championship. Webber is one of six drivers of the Porsche 919 Hybrid, and in November 2015 he became World Endurance Champion in the #17 car, alongside Timo Bernhard and Brendon Hartley. The trio race with the #1 on their car in 2016. After his retirement from F1 Webber joined the BBC F1 team as an occasional pundit and reporter from 2014-2015 and has joined the Channel 4 F1 Team in the UK for their coverage in 2016 as a full-time pundit. On 13 October 2016, Webber announced that he would retire from driving at the the end of the 2016 season in order to take up a representative role with Porsche."@en ,
+		"Mark Alan Webber, n\u00E9 le 27 ao\u00FBt 1976 \u00E0 Queanbeyan en Australie, est un pilote automobile australien qui a disput\u00E9 le championnat du monde de Formule 1 de la saison 2002 \u00E0 la saison 2013. Il se consacre ensuite \u00E0 l'endurance avec Porsche. Il est sacr\u00E9 champion du monde d'endurance en 2015."@fr ,
+		"\u9A6C\u514B\u00B7\u827E\u4F26\u00B7\u97CB\u4F2F\uFF08Mark Alan Webber\uFF0C1976\u5E748\u670827\u65E5\uFF0D\uFF09\u751F\u65BC\u6606\u6BD4\u6069 - \u662F\u6FB3\u5927\u5229\u4E9A\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8FD0\u52A8\u5458\uFF0C2013\u5E74\u6700\u5F8C\u6548\u529B\u4E8E\u7D05\u725B\u8ECA\u968A\u3002\u73FE\u6642\u4ED6\u9000\u51FA\u4E86\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u6B63\u5F0F\u6548\u529B\u4FDD\u6642\u6377\u8ECA\u968A\u3002\u7236\u89AA\u662F\u7576\u5730\u4E00\u540D\u8ECA\u884C\u8001\u95C6\u3002\u4ED6\u662F\u81EA\u5927\u536B\u00B7\u5E03\u62C9\u6C49\u59C6\u57281994\u5E74\u5F8C\u53E6\u4E00\u4F4D\u6FB3\u6D32\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8ECA\u624B\u3002\u6B64\u5916\u662F\u81EA\u827E\u502B\u00B7\u74CA\u65AF\u5F8C\uFF0C\u7B2C\u4E8C\u4F4D\u52DD\u51FA\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u4E8B\u7684\u6FB3\u6D32\u8ECA\u624B\u3002"@zh ,
+		"\u30DE\u30FC\u30AF\u30FB\u30A2\u30E9\u30F3\u30FB\u30A6\u30A7\u30D0\u30FC\uFF08Mark Alan Webber, 1976\u5E748\u670827\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308A\u3001\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u65E5\u672C\u306E\u30DE\u30B9\u30E1\u30C7\u30A3\u30A2\u306B\u304A\u3044\u3066\u3001\u59D3\u306F\u300C\u30A6\u30A7\u30FC\u30D0\u30FC\u300D\u3068\u8868\u8A18\u30FB\u767A\u97F3\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Mark Alan Webber (ur. 27 sierpnia 1976 w Queanbeyan) \u2013 australijski kierowca wy\u015Bcigowy. W latach 2002-2013 startowa\u0142 w Formule 1, gdzie trzykrotnie ko\u0144czy\u0142 sezon na trzeciej pozycji (2010, 2011, 2013)."@pl ,
+		"\u041C\u0430\u0440\u043A \u0410\u043B\u0430\u043D \u0423\u044D\u0301\u0431\u0431\u0435\u0440 (\u0430\u043D\u0433\u043B. Mark Alan Webber, \u0440\u043E\u0434. 27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1976 \u0433\u043E\u0434\u0430) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0432\u044B\u043D\u043E\u0441\u043B\u0438\u0432\u043E\u0441\u0442\u044C \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u041F\u043E\u0440\u0448\u0435 (2015), \u0431\u044B\u0432\u0448\u0438\u0439 \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"\u0645\u0627\u0631\u0643 \u0622\u0644\u0627\u0646 \u0648\u064A\u0628\u0631 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Mark Alan Webber) (\u0648\u0644\u062F \u0641\u064A 27 \u0623\u063A\u0633\u0637\u0633 1976 \u0641\u064A \u0643\u0648\u064A\u0646\u0628\u064A\u0627\u0646\u060C \u0646\u064A\u0648 \u0633\u0627\u0648\u062B \u0648\u064A\u0644\u0632) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0633\u0628\u0627\u0642 \u0623\u0633\u062A\u0631\u0627\u0644\u064A \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A 2009 \u060C \u0623\u0635\u0628\u062D \u0623\u0648\u0644 \u0623\u0633\u062A\u0631\u0627\u0644\u064A \u064A\u0641\u0648\u0632 \u0628\u0627\u0644\u0633\u0628\u0627\u0642 \u0645\u0646\u0630 \u0623\u0644\u0627\u0646 \u062C\u0648\u0646\u0632 \u0641\u064A \u0627\u0644\u0639\u0627\u0645 1981. \u0628\u0639\u062F \u0628\u0639\u0636 \u0627\u0644\u0646\u062C\u0627\u062D \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0641\u064A \u0639\u0627\u0645 1995 \u0644\u0625\u0636\u0627\u0641\u0629 \u0627\u0644\u0645\u0632\u064A\u062F \u0625\u0644\u0649 \u0645\u0633\u064A\u0631\u062A\u0647 \u0641\u064A \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A. \u0648\u0628\u062F\u0623 \u0648\u064A\u0628\u0631 \u0634\u0631\u0627\u0643\u0629 \u0645\u0639 \u0632\u0645\u064A\u0644\u0647 \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A \u0628\u0648\u0644 \u0633\u062A\u0648\u062F\u0627\u0631\u062A \u0635\u0627\u062D\u0628 \u0641\u0631\u064A\u0642 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 3000 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u060C \u0648\u0627\u0644\u062A\u064A \u0642\u0627\u062F\u062A\u0647 \u0641\u064A \u0646\u0647\u0627\u064A\u0629 \u0627\u0644\u0645\u0637\u0627\u0641 \u0625\u0644\u0649 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0639\u0646\u062F\u0645\u0627 \u0627\u0634\u062A\u0631\u0649 \u0633\u062A\u0648\u062F\u0627\u0631\u062A \u0641\u0631\u064A\u0642 \u0645\u064A\u0646\u0627\u0631\u062F\u064A. \u0642\u062F\u0645 \u0648\u064A\u0628\u0631 \u0644\u0647 \u0644\u0627\u0648\u0644 \u0645\u0631\u0629\u060C \u0648\u0633\u062C\u0644 \u0648\u064A\u0628\u0631 \u0627\u0644\u0646\u0642\u0627\u0637 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0641\u0631\u064A\u0642 \u0645\u064A\u0646\u0627\u0631\u062F\u064A \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u062E\u0644\u0627\u0644 \u062B\u0644\u0627\u062B \u0633\u0646\u0648\u0627\u062A \u0641\u064A \u0639\u0627\u0645 2002 . \u0648\u0628\u0639\u062F \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0623\u0648\u0644 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0627\u0646\u0636\u0645 \u0648\u064A\u0628\u0631 \u0625\u0644\u0649 \u0641\u0631\u064A\u0642 \u062C\u0627\u0643\u0648\u0627\u0631 \u0631\u0627\u064A\u0633\u0646\u063A \u0643\u0633\u0627\u0626\u0642 \u0623\u0648\u0644 \u0644\u0644\u0641\u0631\u064A\u0642. \u0648\u062E\u0644\u0627\u0644 \u0639\u0627\u0645\u064A\u0646 \u0645\u0639 \u0641\u0631\u064A\u0642 \u063A\u064A\u0631 \u0642\u0627\u062F\u0631 \u0628\u0634\u0643\u0644 \u0639\u0627\u0645 \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0623\u062B\u0628\u062A \u0648\u064A\u0628\u0631 \u0642\u062F\u0631\u0627\u062A\u0647 \u0648\u062A\u0641\u0648\u0642 \u0639\u0644\u0649 \u0632\u0645\u0644\u0627\u0626\u0647 \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642 \u0628\u062A\u0648\u0627\u062C\u062F\u0647 \u0628\u0634\u0643\u0644 \u062F\u0627\u0626\u0645 \u0636\u0645\u0646 \u0637\u0644\u064A\u0639\u0629 \u0627\u0644\u0633\u0627\u0626\u0642\u064A\u0646 \u0641\u064A \u0627\u0644\u0628\u0637\u0648\u0644\u0629. \u062D\u0642\u0642 \u0641\u0648\u0632\u0647 \u0627\u0644\u0623\u0648\u0644 \u0645\u0639 \u0641\u0631\u064A\u0642 \u0631\u064A\u062F \u0628\u0648\u0644 \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A 2009 . \u0648\u0628\u062D\u0644\u0648\u0644 \u0646\u0647\u0627\u064A\u0629 \u0639\u0627\u0645 2009 \u0643\u0627\u0646 \u0648\u064A\u0628\u0631 \u062A\u0648\u0627\u062C\u062F \u062B\u0645\u0627\u0646\u064A\u0629 \u0645\u0631\u0627\u062A \u0641\u064A \u0645\u0646\u0635\u0629 \u0627\u0644\u062A\u062A\u0648\u064A\u062C \u060C \u0628\u0645\u0627 \u0641\u064A \u0630\u0644\u0643 \u0627\u0646\u062A\u0635\u0627\u0631\u0627 \u0622\u062E\u0631 \u0641\u064A \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644. \u0648\u064A\u0639\u062A\u0628\u0631 \u0645\u0627\u0631\u0643 \u0648\u064A\u0628\u0631 \u0647\u0648 \u0623\u064A\u0636\u0627 \u0645\u062F\u064A\u0631 \u0631\u0627\u0628\u0637\u0629 \u0633\u0627\u0626\u0642\u064A \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u062A\u064A \u062A\u0639\u062A\u0628\u0631 \u0646\u0642\u0627\u0628\u0629 \u0633\u0627\u0626\u0642\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F."@ar ,
+		"Mark Alan Webber (Queanbeyan, Australia, 27 de agosto de 1976), es un piloto de automovilismo de velocidad australiano. Compiti\u00F3 en la F\u00F3rmula 1 desde el a\u00F1o 2002 hasta 2013, donde sum\u00F3 9 victorias, 42 podios y 13 pole positions, as\u00ED como el tercer puesto del campeonato en 2010, 2011 y 2013, y el cuarto en 2009. Form\u00F3 parte de los equipos Minardi, Jaguar, Williams y Red Bull. En 2014 dej\u00F3 la F\u00F3rmula 1 para competir en el Campeonato Mundial de Resistencia como piloto oficial de Porsche, resultando campe\u00F3n en 2015."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Mark_Webber_2014_WEC_Fuji.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mark_Webber	dbo:birthDate	"1976-8-27"^^xsd:date ,
+		"1976-08-27"^^xsd:date ;
+	dbo:wikiPageRevisionID	745209234 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/2006_Australian_Grand_Prix> ,
+		dbr:New_South_Wales ,
+		dbr:Queanbeyan ;
+	dbo:wikiPageID	564161 ;
+	dbp:currentSeries	dbr:FIA_World_Endurance_Championship .
+@prefix ns29:	<http://dbpedia.org/datatype/> .
+dbr:Mark_Webber	dbp:lastFinish	"1.0"^^ns29:stone ;
+	dbp:bestFinish	"1.0"^^ns29:stone ;
+	dbp:carNumber	1 ;
+	dbp:firstYear	2014 ;
+	dbp:year	2015 ;
+	dbo:imdbId	"1954492" ;
+	dbp:source	"Mark Webber on his 1997 season."^^xsd:string ;
+	dbp:name	"Mark Webber"^^xsd:string ;
+	dbp:wins	7 .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Mark_Webber	ns30:hypernym	dbr:Driver ;
+	dbp:nationality	"Australian"^^xsd:string ;
+	dbp:quote	"\"We really struggled with the budget early in the year. Between Dad and [sponsor] Yellow Pages we bought the car but we simply didn't have the money to run it. At one point, we were so behind on payments that we decided to ask David Campese for help. He played union with Dad for the Queanbeyan Whites, so he knew our family well, and if anyone was going to buy into what I was trying to do, we thought it would be him. In the end, he paid something like \u00A350,000, which was just unbelievable, and it meant that we could keep going.\""^^xsd:string ;
+	dbp:width	"40.0"^^ns29:perCent ;
+	dbp:align	"right"^^xsd:string ;
+	dbp:bot	"medic"^^xsd:string .
+<http://dbpedia.org/resource/2013_Brazilian_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:secondDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2009_Brazilian_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:firstDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Brazilian_Grand_Prix>	dbo:secondDriver	dbr:Mark_Webber .
+dbr:Juan_Pablo_Montoya	dbp:after	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2013_Malaysian_Grand_Prix>	dbo:secondDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Malaysian_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Malaysian_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:secondDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2012_British_Grand_Prix>	dbo:firstDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2012_Silverstone_GP2_and_GP3_Series_rounds>	dbp:gp3secondTeamR	dbr:Mark_Webber ;
+	dbp:gp3poleTeam	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Silverstone_GP2_Series_round>	dbp:gp3firstTeamR	dbr:Mark_Webber .
+<http://dbpedia.org/resource/Top_Gear_(series_6)>	dbp:aux	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2009_German_Grand_Prix>	dbo:firstDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2013_Abu_Dhabi_Grand_Prix>	dbo:secondDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Singapore_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2009_Abu_Dhabi_Grand_Prix>	dbo:secondDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Abu_Dhabi_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Valencia_Street_GP2_Series_round>	dbp:gp3secondTeamR	dbr:Mark_Webber ;
+	dbp:gp3thirdTeamR	dbr:Mark_Webber ;
+	dbp:gp3poleTeam	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Hungarian_Grand_Prix>	dbo:firstDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2013_Hungarian_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2009_Hungarian_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber ;
+	dbo:fastestDriver	dbr:Mark_Webber .
+dbr:Kevin_McGarrity	dbp:after	dbr:Mark_Webber .
+<http://dbpedia.org/resource/Top_Gear_(series_20)>	dbp:aux	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Japanese_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:secondDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2013_Japanese_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:secondDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2009_Japanese_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:secondDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_German_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2007_European_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_N\u00FCrburgring_GP2_Series_round>	dbp:gp3secondTeamR	dbr:Mark_Webber ;
+	dbp:gp3fastTeamR	dbr:Mark_Webber ;
+	dbp:gp3poleTeam	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2012_Hockenheimring_GP2_and_GP3_Series_rounds>	dbp:gp3fastTeamR	dbr:Mark_Webber ;
+	dbp:gp3firstTeamR	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2013_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2012_Monza_GP2_and_GP3_Series_rounds>	dbp:gp3thirdTeamR	dbr:Mark_Webber ;
+	dbp:gp3poleTeam	dbr:Mark_Webber .
+dbr:Brendon_Hartley	dbp:years	dbr:Mark_Webber .
+dbr:Anthony_Davidson	dbp:after	dbr:Mark_Webber .
+wikipedia-en:Mark_Webber	foaf:primaryTopic	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2013_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+dbr:Timo_Bernhard	dbp:years	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2009_British_Grand_Prix>	dbo:secondDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_British_Grand_Prix>	dbo:firstDriver	dbr:Mark_Webber .
+dbr:Journey_to_Le_Mans	dbo:starring	dbr:Mark_Webber .
+dbr:Channel_4_F1	dbo:presenter	dbr:Mark_Webber .
+<http://dbpedia.org/resource/S\u00E9bastien_Buemi>	dbp:after	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/Weapons_(film)>	dbo:starring	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Singapore_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/Mark_Webber_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Mark_Webber .
+dbr:Williams_FW28__2	dbo:firstDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/1997_Macau_Grand_Prix__Alan_Docking_Racing__1>	dbo:firstDriver	dbr:Mark_Webber .
+dbr:Dan_Wheldon	dbp:before	dbr:Mark_Webber .
+dbr:Mark_Weber	owl:differentFrom	dbr:Mark_Webber .
+dbr:Williams_FW27__2	dbo:firstDriver	dbr:Mark_Webber .
+dbr:Goodbye_World	dbo:starring	dbr:Mark_Webber .
+dbr:Red_Bull_RB4__3	dbo:firstDriver	dbr:Mark_Webber .
+dbr:Red_Bull_RB3__2	dbo:firstDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2012_Korean_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:secondDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Korean_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+dbr:Felipe_Massa	dbp:before	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Brazilian_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:firstDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Spanish_Grand_Prix>	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2009_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_European_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Catalunya_GP2_Series_round>	dbp:gp3firstTeamR	dbr:Mark_Webber ;
+	dbp:gp3poleTeam	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2012_Catalunya_GP2_and_GP3_Series_rounds>	dbp:gp3thirdTeamR	dbr:Mark_Webber ;
+	dbp:gp3firstTeamR	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_British_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2005_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2012_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2013_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+dbr:Whiteboyz	dbo:starring	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2013_British_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:secondDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2013_Silverstone_GP2_and_GP3_Series_rounds>	dbp:gp3fastTeamR	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Chinese_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber ;
+	dbo:fastestDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2009_Chinese_Grand_Prix>	dbo:secondDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2012_Indian_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2010_Turkish_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Webber ;
+	dbo:poleDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2011_Turkish_Grand_Prix>	dbo:fastestDriver	dbr:Mark_Webber ;
+	dbo:secondDriver	dbr:Mark_Webber .
+<http://dbpedia.org/resource/2009_Turkish_Grand_Prix>	dbo:secondDriver	dbr:Mark_Webber .

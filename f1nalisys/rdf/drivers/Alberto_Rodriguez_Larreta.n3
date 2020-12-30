@@ -1,0 +1,107 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Alberto_Rodriguez_Larreta	foaf:primaryTopic	dbr:Alberto_Rodriguez_Larreta .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Alberto_Rodriguez_Larreta	rdf:type	dbo:FormulaOneRacer ,
+		foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Alberto_Rodriguez_Larreta	rdf:type	yago:WikicatArgentineFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Alberto_Rodriguez_Larreta	rdf:type	wikidata:Q378622 ,
+		yago:WikicatArgentineRallyDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:Driver110034906 .
+@prefix schema:	<http://schema.org/> .
+dbr:Alberto_Rodriguez_Larreta	rdf:type	schema:Person ,
+		dbo:Athlete ,
+		yago:Operator110378412 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Alberto_Rodriguez_Larreta	rdf:type	ns8:NaturalPerson .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Alberto_Rodriguez_Larreta	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:RacingDriver ,
+		ns8:Agent ,
+		yago:WikicatTurismoCarreteraDrivers ,
+		dbo:MotorsportRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Alberto_Rodriguez_Larreta	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		dbo:Agent ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Alberto_Rodriguez_Larreta	rdfs:label	"Alberto Rodriguez Larreta"@en ,
+		"Alberto Rodr\u00EDguez Larreta"@de ,
+		"Alberto Rodr\u00EDguez Larreta"@pt ,
+		"Alberto Rodriguez Larreta"@pl ,
+		"Alberto Rodr\u00EDguez Larreta"@it ,
+		"Alberto Rodr\u00EDguez Larreta"@nl ;
+	rdfs:comment	"Alberto Rodriguez Larreta (14 January 1934 \u2013 11 March 1977) was a racing driver from Buenos Aires, Argentina. He participated in one World Championship Formula One Grand Prix, the 1960 Argentine Grand Prix on 7 February 1960. Driving a Lotus 16 for Team Lotus, he qualified 15th and finished in ninth place. Larreta was reportedly offered a drive by Colin Chapman, but turned it down and continued competing in a wide variety of other motorsports until 1970. He died from a heart attack in 1977."@en ,
+		"Alberto Rodr\u00EDguez Larreta (* 14. Januar 1934 in Buenos Aires; \u2020 11. M\u00E4rz 1977) war ein argentinischer Autorennfahrer."@de ,
+		"Alberto Rodriguez Larreta (Buenos Aires, 14 de janeiro de 1934 - Buenos Aires, 11 de mar\u00E7o de 1977) foi um automobilista argentino que participou do Grande Pr\u00EAmio da Argentina de F\u00F3rmula 1 em 1960 pela equipe Lotus."@pt ,
+		"Alberto \"Larry\" Rodriguez Larreta (ur. 14 stycznia 1934 w Buenos Aires, zm. 11 marca 1977 tam\u017Ce) \u2013 argenty\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Alberto Rodr\u00EDguez Larreta (Buenos Aires, 14 januari 1934 - 11 maart 1977) was een Formule 1-coureur uit Argentini\u00EB. Hij reed op 7 februari 1960 zijn thuisrace voor het team Lotus, maar scoorde hierin geen punten. Larreta eindigde op een negende positie."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Alberto_Rodriguez_Larreta	dbp:points	0 ;
+	owl:sameAs	<http://it.dbpedia.org/resource/Alberto_Rodr\u00EDguez_Larreta> ,
+		dbr:Alberto_Rodriguez_Larreta ,
+		<http://rdf.freebase.com/ns/m.04l1n3> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Alberto_Rodriguez_Larreta	owl:sameAs	dbpedia-wikidata:Q172789 ,
+		<http://pt.dbpedia.org/resource/Alberto_Rodr\u00EDguez_Larreta> ,
+		wikidata:Q172789 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Alberto_Rodriguez_Larreta	owl:sameAs	dbpedia-pl:Alberto_Rodriguez_Larreta ,
+		<http://de.dbpedia.org/resource/Alberto_Rodr\u00EDguez_Larreta> ,
+		<http://nl.dbpedia.org/resource/Alberto_Rodr\u00EDguez_Larreta> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Alberto_Rodriguez_Larreta	owl:sameAs	yago-res:Alberto_Rodriguez_Larreta .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Alberto_Rodriguez_Larreta	dct:subject	dbc:Argentine_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:Sportspeople_from_Buenos_Aires ,
+		<http://dbpedia.org/resource/Category:1977_deaths> ,
+		dbc:Argentine_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1934_births> ,
+		dbc:Turismo_Carretera_drivers ;
+	foaf:name	"Alberto Rodriguez Larreta"@en ;
+	dct:description	"Argentine racing driver"@en ;
+	foaf:givenName	"Alberto"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Alberto_Rodriguez_Larreta .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Alberto_Rodriguez_Larreta	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Alberto_Rodriguez_Larreta?oldid=716348117> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Alberto_Rodriguez_Larreta	dbp:birthDate	"1934-01-14"^^xsd:date ;
+	dbp:deathDate	"1977-03-11"^^xsd:date ;
+	dbo:abstract	"Alberto Rodriguez Larreta (14 January 1934 \u2013 11 March 1977) was a racing driver from Buenos Aires, Argentina. He participated in one World Championship Formula One Grand Prix, the 1960 Argentine Grand Prix on 7 February 1960. Driving a Lotus 16 for Team Lotus, he qualified 15th and finished in ninth place. Larreta was reportedly offered a drive by Colin Chapman, but turned it down and continued competing in a wide variety of other motorsports until 1970. He died from a heart attack in 1977."@en ,
+		"Alberto Rodriguez Larreta (Buenos Aires, 14 de janeiro de 1934 - Buenos Aires, 11 de mar\u00E7o de 1977) foi um automobilista argentino que participou do Grande Pr\u00EAmio da Argentina de F\u00F3rmula 1 em 1960 pela equipe Lotus."@pt ,
+		"Alberto \"Larry\" Rodriguez Larreta (ur. 14 stycznia 1934 w Buenos Aires, zm. 11 marca 1977 tam\u017Ce) \u2013 argenty\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Alberto Rodr\u00EDguez Larreta (* 14. Januar 1934 in Buenos Aires; \u2020 11. M\u00E4rz 1977) war ein argentinischer Autorennfahrer."@de ,
+		"Alberto Rodr\u00EDguez Larreta (Buenos Aires, 14 januari 1934 - 11 maart 1977) was een Formule 1-coureur uit Argentini\u00EB. Hij reed op 7 februari 1960 zijn thuisrace voor het team Lotus, maar scoorde hierin geen punten. Larreta eindigde op een negende positie."@nl ;
+	dbo:birthDate	"1934-1-14"^^xsd:date ;
+	dbo:deathDate	"1977-3-11"^^xsd:date ;
+	dbo:wikiPageRevisionID	716348117 ;
+	dbo:birthPlace	dbr:Buenos_Aires ;
+	dbo:wikiPageID	1237352 .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+dbr:Alberto_Rodriguez_Larreta	ns20:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1960_Argentine_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1960_Argentine_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Team_Lotus ;
+	dbp:nationality	"Argentine"^^xsd:string .
+dbr:Larreta	dbo:wikiPageDisambiguates	dbr:Alberto_Rodriguez_Larreta .

@@ -1,0 +1,195 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__31__1>	dbo:firstDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__41__1>	dbo:firstDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__40__1>	dbo:firstDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1956_Buenos_Aires_Grand_Prix>	dbo:thirdDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1956_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1952_Swiss_Grand_Prix>	dbo:thirdDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1956_Argentine_Grand_Prix>	dbo:secondDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1956_German_Grand_Prix>	dbo:thirdDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1955_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__26th__1>	dbo:firstDriver	dbr:Jean_Behra .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Peter_Collins_(racing_driver)>	dbp:before	dbr:Jean_Behra .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jean_Behra	rdf:type	yago:WikicatBRMFormulaOneDrivers ,
+		dbo:FormulaOneRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jean_Behra	rdf:type	owl:Thing .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jean_Behra	rdf:type	wikidata:Q378622 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jean_Behra	rdf:type	ns7:Agent ,
+		yago:WikicatGordiniFormulaOneDrivers ,
+		yago:WikicatMaseratiFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:Racer110502576 ,
+		ns7:NaturalPerson ,
+		wikidata:Q24229398 ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Jean_Behra	rdf:type	schema:Person ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jean_Behra	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatFrenchMotorcycleRacers ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		dbo:Person ,
+		dbo:Athlete ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatFrenchFormulaOneDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Jean_Behra	rdf:type	foaf:Person ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jean_Behra	rdfs:label	"Jean Behra"@nl ,
+		"\u30B8\u30E3\u30F3\u30FB\u30D9\u30FC\u30E9"@ja ,
+		"Jean Behra"@es ,
+		"Jean Behra"@en ,
+		"Jean Behra"@de ,
+		"\u062C\u0627\u0646 \u0628\u064A\u0631\u0627"@ar ,
+		"Jean Behra"@fr ,
+		"Jean Behra"@pt ,
+		"Jean Behra"@pl ,
+		"\u0411\u0435\u0440\u0430, \u0416\u0430\u043D"@ru ,
+		"Jean Behra"@it ;
+	rdfs:comment	"Jean Marie Behra (Nice, 16 februari 1921 \u2013 Berlijn, 1 augustus 1959) was een Formule 1-coureur tussen 1952 en 1959. Hij racete voor de teams Gordini, Maserati, BRM, Ferrari en Porsche. Bij de Grand Prix van Duitsland van 1959, zijn laatste Grand Prix, was hij de coureur die de meeste Formule 1-races heeft gereden. Hij startte overigens niet."@nl ,
+		"Jean Marie Behra (Nice, 16 de fevereiro de 1921 \u2013 Berlim, 1 de agosto de 1959) foi um automobilista franc\u00EAs, que competiu na F\u00F3rmula 1."@pt ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016) \u062C\u0627\u0646 \u0628\u064A\u0631\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 16 \u0641\u0628\u0631\u0627\u064A\u0631 1921 \u0641\u064A \u0646\u064A\u0633\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1952. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0633\u0648\u064A\u0633\u0631\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1952. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 53 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Jean Marie Berha (Niza, Francia, 16 de febrero de 1921 - Berl\u00EDn, Alemania, 1 de agosto de 1959) fue un piloto de F\u00F3rmula 1 que corri\u00F3 en la d\u00E9cada de los 50 para las escuder\u00EDas Gordini, BRM, Ferrari, Maserati. Aunque nunca pudo ganar un Gran Premio, obtuvo nueve podios en 52 carreras largadas, por lo que es considerado como uno de los 100 mejores pilotos de la historia de la F\u00F3rmula 1. Muri\u00F3 el 1 de agosto de 1959 en Berl\u00EDn, Alemania, en una carrera realizada previamente al GP de ese pa\u00EDs, al salir despedido de su Porsche RSK tras chocar con el asta de una bandera."@es ,
+		"Jean Marie Behra, n\u00E9 le 16 f\u00E9vrier 1921 \u00E0 Nice et mort le 1er ao\u00FBt 1959 \u00E0 Berlin dans une \u00E9preuve sport sur le circuit de l'AVUS, \u00E0 Berlin-Charlottenburg, \u00E9tait un pilote motocycliste, puis automobile fran\u00E7ais. Il a notamment disput\u00E9 le championnat du monde de Formule 1 de 1951 \u00E0 1959. Behra compte 53 d\u00E9parts en GP (dont un officieux au Grand Prix d'Italie 1951) pour 56 engagements (forfait aux Pays-Bas 1953, Monaco 1957, Allemagne 1959). Son fr\u00E8re cadet \u00E9tait Jos\u00E9 Behra."@fr ,
+		"Jean Marie Behra (born in Nice, France, 16 February 1921 \u2013 died in Berlin, Germany, 1 August 1959) was a Formula One driver who raced for the Gordini, Maserati, BRM, Ferrari and Porsche teams."@en ,
+		"Jean \u201EJeannot\u201C Behra (* 16. Februar 1921 in Nizza; \u2020 1. August 1959 in Berlin) war ein franz\u00F6sischer Motorrad- und Automobilrennfahrer."@de ,
+		"Jean Behra (ur. 16 lutego 1921, zm. 1 sierpnia 1959) \u2013 francuski kierowca wy\u015Bcigowy Formu\u0142y 1 w latach 1952-1959. Je\u017Adzi\u0142 w bolidzie zespo\u0142\u00F3w Gordini, Maserati, Ken Kavanagh, BRM, Scuderia Ferrari. Zgin\u0105\u0142 na torze AVUS podczas Grand Prix Niemiec 1959."@pl ,
+		"\u30B8\u30E3\u30F3\u30FB\u30DE\u30EA\u30FC\u30FB\u30D9\u30FC\u30E9\uFF08Jean Marie Behra, 1921\u5E742\u670816\u65E5 - 1959\u5E748\u67081\u65E5\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u30B4\u30EB\u30C7\u30A3\u30FC\u30CB\u3001\u30DE\u30BB\u30E9\u30C6\u30A3\u3001BRM\u3001\u30DD\u30EB\u30B7\u30A7\u3001\u30B9\u30AF\u30FC\u30C7\u30EA\u30A2\u30FB\u30D5\u30A7\u30E9\u30FC\u30EA\u304B\u3089F1\u306B\u51FA\u8D70\u3057\u305F\u3002\u30D9\u30FC\u30E9\u306F\u30D5\u30E9\u30F3\u30B9\u306E\u30CB\u30FC\u30B9\u3067\u751F\u307E\u308C\u30C9\u30A4\u30C4\u306E\u30D9\u30EB\u30EA\u30F3\u3067\u6B7B\u53BB\u3057\u305F\u3002"@ja ,
+		"\u0416\u0430\u043D \u041C\u0430\u0440\u0438 \u0411\u0435\u0440\u0430 (\u0444\u0440. Jean Marie Behra, 16 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1921 \u2014 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1959) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432 1952\u20141959 \u0433\u043E\u0434\u0430\u0445 \u0431\u044B\u043B \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB. \u0412 \u0441\u0435\u0437\u043E\u043D\u0435 1954 \u0433\u043E\u0434\u0430 \u0437\u0430\u043D\u044F\u043B 4-\u0435 \u043C\u0435\u0441\u0442\u043E, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044F \u0437\u0430 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u00AB\u041C\u0430\u0437\u0435\u0440\u0430\u0442\u0438\u00BB. \u041F\u043E\u0433\u0438\u0431 \u0432 \u0433\u043E\u043D\u043A\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0438 \u043F\u0435\u0440\u0435\u0434 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 1959 \u0433\u043E\u0434\u0430."@ru .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jean_Behra	dbp:birthDate	"1921-02-16"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	dbpedia-it:Jean_Behra ,
+		<http://viaf.org/viaf/2654710> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	dbpedia-es:Jean_Behra ,
+		dbr:Jean_Behra .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	dbpedia-pt:Jean_Behra ,
+		<http://rdf.freebase.com/ns/m.04k1vv> ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30F3\u30FB\u30D9\u30FC\u30E9> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	dbpedia-de:Jean_Behra .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	dbpedia-fr:Jean_Behra .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	yago-res:Jean_Behra .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	dbpedia-pl:Jean_Behra .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	dbpedia-id:Jean_Behra .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	dbpedia-wikidata:Q172250 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jean_Behra	owl:sameAs	dbpedia-nl:Jean_Behra ,
+		wikidata:Q172250 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Jean_Behra	dct:subject	<http://dbpedia.org/resource/Category:500cc_World_Championship_riders> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jean_Behra	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Sportspeople_from_Nice ,
+		dbc:BRM_Formula_One_drivers ,
+		dbc:French_motorcycle_racers ,
+		dbc:French_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1959_deaths> ,
+		<http://dbpedia.org/resource/Category:1921_births> ,
+		dbc:French_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Sport_deaths_in_Germany ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Maserati_Formula_One_drivers ,
+		dbc:Gordini_Formula_One_drivers ;
+	foaf:name	"Jean Behra"@en ;
+	dct:description	"French racing driver"@en ;
+	foaf:givenName	"Jean"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Jean_Behra	foaf:isPrimaryTopicOf	wikipedia-en:Jean_Behra ;
+	foaf:surname	"Behra"@en ;
+	dbp:points	51 ;
+	dbp:years	53 ,
+		"\u2013"^^xsd:string ,
+		1957 ,
+		","^^xsd:string ;
+	dbp:after	<http://dbpedia.org/resource/Peter_Collins_(racing_driver)> ,
+		54 ,
+		56 ,
+		dbr:Harry_Schell ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Gordini ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Maserati_in_motorsport ,
+		dbr:BRM .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jean_Behra	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jean_Behra?oldid=726266494> ;
+	dbp:nationality	"French"^^xsd:string ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Nice,_France> ;
+	dbp:deathDate	"1959-08-01"^^xsd:date ;
+	dbp:before	dbr:Stirling_Moss ,
+		"Juan Manuel Fangio"^^xsd:string ,
+		52 ;
+	dbp:deathPlace	<http://dbpedia.org/resource/Berlin,_Germany> ;
+	dbo:abstract	"Jean Marie Behra (Nice, 16 februari 1921 \u2013 Berlijn, 1 augustus 1959) was een Formule 1-coureur tussen 1952 en 1959. Hij racete voor de teams Gordini, Maserati, BRM, Ferrari en Porsche. Bij de Grand Prix van Duitsland van 1959, zijn laatste Grand Prix, was hij de coureur die de meeste Formule 1-races heeft gereden. Hij startte overigens niet."@nl ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016) \u062C\u0627\u0646 \u0628\u064A\u0631\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 16 \u0641\u0628\u0631\u0627\u064A\u0631 1921 \u0641\u064A \u0646\u064A\u0633\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1952. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0633\u0648\u064A\u0633\u0631\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1952. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 53 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Jean Marie Behra (born in Nice, France, 16 February 1921 \u2013 died in Berlin, Germany, 1 August 1959) was a Formula One driver who raced for the Gordini, Maserati, BRM, Ferrari and Porsche teams."@en ,
+		"\u0416\u0430\u043D \u041C\u0430\u0440\u0438 \u0411\u0435\u0440\u0430 (\u0444\u0440. Jean Marie Behra, 16 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1921 \u2014 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1959) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432 1952\u20141959 \u0433\u043E\u0434\u0430\u0445 \u0431\u044B\u043B \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB. \u0412 \u0441\u0435\u0437\u043E\u043D\u0435 1954 \u0433\u043E\u0434\u0430 \u0437\u0430\u043D\u044F\u043B 4-\u0435 \u043C\u0435\u0441\u0442\u043E, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044F \u0437\u0430 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u00AB\u041C\u0430\u0437\u0435\u0440\u0430\u0442\u0438\u00BB. \u041F\u043E\u0433\u0438\u0431 \u0432 \u0433\u043E\u043D\u043A\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0438 \u043F\u0435\u0440\u0435\u0434 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438 1959 \u0433\u043E\u0434\u0430."@ru ,
+		"Jean Marie Berha (Niza, Francia, 16 de febrero de 1921 - Berl\u00EDn, Alemania, 1 de agosto de 1959) fue un piloto de F\u00F3rmula 1 que corri\u00F3 en la d\u00E9cada de los 50 para las escuder\u00EDas Gordini, BRM, Ferrari, Maserati. Aunque nunca pudo ganar un Gran Premio, obtuvo nueve podios en 52 carreras largadas, por lo que es considerado como uno de los 100 mejores pilotos de la historia de la F\u00F3rmula 1. Muri\u00F3 el 1 de agosto de 1959 en Berl\u00EDn, Alemania, en una carrera realizada previamente al GP de ese pa\u00EDs, al salir despedido de su Porsche RSK tras chocar con el asta de una bandera."@es ,
+		"\u30B8\u30E3\u30F3\u30FB\u30DE\u30EA\u30FC\u30FB\u30D9\u30FC\u30E9\uFF08Jean Marie Behra, 1921\u5E742\u670816\u65E5 - 1959\u5E748\u67081\u65E5\uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u30B4\u30EB\u30C7\u30A3\u30FC\u30CB\u3001\u30DE\u30BB\u30E9\u30C6\u30A3\u3001BRM\u3001\u30DD\u30EB\u30B7\u30A7\u3001\u30B9\u30AF\u30FC\u30C7\u30EA\u30A2\u30FB\u30D5\u30A7\u30E9\u30FC\u30EA\u304B\u3089F1\u306B\u51FA\u8D70\u3057\u305F\u3002\u30D9\u30FC\u30E9\u306F\u30D5\u30E9\u30F3\u30B9\u306E\u30CB\u30FC\u30B9\u3067\u751F\u307E\u308C\u30C9\u30A4\u30C4\u306E\u30D9\u30EB\u30EA\u30F3\u3067\u6B7B\u53BB\u3057\u305F\u3002"@ja ,
+		"Jean Behra (ur. 16 lutego 1921, zm. 1 sierpnia 1959) \u2013 francuski kierowca wy\u015Bcigowy Formu\u0142y 1 w latach 1952-1959. Je\u017Adzi\u0142 w bolidzie zespo\u0142\u00F3w Gordini, Maserati, Ken Kavanagh, BRM, Scuderia Ferrari. Zgin\u0105\u0142 na torze AVUS podczas Grand Prix Niemiec 1959."@pl ,
+		"Jean Marie Behra, n\u00E9 le 16 f\u00E9vrier 1921 \u00E0 Nice et mort le 1er ao\u00FBt 1959 \u00E0 Berlin dans une \u00E9preuve sport sur le circuit de l'AVUS, \u00E0 Berlin-Charlottenburg, \u00E9tait un pilote motocycliste, puis automobile fran\u00E7ais. Il a notamment disput\u00E9 le championnat du monde de Formule 1 de 1951 \u00E0 1959. Behra compte 53 d\u00E9parts en GP (dont un officieux au Grand Prix d'Italie 1951) pour 56 engagements (forfait aux Pays-Bas 1953, Monaco 1957, Allemagne 1959). Son fr\u00E8re cadet \u00E9tait Jos\u00E9 Behra."@fr ,
+		"Jean \u201EJeannot\u201C Behra (* 16. Februar 1921 in Nizza; \u2020 1. August 1959 in Berlin) war ein franz\u00F6sischer Motorrad- und Automobilrennfahrer."@de ,
+		"Jean Marie Behra (Nice, 16 de fevereiro de 1921 \u2013 Berlim, 1 de agosto de 1959) foi um automobilista franc\u00EAs, que competiu na F\u00F3rmula 1."@pt ;
+	dbo:birthDate	"1921-2-16"^^xsd:date ;
+	dbo:deathDate	"1959-8-1"^^xsd:date ;
+	dbo:deathPlace	dbr:West_Berlin ;
+	dbo:wikiPageRevisionID	726266494 ;
+	dbo:birthPlace	dbr:Nice ;
+	dbo:wikiPageID	1226466 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_Swiss_Grand_Prix> ;
+	dbo:races	"53"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1959_French_Grand_Prix> ;
+	dbo:podiums	"9"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Jean_Behra	ns27:hypernym	dbr:Driver ;
+	dbp:title	dbr:BRDC_International_Trophy ,
+		dbr:List_of_Formula_One_driver_records .
+<http://dbpedia.org/resource/1956_Australian_Grand_Prix>	dbo:secondDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1957_Argentine_Grand_Prix>	dbo:secondDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1957_Pau_Grand_Prix>	dbo:fastestDriver	dbr:Jean_Behra ;
+	dbo:poleDriver	dbr:Jean_Behra ;
+	dbo:firstDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1956_French_Grand_Prix>	dbo:thirdDriver	dbr:Jean_Behra .
+dbr:Stirling_Moss	dbp:after	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__48__1>	dbo:firstDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__50__1>	dbo:firstDriver	dbr:Jean_Behra .
+wikipedia-en:Jean_Behra	foaf:primaryTopic	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1958_Caen_Grand_Prix>	dbo:fastestDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1958_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1957_Reims_Grand_Prix>	dbo:fastestDriver	dbr:Jean_Behra ;
+	dbo:secondDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1957_Moroccan_Grand_Prix>	dbo:firstDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__16__1>	dbo:firstDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__48__1>	dbo:firstDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1954_British_Grand_Prix>	dbp:fastDriver	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1956_British_Grand_Prix>	dbo:thirdDriver	dbr:Jean_Behra .
+dbr:Behra-Porsche	dbp:founders	dbr:Jean_Behra .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__3rd__1>	dbo:firstDriver	dbr:Jean_Behra .
+dbr:Jean_Marie_Behra	dbo:wikiPageRedirects	dbr:Jean_Behra .

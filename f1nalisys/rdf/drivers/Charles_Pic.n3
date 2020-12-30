@@ -1,0 +1,158 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2011_Monaco_GP2_Series_round>	dbp:firstDriverR	dbr:Charles_Pic .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Charles_Pic	rdf:type	dbo:Athlete .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Charles_Pic	rdf:type	wikidata:Q24229398 ,
+		<http://dbpedia.org/class/yago/WikicatEurocupFormulaRenault2.0Drivers> ,
+		wikidata:Q215627 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Charles_Pic	rdf:type	foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Charles_Pic	rdf:type	yago:WikicatFormulaRenaultDrivers ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault3.5SeriesDrivers> ,
+		yago:Driver110034906 ,
+		<http://dbpedia.org/class/yago/WikicatFrenchFormulaRenault2.0Drivers> ,
+		wikidata:Q5 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:PhysicalEntity100001930 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Charles_Pic	rdf:type	ns7:Agent ,
+		yago:WikicatGP2AsiaSeriesDrivers ,
+		wikidata:Q378622 ,
+		dbo:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Charles_Pic	rdf:type	schema:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatGP2SeriesDrivers ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		ns7:NaturalPerson ,
+		yago:WikicatFormuleCampusRenaultElfDrivers ,
+		yago:WikicatCaterhamFormulaOneDrivers ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		yago:WikicatMarussiaFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Charles_Pic	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Charles_Pic	rdfs:label	"Charles Pic"@it ,
+		"\u30B7\u30E3\u30EB\u30EB\u30FB\u30D4\u30C3\u30AF"@ja ,
+		"\u67E5\u5C14\u65AF\u00B7\u76AE\u514B"@zh ,
+		"Charles Pic"@es ,
+		"Charles Pic"@fr ,
+		"\u041F\u0438\u043A, \u0428\u0430\u0440\u043B\u044C"@ru ,
+		"Charles Pic"@en ,
+		"Charles Pic"@de ,
+		"Charles Pic"@nl ,
+		"Charles Pic"@pl ,
+		"Charles Pic"@pt ;
+	rdfs:comment	"Charles Pic (Mont\u00E9limar, 15 februari 1990) is een Frans autocoureur die anno 2013 in de Formule 1 rijdt voor het team Caterham. In 2010 en 2011 reed Pic in de normale GP2 Series, waar hij in totaal 4 polepositions en 3 overwinningen behaalde. Hij eindigde als tiende in het kampioenschap in 2010 en als vierde in 2011."@nl ,
+		"\u30B7\u30E3\u30EB\u30EB\u30FB\u30D4\u30C3\u30AF\uFF08Charles Pic \u30011990\u5E742\u670815\u65E5 - \uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u6587\u732E\u306B\u3088\u3063\u3066\u306F\u82F1\u8A9E\u8AAD\u307F\u306B\u6E96\u3058\u3066\u30C1\u30E3\u30FC\u30EB\u30BA\u30FB\u30D4\u30C3\u30AF\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u304C\u3001\u30D5\u30E9\u30F3\u30B9\u8A9E\u8AAD\u307F\u3067\u306F\u30B7\u30E3\u30EB\u30EB\u3068\u306A\u308B\u3002"@ja ,
+		"Charles Pic es un piloto franc\u00E9s nacido el 15 de febrero de 1990 en Mont\u00E9limar (Francia). En 2012 fue segundo piloto del equipo Marussia de F\u00F3rmula 1, incorpor\u00E1ndose a Caterham para 2013. Su representante es Jean Alesi. Actualmente participa en la F\u00F3rmula E como piloto de Andretti."@es ,
+		"Charles Pic (* 15. Februar 1990 in Mont\u00E9limar) ist ein franz\u00F6sischer Automobilrennfahrer. Er fuhr 2010 und 2011 in der GP2-Serie. 2012 und 2013 fuhr er in der Formel 1. Sein j\u00FCngerer Bruder Arthur Pic ist ebenfalls Automobilrennfahrer."@de ,
+		"\u0428\u0430\u0440\u043B\u044C \u041F\u0438\u043A (\u0444\u0440. Charles Pic; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 15 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1990 \u0433\u043E\u0434\u0430 \u0432 \u041C\u043E\u043D\u0442\u0435\u043B\u0438\u043C\u0430\u0440\u0435, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \n*  \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-\u0420\u0435\u043D\u043E 3.5 2009 \u0433\u043E\u0434\u0430."@ru ,
+		"Charles Pic (ur. 15 lutego 1990 w Mont\u00E9limar) \u2013 francuski kierowca wy\u015Bcigowy. Wraz z bratem Arthurem Pikiem mieszka w swoim rodzinnym domu w Mont\u00E9limar we Francji."@pl ,
+		"\u67E5\u5C14\u65AF\u00B7\u76AE\u514B\uFF08\u82F1\u8BED\uFF1ACharles Pic\uFF0C1990\u5E742\u670815\u65E5\uFF0D\uFF0C\u751F\u4E8E\u6CD5\u56FD\u8499\u7279\u5229\u9A6C\u5C14\uFF09\u662F\u4E00\u4F4D\u6CD5\u56FD\u8077\u696D\u8D5B\u8F66\u624B\uFF0C\u66FE\u57282012\u53CA2013\u5E74\u51FA\u8CFD\u5169\u500B\u5B8C\u6574\u8CFD\u5B63\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\uFF0C\u9996\u5E74\u6548\u529B\u65BC\u746A\u9B6F\u897F\u4E9E\u8ECA\u968A\uFF0C\u9694\u5E74\u8F6C\u6295\u5361\u7279\u6C49\u59C6\u8F66\u961F\u3002"@zh ,
+		"Charles Pic (French: [\u0283\u0251\u0281l \u02C8pik]; born 15 February 1990) is a professional racing driver, who drove in Formula One for two full seasons in 2012 and 2013, racing for Marussia F1 Team in the first season and then for Caterham in the second season."@en ,
+		" Pour les articles homonymes, voir Pic.Charles PicFichier:Charles Pic Moscow 2013.jpg Charles Pic au Moscow Star Race en 2013 Charles Pic, n\u00E9 le 15 f\u00E9vrier 1990 \u00E0 Mont\u00E9limar (Dr\u00F4me), est un pilote automobile fran\u00E7ais. Son fr\u00E8re Arthur Pic n\u00E9 en 1991, est \u00E9galement pilote automobile. Il dispute 39 Grands Prix de Formule 1 de 2012 \u00E0 2013 avec Marussia F1 Team puis Caterham F1 Team."@fr ,
+		"Charles Pic (Mont\u00E9limar, 15 de fevereiro de 1990) \u00E9 um automobilista franc\u00EAs. Irm\u00E3o do tamb\u00E9m piloto Arthur Pic, estreou em 2010 na GP2 Series. Em 2011 disputou a competi\u00E7\u00E3o pela Addax Team."@pt .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-cs:Charles_Pic .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-fr:Charles_Pic .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	yago-res:Charles_Pic .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-pt:Charles_Pic ,
+		wikidata:Q82965 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-es:Charles_Pic ,
+		<http://ja.dbpedia.org/resource/\u30B7\u30E3\u30EB\u30EB\u30FB\u30D4\u30C3\u30AF> ,
+		<http://rdf.freebase.com/ns/m.03wb5fc> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-nl:Charles_Pic .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-it:Charles_Pic .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-pl:Charles_Pic ,
+		dbr:Charles_Pic .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-id:Charles_Pic .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-wikidata:Q82965 .
+@prefix ns21:	<http://www.bbc.co.uk/things/7a8d6bf8-eaa5-4f9a-b71a-e8b072c9c4d1#> .
+dbr:Charles_Pic	owl:sameAs	ns21:id .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Charles_Pic	owl:sameAs	dbpedia-de:Charles_Pic .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Charles_Pic	dct:subject	<http://dbpedia.org/resource/Category:People_from_Mont\u00E9limar> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Charles_Pic	dct:subject	dbc:Caterham_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:French_Formula_Renault_2.0_drivers> ,
+		dbc:Living_people ,
+		dbc:French_racing_drivers ,
+		dbc:French_Formula_One_drivers ,
+		dbc:Formula_E_drivers ,
+		<http://dbpedia.org/resource/Category:1990_births> ,
+		dbc:GP2_Series_drivers ,
+		dbc:GP2_Asia_Series_drivers ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:Formula_3.5_V8_drivers> ,
+		dbc:Marussia_Formula_One_drivers ,
+		dbc:Formule_Campus_Renault_Elf_drivers ;
+	foaf:name	"Charles Pic"@en ;
+	foaf:homepage	<http://www.charlespic.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Charles_Pic_Moscow_2013.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Charles"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Charles_Pic	foaf:isPrimaryTopicOf	wikipedia-en:Charles_Pic ;
+	foaf:surname	"Pic"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Charles_Pic	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Charles_Pic?oldid=742188069> ;
+	dbo:wikiPageExternalLink	<http://www.charlespic.com/> ;
+	dbp:caption	"Pic at the 2013 Race of Stars"^^xsd:string ;
+	dbp:nationality	"French"^^xsd:string ;
+	dbo:abstract	"Charles Pic (* 15. Februar 1990 in Mont\u00E9limar) ist ein franz\u00F6sischer Automobilrennfahrer. Er fuhr 2010 und 2011 in der GP2-Serie. 2012 und 2013 fuhr er in der Formel 1. Sein j\u00FCngerer Bruder Arthur Pic ist ebenfalls Automobilrennfahrer."@de ,
+		"\u0428\u0430\u0440\u043B\u044C \u041F\u0438\u043A (\u0444\u0440. Charles Pic; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 15 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1990 \u0433\u043E\u0434\u0430 \u0432 \u041C\u043E\u043D\u0442\u0435\u043B\u0438\u043C\u0430\u0440\u0435, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \n*  \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-\u0420\u0435\u043D\u043E 3.5 2009 \u0433\u043E\u0434\u0430."@ru ,
+		"Charles Pic es un piloto franc\u00E9s nacido el 15 de febrero de 1990 en Mont\u00E9limar (Francia). En 2012 fue segundo piloto del equipo Marussia de F\u00F3rmula 1, incorpor\u00E1ndose a Caterham para 2013. Su representante es Jean Alesi. Actualmente participa en la F\u00F3rmula E como piloto de Andretti."@es ,
+		" Pour les articles homonymes, voir Pic.Charles PicFichier:Charles Pic Moscow 2013.jpg Charles Pic au Moscow Star Race en 2013 Charles Pic, n\u00E9 le 15 f\u00E9vrier 1990 \u00E0 Mont\u00E9limar (Dr\u00F4me), est un pilote automobile fran\u00E7ais. Son fr\u00E8re Arthur Pic n\u00E9 en 1991, est \u00E9galement pilote automobile. Il dispute 39 Grands Prix de Formule 1 de 2012 \u00E0 2013 avec Marussia F1 Team puis Caterham F1 Team."@fr ,
+		"Charles Pic (ur. 15 lutego 1990 w Mont\u00E9limar) \u2013 francuski kierowca wy\u015Bcigowy. Wraz z bratem Arthurem Pikiem mieszka w swoim rodzinnym domu w Mont\u00E9limar we Francji."@pl ,
+		"Charles Pic (French: [\u0283\u0251\u0281l \u02C8pik]; born 15 February 1990) is a professional racing driver, who drove in Formula One for two full seasons in 2012 and 2013, racing for Marussia F1 Team in the first season and then for Caterham in the second season."@en ,
+		"\u30B7\u30E3\u30EB\u30EB\u30FB\u30D4\u30C3\u30AF\uFF08Charles Pic \u30011990\u5E742\u670815\u65E5 - \uFF09\u306F\u30D5\u30E9\u30F3\u30B9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u6587\u732E\u306B\u3088\u3063\u3066\u306F\u82F1\u8A9E\u8AAD\u307F\u306B\u6E96\u3058\u3066\u30C1\u30E3\u30FC\u30EB\u30BA\u30FB\u30D4\u30C3\u30AF\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u304C\u3001\u30D5\u30E9\u30F3\u30B9\u8A9E\u8AAD\u307F\u3067\u306F\u30B7\u30E3\u30EB\u30EB\u3068\u306A\u308B\u3002"@ja ,
+		"\u67E5\u5C14\u65AF\u00B7\u76AE\u514B\uFF08\u82F1\u8BED\uFF1ACharles Pic\uFF0C1990\u5E742\u670815\u65E5\uFF0D\uFF0C\u751F\u4E8E\u6CD5\u56FD\u8499\u7279\u5229\u9A6C\u5C14\uFF09\u662F\u4E00\u4F4D\u6CD5\u56FD\u8077\u696D\u8D5B\u8F66\u624B\uFF0C\u66FE\u57282012\u53CA2013\u5E74\u51FA\u8CFD\u5169\u500B\u5B8C\u6574\u8CFD\u5B63\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\uFF0C\u9996\u5E74\u6548\u529B\u65BC\u746A\u9B6F\u897F\u4E9E\u8ECA\u968A\uFF0C\u9694\u5E74\u8F6C\u6295\u5361\u7279\u6C49\u59C6\u8F66\u961F\u3002"@zh ,
+		"Charles Pic (Mont\u00E9limar, 15 februari 1990) is een Frans autocoureur die anno 2013 in de Formule 1 rijdt voor het team Caterham. In 2010 en 2011 reed Pic in de normale GP2 Series, waar hij in totaal 4 polepositions en 3 overwinningen behaalde. Hij eindigde als tiende in het kampioenschap in 2010 en als vierde in 2011."@nl ,
+		"Charles Pic (Mont\u00E9limar, 15 de fevereiro de 1990) \u00E9 um automobilista franc\u00EAs. Irm\u00E3o do tamb\u00E9m piloto Arthur Pic, estreou em 2010 na GP2 Series. Em 2011 disputou a competi\u00E7\u00E3o pela Addax Team."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Charles_Pic_Moscow_2013.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Charles_Pic	dbo:birthDate	"1990-02-15"^^xsd:date ,
+		"1990-2-15"^^xsd:date ;
+	dbo:wikiPageRevisionID	742188069 ;
+	dbo:birthPlace	dbr:France ,
+		<http://dbpedia.org/resource/Mont\u00E9limar> ,
+		<http://dbpedia.org/resource/Dr\u00F4me> ;
+	dbo:wikiPageID	16141981 ;
+	dbp:relatedTo	dbr:Arthur_Pic .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Charles_Pic	ns28:hypernym	dbr:Driver .
+wikipedia-en:Charles_Pic	foaf:primaryTopic	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2011_Monza_GP2_Series_round>	dbp:secondDriverR	dbr:Charles_Pic ;
+	dbp:poleDriver	dbr:Charles_Pic .
+dbr:PIC	dbo:wikiPageDisambiguates	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2010_Yas_Marina_GP2_Asia_Series_round>	dbp:poleDriver	dbr:Charles_Pic .
+dbr:Arthur_Pic	dbp:relatedTo	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2011_Hungaroring_GP2_Series_round>	dbp:secondDriverR	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2011_Valencia_Street_GP2_Series_round>	dbp:poleDriver	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2011_N\u00FCrburgring_GP2_Series_round>	dbp:secondDriverR	dbr:Charles_Pic ;
+	dbp:poleDriver	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2010_Hockenheimring_GP2_Series_round>	dbp:thirdDriverR	dbr:Charles_Pic ;
+	dbp:poleDriver	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2010_Catalunya_GP2_Series_round>	dbp:firstDriverR	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2011_Catalunya_GP2_Series_round>	dbp:fastDriverR	dbr:Charles_Pic ;
+	dbp:firstDriverR	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2010_Bahrain_International_Circuit_GP2_Asia_Series_round_(February)>	dbp:firstDriverR	dbr:Charles_Pic .
+<http://dbpedia.org/resource/2010_Bahrain_International_Circuit_GP2_Asia_Series_round_(March)>	dbp:thirdDriverR	dbr:Charles_Pic .

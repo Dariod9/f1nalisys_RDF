@@ -1,0 +1,152 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1954_German_Grand_Prix>	dbo:fastestDriver	dbr:Karl_Kling .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__37__1>	dbo:firstDriver	dbr:Karl_Kling .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Mercedes-Benz_W154	dbp:drivers	dbr:Karl_Kling .
+<http://dbpedia.org/resource/1954_French_Grand_Prix>	dbo:secondDriver	dbr:Karl_Kling .
+dbr:Kling	dbo:wikiPageDisambiguates	dbr:Karl_Kling .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Karl_Kling	foaf:primaryTopic	dbr:Karl_Kling .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__35__1>	dbo:firstDriver	dbr:Karl_Kling .
+<http://dbpedia.org/resource/1955_British_Grand_Prix>	dbo:thirdDriver	dbr:Karl_Kling .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Karl_Kling	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Karl_Kling	rdf:type	wikidata:Q24229398 ,
+		yago:WikicatGermanFormulaOneDrivers ,
+		foaf:Person ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Karl_Kling	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Karl_Kling	rdf:type	schema:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Karl_Kling	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:FormulaOneRacer ,
+		dbo:Athlete ,
+		dbo:Person .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Karl_Kling	rdf:type	ns11:Agent ,
+		wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		ns11:NaturalPerson ,
+		dbo:MotorsportSeason ,
+		yago:WikicatRacingDriversFromHesse ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		yago:WikicatMercedes-BenzFormulaOneDrivers ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Karl_Kling	rdfs:label	"Karl Kling"@en ,
+		"\u041A\u043B\u0438\u043D\u0433, \u041A\u0430\u0440\u043B"@ru ,
+		"Karl Kling"@de ,
+		"Karl Kling"@it ,
+		"Karl Kling"@pl ,
+		"Karl Kling"@pt ,
+		"Karl Kling"@fr ,
+		"Karl Kling"@es ,
+		"\u0643\u0627\u0631\u0644 \u0643\u0644\u064A\u0646\u063A"@ar ,
+		"Karl Kling"@nl ;
+	rdfs:comment	"Karl Kling (Gie\u00DFen, Alemanha, 16 de setembro de 1910 \u2013 Gaienhofen, Alemanha, 18 de mar\u00E7o de 2003) foi um automobilista alem\u00E3o. Kling participou de 11 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1954 e 1955, todos pela equipe Mercedes. Seus melhores resultados foram o segundo lugar, logo na sua estr\u00E9ia, na Fran\u00E7a em 1954 e o terceiro lugar na Inglaterra em 1955.Terminando sua carreira com 2 p\u00F3dios,1 melhor volta e 17 pontos marcados."@pt ,
+		"Karl Kling (Gie\u00DFen, 16 september 1910 \u2013 Gaienhofen, Lake Constance, Duitsland, 18 maart 2003) was een Formule 1-coureur uit Duitsland. Hij reed in 1954 en 1955 11 Grands Prix voor het team Mercedes-Benz en scoorde hierin 2 podiumplaatsen, 17 punten en 1 snelste ronde."@nl ,
+		"Karl Kling (ur. 16 wrze\u015Bnia 1910, zm. 18 marca 2003) \u2013 niemiecki kierowca wy\u015Bcigowy formu\u0142y 1 w latach 1954-1955. Je\u017Adzi\u0142 w bolidzie zespo\u0142\u00F3w Daimler-Benz AG, skonstruowanym przez Mercedesa. Wystartowa\u0142 w 11 wy\u015Bcigach Formu\u0142y 1, dwukrotnie staj\u0105c na podium, lecz nigdy nie wygrywaj\u0105c."@pl ,
+		"Karl Kling (* 16. September 1910 in Gie\u00DFen; \u2020 18. M\u00E4rz 2003 in Gaienhofen am Bodensee) war ein deutscher Automobilrennfahrer."@de ,
+		"\u041A\u0430\u0440\u043B \u041A\u043B\u0438\u043D\u0433 (\u043D\u0435\u043C. Karl Kling; 16 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1910, \u0413\u0438\u0441\u0441\u0435\u043D \u2014 18 \u043C\u0430\u0440\u0442\u0430 2003, \u0413\u0430\u0439\u0435\u043D\u0445\u043E\u0444\u0435\u043D) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"Karl Kling est un pilote automobile allemand, n\u00E9 le 16 septembre 1910 \u00E0 Giessen et mort le 19 mars 2003 \u00E0 Constance. Il a notamment particip\u00E9 au retour de Mercedes dans les \u00E9preuves sur circuit au d\u00E9but des ann\u00E9es 1950."@fr ,
+		"Karl Kling (16 September 1910, Gie\u00DFen \u2013 18 March 2003, Gaienhofen on Lake Constance, Germany) was a motor racing driver and manager from Germany. He participated in 11 Formula One Grands Prix, debuting on 4 July 1954. He achieved 2 podiums, and scored a total of 17 championship points."@en ,
+		"Karl Kling (16 de septiembre de 1910 \u2013 18 de marzo de 2003) fue un piloto alem\u00E1n de F\u00F3rmula 1 que particip\u00F3 en 11 Grandes Premios debutando en el Gran Premio de Francia de 1954 y retir\u00E1ndose en el Gran Premio de Italia de 1955 consiguiendo dos podios, siendo as\u00ED el primer alem\u00E1n en subirse al podio."@es ,
+		"\u0643\u0627\u0631\u0644 \u0643\u0644\u064A\u0646\u063A \u0645\u0648\u0627\u0644\u064A\u062F 1910-\u0648\u0641\u064A\u0627\u062A 2003 \u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642. \u062D\u0635\u0644 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0623\u0641\u0636\u0644 \u0631\u064A\u0627\u0636\u064A \u0623\u0644\u0645\u0627\u0646\u064A \u0641\u064A \u0633\u0646\u0629 1952."@ar .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Karl_Kling	dbp:birthDate	"1910-09-16"^^xsd:date .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Karl_Kling	owl:sameAs	dbpedia-es:Karl_Kling .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Karl_Kling	owl:sameAs	dbpedia-it:Karl_Kling ,
+		dbr:Karl_Kling .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Karl_Kling	owl:sameAs	dbpedia-pl:Karl_Kling .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Karl_Kling	owl:sameAs	dbpedia-fr:Karl_Kling .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Karl_Kling	owl:sameAs	dbpedia-nl:Karl_Kling ,
+		<http://d-nb.info/gnd/1012717046> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Karl_Kling	owl:sameAs	yago-res:Karl_Kling ,
+		<http://viaf.org/viaf/172034376> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Karl_Kling	owl:sameAs	dbpedia-wikidata:Q63713 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Karl_Kling	owl:sameAs	dbpedia-pt:Karl_Kling ,
+		wikidata:Q63713 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Karl_Kling	owl:sameAs	dbpedia-de:Karl_Kling ,
+		<http://rdf.freebase.com/ns/m.04ky3_> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Karl_Kling	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_from_Hesse ,
+		dbc:German_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:2003_deaths> ,
+		dbc:German_Formula_One_drivers ,
+		dbc:People_from_Giessen ,
+		<http://dbpedia.org/resource/Category:1910_births> ,
+		dbc:Mercedes-Benz_Formula_One_drivers ;
+	foaf:name	"Karl Kling"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/KlingK-MB-W196-1976.jpg> ;
+	dct:description	"German racing driver"@en ;
+	foaf:givenName	"Karl"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Karl_Kling ;
+	foaf:surname	"Kling"@en ;
+	dbp:points	17 ;
+	dbp:years	"\u2013"^^xsd:string ,
+		1952 ;
+	dbp:after	dbr:Werner_Haas ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Mercedes-Benz_in_Formula_One .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Karl_Kling	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Karl_Kling?oldid=715738835> ;
+	dbo:wikiPageExternalLink	<http://www.emercedesbenz.com/Jul08/29_001305_eMercedesBenz_Feature_Win_First_Refuel_Later_Mercedes_Silver_Arrows_Return_To_Formula_One_In_1954.html> ,
+		<http://www.automobilemag.com/features/0306_klingobit/> ,
+		<http://www.grandprix.com/gpe/drv-klikar.html> ;
+	dbp:caption	"Karl Kling demonstrating a Mercedes W196 at the N\u00FCrburgring in 1976."^^xsd:string ;
+	dbp:nationality	"German"^^xsd:string ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Giessen,_Germany> ;
+	dbp:deathDate	"2003-03-18"^^xsd:date ;
+	dbp:before	dbr:Paul_Falk ;
+	dbp:deathPlace	dbr:Lake_Constance ;
+	dbo:abstract	"Karl Kling (Gie\u00DFen, 16 september 1910 \u2013 Gaienhofen, Lake Constance, Duitsland, 18 maart 2003) was een Formule 1-coureur uit Duitsland. Hij reed in 1954 en 1955 11 Grands Prix voor het team Mercedes-Benz en scoorde hierin 2 podiumplaatsen, 17 punten en 1 snelste ronde."@nl ,
+		"\u041A\u0430\u0440\u043B \u041A\u043B\u0438\u043D\u0433 (\u043D\u0435\u043C. Karl Kling; 16 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1910, \u0413\u0438\u0441\u0441\u0435\u043D \u2014 18 \u043C\u0430\u0440\u0442\u0430 2003, \u0413\u0430\u0439\u0435\u043D\u0445\u043E\u0444\u0435\u043D) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"Karl Kling (Gie\u00DFen, Alemanha, 16 de setembro de 1910 \u2013 Gaienhofen, Alemanha, 18 de mar\u00E7o de 2003) foi um automobilista alem\u00E3o. Kling participou de 11 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1954 e 1955, todos pela equipe Mercedes. Seus melhores resultados foram o segundo lugar, logo na sua estr\u00E9ia, na Fran\u00E7a em 1954 e o terceiro lugar na Inglaterra em 1955.Terminando sua carreira com 2 p\u00F3dios,1 melhor volta e 17 pontos marcados."@pt ,
+		"Karl Kling est un pilote automobile allemand, n\u00E9 le 16 septembre 1910 \u00E0 Giessen et mort le 19 mars 2003 \u00E0 Constance. Il a notamment particip\u00E9 au retour de Mercedes dans les \u00E9preuves sur circuit au d\u00E9but des ann\u00E9es 1950."@fr ,
+		"Karl Kling (* 16. September 1910 in Gie\u00DFen; \u2020 18. M\u00E4rz 2003 in Gaienhofen am Bodensee) war ein deutscher Automobilrennfahrer."@de ,
+		"Karl Kling (16 September 1910, Gie\u00DFen \u2013 18 March 2003, Gaienhofen on Lake Constance, Germany) was a motor racing driver and manager from Germany. He participated in 11 Formula One Grands Prix, debuting on 4 July 1954. He achieved 2 podiums, and scored a total of 17 championship points. It is said, that he was born too late and too early. Too late to be in the successful Mercedes team of the 1930s and too early to have a real chance in 1954 and 1955. Unusually, Kling found his way into motorsport via his first job as a reception clerk at Daimler-Benz in the mid-1930s, competing in hillclimb and trials events in production machinery in his spare time. During the Second World War he gained mechanical experience servicing Luftwaffe aircraft, and after the cessation of hostilities he resumed his motorsport involvement in a BMW 328. Kling was instrumental in developing Mercedes' return to international competition in the early 1950s, and his win in the 1952 Carrera Panamericana road race, driving the then-experimental Mercedes-Benz 300SL was a defining point in assuring the Daimler-Benz management that motorsport had a place in Mercedes' future. Called up to the revived Mercedes Grand Prix squad in 1954 he finished less than one second behind the legendary Juan Manuel Fangio on his Formula One debut, taking second place in the 1954 French Grand Prix at the fast Reims-Gueux circuit. This promising start was not to last, and with the arrival of Stirling Moss at Mercedes in 1955 Kling was effectively demoted to third driver. However, away from the World Championship, Kling took impressive victories in both the Berlin Grand Prix (at AVUS, another high-speed circuit) and the Swedish Grand Prix. He left the Formula One team at the end of the season, to succeed Alfred Neubauer as head of Mercedes motorsport. He was in this post during their successful rallying campaigns of the 1960s, occasionally taking the wheel himself. On one such occasion he drove a Mercedes-Benz 220SE to victory in the mighty 1961 Algiers-Cape Town trans-African rally."@en ,
+		"Karl Kling (ur. 16 wrze\u015Bnia 1910, zm. 18 marca 2003) \u2013 niemiecki kierowca wy\u015Bcigowy formu\u0142y 1 w latach 1954-1955. Je\u017Adzi\u0142 w bolidzie zespo\u0142\u00F3w Daimler-Benz AG, skonstruowanym przez Mercedesa. Wystartowa\u0142 w 11 wy\u015Bcigach Formu\u0142y 1, dwukrotnie staj\u0105c na podium, lecz nigdy nie wygrywaj\u0105c."@pl ,
+		"Karl Kling (16 de septiembre de 1910 \u2013 18 de marzo de 2003) fue un piloto alem\u00E1n de F\u00F3rmula 1 que particip\u00F3 en 11 Grandes Premios debutando en el Gran Premio de Francia de 1954 y retir\u00E1ndose en el Gran Premio de Italia de 1955 consiguiendo dos podios, siendo as\u00ED el primer alem\u00E1n en subirse al podio."@es ,
+		"\u0643\u0627\u0631\u0644 \u0643\u0644\u064A\u0646\u063A \u0645\u0648\u0627\u0644\u064A\u062F 1910-\u0648\u0641\u064A\u0627\u062A 2003 \u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642. \u062D\u0635\u0644 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0623\u0641\u0636\u0644 \u0631\u064A\u0627\u0636\u064A \u0623\u0644\u0645\u0627\u0646\u064A \u0641\u064A \u0633\u0646\u0629 1952."@ar ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/KlingK-MB-W196-1976.jpg?width=300> ;
+	dbo:birthDate	"1910-9-16"^^xsd:date ;
+	dbo:deathDate	"2003-3-18"^^xsd:date ;
+	dbo:deathPlace	dbr:Gaienhofen ;
+	dbo:wikiPageRevisionID	715738835 ;
+	dbo:birthPlace	dbr:Giessen ;
+	dbo:wikiPageID	1235752 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1954_French_Grand_Prix> ;
+	dbo:races	"11"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1955_Italian_Grand_Prix> ;
+	dbo:podiums	"2"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Karl_Kling	ns26:hypernym	dbr:Motor ;
+	dbp:title	dbr:German_Sportspersonality_of_the_year .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__29__1>	dbo:firstDriver	dbr:Karl_Kling .

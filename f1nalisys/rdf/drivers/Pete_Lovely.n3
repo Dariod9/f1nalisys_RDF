@@ -1,0 +1,123 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Pete_Lovely	foaf:primaryTopic	dbr:Pete_Lovely .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Gerard_Carlton_Lovely	dbo:wikiPageRedirects	dbr:Pete_Lovely .
+dbr:Gerard_Lovely	dbo:wikiPageRedirects	dbr:Pete_Lovely .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__42nd__1>	dbo:firstDriver	dbr:Pete_Lovely .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Pete_Lovely	rdf:type	dbo:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Pete_Lovely	rdf:type	schema:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Pete_Lovely	rdf:type	yago:CausalAgent100007347 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		dbo:MotorsportRacer .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Pete_Lovely	rdf:type	ns7:NaturalPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Pete_Lovely	rdf:type	wikidata:Q24229398 ,
+		ns7:Agent ,
+		wikidata:Q215627 ,
+		yago:WikicatRacingDriversFromMontana ,
+		dbo:Athlete ,
+		foaf:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatCooperFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Pete_Lovely	rdf:type	owl:Thing ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:WikicatTeamLotusFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Pete_Lovely	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q378622 ,
+		wikidata:Q5 ,
+		yago:Driver110034906 ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Pete_Lovely	rdfs:label	"Pete Lovely"@pt ,
+		"Pete Lovely"@en ,
+		"Pete Lovely"@de ,
+		"Pete Lovely"@nl ,
+		"Pete Lovely"@pl ,
+		"Pete Lovely"@it ,
+		"Pete Lovely"@fr ;
+	rdfs:comment	"Gerard Carlton Lovely (11 de abril de 1926 - 15 de maio de 2011) foi um automobilista norte-americano que participou de 11 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1959 e 1971."@pt ,
+		"Gerard Carlton Lovely (ur. 11 kwietnia 1926 w Livingston, zm. 15 maja 2011) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Lovely wzi\u0105\u0142 udzia\u0142 w 11 Grand Prix Formu\u0142y 1, a zadebiutowa\u0142 10 maja 1959 roku, w Grand Prix Monako. Nie zdoby\u0142 ani jednego punktu. W 9 Grand Prix wystawi\u0142 prywatnego Lotusa, \u015Bcigaj\u0105c si\u0119 wtedy w swoim zespole, Pete Lovely Volkswagen. Po zako\u0144czeniu kariery w Formule 1 \u015Bciga\u0142 si\u0119 w r\u00F3\u017Cnych seriach w Stanach Zjednoczonych do lat 80."@pl ,
+		"Gerald Carlton \u201EPete\u201C Lovely (* 11. April 1926 in Livingston, Montana; \u2020 15. Mai 2011 in Tacoma, Washington) war ein US-amerikanischer Autorennfahrer."@de ,
+		"Gerard Carlton \"Pete\" Lovely est un coureur automobile am\u00E9ricain n\u00E9 le 11 avril 1926 \u00E0 Livingston dans le Montana, et mort le 15 mai 2011. Il s'est inscrit \u00E0 11 Grands Prix de Formule 1 et a pris 7 d\u00E9parts, d\u00E9butant le 10 mai 1959 au Grand Prix de Monaco. Il n'a marqu\u00E9 aucun point au championnat du monde des pilotes. Il a \u00E9galement pris part \u00E0 8 courses de Formule 1 hors-championnat Pete Lovely fut sacr\u00E9 champion en cat\u00E9gorie Sports Car Club of America en 1955."@fr ,
+		"Gerard Carlton \"Pete\" Lovely (Livingston, Montana, 11 april 1926 - Tacoma, Washington, 15 mei 2011) was een Formule 1-coureur uit de Verenigde Staten. Hij nam tussen 1959 en 1971 deel aan 11 Grands Prix voor de teams Lotus en Cooper, maar scoorde hierin geen punten."@nl ,
+		"Gerard Carlton \"Pete\" Lovely (April 11, 1926 \u2013 May 15, 2011) was a racecar driver and businessman from the United States. He was born in Livingston, Montana."@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Pete_Lovely	dbp:points	0 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Pete_Lovely	owl:sameAs	dbpedia-fr:Pete_Lovely ,
+		<http://rdf.freebase.com/ns/m.04kwld> ,
+		wikidata:Q172196 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Pete_Lovely	owl:sameAs	dbpedia-nl:Pete_Lovely .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Pete_Lovely	owl:sameAs	dbpedia-pt:Pete_Lovely .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Pete_Lovely	owl:sameAs	yago-res:Pete_Lovely .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Pete_Lovely	owl:sameAs	dbpedia-wikidata:Q172196 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Pete_Lovely	owl:sameAs	dbpedia-it:Pete_Lovely .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Pete_Lovely	owl:sameAs	dbpedia-pl:Pete_Lovely .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Pete_Lovely	owl:sameAs	dbpedia-de:Pete_Lovely ,
+		dbr:Pete_Lovely .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Pete_Lovely	dct:subject	<http://dbpedia.org/resource/Category:People_from_Livingston,_Montana> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Pete_Lovely	dct:subject	dbc:Racing_drivers_from_Montana ,
+		<http://dbpedia.org/resource/Category:1926_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		<http://dbpedia.org/resource/Category:2011_deaths> ,
+		dbc:American_Formula_One_drivers ;
+	foaf:name	"Pete Lovely"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Pete"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Pete_Lovely ;
+	foaf:surname	"Lovely"@en ;
+	dbp:years	"\u2013, \u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Pete_Lovely	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pete_Lovely?oldid=717018746> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Pete_Lovely	dbp:birthDate	"1926-04-11"^^xsd:date ;
+	dbp:deathDate	"2011-05-15"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-lovpet.html> ;
+	dbo:abstract	"Gerard Carlton \"Pete\" Lovely (April 11, 1926 \u2013 May 15, 2011) was a racecar driver and businessman from the United States. He was born in Livingston, Montana."@en ,
+		"Gerard Carlton Lovely (11 de abril de 1926 - 15 de maio de 2011) foi um automobilista norte-americano que participou de 11 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1959 e 1971."@pt ,
+		"Gerald Carlton \u201EPete\u201C Lovely (* 11. April 1926 in Livingston, Montana; \u2020 15. Mai 2011 in Tacoma, Washington) war ein US-amerikanischer Autorennfahrer."@de ,
+		"Gerard Carlton Lovely (ur. 11 kwietnia 1926 w Livingston, zm. 15 maja 2011) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Lovely wzi\u0105\u0142 udzia\u0142 w 11 Grand Prix Formu\u0142y 1, a zadebiutowa\u0142 10 maja 1959 roku, w Grand Prix Monako. Nie zdoby\u0142 ani jednego punktu. W 9 Grand Prix wystawi\u0142 prywatnego Lotusa, \u015Bcigaj\u0105c si\u0119 wtedy w swoim zespole, Pete Lovely Volkswagen. Po zako\u0144czeniu kariery w Formule 1 \u015Bciga\u0142 si\u0119 w r\u00F3\u017Cnych seriach w Stanach Zjednoczonych do lat 80."@pl ,
+		"Gerard Carlton \"Pete\" Lovely (Livingston, Montana, 11 april 1926 - Tacoma, Washington, 15 mei 2011) was een Formule 1-coureur uit de Verenigde Staten. Hij nam tussen 1959 en 1971 deel aan 11 Grands Prix voor de teams Lotus en Cooper, maar scoorde hierin geen punten."@nl ,
+		"Gerard Carlton \"Pete\" Lovely est un coureur automobile am\u00E9ricain n\u00E9 le 11 avril 1926 \u00E0 Livingston dans le Montana, et mort le 15 mai 2011. Il s'est inscrit \u00E0 11 Grands Prix de Formule 1 et a pris 7 d\u00E9parts, d\u00E9butant le 10 mai 1959 au Grand Prix de Monaco. Il n'a marqu\u00E9 aucun point au championnat du monde des pilotes. Il a \u00E9galement pris part \u00E0 8 courses de Formule 1 hors-championnat Pete Lovely fut sacr\u00E9 champion en cat\u00E9gorie Sports Car Club of America en 1955."@fr ;
+	dbo:birthDate	"1926-4-11"^^xsd:date ;
+	dbo:deathDate	"2011-5-15"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Tacoma,_Washington> ;
+	dbo:wikiPageRevisionID	717018746 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Livingston,_Montana> ;
+	dbo:wikiPageID	1235386 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Pete_Lovely	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1959_Monaco_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1971_United_States_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"11"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Lotus , non-works Cooper"^^xsd:string ;
+	dbp:nationality	"American"^^xsd:string .

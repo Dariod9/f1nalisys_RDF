@@ -1,0 +1,109 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Massimo_Natili	foaf:primaryTopic	dbr:Massimo_Natili .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Massimo_Natili	rdf:type	dbo:MotorsportRacer ,
+		dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Massimo_Natili	rdf:type	yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Massimo_Natili	rdf:type	wikidata:Q215627 ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		foaf:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Massimo_Natili	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Massimo_Natili	rdf:type	owl:Thing ,
+		dbo:Athlete ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q5 ,
+		wikidata:Q378622 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Massimo_Natili	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:PhysicalEntity100001930 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Massimo_Natili	rdf:type	ns10:Agent ,
+		ns10:NaturalPerson ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:Driver110034906 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Massimo_Natili	rdfs:label	"Massimo Natili"@it ,
+		"Massimo Natili"@pt ,
+		"Massimo Natili"@en ,
+		"Massimo Natili"@nl ,
+		"Massimo Natili"@de ,
+		"Massimo Natili"@pl ;
+	rdfs:comment	"Massimo Natili (born July 28, 1935 in Ronciglione) is a former racing driver from Italy. He participated in two Formula One World Championship Grands Prix, debuting on July 15, 1961. He scored no championship points. Natili started in Formula One with Scuderia Centro Sud in 1961 with a retirement from the Syracuse Grand Prix, followed by a failure to qualify for the Naples Grand Prix. He retired on the first lap of the 1961 British Grand Prix with gearbox failure, and practiced for the Italian Grand Prix but did not start."@en ,
+		"Massimo Natili (* 28. Juli 1935 in Ronciglione, Italien) ist ein ehemaliger italienischer Rennfahrer."@de ,
+		"Massimo Natili (Ronciglione, 28 juli 1935) is een voormalig Formule 1-coureur uit Itali\u00EB. Hij nam in 1961 deel aan 2 Grands Prix voor het team Scuderia Centro Sud, maar scoorde hierin geen punten."@nl ,
+		"Corse nel 1961 il Gran Premio di Gran Bretagna e si qualific\u00F2 per l'appuntamento di Monza, nel quale per\u00F2 non prese il via. Durante l'anno disput\u00F2 anche Gran Premi fuori campionato. Nel 1962 ebbe un grave incidente a Monza a bordo di una Formula Junior e fu salvato da uno spettatore, Sergio Kellermann. Chiuse quarto il Gran Premio di Roma nel 1964, prima di passare alle gare in Formula 3."@it ,
+		"Massimo Natili (ur. 28 lipca 1935 roku w Ronciglione) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Massimo Natili (Ronciglione, It\u00E1lia, 28 de julho de 1935) foi um automobilista italiano que participou dos Grandes Pr\u00EAmios da Inglaterra e da It\u00E1lia de F\u00F3rmula 1 em 1961."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Massimo_Natili	dbp:birthDate	"1935-07-28"^^xsd:date .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Massimo_Natili	owl:sameAs	dbpedia-wikidata:Q172624 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Massimo_Natili	owl:sameAs	dbpedia-nl:Massimo_Natili .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Massimo_Natili	owl:sameAs	dbpedia-pl:Massimo_Natili .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Massimo_Natili	owl:sameAs	yago-res:Massimo_Natili .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Massimo_Natili	owl:sameAs	dbpedia-it:Massimo_Natili ,
+		<http://rdf.freebase.com/ns/m.04kvjn> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Massimo_Natili	owl:sameAs	dbpedia-de:Massimo_Natili ,
+		dbr:Massimo_Natili ,
+		wikidata:Q172624 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Massimo_Natili	owl:sameAs	dbpedia-pt:Massimo_Natili .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Massimo_Natili	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Massimo_Natili	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1935_births> ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ;
+	foaf:name	"Massimo Natili"@en ;
+	dct:description	"Italian racing driver"@en ;
+	foaf:givenName	"Massimo"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Massimo_Natili ;
+	foaf:surname	"Natili"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scuderia_Centro_Sud .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Massimo_Natili	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Massimo_Natili?oldid=682391186> ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbo:abstract	"Massimo Natili (* 28. Juli 1935 in Ronciglione, Italien) ist ein ehemaliger italienischer Rennfahrer."@de ,
+		"Corse nel 1961 il Gran Premio di Gran Bretagna e si qualific\u00F2 per l'appuntamento di Monza, nel quale per\u00F2 non prese il via. Durante l'anno disput\u00F2 anche Gran Premi fuori campionato. Nel 1962 ebbe un grave incidente a Monza a bordo di una Formula Junior e fu salvato da uno spettatore, Sergio Kellermann. Chiuse quarto il Gran Premio di Roma nel 1964, prima di passare alle gare in Formula 3."@it ,
+		"Massimo Natili (Ronciglione, It\u00E1lia, 28 de julho de 1935) foi um automobilista italiano que participou dos Grandes Pr\u00EAmios da Inglaterra e da It\u00E1lia de F\u00F3rmula 1 em 1961."@pt ,
+		"Massimo Natili (born July 28, 1935 in Ronciglione) is a former racing driver from Italy. He participated in two Formula One World Championship Grands Prix, debuting on July 15, 1961. He scored no championship points. Natili started in Formula One with Scuderia Centro Sud in 1961 with a retirement from the Syracuse Grand Prix, followed by a failure to qualify for the Naples Grand Prix. He retired on the first lap of the 1961 British Grand Prix with gearbox failure, and practiced for the Italian Grand Prix but did not start. In 1962, Natili was involved in a fiery accident in a Formula Junior race at Monza, and was rescued by an anonymous spectator. He came 4th in the 1964 Rome Grand Prix after retiring from the previous year's event, and subsequently competed in Italian Formula 3."@en ,
+		"Massimo Natili (Ronciglione, 28 juli 1935) is een voormalig Formule 1-coureur uit Itali\u00EB. Hij nam in 1961 deel aan 2 Grands Prix voor het team Scuderia Centro Sud, maar scoorde hierin geen punten."@nl ,
+		"Massimo Natili (ur. 28 lipca 1935 roku w Ronciglione) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1935-7-28"^^xsd:date ;
+	dbo:wikiPageRevisionID	682391186 ;
+	dbo:birthPlace	dbr:Ronciglione ;
+	dbo:wikiPageID	1235067 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1961_British_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1961_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Massimo_Natili	ns24:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__44__1>	dbo:firstDriver	dbr:Massimo_Natili .

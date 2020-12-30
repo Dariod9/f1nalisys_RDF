@@ -1,0 +1,114 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Heeks	dbo:wikiPageDisambiguates	dbr:Willi_Heeks .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Willi_Heeks	foaf:primaryTopic	dbr:Willi_Heeks .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Willi_Heeks	rdf:type	dbo:FormulaOneRacer ,
+		dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Willi_Heeks	rdf:type	yago:WikicatAFMFormulaOneDrivers ,
+		yago:WikicatGermanFormulaOneDrivers ,
+		dbo:Athlete .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Willi_Heeks	rdf:type	ns6:Agent ,
+		foaf:Person ,
+		dbo:Person ,
+		yago:Driver110034906 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Willi_Heeks	rdf:type	wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		yago:Operator110378412 ,
+		ns6:NaturalPerson ,
+		dbo:RacingDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Willi_Heeks	rdf:type	schema:Person ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q5 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Willi_Heeks	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		dbo:Agent ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Willi_Heeks	rdfs:label	"Willi Heeks"@pt ,
+		"Willi Heeks"@en ,
+		"Willi Heeks"@it ,
+		"Willi Heeks"@nl ,
+		"Willi Heeks"@de ,
+		"Willi Heeks"@fr ,
+		"Willi Heeks"@pl ;
+	rdfs:comment	"Willi Heeks Willi Heeks est un pilote automobile allemand, n\u00E9 le 13 f\u00E9vrier 1922 \u00E0 Emsb\u00FCren, Allemagne, et mort le 13 ao\u00FBt 1996 \u00E0 Bocholt, Allemagne. Il a particip\u00E9 \u00E0 deux courses du championnat du monde de Formule 1."@fr ,
+		"Willi Heeks (13 februari 1922 \u2013 13 augustus 1996) was een Formule 1-coureur uit Duitsland. Hij nam in 1952 en 1953 deel aan 2 Grands Prix waarin hij geen punten scoorde."@nl ,
+		"Willi Heeks (* 13. Februar 1922 in Moorlage; \u2020 13. August 1996 in Bocholt) war ein deutscher Automobilrennfahrer."@de ,
+		"Wilhelm Heeks (Moorlage, Alemanha, 13 de fevereiro de 1922 \u2014 Bocholt, Alemanha, 13 de agosto de 1996) foi um automobilista alem\u00E3o que participou dos Grandes Pr\u00EAmios da Alemanha de F\u00F3rmula 1 em 1952 e 1953."@pt ,
+		"Ha partecipato ai Gran Premi di Germania nel 1952 e 1953 non portando mai a termine la gara."@it ,
+		"Willi Heeks (ur. 13 lutego 1922 roku w Moorlage, zm. 13 sierpnia 1996 roku w Bocholt) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl ,
+		"Willi Heeks (February 13, 1922 in Moorlage \u2013 August 13, 1996 in Bocholt) was a racing driver from Germany. He participated in 2 World Championship Grands Prix, debuting on August 3, 1952. He scored no championship points."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Willi_Heeks	dbp:birthDate	"1922-02-13"^^xsd:date .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Willi_Heeks	owl:sameAs	dbpedia-de:Willi_Heeks ,
+		<http://rdf.freebase.com/ns/m.04ky1p> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Willi_Heeks	owl:sameAs	yago-res:Willi_Heeks .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Willi_Heeks	owl:sameAs	dbpedia-fr:Willi_Heeks ,
+		dbr:Willi_Heeks .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Willi_Heeks	owl:sameAs	dbpedia-wikidata:Q61486 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Willi_Heeks	owl:sameAs	dbpedia-pt:Willi_Heeks ,
+		wikidata:Q61486 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Willi_Heeks	owl:sameAs	dbpedia-it:Willi_Heeks .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Willi_Heeks	owl:sameAs	dbpedia-nl:Willi_Heeks .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Willi_Heeks	owl:sameAs	dbpedia-pl:Willi_Heeks .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Willi_Heeks	dct:subject	dbc:German_racing_drivers ,
+		dbc:German_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1922_births> ,
+		dbc:AFM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1996_deaths> ;
+	foaf:name	"Willi Heeks"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Willi"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Willi_Heeks ;
+	foaf:surname	"Heeks"@en ;
+	dbp:points	0 ;
+	dbp:years	"-"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Alex_von_Falkenhausen_Motorenbau ,
+		<http://dbpedia.org/resource/Veritas_(constructor)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Willi_Heeks	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Willi_Heeks?oldid=727491426> ;
+	dbp:nationality	"German"^^xsd:string ;
+	dbp:deathDate	"1996-08-13"^^xsd:date ;
+	dbo:abstract	"Willi Heeks (13 februari 1922 \u2013 13 augustus 1996) was een Formule 1-coureur uit Duitsland. Hij nam in 1952 en 1953 deel aan 2 Grands Prix waarin hij geen punten scoorde."@nl ,
+		"Willi Heeks Willi Heeks est un pilote automobile allemand, n\u00E9 le 13 f\u00E9vrier 1922 \u00E0 Emsb\u00FCren, Allemagne, et mort le 13 ao\u00FBt 1996 \u00E0 Bocholt, Allemagne. Il a particip\u00E9 \u00E0 deux courses du championnat du monde de Formule 1."@fr ,
+		"Wilhelm Heeks (Moorlage, Alemanha, 13 de fevereiro de 1922 \u2014 Bocholt, Alemanha, 13 de agosto de 1996) foi um automobilista alem\u00E3o que participou dos Grandes Pr\u00EAmios da Alemanha de F\u00F3rmula 1 em 1952 e 1953."@pt ,
+		"Ha partecipato ai Gran Premi di Germania nel 1952 e 1953 non portando mai a termine la gara."@it ,
+		"Willi Heeks (February 13, 1922 in Moorlage \u2013 August 13, 1996 in Bocholt) was a racing driver from Germany. He participated in 2 World Championship Grands Prix, debuting on August 3, 1952. He scored no championship points."@en ,
+		"Willi Heeks (* 13. Februar 1922 in Moorlage; \u2020 13. August 1996 in Bocholt) war ein deutscher Automobilrennfahrer."@de ,
+		"Willi Heeks (ur. 13 lutego 1922 roku w Moorlage, zm. 13 sierpnia 1996 roku w Bocholt) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1922-2-13"^^xsd:date ;
+	dbo:deathDate	"1996-8-13"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Bocholt,_Germany> ;
+	dbo:wikiPageRevisionID	727491426 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Emsb\u00FCren> ;
+	dbo:wikiPageID	1235731 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_German_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1953_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Willi_Heeks	ns24:hypernym	dbr:Driver .

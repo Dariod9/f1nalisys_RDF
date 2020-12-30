@@ -1,0 +1,164 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Nelson_Piquet	dbp:after	dbr:Chico_Serra .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Chico_Serra	rdf:type	yago:WikicatFormulaFordDrivers ,
+		yago:Operator110378412 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Chico_Serra	rdf:type	foaf:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatChampCarDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Chico_Serra	rdf:type	dbo:FormulaOneRacer .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Chico_Serra	rdf:type	ns6:Agent ,
+		ns6:NaturalPerson ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatArrowsFormulaOneDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatBrazilianFormulaOneDrivers ,
+		yago:WikicatStockCarBrasilDrivers ,
+		dbo:MotorsportRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Chico_Serra	rdf:type	wikidata:Q378622 ,
+		dbo:Athlete ,
+		dbo:RacingDriver ,
+		dbo:Agent ,
+		wikidata:Q5 ,
+		yago:CausalAgent100007347 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Chico_Serra	rdf:type	owl:Thing ,
+		dbo:Person ,
+		wikidata:Q215627 ,
+		yago:WikicatEuropeanLeMansSeriesDrivers ,
+		yago:WikicatFittipaldiFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Chico_Serra	rdf:type	umbel-rc:RaceCarDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Chico_Serra	rdf:type	schema:Person ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Chico_Serra	rdfs:label	"Chico Serra"@fr ,
+		"Chico Serra"@it ,
+		"\u0421\u0435\u0440\u0440\u0430, \u0427\u0438\u043A\u043E"@ru ,
+		"Chico Serra"@nl ,
+		"Chico Serra"@pl ,
+		"\u30C1\u30B3\u30FB\u30BB\u30E9"@ja ,
+		"Chico Serra"@pt ,
+		"Chico Serra"@es ,
+		"Chico Serra"@de ,
+		"Chico Serra"@en ;
+	rdfs:comment	"Francisco \"Chico\" Serra (n. 3 de febrero de 1957 en S\u00E3o Paulo) es un piloto de automovilismo de Brasil. Particip\u00F3 en 33 Grandes Premios de F\u00F3rmula 1 en los equipos Fittipaldi y Arrows, logrando un punto de campeonato. Luego se destac\u00F3 en el Stock Car Brasil, donde obtuvo 31 victorias, tres t\u00EDtulos en 1999, 2000 y 2001, y el subcampeonato en 2002. Su hijo Daniel Serra tambi\u00E9n es piloto del Stock Car."@es ,
+		"Francisco \"Chico\" Serra (born 3 February 1957 in S\u00E3o Paulo) is a racing driver from Brazil. He won the 1979 British Formula 3 Championship. He participated in 33 Formula One World Championship Grands Prix for Fittipaldi and Arrows, debuting on 15 March 1981. He scored one championship point, for finishing sixth in the 1982 Belgian Grand Prix. After qualifying for the 1982 Canadian Grand Prix, Serra and countryman Raul Boesel had a short scuffle. Serra was furious at Boesel for blocking his last flying lap after waving Keke Rosberg by. Boesel denied that this was intentional. Serra made one CART Champ Car start in 1985 at the Portland International Raceway for Ensign Racing but suffered an engine failure."@en ,
+		"\u30D5\u30E9\u30F3\u30B7\u30B9\u30B3\u30FB\"\u30C1\u30B3\"\u30FB\u30BB\u30E9\uFF08Francisco \"Chico\" Serra, 1957\u5E742\u67083\u65E5 - \uFF09\u306F\u3001\u30D6\u30E9\u30B8\u30EB\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"Francisco Adolpho Serra, mais conhecido como Chico Serra (S\u00E3o Paulo, 3 de fevereiro de 1957) \u00E9 um automobilista brasileiro. \u00C9 pai do tamb\u00E9m piloto Daniel Serra e eleitor do primo Jos\u00E9 Serra."@pt ,
+		"Francisco \u201EChico\u201D Serra (ur. 3 lutego 1957 roku w S\u00E3o Paulo) \u2013 brazylijski kierowca wy\u015Bcigowy."@pl ,
+		"\u0424\u0440\u0430\u043D\u0441\u0438\u0441\u043A\u0443 \u00AB\u0427\u0438\u043A\u043E\u00BB \u0421\u0435\u0440\u0440\u0430 (\u043F\u043E\u0440\u0442. Francisco \u00ABChico\u00BB Serra; \u0440\u043E\u0434. 3 \u0444\u0435\u0432\u0440\u0430\u043B\u044F, 1957 \u0433\u043E\u0434\u0430, \u0421\u0430\u043D-\u041F\u0430\u0443\u043B\u0443) \u2014 \u0431\u0440\u0430\u0437\u0438\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 1979 \u0433\u043E\u0434\u0430."@ru ,
+		"Francisco \u201EChico\u201C Serra (* 3. Februar 1957 in S\u00E3o Paulo) ist ein brasilianischer Autorennfahrer. Seine internationale Karriere begann 1977 in England, als er den Formel-Ford-Titel gewann.1978 wurde er hinter Nelson Piquet und Derek Warwick Dritter in der britischen Formel-3-Meisterschaft. Im Jahre 1979 konnte er den ersten Platz in der Meisterschaft dieser Klasse belegen."@de ,
+		"Francisco \"Chico\" Serra (S\u00E3o Paulo, 3 februari 1957) is een voormalig Formule 1 coureur uit Brazili\u00EB. Hij won in 1979 de British F3. Hij deed mee in 33 grand prix en haalde daarbij 1 punt. Hij racete voor Fittipaldi en voor Arrows. Hij racet tegenwoordig in de Copa NEXTEL Stock Car. Hij won dat kampioenschap in 1999, 2000 en 2001."@nl ,
+		"Chico SerraFichier:Chico Serra 2007 Curitiba.jpg Chico Serra, en 2007 \u00E0 Curitiba lors d'une manche de Stock Car Brasil. Francisco Serra dit Chico Serra (n\u00E9 le 3 f\u00E9vrier 1957 \u00E0 S\u00E3o Paulo - ) est un ancien pilote automobile br\u00E9silien de Formule 1."@fr ;
+	dbp:points	1 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04jglc> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Chico_Serra	owl:sameAs	dbpedia-fr:Chico_Serra .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Chico_Serra	owl:sameAs	dbpedia-pt:Chico_Serra .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Chico_Serra	owl:sameAs	dbpedia-de:Chico_Serra ,
+		dbr:Chico_Serra ,
+		wikidata:Q171507 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Chico_Serra	owl:sameAs	dbpedia-es:Chico_Serra .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Chico_Serra	owl:sameAs	dbpedia-pl:Chico_Serra .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Chico_Serra	owl:sameAs	yago-res:Chico_Serra .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Chico_Serra	owl:sameAs	dbpedia-nl:Chico_Serra .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Chico_Serra	owl:sameAs	dbpedia-it:Chico_Serra ,
+		<http://ja.dbpedia.org/resource/\u30C1\u30B3\u30FB\u30BB\u30E9> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Chico_Serra	owl:sameAs	dbpedia-wikidata:Q171507 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Chico_Serra	dct:subject	dbc:Champ_Car_drivers ,
+		dbc:European_Le_Mans_Series_drivers ,
+		dbc:Fittipaldi_Formula_One_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1957_births> ,
+		dbc:Formula_Ford_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Stock_Car_Brasil_drivers ,
+		dbc:Brazilian_racing_drivers ,
+		dbc:Arrows_Formula_One_drivers ,
+		dbc:Brazilian_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ;
+	foaf:name	"Chico Serra"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Chico_Serra_2007_Mil_Milhas_Brasil.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Francisco"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Chico_Serra	foaf:isPrimaryTopicOf	wikipedia-en:Chico_Serra ;
+	foaf:surname	"Serra"@en ;
+	dbp:title	dbr:British_Formula_3_Championship ,
+		dbr:Formula_Ford_Festival ,
+		"Winner"^^xsd:string ,
+		dbr:Stock_Car_Brasil ,
+		"Champion"^^xsd:string ;
+	dbp:years	1977 ,
+		1979 ,
+		1999 ,
+		"\u2013"^^xsd:string ;
+	dbp:rows	2 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Chico_Serra	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Chico_Serra?oldid=718320133> ;
+	dbp:before	dbr:Ingo_Hoffmann ,
+		dbr:Derek_Daly ;
+	dbp:after	dbr:Stefan_Johansson ,
+		dbr:Ingo_Hoffmann ,
+		<http://dbpedia.org/resource/Michael_Roe_(driver)> ;
+	dbp:birthPlace	<http://dbpedia.org/resource/S\u00E3o_Paulo> ,
+		dbr:Brazil .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Chico_Serra	dbp:birthDate	"1957-02-03"^^xsd:date ;
+	dbp:caption	"Serra in 2007"^^xsd:string ;
+	dbo:abstract	"Francisco \"Chico\" Serra (S\u00E3o Paulo, 3 februari 1957) is een voormalig Formule 1 coureur uit Brazili\u00EB. Hij won in 1979 de British F3. Hij deed mee in 33 grand prix en haalde daarbij 1 punt. Hij racete voor Fittipaldi en voor Arrows. Hij racet tegenwoordig in de Copa NEXTEL Stock Car. Hij won dat kampioenschap in 1999, 2000 en 2001."@nl ,
+		"Francisco \"Chico\" Serra (born 3 February 1957 in S\u00E3o Paulo) is a racing driver from Brazil. He won the 1979 British Formula 3 Championship. He participated in 33 Formula One World Championship Grands Prix for Fittipaldi and Arrows, debuting on 15 March 1981. He scored one championship point, for finishing sixth in the 1982 Belgian Grand Prix. After qualifying for the 1982 Canadian Grand Prix, Serra and countryman Raul Boesel had a short scuffle. Serra was furious at Boesel for blocking his last flying lap after waving Keke Rosberg by. Boesel denied that this was intentional. Serra made one CART Champ Car start in 1985 at the Portland International Raceway for Ensign Racing but suffered an engine failure. Serra has participated in Brazilian stock car racing since the 1980s and was series champion in 1999, 2000 and 2001."@en ,
+		"\u0424\u0440\u0430\u043D\u0441\u0438\u0441\u043A\u0443 \u00AB\u0427\u0438\u043A\u043E\u00BB \u0421\u0435\u0440\u0440\u0430 (\u043F\u043E\u0440\u0442. Francisco \u00ABChico\u00BB Serra; \u0440\u043E\u0434. 3 \u0444\u0435\u0432\u0440\u0430\u043B\u044F, 1957 \u0433\u043E\u0434\u0430, \u0421\u0430\u043D-\u041F\u0430\u0443\u043B\u0443) \u2014 \u0431\u0440\u0430\u0437\u0438\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 1979 \u0433\u043E\u0434\u0430."@ru ,
+		"Francisco \u201EChico\u201C Serra (* 3. Februar 1957 in S\u00E3o Paulo) ist ein brasilianischer Autorennfahrer. Seine internationale Karriere begann 1977 in England, als er den Formel-Ford-Titel gewann.1978 wurde er hinter Nelson Piquet und Derek Warwick Dritter in der britischen Formel-3-Meisterschaft. Im Jahre 1979 konnte er den ersten Platz in der Meisterschaft dieser Klasse belegen. Nach einem Jahr in der Formel 2 begann er im Jahr 1981 beim Fittpaldi-Automotive-Teams als Teampartner von Keke Rosberg in der Formel 1. Der gro\u00DFe Erfolg blieb mit nur einem WM-Punkt (6. Platz in Belgien) aus. 1982 war er alleiniger Fahrer des Fittipaldi-Teams. Nachdem er in der WM-Wertung nur den 26. Platz belegte, wechselte er 1983 zu Arrows, wo er bereits nach vier Rennen seinen Platz r\u00E4umen musste. Chico Serra fuhr insgesamt 18 Grand Prix. Nach seinem gescheiterten Versuch, in der Formel 1 Fu\u00DF zu fassen, kehrte er nach Brasilien zur\u00FCck, um dort an nationalen Tourenwagenmeisterschaften teilzunehmen. Er konnte die nationalen brasilianischen Stock-Car-Meisterschaften der Jahre 1999, 2000 und 2001 f\u00FCr sich entscheiden."@de ,
+		"Francisco \u201EChico\u201D Serra (ur. 3 lutego 1957 roku w S\u00E3o Paulo) \u2013 brazylijski kierowca wy\u015Bcigowy."@pl ,
+		"Francisco Adolpho Serra, mais conhecido como Chico Serra (S\u00E3o Paulo, 3 de fevereiro de 1957) \u00E9 um automobilista brasileiro. \u00C9 pai do tamb\u00E9m piloto Daniel Serra e eleitor do primo Jos\u00E9 Serra."@pt ,
+		"Francisco \"Chico\" Serra (n. 3 de febrero de 1957 en S\u00E3o Paulo) es un piloto de automovilismo de Brasil. Particip\u00F3 en 33 Grandes Premios de F\u00F3rmula 1 en los equipos Fittipaldi y Arrows, logrando un punto de campeonato. Luego se destac\u00F3 en el Stock Car Brasil, donde obtuvo 31 victorias, tres t\u00EDtulos en 1999, 2000 y 2001, y el subcampeonato en 2002. Su hijo Daniel Serra tambi\u00E9n es piloto del Stock Car."@es ,
+		"\u30D5\u30E9\u30F3\u30B7\u30B9\u30B3\u30FB\"\u30C1\u30B3\"\u30FB\u30BB\u30E9\uFF08Francisco \"Chico\" Serra, 1957\u5E742\u67083\u65E5 - \uFF09\u306F\u3001\u30D6\u30E9\u30B8\u30EB\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"Chico SerraFichier:Chico Serra 2007 Curitiba.jpg Chico Serra, en 2007 \u00E0 Curitiba lors d'une manche de Stock Car Brasil. Francisco Serra dit Chico Serra (n\u00E9 le 3 f\u00E9vrier 1957 \u00E0 S\u00E3o Paulo - ) est un ancien pilote automobile br\u00E9silien de Formule 1."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Chico_Serra_2007_Mil_Milhas_Brasil.jpg?width=300> ;
+	dbo:birthDate	"1957-2-3"^^xsd:date ;
+	dbo:wikiPageRevisionID	718320133 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/S\u00E3o_Paulo> ;
+	dbo:wikiPageID	1219719 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Chico_Serra	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1981_United_States_Grand_Prix_West> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1983_Monaco_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"33"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Arrows_Grand_Prix_International ,
+		dbr:Fittipaldi_Automotive ;
+	dbp:nationality	"Brazilian"^^xsd:string .
+dbr:Derek_Daly	dbp:after	dbr:Chico_Serra .
+wikipedia-en:Chico_Serra	foaf:primaryTopic	dbr:Chico_Serra .
+dbr:Stefan_Johansson	dbp:before	dbr:Chico_Serra .
+dbr:Chico	dbo:wikiPageDisambiguates	dbr:Chico_Serra .
+<http://dbpedia.org/resource/Michael_Roe_(racing_driver)>	dbp:before	dbr:Chico_Serra .
+dbr:Ingo_Hoffmann	dbp:before	dbr:Chico_Serra ;
+	dbp:after	dbr:Chico_Serra .
+<http://dbpedia.org/resource/1985_CART_PPG_Indy_Car_World_Series__Theodore_Racing__1>	dbo:firstDriver	dbr:Chico_Serra .
+dbr:Derek_Warwick	dbp:after	dbr:Chico_Serra .

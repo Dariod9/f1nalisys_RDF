@@ -1,0 +1,157 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Pierre-Henri_Raphanel	dbp:before	dbr:Olivier_Grouillard .
+<http://dbpedia.org/resource/Michel_Fert\u00E9>	dbp:after	dbr:Olivier_Grouillard .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Olivier_Grouillard	foaf:primaryTopic	dbr:Olivier_Grouillard .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Olivier_Grouillard	rdf:type	ns5:NaturalPerson .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Olivier_Grouillard	rdf:type	dbo:Athlete ,
+		ns5:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Olivier_Grouillard	rdf:type	yago:WikicatChampCarDrivers ,
+		dbo:FormulaOneRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Olivier_Grouillard	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		yago:Driver110034906 ,
+		yago:WikicatFondmetalFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Olivier_Grouillard	rdf:type	wikidata:Q378622 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Olivier_Grouillard	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatOsellaFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		foaf:Person ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:Operator110378412 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent ,
+		dbo:RacingDriver ,
+		wikidata:Q24229398 ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatFrenchFormulaThreeChampionshipDrivers ,
+		wikidata:Q215627 ,
+		yago:WikicatAGSFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatLigierFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Olivier_Grouillard	rdf:type	schema:Person ,
+		yago:WikicatFrenchFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Olivier_Grouillard	rdfs:label	"Olivier Grouillard"@pl ,
+		"Olivier Grouillard"@pt ,
+		"\u30AA\u30EA\u30D3\u30A8\u30FB\u30B0\u30EB\u30A4\u30E4\u30FC\u30EB"@ja ,
+		"Olivier Grouillard"@de ,
+		"\u0413\u0440\u0443\u0439\u044F\u0440, \u041E\u043B\u0438\u0432\u044C\u0435"@ru ,
+		"Olivier Grouillard"@it ,
+		"Olivier Grouillard"@en ,
+		"Olivier Grouillard"@nl ,
+		"Olivier Grouillard"@fr ,
+		"Olivier Grouillard"@es ;
+	rdfs:comment	"Olivier Grouillard (Fenouillet, 2 de septiembre de 1958) es un antiguo piloto de F\u00F3rmula 1 de Francia. Ha participado en 62 grandes premios, debutando el 26 de marzo de 1989. En su carrera obtuvo un solo punto en los campeonatos. Grouillard gan\u00F3 el campeonato de F\u00F3rmula 3 en Francia en 1984, lo que le perimiti\u00F3 acceder a la F\u00F3rmula 3000, donde compiti\u00F3 entre 1985 y 1988."@es ,
+		"Olivier Grouillard (Fenouillet, 2 de setembro de 1958) \u00E9 um ex-piloto franc\u00EAs de F\u00F3rmula 1. Disputou a categoria entre 1989 a 1992, participou de 62 GPs (largou em 41 oportunidades) e marcou um ponto no campeonato."@pt ,
+		"\u30AA\u30EA\u30D3\u30A8\u30FB\u30B0\u30EB\u30A4\u30E4\u30FC\u30EB\uFF08Olivier Grouillard\u30011958\u5E749\u67082\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u30021989\u5E74\u304B\u30891992\u5E74\u306B\u304B\u3051\u3066F1\u306B\u51FA\u8D70\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"Olivier Grouillard (born 2 September 1958 in Fenouillet) is a racing driver from France. He started racing go-karts from the age of fourteen competing in events such as the Volant Elf. He progressed to Formula Renault winning the title before Grouillard competed in F3000 from 1985 to 1988 taking two wins. He also participated in the Birmingham Superprix but did not start the race."@en ,
+		"Olivier Grouillard (Fenouillet, 2 september 1958) is een Frans autocoureur. Hij maakte zijn Formule 1-debuut in 1989 bij Ligier en nam deel aan 62 Grands Prix waarvan hij er 41 mocht starten. Hij scoorde \u00E9\u00E9n punt. Grouillard won het Frans Formule 3-kampioenschap in 1984, van waar hij overstapte naar de Formule 3000 waarin hij van 1985 tot 1988 uitkwam. Hij was de eerste seizoenen niet competitief, maar dat verbeterde in het kampioenschap van 1988 waarin hij tweede werd. Hij beproefde zijn geluk nog wel in de IndyCar maar zonder succes."@nl ,
+		"\u041E\u043B\u0438\u0432\u044C\u0435 \u0413\u0440\u0443\u0439\u044F\u0440 (\u0444\u0440. Olivier Grouillard, 2 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1958, \u0424\u0435\u043D\u0443\u0439\u0435) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Olivier Grouillard est un ancien pilote automobile fran\u00E7ais, n\u00E9 le 2 septembre 1958 \u00E0 Toulouse en Haute-Garonne. Il a notamment \u00E9volu\u00E9 durant quatre saisons (de 1989 \u00E0 1992) dans le championnat du monde de Formule 1."@fr ,
+		"Olivier Grouillard (* 2. September 1958 in Fenouillet) ist ein ehemaliger franz\u00F6sischer Rennfahrer. In den Jahren 1989 bis 1992 war er Formel-1-Fahrer, wobei er an 62 Grands Prix teilnahm, sich jedoch f\u00FCr nur 41 Rennen qualifizierte und einen WM-Punkt erreichte."@de ,
+		"Olivier Grouillard (ur. 2 wrze\u015Bnia 1958 w Fenouillet) \u2013 francuski kierowca wy\u015Bcigowy. Uczestnik 41 wy\u015Bcig\u00F3w Grand Prix Formu\u0142y 1 na 62 zg\u0142oszenia."@pl ;
+	dbp:points	1 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	dbpedia-pl:Olivier_Grouillard .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	dbpedia-it:Olivier_Grouillard ,
+		wikidata:Q173307 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	dbpedia-es:Olivier_Grouillard ,
+		dbr:Olivier_Grouillard .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	dbpedia-wikidata:Q173307 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	dbpedia-nl:Olivier_Grouillard .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	dbpedia-fr:Olivier_Grouillard .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	dbpedia-de:Olivier_Grouillard .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	yago-res:Olivier_Grouillard .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	dbpedia-pt:Olivier_Grouillard ,
+		<http://ja.dbpedia.org/resource/\u30AA\u30EA\u30D3\u30A8\u30FB\u30B0\u30EB\u30A4\u30E4\u30FC\u30EB> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Olivier_Grouillard	owl:sameAs	dbpedia-cs:Olivier_Grouillard ,
+		<http://rdf.freebase.com/ns/m.04k24r> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Olivier_Grouillard	dct:subject	dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1958_births> ,
+		dbc:French_Formula_Three_Championship_drivers ,
+		dbc:Osella_Formula_One_drivers ,
+		dbc:French_Formula_One_drivers ,
+		dbc:French_racing_drivers ,
+		dbc:AGS_Formula_One_drivers ,
+		dbc:Ligier_Formula_One_drivers ,
+		dbc:Champ_Car_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Fondmetal_Formula_One_drivers ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		dbc:People_from_Haute-Garonne ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:International_Formula_3000_drivers ;
+	foaf:name	"Olivier Grouillard"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Olivier"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Olivier_Grouillard ;
+	foaf:surname	"Grouillard"@en ;
+	dbp:title	dbr:French_Formula_Three_Championship ,
+		dbr:Champion ;
+	dbp:years	"\u2013"^^xsd:string ,
+		1984 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Olivier_Grouillard	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Olivier_Grouillard?oldid=743166616> ;
+	dbp:before	<http://dbpedia.org/resource/Michel_Fert\u00E9> ;
+	dbp:after	dbr:Pierre-Henri_Raphanel ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Fenouillet,_Haute-Garonne> ,
+		dbr:France .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Olivier_Grouillard	dbp:birthDate	"1958-09-02"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-grooli.html> ;
+	dbo:abstract	"Olivier Grouillard (Fenouillet, 2 september 1958) is een Frans autocoureur. Hij maakte zijn Formule 1-debuut in 1989 bij Ligier en nam deel aan 62 Grands Prix waarvan hij er 41 mocht starten. Hij scoorde \u00E9\u00E9n punt. Grouillard won het Frans Formule 3-kampioenschap in 1984, van waar hij overstapte naar de Formule 3000 waarin hij van 1985 tot 1988 uitkwam. Hij was de eerste seizoenen niet competitief, maar dat verbeterde in het kampioenschap van 1988 waarin hij tweede werd. In 1989 maakte Grouillard zijn debuut in een Ligier. Het hoogtepunt in zijn Formule 1-carri\u00E8re in de Franse Grand Prix van 1989. Hij reed ook nog voor Osella en de opvolger van het team Fondmetal. Hij reed ook nog voor AGS en Tyrrell. Zijn racecarri\u00E8re werd gekenmerkt door vele incidenten. In de kwalificatie voor de Grand Prix van Belgi\u00EB van 1989 blokkeerde hij de Lotus van Nelson Piquet waardoor die van de baan spinde en zich niet wist te kwalificeren. Tijdens de kwalificatie voor de Grand Prix van San Marino van 1990 blokkeerde hij Nigel Mansell, iets wat hij herhaalde in de Grand Prix van Australi\u00EB. Tijdens de kwalificatie van de Franse Grand Prix van 1991 deed Grouillard een laatste poging om zich te kwalificeren met zijn Fondmetal, maar hij blies zijn motor op. In plaats van zijn auto aan de kant te zetten, reed Grouillard door naar de pits waardoor er een oliespoor op de baan kwam. Ayrton Senna verloor hierdoor zijn kans om de pole-position te nemen. Grouillards reputatie zorgde ervoor dat hij ontslagen werd bij Fondmetal aan het eind van 1991 toen hij besloot om zijn race-auto in de prekwalificatie voor de Grand Prix van Portugal ondanks een kapotte versnellingsbak. Hij wilde niet met de reserve-auto rijden waardoor hij de maandag na de race ontslagen werd. Hij beproefde zijn geluk nog wel in de IndyCar maar zonder succes."@nl ,
+		"Olivier Grouillard (Fenouillet, 2 de septiembre de 1958) es un antiguo piloto de F\u00F3rmula 1 de Francia. Ha participado en 62 grandes premios, debutando el 26 de marzo de 1989. En su carrera obtuvo un solo punto en los campeonatos. Grouillard gan\u00F3 el campeonato de F\u00F3rmula 3 en Francia en 1984, lo que le perimiti\u00F3 acceder a la F\u00F3rmula 3000, donde compiti\u00F3 entre 1985 y 1988. Debut\u00F3 en F\u00F3rmula 1 con Ligier en el Gran Premio de Brasil de 1989. Su mejor registro fue un sexto puesto en el Gran Premio de Francia de 1989. Corri\u00F3 tambi\u00E9n con Osella, su sucesor, Fondmetal, AGS y Tyrrell, antes de establecerse en Estados Unidos en la IndyCar."@es ,
+		"Olivier Grouillard (Fenouillet, 2 de setembro de 1958) \u00E9 um ex-piloto franc\u00EAs de F\u00F3rmula 1. Disputou a categoria entre 1989 a 1992, participou de 62 GPs (largou em 41 oportunidades) e marcou um ponto no campeonato."@pt ,
+		"\u30AA\u30EA\u30D3\u30A8\u30FB\u30B0\u30EB\u30A4\u30E4\u30FC\u30EB\uFF08Olivier Grouillard\u30011958\u5E749\u67082\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u30021989\u5E74\u304B\u30891992\u5E74\u306B\u304B\u3051\u3066F1\u306B\u51FA\u8D70\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"Olivier Grouillard (ur. 2 wrze\u015Bnia 1958 w Fenouillet) \u2013 francuski kierowca wy\u015Bcigowy. Uczestnik 41 wy\u015Bcig\u00F3w Grand Prix Formu\u0142y 1 na 62 zg\u0142oszenia."@pl ,
+		"Olivier Grouillard est un ancien pilote automobile fran\u00E7ais, n\u00E9 le 2 septembre 1958 \u00E0 Toulouse en Haute-Garonne. Il a notamment \u00E9volu\u00E9 durant quatre saisons (de 1989 \u00E0 1992) dans le championnat du monde de Formule 1."@fr ,
+		"Olivier Grouillard (born 2 September 1958 in Fenouillet) is a racing driver from France. He started racing go-karts from the age of fourteen competing in events such as the Volant Elf. He progressed to Formula Renault winning the title before Grouillard competed in F3000 from 1985 to 1988 taking two wins. He also participated in the Birmingham Superprix but did not start the race. In 1989, Grouillard joined the Ligier Formula One team before joining the Osella team for 1990 and 1991 when the team was renamed Fondmetal. His last season came in 1992, when Grouillard drove for Tyrrell. He left the sport following the year without receiving offers for a drive in 1993. After leaving Formula One, Grouillard raced in the CART PPG World Series, competing in the Indianapolis 500 for which he did not qualify but showed consistency. Grouillard became well known for driving in Sports Cars between 1994 and 2001 having success. During his time in Sports Cars, he raced in the BPR Global GT Series, the FIA GT Championship, the Daytona 24 Hours, the Le Mans 24 Hours and the American Le Mans Series. He retired from motorsport at the end of 2001."@en ,
+		"\u041E\u043B\u0438\u0432\u044C\u0435 \u0413\u0440\u0443\u0439\u044F\u0440 (\u0444\u0440. Olivier Grouillard, 2 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1958, \u0424\u0435\u043D\u0443\u0439\u0435) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Olivier Grouillard (* 2. September 1958 in Fenouillet) ist ein ehemaliger franz\u00F6sischer Rennfahrer. In den Jahren 1989 bis 1992 war er Formel-1-Fahrer, wobei er an 62 Grands Prix teilnahm, sich jedoch f\u00FCr nur 41 Rennen qualifizierte und einen WM-Punkt erreichte."@de ;
+	dbo:birthDate	"1958-9-2"^^xsd:date ;
+	dbo:wikiPageRevisionID	743166616 ;
+	dbo:birthPlace	dbr:Toulouse ;
+	dbo:wikiPageID	1226512 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Olivier_Grouillard	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1989_Brazilian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1992_Australian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"62"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Automobiles_Gonfaronnaises_Sportives ,
+		dbr:Tyrrell_Racing ,
+		dbr:Fondmetal ,
+		dbr:Equipe_Ligier ,
+		dbr:Osella ;
+	dbp:nationality	"French"^^xsd:string .
+<http://dbpedia.org/resource/1990_Formula_One_Indoor_Trophy>	dbp:rd3Team	dbr:Olivier_Grouillard .

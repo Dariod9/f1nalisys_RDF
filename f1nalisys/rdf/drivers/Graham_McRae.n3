@@ -1,0 +1,182 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Graeme_McRae	dbo:wikiPageRedirects	dbr:Graham_McRae .
+dbr:McRae_GM2	dbo:wikiPageRedirects	dbr:Graham_McRae .
+dbr:Talon_MR1A	dbo:wikiPageRedirects	dbr:Graham_McRae .
+dbr:McRae_GM1	dbo:wikiPageRedirects	dbr:Graham_McRae .
+dbr:McRae_GM3	dbo:wikiPageRedirects	dbr:Graham_McRae .
+dbr:Leda_GM1	dbo:wikiPageRedirects	dbr:Graham_McRae .
+dbr:Leda_LT27	dbo:wikiPageRedirects	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1972_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Graham_McRae ;
+	dbo:firstDriverTeam	dbr:Graham_McRae ;
+	dbo:fastestDriver	dbr:Graham_McRae ;
+	dbo:firstDriver	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1973_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Graham_McRae ;
+	dbo:firstDriverTeam	dbr:Graham_McRae ;
+	dbo:fastestDriver	dbr:Graham_McRae ;
+	dbo:firstDriver	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1978_Australian_Grand_Prix>	dbo:fastestDriverTeam	dbr:Graham_McRae ;
+	dbo:firstDriverTeam	dbr:Graham_McRae ;
+	dbo:fastestDriver	dbr:Graham_McRae ;
+	dbo:firstDriver	dbr:Graham_McRae .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Graham_McRae	foaf:primaryTopic	dbr:Graham_McRae .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Peter_Gethin	dbp:before	dbr:Graham_McRae .
+dbr:Mike_Hiss	dbp:after	dbr:Graham_McRae .
+dbr:Graeme_Lawrence	dbp:after	dbr:Graham_McRae .
+dbr:Warwick_Brown	dbp:after	dbr:Graham_McRae .
+<http://dbpedia.org/resource/John_McCormack_(racing_driver)>	dbp:after	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1971_New_Zealand_Grand_Prix>	dbo:thirdDriver	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1972_New_Zealand_Grand_Prix>	dbo:poleDriver	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1973_New_Zealand_Grand_Prix>	dbo:fastestDriver	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1975_New_Zealand_Grand_Prix>	dbo:poleDriver	dbr:Graham_McRae .
+dbr:Volvo_Dealer_Team	dbp:drivers	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1973_Indianapolis_500>	dbp:rookie	dbr:Graham_McRae .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Graham_McRae	rdf:type	yago:CausalAgent100007347 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Graham_McRae	rdf:type	wikidata:Q24229398 ,
+		dbo:Agent ,
+		yago:PhysicalEntity100001930 ,
+		dbo:RacingDriver ,
+		wikidata:Q215627 ,
+		wikidata:Q5 ,
+		dbo:MotorsportRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Graham_McRae	rdf:type	schema:Person ,
+		yago:WikicatNewZealandFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatTasmanSeriesDrivers ,
+		yago:Operator110378412 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Graham_McRae	rdf:type	umbel-rc:RaceCarDriver ,
+		umbel-rc:Athlete ,
+		dbo:Athlete ,
+		foaf:Person ,
+		wikidata:Q378622 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatChampCarDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Graham_McRae	rdf:type	owl:Thing ,
+		dbo:Person .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Graham_McRae	rdf:type	ns11:NaturalPerson ,
+		ns11:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Graham_McRae	rdfs:label	"Graham McRae"@nl ,
+		"Graham McRae"@fr ,
+		"\u041C\u0430\u043A\u0440\u0435\u0439, \u0413\u0440\u044D\u043C"@ru ,
+		"Graham McRae"@pl ,
+		"Graham McRae"@pt ,
+		"Graham McRae"@it ,
+		"Graham McRae"@en ,
+		"Graham McRae"@de ;
+	rdfs:comment	"Graham McRae (Wellington, 5 de mar\u00E7o de 1940) \u00E9 um ex-piloto de F\u00F3rmula 1 neozeland\u00EAs. Obscuro representante da safra de pilotos nascidos na Nova Zel\u00E2ndia, ele disputou apenas uma prova, o GP da Gr\u00E3-Bretanha de 1973, pela Frank Williams Racing Cars (embri\u00E3o da atual equipe Williams)."@pt ,
+		"Graham McRae, n\u00E9 le 5 mars 1940 \u00E0 Wellington, est un pilote automobile n\u00E9o-z\u00E9landais de courses sur circuits \u00E0 bord de monoplaces."@fr ,
+		"Graham McRae (Wellington, 5 maart 1940) is een voormalig Formule 1 coureur uit Nieuw-Zeeland. Hij moest de gewonde Henri Pescarolo vervangen die ernstige brandwonden had opgelopen in een crash. McRae maakte een slecht debuut, hij viel gelijk in de eerste ronde uit. Na dit debacle werd hij vervangen door Howden Ganley. McRae ging racen in de IRL en deed mee aan de Indianapolis 500, hij werd zestiende. Hij had een goed seizoen in de IRL en werd Rookie of the Year."@nl ,
+		"Graham McRae (born 5 March 1940) is a former racing driver from New Zealand. He achieved considerable success in Formula 5000 racing, winning the Tasman Series each year from 1971 to 1973, and also the 1972 L&M Continental 5000 Championship in the United States. McRae's single outing in the Formula One World Championship was at the 1973 British Grand Prix on 14 July 1973, where he retired in the first lap. McRae also competed in the 1973 Indianapolis 500, finishing in 16th position and earning Rookie of the Year."@en ,
+		"Graham McRae (* 5. M\u00E4rz 1940 in Wellington) ist ein ehemaliger neuseel\u00E4ndischer Autorennfahrer. Die Formel-1-Karriere von Graham McRae war kurz. 1973 war er beim Gro\u00DFen Preis von Gro\u00DFbritannien auf einem Iso-Marlboro IR1 von Frank Williams Racing Cars am Start, doch schon in der ersten Runde blieb das Gaspedal stecken. In der Statistik geht dieser Defekt oft unter, da Jody Scheckter am Ende der ersten Runde eine Massenkollision ausl\u00F6ste und McRaes Ausfall in einigen Quellen als Folge dieses Unfalls erscheint. 1973 fuhr er auch das 500-Meilen-Rennen von Indianapolis, wurde Sechzehnter und Rookie of the Year."@de ,
+		"Graham \"Cassius\" McRae (ur. 5 marca 1940 w Wellington) \u2013 nowozelandzki kierowca wy\u015Bcigowy."@pl ,
+		"\u0413\u0440\u044D\u043C \u041C\u0430\u043A\u0440\u0435\u0301\u0439 (\u0430\u043D\u0433\u043B. Graham McRae, 5 \u043C\u0430\u0440\u0442\u0430 1940 \u0433\u043E\u0434\u0430, \u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Arrivato in Europa nel 1969, partecip\u00F2 al campionato di Formula 2 e a qualche gara della Formula 5000. L'anno seguente fu sesto nel campionato europeo F5000 su una McLaren M10B.Nel 1971 vinse la Formula Tasman. L'anno d'oro fu il 1972. Decise di diventare costruttore creando la McRae GM1 sulla base di una Leda T27; fu terzo nel campionato europeo, vinse la Formula 5000 statunitense e nuovamente la Formula Tasman. Nel 1973 fece un'unica apparizione in F1: su una poco competitiva Iso-Marlboro prese parte al Gran Premio di Gran Bretagna."@it ;
+	dbp:points	0 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Graham_McRae	owl:sameAs	dbpedia-it:Graham_McRae ,
+		dbr:Graham_McRae .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Graham_McRae	owl:sameAs	dbpedia-de:Graham_McRae .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Graham_McRae	owl:sameAs	dbpedia-pl:Graham_McRae ,
+		<http://rdf.freebase.com/ns/m.04k8rx> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Graham_McRae	owl:sameAs	dbpedia-wikidata:Q172535 ,
+		wikidata:Q172535 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Graham_McRae	owl:sameAs	dbpedia-fr:Graham_McRae .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Graham_McRae	owl:sameAs	dbpedia-nl:Graham_McRae .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Graham_McRae	owl:sameAs	dbpedia-pt:Graham_McRae .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Graham_McRae	owl:sameAs	yago-res:Graham_McRae .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Graham_McRae	dct:subject	dbc:Cars_of_New_Zealand ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1940_births> ,
+		dbc:Sportspeople_from_Wellington_City ,
+		dbc:Tasman_Series_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:New_Zealand_Formula_One_drivers ,
+		dbc:Indianapolis_500_Rookies_of_the_Year ,
+		dbc:New_Zealand_racing_drivers ;
+	foaf:name	"Graham McRae"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/McRae-Chevrolet_GM1_-_Flickr_-_exfordy.jpg> ;
+	dct:description	"New Zealand racing driver"@en ;
+	foaf:givenName	"Graham"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Graham_McRae ;
+	foaf:surname	"McRae"@en ;
+	dbp:title	"Champion"^^xsd:string ,
+		<http://dbpedia.org/resource/Australian_Drivers\u0027_Championship> ,
+		dbr:Indianapolis_500_Rookie_of_the_Year ,
+		"Winner"^^xsd:string ,
+		dbr:Australian_Grand_Prix ,
+		dbr:Tasman_Series ;
+	dbp:years	1971 ,
+		1972 ,
+		1973 ,
+		1978 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Graham_McRae	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Graham_McRae?oldid=724117917> ;
+	dbp:before	dbr:Mike_Hiss ,
+		<http://dbpedia.org/resource/John_McCormack_(racing_driver)> ,
+		dbr:Frank_Matich ,
+		dbr:Graeme_Lawrence ,
+		dbr:Warwick_Brown ;
+	dbp:after	dbr:Peter_Gethin ,
+		dbr:Pancho_Carter ,
+		<http://dbpedia.org/resource/Johnnie_Walker_(racing_driver)> ,
+		dbr:Max_Stewart ;
+	dbp:birthPlace	"Wellington, New Zealand"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Graham_McRae	dbp:birthDate	"1940-03-05"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-mcrgra.html> ;
+	dbo:abstract	"Graham McRae (Wellington, 5 maart 1940) is een voormalig Formule 1 coureur uit Nieuw-Zeeland. Hij moest de gewonde Henri Pescarolo vervangen die ernstige brandwonden had opgelopen in een crash. McRae maakte een slecht debuut, hij viel gelijk in de eerste ronde uit. Na dit debacle werd hij vervangen door Howden Ganley. McRae ging racen in de IRL en deed mee aan de Indianapolis 500, hij werd zestiende. Hij had een goed seizoen in de IRL en werd Rookie of the Year."@nl ,
+		"Graham McRae (Wellington, 5 de mar\u00E7o de 1940) \u00E9 um ex-piloto de F\u00F3rmula 1 neozeland\u00EAs. Obscuro representante da safra de pilotos nascidos na Nova Zel\u00E2ndia, ele disputou apenas uma prova, o GP da Gr\u00E3-Bretanha de 1973, pela Frank Williams Racing Cars (embri\u00E3o da atual equipe Williams)."@pt ,
+		"Graham McRae (born 5 March 1940) is a former racing driver from New Zealand. He achieved considerable success in Formula 5000 racing, winning the Tasman Series each year from 1971 to 1973, and also the 1972 L&M Continental 5000 Championship in the United States. McRae's single outing in the Formula One World Championship was at the 1973 British Grand Prix on 14 July 1973, where he retired in the first lap. McRae also competed in the 1973 Indianapolis 500, finishing in 16th position and earning Rookie of the Year."@en ,
+		"\u0413\u0440\u044D\u043C \u041C\u0430\u043A\u0440\u0435\u0301\u0439 (\u0430\u043D\u0433\u043B. Graham McRae, 5 \u043C\u0430\u0440\u0442\u0430 1940 \u0433\u043E\u0434\u0430, \u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Graham \"Cassius\" McRae (ur. 5 marca 1940 w Wellington) \u2013 nowozelandzki kierowca wy\u015Bcigowy."@pl ,
+		"Graham McRae, n\u00E9 le 5 mars 1940 \u00E0 Wellington, est un pilote automobile n\u00E9o-z\u00E9landais de courses sur circuits \u00E0 bord de monoplaces."@fr ,
+		"Graham McRae (* 5. M\u00E4rz 1940 in Wellington) ist ein ehemaliger neuseel\u00E4ndischer Autorennfahrer. Die Formel-1-Karriere von Graham McRae war kurz. 1973 war er beim Gro\u00DFen Preis von Gro\u00DFbritannien auf einem Iso-Marlboro IR1 von Frank Williams Racing Cars am Start, doch schon in der ersten Runde blieb das Gaspedal stecken. In der Statistik geht dieser Defekt oft unter, da Jody Scheckter am Ende der ersten Runde eine Massenkollision ausl\u00F6ste und McRaes Ausfall in einigen Quellen als Folge dieses Unfalls erscheint. 1973 fuhr er auch das 500-Meilen-Rennen von Indianapolis, wurde Sechzehnter und Rookie of the Year. McRae baute in Neuseeland sein eigenes Monoposto-Chassis und fuhr damit Formel-Rennen. 1969 kam er nach Europa und stieg mit einem Brabham, den im Jahr davor Piers Courage fuhr, in die Formel-2-Europameisterschaft ein. Vor und nach seinem Kurzauftritt in der Formel 1 bestritt er regelm\u00E4\u00DFig Formel-5000-Rennen auf einem McLaren M10. Nach einigen Saisons in der CanAm-Serie beendete McRae Mitte der 1980er-Jahre seine Rennkarriere."@de ,
+		"Arrivato in Europa nel 1969, partecip\u00F2 al campionato di Formula 2 e a qualche gara della Formula 5000. L'anno seguente fu sesto nel campionato europeo F5000 su una McLaren M10B.Nel 1971 vinse la Formula Tasman. L'anno d'oro fu il 1972. Decise di diventare costruttore creando la McRae GM1 sulla base di una Leda T27; fu terzo nel campionato europeo, vinse la Formula 5000 statunitense e nuovamente la Formula Tasman. Nel 1973 fece un'unica apparizione in F1: su una poco competitiva Iso-Marlboro prese parte al Gran Premio di Gran Bretagna. Negli anni successivi vinse la sua terza Formula Tasman (nel 1973) e corse fino al 1987, prima nella CanAm poi nella Formula CART."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/McRae-Chevrolet_GM1_-_Flickr_-_exfordy.jpg?width=300> ;
+	dbo:birthDate	"1940-3-5"^^xsd:date ;
+	dbo:wikiPageRevisionID	724117917 ;
+	dbo:birthPlace	dbr:Wellington ;
+	dbo:wikiPageID	1228425 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Graham_McRae	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1973_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1973_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Frank_Williams_Racing_Cars ;
+	dbp:nationality	"New Zealander"^^xsd:string .
+dbr:Frank_Matich	dbp:after	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1984_CART_PPG_Indy_Car_World_Series__Pace_Racing__5>	dbo:firstDriver	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1987_CART_PPG_Indy_Car_World_Series__Arciero_Racing__4>	dbo:firstDriver	dbr:Graham_McRae .
+<http://dbpedia.org/resource/1987_CART_PPG_Indy_Car_World_Series__NFW_Racing__1>	dbo:firstDriver	dbr:Graham_McRae .
+dbr:Pancho_Carter	dbp:before	dbr:Graham_McRae .
+<http://dbpedia.org/resource/David_Hobbs_(racing_driver)>	dbp:after	dbr:Graham_McRae .
+dbr:McRae	dbo:wikiPageDisambiguates	dbr:Graham_McRae .

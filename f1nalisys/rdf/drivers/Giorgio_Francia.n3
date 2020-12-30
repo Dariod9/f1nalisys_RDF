@@ -1,0 +1,132 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Giorgio_Francia	foaf:primaryTopic	dbr:Giorgio_Francia .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Giorgio_Francia	rdf:type	wikidata:Q24229398 .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Giorgio_Francia	rdf:type	ns5:Agent .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Giorgio_Francia	rdf:type	dbo:Person ,
+		wikidata:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Giorgio_Francia	rdf:type	yago:WikicatGermanFormulaThreeChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Giorgio_Francia	rdf:type	schema:Person ,
+		dbo:RacingDriver ,
+		ns5:NaturalPerson ,
+		yago:WikicatOsellaFormulaOneDrivers ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		wikidata:Q5 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Giorgio_Francia	rdf:type	umbel-rc:RaceCarDriver ,
+		foaf:Person ,
+		wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Giorgio_Francia	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Giorgio_Francia	rdfs:label	"Giorgio Francia"@en ,
+		"Giorgio Francia"@nl ,
+		"Giorgio Francia"@pl ,
+		"\u0424\u0440\u0430\u043D\u0447\u0430, \u0414\u0436\u043E\u0440\u0434\u0436\u043E"@ru ,
+		"Giorgio Francia"@pt ,
+		"Giorgio Francia"@it ,
+		"Giorgio Francia"@de ,
+		"Giorgio Francia"@fr ;
+	rdfs:comment	"Giorgio Francia (born November 8, 1947 in Bologna) is a former racing driver from Italy. He was the German Formula Three champion in 1974. Francia unsuccessfully entered two Formula One Grands Prix. The first was in a works Brabham BT45B, in Martini Racing colours, at the 1977 Italian Grand Prix. He was withdrawn during practice. His second attempt was with Osella at the 1981 Spanish Grand Prix, where he was the slowest in practice and failed to qualify."@en ,
+		" Pour les articles homonymes, voir Francia.Giorgio Francia Giorgio Francia (n\u00E9 le 8 novembre 1947, \u00E0 Bologne, en \u00C9milie-Romagne) est un ancien pilote italien. Il a \u00E9t\u00E9 champion d'Allemagne de Formule 3 en 1974."@fr ,
+		"Fu campione nella Formula 3 tedesca nel 1974. Tent\u00F2 senza successo di prendere parte a due gran premi di Formula 1. Il primo con la terza Brabham al Gran Premio d'Italia 1977. Fu costretto al ritiro durante le prove. Il secondo tentativo fu fatto con una Osella al Gran Premio di Spagna 1981, in cui non si qualific\u00F2. Gareggi\u00F2 con le vetture sport fino alla fine degli anni novanta con l'Alfa Romeo, sia nel campionato italiano che nel DTM; guid\u00F2 anche dei prototipi Osella in gare di durata tra gli anni settanta e ottanta."@it ,
+		"Giorgio Francia (* 8. November 1947 in San Giorgio di Piano) ist ein ehemaliger italienischer Automobilrennfahrer. Francia engagierte sich im Formel-Sport und nahm zudem an zahlreichen Sport- und Tourenwagenrennen teil. 1974 gewann er die Deutsche Formel-3-Meisterschaft. In den 1980er-Jahren war Francia eng mit der italienischen Osella Squadra Corse verbunden. Francia unternahm zwei Versuche, an einem Formel-1-Rennen teilzunehmen. Beide Versuche scheiterten, weil er sein Auto an seine Teamkollegen abtreten musste."@de ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436\u043E \u0424\u0440\u0430\u043D\u0447\u0430 (\u0438\u0442\u0430\u043B. Giorgio Francia, 8 \u043D\u043E\u044F\u0431\u0440\u044F 1947 \u0433\u043E\u0434\u0430, \u0421\u0430\u043D-\u0414\u0436\u043E\u0440\u0434\u0436\u043E-\u0434\u0438-\u041F\u044C\u044F\u043D\u043E) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Giorgio Francia (Bologna, 8 de Novembro de 1947) \u00E9 um ex-automobilista da It\u00E1lia. Foi campe\u00E3o da F\u00F3rmula 3 Alem\u00E3 em 1974."@pt ,
+		"Giorgio Francia (Bologna, 8 november 1947) is een voormalig Formule 1-coureur uit Itali\u00EB. Hij reed 2 Grands Prix; de Grand Prix van Itali\u00EB van 1977 voor het team Brabham en de Grand Prix van Spanje van 1981 voor het team Osella."@nl ,
+		"Giorgio Francia (ur. 8 listopada 1947 w Bolonii) \u2013 by\u0142y w\u0142oski kierowca wy\u015Bcigowy. W 1974 roku zdoby\u0142 mistrzostwo Niemieckiej Formu\u0142y 3. W Formule 1 zadebiutowa\u0142 podczas Grand Prix W\u0142och 1977 w Brabhamie, ale podczas trening\u00F3w zrezygnowa\u0142. Nast\u0119pn\u0105 pr\u00F3b\u0119 podj\u0105\u0142 podczas Grand Prix Hiszpanii 1981, gdzie Osell\u0105 nie zakwalifikowa\u0142 si\u0119 do wy\u015Bcigu. Ponadto \u015Bciga\u0142 si\u0119 w innych kategoriach wy\u015Bcigowych, w\u0142\u0105cznie z samochodami sportowymi i turystycznymi. Bra\u0142 udzia\u0142 r\u00F3wnie\u017C w zawodach CIVT i DTM."@pl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Giorgio_Francia	dbp:points	0 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Giorgio_Francia	owl:sameAs	dbpedia-wikidata:Q126229 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Giorgio_Francia	owl:sameAs	dbpedia-fr:Giorgio_Francia .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Giorgio_Francia	owl:sameAs	dbpedia-it:Giorgio_Francia .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Giorgio_Francia	owl:sameAs	dbpedia-nl:Giorgio_Francia .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Giorgio_Francia	owl:sameAs	yago-res:Giorgio_Francia ,
+		wikidata:Q126229 ,
+		dbr:Giorgio_Francia .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Giorgio_Francia	owl:sameAs	dbpedia-pt:Giorgio_Francia ,
+		<http://rdf.freebase.com/ns/m.04w4gj> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Giorgio_Francia	owl:sameAs	dbpedia-cs:Giorgio_Francia .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Giorgio_Francia	owl:sameAs	dbpedia-pl:Giorgio_Francia .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Giorgio_Francia	owl:sameAs	dbpedia-de:Giorgio_Francia .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Giorgio_Francia	dct:subject	dbc:Osella_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:Italian_racing_drivers ,
+		dbc:Living_people ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:German_Formula_Three_Championship_drivers ,
+		dbc:Sportspeople_from_Bologna ,
+		dbc:Brabham_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1947_births> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		dbc:Italian_Formula_One_drivers ;
+	foaf:name	"Giorgio Francia"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Giorgio"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Giorgio_Francia ;
+	foaf:surname	"Francia"@en ;
+	dbp:title	dbr:List_of_German_Formula_Three_champions ;
+	dbp:years	1974 ,
+		","^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Giorgio_Francia	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Giorgio_Francia?oldid=737676056> ;
+	dbp:before	"Willi Deutsch"^^xsd:string ;
+	dbp:after	"Ernst Maring"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Giorgio_Francia	dbp:birthDate	"1947-11-08"^^xsd:date ;
+	dbo:abstract	"Giorgio Francia (ur. 8 listopada 1947 w Bolonii) \u2013 by\u0142y w\u0142oski kierowca wy\u015Bcigowy. W 1974 roku zdoby\u0142 mistrzostwo Niemieckiej Formu\u0142y 3. W Formule 1 zadebiutowa\u0142 podczas Grand Prix W\u0142och 1977 w Brabhamie, ale podczas trening\u00F3w zrezygnowa\u0142. Nast\u0119pn\u0105 pr\u00F3b\u0119 podj\u0105\u0142 podczas Grand Prix Hiszpanii 1981, gdzie Osell\u0105 nie zakwalifikowa\u0142 si\u0119 do wy\u015Bcigu. Ponadto \u015Bciga\u0142 si\u0119 w innych kategoriach wy\u015Bcigowych, w\u0142\u0105cznie z samochodami sportowymi i turystycznymi. Bra\u0142 udzia\u0142 r\u00F3wnie\u017C w zawodach CIVT i DTM."@pl ,
+		" Pour les articles homonymes, voir Francia.Giorgio Francia Giorgio Francia (n\u00E9 le 8 novembre 1947, \u00E0 Bologne, en \u00C9milie-Romagne) est un ancien pilote italien. Il a \u00E9t\u00E9 champion d'Allemagne de Formule 3 en 1974."@fr ,
+		"Giorgio Francia (born November 8, 1947 in Bologna) is a former racing driver from Italy. He was the German Formula Three champion in 1974. Francia unsuccessfully entered two Formula One Grands Prix. The first was in a works Brabham BT45B, in Martini Racing colours, at the 1977 Italian Grand Prix. He was withdrawn during practice. His second attempt was with Osella at the 1981 Spanish Grand Prix, where he was the slowest in practice and failed to qualify. He raced in many categories and competed in sports car racing and touring cars until the late 1990s, driving a works Osella sports prototype in endurance racing in the late 1970s and early 1980s, and also taking part in the factory Alfa Romeo team in the CIVT (Italian Superturismo) and the DTM."@en ,
+		"Giorgio Francia (* 8. November 1947 in San Giorgio di Piano) ist ein ehemaliger italienischer Automobilrennfahrer. Francia engagierte sich im Formel-Sport und nahm zudem an zahlreichen Sport- und Tourenwagenrennen teil. 1974 gewann er die Deutsche Formel-3-Meisterschaft. In den 1980er-Jahren war Francia eng mit der italienischen Osella Squadra Corse verbunden. Francia unternahm zwei Versuche, an einem Formel-1-Rennen teilzunehmen. Beide Versuche scheiterten, weil er sein Auto an seine Teamkollegen abtreten musste."@de ,
+		"Giorgio Francia (Bologna, 8 de Novembro de 1947) \u00E9 um ex-automobilista da It\u00E1lia. Foi campe\u00E3o da F\u00F3rmula 3 Alem\u00E3 em 1974."@pt ,
+		"Giorgio Francia (Bologna, 8 november 1947) is een voormalig Formule 1-coureur uit Itali\u00EB. Hij reed 2 Grands Prix; de Grand Prix van Itali\u00EB van 1977 voor het team Brabham en de Grand Prix van Spanje van 1981 voor het team Osella."@nl ,
+		"Fu campione nella Formula 3 tedesca nel 1974. Tent\u00F2 senza successo di prendere parte a due gran premi di Formula 1. Il primo con la terza Brabham al Gran Premio d'Italia 1977. Fu costretto al ritiro durante le prove. Il secondo tentativo fu fatto con una Osella al Gran Premio di Spagna 1981, in cui non si qualific\u00F2. Gareggi\u00F2 con le vetture sport fino alla fine degli anni novanta con l'Alfa Romeo, sia nel campionato italiano che nel DTM; guid\u00F2 anche dei prototipi Osella in gare di durata tra gli anni settanta e ottanta."@it ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436\u043E \u0424\u0440\u0430\u043D\u0447\u0430 (\u0438\u0442\u0430\u043B. Giorgio Francia, 8 \u043D\u043E\u044F\u0431\u0440\u044F 1947 \u0433\u043E\u0434\u0430, \u0421\u0430\u043D-\u0414\u0436\u043E\u0440\u0434\u0436\u043E-\u0434\u0438-\u041F\u044C\u044F\u043D\u043E) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ;
+	dbo:birthDate	"1947-11-8"^^xsd:date ;
+	dbo:wikiPageRevisionID	737676056 ;
+	dbo:birthPlace	dbr:San_Giorgio_di_Piano ;
+	dbo:wikiPageID	1353886 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Giorgio_Francia	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1977_Italian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1981_Spanish_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Brabham ,
+		dbr:Osella ;
+	dbp:nationality	"Italian"^^xsd:string .

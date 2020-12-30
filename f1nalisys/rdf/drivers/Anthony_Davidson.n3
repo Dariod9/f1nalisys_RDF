@@ -1,0 +1,202 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Alan_van_der_Merwe	dbp:before	dbr:Anthony_Davidson .
+dbr:Mark_Webber	dbp:before	dbr:Anthony_Davidson .
+dbr:Steven_Kane	dbp:before	dbr:Anthony_Davidson .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Anthony_Davidson	foaf:primaryTopic	dbr:Anthony_Davidson .
+dbr:Brendon_Hartley	dbp:before	dbr:Anthony_Davidson .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Anthony_Davidson	rdf:type	dbo:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Anthony_Davidson	rdf:type	yago:CausalAgent100007347 ,
+		yago:WikicatFIAWorldEnduranceChampionshipDrivers ,
+		yago:WikicatSuperAguriFormulaOneDrivers ,
+		yago:WikicatRolexSportsCarSeriesDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Anthony_Davidson	rdf:type	owl:Thing ,
+		foaf:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Anthony_Davidson	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:WikicatKartingWorldChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Anthony_Davidson	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		yago:WikicatEuropeanLeMansSeriesDrivers ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatFormulaFordDrivers ,
+		yago:Operator110378412 ,
+		yago:WikicatMinardiFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatAmericanLeMansSeriesDrivers ,
+		yago:WikicatBARFormulaOneDrivers ,
+		yago:WikicatBrawnFormulaOneDrivers ,
+		yago:WikicatHondaFormulaOneDrivers ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Anthony_Davidson	rdf:type	ns10:NaturalPerson ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		dbo:Agent ,
+		ns10:Agent ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Anthony_Davidson	rdf:type	umbel-rc:RaceCarDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Anthony_Davidson	rdfs:label	"\u5B89\u6771\u5C3C\u00B7\u6234\u7DAD\u68EE"@zh ,
+		"Anthony Davidson"@fr ,
+		"\u30A2\u30F3\u30BD\u30CB\u30FC\u30FB\u30C7\u30D3\u30C3\u30C9\u30BD\u30F3"@ja ,
+		"Anthony Davidson"@pt ,
+		"Anthony Davidson"@it ,
+		"\u0623\u0646\u0637\u0648\u0646\u064A \u062F\u064A\u0641\u064A\u062F\u0633\u0648\u0646"@ar ,
+		"Anthony Davidson"@pl ,
+		"Anthony Davidson"@de ,
+		"\u0414\u044D\u0432\u0438\u0434\u0441\u043E\u043D, \u042D\u043D\u0442\u043E\u043D\u0438"@ru ,
+		"Anthony Davidson"@nl ,
+		"Anthony Davidson"@en ,
+		"Anthony Davidson"@es ;
+	rdfs:comment	"\u30A2\u30F3\u30BD\u30CB\u30FC\u30FB\u30C7\u30D3\u30C3\u30C9\u30BD\u30F3\uFF08Anthony Davidson, 1979\u5E744\u670818\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u611B\u79F0\u306F\u30A2\u30F3\u30C8\u3001AD\uFF08\u30A8\u30FC\u30C7\u30A3\uFF09\u3002"@ja ,
+		"Anthony Denis Davidson, (n\u00E9 le 18 avril 1979 \u00E0 Hemel Hempstead, Angleterre), est un pilote automobile britannique. Pilote essayeur de 2002 \u00E0 2006 pour le compte de l'\u00E9curie Honda (anciennement BAR-Honda), il a \u00E9galement \u00E9t\u00E9 en 2007 et en 2008 l'un des deux pilotes de l'\u00E9quipe Super Aguri Formula 1 Team-Honda, aux c\u00F4t\u00E9s de Takuma Sat\u014D. En 2014, il remporte le championnat du monde d'endurance WEC en compagnie de S\u00E9bastien Buemi pour le compte du Toyota Motorsport GmbH."@fr ,
+		"Anthony Denis Davidson ou apenas Anthony Davidson, (Hemel Hempstead, Hertfordshire, 18 de abril de 1979) \u00E9 um piloto ingl\u00EAs."@pt ,
+		"Anthony Denis Davidson (ur. 18 kwietnia 1979 w Hemel Hempstead) \u2013 kierowca wy\u015Bcigowy, wieloletni kierowca testowy zespo\u0142\u00F3w British American Racing i Honda."@pl ,
+		"Anthony Denis Davidson (born 18 April 1979) is a British racing driver from England currently racing for Toyota Hybrid Racing in the FIA World Endurance Championship. He has raced in Formula One for Minardi and Super Aguri, and has been a test or reserve driver for the British American Racing, Honda, and Brawn GP teams. He is also an analyst for the Sky Sports F1 television channel, and a simulator and demonstration driver for Mercedes AMG Petronas. Davidson was the 2014 WEC World Champion, alongside his teammate, S\u00E9bastien Buemi."@en ,
+		"\u042D\u0301\u043D\u0442\u043E\u043D\u0438 \u0414\u0435\u0301\u043D\u0438\u0441 \u0414\u044D\u0301\u0432\u0438\u0434\u0441\u043E\u043D (\u0430\u043D\u0433\u043B. Anthony Denis Davidson); \u0440\u043E\u0434\u0438\u043B\u0441\u044F 18 \u0430\u043F\u0440\u0435\u043B\u044F 1979 \u0433\u043E\u0434\u0430, \u0432 \u0425\u0435\u043C\u0435\u043B \u0425\u0435\u043C\u043F\u0441\u0442\u0435\u0434, \u0425\u0430\u0440\u0442\u0444\u043E\u0440\u0434\u0448\u0438\u0440, \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0432\u044B\u043D\u043E\u0441\u043B\u0438\u0432\u043E\u0441\u0442\u044C (2014). \u0412 2007\u20142008 \u0433\u043E\u0434\u0430\u0445 \u0431\u044B\u043B \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Super Aguri. \u0414\u043E \u0441\u0435\u0437\u043E\u043D\u0430 2007 \u0438\u043C\u0435\u043B \u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u043E\u043F\u044B\u0442 \u0440\u0430\u0431\u043E\u0442\u044B \u0442\u0435\u0441\u0442-\u043F\u0438\u043B\u043E\u0442\u043E\u043C \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 Honda (\u0434\u043E 2006 \u0433\u043E\u0434\u0430 \u2014 BAR Honda). \u0412\u044B\u0441\u0442\u0443\u043F\u0430\u044F \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 Super Aguri, \u0414\u044D\u0432\u0438\u0434\u0441\u043E\u043D \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u043B \u0431\u044B\u0442\u044C \u0442\u0435\u0441\u0442\u043E\u0432\u044B\u043C \u043F\u0438\u043B\u043E\u0442\u043E\u043C Honda. \u0412 2009\u20142013 \u0433\u043E\u0434\u0430\u0445 \u043E\u043D \u0431\u044B\u043B \u0442\u0435\u0441\u0442-\u043F\u0438\u043B\u043E\u0442\u043E\u043C Brawn GP \u0438 \u0435\u0451 \u043F\u0440\u0435\u0435\u043C\u043D\u0438\u0446\u044B Mercedes GP."@ru ,
+		"Anthony Davidson (* 18. April 1979 in Hemel Hempstead, England) ist ein britischer Automobilrennfahrer. Er nahm zwischen 2002 und 2008 an der Formel-1-Weltmeisterschaft teil. Nach dem R\u00FCckzug seines letzten Teams Super Aguri F1 w\u00E4hrend der Saison 2008 ist Davidson als Testfahrer unter anderem bei Brawn GP sowie als Kommentator beim britischen Radiosender Radio 5 Live t\u00E4tig."@de ,
+		"\u5B89\u4E1C\u5C3C\u00B7\u6234\u7EF4\u68EE (Anthony Davidson, 1979\u5E744\u670818\u65E5\u751F)\uFF0C\u524D\u82F1\u570B\u7C4D\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8ECA\u624B\u30022013\u8D5B\u5B63\u6210\u4E3A\u6885\u8D5B\u5FB7\u65AF\u8F66\u961F\u7684\u8BD5\u8F66\u624B\u3002"@zh ,
+		"\u0623\u0646\u0637\u0648\u0646\u064A \u062F\u064A\u0641\u064A\u062F\u0633\u0648\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Anthony Davidson) \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0623\u0628\u0631\u064A\u0644 1979 \u0641\u064A \u0647\u0627\u0631\u062A\u0641\u0648\u0631\u062F\u0634\u064A\u0631\u060C \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 2002. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0645\u062C\u0631 \u0627\u0644\u0643\u0628\u0631\u0649 2002. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 24 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Anthony Denis Davidson (Hemel Hempstead, 18 april 1979) is een Brits Formule 1-coureur, die in 2007 reed voor het team van Super Aguri. Na zijn begin in de karting, reed hij in de Formule Zetec en behaalde 2 titels (in 1999 en 2000).In 2001 werd hij testrijder bij BAR en reed zijn eerste 2 GP's bij Minardi ter vervanging van Alex Yoong.In 2005 verving hij Takuma Sato, maar na enkele ronden moest hij opgeven.In 2007 werd hij gecontracteerd door Super Aguri als 2e rijder.In 2008 werd hij testpiloot van Honda om in 2009 testpiloot van Brawn GP te worden."@nl ,
+		"Anthony Davidson (nacido el 18 de abril de 1979 en Hemel Hempstead, Inglaterra, Reino Unido) es un piloto de automovilismo de velocidad. Fue piloto de F\u00F3rmula 1, habiendo corrido para Minardi, BAR y Super Aguri F1 y ejercido las funciones de piloto probador en Brawn GP."@es ;
+	owl:sameAs	wikidata:Q171319 ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30F3\u30BD\u30CB\u30FC\u30FB\u30C7\u30D3\u30C3\u30C9\u30BD\u30F3> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-fr:Anthony_Davidson .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-it:Anthony_Davidson .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-pt:Anthony_Davidson .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-cs:Anthony_Davidson .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-nl:Anthony_Davidson ,
+		dbr:Anthony_Davidson .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-id:Anthony_Davidson .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	yago-res:Anthony_Davidson ,
+		<http://rdf.freebase.com/ns/m.044585> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-pl:Anthony_Davidson .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-wikidata:Q171319 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-es:Anthony_Davidson .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Anthony_Davidson	owl:sameAs	dbpedia-de:Anthony_Davidson .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Anthony_Davidson	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Anthony_Davidson	dct:subject	dbc:People_from_Brackley ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:Motorsport_announcers ,
+		dbc:Rolex_Sports_Car_Series_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:FIA_World_Endurance_Championship_drivers ,
+		dbc:McLaren_Autosport_BRDC_Award_nominees ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Living_people ,
+		dbc:European_Le_Mans_Series_drivers ,
+		dbc:Super_Aguri_Formula_One_drivers ,
+		dbc:People_from_Hemel_Hempstead ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Karting_World_Championship_drivers ,
+		dbc:Formula_Ford_drivers ,
+		dbc:BAR_Formula_One_drivers ;
+	foaf:name	"Anthony Davidson"@en ;
+	foaf:homepage	<http://www.anthonydavidson.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Davidson_Driver_of_Toyota_Racing\u0027s_Toyota_TS_040_Hybrid.jpg> ;
+	dct:description	"racing driver, 2014 World Endurance Drivers' Championship winner"@en ;
+	foaf:givenName	"Anthony"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Anthony_Davidson ;
+	foaf:surname	"Davidson"@en ;
+	dbp:title	"/ Pau Grand Prix winner"^^xsd:string ,
+		dbr:Formula_Ford_Festival ,
+		dbr:FIA_World_Endurance_Championship ,
+		dbr:FIA_European_Formula_Three_Cup ,
+		dbr:McLaren_Autosport_BRDC_Award ;
+	dbp:years	2000 ,
+		2001 ,
+		2014 ,
+		<http://dbpedia.org/resource/S\u00E9bastien_Buemi> ;
+	dbo:nationality	dbr:British_people .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Anthony_Davidson	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Anthony_Davidson?oldid=743078071> ;
+	dbp:before	dbr:Jonathan_Cochet ,
+		dbr:Gary_Paffett ,
+		dbr:Ricardo_van_der_Ende ,
+		dbr:Allan_McNish ,
+		<http://dbpedia.org/resource/Lo\u00EFc_Duval> ,
+		<http://dbpedia.org/resource/Tom_Kristensen_(racing_driver)> ;
+	dbp:after	dbr:Alan_van_der_Merwe ,
+		dbr:Mark_Webber ,
+		dbr:Steven_Kane ,
+		dbr:Timo_Bernhard ,
+		dbr:Renaud_Derlot ,
+		dbr:Brendon_Hartley ;
+	dbo:team	dbr:Toyota_Motorsport_GmbH ;
+	dbp:birthName	"Anthony Denis Davidson"^^xsd:string ;
+	dbp:fastestLaps	0 ;
+	dbp:starts	30 ;
+	dbp:poles	2 ;
+	dbp:championships	1 ;
+	dbo:wikiPageExternalLink	<http://www.anthonydavidson.com> ;
+	dbp:caption	"Davidson at the Silverstone Round of the 2014 FIA World Endurance Championship"^^xsd:string ;
+	dbo:abstract	"Anthony Denis Davidson (born 18 April 1979) is a British racing driver from England currently racing for Toyota Hybrid Racing in the FIA World Endurance Championship. He has raced in Formula One for Minardi and Super Aguri, and has been a test or reserve driver for the British American Racing, Honda, and Brawn GP teams. He is also an analyst for the Sky Sports F1 television channel, and a simulator and demonstration driver for Mercedes AMG Petronas. Davidson was the 2014 WEC World Champion, alongside his teammate, S\u00E9bastien Buemi."@en ,
+		"Anthony Davidson (* 18. April 1979 in Hemel Hempstead, England) ist ein britischer Automobilrennfahrer. Er nahm zwischen 2002 und 2008 an der Formel-1-Weltmeisterschaft teil. Nach dem R\u00FCckzug seines letzten Teams Super Aguri F1 w\u00E4hrend der Saison 2008 ist Davidson als Testfahrer unter anderem bei Brawn GP sowie als Kommentator beim britischen Radiosender Radio 5 Live t\u00E4tig."@de ,
+		"Anthony Denis Davidson (ur. 18 kwietnia 1979 w Hemel Hempstead) \u2013 kierowca wy\u015Bcigowy, wieloletni kierowca testowy zespo\u0142\u00F3w British American Racing i Honda."@pl ,
+		"Anthony Denis Davidson, (n\u00E9 le 18 avril 1979 \u00E0 Hemel Hempstead, Angleterre), est un pilote automobile britannique. Pilote essayeur de 2002 \u00E0 2006 pour le compte de l'\u00E9curie Honda (anciennement BAR-Honda), il a \u00E9galement \u00E9t\u00E9 en 2007 et en 2008 l'un des deux pilotes de l'\u00E9quipe Super Aguri Formula 1 Team-Honda, aux c\u00F4t\u00E9s de Takuma Sat\u014D. En 2014, il remporte le championnat du monde d'endurance WEC en compagnie de S\u00E9bastien Buemi pour le compte du Toyota Motorsport GmbH."@fr ,
+		"Anthony Denis Davidson (Hemel Hempstead, 18 april 1979) is een Brits Formule 1-coureur, die in 2007 reed voor het team van Super Aguri. Na zijn begin in de karting, reed hij in de Formule Zetec en behaalde 2 titels (in 1999 en 2000).In 2001 werd hij testrijder bij BAR en reed zijn eerste 2 GP's bij Minardi ter vervanging van Alex Yoong.In 2005 verving hij Takuma Sato, maar na enkele ronden moest hij opgeven.In 2007 werd hij gecontracteerd door Super Aguri als 2e rijder.In 2008 werd hij testpiloot van Honda om in 2009 testpiloot van Brawn GP te worden. In 2014 werd Davidson kampioen in het FIA World Endurance Championship samen met Sebastien Buemi voor Toyota."@nl ,
+		"\u0623\u0646\u0637\u0648\u0646\u064A \u062F\u064A\u0641\u064A\u062F\u0633\u0648\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Anthony Davidson) \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0623\u0628\u0631\u064A\u0644 1979 \u0641\u064A \u0647\u0627\u0631\u062A\u0641\u0648\u0631\u062F\u0634\u064A\u0631\u060C \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 2002. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0645\u062C\u0631 \u0627\u0644\u0643\u0628\u0631\u0649 2002. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 24 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Anthony Denis Davidson ou apenas Anthony Davidson, (Hemel Hempstead, Hertfordshire, 18 de abril de 1979) \u00E9 um piloto ingl\u00EAs."@pt ,
+		"Anthony Davidson (nacido el 18 de abril de 1979 en Hemel Hempstead, Inglaterra, Reino Unido) es un piloto de automovilismo de velocidad. Fue piloto de F\u00F3rmula 1, habiendo corrido para Minardi, BAR y Super Aguri F1 y ejercido las funciones de piloto probador en Brawn GP. Luego ha corrido en sport prototipos como piloto oficial de Peugeot en sus participaciones en la clase LMP1 del ACO en 2010 y 2011, y de Toyota a partir de 2012. Obtuvo el t\u00EDtulo mundial de pilotos del Campeonato Mundial de Resistencia 2014 y logr\u00F3 la victoria absoluta en las 12 Horas de Sebring de 2010, las 6 Horas de Silverstone de 2010 y 2014, y las 6 Horas de Spa-Francorchamps de 2011 y 2014, y podios en las 24 Horas de Le Mans. Actualmente es analista de los GGPP de F1 en Sky Sports."@es ,
+		"\u5B89\u4E1C\u5C3C\u00B7\u6234\u7EF4\u68EE (Anthony Davidson, 1979\u5E744\u670818\u65E5\u751F)\uFF0C\u524D\u82F1\u570B\u7C4D\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8ECA\u624B\u30022013\u8D5B\u5B63\u6210\u4E3A\u6885\u8D5B\u5FB7\u65AF\u8F66\u961F\u7684\u8BD5\u8F66\u624B\u3002"@zh ,
+		"\u042D\u0301\u043D\u0442\u043E\u043D\u0438 \u0414\u0435\u0301\u043D\u0438\u0441 \u0414\u044D\u0301\u0432\u0438\u0434\u0441\u043E\u043D (\u0430\u043D\u0433\u043B. Anthony Denis Davidson); \u0440\u043E\u0434\u0438\u043B\u0441\u044F 18 \u0430\u043F\u0440\u0435\u043B\u044F 1979 \u0433\u043E\u0434\u0430, \u0432 \u0425\u0435\u043C\u0435\u043B \u0425\u0435\u043C\u043F\u0441\u0442\u0435\u0434, \u0425\u0430\u0440\u0442\u0444\u043E\u0440\u0434\u0448\u0438\u0440, \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0432\u044B\u043D\u043E\u0441\u043B\u0438\u0432\u043E\u0441\u0442\u044C (2014). \u0412 2007\u20142008 \u0433\u043E\u0434\u0430\u0445 \u0431\u044B\u043B \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Super Aguri. \u0414\u043E \u0441\u0435\u0437\u043E\u043D\u0430 2007 \u0438\u043C\u0435\u043B \u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u043E\u043F\u044B\u0442 \u0440\u0430\u0431\u043E\u0442\u044B \u0442\u0435\u0441\u0442-\u043F\u0438\u043B\u043E\u0442\u043E\u043C \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 Honda (\u0434\u043E 2006 \u0433\u043E\u0434\u0430 \u2014 BAR Honda). \u0412\u044B\u0441\u0442\u0443\u043F\u0430\u044F \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 Super Aguri, \u0414\u044D\u0432\u0438\u0434\u0441\u043E\u043D \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u043B \u0431\u044B\u0442\u044C \u0442\u0435\u0441\u0442\u043E\u0432\u044B\u043C \u043F\u0438\u043B\u043E\u0442\u043E\u043C Honda. \u0412 2009\u20142013 \u0433\u043E\u0434\u0430\u0445 \u043E\u043D \u0431\u044B\u043B \u0442\u0435\u0441\u0442-\u043F\u0438\u043B\u043E\u0442\u043E\u043C Brawn GP \u0438 \u0435\u0451 \u043F\u0440\u0435\u0435\u043C\u043D\u0438\u0446\u044B Mercedes GP. \u0421 2012 \u0433\u043E\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0432\u044B\u043D\u043E\u0441\u043B\u0438\u0432\u043E\u0441\u0442\u044C \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Toyota Racing. \u0412 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043D\u0433\u0440\u0438\u0438 2006 \u0433\u043E\u0434\u0430 \u0414\u044D\u0432\u0438\u0434\u0441\u043E\u043D \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0442\u043E\u0440\u0430 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u0442\u0435\u043B\u0435\u043A\u0430\u043D\u0430\u043B\u0430 ITV, \u0437\u0430\u043C\u0435\u043D\u0438\u0432 \u041C\u0430\u0440\u0442\u0438\u043D\u0430 \u0411\u0440\u0430\u043D\u0434\u043B\u0430. \u0412 2010 \u0433\u043E\u0434\u0443 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0433\u043E\u043D\u043A\u0443 \u00AB12 \u0447\u0430\u0441\u043E\u0432 \u0421\u0435\u0431\u0440\u0438\u043D\u0433\u0430\u00BB \u0441\u0435\u0440\u0438\u0438 ALMS, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044F \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435 Peugeot 908 \u0441 \u041C\u0430\u0440\u043A\u043E\u043C \u0416\u0435\u043D\u0435 \u0438 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u043C \u0412\u0443\u0440\u0446\u0435\u043C. \u0412 2012 \u0433\u043E\u0434\u0443 \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u0433\u043E\u043D\u043A\u0438 24 \u0447\u0430\u0441\u0430 \u041B\u0435 \u041C\u0430\u043D\u0430 \u043F\u043E\u043F\u0430\u043B \u0432 \u0441\u0442\u0440\u0430\u0448\u043D\u0443\u044E \u0430\u0432\u0430\u0440\u0438\u044E. \u0412 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0435 \u0441\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u044F \u0441 \u0431\u043E\u043B\u0435\u0435 \u043C\u0435\u0434\u043B\u0435\u043D\u043D\u044B\u043C \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u043C, \u043C\u0430\u0448\u0438\u043D\u0430 \u042D\u043D\u0442\u043E\u043D\u0438, \u0421\u0435\u0431\u0430\u0441\u0442\u044C\u044F\u043D\u0430 \u0411\u0443\u044D\u043C\u0438 \u0438 \u0421\u0442\u0435\u0444\u0430\u043D\u0430 \u0421\u0430\u0440\u0440\u0430\u0437\u0430\u043D\u0430 \u0432\u0437\u043B\u0435\u0442\u0435\u043B\u0430 \u0438 \u0443\u0434\u0430\u0440\u0438\u043B\u0430\u0441\u044C \u043E \u0441\u0442\u0435\u043D\u0443 \u0438\u0437 \u043F\u043E\u043A\u0440\u044B\u0448\u0435\u043A. \u042D\u043D\u0442\u043E\u043D\u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043A\u043E\u043C\u043F\u0440\u0435\u0441\u0441\u0438\u043E\u043D\u043D\u044B\u0439 \u043F\u0435\u0440\u0435\u043B\u043E\u043C \u043F\u043E\u0437\u0432\u043E\u043D\u043E\u0447\u043D\u0438\u043A\u0430."@ru ,
+		"\u30A2\u30F3\u30BD\u30CB\u30FC\u30FB\u30C7\u30D3\u30C3\u30C9\u30BD\u30F3\uFF08Anthony Davidson, 1979\u5E744\u670818\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u611B\u79F0\u306F\u30A2\u30F3\u30C8\u3001AD\uFF08\u30A8\u30FC\u30C7\u30A3\uFF09\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Anthony_Davidson_Driver_of_Toyota_Racing\u0027s_Toyota_TS_040_Hybrid.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Anthony_Davidson	dbo:birthDate	"1979-04-18"^^xsd:date ,
+		"1979-4-18"^^xsd:date ;
+	dbo:wikiPageRevisionID	743078071 ;
+	dbo:birthPlace	dbr:Hertfordshire ,
+		dbr:Hemel_Hempstead ;
+	dbo:wikiPageID	1079348 ;
+	dbp:currentSeries	dbr:FIA_World_Endurance_Championship .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+dbr:Anthony_Davidson	dbp:bestFinish	"1.0"^^ns28:stone ;
+	dbp:carNumber	1 ;
+	dbp:firstYear	2012 ;
+	dbp:year	2014 ;
+	dbp:wins	5 .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Anthony_Davidson	ns29:hypernym	dbr:Driver .
+dbr:Allan_McNish	dbp:after	dbr:Anthony_Davidson .
+<http://dbpedia.org/resource/Lo\u00EFc_Duval>	dbp:after	dbr:Anthony_Davidson .
+dbr:Timo_Bernhard	dbp:before	dbr:Anthony_Davidson .
+dbr:Jonathan_Cochet	dbp:after	dbr:Anthony_Davidson .
+<http://dbpedia.org/resource/S\u00E9bastien_Buemi>	dbp:years	dbr:Anthony_Davidson .
+<http://dbpedia.org/resource/2001_British_Formula_Three_Championship__Carlin_Motorsport__1>	dbo:firstDriver	dbr:Anthony_Davidson .
+dbr:Aston_Martin__23	dbo:firstDriver	dbr:Anthony_Davidson .
+dbr:Super_Aguri_SA07__3	dbo:firstDriver	dbr:Anthony_Davidson .
+dbr:Super_Aguri_SA08__3	dbo:firstDriver	dbr:Anthony_Davidson .
+<http://dbpedia.org/resource/2001_Macau_Grand_Prix__Carlin__1>	dbo:firstDriver	dbr:Anthony_Davidson .
+dbr:Gary_Paffett	dbp:after	dbr:Anthony_Davidson .

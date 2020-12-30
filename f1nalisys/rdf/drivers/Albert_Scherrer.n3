@@ -1,0 +1,113 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Albert_Scherrer	foaf:primaryTopic	dbr:Albert_Scherrer .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Albert_Scherrer	rdf:type	ns4:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Albert_Scherrer	rdf:type	yago:CausalAgent100007347 .
+@prefix schema:	<http://schema.org/> .
+dbr:Albert_Scherrer	rdf:type	schema:Person ,
+		ns4:NaturalPerson .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Albert_Scherrer	rdf:type	dbo:Person ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Albert_Scherrer	rdf:type	owl:Thing ,
+		yago:Driver110034906 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Albert_Scherrer	rdf:type	wikidata:Q5 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Albert_Scherrer	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatSwissFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Albert_Scherrer	rdfs:label	"Albert Scherrer"@it ,
+		"Albert Scherrer"@nl ,
+		"Albert Scherrer"@fr ,
+		"Albert Scherrer"@pt ,
+		"Albert Scherrer"@de ,
+		"Albert Scherrer"@en ,
+		"Albert Scherrer"@pl ;
+	rdfs:comment	"Albert Scherrer (Riehen, Su\u00ED\u00E7a, 28 de fevereiro de 1908 - Basileia, Su\u00ED\u00E7a, 5 de julho de 1986) foi um automobilista su\u00ED\u00E7o que participou do Grande Pr\u00EAmio da Su\u00ED\u00E7a de F\u00F3rmula 1 em 1953."@pt ,
+		"Albert Scherrer (* 28. Februar 1908 in Riehen; \u2020 5. Juli 1986 in Basel) war ein Schweizer Automobilrennfahrer."@de ,
+		"Partecip\u00F2 al Gran Premio di Svizzera 1953 con una HWM. Termin\u00F2 la gara in nona posizione, a 16 giri di ritardo dal vincitore Ascari e non venne perci\u00F2 classificato."@it ,
+		"Albert Scherrer (Riehen, 28 februari 1908 - Bazel, 5 juli 1986) was een autocoureur uit Zwitserland. Hij nam deel aan zijn thuisrace in 1953 voor het team HWM, maar scoorde hierin geen punten."@nl ,
+		"Albert Scherrer (ur. 28 lutego 1908 roku w Riehen, zm. 5 lipca 1986 roku w Bazylei) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ,
+		"Albert Scherrer est un pilote automobile suisse, n\u00E9 le 28 f\u00E9vrier 1908 \u00E0 Riehen et mort le 5 juillet 1986 \u00E0 B\u00E2le. Il courut principalement en course de c\u00F4te, mais il a \u00E9galement particip\u00E9 \u00E0 son Grand Prix national, comptant pour le championnat du monde, en 1953, au volant d'une HWM."@fr ,
+		"Albert Scherrer (28 February 1908 in Riehen \u2013 5 July 1986 in Basel) was a racing driver from Switzerland. He participated in one Formula One World Championship Grand Prix, the 1953 Swiss Grand Prix. He finished 16 laps down and unclassified, scoring no championship points."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Albert_Scherrer	dbp:birthDate	"1908-02-28"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Albert_Scherrer	owl:sameAs	dbpedia-it:Albert_Scherrer ,
+		<http://rdf.freebase.com/ns/m.04k740> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Albert_Scherrer	owl:sameAs	dbpedia-de:Albert_Scherrer .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Albert_Scherrer	owl:sameAs	dbpedia-pt:Albert_Scherrer ,
+		dbr:Albert_Scherrer .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Albert_Scherrer	owl:sameAs	dbpedia-pl:Albert_Scherrer ,
+		wikidata:Q116272 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Albert_Scherrer	owl:sameAs	dbpedia-nl:Albert_Scherrer .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Albert_Scherrer	owl:sameAs	dbpedia-fr:Albert_Scherrer .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Albert_Scherrer	owl:sameAs	dbpedia-wikidata:Q116272 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Albert_Scherrer	owl:sameAs	yago-res:Albert_Scherrer .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Albert_Scherrer	dct:subject	dbc:Swiss_racing_drivers ,
+		dbc:Hersham_and_Walton_Motors_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1908_births> ,
+		dbc:Swiss_Formula_One_drivers ,
+		dbc:People_from_Riehen ,
+		<http://dbpedia.org/resource/Category:1986_deaths> ;
+	foaf:name	"Albert Scherrer"@en ;
+	dct:description	"Swiss racing driver"@en ;
+	foaf:givenName	"Albert"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Albert_Scherrer ;
+	foaf:surname	"Scherrer"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Hersham_and_Walton_Motors .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Albert_Scherrer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Albert_Scherrer?oldid=703964191> ;
+	dbp:nationality	"Swiss"^^xsd:string ;
+	dbp:deathDate	"1986-07-05"^^xsd:date ;
+	dbo:abstract	"Albert Scherrer est un pilote automobile suisse, n\u00E9 le 28 f\u00E9vrier 1908 \u00E0 Riehen et mort le 5 juillet 1986 \u00E0 B\u00E2le. Il courut principalement en course de c\u00F4te, mais il a \u00E9galement particip\u00E9 \u00E0 son Grand Prix national, comptant pour le championnat du monde, en 1953, au volant d'une HWM."@fr ,
+		"Albert Scherrer (Riehen, Su\u00ED\u00E7a, 28 de fevereiro de 1908 - Basileia, Su\u00ED\u00E7a, 5 de julho de 1986) foi um automobilista su\u00ED\u00E7o que participou do Grande Pr\u00EAmio da Su\u00ED\u00E7a de F\u00F3rmula 1 em 1953."@pt ,
+		"Albert Scherrer (* 28. Februar 1908 in Riehen; \u2020 5. Juli 1986 in Basel) war ein Schweizer Automobilrennfahrer."@de ,
+		"Albert Scherrer (28 February 1908 in Riehen \u2013 5 July 1986 in Basel) was a racing driver from Switzerland. He participated in one Formula One World Championship Grand Prix, the 1953 Swiss Grand Prix. He finished 16 laps down and unclassified, scoring no championship points."@en ,
+		"Albert Scherrer (Riehen, 28 februari 1908 - Bazel, 5 juli 1986) was een autocoureur uit Zwitserland. Hij nam deel aan zijn thuisrace in 1953 voor het team HWM, maar scoorde hierin geen punten."@nl ,
+		"Albert Scherrer (ur. 28 lutego 1908 roku w Riehen, zm. 5 lipca 1986 roku w Bazylei) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ,
+		"Partecip\u00F2 al Gran Premio di Svizzera 1953 con una HWM. Termin\u00F2 la gara in nona posizione, a 16 giri di ritardo dal vincitore Ascari e non venne perci\u00F2 classificato."@it ;
+	dbo:birthDate	"1908-2-28"^^xsd:date ;
+	dbo:deathDate	"1986-7-5"^^xsd:date ;
+	dbo:deathPlace	dbr:Basel ;
+	dbo:wikiPageRevisionID	703964191 ;
+	dbo:birthPlace	dbr:Riehen ;
+	dbo:wikiPageID	1228170 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1953_Swiss_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1953_Swiss_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Albert_Scherrer	ns25:hypernym	dbr:Driver .

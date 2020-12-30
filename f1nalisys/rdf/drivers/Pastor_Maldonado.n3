@@ -1,0 +1,197 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Mikhail_Aleshin	dbp:before	dbr:Pastor_Maldonado .
+dbr:Toni_Vilander	dbp:after	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2009_Silverstone_GP2_Series_round>	dbp:firstDriverR	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2010_Silverstone_GP2_Series_round>	dbp:fastDriverR	dbr:Pastor_Maldonado ;
+	dbp:firstDriverR	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2010_Monaco_GP2_Series_round>	dbp:secondDriverR	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2010_Valencia_Street_GP2_Series_round>	dbp:fastDriverR	dbr:Pastor_Maldonado ;
+	dbp:firstDriverR	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2010_Hungaroring_GP2_Series_round>	dbp:fastDriverR	dbr:Pastor_Maldonado ;
+	dbp:firstDriverR	dbr:Pastor_Maldonado .
+dbr:Kamui_Kobayashi	dbp:before	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2010_Spa-Francorchamps_GP2_Series_round>	dbp:firstDriverR	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2010_Hockenheimring_GP2_Series_round>	dbp:firstDriverR	dbr:Pastor_Maldonado .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Pastor_Maldonado	foaf:primaryTopic	dbr:Pastor_Maldonado .
+dbr:Franck_Perera	dbp:after	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/Nico_H\u00FClkenberg>	dbp:after	dbr:Pastor_Maldonado .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Pastor_Maldonado	rdf:type	yago:WikicatLotusF1FormulaOneDrivers ,
+		yago:WikicatVenezuelanFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Pastor_Maldonado	rdf:type	dbo:Agent ,
+		dbo:Person .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Pastor_Maldonado	rdf:type	ns7:NaturalPerson ,
+		yago:CausalAgent100007347 ,
+		ns7:Agent ,
+		<http://dbpedia.org/class/yago/WikicatGermanFormulaRenault2.0Drivers> ,
+		dbo:Athlete ,
+		yago:WikicatGP2AsiaSeriesDrivers ,
+		yago:WikicatInternationalGTOpenDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatFormulaRenaultDrivers ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault3.5SeriesDrivers> ,
+		dbo:FormulaOneRacer ,
+		yago:Operator110378412 ,
+		yago:WikicatGP2SeriesDrivers ,
+		<http://dbpedia.org/class/yago/WikicatEurocupFormulaRenault2.0Drivers> ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Pastor_Maldonado	rdf:type	wikidata:Q378622 ,
+		yago:WikicatFormulaRenaultV6EurocupDrivers ,
+		wikidata:Q5 ,
+		dbo:MotorsportRacer ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatAutoGPWorldSeriesDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Pastor_Maldonado	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		<http://dbpedia.org/class/yago/WikicatItalianFormulaRenault2.0Drivers> .
+@prefix schema:	<http://schema.org/> .
+dbr:Pastor_Maldonado	rdf:type	schema:Person ,
+		foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Pastor_Maldonado	rdfs:label	"Pastor Maldonado"@pl ,
+		"Pastor Maldonado"@pt ,
+		"\u041C\u0430\u043B\u044C\u0434\u043E\u043D\u0430\u0434\u043E, \u041F\u0430\u0441\u0442\u043E\u0440"@ru ,
+		"\u30D1\u30B9\u30C8\u30FC\u30EB\u30FB\u30DE\u30EB\u30C9\u30CA\u30C9"@ja ,
+		"Pastor Maldonado"@it ,
+		"Pastor Maldonado"@en ,
+		"\u0628\u0627\u0633\u062A\u0648\u0631 \u0645\u0627\u0644\u062F\u0648\u0646\u0627\u062F\u0648"@ar ,
+		"Pastor Maldonado"@fr ,
+		"Pastor Maldonado"@nl ,
+		"Pastor Maldonado"@de ,
+		"Pastor Maldonado"@es ,
+		"\u5E15\u65AF\u6258\u00B7\u9A6C\u5C14\u591A\u7EB3\u591A"@zh ;
+	rdfs:comment	"Pastor Rafael Maldonado Motta, n\u00E9 le 9 mars 1985 \u00E0 Maracay au Venezuela, est un pilote automobile v\u00E9n\u00E9zu\u00E9lien."@fr ,
+		"Pastor Rafael Maldonado Motta (Maracay, 9 de mar\u00E7o de 1985) \u00E9 um automobilista venezuelano. Foi campe\u00E3o da F\u00F3rmula Renault em It\u00E1lia."@pt ,
+		"Pastor Rafael Maldonado Motta (* 9. M\u00E4rz 1985 in Maracay) ist ein venezolanischer Automobilrennfahrer. Er fuhr von 2007 bis 2010 in der GP2-Serie und gewann 2010 den Meistertitel. Von 2011 bis 2013 startete er f\u00FCr Williams in der Formel 1, 2014 und 2015 trat er dort f\u00FCr Lotus an."@de ,
+		"\u0628\u0627\u0633\u062A\u0648\u0631 \u0631\u0627\u0641\u0627\u0626\u064A\u0644 \u0645\u0627\u0644\u062F\u0648\u0646\u0627\u062F\u0648 \u0645\u0648\u062A\u0627 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Pastor Rafael Maldonado Motta) (\u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0645\u0627\u0631\u0633 1985 \u0641\u064A \u0645\u0627\u0631\u0627\u0643\u0627\u064A) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0633\u0628\u0627\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0641\u0646\u0632\u0648\u064A\u0644\u064A \u062D\u0627\u0644\u064A\u0627 \u0645\u0639 \u0641\u0631\u064A\u0642 \u0648\u0644\u064A\u0627\u0645\u0632. \u0642\u0628\u0644 \u0645\u0634\u0627\u0631\u0643\u062A\u0647 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0644\u0627\u0648\u0644 \u0645\u0631\u0629 \u0641\u064A \u0645\u0648\u0633\u0645 2011 \u062D\u0642\u0642 \u0644\u0642\u0628 \u0628\u0637\u0644 \u0633\u0644\u0633\u0644\u0629 \u062C\u064A \u0628\u064A 2 \u0644\u0645\u0648\u0633\u0645 2010. \u0623\u0635\u0628\u062D \u0623\u0648\u0644 \u0641\u0646\u0632\u0648\u064A\u0644\u064A \u064A\u0641\u0648\u0632 \u0628\u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0639\u0646\u062F\u0645\u0627 \u0641\u0627\u0632 \u0628\u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0639\u0627\u0645 2012."@ar ,
+		"Pastor Rafael Maldonado Motta (Maracay, 9 de marzo de 1985) piloto venezolano de automovilismo. Se coron\u00F3 campe\u00F3n de la GP2 Series en el Autodromo Nazionale Monza, a falta de dos fechas para finalizar la temporada, despu\u00E9s de 4 a\u00F1os en esta categor\u00EDa (3 completos). Desde 2011 hasta 2015 corri\u00F3 en la m\u00E1xima categor\u00EDa de competencias automovil\u00EDsticas del mundo, la F\u00F3rmula 1. Se convirti\u00F3 en el primer venezolano en ganar un Gran Premio de F1 en el GP de Espa\u00F1a de 2012, con Williams, adem\u00E1s de haber conseguido la pole position por primera vez."@es ,
+		"Pastor Maldonado (Maracay, 9 maart 1985) is een autocoureur uit Venezuela die tussen 2011 en 2015 in de Formule 1 uitkwam. Tussen 2011 en 2013 reed hij bij Williams F1, waar hij in het seizoen 2011 teamgenoot werd van Rubens Barrichello, in 2012 teamgenoot was van Bruno Senna en in 2013 teamgenoot was van Valtteri Bottas. In zijn laatste twee seizoenen reed hij voor het Lotus F1 Team naast Romain Grosjean. Hij is een voormalig kampioen van de Italiaanse Formule Renault."@nl ,
+		"\u041F\u0430\u0441\u0442\u043E\u0440 \u0420\u0430\u0444\u0430\u044D\u043B\u044C \u041C\u0430\u043B\u044C\u0434\u043E\u043D\u0430\u0434\u043E \u041C\u043E\u0442\u0442\u0430 (\u0438\u0441\u043F. Pastor Rafael Maldonado Motta; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 9 \u043C\u0430\u0440\u0442\u0430 1985 \u0433\u043E\u0434\u0430 \u0432 \u041C\u0430\u0440\u0430\u043A\u0430\u0435, \u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430) \u2014 \u0432\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 GP2 (2010), \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-\u0420\u0435\u043D\u043E 3.5 (2006)."@ru ,
+		"\u5E15\u65AF\u6258\u00B7\u62C9\u6590\u5C14\u00B7\u9A6C\u5C14\u591A\u7EB3\u591A\u00B7\u83AB\u5854\uFF08Pastor Rafael Maldonado Motta\uFF0C1985\u5E743\u67089\u65E5\uFF0D\uFF09\u662F\u59D4\u5167\u745E\u62C9\u8CFD\u8ECA\u624B\uFF0C\u66FE\u52DD\u51FA\u610F\u5927\u5229\u96F7\u8AFE\u65B9\u7A0B\u5F0F\uFF0C\u57282011\u5E74\u52A0\u76DF\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u6210\u70BA\u5A01\u5EC9\u58EB\u8ECA\u968A\u7684\u8ECA\u624B\u30022012\u5E745\u670813\u65E5\uFF0C\u4ED6\u52DD\u51FA\u4E86\u897F\u73ED\u7259\u5927\u734E\u8CFD\uFF0C\u6210\u70BA\u4E86F1\u53F2\u4E0A\u9996\u540D\u59D4\u5167\u745E\u62C9\u7C4D\u5206\u7AD9\u51A0\u8ECD\u8ECA\u624B\u3002"@zh ,
+		"(This name uses Spanish naming customs: the first or paternal family name is Maldonado and the second or maternal family name is Motta.) Pastor Rafael Maldonado Motta (Spanish pronunciation: [pas\u02C8to\u027E maldo\u02C8na\u00F0o]; born 9 March 1985) is a Venezuelan racing driver, who competed in Formula One for the Williams (2011\u20132013) and Lotus (2014\u20132015) teams. Before entering Formula One, he won the 2010 GP2 Series championship. He became the first Venezuelan to win a Formula One Grand Prix when he won the 2012 Spanish Grand Prix, for Williams, from his first pole position."@en ,
+		"\u30D1\u30B9\u30C8\u30FC\u30EB\u30FB\u30E9\u30D5\u30A1\u30A8\u30EB\u30FB\u30DE\u30EB\u30C9\u30CA\u30C9\u30FB\u30E2\u30C3\u30BF\uFF08Pastor Rafael Maldonado Motta, 1985\u5E743\u67089\u65E5 - \uFF09\u306F\u3001\u30D9\u30CD\u30BA\u30A8\u30E9\u30FB\u30DE\u30E9\u30AB\u30A4\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30022010\u5E74\u306EGP2\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30D9\u30CD\u30BA\u30A8\u30E9\u4EBA\u3068\u3057\u3066\u306F\u521D\u306EF1\u512A\u52DD\u8005\u3002 \u30D5\u30B8\u30C6\u30EC\u30D3F1\u4E2D\u7D99\u3067\u306F\u300C\u30D1\u30B9\u30C8\u30FC\u30EB\u30FB\u30DE\u30EB\u30C9\u30CA\u30FC\u30C9\u300D\u3068\u8868\u8A18\u3055\u308C\u3066\u3044\u308B\uFF08\u30B9\u30DA\u30A4\u30F3\u8A9E\u306E\u767A\u97F3\u306B\u304A\u3044\u3066\u3082\u3001\u30CA (Maldonado) \u306B\u30A2\u30AF\u30BB\u30F3\u30C8\u304C\u4ED8\u304F\u305F\u3081\u30DE\u30EB\u30C9\u30CA\u30FC\u30C9\u306B\u8FD1\u3044\u767A\u97F3\u3092\u3059\u308B\uFF09\u3002"@ja ,
+		"Pastor Rafael Maldonado Motta (ur. 9 marca 1985 w Maracay) \u2013 wenezuelski kierowca wy\u015Bcigowy. Odznaczony komandori\u0105 Orderu Oswobodziciela. W latach 2011\u20132013 kierowca zespo\u0142u Williams w Formule 1. Pierwsze zwyci\u0119stwo w tej serii odni\u00F3s\u0142 w Grand Prix Hiszpanii w 2012 roku. W latach 2014\u20132015 by\u0142 zawodnikiem zespo\u0142u Lotus."@pl ;
+	owl:sameAs	wikidata:Q82845 .
+@prefix ns12:	<http://www.bbc.co.uk/things/b4622107-496d-4526-b9c5-14726524849f#> .
+dbr:Pastor_Maldonado	owl:sameAs	ns12:id ,
+		<http://rdf.freebase.com/ns/m.0281w7l> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-id:Pastor_Maldonado .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-es:Pastor_Maldonado ,
+		dbr:Pastor_Maldonado .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-pt:Pastor_Maldonado .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-pl:Pastor_Maldonado .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-cs:Pastor_Maldonado .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-wikidata:Q82845 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-nl:Pastor_Maldonado .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	yago-res:Pastor_Maldonado .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-de:Pastor_Maldonado .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-fr:Pastor_Maldonado ,
+		<http://ja.dbpedia.org/resource/\u30D1\u30B9\u30C8\u30FC\u30EB\u30FB\u30DE\u30EB\u30C9\u30CA\u30C9> ,
+		<http://el.dbpedia.org/resource/\u03A0\u03B1\u03C3\u03C4\u03CC\u03C1_\u039C\u03B1\u03BB\u03B4\u03BF\u03BD\u03AC\u03B4\u03BF> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Pastor_Maldonado	owl:sameAs	dbpedia-it:Pastor_Maldonado .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Pastor_Maldonado	dct:subject	dbc:Williams_Formula_One_drivers ,
+		dbc:Venezuelan_Formula_One_drivers ,
+		dbc:Lotus_F1_Formula_One_drivers ,
+		dbc:Venezuelan_socialists ,
+		dbc:Formula_Renault_V6_Eurocup_drivers ,
+		dbc:GP2_Series_Champions ,
+		dbc:Auto_GP_drivers ,
+		dbc:People_from_Maracay ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:Formula_3.5_V8_drivers> ,
+		<http://dbpedia.org/resource/Category:German_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:1985_births> ,
+		dbc:GP2_Series_drivers ,
+		dbc:GP2_Asia_Series_drivers ,
+		dbc:International_GT_Open_drivers ,
+		<http://dbpedia.org/resource/Category:Italian_Formula_Renault_2.0_drivers> ,
+		dbc:Venezuelan_people_of_Spanish_descent ,
+		dbc:Venezuelan_racing_drivers ;
+	foaf:name	"Pastor Maldonado"@en ;
+	foaf:homepage	<http://www.pastormaldonado.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Pastor_Maldonado_2015_Malaysia.jpg> ;
+	dct:description	"Venezuelan racing driver"@en ;
+	foaf:givenName	"Pastor"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Pastor_Maldonado ;
+	foaf:surname	"Maldonado"@en ;
+	dbp:title	dbr:Italian_Formula_Renault_Championship ,
+		"Italian Formula Renault 2.0Winter Series Champion"^^xsd:string ,
+		dbr:GP2_Series ,
+		"Champion"^^xsd:string ;
+	dbp:years	"\u2013"^^xsd:string ,
+		2004 ,
+		2003 ,
+		2010 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Pastor_Maldonado	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pastor_Maldonado?oldid=742934542> ;
+	dbp:before	dbr:Toni_Vilander ,
+		dbr:Franck_Perera ,
+		<http://dbpedia.org/resource/Nico_H\u00FClkenberg> ;
+	dbp:after	dbr:Kamui_Kobayashi ,
+		dbr:Mikhail_Aleshin ,
+		dbr:Romain_Grosjean ;
+	dbp:birthPlace	"Maracay, Venezuela"^^xsd:string ;
+	dbp:teams	dbr:Lotus_F1 ,
+		dbr:Williams_Grand_Prix_Engineering ;
+	dbo:firstWin	<http://dbpedia.org/resource/2012_Spanish_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/2012_Spanish_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Pastor_Maldonado	dbp:birthDate	"1985-03-09"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.pastormaldonado.com> ;
+	dbp:caption	"Maldonado at the 2015 Malaysian Grand Prix."^^xsd:string ;
+	dbo:abstract	"\u5E15\u65AF\u6258\u00B7\u62C9\u6590\u5C14\u00B7\u9A6C\u5C14\u591A\u7EB3\u591A\u00B7\u83AB\u5854\uFF08Pastor Rafael Maldonado Motta\uFF0C1985\u5E743\u67089\u65E5\uFF0D\uFF09\u662F\u59D4\u5167\u745E\u62C9\u8CFD\u8ECA\u624B\uFF0C\u66FE\u52DD\u51FA\u610F\u5927\u5229\u96F7\u8AFE\u65B9\u7A0B\u5F0F\uFF0C\u57282011\u5E74\u52A0\u76DF\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u6210\u70BA\u5A01\u5EC9\u58EB\u8ECA\u968A\u7684\u8ECA\u624B\u30022012\u5E745\u670813\u65E5\uFF0C\u4ED6\u52DD\u51FA\u4E86\u897F\u73ED\u7259\u5927\u734E\u8CFD\uFF0C\u6210\u70BA\u4E86F1\u53F2\u4E0A\u9996\u540D\u59D4\u5167\u745E\u62C9\u7C4D\u5206\u7AD9\u51A0\u8ECD\u8ECA\u624B\u3002"@zh ,
+		"\u30D1\u30B9\u30C8\u30FC\u30EB\u30FB\u30E9\u30D5\u30A1\u30A8\u30EB\u30FB\u30DE\u30EB\u30C9\u30CA\u30C9\u30FB\u30E2\u30C3\u30BF\uFF08Pastor Rafael Maldonado Motta, 1985\u5E743\u67089\u65E5 - \uFF09\u306F\u3001\u30D9\u30CD\u30BA\u30A8\u30E9\u30FB\u30DE\u30E9\u30AB\u30A4\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30022010\u5E74\u306EGP2\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30D9\u30CD\u30BA\u30A8\u30E9\u4EBA\u3068\u3057\u3066\u306F\u521D\u306EF1\u512A\u52DD\u8005\u3002 \u30D5\u30B8\u30C6\u30EC\u30D3F1\u4E2D\u7D99\u3067\u306F\u300C\u30D1\u30B9\u30C8\u30FC\u30EB\u30FB\u30DE\u30EB\u30C9\u30CA\u30FC\u30C9\u300D\u3068\u8868\u8A18\u3055\u308C\u3066\u3044\u308B\uFF08\u30B9\u30DA\u30A4\u30F3\u8A9E\u306E\u767A\u97F3\u306B\u304A\u3044\u3066\u3082\u3001\u30CA (Maldonado) \u306B\u30A2\u30AF\u30BB\u30F3\u30C8\u304C\u4ED8\u304F\u305F\u3081\u30DE\u30EB\u30C9\u30CA\u30FC\u30C9\u306B\u8FD1\u3044\u767A\u97F3\u3092\u3059\u308B\uFF09\u3002"@ja ,
+		"\u041F\u0430\u0441\u0442\u043E\u0440 \u0420\u0430\u0444\u0430\u044D\u043B\u044C \u041C\u0430\u043B\u044C\u0434\u043E\u043D\u0430\u0434\u043E \u041C\u043E\u0442\u0442\u0430 (\u0438\u0441\u043F. Pastor Rafael Maldonado Motta; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 9 \u043C\u0430\u0440\u0442\u0430 1985 \u0433\u043E\u0434\u0430 \u0432 \u041C\u0430\u0440\u0430\u043A\u0430\u0435, \u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430) \u2014 \u0432\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 GP2 (2010), \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-\u0420\u0435\u043D\u043E 3.5 (2006)."@ru ,
+		"Pastor Rafael Maldonado Motta (* 9. M\u00E4rz 1985 in Maracay) ist ein venezolanischer Automobilrennfahrer. Er fuhr von 2007 bis 2010 in der GP2-Serie und gewann 2010 den Meistertitel. Von 2011 bis 2013 startete er f\u00FCr Williams in der Formel 1, 2014 und 2015 trat er dort f\u00FCr Lotus an."@de ,
+		"Pastor Rafael Maldonado Motta, n\u00E9 le 9 mars 1985 \u00E0 Maracay au Venezuela, est un pilote automobile v\u00E9n\u00E9zu\u00E9lien."@fr ,
+		"Pastor Rafael Maldonado Motta (ur. 9 marca 1985 w Maracay) \u2013 wenezuelski kierowca wy\u015Bcigowy. Odznaczony komandori\u0105 Orderu Oswobodziciela. W latach 2011\u20132013 kierowca zespo\u0142u Williams w Formule 1. Pierwsze zwyci\u0119stwo w tej serii odni\u00F3s\u0142 w Grand Prix Hiszpanii w 2012 roku. W latach 2014\u20132015 by\u0142 zawodnikiem zespo\u0142u Lotus."@pl ,
+		"Pastor Rafael Maldonado Motta (Maracay, 9 de mar\u00E7o de 1985) \u00E9 um automobilista venezuelano. Foi campe\u00E3o da F\u00F3rmula Renault em It\u00E1lia."@pt ,
+		"Pastor Maldonado (Maracay, 9 maart 1985) is een autocoureur uit Venezuela die tussen 2011 en 2015 in de Formule 1 uitkwam. Tussen 2011 en 2013 reed hij bij Williams F1, waar hij in het seizoen 2011 teamgenoot werd van Rubens Barrichello, in 2012 teamgenoot was van Bruno Senna en in 2013 teamgenoot was van Valtteri Bottas. In zijn laatste twee seizoenen reed hij voor het Lotus F1 Team naast Romain Grosjean. Hij is een voormalig kampioen van de Italiaanse Formule Renault."@nl ,
+		"\u0628\u0627\u0633\u062A\u0648\u0631 \u0631\u0627\u0641\u0627\u0626\u064A\u0644 \u0645\u0627\u0644\u062F\u0648\u0646\u0627\u062F\u0648 \u0645\u0648\u062A\u0627 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Pastor Rafael Maldonado Motta) (\u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0645\u0627\u0631\u0633 1985 \u0641\u064A \u0645\u0627\u0631\u0627\u0643\u0627\u064A) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0633\u0628\u0627\u0642 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0641\u0646\u0632\u0648\u064A\u0644\u064A \u062D\u0627\u0644\u064A\u0627 \u0645\u0639 \u0641\u0631\u064A\u0642 \u0648\u0644\u064A\u0627\u0645\u0632. \u0642\u0628\u0644 \u0645\u0634\u0627\u0631\u0643\u062A\u0647 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0644\u0627\u0648\u0644 \u0645\u0631\u0629 \u0641\u064A \u0645\u0648\u0633\u0645 2011 \u062D\u0642\u0642 \u0644\u0642\u0628 \u0628\u0637\u0644 \u0633\u0644\u0633\u0644\u0629 \u062C\u064A \u0628\u064A 2 \u0644\u0645\u0648\u0633\u0645 2010. \u0623\u0635\u0628\u062D \u0623\u0648\u0644 \u0641\u0646\u0632\u0648\u064A\u0644\u064A \u064A\u0641\u0648\u0632 \u0628\u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0639\u0646\u062F\u0645\u0627 \u0641\u0627\u0632 \u0628\u0633\u0628\u0627\u0642 \u062C\u0627\u0626\u0632\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0639\u0627\u0645 2012. \u0628\u062F\u0623 \u0645\u0627\u0644\u062F\u0648\u0646\u0627\u062F\u0648 \u0628\u062A\u062C\u0631\u0628\u0629 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0641\u064A \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0641\u064A \u0639\u0627\u0645 2003. \u0648\u062A\u0646\u0627\u0641\u0633 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0631\u064A\u0646\u0648 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629\u060C \u0648\u062C\u0627\u0621 \u0641\u064A \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0633\u0627\u0628\u0639 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0633\u0627\u0626\u0642\u064A\u0646. \u0641\u064A \u0639\u0627\u0645 2004 \u062E\u0627\u0636 \u0645\u0627\u0644\u062F\u0648\u0646\u0627\u062F\u0648 \u0641\u064A \u0645\u0646\u0627\u0641\u0633\u062A\u064A \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0631\u064A\u0646\u0648 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0648\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0631\u064A\u0646\u0648 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0641\u0641\u0627\u0632 \u0628\u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0628\u0645\u062C\u0645\u0648\u0639 \u062B\u0645\u0627\u0646\u064A\u0629 \u0627\u0646\u062A\u0635\u0627\u0631\u0627\u062A \u0648\u0633\u062A\u0629 \u0645\u0631\u0627\u0643\u0632 \u0636\u0645\u0646 \u0645\u0646\u0635\u0627\u062A \u062A\u062A\u0648\u064A\u062C. \u0648\u0641\u064A \u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u062D\u0642\u0642 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0645\u0646 \u0628\u0645\u062C\u0645\u0648\u0639 \u0641\u0648\u0632\u064A\u0646. \u0641\u064A \u0646\u0648\u0641\u0645\u0628\u0631 2004 \u0633\u0646\u062D\u062A \u0627\u0644\u0641\u0631\u0635\u0629 \u0644\u0645\u0627\u0644\u062F\u0648\u0646\u0627\u062F\u0648 \u0644\u0625\u062C\u0631\u0627\u0621 \u062C\u0648\u0644\u0629 \u0627\u062E\u062A\u0628\u0627\u0631 \u0641\u064A \u0645\u064A\u0633\u0627\u0646\u0648 \u0645\u0639 \u0641\u0631\u064A\u0642 \u0645\u064A\u0646\u0627\u0631\u062F\u064A \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0641\u064A \u0625\u064A\u0637\u0627\u0644\u064A\u0627. \u0633\u0627\u0647\u0645\u062A \u0645\u0634\u0627\u0631\u0643\u0629 \u0645\u0627\u0644\u062F\u0648\u0646\u0627\u062F\u0648 \u0641\u064A \u0633\u0644\u0633\u0644\u0629 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0631\u064A\u0646\u0648 3.5 \u0641\u064A \u0639\u0627\u0645 2006  \u0628\u0645\u0627 \u064A\u0643\u0641\u064A \u0644\u062C\u0630\u0628 \u0627\u0647\u062A\u0645\u0627\u0645 \u0641\u0631\u0642 \u0633\u0644\u0633\u0644\u0629 \u062C\u064A \u0628\u064A 2 \u0641\u0648\u0642\u0639 \u0639\u0642\u062F\u0627 \u0644\u0642\u064A\u0627\u062F\u0629 \u0641\u0631\u064A\u0642 \u062A\u0631\u0627\u064A\u062F\u0646\u062A \u0631\u0627\u064A\u0633\u064A\u0646\u063A \u0641\u064A \u0639\u0627\u0645 2007 \u0628\u0639\u062F \u062A\u062C\u0631\u0628\u0629 \u0646\u0627\u062C\u062D\u0629 \u0641\u064A \u0623\u0648\u0627\u062E\u0631 \u0639\u0627\u0645 2006. \u0623\u062D\u0631\u0632 \u0641\u0648\u0632\u0647 \u0627\u0644\u0623\u0648\u0644 \u0641\u064A \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0631\u0627\u0628\u0639 \u0644\u0645\u0634\u0627\u0631\u0643\u062A\u0647 \u0641\u064A \u0627\u0644\u0633\u0644\u0633\u0644\u0629 \u0628\u0641\u0648\u0632\u0647 \u0641\u064A \u0645\u0648\u0646\u0627\u0643\u0648. \u0648\u0645\u0639 \u0630\u0644\u0643 \u0643\u0627\u0646 \u0639\u0644\u064A\u0647 \u0623\u0646 \u064A\u063A\u064A\u0628 \u0639\u0646 \u0627\u0644\u062C\u0648\u0644\u0627\u062A \u0627\u0644\u0623\u0631\u0628\u0639 \u0627\u0644\u0646\u0647\u0627\u0626\u064A\u0629 \u0645\u0646 \u0627\u0644\u0645\u0648\u0633\u0645 \u0628\u0639\u062F \u0627\u0635\u0627\u0628\u062A\u0647 \u0628\u0643\u0633\u0631 \u0641\u064A \u0627\u0644\u062A\u0631\u0642\u0648\u0629 \u062E\u0644\u0627\u0644 \u0627\u0644\u062A\u062F\u0631\u064A\u0628\u060C  \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0641\u0631\u064A\u0642 \u0628\u064A\u0643\u064A\u0647 \u0644\u0639\u0627\u0645 2008\u060C \u0648\u0641\u064A \u0633\u0646\u062A\u0647 \u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0633\u0644\u0633\u0644\u0629 \u062D\u0642\u0642 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062E\u0627\u0645\u0633 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0633\u0627\u0626\u0642\u064A\u0646 \u0641\u064A \u0646\u0647\u0627\u064A\u0629 \u0627\u0644\u0645\u0648\u0633\u0645. \u062E\u0644\u0627\u0644 \u0645\u0648\u0633\u0645 2009 \u0648\u0642\u0639 \u0639\u0642\u062F\u0627 \u0644\u0642\u064A\u0627\u062F\u0629 \u0644\u0641\u0631\u064A\u0642 \u0627\u064A\u0647 \u0627\u0631 \u062A\u064A \u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649. \u0648\u0643\u062C\u0632\u0621 \u0645\u0646 \u0627\u0644\u0635\u0641\u0642\u0629 \u0627\u0646\u0636\u0645 \u0644\u0644\u0641\u0631\u064A\u0642 \u0644\u0645\u062F\u0629 \u062B\u0644\u0627\u062B \u062C\u0648\u0644\u0627\u062A \u0645\u0646 \u0627\u0644\u0645\u0648\u0633\u0645 2008-09 \u0641\u064A \u0633\u0644\u0633\u0644\u0629 \u062C\u064A \u0628\u064A 2 \u0627\u0644\u0622\u0633\u064A\u0648\u064A\u0629."@ar ,
+		"Pastor Rafael Maldonado Motta (Maracay, 9 de marzo de 1985) piloto venezolano de automovilismo. Se coron\u00F3 campe\u00F3n de la GP2 Series en el Autodromo Nazionale Monza, a falta de dos fechas para finalizar la temporada, despu\u00E9s de 4 a\u00F1os en esta categor\u00EDa (3 completos). Desde 2011 hasta 2015 corri\u00F3 en la m\u00E1xima categor\u00EDa de competencias automovil\u00EDsticas del mundo, la F\u00F3rmula 1. Se convirti\u00F3 en el primer venezolano en ganar un Gran Premio de F1 en el GP de Espa\u00F1a de 2012, con Williams, adem\u00E1s de haber conseguido la pole position por primera vez."@es ,
+		"(This name uses Spanish naming customs: the first or paternal family name is Maldonado and the second or maternal family name is Motta.) Pastor Rafael Maldonado Motta (Spanish pronunciation: [pas\u02C8to\u027E maldo\u02C8na\u00F0o]; born 9 March 1985) is a Venezuelan racing driver, who competed in Formula One for the Williams (2011\u20132013) and Lotus (2014\u20132015) teams. Before entering Formula One, he won the 2010 GP2 Series championship. He became the first Venezuelan to win a Formula One Grand Prix when he won the 2012 Spanish Grand Prix, for Williams, from his first pole position."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Pastor_Maldonado_2015_Malaysia.jpg?width=300> ;
+	dbo:birthDate	"1985-3-9"^^xsd:date ;
+	dbo:wikiPageRevisionID	742934542 ;
+	dbo:birthPlace	dbr:Maracay ;
+	dbo:wikiPageID	9255765 ;
+	dbp:lastSeason	2015 ;
+	dbp:imageSize	240 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Pastor_Maldonado	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/2011_Australian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/2015_Abu_Dhabi_Grand_Prix> ;
+	dbp:nationality	"Venezuelan"^^xsd:string .
+<http://dbpedia.org/resource/2009_Monaco_GP2_Series_round>	dbp:firstDriverR	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2012_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Pastor_Maldonado ;
+	dbo:poleDriver	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2010_Catalunya_GP2_Series_round>	dbp:thirdDriverR	dbr:Pastor_Maldonado .
+<http://dbpedia.org/resource/2010_Istanbul_Park_GP2_Series_round>	dbp:fastDriverR	dbr:Pastor_Maldonado ;
+	dbp:firstDriverR	dbr:Pastor_Maldonado .
+dbr:Romain_Grosjean	dbp:before	dbr:Pastor_Maldonado .

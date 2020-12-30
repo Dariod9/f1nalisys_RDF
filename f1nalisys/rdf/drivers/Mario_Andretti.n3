@@ -1,0 +1,389 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1976_Swedish_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_Swedish_Grand_Prix>	dbo:poleDriver	dbr:Mario_Andretti .
+dbr:Circuit_Mont-Tremblant__1967__1	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Circuit_Mont-Tremblant__1968__1	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_150__1966__2	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_150__1967__1	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_150__1969__1	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_150__1969__2	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_Speedway__1966__2	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_Speedway__1967__1	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_Speedway__1969__1	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_Speedway__1969__2	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_United_States_Grand_Prix_West>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1975_BRDC_International_Trophy>	dbo:thirdDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_United_States_Grand_Prix_West>	dbo:secondDriver	dbr:Mario_Andretti .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1994_Australian_FAI_Indycar_Grand_Prix>	dbp:thirdDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1976_Japanese_Grand_Prix>	dbo:firstDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_Dutch_Grand_Prix>	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_French_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti ;
+	dbo:firstDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti ;
+	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_Japanese_Grand_Prix>	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_Swedish_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_Dutch_Grand_Prix>	dbo:firstDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_French_Grand_Prix>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_German_Grand_Prix>	dbo:firstDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1982_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1993_Indianapolis_500>	dbp:leader	dbr:Mario_Andretti .
+dbr:Cale_Yarborough	dbp:before	dbr:Mario_Andretti .
+dbr:Jody_Scheckter	dbp:before	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_Belgian_Grand_Prix>	dbo:firstDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+dbr:Michael_Andretti	dbp:relatedTo	dbr:Mario_Andretti .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Mario_Andretti	foaf:primaryTopic	dbr:Mario_Andretti .
+dbr:Bobby_Allison	dbp:before	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1971_Questor_Grand_Prix>	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Once_Upon_a_Wheel	dbo:starring	dbr:Mario_Andretti .
+dbr:Adam_Andretti	dbp:relatedTo	dbr:Mario_Andretti .
+dbr:Al_Unser	dbp:before	dbr:Mario_Andretti ;
+	dbp:after	dbr:Mario_Andretti .
+dbr:Super_Speedway	dbo:starring	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1976_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mario_Andretti	rdf:type	wikidata:Q378622 ,
+		wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mario_Andretti	rdf:type	yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatParnelliFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		dbo:Person ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatNASCARDrivers ,
+		foaf:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Mario_Andretti	rdf:type	schema:Person ,
+		yago:WikicatAlfaRomeoFormulaOneDrivers ,
+		dbo:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mario_Andretti	rdf:type	umbel-rc:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		yago:WikicatRacingDriversFromPennsylvania ,
+		umbel-rc:RaceCarDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mario_Andretti	rdf:type	owl:Thing ,
+		yago:Driver110034906 ,
+		yago:WikicatItalianFormulaOneDrivers .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mario_Andretti	rdf:type	ns11:NaturalPerson ,
+		ns11:Agent ,
+		yago:Operator110378412 ,
+		dbo:Athlete ,
+		yago:WikicatIndyCarSeriesDrivers ,
+		dbo:RacingDriver ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:FormulaOneRacer ,
+		dbo:MotorsportRacer ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatChampCarDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mario_Andretti	rdfs:label	"\u0410\u043D\u0434\u0440\u0435\u0442\u0442\u0438, \u041C\u0430\u0440\u0438\u043E"@ru ,
+		"\u0645\u0627\u0631\u064A\u0648 \u0623\u0646\u062F\u0631\u064A\u062A\u064A"@ar ,
+		"Mario Andretti"@es ,
+		"\u9A6C\u91CC\u5965\u00B7\u5B89\u5FB7\u70C8\u8482"@zh ,
+		"Mario Andretti"@en ,
+		"\u30DE\u30EA\u30AA\u30FB\u30A2\u30F3\u30C9\u30EC\u30C3\u30C6\u30A3"@ja ,
+		"Mario Andretti"@it ,
+		"Mario Andretti"@de ,
+		"Mario Andretti"@nl ,
+		"Mario Andretti"@pl ,
+		"Mario Andretti"@pt ,
+		"Mario Andretti"@fr ;
+	rdfs:comment	"\u0645\u0627\u0631\u064A\u0648 \u063A\u0627\u0628\u0631\u064A\u064A\u0644 \u0623\u0646\u062F\u0631\u064A\u062A\u064A (Mario Gabriele Andretti) (\u0645\u0648\u0627\u0644\u064A\u062F 28 \u0641\u0628\u0631\u0627\u064A\u0631 1940) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0625\u064A\u0637\u0627\u0644\u064A \u0623\u0645\u0631\u064A\u0643\u064A \u0628\u0637\u0644 \u0639\u0627\u0644\u0645 \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A\u060C \u0623\u062D\u062F \u0623\u0646\u062C\u062D \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u064A\u0646 \u0641\u064A \u062A\u0627\u0631\u064A\u062E \u0627\u0644\u0631\u064A\u0627\u0636\u0629. \u0648\u0647\u0648 \u0623\u064A\u0636\u064B\u0627 \u0648\u0627\u062D\u062F\u0627\u064B \u0645\u0646 \u0633\u0627\u0626\u0642\u064A\u0646 \u0627\u062B\u0646\u064A\u0646 \u0641\u0642\u0637 \u0641\u0627\u0632\u0648\u0627 \u0641\u064A \u0643\u0644 \u0645\u0646 \u0633\u0628\u0627\u0642 \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649\u060C \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 (\u0625\u0646\u062F\u064A \u0643\u0627\u0631)\u060C \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629\u060C \u0648\u0646\u0627\u0633\u0643\u0627\u0631 NASCAR (\u0627\u0644\u0622\u062E\u0631 \u0647\u0648 \u062F\u0627\u0646 \u062C\u064A\u0631\u0646\u064A (\u200F\u200FDan Gurney)). \u0648\u0642\u062F \u0641\u0627\u0632 \u0623\u064A\u0636\u064B\u0627 \u0628\u0633\u0628\u0627\u0642\u0627\u062A \u0641\u064A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0635\u063A\u064A\u0631\u0629 (midget cars)\u060C \u0648\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0633\u0631\u0639\u0629 (sprint cars).\u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0645\u0647\u0646\u064A\u0629\u060C \u0641\u0627\u0632 \u0623\u0646\u062F\u0631\u064A\u062A\u064A \u06281978 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F]]\u060C\u0648 \u0628\u0623\u0631\u0628\u0639\u0629 \u0623\u0644\u0642\u0627\u0628 \u0625\u0646\u062F\u064A \u0643\u0627\u0631 (\u062B\u0644\u0627\u062B\u0629 \u0645\u0639 \u0641\u0631\u0636 \u0639\u0642\u0648\u0628\u0627\u062A \u0645\u0646 \u0627\u0644\u0646\u0627\u062F\u064A \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A \u0644\u0628\u0637\u0648\u0644\u0627\u062A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A (USAC)\u060C \u0648\u0648\u0627\u062D\u062F \u0645\u0639 \u0633\u064A\u0627\u0631\u0627\u062A \u0634\u0627\u0645\u0628 (CART)) \u0648\u0625\u064A\u0631\u0648\u0643 6 (IROC VI). \u0648\u062D\u062A\u064A \u0647\u0630\u0627 \u0627\u0644\u064A\u0648\u0645\u060C \u064A\u0628\u0642\u0649 \u0627\u0644\u0633\u0627\u0626\u0642 \u0627\u0644\u0648\u062D\u064A\u062F \u0627\u0644\u0641\u0627\u0626\u0632 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 500 (1969)\u060C \u062F\u0627\u064A\u062A\u0648\u0646\u0627 500 (1967) \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0641\u064A \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649\u060C \u0648\u062C\u0646\u0628\u064B\u0627 \u0625\u0644\u0649 \u062C\u0646\u0628 \u0645\u0639 \u062E\u0648\u0627\u0646 \u0628\u0627"@ar ,
+		"Mario Gabriel Andretti (nacido el 28 de febrero de 1940 en Motovun, antigua ciudad de Italia) es un ex-piloto de automovilismo italo-estadounidense. Durante su carrera, se destac\u00F3 tanto en monoplazas como en stock cars y sport prototipos. Gan\u00F3 cuatro veces el Campeonato Nacional del USAC, y el campeonato mundial de F\u00F3rmula Uno del a\u00F1o 1978. Andretti es la primera y \u00FAnica persona en ganar las 500 Millas de Indian\u00E1polis, las 500 Millas de Daytona y la F\u00F3rmula 1. Adem\u00E1s, gan\u00F3 una edici\u00F3n de las 24 Horas de Daytona y tres de las 12 Horas de Sebring, adem\u00E1s del International Race of Champions."@es ,
+		"Mario Gabriele Andretti (born February 28, 1940) is an Italian American former racing driver, one of the most successful Americans in the history of the sport. He is one of only two drivers to win races in Formula One, IndyCar, World Sportscar Championship and NASCAR (the other being Dan Gurney). He also won races in midget cars, and sprint cars.During his career, Andretti won the 1978 Formula One World Championship, four IndyCar titles (three under USAC-sanctioning, one under CART), and IROC VI. To date, he remains the only driver ever to win the Indianapolis 500 (1969), Daytona 500 (1967) and the Formula One World Championship, and, along with Juan Pablo Montoya, the only driver to have won a race in the NASCAR Sprint Cup Series, Formula One, and an Indianapolis 500. No American has won "@en ,
+		"\u041C\u0430\u0440\u0438\u043E \u0410\u043D\u0434\u0440\u0435\u0442\u0442\u0438 (\u0430\u043D\u0433\u043B. Mario Gabriele Andretti, 28 \u0444\u0435\u0432\u0440\u0430\u043B\u044F, 1940, \u041C\u043E\u043D\u0442\u043E\u043D\u0430, \u0418\u0442\u0430\u043B\u0438\u044F, \u0441\u0435\u0439\u0447\u0430\u0441 \u041C\u043E\u0442\u043E\u0432\u0443\u043D, \u0425\u043E\u0440\u0432\u0430\u0442\u0438\u044F) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0418\u043C\u044F \u041C\u0430\u0440\u0438\u043E \u0410\u043D\u0434\u0440\u0435\u0442\u0442\u0438 \u0432 \u0421\u0428\u0410 \u0432\u043E\u0441\u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0435\u0442\u0441\u044F \u043A\u0430\u043A \u0441\u0438\u043D\u043E\u043D\u0438\u043C \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u0438, \u0430\u043D\u0430\u043B\u043E\u0433\u0438\u0447\u043D\u043E \u0438\u043C\u0435\u043D\u0438 \u0411\u0430\u0440\u043D\u0438 \u041E\u043B\u0434\u0444\u0438\u043B\u0434\u0430 \u0432 \u043D\u0430\u0447\u0430\u043B\u0435 \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u043E\u0433\u043E \u0432\u0435\u043A\u0430 \u0438 \u0421\u0442\u0438\u0440\u043B\u0438\u043D\u0433\u0430 \u041C\u043E\u0441\u0441\u0430 \u0432 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438. \u0414\u043E \u0441\u0435\u0433\u043E\u0434\u043D\u044F\u0448\u043D\u0435\u0433\u043E \u0434\u043D\u044F \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u043F\u0438\u043B\u043E\u0442, \u043E\u0434\u0435\u0440\u0436\u0430\u0432\u0448\u0438\u0439 \u043F\u043E\u0431\u0435\u0434\u0443 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB (1978), \u00AB\u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441-500\u00BB (1969) \u0438 \u00AB\u0414\u0430\u0439\u0442\u043E\u043D\u0435-500\u00BB."@ru ,
+		"Mario Gabriele Andretti (* 28. Februar 1940 in Montona, Italien, heute Motovun, Kroatien) ist ein ehemaliger US-amerikanischer Automobilrennfahrer. Er startete sowohl in der europ\u00E4isch gepr\u00E4gten Formel-1-Weltmeisterschaft, die er 1978 f\u00FCr sich entschied, als auch in der US-amerikanischen Indy-Car-Serie, wo er 1984 den Titel gewann. 1969 siegte er zudem beim 500-Meilen-Rennen von Indianapolis. Andretti ist der Vater von Michael Andretti und Jeff Andretti sowie der Gro\u00DFvater von Marco Andretti, die ebenfalls Rennfahrer sind bzw. waren."@de ,
+		"Mario Gabriele Andretti (ur. 28 lutego 1940 w Montona d\u2019Istria) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. W ci\u0105gu swej kariery Andretti wygrywa\u0142 i zdobywa\u0142 tytu\u0142y w Champ Car, Formule 1 oraz International Race of Champions. Pozostaje jedynym kierowc\u0105, kt\u00F3ry zwyci\u0119\u017Cy\u0142 w Indianapolis 500, Daytona 500 i Formule 1. W Stanach Zjednoczonych Mario Andretti sta\u0142 si\u0119 synonimem szybko\u015Bci, podobnie jak Stirling Moss w Wielkiej Brytanii czy Barney Oldfield na pocz\u0105tku XX w. w Stanach Zjednoczonych."@pl ,
+		"\u9A6C\u91CC\u5965\u00B7\u5B89\u5FB7\u70C8\u8482\uFF08\u610F\u5927\u5229\u8BED\uFF1A{Mario Andretti, 1940\u5E742\u670828\u65E5\uFF0D) \u51FA\u751F\u4E8E\u514B\u7F57\u5730\u4E9A\u83AB\u6258\u6587\uFF0C\u610F\u5927\u5229-\u7F8E\u56FD\u8D5B\u8F66\u624B\uFF0C\u662F\u6709\u53F2\u4EE5\u6765\u6700\u6210\u529F\u7684\u8D5B\u8F66\u624B\u4E4B\u4E00\u3002"@zh ,
+		"\u30DE\u30EA\u30AA\u30FB\u30AC\u30D6\u30EA\u30A8\u30FC\u30EC\u30FB\u30A2\u30F3\u30C9\u30EC\u30C3\u30C6\u30A3\uFF08Mario Gabriele Andretti \u30011940\u5E742\u670828\u65E5 - \uFF09\u306F\u30A2\u30E1\u30EA\u30AB\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021978\u5E74\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308A\u3001\u30A4\u30F3\u30C7\u30A3\u30AB\u30FC\u3067\u30824\u56DE\u306E\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3092\u7372\u5F97\u3057\u305F\u3002\u30A4\u30F3\u30C7\u30A3500\u3001\u30C7\u30A4\u30C8\u30CA500\u3068F1\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3092\u5168\u3066\u7372\u5F97\u3057\u305F\u552F\u4E00\u306E\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"Mario Andretti, n\u00E9 le 28 f\u00E9vrier 1940 \u00E0 Montona dans la province d'Istrie en Italie est un pilote automobile italo-am\u00E9ricain. Au cours d'une carri\u00E8re s'\u00E9talant sur pr\u00E8s de cinq d\u00E9cennies, il se distingue dans l'histoire du sport automobile en remportant le championnat du monde de Formule 1 en 1978, les 500 miles d'Indianapolis en 1969, les 500 miles de Daytona en 1967 et quatre championnats de monoplace nord-am\u00E9ricaine (trois en USAC en 1965, 1966 et 1969 et un en CART en 1984). Il a \u00E9galement remport\u00E9 plusieurs courses de midget-cars, de sprint-cars et de dragster."@fr ,
+		"Mario Gabrielle Andretti (Motovun, 28 de fevereiro de 1940) \u00E9 uma das maiores lendas do automobilismo dos Estados Unidos, e um dos poucos pilotos americanos a obter sucesso tamb\u00E9m no exterior: foi campe\u00E3o mundial de F\u00F3rmula 1 em 1978. Ele \u00E9 um dos apenas dois pilotos para ganhar corridas em F\u00F3rmula 1, IndyCar, World Sportscar Championship e NASCAR (o outro sendo Dan Gurney). Ele tamb\u00E9m ganhou corridas em midget cars e sprint cars.Durante sua carreira, Andretti ganhou o campeonato de 1978 da F\u00F3rmula 1, 4 tit\u00FAlos da IndyCar(tr\u00EAs sob a tutela da United States Auto Club - USAC e uma sob a tutela da CART) e IROC VI. At\u00E9 hoje, ele continua a ser o \u00FAnico piloto a vencer a 500 milhas de Indian\u00E1polis (Indianapolis 500 de 1969), Daytona 500 (1967) e o Campeonato Mundial de F\u00F3rmula 1 e, juntamente co"@pt ,
+		"Mario Gabriele Andretti (Montona, 28 februari 1940) is een voormalige Amerikaanse autocoureur. Hij werd in 1978 wereldkampioen Formule 1 in een Lotus. Andretti wordt beschouwd als een van de meest succesvolle Amerikaanse autocoureurs. Hij is met Dan Gurney \u00E9\u00E9n van de twee rijders die races kon winnen in zowel de Formule 1, de Champ Car, de NASCAR en het World Sportscar kampioenschap. Verder won hij races in de Midget car- en Sprintcar-raceklassen. Hij won de Daytona 500 in 1967 en de Indianapolis 500 in 1969. Hij won tijdens zijn loopbaan in de Formule 1 twaalf races. Zijn laatste overwinning behaalde hij tijdens de Grand Prix van Nederland in 1978 en hij is tot op heden (peildatum jan. 2013) de laatste Amerikaan die een Grand Prix in de Formule 1 kon winnen. Naast zijn Formule 1-titel uit"@nl ;
+	dbp:points	180 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-it:Mario_Andretti ,
+		dbr:Mario_Andretti .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-nl:Mario_Andretti .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-eu:Mario_Andretti ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30EA\u30AA\u30FB\u30A2\u30F3\u30C9\u30EC\u30C3\u30C6\u30A3> ,
+		<http://d-nb.info/gnd/118502972> .
+@prefix ns16:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Mario_Andretti	owl:sameAs	ns16:Mario_Andretti .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-de:Mario_Andretti .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-cs:Mario_Andretti ,
+		wikidata:Q171312 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	yago-res:Mario_Andretti .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-fr:Mario_Andretti ,
+		<http://ko.dbpedia.org/resource/\uB9C8\uB9AC\uC624_\uC548\uB4DC\uB808\uD2F0> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-pl:Mario_Andretti .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-wikidata:Q171312 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-es:Mario_Andretti .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-id:Mario_Andretti .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mario_Andretti	owl:sameAs	dbpedia-pt:Mario_Andretti ,
+		<http://rdf.freebase.com/ns/m.01nx2s> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mario_Andretti	dct:subject	dbc:Italians_of_Croatia ,
+		dbc:Indianapolis_500_winners ,
+		dbc:Indianapolis_500_Rookies_of_the_Year ,
+		dbc:People_with_acquired_American_citizenship ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Champ_Car_drivers ,
+		dbc:Twin_people_from_the_United_States ,
+		dbc:Identical_twins ,
+		dbc:American_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:People_from_Nazareth,_Pennsylvania> ,
+		dbc:Andretti_family ,
+		dbc:Parnelli_Formula_One_drivers ,
+		dbc:People_from_Motovun ,
+		dbc:Living_people ,
+		dbc:Racing_drivers_from_Pennsylvania ,
+		dbc:Twin_sportspeople ,
+		dbc:Twin_people_from_Italy ,
+		dbc:Istrian_Italian_people ,
+		dbc:Indianapolis_500_polesitters ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:March_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_One_World_Drivers\u0027_Champions> ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:National_Sprint_Car_Hall_of_Fame_inductees ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1940_births> ,
+		dbc:Italian_emigrants_to_the_United_States ,
+		dbc:Child_refugees ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:NASCAR_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Alfa_Romeo_Formula_One_drivers ;
+	foaf:name	"Mario Andretti"@en ;
+	foaf:homepage	<http://www.MarioAndretti.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Mario_Andretti_speaking_at_the_Barber_Legends_of_Motorsport_2010_crop.jpg> ;
+	dct:description	"Italian-American racecar driver"@en ;
+	foaf:givenName	"Mario"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Mario_Andretti ;
+	foaf:surname	"Andretti"@en ;
+	dbp:title	dbr:List_of_Indianapolis_500_winners ,
+		dbr:Indianapolis_500_Rookie_of_the_Year ,
+		dbr:Champ_Car ,
+		"Winner"^^xsd:string ,
+		dbr:Daytona_500 ,
+		<http://dbpedia.org/resource/List_of_Formula_One_World_Drivers\u0027_Champions> ,
+		"Champion"^^xsd:string ,
+		dbr:International_Race_of_Champions ;
+	dbp:years	"\u2013, \u2013"^^xsd:string ,
+		1969 ,
+		1965 ,
+		1967 ,
+		1984 ,
+		dbr:IROC_VI .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mario_Andretti	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mario_Andretti?oldid=744240351> ;
+	dbp:before	dbr:Bobby_Unser ,
+		dbr:Richard_Petty ,
+		dbr:Niki_Lauda ,
+		dbr:Johnny_White ,
+		dbr:Al_Unser ;
+	dbp:after	dbr:Bobby_Allison ,
+		dbr:Jackie_Stewart ,
+		dbr:Cale_Yarborough ,
+		dbr:Al_Unser ,
+		dbr:Jody_Scheckter ;
+	dbp:birthPlace	"Montona, Istria, Kingdom of Italy,"^^xsd:string ;
+	dbp:bestCupPos	"unranked"^^xsd:string ;
+	dbp:cupTopTens	3 ;
+	dbp:cupWins	1 ;
+	dbp:firstCupRace	1966 ;
+	dbp:firstCupWin	1967 ;
+	dbp:lastCupRace	1969 ;
+	dbp:totalCupRaces	14 ;
+	dbp:yearsInCup	4 ;
+	dbp:birthName	"Mario Gabriele Andretti"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1971_South_African_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1978_Dutch_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mario_Andretti	dbp:birthDate	"1940-02-28"^^xsd:date ;
+	dbo:wikiPageExternalLink	<https://www.youtube.com/watch?v=vGlRDw-rDQ0&feature=youtu.be&t=44m19s> ,
+		<http://www.MarioAndretti.com/> ,
+		<http://www.andretti.com/> ,
+		<http://www.andrettiwinery.com/> ,
+		<http://www.automotivehalloffame.org/inductee/mario-andretti/697/> ,
+		<http://www.les24heures.fr/database-24h/FR/PAGE_24h_mans_pilote_lm.php?P1=1339> ;
+	dbp:caption	"Andretti at Barber Motorsports Park in 2010"^^xsd:string ;
+	dbo:abstract	"Mario Gabrielle Andretti (Motovun, 28 de fevereiro de 1940) \u00E9 uma das maiores lendas do automobilismo dos Estados Unidos, e um dos poucos pilotos americanos a obter sucesso tamb\u00E9m no exterior: foi campe\u00E3o mundial de F\u00F3rmula 1 em 1978. Ele \u00E9 um dos apenas dois pilotos para ganhar corridas em F\u00F3rmula 1, IndyCar, World Sportscar Championship e NASCAR (o outro sendo Dan Gurney). Ele tamb\u00E9m ganhou corridas em midget cars e sprint cars.Durante sua carreira, Andretti ganhou o campeonato de 1978 da F\u00F3rmula 1, 4 tit\u00FAlos da IndyCar(tr\u00EAs sob a tutela da United States Auto Club - USAC e uma sob a tutela da CART) e IROC VI. At\u00E9 hoje, ele continua a ser o \u00FAnico piloto a vencer a 500 milhas de Indian\u00E1polis (Indianapolis 500 de 1969), Daytona 500 (1967) e o Campeonato Mundial de F\u00F3rmula 1 e, juntamente com Juan Pablo Montoya, o \u00FAnico piloto a vencer uma corrida na NASCAR Sprint Cup Series, F\u00F3rmula 1 e uma 500 milhas de Indian\u00E1polis. A \u00FAltima vit\u00F3ria americana na F\u00F3rmula 1 foi de Andretti no Grande Pr\u00EAmio da Holanda de 1978. Andretti teve 109 vit\u00F3rias na carreira em circuitos oficiais. Ele tamb\u00E9m foi um dos apenas tr\u00EAs pilotos para ganhar corridas no circuitos mistos, circuitos ovais e pistas de terra em uma temporada, uma fa\u00E7anha que ele cumpriu quatro vezes. com sua vit\u00F3ria final da IndyCar em abril de 1993, Andretti se tornou o primeiro piloto a vencer corridas de IndyCar em quatro d\u00E9cadas diferentes e o primeiro a vencer corridas autom\u00F3veis de qualquer tipo em cinco modalidades. Na cultura popular americana, seu nome tornou-se sin\u00F4nimo de velocidade(speed em ingl\u00EAs), similar ao Barney Oldfield no in\u00EDcio do s\u00E9culo XX e Stirling Moss do Reino Unido."@pt ,
+		"\u30DE\u30EA\u30AA\u30FB\u30AC\u30D6\u30EA\u30A8\u30FC\u30EC\u30FB\u30A2\u30F3\u30C9\u30EC\u30C3\u30C6\u30A3\uFF08Mario Gabriele Andretti \u30011940\u5E742\u670828\u65E5 - \uFF09\u306F\u30A2\u30E1\u30EA\u30AB\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021978\u5E74\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308A\u3001\u30A4\u30F3\u30C7\u30A3\u30AB\u30FC\u3067\u30824\u56DE\u306E\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3092\u7372\u5F97\u3057\u305F\u3002\u30A4\u30F3\u30C7\u30A3500\u3001\u30C7\u30A4\u30C8\u30CA500\u3068F1\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3092\u5168\u3066\u7372\u5F97\u3057\u305F\u552F\u4E00\u306E\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"\u0645\u0627\u0631\u064A\u0648 \u063A\u0627\u0628\u0631\u064A\u064A\u0644 \u0623\u0646\u062F\u0631\u064A\u062A\u064A (Mario Gabriele Andretti) (\u0645\u0648\u0627\u0644\u064A\u062F 28 \u0641\u0628\u0631\u0627\u064A\u0631 1940) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0625\u064A\u0637\u0627\u0644\u064A \u0623\u0645\u0631\u064A\u0643\u064A \u0628\u0637\u0644 \u0639\u0627\u0644\u0645 \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A\u060C \u0623\u062D\u062F \u0623\u0646\u062C\u062D \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u064A\u0646 \u0641\u064A \u062A\u0627\u0631\u064A\u062E \u0627\u0644\u0631\u064A\u0627\u0636\u0629. \u0648\u0647\u0648 \u0623\u064A\u0636\u064B\u0627 \u0648\u0627\u062D\u062F\u0627\u064B \u0645\u0646 \u0633\u0627\u0626\u0642\u064A\u0646 \u0627\u062B\u0646\u064A\u0646 \u0641\u0642\u0637 \u0641\u0627\u0632\u0648\u0627 \u0641\u064A \u0643\u0644 \u0645\u0646 \u0633\u0628\u0627\u0642 \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649\u060C \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 (\u0625\u0646\u062F\u064A \u0643\u0627\u0631)\u060C \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629\u060C \u0648\u0646\u0627\u0633\u0643\u0627\u0631 NASCAR (\u0627\u0644\u0622\u062E\u0631 \u0647\u0648 \u062F\u0627\u0646 \u062C\u064A\u0631\u0646\u064A (\u200F\u200FDan Gurney)). \u0648\u0642\u062F \u0641\u0627\u0632 \u0623\u064A\u0636\u064B\u0627 \u0628\u0633\u0628\u0627\u0642\u0627\u062A \u0641\u064A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0635\u063A\u064A\u0631\u0629 (midget cars)\u060C \u0648\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0633\u0631\u0639\u0629 (sprint cars).\u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0645\u0647\u0646\u064A\u0629\u060C \u0641\u0627\u0632 \u0623\u0646\u062F\u0631\u064A\u062A\u064A \u06281978 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F]]\u060C\u0648 \u0628\u0623\u0631\u0628\u0639\u0629 \u0623\u0644\u0642\u0627\u0628 \u0625\u0646\u062F\u064A \u0643\u0627\u0631 (\u062B\u0644\u0627\u062B\u0629 \u0645\u0639 \u0641\u0631\u0636 \u0639\u0642\u0648\u0628\u0627\u062A \u0645\u0646 \u0627\u0644\u0646\u0627\u062F\u064A \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A \u0644\u0628\u0637\u0648\u0644\u0627\u062A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A (USAC)\u060C \u0648\u0648\u0627\u062D\u062F \u0645\u0639 \u0633\u064A\u0627\u0631\u0627\u062A \u0634\u0627\u0645\u0628 (CART)) \u0648\u0625\u064A\u0631\u0648\u0643 6 (IROC VI). \u0648\u062D\u062A\u064A \u0647\u0630\u0627 \u0627\u0644\u064A\u0648\u0645\u060C \u064A\u0628\u0642\u0649 \u0627\u0644\u0633\u0627\u0626\u0642 \u0627\u0644\u0648\u062D\u064A\u062F \u0627\u0644\u0641\u0627\u0626\u0632 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 500 (1969)\u060C \u062F\u0627\u064A\u062A\u0648\u0646\u0627 500 (1967) \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0641\u064A \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649\u060C \u0648\u062C\u0646\u0628\u064B\u0627 \u0625\u0644\u0649 \u062C\u0646\u0628 \u0645\u0639 \u062E\u0648\u0627\u0646 \u0628\u0627\u0628\u0644\u0648 \u0645\u0648\u0646\u062A\u0648\u064A\u0627 (Juan Pablo Montoya)\u060C \u0647\u0648 \u0627\u0644\u0633\u0627\u0626\u0642 \u0627\u0644\u0648\u062D\u064A\u062F \u0627\u0644\u0641\u0627\u0626\u0632 \u0641\u064A \u0627\u0644\u0646\u0627\u0633\u0643\u0627\u0631 \u0641\u0626\u0629 \u0643\u0623\u0633 \u0633\u0628\u0631\u064A\u0646\u062A\u060C \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649\u060C \u0648\u0627\u0644\u0625\u0646\u062F\u064A\u0627\u0646\u0627\u0628\u0648\u0644\u064A\u0633 500. \u0648\u0644\u0645 \u064A\u0641\u0632 \u0623\u064A \u0623\u0645\u0631\u064A\u0643\u064A \u0628\u0633\u0628\u0627\u0642 \u0641\u064A \u0627\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0646\u0630 \u0641\u0648\u0632 \u0623\u0646\u062F\u0631\u064A\u062A\u064A \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0647\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649. \u0641\u0627\u0632 \u0623\u0646\u062F\u0631\u064A\u062A\u064A 109 \u0645\u0631\u0629 \u0641\u064A \u062D\u064A\u0627\u062A\u0647 \u0627\u0644\u0645\u0647\u0646\u064A\u0629 \u0639\u0644\u0649 \u062D\u0644\u0628\u0627\u062A \u0643\u0628\u0631\u0649. \u0643\u0627\u0646 \u0644\u0623\u0646\u062F\u0631\u064A\u062A\u064A \u062D\u064A\u0627\u0629 \u0645\u0647\u0646\u064A\u0629 \u0637\u0648\u064A\u0644\u0629 \u0641\u064A \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A. \u0648\u0647\u0648 \u0627\u0644\u0634\u062E\u0635 \u0627\u0644\u0648\u062D\u064A\u062F \u0627\u0644\u0630\u064A \u062D\u0635\u0644 \u0639\u0644\u0649 \u0644\u0642\u0628 (\u0633\u0627\u0626\u0642 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0644\u0639\u0627\u0645) \u0639\u0644\u0649 \u0645\u0631 \u062B\u0644\u0627\u062B\u0629 \u0639\u0642\u0648\u062F \u0641\u064A \u0633\u0646\u0648\u0627\u062A (1967\u060C 1978\u060C \u06481984). \u0648\u0647\u0648 \u0623\u064A\u0636\u064B\u0627 \u0623\u062D\u062F \u062B\u0644\u0627\u062B\u0629 \u0633\u0627\u0626\u0642\u064A\u0646 \u064A\u0641\u0648\u0632\u0648\u0646 \u0628\u0633\u0628\u0627\u0642\u0627\u062A \u0639\u0644\u0649 \u062D\u0644\u0628\u0627\u062A \u0627\u0644\u0637\u0631\u0642\u060C \u0627\u0644\u062D\u0644\u0628\u0627\u062A \u0627\u0644\u0645\u0639\u0628\u062F\u0629 \u0627\u0644\u0628\u064A\u0636\u0627\u0648\u064A\u0629\u060C \u0648\u0627\u0644\u062D\u0644\u0628\u0627\u062A \u0627\u0644\u0648\u0639\u0631\u0629 \u0641\u064A \u0645\u0648\u0633\u0645 \u0648\u0627\u062D\u062F\u060C \u0627\u0644\u0625\u0646\u062C\u0627\u0632 \u0627\u0644\u0630\u064A \u062D\u0642\u0642\u0647 \u0644\u0623\u0631\u0628\u0639 \u0645\u0631\u0627\u062A. \u0648\u0628\u0641\u0648\u0632\u0647 \u0627\u0644\u0623\u062E\u064A\u0631 \u0641\u064A \u0625\u0646\u062F\u064A \u0643\u0627\u0631 \u0641\u064A \u0623\u0628\u0631\u064A\u0644 1993\u060C \u0623\u0635\u0628\u062D \u0623\u0646\u062F\u0631\u064A\u062A\u064A \u0623\u0648\u0644 \u0633\u0627\u0626\u0642 \u064A\u0641\u0648\u0632 \u0628\u0633\u0628\u0627\u0642\u0627\u062A \u0625\u0646\u062F\u064A \u0641\u064A \u0623\u0631\u0628\u0639\u0629 \u0639\u0642\u0648\u062F \u0645\u062E\u062A\u0644\u0641\u0629 \u0648\u0623\u0648\u0644 \u0645\u0646 \u064A\u0641\u0648\u0632 \u0628\u0633\u0628\u0627\u0642\u0627\u062A \u0633\u064A\u0627\u0631\u0627\u062A \u0645\u0646 \u0623\u064A \u0646\u0648\u0639 \u0641\u064A \u062E\u0645\u0633\u0629 \u0639\u0642\u0648\u062F. \u0648\u0641\u064A \u0627\u0644\u062B\u0642\u0627\u0641\u0629 \u0627\u0644\u0634\u0639\u0628\u064A\u0629 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629\u060C \u0623\u0635\u0628\u062D \u0627\u0633\u0645\u0647 \u0645\u0631\u0627\u062F\u0641\u064B\u0627 \u0644\u0644\u0633\u0631\u0639\u0629\u060C \u0645\u062B\u0644 \u0627\u0633\u0645 \u0628\u0627\u0631\u0646\u064A \u0623\u0648\u0644\u062F\u0641\u064A\u0644\u062F (Barney Oldfield) \u0641\u064A \u0623\u0648\u0627\u0626\u0644 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064A\u0646\u060C \u0648\u0633\u062A\u064A\u0631\u0644\u0646\u062C \u0645\u0648\u0633 (Stirling Moss) \u0641\u064A \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629."@ar ,
+		"Mario Gabriele Andretti (Montona, 28 februari 1940) is een voormalige Amerikaanse autocoureur. Hij werd in 1978 wereldkampioen Formule 1 in een Lotus. Andretti wordt beschouwd als een van de meest succesvolle Amerikaanse autocoureurs. Hij is met Dan Gurney \u00E9\u00E9n van de twee rijders die races kon winnen in zowel de Formule 1, de Champ Car, de NASCAR en het World Sportscar kampioenschap. Verder won hij races in de Midget car- en Sprintcar-raceklassen. Hij won de Daytona 500 in 1967 en de Indianapolis 500 in 1969. Hij won tijdens zijn loopbaan in de Formule 1 twaalf races. Zijn laatste overwinning behaalde hij tijdens de Grand Prix van Nederland in 1978 en hij is tot op heden (peildatum jan. 2013) de laatste Amerikaan die een Grand Prix in de Formule 1 kon winnen. Naast zijn Formule 1-titel uit 1978 won hij vier titels in de Amerikaanse Champ Car, drie georganiseerd door de United States Automobile Club in 1965, 1966 en 1969 en de vierde en laatste titel uit 1984, die georganiseerd werd door de CART. In 2000 werd hij als erelid opgenomen in de International Motorsports Hall of Fame."@nl ,
+		"Mario Andretti, n\u00E9 le 28 f\u00E9vrier 1940 \u00E0 Montona dans la province d'Istrie en Italie est un pilote automobile italo-am\u00E9ricain. Au cours d'une carri\u00E8re s'\u00E9talant sur pr\u00E8s de cinq d\u00E9cennies, il se distingue dans l'histoire du sport automobile en remportant le championnat du monde de Formule 1 en 1978, les 500 miles d'Indianapolis en 1969, les 500 miles de Daytona en 1967 et quatre championnats de monoplace nord-am\u00E9ricaine (trois en USAC en 1965, 1966 et 1969 et un en CART en 1984). Il a \u00E9galement remport\u00E9 plusieurs courses de midget-cars, de sprint-cars et de dragster. Mario Andretti est, avec son compatriote Dan Gurney, le seul pilote victorieux \u00E0 la fois en Formule 1, en IndyCar, en Championnat du monde des voitures de sport et en NASCAR. Avec le Colombien Juan Pablo Montoya, il est \u00E9galement le seul pilote victorieux en NASCAR, Grand National (devenu Sprint Cup Series), en Formule 1 et aux 500 miles d'Indianapolis. Il fait enfin partie des trois pilotes \u00E0 avoir remport\u00E9 au cours d'une m\u00EAme saison la victoire dans une course sur route, dans une course sur circuit ovale et dans une course sur terre. Son ultime victoire en IndyCar, au Valvoline 200 de Phoenix le 4 avril 1993, fait de lui le premier pilote \u00E0 remporter une course dans quatre d\u00E9cennies diff\u00E9rentes. Mario Andretti est le seul pilote nomm\u00E9 Pilote am\u00E9ricain de l'ann\u00E9e dans trois d\u00E9cennies diff\u00E9rentes (1967, 1978 et 1984). Sa victoire au Grand-Prix des Pays-Bas 1978 est la derni\u00E8re d'un pilote am\u00E9ricain en Formule 1. Andretti, qui a sign\u00E9 109 victoires au cours de sa carri\u00E8re, est consid\u00E9r\u00E9 comme un des plus grands pilotes am\u00E9ricains de l'histoire. Dans la culture populaire am\u00E9ricaine, son nom est synonyme de vitesse, comme Barney Oldfield aux USA dans la premi\u00E8re moiti\u00E9 du XXe si\u00E8cle ou comme Stirling Moss en Grande-Bretagne."@fr ,
+		"Mario Gabriele Andretti (ur. 28 lutego 1940 w Montona d\u2019Istria) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. W ci\u0105gu swej kariery Andretti wygrywa\u0142 i zdobywa\u0142 tytu\u0142y w Champ Car, Formule 1 oraz International Race of Champions. Pozostaje jedynym kierowc\u0105, kt\u00F3ry zwyci\u0119\u017Cy\u0142 w Indianapolis 500, Daytona 500 i Formule 1. W Stanach Zjednoczonych Mario Andretti sta\u0142 si\u0119 synonimem szybko\u015Bci, podobnie jak Stirling Moss w Wielkiej Brytanii czy Barney Oldfield na pocz\u0105tku XX w. w Stanach Zjednoczonych."@pl ,
+		"\u041C\u0430\u0440\u0438\u043E \u0410\u043D\u0434\u0440\u0435\u0442\u0442\u0438 (\u0430\u043D\u0433\u043B. Mario Gabriele Andretti, 28 \u0444\u0435\u0432\u0440\u0430\u043B\u044F, 1940, \u041C\u043E\u043D\u0442\u043E\u043D\u0430, \u0418\u0442\u0430\u043B\u0438\u044F, \u0441\u0435\u0439\u0447\u0430\u0441 \u041C\u043E\u0442\u043E\u0432\u0443\u043D, \u0425\u043E\u0440\u0432\u0430\u0442\u0438\u044F) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0418\u043C\u044F \u041C\u0430\u0440\u0438\u043E \u0410\u043D\u0434\u0440\u0435\u0442\u0442\u0438 \u0432 \u0421\u0428\u0410 \u0432\u043E\u0441\u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0435\u0442\u0441\u044F \u043A\u0430\u043A \u0441\u0438\u043D\u043E\u043D\u0438\u043C \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u0438, \u0430\u043D\u0430\u043B\u043E\u0433\u0438\u0447\u043D\u043E \u0438\u043C\u0435\u043D\u0438 \u0411\u0430\u0440\u043D\u0438 \u041E\u043B\u0434\u0444\u0438\u043B\u0434\u0430 \u0432 \u043D\u0430\u0447\u0430\u043B\u0435 \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u043E\u0433\u043E \u0432\u0435\u043A\u0430 \u0438 \u0421\u0442\u0438\u0440\u043B\u0438\u043D\u0433\u0430 \u041C\u043E\u0441\u0441\u0430 \u0432 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438. \u0414\u043E \u0441\u0435\u0433\u043E\u0434\u043D\u044F\u0448\u043D\u0435\u0433\u043E \u0434\u043D\u044F \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u043F\u0438\u043B\u043E\u0442, \u043E\u0434\u0435\u0440\u0436\u0430\u0432\u0448\u0438\u0439 \u043F\u043E\u0431\u0435\u0434\u0443 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB (1978), \u00AB\u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441-500\u00BB (1969) \u0438 \u00AB\u0414\u0430\u0439\u0442\u043E\u043D\u0435-500\u00BB."@ru ,
+		"Mario Gabriele Andretti (* 28. Februar 1940 in Montona, Italien, heute Motovun, Kroatien) ist ein ehemaliger US-amerikanischer Automobilrennfahrer. Er startete sowohl in der europ\u00E4isch gepr\u00E4gten Formel-1-Weltmeisterschaft, die er 1978 f\u00FCr sich entschied, als auch in der US-amerikanischen Indy-Car-Serie, wo er 1984 den Titel gewann. 1969 siegte er zudem beim 500-Meilen-Rennen von Indianapolis. Andretti ist der Vater von Michael Andretti und Jeff Andretti sowie der Gro\u00DFvater von Marco Andretti, die ebenfalls Rennfahrer sind bzw. waren."@de ,
+		"Mario Gabriel Andretti (nacido el 28 de febrero de 1940 en Motovun, antigua ciudad de Italia) es un ex-piloto de automovilismo italo-estadounidense. Durante su carrera, se destac\u00F3 tanto en monoplazas como en stock cars y sport prototipos. Gan\u00F3 cuatro veces el Campeonato Nacional del USAC, y el campeonato mundial de F\u00F3rmula Uno del a\u00F1o 1978. Andretti es la primera y \u00FAnica persona en ganar las 500 Millas de Indian\u00E1polis, las 500 Millas de Daytona y la F\u00F3rmula 1. Adem\u00E1s, gan\u00F3 una edici\u00F3n de las 24 Horas de Daytona y tres de las 12 Horas de Sebring, adem\u00E1s del International Race of Champions."@es ,
+		"\u9A6C\u91CC\u5965\u00B7\u5B89\u5FB7\u70C8\u8482\uFF08\u610F\u5927\u5229\u8BED\uFF1A{Mario Andretti, 1940\u5E742\u670828\u65E5\uFF0D) \u51FA\u751F\u4E8E\u514B\u7F57\u5730\u4E9A\u83AB\u6258\u6587\uFF0C\u610F\u5927\u5229-\u7F8E\u56FD\u8D5B\u8F66\u624B\uFF0C\u662F\u6709\u53F2\u4EE5\u6765\u6700\u6210\u529F\u7684\u8D5B\u8F66\u624B\u4E4B\u4E00\u3002"@zh ,
+		"Mario Gabriele Andretti (born February 28, 1940) is an Italian American former racing driver, one of the most successful Americans in the history of the sport. He is one of only two drivers to win races in Formula One, IndyCar, World Sportscar Championship and NASCAR (the other being Dan Gurney). He also won races in midget cars, and sprint cars.During his career, Andretti won the 1978 Formula One World Championship, four IndyCar titles (three under USAC-sanctioning, one under CART), and IROC VI. To date, he remains the only driver ever to win the Indianapolis 500 (1969), Daytona 500 (1967) and the Formula One World Championship, and, along with Juan Pablo Montoya, the only driver to have won a race in the NASCAR Sprint Cup Series, Formula One, and an Indianapolis 500. No American has won a Formula One race since Andretti's victory at the 1978 Dutch Grand Prix. Andretti had 109 career wins on major circuits. Andretti had a long career in racing. He was the only person to be named United States Driver of the Year in three decades (1967, 1978, and 1984). He was also one of only three drivers to win races on road courses, paved ovals, and dirt tracks in one season, a feat that he accomplished four times. With his final IndyCar win in April 1993, Andretti became the first driver to win IndyCar races in four different decades and the first to win automobile races of any kind in five. In American popular culture, his name has become synonymous with speed, similar to Barney Oldfield in the early twentieth century and Stirling Moss in the United Kingdom."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Mario_Andretti_speaking_at_the_Barber_Legends_of_Motorsport_2010_crop.jpg?width=300> ;
+	dbo:birthDate	"1940-2-28"^^xsd:date ;
+	dbo:wikiPageRevisionID	744240351 ;
+	dbo:birthPlace	dbr:Motovun ;
+	dbo:wikiPageID	271425 .
+@prefix ns30:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Mario_Andretti	dbp:wordnet_type	ns30:synset-racer-noun-1 ;
+	dbp:awards	"Named the \"Driver of the Century\" by the Associated Press and RACER magazine"^^xsd:string ,
+		19781979 ,
+		19726 ,
+		19671970197212 ,
+		2000 ,
+		1992 ,
+		1996 ,
+		1978 ,
+		1969 ,
+		1974 ,
+		1965196619691984 ,
+		1967 ,
+		"Motorsports Hall of Fame of America]] inductee"^^xsd:string ;
+	dbo:championships	"1"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"10"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1968_United_States_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1982_Caesars_Palace_Grand_Prix> ;
+	dbo:podiums	"19"^^xsd:nonNegativeInteger ;
+	dbo:poles	"18"^^xsd:nonNegativeInteger ;
+	dbo:races	"131"^^xsd:nonNegativeInteger ;
+	dbo:wins	"12"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Alfa_Romeo_(Formula_One)> ,
+		dbr:Team_Lotus ,
+		dbr:Parnelli ,
+		dbr:WilliamsF1 ,
+		dbr:Scuderia_Ferrari ,
+		dbr:March_Engineering ;
+	dbp:nationality	"American"^^xsd:string .
+<http://dbpedia.org/resource/1979_Race_of_Champions>	dbo:thirdDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+@prefix ns31:	<http://dbpedia.org/resource/1991_CART_PPG_Indy_Car_World_Series__Newman/> .
+ns31:Haas_Racing__2	dbo:firstDriver	dbr:Mario_Andretti .
+@prefix ns32:	<http://dbpedia.org/resource/1987_CART_PPG_Indy_Car_World_Series__Newman/> .
+ns32:Haas_Racing__1	dbo:firstDriver	dbr:Mario_Andretti .
+@prefix ns33:	<http://dbpedia.org/resource/1988_CART_PPG_Indy_Car_World_Series__Newman/> .
+ns33:Haas_Racing__1	dbo:firstDriver	dbr:Mario_Andretti .
+@prefix ns34:	<http://dbpedia.org/resource/1989_CART_PPG_Indy_Car_World_Series__Newman/> .
+ns34:Haas_Racing__1	dbo:firstDriver	dbr:Mario_Andretti .
+@prefix ns35:	<http://dbpedia.org/resource/1990_CART_PPG_Indy_Car_World_Series__Newman/> .
+ns35:Haas_Racing__2	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1966_Indianapolis_500>	dbp:fastTime	dbr:Mario_Andretti ;
+	dbp:pole	dbr:Mario_Andretti .
+dbr:Marco_Andretti	dbp:relatedTo	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__38__1>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__24__1>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1969_Can-Am_season__11=__2>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_Formula_One_season>	dbp:champions	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1971_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti ;
+	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti .
+dbr:The_Racing_Scene	dbo:starring	dbr:Mario_Andretti .
+dbr:Johnny_White	dbp:after	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__3__1>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__1__1>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__DNF__2>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1970_Watkins_Glen_6_Hours__3__1>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1970_Can-Am_season__23__1>	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1971_Can-Am_season__19=__2>	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Bobby_Unser	dbp:after	dbr:Mario_Andretti .
+dbr:Alfa_Romeo_179	dbp:drivers	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_United_States_Grand_Prix>	dbo:secondDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_United_States_Grand_Prix>	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1968_United_States_Grand_Prix>	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1967_Indianapolis_500>	dbp:fastTime	dbr:Mario_Andretti ;
+	dbp:pole	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1968_Indianapolis_500>	dbp:nextWinner	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1969_Indianapolis_500>	dbp:thisWinner	dbr:Mario_Andretti ;
+	dbp:leader	dbr:Mario_Andretti ;
+	dbp:winner	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1970_Indianapolis_500>	dbp:previousWinner	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1985_Indianapolis_500>	dbp:leader	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_Argentine_Grand_Prix>	dbo:firstDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1970_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1975_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1977_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1978_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Mario_Andretti ;
+	dbo:firstDriver	dbr:Mario_Andretti ;
+	dbo:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1979_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1976_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/Mario_G._Andretti>	dbo:wikiPageRedirects	dbr:Mario_Andretti .
+dbr:Mario_Gabriel_Andretti	dbo:wikiPageRedirects	dbr:Mario_Andretti .
+dbr:Mario_Gabriele_Andretti	dbo:wikiPageRedirects	dbr:Mario_Andretti .
+dbr:Andretti	dbo:wikiPageDisambiguates	dbr:Mario_Andretti .
+@prefix ns36:	<http://dbpedia.org/resource/1979_SCCA/> .
+ns36:CART_Indy_Car_Series__Team_Penske__4	dbo:firstDriver	dbr:Mario_Andretti .
+@prefix ns37:	<http://dbpedia.org/resource/1984_CART_PPG_Indy_Car_World_Series__Newman/> .
+ns37:Haas_Racing__1	dbo:firstDriver	dbr:Mario_Andretti .
+@prefix ns38:	<http://dbpedia.org/resource/1994_PPG_Indy_Car_World_Series__Newman/> .
+ns38:Haas_Racing__2	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1981_CART_PPG_Indy_Car_World_Series__Patrick_Racing__2>	dbo:firstDriver	dbr:Mario_Andretti .
+@prefix ns39:	<http://dbpedia.org/resource/1985_CART_PPG_Indy_Car_World_Series__Newman/> .
+ns39:Haas_Racing__1	dbo:firstDriver	dbr:Mario_Andretti .
+@prefix ns40:	<http://dbpedia.org/resource/1986_CART_PPG_Indy_Car_World_Series__Newman/> .
+ns40:Haas_Racing__1	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__DNF__1>	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Meadowlands_Grand_Prix__1984__1	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_150__1968__2	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_150__1973__2	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_150__1978__2	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1980_CART_PPG_Indy_Car_World_Series__Team_Penske__3>	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_Speedway__1968__2	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_Speedway__1973__2	dbo:firstDriver	dbr:Mario_Andretti .
+dbr:Trenton_Speedway__1978__2	dbo:firstDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1987_Indianapolis_500>	dbp:fastTime	dbr:Mario_Andretti ;
+	dbp:leader	dbr:Mario_Andretti ;
+	dbp:pole	dbr:Mario_Andretti .
+dbr:Hoosier_Grand_Prix	dbp:mostWinsDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1966_langhorne_100>	dbp:firstDriver	dbr:Mario_Andretti ;
+	dbp:poleDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1967_Daytona_500>	dbp:mostDriver	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/1965_Indianapolis_500>	dbp:rookie	dbr:Mario_Andretti .
+<http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Johnny_Carson_episodes_(1968)>	dbp:guests	dbr:Mario_Andretti .
+dbr:Ferrari_312_PB	dbp:drivers	dbr:Mario_Andretti .
+dbr:Kohler_Grand_Prix	dbp:mostWinsDriver	dbr:Mario_Andretti .

@@ -1,0 +1,235 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Rosberg	dbo:wikiPageDisambiguates	dbr:Keke_Rosberg .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Nelson_Piquet	dbp:before	dbr:Keke_Rosberg ;
+	dbp:after	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1978_BRDC_International_Trophy>	dbo:firstDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1985_British_Grand_Prix>	dbo:poleDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1982_British_Grand_Prix>	dbo:poleDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1982_United_States_Grand_Prix_West>	dbo:secondDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1983_Detroit_Grand_Prix>	dbo:secondDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1982_German_Grand_Prix>	dbo:thirdDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1984_Dallas_Grand_Prix>	dbo:firstDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1985_French_Grand_Prix>	dbo:fastestDriver	dbr:Keke_Rosberg ;
+	dbo:secondDriver	dbr:Keke_Rosberg ;
+	dbo:poleDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1984_Australian_Grand_Prix>	dbo:secondDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1982_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Keke_Rosberg .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Keke_Rosberg	foaf:primaryTopic	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1983_Race_of_Champions>	dbo:firstDriver	dbr:Keke_Rosberg ;
+	dbo:poleDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1982_Swiss_Grand_Prix>	dbo:firstDriver	dbr:Keke_Rosberg .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Keke_Rosberg	rdf:type	yago:WikicatTheodoreFormulaOneDrivers .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Keke_Rosberg	rdf:type	ns7:Agent ,
+		yago:WikicatFinnishFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Keke_Rosberg	rdf:type	wikidata:Q5 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatFittipaldiFormulaOneDrivers ,
+		ns7:NaturalPerson ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatATSWheelsFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		dbo:RacingDriver ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		dbo:Athlete ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatAtlanticChampionshipDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatWolfFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Keke_Rosberg	rdf:type	owl:Thing ,
+		dbo:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Keke_Rosberg	rdf:type	umbel-rc:Athlete ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		dbo:Agent ,
+		foaf:Person ,
+		yago:PhysicalEntity100001930 ,
+		umbel-rc:RaceCarDriver ,
+		yago:Operator110378412 .
+@prefix schema:	<http://schema.org/> .
+dbr:Keke_Rosberg	rdf:type	schema:Person ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Keke_Rosberg	rdfs:label	"Keke Rosberg"@fr ,
+		"\u0643\u064A\u0643\u064A \u0631\u0648\u0632\u0628\u0631\u063A"@ar ,
+		"\u51EF\u57FA\u00B7\u827E\u745E\u514B\u00B7\u67EF\u514B\u00B7\u7F57\u65AF\u535A\u683C"@zh ,
+		"Keke Rosberg"@it ,
+		"Keke Rosberg"@pt ,
+		"\u0420\u043E\u0441\u0431\u0435\u0440\u0433, \u041A\u0435\u043A\u0435"@ru ,
+		"Keke Rosberg"@es ,
+		"\u30B1\u30B1\u30FB\u30ED\u30BA\u30D9\u30EB\u30B0"@ja ,
+		"Keke Rosberg"@en ,
+		"Keke Rosberg"@nl ,
+		"Keke Rosberg"@de ,
+		"Keke Rosberg"@pl ;
+	rdfs:comment	"Keijo Erik Rosberg (; born 6 December 1948), known as \"Keke\", is a Finnish former racing driver and winner of the 1982 Formula One World Championship. He was the first Finnish driver to compete regularly in the series. Rosberg grew up in Oulu and Iisalmi, Finland. He is the father of current Mercedes Formula One driver Nico Rosberg."@en ,
+		"Durante la sua carriera in massima serie ha corso per anni in scuderie di bassa classifica, prima di cogliere i suoi risultati pi\u00F9 importanti in Williams, squadra in cui gareggi\u00F2 per quattro stagioni e con cui ottenne cinque successi. Ha preso parte anche ai campionati di Can-Am, DTM e Sport Prototipo, cogliendo diverse vittorie. \u00C8 padre di Nico Rosberg, anch'egli pilota di Formula 1."@it ,
+		"\u0643\u064A\u0643\u064A \u0631\u0648\u0632\u0628\u0631\u063A \u0645\u0648\u0627\u0644\u064A\u062F 6 \u062F\u064A\u0633\u0645\u0628\u0631 1948 \u0641\u064A \u0628\u0644\u062F\u064A\u0629 \u0633\u0648\u0644\u0646\u0627\u060C \u0627\u0644\u0633\u0648\u064A\u062F\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0646\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1978. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1978\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0633\u0648\u064A\u0633\u0631\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1982. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 128 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 5 \u0645\u0646\u0647\u0627."@ar ,
+		"Keijo Erik \"Keke\" Rosberg (n. 6 de diciembre de 1948) es un popular expiloto de F\u00F3rmula 1 que compiti\u00F3 a principios de los a\u00F1os 1980 y logr\u00F3 el campeonato del mundo de 1982. A pesar de haber nacido en Estocolmo (Suecia) fue el segundo piloto finland\u00E9s en correr en la F\u00F3rmula 1. Eso y su velocidad le valieron el apodo de \u00ABfinland\u00E9s volador\u00BB."@es ,
+		"\u30B1\u30A4\u30E8\u30FB\u30A8\u30EA\u30AF\u30FB\"\u30B1\u30B1\"\u30FB\u30ED\u30BA\u30D9\u30EB\u30B0\uFF08Keijo Erik \"Keke\" Rosberg, 1948\u5E7412\u67086\u65E5 - \uFF09\u306F\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u56FD\u7C4D\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u30011982\u5E74\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u30FB\u30B9\u30C8\u30C3\u30AF\u30DB\u30EB\u30E0\u306E\u30BD\u30EB\u30CA\u3067\u751F\u307E\u308C\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u30FB\u30AA\u30A6\u30EB\u3067\u80B2\u3063\u305F\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u7CFB\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u4EBA\u3067\u3042\u308B\u3002 \u7570\u540D\u306F\u3001F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u306F\u521D\u4EE3\u3068\u306A\u308B\u300C\u30D5\u30E9\u30A4\u30F3\u30B0\u30FB\u30D5\u30A3\u30F3\u300D\u3002\u540D\u524D\u3092\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u8A9E\u306E\u767A\u97F3\u306B\u8FD1\u3044\u5F62\u3067\u65E5\u672C\u8A9E\u8868\u8A18\u3059\u308B\u3068\u30B1\u30B1\u30FB\u30EB\u30FC\u30B9\u30D9\u30A1\u30EB\u30A3[\u02C8k\u025Bk\u025B \u02C8ru\u02D0sb\u00E6rj]\u3068\u306A\u308A\u3001\u65E5\u672C\u8A9E\u306E\u30E1\u30C7\u30A3\u30A2\u3067\u306F\u30ED\u30BA\u30D9\u30EA\u3068\u3059\u308B\u8868\u8A18\u3082\u591A\u304F\u898B\u3089\u308C\u305F\u3002"@ja ,
+		"Keijo Erik Rosberg dit Keke Rosberg est un ancien pilote automobile finlandais n\u00E9 le 6 d\u00E9cembre 1948 \u00E0 Solna, pr\u00E8s de Stockholm en Su\u00E8de. Ses parents sont Lars Erik Rosberg, v\u00E9t\u00E9rinaire, et Lea Aino Marjatta Lautala. Pr\u00E9sent en Formule 1 de 1978 \u00E0 1986, il a remport\u00E9 le championnat du monde en 1982. Il est le p\u00E8re de Nico Rosberg, qui dispute lui aussi, depuis 2006, le championnat du monde de Formule 1."@fr ,
+		"Keke Rosberg (Stockholm, 6 december 1948) is een voormalige Finse autocoureur. Hij werd wereldkampioen Formule 1 in 1982."@nl ,
+		"Keijo Erik Rosberg ou simplesmente conhecido como Keke Rosberg (Solna, Su\u00E9cia, 6 de dezembro de 1948) \u00E9 um ex-piloto de F\u00F3rmula 1 no princ\u00EDpio dos anos 1980 e, apesar de seu local de nascimento, foi primeiro piloto da Finl\u00E2ndia na categoria."@pt ,
+		"Keijo Erik \u201EKeke\u201D Rosberg (ur. 6 grudnia 1948 w Sztokholmie) \u2013 fi\u0144ski kierowca wy\u015Bcigowy, mistrz Formu\u0142y 1 z 1982 roku."@pl ,
+		"\u51EF\u57FA\u00B7\u827E\u745E\u514B\u00B7\u67EF\u514B\u00B7\u7F57\u65AF\u535A\u683C\uFF08Keijo Erik \"Keke\" Rosberg \uFF0C\uFF0C1948\u5E7412\u67086\u65E5\uFF0D\uFF09\u51FA\u751F\u4E8E\u745E\u5178\u65AF\u5FB7\u54E5\u5C14\u6469\u7701\u7D22\u5C14\u7EB3\u5E02\u3002\u4ED6\u662F1982\u5E74F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u3002\u4ED6\u4E5F\u662F\u7B2C\u4E00\u4F4D\u53C2\u52A0\u8BE5\u9879\u8D5B\u4E8B\u7684\u82AC\u5170\u4EBA\u3002\u7F57\u65AF\u4F2F\u683C\u5728\u82AC\u5170\u5965\u5362\u548C\u4F0A\u8428\u5C14\u7C73\u957F\u5927\u3002\u4ED6\u4E5F\u662F\u6885\u8CFD\u5FB7\u65AF\u8ECA\u968A\u73FE\u4EFB\u8ECA\u624B\u5C3C\u79D1\u00B7\u7F57\u65AF\u4F2F\u683C\u7684\u7236\u89AA\u3002"@zh ,
+		"\u041A\u0435\u0439\u043E \u042D\u0440\u0438\u043A \u00AB\u041A\u0435\u043A\u0435\u00BB \u0420\u043E\u0301\u0441\u0431\u0435\u0440\u0433 (\u0448\u0432\u0435\u0434. Keijo Erik \u00ABKeke\u00BB Rosberg; 6 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1948 \u0433\u043E\u0434\u0430, \u0421\u043E\u043B\u044C\u043D\u0430, \u043B\u0435\u043D \u0421\u0442\u043E\u043A\u0433\u043E\u043B\u044C\u043C, \u0428\u0432\u0435\u0446\u0438\u044F) \u2014 \u0444\u0438\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0448\u0432\u0435\u0434\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 1982 \u0433\u043E\u0434\u0430. \u041F\u0435\u0440\u0432\u044B\u0439 \u0440\u0435\u0433\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u0444\u0438\u043D\u0441\u043A\u0438\u0439 \u043F\u0438\u043B\u043E\u0442 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041C\u0435\u043D\u0435\u0434\u0436\u0435\u0440 \u0441\u0432\u043E\u0435\u0433\u043E \u0441\u044B\u043D\u0430 \u2014 \u041D\u0438\u043A\u043E \u0420\u043E\u0441\u0431\u0435\u0440\u0433\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0435\u0433\u043E \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044E. \u0421 1992 \u043F\u043E 1995 \u0433\u0433. \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0414\u0422\u041C \u0437\u0430 \u00AB\u041E\u043F\u0435\u043B\u044C\u00BB, \u043E\u0434\u0435\u0440\u0436\u0430\u0432 \u043E\u0434\u043D\u0443 \u043F\u043E\u0431\u0435\u0434\u0443. \u0422\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0435\u043C \u043A\u043E\u043C\u0430\u043D\u0434 \u0432 \u0414\u0422\u041C \u0438 \u04243."@ru ,
+		"Keijo Erik \u201EKeke\u201C Rosberg Zum Anh\u00F6ren bitte klicken! [\u02C8k\u025Bk\u025B \u02C8ru\u02D0sb\u00E6rj] (* 6. Dezember 1948 in Solna, Schweden) ist ein finnischer Unternehmer und TV-Kommentator sowie ehemaliger Automobilrennfahrer. Er startete zwischen 1978 und 1986 in der h\u00F6chsten Motorsportklasse Formel 1 und wurde dort 1982 Weltmeister. Rosbergs Sohn Nico (* 1985) ist ebenfalls Rennfahrer und startet seit 2006 in der Formel 1."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Keke_Rosberg	dbp:points	159.5 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-nl:Keke_Rosberg .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-cs:Keke_Rosberg .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-fr:Keke_Rosberg .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	yago-res:Keke_Rosberg ,
+		<http://ja.dbpedia.org/resource/\u30B1\u30B1\u30FB\u30ED\u30BA\u30D9\u30EB\u30B0> ,
+		<http://rdf.freebase.com/ns/m.01hhfz> ,
+		<http://viaf.org/viaf/93179174> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-pt:Keke_Rosberg .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-id:Keke_Rosberg .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-pl:Keke_Rosberg ,
+		wikidata:Q171381 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-wikidata:Q171381 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-it:Keke_Rosberg .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-es:Keke_Rosberg .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Keke_Rosberg	owl:sameAs	dbpedia-de:Keke_Rosberg ,
+		dbr:Keke_Rosberg .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Keke_Rosberg	dct:subject	dbc:Finnish_racing_drivers ,
+		dbc:Fittipaldi_Formula_One_drivers ,
+		dbc:Finnish_Formula_One_drivers ,
+		dbc:People_from_Solna_Municipality ,
+		dbc:Finnish_expatriates_in_Sweden ,
+		dbc:ATS_Wheels_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1948_births> ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:McLaren_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_One_World_Drivers\u0027_Champions> ,
+		dbc:SCCA_Formula_Super_Vee_drivers ,
+		dbc:Living_people ,
+		dbc:Wolf_Formula_One_drivers ,
+		dbc:Motorsport_team_owners ,
+		dbc:Atlantic_Championship_drivers ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Theodore_Formula_One_drivers ;
+	foaf:name	"Keke Rosberg"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Anefo_932-2378_Keke_Rosberg,_Zandvoort,_03-07-1982.jpg> ;
+	dct:description	"Finnish racecar driver, team owner and driver manager"@en ;
+	foaf:givenName	"Keijo"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Keke_Rosberg ;
+	dbp:title	"International Racing Driver Award"^^xsd:string ,
+		dbr:Autosport ,
+		dbr:BRDC_International_Trophy ,
+		<http://dbpedia.org/resource/Race_of_Champions_(Brands_Hatch)> ,
+		<http://dbpedia.org/resource/List_of_Formula_One_World_Drivers\u0027_Champions> ,
+		"Awards"^^xsd:string ;
+	dbp:years	1982 ,
+		1983 ,
+		1978 ,
+		"\u2013"^^xsd:string ;
+	dbo:nationality	dbr:Finland .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Keke_Rosberg	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Keke_Rosberg?oldid=741147326> ;
+	dbp:before	dbr:Gilles_Villeneuve ,
+		"first winner"^^xsd:string ,
+		dbr:James_Hunt ,
+		dbr:Nelson_Piquet ;
+	dbp:after	"Final"^^xsd:string ,
+		dbr:Nelson_Piquet ;
+	dbp:birthPlace	"Solna, Sweden"^^xsd:string ;
+	dbp:birthName	"Keijo Erik Rosberg"^^xsd:string ;
+	dbp:bg	"gold"^^xsd:string ;
+	dbp:fg	"navy"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1982_Swiss_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1985_Australian_Grand_Prix> ;
+	dbp:birthDate	"1948-12-06"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.kekerosberg.com/> ;
+	dbp:caption	"Rosberg at the 1982 Dutch Grand Prix"^^xsd:string ;
+	dbo:abstract	"\u51EF\u57FA\u00B7\u827E\u745E\u514B\u00B7\u67EF\u514B\u00B7\u7F57\u65AF\u535A\u683C\uFF08Keijo Erik \"Keke\" Rosberg \uFF0C\uFF0C1948\u5E7412\u67086\u65E5\uFF0D\uFF09\u51FA\u751F\u4E8E\u745E\u5178\u65AF\u5FB7\u54E5\u5C14\u6469\u7701\u7D22\u5C14\u7EB3\u5E02\u3002\u4ED6\u662F1982\u5E74F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u3002\u4ED6\u4E5F\u662F\u7B2C\u4E00\u4F4D\u53C2\u52A0\u8BE5\u9879\u8D5B\u4E8B\u7684\u82AC\u5170\u4EBA\u3002\u7F57\u65AF\u4F2F\u683C\u5728\u82AC\u5170\u5965\u5362\u548C\u4F0A\u8428\u5C14\u7C73\u957F\u5927\u3002\u4ED6\u4E5F\u662F\u6885\u8CFD\u5FB7\u65AF\u8ECA\u968A\u73FE\u4EFB\u8ECA\u624B\u5C3C\u79D1\u00B7\u7F57\u65AF\u4F2F\u683C\u7684\u7236\u89AA\u3002"@zh ,
+		"Keijo Erik Rosberg ou simplesmente conhecido como Keke Rosberg (Solna, Su\u00E9cia, 6 de dezembro de 1948) \u00E9 um ex-piloto de F\u00F3rmula 1 no princ\u00EDpio dos anos 1980 e, apesar de seu local de nascimento, foi primeiro piloto da Finl\u00E2ndia na categoria."@pt ,
+		"Keijo Erik Rosberg dit Keke Rosberg est un ancien pilote automobile finlandais n\u00E9 le 6 d\u00E9cembre 1948 \u00E0 Solna, pr\u00E8s de Stockholm en Su\u00E8de. Ses parents sont Lars Erik Rosberg, v\u00E9t\u00E9rinaire, et Lea Aino Marjatta Lautala. Pr\u00E9sent en Formule 1 de 1978 \u00E0 1986, il a remport\u00E9 le championnat du monde en 1982. Il est le p\u00E8re de Nico Rosberg, qui dispute lui aussi, depuis 2006, le championnat du monde de Formule 1."@fr ,
+		"Keijo Erik \"Keke\" Rosberg (n. 6 de diciembre de 1948) es un popular expiloto de F\u00F3rmula 1 que compiti\u00F3 a principios de los a\u00F1os 1980 y logr\u00F3 el campeonato del mundo de 1982. A pesar de haber nacido en Estocolmo (Suecia) fue el segundo piloto finland\u00E9s en correr en la F\u00F3rmula 1. Eso y su velocidad le valieron el apodo de \u00ABfinland\u00E9s volador\u00BB."@es ,
+		"Keijo Erik \u201EKeke\u201C Rosberg Zum Anh\u00F6ren bitte klicken! [\u02C8k\u025Bk\u025B \u02C8ru\u02D0sb\u00E6rj] (* 6. Dezember 1948 in Solna, Schweden) ist ein finnischer Unternehmer und TV-Kommentator sowie ehemaliger Automobilrennfahrer. Er startete zwischen 1978 und 1986 in der h\u00F6chsten Motorsportklasse Formel 1 und wurde dort 1982 Weltmeister. Rosbergs Sohn Nico (* 1985) ist ebenfalls Rennfahrer und startet seit 2006 in der Formel 1."@de ,
+		"\u30B1\u30A4\u30E8\u30FB\u30A8\u30EA\u30AF\u30FB\"\u30B1\u30B1\"\u30FB\u30ED\u30BA\u30D9\u30EB\u30B0\uFF08Keijo Erik \"Keke\" Rosberg, 1948\u5E7412\u67086\u65E5 - \uFF09\u306F\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u56FD\u7C4D\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u30011982\u5E74\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u30FB\u30B9\u30C8\u30C3\u30AF\u30DB\u30EB\u30E0\u306E\u30BD\u30EB\u30CA\u3067\u751F\u307E\u308C\u3001\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u30FB\u30AA\u30A6\u30EB\u3067\u80B2\u3063\u305F\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u7CFB\u30D5\u30A3\u30F3\u30E9\u30F3\u30C9\u4EBA\u3067\u3042\u308B\u3002 \u7570\u540D\u306F\u3001F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u306F\u521D\u4EE3\u3068\u306A\u308B\u300C\u30D5\u30E9\u30A4\u30F3\u30B0\u30FB\u30D5\u30A3\u30F3\u300D\u3002\u540D\u524D\u3092\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u8A9E\u306E\u767A\u97F3\u306B\u8FD1\u3044\u5F62\u3067\u65E5\u672C\u8A9E\u8868\u8A18\u3059\u308B\u3068\u30B1\u30B1\u30FB\u30EB\u30FC\u30B9\u30D9\u30A1\u30EB\u30A3[\u02C8k\u025Bk\u025B \u02C8ru\u02D0sb\u00E6rj]\u3068\u306A\u308A\u3001\u65E5\u672C\u8A9E\u306E\u30E1\u30C7\u30A3\u30A2\u3067\u306F\u30ED\u30BA\u30D9\u30EA\u3068\u3059\u308B\u8868\u8A18\u3082\u591A\u304F\u898B\u3089\u308C\u305F\u3002"@ja ,
+		"\u041A\u0435\u0439\u043E \u042D\u0440\u0438\u043A \u00AB\u041A\u0435\u043A\u0435\u00BB \u0420\u043E\u0301\u0441\u0431\u0435\u0440\u0433 (\u0448\u0432\u0435\u0434. Keijo Erik \u00ABKeke\u00BB Rosberg; 6 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1948 \u0433\u043E\u0434\u0430, \u0421\u043E\u043B\u044C\u043D\u0430, \u043B\u0435\u043D \u0421\u0442\u043E\u043A\u0433\u043E\u043B\u044C\u043C, \u0428\u0432\u0435\u0446\u0438\u044F) \u2014 \u0444\u0438\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0448\u0432\u0435\u0434\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 1982 \u0433\u043E\u0434\u0430. \u041F\u0435\u0440\u0432\u044B\u0439 \u0440\u0435\u0433\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u0444\u0438\u043D\u0441\u043A\u0438\u0439 \u043F\u0438\u043B\u043E\u0442 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u041C\u0435\u043D\u0435\u0434\u0436\u0435\u0440 \u0441\u0432\u043E\u0435\u0433\u043E \u0441\u044B\u043D\u0430 \u2014 \u041D\u0438\u043A\u043E \u0420\u043E\u0441\u0431\u0435\u0440\u0433\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0435\u0433\u043E \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044E. \u0421 1992 \u043F\u043E 1995 \u0433\u0433. \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0414\u0422\u041C \u0437\u0430 \u00AB\u041E\u043F\u0435\u043B\u044C\u00BB, \u043E\u0434\u0435\u0440\u0436\u0430\u0432 \u043E\u0434\u043D\u0443 \u043F\u043E\u0431\u0435\u0434\u0443. \u0422\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0435\u043C \u043A\u043E\u043C\u0430\u043D\u0434 \u0432 \u0414\u0422\u041C \u0438 \u04243."@ru ,
+		"\u0643\u064A\u0643\u064A \u0631\u0648\u0632\u0628\u0631\u063A \u0645\u0648\u0627\u0644\u064A\u062F 6 \u062F\u064A\u0633\u0645\u0628\u0631 1948 \u0641\u064A \u0628\u0644\u062F\u064A\u0629 \u0633\u0648\u0644\u0646\u0627\u060C \u0627\u0644\u0633\u0648\u064A\u062F\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0646\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1978. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1978\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0633\u0648\u064A\u0633\u0631\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1982. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 128 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 5 \u0645\u0646\u0647\u0627."@ar ,
+		"Keijo Erik Rosberg (; born 6 December 1948), known as \"Keke\", is a Finnish former racing driver and winner of the 1982 Formula One World Championship. He was the first Finnish driver to compete regularly in the series. Rosberg grew up in Oulu and Iisalmi, Finland. He is the father of current Mercedes Formula One driver Nico Rosberg."@en ,
+		"Keijo Erik \u201EKeke\u201D Rosberg (ur. 6 grudnia 1948 w Sztokholmie) \u2013 fi\u0144ski kierowca wy\u015Bcigowy, mistrz Formu\u0142y 1 z 1982 roku."@pl ,
+		"Durante la sua carriera in massima serie ha corso per anni in scuderie di bassa classifica, prima di cogliere i suoi risultati pi\u00F9 importanti in Williams, squadra in cui gareggi\u00F2 per quattro stagioni e con cui ottenne cinque successi. Ha preso parte anche ai campionati di Can-Am, DTM e Sport Prototipo, cogliendo diverse vittorie. Pilota di grande regolarit\u00E0 in pista, soprattutto grazie all'affidabilit\u00E0 delle vetture che si \u00E8 trovato a guidare, era dotato di una guida molto aggressiva e irrispettosa del mezzo meccanico; inoltre era considerato uno specialista dei circuiti cittadini e si esaltava in condizioni difficili, grazie anche alla sua sensibilit\u00E0 di guida nel controllo della monoposto. \u00C8 padre di Nico Rosberg, anch'egli pilota di Formula 1."@it ,
+		"Keke Rosberg (Stockholm, 6 december 1948) is een voormalige Finse autocoureur. Hij werd wereldkampioen Formule 1 in 1982."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Anefo_932-2378_Keke_Rosberg,_Zandvoort,_03-07-1982.jpg?width=300> ;
+	dbo:birthDate	"1948-12-6"^^xsd:date ;
+	dbo:wikiPageRevisionID	741147326 ;
+	dbo:birthPlace	dbr:Solna_Municipality ;
+	dbo:wikiPageID	230197 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Keke_Rosberg	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"1"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"3"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1978_South_African_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1986_Australian_Grand_Prix> ;
+	dbo:podiums	"17"^^xsd:nonNegativeInteger ;
+	dbo:poles	"5"^^xsd:nonNegativeInteger ;
+	dbo:races	"128"^^xsd:nonNegativeInteger ;
+	dbo:wins	"5"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Team_McLaren ,
+		dbr:Theodore_Racing ,
+		dbr:Walter_Wolf_Racing ,
+		<http://dbpedia.org/resource/ATS_(wheels)> ,
+		dbr:WilliamsF1 ,
+		dbr:Fittipaldi_Automotive .
+dbr:Spyder_NF-10	dbp:drivers	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1985_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Keke_Rosberg ;
+	dbo:firstDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1977_New_Zealand_Grand_Prix>	dbo:firstDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1978_New_Zealand_Grand_Prix>	dbo:firstDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/Ken_Smith_(racing_driver)>	dbp:after	dbr:Keke_Rosberg .
+dbr:Williams_FW10__3	dbo:firstDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1985_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Keke_Rosberg ;
+	dbo:secondDriver	dbr:Keke_Rosberg .
+dbr:Roberto_Moreno	dbp:after	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1983_Brazilian_Grand_Prix>	dbo:poleDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1984_Brazilian_Grand_Prix>	dbo:secondDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1982_Formula_One_season>	dbp:champions	dbr:Keke_Rosberg .
+dbr:Keke	dbo:wikiPageDisambiguates	dbr:Keke_Rosberg .
+dbr:James_Hunt	dbp:after	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1980_Argentine_Grand_Prix>	dbo:thirdDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1983_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1985_European_Grand_Prix>	dbo:thirdDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1982_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Keke_Rosberg .
+dbr:Circuit_Paul_Ricard	dbp:recordDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1982_Austrian_Grand_Prix>	dbo:secondDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1985_Detroit_Grand_Prix>	dbo:firstDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1986_German_Grand_Prix>	dbo:poleDriver	dbr:Keke_Rosberg .
+<http://dbpedia.org/resource/1986_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Keke_Rosberg .
+dbr:Keijo_Rosberg	dbo:wikiPageRedirects	dbr:Keke_Rosberg .
+dbr:Keijo_Erik_Rosberg	dbo:wikiPageRedirects	dbr:Keke_Rosberg .
+dbr:Keke_Erik_Rosberg	dbo:wikiPageRedirects	dbr:Keke_Rosberg .
+dbr:Race_Hamilton__1__1	dbo:firstDriver	dbr:Keke_Rosberg .

@@ -1,0 +1,168 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Satoru_Nakajima	foaf:primaryTopic	dbr:Satoru_Nakajima .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1989_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Satoru_Nakajima .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Daisuke_Nakajima	dbp:relatedTo	dbr:Satoru_Nakajima .
+dbr:Seigi_no_Mikata__drama__1	dbo:director	dbr:Satoru_Nakajima .
+dbr:Masahiro_Hasemi	dbp:after	dbr:Satoru_Nakajima .
+dbr:Kazuyoshi_Hoshino	dbp:before	dbr:Satoru_Nakajima .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Satoru_Nakajima	rdf:type	dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Satoru_Nakajima	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Satoru_Nakajima	rdf:type	yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Satoru_Nakajima	rdf:type	schema:Person ,
+		yago:WikicatJapaneseFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatTeamLotusFormulaOneDrivers .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Satoru_Nakajima	rdf:type	ns9:NaturalPerson ,
+		yago:WikicatFormulaTwoDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatJapaneseFormulaTwoChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Satoru_Nakajima	rdf:type	wikidata:Q215627 ,
+		ns9:Agent ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q24229398 ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		wikidata:Q5 ,
+		dbo:Agent ,
+		foaf:Person ,
+		dbo:MotorsportRacer ,
+		yago:WikicatHondaFormulaOneDrivers ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q378622 ,
+		dbo:Person ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Satoru_Nakajima	rdfs:label	"Satoru Nakajima"@nl ,
+		"Satoru Nakajima"@pl ,
+		"Satoru Nakajima"@pt ,
+		"Satoru Nakajima"@it ,
+		"Satoru Nakajima"@fr ,
+		"\u0633\u0627\u062A\u0648\u0631\u0648 \u0646\u0627\u0643\u0627\u062C\u064A\u0645\u0627"@ar ,
+		"Satoru Nakajima"@es ,
+		"Satoru Nakajima"@en ,
+		"\u041D\u0430\u043A\u0430\u0434\u0437\u0438\u043C\u0430, \u0421\u0430\u0442\u043E\u0440\u0443"@ru ,
+		"\u4E2D\u5D8B\u609F"@ja ,
+		"Satoru Nakajima"@de ,
+		"\u4E2D\u5D8B\u609F"@zh ;
+	rdfs:comment	"Satoru Nakajima (jap. \u4E2D\u5D8B \u609F, Nakajima Satoru; * 23. Februar 1953 in Okazaki) ist ein ehemaliger japanischer Automobilrennfahrer, der von 1987 bis 1991 f\u00FCr die Teams Lotus und Tyrrell in der Formel 1 fuhr. Er war mit 34 Jahren einer der \u00E4ltesten Formel-1-Deb\u00FCtanten aller Zeiten und der erste japanische Formel-1-Fahrer, dem es gelang, WM-Punkte einzufahren."@de ,
+		"\u4E2D\u5D8B \u609F\uFF08\u306A\u304B\u3058\u307E \u3055\u3068\u308B\u30011953\u5E742\u670823\u65E5 - \uFF09\u306F\u3001\u611B\u77E5\u770C\u5CA1\u5D0E\u5E02\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u6709\u9650\u4F1A\u793E\u4E2D\u5D8B\u4F01\u753B\u4EE3\u8868\u53D6\u7DE0\u5F79\u793E\u9577\u3002\u8EAB\u9577165cm\u3001\u4F53\u91CD60kg\u3002\u8840\u6DB2\u578BB\u578B\u3002 \u65E5\u672C\u4EBA\u521D\u306EF1\u30D5\u30EB\u30BF\u30A4\u30E0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u682A\u5F0F\u4F1A\u793E\u65E5\u672C\u30EC\u30FC\u30B9\u30D7\u30ED\u30E2\u30FC\u30B7\u30E7\u30F3\uFF08JRP\uFF09\u306E\u53D6\u7DE0\u5F79\u4F1A\u9577\u3082\u52D9\u3081\u308B\u3002"@ja ,
+		"Satoru Nakajima (Okazaki, 23 de fevereiro de 1953) \u00E9 um ex-piloto japon\u00EAs de F\u00F3rmula 1. Foi o primeiro piloto de sua nacionalidade a fazer uma temporada completa na categoria. Gra\u00E7as ao pesado apoio da Honda, que o apoiou durante toda a carreira."@pt ,
+		"\u00C8 stato il primo pilota giapponese ad essere impegnato con continuit\u00E0 nel mondiale di Formula 1. Prima di lui, i piloti giapponesi prendevano parte solitamente alla gara di casa."@it ,
+		"\u4E2D\u5D8B\u609F\uFF081953\u5E742\u670823\u65E5\uFF0D \uFF09\u65E5\u672C\u524D\u8CFD\u8ECA\u624B\uFF0C\u662F\u7B2C\u4E00\u4F4D\u53C3\u8207\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u4E8B\u4E26\u53D6\u5F97\u7A4D\u5206\u7684\u65E5\u672C\u4EBA\u30021978\u5E74\uFF0C\u4E2D\u5D8B\u5DF2\u7D93\u7372\u5F97\u5168\u65E5\u672CF2\u9326\u6A19\u8CFD\u51A0\u8ECD\u76C3\uFF0C1981\u5E74\u53C8\u5728\u5168\u65E5\u672CF2\u9326\u6A19\u8CFD\u7372\u5F97\u4E94\u500B\u55AE\u7AD9\u51A0\u8ECD\uFF0C1987\u5E74\uFF0C\u4ED6\u5728\u672C\u7530\u8ECA\u968A\u7684\u5354\u52A9\u4E0B\uFF0C\u9996\u6B21\u53C3\u8207F1\u8CFD\u4E8B\uFF0C\u6210\u70BA\u53F2\u4E0A\u9996\u4F4D\u53C3\u8207F1\u8CFD\u4E8B\u7684\u65E5\u672C\u4EBA\uFF0C\u5728F1\u751F\u6DAF\u4E2D\uFF0C\u4E2D\u5D8B\u5408\u5171\u53D6\u5F9716\u5206\u3002\u671F\u5F8C\u4ED6\u6539\u4EFB\u8ECA\u968A\u7D93\u7406\u4EBA\uFF0C\u5E36\u5D8B\u8ECA\u968A\u3002\u5176\u5152\u5B50\u4E2D\u5D8B\u4E00\u8CB4\u4EA6\u662FF1\u6B63\u5F0F\u8ECA\u624B\uFF0C\u6B21\u5B50\u4E2D\u5D8B\u5927\u4F51\u5247\u662F\u570B\u5167F3\u8ECA\u624B\u3002"@zh ,
+		"Satoru Nakajima (\u4E2D\u5D8B \u609F, Nakajima Satoru) (Okazaki, 23 februari 1953) is een voormalig Japans autocoureur. Hij maakte zijn Formule 1-debuut in 1987 bij Lotus en nam deel aan 80 Grands Prix waarvan hij er 74 mocht starten. Hij scoorde 16 punten. Hij startte met racen toen hij zijn rijbewijs had gehaald. Hij debuteerde in 1973 in de Suzuka Circuit Series, welke hij won. Vijf jaar later won hij zijn eerste race in de Japanse Formule 2. In 1981 won hij het kampioenschap, waarna hij de raceklasse begon te domineren. Hij won de volgende zes jaar vijfmaal de series, allemaal met een Honda V6."@nl ,
+		"Satoru Nakajima (Okazaki, Jap\u00F3n, 23 de febrero de 1953) es un expiloto japon\u00E9s de F\u00F3rmula 1 que compiti\u00F3 en la categor\u00EDa m\u00E1xima del automovilismo desde 1987 hasta 1991. En la actualidad contin\u00FAa activo en competiciones automovil\u00EDsticas, pero como constructor. Est\u00E1 considerado como el primer gran piloto japon\u00E9s de F\u00F3rmula 1."@es ,
+		"Satoru Nakajima (\u4E2D\u5D8B \u609F, Nakajima Satoru) est un ancien pilote automobile japonais n\u00E9 le 23 f\u00E9vrier 1953 \u00E0 Okazaki au Japon. En 1987, il est devenu le premier pilote de son pays \u00E0 disputer l'int\u00E9gralit\u00E9 d'un championnat du monde de Formule 1. En 74 d\u00E9parts en GP de Formule 1, Nakajima a inscrit un total de 16 points et a sign\u00E9 1 meilleur tour en course (GP d'Australie 1989). Son meilleur classement en championnat du monde est une 11e place en 1987 avec 7 points."@fr ,
+		"Satoru Nakajima (jap. \u4E2D\u5D8B\u609F Nakajima Satoru, ur. 23 lutego 1953 roku w Okazaki) \u2013 by\u0142y japo\u0144ski kierowca wy\u015Bcigowy. Kierowca Formu\u0142y 1 w latach 1987-1991. Jego synowie Kazuki (w latach 2007\u20132009 r\u00F3wnie\u017C startowa\u0142 w Formule 1) i Daisuke (obecnie w Brytyjskiej Formule 3) r\u00F3wnie\u017C s\u0105 kierowcami wy\u015Bcigowymi. Obecnie prowadzi w\u0142asny zesp\u00F3\u0142 w serii wy\u015Bcigowej, w kt\u00F3rej osi\u0105ga\u0142 najwi\u0119ksze sukcesy \u2013 Formule Nippon."@pl ,
+		"\u0633\u0627\u062A\u0648\u0631\u0648 \u0646\u0627\u0643\u0627\u062C\u064A\u0645\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 23 \u0641\u0628\u0631\u0627\u064A\u0631 1953 \u0641\u064A \u0622\u064A\u062A\u0634\u064A\u060C \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u064A\u0627\u0628\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1987. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644 \u0627\u0644\u0643\u0628\u0631\u0649 1987. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 80 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"\u0421\u0430\u0442\u043E\u0301\u0440\u0443 \u041D\u0430\u043A\u0430\u0434\u0437\u0438\u0301\u043C\u0430 (\u044F\u043F. \u4E2D\u5D8B \u609F \u041D\u0430\u043A\u0430\u0434\u0437\u0438\u043C\u0430 \u0421\u0430\u0442\u043E\u0440\u0443) \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 (1985, 1986) \u0438 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB (1987\u20141991). \u0415\u0433\u043E \u0441\u044B\u043D \u041A\u0430\u0434\u0437\u0443\u043A\u0438 \u0442\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C, \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0432\u0448\u0438\u043C \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1."@ru ,
+		"Satoru Nakajima (\u4E2D\u5D8B \u609F Nakajima Satoru, born February 23, 1953) is a former racing driver from Japan. Nakajima, who was known as one of the nicest and most personable drivers in Formula One in a sport where large egos are normal, was affectionately known as \"Nakajap\" to members of the F1 paddock and those in the press."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Satoru_Nakajima	dbp:birthDate	"1953-02-23"^^xsd:date ;
+	owl:sameAs	wikidata:Q173221 ,
+		dbr:Satoru_Nakajima .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	dbpedia-nl:Satoru_Nakajima ,
+		<http://rdf.freebase.com/ns/m.04k2g3> ,
+		<http://ja.dbpedia.org/resource/\u4E2D\u5D8B\u609F> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	dbpedia-it:Satoru_Nakajima .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	dbpedia-pt:Satoru_Nakajima .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	dbpedia-wikidata:Q173221 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	dbpedia-id:Satoru_Nakajima .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	dbpedia-fr:Satoru_Nakajima .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	dbpedia-pl:Satoru_Nakajima .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	dbpedia-es:Satoru_Nakajima .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	dbpedia-de:Satoru_Nakajima .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Satoru_Nakajima	owl:sameAs	yago-res:Satoru_Nakajima ,
+		<http://cs.dbpedia.org/resource/Satoru_Nakad\u017Eima> ,
+		<http://viaf.org/viaf/259265845> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Satoru_Nakajima	dct:subject	dbc:International_Formula_3000_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Japanese_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Japanese_racing_drivers ,
+		dbc:Living_people ,
+		dbc:Japanese_Formula_Two_Championship_drivers ,
+		dbc:Sports_car_racing_team_owners ,
+		<http://dbpedia.org/resource/Category:People_from_Okazaki,_Aichi> ,
+		<http://dbpedia.org/resource/Category:1953_births> ;
+	foaf:name	"Satoru Nakajima"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Satoru_Nakajima_2008_Motorsport_Japan.jpg> ;
+	dct:description	"Japanese racing driver"@en ;
+	foaf:givenName	"Satoru"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Satoru_Nakajima ;
+	foaf:surname	"Nakajima"@en ;
+	dbp:points	16 ;
+	dbp:years	1981 ,
+		"-"^^xsd:string ,
+		1984 ;
+	dbp:after	dbr:Geoff_Lees ,
+		dbr:Kazuyoshi_Hoshino ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Team_Lotus ,
+		dbr:Tyrrell_Racing .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Satoru_Nakajima	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Satoru_Nakajima?oldid=740797109> ;
+	dbo:wikiPageExternalLink	<http://www.nakajimaracing.co.jp/> ;
+	dbp:caption	"In 2008, as the chairman of Formula Nippon"^^xsd:string ;
+	dbp:nationality	"Japanese"^^xsd:string ;
+	dbp:birthPlace	"Okazaki, Japan"^^xsd:string ;
+	dbp:before	dbr:Geoff_Lees ,
+		dbr:Masahiro_Hasemi ;
+	dbo:abstract	"Satoru Nakajima (\u4E2D\u5D8B \u609F, Nakajima Satoru) est un ancien pilote automobile japonais n\u00E9 le 23 f\u00E9vrier 1953 \u00E0 Okazaki au Japon. En 1987, il est devenu le premier pilote de son pays \u00E0 disputer l'int\u00E9gralit\u00E9 d'un championnat du monde de Formule 1. En 74 d\u00E9parts en GP de Formule 1, Nakajima a inscrit un total de 16 points et a sign\u00E9 1 meilleur tour en course (GP d'Australie 1989). Son meilleur classement en championnat du monde est une 11e place en 1987 avec 7 points."@fr ,
+		"Satoru Nakajima (Okazaki, Jap\u00F3n, 23 de febrero de 1953) es un expiloto japon\u00E9s de F\u00F3rmula 1 que compiti\u00F3 en la categor\u00EDa m\u00E1xima del automovilismo desde 1987 hasta 1991. En la actualidad contin\u00FAa activo en competiciones automovil\u00EDsticas, pero como constructor. Est\u00E1 considerado como el primer gran piloto japon\u00E9s de F\u00F3rmula 1. Satoru Nakajima particip\u00F3 en 74 Grandes Premios, debutando en el Gran Premio de Brasil el 12 de abril de 1987. Ten\u00EDa 34 a\u00F1os, lo que lo convierte en uno de los pilotos m\u00E1s veteranos en debutar en la F\u00F3rmula 1. A lo largo de su carrera, Satoru acumul\u00F3 en la m\u00E1xima categor\u00EDa un total de 16 puntos de campeonato. Algo que es poco reconocido, pero muy meritorio del japon\u00E9s, es que pudo llegar a la F1 siendo hijo de una familia humilde. Su padre era granjero y su madre, ama de casa. Aprendi\u00F3 a pilotar con un cortacesped, prob\u00F3 su primer Kart en la adolescencia y para ganar dinero, ten\u00EDa que ganar la mayor\u00EDa de las competiciones en las que se presentase. Adem\u00E1s, por aquellos tiempos, Jap\u00F3n estaba en fase de recuperaci\u00F3n tras la Segunda Guerra Mundial. Durante la 1987 Nakajima acept\u00F3 llevar durante toda la temporada una c\u00E1mara de a bordo, siendo el primer piloto de la historia en llevar una c\u00E1mara onboard durante toda la temporada. Esto, adem\u00E1s de ser revolucionario, populariz\u00F3 a la F1 en las televisiones y en la 1989, los equipos fuertes instalaban estas c\u00E1maras hasta evolucionar tal y como las conocemos. Las c\u00E1maras de a bordo que tuvo Satoru Nakajima en 1987 y 1988 pesaban 35 kilos, lo cual hac\u00EDa que el japon\u00E9s en los circuitos lentos tuviera que luchar por superar las precalificaciones. En 1990 se convirti\u00F3 en el primer piloto de la historia en pilotar un monoplaza de morro elevado. Lleg\u00F3 a gozar de gran popularidad en Brasil, Gran Breta\u00F1a y Jap\u00F3n. En su carrera, ha pasado a la historia como uno de los pilotos m\u00E1s regulares y constantes de la F\u00F3rmula 1. Despu\u00E9s de retirarse, fue recibido como un h\u00E9roe en Jap\u00F3n. Satoru Nakajima tambi\u00E9n ten\u00EDa nombre en varios videojuegos, siendo el m\u00E1s famoso, un video-juego nombrado F-1 Hero (en dos partes y con su nombre) una, de la Temporada 1988, y otra, de la Temporada 1991. Ambos juegos fueron lanzados por Varie Corporation (para NES y SEGA) en Jap\u00F3n. El primero se lanz\u00F3 el 12 de septiembre de 1988 y el segundo se lanz\u00F3 el 27 de septiembre de 1991. En 1994, cuando el m\u00EDtico piloto brasile\u00F1o Ayrton Senna muri\u00F3, hizo un juego en su honor, conocido como F-1 Hero 94\u00B4s, en que Senna era el mayor rival. El juego fue lanzado en 1994. Gracias al dinero que consigui\u00F3 con el contrato de la c\u00E1mara a bordo de 1987, en 1989 decide empezar a ahorrar para crear una escuder\u00EDa. Estuvo durante 7 a\u00F1os ahorrando para crear una escuder\u00EDa de F1, pero sabiendo Nakajima las exigencias, decidi\u00F3 fundar su escuder\u00EDa Nakajima Racing, para participar la F\u00F3rmula 3000 Japonesa (luego F\u00F3rmula Nippon), donde obtuvo cinco t\u00EDtulos y 27 victorias. En 2004, Nakajima cre\u00F3 la escuder\u00EDa Nakajima Planning para competir en Super GT. A d\u00EDa de hoy, la escuder\u00EDa goza de relativo \u00E9xito en la categor\u00EDa. Satoru Nakajima hizo much\u00EDsimo por el automovilismo japon\u00E9s, llev\u00F3 la F\u00F3rmula 1 a su pa\u00EDs, y en su \u00E9poca, fue un verdadero pionero, aun es considerado un h\u00E9roe nacional en Jap\u00F3n. En su estado civil est\u00E1 casado y tiene dos hijos, Kazuki Nakajima y Daisuke Nakajima, que tambi\u00E9n son pilotos profesionales."@es ,
+		"Satoru Nakajima (\u4E2D\u5D8B \u609F, Nakajima Satoru) (Okazaki, 23 februari 1953) is een voormalig Japans autocoureur. Hij maakte zijn Formule 1-debuut in 1987 bij Lotus en nam deel aan 80 Grands Prix waarvan hij er 74 mocht starten. Hij scoorde 16 punten. Hij startte met racen toen hij zijn rijbewijs had gehaald. Hij debuteerde in 1973 in de Suzuka Circuit Series, welke hij won. Vijf jaar later won hij zijn eerste race in de Japanse Formule 2. In 1981 won hij het kampioenschap, waarna hij de raceklasse begon te domineren. Hij won de volgende zes jaar vijfmaal de series, allemaal met een Honda V6. Hierna kon hij naar de Formule 1, waarin hij debuteerde op 34-jarige leeftijd. Dit maakt hem een van de oudste debutanten ooit. Hij reed in een Lotus, met Honda-motoren. Hij wist indruk te maken door in zijn tweede race onmiddellijk een zesde plaats te behalen. Honda verliet het team in 1988 waardoor ze met Judd-motoren gingen rijden. Het werd een erg wisselvallig seizoen, met als dieptepunt de Grand Prix van Belgi\u00EB waarin beide Lotus-rijders zich niet wisten te kwalificeren. Dit was voor het eerste in de dertigjarige geschiedenis van het team, het begin van het einde ervan. Er was ook nog een positief punt aan het seizoen: een vierde plaats en snelste ronde in de door regen geteisterde Grand Prix van Australi\u00EB. Hiermee evenaarde hij zijn beste finish uit de Grand Prix van Groot-Brittanni\u00EB in 1987. Satoru ging in 1990 naar Tyrrell en Honda stapte over naar het team in 1991. Het werden twee matige jaren voor de Japanner achteraan het veld. Honda verliet de Formule 1 om een volwaardige constructeur te worden, waarvan Nakajima ook rijder zou worden. De auto werd voorgesteld in februari 1993. Het doorstond de crashtests waardoor het team in de Formule 1 kon rijden. Het team verbeterde het chassis in 1993, waarna in januari 1994 de eerste offici\u00EBle tests op het programma stonden. Het team nam uiteindelijk toch niet deel in de Formule 1 en koos ervoor om in de CART en IRL motoren te leveren. Dit betekende het eind van de racecarri\u00E8re van Nakajima. Hij startte een team, Nakajima Racing, in de Formule Nippon. Tom Coronel (1999), Toranosuke Takagi (2000) en Ralph Firman (2002) wonnen in Nakajima's wagens het kampioenschap. Satoru's zoon, Kazuki Nakajima, reed in de seizoenen 2008 en 2009 in de Formule 1 bij Williams. Op dit moment heeft Kazuki een stoeltje in het FIA World Endurance Championship bij het team van Toyota. Er werd ook een videospel genoemd naar Nakajima: F1 Grand Prix - Nakajima Satoru op de Sega Mega Drive, uitgebracht in Japan in 1991."@nl ,
+		"\u00C8 stato il primo pilota giapponese ad essere impegnato con continuit\u00E0 nel mondiale di Formula 1. Prima di lui, i piloti giapponesi prendevano parte solitamente alla gara di casa."@it ,
+		"Satoru Nakajima (jap. \u4E2D\u5D8B\u609F Nakajima Satoru, ur. 23 lutego 1953 roku w Okazaki) \u2013 by\u0142y japo\u0144ski kierowca wy\u015Bcigowy. Kierowca Formu\u0142y 1 w latach 1987-1991. Jego synowie Kazuki (w latach 2007\u20132009 r\u00F3wnie\u017C startowa\u0142 w Formule 1) i Daisuke (obecnie w Brytyjskiej Formule 3) r\u00F3wnie\u017C s\u0105 kierowcami wy\u015Bcigowymi. Obecnie prowadzi w\u0142asny zesp\u00F3\u0142 w serii wy\u015Bcigowej, w kt\u00F3rej osi\u0105ga\u0142 najwi\u0119ksze sukcesy \u2013 Formule Nippon."@pl ,
+		"\u4E2D\u5D8B \u609F\uFF08\u306A\u304B\u3058\u307E \u3055\u3068\u308B\u30011953\u5E742\u670823\u65E5 - \uFF09\u306F\u3001\u611B\u77E5\u770C\u5CA1\u5D0E\u5E02\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u6709\u9650\u4F1A\u793E\u4E2D\u5D8B\u4F01\u753B\u4EE3\u8868\u53D6\u7DE0\u5F79\u793E\u9577\u3002\u8EAB\u9577165cm\u3001\u4F53\u91CD60kg\u3002\u8840\u6DB2\u578BB\u578B\u3002 \u65E5\u672C\u4EBA\u521D\u306EF1\u30D5\u30EB\u30BF\u30A4\u30E0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u682A\u5F0F\u4F1A\u793E\u65E5\u672C\u30EC\u30FC\u30B9\u30D7\u30ED\u30E2\u30FC\u30B7\u30E7\u30F3\uFF08JRP\uFF09\u306E\u53D6\u7DE0\u5F79\u4F1A\u9577\u3082\u52D9\u3081\u308B\u3002"@ja ,
+		"Satoru Nakajima (jap. \u4E2D\u5D8B \u609F, Nakajima Satoru; * 23. Februar 1953 in Okazaki) ist ein ehemaliger japanischer Automobilrennfahrer, der von 1987 bis 1991 f\u00FCr die Teams Lotus und Tyrrell in der Formel 1 fuhr. Er war mit 34 Jahren einer der \u00E4ltesten Formel-1-Deb\u00FCtanten aller Zeiten und der erste japanische Formel-1-Fahrer, dem es gelang, WM-Punkte einzufahren."@de ,
+		"\u0421\u0430\u0442\u043E\u0301\u0440\u0443 \u041D\u0430\u043A\u0430\u0434\u0437\u0438\u0301\u043C\u0430 (\u044F\u043F. \u4E2D\u5D8B \u609F \u041D\u0430\u043A\u0430\u0434\u0437\u0438\u043C\u0430 \u0421\u0430\u0442\u043E\u0440\u0443) \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 (1985, 1986) \u0438 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB (1987\u20141991). \u0415\u0433\u043E \u0441\u044B\u043D \u041A\u0430\u0434\u0437\u0443\u043A\u0438 \u0442\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C, \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0432\u0448\u0438\u043C \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1."@ru ,
+		"\u0633\u0627\u062A\u0648\u0631\u0648 \u0646\u0627\u0643\u0627\u062C\u064A\u0645\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 23 \u0641\u0628\u0631\u0627\u064A\u0631 1953 \u0641\u064A \u0622\u064A\u062A\u0634\u064A\u060C \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u064A\u0627\u0628\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1987. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644 \u0627\u0644\u0643\u0628\u0631\u0649 1987. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 80 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Satoru Nakajima (Okazaki, 23 de fevereiro de 1953) \u00E9 um ex-piloto japon\u00EAs de F\u00F3rmula 1. Foi o primeiro piloto de sua nacionalidade a fazer uma temporada completa na categoria. Gra\u00E7as ao pesado apoio da Honda, que o apoiou durante toda a carreira."@pt ,
+		"Satoru Nakajima (\u4E2D\u5D8B \u609F Nakajima Satoru, born February 23, 1953) is a former racing driver from Japan. Nakajima, who was known as one of the nicest and most personable drivers in Formula One in a sport where large egos are normal, was affectionately known as \"Nakajap\" to members of the F1 paddock and those in the press."@en ,
+		"\u4E2D\u5D8B\u609F\uFF081953\u5E742\u670823\u65E5\uFF0D \uFF09\u65E5\u672C\u524D\u8CFD\u8ECA\u624B\uFF0C\u662F\u7B2C\u4E00\u4F4D\u53C3\u8207\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u4E8B\u4E26\u53D6\u5F97\u7A4D\u5206\u7684\u65E5\u672C\u4EBA\u30021978\u5E74\uFF0C\u4E2D\u5D8B\u5DF2\u7D93\u7372\u5F97\u5168\u65E5\u672CF2\u9326\u6A19\u8CFD\u51A0\u8ECD\u76C3\uFF0C1981\u5E74\u53C8\u5728\u5168\u65E5\u672CF2\u9326\u6A19\u8CFD\u7372\u5F97\u4E94\u500B\u55AE\u7AD9\u51A0\u8ECD\uFF0C1987\u5E74\uFF0C\u4ED6\u5728\u672C\u7530\u8ECA\u968A\u7684\u5354\u52A9\u4E0B\uFF0C\u9996\u6B21\u53C3\u8207F1\u8CFD\u4E8B\uFF0C\u6210\u70BA\u53F2\u4E0A\u9996\u4F4D\u53C3\u8207F1\u8CFD\u4E8B\u7684\u65E5\u672C\u4EBA\uFF0C\u5728F1\u751F\u6DAF\u4E2D\uFF0C\u4E2D\u5D8B\u5408\u5171\u53D6\u5F9716\u5206\u3002\u671F\u5F8C\u4ED6\u6539\u4EFB\u8ECA\u968A\u7D93\u7406\u4EBA\uFF0C\u5E36\u5D8B\u8ECA\u968A\u3002\u5176\u5152\u5B50\u4E2D\u5D8B\u4E00\u8CB4\u4EA6\u662FF1\u6B63\u5F0F\u8ECA\u624B\uFF0C\u6B21\u5B50\u4E2D\u5D8B\u5927\u4F51\u5247\u662F\u570B\u5167F3\u8ECA\u624B\u3002"@zh ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Satoru_Nakajima_2008_Motorsport_Japan.jpg?width=300> ;
+	dbo:birthDate	"1953-2-23"^^xsd:date ;
+	dbo:wikiPageRevisionID	740797109 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Okazaki,_Aichi> ;
+	dbo:wikiPageID	1226566 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1987_Brazilian_Grand_Prix> ;
+	dbo:races	"80"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1991_Australian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Satoru_Nakajima	ns26:hypernym	dbr:Driver ;
+	dbp:title	dbr:Formula_Nippon ,
+		dbr:Champion .
+dbr:Geoff_Lees	dbp:after	dbr:Satoru_Nakajima ;
+	dbp:before	dbr:Satoru_Nakajima .
+dbr:Satoru	dbo:wikiPageDisambiguates	dbr:Satoru_Nakajima .
+<http://dbpedia.org/resource/\u4E2D\u5D8B\u609F>	dbo:wikiPageRedirects	dbr:Satoru_Nakajima .

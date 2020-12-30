@@ -1,0 +1,127 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Spyder_NF-10	dbp:drivers	dbr:Stephen_South .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Stephen_South	foaf:primaryTopic	dbr:Stephen_South .
+dbr:Bruno_Giacomelli	dbp:after	dbr:Stephen_South .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Stephen_South	rdf:type	yago:WikicatJapaneseFormulaTwoChampionshipDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Stephen_South	rdf:type	dbo:MotorsportRacer ,
+		dbo:Agent ,
+		foaf:Person ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Stephen_South	rdf:type	wikidata:Q378622 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Stephen_South	rdf:type	owl:Thing ,
+		yago:Driver110034906 ,
+		dbo:Athlete ,
+		dbo:Person .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Stephen_South	rdf:type	ns9:NaturalPerson .
+@prefix schema:	<http://schema.org/> .
+dbr:Stephen_South	rdf:type	schema:Person ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		ns9:Agent ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:WikicatCanAmDrivers ,
+		yago:WikicatBritishFormulaOneChampionshipDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Stephen_South	rdfs:label	"Stephen South"@de ,
+		"\u0421\u0430\u0443\u0441, \u0421\u0442\u0438\u0432\u0435\u043D"@ru ,
+		"Stephen South"@pl ,
+		"Stephen South"@nl ,
+		"Stephen South"@en ,
+		"Stephen South"@it ,
+		"Stephen South"@pt ;
+	rdfs:comment	"Stephen Reginald South (* 19. Februar 1952 in Harrow) ist ein ehemaliger britischer Rennfahrer."@de ,
+		"\u0421\u0442\u0438\u0432\u0435\u043D \u0421\u0430\u0443\u0441 (\u0430\u043D\u0433\u043B. Stephen South, 19 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1952 \u0433\u043E\u0434\u0430, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Stephen South (Harrow, 19 de fevereiro de 1952) \u00E9 um ex-piloto de automobilismo ingl\u00EAs."@pt ,
+		"Stephen South (Harrow, Middlesex, 19 februari 1952) is een voormalig Brits autocoureur. Hij nam deel aan de Grand Prix van de Verenigde Staten West in 1980 voor het team McLaren, maar wist zich niet te kwalificeren en scoorde zo geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Stephen South (born 19 February 1952 in Harrow, Middlesex) is a British former racing driver from England. He was educated at Harrow County School for Boys. He is chiefly known for winning the 1977 BRDC Vandervell British F3 Championship. His only Formula One entry was at the 1980 United States Grand Prix West with McLaren standing in for Alain Prost who was injured, but South failed to qualify. His career was ended later that year when part of one leg was amputated after an accident during practice for a Can-Am race at the Circuit Trois-Rivi\u00E8res in Quebec, Canada."@en ,
+		"Stephen South (ur. 19 lutego 1952 roku w Harrow, Londynie) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Stephen_South	dbp:birthDate	"1952-02-19"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Stephen_South	owl:sameAs	yago-res:Stephen_South .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Stephen_South	owl:sameAs	dbpedia-wikidata:Q657158 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Stephen_South	owl:sameAs	dbpedia-pl:Stephen_South .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Stephen_South	owl:sameAs	dbpedia-it:Stephen_South ,
+		dbr:Stephen_South ,
+		wikidata:Q657158 ,
+		<http://rdf.freebase.com/ns/m.04w4nt> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Stephen_South	owl:sameAs	dbpedia-de:Stephen_South .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Stephen_South	owl:sameAs	dbpedia-pt:Stephen_South .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Stephen_South	owl:sameAs	dbpedia-nl:Stephen_South .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Stephen_South	dct:subject	dbc:English_racing_drivers ,
+		dbc:Living_people ,
+		dbc:English_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:McLaren_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1952_births> ,
+		dbc:Can_Am_drivers ,
+		dbc:Japanese_Formula_Two_Championship_drivers ,
+		dbc:People_educated_at_Harrow_High_School ,
+		dbc:British_Formula_One_Championship_drivers ;
+	foaf:name	"Stephen South"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Stephen"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Stephen_South ;
+	foaf:surname	"South"@en ;
+	dbp:points	0 ;
+	dbp:years	1977 ;
+	dbp:after	dbr:Derek_Warwick ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/McLaren_(racing)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Stephen_South	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Stephen_South?oldid=738537144> ;
+	dbo:wikiPageExternalLink	<http://www.formulaone.free-online.co.uk/formulaone/drivers/ssouth/index.html> ;
+	dbp:imageSize	150 ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:before	dbr:Bruno_Giacomelli ;
+	dbo:abstract	"Stephen South (born 19 February 1952 in Harrow, Middlesex) is a British former racing driver from England. He was educated at Harrow County School for Boys. He is chiefly known for winning the 1977 BRDC Vandervell British F3 Championship. His only Formula One entry was at the 1980 United States Grand Prix West with McLaren standing in for Alain Prost who was injured, but South failed to qualify. His career was ended later that year when part of one leg was amputated after an accident during practice for a Can-Am race at the Circuit Trois-Rivi\u00E8res in Quebec, Canada."@en ,
+		"\u0421\u0442\u0438\u0432\u0435\u043D \u0421\u0430\u0443\u0441 (\u0430\u043D\u0433\u043B. Stephen South, 19 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1952 \u0433\u043E\u0434\u0430, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Stephen Reginald South (* 19. Februar 1952 in Harrow) ist ein ehemaliger britischer Rennfahrer."@de ,
+		"Stephen South (Harrow, Middlesex, 19 februari 1952) is een voormalig Brits autocoureur. Hij nam deel aan de Grand Prix van de Verenigde Staten West in 1980 voor het team McLaren, maar wist zich niet te kwalificeren en scoorde zo geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Stephen South (Harrow, 19 de fevereiro de 1952) \u00E9 um ex-piloto de automobilismo ingl\u00EAs."@pt ,
+		"Stephen South (ur. 19 lutego 1952 roku w Harrow, Londynie) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1952-2-19"^^xsd:date ;
+	dbo:wikiPageRevisionID	738537144 ;
+	dbo:birthPlace	dbr:London_Borough_of_Harrow ;
+	dbo:wikiPageID	1353921 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1980_United_States_Grand_Prix_West> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1980_United_States_Grand_Prix_West> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbp:pixels	150 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Stephen_South	ns23:hypernym	dbr:Driver ;
+	dbp:title	dbr:British_Formula_3_Championship ,
+		"BRDC Series Champion"^^xsd:string .
+dbr:Derek_Warwick	dbp:before	dbr:Stephen_South .

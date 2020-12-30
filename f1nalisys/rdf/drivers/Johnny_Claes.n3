@@ -1,0 +1,151 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__37__1>	dbo:firstDriver	dbr:Johnny_Claes .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__60__1>	dbo:team	dbr:Johnny_Claes .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbr:Johnny_Claes	rdf:type	schema:Person ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		dbo:FormulaOneRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Johnny_Claes	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Johnny_Claes	rdf:type	yago:WikicatMaseratiFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		dbo:Athlete ,
+		wikidata:Q5 ,
+		yago:WikicatGordiniFormulaOneDrivers ,
+		yago:WikicatEcurieNationaleBelgeFormulaOneDrivers ,
+		yago:WikicatBelgianFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Johnny_Claes	rdf:type	foaf:Person ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Johnny_Claes	rdf:type	ns7:NaturalPerson ,
+		yago:WikicatGrandPrixDrivers ,
+		yago:Driver110034906 ,
+		ns7:Agent ,
+		wikidata:Q378622 ,
+		dbo:Person ,
+		yago:WikicatBelgianRallyDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Johnny_Claes	rdf:type	umbel-rc:RaceCarDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Johnny_Claes	rdf:type	owl:Thing ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Johnny_Claes	rdfs:label	"Johnny Claes"@pl ,
+		"Johnny Claes"@de ,
+		"\u041A\u043B\u044D\u0437, \u0414\u0436\u043E\u043D\u043D\u0438"@ru ,
+		"Johnny Claes"@pt ,
+		"Johnny Claes"@nl ,
+		"Johnny Claes"@en ,
+		"Johnny Claes"@fr ,
+		"Johnny Claes"@it ;
+	rdfs:comment	"John Oktave Claes (* 11. August 1916 in London; \u2020 3. Februar 1956 in Br\u00FCssel) war ein belgischer Jazzmusiker und Automobilrennfahrer."@de ,
+		"Octave John \u201EJohnny\u201D Claes (ur. 11 sierpnia 1916 w Fulham, zm. 3 lutego 1956 w Brukseli) \u2013 belgijski kierowca wy\u015Bcigowy."@pl ,
+		"\u0414\u0436\u043E\u043D\u043D\u0438 \u041A\u043B\u044D\u0437 (\u0430\u043D\u0433\u043B. Johnny Claes); 11 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1916, \u041B\u043E\u043D\u0434\u043E\u043D \u2014 3 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1956, \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"Johnny Claes (Londen, 11 augustus 1916 - 3 februari 1956) was een Belgische autocoureur. Voor hij bekend werd als autoracer stond Claes ook bekend als een succesrijk jazztrompetter en bandleider in Groot-Brittanni\u00EB. Claes deed mee aan 23 Formule 1-races. In 1950 won hij de GP des Fronti\u00E8res. In 1955 werd Claes derde in de Luik-Sofia-Luik-rally. Een jaar later overleed hij aan TBC."@nl ,
+		"Octave John \"Johnny\" Claes (Londres, 11 de agosto de 1916 - Bruxelas, 3 de fevereiro de 1956) foi um piloto de F\u00F3rmula 1 anglo-belga. Disputou o primeiro Grande Pr\u00EAmio da hist\u00F3ria da categoria, mas nunca pontuou na F-1, tendo como melhor coloca\u00E7\u00E3o de chegada dois s\u00E9timos lugares, em Indian\u00E1polis e na B\u00E9lgica. Claes morreu em 1956, aos 39 anos de idade, vitimado pela tuberculose."@pt ,
+		"Octave Jean \u00AB Johnny \u00BB Claes (n\u00E9 le 11 ao\u00FBt 1916 \u00E0 Fulham en Londres et mort le 3 f\u00E9vrier 1956 \u00E0 Bruxelles) \u00E9tait un pilote automobile belge, n\u00E9 d'une m\u00E8re \u00E9cossaise et d'un p\u00E8re belge. Il a fait ses \u00E9tudes en Angleterre \u00E0 l'\u00E9cole Lord Williams."@fr ,
+		"Octave John \"Johnny\" Claes (11 August 1916 \u2013 3 February 1956) was an English-born racing driver who competed for Belgium. Before his fame as a racing driver, Claes was also a jazz trumpeter and successful bandleader in Britain."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Johnny_Claes	dbp:birthDate	"1916-08-11"^^xsd:date .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Johnny_Claes	owl:sameAs	dbpedia-cs:Johnny_Claes .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Johnny_Claes	owl:sameAs	dbpedia-fr:Johnny_Claes .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Johnny_Claes	owl:sameAs	dbpedia-de:Johnny_Claes ,
+		dbr:Johnny_Claes ,
+		<http://rdf.freebase.com/ns/m.04kv0k> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Johnny_Claes	owl:sameAs	dbpedia-nl:Johnny_Claes ,
+		wikidata:Q171889 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Johnny_Claes	owl:sameAs	yago-res:Johnny_Claes .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Johnny_Claes	owl:sameAs	dbpedia-it:Johnny_Claes .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Johnny_Claes	owl:sameAs	dbpedia-pl:Johnny_Claes .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Johnny_Claes	owl:sameAs	dbpedia-pt:Johnny_Claes .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Johnny_Claes	owl:sameAs	dbpedia-wikidata:Q171889 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Johnny_Claes	dct:subject	<http://dbpedia.org/resource/Category:20th-century_British_musicians> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Johnny_Claes	dct:subject	dbc:English_Formula_One_drivers ,
+		dbc:British_jazz_trumpeters ,
+		dbc:Infectious_disease_deaths_in_Belgium ,
+		dbc:Hersham_and_Walton_Motors_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1956_deaths> ,
+		dbc:British_jazz_bandleaders ,
+		<http://dbpedia.org/resource/Category:1916_births> ,
+		<http://dbpedia.org/resource/Category:20th-century_trumpeters> ,
+		dbc:Gordini_Formula_One_drivers ,
+		dbc:English_people_of_Scottish_descent ,
+		<http://dbpedia.org/resource/Category:20th-century_deaths_from_tuberculosis> ,
+		dbc:Ecurie_Nationale_Belge_Formula_One_drivers ,
+		dbc:Belgian_racing_drivers ,
+		dbc:Belgian_Formula_One_drivers ,
+		dbc:Maserati_Formula_One_drivers ,
+		dbc:English_people_of_Belgian_descent ,
+		dbc:Sportspeople_from_London ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:People_educated_at_Lord_Williams\u0027s_School> ,
+		dbc:People_from_Fulham ,
+		dbc:British_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ;
+	foaf:name	"Johnny Claes"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/\u0414\u0436\u043E\u043D\u043D\u0438_\u041A\u043B\u044D\u0437.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Johnny"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Johnny_Claes	foaf:isPrimaryTopicOf	wikipedia-en:Johnny_Claes ;
+	foaf:surname	"Claes"@en ;
+	dbp:points	0 ;
+	dbp:years	"\u2013 ,"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	"\u00C9curie Belge, Gordini, HWM, Maserati, Ecurie Nationale Belge"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Johnny_Claes	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Johnny_Claes?oldid=724745480> ;
+	dbp:nationality	"Belgian"^^xsd:string ;
+	dbp:birthPlace	"Fulham, London, UK"^^xsd:string ;
+	dbp:deathDate	"1956-02-03"^^xsd:date ;
+	dbp:deathPlace	"Brussels, Belgium"^^xsd:string ;
+	dbo:abstract	"Octave Jean \u00AB Johnny \u00BB Claes (n\u00E9 le 11 ao\u00FBt 1916 \u00E0 Fulham en Londres et mort le 3 f\u00E9vrier 1956 \u00E0 Bruxelles) \u00E9tait un pilote automobile belge, n\u00E9 d'une m\u00E8re \u00E9cossaise et d'un p\u00E8re belge. Il a fait ses \u00E9tudes en Angleterre \u00E0 l'\u00E9cole Lord Williams."@fr ,
+		"Octave John \u201EJohnny\u201D Claes (ur. 11 sierpnia 1916 w Fulham, zm. 3 lutego 1956 w Brukseli) \u2013 belgijski kierowca wy\u015Bcigowy."@pl ,
+		"Johnny Claes (Londen, 11 augustus 1916 - 3 februari 1956) was een Belgische autocoureur. Voor hij bekend werd als autoracer stond Claes ook bekend als een succesrijk jazztrompetter en bandleider in Groot-Brittanni\u00EB. Hij werd geboren als kind van een Schotse moeder en Belgische vader. Claes studeerde in Engeland te Lord William's School. Hij speelde trompet in een jazzband waar ook Max Jones en Billy Mason deel van uitmaakten. Tijdens de jaren 30 verhuisde hij naar Belgi\u00EB, waar hij onder meer samenwerkte met Valaida Snow, Jack Kluger en Coleman Hawkins. Toen hij terugkeerde naar Engeland leidde hij in 1942 ook zijn eigen band, the Claepigeons. Eind jaren 40 liet hij zijn muzikale carri\u00E8re varen en werd professioneel autoracer in Belgi\u00EB. Claes deed mee aan 23 Formule 1-races. In 1950 won hij de GP des Fronti\u00E8res. In 1955 werd Claes derde in de Luik-Sofia-Luik-rally. Een jaar later overleed hij aan TBC."@nl ,
+		"Octave John \"Johnny\" Claes (Londres, 11 de agosto de 1916 - Bruxelas, 3 de fevereiro de 1956) foi um piloto de F\u00F3rmula 1 anglo-belga. Disputou o primeiro Grande Pr\u00EAmio da hist\u00F3ria da categoria, mas nunca pontuou na F-1, tendo como melhor coloca\u00E7\u00E3o de chegada dois s\u00E9timos lugares, em Indian\u00E1polis e na B\u00E9lgica. Claes morreu em 1956, aos 39 anos de idade, vitimado pela tuberculose."@pt ,
+		"John Oktave Claes (* 11. August 1916 in London; \u2020 3. Februar 1956 in Br\u00FCssel) war ein belgischer Jazzmusiker und Automobilrennfahrer."@de ,
+		"Octave John \"Johnny\" Claes (11 August 1916 \u2013 3 February 1956) was an English-born racing driver who competed for Belgium. Before his fame as a racing driver, Claes was also a jazz trumpeter and successful bandleader in Britain."@en ,
+		"\u0414\u0436\u043E\u043D\u043D\u0438 \u041A\u043B\u044D\u0437 (\u0430\u043D\u0433\u043B. Johnny Claes); 11 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1916, \u041B\u043E\u043D\u0434\u043E\u043D \u2014 3 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1956, \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/\u0414\u0436\u043E\u043D\u043D\u0438_\u041A\u043B\u044D\u0437.jpg?width=300> ;
+	dbo:birthDate	"1916-8-11"^^xsd:date ;
+	dbo:deathDate	"1956-2-3"^^xsd:date ;
+	dbo:deathPlace	dbpedia-wikidata:Q9005 ;
+	dbo:wikiPageRevisionID	724745480 ;
+	dbo:birthPlace	dbr:London ;
+	dbo:wikiPageID	1234953 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_British_Grand_Prix> ;
+	dbo:races	"25"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1955_Dutch_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+wikipedia-en:Johnny_Claes	foaf:primaryTopic	dbr:Johnny_Claes .
+<http://dbpedia.org/resource/\u00C9curie_Belge>	dbo:wikiPageRedirects	dbr:Johnny_Claes .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__12__1>	dbo:firstDriver	dbr:Johnny_Claes .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__5__1>	dbo:team	dbr:Johnny_Claes .
+dbr:Ecurie_Belge	dbo:wikiPageRedirects	dbr:Johnny_Claes .
+dbr:Johny_Claes	dbo:wikiPageRedirects	dbr:Johnny_Claes .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__3__1>	dbo:firstDriver	dbr:Johnny_Claes .

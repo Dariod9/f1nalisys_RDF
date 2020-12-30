@@ -1,0 +1,32 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Sakon_Yamamoto	dct:subject	dbc:HRT_Formula_One_drivers .
+dbr:Daniel_Ricciardo	dct:subject	dbc:HRT_Formula_One_drivers .
+dbr:Christian_Klien	dct:subject	dbc:HRT_Formula_One_drivers .
+dbr:Narain_Karthikeyan	dct:subject	dbc:HRT_Formula_One_drivers .
+dbr:Vitantonio_Liuzzi	dct:subject	dbc:HRT_Formula_One_drivers .
+dbr:Bruno_Senna	dct:subject	dbc:HRT_Formula_One_drivers .
+dbr:Pedro_de_la_Rosa	dct:subject	dbc:HRT_Formula_One_drivers .
+dbr:Karun_Chandhok	dct:subject	dbc:HRT_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:HRT_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:HRT_Formula_One_drivers	rdfs:label	"HRT Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns7:	<http://es.dbpedia.org/resource/Categor\u00EDa:> .
+dbc:HRT_Formula_One_drivers	owl:sameAs	ns7:Pilotos_de_Hispania_Racing_F1_Team .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:HRT_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q7943525 ,
+		<http://pt.dbpedia.org/resource/Categoria:Pilotos_da_equipe_HRT_de_F\u00F3rmula_1> ,
+		dbc:HRT_Formula_One_drivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:HRT_Formula_One_drivers	owl:sameAs	wikidata:Q7943525 ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"HRT Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:HRT_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:HRT_Formula_One_drivers?oldid=546362285> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:HRT_Formula_One_drivers	dbo:wikiPageRevisionID	546362285 ;
+	dbo:wikiPageID	36135259 .

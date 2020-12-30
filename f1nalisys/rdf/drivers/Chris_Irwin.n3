@@ -1,0 +1,128 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Chris_Irwin	foaf:primaryTopic	dbr:Chris_Irwin .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Chris_Irwin	rdf:type	yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Chris_Irwin	rdf:type	wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		wikidata:Q5 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Chris_Irwin	rdf:type	dbo:FormulaOneRacer ,
+		foaf:Person ,
+		dbo:Athlete ,
+		yago:Operator110378412 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Chris_Irwin	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Chris_Irwin	rdf:type	schema:Person ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q215627 ,
+		yago:WikicatTasmanSeriesDrivers ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Chris_Irwin	rdf:type	owl:Thing ,
+		dbo:RacingDriver .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Chris_Irwin	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		dbo:MotorsportRacer ,
+		dbo:Person ,
+		yago:Driver110034906 ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Chris_Irwin	rdfs:label	"Chris Irwin"@nl ,
+		"Chris Irwin"@pl ,
+		"Chris Irwin"@fr ,
+		"Chris Irwin"@de ,
+		"Chris Irwin"@it ,
+		"Chris Irwin"@en ,
+		"Chris Irwin"@pt ;
+	rdfs:comment	"Christopher Frank Stuart Irwin (ur. 27 czerwca 1942 w Londynie) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Chris Irwin (n\u00E9 le 27 juin 1942 \u00E0 Wandsworth dans le Grand Londres) est un ancien pilote automobile Britannique. Il a particip\u00E9 \u00E0 dix Grands Prix en Championnat du monde de Formule 1 et a inscrit 2 points. La carri\u00E8re de Chris Irwin prend fin pr\u00E9matur\u00E9ment aux 1 000 km du N\u00FCrburgring o\u00F9 il a un accident \u00E0 Flugplatz sur un prototype de voiture de sport Ford P68 et est \u00E9vacu\u00E9 avec de graves blessures. Bien que r\u00E9tabli, il prend la d\u00E9cision de ne plus courir."@fr ,
+		"Christopher Irwin (Wandsworth, Londres, Inglaterra, 27 de junho de 1942) \u00E9 um ex-automobilista ingl\u00EAs que participou de dez Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1966 e 1967. Seu melhor resultado foi o quinto lugar na Fran\u00E7a em 1967."@pt ,
+		"Chris Irwin (* 27. Juni 1942 in London) ist ein ehemaliger britischer Formel-1-Fahrer. Beim ersten Einsatz am 16. Juli 1966 in der Formel-1 verfehlte er beim Gro\u00DFen Preis von Gro\u00DFbritannien in einem Brabham BT11-Repco mit dem siebten Rang nur knapp die ersten Meisterschaftspunkte. Am 25. September desselben Jahres kam Irwin, als Ersatzfahrer f\u00FCr Denis Hulme im Formel-2 Brabham-Honda BT18, zum ersten Einsatz im franz\u00F6sischen Albi, wo er auf den 3. Platz fuhr. 1967 verpflichtete ihn das britische Privatteam Reg Parnell Racing zum Gro\u00DFen Preis der Niederlande, wo er Piers Courage ersetzte. Jedoch fuhr er im unzuverl\u00E4ssigen B.R.M.-Chassis nur vier von neun Rennen zu Ende. Sein bestes und gleichzeitig einziges Endergebnis in den Punkten war der f\u00FCnfte Platz beim Gro\u00DFen Preis von Frankreich 1967."@de ,
+		"Chris Irwin (Wandsworth, Londen, 27 juni 1942) is een voormalige Britse Formule 1-coureur. Hij nam tussen 1966 en 1967 deel aan 10 Grands Prix voor de teams Brabham en Reg Parnell Racing waarin hij 2 WK-punten scoorde."@nl ,
+		"Chris Irwin (born 27 June 1942 in Wandsworth, London) is a British former racing driver. He participated in 10 Formula One World Championship Grands Prix, debuting on 16 July 1966. He scored two championship points. In a rare appearance at a race meeting, Irwin attended the Thruxton circuit's 40th anniversary celebrations in April 2008. A three-quarter page interview and a current photograph of him posing with old 1960s rivals and a Formula 2 car appeared in the June 2008 issue of Motor Sport magazine. He is currently living in rural Rutland in the UK."@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Chris_Irwin	dbp:points	2 ;
+	owl:sameAs	wikidata:Q515506 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Chris_Irwin	owl:sameAs	dbpedia-pt:Chris_Irwin .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Chris_Irwin	owl:sameAs	dbpedia-it:Chris_Irwin .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Chris_Irwin	owl:sameAs	dbpedia-nl:Chris_Irwin .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Chris_Irwin	owl:sameAs	dbpedia-fr:Chris_Irwin .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Chris_Irwin	owl:sameAs	dbpedia-wikidata:Q515506 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Chris_Irwin	owl:sameAs	dbpedia-de:Chris_Irwin .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Chris_Irwin	owl:sameAs	dbpedia-pl:Chris_Irwin ,
+		<http://rdf.freebase.com/ns/m.04k7qj> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Chris_Irwin	owl:sameAs	yago-res:Chris_Irwin ,
+		dbr:Chris_Irwin .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Chris_Irwin	dct:subject	<http://dbpedia.org/resource/Category:1942_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Chris_Irwin	dct:subject	dbc:Tasman_Series_drivers ,
+		dbc:Living_people ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ,
+		dbc:People_with_traumatic_brain_injuries ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ;
+	foaf:name	"Chris Irwin"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Chris_Irwin_1968.JPG> ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Chris"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Chris_Irwin ;
+	foaf:surname	"Irwin"@en ;
+	dbp:years	"-"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Chris_Irwin	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Chris_Irwin?oldid=726264653> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Chris_Irwin	dbp:birthDate	"1942-06-27"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-irwchr.html> ;
+	dbo:abstract	"Chris Irwin (Wandsworth, Londen, 27 juni 1942) is een voormalige Britse Formule 1-coureur. Hij nam tussen 1966 en 1967 deel aan 10 Grands Prix voor de teams Brabham en Reg Parnell Racing waarin hij 2 WK-punten scoorde."@nl ,
+		"Chris Irwin (born 27 June 1942 in Wandsworth, London) is a British former racing driver. He participated in 10 Formula One World Championship Grands Prix, debuting on 16 July 1966. He scored two championship points. Irwin's career was ended prematurely by an accident he sustained when driving a Ford P68 sports prototype during practice for the 1968 1000km N\u00FCrburgring endurance race. He lost control of the notoriously twitchy car at the Flugplatz, the P68 flipping end over end after landing on its tail following a jump. He suffered severe head injuries but eventually recovered. However, it prevented him from racing again. Irwin is still alive and reasonably well, but his whereabouts are largely unknown as he stays out of the public eye and away from motor racing events. In 2006 it was reported that he had become re-acquainted with a racing rival from the 1960s after a chance meeting in London, and that he sometimes still suffers flashbacks to his accident. Irwin was reported, however, to be in generally good condition. In a rare appearance at a race meeting, Irwin attended the Thruxton circuit's 40th anniversary celebrations in April 2008. A three-quarter page interview and a current photograph of him posing with old 1960s rivals and a Formula 2 car appeared in the June 2008 issue of Motor Sport magazine. He is currently living in rural Rutland in the UK."@en ,
+		"Christopher Irwin (Wandsworth, Londres, Inglaterra, 27 de junho de 1942) \u00E9 um ex-automobilista ingl\u00EAs que participou de dez Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1966 e 1967. Seu melhor resultado foi o quinto lugar na Fran\u00E7a em 1967."@pt ,
+		"Christopher Frank Stuart Irwin (ur. 27 czerwca 1942 w Londynie) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Chris Irwin (n\u00E9 le 27 juin 1942 \u00E0 Wandsworth dans le Grand Londres) est un ancien pilote automobile Britannique. Il a particip\u00E9 \u00E0 dix Grands Prix en Championnat du monde de Formule 1 et a inscrit 2 points. La carri\u00E8re de Chris Irwin prend fin pr\u00E9matur\u00E9ment aux 1 000 km du N\u00FCrburgring o\u00F9 il a un accident \u00E0 Flugplatz sur un prototype de voiture de sport Ford P68 et est \u00E9vacu\u00E9 avec de graves blessures. Bien que r\u00E9tabli, il prend la d\u00E9cision de ne plus courir. En bonne sant\u00E9, Chris Irwin participe, plut\u00F4t rarement, \u00E0 des \u00E9v\u00E9nements sportifs comme le quaranti\u00E8me anniversaire du circuit de Thruxton et donne quelques interviews \u00E0 la presse."@fr ,
+		"Chris Irwin (* 27. Juni 1942 in London) ist ein ehemaliger britischer Formel-1-Fahrer. Beim ersten Einsatz am 16. Juli 1966 in der Formel-1 verfehlte er beim Gro\u00DFen Preis von Gro\u00DFbritannien in einem Brabham BT11-Repco mit dem siebten Rang nur knapp die ersten Meisterschaftspunkte. Am 25. September desselben Jahres kam Irwin, als Ersatzfahrer f\u00FCr Denis Hulme im Formel-2 Brabham-Honda BT18, zum ersten Einsatz im franz\u00F6sischen Albi, wo er auf den 3. Platz fuhr. 1967 verpflichtete ihn das britische Privatteam Reg Parnell Racing zum Gro\u00DFen Preis der Niederlande, wo er Piers Courage ersetzte. Jedoch fuhr er im unzuverl\u00E4ssigen B.R.M.-Chassis nur vier von neun Rennen zu Ende. Sein bestes und gleichzeitig einziges Endergebnis in den Punkten war der f\u00FCnfte Platz beim Gro\u00DFen Preis von Frankreich 1967. Nach seiner kurzen Formel-1-Karriere gewann Irwin 1968 in einem Formel-2-Wagen das Eifelrennen auf der S\u00FCdschleife des N\u00FCrburgrings. Irwin auf Lola-Cosworth fuhr die 30 Runden bzw. 232,410 km in 1:25,09,8 Stunden; Zweiter mit 25,4 Sekunden R\u00FCckstand wurde Kurt Ahrens jr. Am 17. Mai 1968 verungl\u00FCckte Irwin beim Training zum 1000-km-Rennen auf dem N\u00FCrburgring im Streckenabschnitt Flugplatz mit seinem Ford P68, den er sich mit Pedro Rodr\u00EDguez teilte, schwer. Nach einer Bodenwelle erhielt der Wagen Unterluft, hob stark ab und \u00FCberschlug sich. Dabei erlitt der Fahrer erhebliche Kopfverletzungen. Die Tatsache, dass der Wagen ein damals hochmodernes, genietetes Aluminium-Monocoque aufwies, rettete ihm vermutlich das Leben. Nach diesem schweren Unfall zog sich Irwin vollst\u00E4ndig vom Motorsport zur\u00FCck. Heute lebt Irwin zur\u00FCckgezogen im englischen Rutland."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Chris_Irwin_1968.JPG?width=300> ;
+	dbo:birthDate	"1942-6-27"^^xsd:date ;
+	dbo:wikiPageRevisionID	726264653 ;
+	dbo:birthPlace	dbr:London ;
+	dbo:wikiPageID	1228267 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Chris_Irwin	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1966_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1967_Mexican_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"10"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Reg_Parnell_Racing ,
+		dbr:Brabham ;
+	dbp:nationality	"British"^^xsd:string .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__49__1>	dbo:firstDriver	dbr:Chris_Irwin .

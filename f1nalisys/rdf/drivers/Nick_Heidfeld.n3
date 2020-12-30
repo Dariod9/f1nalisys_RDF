@@ -1,0 +1,248 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Bas_Leinders	dbp:before	dbr:Nick_Heidfeld .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2007_Hungarian_Grand_Prix>	dbo:thirdDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2001_Brazilian_Grand_Prix>	dbo:thirdDriver	dbr:Nick_Heidfeld .
+dbr:Bruno_Junqueira	dbp:before	dbr:Nick_Heidfeld .
+dbr:Juan_Pablo_Montoya	dbp:after	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2005_Malaysian_Grand_Prix>	dbo:thirdDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2011_Malaysian_Grand_Prix>	dbo:thirdDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2008_Malaysian_Grand_Prix>	dbo:fastestDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2009_Malaysian_Grand_Prix>	dbo:secondDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2008_British_Grand_Prix>	dbo:secondDriver	dbr:Nick_Heidfeld .
+dbr:Nick	dbo:wikiPageDisambiguates	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2006_Hungarian_Grand_Prix>	dbo:thirdDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2008_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2005_European_Grand_Prix>	dbo:secondDriver	dbr:Nick_Heidfeld ;
+	dbo:poleDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2008_German_Grand_Prix>	dbo:fastestDriver	dbr:Nick_Heidfeld .
+dbr:Sven_Heidfeld	dbp:relatedTo	dbr:Nick_Heidfeld .
+dbr:Jarno_Trulli	dbp:after	dbr:Nick_Heidfeld .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Nick_Heidfeld	rdf:type	wikidata:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Nick_Heidfeld	rdf:type	yago:WikicatRenaultFormulaOneDrivers ,
+		wikidata:Q24229398 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Nick_Heidfeld	rdf:type	owl:Thing ,
+		yago:WikicatAmericanLeMansSeriesDrivers ,
+		wikidata:Q378622 ,
+		yago:WikicatRacingDriversFromNorthRhine-Westphalia ,
+		yago:WikicatFIAWorldEnduranceChampionshipDrivers ,
+		wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Nick_Heidfeld	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatGermanFormulaOneDrivers ,
+		dbo:Athlete .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Nick_Heidfeld	rdf:type	ns8:NaturalPerson ,
+		yago:Driver110034906 ,
+		yago:WikicatV8SupercarDrivers ,
+		yago:WikicatSauberFormulaOneDrivers ,
+		yago:WikicatPorscheSupercupDrivers ,
+		yago:Operator110378412 ,
+		ns8:Agent ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent ,
+		dbo:Person ,
+		yago:WikicatJordanFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatProstFormulaOneDrivers ,
+		dbo:RacingDriver .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Nick_Heidfeld	rdf:type	foaf:Person ,
+		yago:WikicatGermanFormulaThreeChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Nick_Heidfeld	rdf:type	schema:Person ,
+		dbo:MotorsportRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Nick_Heidfeld	rdfs:label	"Nick Heidfeld"@pt ,
+		"\u0646\u064A\u0643 \u0647\u064A\u062F\u0641\u064A\u0644\u062F"@ar ,
+		"Nick Heidfeld"@it ,
+		"Nick Heidfeld"@pl ,
+		"Nick Heidfeld"@en ,
+		"Nick Heidfeld"@es ,
+		"\u5C3C\u514B\u00B7\u6D77\u8D39\u5C14\u5FB7"@zh ,
+		"\u30CB\u30C3\u30AF\u30FB\u30CF\u30A4\u30C9\u30D5\u30A7\u30EB\u30C9"@ja ,
+		"\u0425\u0430\u0439\u0434\u0444\u0435\u043B\u044C\u0434, \u041D\u0438\u043A"@ru ,
+		"Nick Heidfeld"@de ,
+		"Nick Heidfeld"@fr ,
+		"Nick Heidfeld"@nl ;
+	rdfs:comment	"\u5C3C\u514B\u00B7\u6D77\u8D39\u5C14\u5FB7\uFF08\u5FB7\u8BED\uFF1ANick Lars Heidfeld\uFF0C1977\u5E745\u670810\u65E5\uFF0D\uFF0C\u751F\u4E8E\u95E8\u5174\u683C\u62C9\u5FB7\u5DF4\u8D6B\uFF09\uFF0C\u5FB7\u56FD\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8ECA\u624B\uFF0C\u7DBD\u865FQuick Nick\u3002"@zh ,
+		"\u0646\u064A\u0643 \u0644\u0627\u0631\u0633 \u0647\u064A\u062F\u0641\u064A\u0644\u062F (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Nick Lars Heidfeld) (\u0648\u0644\u062F \u0641\u064A 10 \u0645\u0627\u064A\u0648 1977 \u0641\u064A \u0645\u0648\u0646\u0634\u0646\u063A\u0644\u0627\u062F\u0628\u0627\u062E\u060C \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u063A\u0631\u0628\u064A\u0629) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0623\u0644\u0645\u0627\u0646\u064A\u060C \u0648\u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0641\u0631\u064A\u0642 \u0631\u064A\u0646\u0648 \u0644\u0648\u062A\u0633 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u062E\u0644\u0627\u0644 \u0645\u0648\u0633\u0645 2010 \u062D\u0644 \u0628\u062F\u064A\u0644\u0627 \u0644\u0644\u0633\u0627\u0626\u0642 \u0628\u064A\u062F\u0631\u0648 \u062F\u0648 \u0644\u0627 \u0631\u0648\u0632\u0627 \u0628\u062F\u0621\u0627 \u0645\u0646 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0628\u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 . \u0641\u064A \u0628\u062F\u0627\u064A\u0629 \u0645\u0648\u0633\u0645 2010 \u0628\u0642\u064A \u0628\u062F\u0648\u0646 \u0645\u0642\u0639\u062F \u0643\u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642 \u0625\u062B\u0631 \u062D\u0644 \u0641\u0631\u064A\u0642 \u0628\u064A \u0627\u0645 \u062F\u0628\u0644\u064A\u0648 \u0633\u0627\u0648\u0628\u0631 \u0648\u062A\u0639\u0627\u0642\u062F \u0645\u0639 \u0641\u0631\u064A\u0642 \u0645\u0631\u0633\u064A\u062F\u0633 \u062C\u064A \u0628\u064A \u0643\u0633\u0627\u0626\u0642 \u0627\u062D\u062A\u064A\u0627\u0637 (\u062A\u062C\u0627\u0631\u0628)."@ar ,
+		"\u30CB\u30C3\u30AF\u30FB\u30E9\u30FC\u30B9\u30FB\u30CF\u30A4\u30C9\u30D5\u30A7\u30EB\u30C9\uFF08Nick Lars Heidfeld\u30011977\u5E745\u670810\u65E5 - \uFF09\u306F\u30C9\u30A4\u30C4\u3001\u30E1\u30F3\u30D2\u30A7\u30F3\u30B0\u30E9\u30FC\u30C8\u30D0\u30C3\u30CF\u751F\u307E\u308C\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u65E5\u672C\u3067\u306F\u300C\u30CF\u30A4\u30C9\u30D5\u30A7\u30EB\u30C9\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u304C\u591A\u3044\u304C\u3001\u30C9\u30A4\u30C4\u8A9E\u306E\u767A\u97F3\u3067\u306F\u300C\uFF08\u30E9\u30EB\u30B9\u30FB\uFF09\u30CF\u30A4\u30C8\u30D5\u30A7\u30EB\u30C8\u300D\u306B\u8FD1\u3044\u97F3\u3068\u306A\u308B\u3002 \u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u30012000\u5E74\u304B\u30892011\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u3002\u5143\u30C9\u30A4\u30C4F3\u30C9\u30E9\u30A4\u30D0\u30FC\u306ESven Heidfeld\u306F\u5B9F\u306E\u5F1F\u3002"@ja ,
+		"\u041D\u0438\u043A \u0425\u0430\u0301\u0439\u0434\u0444\u0435\u043B\u044C\u0434 (\u043D\u0435\u043C. Nick Heidfeld; 10 \u043C\u0430\u044F 1977, \u041C\u0451\u043D\u0445\u0435\u043D\u0433\u043B\u0430\u0434\u0431\u0430\u0445, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F) \u2014 \u0433\u0435\u0440\u043C\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-3000 1999 \u0433\u043E\u0434\u0430. \u0412 2000-2011 \u0433\u043E\u0434\u0430\u0445 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0416\u0438\u0432\u0451\u0442 \u0433\u0440\u0430\u0436\u0434\u0430\u043D\u0441\u043A\u0438\u043C \u0431\u0440\u0430\u043A\u043E\u043C \u0441 \u041F\u0430\u0442\u0440\u0438\u0446\u0438\u0435\u0439 \u041F\u0430\u043F\u0435\u043D (\u0440\u043E\u0434. 8 \u0438\u044E\u043B\u044F 1977 \u0433.).\u0414\u0435\u0442\u0438: \u0434\u043E\u0447\u044C \u042E\u043D\u0438 (\u0440\u043E\u0434. 3 \u0438\u044E\u043B\u044F 2005 \u0433.), \u0441\u044B\u043D\u043E\u0432\u044C\u044F \u0419\u043E\u0434\u0430 (\u0440\u043E\u0434. 21 \u0438\u044E\u043B\u044F 2007 \u0433.) \u0438 \u042E\u0441\u0442\u0443\u0441 (\u0440\u043E\u0434. 16 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2010 \u0433.)."@ru ,
+		"Nick Lars Heidfeld (M\u00F6nchengladbach, 10 de maio de 1977) \u00E9 um piloto alem\u00E3o. Nick come\u00E7ou sua carreira no kart. De 1986 a 1993, Nick competiu em diversas categorias da modalidade. Em 1994, Nick foi campe\u00E3o da German Formula Ford 1600, vencendo 8 das 9 provas. J\u00E1 no ano seguinte, Nick foi campe\u00E3o da German International Formula Ford e segundo lugar da German Formula Ford 1800. Em 1997, Nick competiu na F3, vencendo v\u00E1rias provas, foi campe\u00E3o da F3 alem\u00E3 e come\u00E7ou um grande passo em sua carreira, ao ser convidado para ser piloto de testes da McLaren."@pt ,
+		"Nick Lars Heidfeld (born 10 May 1977) is a German professional racing driver. Despite scoring regular podium finishes in 2005 with Williams, and in 2007 and 2008 with BMW Sauber, Heidfeld never won a race after debuting in Formula One in 2000. Heidfeld currently holds three records. He holds the record for the most podium finishes without a Grand Prix win (13), and has the most second-place finishes without a win, with 8. He also holds the record for the most consecutive race classifications with a tally of 41."@en ,
+		"Nick Lars Heidfeld (M\u00F6nchengladbach, 10 de mayo de 1977) es un piloto de F\u00F3rmula 1 alem\u00E1n. Ha competido para varios equipos durante los a\u00F1os 2000, incluyendo Prost Grand Prix, Sauber, Jordan, Williams y BMW Sauber. En la temporada 2010, fue piloto de pruebas en Mercedes GP y piloto oficial de BMW Sauber. El 16 de febrero de 2011, fue confirmado por Lotus Renault como piloto oficial de la escuder\u00EDa para la temporada 2011, sustituyendo as\u00ED a Robert Kubica. Sin embargo, el 2 de septiembre, Lotus Renault confirm\u00F3 a Bruno Senna como su sustituto para el resto de la temporada."@es ,
+		"Nick Lars Heidfeld (* 10. Mai 1977 in M\u00F6nchengladbach) ist ein deutscher Automobilrennfahrer. Er trat von 2000 bis 2011 in der Formel 1 an. Die meisten Rennen absolvierte er f\u00FCr den in Hinwil beheimateten Rennstall Sauber, der einige Zeit als BMW Sauber antrat. Sein gr\u00F6\u00DFter Erfolg war neben einer Pole-Position und insgesamt acht zweiten Pl\u00E4tzen der f\u00FCnfte Platz in der Gesamtwertung 2007. Heidfeld ist zudem der Fahrer mit den meisten Podestpl\u00E4tzen (13) in der Geschichte der Formel 1 (Stand 2015), der dabei kein Rennen gewann."@de ,
+		"Nick Lars Heidfeld (ur. 10 maja 1977 w M\u00F6nchengladbach) \u2013 niemiecki kierowca wy\u015Bcigowy. Jest zwi\u0105zany z Patrici\u0105 Papen, z kt\u00F3r\u0105 ma c\u00F3rk\u0119 Juni i 2 syn\u00F3w - Jod\u0119 i Justusa. Zamieszka\u0142y w Stafie. W sezonie 2011 zast\u0119powa\u0142 kontuzjowanego Roberta Kubic\u0119 przez pierwszych 11 wy\u015Bcig\u00F3w."@pl ,
+		"Nick Heidfeld, n\u00E9 le 10 mai 1977 \u00E0 M\u00F6nchengladbach, est un pilote automobile allemand. De 2000 \u00E0 2011, il participe \u00E0 183 Grands Prix de Formule 1, pour treize podiums inscrits. Nick Heidfeld fait ses d\u00E9buts en karting dans le milieu des ann\u00E9es 1980. Rep\u00E9r\u00E9 par l'ADAC, il remporte plusieurs titres et passe \u00E0 la monoplace en 1994. Vainqueur de la cat\u00E9gorie 1 600 cm\u00B3 du championnat d'Allemagne de Formule Ford, puis de la cat\u00E9gorie 1 800 cm\u00B3 l'ann\u00E9e suivante, Heidfeld termine troisi\u00E8me du championnat d'Allemagne de Formule 3 en 1996, avant d'\u00EAtre sacr\u00E9 champion l'ann\u00E9e suivante. Pris sous l'aile de Mercedes, il int\u00E8gre la Formule 3000 en 1998. Manquant le titre de justesse pour sa premi\u00E8re ann\u00E9e, il est sacr\u00E9 en 1999. Dans cette m\u00EAme p\u00E9riode, il effectue ses premiers tests en Formule 1."@fr ,
+		"Nick Heidfeld (M\u00F6nchengladbach, 10 mei 1977) is een Duitse voormalige Formule 1-coureur."@nl ;
+	owl:sameAs	dbr:Nick_Heidfeld ,
+		<http://rdf.freebase.com/ns/m.02_8rv> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-pt:Nick_Heidfeld .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-wikidata:Q75810 ,
+		wikidata:Q75810 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-id:Nick_Heidfeld ,
+		<http://ja.dbpedia.org/resource/\u30CB\u30C3\u30AF\u30FB\u30CF\u30A4\u30C9\u30D5\u30A7\u30EB\u30C9> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-it:Nick_Heidfeld .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-pl:Nick_Heidfeld .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-es:Nick_Heidfeld .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-nl:Nick_Heidfeld .
+@prefix ns19:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Nick_Heidfeld	owl:sameAs	ns19:Nick_Heidfeld .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-fr:Nick_Heidfeld .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	yago-res:Nick_Heidfeld .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-cs:Nick_Heidfeld .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Nick_Heidfeld	owl:sameAs	dbpedia-de:Nick_Heidfeld .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Nick_Heidfeld	dct:subject	<http://dbpedia.org/resource/Category:1977_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Nick_Heidfeld	dct:subject	dbc:German_Formula_Three_Championship_drivers ,
+		dbc:German_racing_drivers ,
+		dbc:German_expatriates_in_Monaco ,
+		dbc:German_Formula_One_drivers ,
+		dbc:FIA_World_Endurance_Championship_drivers ,
+		dbc:Formula_E_drivers ,
+		dbc:Sauber_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:Living_people ,
+		dbc:Racing_drivers_from_North_Rhine-Westphalia ,
+		dbc:Renault_Formula_One_drivers ,
+		dbc:Prost_Formula_One_drivers ,
+		dbc:International_Formula_3000_Champions ,
+		dbc:Jordan_Formula_One_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:V8_Supercar_drivers ,
+		dbc:German_expatriates_in_Switzerland ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_M\u00F6nchengladbach> ,
+		<http://dbpedia.org/resource/Category:People_from_St\u00E4fa> ,
+		dbc:Porsche_Supercup_drivers ;
+	foaf:name	"Nick Heidfeld"@en ;
+	foaf:homepage	<http://www.NickHeidfeld.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Nick_Heidfeld_2014_WEC_Fuji.jpg> ;
+	dct:description	"racing driver, 2000-2011 Formula One driver, 2014-2015 Formula E driver, 2012-2013 WEC driver"@en ;
+	foaf:givenName	"Nick"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Nick_Heidfeld	foaf:isPrimaryTopicOf	wikipedia-en:Nick_Heidfeld ;
+	foaf:surname	"Heidfeld"@en ;
+	dbp:title	dbr:List_of_German_Formula_Three_champions ,
+		"Champion"^^xsd:string ,
+		dbr:International_Formula_3000 ,
+		"German Formula Ford 1800"^^xsd:string ,
+		<http://dbpedia.org/resource/Grand_Prix_Drivers\u0027_Association> ,
+		dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners ;
+	dbp:years	2010 ,
+		1995 ,
+		1997 ,
+		1999 ;
+	dbp:titles	dbr:German_Formula_Three_Championship ,
+		dbr:International_Formula_3000 ,
+		dbr:Formula_Ford ,
+		dbr:Monaco_Grand_Prix .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Nick_Heidfeld	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Nick_Heidfeld?oldid=743437278> ;
+	dbp:before	dbr:Marcel_Tiemann ,
+		dbr:Pedro_de_la_Rosa ,
+		dbr:Mario_Hilgert ,
+		dbr:Juan_Pablo_Montoya ,
+		dbr:Jarno_Trulli ;
+	dbp:after	dbr:Lewis_Hamilton ,
+		dbr:Bruno_Junqueira ,
+		dbr:Rubens_Barrichello ,
+		<http://dbpedia.org/resource/Tom\u00E1\u0161_Enge> ,
+		dbr:Bas_Leinders ;
+	dbo:team	dbr:Rebellion_Racing ;
+	dbp:birthName	"Nick Lars Heidfeld"^^xsd:string ;
+	dbp:starts	22 ;
+	dbp:poles	0 ;
+	dbp:championships	0 ;
+	dbo:wikiPageExternalLink	<http://www.NickHeidfeld.com> ,
+		<http://www.heidfeld-fanclub.de> ;
+	dbp:caption	"Heidfeld in 2014."^^xsd:string ;
+	dbo:abstract	"Nick Lars Heidfeld (ur. 10 maja 1977 w M\u00F6nchengladbach) \u2013 niemiecki kierowca wy\u015Bcigowy. Jest zwi\u0105zany z Patrici\u0105 Papen, z kt\u00F3r\u0105 ma c\u00F3rk\u0119 Juni i 2 syn\u00F3w - Jod\u0119 i Justusa. Zamieszka\u0142y w Stafie. W sezonie 2011 zast\u0119powa\u0142 kontuzjowanego Roberta Kubic\u0119 przez pierwszych 11 wy\u015Bcig\u00F3w."@pl ,
+		"Nick Heidfeld, n\u00E9 le 10 mai 1977 \u00E0 M\u00F6nchengladbach, est un pilote automobile allemand. De 2000 \u00E0 2011, il participe \u00E0 183 Grands Prix de Formule 1, pour treize podiums inscrits. Nick Heidfeld fait ses d\u00E9buts en karting dans le milieu des ann\u00E9es 1980. Rep\u00E9r\u00E9 par l'ADAC, il remporte plusieurs titres et passe \u00E0 la monoplace en 1994. Vainqueur de la cat\u00E9gorie 1 600 cm\u00B3 du championnat d'Allemagne de Formule Ford, puis de la cat\u00E9gorie 1 800 cm\u00B3 l'ann\u00E9e suivante, Heidfeld termine troisi\u00E8me du championnat d'Allemagne de Formule 3 en 1996, avant d'\u00EAtre sacr\u00E9 champion l'ann\u00E9e suivante. Pris sous l'aile de Mercedes, il int\u00E8gre la Formule 3000 en 1998. Manquant le titre de justesse pour sa premi\u00E8re ann\u00E9e, il est sacr\u00E9 en 1999. Dans cette m\u00EAme p\u00E9riode, il effectue ses premiers tests en Formule 1. Nick Heidfeld fait ses d\u00E9buts en Formule 1 en 2000 chez Prost Grand Prix, o\u00F9 il ne marque aucun point. Transf\u00E9r\u00E9 chez Sauber, il se r\u00E9v\u00E8le en montant sur son premier podium. Snob\u00E9 par McLaren qui lui pr\u00E9f\u00E8re Kimi R\u00E4ikk\u00F6nen, Heidfeld reste chez Sauber, mais semble s'enliser dans le ventre mou du peloton, ne remontant plus sur le podium. Il rejoint Jordan, en pleine crise, pour la saison 2004 et marque quelques points. En 2005, l'Allemand signe avec BMW-Williams et parvient \u00E0 d\u00E9crocher trois podiums, sans pour autant gagner. En 2006, il rejoint BMW Sauber et r\u00E9alise quelques places d'honneur, dont un podium. En 2007, Heidfeld se classe cinqui\u00E8me du classement g\u00E9n\u00E9ral, notamment gr\u00E2ce \u00E0 sa r\u00E9gularit\u00E9 \u00E0 obtenir des points. L'ann\u00E9e suivante est assez similaire avec une sixi\u00E8me place finale et quatre podiums r\u00E9colt\u00E9s, sans aucune victoire toutefois. En 2009, l'\u00E9curie est sur le d\u00E9clin et Heidfeld ne d\u00E9croche qu'un seul podium, stagnant en milieu de tableau la plupart du temps. En 2010, l'Allemand d\u00E9cide de quitter l'\u00E9quipe pour rejoindre Mercedes en tant que pilote de r\u00E9serve, avant de passer chez Pirelli pour le d\u00E9veloppement des pneumatiques. Vers la fin de l'ann\u00E9e, Sauber l'appelle pour les derni\u00E8res courses de la saison, ce qui le fait gagner quelques points, chez une \u00E9curie qui n'est plus que l'ombre de celle qu'elle \u00E9tait pr\u00E9c\u00E9demment. En 2011, Lotus Renault le recrute en tant que titulaire : malgr\u00E9 un podium, il est remerci\u00E9 \u00E0 mi-saison. C'est la derni\u00E8re saison du pilote allemand en Formule 1. En 2012, Heidfeld se reconvertit en endurance et dans son championnat du monde avec Rebellion Racing, en participant \u00E0 plusieurs manches de la saison. En 2013, malgr\u00E9 des moyens plus limit\u00E9s que ceux des constructeurs, Heidfeld termine huiti\u00E8me et vice-champion des American Le Mans Series. En 2014, Heidfeld termine dixi\u00E8me du championnat des Pilotes, tout en d\u00E9crochant un podium en Formule E avec Venturi."@fr ,
+		"\u0646\u064A\u0643 \u0644\u0627\u0631\u0633 \u0647\u064A\u062F\u0641\u064A\u0644\u062F (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Nick Lars Heidfeld) (\u0648\u0644\u062F \u0641\u064A 10 \u0645\u0627\u064A\u0648 1977 \u0641\u064A \u0645\u0648\u0646\u0634\u0646\u063A\u0644\u0627\u062F\u0628\u0627\u062E\u060C \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u063A\u0631\u0628\u064A\u0629) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0623\u0644\u0645\u0627\u0646\u064A\u060C \u0648\u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0641\u0631\u064A\u0642 \u0631\u064A\u0646\u0648 \u0644\u0648\u062A\u0633 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u062E\u0644\u0627\u0644 \u0645\u0648\u0633\u0645 2010 \u062D\u0644 \u0628\u062F\u064A\u0644\u0627 \u0644\u0644\u0633\u0627\u0626\u0642 \u0628\u064A\u062F\u0631\u0648 \u062F\u0648 \u0644\u0627 \u0631\u0648\u0632\u0627 \u0628\u062F\u0621\u0627 \u0645\u0646 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0628\u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629 . \u0639\u0644\u0649 \u0627\u0644\u0631\u063A\u0645 \u0645\u0646 \u0648\u0635\u0648\u0644\u0647 \u0625\u0644\u0649 \u0645\u0646\u0635\u0629 \u0627\u0644\u062A\u062A\u0648\u064A\u062C \u0641\u064A \u0639\u0627\u0645\u064A 2007 \u0648 2008\u060C \u0644\u0645 \u064A\u0641\u0632 \u0647\u064A\u062F\u0641\u064A\u0644\u062F \u0628\u0623\u064A \u0633\u0628\u0627\u0642 \u062E\u0644\u0627\u0644 \u0639\u0634\u0631\u0629 \u0645\u0648\u0627\u0633\u0645 \u0644\u0647 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u0628\u062F\u0621\u0627 \u0645\u0646 \u0645\u0632\u0627\u0645\u0644\u062A\u0647 \u0644\u0644\u0633\u0627\u0626\u0642 \u0627\u0644\u0645\u062E\u0636\u0631\u0645 \u062C\u0627\u0646 \u0627\u0644\u064A\u0632\u064A \u0641\u064A \u0641\u0631\u064A\u0642 \u0628\u0631\u0648\u0633\u062A \u063A\u0631\u0627\u0646\u062F \u0628\u0631\u064A 2000. \u063A\u0627\u062F\u0631 \u0646\u064A\u0643 \u0641\u0631\u064A\u0642 \u0628\u0631\u0648\u0633\u062A \u0641\u064A \u0646\u0647\u0627\u064A\u0629 \u0630\u0644\u0643 \u0627\u0644\u0645\u0648\u0633\u0645 \u0625\u0644\u0649 \u0641\u0631\u064A\u0642 \u0633\u0627\u0648\u0628\u0631 \u0628\u0639\u0642\u062F \u0645\u062F\u062A\u0647 \u062B\u0644\u0627\u062B \u0633\u0646\u0648\u0627\u062A. \u0648\u062D\u0642\u0642 \u0641\u064A \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0623\u0648\u0644 \u0644\u0647 \u0645\u0639 \u0627\u0644\u0641\u0631\u064A\u0642 \u0645\u0631\u0643\u0632\u0627 \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0627\u0644\u062A\u062A\u0648\u064A\u062C \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644\u064A. \u0641\u064A \u0639\u0627\u0645 2004 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0641\u0631\u064A\u0642 \u062C\u0648\u0631\u062F\u0627\u0646 \u063A\u0631\u0627\u0646\u062F \u0628\u0631\u064A\u060C \u0648\u0628\u0642\u064A \u0641\u064A\u0647 \u0644\u0645\u062F\u0629 \u0645\u0648\u0633\u0645 \u0648\u0627\u062D\u062F. \u0641\u064A \u0645\u0648\u0633\u0645 2005 \u0623\u0639\u0644\u0646 \u0641\u0631\u064A\u0642 \u0648\u064A\u0644\u064A\u0627\u0645\u0632 \u0627\u0644\u062A\u0639\u0627\u0642\u062F \u0645\u0639 \u0646\u064A\u0643 \u0647\u064A\u062F\u0641\u064A\u0644\u062F \u0643\u0633\u0627\u0626\u0642 \u0644\u0644\u0641\u0631\u064A\u0642 \u0628\u062C\u0627\u0646\u0628 \u0627\u0644\u0633\u0627\u0626\u0642 \u0645\u0627\u0631\u0643 \u0648\u064A\u0628\u0631.\u0648\u0641\u064A \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u0627\u0628\u0639 \u0644\u0645\u0648\u0633\u0645 2005 \u0639\u0644\u0649 \u062D\u0644\u0628\u0629 \u0646\u0648\u0631\u0628\u0648\u0631\u063A\u0631\u064A\u0646\u063A\u060C \u0623\u062D\u0631\u0632 \u0647\u064A\u062F\u0641\u064A\u0644\u062F \u0645\u0631\u0643\u0632 \u0627\u0644\u0627\u0646\u0637\u0644\u0627\u0642 \u0644\u0644\u0645\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0647 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u0648\u0641\u064A \u0646\u0641\u0633 \u0627\u0644\u0645\u0648\u0633\u0645 \u062D\u0642\u0642 \u0623\u0641\u0636\u0644 \u0646\u062A\u064A\u062C\u0629 \u0644\u0647 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u062D\u062A\u0649 \u062A\u0627\u0631\u064A\u062E\u0647 \u0641\u064A \u0633\u0628\u0627\u0642 \u0645\u0648\u0646\u0627\u0643\u0648 \u062D\u064A\u062B \u0627\u062D\u062A\u0644 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0646\u064A. \u0643\u0627\u0646\u062A \u0647\u0630\u0647 \u0623\u0641\u0636\u0644 \u0646\u062A\u064A\u062C\u0629 \u062D\u0642\u0642\u0647\u0627 \u0641\u064A \u0645\u0634\u0627\u0631\u0643\u0627\u062A\u0647 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u062D\u064A\u062B \u062D\u0642\u0642 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0646\u064A \u0641\u064A \u0645\u0646\u0627\u0633\u0628\u0627\u062A \u0623\u062E\u0631\u0649 \u0628\u0639\u062F \u0627\u0646\u062A\u0642\u0627\u0644\u0647 \u0644\u0641\u0631\u064A\u0642 \u0628\u064A \u0627\u0645 \u062F\u0628\u0644\u064A\u0648 \u0633\u0627\u0648\u0628\u0631 \u0644\u0645\u0648\u0627\u0633\u0645 2006 \u0648 2007 \u06482008 \u06482009. \u0648\u0628\u0642\u064A \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642 \u062D\u062A\u0649 \u0625\u0639\u0644\u0627\u0646 \u0634\u0631\u0643\u0629 \u0628\u064A \u0623\u0645 \u062F\u0628\u0644\u064A\u0648 \u0627\u0646\u0633\u062D\u0627\u0628\u0647\u0627 \u0645\u0646 \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0648\u062D\u0644 \u0627\u0644\u0641\u0631\u064A\u0642 \u0639\u0627\u0645 2009. \u0641\u064A \u0628\u062F\u0627\u064A\u0629 \u0645\u0648\u0633\u0645 2010 \u0628\u0642\u064A \u0628\u062F\u0648\u0646 \u0645\u0642\u0639\u062F \u0643\u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642 \u0625\u062B\u0631 \u062D\u0644 \u0641\u0631\u064A\u0642 \u0628\u064A \u0627\u0645 \u062F\u0628\u0644\u064A\u0648 \u0633\u0627\u0648\u0628\u0631 \u0648\u062A\u0639\u0627\u0642\u062F \u0645\u0639 \u0641\u0631\u064A\u0642 \u0645\u0631\u0633\u064A\u062F\u0633 \u062C\u064A \u0628\u064A \u0643\u0633\u0627\u0626\u0642 \u0627\u062D\u062A\u064A\u0627\u0637 (\u062A\u062C\u0627\u0631\u0628)."@ar ,
+		"Nick Lars Heidfeld (M\u00F6nchengladbach, 10 de mayo de 1977) es un piloto de F\u00F3rmula 1 alem\u00E1n. Ha competido para varios equipos durante los a\u00F1os 2000, incluyendo Prost Grand Prix, Sauber, Jordan, Williams y BMW Sauber. En la temporada 2010, fue piloto de pruebas en Mercedes GP y piloto oficial de BMW Sauber. El 16 de febrero de 2011, fue confirmado por Lotus Renault como piloto oficial de la escuder\u00EDa para la temporada 2011, sustituyendo as\u00ED a Robert Kubica. Sin embargo, el 2 de septiembre, Lotus Renault confirm\u00F3 a Bruno Senna como su sustituto para el resto de la temporada. Sus mejores resultados de campeonato fueron quinto en 2007, sexto en 2008, y octavo en 2001. Heidfeld logr\u00F3 13 podios en la F\u00F3rmula 1, la mayor cantidad entre los pilotos sin victorias. Tambi\u00E9n posee el r\u00E9cord de m\u00E1s carreras acabadas consecutivamente sin retirarse (41) entre 2007 y 2009, r\u00E9cord que le quit\u00F3 a su compatriota Michael Schumacher en 2008. Desde 2012, Heidfeld participa en la clase LMP1 del Campeonato Mundial de Resistencia con Rebellion Racing. Finaliz\u00F3 4\u00BA en las 24 Horas de Le Mans 2012."@es ,
+		"Nick Lars Heidfeld (* 10. Mai 1977 in M\u00F6nchengladbach) ist ein deutscher Automobilrennfahrer. Er trat von 2000 bis 2011 in der Formel 1 an. Die meisten Rennen absolvierte er f\u00FCr den in Hinwil beheimateten Rennstall Sauber, der einige Zeit als BMW Sauber antrat. Sein gr\u00F6\u00DFter Erfolg war neben einer Pole-Position und insgesamt acht zweiten Pl\u00E4tzen der f\u00FCnfte Platz in der Gesamtwertung 2007. Heidfeld ist zudem der Fahrer mit den meisten Podestpl\u00E4tzen (13) in der Geschichte der Formel 1 (Stand 2015), der dabei kein Rennen gewann. Seit 2012 f\u00E4hrt er in der FIA-Langstrecken-Weltmeisterschaft (WEC) f\u00FCr Rebellion Racing. Au\u00DFerdem trat er 2014 f\u00FCr Venturi in der FIA-Formel-E-Meisterschaft an, seit 2015 f\u00E4hrt er f\u00FCr Mahindra Racing. Heidfeld wurde 1997 deutscher Formel-3- sowie 1999 Formel-3000-Meister."@de ,
+		"Nick Heidfeld (M\u00F6nchengladbach, 10 mei 1977) is een Duitse voormalige Formule 1-coureur."@nl ,
+		"Nick Lars Heidfeld (born 10 May 1977) is a German professional racing driver. Despite scoring regular podium finishes in 2005 with Williams, and in 2007 and 2008 with BMW Sauber, Heidfeld never won a race after debuting in Formula One in 2000. Heidfeld currently holds three records. He holds the record for the most podium finishes without a Grand Prix win (13), and has the most second-place finishes without a win, with 8. He also holds the record for the most consecutive race classifications with a tally of 41. In 2011, Heidfeld raced in Formula One for the Renault team as a replacement for the injured Robert Kubica, his former BMW Sauber teammate, before being replaced by Bruno Senna. He currently drives for the Rebellion Racing team in the FIA World Endurance Championship and for Mahindra Racing Formula E Team in Formula E."@en ,
+		"\u041D\u0438\u043A \u0425\u0430\u0301\u0439\u0434\u0444\u0435\u043B\u044C\u0434 (\u043D\u0435\u043C. Nick Heidfeld; 10 \u043C\u0430\u044F 1977, \u041C\u0451\u043D\u0445\u0435\u043D\u0433\u043B\u0430\u0434\u0431\u0430\u0445, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F) \u2014 \u0433\u0435\u0440\u043C\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-3000 1999 \u0433\u043E\u0434\u0430. \u0412 2000-2011 \u0433\u043E\u0434\u0430\u0445 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0416\u0438\u0432\u0451\u0442 \u0433\u0440\u0430\u0436\u0434\u0430\u043D\u0441\u043A\u0438\u043C \u0431\u0440\u0430\u043A\u043E\u043C \u0441 \u041F\u0430\u0442\u0440\u0438\u0446\u0438\u0435\u0439 \u041F\u0430\u043F\u0435\u043D (\u0440\u043E\u0434. 8 \u0438\u044E\u043B\u044F 1977 \u0433.).\u0414\u0435\u0442\u0438: \u0434\u043E\u0447\u044C \u042E\u043D\u0438 (\u0440\u043E\u0434. 3 \u0438\u044E\u043B\u044F 2005 \u0433.), \u0441\u044B\u043D\u043E\u0432\u044C\u044F \u0419\u043E\u0434\u0430 (\u0440\u043E\u0434. 21 \u0438\u044E\u043B\u044F 2007 \u0433.) \u0438 \u042E\u0441\u0442\u0443\u0441 (\u0440\u043E\u0434. 16 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2010 \u0433.)."@ru ,
+		"\u30CB\u30C3\u30AF\u30FB\u30E9\u30FC\u30B9\u30FB\u30CF\u30A4\u30C9\u30D5\u30A7\u30EB\u30C9\uFF08Nick Lars Heidfeld\u30011977\u5E745\u670810\u65E5 - \uFF09\u306F\u30C9\u30A4\u30C4\u3001\u30E1\u30F3\u30D2\u30A7\u30F3\u30B0\u30E9\u30FC\u30C8\u30D0\u30C3\u30CF\u751F\u307E\u308C\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u65E5\u672C\u3067\u306F\u300C\u30CF\u30A4\u30C9\u30D5\u30A7\u30EB\u30C9\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u304C\u591A\u3044\u304C\u3001\u30C9\u30A4\u30C4\u8A9E\u306E\u767A\u97F3\u3067\u306F\u300C\uFF08\u30E9\u30EB\u30B9\u30FB\uFF09\u30CF\u30A4\u30C8\u30D5\u30A7\u30EB\u30C8\u300D\u306B\u8FD1\u3044\u97F3\u3068\u306A\u308B\u3002 \u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u30012000\u5E74\u304B\u30892011\u5E74\u307E\u3067F1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u3002\u5143\u30C9\u30A4\u30C4F3\u30C9\u30E9\u30A4\u30D0\u30FC\u306ESven Heidfeld\u306F\u5B9F\u306E\u5F1F\u3002"@ja ,
+		"Nick Lars Heidfeld (M\u00F6nchengladbach, 10 de maio de 1977) \u00E9 um piloto alem\u00E3o. Nick come\u00E7ou sua carreira no kart. De 1986 a 1993, Nick competiu em diversas categorias da modalidade. Em 1994, Nick foi campe\u00E3o da German Formula Ford 1600, vencendo 8 das 9 provas. J\u00E1 no ano seguinte, Nick foi campe\u00E3o da German International Formula Ford e segundo lugar da German Formula Ford 1800. Em 1997, Nick competiu na F3, vencendo v\u00E1rias provas, foi campe\u00E3o da F3 alem\u00E3 e come\u00E7ou um grande passo em sua carreira, ao ser convidado para ser piloto de testes da McLaren. Ele continuou nessa posi\u00E7\u00E3o at\u00E9 1999, sendo segundo da F3000 em 1998, e campe\u00E3o em 1999, ano no qual ele tamb\u00E9m bateu o recorde do Goodwood Festival of Speed, com 41,6 segundos. Nick Heidfeild, participou tamb\u00E9m das 24 horas de Le Mans em 1999 correndo pela equipe AMG-Mercedes, em que correu em uma Mercedes-Benz CLR, ao lado dos pilotos Peter Dumbreck e Christophe Bouchut."@pt ,
+		"\u5C3C\u514B\u00B7\u6D77\u8D39\u5C14\u5FB7\uFF08\u5FB7\u8BED\uFF1ANick Lars Heidfeld\uFF0C1977\u5E745\u670810\u65E5\uFF0D\uFF0C\u751F\u4E8E\u95E8\u5174\u683C\u62C9\u5FB7\u5DF4\u8D6B\uFF09\uFF0C\u5FB7\u56FD\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8ECA\u624B\uFF0C\u7DBD\u865FQuick Nick\u3002"@zh ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Nick_Heidfeld_2014_WEC_Fuji.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Nick_Heidfeld	dbo:birthDate	"1977-5-10"^^xsd:date ,
+		"1977-05-10"^^xsd:date ;
+	dbo:wikiPageRevisionID	743437278 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/M\u00F6nchengladbach> ,
+		dbr:West_Germany ;
+	dbo:wikiPageID	647274 ;
+	dbp:currentSeries	dbr:FIA_World_Endurance_Championship ;
+	dbp:prevSeriesYears	1996 ,
+		1998 ,
+		1994 ,
+		2012 ,
+		2013 ,
+		2000 ;
+	dbp:prevSeries	dbr:German_Formula_Three_Championship ,
+		dbr:Formula_One ,
+		dbr:American_Le_Mans_Series ,
+		dbr:International_V8_Supercars_Championship ,
+		dbr:International_Formula_3000 ,
+		dbr:Porsche_Supercup ,
+		dbr:Formula_Ford ;
+	dbp:carNumber	12 ;
+	dbp:firstYear	2012 ;
+	dbp:titleYears	1999 ,
+		1997 ,
+		1994 ,
+		1995 ;
+	dbp:wins	0 .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Nick_Heidfeld	ns29:hypernym	dbr:Driver ;
+	dbp:nationality	"German"^^xsd:string .
+wikipedia-en:Nick_Heidfeld	foaf:primaryTopic	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2008_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/1996_Macau_Grand_Prix__Bertram_Schafer_Racing__3>	dbo:firstDriver	dbr:Nick_Heidfeld .
+dbr:Goodwood_Festival_of_Speed	dbp:recordDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2016_Paris_ePrix>	dbo:fastestDriver	dbr:Nick_Heidfeld .
+dbr:Paris_Street_Circuit	dbp:recordDriver	dbr:Nick_Heidfeld .
+dbr:Marcel_Tiemann	dbp:after	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2008_Australian_Grand_Prix>	dbo:secondDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2008_Japanese_Grand_Prix>	dbp:alt	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2016_Hong_Kong_ePrix>	dbo:thirdDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2007_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Nick_Heidfeld .
+dbr:Williams_FW27__3	dbo:firstDriver	dbr:Nick_Heidfeld .
+dbr:Rubens_Barrichello	dbp:before	dbr:Nick_Heidfeld .
+dbr:Petit_Le_Mans__2013__1	dbo:firstDriver	dbr:Nick_Heidfeld .
+dbr:Pedro_de_la_Rosa	dbp:after	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2005_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Nick_Heidfeld .
+dbr:Jordan_Grand_Prix	dbp:drivers	dbr:Nick_Heidfeld .
+dbr:Formula_One_tyres	dbp:alt	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2015_Beijing_ePrix>	dbo:thirdDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/2015_Moscow_ePrix>	dbo:thirdDriver	dbr:Nick_Heidfeld .
+dbr:Heidfeld	dbo:wikiPageRedirects	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/BMW_Sauber_F1.08__2>	dbo:firstDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/BMW_Sauber_F1.06__2006__2>	dbo:firstDriver	dbr:Nick_Heidfeld .
+<http://dbpedia.org/resource/BMW_Sauber_F1.07__2>	dbo:firstDriver	dbr:Nick_Heidfeld .

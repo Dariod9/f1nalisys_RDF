@@ -1,0 +1,152 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Teddy_Pilette	dbp:after	dbr:David_Purley .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:David_Purley	foaf:primaryTopic	dbr:David_Purley .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:David_Purley	rdf:type	owl:Thing .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:David_Purley	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:David_Purley	rdf:type	yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		wikidata:Q5 ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:David_Purley	rdf:type	dbo:Agent ,
+		yago:Operator110378412 ,
+		dbo:Athlete ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		foaf:Person .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:David_Purley	rdf:type	ns9:NaturalPerson ,
+		yago:CausalAgent100007347 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:David_Purley	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Person ,
+		yago:WikicatTokenFormulaOneDrivers ,
+		ns9:Agent ,
+		wikidata:Q378622 ,
+		dbo:RacingDriver ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:MotorsportRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:David_Purley	rdf:type	schema:Person ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:David_Purley	rdfs:label	"\u041F\u044D\u0440\u043B\u0438, \u0414\u044D\u0432\u0438\u0434"@ru ,
+		"David Purley"@es ,
+		"David Purley"@pl ,
+		"David Purley"@nl ,
+		"David Purley"@it ,
+		"David Purley"@pt ,
+		"David Purley"@en ,
+		"\u30C7\u30D3\u30C3\u30C9\u30FB\u30D1\u30FC\u30EC\u30A4"@ja ,
+		"David Purley"@fr ,
+		"David Purley"@de ;
+	rdfs:comment	"David Charles Purley (Bognor Regis, 26 de janeiro de 1945 - Bognor Regis, 2 de julho de 1985) foi um piloto brit\u00E2nico de F\u00F3rmula 1. Apareceu em 13 corridas, sendo 7 disputadas. Sua estreia foi em 3 de junho de 1973. Nas tr\u00EAs temporadas em que atuou na categoria, Purley n\u00E3o pontuou."@pt ,
+		"David Purley (Bognor Regis 26 januari 1945 - bij Bognor Regis, 2 juli 1985) was een Britse autocoureur, die in de jaren zeventig elf keer deelnam aan een Formule 1-wedstrijd."@nl ,
+		"David Purley (* 26. Januar 1945 in Bognor Regis; \u2020 2. Juli 1985 ebenda) war ein britischer Formel-1-Rennfahrer. Er nahm an sieben Grand-Prix-Rennen teil, erreichte jedoch keine WM-Punkte. Nach Ableistung seines Wehrdienstes in einer Fallschirmj\u00E4ger-Einheit in Aden begann Purley eine Karriere als Rennfahrer. Zun\u00E4chst war er in der Formel 3 aktiv, wobei er in den Jahren 1970 bis 1972 drei Mal im belgischen Chimay erfolgreich war. Sein Renndeb\u00FCt in der Formel 1 hatte er am 3. Juni 1973 beim Grand Prix von Monaco."@de ,
+		"\u30C7\u30D3\u30C3\u30C9\u30FB\u30C1\u30E3\u30FC\u30EB\u30BA\u30FB\u30D1\u30FC\u30EC\u30A4\uFF08David Charles Purley, GM 1945\u5E741\u670826\u65E5 - 1985\u5E747\u67082\u65E5\uFF09\u306F\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u30021973\u5E74\u53CA\u30731977\u5E74\u306BF1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u300CLEC\u300D\u306E\u30C1\u30FC\u30E0\u30AA\u30FC\u30CA\u30FC\u3002\u300C\u30C7\u30D3\u30C3\u30C9\u30FB\u30D1\u30FC\u30EA\u30FC\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"David Charles Purley, GM (26 January 1945 \u2013 2 July 1985) was a British racing driver born in Bognor Regis, West Sussex, who participated in 11 Formula One World Championship Grands Prix, debuting at Monaco in 1973. Purley is best known for his actions at the 1973 Dutch Grand Prix, where he abandoned his own race and attempted to save the life of fellow driver Roger Williamson, whose car was upside down and on fire following a serious accident. Purley was awarded the George Medal for his courage in trying to save Williamson, who suffocated in the blaze."@en ,
+		"David Charles Purley (ur. 26 stycznia 1945 w Bognor Regis, West Sussex, zm. 2 lipca 1985 tam\u017Ce) \u2013 brytyjski kierowca Formu\u0142y 1. Bra\u0142 udzia\u0142 w 11 Grand Prix, debiutowa\u0142 3 czerwca 1973 roku. Nie zdoby\u0142 punkt\u00F3w. Purley zgin\u0105\u0142 2 lipca 1985 w katastrofie samolotu akrobacyjnego Pitts Special."@pl ,
+		"David Purley (n\u00E9 le 26 janvier 1945 \u00E0 Bognor Regis, Angleterre - mort le 2 juillet 1985 \u00E0 Bognor Regis) est un pilote automobile britannique. As de la Formule 3 mais auteur d'une modeste carri\u00E8re en Formule 1 (seulement 7 Grands Prix), il s'est surtout rendu c\u00E9l\u00E8bre pour avoir tent\u00E9 de porter secours \u00E0 son compatriote Roger Williamson lors du Grand Prix des Pays-Bas 1973."@fr ,
+		"David Purley (GM) (Inglaterra, 26 de enero de 1945-Bognor Regis, 2 de julio de 1985) fue un piloto brit\u00E1nico de F\u00F3rmula 1 de los a\u00F1os 70."@es ,
+		"\u0414\u044D\u0432\u0438\u0434 \u0427\u0430\u0440\u043B\u044C\u0437 \u041F\u044D\u0440\u043B\u0438 (\u0430\u043D\u0433\u043B. David Charles Purley, 26 \u044F\u043D\u0432\u0430\u0440\u044F 1945, \u0411\u043E\u0433\u043D\u043E\u0440-\u0420\u0435\u0434\u0436\u0438\u0441, \u0417\u0430\u043F\u0430\u0434\u043D\u044B\u0439 \u0421\u0443\u0441\u0441\u0435\u043A\u0441 \u2014 2 \u0438\u044E\u043B\u044F 1985) \u2014 \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB.\u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 \u00AB\u0428\u0435\u043B\u043B\u0441\u043F\u043E\u0440\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-5000\u00BB (1976), \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0438\u043C\u044D \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-3\u00BB. \u041A\u0430\u0432\u0430\u043B\u0435\u0440 \u043C\u0435\u0434\u0430\u043B\u0438 \u0441\u0432\u044F\u0442\u043E\u0433\u043E \u0413\u0435\u043E\u0440\u0433\u0430."@ru ;
+	dbp:points	0 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:David_Purley	owl:sameAs	dbpedia-pt:David_Purley .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:David_Purley	owl:sameAs	yago-res:David_Purley .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:David_Purley	owl:sameAs	dbpedia-de:David_Purley .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:David_Purley	owl:sameAs	dbpedia-es:David_Purley .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:David_Purley	owl:sameAs	dbpedia-pl:David_Purley .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:David_Purley	owl:sameAs	dbpedia-nl:David_Purley ,
+		<http://ja.dbpedia.org/resource/\u30C7\u30D3\u30C3\u30C9\u30FB\u30D1\u30FC\u30EC\u30A4> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:David_Purley	owl:sameAs	dbpedia-fr:David_Purley ,
+		dbr:David_Purley .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:David_Purley	owl:sameAs	dbpedia-wikidata:Q171743 ,
+		<http://rdf.freebase.com/ns/m.04l1pv> ,
+		wikidata:Q171743 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:David_Purley	owl:sameAs	dbpedia-it:David_Purley .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:David_Purley	dct:subject	dbc:People_educated_at_Seaford_College ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Alumni_of_Dartington_Hall_School ,
+		<http://dbpedia.org/resource/Category:1985_deaths> ,
+		dbc:Recipients_of_the_George_Medal ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:British_military_personnel_of_the_Aden_Emergency ,
+		dbc:People_from_Bognor_Regis ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:LEC_Refrigeration_Racing_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1945_births> ,
+		dbc:Token_Formula_One_drivers ,
+		dbc:Brighton_Speed_Trials_people ,
+		dbc:British_Parachute_Regiment_officers ;
+	foaf:name	"David Purley"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"David"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:David_Purley ;
+	foaf:surname	"Purley"@en ;
+	dbp:title	dbr:Formula_5000 ;
+	dbp:years	1976 ,
+		"\u2013,"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:David_Purley	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/David_Purley?oldid=723060935> ;
+	dbp:before	dbr:Teddy_Pilette ;
+	dbp:after	"None"^^xsd:string ;
+	dbp:birthPlace	"Bognor Regis, Sussex, United Kingdom"^^xsd:string ;
+	dbp:deathPlace	"English Channel off Bognor Regis"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:David_Purley	dbp:birthDate	"1945-01-26"^^xsd:date ;
+	dbp:deathDate	"1985-07-02"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.asag.sk/bio/purley.htm> ;
+	dbo:abstract	"David Purley (GM) (Inglaterra, 26 de enero de 1945-Bognor Regis, 2 de julio de 1985) fue un piloto brit\u00E1nico de F\u00F3rmula 1 de los a\u00F1os 70."@es ,
+		"David Charles Purley, GM (26 January 1945 \u2013 2 July 1985) was a British racing driver born in Bognor Regis, West Sussex, who participated in 11 Formula One World Championship Grands Prix, debuting at Monaco in 1973. Purley is best known for his actions at the 1973 Dutch Grand Prix, where he abandoned his own race and attempted to save the life of fellow driver Roger Williamson, whose car was upside down and on fire following a serious accident. Purley was awarded the George Medal for his courage in trying to save Williamson, who suffocated in the blaze. During pre-qualifying for the 1977 British Grand Prix Purley sustained multiple bone fractures after his car's throttle stuck open and he crashed into a wall. His deceleration from 173 km/h (108 mph) to 0 in a distance of 66 cm (26 in) is one of the highest G-loads survived in a crash. He scored no championship points during his Formula One career. He died in a plane crash, having retired from motorsport and taken up aerobatics, in 1985."@en ,
+		"David Purley (n\u00E9 le 26 janvier 1945 \u00E0 Bognor Regis, Angleterre - mort le 2 juillet 1985 \u00E0 Bognor Regis) est un pilote automobile britannique. As de la Formule 3 mais auteur d'une modeste carri\u00E8re en Formule 1 (seulement 7 Grands Prix), il s'est surtout rendu c\u00E9l\u00E8bre pour avoir tent\u00E9 de porter secours \u00E0 son compatriote Roger Williamson lors du Grand Prix des Pays-Bas 1973."@fr ,
+		"David Purley (Bognor Regis 26 januari 1945 - bij Bognor Regis, 2 juli 1985) was een Britse autocoureur, die in de jaren zeventig elf keer deelnam aan een Formule 1-wedstrijd."@nl ,
+		"\u30C7\u30D3\u30C3\u30C9\u30FB\u30C1\u30E3\u30FC\u30EB\u30BA\u30FB\u30D1\u30FC\u30EC\u30A4\uFF08David Charles Purley, GM 1945\u5E741\u670826\u65E5 - 1985\u5E747\u67082\u65E5\uFF09\u306F\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u30021973\u5E74\u53CA\u30731977\u5E74\u306BF1\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u30B3\u30F3\u30B9\u30C8\u30E9\u30AF\u30BF\u30FC\u300CLEC\u300D\u306E\u30C1\u30FC\u30E0\u30AA\u30FC\u30CA\u30FC\u3002\u300C\u30C7\u30D3\u30C3\u30C9\u30FB\u30D1\u30FC\u30EA\u30FC\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"\u0414\u044D\u0432\u0438\u0434 \u0427\u0430\u0440\u043B\u044C\u0437 \u041F\u044D\u0440\u043B\u0438 (\u0430\u043D\u0433\u043B. David Charles Purley, 26 \u044F\u043D\u0432\u0430\u0440\u044F 1945, \u0411\u043E\u0433\u043D\u043E\u0440-\u0420\u0435\u0434\u0436\u0438\u0441, \u0417\u0430\u043F\u0430\u0434\u043D\u044B\u0439 \u0421\u0443\u0441\u0441\u0435\u043A\u0441 \u2014 2 \u0438\u044E\u043B\u044F 1985) \u2014 \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB.\u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 \u00AB\u0428\u0435\u043B\u043B\u0441\u043F\u043E\u0440\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-5000\u00BB (1976), \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0428\u0438\u043C\u044D \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-3\u00BB. \u041A\u0430\u0432\u0430\u043B\u0435\u0440 \u043C\u0435\u0434\u0430\u043B\u0438 \u0441\u0432\u044F\u0442\u043E\u0433\u043E \u0413\u0435\u043E\u0440\u0433\u0430."@ru ,
+		"David Charles Purley (ur. 26 stycznia 1945 w Bognor Regis, West Sussex, zm. 2 lipca 1985 tam\u017Ce) \u2013 brytyjski kierowca Formu\u0142y 1. Bra\u0142 udzia\u0142 w 11 Grand Prix, debiutowa\u0142 3 czerwca 1973 roku. Nie zdoby\u0142 punkt\u00F3w. Najbardziej znany jest ze swojego zachowania podczas Grand Prix Holandii w 1973 roku. Je\u017Cd\u017C\u0105c w zespole March wraz ze swoim przyjacielem, Rogerem Williamsonem, David Purley bra\u0142 udzia\u0142 w Grand Prix Holandii na zmodernizowanym torze Zandvoort. Startowa\u0142 z 21. miejsca, dwie pozycje za Williamsonem. W trakcie wy\u015Bcigu stopniowo zbli\u017Ca\u0142 si\u0119 do kolegi, jednak dla obu jazda zako\u0144czy\u0142a si\u0119 na 8. okr\u0105\u017Ceniu. Wtedy to w bolidzie Williamsona nast\u0105pi\u0142a eksplozja opony, co spowodowa\u0142o, \u017Ce March 731 uderzy\u0142 w barierki, kt\u00F3re zamiast zatrzyma\u0107 bolid, wystrzeli\u0142y go na drug\u0105 stron\u0119 toru. Bolid Anglika sun\u0105\u0142 200 metr\u00F3w po asfalcie, zostawiaj\u0105c pas ognia. Wrak zatrzyma\u0142 si\u0119 do g\u00F3ry ko\u0142ami, lekko p\u0142on\u0105c. Purley, widz\u0105c to, zatrzyma\u0142 sw\u00F3j bolid i pobieg\u0142 na ratunek przyjacielowi. Usi\u0142owa\u0142 przewr\u00F3ci\u0107 bolid na ko\u0142a, by Williamson m\u00F3g\u0142 wyj\u015B\u0107. Jednak wrak by\u0142 zbyt ci\u0119\u017Cki, p\u0142omienie ros\u0142y i ogarnia\u0142y coraz wi\u0119ksz\u0105 cz\u0119\u015B\u0107 pojazdu, a obs\u0142uga toru nie by\u0142a w stanie si\u0119 zbli\u017Cy\u0107 do p\u0142on\u0105cego bolidu (Purley, b\u0119d\u0105c kierowc\u0105, by\u0142 wyposa\u017Cony w ognioodporny kombinezon, kt\u00F3rego nie posiadali porz\u0105dkowi). Gdy Purleyowi dano ga\u015Bnic\u0119, p\u0142omienie by\u0142y ju\u017C na tyle du\u017Ce, \u017Ce nie by\u0142 on ju\u017C w stanie ugasi\u0107 po\u017Caru. Wkr\u00F3tce ogie\u0144 obj\u0105\u0142 ca\u0142y bolid i Purley m\u00F3g\u0142 dotkliwie si\u0119 poparzy\u0107, a nawet zgin\u0105\u0107. Od wraku odci\u0105gn\u0105\u0142 go cz\u0142onek obs\u0142ugi toru, kt\u00F3ry zosta\u0142 uderzony przez Purleya. Efektem by\u0142a gwa\u0142towna reakcja ludzi na trybunach, kt\u00F3rzy chcieli wej\u015B\u0107 na tor i pom\u00F3c mu. Zostali jednak powstrzymani.Po kilku minutach od uderzenia dojecha\u0142a ekipa ga\u015Bnicza, jednak wtedy Williamson by\u0142 ju\u017C martwy. Jeden z marshali rzuci\u0142 koc na zw\u0142oki Williamsona i wy\u015Bcig toczy\u0142 si\u0119 dalej. Fotografia zrobiona przez Cor Mooij, przedstawiaj\u0105ca twarz Purleya, kt\u00F3ry zda\u0142 sobie spraw\u0119, \u017Ce jego wysi\u0142ki nie daj\u0105 efekt\u00F3w, by\u0142a bliska zwyci\u0119stwa w konkursie World Press Photo w kategorii sport. Tego samego roku David Purley otrzyma\u0142 Medal Jerzego za pr\u00F3b\u0119 ratowania Williamsona. \u0141\u0105cznie zosta\u0142 odznaczony 11 medalami za heroizm i odwag\u0119. Purley prze\u017Cy\u0142 hamowanie ze 173 do 0 km/h na odcinku 66 cm podczas wypadku w kwalifikacjach Grand Prix Formu\u0142y 1 na torze Silverstone Circuit w Wielkiej Brytanii w roku 1977. Odpowiada to przeci\u0105\u017Ceniu 179,8 g, kt\u00F3re by\u0142o uwa\u017Cane za najwy\u017Csze, jakie kiedykolwiek przetrwa\u0142 cz\u0142owiek (do wypadku Kenny'ego Br\u00E4cka z 2003 roku). Z\u0142ama\u0142 w wielu miejscach nogi, miednic\u0119 i \u017Cebra. Wr\u00F3ci\u0142 do wy\u015Bcig\u00F3w, ale ograniczy\u0142 si\u0119 do serii Aurora AFX. Purley zgin\u0105\u0142 2 lipca 1985 w katastrofie samolotu akrobacyjnego Pitts Special."@pl ,
+		"David Purley (* 26. Januar 1945 in Bognor Regis; \u2020 2. Juli 1985 ebenda) war ein britischer Formel-1-Rennfahrer. Er nahm an sieben Grand-Prix-Rennen teil, erreichte jedoch keine WM-Punkte. Nach Ableistung seines Wehrdienstes in einer Fallschirmj\u00E4ger-Einheit in Aden begann Purley eine Karriere als Rennfahrer. Zun\u00E4chst war er in der Formel 3 aktiv, wobei er in den Jahren 1970 bis 1972 drei Mal im belgischen Chimay erfolgreich war. Sein Renndeb\u00FCt in der Formel 1 hatte er am 3. Juni 1973 beim Grand Prix von Monaco. Beim t\u00F6dlichen Unfall seines Fahrerkollegen und Freundes Roger Williamson beim Grand Prix der Niederlande in Zandvoort am 29. Juli 1973 sah er das brennende Fahrzeugwrack und konnte nach eigenen Angaben durch die Flammen erkennen, wie sich Williamson zu befreien versuchte. Purley hielt daraufhin sofort an, um ihm zu helfen \u2013 w\u00E4hrend einige Streckenposten tatenlos zusehen mussten, weil sie keine feuerfeste Kleidung trugen. Williamson konnte aber nicht mehr gerettet werden und verbrannte in seinem Wagen vor Millionen von Fernsehzuschauern. David Purley fand durch seinen Einsatz viel Anerkennung und erhielt f\u00FCr den Rettungsversuch die britische George Medal. Purleys Ausflug in die Formel 1 war zun\u00E4chst recht kurzfristig, stattdessen engagierte er sich in der Folge vor allem in der Formel 2, wo er mit Chevrons und Marchs f\u00FCr den Rennstall des Hongkonger Million\u00E4rs Bob Harper startete. Daneben startete er auch in der Formel 5000 und gewann hier 1976 die Britische Meisterschaft. 1977 kehrte er in die Formel 1 zur\u00FCck und fuhr mit einem LEC. Beim britischen Grand Prix in Silverstone verungl\u00FCckte er schwer, \u00FCberlebte diesen Unfall, erlitt allerdings etliche Knochenbr\u00FCche. Sp\u00E4ter fuhr er noch einige nicht zur Weltmeisterschaft z\u00E4hlende Formel-1-Rennen in Gro\u00DFbritannien. Die Grand-Prix-Karriere war aber 1977 beendet. Am 2. Juli 1985 starb Purley bei einem Flugzeugungl\u00FCck, als er mit einem Pitts-Special-Doppeldecker vor seiner Heimatstadt Bognor Regis ins Meer st\u00FCrzte."@de ,
+		"David Charles Purley (Bognor Regis, 26 de janeiro de 1945 - Bognor Regis, 2 de julho de 1985) foi um piloto brit\u00E2nico de F\u00F3rmula 1. Apareceu em 13 corridas, sendo 7 disputadas. Sua estreia foi em 3 de junho de 1973. Nas tr\u00EAs temporadas em que atuou na categoria, Purley n\u00E3o pontuou. Entretanto, ele est\u00E1 na hist\u00F3ria da Formula 1 por dois motivos: em 1977, quando corria no seu pr\u00F3prio carro, nas pr\u00E9-qualifica\u00E7\u00F5es do GP de Inglaterra, em Silverstone, Purley perdeu o controle de seu carro e bateu no muro a 173 Km/hora. Ele sofreu uma desacelera\u00E7\u00E3o de 178 G, o que fez bater um recorde do Guiness Book como o homem que sobreviveu a pior desacelera\u00E7\u00E3o j\u00E1 vista. Somente em 12 de outubro de 2003, no Texas Motor Speedway, esse recorde foi superado pelo sueco Kenny Brack, quando seu carro decolou e se chocou contra o alambrado, na reta oposta: Brack foi submetido a uma desacelera\u00E7\u00E3o de 214 G. Em 2015 a investiga\u00E7\u00E3o da FIA ao acidente sofrido por Jules Bianchi concluiu que este \u00FAltimo sofreu um impacto de 254 G."@pt ;
+	dbo:birthDate	"1945-1-26"^^xsd:date ;
+	dbo:deathDate	"1985-7-2"^^xsd:date ;
+	dbo:deathPlace	dbr:Bognor_Regis ;
+	dbo:wikiPageRevisionID	723060935 ;
+	dbo:birthPlace	dbr:Bognor_Regis ;
+	dbo:wikiPageID	1237359 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:David_Purley	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1973_Monaco_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1977_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"11"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Non-works March"^^xsd:string ,
+		<http://dbpedia.org/resource/Token_(racing_team)> ,
+		dbr:LEC_Refrigeration_Racing ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:width	275 ;
+	dbp:align	"right"^^xsd:string .
+dbr:LEC_Refrigeration_Racing	dbp:founders	dbr:David_Purley .
+<http://dbpedia.org/resource/1970_1000km_of_Brands_Hatch__S2.0__2>	dbo:firstDriver	dbr:David_Purley .

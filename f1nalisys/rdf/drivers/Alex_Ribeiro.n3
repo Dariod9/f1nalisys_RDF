@@ -1,0 +1,135 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Alex_Ribeiro	rdf:type	yago:WikicatMarchFormulaOneDrivers ,
+		yago:WikicatFittipaldiFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Alex_Ribeiro	rdf:type	umbel-rc:RaceCarDriver ,
+		umbel-rc:Athlete .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Alex_Ribeiro	rdf:type	dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Alex_Ribeiro	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Alex_Ribeiro	rdf:type	schema:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Alex_Ribeiro	rdf:type	wikidata:Q215627 ,
+		yago:WikicatTopRaceV6Drivers ,
+		yago:WikicatHeskethFormulaOneDrivers ,
+		wikidata:Q24229398 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Alex_Ribeiro	rdf:type	ns8:Agent ,
+		dbo:FormulaOneRacer ,
+		ns8:NaturalPerson ,
+		dbo:Agent ,
+		yago:Operator110378412 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Alex_Ribeiro	rdf:type	foaf:Person ,
+		wikidata:Q5 ,
+		dbo:MotorsportRacer ,
+		yago:Driver110034906 ,
+		dbo:RacingDriver ,
+		wikidata:Q378622 ,
+		yago:WikicatStockCarBrasilDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatBrazilianFormulaOneDrivers ,
+		dbo:Person ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Alex_Ribeiro	rdfs:label	"Alex Dias Ribeiro"@pt ,
+		"Alex Dias Ribeiro"@nl ,
+		"Alex-Dias Ribeiro"@it ,
+		"Alex Ribeiro (pilote automobile)"@fr ,
+		"\u30A2\u30EC\u30C3\u30AF\u30B9\uFF1D\u30C7\u30A3\u30A2\u30B9\u30FB\u30EA\u30D9\u30A4\u30ED"@ja ,
+		"Alex-Dias Ribeiro"@de ,
+		"Alex Ribeiro"@es ,
+		"Alex Ribeiro"@en ,
+		"\u0420\u0438\u0431\u0435\u0439\u0440\u0443, \u0410\u043B\u0435\u043A\u0441"@ru ,
+		"Alex Ribeiro"@pl ;
+	rdfs:comment	"Alexandre \"Alex\" Dias Ribeiro (ur. 7 listopada 1948 w Belo Horizonte) \u2013 brazylijski kierowca Formu\u0142y 1."@pl ,
+		"Alex Dias Ribeiro (Belo Horizonte, 7 de novembro de 1948) \u00E9 um ex-piloto brasileiro de F\u00F3rmula 1. Alex Dias foi campe\u00E3o Brasileiro de F. Ford, vice-campe\u00E3o ingl\u00EAs e europeu de F3, n\u00FAmero 1 no ranking dos pilotos brasileiros em 1973, Alex dirige a organiza\u00E7\u00E3o Atletas de Cristo, que re\u00FAne mais de 7.500 atletas de diversas modalidades. Disputou 10 GPs, obtendo o 8\u00BA lugar como sua melhor coloca\u00E7\u00E3o nos GPs da Alemanha e Canad\u00E1 em 1977. Carreira: 218 corridas, 24 vit\u00F3rias, 16 categorias do kart \u00E0 F\u00F3rmula 1. Temporadas na F-1: tr\u00EAs, n\u00E3o consecutivas."@pt ,
+		"Alex Dias Ribeiro (Belo Horizonte, 7 november 1948) is een voormalig Formule 1 coureur. Hij reed 20 grands prix, hij haalde daarin geen punten. Tijdens de Grand Prix van Brazili\u00EB 2002 kwam Ribeiro bijna om het leven. Tijdens de warm-up was Enrique Bernoldi gecrasht. Ribeiro kwam aanrijden in de doktorsauto, net toen hij de deur open deed reed Nick Heidfeld in zijn Sauber de deur eraf. Ribeiro, Bernoldi en Heidfeld waren ongedeerd. Na de Formule 1 racete hij nog een paar jaar in de Copa NEXTEL Stock Car."@nl ,
+		"Si tratta di uno dei molti piloti brasiliani che tentarono la carta della F1 negli anni settanta, sulla scia del successo di Emerson Fittipaldi. Fervente credente corse con la scritta Jesus Saves (Cristo Salva), applicata a grandi caratteri sulla vettura."@it ,
+		"\u30A2\u30EC\u30C3\u30AF\u30B9\uFF1D\u30C7\u30A3\u30A2\u30B9\u30FB\u30EA\u30D9\u30A4\u30ED\uFF08Alex Dias Ribeiro, 1948\u5E7411\u67087\u65E5 - \uFF09\u306F\u3001\u30D6\u30E9\u30B8\u30EB\u30FB\u30D9\u30ED\u30AA\u30EA\u30BE\u30F3\u30C6\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002 F1\u53C2\u6226\u6642\u306E\u8868\u8A18\u3068\u3057\u3066\u306F\u300C\u30A2\u30EC\u30C3\u30AF\u30B9\u30FB\u30EA\u30D9\u30A4\u30ED\uFF08Alex Ribeiro\uFF09\u300D\u3092\u7528\u3044\u305F\u3002"@ja ,
+		"\u0410\u043B\u0435\u043A\u0441 \u0414\u0438\u0430\u0441 \u0420\u0438\u0431\u0435\u0439\u0440\u0443 (\u043F\u043E\u0440\u0442. Alex Dias Ribeiro, 7 \u043D\u043E\u044F\u0431\u0440\u044F 1948 \u0433\u043E\u0434\u0430, \u0411\u0435\u043B\u0443-\u041E\u0440\u0438\u0437\u043E\u043D\u0442\u0438) \u2014 \u0431\u0440\u0430\u0437\u0438\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Alexandre \"Alex\" Dias Ribeiro (born in Belo Horizonte, November 7, 1948) is a former racing driver from Brazil. He entered in 20 Formula One World Championship Grands Prix, but scored no World Championship points."@en ,
+		"Alex Dias Ribeiro (Belo Horizonte, 7 de noviembre de 1948) es un ex piloto brasile\u00F1o de F\u00F3rmula 1, particip\u00F3 en 20 Grandes Premios sin conseguir puntos. Asimismo, desempe\u00F1a funciones de pastor de la Iglesia Bautista brasile\u00F1a."@es ,
+		"Alex Dias Ribeiro, n\u00E9 le 7 novembre 1948 \u00E0 Belo Horizonte au Br\u00E9sil, est un pilote automobile br\u00E9silien. Depuis le milieu des ann\u00E9es 1980, il est le directeur ex\u00E9cutif de l'association \u00E9vang\u00E9lique des Athl\u00E8tes du Christ."@fr ,
+		"Alex-Dias Ribeiro (* 7. November 1948 in Belo Horizonte, Brasilien) ist ein brasilianischer Automobilrennfahrer. Er fuhr in den Jahren 1976 und 1977 in der Formel 1. Seine beste Platzierung war ein achter Platz beim Gro\u00DFen Preis von Deutschland 1977, den er beim Gro\u00DFen Preis von Kanada im selben Jahr noch einmal best\u00E4tigen konnte. 1979 trat er noch zweimal f\u00FCr das Team seines Landsmanns Emerson Fittipaldi an, konnte sich jedoch nicht qualifizieren. Aufmerksam auf Ribeiro wurde das Hesketh-Racing-Team, als er 1973 brasilianischer Formel-Ford-Meister wurde. Diese Erfolge aus seiner Anfangszeit konnte er allerdings in der Formel 1 nicht best\u00E4tigen."@de .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Alex_Ribeiro	dbp:points	0 ;
+	owl:sameAs	wikidata:Q172893 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Alex_Ribeiro	owl:sameAs	dbpedia-wikidata:Q172893 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Alex_Ribeiro	owl:sameAs	yago-res:Alex_Ribeiro ,
+		<http://fr.dbpedia.org/resource/Alex_Ribeiro_(pilote_automobile)> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Alex_Ribeiro	owl:sameAs	dbpedia-de:Alex-Dias_Ribeiro .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Alex_Ribeiro	owl:sameAs	dbpedia-pl:Alex_Ribeiro .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Alex_Ribeiro	owl:sameAs	dbpedia-pt:Alex_Dias_Ribeiro .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Alex_Ribeiro	owl:sameAs	dbpedia-es:Alex_Ribeiro ,
+		<http://rdf.freebase.com/ns/m.04j9bw> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Alex_Ribeiro	owl:sameAs	dbpedia-nl:Alex_Dias_Ribeiro ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30EC\u30C3\u30AF\u30B9\uFF1D\u30C7\u30A3\u30A2\u30B9\u30FB\u30EA\u30D9\u30A4\u30ED> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Alex_Ribeiro	owl:sameAs	dbpedia-it:Alex-Dias_Ribeiro ,
+		dbr:Alex_Ribeiro .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Alex_Ribeiro	dct:subject	<http://dbpedia.org/resource/Category:1948_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Alex_Ribeiro	dct:subject	dbc:Brazilian_Christians ,
+		dbc:Living_people ,
+		dbc:Brazilian_people_of_Portuguese_descent ,
+		dbc:March_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Top_Race_V6_drivers ,
+		dbc:Hesketh_Formula_One_drivers ,
+		dbc:Fittipaldi_Formula_One_drivers ,
+		dbc:Sportspeople_from_Belo_Horizonte ,
+		dbc:Brazilian_Formula_One_drivers ,
+		dbc:Stock_Car_Brasil_drivers ,
+		dbc:Brazilian_racing_drivers ;
+	foaf:name	"Alex Ribeiro"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Alex"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Alex_Ribeiro	foaf:isPrimaryTopicOf	wikipedia-en:Alex_Ribeiro ;
+	foaf:surname	"Ribeiro"@en ;
+	dbp:years	"- ,"^^xsd:string ;
+	dbo:nationality	dbr:Brazil .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Alex_Ribeiro	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Alex_Ribeiro?oldid=716152788> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Alex_Ribeiro	dbp:birthDate	"1948-11-07"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.christiansinmotorsport.org.uk> ;
+	dbo:abstract	"Alex Dias Ribeiro, n\u00E9 le 7 novembre 1948 \u00E0 Belo Horizonte au Br\u00E9sil, est un pilote automobile br\u00E9silien. Depuis le milieu des ann\u00E9es 1980, il est le directeur ex\u00E9cutif de l'association \u00E9vang\u00E9lique des Athl\u00E8tes du Christ."@fr ,
+		"Alex Dias Ribeiro (Belo Horizonte, 7 de noviembre de 1948) es un ex piloto brasile\u00F1o de F\u00F3rmula 1, particip\u00F3 en 20 Grandes Premios sin conseguir puntos. Asimismo, desempe\u00F1a funciones de pastor de la Iglesia Bautista brasile\u00F1a."@es ,
+		"Alexandre \"Alex\" Dias Ribeiro (born in Belo Horizonte, November 7, 1948) is a former racing driver from Brazil. He entered in 20 Formula One World Championship Grands Prix, but scored no World Championship points."@en ,
+		"Alexandre \"Alex\" Dias Ribeiro (ur. 7 listopada 1948 w Belo Horizonte) \u2013 brazylijski kierowca Formu\u0142y 1."@pl ,
+		"Alex Dias Ribeiro (Belo Horizonte, 7 november 1948) is een voormalig Formule 1 coureur. Hij reed 20 grands prix, hij haalde daarin geen punten. Tijdens de Grand Prix van Brazili\u00EB 2002 kwam Ribeiro bijna om het leven. Tijdens de warm-up was Enrique Bernoldi gecrasht. Ribeiro kwam aanrijden in de doktorsauto, net toen hij de deur open deed reed Nick Heidfeld in zijn Sauber de deur eraf. Ribeiro, Bernoldi en Heidfeld waren ongedeerd. Na de Formule 1 racete hij nog een paar jaar in de Copa NEXTEL Stock Car. Ribeiro is misschien wel het bekendst door zijn \"Jezus Saves\" slogans op sommige Formule 1 auto's."@nl ,
+		"Alex Dias Ribeiro (Belo Horizonte, 7 de novembro de 1948) \u00E9 um ex-piloto brasileiro de F\u00F3rmula 1. Alex Dias foi campe\u00E3o Brasileiro de F. Ford, vice-campe\u00E3o ingl\u00EAs e europeu de F3, n\u00FAmero 1 no ranking dos pilotos brasileiros em 1973, Alex dirige a organiza\u00E7\u00E3o Atletas de Cristo, que re\u00FAne mais de 7.500 atletas de diversas modalidades. Nas Olimp\u00EDadas de 1988 e Copas do Mundo da It\u00E1lia 90, USA 94, Fran\u00E7a 98 e Coreia /Jap\u00E3o 02, ele atuou como capel\u00E3o dos atletas crist\u00E3os da Sele\u00E7\u00E3o Brasileira. Palestrante, radialista e escritor, Alex tem tr\u00EAs best sellers publicados. Um deles foi traduzido para o ingl\u00EAs, espanhol e \u00E1rabe e outro ganhou o pr\u00EAmio ABEC de melhor biografia do ano, totalizando 80.000 livros vendidos. Disputou 10 GPs, obtendo o 8\u00BA lugar como sua melhor coloca\u00E7\u00E3o nos GPs da Alemanha e Canad\u00E1 em 1977. Mesmo apelidado de 'Terror da F-3', pela imprensa inglesa da d\u00E9cada de 1970, o brasileiro Alex Dias Ribeiro ficou conhecido mundialmente como o piloto que \"pisando fundo, levava o nome de Cristo para os quatro cantos do mundo\". Mineiro de Belo Horizonte, com mais de 35 anos dedicados ao esporte, 12 deles no automobilismo. Carreira: 218 corridas, 24 vit\u00F3rias, 16 categorias do kart \u00E0 F\u00F3rmula 1. T\u00EDtulos: bicampe\u00E3o brasiliense de kart; campe\u00E3o brasileiro de F-Ford, em 1973; campe\u00E3o da F-3 inglesa, em 1974; campe\u00E3o da ta\u00E7a europeia de F-3, em 1975. Temporadas na F-1: tr\u00EAs, n\u00E3o consecutivas. Alex ganhou fama mundial por correr com a mensagem \u201CJesus Saves\u201D (Jesus Salva) em seu carro. Desde 1988 \u00E9 comentarista da F\u00F3rmula 1 na R\u00E1dio Jovem Pan."@pt ,
+		"Si tratta di uno dei molti piloti brasiliani che tentarono la carta della F1 negli anni settanta, sulla scia del successo di Emerson Fittipaldi. Fervente credente corse con la scritta Jesus Saves (Cristo Salva), applicata a grandi caratteri sulla vettura."@it ,
+		"\u30A2\u30EC\u30C3\u30AF\u30B9\uFF1D\u30C7\u30A3\u30A2\u30B9\u30FB\u30EA\u30D9\u30A4\u30ED\uFF08Alex Dias Ribeiro, 1948\u5E7411\u67087\u65E5 - \uFF09\u306F\u3001\u30D6\u30E9\u30B8\u30EB\u30FB\u30D9\u30ED\u30AA\u30EA\u30BE\u30F3\u30C6\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002 F1\u53C2\u6226\u6642\u306E\u8868\u8A18\u3068\u3057\u3066\u306F\u300C\u30A2\u30EC\u30C3\u30AF\u30B9\u30FB\u30EA\u30D9\u30A4\u30ED\uFF08Alex Ribeiro\uFF09\u300D\u3092\u7528\u3044\u305F\u3002"@ja ,
+		"Alex-Dias Ribeiro (* 7. November 1948 in Belo Horizonte, Brasilien) ist ein brasilianischer Automobilrennfahrer. Er fuhr in den Jahren 1976 und 1977 in der Formel 1. Seine beste Platzierung war ein achter Platz beim Gro\u00DFen Preis von Deutschland 1977, den er beim Gro\u00DFen Preis von Kanada im selben Jahr noch einmal best\u00E4tigen konnte. 1979 trat er noch zweimal f\u00FCr das Team seines Landsmanns Emerson Fittipaldi an, konnte sich jedoch nicht qualifizieren. Aufmerksam auf Ribeiro wurde das Hesketh-Racing-Team, als er 1973 brasilianischer Formel-Ford-Meister wurde. Diese Erfolge aus seiner Anfangszeit konnte er allerdings in der Formel 1 nicht best\u00E4tigen. Nach seiner aktiven Karriere war er bis 2008 Fahrer des Medical Cars der Formel 1. Ribeiro, der stets den Schriftzug \u201EJesus saves\u201C auf dem Helm trug, war eines der prominentesten Mitglieder der Vereinigung \u201EChristians In Motorsport\u201C."@de ,
+		"\u0410\u043B\u0435\u043A\u0441 \u0414\u0438\u0430\u0441 \u0420\u0438\u0431\u0435\u0439\u0440\u0443 (\u043F\u043E\u0440\u0442. Alex Dias Ribeiro, 7 \u043D\u043E\u044F\u0431\u0440\u044F 1948 \u0433\u043E\u0434\u0430, \u0411\u0435\u043B\u0443-\u041E\u0440\u0438\u0437\u043E\u043D\u0442\u0438) \u2014 \u0431\u0440\u0430\u0437\u0438\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ;
+	dbo:birthDate	"1948-11-7"^^xsd:date ;
+	dbo:wikiPageRevisionID	716152788 ;
+	dbo:birthPlace	dbr:Belo_Horizonte ;
+	dbo:wikiPageID	1218388 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Alex_Ribeiro	ns25:hypernym	dbr:Driver ;
+	dbo:firstRace	<http://dbpedia.org/resource/1976_United_States_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1979_United_States_Grand_Prix> ;
+	dbo:races	"20"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Fittipaldi_Automotive ,
+		dbr:March_Engineering ,
+		dbr:Hesketh_Racing .
+wikipedia-en:Alex_Ribeiro	foaf:primaryTopic	dbr:Alex_Ribeiro .
+dbr:Alex_Dias_Ribeiro	dbo:wikiPageRedirects	dbr:Alex_Ribeiro .

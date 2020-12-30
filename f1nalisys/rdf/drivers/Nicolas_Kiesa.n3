@@ -1,0 +1,153 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Nicolas_Kiesa	foaf:primaryTopic	dbr:Nicolas_Kiesa .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2001_British_Formula_Three_Championship__RC_Prost_Junior_Team__1>	dbo:firstDriver	dbr:Nicolas_Kiesa .
+<http://dbpedia.org/resource/2000_British_Formula_Three_Championship__RC_Motorsport__2>	dbo:firstDriver	dbr:Nicolas_Kiesa .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:James_Courtney	dbp:before	dbr:Nicolas_Kiesa .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Nicolas_Kiesa	rdf:type	dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Nicolas_Kiesa	rdf:type	owl:Thing ,
+		dbo:MotorsportRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Nicolas_Kiesa	rdf:type	wikidata:Q378622 .
+@prefix schema:	<http://schema.org/> .
+dbr:Nicolas_Kiesa	rdf:type	schema:Person ,
+		wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Nicolas_Kiesa	rdf:type	yago:WikicatFormulaFordDrivers ,
+		yago:Operator110378412 ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		foaf:Person .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Nicolas_Kiesa	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatEuropeanLeMansSeriesDrivers ,
+		dbo:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Nicolas_Kiesa	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatMinardiFormulaOneDrivers ,
+		yago:WikicatAmericanLeMansSeriesDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:WikicatDanishFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Athlete ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Nicolas_Kiesa	rdfs:label	"Nicolas Kiesa"@es ,
+		"\u30CB\u30B3\u30E9\u30B9\u30FB\u30AD\u30A8\u30FC\u30B5"@ja ,
+		"Nicolas Kiesa"@de ,
+		"Nicolas Kiesa"@pl ,
+		"Nicolas Kiesa"@fr ,
+		"\u041A\u044C\u0435\u0437\u0430, \u041D\u0438\u043A\u043E\u043B\u0430\u0441"@ru ,
+		"Nicolas Kiesa"@pt ,
+		"Nicolas Kiesa"@it ,
+		"Nicolas Kiesa"@en ,
+		"Nicolas Kiesa"@nl ;
+	rdfs:comment	"\u30CB\u30B3\u30E9\u30B9\u30FB\u30AD\u30A8\u30FC\u30B5\uFF08Nicolas Kiesa, 1978\u5E743\u67083\u65E5 - \uFF09\u306F\u3001\u30C7\u30F3\u30DE\u30FC\u30AF\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30022003\u5E748\u67083\u65E5\u3001\u30B8\u30E3\u30AC\u30FC\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u306B\u79FB\u7C4D\u3057\u305F\u30B8\u30E3\u30B9\u30C6\u30A3\u30F3\u30FB\u30A6\u30A3\u30EB\u30BD\u30F3\u306E\u5F8C\u4EFB\u3068\u3057\u3066\u30C9\u30A4\u30C4GP\u3067F1\u30C7\u30D3\u30E5\u30FC\u3092\u679C\u305F\u3057\u305D\u306E\u5F8C5\u6226\u306B\u51FA\u5834\u3002\u30DD\u30A4\u30F3\u30C8\u306F\u7372\u5F97\u3057\u305F\u3053\u3068\u304C\u306A\u3044\u304C\u3059\u3079\u3066\u5B8C\u8D70\u3057\u3066\u3044\u308B\u3002\u30C7\u30F3\u30DE\u30FC\u30AF\u4EBA\u304CF1\u30C9\u30E9\u30A4\u30D0\u30FC\u306B\u306A\u308B\u306E\u306F\u30E4\u30F3\u30FB\u30DE\u30B0\u30CC\u30C3\u30BB\u30F3\u4EE5\u67656\u5E74\u632F\u308A\u3068\u306A\u3063\u305F\u30022003\u5E74\u306B\u306F\u30D5\u30A9\u30FC\u30DF\u30E5\u30E93000\u30671\u52DD\u3057\u3066\u3044\u308B\u30022005\u5E74\u306B\u30ED\u30D0\u30FC\u30C8\u30FB\u30C9\u30FC\u30F3\u30DC\u30B9\u306E\u4EE3\u5F79\u3068\u3057\u3066\u30B8\u30E7\u30FC\u30C0\u30F3\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA\u3067\u30B5\u30FC\u30C9\u30C9\u30E9\u30A4\u30D0\u30FC\u3068\u3057\u3066\u30C9\u30A4\u30C4GP\u3088\u308AF1\u306B\u623B\u3063\u305F\u3002"@ja ,
+		"Nicolas Kiesa, n\u00E9 le 3 mars 1978 \u00E0 Copenhague au Danemark, est un pilote automobile danois."@fr ,
+		"Nicolas Kiesa (born 3 March 1978) is a Danish racing driver. He participated in five Formula One Grands Prix in the 2003 season. He scored no championship points, but finished all his races. Before that, he won the 2003 Formula 3000 race at Monaco, when Bj\u00F6rn Wirdheim slowed on the last lap on the front straight to greet his team. He returned to Formula One in 2005, replacing Robert Doornbos as Jordan's third driver for the German Grand Prix and for the rest of the season."@en ,
+		"Nicolas Kiesa (ur. 3 marca 1978 w Kopenhadze) \u2013 du\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"\u041D\u0438\u043A\u043E\u043B\u0430\u0441 \u041A\u044C\u0435\u0437\u0430 (\u0434\u0430\u0442. Nicolas Kiesa, 3 \u043C\u0430\u0440\u0442\u0430 1978, \u041A\u043E\u043F\u0435\u043D\u0433\u0430\u0433\u0435\u043D) \u2014 \u0434\u0430\u0442\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Nicolas Kiesa (nacido el 3 de marzo de 1978 en Copenhague, Dinamarca) es un piloto dan\u00E9s de automovilismo. Particip\u00F3 en cinco Grandes Premios de F\u00F3rmula 1 con el equipo Minardi en 2003, logrando como mejor resultado un und\u00E9cimo puesto en el Gran Premio de los Estados Unidos."@es ,
+		"Nicolas Kiesa (Kopenhagen, 3 maart 1978) is een Deens autocoureur. Hij maakte zijn Formule 1-debuut in 2003 bij Minardi en nam deel aan 5 Grands Prix. Hij scoorde geen punten. In Formule 3000/2003 wist hij de Formule 3000-race in Monaco te winnen. Bj\u00F6rn Wirdheim dacht dat hij de finishvlag al voorbij was en vertraagde bij zijn pitcrew waarop Kiesa hem kon inhalen."@nl ,
+		"Nicolas Kiesa (* 3. M\u00E4rz 1978 in Kopenhagen) ist ein d\u00E4nischer Automobilrennfahrer."@de ,
+		"Nicolas Kiesa (Copenhague, 3 de mar\u00E7o de 1978) \u00E9 um piloto dinamarqu\u00EAs de corridas. Participou de cinco corridas da F\u00F3rmula 1, sua estr\u00E9ia foi em 3 de Agosto de 2003, cinco meses ap\u00F3s completar 25 anos. Voltou em 2005, substituindo o holand\u00EAs Robert Doornbos como terceiro piloto da Jordan. N\u00E3o pontuou na sua r\u00E1pida passagem na categoria."@pt ;
+	dbp:points	0 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04kvtl> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-wikidata:Q173097 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-es:Nicolas_Kiesa .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-id:Nicolas_Kiesa .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-cs:Nicolas_Kiesa .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-pl:Nicolas_Kiesa .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-de:Nicolas_Kiesa ,
+		dbr:Nicolas_Kiesa .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-pt:Nicolas_Kiesa .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-it:Nicolas_Kiesa ,
+		wikidata:Q173097 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	yago-res:Nicolas_Kiesa .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-nl:Nicolas_Kiesa .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Nicolas_Kiesa	owl:sameAs	dbpedia-fr:Nicolas_Kiesa ,
+		<http://ja.dbpedia.org/resource/\u30CB\u30B3\u30E9\u30B9\u30FB\u30AD\u30A8\u30FC\u30B5> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Nicolas_Kiesa	dct:subject	dbc:Sportspeople_from_Copenhagen ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:Formula_Ford_drivers ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		dbc:Living_people ,
+		dbc:Danish_people_of_Italian_descent ,
+		<http://dbpedia.org/resource/Category:1978_births> ,
+		dbc:Danish_Formula_One_drivers ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:Danish_racing_drivers ,
+		dbc:European_Le_Mans_Series_drivers ;
+	foaf:name	"Nicolas Kiesa"@en ;
+	foaf:homepage	<http://www.kiesa.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_kiesa_lemans2006.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Nicolas"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Nicolas_Kiesa ;
+	foaf:surname	"Kiesa"@en ;
+	dbp:title	dbr:Champion ,
+		dbr:British_Formula_Ford_Championship ;
+	dbp:years	1999 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Nicolas_Kiesa	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Nicolas_Kiesa?oldid=739018447> ;
+	dbp:before	dbr:Jenson_Button ;
+	dbp:after	dbr:James_Courtney ;
+	dbp:birthPlace	"Copenhagen, Denmark"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Nicolas_Kiesa	dbp:birthDate	"1978-03-03"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.kiesa.com/> ,
+		<http://www.grandprix.com/gpe/drv-kienic.html> ;
+	dbo:abstract	"Nicolas Kiesa (Copenhague, 3 de mar\u00E7o de 1978) \u00E9 um piloto dinamarqu\u00EAs de corridas. Participou de cinco corridas da F\u00F3rmula 1, sua estr\u00E9ia foi em 3 de Agosto de 2003, cinco meses ap\u00F3s completar 25 anos. Voltou em 2005, substituindo o holand\u00EAs Robert Doornbos como terceiro piloto da Jordan. N\u00E3o pontuou na sua r\u00E1pida passagem na categoria."@pt ,
+		"\u30CB\u30B3\u30E9\u30B9\u30FB\u30AD\u30A8\u30FC\u30B5\uFF08Nicolas Kiesa, 1978\u5E743\u67083\u65E5 - \uFF09\u306F\u3001\u30C7\u30F3\u30DE\u30FC\u30AF\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30022003\u5E748\u67083\u65E5\u3001\u30B8\u30E3\u30AC\u30FC\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u306B\u79FB\u7C4D\u3057\u305F\u30B8\u30E3\u30B9\u30C6\u30A3\u30F3\u30FB\u30A6\u30A3\u30EB\u30BD\u30F3\u306E\u5F8C\u4EFB\u3068\u3057\u3066\u30C9\u30A4\u30C4GP\u3067F1\u30C7\u30D3\u30E5\u30FC\u3092\u679C\u305F\u3057\u305D\u306E\u5F8C5\u6226\u306B\u51FA\u5834\u3002\u30DD\u30A4\u30F3\u30C8\u306F\u7372\u5F97\u3057\u305F\u3053\u3068\u304C\u306A\u3044\u304C\u3059\u3079\u3066\u5B8C\u8D70\u3057\u3066\u3044\u308B\u3002\u30C7\u30F3\u30DE\u30FC\u30AF\u4EBA\u304CF1\u30C9\u30E9\u30A4\u30D0\u30FC\u306B\u306A\u308B\u306E\u306F\u30E4\u30F3\u30FB\u30DE\u30B0\u30CC\u30C3\u30BB\u30F3\u4EE5\u67656\u5E74\u632F\u308A\u3068\u306A\u3063\u305F\u30022003\u5E74\u306B\u306F\u30D5\u30A9\u30FC\u30DF\u30E5\u30E93000\u30671\u52DD\u3057\u3066\u3044\u308B\u30022005\u5E74\u306B\u30ED\u30D0\u30FC\u30C8\u30FB\u30C9\u30FC\u30F3\u30DC\u30B9\u306E\u4EE3\u5F79\u3068\u3057\u3066\u30B8\u30E7\u30FC\u30C0\u30F3\u30FB\u30B0\u30E9\u30F3\u30D7\u30EA\u3067\u30B5\u30FC\u30C9\u30C9\u30E9\u30A4\u30D0\u30FC\u3068\u3057\u3066\u30C9\u30A4\u30C4GP\u3088\u308AF1\u306B\u623B\u3063\u305F\u3002"@ja ,
+		"Nicolas Kiesa, n\u00E9 le 3 mars 1978 \u00E0 Copenhague au Danemark, est un pilote automobile danois."@fr ,
+		"Nicolas Kiesa (ur. 3 marca 1978 w Kopenhadze) \u2013 du\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"\u041D\u0438\u043A\u043E\u043B\u0430\u0441 \u041A\u044C\u0435\u0437\u0430 (\u0434\u0430\u0442. Nicolas Kiesa, 3 \u043C\u0430\u0440\u0442\u0430 1978, \u041A\u043E\u043F\u0435\u043D\u0433\u0430\u0433\u0435\u043D) \u2014 \u0434\u0430\u0442\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Nicolas Kiesa (Kopenhagen, 3 maart 1978) is een Deens autocoureur. Hij maakte zijn Formule 1-debuut in 2003 bij Minardi en nam deel aan 5 Grands Prix. Hij scoorde geen punten. In Formule 3000/2003 wist hij de Formule 3000-race in Monaco te winnen. Bj\u00F6rn Wirdheim dacht dat hij de finishvlag al voorbij was en vertraagde bij zijn pitcrew waarop Kiesa hem kon inhalen. Hij racete voor het eerst in de Formule 1 voor Minardi in 2003 waarvoor hij vijf Grands Prix mocht starten. Hij wist deze ook alle vijf uit te rijden maar geen punten te pakken. In 2005 keerde hij terug naar de Formule 1 toen hij voor Jordan ging rijden als derde rijder. Hierdoor mocht hij elke vrijdag zijn opwachting maken in de vrije oefenritten."@nl ,
+		"Nicolas Kiesa (born 3 March 1978) is a Danish racing driver. He participated in five Formula One Grands Prix in the 2003 season. He scored no championship points, but finished all his races. Before that, he won the 2003 Formula 3000 race at Monaco, when Bj\u00F6rn Wirdheim slowed on the last lap on the front straight to greet his team. He returned to Formula One in 2005, replacing Robert Doornbos as Jordan's third driver for the German Grand Prix and for the rest of the season."@en ,
+		"Nicolas Kiesa (* 3. M\u00E4rz 1978 in Kopenhagen) ist ein d\u00E4nischer Automobilrennfahrer."@de ,
+		"Nicolas Kiesa (nacido el 3 de marzo de 1978 en Copenhague, Dinamarca) es un piloto dan\u00E9s de automovilismo. Particip\u00F3 en cinco Grandes Premios de F\u00F3rmula 1 con el equipo Minardi en 2003, logrando como mejor resultado un und\u00E9cimo puesto en el Gran Premio de los Estados Unidos."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_kiesa_lemans2006.jpg?width=300> ;
+	dbo:birthDate	"1978-3-3"^^xsd:date ;
+	dbo:wikiPageRevisionID	739018447 ;
+	dbo:birthPlace	dbr:Copenhagen ;
+	dbo:wikiPageID	1235130 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Nicolas_Kiesa	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/2003_German_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/2003_Japanese_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"5"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Minardi ,
+		dbr:Jordan_Grand_Prix ;
+	dbp:nationality	"Danish"^^xsd:string .
+dbr:Kiesa	dbo:wikiPageDisambiguates	dbr:Nicolas_Kiesa .

@@ -1,0 +1,115 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Thiele	dbo:wikiPageDisambiguates	dbr:Alfonso_Thiele .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Alfonso_Thiele	foaf:primaryTopic	dbr:Alfonso_Thiele .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Alfonso_Thiele	rdf:type	dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Alfonso_Thiele	rdf:type	yago:WikicatItalianFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Alfonso_Thiele	rdf:type	wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:MotorsportRacer ,
+		dbo:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Alfonso_Thiele	rdf:type	owl:Thing .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Alfonso_Thiele	rdf:type	ns8:NaturalPerson ,
+		wikidata:Q215627 ,
+		foaf:Person ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		ns8:Agent ,
+		dbo:Athlete ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Alfonso_Thiele	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:Driver110034906 .
+@prefix schema:	<http://schema.org/> .
+dbr:Alfonso_Thiele	rdf:type	schema:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Alfonso_Thiele	rdfs:label	"Alfonso Thiele"@nl ,
+		"Alfonso Thiele"@pl ,
+		"Alfonso Thiele"@pt ,
+		"Alfonso Thiele"@de ,
+		"Alfonso Thiele"@en ,
+		"Alfonso Thiele"@it ;
+	rdfs:comment	"Pilota con doppia cittadinanza (statunitense ed italiana), corse per la maggior parte della carriera su vetture sport, partecipando al solo Gran Premio d'Italia 1960 in Formula 1."@it ,
+		"Alphonse Peter \"Alfonso\" Thiele (Istambul, Turquia, 5 de abril de 1919 - Novara, It\u00E1lia, 15 de julho de 1986) foi um automobilista turco-americano que participou do GP da It\u00E1lia de 1960, pela Scuderia Centro Sud. Thiele chegou a se inscrever com a Scuderia Sant Ambroeus para o mesmo GP, em 1961, mas acabou desistindo. Depois de sua curta passagem pela F-1, dedicou-se \u00E0s corridas de turismo at\u00E9 deixar as pistas. Morreu em Novara, em 15 de julho de 1986."@pt ,
+		"Alfonso Thiele (* 5. April 1922; \u2020 1986) war ein italienischer Autorennfahrer, der auch die US-amerikanische Staatsb\u00FCrgerschaft hatte."@de ,
+		"Alfonso Thiele (5 April 1920 \u2013 15 July 1986) was a racing driver who held dual citizenship of the United States and Italy, though he spent most of his life in Italy. He participated in one Formula One World Championship Grand Prix, on 4 September 1960. He scored no championship points. Most of his career was spent in sports car racing."@en ,
+		"Alfonso Thiele (Istanboel, 5 april 1920 \u2013 Novara, 15 juli 1986) was een Italiaans-Amerikaans autocoureur. Hij nam deel aan de Grand Prix van Itali\u00EB in 1960 voor het team Scuderia Centro Sud, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Alfonso Thiele lub Alfonse Thiele (ur. 5 kwietnia 1922 roku w Stambule w Turcji, zm. 15 lipca 1986 roku w Novarze we W\u0142oszech) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Alfonso_Thiele	dbp:birthDate	"1920-04-05"^^xsd:date ;
+	owl:sameAs	dbr:Alfonso_Thiele ,
+		wikidata:Q173247 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Alfonso_Thiele	owl:sameAs	dbpedia-pt:Alfonso_Thiele ,
+		<http://rdf.freebase.com/ns/m.04k77s> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Alfonso_Thiele	owl:sameAs	dbpedia-de:Alfonso_Thiele .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Alfonso_Thiele	owl:sameAs	dbpedia-pl:Alfonso_Thiele .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Alfonso_Thiele	owl:sameAs	dbpedia-wikidata:Q173247 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Alfonso_Thiele	owl:sameAs	dbpedia-it:Alfonso_Thiele .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Alfonso_Thiele	owl:sameAs	dbpedia-nl:Alfonso_Thiele .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Alfonso_Thiele	owl:sameAs	yago-res:Alfonso_Thiele .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Alfonso_Thiele	dct:subject	<http://dbpedia.org/resource/Category:1920_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Alfonso_Thiele	dct:subject	dbc:American_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1986_deaths> ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Sportspeople_from_Istanbul ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ;
+	foaf:name	"Alfonso Thiele"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Alfonso"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Alfonso_Thiele ;
+	foaf:surname	"Thiele"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scuderia_Centro_Sud .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Alfonso_Thiele	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Alfonso_Thiele?oldid=714284208> ;
+	dbp:nationality	"American/Italian"^^xsd:string ;
+	dbp:birthPlace	"Istanbul, Turkey"^^xsd:string ;
+	dbp:deathDate	"1986-07-15"^^xsd:date ;
+	dbp:deathPlace	"Novara, Piedmont, Italy"^^xsd:string ;
+	dbo:abstract	"Alfonso Thiele (5 April 1920 \u2013 15 July 1986) was a racing driver who held dual citizenship of the United States and Italy, though he spent most of his life in Italy. He participated in one Formula One World Championship Grand Prix, on 4 September 1960. He scored no championship points. Most of his career was spent in sports car racing."@en ,
+		"Alfonso Thiele (* 5. April 1922; \u2020 1986) war ein italienischer Autorennfahrer, der auch die US-amerikanische Staatsb\u00FCrgerschaft hatte."@de ,
+		"Alfonso Thiele (Istanboel, 5 april 1920 \u2013 Novara, 15 juli 1986) was een Italiaans-Amerikaans autocoureur. Hij nam deel aan de Grand Prix van Itali\u00EB in 1960 voor het team Scuderia Centro Sud, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Pilota con doppia cittadinanza (statunitense ed italiana), corse per la maggior parte della carriera su vetture sport, partecipando al solo Gran Premio d'Italia 1960 in Formula 1."@it ,
+		"Alfonso Thiele lub Alfonse Thiele (ur. 5 kwietnia 1922 roku w Stambule w Turcji, zm. 15 lipca 1986 roku w Novarze we W\u0142oszech) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Alphonse Peter \"Alfonso\" Thiele (Istambul, Turquia, 5 de abril de 1919 - Novara, It\u00E1lia, 15 de julho de 1986) foi um automobilista turco-americano que participou do GP da It\u00E1lia de 1960, pela Scuderia Centro Sud. Thiele chegou a se inscrever com a Scuderia Sant Ambroeus para o mesmo GP, em 1961, mas acabou desistindo. Depois de sua curta passagem pela F-1, dedicou-se \u00E0s corridas de turismo at\u00E9 deixar as pistas. Morreu em Novara, em 15 de julho de 1986."@pt ;
+	dbo:birthDate	"1920-4-5"^^xsd:date ;
+	dbo:deathDate	"1986-7-15"^^xsd:date ;
+	dbo:deathPlace	dbr:Novara ;
+	dbo:wikiPageRevisionID	714284208 ;
+	dbo:birthPlace	dbr:Istanbul ;
+	dbo:wikiPageID	1228198 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1960_Italian_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1960_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Alfonso_Thiele	ns24:hypernym	dbr:Driver .

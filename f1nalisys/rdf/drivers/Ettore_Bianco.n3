@@ -1,0 +1,53 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Ettore_Bianco	foaf:primaryTopic	dbr:Ettore_Bianco .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ettore_Bianco	rdf:type	yago:Operator110378412 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Ettore_Bianco	rdf:type	dbo:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:Driver110034906 ,
+		yago:WikicatMilleMigliaDrivers ,
+		yago:WikicatMaseratiFormulaOneDrivers ,
+		dbo:RacingDriver ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ettore_Bianco	rdfs:label	"Ettore Bianco"@pl ,
+		"Ettore Bianco"@en ;
+	rdfs:comment	"Ettore Bianco (ur. 3 czerwca 1900 roku) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Ettore Bianco is a former Italian racing driver. He entered 48 races between 1934 and 1952 in Fiat's and Maserati's, he started 37 of them. In 1937 he was a works driver for Officine Alfieri Maserati. Among his best results were three second places and four third places."@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ettore_Bianco	owl:sameAs	dbpedia-pl:Ettore_Bianco .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Ettore_Bianco	owl:sameAs	dbpedia-wikidata:Q16226633 ,
+		<http://rdf.freebase.com/ns/m.0rph04y> ,
+		dbr:Ettore_Bianco .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ettore_Bianco	owl:sameAs	yago-res:Ettore_Bianco .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ettore_Bianco	owl:sameAs	wikidata:Q16226633 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ettore_Bianco	dct:subject	dbc:Maserati_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Sports_car_racing ,
+		dbc:Mille_Miglia_drivers ;
+	foaf:name	"Ettore Bianco"@en ;
+	dct:description	"Italian racing driver"@en ;
+	foaf:givenName	"Ettore"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ettore_Bianco ;
+	foaf:surname	"Bianco"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ettore_Bianco	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ettore_Bianco?oldid=640737965> ;
+	dbo:abstract	"Ettore Bianco (ur. 3 czerwca 1900 roku) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Ettore Bianco is a former Italian racing driver. He entered 48 races between 1934 and 1952 in Fiat's and Maserati's, he started 37 of them. In 1937 he was a works driver for Officine Alfieri Maserati. Among his best results were three second places and four third places."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Ettore_Bianco	dbo:birthDate	"1900-6-3"^^xsd:date ;
+	dbo:wikiPageRevisionID	640737965 ;
+	dbo:wikiPageID	38784056 .
+@prefix ns16:	<http://purl.org/linguistics/gold/> .
+dbr:Ettore_Bianco	ns16:hypernym	dbr:Driver .

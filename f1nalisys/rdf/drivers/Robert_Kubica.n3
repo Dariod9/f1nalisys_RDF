@@ -1,0 +1,203 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Alx_Danielsson	dbp:before	dbr:Robert_Kubica .
+dbr:Heikki_Kovalainen	dbp:after	dbr:Robert_Kubica .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2009_Brazilian_Grand_Prix>	dbo:secondDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2008_Malaysian_Grand_Prix>	dbo:secondDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2010_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2008_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2006_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Robert_Kubica .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Robert_Kubica	foaf:primaryTopic	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2008_Canadian_Grand_Prix>	dbo:firstDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2010_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Robert_Kubica .
+dbr:Nasser_Al-Attiyah	dbp:before	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2003_British_Formula_Three_Championship__Prema_Powerteam__3>	dbo:firstDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2003_Macau_Grand_Prix__Target_Racing__1>	dbo:firstDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2010_Australian_Grand_Prix>	dbo:secondDriver	dbr:Robert_Kubica .
+dbr:Kubica	dbo:wikiPageDisambiguates	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/BMW_Sauber_F1.08__3>	dbo:firstDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/BMW_Sauber_F1.06__2006__4>	dbo:firstDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/BMW_Sauber_F1.07__3>	dbo:firstDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2008_Bahrain_Grand_Prix>	dbo:thirdDriver	dbr:Robert_Kubica ;
+	dbo:poleDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2008_Japanese_Grand_Prix>	dbo:secondDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2008_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2010_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Robert_Kubica .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Robert_Kubica	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Robert_Kubica	rdf:type	yago:CausalAgent100007347 ,
+		dbo:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Robert_Kubica	rdf:type	schema:Person ,
+		yago:WikicatRenaultFormulaOneDrivers ,
+		<http://dbpedia.org/class/yago/WikicatEurocupFormulaRenault2.0Drivers> ,
+		wikidata:Q378622 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Robert_Kubica	rdf:type	owl:Thing ,
+		yago:WikicatFormula3EuroSeriesDrivers ,
+		wikidata:Q5 ,
+		dbo:Agent ,
+		dbo:RacingDriver ,
+		dbo:MotorsportRacer ,
+		yago:WikicatFormulaRenaultDrivers ,
+		yago:PhysicalEntity100001930 ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault3.5SeriesDrivers> ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Robert_Kubica	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		yago:WikicatSauberFormulaOneDrivers ,
+		dbo:Athlete ,
+		yago:WikicatPolishFormulaOneDrivers ,
+		yago:WikicatPolishRallyDrivers ,
+		<http://dbpedia.org/class/yago/WikicatItalianFormulaRenault2.0Drivers> ,
+		foaf:Person ,
+		yago:WikicatIntercontinentalRallyChallengeDrivers ,
+		yago:WikicatKartingWorldChampionshipDrivers ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Robert_Kubica	rdfs:label	"Robert Kubica"@pl ,
+		"Robert Kubica"@it ,
+		"\u041A\u0443\u0431\u0438\u0446\u0430, \u0420\u043E\u0431\u0435\u0440\u0442"@ru ,
+		"Robert Kubica"@es ,
+		"\u30ED\u30D0\u30FC\u30C8\u30FB\u30AF\u30D3\u30B5"@ja ,
+		"Robert Kubica"@pt ,
+		"Robert Kubica"@en ,
+		"Robert Kubica"@de ,
+		"\u0631\u0648\u0628\u0631\u062A \u0643\u0648\u0628\u064A\u062A\u0633\u0627"@ar ,
+		"Robert Kubica"@nl ,
+		"Robert Kubica"@fr ,
+		"\u7F57\u4F2F\u7279\u00B7\u5E93\u6BD4\u67E5"@zh ;
+	rdfs:comment	"\u7F57\u4F2F\u7279\u00B7\u5E93\u6BD4\u5361\uFF08\u6CE2\u5170\u8BED\uFF1ARobert Kubica\u3001\u570B\u969B\u97F3\u6A19\uFF1A['robert ku'bitza]\uFF0C1984\u5E7412\u67087\u65E5\uFF0D\uFF0C\u514B\u62C9\u79D1\u592B\uFF09\uFF0C\u6B77\u53F2\u4E0A\u7B2C\u4E00\u4F4D\u6CE2\u5170\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8ECA\u624B\uFF1B\u91CD\u4F24\u524D\u6548\u529B\u4E8E\u96F7\u8AFE\u8ECA\u968A\u3002\u4F24\u6108\u590D\u51FA\u540E\uFF0C\u8F6C\u6218\u53C2\u52A0\u62C9\u529B\u8D5B\u8D5B\u4E8B\u3002"@zh ,
+		"\u0631\u0648\u0628\u0631\u062A \u0643\u0648\u0628\u064A\u062A\u0633\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Robert Kubica)(\u0648\u0644\u062F \u0641\u064A 7 \u062F\u064A\u0633\u0645\u0628\u0631 1984 \u0641\u064A \u0643\u0631\u0627\u0643\u0648\u0641 \u060C \u0628\u0648\u0644\u0646\u062F\u0627) \u0647\u0648 \u0623\u0648\u0644 \u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642\u0627\u062A \u0645\u0646 \u0628\u0648\u0644\u0646\u062F\u0627 \u0641\u064A \u0645\u0646\u0627\u0641\u0633\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u0628\u062F\u0623 \u0627\u062D\u062A\u0631\u0627\u0641 \u0647\u0630\u0647 \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0641\u064A \u0639\u0627\u0645 2000 \u0643\u0633\u0627\u0626\u0642 \u0627\u062E\u062A\u0628\u0627\u0631 \u0636\u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0633\u064A\u0627\u0631\u0627\u062A \u0631\u064A\u0646\u0648 2000 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 . \u0641\u064A \u0639\u0627\u0645 2005 \u062A\u0645\u0643\u0646 \u0631\u0648\u0628\u0631\u062A \u0645\u0646 \u0627\u0644\u0641\u0648\u0632 \u0628\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0631\u064A\u0646\u0648. \u0645\u0645\u0627 \u0642\u0627\u062F\u0647 \u0625\u0644\u0649 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0639\u064A\u0631 \u0641\u0631\u064A\u0642 \u0628\u064A \u0627\u0645 \u062F\u0628\u0644\u064A\u0648 \u0633\u0627\u0648\u0628\u0631 \u0641\u064A \u0639\u0627\u0645 2006 \u0643\u0633\u0627\u0626\u0642 \u062A\u062C\u0627\u0631\u0628. \u0648 \u0641\u064A \u0646\u0641\u0633 \u0627\u0644\u0639\u0627\u0645 \u062A\u0645\u0643\u0646 \u0645\u0646 \u062A\u062B\u0628\u064A\u062A \u0645\u0642\u0639\u062F\u0647 \u0643\u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642 \u0628\u062F\u0644\u0627 \u0645\u0646 \u0632\u0645\u064A\u0644\u0647 \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642 \u062C\u0627\u0643 \u0641\u064A\u0644\u0646\u0648\u0641 \u060C \u0648\u0630\u0644\u0643 \u062E\u0644\u0627\u0644 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0645\u062C\u0631\u064A. \u0648\u0641\u064A \u064A\u0648\u0646\u064A\u0648 2008 \u062D\u0642\u0642 \u0643\u0648\u0628\u064A\u062A\u0633\u0627 \u0641\u0648\u0632\u0647 \u0627\u0644\u0623\u0648\u0644 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0643\u0646\u062F\u064A . \u0644\u064A\u0635\u0628\u062D \u0627\u0644\u0633\u0627\u0626\u0642 99 \u0641\u064A \u0633\u062C\u0644 \u0627\u0644\u0641\u0627\u0626\u0632\u064A\u0646 \u0628\u0623\u064A \u0633\u0628\u0627\u0642 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0647\u0630\u0647 \u0627\u0644\u0641\u0626\u0629 \u0645\u0646 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A . \u0648\u0628\u0639\u062F \u0642\u0631\u0627\u0631 \u0627\u0646\u0633\u062D\u0627\u0628 \u0628\u064A \u0625\u0645 \u062F\u0628\u0644\u064A\u0648 \u0645\u0646 \u0633\u0628\u0627\u0642\u0627\u062A \u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F  \u060C \u0627\u0646\u062A\u0642\u0644 \u0631\u0648\u0628\u0631\u062A \u0643\u0648\u0628\u064A\u062A\u0633\u0627 \u0625\u0644\u0649 \u0641\u0631\u064A\u0642 \u0631\u064A\u0646\u0648 \u0644\u0645\u0648\u0633\u0645 \u0633\u0628\u0627\u0642\u0627\u062A 2010"@ar ,
+		"Robert Josef Kubica, (/'r\u0254b\u025Brt ku'bitsa/ (\"koo-bit-sa\") ? ouvir; (Crac\u00F3via, 7 de dezembro de 1984) \u00E9 um automobilista polon\u00EAs. Ganhou a S\u00E9rie Mundial pela Renault em 2005. Em 2006, passou a ser pilotos de testes da BMW Sauber. A partir do Grande Pr\u00EAmio da Hungria, do mesmo ano, passou a ser titular da equipe, substituindo o campe\u00E3o mundial Jacques Villeneuve."@pt ,
+		"Robert Kubica (IPA: 'r\u0254b\u025Brt ku'bi\u02A6a) (Krakau, 7 december 1984) is een Poolse coureur. In het seizoen 2006 is hij test- en derde coureur voor het Formule 1 team van BMW Sauber. Tijdens de dertiende race (in Hongarije) nam hij de plaats van Jacques Villeneuve in, die nog niet voldoende hersteld was van de bij de race op Hockenheim opgelopen verwondingen. Hij was daarmee de eerste Poolse coureur in de Formule 1, en behaalde bij zijn eerste race meteen al een zevende plaats. Na de race werd hij echter gediskwalificeerd omdat zijn auto te licht bevonden was, en de punten werden hem afgenomen. In zijn derde race - op Monza - revancheerde hij zich echter met een derde plek."@nl ,
+		"Robert J\u00F3zef Kubica (Polish pronunciation: [\u02C8r\u0254b\u025Brt ku\u02C8bit\u0361sa] ; born 7 December 1984) is a Polish current rally and former Formula 1 racing driver. He became the first Polish driver to compete in Formula One. Between 2006 and 2009 he drove for the BMW Sauber F1 team, promoted from test driver to race driver during 2006. In June 2008, Kubica took his maiden F1 victory in the Canadian Grand Prix, becoming the first Polish driver to win an F1 race."@en ,
+		"Robert J\u00F3zef Kubica (ur. 7 grudnia 1984 w Krakowie) \u2013 polski kierowca wy\u015Bcigowy i rajdowy. Zdoby\u0142 tytu\u0142 mistrza Formu\u0142y Renault 3.5 w 2005. W latach 2006\u20132010 startowa\u0142 w wy\u015Bcigach Formu\u0142y 1, pocz\u0105tkowo w zespole BMW Sauber, a w 2010 w barwach Renault. Kubica by\u0142 pierwszym i jedynym w dotychczasowej historii Polakiem startuj\u0105cym w Formule 1, w kt\u00F3rej zadebiutowa\u0142 podczas Grand Prix W\u0119gier 2006, stan\u0105\u0142 tak\u017Ce na najwy\u017Cszym stopniu podium podczas Grand Prix Kanady 2008. Laureat Trofeum Lorenzo Bandiniego za rok 2007, wybrany Najlepszym Sportowcem Polski 2008, za\u0142o\u017Cyciel zespo\u0142u kartingowego RK Kart Team. W latach 2013-2016 startowa\u0142 w Rajdowych Mistrzostwach \u015Awiata, a w debiutanckim sezonie, za kierownic\u0105 Citroena DS3 RRC, zosta\u0142 mistrzem \u015Bwiata klasy WRC 2 wraz z pilotem Maciejem Baranem."@pl ,
+		"\u0420\u043E\u0301\u0431\u0435\u0440\u0442 \u042E\u0301\u0437\u0435\u0444 \u041A\u0443\u0431\u0438\u0301\u0446\u0430 (\u043F\u043E\u043B\u044C\u0441\u043A. Robert J\u00F3zef Kubica; 7 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1984, \u041A\u0440\u0430\u043A\u043E\u0432, \u041F\u043E\u043B\u044C\u0448\u0430) \u2014 \u043F\u043E\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0440\u0430\u043B\u043B\u0438 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 WRC2. \u041F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u043B\u044C\u0441\u043A\u0438\u0439 \u043F\u0438\u043B\u043E\u0442 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 \u043F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0440\u043E\u0434\u043E\u043C \u0438\u0437 \u0412\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0439 \u0415\u0432\u0440\u043E\u043F\u044B. \u041B\u0443\u0447\u0448\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D \u041F\u043E\u043B\u044C\u0448\u0438 2008 \u0433\u043E\u0434\u0430. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 2006 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043D\u0433\u0440\u0438\u0438 \u0437\u0430 \u0440\u0443\u043B\u0451\u043C BMW Sauber, \u0437\u0430\u043C\u0435\u043D\u0438\u0432 \u0416\u0430\u043A\u0430 \u0412\u0438\u043B\u044C\u043D\u0435\u0432\u0430, \u0438 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u043D\u0435\u043C\u0435\u0446\u043A\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0434\u043E \u043A\u043E\u043D\u0446\u0430 2009 \u0433\u043E\u0434\u0430. \u041F\u043E\u0441\u043B\u0435 \u0443\u0445\u043E\u0434\u0430 BMW \u0438\u0437 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 Renault. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0442\u043E, \u0447\u0442\u043E \u0432 \u043A\u043E\u043D\u0446\u0435 2009 \u0433\u043E\u0434\u0430 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u043F\u0440\u043E\u0434\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u044C\u043D\u044B\u0439 \u043F\u0430\u043A\u0435\u0442 \u0430\u043A\u0446\u0438\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043E\u043D\u043D\u043E\u043C\u0443 \u0444\u043E\u043D\u0434\u0443 Genii, \u043E\u0441\u0442\u0430\u043B\u0441\u044F \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u0438 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u043D\u0435\u0451 \u043D\u0430 \u043F\u0440\u043E\u0442\u044F\u0436\u0435\u043D\u0438\u0438 \u0441\u0435\u0437\u043E\u043D\u0430 2010 \u0433\u043E\u0434\u0430. \u0412 \u0444\u0435\u0432\u0440\u0430\u043B\u0435 2011 \u0433\u043E\u0434\u0430 \u043F\u043E\u043F\u0430\u043B \u0432 \u0441\u0435\u0440\u044C\u0451\u0437\u043D\u0443\u044E \u0430\u0432\u0430\u0440\u0438\u044E \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u0440\u0430\u043B\u043B\u0438\u0439\u043D\u043E\u0439 \u0433\u043E\u043D\u043A\u0438 Ronde di"@ru ,
+		"\u30ED\u30D0\u30FC\u30C8\u30FB\u30E6\u30BC\u30D5\u30FB\u30AF\u30D3\u30B5\uFF08Robert J\u00F3zef Kubica, 1984\u5E7412\u67087\u65E5 - \uFF09\u306F\u3001\u30DD\u30FC\u30E9\u30F3\u30C9\u5171\u548C\u56FD\u30AF\u30E9\u30AF\u30D5\u5E02\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u30EF\u30FC\u30EB\u30C9\u30FB\u30B7\u30EA\u30FC\u30BA\u30FB\u30D0\u30A4\u30FB\u30EB\u30CE\u30FC\u306E\u521D\u4EE3\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3001\u30DD\u30FC\u30E9\u30F3\u30C9\u4EBA\u521D\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"Robert Kubica [\u02C8r\u0254b\u025Brt ku\u02C8bit\u0361sa] (* 7. Dezember 1984 in Krakau, Polen) ist ein polnischer Automobilrennfahrer. Er startete von 2006 bis 2010 als erster Pole in der Formel 1 und stand von 2006 bis 2009 bei BMW Sauber und ab 2010 beim Renault-Team unter Vertrag. Aufgrund eines schweren Rallye-Unfalls im Februar 2011 w\u00E4hrend der Vorbereitungsphase zur Formel-1-Saison 2011 fiel Kubica verletzungsbedingt aus."@de ,
+		"Robert Kubica (/\u02C8r\u0254b\u025Brt ku\u02C8bitsa/), n\u00E9 le 7 d\u00E9cembre 1984 \u00E0 Cracovie, est un pilote automobile polonais. Apr\u00E8s la mise \u00E0 l'\u00E9cart du pilote canadien Jacques Villeneuve lors du Grand Prix de Hongrie en ao\u00FBt 2006, il a \u00E9t\u00E9 le premier Polonais \u00E0 prendre le d\u00E9part d'un Grand Prix de Formule 1."@fr ,
+		"Robert J\u00F3zef Kubica, (Cracovia, Polonia, 7 de diciembre de 1984) m\u00E1s conocido como Robert Kubica y pronunciado 'r\u0254b\u025Brt ku'bitsa, es un piloto polaco de F\u00F3rmula 1 y rally. Fue el primer piloto de F\u00F3rmula 1 polaco, as\u00ED como el primer polaco en ganar una carrera en esta competici\u00F3n. En el a\u00F1o 2011 y tras cinco temporadas completas en la F1 sufri\u00F3 un accidente compitiendo en una prueba de rally que lo apart\u00F3 de los circuitos. Desde entonces solo compite en pruebas de esta categor\u00EDa. En 2013 debut\u00F3 en el Campeonato de Europa de Rally y en el Campeonato Mundial de Rally, en este \u00FAltimo participando en la categor\u00EDa WRC 2 donde logr\u00F3 el t\u00EDtulo."@es ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0605gk> .
+@prefix ns12:	<http://sw.cyc.com/concept/> .
+dbr:Robert_Kubica	owl:sameAs	ns12:Mx4rNDmkTu06SaCuacHBKL7Fsg ,
+		<http://viaf.org/viaf/102236044> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-fr:Robert_Kubica .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	yago-res:Robert_Kubica .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-eu:Robert_Kubica .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-pt:Robert_Kubica .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-nl:Robert_Kubica .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-pl:Robert_Kubica .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-cs:Robert_Kubica ,
+		wikidata:Q160359 ,
+		<http://ja.dbpedia.org/resource/\u30ED\u30D0\u30FC\u30C8\u30FB\u30AF\u30D3\u30B5> ,
+		dbr:Robert_Kubica .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-wikidata:Q160359 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-id:Robert_Kubica .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-de:Robert_Kubica ,
+		<http://ko.dbpedia.org/resource/\uB85C\uBC84\uD2B8_\uCFE0\uBE44\uCE74> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-es:Robert_Kubica .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Robert_Kubica	owl:sameAs	dbpedia-it:Robert_Kubica .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Robert_Kubica	dct:subject	dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:Formula_3.5_V8_drivers> ,
+		dbc:Intercontinental_Rally_Challenge_drivers ,
+		dbc:Karting_World_Championship_drivers ,
+		dbc:Polish_racing_drivers ,
+		dbc:Polish_expatriates_in_Monaco ,
+		<http://dbpedia.org/resource/Category:Italian_Formula_Renault_2.0_drivers> ,
+		dbc:Polish_rally_drivers ,
+		dbc:Polish_Formula_One_drivers ,
+		dbc:Sauber_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:1984_births> ,
+		dbc:Renault_Formula_One_drivers ,
+		dbc:Formula_3_Euro_Series_drivers ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Krak\u00F3w> ;
+	foaf:name	"Robert Kubica"@en ;
+	foaf:homepage	<http://www.kubica.pl/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/2014_Rallye_Deutschland_by_2eight_8SC0282.jpg> ;
+	dct:description	"Polish racing driver"@en ;
+	foaf:givenName	"Robert"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Robert_Kubica ;
+	foaf:surname	"Kubica"@en ;
+	dbp:title	"FIA Personality of the Year"^^xsd:string ,
+		"Champion"^^xsd:string ,
+		dbr:Lorenzo_Bandini_Trophy ,
+		<http://dbpedia.org/resource/Formula_3.5_V8> ,
+		dbr:World_Rally_Championship-2 ,
+		dbr:Champion ;
+	dbp:years	2013 ,
+		2008 ,
+		2005 ;
+	dbp:titles	dbr:World_Rally_Championship-2 ,
+		dbr:World_Series_by_Renault .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Robert_Kubica	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Robert_Kubica?oldid=743877550> ;
+	dbp:before	dbr:Felipe_Massa ,
+		dbr:Craig_Breen ,
+		"N/A"^^xsd:string ,
+		dbr:Heikki_Kovalainen ;
+	dbp:after	dbr:Sebastian_Vettel ,
+		dbr:Nasser_Al-Attiyah ,
+		dbr:Alx_Danielsson ,
+		dbr:Lewis_Hamilton ;
+	dbo:wikiPageExternalLink	<http://www.kubica.pl/> ,
+		<http://www.formula1.com/teams_and_drivers/drivers/815> ,
+		<http://www.formula1.com/archive/driver/detail/2006/815/118.html> ,
+		<http://www.ausmotive.com/2011/02/09/kubica-continues-to-improve-as-co-driver-hits-out.html> ,
+		<http://www.driverdb.com/racingdriver256.html> .
+@prefix ns28:	<http://www.4mula1.ro/history/driver/> .
+dbr:Robert_Kubica	dbo:wikiPageExternalLink	ns28:Robert_Kubica ;
+	dbp:caption	"Robert Kubica at the 2014 Rallye Deutschland"^^xsd:string ;
+	dbo:abstract	"Robert J\u00F3zef Kubica (ur. 7 grudnia 1984 w Krakowie) \u2013 polski kierowca wy\u015Bcigowy i rajdowy. Zdoby\u0142 tytu\u0142 mistrza Formu\u0142y Renault 3.5 w 2005. W latach 2006\u20132010 startowa\u0142 w wy\u015Bcigach Formu\u0142y 1, pocz\u0105tkowo w zespole BMW Sauber, a w 2010 w barwach Renault. Kubica by\u0142 pierwszym i jedynym w dotychczasowej historii Polakiem startuj\u0105cym w Formule 1, w kt\u00F3rej zadebiutowa\u0142 podczas Grand Prix W\u0119gier 2006, stan\u0105\u0142 tak\u017Ce na najwy\u017Cszym stopniu podium podczas Grand Prix Kanady 2008. Laureat Trofeum Lorenzo Bandiniego za rok 2007, wybrany Najlepszym Sportowcem Polski 2008, za\u0142o\u017Cyciel zespo\u0142u kartingowego RK Kart Team. W latach 2013-2016 startowa\u0142 w Rajdowych Mistrzostwach \u015Awiata, a w debiutanckim sezonie, za kierownic\u0105 Citroena DS3 RRC, zosta\u0142 mistrzem \u015Bwiata klasy WRC 2 wraz z pilotem Maciejem Baranem."@pl ,
+		"Robert Josef Kubica, (/'r\u0254b\u025Brt ku'bitsa/ (\"koo-bit-sa\") ? ouvir; (Crac\u00F3via, 7 de dezembro de 1984) \u00E9 um automobilista polon\u00EAs. Ganhou a S\u00E9rie Mundial pela Renault em 2005. Em 2006, passou a ser pilotos de testes da BMW Sauber. A partir do Grande Pr\u00EAmio da Hungria, do mesmo ano, passou a ser titular da equipe, substituindo o campe\u00E3o mundial Jacques Villeneuve."@pt ,
+		"Robert Kubica (IPA: 'r\u0254b\u025Brt ku'bi\u02A6a) (Krakau, 7 december 1984) is een Poolse coureur. In het seizoen 2006 is hij test- en derde coureur voor het Formule 1 team van BMW Sauber. Tijdens de dertiende race (in Hongarije) nam hij de plaats van Jacques Villeneuve in, die nog niet voldoende hersteld was van de bij de race op Hockenheim opgelopen verwondingen. Hij was daarmee de eerste Poolse coureur in de Formule 1, en behaalde bij zijn eerste race meteen al een zevende plaats. Na de race werd hij echter gediskwalificeerd omdat zijn auto te licht bevonden was, en de punten werden hem afgenomen. In zijn derde race - op Monza - revancheerde hij zich echter met een derde plek. Tijdens de Grand Prix van Canada op 10 juni 2007 vloog Kubica met een snelheid van 278 kilometer per uur in de betonnen muur. Hierbij raakte de Pool lichtgewond en mocht volgens de artsen niet deelnemen aan de eerstvolgende Grand Prix (Indianapolis). Kubica werd dat weekend vervangen door de derde rijder van het team, Sebastian Vettel. Bij de daaropvolgende Grand Prix van Frankrijk was hij terug van de partij. Hij kwalificeerde zich op de vierde plaats, meteen de beste startpositie uit zijn carri\u00E8re. In het seizoen van 2008 kan Kubica met een betrouwbare wagen de strijd aan de kop aan. Al in de tweede race in Maleisi\u00EB behaalt hij een tweede plaats; zijn beste resultaat tot dat moment. Twee weken later haalt de Pool zijn eerste pole position tijdens de Grand Prix van Bahrein 2008.Op 8 juni 2008 behaalt Kubica zijn eerste zege, tevens de eerste voor BMW Sauber op het Circuit Gilles Villeneuve in Montreal, Canada. Op 6 februari 2011 raakte Kubica zwaargewond tijdens de openingsproef van de Rally van Andorra. Hij reed tegen een vangrail die op bizarre wijze zijn auto doorboorde. Hij werd met diverse breuken naar het ziekenhuis gebracht. Italiaanse media berichtten dat er gevreesd moest worden voor zijn hand, maar Kubica's manager zei later dat een amputatie niet nodig was. Hij werd echter nog wel geopereerd en het was onduidelijk of hij zijn hand nog wel kon gebruiken. In 2013 reed Kubica enkele WRC rally's. Zo werd hij kampioen in de 2 WRC visie en ook enkele wedstrijden in het ERC (Europees kampioenschap rally)."@nl ,
+		"\u7F57\u4F2F\u7279\u00B7\u5E93\u6BD4\u5361\uFF08\u6CE2\u5170\u8BED\uFF1ARobert Kubica\u3001\u570B\u969B\u97F3\u6A19\uFF1A['robert ku'bitza]\uFF0C1984\u5E7412\u67087\u65E5\uFF0D\uFF0C\u514B\u62C9\u79D1\u592B\uFF09\uFF0C\u6B77\u53F2\u4E0A\u7B2C\u4E00\u4F4D\u6CE2\u5170\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8ECA\u624B\uFF1B\u91CD\u4F24\u524D\u6548\u529B\u4E8E\u96F7\u8AFE\u8ECA\u968A\u3002\u4F24\u6108\u590D\u51FA\u540E\uFF0C\u8F6C\u6218\u53C2\u52A0\u62C9\u529B\u8D5B\u8D5B\u4E8B\u3002"@zh ,
+		"Robert Kubica (/\u02C8r\u0254b\u025Brt ku\u02C8bitsa/), n\u00E9 le 7 d\u00E9cembre 1984 \u00E0 Cracovie, est un pilote automobile polonais. Apr\u00E8s la mise \u00E0 l'\u00E9cart du pilote canadien Jacques Villeneuve lors du Grand Prix de Hongrie en ao\u00FBt 2006, il a \u00E9t\u00E9 le premier Polonais \u00E0 prendre le d\u00E9part d'un Grand Prix de Formule 1. Le 8 juin 2008, \u00E0 l'occasion du Grand Prix du Canada, il devient le premier pilote polonais \u00E0 remporter une victoire en Formule 1. Sa carri\u00E8re au sommet du sport automobile en monoplace s'interrompt \u00E0 la suite d'un grave accident en rallye en f\u00E9vrier 2011 dont les s\u00E9quelles emp\u00EAchent son retour en Formule 1. Toutefois, il s'engage \u00E0 nouveau en rallye pour la saison 2013 de WRC-2 et remporte le titre \u00E0 une manche de la fin."@fr ,
+		"Robert J\u00F3zef Kubica (Polish pronunciation: [\u02C8r\u0254b\u025Brt ku\u02C8bit\u0361sa] ; born 7 December 1984) is a Polish current rally and former Formula 1 racing driver. He became the first Polish driver to compete in Formula One. Between 2006 and 2009 he drove for the BMW Sauber F1 team, promoted from test driver to race driver during 2006. In June 2008, Kubica took his maiden F1 victory in the Canadian Grand Prix, becoming the first Polish driver to win an F1 race. On 6 February 2011, Kubica was seriously injured in a crash at the Ronde di Andora rally, in which his right forearm was partially severed. He was taking part in the rally for personal enjoyment. Kubica told Italian newspaper La Gazzetta dello Sport in a bedside interview that he could feel the fingers in his right hand and was determined to make a swift return to Formula One in 2011. Since his return to good health, however, he has stated that a return to Formula One would be \"nearly impossible\" because of his injury. Kubica returned to racing in September 2012, winning a minor rally in Italy. Kubica was named one of \"The Men of the Year 2012\" by Top Gear magazine for his return to auto racing. In 2013, he drove for Citro\u00EBn in the European and World Rally-2 Championships. He went on to win the inaugural WRC-2 title, and moved to the WRC championship full-time in 2014, driving a Ford Fiesta RS WRC prepared by M-Sport."@en ,
+		"Robert Kubica [\u02C8r\u0254b\u025Brt ku\u02C8bit\u0361sa] (* 7. Dezember 1984 in Krakau, Polen) ist ein polnischer Automobilrennfahrer. Er startete von 2006 bis 2010 als erster Pole in der Formel 1 und stand von 2006 bis 2009 bei BMW Sauber und ab 2010 beim Renault-Team unter Vertrag. Aufgrund eines schweren Rallye-Unfalls im Februar 2011 w\u00E4hrend der Vorbereitungsphase zur Formel-1-Saison 2011 fiel Kubica verletzungsbedingt aus."@de ,
+		"\u30ED\u30D0\u30FC\u30C8\u30FB\u30E6\u30BC\u30D5\u30FB\u30AF\u30D3\u30B5\uFF08Robert J\u00F3zef Kubica, 1984\u5E7412\u67087\u65E5 - \uFF09\u306F\u3001\u30DD\u30FC\u30E9\u30F3\u30C9\u5171\u548C\u56FD\u30AF\u30E9\u30AF\u30D5\u5E02\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u30EF\u30FC\u30EB\u30C9\u30FB\u30B7\u30EA\u30FC\u30BA\u30FB\u30D0\u30A4\u30FB\u30EB\u30CE\u30FC\u306E\u521D\u4EE3\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3001\u30DD\u30FC\u30E9\u30F3\u30C9\u4EBA\u521D\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"\u0420\u043E\u0301\u0431\u0435\u0440\u0442 \u042E\u0301\u0437\u0435\u0444 \u041A\u0443\u0431\u0438\u0301\u0446\u0430 (\u043F\u043E\u043B\u044C\u0441\u043A. Robert J\u00F3zef Kubica; 7 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1984, \u041A\u0440\u0430\u043A\u043E\u0432, \u041F\u043E\u043B\u044C\u0448\u0430) \u2014 \u043F\u043E\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0440\u0430\u043B\u043B\u0438 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 WRC2. \u041F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u043B\u044C\u0441\u043A\u0438\u0439 \u043F\u0438\u043B\u043E\u0442 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 \u043F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0440\u043E\u0434\u043E\u043C \u0438\u0437 \u0412\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0439 \u0415\u0432\u0440\u043E\u043F\u044B. \u041B\u0443\u0447\u0448\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D \u041F\u043E\u043B\u044C\u0448\u0438 2008 \u0433\u043E\u0434\u0430. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 2006 \u0433\u043E\u0434\u0443 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043D\u0433\u0440\u0438\u0438 \u0437\u0430 \u0440\u0443\u043B\u0451\u043C BMW Sauber, \u0437\u0430\u043C\u0435\u043D\u0438\u0432 \u0416\u0430\u043A\u0430 \u0412\u0438\u043B\u044C\u043D\u0435\u0432\u0430, \u0438 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u043D\u0435\u043C\u0435\u0446\u043A\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0434\u043E \u043A\u043E\u043D\u0446\u0430 2009 \u0433\u043E\u0434\u0430. \u041F\u043E\u0441\u043B\u0435 \u0443\u0445\u043E\u0434\u0430 BMW \u0438\u0437 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 Renault. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0442\u043E, \u0447\u0442\u043E \u0432 \u043A\u043E\u043D\u0446\u0435 2009 \u0433\u043E\u0434\u0430 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u043F\u0440\u043E\u0434\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u044C\u043D\u044B\u0439 \u043F\u0430\u043A\u0435\u0442 \u0430\u043A\u0446\u0438\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043E\u043D\u043D\u043E\u043C\u0443 \u0444\u043E\u043D\u0434\u0443 Genii, \u043E\u0441\u0442\u0430\u043B\u0441\u044F \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u0438 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u043D\u0435\u0451 \u043D\u0430 \u043F\u0440\u043E\u0442\u044F\u0436\u0435\u043D\u0438\u0438 \u0441\u0435\u0437\u043E\u043D\u0430 2010 \u0433\u043E\u0434\u0430. \u0412 \u0444\u0435\u0432\u0440\u0430\u043B\u0435 2011 \u0433\u043E\u0434\u0430 \u043F\u043E\u043F\u0430\u043B \u0432 \u0441\u0435\u0440\u044C\u0451\u0437\u043D\u0443\u044E \u0430\u0432\u0430\u0440\u0438\u044E \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u0440\u0430\u043B\u043B\u0438\u0439\u043D\u043E\u0439 \u0433\u043E\u043D\u043A\u0438 Ronde di Andora, \u043F\u0440\u043E\u043F\u0443\u0441\u0442\u0438\u043B \u0441\u0435\u0437\u043E\u043D \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 2011 \u0433\u043E\u0434\u0430. \u041F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 2011 \u0433\u043E\u0434\u0430 \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E Lotus Renault GP \u043F\u0440\u0438\u043D\u044F\u043B\u043E \u0440\u0435\u0448\u0435\u043D\u0438\u0435 \u043D\u0435 \u043F\u0440\u043E\u0434\u043B\u0435\u0432\u0430\u0442\u044C \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u043F\u043E\u043B\u044C\u0441\u043A\u0438\u043C \u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C."@ru ,
+		"\u0631\u0648\u0628\u0631\u062A \u0643\u0648\u0628\u064A\u062A\u0633\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Robert Kubica)(\u0648\u0644\u062F \u0641\u064A 7 \u062F\u064A\u0633\u0645\u0628\u0631 1984 \u0641\u064A \u0643\u0631\u0627\u0643\u0648\u0641 \u060C \u0628\u0648\u0644\u0646\u062F\u0627) \u0647\u0648 \u0623\u0648\u0644 \u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642\u0627\u062A \u0645\u0646 \u0628\u0648\u0644\u0646\u062F\u0627 \u0641\u064A \u0645\u0646\u0627\u0641\u0633\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F. \u0628\u062F\u0623 \u0627\u062D\u062A\u0631\u0627\u0641 \u0647\u0630\u0647 \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0641\u064A \u0639\u0627\u0645 2000 \u0643\u0633\u0627\u0626\u0642 \u0627\u062E\u062A\u0628\u0627\u0631 \u0636\u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0633\u064A\u0627\u0631\u0627\u062A \u0631\u064A\u0646\u0648 2000 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 . \u0641\u064A \u0639\u0627\u0645 2005 \u062A\u0645\u0643\u0646 \u0631\u0648\u0628\u0631\u062A \u0645\u0646 \u0627\u0644\u0641\u0648\u0632 \u0628\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0631\u064A\u0646\u0648. \u0645\u0645\u0627 \u0642\u0627\u062F\u0647 \u0625\u0644\u0649 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0639\u064A\u0631 \u0641\u0631\u064A\u0642 \u0628\u064A \u0627\u0645 \u062F\u0628\u0644\u064A\u0648 \u0633\u0627\u0648\u0628\u0631 \u0641\u064A \u0639\u0627\u0645 2006 \u0643\u0633\u0627\u0626\u0642 \u062A\u062C\u0627\u0631\u0628. \u0648 \u0641\u064A \u0646\u0641\u0633 \u0627\u0644\u0639\u0627\u0645 \u062A\u0645\u0643\u0646 \u0645\u0646 \u062A\u062B\u0628\u064A\u062A \u0645\u0642\u0639\u062F\u0647 \u0643\u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642 \u0628\u062F\u0644\u0627 \u0645\u0646 \u0632\u0645\u064A\u0644\u0647 \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642 \u062C\u0627\u0643 \u0641\u064A\u0644\u0646\u0648\u0641 \u060C \u0648\u0630\u0644\u0643 \u062E\u0644\u0627\u0644 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0645\u062C\u0631\u064A. \u0648\u0641\u064A \u064A\u0648\u0646\u064A\u0648 2008 \u062D\u0642\u0642 \u0643\u0648\u0628\u064A\u062A\u0633\u0627 \u0641\u0648\u0632\u0647 \u0627\u0644\u0623\u0648\u0644 \u0641\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0643\u0646\u062F\u064A . \u0644\u064A\u0635\u0628\u062D \u0627\u0644\u0633\u0627\u0626\u0642 99 \u0641\u064A \u0633\u062C\u0644 \u0627\u0644\u0641\u0627\u0626\u0632\u064A\u0646 \u0628\u0623\u064A \u0633\u0628\u0627\u0642 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0647\u0630\u0647 \u0627\u0644\u0641\u0626\u0629 \u0645\u0646 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A . \u0648\u0628\u0639\u062F \u0642\u0631\u0627\u0631 \u0627\u0646\u0633\u062D\u0627\u0628 \u0628\u064A \u0625\u0645 \u062F\u0628\u0644\u064A\u0648 \u0645\u0646 \u0633\u0628\u0627\u0642\u0627\u062A \u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u062D\u062F  \u060C \u0627\u0646\u062A\u0642\u0644 \u0631\u0648\u0628\u0631\u062A \u0643\u0648\u0628\u064A\u062A\u0633\u0627 \u0625\u0644\u0649 \u0641\u0631\u064A\u0642 \u0631\u064A\u0646\u0648 \u0644\u0645\u0648\u0633\u0645 \u0633\u0628\u0627\u0642\u0627\u062A 2010"@ar ,
+		"Robert J\u00F3zef Kubica, (Cracovia, Polonia, 7 de diciembre de 1984) m\u00E1s conocido como Robert Kubica y pronunciado 'r\u0254b\u025Brt ku'bitsa, es un piloto polaco de F\u00F3rmula 1 y rally. Fue el primer piloto de F\u00F3rmula 1 polaco, as\u00ED como el primer polaco en ganar una carrera en esta competici\u00F3n. En el a\u00F1o 2011 y tras cinco temporadas completas en la F1 sufri\u00F3 un accidente compitiendo en una prueba de rally que lo apart\u00F3 de los circuitos. Desde entonces solo compite en pruebas de esta categor\u00EDa. En 2013 debut\u00F3 en el Campeonato de Europa de Rally y en el Campeonato Mundial de Rally, en este \u00FAltimo participando en la categor\u00EDa WRC 2 donde logr\u00F3 el t\u00EDtulo."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/2014_Rallye_Deutschland_by_2eight_8SC0282.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Robert_Kubica	dbo:birthDate	"1984-12-07"^^xsd:date ,
+		"1984-12-7"^^xsd:date ;
+	dbo:wikiPageRevisionID	743877550 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Krak\u00F3w> ;
+	dbo:wikiPageID	1841727 ;
+	dbp:awards	dbr:Lorenzo_Bandini_Trophy ,
+		dbr:FIA_Personality_of_the_Year ,
+		dbr:Polish_Sportspersonality_of_the_year ;
+	dbp:titleYears	2013 ,
+		2005 ;
+	dbp:awardYears	2008 ,
+		2013 .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Robert_Kubica	ns30:hypernym	dbr:Rally ;
+	dbp:nationality	"Polish"^^xsd:string .
+dbr:Felipe_Massa	dbp:after	dbr:Robert_Kubica .
+<http://dbpedia.org/resource/2008_European_Grand_Prix>	dbo:thirdDriver	dbr:Robert_Kubica .

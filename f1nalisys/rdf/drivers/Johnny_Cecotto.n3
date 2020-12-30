@@ -1,0 +1,218 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Paul_Morris_Motorsport	dbp:drivers	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1977_Czechoslovak_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto ;
+	dbp:fastRider	dbr:Johnny_Cecotto ;
+	dbp:firstRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1977_Venezuelan_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto ;
+	dbp:fastRider	dbr:Johnny_Cecotto ;
+	dbp:firstRider	dbr:Johnny_Cecotto .
+dbr:Giacomo_Agostini	dbp:after	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1976_Nations_motorcycle_Grand_Prix>	dbp:fastRider	dbr:Johnny_Cecotto ;
+	dbp:firstRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1976_Austrian_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto ;
+	dbp:firstRider	dbr:Johnny_Cecotto .
+dbr:Christian_Abt	dbp:before	dbr:Johnny_Cecotto .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Johnny_Cecotto	foaf:primaryTopic	dbr:Johnny_Cecotto .
+dbr:Roberto_Ravaglia	dbp:before	dbr:Johnny_Cecotto .
+dbr:Gianfranco_Brancatelli	dbp:after	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/Laurent_A\u00EFello>	dbp:after	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1978_Venezuelan_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1977_Finnish_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto ;
+	dbp:fastRider	dbr:Johnny_Cecotto ;
+	dbp:firstRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1978_French_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1978_Dutch_TT>	dbp:poleRider	dbr:Johnny_Cecotto ;
+	dbp:firstRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1978_Austrian_motorcycle_Grand_Prix>	dbp:secondRider	dbr:Johnny_Cecotto ;
+	dbp:poleRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1979_Austrian_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1976_German_motorcycle_Grand_Prix>	dbp:secondRider	dbr:Johnny_Cecotto ;
+	dbp:fastRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1978_German_motorcycle_Grand_Prix>	dbp:secondRider	dbr:Johnny_Cecotto ;
+	dbp:poleRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1978_Finnish_motorcycle_Grand_Prix>	dbp:thirdRider	dbr:Johnny_Cecotto ;
+	dbp:poleRider	dbr:Johnny_Cecotto ;
+	dbp:fastRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1978_Swedish_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto ;
+	dbp:fastRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1977_Swedish_motorcycle_Grand_Prix>	dbp:secondRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1976_French_motorcycle_Grand_Prix>	dbp:secondRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1977_Austrian_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto .
+<http://dbpedia.org/resource/1978_Belgian_motorcycle_Grand_Prix>	dbp:poleRider	dbr:Johnny_Cecotto .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Johnny_Cecotto	rdf:type	yago:WikicatVenezuelanMotorcycleRacers .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Johnny_Cecotto	rdf:type	ns6:NaturalPerson ,
+		ns6:Agent ,
+		yago:WikicatTolemanFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Johnny_Cecotto	rdf:type	dbo:Athlete ,
+		yago:WikicatMotorcycleRacers ,
+		dbo:MotorcycleRider ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatFormulaTwoDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Johnny_Cecotto	rdf:type	umbel-rc:RaceCarDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Johnny_Cecotto	rdf:type	schema:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Johnny_Cecotto	rdf:type	wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		wikidata:Q24229398 ,
+		dbo:Agent ,
+		yago:Operator110378412 ,
+		yago:WikicatVenezuelanFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Johnny_Cecotto	rdf:type	owl:Thing ,
+		yago:CausalAgent100007347 ,
+		yago:Racer110502576 ,
+		dbo:Person ,
+		wikidata:Q5 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		foaf:Person ,
+		yago:WikicatFIAGTChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatTheodoreFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Johnny_Cecotto	rdfs:label	"Johnny Cecotto"@es ,
+		"Johnny Cecotto"@pl ,
+		"Johnny Cecotto"@en ,
+		"Johnny Cecotto"@fr ,
+		"Johnny Cecotto"@de ,
+		"Johnny Cecotto"@nl ,
+		"\u30B8\u30E7\u30CB\u30FC\u30FB\u30C1\u30A7\u30B3\u30C3\u30C8"@ja ,
+		"\u062C\u0648\u0646\u064A \u0633\u0643\u0648\u062A\u0648"@ar ,
+		"\u0427\u0435\u043A\u043E\u0442\u0442\u043E, \u0414\u0436\u043E\u043D\u043D\u0438"@ru ,
+		"Johnny Cecotto"@pt ,
+		"Johnny Cecotto"@it ;
+	rdfs:comment	"Johnny Alberto Cecotto Persello (nacido el 25 de enero de 1956 en Caracas, Venezuela) es un piloto de motociclismo y automovilismo, dos veces campe\u00F3n mundial de motociclismo y conductor de F\u00F3rmula 1. Es padre de Johnny Cecotto, jr. y de Jonathan Alberto Cecotto, tambi\u00E9n pilotos."@es ,
+		"Alberto \"Johnny\" Cecotto (born January 25, 1956 in Caracas, Venezuela) is a Venezuelan former Grand Prix motorcycle World Champion and Formula One driver. The son of Italian immigrants, he is one of the few people to have competed in both motorcycle and Formula One Grands Prix. His son Johnny Cecotto Jr. is also a professional racing driver."@en ,
+		"\u062C\u0648\u0646\u064A \u0633\u0643\u0648\u062A\u0648 \u0645\u0648\u0627\u0644\u064A\u062F 25 \u064A\u0646\u0627\u064A\u0631 1956 \u0641\u064A \u0643\u0627\u0631\u0627\u0643\u0627\u0633\u060C \u0643\u0627\u0646 \u0645\u062A\u0633\u0627\u0628\u0642 \u062F\u0631\u0627\u062C\u0627\u062A \u0646\u0627\u0631\u064A\u0629 \u0641\u0646\u0632\u0648\u064A\u0644\u064A \u0641\u0627\u0632 \u0628\u0628\u0637\u0648\u0644\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629. \u0646\u0627\u0641\u0633 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0641\u0626\u0629 500 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 350 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 250 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 50 \u0633\u064A \u0633\u064A. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0644\u0648 \u0645\u0627\u0646 24 \u0633\u0627\u0639\u0629 \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629."@ar ,
+		"Alberto CecottoFichier:Cecotto, Johnny auf Yamaha 1976-08-28.jpg Johnny Cecotto sur Yamaha en 1976 Johnny Cecotto, de son vrai nom Alberto Cecotto, est un ancien pilote de moto et de courses automobiles, n\u00E9 le 25 janvier 1956 \u00E0 Caracas au Venezuela. Il est le p\u00E8re de Johnny Cecotto Jr., \u00E9galement pilote automobile v\u00E9n\u00E9zu\u00E9lien."@fr ,
+		"\u30A2\u30EB\u30D9\u30EB\u30C8\u30FB\"\u30B8\u30E7\u30CB\u30FC\"\u30FB\u30C1\u30A7\u30B3\u30C3\u30C8\uFF08Alberto \"Johnny\" Cecotto, 1956\u5E741\u670825\u65E5 - \uFF09\u306F\u3001\u30D9\u30CD\u30BA\u30A8\u30E9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30E9\u30A4\u30C0\u30FC\u3001\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021975\u5E74\u30ED\u30FC\u30C9\u30EC\u30FC\u30B9\u4E16\u754C\u9078\u624B\u6A29\uFF08\u4E16\u754CGP\u3001WGP\uFF09350cc\u30AF\u30E9\u30B9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u606F\u5B50\u306FGP2\u306A\u3069\u306B\u53C2\u6226\u3057\u3066\u3044\u308B\u30B8\u30E7\u30CB\u30FC\u30FB\u30C1\u30A7\u30B3\u30C3\u30C8Jr."@ja ,
+		"Alberto \"Johnny\" Cecotto (Caracas, Venezuela, 25 januari 1956) is een voormalig wereldkampioenschap wegrace- en Formule 1-coureur. Hij is een van de weinige sportmannen die zowel in motor- als autosport successen behaalde."@nl ,
+		"Alberto \u201EJohnny\u201C Cecotto (* 25. Januar 1956 in Caracas, Venezuela) ist ein ehemaliger venezolanischer Motorsportler. Er gewann in seiner Karriere einmal die Motorrad-Weltmeisterschaft und mehrere Tourenwagentitel."@de ,
+		"Johnny Cecotto (ur. 25 stycznia 1956 w Caracas) \u2013 by\u0142y wenezuelski motocyklista Moto GP oraz kierowca Formu\u0142y 1 w latach 1983\u20131984. Syn w\u0142oskiego emigranta. Ma syna Johnny\u2019ego Cecotto Jr."@pl ,
+		"\u0410\u043B\u044C\u0431\u0435\u0440\u0442\u043E \u00AB\u0414\u0436\u043E\u043D\u043D\u0438\u00BB \u0427\u0435\u043A\u043E\u0442\u0442\u043E \u2014 \u0430\u0432\u0442\u043E- \u0438 \u043C\u043E\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0437 \u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u044B. \u0414\u0436\u043E\u043D\u043D\u0438 \u0427\u0435\u043A\u043E\u0442\u0442\u043E \u0440\u043E\u0434\u0438\u043B\u0441\u044F 25 \u044F\u043D\u0432\u0430\u0440\u044F 1956 \u0433. \u0432 \u041A\u0430\u0440\u0430\u043A\u0430\u0441\u0435, \u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430, \u0432 \u0441\u0435\u043C\u044C\u0435 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0445 \u044D\u043C\u0438\u0433\u0440\u0430\u043D\u0442\u043E\u0432."@ru ,
+		"Alberto \"Johnny\" Cecotto (Caracas, 25 de janeiro de 1956) \u00E9 um ex-piloto de F\u00F3rmula 1, DTM e de MotoGP. Estreou na F\u00F3rmula 1 em 1983 pela equipe Theodore. O piloto s\u00F3 tinha condi\u00E7\u00F5es de classificar o carro no fundo do grid. Logo na segunda prova da sua carreira, o venezuelano impressionou ao marcar o primeiro ponto com o 6\u00BA lugar em Long Beach; acabou sendo o \u00FAnico naquela temporada com o 20\u00BA na classifica\u00E7\u00E3o final. Por falta de financiamento, a equipe n\u00E3o disputou as \u00FAltimas duas provas do campeonato."@pt ;
+	dbp:points	1 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	dbpedia-cs:Johnny_Cecotto .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	dbpedia-pl:Johnny_Cecotto .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	dbpedia-nl:Johnny_Cecotto ,
+		<http://el.dbpedia.org/resource/\u03A4\u03B6\u03CC\u03BD\u03B9_\u03A4\u03C3\u03B5\u03BA\u03CC\u03C4\u03BF> ,
+		wikidata:Q173107 .
+@prefix ns16:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Johnny_Cecotto	owl:sameAs	ns16:Johnny_Cecotto .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	dbpedia-de:Johnny_Cecotto .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	dbpedia-pt:Johnny_Cecotto ,
+		<http://rdf.freebase.com/ns/m.04kyvq> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	dbpedia-fr:Johnny_Cecotto ,
+		dbr:Johnny_Cecotto .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	dbpedia-it:Johnny_Cecotto .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	dbpedia-wikidata:Q173107 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	dbpedia-es:Johnny_Cecotto ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E7\u30CB\u30FC\u30FB\u30C1\u30A7\u30B3\u30C3\u30C8> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Johnny_Cecotto	owl:sameAs	yago-res:Johnny_Cecotto .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Johnny_Cecotto	dct:subject	<http://dbpedia.org/resource/Category:1956_births> ,
+		<http://dbpedia.org/resource/Category:350cc_World_Championship_riders> ,
+		<http://dbpedia.org/resource/Category:250cc_World_Championship_riders> ,
+		<http://dbpedia.org/resource/Category:500cc_World_Championship_riders> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Johnny_Cecotto	dct:subject	dbc:Venezuelan_racing_drivers ,
+		dbc:Toleman_Formula_One_drivers ,
+		dbc:Sportspeople_from_Caracas ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		dbc:Venezuelan_Formula_One_drivers ,
+		dbc:FIA_GT_Championship_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:Theodore_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Venezuelan_people_of_Italian_descent ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Venezuelan_motorcycle_racers ,
+		dbc:Living_people ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:European_Touring_Car_Championship_drivers ;
+	foaf:name	"Johnny Cecotto"@en ;
+	foaf:homepage	<http://www.johnnycecotto.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Cecotto,_Johnny_auf_Yamaha_1976-08-28.jpg> ;
+	dct:description	"Venezuelan racecar and motorcycle driver born in 1956"@en ;
+	foaf:givenName	"Johnny"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Johnny_Cecotto ;
+	foaf:surname	"Cecotto"@en ;
+	dbp:classWins	0 ;
+	dbp:title	350 ,
+		dbr:Guia_Race ,
+		dbr:Italia_Superturismo_Championship ;
+	dbp:years	1983 ,
+		1975 ,
+		198119961998 ,
+		1986 ,
+		1989 ;
+	dbo:nationality	dbr:Venezuelan_people ;
+	dbp:gpFastestLaps	7 ;
+	dbp:gpFirstRace	1975250 ;
+	dbp:gpFirstWin	1975250 ;
+	dbp:gpLastRace	1980500 ;
+	dbp:gpLastWin	1980350 ;
+	dbp:gpPodiums	26 ;
+	dbp:gpPoles	22 ;
+	dbp:gpRaceStarts	48 ;
+	dbp:gpRaceWins	14 ;
+	dbp:gpActiveYears	1975 ;
+	dbp:gpChampionships	1975 ;
+	dbp:gpTeams	dbr:Yamaha_Motor_Company .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Johnny_Cecotto	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Johnny_Cecotto?oldid=740322763> ;
+	dbp:before	dbr:Gianfranco_Brancatelli ,
+		dbr:Giacomo_Agostini ;
+	dbp:after	dbr:Roberto_Ravaglia ,
+		dbr:Walter_Villa ;
+	dbo:wikiPageExternalLink	<http://www.johnnycecotto.com/> ,
+		<http://www.motogp.com/en/riders/profiles/Johnny+Cecotto> ;
+	dbo:abstract	"Alberto CecottoFichier:Cecotto, Johnny auf Yamaha 1976-08-28.jpg Johnny Cecotto sur Yamaha en 1976 Johnny Cecotto, de son vrai nom Alberto Cecotto, est un ancien pilote de moto et de courses automobiles, n\u00E9 le 25 janvier 1956 \u00E0 Caracas au Venezuela. Il est le p\u00E8re de Johnny Cecotto Jr., \u00E9galement pilote automobile v\u00E9n\u00E9zu\u00E9lien."@fr ,
+		"\u30A2\u30EB\u30D9\u30EB\u30C8\u30FB\"\u30B8\u30E7\u30CB\u30FC\"\u30FB\u30C1\u30A7\u30B3\u30C3\u30C8\uFF08Alberto \"Johnny\" Cecotto, 1956\u5E741\u670825\u65E5 - \uFF09\u306F\u3001\u30D9\u30CD\u30BA\u30A8\u30E9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30E9\u30A4\u30C0\u30FC\u3001\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021975\u5E74\u30ED\u30FC\u30C9\u30EC\u30FC\u30B9\u4E16\u754C\u9078\u624B\u6A29\uFF08\u4E16\u754CGP\u3001WGP\uFF09350cc\u30AF\u30E9\u30B9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u606F\u5B50\u306FGP2\u306A\u3069\u306B\u53C2\u6226\u3057\u3066\u3044\u308B\u30B8\u30E7\u30CB\u30FC\u30FB\u30C1\u30A7\u30B3\u30C3\u30C8Jr."@ja ,
+		"\u0410\u043B\u044C\u0431\u0435\u0440\u0442\u043E \u00AB\u0414\u0436\u043E\u043D\u043D\u0438\u00BB \u0427\u0435\u043A\u043E\u0442\u0442\u043E \u2014 \u0430\u0432\u0442\u043E- \u0438 \u043C\u043E\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0437 \u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u044B. \u0414\u0436\u043E\u043D\u043D\u0438 \u0427\u0435\u043A\u043E\u0442\u0442\u043E \u0440\u043E\u0434\u0438\u043B\u0441\u044F 25 \u044F\u043D\u0432\u0430\u0440\u044F 1956 \u0433. \u0432 \u041A\u0430\u0440\u0430\u043A\u0430\u0441\u0435, \u0412\u0435\u043D\u0435\u0441\u0443\u044D\u043B\u0430, \u0432 \u0441\u0435\u043C\u044C\u0435 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0445 \u044D\u043C\u0438\u0433\u0440\u0430\u043D\u0442\u043E\u0432."@ru ,
+		"Alberto \"Johnny\" Cecotto (born January 25, 1956 in Caracas, Venezuela) is a Venezuelan former Grand Prix motorcycle World Champion and Formula One driver. The son of Italian immigrants, he is one of the few people to have competed in both motorcycle and Formula One Grands Prix. His son Johnny Cecotto Jr. is also a professional racing driver."@en ,
+		"Johnny Cecotto (ur. 25 stycznia 1956 w Caracas) \u2013 by\u0142y wenezuelski motocyklista Moto GP oraz kierowca Formu\u0142y 1 w latach 1983\u20131984. Syn w\u0142oskiego emigranta. Ma syna Johnny\u2019ego Cecotto Jr."@pl ,
+		"Alberto \"Johnny\" Cecotto (Caracas, Venezuela, 25 januari 1956) is een voormalig wereldkampioenschap wegrace- en Formule 1-coureur. Hij is een van de weinige sportmannen die zowel in motor- als autosport successen behaalde."@nl ,
+		"Alberto \"Johnny\" Cecotto (Caracas, 25 de janeiro de 1956) \u00E9 um ex-piloto de F\u00F3rmula 1, DTM e de MotoGP. Estreou na F\u00F3rmula 1 em 1983 pela equipe Theodore. O piloto s\u00F3 tinha condi\u00E7\u00F5es de classificar o carro no fundo do grid. Logo na segunda prova da sua carreira, o venezuelano impressionou ao marcar o primeiro ponto com o 6\u00BA lugar em Long Beach; acabou sendo o \u00FAnico naquela temporada com o 20\u00BA na classifica\u00E7\u00E3o final. Por falta de financiamento, a equipe n\u00E3o disputou as \u00FAltimas duas provas do campeonato. Em 1984, Cecotto fechou com a Toleman, tendo como companheiro de equipe, o ent\u00E3o campe\u00E3o da F\u00F3rmula 3 Inglesa e grande promessa internacional, o brasileiro Ayrton Senna. Na equipe, Cecotto n\u00E3o conseguia acompanhar o ritmo do seu companheiro de equipe que era muito mais veloz e arrojado. Apenas uma vez, o piloto venezuelano largou na frente dele. Nas demais, toma uma diferen\u00E7a brutal com m\u00E9dia de 2 segundos em treinos classificat\u00F3rios. O piloto teve muitos abandonos e nenhum ponto marcado. A \u00FAnica prova que terminou foi o 9\u00BA no GP do Canad\u00E1. Nos treinos para o GP da Gr\u00E3-Bretanha, ele bate forte com o carro no muro de prote\u00E7\u00E3o a mais de 240 km/hora, causando graves ferimentos nas pernas. Impossibilitado de correr, Cecotto encerra sua carreira na F\u00F3rmula 1."@pt ,
+		"Alberto \u201EJohnny\u201C Cecotto (* 25. Januar 1956 in Caracas, Venezuela) ist ein ehemaliger venezolanischer Motorsportler. Er gewann in seiner Karriere einmal die Motorrad-Weltmeisterschaft und mehrere Tourenwagentitel."@de ,
+		"Johnny Alberto Cecotto Persello (nacido el 25 de enero de 1956 en Caracas, Venezuela) es un piloto de motociclismo y automovilismo, dos veces campe\u00F3n mundial de motociclismo y conductor de F\u00F3rmula 1. Es padre de Johnny Cecotto, jr. y de Jonathan Alberto Cecotto, tambi\u00E9n pilotos."@es ,
+		"\u062C\u0648\u0646\u064A \u0633\u0643\u0648\u062A\u0648 \u0645\u0648\u0627\u0644\u064A\u062F 25 \u064A\u0646\u0627\u064A\u0631 1956 \u0641\u064A \u0643\u0627\u0631\u0627\u0643\u0627\u0633\u060C \u0643\u0627\u0646 \u0645\u062A\u0633\u0627\u0628\u0642 \u062F\u0631\u0627\u062C\u0627\u062A \u0646\u0627\u0631\u064A\u0629 \u0641\u0646\u0632\u0648\u064A\u0644\u064A \u0641\u0627\u0632 \u0628\u0628\u0637\u0648\u0644\u0629 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0644\u0644\u062F\u0631\u0627\u062C\u0627\u062A \u0627\u0644\u0646\u0627\u0631\u064A\u0629. \u0646\u0627\u0641\u0633 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0641\u0626\u0629 500 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 350 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 250 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 50 \u0633\u064A \u0633\u064A. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0644\u0648 \u0645\u0627\u0646 24 \u0633\u0627\u0639\u0629 \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629."@ar ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Cecotto,_Johnny_auf_Yamaha_1976-08-28.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Johnny_Cecotto	dbo:birthDate	"1956-01-25"^^xsd:date ,
+		"1956-1-25"^^xsd:date ;
+	dbo:wikiPageRevisionID	740322763 ;
+	dbo:birthPlace	dbr:Caracas ,
+		dbr:Venezuela ;
+	dbo:wikiPageID	1235917 ;
+	dbp:bestFinish	8 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Johnny_Cecotto	ns28:hypernym	dbr:Champion ;
+	<http://dbpedia.org/property/team(s)_>	"Team Bigazzi SRL, Team BMW Motorsport"^^xsd:string ,
+		dbr:Theodore_Racing ,
+		dbr:Toleman .
+dbr:Masaryk_Circuit	dbp:recordDriver	dbr:Johnny_Cecotto .
+dbr:Pedro_Lamy	dbp:before	dbr:Johnny_Cecotto .

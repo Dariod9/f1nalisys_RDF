@@ -1,0 +1,182 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1968_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Lucien_Bianchi .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Dan_Gurney	dbp:after	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/Pedro_Rodr\u00EDguez_(racing_driver)>	dbp:years	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__DNF__19>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__29__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__7__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__44th__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__43rd__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__52nd__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__47__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__5__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__35__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Lucien_Bianchi	foaf:primaryTopic	dbr:Lucien_Bianchi .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lucien_Bianchi	rdf:type	yago:Driver110034906 ,
+		yago:WikicatBelgianRallyDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:PhysicalEntity100001930 ,
+		yago:Operator110378412 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Lucien_Bianchi	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:RacingDriver ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Lucien_Bianchi	rdf:type	ns8:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lucien_Bianchi	rdf:type	wikidata:Q5 ,
+		ns8:NaturalPerson ,
+		wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Athlete ,
+		yago:WikicatItalianRallyDrivers ,
+		yago:WikicatEcurieNationaleBelgeFormulaOneDrivers ,
+		yago:WikicatBelgianFormulaOneDrivers ,
+		yago:WikicatCooperFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Lucien_Bianchi	rdf:type	schema:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		dbo:MotorsportRacer ,
+		foaf:Person ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		dbo:Agent ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		wikidata:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lucien_Bianchi	rdf:type	owl:Thing ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lucien_Bianchi	rdfs:label	"\u0644\u0648\u062A\u0634\u064A\u0627\u0646\u0648 \u0628\u064A\u0627\u0646\u0643\u064A"@ar ,
+		"Lucien Bianchi"@pt ,
+		"Lucien Bianchi"@it ,
+		"Lucien Bianchi"@nl ,
+		"Lucien Bianchi"@pl ,
+		"Lucien Bianchi"@de ,
+		"Lucien Bianchi"@fr ,
+		"Lucien Bianchi"@en ,
+		"\u30EB\u30B7\u30A2\u30F3\u30FB\u30D3\u30A2\u30F3\u30AD"@ja ,
+		"\u0411\u044C\u044F\u043D\u043A\u0438, \u041B\u044E\u0441\u044C\u0435\u043D"@ru ;
+	rdfs:comment	"Lucien Bianchi (10 November 1934 \u2013 30 March 1969), born Luciano Bianchi, was an Italian-Belgian racing driver who raced for the Cooper, ENB, UDT Laystall and Scuderia Centro Sud teams in Formula One. He entered a total of 19 Formula One World Championship races, scoring six points and had a best finish of third at the 1968 Monaco Grand Prix. He died in a testing crash in preparation for the 1969 24 Hours of Le Mans."@en ,
+		"Luciano Bianchi (Mil\u00E3o, 10 de novembro de 1934 - Le Mans, 30 de mar\u00E7o de 1969) foi um automobilista belga nascido na It\u00E1lia. Ao adquirir sua nova nacionalidade, adotou o nome de Lucien Bianchi. Correu entre 1959 e 1963, fazendo participa\u00E7\u00F5es nas temporadas de 1965 e 1968, seu \u00FAltimo ano na F\u00F3rmula 1. Ele representou as equipes ENB, UDT Laystall, Reg Parnell, Scuderia Centro Sud e Cooper. Bianchi morreu prematuramente em 1969, ao sofrer um violento acidente quando o Alfa Romeo T33, carro que ele testava para as 24 Horas de Le Mans, bateu em um poste telegr\u00E1fico, se incendiando em seguida."@pt ,
+		"Lucien Bianchi (Milaan (Itali\u00EB), 10 november 1934 - Le Mans (Circuit in Frankrijk), 30 maart 1969) was een Belgisch Formule 1-coureur. Bianchi, geboren uit Italiaanse ouders, kwam als kind naar Belgi\u00EB toen zijn vader begon te werken voor de amateurracer Johnny Claes. In 1944 verkreeg hij de Belgische nationaliteit. Hij reed zijn eerste Formule 1-race in 1960 met een oude Cooper en reed kort in een Emeryson die werd beheerd door de Ecurie Nationale Belge. Andere teams waar hij heeft voor gereden zijn Lotus en Lola en Emeryson. Een van de bochten op het Circuit Zolder werd naar hem vernoemd."@nl ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0644\u0648\u0633\u064A\u0627\u0646 \u0628\u064A\u0627\u0646\u0643\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lucien Bianchi) \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0646\u0648\u0641\u0645\u0628\u0631 1934 \u0641\u064A \u0645\u064A\u0644\u0627\u0646\u0648\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0644\u062C\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1959. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0644\u062C\u064A\u0643\u064A 1959. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 19 \u0633\u0628\u0627\u0642\u0627\u064B. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0623\u0639\u0644\u0627\u0645 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0628\u0644\u062C\u064A\u0643\u0627 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u0645\u0634\u0627\u0631\u064A\u0639 \u0634\u0642\u064A\u0642\u0629 \u0641\u064A \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062A \u0639\u0646: \u0644\u0648\u062A\u0634\u064A\u0627\u0646\u0648 \u0628\u064A\u0627\u0646\u0643\u064A25\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0628\u062D\u0627\u062C\u0629 \u0644\u0644\u062A\u0648\u0633\u064A\u0639. \u0634\u0627\u0631\u0643 \u0641\u064A \u062A\u062D\u0631\u064A\u0631\u0647\u0627."@ar ,
+		"\u041B\u044E\u0441\u044C\u0435\u0301\u043D \u0411\u044C\u044F\u043D\u043A\u0438\u0301 (\u0444\u0440. Lucien Bianchi), \u043F\u0440\u0438 \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u0438 \u041B\u0443\u0447\u0430\u0301\u043D\u043E \u0411\u044C\u044F\u0301\u043D\u043A\u0438 (\u0438\u0442\u0430\u043B. Luciano Bianchi, 10 \u043D\u043E\u044F\u0431\u0440\u044F 1934, \u041C\u0438\u043B\u0430\u043D \u2014 30 \u043C\u0430\u0440\u0442\u0430 1969, \u041B\u0435-\u041C\u0430\u043D) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1959\u20141963, 1965, 1968), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 1968\u0440\u0443\u0441\u0441\u043A. \u0437\u0430 \u0440\u0443\u043B\u0451\u043C Ford GT40 (\u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u043E \u0441 \u041F\u0435\u0434\u0440\u043E \u0420\u043E\u0434\u0440\u0438\u0433\u0435\u0441\u043E\u043C)."@ru ,
+		"Lucien Bianchi (n\u00E9 Luciano Bianchi) est un pilote automobile italien naturalis\u00E9, belge n\u00E9 le 10 novembre 1934 \u00E0 Milan, et mort le 30 mars 1969 au Mans \u00E0 l'\u00E2ge de 34 ans des suites d'un accident durant les essais pr\u00E9liminaires des 24 Heures du Mans sur Alfa Romeo. Il a disput\u00E9 17 Grands Prix de Formule 1 entre 1960 et 1968, a inscrit un total de 6 points et d\u00E9croch\u00E9 un podium lors du Grand Prix de Monaco 1968. Bianchi a \u00E9galement inscrit son nom au palmar\u00E8s des 24 Heures du Mans et des 12 heures de Sebring."@fr ,
+		"Lucien Bianchi (ur. 10 listopada 1934 r. w Mediolanie, zm. 30 marca 1969 r. w Le Mans) \u2013 belgijski kierowca Formu\u0142y 1 i zwyci\u0119zca 24 godzinnego wy\u015Bcigu Le Mans z 1968 roku. Startowa\u0142 zar\u00F3wno w Mistrzostwach Prototyp\u00F3w Sportowych, wy\u015Bcigach torowych, rajdach, wy\u015Bcigach g\u00F3rskich jak i rajdach d\u0142ugodystansowych."@pl ,
+		"\u30EB\u30B7\u30A2\u30F3\u30FB\u30D3\u30A2\u30F3\u30AD\uFF08Lucien Bianchi \u30011934\u5E7411\u670810\u65E5 - 1969\u5E743\u670830\u65E5\uFF09\u3001\u51FA\u751F\u540D\uFF1A\u30EB\u30C1\u30A2\u30FC\u30CE\u30FB\u30D3\u30A2\u30F3\u30AD\uFF08Luciano Bianchi \uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021968\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u52DD\u8005\u3002"@ja ,
+		"Lucien Bianchi (* 10. November 1934 in Mailand, Italien; \u2020 30. M\u00E4rz 1969 in Le Mans, Frankreich) war ein belgischer Autorennfahrer. Er gewann das 24-Stunden-Rennen von Le Mans und war f\u00FCr seine Vielseitigkeit im Motorsport bekannt. Sein j\u00FCngerer Bruder Mauro Bianchi war ebenfalls Autorennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lucien_Bianchi	dbp:birthDate	"1934-11-10"^^xsd:date .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lucien_Bianchi	owl:sameAs	dbpedia-de:Lucien_Bianchi .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lucien_Bianchi	owl:sameAs	dbpedia-it:Lucien_Bianchi ,
+		dbr:Lucien_Bianchi .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lucien_Bianchi	owl:sameAs	yago-res:Lucien_Bianchi .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Lucien_Bianchi	owl:sameAs	dbpedia-pt:Lucien_Bianchi .
+@prefix ns18:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Lucien_Bianchi	owl:sameAs	ns18:Lucien_Bianchi .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Lucien_Bianchi	owl:sameAs	dbpedia-pl:Lucien_Bianchi .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Lucien_Bianchi	owl:sameAs	dbpedia-wikidata:Q171893 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Lucien_Bianchi	owl:sameAs	dbpedia-nl:Lucien_Bianchi .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lucien_Bianchi	owl:sameAs	dbpedia-fr:Lucien_Bianchi ,
+		wikidata:Q171893 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Lucien_Bianchi	owl:sameAs	dbpedia-cs:Lucien_Bianchi ,
+		<http://ja.dbpedia.org/resource/\u30EB\u30B7\u30A2\u30F3\u30FB\u30D3\u30A2\u30F3\u30AD> ,
+		<http://rdf.freebase.com/ns/m.04ky4d> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lucien_Bianchi	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Italian_emigrants_to_Belgium ,
+		dbc:Sportspeople_from_Milan ,
+		dbc:Sport_deaths_in_France ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1969_deaths> ,
+		dbc:Ecurie_Nationale_Belge_Formula_One_drivers ,
+		dbc:Belgian_racing_drivers ,
+		dbc:Belgian_Formula_One_drivers ,
+		dbc:Cooper_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:British_Racing_Partnership_Formula_One_drivers ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		<http://dbpedia.org/resource/Category:1934_births> ;
+	foaf:name	"Lucien Bianchi"@en ,
+		"Luciano \"Lucien\" Bianchi"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/BianciLucien_19680802.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Lucien"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Lucien_Bianchi ;
+	foaf:surname	"Bianchi"@en ;
+	dbp:points	6 ;
+	dbp:years	<http://dbpedia.org/resource/Pedro_Rodr\u00EDguez_(racing_driver)> ,
+		1968 ,
+		"\u2013 , ,"^^xsd:string ;
+	dbp:after	dbr:Jacky_Ickx ,
+		dbr:Jackie_Oliver ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scuderia_Centro_Sud ,
+		dbr:British_Racing_Partnership ,
+		dbr:Ecurie_Nationale_Belge ,
+		dbr:Cooper_Car_Company ,
+		dbr:Reg_Parnell .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lucien_Bianchi	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lucien_Bianchi?oldid=737666534> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20080629160609/http:/www.grandprix.com/gpe/drv-bialuc.html> ;
+	dbp:birthPlace	"Milan, Italy"^^xsd:string ;
+	dbp:deathDate	"1969-03-30"^^xsd:date ;
+	dbp:before	dbr:Dan_Gurney ,
+		<http://dbpedia.org/resource/A._J._Foyt> ;
+	dbp:deathPlace	"Circuit de la Sarthe, Le Mans, France"^^xsd:string ;
+	dbo:abstract	"Luciano Bianchi (Mil\u00E3o, 10 de novembro de 1934 - Le Mans, 30 de mar\u00E7o de 1969) foi um automobilista belga nascido na It\u00E1lia. Ao adquirir sua nova nacionalidade, adotou o nome de Lucien Bianchi. Correu entre 1959 e 1963, fazendo participa\u00E7\u00F5es nas temporadas de 1965 e 1968, seu \u00FAltimo ano na F\u00F3rmula 1. Ele representou as equipes ENB, UDT Laystall, Reg Parnell, Scuderia Centro Sud e Cooper. Bianchi morreu prematuramente em 1969, ao sofrer um violento acidente quando o Alfa Romeo T33, carro que ele testava para as 24 Horas de Le Mans, bateu em um poste telegr\u00E1fico, se incendiando em seguida. Ao longo de sua carreira, Bianchi disputou 19 corridas, conquistou um p\u00F3dio e marcou seis pontos no total."@pt ,
+		"\u30EB\u30B7\u30A2\u30F3\u30FB\u30D3\u30A2\u30F3\u30AD\uFF08Lucien Bianchi \u30011934\u5E7411\u670810\u65E5 - 1969\u5E743\u670830\u65E5\uFF09\u3001\u51FA\u751F\u540D\uFF1A\u30EB\u30C1\u30A2\u30FC\u30CE\u30FB\u30D3\u30A2\u30F3\u30AD\uFF08Luciano Bianchi \uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021968\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u52DD\u8005\u3002"@ja ,
+		"Lucien Bianchi (ur. 10 listopada 1934 r. w Mediolanie, zm. 30 marca 1969 r. w Le Mans) \u2013 belgijski kierowca Formu\u0142y 1 i zwyci\u0119zca 24 godzinnego wy\u015Bcigu Le Mans z 1968 roku. Startowa\u0142 zar\u00F3wno w Mistrzostwach Prototyp\u00F3w Sportowych, wy\u015Bcigach torowych, rajdach, wy\u015Bcigach g\u00F3rskich jak i rajdach d\u0142ugodystansowych."@pl ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0644\u0648\u0633\u064A\u0627\u0646 \u0628\u064A\u0627\u0646\u0643\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lucien Bianchi) \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0646\u0648\u0641\u0645\u0628\u0631 1934 \u0641\u064A \u0645\u064A\u0644\u0627\u0646\u0648\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0644\u062C\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1959. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0644\u062C\u064A\u0643\u064A 1959. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 19 \u0633\u0628\u0627\u0642\u0627\u064B. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0623\u0639\u0644\u0627\u0645 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0628\u0644\u062C\u064A\u0643\u0627 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u0645\u0634\u0627\u0631\u064A\u0639 \u0634\u0642\u064A\u0642\u0629 \u0641\u064A \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062A \u0639\u0646: \u0644\u0648\u062A\u0634\u064A\u0627\u0646\u0648 \u0628\u064A\u0627\u0646\u0643\u064A25\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0628\u062D\u0627\u062C\u0629 \u0644\u0644\u062A\u0648\u0633\u064A\u0639. \u0634\u0627\u0631\u0643 \u0641\u064A \u062A\u062D\u0631\u064A\u0631\u0647\u0627."@ar ,
+		"Lucien Bianchi (Milaan (Itali\u00EB), 10 november 1934 - Le Mans (Circuit in Frankrijk), 30 maart 1969) was een Belgisch Formule 1-coureur. Bianchi, geboren uit Italiaanse ouders, kwam als kind naar Belgi\u00EB toen zijn vader begon te werken voor de amateurracer Johnny Claes. In 1944 verkreeg hij de Belgische nationaliteit. Hij reed zijn eerste Formule 1-race in 1960 met een oude Cooper en reed kort in een Emeryson die werd beheerd door de Ecurie Nationale Belge. Andere teams waar hij heeft voor gereden zijn Lotus en Lola en Emeryson. Hij reed in verschillende disciplines zoals touring, sportscars en rally en was zeer succesvol in alle disciplines, met als belangrijkste overwinning de 24 uren van Le Mans in 1968 aan het stuur van een Ford GT40 samen met Pedro Rodriguez. Nog in 1968 nam hij met een Citro\u00EBn DS deel aan de Londen-Sydney marathonrally. Deze stond hij op het punt te winnen toen hij op zowat 150 km voor de finish frontaal in botsing kwam met een auto die niet aan de wedstrijd deelnam en tot opgave gedwongen werd. In 1969 vervoegde hij het Cooper-BRM F1 team voor zijn eerste volledige F1-seizoen maar begin 1969 verongelukte hij in zijn Alfa Romeo T33 Sportscar die tegen een telefoonpaal vloog gedurende testen in Le Mans. Een van de bochten op het Circuit Zolder werd naar hem vernoemd."@nl ,
+		"Lucien Bianchi (n\u00E9 Luciano Bianchi) est un pilote automobile italien naturalis\u00E9, belge n\u00E9 le 10 novembre 1934 \u00E0 Milan, et mort le 30 mars 1969 au Mans \u00E0 l'\u00E2ge de 34 ans des suites d'un accident durant les essais pr\u00E9liminaires des 24 Heures du Mans sur Alfa Romeo. Il a disput\u00E9 17 Grands Prix de Formule 1 entre 1960 et 1968, a inscrit un total de 6 points et d\u00E9croch\u00E9 un podium lors du Grand Prix de Monaco 1968. Bianchi a \u00E9galement inscrit son nom au palmar\u00E8s des 24 Heures du Mans et des 12 heures de Sebring. Lucien Bianchi est le grand-oncle du pilote automobile fran\u00E7ais Jules Bianchi (petit-fils de son fr\u00E8re Mauro Bianchi), qui d\u00E9bute en Formule 1 en 2013 au sein de l'\u00E9curie Marussia F1 Team et meurt en 2015 des suites d'un accident survenu en Grand Prix. Lucien Bianchi fait une premi\u00E8re apparition dans la s\u00E9rie BD Michel Vaillant \u00E0 la planche 57 de l'album Le Pilote sans visage. Lucien et son fr\u00E8re Mauro sont les premiers \u00AB vrais \u00BB pilotes \u00E0 appara\u00EEtre dans la BD Michel Vaillant, dans le tome Le 13 est au d\u00E9part."@fr ,
+		"\u041B\u044E\u0441\u044C\u0435\u0301\u043D \u0411\u044C\u044F\u043D\u043A\u0438\u0301 (\u0444\u0440. Lucien Bianchi), \u043F\u0440\u0438 \u0440\u043E\u0436\u0434\u0435\u043D\u0438\u0438 \u041B\u0443\u0447\u0430\u0301\u043D\u043E \u0411\u044C\u044F\u0301\u043D\u043A\u0438 (\u0438\u0442\u0430\u043B. Luciano Bianchi, 10 \u043D\u043E\u044F\u0431\u0440\u044F 1934, \u041C\u0438\u043B\u0430\u043D \u2014 30 \u043C\u0430\u0440\u0442\u0430 1969, \u041B\u0435-\u041C\u0430\u043D) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1959\u20141963, 1965, 1968), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 1968\u0440\u0443\u0441\u0441\u043A. \u0437\u0430 \u0440\u0443\u043B\u0451\u043C Ford GT40 (\u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u043E \u0441 \u041F\u0435\u0434\u0440\u043E \u0420\u043E\u0434\u0440\u0438\u0433\u0435\u0441\u043E\u043C)."@ru ,
+		"Lucien Bianchi (10 November 1934 \u2013 30 March 1969), born Luciano Bianchi, was an Italian-Belgian racing driver who raced for the Cooper, ENB, UDT Laystall and Scuderia Centro Sud teams in Formula One. He entered a total of 19 Formula One World Championship races, scoring six points and had a best finish of third at the 1968 Monaco Grand Prix. He died in a testing crash in preparation for the 1969 24 Hours of Le Mans."@en ,
+		"Lucien Bianchi (* 10. November 1934 in Mailand, Italien; \u2020 30. M\u00E4rz 1969 in Le Mans, Frankreich) war ein belgischer Autorennfahrer. Er gewann das 24-Stunden-Rennen von Le Mans und war f\u00FCr seine Vielseitigkeit im Motorsport bekannt. Sein j\u00FCngerer Bruder Mauro Bianchi war ebenfalls Autorennfahrer."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/BianciLucien_19680802.jpg?width=300> ;
+	dbo:birthDate	"1934-11-10"^^xsd:date ;
+	dbo:deathDate	"1969-3-30"^^xsd:date ;
+	dbo:deathPlace	dbr:Le_Mans ;
+	dbo:wikiPageRevisionID	737666534 ;
+	dbo:birthPlace	dbr:Milan ;
+	dbo:wikiPageID	1235754 ;
+	dbo:nationality	dbr:Belgian ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1959_Monaco_Grand_Prix> ;
+	dbo:races	"19"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1968_Mexican_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Lucien_Bianchi	ns27:hypernym	dbr:Driver ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__38__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__24__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__30__1>	dbo:firstDriver	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/A._J._Foyt>	dbp:after	dbr:Lucien_Bianchi .
+dbr:Jacky_Ickx	dbp:before	dbr:Lucien_Bianchi .
+dbr:Jackie_Oliver	dbp:before	dbr:Lucien_Bianchi .
+dbr:Luciano_Bianchi	dbo:wikiPageRedirects	dbr:Lucien_Bianchi .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__43__1>	dbo:firstDriver	dbr:Lucien_Bianchi .

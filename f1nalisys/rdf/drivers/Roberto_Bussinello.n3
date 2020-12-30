@@ -1,0 +1,131 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:De_Tomaso_Sport_5000	dbp:drivers	dbr:Roberto_Bussinello .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Roberto_Bussinello	foaf:primaryTopic	dbr:Roberto_Bussinello .
+<http://dbpedia.org/resource/Frank_Gardner_(racing_driver)>	dbp:before	dbr:Roberto_Bussinello .
+<http://dbpedia.org/resource/Kevin_Bartlett_(racing_driver)>	dbp:before	dbr:Roberto_Bussinello .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Roberto_Bussinello	rdf:type	dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Roberto_Bussinello	rdf:type	yago:WikicatItalianFormulaOneDrivers ,
+		dbo:RacingDriver ,
+		yago:WikicatDeTomasoFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Roberto_Bussinello	rdf:type	wikidata:Q5 .
+@prefix schema:	<http://schema.org/> .
+dbr:Roberto_Bussinello	rdf:type	schema:Person .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Roberto_Bussinello	rdf:type	ns9:Agent ,
+		dbo:Person ,
+		yago:Operator110378412 ,
+		yago:CausalAgent100007347 ,
+		yago:Driver110034906 ,
+		wikidata:Q24229398 ,
+		yago:PhysicalEntity100001930 ,
+		ns9:NaturalPerson ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		dbo:FormulaOneRacer ,
+		dbo:Agent ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Roberto_Bussinello	rdf:type	owl:Thing ,
+		dbo:Athlete ,
+		foaf:Person ,
+		wikidata:Q378622 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Roberto_Bussinello	rdfs:label	"Roberto Bussinello"@nl ,
+		"Roberto Bussinello"@pt ,
+		"Roberto Bussinello"@en ,
+		"Roberto Bussinello"@fr ,
+		"Roberto Bussinello"@pl ,
+		"Roberto Bussinello"@de ,
+		"Roberto Bussinello"@it ;
+	rdfs:comment	"Roberto Bussinello (Pistoia, 4 de outubro de 1927  \u2014 Vicenza, 24 de agosto de 1999) foi um automobilista italiano que participou de tr\u00EAs grandes-pr\u00EAmios de F\u00F3rmula 1."@pt ,
+		"Roberto Bussinello (Pistoia, 4 oktober 1927 - Vicenza, 24 augustus 1999) was een Formule 1-coureur uit Itali\u00EB. Hij reed in 1961 en 1965 3 Grands Prix voor de teams Isobele de Tomaso en Scuderia Centro Sud."@nl ,
+		"Roberto Bussinello (4 October 1927 in Pistoia \u2013 24 August 1999 in Vicenza) was a racing driver from Italy. He participated in three Formula One World Championship Grands Prix, debuting on 10 September 1961. He scored no championship points. He also participated in several non-Championship Formula One races."@en ,
+		"Roberto Bussinello (* 4. Oktober 1927 in Pistoia; \u2020 24. August 1999 in Vicenza) war ein italienischer Autorennfahrer."@de ,
+		"Roberto Bussinello (n\u00E9 le 4 octobre 1927 \u00E0 Pistoia et mort le 24 ao\u00FBt 1999 (\u00E0 71 ans) \u00E0 Vicence) est un pilote automobile italien. Il a disput\u00E9 quatre Grands Prix comptant pour le championnat du monde de Formule 1 et sept courses hors-championnat du monde en 1961, 1962 et 1965."@fr ,
+		"Roberto Bussinello (ur. 4 pa\u017Adziernika 1927 roku w Pistoii, zm. 24 sierpnia 1999 roku w Vicenzy) - w\u0142oski kierowca wy\u015Bcigowy. Po uko\u0144czeniu szko\u0142y in\u017Cynierskiej rozpocz\u0105\u0142 \u015Bciganie si\u0119 w 1958 roku. By\u0142 pocz\u0105tkowo kierowc\u0105 testowym De Tomaso. Wzi\u0105\u0142 udzia\u0142 w trzech wy\u015Bcigach zaliczanych do klasyfikacji Mistrzostw \u015Awiata Formu\u0142y 1. Bra\u0142 udzia\u0142 r\u00F3wnie\u017C w eliminacjach nie wliczanych do tej klasyfikacji (m.in. BRDC International Trophy, Grand Prix Syrakuz, Coppa Italia, Grand Prix Modeny, Grand Prix Neapolu, Grand Prix Solitude), a tak\u017Ce wy\u015Bcigach d\u0142ugodystansowych: 6h Sandown i 24h Le Mans (w 1964 i 1965 roku)."@pl ;
+	dbp:points	0 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Roberto_Bussinello	owl:sameAs	dbpedia-nl:Roberto_Bussinello .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Roberto_Bussinello	owl:sameAs	yago-res:Roberto_Bussinello .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Roberto_Bussinello	owl:sameAs	dbpedia-wikidata:Q172499 ,
+		<http://rdf.freebase.com/ns/m.04kx9c> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Roberto_Bussinello	owl:sameAs	dbpedia-de:Roberto_Bussinello .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Roberto_Bussinello	owl:sameAs	dbpedia-pl:Roberto_Bussinello ,
+		dbr:Roberto_Bussinello .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Roberto_Bussinello	owl:sameAs	dbpedia-fr:Roberto_Bussinello .
+@prefix ns18:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Roberto_Bussinello	owl:sameAs	ns18:Roberto_Bussinello .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Roberto_Bussinello	owl:sameAs	dbpedia-pt:Roberto_Bussinello ,
+		wikidata:Q172499 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Roberto_Bussinello	owl:sameAs	dbpedia-it:Roberto_Bussinello .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Roberto_Bussinello	dct:subject	dbc:Italian_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:People_from_Pistoia ,
+		<http://dbpedia.org/resource/Category:1999_deaths> ,
+		<http://dbpedia.org/resource/Category:1927_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Italian_racing_drivers ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		dbc:De_Tomaso_Formula_One_drivers ;
+	foaf:name	"Roberto Bussinello"@en ;
+	dct:description	"Italian racing driver"@en ;
+	foaf:givenName	"Roberto"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Roberto_Bussinello ;
+	foaf:surname	"Bussinello"@en ;
+	dbp:title	"Winner of the Sandown 500"^^xsd:string ;
+	dbp:years	1964 ,
+		","^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Roberto_Bussinello	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Roberto_Bussinello?oldid=730548188> ;
+	dbp:before	"none"^^xsd:string ;
+	dbp:after	"Kevin Bartlett"^^xsd:string ,
+		<http://dbpedia.org/resource/Frank_Gardner_(racing_driver)> ;
+	dbp:birthPlace	"Pistoia, Italy"^^xsd:string ;
+	dbp:deathPlace	"Vicenza, Italy"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Roberto_Bussinello	dbp:birthDate	"1927-10-04"^^xsd:date ;
+	dbp:deathDate	"1999-08-24"^^xsd:date ;
+	dbo:abstract	"Roberto Bussinello (n\u00E9 le 4 octobre 1927 \u00E0 Pistoia et mort le 24 ao\u00FBt 1999 (\u00E0 71 ans) \u00E0 Vicence) est un pilote automobile italien. Il a disput\u00E9 quatre Grands Prix comptant pour le championnat du monde de Formule 1 et sept courses hors-championnat du monde en 1961, 1962 et 1965."@fr ,
+		"Roberto Bussinello (Pistoia, 4 oktober 1927 - Vicenza, 24 augustus 1999) was een Formule 1-coureur uit Itali\u00EB. Hij reed in 1961 en 1965 3 Grands Prix voor de teams Isobele de Tomaso en Scuderia Centro Sud."@nl ,
+		"Roberto Bussinello (* 4. Oktober 1927 in Pistoia; \u2020 24. August 1999 in Vicenza) war ein italienischer Autorennfahrer."@de ,
+		"Roberto Bussinello (Pistoia, 4 de outubro de 1927  \u2014 Vicenza, 24 de agosto de 1999) foi um automobilista italiano que participou de tr\u00EAs grandes-pr\u00EAmios de F\u00F3rmula 1."@pt ,
+		"Roberto Bussinello (ur. 4 pa\u017Adziernika 1927 roku w Pistoii, zm. 24 sierpnia 1999 roku w Vicenzy) - w\u0142oski kierowca wy\u015Bcigowy. Po uko\u0144czeniu szko\u0142y in\u017Cynierskiej rozpocz\u0105\u0142 \u015Bciganie si\u0119 w 1958 roku. By\u0142 pocz\u0105tkowo kierowc\u0105 testowym De Tomaso. Wzi\u0105\u0142 udzia\u0142 w trzech wy\u015Bcigach zaliczanych do klasyfikacji Mistrzostw \u015Awiata Formu\u0142y 1. Bra\u0142 udzia\u0142 r\u00F3wnie\u017C w eliminacjach nie wliczanych do tej klasyfikacji (m.in. BRDC International Trophy, Grand Prix Syrakuz, Coppa Italia, Grand Prix Modeny, Grand Prix Neapolu, Grand Prix Solitude), a tak\u017Ce wy\u015Bcigach d\u0142ugodystansowych: 6h Sandown i 24h Le Mans (w 1964 i 1965 roku). Zmar\u0142 w 1999 roku."@pl ,
+		"Roberto Bussinello (4 October 1927 in Pistoia \u2013 24 August 1999 in Vicenza) was a racing driver from Italy. He participated in three Formula One World Championship Grands Prix, debuting on 10 September 1961. He scored no championship points. He also participated in several non-Championship Formula One races. Bussinello travelled to Australia in 1964 for a production car race at the Sandown Park circuit in Melbourne. Teaming with Australian driver Ralph Sachs in an Alec Mildren Racing Alfa Romeo Giulia TI Super, Bussinello would win the 1964 Sandown 6 Hour International. The race was the forerunner of what would become the Sandown 500."@en ;
+	dbo:birthDate	"1927-10-4"^^xsd:date ;
+	dbo:deathDate	"1999-8-24"^^xsd:date ;
+	dbo:deathPlace	dbr:Vicenza ;
+	dbo:wikiPageRevisionID	730548188 ;
+	dbo:birthPlace	dbr:Pistoia ;
+	dbo:wikiPageID	1235593 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Roberto_Bussinello	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1961_Italian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1965_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"3"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:De_Tomaso ,
+		"Non-works BRM"^^xsd:string ;
+	dbp:nationality	"Italian"^^xsd:string .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__13__1>	dbo:firstDriver	dbr:Roberto_Bussinello .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__21__1>	dbo:firstDriver	dbr:Roberto_Bussinello .

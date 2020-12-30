@@ -1,0 +1,191 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1996_ITC_Interlagos_round>	dbp:thirdDriverR	dbr:Christian_Danner ;
+	dbp:poleDriver	dbr:Christian_Danner .
+dbr:Mike_Thackwell	dbp:after	dbr:Christian_Danner .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Danner	dbo:wikiPageDisambiguates	dbr:Christian_Danner .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Christian_Danner	foaf:primaryTopic	dbr:Christian_Danner .
+<http://dbpedia.org/resource/1996_ITC_Suzuka_round>	dbp:fastDriverR	dbr:Christian_Danner ;
+	dbp:secondDriverR	dbr:Christian_Danner ;
+	dbp:poleDriver	dbr:Christian_Danner .
+dbr:Ivan_Capelli	dbp:before	dbr:Christian_Danner .
+<http://dbpedia.org/resource/1985_Macau_Grand_Prix__Bertram_Schafer_Racing__1>	dbo:firstDriver	dbr:Christian_Danner .
+<http://dbpedia.org/resource/1995_PPG_Indy_Car_World_Series__Project_Indy__1>	dbo:firstDriver	dbr:Christian_Danner .
+<http://dbpedia.org/resource/1994_PPG_Indy_Car_World_Series__Project_Indy__1>	dbo:firstDriver	dbr:Christian_Danner .
+@prefix ns5:	<http://dbpedia.org/resource/1997_CART_season__Payton/> .
+ns5:Coyne_Racing__5	dbo:firstDriver	dbr:Christian_Danner .
+ns5:Coyne_Racing__9	dbo:firstDriver	dbr:Christian_Danner .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Christian_Danner	rdf:type	wikidata:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Christian_Danner	rdf:type	yago:WikicatChampCarDrivers ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q24229398 ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatSpeedcarSeriesDrivers ,
+		yago:WikicatArrowsFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Christian_Danner	rdf:type	schema:Person ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatJapaneseFormula3000ChampionshipDrivers ,
+		yago:WikicatGermanFormulaOneDrivers ,
+		yago:CausalAgent100007347 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Christian_Danner	rdf:type	owl:Thing ,
+		yago:Driver110034906 ,
+		dbo:Athlete ,
+		foaf:Person ,
+		yago:Operator110378412 ,
+		dbo:Person ,
+		yago:WikicatOsellaFormulaOneDrivers ,
+		yago:WikicatGrandPrixMastersDrivers .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Christian_Danner	rdf:type	ns11:NaturalPerson ,
+		wikidata:Q378622 ,
+		dbo:Agent ,
+		ns11:Agent ,
+		yago:WikicatAutoGPWorldSeriesDrivers ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q5 ,
+		yago:WikicatRacingDriversFromBavaria ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Christian_Danner	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatFormulaThreeDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatRialFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatZakspeedFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Christian_Danner	rdfs:label	"Christian Danner"@nl ,
+		"Christian Danner"@de ,
+		"\u0643\u0631\u064A\u0633\u062A\u064A\u0627\u0646 \u062F\u0627\u0646\u0631"@ar ,
+		"\u30AF\u30EA\u30B9\u30C1\u30E3\u30F3\u30FB\u30C0\u30CA\u30FC"@ja ,
+		"Christian Danner"@fr ,
+		"Christian Danner"@pl ,
+		"Christian Danner"@es ,
+		"Christian Danner"@it ,
+		"Christian Danner"@pt ,
+		"Christian Danner"@en ,
+		"\u0414\u0430\u043D\u043D\u0435\u0440, \u041A\u0440\u0438\u0441\u0442\u0438\u0430\u043D"@ru ;
+	rdfs:comment	"Christian Danner (* 4. April 1958 in M\u00FCnchen) ist ein ehemaliger deutscher Automobilrennfahrer. Er ist Formel-1-Kommentator von RTL Television. Unter anderem startete er in den 1980er Jahren bei 36 Rennen der Formel-1-Weltmeisterschaft, in den 1990er Jahren startete Danner in der DTM. Sein Vater war der bekannte Unfallforscher Max Danner."@de ,
+		"\u041A\u0440\u0438\u0441\u0442\u0438\u0430\u043D \u0414\u0430\u043D\u043D\u0435\u0440 (\u043D\u0435\u043C. Christian Danner, \u041C\u044E\u043D\u0445\u0435\u043D, 4 \u0430\u043F\u0440\u0435\u043B\u044F 1958 \u0433\u043E\u0434\u0430) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Christian Danner (born 4 April 1958 in Munich) is a former racing driver from Germany. The son of car safety expert Max Danner, Christian started motor-racing in the Renault 5 cup. He advanced to Formula 2 and set the F2 lap record of the current configuration of the old N\u00FCrburgring, which also stands as the third fastest lap around the track. Danner competed in Japanese Formula 3000 in 1990 driving for Leyton House's F3000 team. He scored 4 points and was ranked 14th. In 1991 he drove in one race of the British Touring Car Championship at Thruxton in a BMW M3."@en ,
+		"\u30AF\u30EA\u30B9\u30C1\u30E3\u30F3\u30FB\u30C0\u30CA\u30FC\uFF08Christian Danner, 1958\u5E744\u67084\u65E5 - \uFF09\u306F\u3001\u30C9\u30A4\u30C4\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"\u0643\u0631\u064A\u0633\u062A\u064A\u0627\u0646 \u062F\u0627\u0646\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 4 \u0623\u0628\u0631\u064A\u0644 1958 \u0641\u064A \u0645\u064A\u0648\u0646\u062E\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1985. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0644\u062C\u064A\u0643\u064A 1985. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 47 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Christian Danner (Munique, 4 de abril de 1958) \u00E9 um ex-automobilista alem\u00E3o."@pt ,
+		"Christian Danner, n\u00E9 le 4 avril 1958 \u00E0 Munich, en Allemagne, est un pilote automobile de Formule 1 allemand."@fr ,
+		"Christian Danner (ur. 4 kwietnia 1958 roku w Monachium) \u2013 by\u0142y niemiecki kierowca wy\u015Bcigowy. Christian jest synem znanego eksperta ds. bezpiecze\u0144stwa samochodowego, Maksa Dannera. \u015Aciganie si\u0119 rozpocz\u0105\u0142 w Pucharze Renault 5. Zosta\u0142 pierwszym mistrzem Formu\u0142y 3000 (w roku 1985). Ma za sob\u0105 starty w Formu\u0142y 1: w latach 1985 \u2013 Formu\u0142a 1 Sezon 1987 oraz 1989 w zespo\u0142ach Zakspeed, Osella i Rial, kiedy to w 36 wy\u015Bcigach zdoby\u0142 4 punkty. W 1990 roku \u015Bciga\u0142 si\u0119 w Japo\u0144skiej Formule 3000 w zespole Leyton House, a w 1991 roku wystartowa\u0142 BMW w jednym wy\u015Bcigu serii BTCC. Nast\u0119pnie \u015Bciga\u0142 si\u0119 w seriach Champ Car oraz DTM. Obecnie \u015Bciga si\u0119 w serii dla by\u0142ych kierowc\u00F3w Formu\u0142y 1 \u2013 Grand Prix Masters."@pl ,
+		"Christian Danner (M\u00FAnich, 4 de abril de 1958) es un ex-piloto de F\u00F3rmula 1 alem\u00E1n."@es ,
+		"Christian Danner (M\u00FCnchen, 4 april 1958) is een Duits voormalig autocoureur. Hij maakte zijn Formule 1-debuut in 1985 bij Zakspeed en nam deel aan 47 Grands Prix, waarvan hij er 36 mocht starten. Hij scoorde vier punten. Hij startte zijn carri\u00E8re in de Renault 5-cup en stapte vandaaruit over naar de Formule 2. Hij reed het Formule 2-ronderecord op de oude N\u00FCrburgring. Danner stapte later over naar de Champ Car en reed ook in de Grand Prix Masters."@nl ;
+	dbp:points	4 ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30AF\u30EA\u30B9\u30C1\u30E3\u30F3\u30FB\u30C0\u30CA\u30FC> ,
+		dbr:Christian_Danner ,
+		<http://rdf.freebase.com/ns/m.04jgmf> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	dbpedia-es:Christian_Danner .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	dbpedia-pl:Christian_Danner .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	dbpedia-de:Christian_Danner .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	dbpedia-fr:Christian_Danner .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	dbpedia-id:Christian_Danner .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	dbpedia-it:Christian_Danner .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	dbpedia-wikidata:Q57551 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	dbpedia-pt:Christian_Danner ,
+		wikidata:Q57551 ,
+		<http://d-nb.info/gnd/1052424724> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	dbpedia-nl:Christian_Danner .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Christian_Danner	owl:sameAs	yago-res:Christian_Danner .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Christian_Danner	dct:subject	dbc:British_Touring_Car_Championship_drivers ,
+		dbc:Rial_Formula_One_drivers ,
+		dbc:Champ_Car_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Auto_GP_drivers ,
+		dbc:Grand_Prix_Masters_drivers ,
+		dbc:Living_people ,
+		dbc:Japanese_Formula_3000_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Osella_Formula_One_drivers ,
+		dbc:Racing_drivers_from_Bavaria ,
+		dbc:Sportspeople_from_Munich ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:German_racing_drivers ,
+		dbc:German_Formula_One_drivers ,
+		dbc:International_Formula_3000_Champions ,
+		dbc:Speedcar_Series_drivers ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:Arrows_Formula_One_drivers ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		dbc:Zakspeed_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1958_births> ;
+	foaf:name	"Christian Danner"@en ;
+	foaf:homepage	<http://www.christian-danner.net/en/index.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/March_822_BMW_1982_Christian_Danner_vl_TCE.jpg> ;
+	dct:description	"German race car driver"@en ;
+	foaf:givenName	"Christian"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Christian_Danner ;
+	foaf:surname	"Danner"@en ;
+	dbp:title	dbr:International_Formula_3000 ;
+	dbp:years	"\u2013,"^^xsd:string ,
+		1985 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Christian_Danner	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Christian_Danner?oldid=735686919> ;
+	dbp:before	dbr:Mike_Thackwell ;
+	dbp:after	dbr:Ivan_Capelli ;
+	dbp:birthPlace	dbr:Munich ,
+		dbr:West_Germany .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Christian_Danner	dbp:birthDate	"1958-04-04"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.christian-danner.net/en/index.html> ,
+		<http://www.grandprix.com/gpe/drv-danchr.html> ;
+	dbo:abstract	"Christian Danner (born 4 April 1958 in Munich) is a former racing driver from Germany. The son of car safety expert Max Danner, Christian started motor-racing in the Renault 5 cup. He advanced to Formula 2 and set the F2 lap record of the current configuration of the old N\u00FCrburgring, which also stands as the third fastest lap around the track. Danner won the inaugural Formula 3000 championship in 1985, and debuted in Formula One on 15 September 1985 for the all-German team Zakspeed. He eventually participated in 47 Grand Prix events. His best result was 4th place at the 1989 United States Grand Prix for Rial, having started 26th and last on the grid. He also managed one 6th place whilst driving for Arrows. Danner competed in Japanese Formula 3000 in 1990 driving for Leyton House's F3000 team. He scored 4 points and was ranked 14th. In 1991 he drove in one race of the British Touring Car Championship at Thruxton in a BMW M3. Danner later raced in Champ Cars and also in the International Touring Car Championship for Alfa Romeo. He took part in the now defunct series, Grand Prix Masters. He is also an F1 commentator for the channel RTL in his native Germany."@en ,
+		"Christian Danner (* 4. April 1958 in M\u00FCnchen) ist ein ehemaliger deutscher Automobilrennfahrer. Er ist Formel-1-Kommentator von RTL Television. Unter anderem startete er in den 1980er Jahren bei 36 Rennen der Formel-1-Weltmeisterschaft, in den 1990er Jahren startete Danner in der DTM. Sein Vater war der bekannte Unfallforscher Max Danner."@de ,
+		"Christian Danner (M\u00FCnchen, 4 april 1958) is een Duits voormalig autocoureur. Hij maakte zijn Formule 1-debuut in 1985 bij Zakspeed en nam deel aan 47 Grands Prix, waarvan hij er 36 mocht starten. Hij scoorde vier punten. Hij startte zijn carri\u00E8re in de Renault 5-cup en stapte vandaaruit over naar de Formule 2. Hij reed het Formule 2-ronderecord op de oude N\u00FCrburgring. Danner won het eerste F3000-seizoen in 1985 en debuteerde in 1985 in de Formule 1, voor het Duits team Zakspeed. Zijn beste resultaat behaalde hij in 1989 in de Grand Prix van de Verenigde Staten, waarin hij vierde werd. Daarnaast wist hij een zesde plaats te scoren voor Arrows. Danner stapte later over naar de Champ Car en reed ook in de Grand Prix Masters. In 1998 werd Danner door RTL Television aangesteld als co-commentator bij de Formule 1, als opvolger van Jochen Mass. Dit werk doet hij tot op de dag van vandaag samen met Heiko Wasser."@nl ,
+		"\u0643\u0631\u064A\u0633\u062A\u064A\u0627\u0646 \u062F\u0627\u0646\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 4 \u0623\u0628\u0631\u064A\u0644 1958 \u0641\u064A \u0645\u064A\u0648\u0646\u062E\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1985. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0644\u062C\u064A\u0643\u064A 1985. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 47 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"\u041A\u0440\u0438\u0441\u0442\u0438\u0430\u043D \u0414\u0430\u043D\u043D\u0435\u0440 (\u043D\u0435\u043C. Christian Danner, \u041C\u044E\u043D\u0445\u0435\u043D, 4 \u0430\u043F\u0440\u0435\u043B\u044F 1958 \u0433\u043E\u0434\u0430) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Christian Danner (Munique, 4 de abril de 1958) \u00E9 um ex-automobilista alem\u00E3o."@pt ,
+		"Christian Danner (ur. 4 kwietnia 1958 roku w Monachium) \u2013 by\u0142y niemiecki kierowca wy\u015Bcigowy. Christian jest synem znanego eksperta ds. bezpiecze\u0144stwa samochodowego, Maksa Dannera. \u015Aciganie si\u0119 rozpocz\u0105\u0142 w Pucharze Renault 5. Zosta\u0142 pierwszym mistrzem Formu\u0142y 3000 (w roku 1985). Ma za sob\u0105 starty w Formu\u0142y 1: w latach 1985 \u2013 Formu\u0142a 1 Sezon 1987 oraz 1989 w zespo\u0142ach Zakspeed, Osella i Rial, kiedy to w 36 wy\u015Bcigach zdoby\u0142 4 punkty. W 1990 roku \u015Bciga\u0142 si\u0119 w Japo\u0144skiej Formule 3000 w zespole Leyton House, a w 1991 roku wystartowa\u0142 BMW w jednym wy\u015Bcigu serii BTCC. Nast\u0119pnie \u015Bciga\u0142 si\u0119 w seriach Champ Car oraz DTM. Obecnie \u015Bciga si\u0119 w serii dla by\u0142ych kierowc\u00F3w Formu\u0142y 1 \u2013 Grand Prix Masters. Jest tak\u017Ce komentatorem sportowym dla telewizji RTL"@pl ,
+		"Christian Danner, n\u00E9 le 4 avril 1958 \u00E0 Munich, en Allemagne, est un pilote automobile de Formule 1 allemand."@fr ,
+		"\u30AF\u30EA\u30B9\u30C1\u30E3\u30F3\u30FB\u30C0\u30CA\u30FC\uFF08Christian Danner, 1958\u5E744\u67084\u65E5 - \uFF09\u306F\u3001\u30C9\u30A4\u30C4\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"Christian Danner (M\u00FAnich, 4 de abril de 1958) es un ex-piloto de F\u00F3rmula 1 alem\u00E1n."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/March_822_BMW_1982_Christian_Danner_vl_TCE.jpg?width=300> ;
+	dbo:birthDate	"1958-4-4"^^xsd:date ;
+	dbo:wikiPageRevisionID	735686919 ;
+	dbo:birthPlace	dbr:Munich ;
+	dbo:wikiPageID	1219722 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Christian_Danner	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1985_Belgian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1989_Portuguese_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"47"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Osella ,
+		dbr:Arrows_Grand_Prix_International ,
+		dbr:Rial_Racing ,
+		dbr:Zakspeed ;
+	dbp:nationality	"German"^^xsd:string .
+dbr:Zakspeed_871__3	dbo:firstDriver	dbr:Christian_Danner .
+dbr:Zakspeed_841__3	dbo:firstDriver	dbr:Christian_Danner .
+dbr:Zakspeed_861__6	dbo:firstDriver	dbr:Christian_Danner .

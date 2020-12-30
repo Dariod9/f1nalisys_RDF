@@ -1,0 +1,207 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1976_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1975_Swiss_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1975_French_Grand_Prix>	dbo:fastestDriver	dbr:Jochen_Mass ;
+	dbo:thirdDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1975_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1975_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1976_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1977_Swedish_Grand_Prix>	dbo:secondDriver	dbr:Jochen_Mass .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/John_Crichton-Stuart,_7th_Marquess_of_Bute>	dbp:after	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1987_200_Miles_of_Norisring__3__1>	dbo:firstDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1987_200_Miles_of_Norisring__DNF__4>	dbo:firstDriver	dbr:Jochen_Mass .
+dbr:Arrows_A1__1979__1	dbo:firstDriver	dbr:Jochen_Mass .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jochen_Mass	foaf:primaryTopic	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1980_Spanish_Grand_Prix>	dbo:secondDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1974_BRDC_International_Trophy>	dbo:secondDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1975_Brazilian_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1976_German_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/John_Nielsen_(racing_driver)>	dbp:before	dbr:Jochen_Mass .
+dbr:Price_Cobb	dbp:before	dbr:Jochen_Mass .
+dbr:Jochen	dbo:wikiPageDisambiguates	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1977_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__35__1>	dbo:firstDriver	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/Andy_Wallace_(racing_driver)>	dbp:after	dbr:Jochen_Mass .
+dbr:Dieter_Glemser	dbp:after	dbr:Jochen_Mass .
+dbr:Stanley_Dickens	dbp:years	dbr:Jochen_Mass .
+dbr:Martin_Brundle	dbp:before	dbr:Jochen_Mass .
+dbr:Jan_Lammers	dbp:after	dbr:Jochen_Mass .
+dbr:Stefan_Bellof	dbp:after	dbr:Jochen_Mass ;
+	dbp:before	dbr:Jochen_Mass .
+dbr:Manuel_Reuter	dbp:years	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/6_Hours_of_Silverstone>	dbp:mostWinsDriver	dbr:Jochen_Mass .
+dbr:Michele_Alboreto	dbp:after	dbr:Jochen_Mass .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jochen_Mass	rdf:type	wikidata:Q378622 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jochen_Mass	rdf:type	yago:WikicatGermanFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		foaf:Person ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Agent .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jochen_Mass	rdf:type	ns8:Agent ,
+		dbo:FormulaOneRacer ,
+		ns8:NaturalPerson ,
+		dbo:MotorsportRacer ,
+		yago:WikicatMcLarenFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jochen_Mass	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatRacingDriversFromBavaria .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jochen_Mass	rdf:type	owl:Thing ,
+		yago:WikicatATSWheelsFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatArrowsFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Jochen_Mass	rdf:type	schema:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:WikicatSurteesFormulaOneDrivers ,
+		dbo:Athlete ,
+		wikidata:Q5 ,
+		yago:WikicatMarchFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jochen_Mass	rdfs:label	"Jochen Mass"@de ,
+		"Jochen Mass"@es ,
+		"Jochen Mass"@it ,
+		"\u30E8\u30C3\u30D8\u30F3\u30FB\u30DE\u30B9"@ja ,
+		"Jochen Mass"@fr ,
+		"Jochen Mass"@pl ,
+		"Jochen Mass"@pt ,
+		"\u041C\u0430\u0441\u0441, \u0419\u043E\u0445\u0435\u043D"@ru ,
+		"Jochen Mass"@en ,
+		"Jochen Mass"@nl ;
+	rdfs:comment	"Jochen Richard Mass (* 30. September 1946 in Dorfen) ist ein ehemaliger deutscher Automobilrennfahrer. Seine aktive Laufbahn f\u00FChrte vom Tourenwagensport \u00FCber die Formel 1 bis zu Langstreckenrennen."@de ,
+		"Jochen Richard Mass (born 30 September 1946) is a German former racing driver."@en ,
+		"Jochen Richard Mass ou apenas Jochen Mass (Dorfen, 30 de Setembro de 1946) \u00E9 um ex-piloto alem\u00E3o de F\u00F3rmula 1. Participou de 105 corridas, tendo estreado em 14 de julho de 1973. Ganhou seu primeiro (e \u00FAnico) GP no Grande Pr\u00EAmio da Espanha de 1975, n\u00E3o fez nenhuma pole position, conquistou 8 p\u00F3dios 2 voltas mais r\u00E1pidas e marcou 71 pontos em sua carreira."@pt ,
+		"\u0419\u043E\u0445\u0435\u043D \u041C\u0430\u0441\u0441 (\u043D\u0435\u043C. Jochen Mass, 30 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1946, \u0414\u043E\u0440\u0444\u0435\u043D, \u041C\u044E\u043D\u0445\u0435\u043D) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Jochen Mass (Dorfen, 30 september 1946) is een Duits ex-Formule 1-coureur. Mass debuteerde in de Formule 1 tijdens de Britse Grand Prix in 1973, in het team van Surtees. Later dat jaar stapte hij echter over naar McLaren, waarmee hij in 1975 zijn enige Grand Prix won (Spanje). Nadat James Hunt bij McLaren tekende in 1976 kreeg Mass een meer ondergeschikte rol toebedeeld binnen het team, waarna hij in 1978 overstapte naar ATS. Dat seizoen verliep rampzalig, Mass brak zijn been tijdens testen op Silverstone, waarna dat seizoen voor hem afgelopen was.De twee daarop volgende jaren reed hij nog voor Arrows, en vervolgens, na een jaar pauze een jaar bij RAM March."@nl ,
+		"\u30E8\u30C3\u30D8\u30F3\u30FB\u30EA\u30D2\u30E3\u30EB\u30C8\u30FB\u30DE\u30B9\uFF08Jochen Richard Mass, 1946\u5E749\u670830\u65E5 - \uFF09 \u306F\u30C9\u30A4\u30C4\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021989\u5E74\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u8987\u8005\u3002\u30D0\u30A4\u30A8\u30EB\u30F3\u5DDE\u30C9\u30EB\u30D5\u30A7\u30F3\u51FA\u8EAB\u3002"@ja ,
+		"Jochen Mass (n\u00E9 le 30 septembre 1946 \u00E0 Dorfen, Bavi\u00E8re, en Allemagne) est un pilote automobile allemand. Auteur d'une honorable carri\u00E8re en Formule 1, ponctu\u00E9e par une victoire au GP d'Espagne 1975, il s'est par la suite distingu\u00E9 dans les \u00E9preuves d'endurance et a notamment remport\u00E9 les 24 heures du Mans en 1989 (alors hors WSC, pour onze participations entre 1972 et 1995)."@fr ,
+		"Jochen Mass (ur. 30 wrze\u015Bnia 1946 w Dorfen) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl ,
+		"Jochen Mass (30 de septiembre de 1946, M\u00FAnich, Alemania) es un ex-piloto de automovilismo de velocidad alem\u00E1n. Logr\u00F3 una victoria y ocho podios en la F\u00F3rmula 1 con el equipo McLaren, resultando sexto en el campeonato 1977, octavo en 1975 y noveno en 1976. Tambi\u00E9n obtuvo 32 victorias en el Campeonato Mundial de Resistencia, destac\u00E1ndose las 24 Horas de Le Mans de 1989 y las 12 Horas de Sebring de 1987, y fue subcampe\u00F3n en 1984, 1985, 1989 y 1990. Mass consigui\u00F3 adem\u00E1s ocho victorias en el Campeonato Alem\u00E1n de Automovilismo, resultando campe\u00F3n en 1985."@es .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jochen_Mass	dbp:birthDate	"1946-09-30"^^xsd:date .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-pt:Jochen_Mass ,
+		<http://d-nb.info/gnd/140418253> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-cs:Jochen_Mass ,
+		<http://ja.dbpedia.org/resource/\u30E8\u30C3\u30D8\u30F3\u30FB\u30DE\u30B9> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-fr:Jochen_Mass .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-it:Jochen_Mass .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	yago-res:Jochen_Mass .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-es:Jochen_Mass ,
+		dbr:Jochen_Mass ,
+		wikidata:Q57459 ,
+		<http://rdf.freebase.com/ns/m.04k177> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-nl:Jochen_Mass .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-de:Jochen_Mass .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-wikidata:Q57459 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-id:Jochen_Mass .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jochen_Mass	owl:sameAs	dbpedia-pl:Jochen_Mass .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jochen_Mass	dct:subject	dbc:Surtees_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:German_Formula_One_drivers ,
+		dbc:ATS_Wheels_Formula_One_drivers ,
+		dbc:European_Touring_Car_Championship_drivers ,
+		dbc:Sportspeople_from_Munich ,
+		<http://dbpedia.org/resource/Category:1946_births> ,
+		dbc:March_Formula_One_drivers ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:McLaren_Formula_One_drivers ,
+		dbc:Racing_drivers_from_Bavaria ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Arrows_Formula_One_drivers ,
+		dbc:German_racing_drivers ;
+	foaf:name	"Jochen Mass"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Mass_at_1982_Dutch_Grand_Prix.jpg> ;
+	dct:description	"German racecar driver"@en ;
+	foaf:givenName	"Jochen"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jochen_Mass ;
+	foaf:surname	"Mass"@en ;
+	dbp:points	71 ;
+	dbp:years	1972 ,
+		dbr:Manuel_Reuter ,
+		dbr:Stanley_Dickens ,
+		1989 ,
+		"\u2013,"^^xsd:string ;
+	dbp:after	dbr:Toine_Hezemans ,
+		dbr:Price_Cobb ,
+		dbr:Martin_Brundle ,
+		<http://dbpedia.org/resource/John_Nielsen_(racing_driver)> ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Arrows_Grand_Prix_International ,
+		<http://dbpedia.org/resource/ATS_(wheels)> ,
+		dbr:Surtees ,
+		<http://dbpedia.org/resource/McLaren_(racing)> ,
+		dbr:March_Engineering .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jochen_Mass	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jochen_Mass?oldid=738031739> ;
+	dbp:nationality	"German"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1975_Spanish_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1975_Spanish_Grand_Prix> ;
+	dbp:birthPlace	dbr:Dorfen ,
+		dbr:Bavaria ,
+		dbr:Germany ;
+	dbp:before	dbr:Dieter_Glemser ,
+		<http://dbpedia.org/resource/Andy_Wallace_(racing_driver)> ,
+		dbr:Jan_Lammers ,
+		<http://dbpedia.org/resource/John_Crichton-Stuart,_7th_Marquess_of_Bute> ;
+	dbo:abstract	"\u30E8\u30C3\u30D8\u30F3\u30FB\u30EA\u30D2\u30E3\u30EB\u30C8\u30FB\u30DE\u30B9\uFF08Jochen Richard Mass, 1946\u5E749\u670830\u65E5 - \uFF09 \u306F\u30C9\u30A4\u30C4\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021989\u5E74\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u8987\u8005\u3002\u30D0\u30A4\u30A8\u30EB\u30F3\u5DDE\u30C9\u30EB\u30D5\u30A7\u30F3\u51FA\u8EAB\u3002"@ja ,
+		"Jochen Mass (Dorfen, 30 september 1946) is een Duits ex-Formule 1-coureur. Mass debuteerde in de Formule 1 tijdens de Britse Grand Prix in 1973, in het team van Surtees. Later dat jaar stapte hij echter over naar McLaren, waarmee hij in 1975 zijn enige Grand Prix won (Spanje). Nadat James Hunt bij McLaren tekende in 1976 kreeg Mass een meer ondergeschikte rol toebedeeld binnen het team, waarna hij in 1978 overstapte naar ATS. Dat seizoen verliep rampzalig, Mass brak zijn been tijdens testen op Silverstone, waarna dat seizoen voor hem afgelopen was.De twee daarop volgende jaren reed hij nog voor Arrows, en vervolgens, na een jaar pauze een jaar bij RAM March. In 1982 was hij betrokken bij het dodelijke ongeluk van Gilles Villeneuve op Zolder. Dat bezorgde hem een slecht geweten, totdat hij veertien jaar later in Monte Carlo een toevallige ontmoeting had met zijn dochter Melanie. Zij verzekerde hem dat niemand boos op hem was of hem de schuld van het ongeluk gaf. Na zijn F1 jaren is Mass nog succesvol geweest in andere takken van de autosport, waaronder de 24 uur van Le Mans en de 12 uren van Sebring."@nl ,
+		"Jochen Mass (n\u00E9 le 30 septembre 1946 \u00E0 Dorfen, Bavi\u00E8re, en Allemagne) est un pilote automobile allemand. Auteur d'une honorable carri\u00E8re en Formule 1, ponctu\u00E9e par une victoire au GP d'Espagne 1975, il s'est par la suite distingu\u00E9 dans les \u00E9preuves d'endurance et a notamment remport\u00E9 les 24 heures du Mans en 1989 (alors hors WSC, pour onze participations entre 1972 et 1995)."@fr ,
+		"Jochen Mass (ur. 30 wrze\u015Bnia 1946 w Dorfen) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl ,
+		"Jochen Richard Mass ou apenas Jochen Mass (Dorfen, 30 de Setembro de 1946) \u00E9 um ex-piloto alem\u00E3o de F\u00F3rmula 1. Participou de 105 corridas, tendo estreado em 14 de julho de 1973. Ganhou seu primeiro (e \u00FAnico) GP no Grande Pr\u00EAmio da Espanha de 1975, n\u00E3o fez nenhuma pole position, conquistou 8 p\u00F3dios 2 voltas mais r\u00E1pidas e marcou 71 pontos em sua carreira. Nos treinos para o Grande Pr\u00EAmio da B\u00E9lgica de 1982, faltando dez minutos para o t\u00E9rmino do treino classificat\u00F3rio, o canadense Gilles Villeneuve da Ferrari n\u00E3o conseguiu desviar e acertou o pneu traseiro do March n\u00FAmero 17 do piloto alem\u00E3o que estava lento naquele momento. Com o toque, o carro n\u00FAmero 27 do piloto canadense deu v\u00E1rias voltas ao ar fazendo com que Villeneuve fosse lan\u00E7ado contra a cerca de prote\u00E7\u00E3o do circuito. O austr\u00EDaco Niki Lauda disse ao jornal Blick da Su\u00ED\u00E7a, que Jochen Mass deveria se responsabilizar com parte da culpa pelo acidente que se envolveu com o piloto canadiano. - \"Esse n\u00E3o foi um acidente normal e Mass n\u00E3o pode ser totalmente inocentado\", afirmou Lauda: \"Depois de ver o canadense pelo espelho retrovisor, Jochen Mass deveria ter ficado onde estava, ou seja, no meio da pista. Assim como ocorre em uma estrada, ningu\u00E9m deve mudar de pista no \u00FAltimo momento quando v\u00EA algu\u00E9m muito mais r\u00E1pido vindo de tr\u00E1s. N\u00E3o quero come\u00E7ar uma pol\u00EAmica, mas depois da suspens\u00E3o de Riccardo Patrese e da amea\u00E7a de lev\u00E1-lo aos tribunais pelo acidente em que morreu Ronnie Peterson, em Monza, em 1978, n\u00E3o podemos permanecer completamente calados sobre esta a\u00E7\u00E3o certamente infeliz de Jochen Mass\" Mass foi inocentado pelo acidente. No Grande Pr\u00EAmio da Fran\u00E7a de 1982, na 11\u00AA volta, um grave acidente havia agitado o aut\u00F3dromo, envolvendo o piloto alem\u00E3o da March. Doze feridos sem gravidade, dos quais algumas pessoas com queimaduras de segundo grau, foi o saldo do acidente. Mass, que se chocou com o italiano Mauro Baldi da Arrows ao completar a longa reta do Mistral e entrar na curva de Signes, parou com seu carro - depois de passar por grande quantidade de pneus velhos e pelo guard rail - numa s\u00E9rie de alambrados, onde se havia instalado parte do p\u00FAblico. Oportunamente, os obst\u00E1culos encontrados conseguiram frear o impulso do carro, que saiu da pista a uma velocidade de 275 km/h aproximadamente. Com o acidente que se envolveu com o piloto canadiano tr\u00EAs meses antes, Mass ficou muito assustado com mais esse e decidiu largar a F1 . Desse ponto em diante no automobilismo ingressou no grupo-C de esportes-prot\u00F3tipo onde fez sucesso ao se tornar piloto da bem sucedida equipe de f\u00E1brica da Porsche. Subiu ao p\u00F3dio no seu ano de estr\u00E9ia em 1982. Participou no campeonato de resist\u00EAncia anual. Por fim conseguiu sua primeira e \u00FAnica vit\u00F3ria em Le Mans com a equipe Sauber em 1989."@pt ,
+		"\u0419\u043E\u0445\u0435\u043D \u041C\u0430\u0441\u0441 (\u043D\u0435\u043C. Jochen Mass, 30 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1946, \u0414\u043E\u0440\u0444\u0435\u043D, \u041C\u044E\u043D\u0445\u0435\u043D) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Jochen Mass (30 de septiembre de 1946, M\u00FAnich, Alemania) es un ex-piloto de automovilismo de velocidad alem\u00E1n. Logr\u00F3 una victoria y ocho podios en la F\u00F3rmula 1 con el equipo McLaren, resultando sexto en el campeonato 1977, octavo en 1975 y noveno en 1976. Tambi\u00E9n obtuvo 32 victorias en el Campeonato Mundial de Resistencia, destac\u00E1ndose las 24 Horas de Le Mans de 1989 y las 12 Horas de Sebring de 1987, y fue subcampe\u00F3n en 1984, 1985, 1989 y 1990. Mass consigui\u00F3 adem\u00E1s ocho victorias en el Campeonato Alem\u00E1n de Automovilismo, resultando campe\u00F3n en 1985."@es ,
+		"Jochen Richard Mass (born 30 September 1946) is a German former racing driver."@en ,
+		"Jochen Richard Mass (* 30. September 1946 in Dorfen) ist ein ehemaliger deutscher Automobilrennfahrer. Seine aktive Laufbahn f\u00FChrte vom Tourenwagensport \u00FCber die Formel 1 bis zu Langstreckenrennen."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Mass_at_1982_Dutch_Grand_Prix.jpg?width=300> ;
+	dbo:birthDate	"1946-9-30"^^xsd:date ;
+	dbo:wikiPageRevisionID	738031739 ;
+	dbo:birthPlace	dbr:Dorfen ;
+	dbo:wikiPageID	1226327 ;
+	dbo:wins	"1"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"2"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1973_Argentine_Grand_Prix> ;
+	dbo:races	"114"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1982_French_Grand_Prix> ;
+	dbo:podiums	"8"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Jochen_Mass	ns28:hypernym	dbr:Driver ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		dbr:European_Touring_Car_Championship .
+dbr:Czechoslovakian_Grand_Prix	dbp:winner	dbr:Jochen_Mass .
+dbr:Ford_Capri	dbp:drivers	dbr:Jochen_Mass .
+<http://dbpedia.org/resource/6_Hours_of_Mexico>	dbp:mostWinsDriver	dbr:Jochen_Mass .
+dbr:Masaryk_Circuit	dbp:recordDriver	dbr:Jochen_Mass .

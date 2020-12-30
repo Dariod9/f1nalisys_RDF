@@ -1,0 +1,407 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1989_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1983_Monaco_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:thirdDriver	dbr:Alain_Prost .
+dbr:Williams_FW15C__3	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1987_Japanese_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Japanese_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_Japanese_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Japanese_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Alain_Prost	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:Competition101168569 ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:WikicatRenaultFormulaOneDrivers ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Alain_Prost	rdf:type	umbel-rc:RaceCarDriver .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Alain_Prost	rdf:type	ns5:NaturalPerson ,
+		yago:GroupAction101080366 ,
+		yago:WikicatIndividualRivalriesInSports ,
+		dbo:Athlete ,
+		ns5:Agent ,
+		dbo:Agent ,
+		yago:WikicatEuropeanFormulaThreeChampionshipDrivers ,
+		yago:PsychologicalFeature100023100 ,
+		umbel-rc:Athlete .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Alain_Prost	rdf:type	wikidata:Q5 .
+@prefix schema:	<http://schema.org/> .
+dbr:Alain_Prost	rdf:type	schema:Person ,
+		wikidata:Q378622 ,
+		yago:Abstraction100002137 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Alain_Prost	rdf:type	owl:Thing ,
+		yago:WikicatFrenchFormulaThreeChampionshipDrivers ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		<http://dbpedia.org/class/yago/WikicatFrenchFormulaRenault2.0Drivers> ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		dbo:MotorsportRacer ,
+		yago:Driver110034906 ,
+		yago:WikicatGrandPrixMastersDrivers ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Alain_Prost	rdf:type	foaf:Person ,
+		yago:Event100029378 ,
+		yago:Act100030358 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Alain_Prost	rdfs:label	"Alain Prost"@pl ,
+		"Alain Prost"@en ,
+		"Alain Prost"@pt ,
+		"\u963F\u5170\u00B7\u666E\u7F57\u65AF\u7279"@zh ,
+		"Alain Prost"@de ,
+		"\u041F\u0440\u043E\u0441\u0442, \u0410\u043B\u0435\u043D"@ru ,
+		"Alain Prost"@es ,
+		"\u30A2\u30E9\u30F3\u30FB\u30D7\u30ED\u30B9\u30C8"@ja ,
+		"Alain Prost"@fr ,
+		"\u0623\u0644\u0646 \u0628\u0631\u0648\u0633\u062A"@ar ,
+		"Alain Prost"@nl ,
+		"Alain Prost"@it ;
+	rdfs:comment	"Il suo debutto in Formula 1 risale al 1980 su McLaren e la sua attivit\u00E0 di pilota nella massima categoria di competizioni su pista \u00E8 proseguita fino al 1993. Le sue numerose vittorie (mediamente una ogni quattro Gran Premi disputati) lo hanno portato a diventare il pilota pi\u00F9 vincente della storia della Formula 1, superando nel 1987 il record di gare vinte appartenuto fino a quel momento a Jackie Stewart. Il primato \u00E8 stato poi battuto, 14 anni dopo da Michael Schumacher."@it ,
+		"Alain Marie Pascal Prost, OBE (* 24. Februar 1955 in Saint-Chamond) ist ein franz\u00F6sischer Automobilrennfahrer armenisch-franz\u00F6sischer Herkunft. Zwischen 1980 und 1993 startete er bei insgesamt 199 Grand Prix in der Formel 1. In der Zeit von 1997 bis 2001 f\u00FChrte Prost sein eigenes Formel-1-Team namens Prost Grand Prix. Seit 2003 ist er wieder als Rennfahrer aktiv und startet regelm\u00E4\u00DFig in der franz\u00F6sischen Eisrennserie Troph\u00E9e Andros."@de ,
+		"\u0410\u043B\u0435\u0301\u043D \u041C\u0430\u0440\u0438\u0301 \u041F\u0430\u0441\u043A\u0430\u0301\u043B\u044C \u041F\u0440\u043E\u0441\u0442 (\u0444\u0440. Alain Marie Pascal Prost; \u0440\u043E\u0434. 24 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1955, \u0421\u0435\u043D-\u0428\u0430\u043C\u043E\u043D) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0442\u0440\u0438\u043D\u0430\u0434\u0446\u0430\u0442\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0427\u0435\u0442\u044B\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 (1985, 1986, 1989, 1993). \u0427\u0435\u0442\u044B\u0440\u0435 \u0440\u0430\u0437\u0430 \u0437\u0430\u043D\u0438\u043C\u0430\u043B \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435. \u041F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u0430, \u0441\u043E\u0437\u0434\u0430\u043B \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u00ABProst Grand Prix\u00BB, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u043E\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0441 1997 \u043F\u043E 2001 \u0433\u043E\u0434, \u0442\u0430\u043A \u0438 \u043D\u0435 \u0434\u043E\u0431\u0438\u0432\u0448\u0438\u0441\u044C \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0445 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u0432. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0434\u043E\u0432\u043E\u043B\u044C\u043D\u043E \u0443\u0441\u043F\u0435\u0448\u043D\u043E \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 Andros Trophy, \u0438 \u0441 2014 \u0433\u043E\u0434\u0430 \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-E \u2013 e.dams."@ru ,
+		"\u963F\u5170\u00B7\u666E\u7F57\u65AF\u7279\uFF08\u6CD5\u8BED\uFF1AAlain Prost\uFF0C1955\u5E742\u670824\u65E5\uFF0D\uFF09\uFF0C\u662F\u6CD5\u56FD\u8457\u540D\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u624B\uFF0C\u7D20\u6709\u300C\u6559\u6388\u300D\u7684\u7F8E\u540D\u3002\u666E\u7F57\u65AF\u7279\u66FE\u56DB\u5EA6\u7372\u5F97\u4E16\u754C\u51A0\u8ECD\uFF081985\u5E74\u30011986\u5E74\u30011989\u5E74\u30011993\u5E74\uFF09\uFF0C\u4ED6\u548C\u827E\u5C14\u987F\u00B7\u585E\u7EB3\u7684\u7ADE\u4E89\u662F\u516B\u96F6\u5E74\u4EE3\u540E\u671F\u5230\u4E5D\u96F6\u5E74\u4EE3\u524D\u671FF1\u6700\u5927\u7684\u770B\u70B9\u6240\u5728\u3002 \u9000\u5F79\u540E\uFF0C\u4ED6\u4E8E1997\u5E74\u7EC4\u5EFA\u81EA\u5DF1\u7684\u79C1\u4EBA\u8ECA\u968A\u666E\u7F57\u65AF\u7279\u8F66\u961F\uFF08Prost Grand Prix\uFF09\u53C2\u52A0F1\u6BD4\u8D5B\uFF0C\u4F46\u662F\u8BE5\u8F66\u961F\u57282001\u5E74\u5BA3\u5E03\u7834\u4EA7\u3002"@zh ,
+		"\u30A2\u30E9\u30F3\u30FB\u30DE\u30EA\u30FC\u30FB\u30D1\u30B9\u30AB\u30EB\u30FB\u30D7\u30ED\u30B9\u30C8\uFF08Alain Marie Pascal Prost, 1955\u5E742\u670824\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u4EBA\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021985\u5E74\u30FB1986\u5E74\u30FB1989\u5E74\u30FB1993\u5E74\u30684\u5EA6\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u306B\u8F1D\u3044\u305F\u3002\u611B\u79F0\u306F\u300C\u30D7\u30ED\u30D5\u30A7\u30C3\u30B5\u30FC\u300D\u3002 1999\u5E74\u306B\u56FD\u969B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u6BBF\u5802\uFF08The International Motorsports Hall of Fame\uFF09\u5165\u308A\u3002\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30CB\u30B3\u30E9\u30FB\u30D7\u30ED\u30B9\u30C8\u306F\u9577\u7537\u3002"@ja ,
+		"Alain Marie Pascal Prost OBE (Loire, 24 de fevereiro de 1955) \u00E9 um ex-automobilista franc\u00EAs, quatro vezes campe\u00E3o do Mundial de Pilotos da F\u00F3rmula 1. Durante sua carreira na F1, que foi de 1980 a 1993, ele venceu 51 Grandes Pr\u00EAmios."@pt ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016)25\u0628\u0643 \u0647\u0630\u0647 \u0645\u0642\u0627\u0644\u0629 \u063A\u064A\u0631 \u0645\u0631\u0627\u062C\u0639\u0629. \u064A\u0646\u0628\u063A\u064A \u0623\u0646 \u064A\u0632\u0627\u0644 \u0647\u0630\u0627 \u0627\u0644\u0642\u0627\u0644\u0628 \u0628\u0639\u062F \u0623\u0646 \u064A\u0631\u0627\u062C\u0639\u0647\u0627 \u0645\u062D\u0631\u0631 \u0645\u0627 \u0639\u062F\u0627 \u0627\u0644\u0630\u064A \u0623\u0646\u0634\u0623\u0647\u0627\u061B \u0625\u0630\u0627 \u0644\u0632\u0645 \u0627\u0644\u0623\u0645\u0631 \u0641\u064A\u062C\u0628 \u0623\u0646 \u062A\u0648\u0633\u0645 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0628\u0642\u0648\u0627\u0644\u0628 \u0627\u0644\u0635\u064A\u0627\u0646\u0629 \u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629. (\u064A\u0646\u0627\u064A\u0631 2007)"@ar ,
+		"Alain Marie Pascal Prost OBE (ur. 24 lutego 1955 w Lorette) \u2013 francuski kierowca wy\u015Bcigowy, jeden z najbardziej utytu\u0142owanych kierowc\u00F3w Formu\u0142y 1 wszech czas\u00F3w. W czasie swojej kariery w F1, kt\u00F3ra trwa\u0142a od 1980 do 1993, zwyci\u0119\u017Cy\u0142 w 51 Grand Prix (rekord zosta\u0142 pobity przez Michaela Schumachera w sezonie 2001) i zdoby\u0142 4 tytu\u0142y Mistrza \u015Awiata. W trakcie swojej kariery w F1 je\u017Adzi\u0142 dla zespo\u0142\u00F3w Renault, McLaren, Ferrari i Williams. Zosta\u0142 odznaczony m.in. francusk\u0105 Legi\u0105 Honorow\u0105 V klasy, Orderem Imperium Brytyjskiego oraz brazylijskim Orderem Krzy\u017Ca Po\u0142udnia."@pl ,
+		"Alain Marie Pascal Prost, OBE (honoraria) (Saint-Chamond, Francia, 24 de febrero de 1955), es uno de los pilotos de F\u00F3rmula 1 m\u00E1s exitosos de todos los tiempos. Compiti\u00F3 en el per\u00EDodo de 1980 a 1993, obteniendo 51 victorias, 106 podios, cuatro campeonatos mundiales y cuatro subcampeonatos. Algunas de esas marcas estuvieron imbatidas durante varios a\u00F1os hasta que Michael Schumacher las bati\u00F3 en la d\u00E9cada de 2000. Es reconocido por sus apodos el Maestro o el Profesor, debido a su met\u00F3dica manera de correr."@es ,
+		"Alain Marie Pascal Prost, OBE, Chevalier de la L\u00E9gion d'honneur (born 24 February 1955) is a French former racing driver. A four-time Formula One Drivers' Champion, only Sebastian Vettel (four championships), Juan Manuel Fangio (five championships), and Michael Schumacher (seven championships) have equalled or surpassed his number of titles. From 1987 until 2001 Prost held the record for most Grand Prix victories. Schumacher surpassed Prost's total of 51 victories at the 2001 Belgian Grand Prix. In 1999, Prost received the World Sports Awards of the Century in the motor sport category."@en ,
+		"Alain Prost, n\u00E9 le 24 f\u00E9vrier 1955 \u00E0 Lorette dans la Loire, est un pilote automobile fran\u00E7ais. Quadruple champion du monde des pilotes de Formule 1 en 1985, 1986, 1989 et 1993, victorieux de 51 Grands Prix de Formule 1 pour 199 d\u00E9parts entre 1980 et 1993, celui que l'on surnomme \u00AB Le Professeur \u00BB est consid\u00E9r\u00E9 comme l'un des plus grands pilotes de l'histoire de son sport. Sa rivalit\u00E9 au sommet avec Ayrton Senna fait partie des grandes heures de la Formule 1 au tournant des ann\u00E9es 1980 et 1990."@fr ,
+		"Alain Marie Pascal Prost (Saint-Chamond (Loire, Frankrijk), 24 februari 1955) is een van de succesvolste Formule 1-coureurs aller tijden. Tijdens zijn Formule 1-carri\u00E8re tussen 1980 en 1993 won hij 51 maal een Grand Prix. Dit record werd in 2001 door Michael Schumacher gebroken. Prost werd 4 keer wereldkampioen in de Formule 1."@nl ;
+	rdfs:seeAlso	dbr:Scuderia_Ferrari ,
+		dbr:Renault_F1 ,
+		dbr:McLaren ,
+		dbr:WilliamsF1 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Alain_Prost	dbp:birthDate	"1955-02-24"^^xsd:date .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-cs:Alain_Prost ,
+		<http://viaf.org/viaf/294687716> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-nl:Alain_Prost .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-es:Alain_Prost ,
+		<http://rdf.freebase.com/ns/m.096td> ,
+		<http://ko.dbpedia.org/resource/\uC54C\uB7AD_\uD504\uB85C\uC2A4\uD2B8> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-pl:Alain_Prost .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-it:Alain_Prost .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-fr:Alain_Prost ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30E9\u30F3\u30FB\u30D7\u30ED\u30B9\u30C8> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-wikidata:Q10494 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-pt:Alain_Prost .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-de:Alain_Prost .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-eu:Alain_Prost ,
+		<http://yago-knowledge.org/resource/Prost\u2013Senna_rivalry> ,
+		<http://d-nb.info/gnd/124877311> ,
+		dbr:Alain_Prost ,
+		<http://el.dbpedia.org/resource/\u0391\u03BB\u03AD\u03BD_\u03A0\u03C1\u03BF\u03C3\u03C4> ,
+		wikidata:Q10494 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	dbpedia-id:Alain_Prost .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Alain_Prost	owl:sameAs	yago-res:Alain_Prost .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Alain_Prost	dct:subject	dbc:McLaren_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Chevaliers_of_the_L\u00E9gion_d\u0027honneur> ,
+		dbc:French_racing_drivers ,
+		dbc:Formula_One_team_owners ,
+		<http://dbpedia.org/resource/Category:1955_births> ,
+		dbc:French_people_of_Armenian_descent ,
+		dbc:Grand_Prix_Masters_drivers ,
+		dbc:European_Formula_Three_Championship_drivers ,
+		dbc:French_Armenians ,
+		<http://dbpedia.org/resource/Category:People_from_Loire_(department)> ,
+		dbc:Honorary_Officers_of_the_Order_of_the_British_Empire ,
+		dbc:French_Formula_One_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:French_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:French_Formula_Renault_2.0_drivers> ,
+		dbc:Living_people ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		dbc:Formula_E_team_owners ,
+		dbc:Ferrari_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_One_World_Drivers\u0027_Champions> ,
+		dbc:Renault_Formula_One_drivers ;
+	foaf:name	"Alain Prost"@en ;
+	foaf:homepage	<http://Formula1.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Festival_automobile_international_2012_-_Photocall_-_Alain_Prost_-_013.jpg> ;
+	dct:description	"French racingcar driver"@en ;
+	foaf:givenName	"Alain"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Alain_Prost	foaf:isPrimaryTopicOf	wikipedia-en:Alain_Prost ;
+	foaf:surname	"Prost"@en ;
+	dbp:nickname	"\"The Professor\""^^xsd:string ;
+	dbp:points	768.5 ;
+	dbp:years	"\u2013,"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:McLaren ,
+		dbr:Renault_F1 ,
+		dbr:Scuderia_Ferrari ,
+		dbr:WilliamsF1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Alain_Prost	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Alain_Prost?oldid=744354449> ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/results/team/1997/2028.html> .
+@prefix ns29:	<http://www.4mula1.ro/history/driver/> .
+dbr:Alain_Prost	dbo:wikiPageExternalLink	ns29:Alain_Prost ,
+		<http://www.prostfan.com/> ,
+		<http://www.mclaren.com/formula1/heritage/driver/alain-prost/alain-prost-extract-1/> ,
+		<http://www.ddavid.com/formula1/prost_bio.htm> ,
+		<http://www.formula1.com/results/driver/1980/36.html> ,
+		<http://Formula1.com/> ;
+	dbp:caption	"Prost in 2012"^^xsd:string ;
+	dbp:nationality	"French"^^xsd:string ;
+	dbp:birthName	"Alain Marie Pascal Prost"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1981_French_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1993_German_Grand_Prix> ;
+	dbp:birthPlace	"Lorette, Loire, France"^^xsd:string ;
+	dbo:abstract	"Alain Marie Pascal Prost, OBE (* 24. Februar 1955 in Saint-Chamond) ist ein franz\u00F6sischer Automobilrennfahrer armenisch-franz\u00F6sischer Herkunft. Zwischen 1980 und 1993 startete er bei insgesamt 199 Grand Prix in der Formel 1. In der Zeit von 1997 bis 2001 f\u00FChrte Prost sein eigenes Formel-1-Team namens Prost Grand Prix. Seit 2003 ist er wieder als Rennfahrer aktiv und startet regelm\u00E4\u00DFig in der franz\u00F6sischen Eisrennserie Troph\u00E9e Andros. Alain Prost geh\u00F6rt zu den erfolgreichsten Piloten der Formel-1-Geschichte: Er wurde jeweils viermal Weltmeister und Vizeweltmeister und gewann insgesamt 51 Grand Prix. Viele seiner zahlreichen Bestmarken hatten Bestand, bis sie von Michael Schumacher \u00FCbertroffen wurden. 1999 erhielt Alain Prost bei den World Sports Awards of the Century den Preis in der Kategorie Motorsport, neben Gr\u00F6\u00DFen wie Pel\u00E9, Muhammad Ali, Carl Lewis und Steffi Graf. Einer breiten \u00D6ffentlichkeit wurde Prost Ende der 1980er Jahre vor allem durch seine Dauerrivalit\u00E4t mit dem Brasilianer Ayrton Senna bekannt, mit dem er sich \u00FCber die Rennstrecke hinaus intensiv duellierte. In den vier Saisons, in denen beide im Kampf um den Weltmeistertitel alle anderen Fahrer hinter sich lie\u00DFen (1988\u20131990 und 1993), gewann jeder von beiden zweimal den Titel."@de ,
+		"Alain Marie Pascal Prost OBE (Loire, 24 de fevereiro de 1955) \u00E9 um ex-automobilista franc\u00EAs, quatro vezes campe\u00E3o do Mundial de Pilotos da F\u00F3rmula 1. Durante sua carreira na F1, que foi de 1980 a 1993, ele venceu 51 Grandes Pr\u00EAmios."@pt ,
+		"Alain Marie Pascal Prost OBE (ur. 24 lutego 1955 w Lorette) \u2013 francuski kierowca wy\u015Bcigowy, jeden z najbardziej utytu\u0142owanych kierowc\u00F3w Formu\u0142y 1 wszech czas\u00F3w. W czasie swojej kariery w F1, kt\u00F3ra trwa\u0142a od 1980 do 1993, zwyci\u0119\u017Cy\u0142 w 51 Grand Prix (rekord zosta\u0142 pobity przez Michaela Schumachera w sezonie 2001) i zdoby\u0142 4 tytu\u0142y Mistrza \u015Awiata. W trakcie swojej kariery w F1 je\u017Adzi\u0142 dla zespo\u0142\u00F3w Renault, McLaren, Ferrari i Williams. Zosta\u0142 odznaczony m.in. francusk\u0105 Legi\u0105 Honorow\u0105 V klasy, Orderem Imperium Brytyjskiego oraz brazylijskim Orderem Krzy\u017Ca Po\u0142udnia. Prost jest entuzjast\u0105 kolarstwa i pomaga w projektowaniu ram do rower\u00F3w francuskiemu przedsi\u0119biorstwu Cyfac."@pl ,
+		"Alain Marie Pascal Prost, OBE (honoraria) (Saint-Chamond, Francia, 24 de febrero de 1955), es uno de los pilotos de F\u00F3rmula 1 m\u00E1s exitosos de todos los tiempos. Compiti\u00F3 en el per\u00EDodo de 1980 a 1993, obteniendo 51 victorias, 106 podios, cuatro campeonatos mundiales y cuatro subcampeonatos. Algunas de esas marcas estuvieron imbatidas durante varios a\u00F1os hasta que Michael Schumacher las bati\u00F3 en la d\u00E9cada de 2000. Es reconocido por sus apodos el Maestro o el Profesor, debido a su met\u00F3dica manera de correr. La rivalidad entre Alain Prost y Ayrton Senna fue posiblemente la mayor de la historia del automovilismo, entre dos pilotos que estaban muy por delante de casi cualquier otro en su \u00E9poca (exceptuando tal vez a Nigel Mansell, Nelson Piquet o Gerhard Berger). Tal era dicha rivalidad que la definici\u00F3n del t\u00EDtulo de pilotos de 1989 y la de 1990 se produjo por una colisi\u00F3n entre ambos. A\u00F1os despu\u00E9s de la muerte de Senna, el propio Prost reconoci\u00F3 que sin Senna nada hubiera sido igual, se retroalimentaban entre los dos gracias a su rivalidad. La \u00E9poca de los 80' fue posiblemente la d\u00E9cada de oro de la F\u00F3rmula 1. Prost era un piloto caracterizado por ser muy minucioso en todo lo que hac\u00EDa, cuidando al m\u00E1s m\u00EDnimo detalle cada parte de su monoplaza, cada parte de su conducci\u00F3n y sus posibilidades en el mundial. Se dice que la conducci\u00F3n de Prost era la t\u00EDpica conducci\u00F3n que se ense\u00F1a en las escuelas de pilotos, que r\u00E1pidamente se olvida. Cada vez que se le ve\u00EDa en la pista daba impresi\u00F3n de lentitud por su manejo pulido, sin embargo su t\u00E9cnica era tremendamente r\u00E1pida y efectiva. Se revel\u00F3 como el mejor estratega de su \u00E9poca en el aspecto t\u00E9cnico, en particular durante la etapa de adopci\u00F3n de la telemetr\u00EDa y la aparici\u00F3n de la suspensi\u00F3n activa. Adicionalmente, Prost result\u00F3 ser el piloto m\u00E1s ganador durante la \u00E9poca en que quiz\u00E1s fue m\u00E1s complicado hacerlo; no solamente por la talla de los pilotos contra quienes le toc\u00F3 competir (Piquet, Lauda, Alboreto, Mansell, Rosberg, Senna, Reutemann, Arnoux) sino por las caracter\u00EDsticas y especificaciones de los autom\u00F3viles que condujo. La d\u00E9cada de 1980 fue la era del turbocompresor, con una mec\u00E1nica sofisticada y dif\u00EDcil de domar por la potencia de los motores, aunada a restricciones de consumo de combustible, medidas de seguridad a\u00FAn no muy desarrolladas y un reglamento y una aerodin\u00E1mica que favorec\u00EDan la lucha cuerpo a cuerpo en pista y los adelantamientos."@es ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016)25\u0628\u0643 \u0647\u0630\u0647 \u0645\u0642\u0627\u0644\u0629 \u063A\u064A\u0631 \u0645\u0631\u0627\u062C\u0639\u0629. \u064A\u0646\u0628\u063A\u064A \u0623\u0646 \u064A\u0632\u0627\u0644 \u0647\u0630\u0627 \u0627\u0644\u0642\u0627\u0644\u0628 \u0628\u0639\u062F \u0623\u0646 \u064A\u0631\u0627\u062C\u0639\u0647\u0627 \u0645\u062D\u0631\u0631 \u0645\u0627 \u0639\u062F\u0627 \u0627\u0644\u0630\u064A \u0623\u0646\u0634\u0623\u0647\u0627\u061B \u0625\u0630\u0627 \u0644\u0632\u0645 \u0627\u0644\u0623\u0645\u0631 \u0641\u064A\u062C\u0628 \u0623\u0646 \u062A\u0648\u0633\u0645 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0628\u0642\u0648\u0627\u0644\u0628 \u0627\u0644\u0635\u064A\u0627\u0646\u0629 \u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629. (\u064A\u0646\u0627\u064A\u0631 2007) \u0623\u0644\u0646 \u0645\u0627\u0631\u064A \u0628\u0627\u0633\u0643\u0627\u0644 \u0628\u0631\u0648\u0633\u062A (Alain Marie Pascal Prost\u061B \u0648\u0644\u062F \u0641\u064A 24 \u0641\u0628\u0631\u0627\u064A\u0631 1955) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642\u0627\u062A \u0641\u0631\u0646\u0633\u064A \u0645\u0639\u062A\u0632\u0644\u060C \u0648\u0627\u0644\u0628\u0637\u0644 \u0627\u0644\u0639\u0627\u0644\u0645\u064A \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0623\u0631\u0628\u0639 \u0645\u0631\u0627\u062A\u060C \u0623\u064A \u062B\u0627\u0644\u062B \u0623\u0643\u062B\u0631 \u0633\u0627\u0626\u0642\u064A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0631\u0628\u062D\u0627\u064B \u0628\u0647\u0630\u0627 \u0627\u0644\u0644\u0642\u0628 \u0628\u0639\u062F \u0645\u064A\u0634\u0627\u0626\u064A\u0644 \u0634\u0648\u0645\u0627\u062E\u0631 \u0648\u062E\u0648\u0627\u0646 \u0645\u0627\u0646\u0648\u064A\u0644 \u0641\u0627\u0646\u062C\u064A\u0648. \u062D\u0645\u0644 \u0628\u0631\u0648\u0633\u062A \u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0642\u064A\u0627\u0633\u064A \u0644\u0639\u062F\u062F \u0645\u0631\u0627\u062A \u0627\u0644\u0641\u0648\u0632 \u0628\u0627\u0644\u063A\u0631\u0627\u0646\u062F \u0628\u0631\u064A \u0645\u0646 1987 \u062D\u062A\u0649 2001\u060C \u062D\u064A\u0646\u0645\u0627 \u062A\u062C\u0627\u0648\u0632 \u0634\u0648\u0645\u0627\u062E\u0631 \u0627\u0646\u062A\u0635\u0627\u0631\u0627\u062A \u0628\u0631\u0648\u0633\u062A \u0627\u0644\u062D\u0627\u062F\u064A\u0629 \u0648\u0627\u0644\u062E\u0645\u0633\u064A\u0646. \u0641\u064A \u0633\u0646 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0639\u0634\u0631 \u0645\u0627\u0631\u0633 \u0628\u0631\u0648\u0633\u062A \u0633\u0628\u0627\u0642 \u0627\u0644\u0643\u0627\u0631\u062A\u060C \u0648\u0633\u0631\u0639\u0627\u0646 \u0645\u0627 \u0641\u0627\u0632 \u0628\u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 3 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629 \u0648\u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0642\u0628\u0644 \u0627\u0644\u0627\u0644\u062A\u062D\u0627\u0642 \u0628\u0641\u0631\u064A\u0642 \u0645\u0627\u0643\u0644\u0627\u0631\u064A\u0646 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0639\u0627\u0645 1980 \u0641\u064A \u0633\u0646 \u0627\u0644\u062E\u0627\u0645\u0633\u0629 \u0648\u0627\u0644\u0639\u0634\u0631\u064A\u0646. \u0631\u0628\u062D \u0623\u0648\u0644 \u0627\u0646\u062A\u0635\u0627\u0631\u0627\u062A\u0647 \u0627\u0644\u062D\u0627\u062F\u064A\u0629 \u0648\u0627\u0644\u062E\u0645\u0633\u064A\u0646 \u0641\u064A \u0641\u0631\u0646\u0633\u0627 \u0628\u0639\u062F \u0639\u0627\u0645 \u0645\u0639 \u062A\u0645\u062B\u064A\u0644\u0647 \u0644\u0641\u0631\u064A\u0642 \u0631\u0648\u0646\u0648 \u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1981 \u06481983. \u0641\u064A \u0639\u0627\u0645 1984 \u0639\u0627\u062F \u0644\u0641\u0631\u064A\u0642 \u0645\u0627\u0643\u0644\u0627\u0631\u064A\u0646 \u062D\u062A\u0649 \u0639\u0627\u0645 1989. \u0634\u0627\u0631\u0643 \u0623\u064A\u0636\u0627\u064B \u0644\u0635\u0627\u0644\u062D \u0641\u0631\u064A\u0642\u064A \u0641\u064A\u0631\u0627\u0631\u064A \u0641\u064A \u0627\u0644\u0639\u0627\u0645\u064A\u0646 \u0627\u0644\u062A\u0627\u0644\u064A\u064A\u0646\u060C \u0648\u0628\u0639\u062F \u062A\u0648\u0642\u0641 \u0644\u0645\u062F\u0629 \u0639\u0627\u0645 \u0641\u064A 1992\u060C \u0644\u0639\u0628 \u0644\u0635\u0627\u0644\u062D \u0641\u0631\u064A\u0642 \u0648\u064A\u0644\u064A\u0627\u0645\u0632 \u0641\u064A \u0639\u0627\u0645\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A \u0627\u0644\u0623\u062E\u064A\u0631. \u0641\u0627\u0632 \u0641\u064A \u0623\u0631\u0628\u0639 \u0645\u0648\u0627\u0633\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0641\u064A \u0627\u0644\u0623\u0639\u0648\u0627\u0645: 1985\u060C 1986\u060C 1989\u060C 1993. \u0628\u0639\u062F \u0627\u0639\u062A\u0632\u0627\u0644\u0647 \u0641\u064A \u0639\u0627\u0645 1993\u060C \u0642\u0627\u0645 \u0628\u0625\u0646\u0634\u0627\u0621 \u0641\u0631\u064A\u0642 \u064A\u062F\u0639\u0649 \u0628\u0631\u0648\u0633\u062A \u063A\u0631\u0627\u0646\u062F \u0628\u0631\u064A \u0627\u0644\u0630\u064A \u0634\u0627\u0631\u0643 \u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1997 \u06482001. \u0648\u064A\u0644\u0642\u0628 \u0628\u0627\u0644\u0628\u0631\u0648\u0641\u0633\u0631 222."@ar ,
+		"\u963F\u5170\u00B7\u666E\u7F57\u65AF\u7279\uFF08\u6CD5\u8BED\uFF1AAlain Prost\uFF0C1955\u5E742\u670824\u65E5\uFF0D\uFF09\uFF0C\u662F\u6CD5\u56FD\u8457\u540D\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u624B\uFF0C\u7D20\u6709\u300C\u6559\u6388\u300D\u7684\u7F8E\u540D\u3002\u666E\u7F57\u65AF\u7279\u66FE\u56DB\u5EA6\u7372\u5F97\u4E16\u754C\u51A0\u8ECD\uFF081985\u5E74\u30011986\u5E74\u30011989\u5E74\u30011993\u5E74\uFF09\uFF0C\u4ED6\u548C\u827E\u5C14\u987F\u00B7\u585E\u7EB3\u7684\u7ADE\u4E89\u662F\u516B\u96F6\u5E74\u4EE3\u540E\u671F\u5230\u4E5D\u96F6\u5E74\u4EE3\u524D\u671FF1\u6700\u5927\u7684\u770B\u70B9\u6240\u5728\u3002 \u9000\u5F79\u540E\uFF0C\u4ED6\u4E8E1997\u5E74\u7EC4\u5EFA\u81EA\u5DF1\u7684\u79C1\u4EBA\u8ECA\u968A\u666E\u7F57\u65AF\u7279\u8F66\u961F\uFF08Prost Grand Prix\uFF09\u53C2\u52A0F1\u6BD4\u8D5B\uFF0C\u4F46\u662F\u8BE5\u8F66\u961F\u57282001\u5E74\u5BA3\u5E03\u7834\u4EA7\u3002"@zh ,
+		"Alain Marie Pascal Prost, OBE, Chevalier de la L\u00E9gion d'honneur (born 24 February 1955) is a French former racing driver. A four-time Formula One Drivers' Champion, only Sebastian Vettel (four championships), Juan Manuel Fangio (five championships), and Michael Schumacher (seven championships) have equalled or surpassed his number of titles. From 1987 until 2001 Prost held the record for most Grand Prix victories. Schumacher surpassed Prost's total of 51 victories at the 2001 Belgian Grand Prix. In 1999, Prost received the World Sports Awards of the Century in the motor sport category. Prost discovered karting at the age of 14 during a family holiday. He progressed through motor sport's junior ranks, winning the French and European Formula Three championships, before joining the McLaren Formula One team in 1980 at the age of 24. He finished in the points on his Formula One d\u00E9but at the San Martin Autodrome in Buenos Aires, Argentina (where he took his first podium a year later) and took his first race victory at his home Grand Prix in France a year later, driving for the factory Renault team. During the 1980s and early 1990s, Prost formed a fierce rivalry mainly with Ayrton Senna, but also Nelson Piquet and Nigel Mansell. In 1986, at the last race of the season, he beat Mansell and Piquet of Williams to the title after Mansell retired late on in the race, and Piquet was pulled in for a late precautionary pit stop. Senna joined Prost at McLaren in 1988 and the two had a series of controversial clashes, including a collision at the 1989 Japanese Grand Prix that gave Prost his third Drivers' Championship. A year later at the same venue they collided again, but this time Prost, driving for Ferrari, lost out. Before the end of a winless 1991 season Prost was fired by Ferrari for his public criticism of the team. After a sabbatical in 1992, Prost joined the Williams team, prompting reigning drivers' champion Mansell to leave for CART. With a competitive car, Prost won the 1993 championship and retired from Formula One driving at the end of the year. In 1997, Prost took over the French Ligier team, running it as Prost Grand Prix until it went bankrupt in 2002. From 2003 to 2012 he competed in the Andros Trophy, which is an ice racing championship, taking 38 race victories and winning the championship 3 times. Prost employed a smooth, relaxed style behind the wheel, deliberately modeling himself on personal heroes like Jackie Stewart and Jim Clark. He was nicknamed \"The Professor\" for his intellectual approach to competition. Though it was not a name he particularly cared for, he would admit later that it was an appropriate summation of his approach to his racing. Skilled at setting up his car for race conditions, Prost would often conserve his brakes and tyres early in a race, leaving them fresher for a challenge at the end."@en ,
+		"Alain Marie Pascal Prost (Saint-Chamond (Loire, Frankrijk), 24 februari 1955) is een van de succesvolste Formule 1-coureurs aller tijden. Tijdens zijn Formule 1-carri\u00E8re tussen 1980 en 1993 won hij 51 maal een Grand Prix. Dit record werd in 2001 door Michael Schumacher gebroken. Prost werd 4 keer wereldkampioen in de Formule 1. De rivaliteit tussen Prost en de Braziliaan Ayrton Senna in de Formule 1-seizoenen 1988 en 1989 bij het Engelse team Mclaren wordt door velen gezien als een van de meest interessante gevechten tussen coureurs die beiden duidelijk een klasse beter waren dan de concurrentie."@nl ,
+		"\u0410\u043B\u0435\u0301\u043D \u041C\u0430\u0440\u0438\u0301 \u041F\u0430\u0441\u043A\u0430\u0301\u043B\u044C \u041F\u0440\u043E\u0441\u0442 (\u0444\u0440. Alain Marie Pascal Prost; \u0440\u043E\u0434. 24 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1955, \u0421\u0435\u043D-\u0428\u0430\u043C\u043E\u043D) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0442\u0440\u0438\u043D\u0430\u0434\u0446\u0430\u0442\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0427\u0435\u0442\u044B\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 (1985, 1986, 1989, 1993). \u0427\u0435\u0442\u044B\u0440\u0435 \u0440\u0430\u0437\u0430 \u0437\u0430\u043D\u0438\u043C\u0430\u043B \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435. \u041F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u0430, \u0441\u043E\u0437\u0434\u0430\u043B \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u00ABProst Grand Prix\u00BB, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u043E\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0441 1997 \u043F\u043E 2001 \u0433\u043E\u0434, \u0442\u0430\u043A \u0438 \u043D\u0435 \u0434\u043E\u0431\u0438\u0432\u0448\u0438\u0441\u044C \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0445 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u0432. \u0410\u043B\u0435\u043D \u041F\u0440\u043E\u0441\u0442 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043B\u0443\u0447\u0448\u0438\u0445 \u043F\u0438\u043B\u043E\u0442\u043E\u0432 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB \u0437\u0430 \u0432\u0441\u044E \u0435\u0451 \u0438\u0441\u0442\u043E\u0440\u0438\u044E. \u0417\u0430 \u0441\u0432\u043E\u0439 \u0430\u043A\u043A\u0443\u0440\u0430\u0442\u043D\u044B\u0439 \u0441\u0442\u0438\u043B\u044C \u043F\u0438\u043B\u043E\u0442\u0430\u0436\u0430 \u0438 \u0440\u0430\u0441\u0447\u0451\u0442\u043B\u0438\u0432\u0443\u044E \u0433\u043E\u043D\u043E\u0447\u043D\u0443\u044E \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044E \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435 \u00AB\u041F\u0440\u043E\u0444\u0435\u0441\u0441\u043E\u0440\u00BB. \u0412 \u0441\u0432\u043E\u0451 \u0432\u0440\u0435\u043C\u044F \u043E\u043D \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u043B \u0440\u0435\u043A\u043E\u0440\u0434\u044B \u043F\u043E \u0447\u0438\u0441\u043B\u0443 \u043F\u043E\u0431\u0435\u0434, \u043B\u0443\u0447\u0448\u0438\u0445 \u043A\u0440\u0443\u0433\u043E\u0432, \u043E\u0447\u043A\u043E\u0432 \u0438 \u043F\u043E\u0434\u0438\u0443\u043C\u043E\u0432. \u0412 2000-\u0435 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u0432\u0441\u0435 \u0435\u0433\u043E \u0440\u0435\u043A\u043E\u0440\u0434\u044B \u0431\u044B\u043B\u0438 \u043F\u043E\u0431\u0438\u0442\u044B \u041C\u0438\u0445\u0430\u044D\u043B\u0435\u043C \u0428\u0443\u043C\u0430\u0445\u0435\u0440\u043E\u043C, \u0442\u0430\u043A\u0438\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C, \u041F\u0440\u043E\u0441\u0442 \u043E\u0441\u0442\u0430\u0435\u0442\u0441\u044F \u0432\u0442\u043E\u0440\u044B\u043C \u043F\u043E \u0431\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\u0443 \u0430\u0431\u0441\u043E\u043B\u044E\u0442\u043D\u044B\u0445 \u043F\u043E\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u0435\u0439. \u0421\u0430\u043C\u044B\u043C \u044F\u0440\u043A\u0438\u043C \u043F\u0435\u0440\u0438\u043E\u0434\u043E\u043C \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435 \u0410\u043B\u0435\u043D\u0430 \u041F\u0440\u043E\u0441\u0442\u0430 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u0435\u0433\u043E \u0441\u043E\u043F\u0435\u0440\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u0441 \u043F\u0430\u0440\u0442\u043D\u0435\u0440\u043E\u043C \u043F\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u00ABMcLaren\u00BB \u0410\u0439\u0440\u0442\u043E\u043D\u043E\u043C \u0421\u0435\u043D\u043D\u043E\u0439. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0431\u043E\u043B\u044C\u0448\u043E\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u0441\u043A\u0430\u043D\u0434\u0430\u043B\u043E\u0432 \u0438 \u0441\u0441\u043E\u0440, \u0432\u044B\u0437\u0432\u0430\u043D\u043D\u044B\u0445 \u044D\u0442\u0438\u043C \u0441\u043E\u043F\u0435\u0440\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E\u043C, \u043A \u043A\u043E\u043D\u0446\u0443 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0443 \u0434\u0432\u0443\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u0432 \u0441\u043B\u043E\u0436\u0438\u043B\u0438\u0441\u044C \u0432\u043F\u043E\u043B\u043D\u0435 \u043D\u0435\u0439\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0435 \u043E\u0442\u043D\u043E\u0448\u0435\u043D\u0438\u044F. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0434\u043E\u0432\u043E\u043B\u044C\u043D\u043E \u0443\u0441\u043F\u0435\u0448\u043D\u043E \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 Andros Trophy, \u0438 \u0441 2014 \u0433\u043E\u0434\u0430 \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-E \u2013 e.dams."@ru ,
+		"Il suo debutto in Formula 1 risale al 1980 su McLaren e la sua attivit\u00E0 di pilota nella massima categoria di competizioni su pista \u00E8 proseguita fino al 1993. Le sue numerose vittorie (mediamente una ogni quattro Gran Premi disputati) lo hanno portato a diventare il pilota pi\u00F9 vincente della storia della Formula 1, superando nel 1987 il record di gare vinte appartenuto fino a quel momento a Jackie Stewart. Il primato \u00E8 stato poi battuto, 14 anni dopo da Michael Schumacher. La sua carriera \u00E8 stata contrassegnata da molti duelli con altri famosi piloti del tempo, come Niki Lauda, Nigel Mansell, Nelson Piquet e soprattutto Ayrton Senna; piloti che, per alcune stagioni, ha anche avuto come compagni di scuderia: in Ferrari \u00E8 stato al fianco di Mansell e in McLaren prima di Lauda e successivamente di Senna. Dopo il suo ritiro dalla Formula 1, dal 1997 al 2001 \u00E8 stato costruttore nella massima serie, portando la sua Prost Grand Prix a disputare 83 Gran Premi, senza tuttavia cogliere vittorie. Dal 2003 ha cominciato a gareggiare nel Trofeo Andros, competizione nella quale \u00E8 diventato campione nel 2007, 2008 e 2012. Prost \u00E8 stato soprannominato \"Il professore\" per il suo approccio tattico alle gare e per la sua pignoleria nella messa a punto della monoposto. Il pilota era, infatti, esperto nell'assetto della sua vettura e tendeva a conservare pneumatici e freni a inizio gara, per sfruttarli meglio in un eventuale duello nelle ultime tornate."@it ,
+		"\u30A2\u30E9\u30F3\u30FB\u30DE\u30EA\u30FC\u30FB\u30D1\u30B9\u30AB\u30EB\u30FB\u30D7\u30ED\u30B9\u30C8\uFF08Alain Marie Pascal Prost, 1955\u5E742\u670824\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u4EBA\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021985\u5E74\u30FB1986\u5E74\u30FB1989\u5E74\u30FB1993\u5E74\u30684\u5EA6\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u306B\u8F1D\u3044\u305F\u3002\u611B\u79F0\u306F\u300C\u30D7\u30ED\u30D5\u30A7\u30C3\u30B5\u30FC\u300D\u3002 1999\u5E74\u306B\u56FD\u969B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u6BBF\u5802\uFF08The International Motorsports Hall of Fame\uFF09\u5165\u308A\u3002\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30CB\u30B3\u30E9\u30FB\u30D7\u30ED\u30B9\u30C8\u306F\u9577\u7537\u3002"@ja ,
+		"Alain Prost, n\u00E9 le 24 f\u00E9vrier 1955 \u00E0 Lorette dans la Loire, est un pilote automobile fran\u00E7ais. Quadruple champion du monde des pilotes de Formule 1 en 1985, 1986, 1989 et 1993, victorieux de 51 Grands Prix de Formule 1 pour 199 d\u00E9parts entre 1980 et 1993, celui que l'on surnomme \u00AB Le Professeur \u00BB est consid\u00E9r\u00E9 comme l'un des plus grands pilotes de l'histoire de son sport. Sa rivalit\u00E9 au sommet avec Ayrton Senna fait partie des grandes heures de la Formule 1 au tournant des ann\u00E9es 1980 et 1990."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Festival_automobile_international_2012_-_Photocall_-_Alain_Prost_-_013.jpg?width=300> ;
+	dbo:birthDate	"1955-2-24"^^xsd:date ;
+	dbo:wikiPageRevisionID	744354449 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Lorette,_Loire> ;
+	dbo:wikiPageID	36917 ;
+	dbo:wins	"51"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"41"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1980_Argentine_Grand_Prix> ;
+	dbo:races	"202"^^xsd:nonNegativeInteger ;
+	dbo:poles	"33"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1993_Australian_Grand_Prix> ;
+	dbo:podiums	"106"^^xsd:nonNegativeInteger ;
+	dbo:championships	"4"^^xsd:nonNegativeInteger .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Alain_Prost	ns30:hypernym	dbr:Driver ;
+	dbp:title	"Alain Prost sporting positions"^^xsd:string .
+<http://dbpedia.org/resource/1985_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1991_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1991_United_States_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1981_Caesars_Palace_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_Dutch_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1987_Spanish_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Brazilian_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_British_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1990_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1990_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1990_Mexican_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1983_San_Marino_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_German_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_Brazilian_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1990_Brazilian_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1990_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+dbr:Ferrari_643__2	dbo:firstDriver	dbr:Alain_Prost .
+dbr:Ferrari_642__2	dbo:firstDriver	dbr:Alain_Prost .
+dbr:Ferrari_641__2	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_Brazilian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1983_Austrian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1983_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_European_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_San_Marino_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Austrian_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1991_Spanish_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Italian_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1982_Detroit_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_Monaco_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1982_French_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_Austrian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Australian_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_German_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Mexican_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1991_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Hungarian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1981_Argentine_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1981_Italian_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_Italian_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Formula_One_season>	dbp:champions	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_Formula_One_season>	dbp:champions	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Formula_One_season>	dbp:champions	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_Formula_One_season>	dbp:champions	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_French_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1987_French_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_French_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_French_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1990_French_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1991_French_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_French_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1982_Swiss_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1982_Australian_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+dbr:Jacques_Laffite	dbp:after	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_German_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1990_British_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1991_British_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/Jo\u00EBl_Gouhier>	dbp:before	dbr:Alain_Prost .
+wikipedia-en:Alain_Prost	foaf:primaryTopic	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Detroit_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1987_Detroit_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_United_States_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1981_Dutch_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1981_French_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1981_German_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1982_Brazilian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1982_Caesars_Palace_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1982_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1983_French_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_Brazilian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_German_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_French_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_French_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1987_Brazilian_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1987_Hungarian_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Hungarian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Australian_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Brazilian_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_European_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/McLaren_MP4/3__2>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1990_Italian_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+dbr:Mauro_Baldi	dbp:before	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_San_Marino_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_San_Marino_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_San_Marino_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_San_Marino_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_South_African_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/Prost\u2013Senna_rivalry>	dbo:wikiPageRedirects	dbr:Alain_Prost .
+dbr:Nicolas_Prost	dbp:relatedTo	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Mexican_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/Prost_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_Canadian_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Canadian_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+dbr:Prost_Grand_Prix	dbp:founders	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Detroit_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:secondDriver	dbr:Alain_Prost .
+dbr:McLaren_M30__2	dbo:firstDriver	dbr:Alain_Prost .
+dbr:Prost-Senna_rivalry	dbo:wikiPageRedirects	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1983_European_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/Alain_Fert\u00E9>	dbp:before	dbr:Alain_Prost .
+dbr:Jan_Lammers	dbp:after	dbr:Alain_Prost .
+dbr:Elio_de_Angelis	dbp:after	dbr:Alain_Prost .
+dbr:Roberto_Moreno	dbp:after	dbr:Alain_Prost ;
+	dbp:before	dbr:Alain_Prost .
+dbr:Nelson_Piquet	dbp:before	dbr:Alain_Prost .
+dbr:Michele_Alboreto	dbp:before	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_German_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1983_British_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_British_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_British_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_British_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1982_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1985_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1987_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:thirdDriver	dbr:Alain_Prost .
+dbr:Alain_Marie_Pascal_Prost	dbo:wikiPageRedirects	dbr:Alain_Prost .
+<http://dbpedia.org/resource/Senna_(film)>	dbo:starring	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1984_Portuguese_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Portuguese_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1987_Portuguese_Grand_Prix>	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Portuguese_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1989_Portuguese_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1990_Portuguese_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Portuguese_Grand_Prix>	dbo:secondDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1986_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1988_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+<http://dbpedia.org/resource/1993_Spanish_Grand_Prix>	dbo:poleDriver	dbr:Alain_Prost ;
+	dbo:firstDriver	dbr:Alain_Prost .
+dbr:Prost	dbo:wikiPageRedirects	dbr:Alain_Prost .

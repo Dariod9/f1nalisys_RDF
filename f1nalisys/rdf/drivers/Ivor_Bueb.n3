@@ -1,0 +1,164 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Ninian_Sanderson	dbp:before	dbr:Ivor_Bueb ;
+	dbp:after	dbr:Ivor_Bueb .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Ivor_Bueb	foaf:primaryTopic	dbr:Ivor_Bueb .
+dbr:Phil_Hill	dbp:before	dbr:Ivor_Bueb .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Ivor	dbo:wikiPageDisambiguates	dbr:Ivor_Bueb .
+<http://dbpedia.org/resource/1957_Pau_Grand_Prix>	dbo:thirdDriver	dbr:Ivor_Bueb .
+dbr:Olivier_Gendebien	dbp:before	dbr:Ivor_Bueb .
+<http://dbpedia.org/resource/Jos\u00E9_Froil\u00E1n_Gonz\u00E1lez>	dbp:after	dbr:Ivor_Bueb .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Ivor_Bueb .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__6__1>	dbo:firstDriver	dbr:Ivor_Bueb .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Ivor_Bueb .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__21st__1>	dbo:firstDriver	dbr:Ivor_Bueb .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__27th__1>	dbo:firstDriver	dbr:Ivor_Bueb .
+<http://dbpedia.org/resource/Ron_Flockhart_(racing_driver)>	dbp:years	dbr:Ivor_Bueb ;
+	dbp:before	dbr:Ivor_Bueb ;
+	dbp:after	dbr:Ivor_Bueb .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ivor_Bueb	rdf:type	yago:Driver110034906 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatConnaughtFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Ivor_Bueb	rdf:type	ns7:Agent ,
+		dbo:MotorsportRacer ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ivor_Bueb	rdf:type	wikidata:Q378622 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		ns7:NaturalPerson ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Ivor_Bueb	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Ivor_Bueb	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:RacingDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Ivor_Bueb	rdf:type	schema:Person ,
+		dbo:Agent ,
+		wikidata:Q5 ,
+		dbo:Person ,
+		wikidata:Q24229398 ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q215627 ,
+		dbo:FormulaOneRacer ,
+		yago:Operator110378412 ,
+		dbo:Athlete ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ivor_Bueb	rdfs:label	"Ivor Bueb"@pt ,
+		"Ivor Bueb"@de ,
+		"Ivor Bueb"@fr ,
+		"Ivor Bueb"@en ,
+		"Ivor Bueb"@nl ,
+		"Ivor Bueb"@pl ,
+		"Ivor Bueb"@it ;
+	rdfs:comment	"Ivor Bueb (ur. 6 czerwca 1923 w Londynie, zm. 1 sierpnia 1959 w Clermont-Ferrand) \u2013 brytyjski kierowca wy\u015Bcigowy. Bueb by\u0142 w\u0142a\u015Bcicielem warsztatu w Cheltenham. Powa\u017Cne \u015Bciganie si\u0119 rozpocz\u0105\u0142 Cooperem w Formule 3 w 1953 roku. W latach 1955 oraz 1957 wygra\u0142 wy\u015Bcig 24h Le Mans. W 1957 roku zadebiutowa\u0142 w Formule 1. Zgin\u0105\u0142 w wyniku wypadku samochodu Formu\u0142y 2 na torze Charade Circuit w 1959 roku."@pl ,
+		"Ivor L\u00E9on John Bueb (East Ham, Londres, Inglaterra, 6 de junho de 1923 \u2013 Clermont-Ferrand, Fran\u00E7a, 1 de agosto de 1959) foi um automobilista ingl\u00EAs. Bueb participou de 6 Grandes Pr\u00EAmios de F\u00F3rmula 1, tendo como melhor resultado um d\u00E9cimo primeiro lugar na Alemanha em 1958."@pt ,
+		"Ivor L\u00E9on John Bueb (6 June 1923, East Ham, London \u2013 1 August 1959, Clermont-Ferrand, France) was a British sports car racing and Formula One driver from England. Bueb started racing seriously in a Formula Three 500cc Cooper in 1953, graduating to the Cooper works team in 1955 when he finished second in the British championship. He made occasional starts in Grands Prix in 1957 with a Connaught and a Maserati run by Gilby Engineering. The following year he raced Bernie Ecclestone's Connaught at Monaco, and drove a Formula Two Lotus at the German Grand Prix."@en ,
+		"Ivor Bueb Ivor L\u00E9on John Bueb, n\u00E9 le 6 juin 1923 \u00E0 East Ham, un quartier de la banlieue de Londres, et mort le 1er ao\u00FBt 1959 \u00E0 Clermont-Ferrand, est un pilote de course automobile anglais qui remporte \u00E0 deux reprises les 24 Heures du Mans."@fr ,
+		"Ivor L\u00E9on John Bueb (* 6. Juni 1923 in Dulwich; \u2020 1. August 1959 in Clermont-Ferrand, Frankreich) war ein britischer Automobilrennfahrer, der 1955 und 1957 die 24 Stunden von Le Mans gewann."@de ,
+		"Ivor L\u00E9on John Bueb (East Ham, Londen, 6 juni 1923 - Clermont-Ferrand, Frankrijk, 1 augustus 1959) was een Formule 1-coureur uit Groot-Brittanni\u00EB. Tussen 1957 en 1959 reed hij 6 Grands Prix voor de teams Connaught, Gilby, Lotus en British Racing Partnership. Hij won de 24 uur van Le Mans van 1955 en 1957 in een Jaguar D-Type."@nl ;
+	dbp:points	0 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Ivor_Bueb	owl:sameAs	dbpedia-it:Ivor_Bueb .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Ivor_Bueb	owl:sameAs	dbpedia-nl:Ivor_Bueb .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Ivor_Bueb	owl:sameAs	dbpedia-pt:Ivor_Bueb ,
+		<http://rdf.freebase.com/ns/m.04kqpc> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ivor_Bueb	owl:sameAs	dbpedia-de:Ivor_Bueb .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Ivor_Bueb	owl:sameAs	dbpedia-fr:Ivor_Bueb ,
+		dbr:Ivor_Bueb .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ivor_Bueb	owl:sameAs	dbpedia-pl:Ivor_Bueb .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ivor_Bueb	owl:sameAs	yago-res:Ivor_Bueb ,
+		wikidata:Q172127 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Ivor_Bueb	owl:sameAs	dbpedia-wikidata:Q172127 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ivor_Bueb	dct:subject	dbc:Sport_deaths_in_France ,
+		<http://dbpedia.org/resource/Category:1923_births> ,
+		<http://dbpedia.org/resource/Category:1959_deaths> ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:British_Racing_Partnership_Formula_One_drivers ,
+		dbc:Connaught_Formula_One_drivers ,
+		dbc:People_from_East_Ham ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:Gilby_Engineering_Formula_One_drivers ,
+		dbc:Sportspeople_from_Essex ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Ivor Bueb"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Ivor"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ivor_Bueb ;
+	foaf:surname	"Bueb"@en ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		dbr:List_of_Formula_One_fatal_accidents ;
+	dbp:years	<http://dbpedia.org/resource/Ron_Flockhart_(auto_racer)> ,
+		dbr:Mike_Hawthorn ,
+		1957 ,
+		1955 ,
+		"\u2013"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Ivor_Bueb	dbp:years	"1959-08-01"^^xsd:date .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ivor_Bueb	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ivor_Bueb?oldid=745205378> ;
+	dbp:before	dbr:Maurice_Trintignant ,
+		dbr:Stuart_Lewis-Evans ,
+		<http://dbpedia.org/resource/Jos\u00E9_Froil\u00E1n_Gonz\u00E1lez> ,
+		dbr:Ninian_Sanderson ,
+		<http://dbpedia.org/resource/Ron_Flockhart_(auto_racing)> ;
+	dbp:after	dbr:Phil_Hill ,
+		dbr:Ninian_Sanderson ,
+		<http://dbpedia.org/resource/Ron_Flockhart_(auto_racing)> ,
+		dbr:Olivier_Gendebien ,
+		dbr:Harry_Schell ;
+	dbp:birthDate	"1923-06-06"^^xsd:date ;
+	dbp:deathDate	"1959-08-01"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.500race.org/Men/bueb.htm> ;
+	dbo:abstract	"Ivor Bueb (ur. 6 czerwca 1923 w Londynie, zm. 1 sierpnia 1959 w Clermont-Ferrand) \u2013 brytyjski kierowca wy\u015Bcigowy. Bueb by\u0142 w\u0142a\u015Bcicielem warsztatu w Cheltenham. Powa\u017Cne \u015Bciganie si\u0119 rozpocz\u0105\u0142 Cooperem w Formule 3 w 1953 roku. W latach 1955 oraz 1957 wygra\u0142 wy\u015Bcig 24h Le Mans. W 1957 roku zadebiutowa\u0142 w Formule 1. Zgin\u0105\u0142 w wyniku wypadku samochodu Formu\u0142y 2 na torze Charade Circuit w 1959 roku."@pl ,
+		"Ivor L\u00E9on John Bueb (East Ham, Londen, 6 juni 1923 - Clermont-Ferrand, Frankrijk, 1 augustus 1959) was een Formule 1-coureur uit Groot-Brittanni\u00EB. Tussen 1957 en 1959 reed hij 6 Grands Prix voor de teams Connaught, Gilby, Lotus en British Racing Partnership. Hij won de 24 uur van Le Mans van 1955 en 1957 in een Jaguar D-Type."@nl ,
+		"Ivor L\u00E9on John Bueb (East Ham, Londres, Inglaterra, 6 de junho de 1923 \u2013 Clermont-Ferrand, Fran\u00E7a, 1 de agosto de 1959) foi um automobilista ingl\u00EAs. Bueb participou de 6 Grandes Pr\u00EAmios de F\u00F3rmula 1, tendo como melhor resultado um d\u00E9cimo primeiro lugar na Alemanha em 1958."@pt ,
+		"Ivor L\u00E9on John Bueb (* 6. Juni 1923 in Dulwich; \u2020 1. August 1959 in Clermont-Ferrand, Frankreich) war ein britischer Automobilrennfahrer, der 1955 und 1957 die 24 Stunden von Le Mans gewann."@de ,
+		"Ivor Bueb Ivor L\u00E9on John Bueb, n\u00E9 le 6 juin 1923 \u00E0 East Ham, un quartier de la banlieue de Londres, et mort le 1er ao\u00FBt 1959 \u00E0 Clermont-Ferrand, est un pilote de course automobile anglais qui remporte \u00E0 deux reprises les 24 Heures du Mans."@fr ,
+		"Ivor L\u00E9on John Bueb (6 June 1923, East Ham, London \u2013 1 August 1959, Clermont-Ferrand, France) was a British sports car racing and Formula One driver from England. Bueb started racing seriously in a Formula Three 500cc Cooper in 1953, graduating to the Cooper works team in 1955 when he finished second in the British championship. He made occasional starts in Grands Prix in 1957 with a Connaught and a Maserati run by Gilby Engineering. The following year he raced Bernie Ecclestone's Connaught at Monaco, and drove a Formula Two Lotus at the German Grand Prix. In 1959 he had two outings for BRP, firstly a non-qualification at Monaco, then another Formula Two entry at the British Grand Prix. He participated in six Formula One World Championship Grands Prix in all, but scored no championship points. He also participated in numerous non-Championship Formula One races. With the death of Archie Scott Brown at Spa in May 1958, Brian Lister hired Bueb to fill the now-vacant Lister-Jaguar driver's seat. Bueb did an admirable job, scoring several first places at tracks such as Crystal Palace and Goodwood during the 1958 and 1959 sports car campaigns. Bueb is perhaps best known for sharing the winning works Jaguar D-type with Mike Hawthorn in the 1955 24 Hours of Le Mans which was marred by an accident in which 82 spectators were killed; a success he repeated with Ron Flockhart in the ex-works Ecurie Ecosse car in 1957. He suffered serious injuries in 1959 when he crashed his BRP Cooper-Borgward Formula Two car at the Charade Circuit near Clermont-Ferrand, France. He crashed at Gravenoire, a multiple apex-section at the very far end of the circuit, and was thrown out of his Cooper. He died six days later at a hospital near the circuit. It was Ivor Bueb's death, in conjunction with Archie Scott Brown's demise, that finally led Brian Lister to shut down his very successful sports car racing effort."@en ;
+	dbo:birthDate	"1923-6-6"^^xsd:date ;
+	dbo:deathDate	"1959-8-1"^^xsd:date ;
+	dbo:deathPlace	dbr:Clermont-Ferrand ;
+	dbo:wikiPageRevisionID	745205378 ;
+	dbo:birthPlace	dbr:East_Ham ;
+	dbo:wikiPageID	1233860 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Ivor_Bueb	ns25:hypernym	dbr:Racing ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1957_Monaco_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1959_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"6"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering ,
+		"non-works Maserati, Lotus and Cooper"^^xsd:string ;
+	dbp:nationality	"British"^^xsd:string .
+dbr:Mike_Hawthorn	dbp:years	dbr:Ivor_Bueb .
+dbr:Maurice_Trintignant	dbp:after	dbr:Ivor_Bueb .

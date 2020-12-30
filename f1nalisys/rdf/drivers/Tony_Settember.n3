@@ -1,0 +1,123 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1963_Austrian_Grand_Prix>	dbo:secondDriver	dbr:Tony_Settember .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Tony_Settember	foaf:primaryTopic	dbr:Tony_Settember .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__31__1>	dbo:firstDriver	dbr:Tony_Settember .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Tony_Settember	rdf:type	yago:Operator110378412 ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		dbo:FormulaOneRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Tony_Settember	rdf:type	owl:Thing .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Tony_Settember	rdf:type	ns7:NaturalPerson ,
+		dbo:Person ,
+		yago:WikicatScirocco-PowellFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		foaf:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Tony_Settember	rdf:type	wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Tony_Settember	rdf:type	schema:Person ,
+		yago:WikicatEmerysonFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		dbo:MotorsportRacer ,
+		wikidata:Q215627 ,
+		dbo:RacingDriver ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		ns7:Agent ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Tony_Settember	rdfs:label	"Tony Settember"@pt ,
+		"Tony Settember"@nl ,
+		"Tony Settember"@de ,
+		"Tony Settember"@it ,
+		"Tony Settember"@es ,
+		"Tony Settember"@pl ,
+		"Tony Settember"@en ;
+	rdfs:comment	"Tony Settember (* 10. Juli 1926 in Manila, Philippinen; \u2020 4. Mai 2014 in Reno, Nevada) war ein US-amerikanischer Autorennfahrer."@de ,
+		"Tony Settember (Manilla, Filipijnen, 10 juli 1926 \u2013 Reno, 4 mei 2014) was een autocoureur uit de Verenigde Staten. Hij nam in 1962 en 1963 deel aan 7 Grands Prix Formule 1 voor de teams Emeryson en Scirocco-Powell, maar scoorde hierin geen WK-punten. Settember overleed na een kort ziekbed in een hospice op 87-jarige leeftijd."@nl ,
+		"Tony Settember (July 10, 1926 \u2013 May 4, 2014) was a racing driver and engineer from the United States. He was born in Manila, Philippines. He participated in seven Formula One World Championship Grands Prix, debuting on July 21, 1962. He scored no championship points. Settember was the nominal head of the Scirocco racing team, and a very efficient driver in sportscars. His last known participation in motorsport was on his 70th birthday. Settember died after a short illness at a hospice in Reno, Nevada in May 2014."@en ,
+		"Anthony \"Tony\" Settember (Manila, 10 de julho de 1926 - Reno, 4 de maio de 2014) foi um automobilista norte-americano nascido nas Filipinas que participou de 7 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1962 e 1963. Mesmo representando os Estados Unidos no automobilismo, \u00E9 o \u00FAnico piloto filipino a ter pilotado um carro de F\u00F3rmula 1. Das sete etapas em que esteve presente, Settember n\u00E3o largou apenas no GP da It\u00E1lia de 1963, quando pilotava um carro da Scirocco-Powell em parceria com a BRM - representou a Emeryson na temporada anterior, quando fez sua estreia na F-1 aos 36 anos."@pt ,
+		"Ha preso il via in 6 Gran Premi, miglior risultato l'8\u00BA posto in cui \u00E8 stato classificato al Gran Premio del Belgio 1963, per quanto non avesse tagliato il traguardo, su Scirocco-BRM."@it ,
+		"Tony Settember (Manila, 10 de julio de 1926 \u2212 Reno, Nevada, 4 de mayo de 2014) fue un piloto de automovilismo de velocidad estadounidense."@es ,
+		"Tony Settember (ur. 10 lipca 1926 w Manili, zm. 4 maja 2014 w Reno, Nevada) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Startowa\u0142 w Formule 1 7 razy w zespo\u0142ach Emeryson i Scirocco-Powell. Zadebiutowa\u0142 21 lipca 1962 roku. Nigdy nie zdoby\u0142 punktu."@pl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Tony_Settember	dbp:points	0 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04kxvh> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Tony_Settember	owl:sameAs	dbpedia-it:Tony_Settember .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Tony_Settember	owl:sameAs	dbpedia-nl:Tony_Settember ,
+		dbr:Tony_Settember .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Tony_Settember	owl:sameAs	dbpedia-pt:Tony_Settember .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Tony_Settember	owl:sameAs	dbpedia-es:Tony_Settember ,
+		wikidata:Q172361 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Tony_Settember	owl:sameAs	dbpedia-de:Tony_Settember .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Tony_Settember	owl:sameAs	dbpedia-pl:Tony_Settember .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Tony_Settember	owl:sameAs	dbpedia-wikidata:Q172361 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Tony_Settember	owl:sameAs	yago-res:Tony_Settember .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Tony_Settember	dct:subject	<http://dbpedia.org/resource/Category:1926_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Tony_Settember	dct:subject	dbc:Scirocco-Powell_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:American_Formula_One_drivers ,
+		dbc:Emeryson_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2014_deaths> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ;
+	foaf:name	"Tony Settember"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Anthony"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Tony_Settember ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Tony_Settember	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tony_Settember?oldid=743326535> ;
+	dbp:birthPlace	"Manila, Philippines"^^xsd:string ;
+	dbp:deathPlace	"Reno, Nevada, USA"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Tony_Settember	dbp:birthDate	"1926-07-10"^^xsd:date ;
+	dbp:deathDate	"2014-05-04"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-setton.html> ;
+	dbo:abstract	"Tony Settember (Manilla, Filipijnen, 10 juli 1926 \u2013 Reno, 4 mei 2014) was een autocoureur uit de Verenigde Staten. Hij nam in 1962 en 1963 deel aan 7 Grands Prix Formule 1 voor de teams Emeryson en Scirocco-Powell, maar scoorde hierin geen WK-punten. Settember overleed na een kort ziekbed in een hospice op 87-jarige leeftijd."@nl ,
+		"Tony Settember (ur. 10 lipca 1926 w Manili, zm. 4 maja 2014 w Reno, Nevada) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Startowa\u0142 w Formule 1 7 razy w zespo\u0142ach Emeryson i Scirocco-Powell. Zadebiutowa\u0142 21 lipca 1962 roku. Nigdy nie zdoby\u0142 punktu."@pl ,
+		"Tony Settember (Manila, 10 de julio de 1926 \u2212 Reno, Nevada, 4 de mayo de 2014) fue un piloto de automovilismo de velocidad estadounidense."@es ,
+		"Anthony \"Tony\" Settember (Manila, 10 de julho de 1926 - Reno, 4 de maio de 2014) foi um automobilista norte-americano nascido nas Filipinas que participou de 7 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1962 e 1963. Mesmo representando os Estados Unidos no automobilismo, \u00E9 o \u00FAnico piloto filipino a ter pilotado um carro de F\u00F3rmula 1. Das sete etapas em que esteve presente, Settember n\u00E3o largou apenas no GP da It\u00E1lia de 1963, quando pilotava um carro da Scirocco-Powell em parceria com a BRM - representou a Emeryson na temporada anterior, quando fez sua estreia na F-1 aos 36 anos. Faleceu em 4 de maio de 2014, em Reno (Nevada), aos 87 anos de idade."@pt ,
+		"Tony Settember (July 10, 1926 \u2013 May 4, 2014) was a racing driver and engineer from the United States. He was born in Manila, Philippines. He participated in seven Formula One World Championship Grands Prix, debuting on July 21, 1962. He scored no championship points. Settember was the nominal head of the Scirocco racing team, and a very efficient driver in sportscars. His last known participation in motorsport was on his 70th birthday. Settember died after a short illness at a hospice in Reno, Nevada in May 2014."@en ,
+		"Tony Settember (* 10. Juli 1926 in Manila, Philippinen; \u2020 4. Mai 2014 in Reno, Nevada) war ein US-amerikanischer Autorennfahrer."@de ,
+		"Ha preso il via in 6 Gran Premi, miglior risultato l'8\u00BA posto in cui \u00E8 stato classificato al Gran Premio del Belgio 1963, per quanto non avesse tagliato il traguardo, su Scirocco-BRM."@it ;
+	dbo:birthDate	"1926-7-10"^^xsd:date ;
+	dbo:deathDate	"2014-5-4"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Reno,_Nevada> ;
+	dbo:wikiPageRevisionID	743326535 ;
+	dbo:birthPlace	dbr:Manila ;
+	dbo:wikiPageID	1235692 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Tony_Settember	ns24:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1962_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1963_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"7"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scirocco-Powell ,
+		dbr:Emeryson ;
+	dbp:nationality	"American"^^xsd:string .
+dbr:Scirocco-Powell__1963__3	dbo:firstDriver	dbr:Tony_Settember .

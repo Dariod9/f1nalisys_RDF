@@ -1,0 +1,155 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Journey_to_Le_Mans	dbp:narrators	dbr:Tiff_Needell .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Tiff	dbo:wikiPageDisambiguates	dbr:Tiff_Needell .
+<http://dbpedia.org/resource/1983_Macau_Grand_Prix__Autobacs_Racing_Team__2>	dbo:firstDriver	dbr:Tiff_Needell .
+<http://dbpedia.org/resource/Top_Gear_(1977_TV_series)>	dbo:presenter	dbr:Tiff_Needell .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Tiff_Needell	rdf:type	yago:WikicatEnglishFormulaOneDrivers ,
+		yago:CausalAgent100007347 .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Tiff_Needell	rdf:type	ns5:Agent ,
+		ns5:NaturalPerson ,
+		dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Tiff_Needell	rdf:type	wikidata:Q378622 ,
+		yago:WikicatEnsignFormulaOneDrivers ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent ,
+		yago:WikicatD1GrandPrixDrivers ,
+		yago:WikicatDriftingDrivers ,
+		dbo:MotorsportRacer ,
+		wikidata:Q5 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Tiff_Needell	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		dbo:FormulaOneRacer ,
+		dbo:RacingDriver ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Tiff_Needell	rdf:type	schema:Person .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Tiff_Needell	rdf:type	foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Tiff_Needell	rdfs:label	"\u30C6\u30A3\u30D5\u30FB\u30CB\u30FC\u30C7\u30EB"@ja ,
+		"Tiff Needell"@fr ,
+		"\u041D\u0438\u0434\u043B, \u0422\u0438\u0444\u0444"@ru ,
+		"Tiff Needell"@en ,
+		"Tiff Needell"@pt ,
+		"Tiff Needell"@it ,
+		"Tiff Needell"@pl ,
+		"Tiff Needell"@de ,
+		"Tiff Needell"@nl ;
+	rdfs:comment	"Timothy \"Tiff\" Needell (Havant, Hampshire, 29 oktober 1951) is een Britse oud-Formule 1-coureur en presentator. Hij co-presenteerde het autoprogramma Top Gear en is lid van het presentatieteam van Fifth Gear."@nl ,
+		"Timothy Richard \u201ETiff \u201C Needell (* 29. Oktober 1951 in Havant) ist ein englischer Automobilrennfahrer."@de ,
+		"Timothy Richard Needell, dit Tiff Needell, n\u00E9 le 29 octobre 1951 \u00E0 Havant (Hampshire), est un ancien pilote automobile et pr\u00E9sentateur t\u00E9l\u00E9 britannique. Il a couru une fois en Formule 1, lors de la cinqui\u00E8me manche de la saison 1980, sur le trac\u00E9 de Zolder, en Belgique."@fr ,
+		"\u30C6\u30A3\u30E2\u30B7\u30FC\u30FB\"\u30C6\u30A3\u30D5\"\u30FB\u30CB\u30FC\u30C7\u30EB\uFF08Timothy \"Tiff\" Needell, 1951\u5E7410\u670829\u65E5 - \uFF09\u306F\u30A4\u30AE\u30EA\u30B9\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3001\u30C6\u30EC\u30D3\u30B3\u30E1\u30F3\u30C6\u30FC\u30BF\u30FC\u3002\u30C6\u30EC\u30D3\u756A\u7D44\u300E\u30D5\u30A3\u30D5\u30B9\u30FB\u30AE\u30A2\u300F\u306A\u3069\u306B\u3066\u6D3B\u52D5\u4E2D\u3067\u3042\u308B\u3002\u30C6\u30A3\u30D5\u30FB\u30CB\u30FC\u30C9\u30EB\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Timothy \"Tiff\" Needell (born 29 October 1951 in Havant, Hampshire) is a British racing driver and television presenter. He is a former co-presenter of Top Gear and of Fifth Gear."@en ,
+		"\u0422\u0438\u043C\u043E\u0442\u0438 \u00AB\u0422\u0438\u0444\u0444\u00BB \u041D\u0438\u0434\u043B (\u0430\u043D\u0433\u043B. Timothy \u00ABTiff\u00BB Needell, 29 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1951 \u0433\u043E\u0434\u0430, \u0425\u0435\u0439\u0432\u0430\u043D\u0442, \u0433\u0440\u0430\u0444\u0441\u0442\u0432\u043E \u0425\u044D\u043C\u043F\u0448\u0438\u0440) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Timothy \u201ETiff\u201D Needell (ur. 29 pa\u017Adziernika 1951 w Havant) \u2013 brytyjski kierowca wy\u015Bcigowy i prezenter telewizyjny. Najbardziej znany z bycia jednym z prezenter\u00F3w program\u00F3w Top Gear oraz Fifth Gear."@pl ,
+		"Timothy \"Tiff\" Needell (Havant, 29 de Outubro de 1951) \u00E9 um automobilista ingl\u00EAs. Piloto de testes e apresentador do programa de automobilismo ingl\u00EAs Fifth Gear. Biografia Needell participava da Ottershaw Escola seguido de City University, em Londres onde obteve uma licenciatura em Engenharia Civil. Contratado por George Wimpey & Co, seu trabalho era como engenheiro de projeto estrutural. Carreira nas Corridas Carreira na Televis\u00E3o Em 22 de setembro de 2013, Needell co-estrelou em Fox Sports 1 show de Tommy Kendall, Impulsionada - uma corrida sem limites."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Tiff_Needell	dbp:birthDate	"1951-10-29"^^xsd:date ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30C6\u30A3\u30D5\u30FB\u30CB\u30FC\u30C7\u30EB> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Tiff_Needell	owl:sameAs	dbpedia-de:Tiff_Needell .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Tiff_Needell	owl:sameAs	dbpedia-nl:Tiff_Needell ,
+		dbr:Tiff_Needell .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Tiff_Needell	owl:sameAs	dbpedia-pt:Tiff_Needell .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Tiff_Needell	owl:sameAs	dbpedia-wikidata:Q172265 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Tiff_Needell	owl:sameAs	dbpedia-it:Tiff_Needell .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Tiff_Needell	owl:sameAs	dbpedia-fr:Tiff_Needell .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Tiff_Needell	owl:sameAs	dbpedia-pl:Tiff_Needell .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Tiff_Needell	owl:sameAs	yago-res:Tiff_Needell ,
+		wikidata:Q172265 ,
+		<http://rdf.freebase.com/ns/m.01ybwb> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Tiff_Needell	dct:subject	dbc:Top_Gear_people ,
+		<http://dbpedia.org/resource/Category:1951_births> ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:People_from_Havant ,
+		dbc:English_racing_drivers ,
+		dbc:Ensign_Formula_One_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:D1_Grand_Prix_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:English_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Alumni_of_City,_University_of_London> ,
+		dbc:Drifting_drivers ,
+		dbc:Living_people ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Tiff Needell"@en ;
+	foaf:homepage	<http://www.tiff.tv> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/TiffNeedell.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Tiff_Needell	foaf:isPrimaryTopicOf	wikipedia-en:Tiff_Needell ;
+	dbp:points	0 ;
+	dbp:years	1980 ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Ensign_(racing_team)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Tiff_Needell	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tiff_Needell?oldid=744396554> ;
+	dbo:wikiPageExternalLink	<http://www.tiff.tv> ,
+		<http://mitziszereto.com/tv/mitziszereto.com/tv/baby-you-can-drive-my-car/> ;
+	dbp:bf1Years	1979 ;
+	dbp:bf1Wins	0 ;
+	dbp:bf1Poles	0 ;
+	dbp:bf1Races	8 ;
+	dbp:bf1Championships	0 ;
+	dbp:bf1FastestLaps	0 ;
+	dbp:bf1Podiums	1 ;
+	dbp:bf1Points	7 ;
+	dbp:birthName	"Timothy Needell"^^xsd:string ;
+	dbp:birthPlace	"Havant, Hampshire, England"^^xsd:string ;
+	dbo:abstract	"Timothy \"Tiff\" Needell (Havant, 29 de Outubro de 1951) \u00E9 um automobilista ingl\u00EAs. Piloto de testes e apresentador do programa de automobilismo ingl\u00EAs Fifth Gear. Biografia Needell participava da Ottershaw Escola seguido de City University, em Londres onde obteve uma licenciatura em Engenharia Civil. Contratado por George Wimpey & Co, seu trabalho era como engenheiro de projeto estrutural. Carreira nas Corridas Needell primeiro correu em uma escola de condu\u00E7\u00E3o em  Brands Hatch  em 1970. Ele progrediu para a Formula Ford, seu progresso assistido pelo uso de um FF Lotus 69 que havia ganhado em um concurso de revista Autosport. Mais tarde, ele vendeu o seu Lotus e usou o dinheiro para correr um Elden Mk10. No per\u00EDodo da Ford F\u00F3rmula,culminou na sua aquisi\u00E7\u00E3o de um Crossle 25F com o qual ganhou o Campeonato FF Mensageiro Kent depois de competir por apenas metade da temporada restante. Este sucesso levou-o uma unidade parcialmente paga na F\u00F3rmula Ford Championship 2000, em um chassi Hawke fornecida por McKinstry Racing. Needell foi completamente dominante nesse carro, que lhe forneceu o podio para a Formula 3 . O restante da d\u00E9cada de 1970 viu Needell como uma pioneira no brit\u00E2nico de F\u00F3rmula 3 e, em seguida, na Aurora British Formula One championship. Em 1979, ele foi incapaz de mudar para o Campeonato Mundial de F1 devido \u00E0 falta da licen\u00E7a, mas ele estava de volta em 1980, dirigindo dois Grands Prix para Ensign, de qualifica\u00E7\u00E3o para o Belgian Grand Prix em Zolder. No entanto, ele teve um problema no motor e n\u00E3o terminou a corrida. Em seguida, ele n\u00E3o conseguiu se classificar para o  Monaco Grand Prix. Carreira na Televis\u00E3o Needell \u00E9 um apresentador de televis\u00E3o e jornalista de automobilismo, e co-organizou a s\u00E9rie de TV da BBC Top Gear, a partir de 1987. [3] Em 2001, quando a BBC cancelou Top Gear (o show foi trazido de volta em 2002), Needell e todo o elenco desertou e assinou com a Channel 5 para produzir e sediar um novo show de automobilismo chamado Fifth Gear. Ele, no entanto, ainda contribuem para a revista Top Gear. Needell tamb\u00E9m co-apresentado \"MPH\" em Earls Court em 2003, 2004 e 2005, com Jeremy Clarkson e Richard Hammond e em 2006 com Clarkson e James May (porque Hammond estava se recuperando de um acidente no local em um carro-foguete que rolou em alta velocidade, deixando-o em coma). Ele tamb\u00E9m apareceu muito brevemente no Top Gear especial Comic Relief 2005 Estrelas em carros r\u00E1pidos. Em 2009 ele apareceu na Toy Stories de James May que caracterizam a constru\u00E7\u00E3o de um Scalextric torno de Brooklands, e tamb\u00E9m visitou a casa LEGO James. Em 2011, ele apareceu no Top Gear, dirigindo o Ariel Atom V8 em uma corrida contra um BMW S1000RR em torno da pista de testes Top Gear. O segmento foi feito em humor, com maio supostamente dirigindo o Atom V8, apenas para que ele seja realmente Needell. Ele era uma das v\u00E1rias pessoas suspeitas de retratar o mascarado piloto evasivo O Stig sobre o formato atual do Top Gear. [4] [5] A verdadeira identidade do Stig foi finalmente revelado como sendo Ben Collins no final, necessitando o retorno de Needell para Top Gear depois de uma aus\u00EAncia de nove anos para treinar diretor Slumdog Millionaire de Danny Boyle para o seu colo no carro a pre\u00E7os razo\u00E1veis. [6] no mesmo epis\u00F3dio Clarkson referido Needell como o \"Stig emerg\u00EAncia\". Em 22 de setembro de 2013, Needell co-estrelou em Fox Sports 1 show de Tommy Kendall, Impulsionada - uma corrida sem limites."@pt ,
+		"\u30C6\u30A3\u30E2\u30B7\u30FC\u30FB\"\u30C6\u30A3\u30D5\"\u30FB\u30CB\u30FC\u30C7\u30EB\uFF08Timothy \"Tiff\" Needell, 1951\u5E7410\u670829\u65E5 - \uFF09\u306F\u30A4\u30AE\u30EA\u30B9\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3001\u30C6\u30EC\u30D3\u30B3\u30E1\u30F3\u30C6\u30FC\u30BF\u30FC\u3002\u30C6\u30EC\u30D3\u756A\u7D44\u300E\u30D5\u30A3\u30D5\u30B9\u30FB\u30AE\u30A2\u300F\u306A\u3069\u306B\u3066\u6D3B\u52D5\u4E2D\u3067\u3042\u308B\u3002\u30C6\u30A3\u30D5\u30FB\u30CB\u30FC\u30C9\u30EB\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Timothy Richard \u201ETiff \u201C Needell (* 29. Oktober 1951 in Havant) ist ein englischer Automobilrennfahrer."@de ,
+		"Timothy Richard Needell, dit Tiff Needell, n\u00E9 le 29 octobre 1951 \u00E0 Havant (Hampshire), est un ancien pilote automobile et pr\u00E9sentateur t\u00E9l\u00E9 britannique. Il a couru une fois en Formule 1, lors de la cinqui\u00E8me manche de la saison 1980, sur le trac\u00E9 de Zolder, en Belgique."@fr ,
+		"Timothy \u201ETiff\u201D Needell (ur. 29 pa\u017Adziernika 1951 w Havant) \u2013 brytyjski kierowca wy\u015Bcigowy i prezenter telewizyjny. Najbardziej znany z bycia jednym z prezenter\u00F3w program\u00F3w Top Gear oraz Fifth Gear."@pl ,
+		"Timothy \"Tiff\" Needell (born 29 October 1951 in Havant, Hampshire) is a British racing driver and television presenter. He is a former co-presenter of Top Gear and of Fifth Gear."@en ,
+		"\u0422\u0438\u043C\u043E\u0442\u0438 \u00AB\u0422\u0438\u0444\u0444\u00BB \u041D\u0438\u0434\u043B (\u0430\u043D\u0433\u043B. Timothy \u00ABTiff\u00BB Needell, 29 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1951 \u0433\u043E\u0434\u0430, \u0425\u0435\u0439\u0432\u0430\u043D\u0442, \u0433\u0440\u0430\u0444\u0441\u0442\u0432\u043E \u0425\u044D\u043C\u043F\u0448\u0438\u0440) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Timothy \"Tiff\" Needell (Havant, Hampshire, 29 oktober 1951) is een Britse oud-Formule 1-coureur en presentator. Hij co-presenteerde het autoprogramma Top Gear en is lid van het presentatieteam van Fifth Gear."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/TiffNeedell.jpg?width=300> ;
+	dbo:birthDate	"1951-10-29"^^xsd:date ;
+	dbo:wikiPageRevisionID	744396554 ;
+	dbo:birthPlace	dbr:Havant ;
+	dbo:wikiPageID	343003 ;
+	dbo:nationality	dbr:United_Kingdom ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1980_Belgian_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1980_Monaco_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Tiff_Needell	ns24:hypernym	dbr:Driver .
+wikipedia-en:Tiff_Needell	foaf:primaryTopic	dbr:Tiff_Needell .
+dbr:Tiff_Needle	dbo:wikiPageRedirects	dbr:Tiff_Needell .
+<http://dbpedia.org/resource/Top_Gear_(series_16)>	dbp:aux	dbr:Tiff_Needell .
+dbr:Fifth_Gear	dbo:presenter	dbr:Tiff_Needell .
+dbr:Top_Gear_Motorsport	dbo:presenter	dbr:Tiff_Needell .
+dbr:Tiffany_Dell	dbo:wikiPageRedirects	dbr:Tiff_Needell .
+dbr:Tiff_Needel	dbo:wikiPageRedirects	dbr:Tiff_Needell .
+dbr:Lamborghini_Countach_QVX	dbp:drivers	dbr:Tiff_Needell .
+dbr:Aston_Martin__1983__1	dbo:firstDriver	dbr:Tiff_Needell .
+dbr:Aston_Martin__1985__1	dbo:firstDriver	dbr:Tiff_Needell .

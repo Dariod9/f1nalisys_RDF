@@ -1,0 +1,164 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1956_Syracuse_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Musso .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Luigi_Musso	foaf:primaryTopic	dbr:Luigi_Musso .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Pat_O\u0027Connor_(racing_driver)>	dbp:after	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/1957_French_Grand_Prix>	dbo:fastestDriver	dbr:Luigi_Musso ;
+	dbo:secondDriver	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/Peter_Collins_(racing_driver)>	dbp:before	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/Musso_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/1957_Reims_Grand_Prix>	dbo:firstDriver	dbr:Luigi_Musso .
+dbr:Giuseppe_Farina	dbp:after	dbr:Luigi_Musso .
+dbr:Alberto_Ascari	dbp:before	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__44__1>	dbo:firstDriver	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/1957_British_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Musso .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Luigi_Musso	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Luigi_Musso	rdf:type	yago:WikicatMaseratiFormulaOneDrivers .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Luigi_Musso	rdf:type	ns8:Agent ,
+		ns8:NaturalPerson ,
+		foaf:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:CausalAgent100007347 .
+@prefix schema:	<http://schema.org/> .
+dbr:Luigi_Musso	rdf:type	schema:Person ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		dbo:Person ,
+		wikidata:Q378622 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Luigi_Musso	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Agent ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		wikidata:Q5 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Luigi_Musso	rdf:type	owl:Thing ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Luigi_Musso	rdfs:label	"\u0644\u0648\u064A\u062C\u064A \u0645\u0648\u0633\u0648"@ar ,
+		"Luigi Musso"@it ,
+		"Luigi Musso"@es ,
+		"Luigi Musso"@en ,
+		"\u041C\u0443\u0441\u0441\u043E, \u041B\u0443\u0438\u0434\u0436\u0438"@ru ,
+		"Luigi Musso"@de ,
+		"Luigi Musso"@pl ,
+		"Luigi Musso"@nl ,
+		"\u30EB\u30A4\u30B8\u30FB\u30E0\u30C3\u30BD"@ja ,
+		"Luigi Musso"@fr ,
+		"Luigi Musso"@pt ;
+	rdfs:comment	"\u041B\u0443\u0438\u0301\u0434\u0436\u0438 \u041C\u0443\u0301\u0441\u0441\u043E (\u0438\u0442\u0430\u043B. Luigi Musso) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1953\u20141958), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio 1958 \u0433\u043E\u0434\u0430, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043F\u0438\u043B\u043E\u0442 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 (1955\u20141958) \u0438 Champ Car (1958)."@ru ,
+		"Luigi Musso (Rome, 28 juli 1924 \u2013 Reims (Frankrijk), 6 juli 1958) was een Italiaanse Formule 1-coureur. Hij nam tussen 1953 en 1958 deel aan 25 Grands Prix voor de teams Ferrari en Maserati en scoorde hierin \u00E9\u00E9n overwinning, de Grand Prix van Argentini\u00EB in 1956, zeven podia, \u00E9\u00E9n snelste ronde en 44 punten. Hij verongelukte in 1958."@nl ,
+		"\u0644\u0648\u064A\u062C\u064A \u0645\u0648\u0633\u0648 \u0645\u0648\u0627\u0644\u064A\u062F 28 \u064A\u0648\u0644\u064A\u0648 1924\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1953. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1953\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1956. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 25 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ,
+		"Luigi Musso (* 28. Juli 1924 in Rom; \u2020 6. Juli 1958 in Reims) war ein italienischer Formel-1- und Sportwagen-Rennfahrer."@de ,
+		"Luigi Musso (28 July 1924 \u2013 6 July 1958) was an Italian racing driver. In 1955 he joined the Ferrari team, entering into a fierce rivalry with Mike Hawthorn and Peter Collins, which boosted the performance of the team, but also encouraged greater risk-taking. According to Musso's fianc\u00E9e, he was deep in debt by the time of the lucrative 1958 French Grand Prix, where he was fatally injured, somersaulting into a ditch while chasing Hawthorn."@en ,
+		"Luigi Musso (ur. 28 lipca 1924 roku w Rzymie, zm. 6 lipca 1958 roku w Reims-Gueux) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Luigi Musso ( n. el 28 de julio de 1924 en Roma, Italia + m. el 6 de julio de 1958 en Reims-Gueux) fue un piloto de F\u00F3rmula 1 italiano que corri\u00F3 en la d\u00E9cada del 50 para la escuder\u00EDas Ferrari y Maserati. En su trayectoria gan\u00F3 una carrera, en Argentina, adem\u00E1s obtuvo 7 podios y sum\u00F3 en total 44 puntos de campeonato. En la temporada de 1957 termin\u00F3 tercero en el campeonato de pilotos. Al a\u00F1o siguiente obtuvo dos segundos puestos en las tres primeras carreras pero muri\u00F3 en un accidente en el Gran Premio de Francia de ese a\u00F1o. Su muerte fue la primera de una serie que enlutar\u00EDa a la Scuderia Ferrari, ya que dos competencias m\u00E1s tarde, su compa\u00F1ero de equipo Peter Collins, lo seguir\u00EDa al morir en el Gran Premio de Alemania de 1958, mientras que su tambi\u00E9n compa\u00F1ero Mike Hawthorn tras coronars"@es ,
+		"Luigi MussoFichier:Luigi Musso.jpg Luigi Musso en 1957 Luigi Musso est un pilote automobile italien, n\u00E9 le 28 juillet 1924 \u00E0 Rome en Italie et mort le 6 juillet 1958 \u00E0 Reims, en France, des suites d'un accident survenu au Grand Prix de France sur le circuit de Reims-Gueux. Durant sa carri\u00E8re en Formule 1, Luigi Musso a gagn\u00E9 un Grand Prix, r\u00E9alis\u00E9 sept podiums et totalis\u00E9 44 points en championnat de monde."@fr ,
+		"\u30EB\u30A4\u30B8\u30FB\u30E0\u30C3\u30BD\uFF08Luigi Musso\u30011924\u5E7411\u670828\u65E5 - 1958\u5E747\u67086\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30EB\u30A4\u30FC\u30B8\u30FB\u30E0\u30C3\u30BD\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Luigi Musso (Roma, 28 de julho de 1924 \u2013 Reims, 6 de julho de 1958) foi um piloto italiano de F\u00F3rmula 1. Come\u00E7ou sua carreira em categorias semelhantes \u00E0 F\u00F3rmula 1 na \u00E9poca. Ao se destacar, veio a ir para a Maserati em 1953, considerada uma grande equipe da \u00E9poca. L\u00E1 permaneceu por dois anos, destacando-se tanto que foi para a Ferrari, a melhor equipe da \u00E9poca."@pt ;
+	dbp:points	44 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	dbpedia-wikidata:Q171484 ,
+		dbr:Luigi_Musso .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	dbpedia-id:Luigi_Musso .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	dbpedia-fr:Luigi_Musso .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	dbpedia-es:Luigi_Musso ,
+		wikidata:Q171484 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	dbpedia-de:Luigi_Musso .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	dbpedia-nl:Luigi_Musso ,
+		<http://rdf.freebase.com/ns/m.04k1_q> ,
+		<http://ja.dbpedia.org/resource/\u30EB\u30A4\u30B8\u30FB\u30E0\u30C3\u30BD> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	dbpedia-pl:Luigi_Musso .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	dbpedia-it:Luigi_Musso .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	dbpedia-pt:Luigi_Musso .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Luigi_Musso	owl:sameAs	yago-res:Luigi_Musso .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Luigi_Musso	dct:subject	dbc:Italian_Formula_One_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Maserati_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Sport_deaths_in_France ,
+		<http://dbpedia.org/resource/Category:1924_births> ,
+		<http://dbpedia.org/resource/Category:1958_deaths> ,
+		dbc:Sportspeople_from_Rome ;
+	foaf:name	"Luigi Musso"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Luigi_Musso.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Luigi"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Luigi_Musso ;
+	foaf:surname	"Musso"@en ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Luigi_Musso	dbp:years	"1958-07-06"^^xsd:date .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Luigi_Musso	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Luigi_Musso?oldid=726263229> ;
+	dbp:before	<http://dbpedia.org/resource/Pat_O\u0027Connor_(auto_racer)> ;
+	dbp:after	<http://dbpedia.org/resource/Peter_Collins_(racing_driver)> ;
+	dbo:firstWin	<http://dbpedia.org/resource/1956_Argentine_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1956_Argentine_Grand_Prix> ;
+	dbp:birthDate	"1924-07-28"^^xsd:date ;
+	dbp:deathDate	"1958-07-06"^^xsd:date ;
+	dbp:caption	"Luigi Musso, 1957"^^xsd:string ;
+	dbo:abstract	"Luigi Musso (* 28. Juli 1924 in Rom; \u2020 6. Juli 1958 in Reims) war ein italienischer Formel-1- und Sportwagen-Rennfahrer."@de ,
+		"Luigi Musso (28 July 1924 \u2013 6 July 1958) was an Italian racing driver. In 1955 he joined the Ferrari team, entering into a fierce rivalry with Mike Hawthorn and Peter Collins, which boosted the performance of the team, but also encouraged greater risk-taking. According to Musso's fianc\u00E9e, he was deep in debt by the time of the lucrative 1958 French Grand Prix, where he was fatally injured, somersaulting into a ditch while chasing Hawthorn."@en ,
+		"Luigi Musso (Roma, 28 de julho de 1924 \u2013 Reims, 6 de julho de 1958) foi um piloto italiano de F\u00F3rmula 1. Come\u00E7ou sua carreira em categorias semelhantes \u00E0 F\u00F3rmula 1 na \u00E9poca. Ao se destacar, veio a ir para a Maserati em 1953, considerada uma grande equipe da \u00E9poca. L\u00E1 permaneceu por dois anos, destacando-se tanto que foi para a Ferrari, a melhor equipe da \u00E9poca. No auge de sua carreira pela Ferrari  veio a falecer em uma grave batida no circuito de Reims, na Fran\u00E7a, pelo Campeonato Mundial de F\u00F3rmula 1 de 1958 quando a sua Ferrari 500 bateu gravemente em um pilar fazendo com que o seu carro ricocheteasse de modo t\u00E3o violento que fez com que a cabine n\u00E3o resistisse, sendo rachada violentamente e lan\u00E7ando o piloto a quase 100 metros. Chegou a ser levado para um hospital local (naquela \u00E9poca n\u00E3o havia hospitais na pista) n\u00E3o resistindo aos graves ferimentos que foram ocasionados pela sua grave queda sendo declarado morto 20 minutos depois de ter chegado ao hospital, provalvelmente por traumatismo craniano. Ap\u00F3s a confirma\u00E7\u00E3o da morte de Musso, o pentacampe\u00E3o mundial Juan Manuel Fangio encerra sua carreira."@pt ,
+		"\u041B\u0443\u0438\u0301\u0434\u0436\u0438 \u041C\u0443\u0301\u0441\u0441\u043E (\u0438\u0442\u0430\u043B. Luigi Musso) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1953\u20141958), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio 1958 \u0433\u043E\u0434\u0430, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043F\u0438\u043B\u043E\u0442 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 (1955\u20141958) \u0438 Champ Car (1958)."@ru ,
+		"Luigi Musso (ur. 28 lipca 1924 roku w Rzymie, zm. 6 lipca 1958 roku w Reims-Gueux) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Luigi Musso ( n. el 28 de julio de 1924 en Roma, Italia + m. el 6 de julio de 1958 en Reims-Gueux) fue un piloto de F\u00F3rmula 1 italiano que corri\u00F3 en la d\u00E9cada del 50 para la escuder\u00EDas Ferrari y Maserati. En su trayectoria gan\u00F3 una carrera, en Argentina, adem\u00E1s obtuvo 7 podios y sum\u00F3 en total 44 puntos de campeonato. En la temporada de 1957 termin\u00F3 tercero en el campeonato de pilotos. Al a\u00F1o siguiente obtuvo dos segundos puestos en las tres primeras carreras pero muri\u00F3 en un accidente en el Gran Premio de Francia de ese a\u00F1o. Su muerte fue la primera de una serie que enlutar\u00EDa a la Scuderia Ferrari, ya que dos competencias m\u00E1s tarde, su compa\u00F1ero de equipo Peter Collins, lo seguir\u00EDa al morir en el Gran Premio de Alemania de 1958, mientras que su tambi\u00E9n compa\u00F1ero Mike Hawthorn tras coronarse campe\u00F3n ese mismo a\u00F1o, tendr\u00EDa igual destino al sufrir un accidente carretero a comienzos de 1959, luego de haber anunciado su retiro."@es ,
+		"Luigi MussoFichier:Luigi Musso.jpg Luigi Musso en 1957 Luigi Musso est un pilote automobile italien, n\u00E9 le 28 juillet 1924 \u00E0 Rome en Italie et mort le 6 juillet 1958 \u00E0 Reims, en France, des suites d'un accident survenu au Grand Prix de France sur le circuit de Reims-Gueux. Durant sa carri\u00E8re en Formule 1, Luigi Musso a gagn\u00E9 un Grand Prix, r\u00E9alis\u00E9 sept podiums et totalis\u00E9 44 points en championnat de monde."@fr ,
+		"\u30EB\u30A4\u30B8\u30FB\u30E0\u30C3\u30BD\uFF08Luigi Musso\u30011924\u5E7411\u670828\u65E5 - 1958\u5E747\u67086\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30EB\u30A4\u30FC\u30B8\u30FB\u30E0\u30C3\u30BD\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Luigi Musso (Rome, 28 juli 1924 \u2013 Reims (Frankrijk), 6 juli 1958) was een Italiaanse Formule 1-coureur. Hij nam tussen 1953 en 1958 deel aan 25 Grands Prix voor de teams Ferrari en Maserati en scoorde hierin \u00E9\u00E9n overwinning, de Grand Prix van Argentini\u00EB in 1956, zeven podia, \u00E9\u00E9n snelste ronde en 44 punten. Hij verongelukte in 1958."@nl ,
+		"\u0644\u0648\u064A\u062C\u064A \u0645\u0648\u0633\u0648 \u0645\u0648\u0627\u0644\u064A\u062F 28 \u064A\u0648\u0644\u064A\u0648 1924\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1953. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1953\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1956. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 25 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Luigi_Musso.jpg?width=300> ;
+	dbo:birthDate	"1924-7-28"^^xsd:date ;
+	dbo:deathDate	"1958-7-6"^^xsd:date ;
+	dbo:deathPlace	dbr:Reims ;
+	dbo:wikiPageRevisionID	726263229 ;
+	dbo:birthPlace	dbr:Rome ;
+	dbo:wikiPageID	1226494 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Luigi_Musso	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1953_Italian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1958_French_Grand_Prix> ;
+	dbo:podiums	"7"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"25"^^xsd:nonNegativeInteger ;
+	dbo:wins	"1"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scuderia_Ferrari ,
+		dbr:Maserati_in_motorsport ;
+	dbp:nationality	"Italian"^^xsd:string .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__22__1>	dbo:firstDriver	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/1956_Argentine_Grand_Prix>	dbo:firstDriver	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/1958_Argentine_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/1954_Spanish_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/1958_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Luigi_Musso .
+<http://dbpedia.org/resource/1955_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Luigi_Musso .

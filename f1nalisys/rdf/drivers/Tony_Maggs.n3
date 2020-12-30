@@ -1,0 +1,133 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__6__1>	dbo:firstDriver	dbr:Tony_Maggs .
+<http://dbpedia.org/resource/1962_French_Grand_Prix>	dbo:secondDriver	dbr:Tony_Maggs .
+<http://dbpedia.org/resource/1963_French_Grand_Prix>	dbo:secondDriver	dbr:Tony_Maggs .
+<http://dbpedia.org/resource/1963_Lady_Wigram_Trophy>	dbo:thirdDriver	dbr:Tony_Maggs .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Lola_Mk6	dbp:drivers	dbr:Tony_Maggs .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Tony_Maggs	foaf:primaryTopic	dbr:Tony_Maggs .
+dbr:Maggs	dbo:wikiPageDisambiguates	dbr:Tony_Maggs .
+<http://dbpedia.org/resource/1963_Glover_Trophy>	dbo:thirdDriver	dbr:Tony_Maggs .
+<http://dbpedia.org/resource/1962_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Tony_Maggs .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Tony_Maggs	rdf:type	wikidata:Q378622 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Tony_Maggs	rdf:type	yago:WikicatScuderiaCentroSudFormulaOneDrivers ,
+		dbo:Agent .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Tony_Maggs	rdf:type	ns8:NaturalPerson ,
+		yago:WikicatSouthAfricanFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Tony_Maggs	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Tony_Maggs	rdf:type	owl:Thing ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Athlete ,
+		wikidata:Q5 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		foaf:Person ,
+		ns8:Agent ,
+		dbo:MotorsportRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Tony_Maggs	rdfs:label	"Tony Maggs"@it ,
+		"\u041C\u044D\u0433\u0433\u0441, \u0422\u043E\u043D\u0438"@ru ,
+		"Tony Maggs"@en ,
+		"Tony Maggs"@de ,
+		"Tony Maggs"@nl ,
+		"Tony Maggs"@fr ,
+		"Tony Maggs"@pt ,
+		"Tony Maggs"@pl ;
+	rdfs:comment	"Anthony Francis O'Connell \"Tony\" Maggs (9 February 1937 in Pretoria, South Africa \u2013 2 June 2009) was a racing driver from South Africa. He participated in 27 Formula One World Championship Grands Prix, debuting on 15 July 1961. He achieved three podiums, and scored a total of 26 championship points. Maggs then moved to Scuderia Centro Sud for 1964 and despite the fact that their BRM P57s were not current machinery achieved two points finishes out of three race starts. He also returned to Formula Two with an MRP Lola and with David Piper won the Kyalami 9 Hours race in the latter's Ferrari GTO."@en ,
+		"Anthony Francis O\u2019Connell \u201ETony\u201D Maggs (ur. 9 lutego 1937 roku w Pretorii, zm. 2 czerwca 2009 roku w Caledonie) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"Anthony Francis O'Connell \"Tony\" Maggs (9 de fevereiro de 1937 - 2 de junho de 2009) foi um automobilista sul-africano. Foi o primeiro do pa\u00EDs a disputar a F\u00F3rmula 1. Come\u00E7ou a correr em 1958 num Austin Healey depois correu na Turismos em 1960 corre na F\u00F3rmula J\u00FAnior sendo o campe\u00E3o em 1961 em um Cooper T-56. Em 1962 substitui Jack Brabham na F1,correndo ao lado de Bruce Mclaren.Conseguiu 3 p\u00F3dios,dois segundos lugares na Fran\u00E7a (1962 e 1963) e um terceiro na \u00C1frica do Sul em 1962. Faleceu em 2 de junho de 2009 de c\u00E2ncer no pulm\u00E3o."@pt ,
+		"Anthony Francis O'Connell \"Tony\" Maggs (n\u00E9 le 9 f\u00E9vrier 1937 \u00E0 Pretoria et mort le 2 juin 2009) est un pilote automobile sud-africain qui a particip\u00E9 \u00E0 vingt-six Grands Prix comptant pour le championnat du monde de Formule 1, faisant ses d\u00E9buts le 15 juillet 1961. Il a obtenu trois podiums et inscrit un total de 26 points en championnat. Tony Maggs est entr\u00E9 dans les annales de la Formule 1 comme \u00E9tant le premier Sud-Africain \u00E0 participer au championnat du monde."@fr ,
+		"Anthony \u201ETony\u201C Maggs (* 9. Februar 1937 in Pretoria; \u2020 2. Juni 2009) war ein s\u00FCdafrikanischer Automobilrennfahrer."@de ,
+		"\u0422\u043E\u0301\u043D\u0438 \u041C\u044D\u0433\u0433\u0441 (\u0430\u043D\u0433\u043B. Tony Maggs, 9 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1937, \u041F\u0440\u0435\u0442\u043E\u0440\u0438\u044F \u2014 2 \u0438\u044E\u043D\u044F 2009, \u041F\u0440\u0435\u0442\u043E\u0440\u0438\u044F) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0432\u0442\u043E\u0440\u044B\u043C \u0441\u0430\u043C\u044B\u043C \u0443\u0441\u043F\u0435\u0448\u043D\u044B\u043C \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438 \u043F\u043E\u0441\u043B\u0435 \u0414\u0436\u043E\u0434\u0438 \u0428\u0435\u043A\u0442\u0435\u0440\u0430."@ru ,
+		"Anthony Francis O'Connell \"Tony\" Maggs (Pretoria, Zuid-Afrika, 9 februari 1937 \u2013 2 juni 2009) was de eerste Formule 1-coureur uit Zuid-Afrika. Tussen 1961 en 1965 nam hij deel aan 27 Grands Prix voor de teams Lotus, Cooper, Scuderia Centro Sud en Reg Parnell en scoorde hierin 3 podia en 26 punten."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Tony_Maggs	dbp:birthDate	"1937-02-09"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Tony_Maggs	owl:sameAs	dbpedia-pl:Tony_Maggs .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Tony_Maggs	owl:sameAs	dbpedia-wikidata:Q171830 ,
+		dbr:Tony_Maggs .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Tony_Maggs	owl:sameAs	dbpedia-nl:Tony_Maggs .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Tony_Maggs	owl:sameAs	dbpedia-fr:Tony_Maggs .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Tony_Maggs	owl:sameAs	yago-res:Tony_Maggs ,
+		wikidata:Q171830 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Tony_Maggs	owl:sameAs	dbpedia-it:Tony_Maggs .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Tony_Maggs	owl:sameAs	dbpedia-pt:Tony_Maggs ,
+		<http://rdf.freebase.com/ns/m.04k2hw> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Tony_Maggs	owl:sameAs	dbpedia-de:Tony_Maggs .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Tony_Maggs	dct:subject	dbc:South_African_racing_drivers ,
+		dbc:Sportspeople_from_Pretoria ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:2009_deaths> ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		dbc:South_African_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1937_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Cooper_Formula_One_drivers ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ;
+	foaf:name	"Tony Maggs"@en ;
+	dct:description	"South African racing driver"@en ;
+	foaf:givenName	"Anthony"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Tony_Maggs ;
+	dbp:points	26 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	"Cooper; non-works BRM and Lotus"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Tony_Maggs	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tony_Maggs?oldid=704697030> ;
+	dbp:nationality	"South African"^^xsd:string ;
+	dbp:birthPlace	"Pretoria, Transvaal, South Africa"^^xsd:string ;
+	dbp:deathDate	"2009-06-02"^^xsd:date ;
+	dbp:deathPlace	"Caledon, Western Cape, South Africa"^^xsd:string ;
+	dbo:abstract	"Anthony Francis O'Connell \"Tony\" Maggs (Pretoria, Zuid-Afrika, 9 februari 1937 \u2013 2 juni 2009) was de eerste Formule 1-coureur uit Zuid-Afrika. Tussen 1961 en 1965 nam hij deel aan 27 Grands Prix voor de teams Lotus, Cooper, Scuderia Centro Sud en Reg Parnell en scoorde hierin 3 podia en 26 punten."@nl ,
+		"Anthony \u201ETony\u201C Maggs (* 9. Februar 1937 in Pretoria; \u2020 2. Juni 2009) war ein s\u00FCdafrikanischer Automobilrennfahrer."@de ,
+		"Anthony Francis O'Connell \"Tony\" Maggs (n\u00E9 le 9 f\u00E9vrier 1937 \u00E0 Pretoria et mort le 2 juin 2009) est un pilote automobile sud-africain qui a particip\u00E9 \u00E0 vingt-six Grands Prix comptant pour le championnat du monde de Formule 1, faisant ses d\u00E9buts le 15 juillet 1961. Il a obtenu trois podiums et inscrit un total de 26 points en championnat. Tony Maggs est entr\u00E9 dans les annales de la Formule 1 comme \u00E9tant le premier Sud-Africain \u00E0 participer au championnat du monde."@fr ,
+		"Anthony Francis O\u2019Connell \u201ETony\u201D Maggs (ur. 9 lutego 1937 roku w Pretorii, zm. 2 czerwca 2009 roku w Caledonie) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"\u0422\u043E\u0301\u043D\u0438 \u041C\u044D\u0433\u0433\u0441 (\u0430\u043D\u0433\u043B. Tony Maggs, 9 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1937, \u041F\u0440\u0435\u0442\u043E\u0440\u0438\u044F \u2014 2 \u0438\u044E\u043D\u044F 2009, \u041F\u0440\u0435\u0442\u043E\u0440\u0438\u044F) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0432\u0442\u043E\u0440\u044B\u043C \u0441\u0430\u043C\u044B\u043C \u0443\u0441\u043F\u0435\u0448\u043D\u044B\u043C \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438\u0437 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438 \u043F\u043E\u0441\u043B\u0435 \u0414\u0436\u043E\u0434\u0438 \u0428\u0435\u043A\u0442\u0435\u0440\u0430."@ru ,
+		"Anthony Francis O'Connell \"Tony\" Maggs (9 February 1937 in Pretoria, South Africa \u2013 2 June 2009) was a racing driver from South Africa. He participated in 27 Formula One World Championship Grands Prix, debuting on 15 July 1961. He achieved three podiums, and scored a total of 26 championship points. The son of a wealthy farmer and businessman, Tony Maggs was part of Ken Tyrrell's Formula Junior, Cooper-BMC team in 1961 and shared the European Championship with Jo Siffert. He was invited into the Cooper Formula One team for 1962\u20131963, finishing second in the French Grand Prix both years, but was dropped at the end of 1963. Maggs then moved to Scuderia Centro Sud for 1964 and despite the fact that their BRM P57s were not current machinery achieved two points finishes out of three race starts. He also returned to Formula Two with an MRP Lola and with David Piper won the Kyalami 9 Hours race in the latter's Ferrari GTO. In 1965, Maggs raced only once in Formula One, for Reg Parnell Racing, in the South African Grand Prix at East London but continued with success in both Formula Two and sports cars. However, in a national race at Pietermaritzburg he crashed his Brabham and a young spectator standing in a restricted area was hit and killed. Maggs immediately retired from motor sport to concentrate on his business interests. Maggs died on 2 June 2009, from cancer."@en ,
+		"Anthony Francis O'Connell \"Tony\" Maggs (9 de fevereiro de 1937 - 2 de junho de 2009) foi um automobilista sul-africano. Foi o primeiro do pa\u00EDs a disputar a F\u00F3rmula 1. Come\u00E7ou a correr em 1958 num Austin Healey depois correu na Turismos em 1960 corre na F\u00F3rmula J\u00FAnior sendo o campe\u00E3o em 1961 em um Cooper T-56. Em 1961 fez apenas 2 corridas e n\u00E3o pontuou sendo que sua estr\u00E9ia foi no GP Brit\u00E2nico,no ano seguinte disputou todas as corridas e ficou em 7 com 13 pontos,em 1963 ficou em 8 com 9 pontos,em 1964 ficou em 12 com 4 disputando 3 corridas.J\u00E1 em 1965 disputou apenas 1 corrida e abandonou a carreira. Em 1962 substitui Jack Brabham na F1,correndo ao lado de Bruce Mclaren.Conseguiu 3 p\u00F3dios,dois segundos lugares na Fran\u00E7a (1962 e 1963) e um terceiro na \u00C1frica do Sul em 1962. Em 1964 correu pela Centro-Sud num BRM.A \u00FAltima corrida dele na F1 foi em seu pa\u00EDs em 1965 em um Lotus 25 da Reg Parnell Team ficando em 11 lugar. Em Junho desse ano atropela mortalmente uma crian\u00E7a e para de correr. O atropelamento foi em Pietermaritzburg o garoto era Michael Twyman de 8 anos. Pela Turismos venceu 2 vezes as 9 horas de Kyalami e disputou algumas edi\u00E7\u00F5es das 24 horas de Le Mans, sendo que seu melhor resultado foi um 6 lugar em 1964 junto com o brit\u00E2nico David Piper. Ap\u00F3s a carreira foi morar no norte da prov\u00EDncia de Transvaal sobrevivendo at\u00E9 a um desastre de avi\u00E3o. Faleceu em 2 de junho de 2009 de c\u00E2ncer no pulm\u00E3o."@pt ;
+	dbo:birthDate	"1937-2-9"^^xsd:date ;
+	dbo:deathDate	"2009-6-2"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Caledon,_Western_Cape> ;
+	dbo:wikiPageRevisionID	704697030 ;
+	dbo:birthPlace	dbr:Pretoria ;
+	dbo:wikiPageID	1226575 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1961_British_Grand_Prix> ;
+	dbo:races	"27"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1965_South_African_Grand_Prix> ;
+	dbo:podiums	"3"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Tony_Maggs	ns24:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__27__1>	dbo:firstDriver	dbr:Tony_Maggs .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__31__1>	dbo:firstDriver	dbr:Tony_Maggs .

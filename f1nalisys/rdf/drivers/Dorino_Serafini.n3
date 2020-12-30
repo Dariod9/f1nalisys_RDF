@@ -1,0 +1,128 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1950_Buenos_Aires_Grand_Prix>	dbo:secondDriver	dbr:Dorino_Serafini .
+<http://dbpedia.org/resource/1951_San_Remo_Grand_Prix>	dbo:secondDriver	dbr:Dorino_Serafini .
+<http://dbpedia.org/resource/1950_Italian_Grand_Prix>	dbo:secondDriver	dbr:Dorino_Serafini .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns3:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Dorino_Serafini	rdf:type	ns3:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Dorino_Serafini	rdf:type	yago:WikicatFerrariFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Dorino_Serafini	rdf:type	wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Dorino_Serafini	rdf:type	schema:Person ,
+		dbo:Athlete ,
+		wikidata:Q215627 ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		yago:Driver110034906 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Dorino_Serafini	rdf:type	umbel-rc:RaceCarDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Dorino_Serafini	rdf:type	owl:Thing ,
+		ns3:NaturalPerson ,
+		yago:Racer110502576 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q5 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatItalianMotorcycleRacers ,
+		wikidata:Q378622 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Dorino_Serafini	rdf:type	foaf:Person ,
+		dbo:FormulaOneRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Dorino_Serafini	rdfs:label	"Dorino Serafini"@it ,
+		"Dorino Serafini"@nl ,
+		"Dorino Serafini"@pl ,
+		"Dorino Serafini"@en ,
+		"Dorino Serafini"@pt ,
+		"Dorino Serafini"@fr ,
+		"Dorino Serafini"@de ,
+		"\u0421\u0435\u0440\u0430\u0444\u0438\u043D\u0438, \u0414\u043E\u0440\u0438\u043D\u043E"@ru ;
+	rdfs:comment	"Dorino Serafini (ur. 22 lipca 1909 w Pesaro, zm. 3 lipca 2000 tam\u017Ce) \u2013 w\u0142oski motocyklista wy\u015Bcigowy oraz kierowca wy\u015Bcigowy. W roku 1939 zosta\u0142 mistrzem w Europejskich Mistrzostwa w Wy\u015Bcigach Motocyklowych w klasie 500cc, je\u017Cd\u017C\u0105c Giler\u0105. Wzi\u0105\u0142 udzia\u0142 w jednym Grand Prix Formu\u0142y 1 \u2013 Grand Prix W\u0142och w sezonie 1950. Zaj\u0105\u0142 wtedy na Ferrari wraz z Alberto Ascarim drugie miejsce, dzi\u0119ki czemu zdoby\u0142 3 punkty, co umo\u017Cliwi\u0142o mu zaj\u0119cie 13 pozycji w klasyfikacji generalnej na koniec sezonu. Bra\u0142 udzia\u0142 r\u00F3wnie\u017C w kilku wy\u015Bcigach niezaliczanych do punktacji mistrzostw."@pl ,
+		"\u0414\u043E\u0440\u0438\u043D\u043E \u0421\u0435\u0440\u0430\u0444\u0438\u043D\u0438 (\u0438\u0442\u0430\u043B. Dorino Serafini, 22 \u0438\u044E\u043B\u044F 1909 \u0433\u043E\u0434\u0430 \u2014 5 \u0438\u044E\u043B\u044F 2000 \u0433\u043E\u0434\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u043C\u043E\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043E\u0434\u043D\u043E\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438. \u0421\u0435\u0440\u0430\u0444\u0438\u043D\u0438 \u0431\u044B\u043B \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0435\u043D \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u042D\u043D\u0446\u043E \u0424\u0435\u0440\u0440\u0430\u0440\u0438 \u043D\u0430 \u0437\u0430\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u0433\u043E\u043D\u043A\u0443 \u0441\u0435\u0437\u043E\u043D\u0430 1950 \u0433\u043E\u0434\u0430 \u0432 \u0418\u0442\u0430\u043B\u0438\u0438. \u041E\u043D \u0441\u043C\u043E\u0433 \u0445\u043E\u0440\u043E\u0448\u043E \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u0442\u044C\u0441\u044F \u043D\u0430 6-\u043C \u043C\u0435\u0441\u0442\u0435, \u043D\u043E \u0432 \u0433\u043E\u043D\u043A\u0435 \u043F\u043E\u0441\u043B\u0435 47 \u043A\u0440\u0443\u0433\u043E\u0432 \u043E\u0442\u0434\u0430\u043B \u0441\u0432\u043E\u0439 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C \u0410\u043B\u044C\u0431\u0435\u0440\u0442\u043E \u0410\u0441\u043A\u0430\u0440\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043F\u0440\u0438\u0432\u0435\u043B \u0435\u0433\u043E \u043A \u0444\u0438\u043D\u0438\u0448\u0443 \u0432\u0442\u043E\u0440\u044B\u043C. \u0413\u043E\u043D\u0449\u0438\u043A\u0438 \u0440\u0430\u0437\u0434\u0435\u043B\u0438\u043B\u0438 \u043C\u0435\u0436\u0434\u0443 \u0441\u043E\u0431\u043E\u0439 \u043E\u0447\u043A\u0438 \u0437\u0430 \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E. \u0422\u0430\u043A\u0436\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u0432\u043D\u0435\u0437\u0430\u0447\u0435\u0442\u043D\u044B\u0445 \u0433\u0440\u0430\u043D-\u043F\u0440\u0438."@ru ,
+		"Teodoro \"Dorino\" Serafini (July 22, 1909 \u2013 July 5, 2000) was a motorcycle road racer and racing driver from Italy. A native of Pesaro (Marche), he won the 1939 500cc European Championship on a Gilera. He participated in one Formula One World Championship Grand Prix on September 3, 1950, where he finished second and scored 3 championship points, his points being halved as he shared the drive with Alberto Ascari. Serafini still holds the record for highest percentage of podium places per race, 1 podium in 1 race gives him a 100% score. He also competed in several non-Championship Formula One races."@en ,
+		"Teodoro \"Dorino\" Serafini (Pesaro, 22 juli 1909 - aldaar, 5 juli 2000) was een autocoureur uit Itali\u00EB. Hij nam deel aan zijn thuisrace in 1950 en scoorde hierin een podium en 3 punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Dorino Serafini Teodoro \"Dorino\" Serafini (n\u00E9 \u00E0 Pesaro le 22 juillet 1909 et mort le 5 juillet 2000 dans la m\u00EAme ville) \u00E9tait un coureur motocycliste et automobile italien."@fr ,
+		"Teodoro Serafini (Pesaro, 22 de julho de 1909 \u2014 Bolonha, 5 de julho de 2000) foi um automobilista italiano. Participou do Grande Pr\u00EAmio da It\u00E1lia de F\u00F3rmula 1 em 1950. Terminou a prova, dividindo o carro com Alberto Ascari, em segundo lugar.."@pt ,
+		"Teodoro \u201EDorino\u201C Serafini (* 22. Juli 1909 in Pesaro; \u2020 5. Juli 2000 ebenda) war ein italienischer Automobil- und Motorradrennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Dorino_Serafini	dbp:birthDate	"1909-07-22"^^xsd:date ;
+	owl:sameAs	wikidata:Q172185 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Dorino_Serafini	owl:sameAs	dbpedia-it:Dorino_Serafini .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Dorino_Serafini	owl:sameAs	dbpedia-wikidata:Q172185 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Dorino_Serafini	owl:sameAs	dbpedia-de:Dorino_Serafini .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Dorino_Serafini	owl:sameAs	dbpedia-pt:Dorino_Serafini .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Dorino_Serafini	owl:sameAs	yago-res:Dorino_Serafini .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Dorino_Serafini	owl:sameAs	dbpedia-nl:Dorino_Serafini .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Dorino_Serafini	owl:sameAs	dbpedia-pl:Dorino_Serafini ,
+		dbr:Dorino_Serafini ,
+		<http://rdf.freebase.com/ns/m.04k7_t> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Dorino_Serafini	owl:sameAs	dbpedia-fr:Dorino_Serafini .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Dorino_Serafini	dct:subject	dbc:People_from_Pesaro ,
+		dbc:Italian_motorcycle_racers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1909_births> ,
+		dbc:Ferrari_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2000_deaths> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ;
+	foaf:name	"Dorino Serafini"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Dorino_Serafini	foaf:isPrimaryTopicOf	wikipedia-en:Dorino_Serafini ;
+	dbp:points	3 ;
+	dbp:years	1939 ;
+	dbp:after	dbr:Omobono_Tenni ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scuderia_Ferrari .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Dorino_Serafini	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dorino_Serafini?oldid=726261769> ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:deathDate	"2000-07-05"^^xsd:date ;
+	dbp:before	dbr:Georg_Meier ;
+	dbo:abstract	"\u0414\u043E\u0440\u0438\u043D\u043E \u0421\u0435\u0440\u0430\u0444\u0438\u043D\u0438 (\u0438\u0442\u0430\u043B. Dorino Serafini, 22 \u0438\u044E\u043B\u044F 1909 \u0433\u043E\u0434\u0430 \u2014 5 \u0438\u044E\u043B\u044F 2000 \u0433\u043E\u0434\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u043C\u043E\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043E\u0434\u043D\u043E\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438. \u0421\u0435\u0440\u0430\u0444\u0438\u043D\u0438 \u0431\u044B\u043B \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0435\u043D \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u042D\u043D\u0446\u043E \u0424\u0435\u0440\u0440\u0430\u0440\u0438 \u043D\u0430 \u0437\u0430\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u0433\u043E\u043D\u043A\u0443 \u0441\u0435\u0437\u043E\u043D\u0430 1950 \u0433\u043E\u0434\u0430 \u0432 \u0418\u0442\u0430\u043B\u0438\u0438. \u041E\u043D \u0441\u043C\u043E\u0433 \u0445\u043E\u0440\u043E\u0448\u043E \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u0442\u044C\u0441\u044F \u043D\u0430 6-\u043C \u043C\u0435\u0441\u0442\u0435, \u043D\u043E \u0432 \u0433\u043E\u043D\u043A\u0435 \u043F\u043E\u0441\u043B\u0435 47 \u043A\u0440\u0443\u0433\u043E\u0432 \u043E\u0442\u0434\u0430\u043B \u0441\u0432\u043E\u0439 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C \u0410\u043B\u044C\u0431\u0435\u0440\u0442\u043E \u0410\u0441\u043A\u0430\u0440\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043F\u0440\u0438\u0432\u0435\u043B \u0435\u0433\u043E \u043A \u0444\u0438\u043D\u0438\u0448\u0443 \u0432\u0442\u043E\u0440\u044B\u043C. \u0413\u043E\u043D\u0449\u0438\u043A\u0438 \u0440\u0430\u0437\u0434\u0435\u043B\u0438\u043B\u0438 \u043C\u0435\u0436\u0434\u0443 \u0441\u043E\u0431\u043E\u0439 \u043E\u0447\u043A\u0438 \u0437\u0430 \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E. \u0422\u0430\u043A\u0436\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u0432\u043D\u0435\u0437\u0430\u0447\u0435\u0442\u043D\u044B\u0445 \u0433\u0440\u0430\u043D-\u043F\u0440\u0438."@ru ,
+		"Teodoro \"Dorino\" Serafini (Pesaro, 22 juli 1909 - aldaar, 5 juli 2000) was een autocoureur uit Itali\u00EB. Hij nam deel aan zijn thuisrace in 1950 en scoorde hierin een podium en 3 punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Teodoro Serafini (Pesaro, 22 de julho de 1909 \u2014 Bolonha, 5 de julho de 2000) foi um automobilista italiano. Participou do Grande Pr\u00EAmio da It\u00E1lia de F\u00F3rmula 1 em 1950. Terminou a prova, dividindo o carro com Alberto Ascari, em segundo lugar.."@pt ,
+		"Dorino Serafini (ur. 22 lipca 1909 w Pesaro, zm. 3 lipca 2000 tam\u017Ce) \u2013 w\u0142oski motocyklista wy\u015Bcigowy oraz kierowca wy\u015Bcigowy. W roku 1939 zosta\u0142 mistrzem w Europejskich Mistrzostwa w Wy\u015Bcigach Motocyklowych w klasie 500cc, je\u017Cd\u017C\u0105c Giler\u0105. Wzi\u0105\u0142 udzia\u0142 w jednym Grand Prix Formu\u0142y 1 \u2013 Grand Prix W\u0142och w sezonie 1950. Zaj\u0105\u0142 wtedy na Ferrari wraz z Alberto Ascarim drugie miejsce, dzi\u0119ki czemu zdoby\u0142 3 punkty, co umo\u017Cliwi\u0142o mu zaj\u0119cie 13 pozycji w klasyfikacji generalnej na koniec sezonu. Bra\u0142 udzia\u0142 r\u00F3wnie\u017C w kilku wy\u015Bcigach niezaliczanych do punktacji mistrzostw."@pl ,
+		"Teodoro \"Dorino\" Serafini (July 22, 1909 \u2013 July 5, 2000) was a motorcycle road racer and racing driver from Italy. A native of Pesaro (Marche), he won the 1939 500cc European Championship on a Gilera. He participated in one Formula One World Championship Grand Prix on September 3, 1950, where he finished second and scored 3 championship points, his points being halved as he shared the drive with Alberto Ascari. Serafini still holds the record for highest percentage of podium places per race, 1 podium in 1 race gives him a 100% score. He also competed in several non-Championship Formula One races."@en ,
+		"Dorino Serafini Teodoro \"Dorino\" Serafini (n\u00E9 \u00E0 Pesaro le 22 juillet 1909 et mort le 5 juillet 2000 dans la m\u00EAme ville) \u00E9tait un coureur motocycliste et automobile italien."@fr ,
+		"Teodoro \u201EDorino\u201C Serafini (* 22. Juli 1909 in Pesaro; \u2020 5. Juli 2000 ebenda) war ein italienischer Automobil- und Motorradrennfahrer."@de ;
+	dbo:birthDate	"1909-7-22"^^xsd:date ;
+	dbo:deathDate	"2000-7-5"^^xsd:date ;
+	dbo:deathPlace	dbr:Pesaro ;
+	dbo:wikiPageRevisionID	726261769 ;
+	dbo:birthPlace	dbr:Pesaro ;
+	dbo:wikiPageID	1228309 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_Italian_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1950_Italian_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Dorino_Serafini	ns25:hypernym	dbr:Racer ;
+	dbp:title	500 .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__45__1>	dbo:firstDriver	dbr:Dorino_Serafini .
+wikipedia-en:Dorino_Serafini	foaf:primaryTopic	dbr:Dorino_Serafini .
+dbr:Enrico_Lorenzetti	dbp:before	dbr:Dorino_Serafini .
+dbr:Serafini	dbo:wikiPageDisambiguates	dbr:Dorino_Serafini .
+dbr:Georg_Meier	dbp:after	dbr:Dorino_Serafini .

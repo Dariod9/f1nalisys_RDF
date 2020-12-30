@@ -1,0 +1,137 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1984_Macau_Grand_Prix__Intersport_Racing__1>	dbo:firstDriver	dbr:Allen_Berg .
+<http://dbpedia.org/resource/1983_Macau_Grand_Prix__Eddie_Jordan_Racing__1>	dbo:firstDriver	dbr:Allen_Berg .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Allen_Berg	foaf:primaryTopic	dbr:Allen_Berg .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Allen_Berg	rdf:type	ns5:NaturalPerson ,
+		dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Allen_Berg	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Allen_Berg	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatRacingDriversFromBritishColumbia ,
+		ns5:Agent ,
+		wikidata:Q5 .
+@prefix schema:	<http://schema.org/> .
+dbr:Allen_Berg	rdf:type	schema:Person ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Allen_Berg	rdf:type	owl:Thing ,
+		yago:WikicatCanadianFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Allen_Berg	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:Driver110034906 ,
+		wikidata:Q378622 ,
+		dbo:FormulaOneRacer ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatOsellaFormulaOneDrivers ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Allen_Berg	rdfs:label	"Allen Berg"@nl ,
+		"Allen Berg"@es ,
+		"Allen Berg"@fr ,
+		"Allen Berg"@it ,
+		"\u0411\u0435\u0440\u0433, \u0410\u043B\u043B\u0435\u043D"@ru ,
+		"Allen Berg"@pt ,
+		"Allen Berg"@de ,
+		"Allen Berg"@pl ,
+		"Allen Berg"@en ;
+	rdfs:comment	"Allen Berg (1 de agosto de 1961 en Vancouver) es un ex piloto de F\u00F3rmula 1 canadiense que particip\u00F3 en 9 Grandes Premios con el equipo Osella, en los inicios de su carrera deportiva se lleg\u00F3 a codear codo a codo con Ayrton Senna."@es ,
+		"Allen Bernard Berg (born August 1, 1961 in Vancouver, British Columbia, Canada) is a former racing driver who raced for the Osella team in Formula One. He began in karting in 1978 and switched to cars when he was 20, into Formula Atlantic. In 1982 he won the prestigious Tasman Formula Pacific Series in Australia and New Zealand and entered the British Formula 3 series in 1983. However, his timing was bad since he had to compete against Ayrton Senna and Martin Brundle. He managed to win one race (one which Senna and Brundle opted out of to compete for European F3 points and outright race win) and ended up fifth in the series. The following year he was runner-up in the British F3 series to Johnny Dumfries with eight second places. In 1985 he returned to Canada to seek funding for Formula One"@en ,
+		"Allen Bernard Berg (ur. 1 sierpnia 1961 roku w Vancouver) \u2013 kanadyjski kierowca wy\u015Bcigowy."@pl ,
+		"Allen Berg (Vancouver, 1 augustus 1961) is een Canadees voormalig Formule 1-coureur. Hij racete in zijn carri\u00E8re negen races voor het team Osella. Berg begon met karten in 1978 en maakte in 1980 de switch naar de autosport, hij ging racen in de ChampCar Atlantic Championship. In 1983 maakte Berg de overstap naar het Britse Formule 3-kampioenschap, waar hij vijfde in het klassement werd achter onder andere Ayrton Senna en Martin Brundle. In 1984 werd Berg tweede in het eindklassement met acht tweede plaatsen. Berg is na zijn carri\u00E8re als autocoureur een raceschool begonnen in Calgary."@nl ,
+		"\u0410\u043B\u043B\u0435\u043D \u0411\u0435\u0440\u043D\u0430\u0440\u0434 \u0411\u0435\u0440\u0433 (\u0430\u043D\u0433\u043B. Allen Bernard Berg, 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1961 \u0433\u043E\u0434\u0430, \u0412\u0430\u043D\u043A\u0443\u0432\u0435\u0440, \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u041A\u043E\u043B\u0443\u043C\u0431\u0438\u044F) \u2014 \u043A\u0430\u043D\u0430\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Allen Berg Allen Berg (n\u00E9 le 1er ao\u00FBt 1961 \u00E0 Vancouver) est un pilote automobile canadien."@fr ,
+		"Allen Berg (* 1. August 1961 in Vancouver, British Columbia, Kanada) ist ein ehemaliger kanadischer Automobilrennfahrer. Berg fuhr eine Saison, 1986, in der Formel 1 im Osella-Team. In seinen neun Rennen erreichte er als bestes Ergebnis nur einen 12. Platz. Weitaus erfolgreicher war Berg in der britischen Formel-3-Meisterschaft. Hier wurde er 1984 Zweiter der Gesamtwertung. 1991 startete Berg in der DTM f\u00FCr ein Privatteam in einem BMW M3. Sein bestes Ergebnis war der achte Platz beim zweiten Lauf in Singen, wodurch er den 25. Gesamtrang in der Meisterschaft erreichte."@de ,
+		"Allen Berg (Vancouver, 1 de agosto de 1961) \u00E9 um ex-automobilista canadense."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Allen_Berg	dbp:birthDate	"1961-08-01"^^xsd:date .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Allen_Berg	owl:sameAs	dbpedia-de:Allen_Berg ,
+		<http://rdf.freebase.com/ns/m.04k78l> ,
+		wikidata:Q173452 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Allen_Berg	owl:sameAs	yago-res:Allen_Berg ,
+		dbr:Allen_Berg .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Allen_Berg	owl:sameAs	dbpedia-pt:Allen_Berg .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Allen_Berg	owl:sameAs	dbpedia-it:Allen_Berg .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Allen_Berg	owl:sameAs	dbpedia-es:Allen_Berg .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Allen_Berg	owl:sameAs	dbpedia-pl:Allen_Berg .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Allen_Berg	owl:sameAs	dbpedia-fr:Allen_Berg .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Allen_Berg	owl:sameAs	dbpedia-nl:Allen_Berg .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Allen_Berg	owl:sameAs	dbpedia-wikidata:Q173452 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Allen_Berg	dct:subject	dbc:Racing_drivers_from_British_Columbia ,
+		dbc:Sportspeople_from_British_Columbia ,
+		dbc:Living_people ,
+		dbc:Canadian_people_of_Swedish_descent ,
+		<http://dbpedia.org/resource/Category:1961_births> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Osella_Formula_One_drivers ,
+		dbc:Sportspeople_from_Vancouver ,
+		dbc:Canadian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ;
+	foaf:name	"Allen Berg"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Allen"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Allen_Berg ;
+	foaf:surname	"Berg"@en ;
+	dbp:points	0 ;
+	dbp:years	1993 ;
+	dbp:after	dbr:Fernando_Plata ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Osella .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Allen_Berg	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Allen_Berg?oldid=737665691> .
+@prefix ns26:	<http://richardsf1.com/category/exclusive-interviews/> .
+dbr:Allen_Berg	dbo:wikiPageExternalLink	ns26:allen-berg ,
+		<https://web.archive.org/web/20120512092336/http:/f1rejects.com/interviews/berg/index.html> ,
+		<https://web.archive.org/web/20130411213757/http:/www.f1rejects.com/drivers/berg/index.html> ,
+		<http://www.allenbergracingschools.com/> ;
+	dbp:nationality	"Canadian"^^xsd:string ;
+	dbp:birthPlace	"Vancouver, British Columbia, Canada"^^xsd:string ;
+	dbp:before	dbr:Carlos_Guerrero ;
+	dbo:abstract	"Allen Berg (1 de agosto de 1961 en Vancouver) es un ex piloto de F\u00F3rmula 1 canadiense que particip\u00F3 en 9 Grandes Premios con el equipo Osella, en los inicios de su carrera deportiva se lleg\u00F3 a codear codo a codo con Ayrton Senna."@es ,
+		"Allen Berg (Vancouver, 1 de agosto de 1961) \u00E9 um ex-automobilista canadense."@pt ,
+		"Allen Bernard Berg (born August 1, 1961 in Vancouver, British Columbia, Canada) is a former racing driver who raced for the Osella team in Formula One. He began in karting in 1978 and switched to cars when he was 20, into Formula Atlantic. In 1982 he won the prestigious Tasman Formula Pacific Series in Australia and New Zealand and entered the British Formula 3 series in 1983. However, his timing was bad since he had to compete against Ayrton Senna and Martin Brundle. He managed to win one race (one which Senna and Brundle opted out of to compete for European F3 points and outright race win) and ended up fifth in the series. The following year he was runner-up in the British F3 series to Johnny Dumfries with eight second places. In 1985 he returned to Canada to seek funding for Formula One. In 1986 he was offered the opportunity to race with the Osella F1 team. He took part in nine races posting commendable results in uncompetitive equipment. He had opportunities to continue in F1 in 1987 however with the cancellation of the Canadian Grand Prix that season was unable to secure a ride. Berg has remained involved in motor sport as a professional driver, team owner, series administrator, driving coach and instructor. He has competed in sportscar racing and the Trans-Am Series. He spent a season driving a privateer BMW M3 in the Deutsche Tourenwagen Meisterschaft in 1991, before enjoying success on the Mexican racing scene, winning the Mexican Formula 2 championship in 1993. He also won the Indy Lights Panamericana title in 2001 as a driver-owner, before retiring from driving. He currently operates Allen Berg Racing Schools primarily in Fontana, California, among other locations in southern California. Allen Berg Racing Schools provides a race driving experience in formula racing cars for people with little to no experience. The school also provides instructional programs for up-and-coming drivers to work their way into driving professionally. Multiple graduates of the school have gone on to drive race cars for a career."@en ,
+		"Allen Bernard Berg (ur. 1 sierpnia 1961 roku w Vancouver) \u2013 kanadyjski kierowca wy\u015Bcigowy."@pl ,
+		"\u0410\u043B\u043B\u0435\u043D \u0411\u0435\u0440\u043D\u0430\u0440\u0434 \u0411\u0435\u0440\u0433 (\u0430\u043D\u0433\u043B. Allen Bernard Berg, 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1961 \u0433\u043E\u0434\u0430, \u0412\u0430\u043D\u043A\u0443\u0432\u0435\u0440, \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u041A\u043E\u043B\u0443\u043C\u0431\u0438\u044F) \u2014 \u043A\u0430\u043D\u0430\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Allen Berg Allen Berg (n\u00E9 le 1er ao\u00FBt 1961 \u00E0 Vancouver) est un pilote automobile canadien."@fr ,
+		"Allen Berg (Vancouver, 1 augustus 1961) is een Canadees voormalig Formule 1-coureur. Hij racete in zijn carri\u00E8re negen races voor het team Osella. Berg begon met karten in 1978 en maakte in 1980 de switch naar de autosport, hij ging racen in de ChampCar Atlantic Championship. In 1983 maakte Berg de overstap naar het Britse Formule 3-kampioenschap, waar hij vijfde in het klassement werd achter onder andere Ayrton Senna en Martin Brundle. In 1984 werd Berg tweede in het eindklassement met acht tweede plaatsen. In 1985 vertrok Berg weer naar Canada om sponsors te zoeken om deel te kunnen nemen aan de Formule 1. In 1986 kreeg hij de kans om voor Osella te rijden, maar bij deze laagvlieger wist Berg niet een punt te behalen. Berg is na zijn carri\u00E8re als autocoureur een raceschool begonnen in Calgary."@nl ,
+		"Allen Berg (* 1. August 1961 in Vancouver, British Columbia, Kanada) ist ein ehemaliger kanadischer Automobilrennfahrer. Berg fuhr eine Saison, 1986, in der Formel 1 im Osella-Team. In seinen neun Rennen erreichte er als bestes Ergebnis nur einen 12. Platz. Weitaus erfolgreicher war Berg in der britischen Formel-3-Meisterschaft. Hier wurde er 1984 Zweiter der Gesamtwertung. 1991 startete Berg in der DTM f\u00FCr ein Privatteam in einem BMW M3. Sein bestes Ergebnis war der achte Platz beim zweiten Lauf in Singen, wodurch er den 25. Gesamtrang in der Meisterschaft erreichte. Nach Ende seines Formel-1-Engagements war Berg weiter im Motorsport aktiv. Sein gr\u00F6\u00DFter Erfolg war der Gewinn der mexikanischen Formel 3000 im Jahr 1993."@de ;
+	dbo:birthDate	"1961-8-1"^^xsd:date ;
+	dbo:wikiPageRevisionID	737665691 ;
+	dbo:birthPlace	dbr:Vancouver ;
+	dbo:wikiPageID	1228201 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1986_Detroit_Grand_Prix> ;
+	dbo:races	"9"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1986_Australian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Allen_Berg	ns27:hypernym	dbr:Driver ;
+	dbp:title	dbr:Formula_Two .
+dbr:Carlos_Guerrero	dbp:after	dbr:Allen_Berg .

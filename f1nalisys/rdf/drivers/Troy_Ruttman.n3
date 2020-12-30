@@ -1,0 +1,166 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Troy_Ruttman	foaf:primaryTopic	dbr:Troy_Ruttman .
+<http://dbpedia.org/resource/1951_Indianapolis_500>	<http://dbpedia.org/property/nextYear\u0027sRace>	dbr:Troy_Ruttman .
+<http://dbpedia.org/resource/1953_Indianapolis_500>	<http://dbpedia.org/property/previousYear\u0027sRace>	dbr:Troy_Ruttman .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Lee_Wallard	dbp:after	dbr:Troy_Ruttman .
+dbr:Bill_Vukovich	dbp:before	dbr:Troy_Ruttman .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbr:Troy_Ruttman	rdf:type	schema:Person .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Troy_Ruttman	rdf:type	dbo:Athlete .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Troy_Ruttman	rdf:type	wikidata:Q5 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Troy_Ruttman	rdf:type	ns8:NaturalPerson ,
+		dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Troy_Ruttman	rdf:type	yago:WikicatAAAChampionshipCarDrivers ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		dbo:MotorsportRacer ,
+		ns8:Agent ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatIndianapolis500Drivers ,
+		dbo:Person ,
+		yago:WikicatChampCarDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatNASCARDrivers ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Troy_Ruttman	rdf:type	owl:Thing ,
+		dbo:NascarDriver ,
+		wikidata:Q215627 ,
+		yago:WikicatRacingDriversFromOklahoma ,
+		foaf:Person ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Troy_Ruttman	rdfs:label	"Troy Ruttman"@en ,
+		"\u0420\u0430\u0442\u0442\u043C\u0435\u043D, \u0422\u0440\u043E\u0439"@ru ,
+		"Troy Ruttman"@it ,
+		"Troy Ruttman"@de ,
+		"Troy Ruttman"@pt ,
+		"Troy Ruttman"@nl ,
+		"Troy Ruttman"@pl ,
+		"Troy Ruttman"@fr ;
+	rdfs:comment	"Troy Ruttman (Mooreland (Oklahoma), 11 maart 1930 - Lake Havasu City (Arizona), 19 mei 1997) was een Amerikaans autocoureur. Hij won de Indianapolis 500 van 1952."@nl ,
+		"Troy Ruttman (* 11. M\u00E4rz 1930 in Mooreland, Oklahoma, USA; \u2020 19. Mai 1997 in Lake Havasu City, Arizona, USA) war ein US-amerikanischer Automobilrennfahrer."@de ,
+		"Troy Ruttman (n\u00E9 le 11 mars 1930 \u00E0 Mooreland, Oklahoma - mort le 19 mai 1997 \u00E0 Lake Havesu City, Arizona) \u00E9tait un pilote automobile am\u00E9ricain qui s'illustra aux 500 miles d'Indianapolis. Il avait un jeune fr\u00E8re, Joseph Ruttman (champion en NASCAR) et avait 3 enfants : deux gar\u00E7ons, Jim et Troy Jr. (d\u00E9c\u00E9d\u00E9 lors d'un test d'Indycar \u00E0 Pocono) et une fille Dee-El Dawe."@fr ,
+		"\u0422\u0440\u043E\u0439 \u0420\u0430\u0301\u0442\u0442\u043C\u0435\u043D (\u0430\u043D\u0433\u043B. Troy Ruttman, 11 \u043C\u0430\u0440\u0442\u0430 1930, \u041C\u0443\u0440\u043B\u0435\u043D\u0434, \u041E\u043A\u043B\u0430\u0445\u043E\u043C\u0430 \u2014 19 \u043C\u0430\u044F 1997, \u041B\u0435\u0439\u043A-\u0425\u0430\u0432\u0430\u0441\u0443-\u0421\u0438\u0442\u0438, \u0410\u0440\u0438\u0437\u043E\u043D\u0430) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 500 \u043C\u0438\u043B\u044C \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0430 1952 \u0433\u043E\u0434\u0430, \u043F\u0438\u043B\u043E\u0442 ChampCar."@ru ,
+		"Troy Ruttman (11 de mar\u00E7o de 1930 - 19 de maio de 1997) foi um piloto americano. Disputou corridas na F\u00F3rmula 1, na NASCAR e na Indy 500, vencendo a 500 Milhas de Indian\u00E1polis em 1952."@pt ,
+		"Troy Ruttman (ur. 11 marca 1930 w Mooreland (Oklahoma), zm. 19 maja 1997 w Lake Havasu City) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy, starszy brat kierowcy NASCAR, Joego. W 1952 Ruttman wygra\u0142 zawody Indianapolis 500, dzi\u0119ki czemu jest najm\u0142odszym zwyci\u0119zc\u0105 tego wy\u015Bcigu, a do 2003 roku by\u0142 tak\u017Ce najm\u0142odszym zwyci\u0119zc\u0105 eliminacji Formu\u0142y 1."@pl ,
+		"Troy Ruttman (born March 11, 1930 in Mooreland, Oklahoma \u2013 May 19, 1997) was an American race car driver. He was the older brother of NASCAR driver Joe Ruttman. Ruttman won the Indianapolis 500 in 1952, at the age of 22 years and 80 days. As of 2014, he is the youngest winner of the race."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Troy_Ruttman	dbp:birthDate	"1930-03-11"^^xsd:date .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Troy_Ruttman	owl:sameAs	dbpedia-wikidata:Q172165 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Troy_Ruttman	owl:sameAs	dbpedia-id:Troy_Ruttman .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Troy_Ruttman	owl:sameAs	dbpedia-it:Troy_Ruttman .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Troy_Ruttman	owl:sameAs	dbpedia-pl:Troy_Ruttman ,
+		dbr:Troy_Ruttman .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Troy_Ruttman	owl:sameAs	dbpedia-nl:Troy_Ruttman .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Troy_Ruttman	owl:sameAs	yago-res:Troy_Ruttman .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Troy_Ruttman	owl:sameAs	dbpedia-fr:Troy_Ruttman ,
+		<http://rdf.freebase.com/ns/m.04kynp> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Troy_Ruttman	owl:sameAs	dbpedia-pt:Troy_Ruttman .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Troy_Ruttman	owl:sameAs	dbpedia-de:Troy_Ruttman ,
+		wikidata:Q172165 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Troy_Ruttman	dct:subject	dbc:American_people_of_German_descent ,
+		<http://dbpedia.org/resource/Category:People_from_Woodward_County,_Oklahoma> ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1930_births> ,
+		dbc:West_Coast_Stock_Car_Hall_of_Fame_inductees ,
+		dbc:American_Formula_One_drivers ,
+		dbc:Indianapolis_500_winners ,
+		dbc:NASCAR_drivers ,
+		dbc:Deaths_from_lung_cancer ,
+		<http://dbpedia.org/resource/Category:1997_deaths> ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:National_Sprint_Car_Hall_of_Fame_inductees ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		dbc:Racing_drivers_from_Oklahoma ,
+		dbc:AAA_Championship_Car_drivers ;
+	foaf:name	"Troy Ruttman"@en ;
+	dct:description	"American racing driver"@en ;
+	foaf:givenName	"Troy"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Troy_Ruttman ;
+	foaf:surname	"Ruttman"@en ;
+	dbp:points	9.5 .
+@prefix ns24:	<http://dbpedia.org/datatype/> .
+dbr:Troy_Ruttman	dbp:years	"6.38064E8"^^ns24:second ,
+		"\u2013, , \u2013,"^^xsd:string ,
+		"7.011792E8"^^ns24:second ,
+		1952 ;
+	dbp:after	"Bruce McLaren"^^xsd:string ,
+		"Fernando Alonso"^^xsd:string ,
+		dbr:Bill_Vukovich ,
+		"Ricardo Rodr\u00EDguez'''"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/A._J._Watson> ,
+		dbr:Lesovsky ,
+		dbr:Kurtis_Kraft ,
+		dbr:Maserati_in_motorsport ,
+		<http://dbpedia.org/resource/Kuzma_(constructor)> ;
+	dbp:updated	"2006-12-29"^^xsd:date .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Troy_Ruttman	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Troy_Ruttman?oldid=741069824> ;
+	dbp:nationality	"American"^^xsd:string ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Mooreland,_Oklahoma> ,
+		dbr:Oklahoma ;
+	dbp:deathDate	"1997-05-19"^^xsd:date ;
+	dbp:awards	"inducted in the National Sprint Car Hall of Fame"^^xsd:string ,
+		"won the 1952 Indianapolis 500"^^xsd:string ,
+		"inducted in the West Coast Stock Car Hall of Fame"^^xsd:string ,
+		"inducted in the Motorsports Hall of Fame of America"^^xsd:string ,
+		"inducted in the National Midget Auto Racing Hall of Fame"^^xsd:string ;
+	dbp:before	"9.068544E8"^^ns24:second ,
+		"Bobby Ball"^^xsd:string ,
+		"Jos\u00E9 Froil\u00E1n Gonz\u00E1lez"^^xsd:string ,
+		dbr:Lee_Wallard ,
+		<http://dbpedia.org/resource/Jos\u00E9_Froil\u00E1n_Gonz\u00E1lez> ,
+		"Jos\u00E9 Froil\u00E1n Gonz\u00E1lez'''"^^xsd:string ;
+	dbp:name	"Troy Ruttman"^^xsd:string ;
+	dbo:abstract	"Troy Ruttman (11 de mar\u00E7o de 1930 - 19 de maio de 1997) foi um piloto americano. Disputou corridas na F\u00F3rmula 1, na NASCAR e na Indy 500, vencendo a 500 Milhas de Indian\u00E1polis em 1952."@pt ,
+		"Troy Ruttman (born March 11, 1930 in Mooreland, Oklahoma \u2013 May 19, 1997) was an American race car driver. He was the older brother of NASCAR driver Joe Ruttman. Ruttman won the Indianapolis 500 in 1952, at the age of 22 years and 80 days. As of 2014, he is the youngest winner of the race. From 1950\u20131960, the Indianapolis 500 also counted toward the World Drivers' Championship (now synonymous with Formula One), although most of the racers did not compete in the other races in the Championship. Ruttman was the first Indianapolis 500 winner to participate in a Formula One event beyond Indy and his 1952 Indy 500 win earned him the distinction of being the youngest driver to win a round of the World Championship, an honor he held until Fernando Alonso won the 2003 Hungarian Grand Prix."@en ,
+		"Troy Ruttman (* 11. M\u00E4rz 1930 in Mooreland, Oklahoma, USA; \u2020 19. Mai 1997 in Lake Havasu City, Arizona, USA) war ein US-amerikanischer Automobilrennfahrer."@de ,
+		"Troy Ruttman (ur. 11 marca 1930 w Mooreland (Oklahoma), zm. 19 maja 1997 w Lake Havasu City) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy, starszy brat kierowcy NASCAR, Joego. W 1952 Ruttman wygra\u0142 zawody Indianapolis 500, dzi\u0119ki czemu jest najm\u0142odszym zwyci\u0119zc\u0105 tego wy\u015Bcigu, a do 2003 roku by\u0142 tak\u017Ce najm\u0142odszym zwyci\u0119zc\u0105 eliminacji Formu\u0142y 1."@pl ,
+		"\u0422\u0440\u043E\u0439 \u0420\u0430\u0301\u0442\u0442\u043C\u0435\u043D (\u0430\u043D\u0433\u043B. Troy Ruttman, 11 \u043C\u0430\u0440\u0442\u0430 1930, \u041C\u0443\u0440\u043B\u0435\u043D\u0434, \u041E\u043A\u043B\u0430\u0445\u043E\u043C\u0430 \u2014 19 \u043C\u0430\u044F 1997, \u041B\u0435\u0439\u043A-\u0425\u0430\u0432\u0430\u0441\u0443-\u0421\u0438\u0442\u0438, \u0410\u0440\u0438\u0437\u043E\u043D\u0430) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 500 \u043C\u0438\u043B\u044C \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0430 1952 \u0433\u043E\u0434\u0430, \u043F\u0438\u043B\u043E\u0442 ChampCar."@ru ,
+		"Troy Ruttman (n\u00E9 le 11 mars 1930 \u00E0 Mooreland, Oklahoma - mort le 19 mai 1997 \u00E0 Lake Havesu City, Arizona) \u00E9tait un pilote automobile am\u00E9ricain qui s'illustra aux 500 miles d'Indianapolis. Il avait un jeune fr\u00E8re, Joseph Ruttman (champion en NASCAR) et avait 3 enfants : deux gar\u00E7ons, Jim et Troy Jr. (d\u00E9c\u00E9d\u00E9 lors d'un test d'Indycar \u00E0 Pocono) et une fille Dee-El Dawe."@fr ,
+		"Troy Ruttman (Mooreland (Oklahoma), 11 maart 1930 - Lake Havasu City (Arizona), 19 mei 1997) was een Amerikaans autocoureur. Hij won de Indianapolis 500 van 1952."@nl ;
+	dbo:birthDate	"1930-3-11"^^xsd:date ;
+	dbo:deathDate	"1997-5-19"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Lake_Havasu_City,_Arizona> ;
+	dbo:wikiPageRevisionID	741069824 ;
+	dbo:birthPlace	dbr:Oklahoma ;
+	dbo:wikiPageID	1235879 ;
+	dbp:bestCupPos	49 ;
+	dbp:firstCupRace	1962 ;
+	dbp:yearsInCup	3 ;
+	dbp:lastCupRace	1964 ;
+	dbp:totalCupRaces	7 .
+@prefix ns26:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Troy_Ruttman	dbp:wordnet_type	ns26:synset-racer-noun-1 ;
+	dbp:deathCause	"Lung cancer"^^xsd:string ;
+	dbp:cupTopTens	5 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Troy_Ruttman	ns27:hypernym	dbr:Driver ;
+	dbp:title	dbr:List_of_Indianapolis_500_winners ,
+		dbr:List_of_Formula_One_driver_records .
+<http://dbpedia.org/resource/1952_Indianapolis_500>	dbp:winner	dbr:Troy_Ruttman ;
+	dbp:nameOfRace	dbr:Troy_Ruttman .

@@ -1,0 +1,106 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Rob_Schroeder	foaf:primaryTopic	dbr:Rob_Schroeder .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Rob_Schroeder	rdf:type	yago:WikicatAmericanFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Rob_Schroeder	rdf:type	dbo:FormulaOneRacer ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Rob_Schroeder	rdf:type	owl:Thing .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Rob_Schroeder	rdf:type	wikidata:Q24229398 ,
+		dbo:Agent ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 .
+@prefix schema:	<http://schema.org/> .
+dbr:Rob_Schroeder	rdf:type	schema:Person ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		dbo:MotorsportRacer .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Rob_Schroeder	rdf:type	ns9:NaturalPerson ,
+		yago:WikicatRacingDriversFromWisconsin ,
+		dbo:Person ,
+		dbo:Athlete ,
+		ns9:Agent ,
+		wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Rob_Schroeder	rdfs:label	"Rob Schroeder"@pl ,
+		"Rob Schroeder"@pt ,
+		"Rob Schroeder"@en ,
+		"Rob Schroeder"@nl ,
+		"Rob Schroeder"@de ;
+	rdfs:comment	"Robert Schroeder (El Dorado, Arkansas, Estados Unidos, 11 de maio de 1926 - 3 de dezembro de 2011) foi um automobilista norte-maericano que participou do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1962."@pt ,
+		"Robert Schroeder (May 11, 1926 \u2212 December 3, 2011) was a racing driver from the United States, born in Medina, Wisconsin. He participated in one Formula One World Championship Grand Prix, the 1962 United States Grand Prix, on October 7, 1962. He finished tenth, seven laps behind the winner, and scored no championship points."@en ,
+		"Rob Schroeder (ur. 11 maja 1926 roku w El Dorado w stanie Arkansas, zm. 3 grudnia 2011 w Dallas w stanie Teksas) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Robert Schroeder (Medina, Wisconsin, 11 mei 1926 - Dallas, Texas, 3 december 2011) was een Amerikaans autocoureur. Hij nam deel aan zijn thuisrace in 1962 voor het team Lotus, maar finishte 7 ronden achter de winnaar en scoorde geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Robert \"Rob\" Schroeder (* 11. Mai 1926 in El Dorado, Arkansas; \u2020 3. Dezember 2011 in Dallas, Texas) war ein US-amerikanischer Autorennfahrer."@de .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Rob_Schroeder	dbp:points	0 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Rob_Schroeder	owl:sameAs	dbpedia-pt:Rob_Schroeder .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Rob_Schroeder	owl:sameAs	dbpedia-wikidata:Q173681 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Rob_Schroeder	owl:sameAs	dbpedia-pl:Rob_Schroeder .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Rob_Schroeder	owl:sameAs	dbpedia-nl:Rob_Schroeder ,
+		wikidata:Q173681 ,
+		<http://rdf.freebase.com/ns/m.04kx8b> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Rob_Schroeder	owl:sameAs	dbpedia-de:Rob_Schroeder .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Rob_Schroeder	owl:sameAs	yago-res:Rob_Schroeder ,
+		dbr:Rob_Schroeder .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Rob_Schroeder	dct:subject	<http://dbpedia.org/resource/Category:People_from_Dane_County,_Wisconsin> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Rob_Schroeder	dct:subject	dbc:Mecom_Racing_Team_Formula_One_drivers ,
+		dbc:American_Formula_One_drivers ,
+		dbc:Racing_drivers_from_Wisconsin ,
+		<http://dbpedia.org/resource/Category:1926_births> ,
+		<http://dbpedia.org/resource/Category:2011_deaths> ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ;
+	foaf:name	"Rob Schroeder"@en ;
+	dct:description	"American racing driver"@en ;
+	foaf:givenName	"Rob"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Rob_Schroeder ;
+	foaf:surname	"Schroeder"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Rob_Schroeder	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Rob_Schroeder?oldid=714438438> ;
+	dbp:birthPlace	"Medina, Wisconsin, USA"^^xsd:string ;
+	dbp:deathPlace	"Dallas, Texas, USA"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Rob_Schroeder	dbp:birthDate	"1926-05-11"^^xsd:date ;
+	dbp:deathDate	"2011-12-03"^^xsd:date ;
+	dbo:abstract	"Robert Schroeder (May 11, 1926 \u2212 December 3, 2011) was a racing driver from the United States, born in Medina, Wisconsin. He participated in one Formula One World Championship Grand Prix, the 1962 United States Grand Prix, on October 7, 1962. He finished tenth, seven laps behind the winner, and scored no championship points."@en ,
+		"Rob Schroeder (ur. 11 maja 1926 roku w El Dorado w stanie Arkansas, zm. 3 grudnia 2011 w Dallas w stanie Teksas) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Robert Schroeder (Medina, Wisconsin, 11 mei 1926 - Dallas, Texas, 3 december 2011) was een Amerikaans autocoureur. Hij nam deel aan zijn thuisrace in 1962 voor het team Lotus, maar finishte 7 ronden achter de winnaar en scoorde geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Robert Schroeder (El Dorado, Arkansas, Estados Unidos, 11 de maio de 1926 - 3 de dezembro de 2011) foi um automobilista norte-maericano que participou do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1962."@pt ,
+		"Robert \"Rob\" Schroeder (* 11. Mai 1926 in El Dorado, Arkansas; \u2020 3. Dezember 2011 in Dallas, Texas) war ein US-amerikanischer Autorennfahrer."@de ;
+	dbo:birthDate	"1926-5-11"^^xsd:date ;
+	dbo:deathDate	"2011-12-3"^^xsd:date ;
+	dbo:deathPlace	dbr:Dallas ;
+	dbo:wikiPageRevisionID	714438438 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/El_Dorado,_Arkansas> ;
+	dbo:wikiPageID	1235587 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:Rob_Schroeder	ns22:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1962_United_States_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1962_United_States_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Lotus"^^xsd:string ;
+	dbp:nationality	"American"^^xsd:string .
+dbr:Schroeder	dbo:wikiPageDisambiguates	dbr:Rob_Schroeder .

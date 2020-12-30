@@ -1,0 +1,169 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Magnussen	dbo:wikiPageDisambiguates	dbr:Kevin_Magnussen .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Kevin_Magnussen	foaf:primaryTopic	dbr:Kevin_Magnussen .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:DAMS	dbp:driverTitles	dbr:Kevin_Magnussen .
+dbr:FIA_Formula_3_International_Trophy__Carlin__6	dbo:firstDriver	dbr:Kevin_Magnussen .
+dbr:Jyllands-Ringen	dbp:recordDriver	dbr:Kevin_Magnussen .
+<http://dbpedia.org/resource/2014_Australian_Grand_Prix>	dbo:secondDriver	dbr:Kevin_Magnussen .
+dbr:Tooned	dbo:starring	dbr:Kevin_Magnussen .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Kevin_Magnussen	rdf:type	dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Kevin_Magnussen	rdf:type	yago:WikicatGermanFormulaThreeChampionshipDrivers ,
+		yago:WikicatFormulaRenaultDrivers ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault3.5SeriesDrivers> ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Kevin_Magnussen	rdf:type	schema:Person ,
+		<http://dbpedia.org/class/yago/WikicatEurocupFormulaRenault2.0Drivers> ,
+		yago:Driver110034906 ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault2.0NECDrivers> ,
+		dbo:FormulaOneRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Kevin_Magnussen	rdf:type	wikidata:Q5 ,
+		wikidata:Q378622 ,
+		dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Kevin_Magnussen	rdf:type	owl:Thing ,
+		yago:WikicatMcLarenFormulaOneDrivers .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Kevin_Magnussen	rdf:type	ns10:Agent ,
+		yago:WikicatADACFormelMastersDrivers ,
+		ns10:NaturalPerson ,
+		dbo:MotorsportRacer ,
+		<http://dbpedia.org/class/yago/WikicatPortugueseFormulaRenault2.0Drivers> ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatDanishFormulaOneDrivers ,
+		dbo:RacingDriver ,
+		yago:WikicatFormula3EuroSeriesDrivers ,
+		dbo:Person ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:WikicatFormulaFordDrivers ,
+		yago:Operator110378412 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Kevin_Magnussen	rdfs:label	"Kevin Magnussen"@it ,
+		"Kevin Magnussen"@de ,
+		"Kevin Magnussen"@nl ,
+		"\u51F1\u6587\u00B7\u99AC\u683C\u52AA\u68EE"@zh ,
+		"Kevin Magnussen"@en ,
+		"Kevin Magnussen"@es ,
+		"Kevin Magnussen"@pt ,
+		"Kevin Magnussen"@fr ,
+		"Kevin Magnussen"@pl ,
+		"\u30B1\u30D3\u30F3\u30FB\u30DE\u30B0\u30CC\u30C3\u30BB\u30F3"@ja ,
+		"\u041C\u0430\u0433\u043D\u0443\u0441\u0441\u0435\u043D, \u041A\u0435\u0432\u0438\u043D"@ru ;
+	rdfs:comment	"Kevin Magnussen (ur. 5 pa\u017Adziernika 1992 w Roskilde) \u2013 du\u0144ski kierowca wy\u015Bcigowy. Syn by\u0142ego kierowcy Formu\u0142y 1 Jana Magnussena. By\u0142y cz\u0142onek programu m\u0142odych kierowc\u00F3w McLarena. By\u0142 kierowc\u0105 zespo\u0142u Formu\u0142y 1 McLaren w sezonie 2014. Od sezonu 2016 kierowca Renault."@pl ,
+		"Kevin Magnussen (Roskilde, 5 de outubro de 1992) \u00E9 um automobilista dinamarqu\u00EAs. \u00C9 filho do tamb\u00E9m piloto Jan Magnussen, e atualmente \u00E9 piloto da equipe Renault."@pt ,
+		"Kevin Magnussen (Roskilde, 5 oktober 1992) is een Deens autocoureur. Hij is de zoon van voormalig Formule 1-coureur Jan Magnussen."@nl ,
+		"Kevin Magnussen (* 5. Oktober 1992 in Roskilde) ist ein d\u00E4nischer Automobilrennfahrer. 2012 und 2013 startete er in der Formel Renault 3.5. Diese gewann er 2013. Seit 2014 f\u00E4hrt er in der Formel 1, in der er 2016 f\u00FCr Renault an den Start geht. Sein Vater ist der ehemalige Formel-1-Pilot Jan Magnussen."@de ,
+		"\u30B1\u30D3\u30F3\u30FB\u30E4\u30F3\u30FB\u30DE\u30B0\u30CC\u30C3\u30BB\u30F3\uFF08Kevin Jan Magnussen, 1992\u5E7410\u67085\u65E5 - \uFF09\u306F\u3001\u30C7\u30F3\u30DE\u30FC\u30AF\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u7236\u89AA\u306F\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30E4\u30F3\u30FB\u30DE\u30B0\u30CC\u30C3\u30BB\u30F3\u3002"@ja ,
+		"Kevin Jan Magnussen, n\u00E9 le 5 octobre 1992 \u00E0 Roskilde (Danemark), est un pilote automobile danois, fils du pilote Jan Magnussen. Il fait ses d\u00E9buts en Formule 1 en 2014 au sein de l'\u00E9curie McLaren-Mercedes, avant de courir pour Renault F1 Team en 2016."@fr ,
+		"Figlio dell'ex pilota di Formula 1 Jan Magnussen, \u00E8 attivo in Formula 1 dal 2014 con McLaren e Renault."@it ,
+		"\u51F1\u6587\u00B7\u99AC\u683C\u52AA\u68EE\uFF08\u4E39\u9EA5\u8A9E\uFF1AKevin Magnussen\uFF0C1992\u5E7410\u67085\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u4E39\u9EA5\u7684\u8CFD\u8ECA\u624B\u3002\u4ED6\u76EE\u524D\u662F\u96F7\u8BFA\u8F66\u961F\u7684\u6B63\u5F0F\u8F66\u624B\uFF0C\u6B64\u524D\u4ED6\u66FE\u662F\u8FC8\u51EF\u4F26\u8F66\u961F\u9752\u5E74\u8F66\u624B\u9879\u76EE\u7684\u6210\u5458\uFF0C\u5E76\u4E8E2014\u8D5B\u5B63\u6210\u4E3A\u8BE5\u8F66\u961F\u7684\u6B63\u5F0F\u8F66\u624B\u3002\u4ED6\u7684\u7236\u4EB2\u662F\u5229\u66FC24\u5C0F\u6642\u8010\u529B\u8CFD\u8ECA\u624B\u8207\u524D\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8F66\u624B\u7B80\u00B7\u9A6C\u683C\u52AA\u68EE\u3002"@zh ,
+		"Kevin Magnussen (Roskilde, Dinamarca, 5 de octubre, de 1992) es un piloto dan\u00E9s de automovilismo de velocidad. Es hijo del piloto retirado de F\u00F3rmula 1 Jan Magnussen. En 2013 gan\u00F3 el campeonato de Formula Renault 3.5 Series y fue miembro del Programa de J\u00F3venes Pilotos de McLaren. Debut\u00F3 en la F\u00F3rmula 1 en 2014 con el equipo McLaren con un segundo puesto en su primera carrera. En temporada 2016, vuelve a correr con Renault, en sustituci\u00F3n de Pastor Maldonado."@es ,
+		"\u041A\u0435\u0301\u0432\u0438\u043D \u041C\u0430\u0301\u0433\u043D\u0443\u0441\u0441\u0435\u043D (\u0434\u0430\u0442. Kevin Magnussen; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 5 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1992 \u0433\u043E\u0434\u0430 \u0432 \u0420\u043E\u0441\u043A\u0438\u043B\u043B\u0435, \u0414\u0430\u043D\u0438\u044F) \u2014 \u043F\u043E\u0442\u043E\u043C\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0434\u0430\u0442\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-\u0420\u0435\u043D\u043E 3.5 (2013). \u041F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 2014 \u0438 2016 \u0433\u043E\u0434\u043E\u0432."@ru ,
+		"Kevin Jan Magnussen (born 5 October 1992) is a Danish racing driver, currently driving for the Renault Sport F1 Team. The son of four-time Le Mans GT class winner, GM factory driver and former Formula One driver Jan Magnussen, Magnussen came up through McLaren Formula One team's Young Driver Programme and drove for McLaren in the 2014 Formula One World Championship."@en ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.09k7nc8> .
+@prefix ns12:	<http://www.bbc.co.uk/things/187ba184-34cd-43dc-bc4a-b4abcf1eb254#> .
+dbr:Kevin_Magnussen	owl:sameAs	ns12:id .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-pt:Kevin_Magnussen .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-pl:Kevin_Magnussen ,
+		wikidata:Q1740212 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-nl:Kevin_Magnussen ,
+		<http://ja.dbpedia.org/resource/\u30B1\u30D3\u30F3\u30FB\u30DE\u30B0\u30CC\u30C3\u30BB\u30F3> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-de:Kevin_Magnussen .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-fr:Kevin_Magnussen ,
+		dbr:Kevin_Magnussen .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-wikidata:Q1740212 ,
+		<http://el.dbpedia.org/resource/\u039A\u03AD\u03B2\u03B9\u03BD_\u039C\u03AC\u03B3\u03BA\u03BD\u03BF\u03C5\u03C3\u03B5\u03BD> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-it:Kevin_Magnussen .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-es:Kevin_Magnussen .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-cs:Kevin_Magnussen .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	dbpedia-id:Kevin_Magnussen .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Kevin_Magnussen	owl:sameAs	yago-res:Kevin_Magnussen .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Kevin_Magnussen	dct:subject	dbc:Formula_Ford_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_3.5_V8_drivers> ,
+		dbc:ADAC_Formel_Masters_drivers ,
+		dbc:Danish_Formula_One_drivers ,
+		dbc:Formula_3_Euro_Series_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_Renault_2.0_NEC_drivers> ,
+		<http://dbpedia.org/resource/Category:1992_births> ,
+		dbc:McLaren_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Portuguese_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		dbc:Renault_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:German_Formula_Three_Championship_drivers ,
+		dbc:People_from_Roskilde ,
+		dbc:Danish_racing_drivers ;
+	foaf:name	"Kevin Magnussen"@en ;
+	foaf:homepage	<http://www.kevinmagnussen.com/home/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Kevin_Magnussen_Austria_2016_(cropped).jpg> ;
+	dct:description	"Danish racing driver"@en ;
+	foaf:givenName	"Kevin"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Kevin_Magnussen ;
+	foaf:surname	"Magnussen"@en ;
+	dbp:title	"Champion"^^xsd:string ,
+		<http://dbpedia.org/resource/Formula_3.5_V8> ;
+	dbp:years	2013 ;
+	dbo:nationality	dbr:Denmark ;
+	dbp:imagesize	200 ;
+	<http://dbpedia.org/property/2016Team>	dbr:Renault_in_Formula_One .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Kevin_Magnussen	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Kevin_Magnussen?oldid=743733196> ;
+	dbp:before	dbr:Robin_Frijns ;
+	dbp:after	<http://dbpedia.org/resource/Carlos_Sainz_Jr.> ;
+	dbp:birthPlace	"Roskilde, Denmark"^^xsd:string ;
+	dbp:relatedTo	dbr:Jan_Magnussen .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Kevin_Magnussen	dbp:birthDate	"1992-10-05"^^xsd:date ;
+	dbo:wikiPageExternalLink	<https://www.driverdb.com/drivers/kevin-magnussen/> ,
+		<http://www.kevinmagnussen.com/home/> ;
+	dbp:caption	"Magnussen in 2016"^^xsd:string ;
+	dbo:abstract	"Kevin Magnussen (Roskilde, Dinamarca, 5 de octubre, de 1992) es un piloto dan\u00E9s de automovilismo de velocidad. Es hijo del piloto retirado de F\u00F3rmula 1 Jan Magnussen. En 2013 gan\u00F3 el campeonato de Formula Renault 3.5 Series y fue miembro del Programa de J\u00F3venes Pilotos de McLaren. Debut\u00F3 en la F\u00F3rmula 1 en 2014 con el equipo McLaren con un segundo puesto en su primera carrera. En temporada 2016, vuelve a correr con Renault, en sustituci\u00F3n de Pastor Maldonado."@es ,
+		"Kevin Jan Magnussen, n\u00E9 le 5 octobre 1992 \u00E0 Roskilde (Danemark), est un pilote automobile danois, fils du pilote Jan Magnussen. Il fait ses d\u00E9buts en Formule 1 en 2014 au sein de l'\u00E9curie McLaren-Mercedes, avant de courir pour Renault F1 Team en 2016."@fr ,
+		"Kevin Magnussen (ur. 5 pa\u017Adziernika 1992 w Roskilde) \u2013 du\u0144ski kierowca wy\u015Bcigowy. Syn by\u0142ego kierowcy Formu\u0142y 1 Jana Magnussena. By\u0142y cz\u0142onek programu m\u0142odych kierowc\u00F3w McLarena. By\u0142 kierowc\u0105 zespo\u0142u Formu\u0142y 1 McLaren w sezonie 2014. Od sezonu 2016 kierowca Renault."@pl ,
+		"\u30B1\u30D3\u30F3\u30FB\u30E4\u30F3\u30FB\u30DE\u30B0\u30CC\u30C3\u30BB\u30F3\uFF08Kevin Jan Magnussen, 1992\u5E7410\u67085\u65E5 - \uFF09\u306F\u3001\u30C7\u30F3\u30DE\u30FC\u30AF\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u7236\u89AA\u306F\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30E4\u30F3\u30FB\u30DE\u30B0\u30CC\u30C3\u30BB\u30F3\u3002"@ja ,
+		"Kevin Magnussen (* 5. Oktober 1992 in Roskilde) ist ein d\u00E4nischer Automobilrennfahrer. 2012 und 2013 startete er in der Formel Renault 3.5. Diese gewann er 2013. Seit 2014 f\u00E4hrt er in der Formel 1, in der er 2016 f\u00FCr Renault an den Start geht. Sein Vater ist der ehemalige Formel-1-Pilot Jan Magnussen."@de ,
+		"\u51F1\u6587\u00B7\u99AC\u683C\u52AA\u68EE\uFF08\u4E39\u9EA5\u8A9E\uFF1AKevin Magnussen\uFF0C1992\u5E7410\u67085\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u4E39\u9EA5\u7684\u8CFD\u8ECA\u624B\u3002\u4ED6\u76EE\u524D\u662F\u96F7\u8BFA\u8F66\u961F\u7684\u6B63\u5F0F\u8F66\u624B\uFF0C\u6B64\u524D\u4ED6\u66FE\u662F\u8FC8\u51EF\u4F26\u8F66\u961F\u9752\u5E74\u8F66\u624B\u9879\u76EE\u7684\u6210\u5458\uFF0C\u5E76\u4E8E2014\u8D5B\u5B63\u6210\u4E3A\u8BE5\u8F66\u961F\u7684\u6B63\u5F0F\u8F66\u624B\u3002\u4ED6\u7684\u7236\u4EB2\u662F\u5229\u66FC24\u5C0F\u6642\u8010\u529B\u8CFD\u8ECA\u624B\u8207\u524D\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8F66\u624B\u7B80\u00B7\u9A6C\u683C\u52AA\u68EE\u3002"@zh ,
+		"Figlio dell'ex pilota di Formula 1 Jan Magnussen, \u00E8 attivo in Formula 1 dal 2014 con McLaren e Renault."@it ,
+		"Kevin Magnussen (Roskilde, 5 oktober 1992) is een Deens autocoureur. Hij is de zoon van voormalig Formule 1-coureur Jan Magnussen."@nl ,
+		"\u041A\u0435\u0301\u0432\u0438\u043D \u041C\u0430\u0301\u0433\u043D\u0443\u0441\u0441\u0435\u043D (\u0434\u0430\u0442. Kevin Magnussen; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 5 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1992 \u0433\u043E\u0434\u0430 \u0432 \u0420\u043E\u0441\u043A\u0438\u043B\u043B\u0435, \u0414\u0430\u043D\u0438\u044F) \u2014 \u043F\u043E\u0442\u043E\u043C\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0434\u0430\u0442\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-\u0420\u0435\u043D\u043E 3.5 (2013). \u041F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 2014 \u0438 2016 \u0433\u043E\u0434\u043E\u0432."@ru ,
+		"Kevin Jan Magnussen (born 5 October 1992) is a Danish racing driver, currently driving for the Renault Sport F1 Team. The son of four-time Le Mans GT class winner, GM factory driver and former Formula One driver Jan Magnussen, Magnussen came up through McLaren Formula One team's Young Driver Programme and drove for McLaren in the 2014 Formula One World Championship."@en ,
+		"Kevin Magnussen (Roskilde, 5 de outubro de 1992) \u00E9 um automobilista dinamarqu\u00EAs. \u00C9 filho do tamb\u00E9m piloto Jan Magnussen, e atualmente \u00E9 piloto da equipe Renault."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Kevin_Magnussen_Austria_2016_(cropped).jpg?width=300> ;
+	dbo:birthDate	"1992-10-5"^^xsd:date ;
+	dbo:wikiPageRevisionID	743733196 ;
+	dbo:birthPlace	dbr:Roskilde ;
+	dbo:wikiPageID	25418449 ;
+	dbp:currentSeries	dbr:Formula_One ;
+	dbp:carNumber	20 ;
+	dbp:firstYear	2014 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Kevin_Magnussen	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/2014_Australian_Grand_Prix> .
+<http://dbpedia.org/resource/Carlos_Sainz_Jr.>	dbp:before	dbr:Kevin_Magnussen .
+dbr:Robin_Frijns	dbp:after	dbr:Kevin_Magnussen .

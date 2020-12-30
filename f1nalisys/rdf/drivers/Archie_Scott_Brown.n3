@@ -1,0 +1,134 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Scott_Brown	dbo:wikiPageDisambiguates	dbr:Archie_Scott_Brown .
+<http://dbpedia.org/resource/1958_Lady_Wigram_Trophy>	dbo:fastestDriver	dbr:Archie_Scott_Brown ;
+	dbo:firstDriver	dbr:Archie_Scott_Brown ;
+	dbo:poleDriver	dbr:Archie_Scott_Brown .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Archie_Scott_Brown	foaf:primaryTopic	dbr:Archie_Scott_Brown .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Archie_Scott_Brown	rdf:type	foaf:Person .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Archie_Scott_Brown	rdf:type	ns5:Agent ,
+		dbo:MotorsportRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Archie_Scott_Brown	rdf:type	wikidata:Q378622 ,
+		ns5:NaturalPerson ,
+		dbo:RacingDriver .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Archie_Scott_Brown	rdf:type	yago:CausalAgent100007347 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Archie_Scott_Brown	rdf:type	umbel-rc:RaceCarDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Archie_Scott_Brown	rdf:type	owl:Thing ,
+		dbo:Person ,
+		wikidata:Q5 ,
+		dbo:Agent ,
+		yago:Operator110378412 ,
+		yago:WikicatScottishFormulaOneDrivers ,
+		yago:WikicatConnaughtFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:Driver110034906 ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Archie_Scott_Brown	rdf:type	schema:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Archie_Scott_Brown	rdfs:label	"Archie Scott-Brown"@de ,
+		"Archie Scott Brown"@it ,
+		"Archie Scott Brown"@fr ,
+		"Archie Scott-Brown"@nl ,
+		"Archie Scott-Brown"@pt ,
+		"Archie Scott Brown"@en ,
+		"\u30A2\u30FC\u30C1\u30FC\u30FB\u30B9\u30B3\u30C3\u30C8\uFF1D\u30D6\u30E9\u30A6\u30F3"@ja ,
+		"Archie Scott-Brown"@pl ;
+	rdfs:comment	"\u30A2\u30FC\u30C1\u30FC\u30FB\u30B9\u30B3\u30C3\u30C8\uFF1D\u30D6\u30E9\u30A6\u30F3\uFF08William Archibald Scott-Brown\u30011927\u5E745\u670813\u65E5 - 1958\u5E745\u670819\u65E5\uFF09\u306F\u30A4\u30AE\u30EA\u30B9\uFF08\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\uFF09\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"William Archibald Scott-Brown (Paisley, Esc\u00F3cia, 13 de maio de 1927 \u2013 Heusy, B\u00E9lgica, 19 de maio de 1958) foi um automobilista escoc\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1956."@pt ,
+		"William Archibald Scott Brown dit \u00AB Archie \u00BB (13 mai 1927, Paisley \u2013 19 mai 1958, Heusy), est un pilote automobile britannique originaire d'\u00C9cosse. Il a particip\u00E9 \u00E0 un Grand Prix de Formule 1 en 1956."@fr ,
+		"William Archibald \u201EArchie\u201D Scott-Brown (ur. 13 marca 1927 w Paisley, zm. 19 marca 1958 roku w Heusy) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"William Archibald \u201EArchie\u201C Scott-Brown (* 13. Mai 1927 Paisley; \u2020 19. Mai 1958 in Heusy (heute zu Verviers), Belgien) war ein britischer Autorennfahrer."@de ,
+		"William Archibald Scott Brown, beter bekend als Archie, (Paisley, Renfrewshire, 13 mei 1927 \u2013 Heusy, Belgi\u00EB, 19 mei 1958) was een Schots autocoureur. Hij nam deel aan zijn thuisrace in 1956 voor het team Connaught Engineering, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1. Hij overleed een dag na een zware crash op het circuit van Spa-Francorchamps."@nl ,
+		"William Archibald Scott Brown, known as Archie, (13 May 1927 \u2013 19 May 1958) was a British Formula One and sports car racing driver from Scotland. He participated in one Formula One World Championship Grand Prix on 14 July 1956 scoring no championship points. He also attempted to qualify for the Italian Grand Prix in the same year, but was excluded due to his lack of the required International Licence, his disability precluding the granting of such a licence at the time. Away from F1, in his short career Scott Brown scored 71 wins, 15 of which came in international competition."@en ,
+		"In Formula 1 partecip\u00F2 al solo Gran Premio di Gran Bretagna 1956 su una Connaught, non terminando la gara. Mor\u00EC dopo un incidente subito sul Circuito di Spa-Francorchamps durante una gara di vetture sport."@it .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Archie_Scott_Brown	dbp:points	0 ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30A2\u30FC\u30C1\u30FC\u30FB\u30B9\u30B3\u30C3\u30C8\uFF1D\u30D6\u30E9\u30A6\u30F3> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Archie_Scott_Brown	owl:sameAs	dbpedia-wikidata:Q555776 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Archie_Scott_Brown	owl:sameAs	yago-res:Archie_Scott_Brown ,
+		wikidata:Q555776 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Archie_Scott_Brown	owl:sameAs	dbpedia-de:Archie_Scott-Brown .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Archie_Scott_Brown	owl:sameAs	dbpedia-fr:Archie_Scott_Brown .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Archie_Scott_Brown	owl:sameAs	dbpedia-it:Archie_Scott_Brown ,
+		<http://rdf.freebase.com/ns/m.04l1nt> ,
+		<http://viaf.org/viaf/143332935> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Archie_Scott_Brown	owl:sameAs	dbpedia-pt:Archie_Scott-Brown ,
+		dbr:Archie_Scott_Brown .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Archie_Scott_Brown	owl:sameAs	dbpedia-nl:Archie_Scott-Brown .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Archie_Scott_Brown	owl:sameAs	dbpedia-pl:Archie_Scott-Brown .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Archie_Scott_Brown	dct:subject	dbc:Scottish_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1958_deaths> ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Paisley,_Renfrewshire> ,
+		dbc:Sport_deaths_in_Belgium ,
+		dbc:Scottish_Formula_One_drivers ,
+		dbc:Connaught_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1927_births> ,
+		dbc:Racing_drivers_killed_while_racing ;
+	foaf:name	"Archie Scott Brown"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Archie"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Archie_Scott_Brown ;
+	foaf:surname	"Brown"@en ;
+	dbo:nationality	dbr:United_Kingdom .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Archie_Scott_Brown	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Archie_Scott_Brown?oldid=744758931> ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Paisley,_Renfrewshire> ;
+	dbp:deathPlace	dbr:Belgium ,
+		dbr:Heusy .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Archie_Scott_Brown	dbp:birthDate	"1927-05-13"^^xsd:date ;
+	dbp:deathDate	"1958-05-19"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.justmobility.co.uk/bmsad/admin/gallery/ViewNews.asp?NewsId=2187> ,
+		<https://web.archive.org/web/20070926232657/http:/www.autocoursegpa.com/driver~driver_id~12049.htm> ;
+	dbo:abstract	"William Archibald Scott Brown, known as Archie, (13 May 1927 \u2013 19 May 1958) was a British Formula One and sports car racing driver from Scotland. He participated in one Formula One World Championship Grand Prix on 14 July 1956 scoring no championship points. He also attempted to qualify for the Italian Grand Prix in the same year, but was excluded due to his lack of the required International Licence, his disability precluding the granting of such a licence at the time. Away from F1, in his short career Scott Brown scored 71 wins, 15 of which came in international competition. Archie Scott Brown (although often shown as Scott-Brown, the name is not hyphenated) was born in 1927. As a result of German Measles during his mother's pregnancy, Archie was born with severe disablement to his legs and right arm. Tremendous determination and several operations meant that Archie was able to lead a normal life, although he never grew over 5'0\" tall. He took up motor sport early in life after his father built him a small car to aid his mobility. His first competitive race was in 1951, in his own MG roadster, bought using a small legacy. As his reputation grew, his name became closely linked with that of Brian Lister, initially driving Lister's Tojeiro special, and later in sports racing cars built by Lister himself, and bearing his name. Archie enjoyed much success driving Lister-Jaguars \u2013 the famous Knobblys. Known for his courageous driving style, he was often to be seen in corners getting his Lister very sideways indeed. Asked about the possibility of the Lister's notoriously poor brakes failing completely, he responded that he would \"carry on without them, old boy\". Over the few years he was in the sport he developed a fierce but good-natured rivalry with rising American driving talent Masten Gregory. He was mortally injured on 18 May 1958 during an accident in a sports car race at Spa-Francorchamps, driving a Lister Knobbly and duelling for the lead with Gregory. Battling hard with Mastern Gregory driving the Ecurie Ecosse Lister Jaguar, they swapped the lead between them inches apart.The competition was so fierce that Archie dented his car's nose on the rear of the Ecosse car on lap three.With Archie leading on lap six they arrived at Blanchimont, then in the Clubhouse bend (where Richard Seaman died in 1939) to find the track slick with rain, the right hand front wheel of the Lister hit a road sign snapping the track rod causing a disastrous accident. He died in hospital (Heusy) the following day, less than a week after his 31st birthday."@en ,
+		"William Archibald Scott Brown, beter bekend als Archie, (Paisley, Renfrewshire, 13 mei 1927 \u2013 Heusy, Belgi\u00EB, 19 mei 1958) was een Schots autocoureur. Hij nam deel aan zijn thuisrace in 1956 voor het team Connaught Engineering, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1. Hij overleed een dag na een zware crash op het circuit van Spa-Francorchamps."@nl ,
+		"William Archibald \u201EArchie\u201C Scott-Brown (* 13. Mai 1927 Paisley; \u2020 19. Mai 1958 in Heusy (heute zu Verviers), Belgien) war ein britischer Autorennfahrer."@de ,
+		"In Formula 1 partecip\u00F2 al solo Gran Premio di Gran Bretagna 1956 su una Connaught, non terminando la gara. Mor\u00EC dopo un incidente subito sul Circuito di Spa-Francorchamps durante una gara di vetture sport."@it ,
+		"William Archibald \u201EArchie\u201D Scott-Brown (ur. 13 marca 1927 w Paisley, zm. 19 marca 1958 roku w Heusy) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"William Archibald Scott-Brown (Paisley, Esc\u00F3cia, 13 de maio de 1927 \u2013 Heusy, B\u00E9lgica, 19 de maio de 1958) foi um automobilista escoc\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1956."@pt ,
+		"William Archibald Scott Brown dit \u00AB Archie \u00BB (13 mai 1927, Paisley \u2013 19 mai 1958, Heusy), est un pilote automobile britannique originaire d'\u00C9cosse. Il a particip\u00E9 \u00E0 un Grand Prix de Formule 1 en 1956."@fr ,
+		"\u30A2\u30FC\u30C1\u30FC\u30FB\u30B9\u30B3\u30C3\u30C8\uFF1D\u30D6\u30E9\u30A6\u30F3\uFF08William Archibald Scott-Brown\u30011927\u5E745\u670813\u65E5 - 1958\u5E745\u670819\u65E5\uFF09\u306F\u30A4\u30AE\u30EA\u30B9\uFF08\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\uFF09\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ;
+	dbo:birthDate	"1927-5-13"^^xsd:date ;
+	dbo:deathDate	"1958-5-19"^^xsd:date ;
+	dbo:deathPlace	dbr:Belgium ;
+	dbo:wikiPageRevisionID	744758931 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Paisley,_Renfrewshire> ;
+	dbo:wikiPageID	1237356 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Archie_Scott_Brown	ns25:hypernym	dbr:Formula ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1956_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1956_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+dbr:Archie_Scott-Brown	dbo:wikiPageRedirects	dbr:Archie_Scott_Brown .
+<http://dbpedia.org/resource/1939_24_Hours_of_Le_Mans__27__1>	dbo:team	dbr:Archie_Scott_Brown ;
+	dbo:firstDriver	dbr:Archie_Scott_Brown .

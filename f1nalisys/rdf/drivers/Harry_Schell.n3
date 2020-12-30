@@ -1,0 +1,185 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Harry_Schell	rdf:type	foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Harry_Schell	rdf:type	yago:CausalAgent100007347 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Harry_Schell	rdf:type	wikidata:Q378622 ,
+		yago:WikicatGordiniFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Harry_Schell	rdf:type	dbo:MotorsportSeason ,
+		dbo:Person ,
+		yago:WikicatMaseratiFormulaOneDrivers ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:WikicatGrandPrixDrivers ,
+		<http://dbpedia.org/class/yago/WikicatEnricoPlat\u00E9FormulaOneDrivers> .
+@prefix schema:	<http://schema.org/> .
+dbr:Harry_Schell	rdf:type	schema:Person ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		dbo:Athlete ,
+		yago:WikicatEcurieBonnierFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Harry_Schell	rdf:type	owl:Thing ,
+		wikidata:Q215627 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Harry_Schell	rdf:type	ns8:Agent ,
+		dbo:MotorsportRacer ,
+		wikidata:Q24229398 ,
+		yago:WikicatVanwallFormulaOneDrivers ,
+		dbo:FormulaOneRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Harry_Schell	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Agent ,
+		ns8:NaturalPerson ,
+		yago:Driver110034906 ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Harry_Schell	rdfs:label	"Harry Schell"@de ,
+		"Harry Schell"@fr ,
+		"Harry Schell"@it ,
+		"\u0428\u0435\u043B\u043B, \u0425\u0430\u0440\u0440\u0438"@ru ,
+		"\u0647\u0627\u0631\u064A \u0634\u064A\u0644"@ar ,
+		"Harry Schell"@pt ,
+		"Harry Schell"@es ,
+		"Harry Schell"@pl ,
+		"Harry Schell"@en ,
+		"Harry Schell"@nl ;
+	rdfs:comment	"Harry Schell (ur. 29 czerwca 1921 w Pary\u017Cu, zm. 13 maja 1960 na torze Silverstone w Anglii) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Pochodzi\u0142 z rodziny zawodowych kierowc\u00F3w. Jego rodzice Laury Schell i Lucie O'Reilly Schell tak\u017Ce byli kierowcami wy\u015Bcigowymi. Matka bra\u0142a udzia\u0142 przed II wojn\u0105 \u015Bwiatow\u0105 w wielu wy\u015Bcigach, pracuj\u0105c r\u00F3wnie\u017C dla stajni Delahaye. Harry Schell zadebiutowa\u0142 na Indianapolis w 1940 roku. W czasie wojny zosta\u0142 wys\u0142any do ameryka\u0144skiego lotnictwa."@pl ,
+		"Henry O'Reilly Schell (Paris, 29 de junho de 1921 \u2014 Luffield Abbey, Inglaterra, 13 de maio de 1960) foi um automobilista norte-americano. Schell participou de 56 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1960. Seu melhor resultado foi o segundo lugar na Holanda em 1958. Competiu pela Scuderia Ferrari, Gordini, Vanwall, BRM e Maserati."@pt ,
+		"\u0425\u0430\u0301\u0440\u0440\u0438 \u0428\u0435\u043B\u043B (\u0430\u043D\u0433\u043B. Harry Schell, 29 \u0438\u044E\u043D\u044F 1921, \u041F\u0430\u0440\u0438\u0436 \u2014 13 \u043C\u0430\u044F 1960, \u0421\u0438\u043B\u044C\u0432\u0435\u0440\u0441\u0442\u043E\u0443\u043D) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Henry O'Reilly Schell (Parijs, 29 juni 1921 - Silverstone, 13 mei 1960) was een Amerikaans autocoureur. Tussen 1950 en 1960 nam hij deel aan 56 Grands Prix Formule 1 voor de teams Cooper, Talbot-Lago, Maserati, Gordini, Ferrari, Vanwall en BRM en scoorde hierin twee podiumplaatsen en 32 WK-punten. Hij overleed in een training voor de International Trophy toen hij crashte op het circuit van Silverstone."@nl ,
+		"Harry Schell, de son vrai nom Henry O'Reilly Schell, n\u00E9 le 29 juin 1921 \u00E0 Paris, France, et mort le 13 mai 1960 sur le circuit de Silverstone, Angleterre, est un coureur automobile am\u00E9ricain ayant longtemps v\u00E9cu en France. Il participa \u00E0 plus de 200 \u00E9preuves sportives de Formule 1, Formule 2 ainsi que dans des cat\u00E9gories am\u00E9ricaines, il en termina 92 et il monta cinq fois sur le podium. Il fut l'un des premiers pilotes am\u00E9ricains \u00E0 courir en Formule 1 dans les courses europ\u00E9ennes."@fr ,
+		"Harry O'Reilly Schell (June 29, 1921 \u2013 May 13, 1960) was an American Grand Prix motor racing driver."@en ,
+		"\u0647\u0627\u0631\u064A \u0634\u064A\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Harry Schell) \u0645\u0648\u0627\u0644\u064A\u062F 29 \u064A\u0648\u0646\u064A\u0648 1921\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1950. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0645\u0648\u0646\u0627\u0643\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 1950. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 57 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Henry O'Reilly Schell( n. 29 de junio de 1921, Par\u00EDs, Francia + m. el 13 de mayo de 1960 en Silverstone, Inglaterra) fue un piloto estadounidense de F\u00F3rmula 1, que tambi\u00E9n corr\u00EDa en el Indy 500. Era hijo de otro piloto estadounidense, Laury Schell. Schell muri\u00F3 el 13 de mayo de 1960 en el circuito de Silverstone, en las pr\u00E1cticas para una carrera no-oficial, cuando el Porsche al que manejaba choc\u00F3 en Abbey curve."@es ,
+		"Harry Schell (* 29. Juni 1921 in Paris; \u2020 13. Mai 1960 in Silverstone) war ein in Frankreich lebender US-amerikanischer Automobilrennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Harry_Schell	dbp:birthDate	"1921-06-29"^^xsd:date .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	dbpedia-es:Harry_Schell .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	yago-res:Harry_Schell .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	dbpedia-it:Harry_Schell .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	dbpedia-de:Harry_Schell ,
+		dbr:Harry_Schell .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	dbpedia-pt:Harry_Schell .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	dbpedia-fr:Harry_Schell ,
+		<http://rdf.freebase.com/ns/m.04k1rq> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	dbpedia-cs:Harry_Schell .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	dbpedia-nl:Harry_Schell ,
+		wikidata:Q171561 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	dbpedia-pl:Harry_Schell .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Harry_Schell	owl:sameAs	dbpedia-wikidata:Q171561 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Harry_Schell	dct:subject	dbc:Ecurie_Bonnier_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Enrico_Plat\u00E9_Formula_One_drivers> ,
+		dbc:Sportspeople_from_Paris ,
+		dbc:Sport_deaths_in_England ,
+		dbc:Vanwall_Formula_One_drivers ,
+		dbc:Maserati_Formula_One_drivers ,
+		dbc:BRM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1921_births> ,
+		dbc:Grand_Prix_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1960_deaths> ,
+		dbc:Gordini_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:American_Formula_One_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ;
+	foaf:name	"Harry Schell"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Harry"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Harry_Schell	foaf:isPrimaryTopicOf	wikipedia-en:Harry_Schell ;
+	foaf:surname	"Schell"@en ;
+	dbp:points	32 ;
+	dbp:years	54 ,
+		","^^xsd:string ,
+		"\u2013"^^xsd:string ,
+		"1960-05-13"^^xsd:date ,
+		56 ;
+	dbp:after	dbr:Chris_Bristow ,
+		67 ,
+		57 ,
+		dbr:Stirling_Moss ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Vanwall ,
+		dbr:Cooper_Car_Company ,
+		dbr:Maserati_in_motorsport ,
+		dbr:British_Racing_Motors ,
+		dbr:Gordini ,
+		dbr:Talbot-Lago ,
+		dbr:Scuderia_Ferrari .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Harry_Schell	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Harry_Schell?oldid=714284786> ;
+	dbo:wikiPageExternalLink	<http://www.500race.org/Men/Schell.htm> ;
+	dbp:nationality	"American"^^xsd:string ;
+	dbp:birthPlace	"Paris, France"^^xsd:string ;
+	dbp:deathDate	"1960-05-13"^^xsd:date ;
+	dbp:before	53 ,
+		dbr:Bob_Cortner ,
+		"Jean Behra"^^xsd:string ;
+	dbp:deathPlace	"Silverstone, England, UK"^^xsd:string ;
+	dbo:abstract	"\u0647\u0627\u0631\u064A \u0634\u064A\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Harry Schell) \u0645\u0648\u0627\u0644\u064A\u062F 29 \u064A\u0648\u0646\u064A\u0648 1921\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1950. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0645\u0648\u0646\u0627\u0643\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 1950. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 57 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Henry O'Reilly Schell( n. 29 de junio de 1921, Par\u00EDs, Francia + m. el 13 de mayo de 1960 en Silverstone, Inglaterra) fue un piloto estadounidense de F\u00F3rmula 1, que tambi\u00E9n corr\u00EDa en el Indy 500. Era hijo de otro piloto estadounidense, Laury Schell. Sus padres eran estadounidenses radicados en Francia, pero luego de la ocupaci\u00F3n de los alemanes en ese pa\u00EDs , durante la segunda guerra mundial, volvieron a Estados Unidos. Los Schell estaban involucrados con las carreras de autos y Harry decidi\u00F3 correr. Se uni\u00F3 al campeonato de F\u00F3rmula 1 debutando en el Gran Premio de M\u00F3naco de 1950. En total Schell obtuvo 32 puntos de campeonato en 56 Grandes Premios. Tambi\u00E9n consigui\u00F3 2 podios. Schell muri\u00F3 el 13 de mayo de 1960 en el circuito de Silverstone, en las pr\u00E1cticas para una carrera no-oficial, cuando el Porsche al que manejaba choc\u00F3 en Abbey curve."@es ,
+		"\u0425\u0430\u0301\u0440\u0440\u0438 \u0428\u0435\u043B\u043B (\u0430\u043D\u0433\u043B. Harry Schell, 29 \u0438\u044E\u043D\u044F 1921, \u041F\u0430\u0440\u0438\u0436 \u2014 13 \u043C\u0430\u044F 1960, \u0421\u0438\u043B\u044C\u0432\u0435\u0440\u0441\u0442\u043E\u0443\u043D) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Harry Schell (* 29. Juni 1921 in Paris; \u2020 13. Mai 1960 in Silverstone) war ein in Frankreich lebender US-amerikanischer Automobilrennfahrer."@de ,
+		"Harry Schell, de son vrai nom Henry O'Reilly Schell, n\u00E9 le 29 juin 1921 \u00E0 Paris, France, et mort le 13 mai 1960 sur le circuit de Silverstone, Angleterre, est un coureur automobile am\u00E9ricain ayant longtemps v\u00E9cu en France. Il participa \u00E0 plus de 200 \u00E9preuves sportives de Formule 1, Formule 2 ainsi que dans des cat\u00E9gories am\u00E9ricaines, il en termina 92 et il monta cinq fois sur le podium. Il fut l'un des premiers pilotes am\u00E9ricains \u00E0 courir en Formule 1 dans les courses europ\u00E9ennes. En Formule 1, il courut cinquante-six fois et monta deux fois sur un podium. Il courut principalement pour l'\u00E9curie Maserati et plus particuli\u00E8rement sur Maserati 250F."@fr ,
+		"Harry Schell (ur. 29 czerwca 1921 w Pary\u017Cu, zm. 13 maja 1960 na torze Silverstone w Anglii) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Pochodzi\u0142 z rodziny zawodowych kierowc\u00F3w. Jego rodzice Laury Schell i Lucie O'Reilly Schell tak\u017Ce byli kierowcami wy\u015Bcigowymi. Matka bra\u0142a udzia\u0142 przed II wojn\u0105 \u015Bwiatow\u0105 w wielu wy\u015Bcigach, pracuj\u0105c r\u00F3wnie\u017C dla stajni Delahaye. Harry Schell zadebiutowa\u0142 na Indianapolis w 1940 roku. W czasie wojny zosta\u0142 wys\u0142any do ameryka\u0144skiego lotnictwa. Po wojnie najpierw \u015Bciga\u0142 si\u0119 w Formule 2, a potem przeszed\u0142 do Formu\u0142y 1, gdzie mi\u0119dzy 1950 a 1960 uko\u0144czy\u0142 56 wy\u015Bcig\u00F3w. Pierwszy raz wyst\u0105pi\u0142 na GP Monaco w 1950. Startowa\u0142 w zespo\u0142ach Maserati, Gordini, Ferrari. Pierwsze punkty zdoby\u0142 podczas GP Belgii w 1956 w zespole Vanwall. W sezonie 1957 startowa\u0142 u boku Fangio na Maserati i w wy\u015Bcigu o Grand Prix Pescary uzyska\u0142 3 miejsce. W sezonach 1958 i 1959 nale\u017Ca\u0142 do zespo\u0142u BRM. Najlepszy wynik, tj. drugie miejsce na podium, uzyska\u0142 w GP Holandii w 1958. Mimo, i\u017C nie zalicza\u0142 si\u0119 do czo\u0142owych kierowc\u00F3w swoich czas\u00F3w, ze wzgl\u0119du na styl bycia i francusko \u2013 ameryka\u0144skie pochodzenie by\u0142 lubiany przez publiczno\u015B\u0107. Przy ko\u0144cu 1959 przeszed\u0142 do stajni Coppera. W 1960 zd\u0105\u017Cy\u0142 zaliczy\u0107 wy\u015Bcig GP Argentyny, a potem zgin\u0105\u0142 w wypadku w czasie treningu na torze Silverstone, gdy bolid przez niego prowadzony wypad\u0142 z toru na mokrej nawierzchni."@pl ,
+		"Henry O'Reilly Schell (Parijs, 29 juni 1921 - Silverstone, 13 mei 1960) was een Amerikaans autocoureur. Tussen 1950 en 1960 nam hij deel aan 56 Grands Prix Formule 1 voor de teams Cooper, Talbot-Lago, Maserati, Gordini, Ferrari, Vanwall en BRM en scoorde hierin twee podiumplaatsen en 32 WK-punten. Hij overleed in een training voor de International Trophy toen hij crashte op het circuit van Silverstone."@nl ,
+		"Harry O'Reilly Schell (June 29, 1921 \u2013 May 13, 1960) was an American Grand Prix motor racing driver."@en ,
+		"Henry O'Reilly Schell (Paris, 29 de junho de 1921 \u2014 Luffield Abbey, Inglaterra, 13 de maio de 1960) foi um automobilista norte-americano. Schell participou de 56 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1960. Seu melhor resultado foi o segundo lugar na Holanda em 1958. Competiu pela Scuderia Ferrari, Gordini, Vanwall, BRM e Maserati."@pt ;
+	dbo:birthDate	"1921-6-29"^^xsd:date ;
+	dbo:deathDate	"1960-5-13"^^xsd:date ;
+	dbo:deathPlace	dbr:Silverstone ;
+	dbo:wikiPageRevisionID	714284786 ;
+	dbo:birthPlace	dbr:Paris ;
+	dbo:wikiPageID	1226457 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_Monaco_Grand_Prix> ;
+	dbo:races	"57"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1960_Argentine_Grand_Prix> ;
+	dbo:podiums	"2"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Harry_Schell	ns27:hypernym	dbr:Motor ;
+	dbp:title	dbr:List_of_Formula_One_driver_records ,
+		dbr:List_of_Formula_One_fatal_accidents .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__31__1>	dbo:firstDriver	dbr:Harry_Schell .
+dbr:Jean_Behra	dbp:after	dbr:Harry_Schell .
+<http://dbpedia.org/resource/1957_Pau_Grand_Prix>	dbo:secondDriver	dbr:Harry_Schell .
+wikipedia-en:Harry_Schell	foaf:primaryTopic	dbr:Harry_Schell .
+<http://dbpedia.org/resource/1955_Avon_Trophy>	dbo:fastestDriver	dbr:Harry_Schell ;
+	dbo:poleDriver	dbr:Harry_Schell ;
+	dbo:firstDriver	dbr:Harry_Schell .
+<http://dbpedia.org/resource/1959_Glover_Trophy>	dbo:poleDriver	dbr:Harry_Schell ;
+	dbo:thirdDriver	dbr:Harry_Schell .
+<http://dbpedia.org/resource/1958_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Harry_Schell .
+dbr:Schell	dbo:wikiPageDisambiguates	dbr:Harry_Schell .
+<http://dbpedia.org/resource/1957_Pescara_Grand_Prix>	dbo:thirdDriver	dbr:Harry_Schell .
+dbr:Cooper_Mark_IV__2	dbo:firstDriver	dbr:Harry_Schell .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__47__1>	dbo:firstDriver	dbr:Harry_Schell .
+dbr:Ivor_Bueb	dbp:after	dbr:Harry_Schell .
+dbr:Chris_Bristow	dbp:before	dbr:Harry_Schell .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__6__1>	dbo:firstDriver	dbr:Harry_Schell .

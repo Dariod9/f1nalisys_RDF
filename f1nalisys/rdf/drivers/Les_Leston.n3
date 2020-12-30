@@ -1,0 +1,140 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Les_Leston	foaf:primaryTopic	dbr:Les_Leston .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Les_Leston	rdf:type	yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatCooperFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Les_Leston	rdf:type	dbo:FormulaOneRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Les_Leston	rdf:type	owl:Thing ,
+		dbo:Person ,
+		yago:CausalAgent100007347 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Les_Leston	rdf:type	ns7:NaturalPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Les_Leston	rdf:type	wikidata:Q24229398 ,
+		foaf:Person ,
+		ns7:Agent ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:Operator110378412 .
+@prefix schema:	<http://schema.org/> .
+dbr:Les_Leston	rdf:type	schema:Person ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent ,
+		yago:WikicatConnaughtFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Les_Leston	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q378622 ,
+		wikidata:Q5 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatBRMFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Les_Leston	rdfs:label	"Les Leston"@pl ,
+		"Les Leston"@pt ,
+		"Les Leston"@fr ,
+		"Les Leston"@nl ,
+		"Les Leston"@de ,
+		"Les Leston"@it ,
+		"Les Leston"@en ,
+		"Les Leston"@es ;
+	rdfs:comment	"Alfred Lazarus Fingleston, ou Les Leston, n\u00E9 le 16 d\u00E9cembre 1920 \u00E0 Bulwell et mort le 13 mai 2012 \u00E0 Eastbourne, est un pilote automobile britannique."@fr ,
+		"Alfred Lazarus Fingleston (16 December 1920 \u2013 13 May 2012), better known as Les Leston, was a British racing driver, born in Bulwell, Nottinghamshire."@en ,
+		"Alfred Lazarus Fingleston (Bulwell, Nottinghamshire, 16 de diciembre de 1920 \u2013 13 de mayo de 2012) m\u00E1s conocido como Les Leston fue un piloto de automovilismo brit\u00E1nico."@es ,
+		"Alfred Lazarus Fingleston (* 16. Dezember 1920 in Nottingham; \u2020 13. Mai 2012), besser bekannt als Les Leston, war ein britischer Autorennfahrer."@de ,
+		"Fu campione di Formula 3 nazionale nel 1954 e prese parte a 2 Gran Premi iridati tra il 1956 ed il 1957. Vinse inoltre il Gran Premio del Lussemburgo 1952, non valido per il Campionato Mondiale."@it ,
+		"Les Leston, w\u0142a\u015Bc. Alfred Lazarus Fingleston (ur. 16 grudnia 1920 roku w Bulwell, Nottinghamshire, zm. 13 maja 2012 roku w Bexhill-on-Sea, East Sussex) \u2013 brytyjski kierowca wy\u015Bcigowy. Wystartowa\u0142 w trzech Grand Prix Formu\u0142y 1."@pl ,
+		"Alfred Lazarus Fingleston (Bulwell, 16 de dezembro de 1920 \u2013 Eastbourne, 13 de maio de 2012), mais conhecido como Les Leston, \u00E9 um ex-automobilista ingl\u00EAs. Participou de 2 Grandes Pr\u00EAmios de F\u00F3rmula 1 em 1956 e 1957."@pt ,
+		"Alfred Lazarus Fingleston (Bulwell, Nottinghamshire, 16 december 1920 - 13 mei 2012), beter bekend als Les Leston, was een Brits Formule 1-coureur. Hij reed 3 Grands Prix in 1956 en 1957 voor de teams Connaught Engineering, Cooper en BRM, waarin hij geen punten scoorde.Eind jaren 50, begin jaren 60 reed onder anderen Jack Brabham met een Les Leston-helm, de eerste helm, voor zover bekend, die ook de oren beschermde. In 1939 was hij drummer bij The Clay Pigeons.Hij overleed op 91 jarige leeftijd."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Les_Leston	dbp:points	0 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Les_Leston	owl:sameAs	dbpedia-pl:Les_Leston .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Les_Leston	owl:sameAs	yago-res:Les_Leston ,
+		wikidata:Q172795 ,
+		dbr:Les_Leston .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Les_Leston	owl:sameAs	dbpedia-pt:Les_Leston .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Les_Leston	owl:sameAs	dbpedia-es:Les_Leston ,
+		<http://rdf.freebase.com/ns/m.04kv72> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Les_Leston	owl:sameAs	dbpedia-fr:Les_Leston .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Les_Leston	owl:sameAs	dbpedia-nl:Les_Leston .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Les_Leston	owl:sameAs	dbpedia-de:Les_Leston .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Les_Leston	owl:sameAs	dbpedia-it:Les_Leston .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Les_Leston	owl:sameAs	dbpedia-wikidata:Q172795 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Les_Leston	dct:subject	<http://dbpedia.org/resource/Category:1920_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Les_Leston	dct:subject	dbc:People_from_Bulwell ,
+		dbc:Connaught_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Cooper_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:BRM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2012_deaths> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ;
+	foaf:name	"Les Leston"@en ;
+	dct:description	"English racing driver and businessman"@en ;
+	foaf:givenName	"Alfred"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Les_Leston ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Les_Leston	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Les_Leston?oldid=730338626> ;
+	dbp:birthPlace	"Bulwell, Nottinghamshire, England"^^xsd:string ;
+	dbp:deathPlace	"Bexhill-on-Sea, East Sussex, England"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Les_Leston	dbp:birthDate	"1920-12-16"^^xsd:date ;
+	dbp:deathDate	"2012-05-13"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.500race.org/web/Men/Leston.html> ;
+	dbo:abstract	"Les Leston, w\u0142a\u015Bc. Alfred Lazarus Fingleston (ur. 16 grudnia 1920 roku w Bulwell, Nottinghamshire, zm. 13 maja 2012 roku w Bexhill-on-Sea, East Sussex) \u2013 brytyjski kierowca wy\u015Bcigowy. Wystartowa\u0142 w trzech Grand Prix Formu\u0142y 1."@pl ,
+		"Alfred Lazarus Fingleston, ou Les Leston, n\u00E9 le 16 d\u00E9cembre 1920 \u00E0 Bulwell et mort le 13 mai 2012 \u00E0 Eastbourne, est un pilote automobile britannique."@fr ,
+		"Alfred Lazarus Fingleston (* 16. Dezember 1920 in Nottingham; \u2020 13. Mai 2012), besser bekannt als Les Leston, war ein britischer Autorennfahrer."@de ,
+		"Alfred Lazarus Fingleston (Bulwell, Nottinghamshire, 16 december 1920 - 13 mei 2012), beter bekend als Les Leston, was een Brits Formule 1-coureur. Hij reed 3 Grands Prix in 1956 en 1957 voor de teams Connaught Engineering, Cooper en BRM, waarin hij geen punten scoorde.Eind jaren 50, begin jaren 60 reed onder anderen Jack Brabham met een Les Leston-helm, de eerste helm, voor zover bekend, die ook de oren beschermde. In 1939 was hij drummer bij The Clay Pigeons.Hij overleed op 91 jarige leeftijd."@nl ,
+		"Alfred Lazarus Fingleston (Bulwell, 16 de dezembro de 1920 \u2013 Eastbourne, 13 de maio de 2012), mais conhecido como Les Leston, \u00E9 um ex-automobilista ingl\u00EAs. Participou de 2 Grandes Pr\u00EAmios de F\u00F3rmula 1 em 1956 e 1957."@pt ,
+		"Fu campione di Formula 3 nazionale nel 1954 e prese parte a 2 Gran Premi iridati tra il 1956 ed il 1957. Vinse inoltre il Gran Premio del Lussemburgo 1952, non valido per il Campionato Mondiale."@it ,
+		"Alfred Lazarus Fingleston (16 December 1920 \u2013 13 May 2012), better known as Les Leston, was a British racing driver, born in Bulwell, Nottinghamshire."@en ,
+		"Alfred Lazarus Fingleston (Bulwell, Nottinghamshire, 16 de diciembre de 1920 \u2013 13 de mayo de 2012) m\u00E1s conocido como Les Leston fue un piloto de automovilismo brit\u00E1nico."@es ;
+	dbo:birthDate	"1920-12-16"^^xsd:date ;
+	dbo:deathDate	"2012-5-13"^^xsd:date ;
+	dbo:deathPlace	dbr:Bexhill-on-Sea ;
+	dbo:wikiPageRevisionID	730338626 ;
+	dbo:birthPlace	dbr:Bulwell ;
+	dbo:wikiPageID	1234987 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Les_Leston	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1956_Italian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1957_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"3"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company ,
+		dbr:BRM ,
+		dbr:Connaught_Engineering ;
+	dbp:nationality	"British"^^xsd:string .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__23rd__1>	dbo:firstDriver	dbr:Les_Leston .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__11__1>	dbo:firstDriver	dbr:Les_Leston .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__54__1>	dbo:firstDriver	dbr:Les_Leston .
+<http://dbpedia.org/resource/1956_Glover_Trophy>	dbo:thirdDriver	dbr:Les_Leston .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__35__1>	dbo:firstDriver	dbr:Les_Leston .

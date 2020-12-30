@@ -1,0 +1,120 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Doug_Serrurier	foaf:primaryTopic	dbr:Doug_Serrurier .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Doug_Serrurier	rdf:type	yago:PhysicalEntity100001930 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Doug_Serrurier	rdf:type	wikidata:Q378622 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Doug_Serrurier	rdf:type	dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatLDSFormulaOneDrivers ,
+		yago:WikicatSouthAfricanFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Doug_Serrurier	rdf:type	owl:Thing ,
+		wikidata:Q24229398 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Doug_Serrurier	rdf:type	ns8:NaturalPerson ,
+		ns8:Agent ,
+		wikidata:Q215627 ,
+		foaf:Person ,
+		yago:Operator110378412 ,
+		wikidata:Q5 ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Doug_Serrurier	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Athlete ,
+		dbo:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Doug_Serrurier	rdf:type	schema:Person ,
+		dbo:MotorsportRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Doug_Serrurier	rdfs:label	"Doug Serrurier"@en ,
+		"Doug Serrurier"@nl ,
+		"Doug Serrurier"@de ,
+		"Doug Serrurier"@it ,
+		"Doug Serrurier"@pt ,
+		"Doug Serrurier"@pl ,
+		"Doug Serrurier"@fr ;
+	rdfs:comment	"Louis Douglas Serrurier, n\u00E9 le 9 d\u00E9cembre 1920 \u00E0 Germiston et mort le 3 juin 2006 \u00E0 Johannesburg, est un pilote et constructeur automobile de Formule 1 sud-africain d'origine fran\u00E7aise. Doug Serrurier a particip\u00E9 \u00E0 trois \u00E9preuves de championnat du monde de Formule 1, en fait trois \u00E9ditions du Grand Prix d'Afrique du Sud lorsque celui-ci comptait pour le championnat, d\u00E9butant en d\u00E9cembre 1962. Il ne r\u00E9ussit \u00E0 se qualifier qu'\u00E0 deux reprises (1962 et 1963) et n'a pas inscrit de point au championnat des pilotes. Il a \u00E9galement particip\u00E9 \u00E0 douze \u00E9preuves de F1 hors championnat de 1961 \u00E0 1966 et a fini sixi\u00E8me du Grand Prix du Natal 1961 (10e en 1962)."@fr ,
+		"Louis Douglas \"Doug\" Serrurier (9 December 1920 in Germiston \u2013 4 June 2006) was a racing driver and racing car constructor from South Africa. He participated in 3 Formula One World Championship Grands Prix in the 1960s, only racing in the South African Grand Prix event, debuting on 29 December 1962. He scored no championship points."@en ,
+		"Louis Douglas \"Doug\" Serrurier (Germiston, 9 de dezembro de 1920 - Alberton, 4 de junho de 2006) foi um automobilista sul-africano."@pt ,
+		"Louis Douglas Serrurier (9 december 1920 - 4 juni 2006) was een autocoureur uit Zuid-Afrika. Hij nam in 1962, 1963 en 1965 deel aan zijn thuisrace voor het team LDS, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Louis Douglas Serrurier (ur. 9 grudnia 1920 w Germiston, zm. 4 czerwca 2006 w Alberton, Johannesburg) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"Louis Douglas \u201EDoug\u201C Serrurier (* 9. Dezember 1920 in Germiston, Gauteng, S\u00FCdafrika; \u2020 3. Juni 2006 in Alberton, Gauteng) war ein s\u00FCdafrikanischer Automobilrennfahrer. 1962 und 1963 nahm er an der Automobil-Weltmeisterschaft teil."@de .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Doug_Serrurier	dbp:points	0 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Doug_Serrurier	owl:sameAs	yago-res:Doug_Serrurier .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Doug_Serrurier	owl:sameAs	dbpedia-it:Doug_Serrurier .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Doug_Serrurier	owl:sameAs	dbpedia-fr:Doug_Serrurier ,
+		dbr:Doug_Serrurier .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Doug_Serrurier	owl:sameAs	dbpedia-cs:Doug_Serrurier ,
+		<http://rdf.freebase.com/ns/m.04k80k> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Doug_Serrurier	owl:sameAs	dbpedia-wikidata:Q172212 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Doug_Serrurier	owl:sameAs	dbpedia-nl:Doug_Serrurier .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Doug_Serrurier	owl:sameAs	dbpedia-pt:Doug_Serrurier .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Doug_Serrurier	owl:sameAs	dbpedia-de:Doug_Serrurier .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Doug_Serrurier	owl:sameAs	dbpedia-pl:Doug_Serrurier ,
+		wikidata:Q172212 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Doug_Serrurier	dct:subject	dbc:LDS_Formula_One_drivers ,
+		dbc:People_from_Germiston ,
+		dbc:South_African_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1920_births> ,
+		<http://dbpedia.org/resource/Category:2006_deaths> ,
+		dbc:South_African_Formula_One_drivers ;
+	foaf:name	"Doug Serrurier"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Doug"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Doug_Serrurier ;
+	foaf:surname	"Serrurier"@en ;
+	dbp:years	"\u2013,"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Doug_Serrurier	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Doug_Serrurier?oldid=742021362> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Doug_Serrurier	dbp:birthDate	"1920-12-09"^^xsd:date ;
+	dbp:deathDate	"2006-06-04"^^xsd:date .
+@prefix ns26:	<http://www.oldracingcars.com/driver/> .
+dbr:Doug_Serrurier	dbo:wikiPageExternalLink	ns26:Doug_Serrurier ,
+		<http://www.grandprix.com/gpe/drv-serdou.html> ;
+	dbo:abstract	"Louis Douglas \u201EDoug\u201C Serrurier (* 9. Dezember 1920 in Germiston, Gauteng, S\u00FCdafrika; \u2020 3. Juni 2006 in Alberton, Gauteng) war ein s\u00FCdafrikanischer Automobilrennfahrer. 1962 und 1963 nahm er an der Automobil-Weltmeisterschaft teil."@de ,
+		"Louis Douglas Serrurier, n\u00E9 le 9 d\u00E9cembre 1920 \u00E0 Germiston et mort le 3 juin 2006 \u00E0 Johannesburg, est un pilote et constructeur automobile de Formule 1 sud-africain d'origine fran\u00E7aise. Doug Serrurier a particip\u00E9 \u00E0 trois \u00E9preuves de championnat du monde de Formule 1, en fait trois \u00E9ditions du Grand Prix d'Afrique du Sud lorsque celui-ci comptait pour le championnat, d\u00E9butant en d\u00E9cembre 1962. Il ne r\u00E9ussit \u00E0 se qualifier qu'\u00E0 deux reprises (1962 et 1963) et n'a pas inscrit de point au championnat des pilotes. Il a \u00E9galement particip\u00E9 \u00E0 douze \u00E9preuves de F1 hors championnat de 1961 \u00E0 1966 et a fini sixi\u00E8me du Grand Prix du Natal 1961 (10e en 1962). Serrurier a construit une s\u00E9rie de monoplaces de courses sous le nom de LDS d'apr\u00E8s ses initiales, voitures exclusivement pilot\u00E9es par lui-m\u00EAme et Sam Tingle. Apr\u00E8s sa carri\u00E8re de pilote de Formule 1 et la cessation de son activit\u00E9 de constructeur artisanal, il a pris part \u00E0 des courses d'endurance \u00E0 bord d'une Lola T70 et s'est impos\u00E9 au Grand Prix du Mozambique en 1966 puis, en 1967 \u00E0 celui de Pietermaritzburg. Apr\u00E8s une derni\u00E8re sortie aux 6 Heures de Kyalami en 1970 sur une Ford Mustang, il a mis un terme \u00E0 sa carri\u00E8re sportive."@fr ,
+		"Louis Douglas \"Doug\" Serrurier (Germiston, 9 de dezembro de 1920 - Alberton, 4 de junho de 2006) foi um automobilista sul-africano."@pt ,
+		"Louis Douglas Serrurier (9 december 1920 - 4 juni 2006) was een autocoureur uit Zuid-Afrika. Hij nam in 1962, 1963 en 1965 deel aan zijn thuisrace voor het team LDS, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Louis Douglas Serrurier (ur. 9 grudnia 1920 w Germiston, zm. 4 czerwca 2006 w Alberton, Johannesburg) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"Louis Douglas \"Doug\" Serrurier (9 December 1920 in Germiston \u2013 4 June 2006) was a racing driver and racing car constructor from South Africa. He participated in 3 Formula One World Championship Grands Prix in the 1960s, only racing in the South African Grand Prix event, debuting on 29 December 1962. He scored no championship points. Serrurier built a series of racing cars under the name of LDS, after his initials. The first was based on a Cooper, and later cars were based on Brabhams. The cars were raced mainly by Serrurier himself, and Sam Tingle. From the Cobra Club South Africa:\u201CLouis Douglas Serrurier built about 20 LDS Cobras during the course of his race car building history. They were all once offs, with different engine, chassis, suspension and brakes depending on the year they were built.\u201D"@en ;
+	dbo:birthDate	"1920-12-9"^^xsd:date ;
+	dbo:deathDate	"2006-6-4"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Alberton,_Gauteng> ;
+	dbo:wikiPageRevisionID	742021362 ;
+	dbo:birthPlace	dbr:Germiston ;
+	dbo:wikiPageID	1228312 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Doug_Serrurier	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1962_South_African_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1965_South_African_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"3"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/LDS_(automobile)> ;
+	dbp:nationality	"South African"^^xsd:string .
+<http://dbpedia.org/resource/LDS_(automobile)>	dbp:founders	dbr:Doug_Serrurier .
+dbr:Serrurier	dbo:wikiPageDisambiguates	dbr:Doug_Serrurier .

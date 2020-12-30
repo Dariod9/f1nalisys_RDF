@@ -1,0 +1,202 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1961_Flugplatzrennen>	dbo:thirdDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1960_VII_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Joakim_Bonnier ;
+	dbo:secondDriver	dbr:Joakim_Bonnier .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Joakim_Bonnier	foaf:primaryTopic	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1961_Syracuse_Grand_Prix>	dbo:thirdDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1966_BRDC_International_Trophy>	dbo:thirdDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__49__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__2__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__34__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__47__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1965_Race_of_Champions>	dbo:thirdDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1961_Solitude_Grand_Prix>	dbo:poleDriver	dbr:Joakim_Bonnier ;
+	dbo:secondDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1962_Solitude_Grand_Prix>	dbo:secondDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1960_Lombank_Trophy>	dbo:thirdDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1962_Lombank_Trophy>	dbo:thirdDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1958_Caen_Grand_Prix>	dbo:secondDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1961_Pau_Grand_Prix>	dbo:secondDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__27__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1961_Modena_Grand_Prix>	dbo:secondDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1960_Cape_Grand_Prix>	dbo:fastestDriver	dbr:Joakim_Bonnier ;
+	dbo:secondDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1961_Rand_Grand_Prix>	dbo:fastestDriver	dbr:Joakim_Bonnier ;
+	dbo:thirdDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1961_Natal_Grand_Prix>	dbo:thirdDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1962_Cape_Grand_Prix>	dbo:thirdDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1964_Daily_Mirror_Trophy>	dbo:secondDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__40__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__24th__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__20th__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__30th__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__26__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__27__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Porsche_718	dbp:drivers	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1961_Kanonloppet>	dbo:secondDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1962_Kanonloppet>	dbo:thirdDriver	dbr:Joakim_Bonnier .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Joakim_Bonnier	rdf:type	dbo:FormulaOneRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Joakim_Bonnier	rdf:type	yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Joakim_Bonnier	rdf:type	wikidata:Q24229398 ,
+		yago:WikicatBrabhamFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Joakim_Bonnier	rdf:type	umbel-rc:Athlete ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		wikidata:Q5 ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Joakim_Bonnier	rdf:type	schema:Person ,
+		yago:WikicatEcurieBonnierFormulaOneDrivers ,
+		yago:WikicatHondaFormulaOneDrivers ,
+		yago:WikicatSwedishFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Joakim_Bonnier	rdf:type	owl:Thing ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers ,
+		yago:WikicatPorscheFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		yago:WikicatGiorgioScarlattiFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		umbel-rc:RaceCarDriver ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		dbo:Athlete ,
+		foaf:Person ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		yago:WikicatMaseratiFormulaOneDrivers ,
+		dbo:Person .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Joakim_Bonnier	rdf:type	ns11:NaturalPerson ,
+		ns11:Agent ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Joakim_Bonnier	rdfs:label	"\u064A\u0648\u0627\u0643\u064A\u0645 \u0628\u0648\u0646\u064A\u064A\u0647"@ar ,
+		"Jo Bonnier"@pt ,
+		"Joakim Bonnier"@en ,
+		"Joakim Bonnier"@it ,
+		"Jo Bonnier"@es ,
+		"Joakim Bonnier"@fr ,
+		"Joakim Bonnier"@pl ,
+		"Joakim Bonnier"@de ,
+		"Jo Bonnier"@nl ,
+		"\u0411\u043E\u043D\u043D\u044C\u0435, \u0419\u043E\u0430\u043A\u0438\u043C"@ru ,
+		"\u30E8\u30A2\u30AD\u30E0\u30FB\u30DC\u30CB\u30A8"@ja ;
+	rdfs:comment	"Joakim \"Jo\" Bonnier (Stockholm, 31 januari 1930 - Le Mans, 11 juni 1972) was een Zweeds Formule 1-coureur tussen 1956 en 1971. Hij reed 108 Grands Prix voor de teams Maserati, Scuderia Centro Sud, Jokaim Bonnier Racing Team, Giorgio Scarlatti, Owen Racing Organisation, Porsche, Rob Walker Racing Team, Anglo-Suisse Racing, Brabham en Ecurie Bonnier. Zijn eerste en laatste overwinning behaalde hij op de Grand Prix van Nederland van 1959. Hij liet het leven tijdens de 24 uur van Le Mans in 1972."@nl ,
+		"Joakim \"Jo\" Bonnier (Djurg\u00E5rden, 31 de janeiro de 1930 \u2013 Le Mans, 11 de junho de 1972) foi um piloto sueco de F\u00F3rmula 1. Correu entre 1956 e 1971, tendo conquistado uma vit\u00F3ria, uma pole e 39 pontos no total, em 108 corridas disputadas."@pt ,
+		"\u064A\u0648\u0627\u0643\u064A\u0645 \u0628\u0648\u0646\u064A\u064A\u0647 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u064A\u0646\u0627\u064A\u0631 1930 \u0641\u064A \u0627\u0644\u0633\u0648\u064A\u062F\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0633\u0648\u064A\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1956. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1956\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0647\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1959. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 108 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ,
+		"Joakim \"Jo\" Bonnier (Estocolmo, 31 de enero de 1930 - Le Mans, 11 de junio de 1972) fue un piloto de automovilismo que compiti\u00F3 en distintas disciplinas a lo largo de su vida. Comenz\u00F3 a competir en carreras sobre hielo, aunque en 1955 se pas\u00F3 a los circuitos. Pronto llama la atenci\u00F3n de Maserati, escudar\u00EDa con la que disputa su primera carrera, el Gran Premio de Italia en 1956, conduciendo un 250F y abandonando en la tercera vuelta, y en la que permanece hasta finales de 1958, a\u00F1o en el que firma con BRM. En la temporada de 1959 gana el Gran Premio de Argentina."@es ,
+		"Joakim \"Jo\" Bonnier (31 January 1930 \u2013 11 June 1972) was a Swedish sportscar racing and Formula One driver who raced for various teams."@en ,
+		"Joakim \u201EJocke\u201C Bonnier, im anglophonen Raum auch Jo Bonnier oder kurz \u201EJoBo\u201C genannt, (* 31. Januar 1930 in Stockholm, Schweden; \u2020 11. Juni 1972 in Le Mans, Frankreich) war ein schwedischer Sportwagen- und Formel-1-Rennfahrer, der als Mitbegr\u00FCnder der Fahrergewerkschaft (GPDA) entscheidenden Einfluss auf die Fahrsicherheit des Grand-Prix-Sports hatte."@de ,
+		"Joakim Bonnier (surnomm\u00E9 affectueusement \u00AB Jo \u00BB ou \u00AB Jocke \u00BB), n\u00E9 le 31 janvier 1930 \u00E0 Stockholm, Su\u00E8de, et mort le 11 juin 1972 au Mans, France, est un pilote automobile su\u00E9dois qui s'illustra dans les ann\u00E9es 1960 tant en Formule 1 qu'en endurance. Francophone, il vivait en Suisse, pr\u00E8s de Fribourg. C'\u00E9tait aussi le si\u00E8ge de ses \u00E9curies, le Bonnier Racing Team et le Bonnier Switzerland Team."@fr ,
+		"\u0419\u043E\u0430\u043A\u0438\u0301\u043C \u00AB\u0419\u043E\u00BB \u0411\u043E\u043D\u043D\u044C\u0435\u0301 (\u0448\u0432\u0435\u0434. Joakim \"Jo\" Bonnier; 30 \u044F\u043D\u0432\u0430\u0440\u044F 1930, \u042E\u0440\u0433\u043E\u0440\u0434\u0435\u043D, \u0421\u0442\u043E\u043A\u0433\u043E\u043B\u044C\u043C \u2014 11 \u0438\u044E\u043D\u044F 1972, \u041B\u0435-\u041C\u0430\u043D) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430. \u041F\u0435\u0440\u0432\u044B\u0439 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u044C \u0428\u0432\u0435\u0446\u0438\u0438 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1, \u043F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0437\u0430 British Racing Motors."@ru ,
+		"\u30E8\u30A2\u30AD\u30E0\u30FB\u30DC\u30CB\u30A8\uFF08Joakim \"Jo\" Bonnier, 1930\u5E741\u670831\u65E5 - 1972\u5E746\u670811\u65E5\uFF09\u306F\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30B8\u30E7\u30FC\u30FB\u30DC\u30CB\u30A8\u3001\u30E8\u30FC\u30FB\u30DC\u30CB\u30A8\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"In Formula 1 ha vinto il Gran Premio d'Olanda 1959, divenendo cos\u00EC il primo pilota svedese a vincere una gara in Formula 1."@it ,
+		"Joakim \u201EJo\u201D Bonnier (ur. 31 stycznia 1930 w Sztokholmie, zm. 11 czerwca 1972 w Le Mans) \u2013 szwedzki kierowca wy\u015Bcigowy. Urodzi\u0142 si\u0119 w zamo\u017Cnej rodzinie wydawc\u00F3w prasowych. Studiowa\u0142 na Oxfordzie, lecz ju\u017C na pocz\u0105tku lat 50. XX wieku postanowi\u0142 zosta\u0107 kierowc\u0105 wy\u015Bcigowym. Debiutowa\u0142 w 1951; pocz\u0105tkowo startowa\u0142 w wy\u015Bcigach motocyklowych i rajdach samochodowych."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Joakim_Bonnier	dbp:birthDate	"1930-01-31"^^xsd:date .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Joakim_Bonnier	owl:sameAs	dbpedia-de:Joakim_Bonnier .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Joakim_Bonnier	owl:sameAs	dbpedia-pt:Jo_Bonnier .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Joakim_Bonnier	owl:sameAs	dbpedia-it:Joakim_Bonnier .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Joakim_Bonnier	owl:sameAs	yago-res:Joakim_Bonnier ,
+		dbr:Joakim_Bonnier .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Joakim_Bonnier	owl:sameAs	dbpedia-nl:Jo_Bonnier .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Joakim_Bonnier	owl:sameAs	dbpedia-pl:Joakim_Bonnier .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Joakim_Bonnier	owl:sameAs	dbpedia-es:Jo_Bonnier .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Joakim_Bonnier	owl:sameAs	dbpedia-wikidata:Q172239 ,
+		wikidata:Q172239 ,
+		<http://ja.dbpedia.org/resource/\u30E8\u30A2\u30AD\u30E0\u30FB\u30DC\u30CB\u30A8> ,
+		<http://rdf.freebase.com/ns/m.04bryl> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Joakim_Bonnier	owl:sameAs	dbpedia-fr:Joakim_Bonnier .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Joakim_Bonnier	dct:subject	dbc:Sportspeople_from_Stockholm ,
+		<http://dbpedia.org/resource/Category:1930_births> ,
+		dbc:Maserati_Formula_One_drivers ,
+		dbc:Ecurie_Bonnier_Formula_One_drivers ,
+		dbc:Bonnier_family ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		<http://dbpedia.org/resource/Category:1972_deaths> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Swedish_Formula_One_drivers ,
+		dbc:Giorgio_Scarlatti_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		dbc:Rob_Walker_Racing_Team_Formula_One_drivers ,
+		dbc:BRM_Formula_One_drivers ,
+		dbc:Swedish_Jews ,
+		dbc:Swedish_racing_drivers ,
+		dbc:Sport_deaths_in_France ,
+		dbc:Porsche_Formula_One_drivers ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ;
+	foaf:name	"Joakim Bonnier"@en ,
+		"Jo Bonnier"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/BonnierJo196608.jpg> ;
+	dct:description	"Swedish racing driver"@en ;
+	foaf:givenName	"Jo"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Joakim_Bonnier ;
+	foaf:surname	"Bonnier"@en ;
+	dbp:points	39 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	"Maserati, Scuderia Centro Sud, Joakim Bonnier Racing Team, BRM, Porsche, Rob Walker Racing Team, Lotus, Brabham, Anglo-Suisse Racing/Ecurie Bonnier and Honda"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Joakim_Bonnier	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Joakim_Bonnier?oldid=737657394> ;
+	dbo:firstWin	<http://dbpedia.org/resource/1959_Dutch_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1959_Dutch_Grand_Prix> ;
+	dbp:birthPlace	"Djurg\u00E5rden, Sweden"^^xsd:string ;
+	dbp:deathDate	"1972-06-11"^^xsd:date ;
+	dbp:deathPlace	"Le Mans, France"^^xsd:string ;
+	dbo:abstract	"Joakim Bonnier (surnomm\u00E9 affectueusement \u00AB Jo \u00BB ou \u00AB Jocke \u00BB), n\u00E9 le 31 janvier 1930 \u00E0 Stockholm, Su\u00E8de, et mort le 11 juin 1972 au Mans, France, est un pilote automobile su\u00E9dois qui s'illustra dans les ann\u00E9es 1960 tant en Formule 1 qu'en endurance. Francophone, il vivait en Suisse, pr\u00E8s de Fribourg. C'\u00E9tait aussi le si\u00E8ge de ses \u00E9curies, le Bonnier Racing Team et le Bonnier Switzerland Team."@fr ,
+		"Joakim \"Jo\" Bonnier (Stockholm, 31 januari 1930 - Le Mans, 11 juni 1972) was een Zweeds Formule 1-coureur tussen 1956 en 1971. Hij reed 108 Grands Prix voor de teams Maserati, Scuderia Centro Sud, Jokaim Bonnier Racing Team, Giorgio Scarlatti, Owen Racing Organisation, Porsche, Rob Walker Racing Team, Anglo-Suisse Racing, Brabham en Ecurie Bonnier. Zijn eerste en laatste overwinning behaalde hij op de Grand Prix van Nederland van 1959. Hij liet het leven tijdens de 24 uur van Le Mans in 1972."@nl ,
+		"Joakim \"Jo\" Bonnier (31 January 1930 \u2013 11 June 1972) was a Swedish sportscar racing and Formula One driver who raced for various teams."@en ,
+		"\u064A\u0648\u0627\u0643\u064A\u0645 \u0628\u0648\u0646\u064A\u064A\u0647 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u064A\u0646\u0627\u064A\u0631 1930 \u0641\u064A \u0627\u0644\u0633\u0648\u064A\u062F\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0633\u0648\u064A\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1956. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1956\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0647\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1959. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 108 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ,
+		"Joakim \u201EJo\u201D Bonnier (ur. 31 stycznia 1930 w Sztokholmie, zm. 11 czerwca 1972 w Le Mans) \u2013 szwedzki kierowca wy\u015Bcigowy. Urodzi\u0142 si\u0119 w zamo\u017Cnej rodzinie wydawc\u00F3w prasowych. Studiowa\u0142 na Oxfordzie, lecz ju\u017C na pocz\u0105tku lat 50. XX wieku postanowi\u0142 zosta\u0107 kierowc\u0105 wy\u015Bcigowym. Debiutowa\u0142 w 1951; pocz\u0105tkowo startowa\u0142 w wy\u015Bcigach motocyklowych i rajdach samochodowych."@pl ,
+		"Joakim \"Jo\" Bonnier (Djurg\u00E5rden, 31 de janeiro de 1930 \u2013 Le Mans, 11 de junho de 1972) foi um piloto sueco de F\u00F3rmula 1. Correu entre 1956 e 1971, tendo conquistado uma vit\u00F3ria, uma pole e 39 pontos no total, em 108 corridas disputadas."@pt ,
+		"In Formula 1 ha vinto il Gran Premio d'Olanda 1959, divenendo cos\u00EC il primo pilota svedese a vincere una gara in Formula 1."@it ,
+		"\u0419\u043E\u0430\u043A\u0438\u0301\u043C \u00AB\u0419\u043E\u00BB \u0411\u043E\u043D\u043D\u044C\u0435\u0301 (\u0448\u0432\u0435\u0434. Joakim \"Jo\" Bonnier; 30 \u044F\u043D\u0432\u0430\u0440\u044F 1930, \u042E\u0440\u0433\u043E\u0440\u0434\u0435\u043D, \u0421\u0442\u043E\u043A\u0433\u043E\u043B\u044C\u043C \u2014 11 \u0438\u044E\u043D\u044F 1972, \u041B\u0435-\u041C\u0430\u043D) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430. \u041F\u0435\u0440\u0432\u044B\u0439 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u044C \u0428\u0432\u0435\u0446\u0438\u0438 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1, \u043F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0437\u0430 British Racing Motors."@ru ,
+		"\u30E8\u30A2\u30AD\u30E0\u30FB\u30DC\u30CB\u30A8\uFF08Joakim \"Jo\" Bonnier, 1930\u5E741\u670831\u65E5 - 1972\u5E746\u670811\u65E5\uFF09\u306F\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30B8\u30E7\u30FC\u30FB\u30DC\u30CB\u30A8\u3001\u30E8\u30FC\u30FB\u30DC\u30CB\u30A8\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"Joakim \"Jo\" Bonnier (Estocolmo, 31 de enero de 1930 - Le Mans, 11 de junio de 1972) fue un piloto de automovilismo que compiti\u00F3 en distintas disciplinas a lo largo de su vida. Comenz\u00F3 a competir en carreras sobre hielo, aunque en 1955 se pas\u00F3 a los circuitos. Pronto llama la atenci\u00F3n de Maserati, escudar\u00EDa con la que disputa su primera carrera, el Gran Premio de Italia en 1956, conduciendo un 250F y abandonando en la tercera vuelta, y en la que permanece hasta finales de 1958, a\u00F1o en el que firma con BRM. En la temporada de 1959 gana el Gran Premio de Argentina. Muri\u00F3 durante las 24 Horas de Le Mans de 1972 en un choque."@es ,
+		"Joakim \u201EJocke\u201C Bonnier, im anglophonen Raum auch Jo Bonnier oder kurz \u201EJoBo\u201C genannt, (* 31. Januar 1930 in Stockholm, Schweden; \u2020 11. Juni 1972 in Le Mans, Frankreich) war ein schwedischer Sportwagen- und Formel-1-Rennfahrer, der als Mitbegr\u00FCnder der Fahrergewerkschaft (GPDA) entscheidenden Einfluss auf die Fahrsicherheit des Grand-Prix-Sports hatte."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/BonnierJo196608.jpg?width=300> ;
+	dbo:birthDate	"1930-1-31"^^xsd:date ;
+	dbo:deathDate	"1972-6-11"^^xsd:date ;
+	dbo:deathPlace	dbr:Le_Mans ;
+	dbo:wikiPageRevisionID	737657394 ;
+	dbo:birthPlace	dbr:Stockholm ;
+	dbo:wikiPageID	1152185 ;
+	dbo:nationality	dbr:Sweden ;
+	dbo:wins	"1"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1956_Italian_Grand_Prix> ;
+	dbo:races	"108"^^xsd:nonNegativeInteger ;
+	dbo:poles	"1"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1971_United_States_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Joakim_Bonnier	ns26:hypernym	dbr:Racing .
+dbr:Joakim	dbo:wikiPageDisambiguates	dbr:Joakim_Bonnier .
+dbr:Joachim_Bonnier	dbo:wikiPageRedirects	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__34__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__27__1>	dbo:firstDriver	dbr:Joakim_Bonnier .
+dbr:Jo_Bonnier	dbo:wikiPageRedirects	dbr:Joakim_Bonnier .

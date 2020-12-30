@@ -1,0 +1,128 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Bill_Brack	foaf:primaryTopic	dbr:Bill_Brack .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Bill_Brack	rdf:type	dbo:FormulaOneRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Bill_Brack	rdf:type	yago:PhysicalEntity100001930 ,
+		foaf:Person ,
+		yago:WikicatAtlanticChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Bill_Brack	rdf:type	wikidata:Q5 ,
+		yago:WikicatTrans-AmSeriesDrivers ,
+		wikidata:Q24229398 ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Bill_Brack	rdf:type	owl:Thing ,
+		wikidata:Q215627 ,
+		dbo:Agent ,
+		yago:Operator110378412 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Bill_Brack	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:RacingDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Bill_Brack	rdf:type	schema:Person ,
+		dbo:MotorsportRacer ,
+		yago:WikicatCanadianFormulaOneDrivers ,
+		dbo:Athlete ,
+		dbo:Person .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Bill_Brack	rdf:type	ns10:Agent ,
+		wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatRacingDriversFromOntario ,
+		ns10:NaturalPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Bill_Brack	rdfs:label	"Bill Brack"@pt ,
+		"Bill Brack"@de ,
+		"Bill Brack"@en ,
+		"Bill Brack"@fr ,
+		"Bill Brack"@nl ,
+		"Bill Brack"@it ,
+		"Bill Brack"@pl ;
+	rdfs:comment	"William Brack (born 26 December 1935 in Toronto, Ontario, Canada) is a former racing driver. He originally became involved in auto racing in the early 1960s, in the form of ice-racing Minis (using a company car) in Huntsville, Ontario. He went on to purchase Gordon Brown's own racing Mini (Gord Brown being another Mini racer as well as dealer of British cars at Glendale Suburban Motors in Brampton.)"@en ,
+		"Bill BrackFichier:Bill Brack Formula Atlantic EIS 1975.jpg Bill Brack Bill \u00E0 Edmonton en Formule Atlantique en 1975 William Brack est un pilote automobile n\u00E9 \u00E0 Toronto, Ontario (Canada) le 26 d\u00E9cembre 1935. Apr\u00E8s des d\u00E9buts en courses sur glace au d\u00E9but des ann\u00E9es 1960, il participe \u00E0 trois Grands Prix du Canada de Formule 1 en 1968, 1969 et 1972. Il obtient par la suite beaucoup de succ\u00E8s en Formule Atlantique, remportant le championnat en 1974 et 1975."@fr ,
+		"William Brack (Toronto, 26 de dezembro de 1935) \u00E9 um ex-automobilista canadense. Disputou os Grandes Pr\u00EAmios do Canad\u00E1 de F\u00F3rmula 1 de 1968, 1969 e 1972 pelas equipes Lotus e BRM."@pt ,
+		"William Brack (Toronto, 26 december 1935) is een Canadees voormalig Formule 1-coureur. Hij reed driemaal een Grand Prix, driemaal de Grand Prix in zijn thuisland Canada (1968, 1969 en 1972). Hij reed zijn eerste race voor het raceteam Lotus en de overige twee races voor het BRM-team. Na zijn Formule 1-carri\u00E8re reed Brack in de ChampCar Atlantic Championship in de jaren 70. Hij won dit kampioenschap in zowel 1973, 1974 als in 1975. Brack opende een Daimler AG-garage na zijn racecarri\u00E8re in Toronto."@nl ,
+		"William \u201EBill\u201D Brack (ur. 26 grudnia 1935 roku w Toronto) \u2013 kanadyjski kierowca wy\u015Bcigowy."@pl ,
+		"William \u201EBill\u201C Brack (* 26. Dezember 1935 in Toronto) ist ein ehemaliger kanadischer Autorennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bill_Brack	dbp:birthDate	"1935-12-26"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Bill_Brack	owl:sameAs	dbpedia-pl:Bill_Brack ,
+		dbr:Bill_Brack .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Bill_Brack	owl:sameAs	yago-res:Bill_Brack .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Bill_Brack	owl:sameAs	dbpedia-wikidata:Q172649 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Bill_Brack	owl:sameAs	dbpedia-pt:Bill_Brack ,
+		<http://rdf.freebase.com/ns/m.04k7hh> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Bill_Brack	owl:sameAs	dbpedia-de:Bill_Brack ,
+		wikidata:Q172649 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Bill_Brack	owl:sameAs	dbpedia-nl:Bill_Brack .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Bill_Brack	owl:sameAs	dbpedia-it:Bill_Brack .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Bill_Brack	owl:sameAs	dbpedia-fr:Bill_Brack .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Bill_Brack	dct:subject	dbc:Canadian_Formula_One_drivers ,
+		dbc:Canadian_Motorsport_Hall_of_Fame_inductees ,
+		dbc:Racing_drivers_from_Ontario ,
+		dbc:BRM_Formula_One_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:Atlantic_Championship_drivers ,
+		dbc:Living_people ,
+		dbc:Trans-Am_Series_drivers ,
+		dbc:Sportspeople_from_Toronto ,
+		<http://dbpedia.org/resource/Category:1935_births> ;
+	foaf:name	"Bill Brack"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Bill_Brack_Formula_Atlantic_EIS_1975.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Bill"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Bill_Brack ;
+	foaf:surname	"Brack"@en ;
+	dbp:points	0 ;
+	dbp:years	1974 ,
+		"\u2013 ,"^^xsd:string ;
+	dbp:after	dbr:Gilles_Villeneuve ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Team_Lotus ,
+		dbr:BRM .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Bill_Brack	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bill_Brack?oldid=703964723> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-brabil.html> ,
+		<http://www.canadianracer.com/brack-interview.asp> ;
+	dbp:nationality	"Canadian"^^xsd:string ;
+	dbp:birthPlace	"Toronto, Ontario, Canada"^^xsd:string ;
+	dbp:before	"None"^^xsd:string ;
+	dbo:abstract	"Bill BrackFichier:Bill Brack Formula Atlantic EIS 1975.jpg Bill Brack Bill \u00E0 Edmonton en Formule Atlantique en 1975 William Brack est un pilote automobile n\u00E9 \u00E0 Toronto, Ontario (Canada) le 26 d\u00E9cembre 1935. Apr\u00E8s des d\u00E9buts en courses sur glace au d\u00E9but des ann\u00E9es 1960, il participe \u00E0 trois Grands Prix du Canada de Formule 1 en 1968, 1969 et 1972. Il obtient par la suite beaucoup de succ\u00E8s en Formule Atlantique, remportant le championnat en 1974 et 1975."@fr ,
+		"William \u201EBill\u201D Brack (ur. 26 grudnia 1935 roku w Toronto) \u2013 kanadyjski kierowca wy\u015Bcigowy."@pl ,
+		"William Brack (Toronto, 26 de dezembro de 1935) \u00E9 um ex-automobilista canadense. Disputou os Grandes Pr\u00EAmios do Canad\u00E1 de F\u00F3rmula 1 de 1968, 1969 e 1972 pelas equipes Lotus e BRM."@pt ,
+		"William Brack (Toronto, 26 december 1935) is een Canadees voormalig Formule 1-coureur. Hij reed driemaal een Grand Prix, driemaal de Grand Prix in zijn thuisland Canada (1968, 1969 en 1972). Hij reed zijn eerste race voor het raceteam Lotus en de overige twee races voor het BRM-team. Na zijn Formule 1-carri\u00E8re reed Brack in de ChampCar Atlantic Championship in de jaren 70. Hij won dit kampioenschap in zowel 1973, 1974 als in 1975. Brack opende een Daimler AG-garage na zijn racecarri\u00E8re in Toronto."@nl ,
+		"William \u201EBill\u201C Brack (* 26. Dezember 1935 in Toronto) ist ein ehemaliger kanadischer Autorennfahrer."@de ,
+		"William Brack (born 26 December 1935 in Toronto, Ontario, Canada) is a former racing driver. He originally became involved in auto racing in the early 1960s, in the form of ice-racing Minis (using a company car) in Huntsville, Ontario. He went on to purchase Gordon Brown's own racing Mini (Gord Brown being another Mini racer as well as dealer of British cars at Glendale Suburban Motors in Brampton.) Brack subsequently became a Formula One driver who raced for the Lotus and BRM teams. After Formula One he was successful in Atlantic Championship in the mid-1970s, having won the Canadian Formula Atlantic Championships in three successive years (1973, 1974, 1975) before retiring from racing to open a Daimler Chrysler dealership (Downtown Chrysler) near the Canadian National Exhibition in Toronto."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Bill_Brack_Formula_Atlantic_EIS_1975.jpg?width=300> ;
+	dbo:birthDate	"1935-12-26"^^xsd:date ;
+	dbo:wikiPageRevisionID	703964723 ;
+	dbo:birthPlace	dbr:Toronto ;
+	dbo:wikiPageID	1228233 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1968_Canadian_Grand_Prix> ;
+	dbo:races	"3"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1972_Canadian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Bill_Brack	ns25:hypernym	dbr:Driver ;
+	dbp:title	dbr:Champ_Car_Atlantic .

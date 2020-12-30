@@ -1,0 +1,226 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__T+2.0__4>	dbo:firstDriver	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__41__1>	dbo:firstDriver	dbr:Mark_Donohue .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Tom_Pryce	dbp:before	dbr:Mark_Donohue .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Mark_Donohue	foaf:primaryTopic	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1971_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1966_Canadian_Grand_Prix>	dbo:firstDriver	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__51__1>	dbo:firstDriver	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Mark_Donohue .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Mark_Donohue	rdf:type	dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mark_Donohue	rdf:type	wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mark_Donohue	rdf:type	yago:Driver110034906 ,
+		yago:WikicatNASCARDrivers ,
+		wikidata:Q378622 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatTrans-AmSeriesDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mark_Donohue	rdf:type	umbel-rc:RaceCarDriver .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mark_Donohue	rdf:type	ns9:Agent ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		ns9:NaturalPerson ,
+		dbo:MotorsportRacer ,
+		foaf:Person ,
+		yago:WikicatPenskeFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatChampCarDrivers ,
+		yago:WikicatIndianapolis500Drivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mark_Donohue	rdf:type	owl:Thing ,
+		umbel-rc:Athlete ,
+		wikidata:Q24229398 ,
+		dbo:Athlete ,
+		wikidata:Q215627 ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		dbo:Person ,
+		yago:WikicatRacingDriversFromNewJersey .
+@prefix schema:	<http://schema.org/> .
+dbr:Mark_Donohue	rdf:type	schema:Person ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mark_Donohue	rdfs:label	"Mark Donohue"@pt ,
+		"Mark Donohue"@it ,
+		"\u0645\u0627\u0631\u0643 \u062F\u0648\u0646\u0648\u0647\u064A\u0648"@ar ,
+		"\u0414\u043E\u043D\u043E\u0445\u044C\u044E, \u041C\u0430\u0440\u043A"@ru ,
+		"Mark Donohue"@nl ,
+		"\u30DE\u30FC\u30AF\u30FB\u30C0\u30CA\u30D2\u30E5\u30FC"@ja ,
+		"Mark Donohue"@de ,
+		"Mark Donohue"@pl ,
+		"Mark Donohue"@en ,
+		"Mark Donohue"@es ,
+		"Mark Donohue"@fr ;
+	rdfs:comment	"Mark Neary Donohue, Jr. (Summit (New Jersey), 18 maart 1937 - Graz, Oostenrijk, 19 augustus 1975) was een Amerikaans Formule 1-coureur. Hij reed in 1971, 1974 en 1975 16 Grands Prix voor het team Penske.hij won ook in 1969 de rookie of the year titel op indianapolis drie jaar later wint hij op indy. in 1971 haalt Donohue het podium voor penske tijdens de grand prix van canada."@nl ,
+		"\u041C\u0430\u0440\u043A \u041D\u0438\u0440\u0438 \u0414\u043E\u043D\u043E\u0445\u044C\u044E-\u043C\u043B\u0430\u0434\u0448\u0438\u0439 (\u0430\u043D\u0433\u043B. Mark Neary Donohue, Jr., 18 \u043C\u0430\u0440\u0442\u0430 1937 \u0433\u043E\u0434\u0430, \u0421\u0430\u043C\u043C\u0438\u0442, \u0448\u0442\u0430\u0442 \u041D\u044C\u044E-\u0414\u0436\u0435\u0440\u0441\u0438 \u2014 19 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1975 \u0433\u043E\u0434\u0430, \u0413\u0440\u0430\u0446) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Mark Donohue (Haddon Township, Nueva Jersey, Estados Unidos, 18 de marzo de 1938 - 19 de agosto de 1975) fue un piloto de automovilismo de velocidad estadounidense, que se destac\u00F3 en monoplazas y autom\u00F3viles deportivos. Fue piloto de Penske desde 1966 hasta su muerte en los entrenamientos para el Gran Premio de Austria de 1975. Donohue disput\u00F3 el Campeonato Nacional del USAC desde 1968 hasta 1973 con Penske, resultando quinto en 1972 y octavo en 1971. En las 500 Millas de Indian\u00E1polis, fue novato del a\u00F1o 1969, clasific\u00F3 en la primera fila tres veces, y fue ganador en 1972."@es ,
+		"\u30DE\u30FC\u30AF\u30FB\u30C0\u30CA\u30D2\u30E5\u30FC\uFF08Mark Donohue, 1937\u5E743\u670818\u65E5 - 1975\u5E748\u670819\u65E5\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u51FA\u8EAB\u306E\u30AB\u30FC\u30EC\u30FC\u30B5\u30FC\u30021972\u5E74\u306E\u30A4\u30F3\u30C7\u30A3500\u306E\u30A6\u30A3\u30CA\u30FC\u3001\u53CA\u30731973\u5E74\u306ECan-Am\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002 \u30A4\u30F3\u30C7\u30A3500\u3001\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\u3001Can-Am\u3001NASCAR\u306A\u3069\u69D8\u3005\u306A\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u30AB\u30C6\u30B4\u30EA\u3067\u6D3B\u8E8D\u3057\u305F\u3002 1975\u5E74\u3001F1\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA\u306E\u4E88\u9078\u4E2D\u306B\u30AF\u30E9\u30C3\u30B7\u30E5\u3002\u4E8B\u6545\u5F8C\u306F\u610F\u8B58\u3082\u3042\u308A\u4F1A\u8A71\u3082\u3067\u304D\u305F\u304C\u3001\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u306E\u9AD8\u5EA6\u5909\u5316\u306B\u3088\u308B\u8133\u6EA2\u8840\u306E\u305F\u30813\u65E5\u5F8C\u306B\u6B7B\u53BB\u3057\u305F\u300237\u6B73\u6CA1\u3002"@ja ,
+		"\u0645\u0627\u0631\u0643 \u062F\u0648\u0646\u0648\u0647\u064A\u0648 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Mark Donohue) \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0645\u0627\u0631\u0633 1937 \u0641\u064A \u0646\u064A\u0648 \u062C\u064A\u0631\u0633\u064A\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1971. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0643\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1971. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 16 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Mark Donohue (* 18. M\u00E4rz 1937 in Summit (New Jersey); \u2020 19. August 1975 in Graz, \u00D6sterreich) war ein US-amerikanischer Automobilrennfahrer."@de ,
+		"Mark Neary Donohue Jr. (March 18, 1937 \u2013 August 19, 1975), nicknamed \"Captain Nice,\" and later \"Dark Monohue,\" was an American racecar driver known for his ability to set up his own race car as well as driving it to victories."@en ,
+		"Mark Neary Donohue (n\u00E9 le 18 mars 1937 \u00E0 Summit, New Jersey - mort le 19 ao\u00FBt 1975 \u00E0 Zeltweg, en Autriche, \u00E0 la suite d'un accident survenu lors des essais du Grand Prix d'Autriche) est un pilote automobile am\u00E9ricain. Pilote \u00E9clectique d\u00E9couvert au milieu des ann\u00E9es 1960 par Walt Hansgen, il a brill\u00E9 dans les \u00E9preuves de monoplaces am\u00E9ricaines (vainqueur des 500 miles d'Indianapolis 1972), en Trans-Am, en CanAm, en Nascar et a \u00E9galement particip\u00E9 \u00E0 plusieurs manches du championnat du monde de Formule 1."@fr ,
+		"Mark Neary Donohue, Jr. (Camden, 18 de mar\u00E7o de 1937 \u2014 Graz, 19 de agosto de 1975) foi um piloto de F\u00F3rmula 1 norte-americano que correu tamb\u00E9m nas 500 Milhas de Indianapolis, tendo vencido a edi\u00E7\u00E3o de 1972."@pt ,
+		"Mark Neary Donohue, Jr. (ur. 18 marca 1937 w Summit, New Jersey, zm. 19 sierpnia 1975 w Graz) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Sam przygotowywa\u0142 sw\u00F3j samoch\u00F3d do wy\u015Bcigu."@pl ;
+	owl:differentFrom	dbr:Mark_Donahue .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mark_Donohue	dbp:birthDate	"1937-03-18"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mark_Donohue	owl:sameAs	dbpedia-it:Mark_Donohue ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30FC\u30AF\u30FB\u30C0\u30CA\u30D2\u30E5\u30FC> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mark_Donohue	owl:sameAs	dbpedia-fr:Mark_Donohue ,
+		dbr:Mark_Donohue .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mark_Donohue	owl:sameAs	yago-res:Mark_Donohue ,
+		<http://rdf.freebase.com/ns/m.04ky73> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mark_Donohue	owl:sameAs	dbpedia-wikidata:Q171732 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Mark_Donohue	owl:sameAs	dbpedia-es:Mark_Donohue .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mark_Donohue	owl:sameAs	dbpedia-de:Mark_Donohue .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mark_Donohue	owl:sameAs	dbpedia-pl:Mark_Donohue ,
+		wikidata:Q171732 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mark_Donohue	owl:sameAs	dbpedia-nl:Mark_Donohue .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mark_Donohue	owl:sameAs	dbpedia-pt:Mark_Donohue .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mark_Donohue	dct:subject	dbc:Racing_drivers_from_New_Jersey ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Indianapolis_500_winners ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:Sport_deaths_in_Austria ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		dbc:Pingry_School_alumni ,
+		dbc:Penske_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:People_from_Haddon_Township,_New_Jersey> ,
+		dbc:Indianapolis_500_Rookies_of_the_Year ,
+		dbc:Brown_University_School_of_Engineering_alumni ,
+		dbc:American_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Union_County,_New_Jersey> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:People_from_Summit,_New_Jersey> ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		<http://dbpedia.org/resource/Category:1937_births> ,
+		<http://dbpedia.org/resource/Category:1975_deaths> ,
+		dbc:NASCAR_drivers ,
+		dbc:SCCA_National_Championship_Runoffs_winners ,
+		dbc:Trans-Am_Series_drivers ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:Burials_in_New_Jersey ;
+	foaf:name	"Mark Donohue"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Mark_Donohue_JPGP_S_75.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Mark"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Mark_Donohue ;
+	foaf:surname	"Donohue"@en ;
+	dbp:points	8 ;
+	dbp:years	1968 ,
+		1969 ,
+		1971 ,
+		1972 ,
+		1973 ,
+		"1975-08-19"^^xsd:date ,
+		", ,"^^xsd:string ;
+	dbp:after	dbr:Tom_Pryce ,
+		dbr:George_Follmer ,
+		dbr:Jackie_Oliver ,
+		dbr:Bobby_Unser ,
+		dbr:Donnie_Allison ,
+		dbr:Parnelli_Jones ,
+		dbr:Gordon_Johncock ;
+	<http://dbpedia.org/property/team(s)_>	"Penske and Penske-entered McLaren and March chassis"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mark_Donohue	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mark_Donohue?oldid=737901409> ;
+	dbo:wikiPageExternalLink	<http://thegreatest33.com/default.aspx#selecteddrivers?s=mark_donohue> ,
+		<https://web.archive.org/web/20120206124926/http:/www.amx-perience.com/MarkDonohue.htm> ,
+		<http://www.racing-reference.info/driver?id=donohma01> ,
+		<http://www.artemisimages.com/gallery.aspx?photomode=5&keywords=Mark%20Donohue> ,
+		<http://www.rrdc.org/> ,
+		<http://www.jayski.com/donohue/donohue.htm> ;
+	dbp:imageSize	230 ;
+	dbp:caption	"Donohue in July , at the British Grand Prix"^^xsd:string ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Haddon_Township,_New_Jersey> ;
+	dbp:deathDate	"1975-08-19"^^xsd:date ;
+	dbp:before	dbr:Bill_Vukovich_II ,
+		dbr:George_Follmer ,
+		dbr:Jerry_Titus ,
+		dbr:Parnelli_Jones ,
+		"First Champion"^^xsd:string ,
+		dbr:Al_Unser ,
+		dbr:Helmut_Koinigg ;
+	dbp:deathPlace	dbr:Austria ,
+		dbr:Graz ;
+	dbo:abstract	"Mark Neary Donohue (n\u00E9 le 18 mars 1937 \u00E0 Summit, New Jersey - mort le 19 ao\u00FBt 1975 \u00E0 Zeltweg, en Autriche, \u00E0 la suite d'un accident survenu lors des essais du Grand Prix d'Autriche) est un pilote automobile am\u00E9ricain. Pilote \u00E9clectique d\u00E9couvert au milieu des ann\u00E9es 1960 par Walt Hansgen, il a brill\u00E9 dans les \u00E9preuves de monoplaces am\u00E9ricaines (vainqueur des 500 miles d'Indianapolis 1972), en Trans-Am, en CanAm, en Nascar et a \u00E9galement particip\u00E9 \u00E0 plusieurs manches du championnat du monde de Formule 1."@fr ,
+		"\u0645\u0627\u0631\u0643 \u062F\u0648\u0646\u0648\u0647\u064A\u0648 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Mark Donohue) \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0645\u0627\u0631\u0633 1937 \u0641\u064A \u0646\u064A\u0648 \u062C\u064A\u0631\u0633\u064A\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1971. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0643\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1971. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 16 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"\u30DE\u30FC\u30AF\u30FB\u30C0\u30CA\u30D2\u30E5\u30FC\uFF08Mark Donohue, 1937\u5E743\u670818\u65E5 - 1975\u5E748\u670819\u65E5\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u51FA\u8EAB\u306E\u30AB\u30FC\u30EC\u30FC\u30B5\u30FC\u30021972\u5E74\u306E\u30A4\u30F3\u30C7\u30A3500\u306E\u30A6\u30A3\u30CA\u30FC\u3001\u53CA\u30731973\u5E74\u306ECan-Am\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002 \u30A4\u30F3\u30C7\u30A3500\u3001\u30D5\u30A9\u30FC\u30DF\u30E5\u30E91\u3001Can-Am\u3001NASCAR\u306A\u3069\u69D8\u3005\u306A\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u30AB\u30C6\u30B4\u30EA\u3067\u6D3B\u8E8D\u3057\u305F\u3002 1975\u5E74\u3001F1\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u30B0\u30E9\u30F3\u30D7\u30EA\u306E\u4E88\u9078\u4E2D\u306B\u30AF\u30E9\u30C3\u30B7\u30E5\u3002\u4E8B\u6545\u5F8C\u306F\u610F\u8B58\u3082\u3042\u308A\u4F1A\u8A71\u3082\u3067\u304D\u305F\u304C\u3001\u30D8\u30EA\u30B3\u30D7\u30BF\u30FC\u306E\u9AD8\u5EA6\u5909\u5316\u306B\u3088\u308B\u8133\u6EA2\u8840\u306E\u305F\u30813\u65E5\u5F8C\u306B\u6B7B\u53BB\u3057\u305F\u300237\u6B73\u6CA1\u3002"@ja ,
+		"Mark Donohue (* 18. M\u00E4rz 1937 in Summit (New Jersey); \u2020 19. August 1975 in Graz, \u00D6sterreich) war ein US-amerikanischer Automobilrennfahrer."@de ,
+		"Mark Neary Donohue Jr. (March 18, 1937 \u2013 August 19, 1975), nicknamed \"Captain Nice,\" and later \"Dark Monohue,\" was an American racecar driver known for his ability to set up his own race car as well as driving it to victories. Donohue is probably best known as the driver of the 1500+ bhp \"Can-Am Killer\" Porsche 917-30 and as the winner of the Indianapolis 500 in 1972. Cars that Donohue raced include: AMC Javelin, AMC Matador, Chevrolet Camaro, Eagle-Offy, Elva Courier, Ford GT40 MK IV, Ferrari 250LM, Ferrari 512, Lola T70, Lola T330, Lotus 20, McLaren M16, Porsche 911, Porsche 917/10, Porsche 917/30, Shelby Cobra, and Shelby Mustang GT350R."@en ,
+		"Mark Donohue (Haddon Township, Nueva Jersey, Estados Unidos, 18 de marzo de 1938 - 19 de agosto de 1975) fue un piloto de automovilismo de velocidad estadounidense, que se destac\u00F3 en monoplazas y autom\u00F3viles deportivos. Fue piloto de Penske desde 1966 hasta su muerte en los entrenamientos para el Gran Premio de Austria de 1975. Disput\u00F3 la CanAm, logrando el t\u00EDtulo en 1973, el segundo puesto en 1966, y el tercero en 1968. Tambi\u00E9n fue campe\u00F3n de la Trans-Am en 1968 y 1969, y subcampe\u00F3n en 1970, acumulando un total de 29 victorias. En 1973 fue tercero en la F\u00F3rmula 5000. En 1969 gan\u00F3 las 24 Horas de Daytona del Campeonato Mundial de Resistencia junto a Chuck Parsons, al volante de un Lola T70-Chevrolet. Donohue disput\u00F3 el Campeonato Nacional del USAC desde 1968 hasta 1973 con Penske, resultando quinto en 1972 y octavo en 1971. En las 500 Millas de Indian\u00E1polis, fue novato del a\u00F1o 1969, clasific\u00F3 en la primera fila tres veces, y fue ganador en 1972. El piloto disput\u00F3 un total de seis carreras de la Copa NASCAR en 1972 y 1973, obteniendo la victoria en Riverside en enero de 1973. En 1974, disput\u00F3 las cuatro fechas de la International Race of Champions, obteniendo el t\u00EDtulo con tres victorias al volante del Porsche 911. Donohue disput\u00F3 varias ediciones de las 24 Horas de Le Mans, resultando cuarto absoluto en 1967 con un Ford GT40 del equipo de Carroll Shelby. Donohue disput\u00F3 15 grandes premios de F\u00F3rmula 1 desde 1971 hasta 1975, tambi\u00E9n con Penske. En su debut obtuvo el \u00FAnico podio de su vida en el Gran Premio de Canad\u00E1 de 1971. Luego lleg\u00F3 quinto en el Gran Premio de Holanda de 1975, por lo que logr\u00F3 un total de 8 puntos del campeonato mundial. En el Gran Premio de Austria de 1975 durante las pr\u00E1cticas del s\u00E1bado, Mark Donohue sufri\u00F3 un accidente que le cost\u00F3 la vida. La violencia del impacto hizo que la valla met\u00E1lica se echara abajo con el peso de su March acabando coche y piloto en el c\u00E9sped; Mark Donohue tuvo choque hemorr\u00E1gico cerebral y falleci\u00F3 en el hospital tres d\u00EDas despu\u00E9s. Donohue se recibi\u00F3 de ingeniero mec\u00E1nico en la Universidad Brown en 1959. Sus conocimientos te\u00F3ricos le permitieron destacarse en su tarea de desarrollar autom\u00F3viles, en contraste con otros pilotos que t\u00EDpicamente contaban solamente con experiencia pr\u00E1ctica. El piloto public\u00F3 junto a Paul Van Valkenburgh el libro The Unfair Advantage (\"La ventaja injusta\"), en el que describe dichas t\u00E9cnicas de desarrollo."@es ,
+		"Mark Neary Donohue, Jr. (Summit (New Jersey), 18 maart 1937 - Graz, Oostenrijk, 19 augustus 1975) was een Amerikaans Formule 1-coureur. Hij reed in 1971, 1974 en 1975 16 Grands Prix voor het team Penske.hij won ook in 1969 de rookie of the year titel op indianapolis drie jaar later wint hij op indy. in 1971 haalt Donohue het podium voor penske tijdens de grand prix van canada. Hij besloot later te stoppen met racen voor een rol als manager, maar keerde weer terug op de baan op zeltweg. Hier ging het fout toen Donohue crashte tijdens de training voor de Grand Prix Formule 1 van Oostenrijk 1975. Donohue leek eerst met de schrik vrij te komen, maar in het ziekenhuis bezweek hij 3 dagen later aan ernstig hersenletsel. Bij de crash verloren ook twee marshalls het leven."@nl ,
+		"Mark Neary Donohue, Jr. (ur. 18 marca 1937 w Summit, New Jersey, zm. 19 sierpnia 1975 w Graz) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Sam przygotowywa\u0142 sw\u00F3j samoch\u00F3d do wy\u015Bcigu."@pl ,
+		"\u041C\u0430\u0440\u043A \u041D\u0438\u0440\u0438 \u0414\u043E\u043D\u043E\u0445\u044C\u044E-\u043C\u043B\u0430\u0434\u0448\u0438\u0439 (\u0430\u043D\u0433\u043B. Mark Neary Donohue, Jr., 18 \u043C\u0430\u0440\u0442\u0430 1937 \u0433\u043E\u0434\u0430, \u0421\u0430\u043C\u043C\u0438\u0442, \u0448\u0442\u0430\u0442 \u041D\u044C\u044E-\u0414\u0436\u0435\u0440\u0441\u0438 \u2014 19 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1975 \u0433\u043E\u0434\u0430, \u0413\u0440\u0430\u0446) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Mark Neary Donohue, Jr. (Camden, 18 de mar\u00E7o de 1937 \u2014 Graz, 19 de agosto de 1975) foi um piloto de F\u00F3rmula 1 norte-americano que correu tamb\u00E9m nas 500 Milhas de Indianapolis, tendo vencido a edi\u00E7\u00E3o de 1972. Graduou-se em engenharia mec\u00E2nica em 1959 pela Universidade Brown. Algum tempo depois come\u00E7ou a participar de provas utilizando seu Corvette 1957, ganhando a primeira prova que disputou, o que chamou a aten\u00E7\u00E3o de um chefe de equipe novato e que iria ser seu companheiro na automobilismo: Roger Penske. Participa de corridas de carros de turismo e disputa pela primeira vez as 24 Horas de Le Mans em 1966. Em 1969, tendo Roger Penske como chefe de equipe, participa das 500 Milhas de Indian\u00E1polis, chegando em s\u00E9timo e sendo escolhido como o estreante do ano. No ano seguinte faz melhor ainda e chega em segundo lugar. Em 1971 n\u00E3o tem um bom desepenho nas 500 Milhas, mas estr\u00E9ia na F\u00F3rmula Um, sempre com Penske ao seu lado e com um chassis McLaren termina em terceiro o Grande Pr\u00EAmio do Canad\u00E1 daquele ano. Os pontos ganhos s\u00E3o suficientes para que termine o ano em 16\u00BA lugar entre os competidores. Em 1972 alcan\u00E7a a vit\u00F3ria nas 500 Milhas de Indian\u00E1polis e juntamente com Roger Penske inicia o desenvolvimento do Porsche 917 que domina de tal forma a Can Am, que as regras s\u00E3o mudadas para o ano seguinte. No fim de 1973 Donohue se retira das competi\u00E7\u00F5es, mas \u00E9 algo tempor\u00E1rio: o mesmo ir\u00E1 retornar no final de 1974 como piloto de Penske na F\u00F3rmula 1. O ano de 1975 parecia ser promissor, mas Mark Donohue veio a falecer ap\u00F3s um acidente nos treinos do Grande Pr\u00EAmio da \u00C1ustria de 1975. O piloto aparentemente nada sofrera, mas ao ser transportado de helicoptero para o hospital reclamava de dores de cabe\u00E7a que aumentaram e o mesmo acabou entrando em coma, vindo a falecer dias depois. Depois constatou-se que, no acidente, um poste havia cedido e acertado sua cabe\u00E7a."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Mark_Donohue_JPGP_S_75.jpg?width=300> ;
+	dbo:birthDate	"1937-3-18"^^xsd:date ;
+	dbo:deathDate	"1975-8-19"^^xsd:date ;
+	dbo:deathPlace	dbr:Graz ;
+	dbo:wikiPageRevisionID	737901409 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Summit,_New_Jersey> ;
+	dbo:wikiPageID	1235776 ;
+	dbo:nationality	dbr:United_States ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1971_Canadian_Grand_Prix> ;
+	dbo:races	"16"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1975_Austrian_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbp:title	"Champion"^^xsd:string ,
+		dbr:Can-Am ,
+		dbr:International_Race_of_Champions ,
+		dbr:Trans-Am ,
+		"Winner"^^xsd:string ,
+		dbr:List_of_Indianapolis_500_winners ,
+		dbr:List_of_Formula_One_fatal_accidents ,
+		dbr:Indianapolis_500_Rookie_of_the_Year .
+dbr:Gordon_Johncock	dbp:before	dbr:Mark_Donohue .
+dbr:Al_Unser	dbp:after	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__2__1>	dbo:firstDriver	dbr:Mark_Donohue .
+dbr:Donnie_Allison	dbp:before	dbr:Mark_Donohue .
+dbr:Mark_Donahue	owl:differentFrom	dbr:Mark_Donohue .
+dbr:George_Follmer	dbp:after	dbr:Mark_Donohue .
+dbr:Jackie_Oliver	dbp:before	dbr:Mark_Donohue .
+dbr:Bobby_Unser	dbp:before	dbr:Mark_Donohue .
+dbr:Helmuth_Koinigg	dbp:after	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1972_Can-Am_season__4__1>	dbo:firstDriver	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1973_Can-Am_season__1__1>	dbo:firstDriver	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1969_Indianapolis_500>	dbp:rookie	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1971_Indianapolis_500>	dbp:nextWinner	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1972_Indianapolis_500>	dbp:thisWinner	dbr:Mark_Donohue ;
+	dbp:winner	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1973_Indianapolis_500>	dbp:previousWinner	dbr:Mark_Donohue .
+dbr:Bill_Vukovich_II	dbp:after	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1966_Can-Am_season__2__1>	dbo:firstDriver	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1967_Can-Am_season__4__1>	dbo:firstDriver	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1968_Can-Am_season__3__1>	dbo:firstDriver	dbr:Mark_Donohue .
+dbr:Donohue	dbo:wikiPageDisambiguates	dbr:Mark_Donohue .
+<http://dbpedia.org/resource/1973_Winston_Western_500>	dbp:mostDriver	dbr:Mark_Donohue ;
+	dbp:firstDriver	dbr:Mark_Donohue .

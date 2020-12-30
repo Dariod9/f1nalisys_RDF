@@ -1,0 +1,196 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2012_Superstars_Series_Donington_round>	dbp:thirdDriverR	dbr:Vitantonio_Liuzzi .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2002_Macau_Grand_Prix__Kolles_Racing__1>	dbo:firstDriver	dbr:Vitantonio_Liuzzi .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Vitantonio_Liuzzi	foaf:primaryTopic	dbr:Vitantonio_Liuzzi .
+<http://dbpedia.org/resource/2012_Superstars_Series_Monza_round>	dbp:firstDriverR	dbr:Vitantonio_Liuzzi ;
+	dbp:thirdDriverR	dbr:Vitantonio_Liuzzi .
+<http://dbpedia.org/resource/2012_Superstars_Series_Pergusa_round>	dbp:thirdDriverR	dbr:Vitantonio_Liuzzi .
+dbr:Nico_Rosberg	dbp:before	dbr:Vitantonio_Liuzzi .
+<http://dbpedia.org/resource/2012_Superstars_Series_Hungaroring_round>	dbp:firstDriverR	dbr:Vitantonio_Liuzzi ;
+	dbp:secondDriverR	dbr:Vitantonio_Liuzzi ;
+	dbp:poleDriver	dbr:Vitantonio_Liuzzi .
+dbr:Liuzzi	dbo:wikiPageRedirects	dbr:Vitantonio_Liuzzi .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Vitantonio_Liuzzi	rdf:type	yago:Driver110034906 ,
+		yago:WikicatSpeedcarSeriesDrivers ,
+		yago:WikicatSuperstarsSeriesDrivers ,
+		yago:WikicatForceIndiaFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		dbo:FormulaOneRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Vitantonio_Liuzzi	rdf:type	owl:Thing ,
+		dbo:MotorsportRacer ,
+		yago:WikicatA1TeamItalyDrivers ,
+		<http://dbpedia.org/class/yago/WikicatEurocupFormulaRenault2.0Drivers> ,
+		yago:WikicatKartingWorldChampionshipDrivers ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		<http://dbpedia.org/class/yago/WikicatGermanFormulaRenault2.0Drivers> ,
+		yago:WikicatSuperGTDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Vitantonio_Liuzzi	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Vitantonio_Liuzzi	rdf:type	schema:Person ,
+		yago:WikicatHRTFormulaOneDrivers .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Vitantonio_Liuzzi	rdf:type	ns10:NaturalPerson ,
+		foaf:Person ,
+		dbo:Athlete ,
+		ns10:Agent ,
+		yago:WikicatFIAWorldEnduranceChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		wikidata:Q378622 ,
+		yago:WikicatGermanFormulaThreeChampionshipDrivers ,
+		wikidata:Q5 ,
+		dbo:Agent ,
+		yago:WikicatToroRossoFormulaOneDrivers ,
+		yago:WikicatV8SupercarDrivers ,
+		yago:WikicatRedBullFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatSuperFormulaDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Vitantonio_Liuzzi	rdfs:label	"\u0641\u064A\u062A\u0627\u0646\u062A\u0648\u0646\u064A\u0648 \u0644\u064A\u0648\u0632\u064A"@ar ,
+		"Vitantonio Liuzzi"@pl ,
+		"Vitantonio Liuzzi"@fr ,
+		"Vitantonio Liuzzi"@es ,
+		"Vitantonio Liuzzi"@it ,
+		"Vitantonio Liuzzi"@nl ,
+		"Vitantonio Liuzzi"@pt ,
+		"\u041B\u044C\u044E\u0446\u0446\u0438, \u0412\u0438\u0442\u0430\u043D\u0442\u043E\u043D\u0438\u043E"@ru ,
+		"Vitantonio Liuzzi"@de ,
+		"Vitantonio Liuzzi"@en ,
+		"\u7EF4\u5854\u6258\u5C3C\u5965\u00B7\u67F3\u9F50"@zh ,
+		"\u30F4\u30A3\u30BF\u30F3\u30C8\u30CB\u30AA\u30FB\u30EA\u30A6\u30C3\u30C4\u30A3"@ja ;
+	rdfs:comment	"Vitantonio Liuzzi, dit Tonio Liuzzi, n\u00E9 le 6 ao\u00FBt 1981 \u00E0 Locorotondo, dans la province de Bari dans les Pouilles (Italie) est un pilote automobile italien, qui s'est illustr\u00E9 en Formule 3 et en Formule 3000, avant de d\u00E9buter en 2005 dans le championnat du monde de Formule 1, gr\u00E2ce \u00E0 l'appui de son sponsor Red Bull."@fr ,
+		"\u7EF4\u5854\u6258\u5C3C\u5965\u00B7\u201C\u6258\u5229\u8BFA\u201D\u00B7\u67F3\u9F50\uFF08Vitantonio \"Tonio\" Liuzzi\uFF0C1981\u5E748\u67086\u65E5\uFF0D\uFF09\uFF0C\u56FD\u5185\u4E00\u822C\u4E5F\u8BD1\u4F5C\u91CC\u5C24\u5179\uFF0C\u610F\u5927\u5229\u804C\u4E1A\u8D5B\u8F66\u8FD0\u52A8\u5458\uFF0C\u51FA\u751F\u4E8E\u610F\u5927\u5229\u6D1B\u8003\u8BFA\u6258\u6069\u591A(Locorotondo)\uFF0C\u73B0\u4E3A\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u4F0A\u65AF\u5DF4\u5C3C\u4E9E\u8ECA\u968A\u8F66\u624B\uFF0C\u66FE\u6548\u529B\u5370\u5EA6\u529B\u91CF\u8F66\u961F\u3002 \u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5BA3\u5E03\u81EA2009\u5E74\u7FA9\u5927\u5229\u5927\u734E\u8CFD\u8D77\u7531\u8D39\u65AF\u5207\u62C9\u70BA\u6CD5\u62C9\u5229\u8ECA\u968A\u51FA\u8CFD2009\u5E74\u5269\u9918\u7684\u8CFD\u4E8B\uFF0C\u6240\u4EE5\u5370\u5EA6\u529B\u91CF\u8F66\u961F\u4EE5\u7EF4\u5854\u6258\u5C3C\u5965\u00B7\u67F3\u9F50\u4EE3\u66FF\u8CBB\u5E0C\u5207\u62C9\u3002"@zh ,
+		"Vitantonio \u201ETonio\u201C Liuzzi (* 6. August 1981 in Locorotondo) ist ein italienischer Automobilrennfahrer. 2004 gewann Liuzzi den Meistertitel der internationalen Formel-3000-Meisterschaft. Von 2005 bis 2011 startete er f\u00FCr verschiedene Teams in der Formel 1."@de ,
+		"Vitantonio \"Tonio\" Liuzzi (born 6 August 1980) is an Italian professional racing driver who formerly raced in Formula One for the Red Bull, Toro Rosso, Force India and HRT teams. He has homes in Lugano, Switzerland and Pescara, Italy."@en ,
+		"Vitantonio \"Tonio\" Liuzzi (nacido el 6 de agosto de 1981 en Locorotondo) es un piloto de automovilismo de velocidad italiano. Disput\u00F3 79 Grandes Premios de F\u00F3rmula 1, obteniendo un sexto lugar en el Gran Premio de Corea de 2010 (siendo ese su mejor resultado) y el 15\u00BA puesto de campeonato en 2010 con el equipo Force India. Desde 2012 compite en la Superstars Series con la marca Mercedes-Benz."@es ,
+		"Vitantonio Liuzzi (ur. 6 sierpnia 1981 w Locorotondo) \u2013 w\u0142oski kierowca wy\u015Bcigowy. Od sezonu 2011 kierowca wy\u015Bcigowy hiszpa\u0144skiego zespo\u0142u Hispania Racing F1 Team. Urodzi\u0142 si\u0119 w Locorotondo i tam rozpocz\u0105\u0142 karier\u0119 w kartingu."@pl ,
+		"\u0641\u064A\u062A\u0627\u0646\u062A\u0648\u0646\u064A\u0648 \u0644\u064A\u0648\u0632\u064A \u0645\u0648\u0627\u0644\u064A\u062F 6 \u0623\u063A\u0633\u0637\u0633 1980\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 2005. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 2005. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 81 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Vitantonio Liuzzi (Locorotondo, 6 de agosto de 1981), \u00E9 um piloto italiano.Como muitos pilotos, Liuzzi come\u00E7ou sua carreira no kart, aos nove anos. Em 1993 ganhou o Campeonato Italiano de Kart. Em 1995 ficou em segundo lugar no Campeonato Mundial e quinto lugar no Campeonato Europeu in the European Championship. Em 2001 gahou o Mundial de Kart."@pt ,
+		"\u0412\u0438\u0442\u0430\u043D\u0442\u043E\u043D\u0438\u043E \u00AB\u0422\u043E\u043D\u0438\u043E\u00BB \u041B\u044C\u044E\u0446\u0446\u0438 (\u0438\u0442\u0430\u043B. Vitantonio \"Tonio\" Liuzzi); \u0440\u043E\u0434\u0438\u043B\u0441\u044F 6 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1981, \u0432 \u041B\u043E\u043A\u043E\u0440\u043E\u0442\u043E\u043D\u0434\u043E, \u0418\u0442\u0430\u043B\u0438\u044F) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"\u30F4\u30A3\u30BF\u30F3\u30C8\u30CB\u30AA\u30FB\"\u30C8\u30CB\u30AA\"\u30FB\u30EA\u30A6\u30C3\u30C4\u30A3\uFF08Vitantonio \"Tonio\" Liuzzi, 1981\u5E748\u67086\u65E5 - \uFF09\u306F\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u611B\u79F0\u306F\uFF62\u30C8\u30CB\u30AA\uFF63\u3002\u30D5\u30B8\u30C6\u30EC\u30D3\u306EF1\u30B0\u30E9\u30F3\u30D7\u30EA\u4E2D\u7D99\u306B\u304A\u3044\u3066\uFF08\u7279\u306B\u5869\u539F\u6052\u592B\u3068\u7AF9\u4E0B\u967D\u5E73\u30A2\u30CA\uFF09\u3001\uFF62\u30EA\u30F4\u30A3\u30C3\u30C4\u30A3\uFF63\u3068\u547C\u3070\u308C\u308B\u3053\u3068\u304C\u3042\u3063\u305F\u3002\u30D5\u30B8\u30C6\u30EC\u30D3F1\u4E2D\u7D99\u3067\u306E\u30CB\u30C3\u30AF\u30CD\u30FC\u30E0\u306F\u300C\u5143\u7956\u30A4\u30BF\u30EA\u30A2\u306E\u795E\u7AE5\u300D\u3002\u30C6\u30EC\u30D3\u671D\u65E5\u306E\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9E\u4E2D\u7D99\u3067\u306F\u300C\u30EA\u30A6\u30C3\u30C1\u30FC\u300D\u3068\u3082\u547C\u79F0\u3055\u308C\u308B\u3002"@ja ,
+		"Vitantonio Liuzzi (Locorotondo, 6 augustus 1980) is een Italiaanse coureur die sinds 2005 actief is in de Formule 1. Liuzzi reed in 2005 vier races als tweede rijder voor Red Bull Racing, daarna was hij actief als derde coureur voor het team. In het seizoen 2006 reed hij als tweede coureur voor het nieuwe team van Toro Rosso. In seizoen 2006 pakte hij het enige punt voor Toro Rosso door achtste te worden in Indianapolis. Deze race was kenmerkend door het feit dat deze opvallend veel uitvallers had en er slecht negen auto's over de finish kwamen."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Vitantonio_Liuzzi	dbp:birthDate	"1980-08-06"^^xsd:date .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-es:Vitantonio_Liuzzi .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	yago-res:Vitantonio_Liuzzi .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-id:Vitantonio_Liuzzi .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-fr:Vitantonio_Liuzzi .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-pl:Vitantonio_Liuzzi .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-it:Vitantonio_Liuzzi ,
+		dbr:Vitantonio_Liuzzi ,
+		wikidata:Q171294 ,
+		<http://rdf.freebase.com/ns/m.04z2pq> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-pt:Vitantonio_Liuzzi .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-de:Vitantonio_Liuzzi ,
+		<http://ja.dbpedia.org/resource/\u30F4\u30A3\u30BF\u30F3\u30C8\u30CB\u30AA\u30FB\u30EA\u30A6\u30C3\u30C4\u30A3> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-nl:Vitantonio_Liuzzi .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-cs:Vitantonio_Liuzzi .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Vitantonio_Liuzzi	owl:sameAs	dbpedia-wikidata:Q171294 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Vitantonio_Liuzzi	dct:subject	dbc:Toro_Rosso_Formula_One_drivers ,
+		dbc:FIA_World_Endurance_Championship_drivers ,
+		dbc:German_Formula_Three_Championship_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Red_Bull_Formula_One_drivers ,
+		dbc:A1_Team_Italy_drivers ,
+		dbc:Speedcar_Series_drivers ,
+		dbc:V8_Supercar_drivers ,
+		<http://dbpedia.org/resource/Category:1980_births> ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:Karting_World_Championship_drivers ,
+		dbc:International_Formula_3000_Champions ,
+		dbc:Super_Formula_drivers ,
+		<http://dbpedia.org/resource/Category:German_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		dbc:Super_GT_drivers ,
+		dbc:HRT_Formula_One_drivers ,
+		dbc:Stock_Car_Brasil_drivers ,
+		dbc:People_from_Pescara ,
+		dbc:International_GT_Open_drivers ,
+		dbc:Living_people ,
+		dbc:Superstars_Series_drivers ,
+		dbc:Formula_E_drivers ,
+		dbc:Force_India_Formula_One_drivers ;
+	foaf:name	"Vitantonio Liuzzi"@en ;
+	foaf:homepage	<http://www.liuzzi.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Vitantonio_Liuzzi_2011_Malaysia.jpg> ;
+	dct:description	"racing driver for Trulli GP in Formula E"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Vitantonio_Liuzzi ;
+	dbp:points	26 ;
+	dbp:years	"\u2013, \u2013"^^xsd:string ,
+		2014 ,
+		2004 ;
+	dbp:after	"Incumbent"^^xsd:string ,
+		dbr:Nico_Rosberg ;
+	<http://dbpedia.org/property/team(s)_>	dbr:HRT_F1 ,
+		dbr:Red_Bull_Racing ,
+		dbr:Toro_Rosso ,
+		dbr:Force_India .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Vitantonio_Liuzzi	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Vitantonio_Liuzzi?oldid=742551367> ;
+	dbo:wikiPageExternalLink	<http://www.liuzzi.com/> ;
+	dbp:caption	"Liuzzi at the 2011 Malaysian Grand Prix."^^xsd:string ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:birthPlace	"Locorotondo, Italy"^^xsd:string ;
+	dbp:before	<http://dbpedia.org/resource/Bj\u00F6rn_Wirdheim> ,
+		dbr:Jules_Bianchi ;
+	dbo:abstract	"\u7EF4\u5854\u6258\u5C3C\u5965\u00B7\u201C\u6258\u5229\u8BFA\u201D\u00B7\u67F3\u9F50\uFF08Vitantonio \"Tonio\" Liuzzi\uFF0C1981\u5E748\u67086\u65E5\uFF0D\uFF09\uFF0C\u56FD\u5185\u4E00\u822C\u4E5F\u8BD1\u4F5C\u91CC\u5C24\u5179\uFF0C\u610F\u5927\u5229\u804C\u4E1A\u8D5B\u8F66\u8FD0\u52A8\u5458\uFF0C\u51FA\u751F\u4E8E\u610F\u5927\u5229\u6D1B\u8003\u8BFA\u6258\u6069\u591A(Locorotondo)\uFF0C\u73B0\u4E3A\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u4F0A\u65AF\u5DF4\u5C3C\u4E9E\u8ECA\u968A\u8F66\u624B\uFF0C\u66FE\u6548\u529B\u5370\u5EA6\u529B\u91CF\u8F66\u961F\u3002 \u5370\u5EA6\u529B\u91CF\u8ECA\u968A\u5BA3\u5E03\u81EA2009\u5E74\u7FA9\u5927\u5229\u5927\u734E\u8CFD\u8D77\u7531\u8D39\u65AF\u5207\u62C9\u70BA\u6CD5\u62C9\u5229\u8ECA\u968A\u51FA\u8CFD2009\u5E74\u5269\u9918\u7684\u8CFD\u4E8B\uFF0C\u6240\u4EE5\u5370\u5EA6\u529B\u91CF\u8F66\u961F\u4EE5\u7EF4\u5854\u6258\u5C3C\u5965\u00B7\u67F3\u9F50\u4EE3\u66FF\u8CBB\u5E0C\u5207\u62C9\u3002"@zh ,
+		"\u0412\u0438\u0442\u0430\u043D\u0442\u043E\u043D\u0438\u043E \u00AB\u0422\u043E\u043D\u0438\u043E\u00BB \u041B\u044C\u044E\u0446\u0446\u0438 (\u0438\u0442\u0430\u043B. Vitantonio \"Tonio\" Liuzzi); \u0440\u043E\u0434\u0438\u043B\u0441\u044F 6 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1981, \u0432 \u041B\u043E\u043A\u043E\u0440\u043E\u0442\u043E\u043D\u0434\u043E, \u0418\u0442\u0430\u043B\u0438\u044F) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"Vitantonio \u201ETonio\u201C Liuzzi (* 6. August 1981 in Locorotondo) ist ein italienischer Automobilrennfahrer. 2004 gewann Liuzzi den Meistertitel der internationalen Formel-3000-Meisterschaft. Von 2005 bis 2011 startete er f\u00FCr verschiedene Teams in der Formel 1."@de ,
+		"Vitantonio Liuzzi, dit Tonio Liuzzi, n\u00E9 le 6 ao\u00FBt 1981 \u00E0 Locorotondo, dans la province de Bari dans les Pouilles (Italie) est un pilote automobile italien, qui s'est illustr\u00E9 en Formule 3 et en Formule 3000, avant de d\u00E9buter en 2005 dans le championnat du monde de Formule 1, gr\u00E2ce \u00E0 l'appui de son sponsor Red Bull."@fr ,
+		"Vitantonio Liuzzi (Locorotondo, 6 augustus 1980) is een Italiaanse coureur die sinds 2005 actief is in de Formule 1. Liuzzi reed in 2005 vier races als tweede rijder voor Red Bull Racing, daarna was hij actief als derde coureur voor het team. In het seizoen 2006 reed hij als tweede coureur voor het nieuwe team van Toro Rosso. In seizoen 2006 pakte hij het enige punt voor Toro Rosso door achtste te worden in Indianapolis. Deze race was kenmerkend door het feit dat deze opvallend veel uitvallers had en er slecht negen auto's over de finish kwamen. In de grote prijs van China in 2007 boekte Liuzzi zijn beste resultaat uit zijn carri\u00E8re tot dan toe door als zesde over de finish te komen. Enkele maanden eerder maakte Toro Rosso al bekend dat Vitantonio Liuzzi op zoek mocht gaan naar een ander team voor 2008 aangezien Sebastien Bourdais het seizoen 2008 in zijn plaats ging rijden. In 2008 reed Vitantonio Liuzzi niet in de Formule 1, maar was hij testrijder voor Force India. Hij kwam overigens wel in aanmerking voor een stoeltje bij dit team, samen met Christian Klien, Rold\u00E1n Rodr\u00EDguez, Ralf Schumacher, Giedo van der Garde en Adri\u00E1n Vall\u00E9s. Vitantonio Liuzzi hoopte nog steeds op een terugkeer in de Formule 1 als vaste coureur. De testrijder van Force India kreeg bij Red Bull een onvoldoende, maar de Italiaan gaf de hoop niet op. Op zijn 27e kreeg hij eind seizoen 2009 een tweede kans; hij viel in voor Giancarlo Fisichella bij Force India. Fisichella verving op zijn beurt Felipe Massa bij Ferrari. In 2010 was Liuzzi als tweede rijder actief voor het team Force India waar hij al sinds 2008 onder contract stond. Zijn beste resultaat behaalde hij tegen het eind van het seizoen in de Grand Prix van Korea, hier behaalde hij een zesde positie. In 2011 werd Liuzzi de tweede rijder bij het team HRT naast de teruggekeerde Narain Karthikeyan."@nl ,
+		"Vitantonio Liuzzi (ur. 6 sierpnia 1981 w Locorotondo) \u2013 w\u0142oski kierowca wy\u015Bcigowy. Od sezonu 2011 kierowca wy\u015Bcigowy hiszpa\u0144skiego zespo\u0142u Hispania Racing F1 Team. Urodzi\u0142 si\u0119 w Locorotondo i tam rozpocz\u0105\u0142 karier\u0119 w kartingu."@pl ,
+		"Vitantonio \"Tonio\" Liuzzi (born 6 August 1980) is an Italian professional racing driver who formerly raced in Formula One for the Red Bull, Toro Rosso, Force India and HRT teams. He has homes in Lugano, Switzerland and Pescara, Italy."@en ,
+		"Vitantonio Liuzzi (Locorotondo, 6 de agosto de 1981), \u00E9 um piloto italiano.Como muitos pilotos, Liuzzi come\u00E7ou sua carreira no kart, aos nove anos. Em 1993 ganhou o Campeonato Italiano de Kart. Em 1995 ficou em segundo lugar no Campeonato Mundial e quinto lugar no Campeonato Europeu in the European Championship. Em 2001 gahou o Mundial de Kart."@pt ,
+		"Vitantonio \"Tonio\" Liuzzi (nacido el 6 de agosto de 1981 en Locorotondo) es un piloto de automovilismo de velocidad italiano. Disput\u00F3 79 Grandes Premios de F\u00F3rmula 1, obteniendo un sexto lugar en el Gran Premio de Corea de 2010 (siendo ese su mejor resultado) y el 15\u00BA puesto de campeonato en 2010 con el equipo Force India. Desde 2012 compite en la Superstars Series con la marca Mercedes-Benz."@es ,
+		"\u0641\u064A\u062A\u0627\u0646\u062A\u0648\u0646\u064A\u0648 \u0644\u064A\u0648\u0632\u064A \u0645\u0648\u0627\u0644\u064A\u062F 6 \u0623\u063A\u0633\u0637\u0633 1980\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 2005. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 2005. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 81 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"\u30F4\u30A3\u30BF\u30F3\u30C8\u30CB\u30AA\u30FB\"\u30C8\u30CB\u30AA\"\u30FB\u30EA\u30A6\u30C3\u30C4\u30A3\uFF08Vitantonio \"Tonio\" Liuzzi, 1981\u5E748\u67086\u65E5 - \uFF09\u306F\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u611B\u79F0\u306F\uFF62\u30C8\u30CB\u30AA\uFF63\u3002\u30D5\u30B8\u30C6\u30EC\u30D3\u306EF1\u30B0\u30E9\u30F3\u30D7\u30EA\u4E2D\u7D99\u306B\u304A\u3044\u3066\uFF08\u7279\u306B\u5869\u539F\u6052\u592B\u3068\u7AF9\u4E0B\u967D\u5E73\u30A2\u30CA\uFF09\u3001\uFF62\u30EA\u30F4\u30A3\u30C3\u30C4\u30A3\uFF63\u3068\u547C\u3070\u308C\u308B\u3053\u3068\u304C\u3042\u3063\u305F\u3002\u30D5\u30B8\u30C6\u30EC\u30D3F1\u4E2D\u7D99\u3067\u306E\u30CB\u30C3\u30AF\u30CD\u30FC\u30E0\u306F\u300C\u5143\u7956\u30A4\u30BF\u30EA\u30A2\u306E\u795E\u7AE5\u300D\u3002\u30C6\u30EC\u30D3\u671D\u65E5\u306E\u30D5\u30A9\u30FC\u30DF\u30E5\u30E9E\u4E2D\u7D99\u3067\u306F\u300C\u30EA\u30A6\u30C3\u30C1\u30FC\u300D\u3068\u3082\u547C\u79F0\u3055\u308C\u308B\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Vitantonio_Liuzzi_2011_Malaysia.jpg?width=300> ;
+	dbo:birthDate	"1980-8-6"^^xsd:date ;
+	dbo:wikiPageRevisionID	742551367 ;
+	dbo:birthPlace	dbr:Locorotondo ;
+	dbo:wikiPageID	1393912 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/2005_San_Marino_Grand_Prix> ;
+	dbo:races	"81"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/2011_Brazilian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Vitantonio_Liuzzi	ns27:hypernym	dbr:Driver ;
+	dbp:title	dbr:Desafio_Internacional_das_Estrelas ,
+		"Winner"^^xsd:string ,
+		dbr:International_Formula_3000 .
+<http://dbpedia.org/resource/Bj\u00F6rn_Wirdheim>	dbp:after	dbr:Vitantonio_Liuzzi .
+<http://dbpedia.org/resource/2012_Superstars_Series_Spa-Francorchamps_round>	dbp:secondDriverR	dbr:Vitantonio_Liuzzi ;
+	dbp:thirdDriverR	dbr:Vitantonio_Liuzzi .
+dbr:Toro_Rosso_STR1__2006__2	dbo:firstDriver	dbr:Vitantonio_Liuzzi .
+dbr:Tonio_Liuzzi	dbo:wikiPageRedirects	dbr:Vitantonio_Liuzzi .
+<http://dbpedia.org/resource/2008\u201309_A1_Grand_Prix_of_Nations,_Portugal>	dbp:poleDriver	dbr:Vitantonio_Liuzzi .

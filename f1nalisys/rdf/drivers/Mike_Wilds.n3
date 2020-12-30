@@ -1,0 +1,130 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Mike_Wilds	foaf:primaryTopic	dbr:Mike_Wilds .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1987_200_Miles_of_Norisring__DNF__2>	dbo:firstDriver	dbr:Mike_Wilds .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Mike_Wilds	rdf:type	dbo:MotorsportRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mike_Wilds	rdf:type	wikidata:Q215627 ,
+		wikidata:Q5 ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mike_Wilds	rdf:type	umbel-rc:RaceCarDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Mike_Wilds	rdf:type	schema:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mike_Wilds	rdf:type	yago:Driver110034906 ,
+		yago:WikicatEnsignFormulaOneDrivers ,
+		dbo:Person .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mike_Wilds	rdf:type	ns9:NaturalPerson ,
+		ns9:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Operator110378412 ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q378622 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mike_Wilds	rdf:type	owl:Thing ,
+		yago:WikicatBritishGTChampionshipDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		foaf:Person ,
+		dbo:Agent ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		dbo:RacingDriver ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mike_Wilds	rdfs:label	"Mike Wilds"@en ,
+		"Mike Wilds"@de ,
+		"Mike Wilds"@pt ,
+		"Mike Wilds"@it ,
+		"Mike Wilds"@pl ,
+		"Mike Wilds"@fr ,
+		"\u0423\u0430\u0439\u043B\u0434\u0441, \u041C\u0430\u0439\u043A"@ru ,
+		"Mike Wilds"@nl ;
+	rdfs:comment	"Mike Wilds (* 7. Januar 1946 in London-Chiswick, England) ist ein ehemaliger britischer Automobilrennfahrer."@de ,
+		"Michael Wilds (Chiswick, Londres, Inglaterra, 7 de janeiro de 1946) foi um automobilista ingl\u00EAs que participou de 8 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1974 e 1976."@pt ,
+		"Mike Wilds (Chiswick, Londen, 7 januari 1946) is een Britse autocoureur, die enkele malen aan Formule 1-races deelnam."@nl ,
+		"William Michael Wilds, plus connu sous le nom de Mike Wilds, n\u00E9 le 7 janvier 1946 \u00E0 Chiswick, est un ancien pilote britannique. Il a particip\u00E9 \u00E0 8 Grands Prix en Formule 1 et n'a marqu\u00E9 aucun point."@fr ,
+		"Mike Wilds (born 7 January 1946 in Chiswick, London) is a British racing driver from England. He participated in eight Formula One World Championship Grands Prix, debuting on 20 July 1974. He scored no championship points. Wilds won the Formula Two class in the 1978 Aurora AFX championship, driving a Ralt and finished ninth in the overall standings. He also won the Thoroughbred Sports Cars championship in 1984 driving an Aston Martin DB4. Wilds won the RJB Mining Historic Sports Car Championship in 1992, '93, '96 and 98."@en ,
+		"Mike Wilds (ur. 7 stycznia 1946 roku w Chiswick w Londynie) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"\u041C\u0430\u0439\u043A \u0423\u0430\u0439\u043B\u0434\u0441 (\u0430\u043D\u0433\u043B. Mike Wilds, 7 \u044F\u043D\u0432\u0430\u0440\u044F 1946 \u0433\u043E\u0434\u0430, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Mike_Wilds	dbp:points	0 ;
+	owl:sameAs	wikidata:Q172049 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mike_Wilds	owl:sameAs	dbpedia-it:Mike_Wilds .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mike_Wilds	owl:sameAs	dbpedia-de:Mike_Wilds .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mike_Wilds	owl:sameAs	yago-res:Mike_Wilds .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mike_Wilds	owl:sameAs	dbpedia-wikidata:Q172049 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mike_Wilds	owl:sameAs	dbpedia-fr:Mike_Wilds .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mike_Wilds	owl:sameAs	dbpedia-pl:Mike_Wilds ,
+		<http://rdf.freebase.com/ns/m.04kvs4> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mike_Wilds	owl:sameAs	dbpedia-nl:Mike_Wilds .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mike_Wilds	owl:sameAs	dbpedia-pt:Mike_Wilds ,
+		dbr:Mike_Wilds .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mike_Wilds	dct:subject	dbc:British_GT_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1946_births> ,
+		dbc:BRM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:Ensign_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:People_from_Chiswick ;
+	foaf:name	"Mike Wilds"@en ;
+	foaf:homepage	<http://www.mikewilds.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Racing_driver_Mike_Wilds.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Mike"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Mike_Wilds ;
+	foaf:surname	"Wilds"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mike_Wilds	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mike_Wilds?oldid=724327844> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mike_Wilds	dbp:birthDate	"1946-01-07"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.mikewilds.com> ,
+		<http://www.northern-loop.tv/PGT/f1.html> ;
+	dbo:abstract	"Mike Wilds (Chiswick, Londen, 7 januari 1946) is een Britse autocoureur, die enkele malen aan Formule 1-races deelnam."@nl ,
+		"Mike Wilds (* 7. Januar 1946 in London-Chiswick, England) ist ein ehemaliger britischer Automobilrennfahrer."@de ,
+		"Mike Wilds (born 7 January 1946 in Chiswick, London) is a British racing driver from England. He participated in eight Formula One World Championship Grands Prix, debuting on 20 July 1974. He scored no championship points. After winning a few races in Formula 3 in the early 1970s, Wilds moved on to Formula 5000. At the same time, he took part in a few Formula One Grands Prix, firstly with a non-works March, then with Ensign and BRM. After he failed to qualify at his home grand prix in 1976, with a privately run Shadow, he concentrated on other forms of motor sport, including sports car racing and historic racing. Wilds won the Formula Two class in the 1978 Aurora AFX championship, driving a Ralt and finished ninth in the overall standings. He also won the Thoroughbred Sports Cars championship in 1984 driving an Aston Martin DB4. Wilds won the RJB Mining Historic Sports Car Championship in 1992, '93, '96 and 98. Wilds' sports car racing career included driving at Le Mans 8 times, including C2 cars for Ecurie Ecosse (World Champion C2, 1986), and Group C for Nissan in 1988 with team-mate Win Percy. Wilds won the 2008 Britcar Drivers Championship together with Ian Lawson and Mike's son Anthony Wilds in the ING Sport BMW; the team also went on to win again in 2013 and also won the 2008 Group C Enduro Trophy in the Porsche 962 with Henry Pearman. He still occasionally drives in events for historic cars. He raced a Porsche 962 and an Elva Mk5 in the 2008 Silverstone Classic. He returned to the Britcar Endurance grid in May 2016 posting his first win as a shared drive with son Anthony in a Ferrari 458. In addition to his car racing career, Wilds is an active commercial helicopter pilot and instructor. He is affectionately known as 'The Honorific' Mike Wilds."@en ,
+		"Michael Wilds (Chiswick, Londres, Inglaterra, 7 de janeiro de 1946) foi um automobilista ingl\u00EAs que participou de 8 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1974 e 1976."@pt ,
+		"Mike Wilds (ur. 7 stycznia 1946 roku w Chiswick w Londynie) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"William Michael Wilds, plus connu sous le nom de Mike Wilds, n\u00E9 le 7 janvier 1946 \u00E0 Chiswick, est un ancien pilote britannique. Il a particip\u00E9 \u00E0 8 Grands Prix en Formule 1 et n'a marqu\u00E9 aucun point."@fr ,
+		"\u041C\u0430\u0439\u043A \u0423\u0430\u0439\u043B\u0434\u0441 (\u0430\u043D\u0433\u043B. Mike Wilds, 7 \u044F\u043D\u0432\u0430\u0440\u044F 1946 \u0433\u043E\u0434\u0430, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Racing_driver_Mike_Wilds.jpg?width=300> ;
+	dbo:birthDate	"1946-1-7"^^xsd:date ;
+	dbo:wikiPageRevisionID	724327844 ;
+	dbo:birthPlace	dbr:London ;
+	dbo:wikiPageID	1235117 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Mike_Wilds	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1974_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1976_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"8"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"non-works March"^^xsd:string ,
+		"non-works Shadow"^^xsd:string ,
+		dbr:BRM ,
+		<http://dbpedia.org/resource/Ensign_(racing_team)> ;
+	dbp:nationality	"British"^^xsd:string .

@@ -1,0 +1,273 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__45__1>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1967_Can-Am_season__12=__3>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1969_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Chris_Amon ;
+	dbo:firstDriver	dbr:Chris_Amon ;
+	dbo:poleDriver	dbr:Chris_Amon .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jim_Clark	dbp:after	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1971_BRDC_International_Trophy>	dbo:poleDriver	dbr:Chris_Amon .
+dbr:Amon	dbo:wikiPageDisambiguates	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1968_International_Gold_Cup>	dbp:fastDriver	dbr:Chris_Amon ;
+	dbo:secondDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1968_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Chris_Amon ;
+	dbo:secondDriver	dbr:Chris_Amon .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Chris_Amon	rdf:type	yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Chris_Amon	rdf:type	foaf:Person ,
+		yago:WikicatAmonFormulaOneDrivers ,
+		yago:WikicatMatraFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Chris_Amon	rdf:type	owl:Thing ,
+		yago:WikicatWolfFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Chris_Amon	rdf:type	schema:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Chris_Amon	rdf:type	wikidata:Q215627 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Chris_Amon	rdf:type	ns9:Agent ,
+		wikidata:Q24229398 ,
+		ns9:NaturalPerson ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		dbo:MotorsportSeason ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 ,
+		yago:WikicatTasmanSeriesDrivers ,
+		wikidata:Q378622 ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		dbo:RacingDriver ,
+		dbo:Athlete ,
+		wikidata:Q5 ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		dbo:Person ,
+		yago:WikicatEnsignFormulaOneDrivers ,
+		yago:WikicatNewZealandFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Chris_Amon	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatTecnoFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Chris_Amon	rdfs:label	"\u0643\u0631\u064A\u0633 \u0623\u0645\u0648\u0646"@ar ,
+		"Chris Amon"@pl ,
+		"\u042D\u0439\u043C\u043E\u043D, \u041A\u0440\u0438\u0441"@ru ,
+		"Chris Amon"@en ,
+		"Chris Amon"@fr ,
+		"Chris Amon"@de ,
+		"\u30AF\u30EA\u30B9\u30FB\u30A8\u30A4\u30E2\u30F3"@ja ,
+		"Chris Amon"@es ,
+		"Chris Amon"@it ,
+		"Chris Amon"@nl ,
+		"Chris Amon"@pt ;
+	rdfs:comment	"\u041A\u0440\u0438\u0441\u0442\u043E\u0444\u0435\u0440 \u0410\u0440\u0442\u0443\u0440 \u042D\u0439\u043C\u043E\u043D (\u0430\u043D\u0433\u043B. Christopher Arthur Amon, 20 \u0438\u044E\u043B\u044F 1943, \u0411\u0443\u043B\u043B\u0441 \u2014 3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2016, \u0420\u043E\u0442\u043E\u0440\u0443\u0430) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043A\u0438 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB (1966), \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"\u0643\u0631\u064A\u0633 \u0623\u0645\u0648\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Chris Amon) (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u064A\u0648\u0644\u064A\u0648 1943 \u0641\u064A \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 - 3 \u0623\u063A\u0633\u0637\u0633 2016)\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1964. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0645\u0648\u0646\u0627\u0643\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 1963. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 108 \u0633\u0628\u0627\u0642\u0627\u064B. \u0648\u0643\u0627\u0646 \u0633\u0627\u0626\u0642\u0627\u064B \u0644\u0641\u064A\u0631\u0627\u0631\u064A \u0648\u0635\u0639\u062F \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0627\u0644\u062A\u062A\u0648\u064A\u062C 11 \u0645\u0631\u0629\u060C \u0648\u0642\u0627\u062F \u0623\u064A\u0636\u0627\u064B \u0641\u0631\u064A\u0642\u064A \"\u0645\u0627\u0631\u0634\" \u0648\"\u0645\u0627\u062A\u0631\u0627\" \u0636\u0645\u0646 13 \u0641\u0631\u064A\u0642\u0627\u064B \u0641\u064A \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u062A\u064A \u0627\u0645\u062A\u062F\u062A \u0639\u0644\u0649 \u0645\u062F\u0627\u0631 14 \u0645\u0648\u0633\u0645\u0627\u064B. \u0644\u0643\u0646\u0647 \u0644\u0645 \u064A\u0641\u0632 \u0628\u0623\u064A \u0633\u0628\u0627\u0642 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649."@ar ,
+		"Christopher Arthur Amon MBE (Bulls, 20 juli 1943 \u2013 Rotorua, 3 augustus 2016) was een Nieuw-Zeelands Formule 1-coureur. Amon reed in zijn carri\u00E8re voor tien verschillende teams. De eerste race waar Amon aan zou deelnemen was de Grand Prix van Monaco in 1963. Hij startte hier echter niet, hij moest zijn auto afstaan aan zijn teamgenoot Maurice Trintignant. De eerste finish van Amon was bij de Grand Prix Formule 1 van Frankrijk 1963, hij werd hier zevende.Het seizoen hierop volgend reed Amon voor het eerst in de punten, bij de Grand Prix Formule 1 van Nederland 1964, hij werd hier vijfde.De eerste podiumplaats van Amon was bij de Grand Prix Formule 1 van Monaco 1967, hij werd hier derde."@nl ,
+		"Christopher Arthur \"Chris\" Amon MBE (20 July 1943 \u2013 3 August 2016) was a New Zealand motor racing driver. He was active in Formula One racing in the 1960s and 1970s \u2013 and is widely regarded as one of the best F1 drivers never to win a championship Grand Prix. His reputation for bad luck was such that fellow driver Mario Andretti once joked that \"if he became an undertaker, people would stop dying\". Former Ferrari Technical Director Mauro Forghieri stated that Amon was \"by far the best test driver I have ever worked with. He had all the qualities to be a World Champion but bad luck just wouldn't let him be\"."@en ,
+		"Chris Amon, w\u0142a\u015Bc. Christopher Arthur Amon (ur. 20 lipca 1943 w Bulls, zm. 3 sierpnia 2016 w Rotorua) \u2013 nowozelandzki kierowca wy\u015Bcigowy. Zadebiutowa\u0142 w Formule 1 w sezonie 1963. W 1966 wygra\u0142 wy\u015Bcig 24 godziny Le Mans. W 1967 podpisa\u0142 umow\u0119 z Ferrari i zaj\u0105\u0142 4. miejsce w klasyfikacji generalnej. Uczestniczy\u0142 tak\u017Ce w wy\u015Bcigach w Tasmanii. W 1977 powr\u00F3ci\u0142 do Nowej Zelandii. Zmar\u0142 3 sierpnia 2016 w szpitalu w Rotorua na chorob\u0119 nowotworow\u0105."@pl ,
+		"\u30AF\u30EA\u30B9\u30C8\u30D5\u30A1\u30FC\u30FB\u30A2\u30FC\u30B5\u30FC\u30FB\u30A8\u30A4\u30E2\u30F3\uFF08Christopher Arthur Amon \u3001MBE 1943\u5E747\u670820\u65E5 - 2016\u5E748\u67083\u65E5\uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u30021966\u5E74\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u512A\u52DD\u8005\u3002 \u4E00\u822C\u306B\u30AF\u30EA\u30B9\u30FB\u30A8\u30A4\u30E2\u30F3\uFF08Chris Amon \uFF09\u3068\u3057\u3066\u77E5\u3089\u308C\u308B\u3002"@ja ,
+		"Chris Amon (n. Bulls, Nueva Zelanda; 20 de julio de 1943-3 de agosto de 2016) fue un piloto de F\u00F3rmula 1 durante las d\u00E9cadas de 1960 y 1970. Est\u00E1 considerado como uno de los mejores pilotos de entre los que nunca consiguieron ganar una carrera puntuable. Su reputaci\u00F3n de mala suerte era tan fuerte que Mario Andretti brome\u00F3 sobre \u00E9l diciendo que \u00ABsi fuera un enterrador, la gente dejar\u00EDa de morir\u00BB.[cita requerida]"@es ,
+		"Christopher Arthur Amon, dit Chris Amon, (n\u00E9 le 20 juillet 1943 \u00E0 Bulls en Nouvelle-Z\u00E9lande et mort le 3 ao\u00FBt 2016 \u00E0 Rotorua en Nouvelle-Z\u00E9lande) est un pilote de course automobile n\u00E9o-z\u00E9landais. Il a disput\u00E9 quatorze saisons de Formule 1, de 1963 \u00E0 1976, soit 96 Grands Prix, sans remporter aucune victoire en championnat. Il a sign\u00E9 11 podiums et a termin\u00E9 30 fois dans les points. Il a d\u00E9croch\u00E9 5 pole positions, 3 meilleurs tours en course et a marqu\u00E9 83 points au championnat du monde de Formule 1, ce qui en fait un des pilotes les plus malchanceux de l'histoire du sport automobile, eu \u00E9gard \u00E0 son talent. Son meilleur classement en championnat du monde est une quatri\u00E8me place en 1967. Hors championnat, Chris Amon a remport\u00E9 deux victoires au volant d'une Formule 1, le BRDC International Tr"@fr ,
+		"Abile e meticoloso collaudatore, era ritenuto tra i pi\u00F9 veloci del Circus della Formula 1, ma la sua carriera nella massima serie fu spesso caratterizzata dalla sfortuna. Viene considerato come uno dei migliori piloti a non aver mai vinto un Gran Premio di Formula 1 valevole per il mondiale (vinse un GP d'Argentina con la Matra ma era extra campionato) e detiene il record di chilometri percorsi al comando (851,4) tra coloro che non sono riusciti a vincere una gara valida per il mondiale."@it ,
+		"Christopher Arthur \u201EChris\u201C Amon (* 20. Juli 1943 in Bulls; \u2020 3. August 2016 in Rotorua) war ein neuseel\u00E4ndischer Automobilrennfahrer. Er startete zwischen 1963 und 1976 bei 96 Grands Prix in der Automobil-Weltmeisterschaft. Dar\u00FCber hinaus nahm er auch an Sport- und Tourenwagenrennen teil und gewann 1966 gemeinsam mit seinem Landsmann Bruce McLaren das 24-Stunden-Rennen von Le Mans. Amon gilt als der beste Rennfahrer, der nie ein Formel-1-Rennen gewann."@de ,
+		"Christopher Arthur Amon (Bulls, 20 de julho de 1943 \u2014 3 de agosto de 2016) foi um piloto de F\u00F3rmula 1 da Nova Zel\u00E2ndia. Seu pai era um rico agricultor e ele, aos dezoito anos, come\u00E7ou a correr conseguindo uma boa reputa\u00E7\u00E3o como piloto em seu pa\u00EDs. No final de 1962 foi convidado pelo ex-piloto ingl\u00EAs Reg Parnell para correr na Europa. Em 1963, estreou na F\u00F3rmula 1 no GP de M\u00F4naco, por\u00E9m teve que ceder sua vaga para o veterano franc\u00EAs Maurice Trintignant. A estreia \"oficial\" de Amon seria no GP da B\u00E9lgica, onde abandonou. \"Se ele se tornasse um coveiro, as pessoas parariam de morrer\"."@pt ;
+	dbp:points	83 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	dbpedia-it:Chris_Amon .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	dbpedia-es:Chris_Amon .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	yago-res:Chris_Amon ,
+		dbr:Chris_Amon ,
+		<http://d-nb.info/gnd/129165506> ,
+		<http://rdf.freebase.com/ns/m.02ksph> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	dbpedia-wikidata:Q171469 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	dbpedia-fr:Chris_Amon .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	dbpedia-pt:Chris_Amon ,
+		wikidata:Q171469 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	dbpedia-id:Chris_Amon .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	dbpedia-de:Chris_Amon .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	dbpedia-pl:Chris_Amon ,
+		<http://ja.dbpedia.org/resource/\u30AF\u30EA\u30B9\u30FB\u30A8\u30A4\u30E2\u30F3> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Chris_Amon	owl:sameAs	dbpedia-nl:Chris_Amon .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Chris_Amon	dct:subject	dbc:March_Formula_One_drivers ,
+		dbc:New_Zealand_Members_of_the_Order_of_the_British_Empire ,
+		dbc:New_Zealand_Formula_One_drivers ,
+		dbc:Tasman_Series_drivers ,
+		dbc:Tecno_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Amon_Formula_One_drivers ,
+		dbc:People_from_Bulls ,
+		dbc:Matra_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2016_deaths> ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:Cooper_Formula_One_drivers ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Formula_One_team_owners ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		dbc:New_Zealand_Sports_Hall_of_Fame_inductees ,
+		dbc:New_Zealand_racing_drivers ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1943_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Ensign_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ;
+	foaf:name	"Chris Amon"@en ,
+		"(MBE)"@en ;
+	foaf:homepage	<http://www.bruce-mclaren.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/AmonChris19730706.jpg> ;
+	dct:description	"New Zealander racecar driver"@en ;
+	foaf:givenName	"Chris"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Chris_Amon	foaf:isPrimaryTopicOf	wikipedia-en:Chris_Amon ;
+	foaf:surname	"Amon"@en ;
+	dbp:title	dbr:Tasman_Series ,
+		dbr:BRDC_International_Trophy ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners ;
+	dbp:years	"\u2013"^^xsd:string ,
+		dbr:Bruce_McLaren ,
+		1966 ,
+		1969 ,
+		1970 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Chris_Amon	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Chris_Amon?oldid=740265238> ;
+	dbp:before	dbr:Jim_Clark ,
+		dbr:Masten_Gregory ,
+		dbr:Jochen_Rindt ,
+		dbr:Jack_Brabham ;
+	dbp:after	dbr:Graham_Hill ,
+		dbr:Dan_Gurney ,
+		dbr:Graeme_Lawrence ,
+		<http://dbpedia.org/resource/A._J._Foyt> ;
+	dbp:birthPlace	"Bulls, New Zealand"^^xsd:string ;
+	dbp:birthName	"Christopher Arthur Amon"^^xsd:string ;
+	dbp:deathPlace	"Rotorua, New Zealand"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Chris_Amon	dbp:birthDate	"1943-07-20"^^xsd:date ;
+	dbp:deathDate	"2016-08-03"^^xsd:date .
+@prefix ns27:	<http://www.nzonscreen.com/title/> .
+dbr:Chris_Amon	dbo:wikiPageExternalLink	ns27:trio-at-the-top-2001 ,
+		<http://www.bruce-mclaren.com> ,
+		<http://8w.forix.com/amon.html> ;
+	dbp:caption	"Chris Amon at the N\u00FCrburgring in 1973"^^xsd:string ;
+	dbo:abstract	"\u30AF\u30EA\u30B9\u30C8\u30D5\u30A1\u30FC\u30FB\u30A2\u30FC\u30B5\u30FC\u30FB\u30A8\u30A4\u30E2\u30F3\uFF08Christopher Arthur Amon \u3001MBE 1943\u5E747\u670820\u65E5 - 2016\u5E748\u67083\u65E5\uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u30021966\u5E74\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u512A\u52DD\u8005\u3002 \u4E00\u822C\u306B\u30AF\u30EA\u30B9\u30FB\u30A8\u30A4\u30E2\u30F3\uFF08Chris Amon \uFF09\u3068\u3057\u3066\u77E5\u3089\u308C\u308B\u3002"@ja ,
+		"Christopher Arthur Amon MBE (Bulls, 20 juli 1943 \u2013 Rotorua, 3 augustus 2016) was een Nieuw-Zeelands Formule 1-coureur. Amon reed in zijn carri\u00E8re voor tien verschillende teams. De eerste race waar Amon aan zou deelnemen was de Grand Prix van Monaco in 1963. Hij startte hier echter niet, hij moest zijn auto afstaan aan zijn teamgenoot Maurice Trintignant. De eerste finish van Amon was bij de Grand Prix Formule 1 van Frankrijk 1963, hij werd hier zevende.Het seizoen hierop volgend reed Amon voor het eerst in de punten, bij de Grand Prix Formule 1 van Nederland 1964, hij werd hier vijfde.De eerste podiumplaats van Amon was bij de Grand Prix Formule 1 van Monaco 1967, hij werd hier derde. Amon vormde zijn eigen raceteam Chris Amon Racing waarmee hij onder andere deelnam aan het Formule 1 seizoen in 1974. Totaal reed Amon tussen 1963 en 1976 96 Formule 1 races waarbij hij elf podiumplaatsen en vijf polepositions behaalde, hij won echter nooit een Formule 1 race. Amon won gezamenlijk met Bruce McLaren in een Ford GT40 de 24 uur van Le Mans in 1966. Amon overleed op 3 augustus 2016 op 73 jarige leeftijd aan de gevolgen van kanker."@nl ,
+		"Chris Amon (n. Bulls, Nueva Zelanda; 20 de julio de 1943-3 de agosto de 2016) fue un piloto de F\u00F3rmula 1 durante las d\u00E9cadas de 1960 y 1970. Est\u00E1 considerado como uno de los mejores pilotos de entre los que nunca consiguieron ganar una carrera puntuable. Su reputaci\u00F3n de mala suerte era tan fuerte que Mario Andretti brome\u00F3 sobre \u00E9l diciendo que \u00ABsi fuera un enterrador, la gente dejar\u00EDa de morir\u00BB.[cita requerida]"@es ,
+		"\u041A\u0440\u0438\u0441\u0442\u043E\u0444\u0435\u0440 \u0410\u0440\u0442\u0443\u0440 \u042D\u0439\u043C\u043E\u043D (\u0430\u043D\u0433\u043B. Christopher Arthur Amon, 20 \u0438\u044E\u043B\u044F 1943, \u0411\u0443\u043B\u043B\u0441 \u2014 3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2016, \u0420\u043E\u0442\u043E\u0440\u0443\u0430) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043A\u0438 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB (1966), \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Chris Amon, w\u0142a\u015Bc. Christopher Arthur Amon (ur. 20 lipca 1943 w Bulls, zm. 3 sierpnia 2016 w Rotorua) \u2013 nowozelandzki kierowca wy\u015Bcigowy. Zadebiutowa\u0142 w Formule 1 w sezonie 1963. W 1966 wygra\u0142 wy\u015Bcig 24 godziny Le Mans. W 1967 podpisa\u0142 umow\u0119 z Ferrari i zaj\u0105\u0142 4. miejsce w klasyfikacji generalnej. Uczestniczy\u0142 tak\u017Ce w wy\u015Bcigach w Tasmanii. W 1977 powr\u00F3ci\u0142 do Nowej Zelandii. Zmar\u0142 3 sierpnia 2016 w szpitalu w Rotorua na chorob\u0119 nowotworow\u0105."@pl ,
+		"Christopher Arthur Amon, dit Chris Amon, (n\u00E9 le 20 juillet 1943 \u00E0 Bulls en Nouvelle-Z\u00E9lande et mort le 3 ao\u00FBt 2016 \u00E0 Rotorua en Nouvelle-Z\u00E9lande) est un pilote de course automobile n\u00E9o-z\u00E9landais. Il a disput\u00E9 quatorze saisons de Formule 1, de 1963 \u00E0 1976, soit 96 Grands Prix, sans remporter aucune victoire en championnat. Il a sign\u00E9 11 podiums et a termin\u00E9 30 fois dans les points. Il a d\u00E9croch\u00E9 5 pole positions, 3 meilleurs tours en course et a marqu\u00E9 83 points au championnat du monde de Formule 1, ce qui en fait un des pilotes les plus malchanceux de l'histoire du sport automobile, eu \u00E9gard \u00E0 son talent. Son meilleur classement en championnat du monde est une quatri\u00E8me place en 1967. Hors championnat, Chris Amon a remport\u00E9 deux victoires au volant d'une Formule 1, le BRDC International Trophy 1970 sur March et le Grand Prix d'Argentine 1971 sur Matra.En Sport-Prototypes, Chris Amon a rencontr\u00E9 plus de succ\u00E8s puisqu'il a remport\u00E9 3 victoires en championnat du monde (24 Heures du Mans en 1966, 24 Heures de Daytona et 1000 km de Monza en 1967)."@fr ,
+		"Christopher Arthur \"Chris\" Amon MBE (20 July 1943 \u2013 3 August 2016) was a New Zealand motor racing driver. He was active in Formula One racing in the 1960s and 1970s \u2013 and is widely regarded as one of the best F1 drivers never to win a championship Grand Prix. His reputation for bad luck was such that fellow driver Mario Andretti once joked that \"if he became an undertaker, people would stop dying\". Former Ferrari Technical Director Mauro Forghieri stated that Amon was \"by far the best test driver I have ever worked with. He had all the qualities to be a World Champion but bad luck just wouldn't let him be\". Apart from driving, Chris Amon also ran his own Formula One team for a short period in 1974. Away from Formula One, Amon had some success in sports car racing, winning the 24 Hours of Le Mans race in 1966."@en ,
+		"\u0643\u0631\u064A\u0633 \u0623\u0645\u0648\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Chris Amon) (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u064A\u0648\u0644\u064A\u0648 1943 \u0641\u064A \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 - 3 \u0623\u063A\u0633\u0637\u0633 2016)\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1964. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0645\u0648\u0646\u0627\u0643\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 1963. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 108 \u0633\u0628\u0627\u0642\u0627\u064B. \u0648\u0643\u0627\u0646 \u0633\u0627\u0626\u0642\u0627\u064B \u0644\u0641\u064A\u0631\u0627\u0631\u064A \u0648\u0635\u0639\u062F \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0627\u0644\u062A\u062A\u0648\u064A\u062C 11 \u0645\u0631\u0629\u060C \u0648\u0642\u0627\u062F \u0623\u064A\u0636\u0627\u064B \u0641\u0631\u064A\u0642\u064A \"\u0645\u0627\u0631\u0634\" \u0648\"\u0645\u0627\u062A\u0631\u0627\" \u0636\u0645\u0646 13 \u0641\u0631\u064A\u0642\u0627\u064B \u0641\u064A \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u062A\u064A \u0627\u0645\u062A\u062F\u062A \u0639\u0644\u0649 \u0645\u062F\u0627\u0631 14 \u0645\u0648\u0633\u0645\u0627\u064B. \u0644\u0643\u0646\u0647 \u0644\u0645 \u064A\u0641\u0632 \u0628\u0623\u064A \u0633\u0628\u0627\u0642 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0626\u0629 \u0627\u0644\u0623\u0648\u0644\u0649."@ar ,
+		"Abile e meticoloso collaudatore, era ritenuto tra i pi\u00F9 veloci del Circus della Formula 1, ma la sua carriera nella massima serie fu spesso caratterizzata dalla sfortuna. Viene considerato come uno dei migliori piloti a non aver mai vinto un Gran Premio di Formula 1 valevole per il mondiale (vinse un GP d'Argentina con la Matra ma era extra campionato) e detiene il record di chilometri percorsi al comando (851,4) tra coloro che non sono riusciti a vincere una gara valida per il mondiale. Pi\u00F9 ricca di successi fu, invece, la sua carriera nelle competizioni a ruote coperte, ossia quelle competizioni che si disputano tra vetture dotate di parafanghi, virtualmente predisposte per il trasporto di un passeggero (a differenza delle monoposto, o auto di formula dotate di un solo sedile e di pneumatici rigorosamente scoperti) tra cui si possono annoverare le vittorie alla 24 Ore di Le Mans 1966, la 24 Ore di Daytona del 1967. Nel suo palmar\u00E8s risultano anche sei vittorie ottenute nelle gare delle edizioni 1968 e 1969 della Tasman Series, nel 1969 si aggiudic\u00F2 anche il campionato di questa serie a bordo di una Ferrari Dino 246 Tasmania, imponendosi, su prestigiosi piloti quali Jochen Rindt e Graham Hill."@it ,
+		"Christopher Arthur Amon (Bulls, 20 de julho de 1943 \u2014 3 de agosto de 2016) foi um piloto de F\u00F3rmula 1 da Nova Zel\u00E2ndia. Seu pai era um rico agricultor e ele, aos dezoito anos, come\u00E7ou a correr conseguindo uma boa reputa\u00E7\u00E3o como piloto em seu pa\u00EDs. No final de 1962 foi convidado pelo ex-piloto ingl\u00EAs Reg Parnell para correr na Europa. Em 1963, estreou na F\u00F3rmula 1 no GP de M\u00F4naco, por\u00E9m teve que ceder sua vaga para o veterano franc\u00EAs Maurice Trintignant. A estreia \"oficial\" de Amon seria no GP da B\u00E9lgica, onde abandonou. Em 1964 continuou na equipe de Parnell, tendo se mudado para a Ian Raby Racing, que usava chassi da Brabham, onde permaneceu at\u00E9 o ano seguinte, quando foi contratado pela Ferrari. Em 1966, em dupla com Bruce McLaren vence as 24 Horas de Le Mans. Nos anos seguintes, continua sem bons resultados na F\u00F3rmula 1 apesar de ser reconhecidamente um piloto r\u00E1pido e de talento. Em 1967 vence, em dupla com Lorenzo Bandini as 24 Horas de Daytona e as 1000 Milhas de Monza. Na F-1, conquista 4 terceiros lugares antes de deixar a Ferrari no final de 1969, obtendo ainda um segundo lugar. Corre pela March em 1970 e no ano seguinte assina com a Matra, pela qual consegue sua \u00FAnica vit\u00F3ria a bordo de um carro de F\u00F3rmula 1: o Grande Pr\u00EAmio da Argentina de 1971 que, por ser uma prova extra-campeonato, n\u00E3o entra nas estat\u00EDsticas da categoria. Com a sa\u00EDda da Matra das competi\u00E7\u00F5es no ano anterior, Amon aceita o convite da Tecno, mas o carro \u00E9 muito ruim e o neozeland\u00EAs marca apenas um ponto. Ainda em 1973, tenta participar do GP dos EUA pela Tyrrell, mas o acidente fatal de Fran\u00E7ois C\u00E9vert abala o piloto, que desiste de correr a prova. Para 1974, cria sua pr\u00F3pria equipe, mas o Amon F101, apesar de exibir um bom potencial, n\u00E3o mostra confiabilidade e o neozeland\u00EAs disputa apenas o GP da Espanha. No final do mesmo ano, aceita o convite de outra equipe tradicional, a BRM e disputa 2 corridas pela mesma, n\u00E3o se destacando em nenhuma. Em 1975 \u00E9 contratado por Morris Nunn para desenvolver o carro de sua equipe, a Ensign, onde tamb\u00E9m participa de 2 GP's. O ano seguinte come\u00E7a animador para Amon, que obt\u00E9m um 5\u00BA lugar na B\u00E9lgica e bons desempenhos na Su\u00E9cia e Inglaterra, tendo abandonado com problemas mec\u00E2nicos. O acidente quase fatal de Niki Lauda na Alemanha, naquele mesmo ano, faz com que ele recuse disputar a corrida e, com isto, perde o emprego na Ensign. A pedido de Walter Wolf, que havia comprado um Willians, tenta uma vaga no grid para o GP do Canad\u00E1, mas uma batida no treino classificat\u00F3rio faz com que Amon, ent\u00E3o com 33 anos, abandonasse definitivamente a F\u00F3rmula 1 no final daquele ano. Ele \u00E9 tido por muitos como o melhor piloto da hist\u00F3ria da F\u00F3rmula 1 a nunca conquistar uma vit\u00F3ria em prova v\u00E1lida pelo campeonato. Sua reputa\u00E7\u00E3o por m\u00E1 sorte era tanta que seu companheiro Mario Andretti uma vez bricou dizendo: \"Se ele se tornasse um coveiro, as pessoas parariam de morrer\". Em seu \u00FAltimo ano na F\u00F3rmula 1, conheceu quando competia na CanAm um jovem piloto canadense que lhe pareceu muito talentoso, a ponto de recomendar ao seu ex-patr\u00E3o, Enzo Ferrari, que contratasse o novato. O nome do jovem: Gilles Villeneuve. Morreu em 3 de agosto de 2016, v\u00EDtima de c\u00E2ncer."@pt ,
+		"Christopher Arthur \u201EChris\u201C Amon (* 20. Juli 1943 in Bulls; \u2020 3. August 2016 in Rotorua) war ein neuseel\u00E4ndischer Automobilrennfahrer. Er startete zwischen 1963 und 1976 bei 96 Grands Prix in der Automobil-Weltmeisterschaft. Dar\u00FCber hinaus nahm er auch an Sport- und Tourenwagenrennen teil und gewann 1966 gemeinsam mit seinem Landsmann Bruce McLaren das 24-Stunden-Rennen von Le Mans. Amon gilt als der beste Rennfahrer, der nie ein Formel-1-Rennen gewann."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/AmonChris19730706.jpg?width=300> ;
+	dbo:birthDate	"1943-7-20"^^xsd:date ;
+	dbo:deathDate	"2016-8-3"^^xsd:date ;
+	dbo:deathPlace	dbr:Rotorua ;
+	dbo:wikiPageRevisionID	740265238 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Bulls,_New_Zealand> ;
+	dbo:wikiPageID	518391 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Chris_Amon	ns28:hypernym	dbr:Motor ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"3"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1963_Monaco_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1976_Canadian_Grand_Prix> ;
+	dbo:podiums	"11"^^xsd:nonNegativeInteger ;
+	dbo:poles	"5"^^xsd:nonNegativeInteger ;
+	dbo:races	"108"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Equipe_Matra_Sports ,
+		","^^xsd:string ,
+		dbr:Brabham ,
+		dbr:BRM ,
+		dbr:Cooper_Car_Company ,
+		dbr:Tyrrell_Racing ,
+		"Non-works"^^xsd:string ,
+		<http://dbpedia.org/resource/Amon_(Formula_One_team)> ,
+		dbr:Lola_Cars ,
+		dbr:March_Engineering ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Wolf-Williams_Racing ,
+		dbr:Team_Lotus ,
+		<http://dbpedia.org/resource/Ensign_(racing_team)> ,
+		<http://dbpedia.org/resource/Tecno_(motorsport)> ;
+	dbp:nationality	"New Zealander"^^xsd:string .
+dbr:Dan_Gurney	dbp:before	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1967_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1968_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1970_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Chris_Amon ;
+	dbo:secondDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1972_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1971_Italian_Grand_Prix>	dbo:poleDriver	dbr:Chris_Amon .
+wikipedia-en:Chris_Amon	foaf:primaryTopic	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1970_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Chris_Amon .
+dbr:Bruce_McLaren	dbp:years	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1972_French_Grand_Prix>	dbo:thirdDriver	dbr:Chris_Amon ;
+	dbo:fastestDriver	dbr:Chris_Amon ;
+	dbo:poleDriver	dbr:Chris_Amon .
+dbr:Brymon_Airways	dbp:keyPeople	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1968_British_Grand_Prix>	dbo:secondDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1967_British_Grand_Prix>	dbo:thirdDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1966_Can-Am_season__6__1>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1969_Can-Am_season__6__1>	dbo:team	dbr:Chris_Amon ;
+	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1970_Can-Am_season__11__1>	dbo:firstDriver	dbr:Chris_Amon .
+dbr:Graeme_Lawrence	dbp:before	dbr:Chris_Amon .
+dbr:Masten_Gregory	dbp:after	dbr:Chris_Amon .
+dbr:Chris	dbo:wikiPageDisambiguates	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1968_New_Zealand_Grand_Prix>	dbo:fastestDriver	dbr:Chris_Amon ;
+	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1969_New_Zealand_Grand_Prix>	dbo:firstDriver	dbr:Chris_Amon ;
+	dbo:poleDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1975_New_Zealand_Grand_Prix>	dbo:fastestDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1968_BRDC_International_Trophy>	dbo:thirdDriver	dbr:Chris_Amon ;
+	dbo:fastestDriver	dbr:Chris_Amon .
+dbr:Chris_Amon_Racing	dbp:founders	dbr:Chris_Amon ;
+	dbp:constructors	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__34__1>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__36__1>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Chris_Amon .
+dbr:Ronnie_Bucknum__1__1	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__33__1>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__34__1>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1970_1000km_of_Brands_Hatch__5__1>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1970_1000km_of_Monza__4__1>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/A._J._Foyt>	dbp:before	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1967_German_Grand_Prix>	dbo:thirdDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__19__1>	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__55__1>	dbo:firstDriver	dbr:Chris_Amon .
+dbr:McLaren_M2B__4	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1971_Argentine_Grand_Prix>	dbo:fastestDriver	dbr:Chris_Amon ;
+	dbo:firstDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1968_Spanish_Grand_Prix>	dbo:poleDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1971_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1970_French_Grand_Prix>	dbo:secondDriver	dbr:Chris_Amon .
+dbr:Longford_Circuit	dbp:recordDriver	dbr:Chris_Amon .
+dbr:Frank_Matich	dbp:before	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1967_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Chris_Amon .
+dbr:Graham_Hill	dbp:before	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1968_Dutch_Grand_Prix>	dbo:poleDriver	dbr:Chris_Amon .
+<http://dbpedia.org/resource/1969_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Chris_Amon .

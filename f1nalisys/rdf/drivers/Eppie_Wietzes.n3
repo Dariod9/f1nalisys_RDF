@@ -1,0 +1,113 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__DNF__12>	dbo:firstDriver	dbr:Eppie_Wietzes .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Eppie_Wietzes	rdf:type	wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Eppie_Wietzes	rdf:type	yago:WikicatCanadianFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Eppie_Wietzes	rdf:type	owl:Thing ,
+		wikidata:Q215627 ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		wikidata:Q24229398 ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatTrans-AmSeriesDrivers ,
+		dbo:Person ,
+		dbo:RacingDriver ,
+		dbo:Agent ,
+		yago:Operator110378412 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Eppie_Wietzes	rdf:type	foaf:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:Driver110034906 ,
+		dbo:Athlete .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Eppie_Wietzes	rdf:type	ns7:Agent ,
+		wikidata:Q378622 ,
+		ns7:NaturalPerson .
+@prefix schema:	<http://schema.org/> .
+dbr:Eppie_Wietzes	rdf:type	schema:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Eppie_Wietzes	rdf:type	umbel-rc:RaceCarDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Eppie_Wietzes	rdfs:label	"Eppie Wietzes"@pl ,
+		"Eppie Wietzes"@nl ,
+		"Eppie Wietzes"@pt ,
+		"Eppie Wietzes"@de ,
+		"Eppie Wietzes"@it ,
+		"Eppie Wietzes"@en ;
+	rdfs:comment	"Egbert Wietzes (Assen, 28 de maio de 1938) \u00E9 um ex-automobilista canadense nascido nos Pa\u00EDses Baixos que participou do Grande Pr\u00EAmio do Canad\u00E1 de F\u00F3rmula 1 em 1967 e 1974."@pt ,
+		"Egbert \"Eppie\" Wietzes (ur. 28 maja 1938 roku w Assen w Holandii) \u2013 kanadyjski kierowca wy\u015Bcigowy."@pl ,
+		"Egbert \"Eppie\" Wietzes (born 28 May 1938 in Assen, Netherlands) is a former racing driver from Canada."@en ,
+		"Egbert \u201EEppie\u201C Wietzes (* 28. Mai 1938 in Assen, Niederlande) ist ein ehemaliger kanadischer Automobilrennfahrer. In den Jahren 1967 und 1974 bestritt er den Gro\u00DFen Preis von Kanada der Formel 1."@de ,
+		"Egbert \"Eppie\" Wietzes (Assen, 28 mei 1938) is een voormalig Canadees autocoureur van Nederlandse afkomst. Wietzes reed tweemaal in de Formule 1: in 1967 voor Lotus (teammaten: Graham Hill, Jim Clark, Mike Fisher), en in 1974 voor Team Canada F1 Racing in een Brabham (teammaten: Carlos Reutemann, Carlos Pace, John Watson, Ian Ashley). Hij slaagde er in beide seizoenen niet in om punten te behalen."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Eppie_Wietzes	dbp:points	0 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Eppie_Wietzes	owl:sameAs	dbpedia-pt:Eppie_Wietzes ,
+		wikidata:Q172285 ,
+		<http://rdf.freebase.com/ns/m.04k84c> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Eppie_Wietzes	owl:sameAs	dbpedia-wikidata:Q172285 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Eppie_Wietzes	owl:sameAs	dbpedia-it:Eppie_Wietzes .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Eppie_Wietzes	owl:sameAs	dbpedia-de:Eppie_Wietzes ,
+		dbr:Eppie_Wietzes .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Eppie_Wietzes	owl:sameAs	dbpedia-nl:Eppie_Wietzes .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Eppie_Wietzes	owl:sameAs	yago-res:Eppie_Wietzes .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Eppie_Wietzes	owl:sameAs	dbpedia-pl:Eppie_Wietzes .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Eppie_Wietzes	dct:subject	dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:Canadian_Formula_One_drivers ,
+		dbc:Canadian_Motorsport_Hall_of_Fame_inductees ,
+		dbc:Dutch_emigrants_to_Canada ,
+		dbc:Trans-Am_Series_drivers ,
+		dbc:People_from_Assen ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1938_births> ,
+		dbc:Canadian_racing_drivers ;
+	foaf:name	"Eppie Wietzes"@en ;
+	dct:description	"Canadian racing driver"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Eppie_Wietzes	foaf:isPrimaryTopicOf	wikipedia-en:Eppie_Wietzes ;
+	dbp:years	","^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Eppie_Wietzes	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Eppie_Wietzes?oldid=737665794> ;
+	dbp:birthPlace	"Assen, Netherlands"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Eppie_Wietzes	dbp:birthDate	"1938-05-28"^^xsd:date ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20120816202539/http:/f1rejects.com/drivers/wietzes/biography.html> ;
+	dbo:abstract	"Egbert \"Eppie\" Wietzes (ur. 28 maja 1938 roku w Assen w Holandii) \u2013 kanadyjski kierowca wy\u015Bcigowy."@pl ,
+		"Egbert \u201EEppie\u201C Wietzes (* 28. Mai 1938 in Assen, Niederlande) ist ein ehemaliger kanadischer Automobilrennfahrer. In den Jahren 1967 und 1974 bestritt er den Gro\u00DFen Preis von Kanada der Formel 1."@de ,
+		"Egbert \"Eppie\" Wietzes (born 28 May 1938 in Assen, Netherlands) is a former racing driver from Canada."@en ,
+		"Egbert \"Eppie\" Wietzes (Assen, 28 mei 1938) is een voormalig Canadees autocoureur van Nederlandse afkomst. Wietzes reed tweemaal in de Formule 1: in 1967 voor Lotus (teammaten: Graham Hill, Jim Clark, Mike Fisher), en in 1974 voor Team Canada F1 Racing in een Brabham (teammaten: Carlos Reutemann, Carlos Pace, John Watson, Ian Ashley). Hij slaagde er in beide seizoenen niet in om punten te behalen."@nl ,
+		"Egbert Wietzes (Assen, 28 de maio de 1938) \u00E9 um ex-automobilista canadense nascido nos Pa\u00EDses Baixos que participou do Grande Pr\u00EAmio do Canad\u00E1 de F\u00F3rmula 1 em 1967 e 1974."@pt ;
+	dbo:birthDate	"1938-5-28"^^xsd:date ;
+	dbo:wikiPageRevisionID	737665794 ;
+	dbo:birthPlace	dbr:Assen ;
+	dbo:wikiPageID	1228327 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Eppie_Wietzes	ns24:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1967_Canadian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1974_Canadian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Lotus, non-works Brabham"^^xsd:string ;
+	dbp:nationality	"Canadian"^^xsd:string .
+wikipedia-en:Eppie_Wietzes	foaf:primaryTopic	dbr:Eppie_Wietzes .
+<http://dbpedia.org/resource/1975_Long_Beach_Grand_Prix>	dbp:thirdDriver	dbr:Eppie_Wietzes .
+<http://dbpedia.org/resource/1966_Can-Am_season__17=__1>	dbo:firstDriver	dbr:Eppie_Wietzes .
+dbr:Eppie	dbo:wikiPageDisambiguates	dbr:Eppie_Wietzes .

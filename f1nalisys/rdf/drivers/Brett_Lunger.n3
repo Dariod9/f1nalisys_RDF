@@ -1,0 +1,130 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix ns2:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Brett_Lunger	rdf:type	ns2:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Brett_Lunger	rdf:type	yago:WikicatHeskethFormulaOneDrivers ,
+		yago:WikicatEnsignFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Brett_Lunger	rdf:type	schema:Person ,
+		ns2:Agent ,
+		yago:WikicatAmericanFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Brett_Lunger	rdf:type	dbo:FormulaOneRacer ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Brett_Lunger	rdf:type	wikidata:Q24229398 ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Athlete ,
+		yago:WikicatSurteesFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		wikidata:Q215627 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Brett_Lunger	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q5 ,
+		yago:Driver110034906 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Brett_Lunger	rdf:type	foaf:Person ,
+		dbo:Person ,
+		yago:Operator110378412 ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatBSFabricationsFormulaOneDrivers ,
+		yago:WikicatRacingDriversFromDelaware ,
+		yago:WikicatAtlanticChampionshipDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Brett_Lunger	rdf:type	owl:Thing ,
+		wikidata:Q378622 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Brett_Lunger	rdfs:label	"Brett Lunger"@pl ,
+		"Brett Lunger"@en ,
+		"Brett Lunger"@fr ,
+		"Brett Lunger"@pt ,
+		"Brett Lunger"@de ,
+		"Brett Lunger"@nl ,
+		"Brett Lunger"@it ,
+		"\u041B\u0430\u043D\u0434\u0436\u0435\u0440, \u0411\u0440\u0435\u0442"@ru ,
+		"Brett Lunger"@es ;
+	rdfs:comment	"Robert Brett Lunger (* 14. November 1945 in Wilmington, Delaware) ist ein ehemaliger US-amerikanischer Formel-1-Rennfahrer."@de ,
+		"Robert Brett Lunger (Wilmington (Delaware), 14 de novembro de 1945) \u00E9 um ex-automobilista dos Estados Unidos. \u00C9 creditado a ele no filme \"Rush - No limite da emo\u00E7\u00E3o\" (Rush, 2013) como um dos pilotos que ajudou Niki Lauda a sair do carro ap\u00F3s seu terr\u00EDvel acidente."@pt ,
+		"Robert Brett Lunger (n. 14 de noviembre de 1945) es un ex-piloto de autom\u00F3viles de carreras norteamericano. Naci\u00F3 en Wilmington, Delaware. Lunger recibi\u00F3 educaci\u00F3n en escuelas de baile en Wilmington, la Holderness School, y en la Universidad de Princeton. Luego de tres a\u00F1os en Princeton dej\u00F3 la universidad para enlistarse para pelear en Vietnam. Estudiaba una carrera en ciencias pol\u00EDticas. Al momento de dejar la universidad estaba trabajando en una tesis sobre la pol\u00EDtica norteamericana en el sud este asi\u00E1tico. El incidente del golfo de Tonkin refut\u00F3 muchos de los argumentos de Lunger en su tesis. Al regresar de Vietnam como teniente ex-marine comenz\u00F3 su carrera como piloto de autom\u00F3viles que realiz\u00F3 mayormente en autom\u00F3viles pagados con la fortuna de su familia (Lunger est\u00E1 emparentado co"@es ,
+		"Robert Brett Lunger (Wilmington, Delaware, 14 november 1945) is een voormalig Formule 1-coureur uit de Verenigde Staten. Tussen 1975 en 1978 nam hij deel aan 43 Grands Prix voor de teams Hesketh Racing, Surtees, March Engineering, McLaren en Ensign, maar scoorde hierin geen punten. Lunger is echter voornamelijk bekend geworden vanwege zijn rol in het redden van de Oostenrijkse autocoureur Niki Lauda tijdens diens zware crash op de N\u00FCrburgring op 1 augustus 1976. Hij deed dit samen met Arturo Merzario, Guy Edwards en Harald Ertl."@nl ,
+		"Brett LungerFichier:SurteesTS19BarryBoor.JPG Brett Lunger en 1976 Brett Lunger est un coureur automobile am\u00E9ricain n\u00E9 le 14 novembre 1945 \u00E0 Wilmington au Delaware. Brett Lunger est l\u2019un des pilotes qui ont contribu\u00E9 \u00E0 sauver la vie de Niki Lauda \u00E0 la suite de son dramatique accident au Nurburgring en 1976. Apr\u00E8s que Lauda a perdu le contr\u00F4le de sa monoplace et tap\u00E9 le talus \u00E0 290 km/h, sa voiture a retravers\u00E9 la piste, heurt\u00E9 les glissi\u00E8res de s\u00E9curit\u00E9 et s\u2019est embras\u00E9e. Harald Ertl et Brett Lunger tap\u00E8rent alors violemment la Ferrari en perdition. Merzario et Guy Edwards stopp\u00E8rent alors leur monoplace pour extraire le pilote autrichien du brasier, rejoints par un commissaire de piste puis par Ertl et Lunger."@fr ,
+		"\u0411\u0440\u0435\u0442 \u041B\u0430\u043D\u0434\u0436\u0435\u0440 (\u0430\u043D\u0433\u043B. Robert Brett Lunger; \u0440\u043E\u0434. 14 \u043D\u043E\u044F\u0431\u0440\u044F 1945, \u0423\u0438\u043B\u043C\u0438\u043D\u0433\u0442\u043E\u043D, \u0414\u0435\u043B\u0430\u0432\u044D\u0440) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Robert Brett Lunger (ur. 11 listopada 1945 roku w Wilmington, Delaware) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. W Formule 1 zadebiutowa\u0142 w Grand Prix Austrii w 1975 roku w zespole Hesketh Racing. W 1976 roku podczas Grand Prix Niemiec uderzy\u0142 w p\u0142on\u0105cy bolid Nikiego Laudy, potem jednak wraz z Guy\u2019em Edwardsem i Arturo Merzario ratowa\u0142 Austriaka od \u015Bmierci w p\u0142omieniach."@pl ,
+		"Robert Brett Lunger (born November 14, 1945 in Wilmington, Delaware) is a former racecar driver from the United States. Lunger was educated in dancing schools in Wilmington, the Holderness School, and Princeton University. He dropped out of Princeton after three years to enlist for service in Vietnam. He was a political science major. At the time he was preparing a thesis on U.S. policy on Southeast Asia. The Gulf of Tonkin Incident refuted much of what Lunger contended in his writing. A former US Marine lieutenant who served in the Vietnam war, his racing career was mostly spent in privateer cars, paid for by his family wealth (Lunger was a scion of the DuPont family). He is also known for helping to rescue Niki Lauda from his burning Ferrari in 1976 at the N\u00FCrburgring."@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Brett_Lunger	dbp:points	0 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Brett_Lunger	owl:sameAs	dbpedia-fr:Brett_Lunger .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Brett_Lunger	owl:sameAs	dbpedia-wikidata:Q171738 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Brett_Lunger	owl:sameAs	yago-res:Brett_Lunger .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Brett_Lunger	owl:sameAs	dbpedia-pl:Brett_Lunger .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Brett_Lunger	owl:sameAs	dbpedia-es:Brett_Lunger .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Brett_Lunger	owl:sameAs	dbpedia-pt:Brett_Lunger ,
+		dbr:Brett_Lunger .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Brett_Lunger	owl:sameAs	dbpedia-nl:Brett_Lunger .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Brett_Lunger	owl:sameAs	dbpedia-it:Brett_Lunger .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Brett_Lunger	owl:sameAs	dbpedia-de:Brett_Lunger ,
+		wikidata:Q171738 ,
+		<http://rdf.freebase.com/ns/m.04jg5g> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Brett_Lunger	dct:subject	dbc:Racing_drivers_from_Delaware ,
+		dbc:Atlantic_Championship_drivers ,
+		dbc:American_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:Hesketh_Formula_One_drivers ,
+		dbc:Ensign_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Wilmington,_Delaware> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1945_births> ,
+		dbc:BS_Fabrications_Formula_One_drivers ,
+		dbc:Surtees_Formula_One_drivers ;
+	foaf:name	"Brett Lunger"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Brett"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Brett_Lunger	foaf:isPrimaryTopicOf	wikipedia-en:Brett_Lunger ;
+	foaf:surname	"Lunger"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Brett_Lunger	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Brett_Lunger?oldid=725222471> ;
+	dbp:birthPlace	"Wilmington, Delaware, USA"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Brett_Lunger	dbp:birthDate	"1945-11-14"^^xsd:date ;
+	dbo:abstract	"Robert Brett Lunger (Wilmington (Delaware), 14 de novembro de 1945) \u00E9 um ex-automobilista dos Estados Unidos. \u00C9 creditado a ele no filme \"Rush - No limite da emo\u00E7\u00E3o\" (Rush, 2013) como um dos pilotos que ajudou Niki Lauda a sair do carro ap\u00F3s seu terr\u00EDvel acidente."@pt ,
+		"\u0411\u0440\u0435\u0442 \u041B\u0430\u043D\u0434\u0436\u0435\u0440 (\u0430\u043D\u0433\u043B. Robert Brett Lunger; \u0440\u043E\u0434. 14 \u043D\u043E\u044F\u0431\u0440\u044F 1945, \u0423\u0438\u043B\u043C\u0438\u043D\u0433\u0442\u043E\u043D, \u0414\u0435\u043B\u0430\u0432\u044D\u0440) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Robert Brett Lunger (born November 14, 1945 in Wilmington, Delaware) is a former racecar driver from the United States. Lunger was educated in dancing schools in Wilmington, the Holderness School, and Princeton University. He dropped out of Princeton after three years to enlist for service in Vietnam. He was a political science major. At the time he was preparing a thesis on U.S. policy on Southeast Asia. The Gulf of Tonkin Incident refuted much of what Lunger contended in his writing. A former US Marine lieutenant who served in the Vietnam war, his racing career was mostly spent in privateer cars, paid for by his family wealth (Lunger was a scion of the DuPont family). He is also known for helping to rescue Niki Lauda from his burning Ferrari in 1976 at the N\u00FCrburgring. Lunger was not raised a car enthusiast. He was brought up to enjoy baseball, hockey, and football. He became interested in auto racing when a friend took him to a race in 1965. By 1966 he was the \"rich kid\" of the Can-Am series. Between 1972 and 1973 he faced the top competition in European Formula Two, from the likes of Emerson Fittipaldi, Ronnie Peterson, and Jean-Pierre Jarier. His best finish was a 4th place at Mantorp Park in Sweden, for Space Racing, in their March-Ford BDA 722. The machinery he was in at this juncture did not allow him to do better. On a single weekend in Rouen, France, Lunger blew three Ford BDA engines. He married Jo, the daughter of Sir Leonard Crossland, former chairman of Ford of Britain and an executive with Lotus in 1975. Lunger used his wife's English thatched cottage as a base to court a ride with Formula One teams in 1975."@en ,
+		"Robert Brett Lunger (* 14. November 1945 in Wilmington, Delaware) ist ein ehemaliger US-amerikanischer Formel-1-Rennfahrer."@de ,
+		"Robert Brett Lunger (n. 14 de noviembre de 1945) es un ex-piloto de autom\u00F3viles de carreras norteamericano. Naci\u00F3 en Wilmington, Delaware. Lunger recibi\u00F3 educaci\u00F3n en escuelas de baile en Wilmington, la Holderness School, y en la Universidad de Princeton. Luego de tres a\u00F1os en Princeton dej\u00F3 la universidad para enlistarse para pelear en Vietnam. Estudiaba una carrera en ciencias pol\u00EDticas. Al momento de dejar la universidad estaba trabajando en una tesis sobre la pol\u00EDtica norteamericana en el sud este asi\u00E1tico. El incidente del golfo de Tonkin refut\u00F3 muchos de los argumentos de Lunger en su tesis. Al regresar de Vietnam como teniente ex-marine comenz\u00F3 su carrera como piloto de autom\u00F3viles que realiz\u00F3 mayormente en autom\u00F3viles pagados con la fortuna de su familia (Lunger est\u00E1 emparentado con la familia DuPont). Si bien Lunger no creci\u00F3 en un entorno familiar de entusiastas de los autom\u00F3viles, se interes\u00F3 por las competiciones cuando un amigo lo llev\u00F3 a presenciar una carrera en 1965. Ya en 1966 se hab\u00EDa convertido en el ni\u00F1o rico de la f\u00F3rmula CanAm. Entre 1972  y 1974 particip\u00F3 en carreras de F\u00F3rmula 2, junto a Emerson Fittipaldi, Ronnie Peterson, y Graham Hill. Su mejor carrera fue un cuarto puesto que obtuvo en Mantorp Park, Suecia."@es ,
+		"Robert Brett Lunger (ur. 11 listopada 1945 roku w Wilmington, Delaware) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. W Formule 1 zadebiutowa\u0142 w Grand Prix Austrii w 1975 roku w zespole Hesketh Racing. W 1976 roku podczas Grand Prix Niemiec uderzy\u0142 w p\u0142on\u0105cy bolid Nikiego Laudy, potem jednak wraz z Guy\u2019em Edwardsem i Arturo Merzario ratowa\u0142 Austriaka od \u015Bmierci w p\u0142omieniach."@pl ,
+		"Brett LungerFichier:SurteesTS19BarryBoor.JPG Brett Lunger en 1976 Brett Lunger est un coureur automobile am\u00E9ricain n\u00E9 le 14 novembre 1945 \u00E0 Wilmington au Delaware. Brett Lunger est l\u2019un des pilotes qui ont contribu\u00E9 \u00E0 sauver la vie de Niki Lauda \u00E0 la suite de son dramatique accident au Nurburgring en 1976. Apr\u00E8s que Lauda a perdu le contr\u00F4le de sa monoplace et tap\u00E9 le talus \u00E0 290 km/h, sa voiture a retravers\u00E9 la piste, heurt\u00E9 les glissi\u00E8res de s\u00E9curit\u00E9 et s\u2019est embras\u00E9e. Harald Ertl et Brett Lunger tap\u00E8rent alors violemment la Ferrari en perdition. Merzario et Guy Edwards stopp\u00E8rent alors leur monoplace pour extraire le pilote autrichien du brasier, rejoints par un commissaire de piste puis par Ertl et Lunger. Lunger a \"explos\u00E9\" trois moteurs en un week-end \u00E0 Rouen."@fr ,
+		"Robert Brett Lunger (Wilmington, Delaware, 14 november 1945) is een voormalig Formule 1-coureur uit de Verenigde Staten. Tussen 1975 en 1978 nam hij deel aan 43 Grands Prix voor de teams Hesketh Racing, Surtees, March Engineering, McLaren en Ensign, maar scoorde hierin geen punten. Lunger is echter voornamelijk bekend geworden vanwege zijn rol in het redden van de Oostenrijkse autocoureur Niki Lauda tijdens diens zware crash op de N\u00FCrburgring op 1 augustus 1976. Hij deed dit samen met Arturo Merzario, Guy Edwards en Harald Ertl."@nl ;
+	dbo:birthDate	"1945-11-14"^^xsd:date ;
+	dbo:wikiPageRevisionID	725222471 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Wilmington,_Delaware> ;
+	dbo:wikiPageID	1219630 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Brett_Lunger	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1975_Austrian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1978_United_States_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"43"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Hesketh, Surtees, non-works March, non-works McLaren, Ensign"^^xsd:string ;
+	dbp:nationality	"American"^^xsd:string .
+wikipedia-en:Brett_Lunger	foaf:primaryTopic	dbr:Brett_Lunger .

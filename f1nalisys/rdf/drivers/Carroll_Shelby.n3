@@ -1,0 +1,209 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix ns1:	<http://dbpedia.org/resource/Flying_the_Feathered_Edge:> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+ns1:_The_Bob_Hoover_Project	dbo:starring	dbr:Carroll_Shelby .
+dbr:Aston_Martin__1959__1	dbo:firstDriver	dbr:Carroll_Shelby .
+dbr:Shelby_CSX	dbo:manufacturer	dbr:Carroll_Shelby .
+dbr:Shelby_GLHS	dbo:manufacturer	dbr:Carroll_Shelby .
+dbr:Shelby_Charger	dbo:manufacturer	dbr:Carroll_Shelby .
+dbr:Shelby_Lancer	dbo:manufacturer	dbr:Carroll_Shelby .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Carroll_Shelby	foaf:primaryTopic	dbr:Carroll_Shelby .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Phil_Hill	dbp:after	dbr:Carroll_Shelby .
+dbr:Olivier_Gendebien	dbp:before	dbr:Carroll_Shelby ;
+	dbp:after	dbr:Carroll_Shelby .
+dbr:Carroll	dbo:wikiPageDisambiguates	dbr:Carroll_Shelby .
+dbr:Roy_Salvadori	dbp:years	dbr:Carroll_Shelby .
+dbr:Ford_Shelby_Cobra_Concept	dbo:designCompany	dbr:Carroll_Shelby ;
+	dbo:designer	dbr:Carroll_Shelby .
+dbr:Caroll_Shelby	dbo:wikiPageRedirects	dbr:Carroll_Shelby .
+dbr:Carol_Shelby	dbo:wikiPageRedirects	dbr:Carroll_Shelby .
+dbr:Shelby_Can-Am	dbp:designer	dbr:Carroll_Shelby .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Carroll_Shelby	rdf:type	yago:WikicatAmericanPeopleOfWorldWarII ,
+		yago:Pilot110433164 ,
+		yago:WikicatAutomobileDesigners ,
+		yago:WikicatChryslerPeople ,
+		yago:WikicatPeopleFromTexas ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatFordPeople ,
+		dbo:MotorsportRacer ,
+		yago:MilitaryOfficer110317007 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:WikicatUnitedStatesArmyAirForcesOfficers ,
+		yago:Serviceman110582746 ,
+		yago:CausalAgent100007347 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbo:RacingDriver ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		dbo:Agent ,
+		yago:WikicatAmericanAviators ,
+		dbo:FormulaOneRacer ,
+		yago:InteriorDesigner110210648 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Carroll_Shelby	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:Specialist110631941 ,
+		foaf:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Carroll_Shelby	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Carroll_Shelby	rdf:type	owl:Thing ,
+		dbo:Athlete ,
+		yago:SkilledWorker110605985 ,
+		yago:Worker109632518 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Carroll_Shelby	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatUnitedStatesArmyAirForcesPilotsOfWorldWarII ,
+		wikidata:Q378622 .
+@prefix ns12:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Carroll_Shelby	rdf:type	ns12:Agent ,
+		yago:Aviator109826204 ,
+		yago:WikicatUnitedStatesArmyAirForcesEnlistedPilots ,
+		ns12:NaturalPerson ,
+		yago:Expert109617867 ,
+		wikidata:Q5 ,
+		<http://dbpedia.org/class/yago/WikicatPeopleFromCampCounty,Texas> ,
+		yago:WikicatAmericanAutomobileDesigners ,
+		yago:WikicatPeopleInTheAutomobileIndustry .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Carroll_Shelby	rdfs:label	"Carroll Shelby"@fr ,
+		"Carroll Shelby"@it ,
+		"\u30AD\u30E3\u30ED\u30EB\u30FB\u30B7\u30A7\u30EB\u30D3\u30FC"@ja ,
+		"Carroll Shelby"@pt ,
+		"Carroll Shelby"@pl ,
+		"\u0643\u0627\u0631\u0648\u0644 \u0634\u064A\u0644\u0628\u064A"@ar ,
+		"Carroll Shelby"@de ,
+		"Carroll Shelby"@es ,
+		"Carroll Shelby"@en ,
+		"Carroll Shelby"@nl ,
+		"\u0428\u0435\u043B\u0431\u0438, \u041A\u044D\u0440\u0440\u043E\u043B\u043B"@ru ;
+	rdfs:comment	"Carroll Shelby (ur. 11 stycznia 1923 roku w Teksasie, zm. 10 maja 2012) \u2013 ameryka\u0144ski projektant samochod\u00F3w sportowych oraz by\u0142y kierowca wy\u015Bcigowy."@pl ,
+		"\u30AD\u30E3\u30ED\u30EB\u30FB\u30B7\u30A7\u30EB\u30D3\u30FC\uFF08Caroll Hall Shelby \u30011923\u5E741\u670811\u65E5 - 2012\u5E745\u670810\u65E5\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30C6\u30AD\u30B5\u30B9\u5DDE\u51FA\u8EAB\u306E1950\u5E74\u4EE3\u5F8C\u534A\u306B\u6D3B\u8E8D\u3057\u305F\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002 \u30EC\u30FC\u30B9\u5F15\u9000\u5F8C\u306F\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30C7\u30B6\u30A4\u30CA\u30FC\u3068\u3057\u3066\u5F8C\u4E16\u306B\u6B8B\u308B\u540D\u8ECA\u3092\u6570\u3005\u5275\u308A\u4E0A\u3052\u305F\u30021991\u5E74\u56FD\u969B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u6BBF\u5802\u5165\u308A\u3002 2012\u5E745\u670810\u65E5\u3001\u30C6\u30AD\u30B5\u30B9\u5DDE\u30C0\u30E9\u30B9\u3067\u6B7B\u53BB\u300289\u6B73\u6CA1\u3002"@ja ,
+		"\u0643\u0627\u0631\u0648\u0644 \u0634\u064A\u0644\u0628\u064A  (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Carroll Shelby) (\u0645\u0648\u0627\u0644\u064A\u062F 11 \u064A\u0646\u0627\u064A\u0631 1923 - \u0627\u0644\u0648\u0641\u0627\u0629 10 \u0645\u0627\u064A\u0648 2012)\u060C \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A \u0627\u0644\u062C\u0646\u0633\u064A\u0629\u060C \u0643\u0627\u0646 \u0645\u0635\u0645\u0645 \u0648\u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0648\u0645\u0646\u0638\u0645 \u0633\u0628\u0627\u0642\u0627\u062A. \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0645\u0634\u0627\u0631\u0643\u062A\u0629 \u0641\u064A \u062A\u0637\u0648\u064A\u0631 \u0633\u064A\u0627\u0631\u0629 \u0625\u064A\u0647 \u0633\u064A \u0643\u0648\u0628\u0631\u0627 \u0648\u0641\u064A\u0645\u0627 \u0628\u0639\u062F \u0642\u0627\u0645 \u0628\u062A\u0637\u0648\u064A\u0631 \u0633\u064A\u0627\u0631\u0629 \u0645\u0648\u0633\u062A\u0627\u0646\u063A \u0648\u0627\u0644\u062A\u064A \u062A\u0646\u062A\u062C\u0647\u0627 \u0634\u0631\u0643\u0629 \u0641\u0648\u0631\u062F \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0648\u062A\u062D\u0648\u064A\u0644\u0647\u0627 \u0625\u0644\u0649 \u0633\u064A\u0627\u0631\u0629 \u0639\u0627\u0644\u064A\u0629 \u0627\u0644\u0623\u062F\u0627\u0621\u060C \u0639\u0631\u0641\u062A \u0628\u0627\u0633\u0645 \u0634\u064A\u0644\u0628\u064A \u0645\u0648\u0633\u062A\u0627\u0646\u063A \u0648\u0630\u0644\u0643 \u0641\u064A \u0639\u0627\u0645 1965\u060C \u0645\u0646 \u062E\u0644\u0627\u0644 \u0634\u0631\u0643\u062A\u0647\u060C \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629 \u0628\u0627\u0633\u0645 \u0634\u0631\u0643\u0629 \u0634\u064A\u0644\u0628\u064A \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629\u060C \u0648\u0627\u0644\u062A\u064A \u062A\u0623\u0633\u0633\u062A \u0641\u064A \u0639\u0627\u0645 1962\u060C \u0648\u062A\u0628\u064A\u0639 \u062D\u0627\u0644\u064A\u0627 \u0633\u064A\u0627\u0631\u0627\u062A \u0641\u0648\u0631\u062F \u0627\u0644\u0645\u0639\u062F\u0644\u0629\u060C \u0648\u0643\u0630\u0644\u0643 \u0623\u062C\u0632\u0627\u0621 \u0648\u0642\u0637\u0639 \u0627\u0644\u063A\u064A\u0627\u0631 \u0627\u0644\u0645\u0639\u0632\u0632\u0629 \u0644\u0644\u0623\u062F\u0627\u0621."@ar ,
+		"Carroll Hall Shelby (n. Leesburg, Texas; 11 de enero de 1923 - f. Dallas; 10 de mayo de 2012) fue un piloto de automovilismo y dise\u00F1ador de autom\u00F3viles estadounidense."@es ,
+		"Carroll Hall Shelby (January 11, 1923 \u2013 May 10, 2012) was an American automotive designer, racing driver, and entrepreneur. He was best known for his involvement with the AC Cobra and later the Mustang-based performance cars for Ford Motor Company known as Shelby Mustangs, which he had modified during the late-1960 and early-2000. He established Shelby American Inc. in 1962 to manufacture and market performance vehicles and related products, as well as Carroll Shelby Licensing in 1988, that currently make up Carroll Shelby International"@en ,
+		"\u041A\u044D\u0440\u0440\u043E\u043B\u043B \u0425\u043E\u043B\u043B \u0428\u0435\u043B\u0431\u0438 (\u0430\u043D\u0433\u043B. Carroll Hall Shelby; 11 \u044F\u043D\u0432\u0430\u0440\u044F 1923, \u041B\u0438\u0441\u0431\u0443\u0440\u0433 \u2014 10 \u043C\u0430\u044F 2012, \u0414\u0430\u043B\u043B\u0430\u0441) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440. \u041E\u043D \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u0441\u043E\u0437\u0434\u0430\u0442\u0435\u043B\u044C \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0445 \u0432\u0435\u0440\u0441\u0438\u0439 Ford Mustang \u2014 GT350 \u0438 GT500. \u0415\u0433\u043E \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Shelby American Inc\u0440\u0443\u0441\u0441\u043A., \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1962 \u0433\u043E\u0434\u0443, \u0438 \u0432 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043F\u0440\u043E\u0434\u0430\u0435\u0442 \u043C\u043E\u0434\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0435 Ford, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442\u0441\u044F \u0442\u044E\u043D\u0438\u043D\u0433\u043E\u043C."@ru ,
+		"Carroll Hall Shelby, n\u00E9 le 11 janvier 1923 \u00E0 Leesburg, au Texas, \u00C9tats-Unis, et mort le 10 mai 2012 \u00E0 Dallas est un pilote de course am\u00E9ricain reconverti dans la pr\u00E9paration muscl\u00E9e de voitures de s\u00E9rie, notamment l'AC Cobra et deux d\u00E9riv\u00E9s de la Ford Mustang, la Shelby GT 350, et la Shelby GT 500."@fr ,
+		"Carroll Shelby (* 11. Januar 1923 in Leesburg, Texas; \u2020 10. Mai 2012 in Dallas) war ein US-amerikanischer Rennfahrer und Konstrukteur von Sportwagen."@de ,
+		"Carroll Hall Shelby (Leesburg (Texas), 11 januari 1923 \u2013 Dallas (Texas), 10 mei 2012) was een Amerikaans coureur en ontwerper/bouwer van auto's. Na de high school te hebben doorlopen, nam Shelby dienst bij de Amerikaanse luchtmacht. In de Tweede Wereldoorlog was hij actief als vlieginstructeur en testpiloot. In 1991 werd hij opgenomen in de International Motorsports Hall of Fame. In 2003 ging Carroll Shelby weer samenwerken met Ford. Hij was technisch adviseur bij de Ford GT. In 2005 hield hij zich bezig met een nieuwe versie van de Shelby, wederom op basis van een Ford Mustang."@nl ,
+		"Carroll Hall Shelby (Pittsburg, 11 de janeiro de 1923 \u2014 10 de maio de 2012) foi um ex-piloto automobilistico e empreendedor estadunidense. Carroll foi o fundador da respeitada ind\u00FAstria automobil\u00EDstica Shelby American, que criou verdadeiras lendas do asfalto, como o Shelby Mustang e o Shelby Cobra nos anos 1960 e 70."@pt ;
+	dbp:points	0 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Carroll_Shelby	owl:sameAs	yago-res:Carroll_Shelby .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Carroll_Shelby	owl:sameAs	dbpedia-pl:Carroll_Shelby .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Carroll_Shelby	owl:sameAs	dbpedia-it:Carroll_Shelby ,
+		<http://viaf.org/viaf/7666055> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Carroll_Shelby	owl:sameAs	dbpedia-wikidata:Q354043 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Carroll_Shelby	owl:sameAs	dbpedia-de:Carroll_Shelby .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Carroll_Shelby	owl:sameAs	dbpedia-pt:Carroll_Shelby ,
+		<http://d-nb.info/gnd/129960101> ,
+		dbr:Carroll_Shelby ,
+		wikidata:Q354043 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Carroll_Shelby	owl:sameAs	dbpedia-fr:Carroll_Shelby .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Carroll_Shelby	owl:sameAs	dbpedia-es:Carroll_Shelby ,
+		<http://rdf.freebase.com/ns/m.029ljx> ,
+		<http://ja.dbpedia.org/resource/\u30AD\u30E3\u30ED\u30EB\u30FB\u30B7\u30A7\u30EB\u30D3\u30FC> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Carroll_Shelby	owl:sameAs	dbpedia-nl:Carroll_Shelby .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Carroll_Shelby	dct:subject	dbc:American_automobile_designers ,
+		dbc:Organ_transplant_recipients ,
+		<http://dbpedia.org/resource/Category:2012_deaths> ,
+		dbc:Ford_people ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:American_founders_of_automobile_manufacturers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		<http://dbpedia.org/resource/Category:People_from_Camp_County,_Texas> ,
+		dbc:Racing_drivers_from_Texas ,
+		dbc:Aston_Martin_Formula_One_drivers ,
+		dbc:United_States_Army_Air_Forces_enlisted_pilots ,
+		dbc:United_States_Army_Air_Forces_officers ,
+		dbc:American_Formula_One_drivers ,
+		dbc:Chrysler_people ,
+		dbc:United_States_Army_Air_Forces_pilots_of_World_War_II ,
+		<http://dbpedia.org/resource/Category:1923_births> ;
+	foaf:name	"Carroll Shelby"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/CarrollShelbyVIR2007.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Carroll"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Carroll_Shelby ;
+	foaf:surname	"Shelby"@en ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners ;
+	dbp:years	dbr:Roy_Salvadori ,
+		1959 ,
+		"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Carroll_Shelby	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Carroll_Shelby?oldid=741190084> ;
+	dbp:before	dbr:Olivier_Gendebien ,
+		dbr:Phil_Hill ;
+	dbp:after	dbr:Olivier_Gendebien ,
+		<http://dbpedia.org/resource/Paul_Fr\u00E8re> ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Leesburg,_Texas> ;
+	dbp:birthName	"Carroll Hall Shelby"^^xsd:string ;
+	dbp:deathPlace	"Dallas, Texas"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Carroll_Shelby	dbp:birthDate	"1923-01-11"^^xsd:date ;
+	dbp:deathDate	"2012-05-10"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.automotivehalloffame.org/inductee/carroll-shelby/126/> .
+@prefix ns27:	<http://articles.latimes.com/1993-04-15/news/> .
+dbr:Carroll_Shelby	dbo:wikiPageExternalLink	ns27:vw-23029_1_carroll-shelby ,
+		<http://velocity.discovery.com/tv-shows/velocity-classics/videos/king-of-the-road-the-story-of-carroll-shelby.htm> ;
+	dbp:caption	"Shelby in 2007"^^xsd:string ;
+	dbo:abstract	"Carroll Hall Shelby, n\u00E9 le 11 janvier 1923 \u00E0 Leesburg, au Texas, \u00C9tats-Unis, et mort le 10 mai 2012 \u00E0 Dallas est un pilote de course am\u00E9ricain reconverti dans la pr\u00E9paration muscl\u00E9e de voitures de s\u00E9rie, notamment l'AC Cobra et deux d\u00E9riv\u00E9s de la Ford Mustang, la Shelby GT 350, et la Shelby GT 500."@fr ,
+		"Carroll Hall Shelby (Leesburg (Texas), 11 januari 1923 \u2013 Dallas (Texas), 10 mei 2012) was een Amerikaans coureur en ontwerper/bouwer van auto's. Na de high school te hebben doorlopen, nam Shelby dienst bij de Amerikaanse luchtmacht. In de Tweede Wereldoorlog was hij actief als vlieginstructeur en testpiloot. Shelby heeft veel invloed gehad op autosport en -ontwerp gedurende de laatste vijftig jaar. Hij begon als amateurcoureur, maar werd al snel coureur voor teams van Aston Martin en Maserati in de jaren vijftig en zestig. Na zijn carri\u00E8re als coureur begon hij een racerijschool en ook de Shelby-American company. In dit bedrijf ontwierp en bouwde hij de bekende AC Cobra auto's, met het chassis van AC cars en motoren van Ford. Door toedoen van Lee Iacocca (van de Chrysler Corporation) ging hij samenwerken met Ford. Hij hielp bij het ontwerpen van enkele als klassieke bekendstaande sportauto's, zoals: de Ford GT40, de Shelby GT350 en de Shelby GT500 en natuurlijk de Shelby Cobra. Hij vertrok bij Ford en ging werken (wederom op verzoek van Lee Iacocca) voor de andere twee van de drie grote Amerikaanse autobedrijven: Dodge, Oldsmobile. Hier heeft hij onder andere meegewerkt aan de Dodge Viper. In 1991 werd hij opgenomen in de International Motorsports Hall of Fame. In 2003 ging Carroll Shelby weer samenwerken met Ford. Hij was technisch adviseur bij de Ford GT. In 2005 hield hij zich bezig met een nieuwe versie van de Shelby, wederom op basis van een Ford Mustang."@nl ,
+		"Carroll Hall Shelby (Pittsburg, 11 de janeiro de 1923 \u2014 10 de maio de 2012) foi um ex-piloto automobilistico e empreendedor estadunidense. Carroll foi o fundador da respeitada ind\u00FAstria automobil\u00EDstica Shelby American, que criou verdadeiras lendas do asfalto, como o Shelby Mustang e o Shelby Cobra nos anos 1960 e 70. Filho de Warren Shelby, um carteiro de Leesburg e Eloise Lawrence, mudou-se para Dallas, onde concluiu a escola secund\u00E1ria.Alistou-se na For\u00E7a A\u00E9rea, combatendo na 2\u00BA Guerra Mundial, serviu tamb\u00E9m como instrutor de v\u00F4o e piloto de testes. Casou-se durante a guerra, e teve tamb\u00E9m o primeiro de seus filhos. Saiu da For\u00E7a A\u00E9rea como 2\u00BA Tenente.Inicou seus neg\u00F3cios com uma pequena frota de caminh\u00F5es e, s\u00F3 depois entrou para o ramo do petr\u00F3leo.Nas corridas de for\u00E7a livre, iniciou com um Ford 1932, e depois passou para a categoria esporte, com um MG TC.Carroll Shelby iniciou sua carreira de piloto em 1952. Em 1959, foi o vencedor das 24 Horas De Le Mans, ao volante de um Aston Martin e, tr\u00EAs anos depois, se destacaria ao volante do roadster Cobra, cuja vers\u00E3o mais potente, entraria para a hist\u00F3ria como Shelby Cobra."@pt ,
+		"Carroll Hall Shelby (n. Leesburg, Texas; 11 de enero de 1923 - f. Dallas; 10 de mayo de 2012) fue un piloto de automovilismo y dise\u00F1ador de autom\u00F3viles estadounidense."@es ,
+		"\u0643\u0627\u0631\u0648\u0644 \u0634\u064A\u0644\u0628\u064A  (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Carroll Shelby) (\u0645\u0648\u0627\u0644\u064A\u062F 11 \u064A\u0646\u0627\u064A\u0631 1923 - \u0627\u0644\u0648\u0641\u0627\u0629 10 \u0645\u0627\u064A\u0648 2012)\u060C \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A \u0627\u0644\u062C\u0646\u0633\u064A\u0629\u060C \u0643\u0627\u0646 \u0645\u0635\u0645\u0645 \u0648\u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0648\u0645\u0646\u0638\u0645 \u0633\u0628\u0627\u0642\u0627\u062A. \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0645\u0634\u0627\u0631\u0643\u062A\u0629 \u0641\u064A \u062A\u0637\u0648\u064A\u0631 \u0633\u064A\u0627\u0631\u0629 \u0625\u064A\u0647 \u0633\u064A \u0643\u0648\u0628\u0631\u0627 \u0648\u0641\u064A\u0645\u0627 \u0628\u0639\u062F \u0642\u0627\u0645 \u0628\u062A\u0637\u0648\u064A\u0631 \u0633\u064A\u0627\u0631\u0629 \u0645\u0648\u0633\u062A\u0627\u0646\u063A \u0648\u0627\u0644\u062A\u064A \u062A\u0646\u062A\u062C\u0647\u0627 \u0634\u0631\u0643\u0629 \u0641\u0648\u0631\u062F \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0648\u062A\u062D\u0648\u064A\u0644\u0647\u0627 \u0625\u0644\u0649 \u0633\u064A\u0627\u0631\u0629 \u0639\u0627\u0644\u064A\u0629 \u0627\u0644\u0623\u062F\u0627\u0621\u060C \u0639\u0631\u0641\u062A \u0628\u0627\u0633\u0645 \u0634\u064A\u0644\u0628\u064A \u0645\u0648\u0633\u062A\u0627\u0646\u063A \u0648\u0630\u0644\u0643 \u0641\u064A \u0639\u0627\u0645 1965\u060C \u0645\u0646 \u062E\u0644\u0627\u0644 \u0634\u0631\u0643\u062A\u0647\u060C \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629 \u0628\u0627\u0633\u0645 \u0634\u0631\u0643\u0629 \u0634\u064A\u0644\u0628\u064A \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629\u060C \u0648\u0627\u0644\u062A\u064A \u062A\u0623\u0633\u0633\u062A \u0641\u064A \u0639\u0627\u0645 1962\u060C \u0648\u062A\u0628\u064A\u0639 \u062D\u0627\u0644\u064A\u0627 \u0633\u064A\u0627\u0631\u0627\u062A \u0641\u0648\u0631\u062F \u0627\u0644\u0645\u0639\u062F\u0644\u0629\u060C \u0648\u0643\u0630\u0644\u0643 \u0623\u062C\u0632\u0627\u0621 \u0648\u0642\u0637\u0639 \u0627\u0644\u063A\u064A\u0627\u0631 \u0627\u0644\u0645\u0639\u0632\u0632\u0629 \u0644\u0644\u0623\u062F\u0627\u0621."@ar ,
+		"Carroll Hall Shelby (January 11, 1923 \u2013 May 10, 2012) was an American automotive designer, racing driver, and entrepreneur. He was best known for his involvement with the AC Cobra and later the Mustang-based performance cars for Ford Motor Company known as Shelby Mustangs, which he had modified during the late-1960 and early-2000. He established Shelby American Inc. in 1962 to manufacture and market performance vehicles and related products, as well as Carroll Shelby Licensing in 1988, that currently make up Carroll Shelby International"@en ,
+		"\u041A\u044D\u0440\u0440\u043E\u043B\u043B \u0425\u043E\u043B\u043B \u0428\u0435\u043B\u0431\u0438 (\u0430\u043D\u0433\u043B. Carroll Hall Shelby; 11 \u044F\u043D\u0432\u0430\u0440\u044F 1923, \u041B\u0438\u0441\u0431\u0443\u0440\u0433 \u2014 10 \u043C\u0430\u044F 2012, \u0414\u0430\u043B\u043B\u0430\u0441) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440. \u041E\u043D \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u0441\u043E\u0437\u0434\u0430\u0442\u0435\u043B\u044C \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0445 \u0432\u0435\u0440\u0441\u0438\u0439 Ford Mustang \u2014 GT350 \u0438 GT500. \u0415\u0433\u043E \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F Shelby American Inc\u0440\u0443\u0441\u0441\u043A., \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432 1962 \u0433\u043E\u0434\u0443, \u0438 \u0432 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043F\u0440\u043E\u0434\u0430\u0435\u0442 \u043C\u043E\u0434\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0435 Ford, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442\u0441\u044F \u0442\u044E\u043D\u0438\u043D\u0433\u043E\u043C."@ru ,
+		"\u30AD\u30E3\u30ED\u30EB\u30FB\u30B7\u30A7\u30EB\u30D3\u30FC\uFF08Caroll Hall Shelby \u30011923\u5E741\u670811\u65E5 - 2012\u5E745\u670810\u65E5\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30C6\u30AD\u30B5\u30B9\u5DDE\u51FA\u8EAB\u306E1950\u5E74\u4EE3\u5F8C\u534A\u306B\u6D3B\u8E8D\u3057\u305F\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002 \u30EC\u30FC\u30B9\u5F15\u9000\u5F8C\u306F\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30C7\u30B6\u30A4\u30CA\u30FC\u3068\u3057\u3066\u5F8C\u4E16\u306B\u6B8B\u308B\u540D\u8ECA\u3092\u6570\u3005\u5275\u308A\u4E0A\u3052\u305F\u30021991\u5E74\u56FD\u969B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u6BBF\u5802\u5165\u308A\u3002 2012\u5E745\u670810\u65E5\u3001\u30C6\u30AD\u30B5\u30B9\u5DDE\u30C0\u30E9\u30B9\u3067\u6B7B\u53BB\u300289\u6B73\u6CA1\u3002"@ja ,
+		"Carroll Shelby (* 11. Januar 1923 in Leesburg, Texas; \u2020 10. Mai 2012 in Dallas) war ein US-amerikanischer Rennfahrer und Konstrukteur von Sportwagen."@de ,
+		"Carroll Shelby (ur. 11 stycznia 1923 roku w Teksasie, zm. 10 maja 2012) \u2013 ameryka\u0144ski projektant samochod\u00F3w sportowych oraz by\u0142y kierowca wy\u015Bcigowy."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/CarrollShelbyVIR2007.jpg?width=300> ;
+	dbo:birthDate	"1923-1-11"^^xsd:date ;
+	dbo:deathDate	"2012-5-10"^^xsd:date ;
+	dbo:deathPlace	dbr:Dallas ;
+	dbo:wikiPageRevisionID	741190084 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Leesburg,_Texas> ;
+	dbo:wikiPageID	447698 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Carroll_Shelby	ns28:hypernym	dbr:Designer ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1958_French_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1959_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"8"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Aston Martin, non-works Maserati"^^xsd:string ;
+	dbp:nationality	"American"^^xsd:string .
+<http://dbpedia.org/resource/1991_Indianapolis_500>	dbp:paceDriver	dbr:Carroll_Shelby .
+<http://dbpedia.org/resource/1987_Indianapolis_500>	dbp:paceDriver	dbr:Carroll_Shelby .
+<http://dbpedia.org/resource/Paul_Fr\u00E8re>	dbp:before	dbr:Carroll_Shelby .
+dbr:Shelby_Dakota	dbo:manufacturer	dbr:Carroll_Shelby .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__41__1>	dbo:firstDriver	dbr:Carroll_Shelby .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__1st__1>	dbo:firstDriver	dbr:Carroll_Shelby .

@@ -1,0 +1,113 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Tom_Bridger	foaf:primaryTopic	dbr:Tom_Bridger .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Tom_Bridger	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q215627 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Tom_Bridger	rdf:type	dbo:Athlete ,
+		foaf:Person ,
+		wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Tom_Bridger	rdf:type	yago:WikicatBritishFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Tom_Bridger	rdf:type	schema:Person ,
+		dbo:Agent ,
+		yago:WikicatEnglishFormulaOneDrivers .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Tom_Bridger	rdf:type	ns8:NaturalPerson ,
+		ns8:Agent ,
+		yago:Driver110034906 ,
+		dbo:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneRacer ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Tom_Bridger	rdf:type	owl:Thing ,
+		dbo:MotorsportRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Tom_Bridger	rdfs:label	"Tom Bridger"@it ,
+		"Tom Bridger"@pt ,
+		"Tom Bridger"@nl ,
+		"Tom Bridger"@pl ,
+		"Tommy Bridger"@de ,
+		"Tom Bridger"@en ;
+	rdfs:comment	"Thomas \"Tommy\" Bridger (Woolmer Green, Hertfordshire, Inglaterra, 24 de junho de 1934 - Logie Coldstone, Aberdeenshire, Inglaterra, 30 de julho de 1991) foi um cara muito louco que gostava de um carro e de ir em paradas g*y"@pt ,
+		"Thomas \"Tommy\" Bridger (Woolmer Green, Hertfordshire, 24 juni 1934 \u2013 Logie Coldstone, Aberdeenshire, 30 juli 1991) was een Britse Formule 1-coureur. Bridger reed \u00E9\u00E9n Grand Prix; de Grand Prix van Marokko van 1958 voor het team van British Racing Partnership."@nl ,
+		"Thomas \u201ETommy\u201C Bridger (* 24. Juni 1934 in Welwyn; \u2020 3. Juli 1991 in Logie Coldstone) war ein britischer Autorennfahrer."@de ,
+		"Thomas \u201ETom\u201D Bridger (ur. 24 czerwca 1934 roku w Woolmer Green, zm. 30 lipca 1991 w Logie Coldstone, Aberdeenshire) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Thomas \"Tommy\" Bridger (24 June 1934 \u2013 30 July 1991) was a British racing driver from England. He participated in one Formula One World Championship Grand Prix, on 19 October 1958, scoring no championship points. His greatest success came in Formula Three, where he won 15 races. Bridger raced in the 1958 Moroccan Grand Prix with British Racing Partnership, driving a Formula Two-class Cooper T45. He qualified in 22nd place, and Bridger got up to 14th before his race was ended by a collision on lap 30. The crash involved three vehicles, but Bridger emerged unharmed."@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Tom_Bridger	dbp:points	0 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Tom_Bridger	owl:sameAs	dbpedia-it:Tom_Bridger ,
+		<http://rdf.freebase.com/ns/m.04kxqk> ,
+		dbr:Tom_Bridger .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Tom_Bridger	owl:sameAs	dbpedia-wikidata:Q172793 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Tom_Bridger	owl:sameAs	dbpedia-pl:Tom_Bridger .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Tom_Bridger	owl:sameAs	dbpedia-de:Tommy_Bridger .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Tom_Bridger	owl:sameAs	dbpedia-nl:Tom_Bridger ,
+		wikidata:Q172793 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Tom_Bridger	owl:sameAs	dbpedia-pt:Tom_Bridger .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Tom_Bridger	owl:sameAs	yago-res:Tom_Bridger .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Tom_Bridger	dct:subject	<http://dbpedia.org/resource/Category:People_from_Welwyn_Hatfield_(district)> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Tom_Bridger	dct:subject	dbc:British_Racing_Partnership_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1934_births> ,
+		<http://dbpedia.org/resource/Category:1991_deaths> ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Tommy Bridger"@en ,
+		"Tom Bridger"@en ;
+	dct:description	"English racing driver"@en ;
+	foaf:givenName	"Thomas"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Tom_Bridger .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Tom_Bridger	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tom_Bridger?oldid=701748634> ;
+	dbp:birthPlace	"Woolmer Green, Hertfordshire, England, UK"^^xsd:string ;
+	dbp:deathPlace	"Logie Coldstone, Aberdeenshire, Scotland, UK"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Tom_Bridger	dbp:birthDate	"1934-06-24"^^xsd:date ;
+	dbp:deathDate	"1991-07-30"^^xsd:date ;
+	dbo:abstract	"Thomas \"Tommy\" Bridger (24 June 1934 \u2013 30 July 1991) was a British racing driver from England. He participated in one Formula One World Championship Grand Prix, on 19 October 1958, scoring no championship points. His greatest success came in Formula Three, where he won 15 races. Born in Woolmer Green, Hertfordshire, Bridger started racing in Formula Three in 1953, initially competing minor events in a Kieft-Norton before moving to a Cooper to compete full-time in Formula Three in 1957. He achieved some success racing with Jim Russell, one of the more successful drivers in the category. He moved up to Formula Two in 1958, finishing second in the Crystal Palace Trophy race, and eighth in the Coupe de Vitesse at Reims. Bridger raced in the 1958 Moroccan Grand Prix with British Racing Partnership, driving a Formula Two-class Cooper T45. He qualified in 22nd place, and Bridger got up to 14th before his race was ended by a collision on lap 30. The crash involved three vehicles, but Bridger emerged unharmed. He returned to Formula Three in 1959 with the Cooper-Norton car, winning four races throughout the year. In 1960 he raced in Formula Junior, competing in a works Lotus at the British Grand Prix. Bridger died at Logie Coldstone, Aberdeenshire in 1991."@en ,
+		"Thomas \"Tommy\" Bridger (Woolmer Green, Hertfordshire, 24 juni 1934 \u2013 Logie Coldstone, Aberdeenshire, 30 juli 1991) was een Britse Formule 1-coureur. Bridger reed \u00E9\u00E9n Grand Prix; de Grand Prix van Marokko van 1958 voor het team van British Racing Partnership."@nl ,
+		"Thomas \u201ETommy\u201C Bridger (* 24. Juni 1934 in Welwyn; \u2020 3. Juli 1991 in Logie Coldstone) war ein britischer Autorennfahrer."@de ,
+		"Thomas \"Tommy\" Bridger (Woolmer Green, Hertfordshire, Inglaterra, 24 de junho de 1934 - Logie Coldstone, Aberdeenshire, Inglaterra, 30 de julho de 1991) foi um cara muito louco que gostava de um carro e de ir em paradas g*y"@pt ,
+		"Thomas \u201ETom\u201D Bridger (ur. 24 czerwca 1934 roku w Woolmer Green, zm. 30 lipca 1991 w Logie Coldstone, Aberdeenshire) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1934-6-24"^^xsd:date ;
+	dbo:deathDate	"1991-7-30"^^xsd:date ;
+	dbo:deathPlace	dbr:Logie_Coldstone ;
+	dbo:wikiPageRevisionID	701748634 ;
+	dbo:birthPlace	dbr:Woolmer_Green ;
+	dbo:wikiPageID	1235668 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Tom_Bridger	ns23:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1958_Moroccan_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1958_Moroccan_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Partnership ;
+	dbp:nationality	"British"^^xsd:string .
+<http://dbpedia.org/resource/Thomas_%22Tommy%22_Bridger>	dbo:wikiPageRedirects	dbr:Tom_Bridger .
+dbr:Thomas_Bridger	dbo:wikiPageRedirects	dbr:Tom_Bridger .
+dbr:Tommy_Bridger	dbo:wikiPageRedirects	dbr:Tom_Bridger .

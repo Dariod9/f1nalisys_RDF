@@ -1,0 +1,215 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1989_Formula_One_Indoor_Trophy>	dbp:rd2Team	dbr:Andrea_de_Cesaris .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Alfa_Romeo_183T__2	dbo:firstDriver	dbr:Andrea_de_Cesaris .
+dbr:Jordan_191__1991__6	dbo:firstDriver	dbr:Andrea_de_Cesaris .
+<http://dbpedia.org/resource/1982_United_States_Grand_Prix_West>	dbo:poleDriver	dbr:Andrea_de_Cesaris .
+<http://dbpedia.org/resource/1983_German_Grand_Prix>	dbo:secondDriver	dbr:Andrea_de_Cesaris .
+dbr:Tyrrell_021__3	dbo:firstDriver	dbr:Andrea_de_Cesaris .
+<http://dbpedia.org/resource/1984_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Andrea_de_Cesaris .
+dbr:Ligier_JS23__3	dbo:firstDriver	dbr:Andrea_de_Cesaris .
+dbr:Ligier_JS23__4	dbo:firstDriver	dbr:Andrea_de_Cesaris .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Andrea_de_Cesaris	foaf:primaryTopic	dbr:Andrea_de_Cesaris .
+<http://dbpedia.org/resource/1983_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Andrea_de_Cesaris .
+<http://dbpedia.org/resource/1987_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Andrea_de_Cesaris .
+<http://dbpedia.org/resource/1989_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Andrea_de_Cesaris .
+<http://dbpedia.org/resource/1980_New_Zealand_Grand_Prix>	dbo:thirdDriver	dbr:Andrea_de_Cesaris .
+dbr:Minardi_M186__2	dbo:firstDriver	dbr:Andrea_de_Cesaris .
+<http://dbpedia.org/resource/1983_South_African_Grand_Prix>	dbo:secondDriver	dbr:Andrea_de_Cesaris .
+dbr:Sauber_C13__3	dbo:firstDriver	dbr:Andrea_de_Cesaris .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Andrea_de_Cesaris	rdf:type	yago:WikicatEuropeanFormulaThreeChampionshipDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Andrea_de_Cesaris	rdf:type	ns7:NaturalPerson ,
+		yago:WikicatSauberFormulaOneDrivers ,
+		yago:WikicatScuderiaItaliaFormulaOneDrivers ,
+		yago:WikicatGrandPrixMastersDrivers ,
+		dbo:Athlete ,
+		yago:WikicatJordanFormulaOneDrivers ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		foaf:Person ,
+		dbo:MotorsportRacer ,
+		yago:WikicatAlfaRomeoFormulaOneDrivers ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Andrea_de_Cesaris	rdf:type	umbel-rc:PersonWithOccupation ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		dbo:Person ,
+		umbel-rc:RaceCarDriver ,
+		yago:CausalAgent100007347 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Andrea_de_Cesaris	rdf:type	owl:Thing ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		yago:WikicatMinardiFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Andrea_de_Cesaris	rdf:type	schema:Person ,
+		yago:WikicatRialFormulaOneDrivers ,
+		dbo:Agent ,
+		yago:Operator110378412 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Andrea_de_Cesaris	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		wikidata:Q378622 ,
+		yago:WikicatLigierFormulaOneDrivers ,
+		umbel-rc:Athlete ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		ns7:Agent ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Andrea_de_Cesaris	rdfs:label	"Andrea de Cesaris"@de ,
+		"Andrea De Cesaris"@pt ,
+		"\u0623\u0646\u062F\u0631\u064A\u0627 \u062F\u064A \u0633\u064A\u0633\u0627\u0631\u064A\u0633"@ar ,
+		"\u30A2\u30F3\u30C9\u30EC\u30A2\u30FB\u30C7\u30FB\u30C1\u30A7\u30B6\u30EA\u30B9"@ja ,
+		"Andrea de Cesaris"@en ,
+		"Andrea de Cesaris"@pl ,
+		"Andrea De Cesaris"@it ,
+		"\u0414\u0435 \u0427\u0435\u0437\u0430\u0440\u0438\u0441, \u0410\u043D\u0434\u0440\u0435\u0430"@ru ,
+		"\u5B89\u5FB7\u70C8\u00B7\u5FB7\u00B7\u585E\u85A9\u91CC\u65AF"@zh ,
+		"Andrea de Cesaris"@es ,
+		"Andrea de Cesaris"@nl ,
+		"Andrea De Cesaris"@fr ;
+	rdfs:comment	"\u0410\u043D\u0434\u0440\u0435\u0430 \u0434\u0435 \u0427\u0435\u0437\u0430\u0440\u0438\u0441 (\u0438\u0442\u0430\u043B. Andrea de Cesaris; 31 \u043C\u0430\u044F 1959, \u0420\u0438\u043C \u2014 5 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2014, \u0420\u0438\u043C) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041E\u0431\u043B\u0430\u0434\u0430\u0435\u0442 \u0440\u044F\u0434\u043E\u043C \u0441\u0432\u043E\u0435\u043E\u0431\u0440\u0430\u0437\u043D\u044B\u0445 \u0440\u0435\u043A\u043E\u0440\u0434\u043E\u0432, \u0410\u043D\u0434\u0440\u0435\u0430 \u043F\u0440\u043E\u0432\u0451\u043B \u0441\u0430\u043C\u0443\u044E \u0434\u043B\u0438\u043D\u043D\u0443\u044E \u0441\u0435\u0440\u0438\u044E \u0431\u0435\u0437 \u043F\u043E\u0431\u0435\u0434 (208 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438) \u0438 \u0441\u0430\u043C\u0443\u044E \u0434\u043B\u0438\u043D\u043D\u0443\u044E \u0441\u0435\u0440\u0438\u044E \u0441\u0445\u043E\u0434\u043E\u0432 \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435, \u0438\u0437 \u0432\u0441\u0435\u0445 \u0441\u0432\u043E\u0438\u0445 214 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438, \u0432 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0435\u0446, \u043E\u043D \u0432\u0441\u0435\u0433\u043E 61 \u0440\u0430\u0437 \u043F\u0435\u0440\u0435\u0441\u0435\u043A\u0430\u043B \u0444\u0438\u043D\u0438\u0448\u043D\u0443\u044E \u0447\u0435\u0440\u0442\u0443, \u0442\u0430\u043A\u0438\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C 143 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0434\u043B\u044F \u0410\u043D\u0434\u0440\u0435\u0430 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B\u0438\u0441\u044C \u0441\u0445\u043E\u0434\u0430\u043C\u0438 \u0441 \u0434\u0438\u0441\u0442\u0430\u043D\u0446\u0438\u0439. \u0418\u0437-\u0437\u0430 \u0431\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0430\u0432\u0430\u0440\u0438\u0439 \u0432 \u043D\u0430\u0447\u0430\u043B\u0435 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043D\u0435\u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u0442\u0438\u0442\u0443\u043B \u00AB\u0410\u043D\u0434\u0440\u0435\u0430 \u0434\u0435 \u0410\u0432\u0430\u0440\u0438\u0441\u00BB \u0430\u043D\u0433\u043B. Andrea de Crasheris. \u0422\u0435\u043C \u043D\u0435 \u043C\u0435\u043D\u0435\u0435, \u0432\u043F\u043E\u0441\u043B\u0435\u0434\u0441\u0442\u0432\u0438\u0438 \u0437\u0430\u0441\u043B\u0443\u0436\u0438\u043B \u0440\u0435\u043F\u0443\u0442\u0430\u0446\u0438\u044E \u0431\u044B\u0441\u0442\u0440\u043E\u0433\u043E \u0438 \u043D\u0430\u0434\u0451\u0436\u043D\u043E\u0433\u043E \u043F\u0438\u043B\u043E\u0442\u0430."@ru ,
+		"Andrea de Cesaris (31 May 1959 \u2013 5 October 2014) was an Italian racing driver. He started 208 Formula One Grands Prix but never won, holding the record for the longest career without a race victory. A string of accidents early in his career earned him the nickname \"Andrea de Crasheris\", and he became known for being very fast but also wildly erratic. The nickname stuck, though he went on to become a calmer, more mature driver in his later career. In 2005 and 2006 he competed in the Grand Prix Masters formula for retired F1 drivers."@en ,
+		"\u30A2\u30F3\u30C9\u30EC\u30A2\u30FB\u30C7\u30FB\u30C1\u30A7\u30B6\u30EA\u30B9\uFF08Andrea De Cesaris \u30011959\u5E745\u670831\u65E5 - 2014\u5E7410\u67085\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u30AF\u30E9\u30C3\u30B7\u30E5\u304C\u591A\u3044\u3053\u3068\u3092\u63F6\u63C4\u3055\u308C\u3001\u300C\u58CA\u3057\u5C4B\u300D\u3001\u307E\u305F\u58CA\u3057\u5C4B(Crasher)\u3068\u59D3(Cesaris)\u3092\u639B\u3051\u3066\u3001\u300C\u30AF\u30E9\u30C3\u30B7\u30E3\u30EA\u30B9(Crasheris)\u300D\u3068\u547C\u3070\u308C\u308B\u3053\u3068\u3082\u3042\u3063\u305F\u3002"@ja ,
+		"Andrea de Cesaris (Rome, 31 mei 1959 \u2013 aldaar, 5 oktober 2014) was een Italiaans oud-formule 1-coureur. Hij debuteerde in het seizoen 1980 bij het team van Alfa Romeo, stond 208 keer aan de start van een Grand Prix en veroverde de eerste en enige poleposition uit zijn carri\u00E8re in 1982 tijdens de Grand Prix van de Verenigde Staten in Long Beach. Zijn beste resultaat was de tweede plaats die hij behaalde tijdens de Grand Prix van Zuid-Afrika en de Grand Prix van Duitsland in 1983. De Cesaris heeft als formule 1-rijder de meeste starts op zijn naam staan zonder een overwinning geboekt te hebben."@nl ,
+		"Andrea de Cesaris (* 31. Mai 1959 in Rom; \u2020 5. Oktober 2014 ebenda) war ein italienischer Automobilrennfahrer, der von 1980 bis 1994 Formel-1-Rennen fuhr."@de ,
+		"Andrea de Cesaris (ur. 31 maja 1959 w Rzymie, zm. 5 pa\u017Adziernika 2014 tam\u017Ce) \u2013 w\u0142oski kierowca Formu\u0142y 1. Znany z du\u017Cej liczby wypadk\u00F3w (st\u0105d z\u0142o\u015Bliwie zwany \u201EAndrea de Crasheris\u201D, ang crash \u2013 wypadek), s\u0142yn\u0105\u0142 r\u00F3wnie\u017C z umiej\u0119tno\u015Bci blokowania innych kierowc\u00F3w (st\u0105d zwany przez niekt\u00F3rych z nich \"ruchom\u0105 zapor\u0105 drogow\u0105\"). Dzier\u017Cawca rekordu najwi\u0119kszej liczby wy\u015Bcig\u00F3w bez zwyci\u0119stwa (208)."@pl ,
+		"Andrea De Cesaris (Roma, 31 de maio de 1959 \u2014 Roma, 5 de outubro de 2014) foi um piloto automobil\u00EDstico italiano."@pt ,
+		"Andrea de Cesaris (Roma, 31 de mayo de 1959 - ib\u00EDdem, 5 de octubre de 2014) fue un piloto italiano de automovilismo de velocidad. Particip\u00F3 en 214 Grandes Premios entre 1980 y 1994, alcanzando una pole position, cinco podios, una vuelta r\u00E1pida y un total de 59 puntos del campeonato. Es el piloto que m\u00E1s carreras ha iniciado (208) sin lograr una victoria. Tambi\u00E9n es el piloto que m\u00E1s carreras ha abandonado (148), por lo que es considerado el piloto m\u00E1s peligroso de la F\u00F3rmula 1. Recibi\u00F3 el apodo de Andrea de Crasheris a causa de una serie de accidentes durante sus comienzos como piloto.Falleci\u00F3 en Roma al perder el control de la motocicleta que conduc\u00EDa chocando contra una barrera."@es ,
+		"\u0623\u0646\u062F\u0631\u064A\u0627 \u062F\u064A \u0633\u064A\u0633\u0627\u0631\u064A\u0633 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u0645\u0627\u064A\u0648 1959 \u0641\u064A \u0631\u0648\u0645\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1980. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0643\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1980. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 214 \u0633\u0628\u0627\u0642\u0627\u064B. \u062A\u0648\u0641\u064A \u0641\u064A \u0633\u0646\u0629 2014 \u0628\u0639\u062F \u0641\u0642\u062F\u0627\u0646\u0647 \u0644\u0644\u062A\u062D\u0643\u0645 \u0628\u062F\u0631\u0627\u062C\u062A\u0647 \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0627\u0644\u062A\u064A \u0643\u0627\u0646 \u064A\u0642\u0648\u062F\u0647\u0627."@ar ,
+		"Andrea De Cesaris, n\u00E9 le 31 mai 1959 \u00E0 Rome et mort le 5 octobre 2014 dans la m\u00EAme ville d'un accident de moto, est un pilote automobile italien qui a particip\u00E9 au championnat du monde de Formule 1 de 1980 \u00E0 1994. Il aura disput\u00E9 208 Grands Prix et obtenu une pole position."@fr ,
+		"Dopo aver ottenuto diversi successi nelle serie minori dell'automobilismo, nel 1980 fece il suo debutto nella massima serie, in cui corse fino al 1994. Durante la sua carriera ha corso per un gran numero di squadre, tra cui Alfa Romeo, a cui sono legati i suoi migliori risultati, McLaren, Ligier, Minardi, Brabham, Rial, Scuderia Italia, Jordan, Tyrrell e Sauber. Pur essendo considerato tra i pi\u00F9 veloci del circus, era dotato di una guida molto aggressiva che spesso lo faceva incappare in vari incidenti, tanto da essere soprannominato dalla stampa inglese \"Andrea de Crasheris\". Detiene inoltre il record di maggior numero di Gran Premi disputati senza ottenere una vittoria. Suo \u00E8 anche il record mondiale di ritiri e di ritiri consecutivi."@it ,
+		"\u5B89\u5FB7\u70C8\u00B7\u5FB7\u00B7\u585E\u85A9\u91CC\u65AF\uFF08\u610F\u5927\u5229\u8BED\uFF1AAndrea de Cesaris\uFF0C1959\u5E745\u670831\u65E5\uFF0D2014\u5E7410\u67085\u65E5\uFF09\u662F\u4E00\u4F4D\u7FA9\u5927\u5229\u8CFD\u8ECA\u624B\u3002\u4ED6\u7E3D\u5171\u51FA\u8CFD208\u5834\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u5927\u734E\u8CFD\uFF0C\u4F46\u662F\u6C92\u6709\u4EFB\u4F55\u4E00\u5834\u596A\u51A0\uFF0C\u9019\u4F7F\u4ED6\u6301\u6709\u6700\u9577\u751F\u6DAF\u7121\u596A\u51A0\u7684\u7D00\u9304\u3002\u4ED6\u5728\u8077\u696D\u751F\u6DAF\u65E9\u671F\u767C\u751F\u4E00\u9023\u4E32\u4E8B\u6545\uFF0C\u4F7F\u4ED6\u7372\u5F97\u300C\u5B89\u5FB7\u70C8\u00B7\u5FB7\u00B7\u649E\u8ECA\u91CC\u65AF\u300D\uFF08Andrea de Crasheris\uFF09\u7684\u7DBD\u865F\u3002\u4E0D\u904E\u9019\u500B\u7DBD\u865F\u96A8\u8457\u4ED6\u665A\u5E74\u751F\u6DAF\u7684\u7A69\u5B9A\uFF0C\u800C\u4E0D\u518D\u5982\u6B64\u5E38\u51FA\u73FE\u4E86\u3002 1982\u5E74\u6642\uFF0C22\u6B72\u7684\u5FB7\u00B7\u585E\u85A9\u91CC\u65AF\u5728\u7F8E\u897F\u5927\u734E\u8CFD\u56E0\u70BA\u6392\u4F4D\u6210\u7E3E\u985B\u5012\u7684\u95DC\u4FC2\uFF0C\u6210\u70BA\u7576\u6642\u6700\u5E74\u8F15\u5F9E\u687F\u4F4D\u8D77\u8DD1\u7684\u8ECA\u624B\u3002 \u5FB7\u00B7\u585E\u85A9\u91CC\u65AF\u57282014\u5E7410\u67085\u65E5\u99D5\u99DB\u6469\u6258\u8ECA\u5728\u7F85\u99AC\u7684A90\u9AD8\u901F\u516C\u8DEF\u4E0A\u6642\uFF0C\u8ECA\u8F1B\u5931\u63A7\u649E\u4E0A\u8B77\u6B04\u800C\u8EAB\u4EA1\u3002"@zh ;
+	dbp:points	59 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-nl:Andrea_de_Cesaris ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30F3\u30C9\u30EC\u30A2\u30FB\u30C7\u30FB\u30C1\u30A7\u30B6\u30EA\u30B9> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-es:Andrea_de_Cesaris .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-cs:Andrea_de_Cesaris ,
+		wikidata:Q173153 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-de:Andrea_de_Cesaris .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-pl:Andrea_de_Cesaris ,
+		dbr:Andrea_de_Cesaris .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-it:Andrea_De_Cesaris .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-id:Andrea_de_Cesaris .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	yago-res:Andrea_de_Cesaris .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-wikidata:Q173153 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-fr:Andrea_De_Cesaris .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Andrea_de_Cesaris	owl:sameAs	dbpedia-pt:Andrea_De_Cesaris ,
+		<http://rdf.freebase.com/ns/m.01ybvv> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Andrea_de_Cesaris	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:European_Formula_Three_Championship_drivers ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:Sportspeople_from_Rome ,
+		dbc:Alfa_Romeo_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1959_births> ,
+		dbc:Rial_Formula_One_drivers ,
+		dbc:Jordan_Formula_One_drivers ,
+		dbc:Road_incident_deaths_in_Italy ,
+		dbc:Grand_Prix_Masters_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Motorcycle_road_incident_deaths ,
+		dbc:McLaren_Formula_One_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Scuderia_Italia_Formula_One_drivers ,
+		dbc:Sauber_Formula_One_drivers ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:Ligier_Formula_One_drivers ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:2014_deaths> ;
+	foaf:name	"Andrea de Cesaris"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_De_Cesaris_1982.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Andrea"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Andrea_de_Cesaris ;
+	dbp:title	dbr:List_of_Formula_One_driver_records ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix ns26:	<http://dbpedia.org/datatype/> .
+dbr:Andrea_de_Cesaris	dbp:years	"7.208784E8"^^ns26:second .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Andrea_de_Cesaris	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Andrea_de_Cesaris?oldid=742675798> ;
+	dbp:before	"Jacky Ickx"^^xsd:string ,
+		"7.444872E8"^^ns26:second ;
+	dbp:after	"7.02648E8"^^ns26:second ,
+		"Rubens Barrichello"^^xsd:string ;
+	dbp:birthPlace	"Rome, Italy"^^xsd:string ;
+	dbp:deathPlace	"Rome, Italy"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Andrea_de_Cesaris	dbp:birthDate	"1959-05-31"^^xsd:date ;
+	dbp:deathDate	"2014-10-05"^^xsd:date ;
+	dbp:caption	"Andrea de Cesaris in 1982"^^xsd:string ;
+	dbo:abstract	"Andrea de Cesaris (Rome, 31 mei 1959 \u2013 aldaar, 5 oktober 2014) was een Italiaans oud-formule 1-coureur. Hij debuteerde in het seizoen 1980 bij het team van Alfa Romeo, stond 208 keer aan de start van een Grand Prix en veroverde de eerste en enige poleposition uit zijn carri\u00E8re in 1982 tijdens de Grand Prix van de Verenigde Staten in Long Beach. Zijn beste resultaat was de tweede plaats die hij behaalde tijdens de Grand Prix van Zuid-Afrika en de Grand Prix van Duitsland in 1983. De Cesaris heeft als formule 1-rijder de meeste starts op zijn naam staan zonder een overwinning geboekt te hebben. De Cesaris was na zijn racecarri\u00E8re woonachtig in Monaco en verdiende zijn geld met de valutahandel. Daarnaast stopte hij veel tijd in zijn hobby: windsurfen. De Cesaris overleed op 5 oktober 2014 aan de gevolgen van een motorongeluk, op 55-jarige leeftijd."@nl ,
+		"\u5B89\u5FB7\u70C8\u00B7\u5FB7\u00B7\u585E\u85A9\u91CC\u65AF\uFF08\u610F\u5927\u5229\u8BED\uFF1AAndrea de Cesaris\uFF0C1959\u5E745\u670831\u65E5\uFF0D2014\u5E7410\u67085\u65E5\uFF09\u662F\u4E00\u4F4D\u7FA9\u5927\u5229\u8CFD\u8ECA\u624B\u3002\u4ED6\u7E3D\u5171\u51FA\u8CFD208\u5834\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u5927\u734E\u8CFD\uFF0C\u4F46\u662F\u6C92\u6709\u4EFB\u4F55\u4E00\u5834\u596A\u51A0\uFF0C\u9019\u4F7F\u4ED6\u6301\u6709\u6700\u9577\u751F\u6DAF\u7121\u596A\u51A0\u7684\u7D00\u9304\u3002\u4ED6\u5728\u8077\u696D\u751F\u6DAF\u65E9\u671F\u767C\u751F\u4E00\u9023\u4E32\u4E8B\u6545\uFF0C\u4F7F\u4ED6\u7372\u5F97\u300C\u5B89\u5FB7\u70C8\u00B7\u5FB7\u00B7\u649E\u8ECA\u91CC\u65AF\u300D\uFF08Andrea de Crasheris\uFF09\u7684\u7DBD\u865F\u3002\u4E0D\u904E\u9019\u500B\u7DBD\u865F\u96A8\u8457\u4ED6\u665A\u5E74\u751F\u6DAF\u7684\u7A69\u5B9A\uFF0C\u800C\u4E0D\u518D\u5982\u6B64\u5E38\u51FA\u73FE\u4E86\u3002 1982\u5E74\u6642\uFF0C22\u6B72\u7684\u5FB7\u00B7\u585E\u85A9\u91CC\u65AF\u5728\u7F8E\u897F\u5927\u734E\u8CFD\u56E0\u70BA\u6392\u4F4D\u6210\u7E3E\u985B\u5012\u7684\u95DC\u4FC2\uFF0C\u6210\u70BA\u7576\u6642\u6700\u5E74\u8F15\u5F9E\u687F\u4F4D\u8D77\u8DD1\u7684\u8ECA\u624B\u3002 \u5FB7\u00B7\u585E\u85A9\u91CC\u65AF\u57282014\u5E7410\u67085\u65E5\u99D5\u99DB\u6469\u6258\u8ECA\u5728\u7F85\u99AC\u7684A90\u9AD8\u901F\u516C\u8DEF\u4E0A\u6642\uFF0C\u8ECA\u8F1B\u5931\u63A7\u649E\u4E0A\u8B77\u6B04\u800C\u8EAB\u4EA1\u3002"@zh ,
+		"Andrea de Cesaris (31 May 1959 \u2013 5 October 2014) was an Italian racing driver. He started 208 Formula One Grands Prix but never won, holding the record for the longest career without a race victory. A string of accidents early in his career earned him the nickname \"Andrea de Crasheris\", and he became known for being very fast but also wildly erratic. The nickname stuck, though he went on to become a calmer, more mature driver in his later career. In 2005 and 2006 he competed in the Grand Prix Masters formula for retired F1 drivers. He died on 5 October 2014 after losing control of his motorcycle on Rome's Grande Raccordo Anulare motorway."@en ,
+		"\u0623\u0646\u062F\u0631\u064A\u0627 \u062F\u064A \u0633\u064A\u0633\u0627\u0631\u064A\u0633 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u0645\u0627\u064A\u0648 1959 \u0641\u064A \u0631\u0648\u0645\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1980. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0643\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1980. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 214 \u0633\u0628\u0627\u0642\u0627\u064B. \u062A\u0648\u0641\u064A \u0641\u064A \u0633\u0646\u0629 2014 \u0628\u0639\u062F \u0641\u0642\u062F\u0627\u0646\u0647 \u0644\u0644\u062A\u062D\u0643\u0645 \u0628\u062F\u0631\u0627\u062C\u062A\u0647 \u0627\u0644\u0646\u0627\u0631\u064A\u0629 \u0627\u0644\u062A\u064A \u0643\u0627\u0646 \u064A\u0642\u0648\u062F\u0647\u0627."@ar ,
+		"Andrea de Cesaris (Roma, 31 de mayo de 1959 - ib\u00EDdem, 5 de octubre de 2014) fue un piloto italiano de automovilismo de velocidad. Particip\u00F3 en 214 Grandes Premios entre 1980 y 1994, alcanzando una pole position, cinco podios, una vuelta r\u00E1pida y un total de 59 puntos del campeonato. Es el piloto que m\u00E1s carreras ha iniciado (208) sin lograr una victoria. Tambi\u00E9n es el piloto que m\u00E1s carreras ha abandonado (148), por lo que es considerado el piloto m\u00E1s peligroso de la F\u00F3rmula 1. Recibi\u00F3 el apodo de Andrea de Crasheris a causa de una serie de accidentes durante sus comienzos como piloto.Falleci\u00F3 en Roma al perder el control de la motocicleta que conduc\u00EDa chocando contra una barrera."@es ,
+		"Andrea de Cesaris (* 31. Mai 1959 in Rom; \u2020 5. Oktober 2014 ebenda) war ein italienischer Automobilrennfahrer, der von 1980 bis 1994 Formel-1-Rennen fuhr."@de ,
+		"Andrea De Cesaris, n\u00E9 le 31 mai 1959 \u00E0 Rome et mort le 5 octobre 2014 dans la m\u00EAme ville d'un accident de moto, est un pilote automobile italien qui a particip\u00E9 au championnat du monde de Formule 1 de 1980 \u00E0 1994. Il aura disput\u00E9 208 Grands Prix et obtenu une pole position."@fr ,
+		"\u30A2\u30F3\u30C9\u30EC\u30A2\u30FB\u30C7\u30FB\u30C1\u30A7\u30B6\u30EA\u30B9\uFF08Andrea De Cesaris \u30011959\u5E745\u670831\u65E5 - 2014\u5E7410\u67085\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u30AF\u30E9\u30C3\u30B7\u30E5\u304C\u591A\u3044\u3053\u3068\u3092\u63F6\u63C4\u3055\u308C\u3001\u300C\u58CA\u3057\u5C4B\u300D\u3001\u307E\u305F\u58CA\u3057\u5C4B(Crasher)\u3068\u59D3(Cesaris)\u3092\u639B\u3051\u3066\u3001\u300C\u30AF\u30E9\u30C3\u30B7\u30E3\u30EA\u30B9(Crasheris)\u300D\u3068\u547C\u3070\u308C\u308B\u3053\u3068\u3082\u3042\u3063\u305F\u3002"@ja ,
+		"\u0410\u043D\u0434\u0440\u0435\u0430 \u0434\u0435 \u0427\u0435\u0437\u0430\u0440\u0438\u0441 (\u0438\u0442\u0430\u043B. Andrea de Cesaris; 31 \u043C\u0430\u044F 1959, \u0420\u0438\u043C \u2014 5 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 2014, \u0420\u0438\u043C) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041E\u0431\u043B\u0430\u0434\u0430\u0435\u0442 \u0440\u044F\u0434\u043E\u043C \u0441\u0432\u043E\u0435\u043E\u0431\u0440\u0430\u0437\u043D\u044B\u0445 \u0440\u0435\u043A\u043E\u0440\u0434\u043E\u0432, \u0410\u043D\u0434\u0440\u0435\u0430 \u043F\u0440\u043E\u0432\u0451\u043B \u0441\u0430\u043C\u0443\u044E \u0434\u043B\u0438\u043D\u043D\u0443\u044E \u0441\u0435\u0440\u0438\u044E \u0431\u0435\u0437 \u043F\u043E\u0431\u0435\u0434 (208 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438) \u0438 \u0441\u0430\u043C\u0443\u044E \u0434\u043B\u0438\u043D\u043D\u0443\u044E \u0441\u0435\u0440\u0438\u044E \u0441\u0445\u043E\u0434\u043E\u0432 \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435, \u0438\u0437 \u0432\u0441\u0435\u0445 \u0441\u0432\u043E\u0438\u0445 214 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438, \u0432 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0435\u0446, \u043E\u043D \u0432\u0441\u0435\u0433\u043E 61 \u0440\u0430\u0437 \u043F\u0435\u0440\u0435\u0441\u0435\u043A\u0430\u043B \u0444\u0438\u043D\u0438\u0448\u043D\u0443\u044E \u0447\u0435\u0440\u0442\u0443, \u0442\u0430\u043A\u0438\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C 143 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0434\u043B\u044F \u0410\u043D\u0434\u0440\u0435\u0430 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B\u0438\u0441\u044C \u0441\u0445\u043E\u0434\u0430\u043C\u0438 \u0441 \u0434\u0438\u0441\u0442\u0430\u043D\u0446\u0438\u0439. \u0418\u0437-\u0437\u0430 \u0431\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0430\u0432\u0430\u0440\u0438\u0439 \u0432 \u043D\u0430\u0447\u0430\u043B\u0435 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043D\u0435\u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u0442\u0438\u0442\u0443\u043B \u00AB\u0410\u043D\u0434\u0440\u0435\u0430 \u0434\u0435 \u0410\u0432\u0430\u0440\u0438\u0441\u00BB \u0430\u043D\u0433\u043B. Andrea de Crasheris. \u0422\u0435\u043C \u043D\u0435 \u043C\u0435\u043D\u0435\u0435, \u0432\u043F\u043E\u0441\u043B\u0435\u0434\u0441\u0442\u0432\u0438\u0438 \u0437\u0430\u0441\u043B\u0443\u0436\u0438\u043B \u0440\u0435\u043F\u0443\u0442\u0430\u0446\u0438\u044E \u0431\u044B\u0441\u0442\u0440\u043E\u0433\u043E \u0438 \u043D\u0430\u0434\u0451\u0436\u043D\u043E\u0433\u043E \u043F\u0438\u043B\u043E\u0442\u0430. \u0412 2006 \u0433\u043E\u0434\u0443 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043C\u0430\u0441\u0442\u0435\u0440\u043E\u0432 \u2014 \u0433\u043E\u043D\u043A\u0435 \u0431\u044B\u0432\u0448\u0438\u0445 \u043F\u0438\u043B\u043E\u0442\u043E\u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Dopo aver ottenuto diversi successi nelle serie minori dell'automobilismo, nel 1980 fece il suo debutto nella massima serie, in cui corse fino al 1994. Durante la sua carriera ha corso per un gran numero di squadre, tra cui Alfa Romeo, a cui sono legati i suoi migliori risultati, McLaren, Ligier, Minardi, Brabham, Rial, Scuderia Italia, Jordan, Tyrrell e Sauber. Pur essendo considerato tra i pi\u00F9 veloci del circus, era dotato di una guida molto aggressiva che spesso lo faceva incappare in vari incidenti, tanto da essere soprannominato dalla stampa inglese \"Andrea de Crasheris\". Detiene inoltre il record di maggior numero di Gran Premi disputati senza ottenere una vittoria. Suo \u00E8 anche il record mondiale di ritiri e di ritiri consecutivi. Terminata la carriera in Formula 1 abbandon\u00F2 il mondo dell'automobilismo, se si eccettua la sua partecipazione ad alcune gare del campionato Grand Prix Masters."@it ,
+		"Andrea de Cesaris (ur. 31 maja 1959 w Rzymie, zm. 5 pa\u017Adziernika 2014 tam\u017Ce) \u2013 w\u0142oski kierowca Formu\u0142y 1. Znany z du\u017Cej liczby wypadk\u00F3w (st\u0105d z\u0142o\u015Bliwie zwany \u201EAndrea de Crasheris\u201D, ang crash \u2013 wypadek), s\u0142yn\u0105\u0142 r\u00F3wnie\u017C z umiej\u0119tno\u015Bci blokowania innych kierowc\u00F3w (st\u0105d zwany przez niekt\u00F3rych z nich \"ruchom\u0105 zapor\u0105 drogow\u0105\"). Dzier\u017Cawca rekordu najwi\u0119kszej liczby wy\u015Bcig\u00F3w bez zwyci\u0119stwa (208)."@pl ,
+		"Andrea De Cesaris (Roma, 31 de maio de 1959 \u2014 Roma, 5 de outubro de 2014) foi um piloto automobil\u00EDstico italiano."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_De_Cesaris_1982.jpg?width=300> ;
+	dbo:birthDate	"1959-5-31"^^xsd:date ;
+	dbo:deathDate	"2014-10-5"^^xsd:date ;
+	dbo:deathPlace	dbr:Rome ;
+	dbo:wikiPageRevisionID	742675798 ;
+	dbo:birthPlace	dbr:Rome ;
+	dbo:wikiPageID	342999 .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Andrea_de_Cesaris	ns29:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1980_Canadian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1994_European_Grand_Prix> ;
+	dbo:podiums	"5"^^xsd:nonNegativeInteger ;
+	dbo:poles	"1"^^xsd:nonNegativeInteger ;
+	dbo:races	"214"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Rial_Racing ,
+		dbr:Equipe_Ligier ,
+		dbr:Jordan_Grand_Prix ,
+		dbr:Minardi ,
+		<http://dbpedia.org/resource/Alfa_Romeo_(Formula_One)> ,
+		dbr:Sauber ,
+		dbr:Scuderia_Italia ,
+		dbr:Tyrrell_Racing ,
+		<http://dbpedia.org/resource/McLaren_(racing)> ,
+		dbr:Brabham ;
+	dbp:nationality	"Italian"^^xsd:string .
+dbr:Tyrrell_Racing	dbp:drivers	dbr:Andrea_de_Cesaris .
+dbr:Alfa_Romeo_179	dbp:drivers	dbr:Andrea_de_Cesaris .
+<http://dbpedia.org/resource/1982_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Andrea_de_Cesaris .
+dbr:Jordan_Grand_Prix	dbp:drivers	dbr:Andrea_de_Cesaris .
+dbr:Jordan_194__1994__5	dbo:firstDriver	dbr:Andrea_de_Cesaris .
+dbr:Andrea_de_cesaris	dbo:wikiPageRedirects	dbr:Andrea_de_Cesaris .
+dbr:Andrea_De_Cesaris	dbo:wikiPageRedirects	dbr:Andrea_de_Cesaris .
+dbr:Andrea_de_Crasheris	dbo:wikiPageRedirects	dbr:Andrea_de_Cesaris .
+dbr:De_Crasheris	dbo:wikiPageRedirects	dbr:Andrea_de_Cesaris .
+dbr:Dallara_F189__3	dbo:firstDriver	dbr:Andrea_de_Cesaris .

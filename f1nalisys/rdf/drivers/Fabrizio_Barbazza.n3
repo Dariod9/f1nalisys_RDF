@@ -1,0 +1,190 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Chip_Robinson	dbp:after	dbr:Fabrizio_Barbazza .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Indy_Lights__1986__1	dbo:firstDriver	dbr:Fabrizio_Barbazza .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Fabrizio_Barbazza	foaf:primaryTopic	dbr:Fabrizio_Barbazza .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Fabrizio_Barbazza	rdf:type	foaf:Person ,
+		dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Fabrizio_Barbazza	rdf:type	yago:WikicatInternationalFormula3000Drivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Fabrizio_Barbazza	rdf:type	schema:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Fabrizio_Barbazza	rdf:type	wikidata:Q24229398 ,
+		yago:WikicatIndyLightsDrivers ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q215627 ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		yago:WikicatJapaneseFormula3000ChampionshipDrivers ,
+		yago:WikicatMinardiFormulaOneDrivers ,
+		dbo:RacingDriver ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatChampCarDrivers ,
+		dbo:FormulaOneRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Fabrizio_Barbazza	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:Operator110378412 ,
+		wikidata:Q5 ,
+		yago:WikicatAGSFormulaOneDrivers .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Fabrizio_Barbazza	rdf:type	ns10:Agent ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Fabrizio_Barbazza	rdf:type	owl:Thing ,
+		wikidata:Q378622 ,
+		ns10:NaturalPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Fabrizio_Barbazza	rdfs:label	"Fabrizio Barbazza"@en ,
+		"Fabrizio Barbazza"@nl ,
+		"Fabrizio Barbazza"@pl ,
+		"\u0641\u0627\u0628\u0631\u064A\u0632\u064A\u0648 \u0628\u0627\u0631\u0628\u0627\u0632\u0627"@ar ,
+		"\u0411\u0430\u0440\u0431\u0430\u0446\u0446\u0430, \u0424\u0430\u0431\u0440\u0438\u0446\u0438\u043E"@ru ,
+		"Fabrizio Barbazza"@fr ,
+		"Fabrizio Barbazza"@es ,
+		"\u30D5\u30A1\u30D6\u30EA\u30C4\u30A3\u30AA\u30FB\u30D0\u30EB\u30D0\u30C3\u30C4\u30A1"@ja ,
+		"Fabrizio Barbazza"@it ,
+		"Fabrizio Barbazza"@pt ,
+		"Fabrizio Barbazza"@de ;
+	rdfs:comment	"Fabrizio Barbazza (ur. 2 kwietnia 1963 roku w Monza, Lombardia) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"\u0424\u0430\u0431\u0440\u0438\u0446\u0438\u043E \u0411\u0430\u0440\u0431\u0430\u0446\u0446\u0430 (\u0438\u0442\u0430\u043B. Fabrizio Barbazza, 2 \u0430\u043F\u0440\u0435\u043B\u044F, 1963, \u041C\u043E\u043D\u0446\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"\u30D5\u30A1\u30D6\u30EA\u30C4\u30A3\u30AA\u30FB\u30D0\u30EB\u30D0\u30C3\u30C4\u30A1\uFF08Fabrizio Barbazza\u30001963\u5E744\u67082\u65E5-\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30D5\u30A1\u30D6\u30EA\u30C3\u30C4\u30A9\u30FB\u30D0\u30EB\u30D0\u30C3\u30C4\u30A1\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u30021996\u5E74\u306B\u5F15\u9000\u3057\u305F\u3002"@ja ,
+		"Fabrizio Barbazza (* 4. April 1963 in Monza, Italien) ist ein ehemaliger italienischer Rennfahrer."@de ,
+		"Fabrizio Barbazza (Monza, 2 de abril de 1963) \u00E9 um ex-piloto automobil\u00EDstico da It\u00E1lia que correu pelas equipes AGS e Minardi na F\u00F3rmula 1."@pt ,
+		"Fabrizio Barbazza (2 de abril de 1963, Lombard\u00EDa) es un ex piloto italiano de F\u00F3rmula 1 que compiti\u00F3 para la escuder\u00EDa AGS y para Minardi."@es ,
+		"Fabrizio Barbazza (born 2 April 1963) is an Italian former Formula One driver who raced for the AGS and Minardi teams and was the 1987 Indianapolis 500 Rookie of the Year."@en ,
+		"Fabrizio Barbazza (Monza, 2 april 1963) is een voormalig Italiaans autocoureur. Hij maakte zijn Formule 1-debuut in 1991 bij AGS en nam deel aan 20 Grands Prix waarvan hij er acht mocht starten. Hij scoorde 2 punten. In 1990 ging hij in de Formule 3000 rijden, waarop hij een jaar later de kans kreeg om voor AGS in de Formule 1 te komen rijden. Hij wist zich voor geen enkele race te kwalificeren maar kon in 1993 nog wel aan de slag bij Minardi. Hij scoorde tweemaal punten in de eerste vier races."@nl ,
+		"Fabrizio Barbazza Fabrizio Barbazza est un ancien pilote automobile italien n\u00E9 le 2 avril 1963 \u00E0 Monza en Italie."@fr ,
+		"\u0641\u0627\u0628\u0631\u064A\u0632\u064A\u0648 \u0628\u0627\u0631\u0628\u0627\u0632\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 2 \u0623\u0628\u0631\u064A\u0644 1963 \u0641\u064A \u0645\u0648\u0646\u0632\u0627\u060C \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1991. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0647\u0646\u062F \u0627\u0644\u0643\u0628\u0631\u0649 1991. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 20 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ;
+	dbp:points	2 ;
+	dbp:lastSeries	dbr:Championship_Car ,
+		dbr:Champ_Car .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Fabrizio_Barbazza	owl:sameAs	dbpedia-it:Fabrizio_Barbazza ,
+		<http://rdf.freebase.com/ns/m.04jh13> ,
+		dbr:Fabrizio_Barbazza .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Fabrizio_Barbazza	owl:sameAs	dbpedia-nl:Fabrizio_Barbazza .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Fabrizio_Barbazza	owl:sameAs	dbpedia-pt:Fabrizio_Barbazza .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Fabrizio_Barbazza	owl:sameAs	dbpedia-wikidata:Q172968 ,
+		wikidata:Q172968 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Fabrizio_Barbazza	owl:sameAs	dbpedia-pl:Fabrizio_Barbazza .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Fabrizio_Barbazza	owl:sameAs	dbpedia-fr:Fabrizio_Barbazza .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Fabrizio_Barbazza	owl:sameAs	yago-res:Fabrizio_Barbazza .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Fabrizio_Barbazza	owl:sameAs	dbpedia-es:Fabrizio_Barbazza .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Fabrizio_Barbazza	owl:sameAs	dbpedia-de:Fabrizio_Barbazza ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A1\u30D6\u30EA\u30C4\u30A3\u30AA\u30FB\u30D0\u30EB\u30D0\u30C3\u30C4\u30A1> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Fabrizio_Barbazza	dct:subject	dbc:Minardi_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1963_births> ,
+		dbc:Japanese_Formula_3000_Championship_drivers ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Indy_Lights_drivers ,
+		dbc:Champ_Car_drivers ,
+		dbc:AGS_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:Indianapolis_500_Rookies_of_the_Year ;
+	foaf:name	"Fabrizio Barbazza"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Fabrizio"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Fabrizio_Barbazza ;
+	foaf:surname	"Barbazza"@en ;
+	dbp:title	dbr:Champ_Car ,
+		dbr:Indianapolis_500_Rookie_of_the_Year ,
+		dbr:Champion ,
+		dbr:Indy_Lights ,
+		<http://dbpedia.org/resource/Rookie_of_the_Year_(award)> ;
+	dbp:years	","^^xsd:string ,
+		1986 ,
+		1987 ;
+	dbo:nationality	dbr:Italy ;
+	dbp:titles	"American Racing Series Champion"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Fabrizio_Barbazza	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Fabrizio_Barbazza?oldid=741435657> ;
+	dbp:before	"None"^^xsd:string ,
+		dbr:Randy_Lanier ,
+		dbr:Chip_Robinson ;
+	dbp:after	dbr:Didier_Theys ,
+		<http://dbpedia.org/resource/John_Jones_(driver)> ,
+		dbr:Billy_Vukovich_III ;
+	dbp:birthPlace	"Monza, Lombardy, Italy"^^xsd:string ;
+	dbp:teams	dbr:Arciero_Racing ;
+	dbp:starts	25 ;
+	dbp:poles	0 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Fabrizio_Barbazza	dbp:birthDate	"1963-04-02"^^xsd:date .
+@prefix ns26:	<http://racing-reference.info/driver/> .
+dbr:Fabrizio_Barbazza	dbo:wikiPageExternalLink	ns26:Fabrizio_Barbazza ,
+		<http://www.driverdb.com/drivers/621/> ,
+		<https://web.archive.org/web/20131013230312/http:/www.f1rejects.com/drivers/barbazza/index.html> ,
+		<http://www.champcarstats.com/lights/drivers/BarbazzaFabrizio.htm> ,
+		<http://www.champcarstats.com/drivers/BarbazzaFabrizio.htm> ;
+	dbo:abstract	"\u0424\u0430\u0431\u0440\u0438\u0446\u0438\u043E \u0411\u0430\u0440\u0431\u0430\u0446\u0446\u0430 (\u0438\u0442\u0430\u043B. Fabrizio Barbazza, 2 \u0430\u043F\u0440\u0435\u043B\u044F, 1963, \u041C\u043E\u043D\u0446\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Fabrizio Barbazza (Monza, 2 april 1963) is een voormalig Italiaans autocoureur. Hij maakte zijn Formule 1-debuut in 1991 bij AGS en nam deel aan 20 Grands Prix waarvan hij er acht mocht starten. Hij scoorde 2 punten. In zijn tienerjaren reed hij hoofdzakelijk motorcross maar in 1982 begon hij met racen in de Formule Monza. Het volgende jaar stapte hij over naar de Italiaanse Formule 3 en werd zesde in de klasse in 1984. In 1985 won hij vier races en werd hij vijfde in het eindklassement. Hij ging in de Verenigde Staten in de American Racing Series rijden, waar hij vier races en het kampioenschap won bij zijn debuut. In de CART werd hij in 1987 Rookie Of The Year. In 1990 ging hij in de Formule 3000 rijden, waarop hij een jaar later de kans kreeg om voor AGS in de Formule 1 te komen rijden. Hij wist zich voor geen enkele race te kwalificeren maar kon in 1993 nog wel aan de slag bij Minardi. Hij scoorde tweemaal punten in de eerste vier races. Hij was betrokken in een zwaar ongeval toen hij in 1995 in een Ferrari sportauto in de Verenigde Staten reed. Hij had zware verwondingen aan het hoofd en borst, waardoor hij in een tijdje in een coma gelegen heeft. Hij herstelde volledig maar ging nooit meer racen. Hij startte een karting-circuit in Monza en begon met het ontwerpen van vangrails."@nl ,
+		"Fabrizio Barbazza (2 de abril de 1963, Lombard\u00EDa) es un ex piloto italiano de F\u00F3rmula 1 que compiti\u00F3 para la escuder\u00EDa AGS y para Minardi."@es ,
+		"Fabrizio Barbazza (Monza, 2 de abril de 1963) \u00E9 um ex-piloto automobil\u00EDstico da It\u00E1lia que correu pelas equipes AGS e Minardi na F\u00F3rmula 1."@pt ,
+		"\u30D5\u30A1\u30D6\u30EA\u30C4\u30A3\u30AA\u30FB\u30D0\u30EB\u30D0\u30C3\u30C4\u30A1\uFF08Fabrizio Barbazza\u30001963\u5E744\u67082\u65E5-\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30D5\u30A1\u30D6\u30EA\u30C3\u30C4\u30A9\u30FB\u30D0\u30EB\u30D0\u30C3\u30C4\u30A1\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u30021996\u5E74\u306B\u5F15\u9000\u3057\u305F\u3002"@ja ,
+		"Fabrizio Barbazza (ur. 2 kwietnia 1963 roku w Monza, Lombardia) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Fabrizio Barbazza (born 2 April 1963) is an Italian former Formula One driver who raced for the AGS and Minardi teams and was the 1987 Indianapolis 500 Rookie of the Year."@en ,
+		"Fabrizio Barbazza (* 4. April 1963 in Monza, Italien) ist ein ehemaliger italienischer Rennfahrer."@de ,
+		"\u0641\u0627\u0628\u0631\u064A\u0632\u064A\u0648 \u0628\u0627\u0631\u0628\u0627\u0632\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 2 \u0623\u0628\u0631\u064A\u0644 1963 \u0641\u064A \u0645\u0648\u0646\u0632\u0627\u060C \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1991. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0647\u0646\u062F \u0627\u0644\u0643\u0628\u0631\u0649 1991. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 20 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Fabrizio Barbazza Fabrizio Barbazza est un ancien pilote automobile italien n\u00E9 le 2 avril 1963 \u00E0 Monza en Italie."@fr ;
+	dbo:birthDate	"1963-4-2"^^xsd:date ;
+	dbo:wikiPageRevisionID	741435657 ;
+	dbo:birthPlace	dbr:Monza ;
+	dbo:wikiPageID	1219789 ;
+	dbp:prevSeriesYears	1986 ,
+		1982 ,
+		1983 ;
+	dbp:bestFinish	12 ;
+	dbp:prevSeries	dbr:Italian_Formula_Three ,
+		dbr:Formula_Monza ,
+		dbr:American_Racing_Series ;
+	dbp:year	1987 ;
+	dbp:awards	"CART Rookie of the year"^^xsd:string ,
+		"Indianapolis 500 Rookie of the year"^^xsd:string ;
+	dbp:yearsActive	198719891992 ;
+	dbp:titleYears	1986 ;
+	dbp:awardYears	1987 ;
+	dbp:wins	0 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Fabrizio_Barbazza	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1991_San_Marino_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1993_French_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"20"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Minardi ,
+		dbr:Automobiles_Gonfaronnaises_Sportives .
+dbr:Randy_Lanier	dbp:after	dbr:Fabrizio_Barbazza .
+dbr:Fabrizio	dbo:wikiPageDisambiguates	dbr:Fabrizio_Barbazza .
+<http://dbpedia.org/resource/1988_Formula_One_Indoor_Trophy>	dbp:rd1Team	dbr:Fabrizio_Barbazza .
+<http://dbpedia.org/resource/1985_Macau_Grand_Prix__Venturini_Racing__1>	dbo:firstDriver	dbr:Fabrizio_Barbazza .
+dbr:Minardi_M193__3	dbo:firstDriver	dbr:Fabrizio_Barbazza .
+dbr:Billy_Vukovich_III	dbp:before	dbr:Fabrizio_Barbazza .
+<http://dbpedia.org/resource/John_Jones_(racing_driver)>	dbp:before	dbr:Fabrizio_Barbazza .
+<http://dbpedia.org/resource/1987_CART_PPG_Indy_Car_World_Series__Arciero_Racing__1>	dbo:firstDriver	dbr:Fabrizio_Barbazza .
+<http://dbpedia.org/resource/1989_CART_PPG_Indy_Car_World_Series__Arciero_Racing__2>	dbo:firstDriver	dbr:Fabrizio_Barbazza .
+<http://dbpedia.org/resource/1987_Indianapolis_500>	dbp:rookie	dbr:Fabrizio_Barbazza .

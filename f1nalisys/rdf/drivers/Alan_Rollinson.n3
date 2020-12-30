@@ -1,0 +1,106 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Alan_Rollinson	rdf:type	dbo:FormulaOneRacer ,
+		dbo:MotorsportRacer .
+@prefix ns3:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Alan_Rollinson	rdf:type	ns3:Agent .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Alan_Rollinson	rdf:type	foaf:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Alan_Rollinson	rdf:type	umbel-rc:RaceCarDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Alan_Rollinson	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Alan_Rollinson	rdf:type	yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Agent ,
+		yago:WikicatTasmanSeriesDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:CausalAgent100007347 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Alan_Rollinson	rdf:type	wikidata:Q378622 ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Alan_Rollinson	rdf:type	schema:Person ,
+		dbo:Person ,
+		dbo:Athlete ,
+		wikidata:Q24229398 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		wikidata:Q5 ,
+		dbo:RacingDriver ,
+		ns3:NaturalPerson ,
+		yago:Operator110378412 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Alan_Rollinson	rdfs:label	"Alan Rollinson"@nl ,
+		"Alan Rollinson"@en ,
+		"Alan Rollinson"@it ,
+		"Alan Rollinson"@pt ,
+		"Alan Rollinson"@pl ;
+	rdfs:comment	"Alan Rollinson (ur. 15 maja 1943 roku w Walsall) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Alan Rollinson (Walsall, Inglaterra, 15 de maio de 1943) foi um automobilista ingl\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1965."@pt ,
+		"Alan Rollinson (born 15 May 1943 in Walsall, Staffordshire) is a British former racing driver from England. He entered one Formula One World Championship Grand Prix, the 1965 British Grand Prix, with a Cooper T71/73 run by Gerard Racing, but he failed to qualify. He competed more successfully in various other formulae, including Formula 5000."@en ,
+		"Alan Rollinson (Walsall, Staffordshire, 15 mei 1943) is een voormalig Brits Formule 1-coureur. Hij nam deel aan zijn thuisrace in 1965 voor het team Cooper, maar wist zich niet te kwalificeren."@nl ,
+		"Partecip\u00F2 al Gran Premio di Gran Bretagna 1965 alla guida di una Cooper T73 gestita dalla Bob Gerard Racing, senza per\u00F2 qualificarsi. Ottenne il ventiduesimo tempo, primo degli esclusi, a 4 decimi da John Rhodes, ultimo dei qualificati e a 8 secondi e 2 decimi da Jim Clark, che part\u00EC in pole. Corse in molte altre categorie con buoni risultati, tra cui la Formula 5000."@it .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Alan_Rollinson	dbp:points	0 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04w45k> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Alan_Rollinson	owl:sameAs	dbpedia-wikidata:Q2324604 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Alan_Rollinson	owl:sameAs	dbpedia-pl:Alan_Rollinson ,
+		dbr:Alan_Rollinson .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Alan_Rollinson	owl:sameAs	dbpedia-nl:Alan_Rollinson .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Alan_Rollinson	owl:sameAs	dbpedia-it:Alan_Rollinson .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Alan_Rollinson	owl:sameAs	yago-res:Alan_Rollinson .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Alan_Rollinson	owl:sameAs	dbpedia-pt:Alan_Rollinson ,
+		wikidata:Q2324604 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Alan_Rollinson	dct:subject	dbc:Living_people ,
+		dbc:Sportspeople_from_Walsall ,
+		dbc:Bob_Gerard_Racing_Formula_One_drivers ,
+		dbc:Tasman_Series_drivers ,
+		<http://dbpedia.org/resource/Category:1943_births> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ;
+	foaf:name	"Alan Rollinson"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Alan"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Alan_Rollinson	foaf:isPrimaryTopicOf	wikipedia-en:Alan_Rollinson ;
+	foaf:surname	"Rollinson"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Alan_Rollinson	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Alan_Rollinson?oldid=719984294> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Alan_Rollinson	dbp:birthDate	"1943-05-15"^^xsd:date ;
+	dbo:abstract	"Partecip\u00F2 al Gran Premio di Gran Bretagna 1965 alla guida di una Cooper T73 gestita dalla Bob Gerard Racing, senza per\u00F2 qualificarsi. Ottenne il ventiduesimo tempo, primo degli esclusi, a 4 decimi da John Rhodes, ultimo dei qualificati e a 8 secondi e 2 decimi da Jim Clark, che part\u00EC in pole. Corse in molte altre categorie con buoni risultati, tra cui la Formula 5000."@it ,
+		"Alan Rollinson (Walsall, Inglaterra, 15 de maio de 1943) foi um automobilista ingl\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1965."@pt ,
+		"Alan Rollinson (born 15 May 1943 in Walsall, Staffordshire) is a British former racing driver from England. He entered one Formula One World Championship Grand Prix, the 1965 British Grand Prix, with a Cooper T71/73 run by Gerard Racing, but he failed to qualify. He competed more successfully in various other formulae, including Formula 5000."@en ,
+		"Alan Rollinson (Walsall, Staffordshire, 15 mei 1943) is een voormalig Brits Formule 1-coureur. Hij nam deel aan zijn thuisrace in 1965 voor het team Cooper, maar wist zich niet te kwalificeren."@nl ,
+		"Alan Rollinson (ur. 15 maja 1943 roku w Walsall) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1943-5-15"^^xsd:date ;
+	dbo:wikiPageRevisionID	719984294 ;
+	dbo:birthPlace	dbr:Walsall ;
+	dbo:wikiPageID	1353838 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Alan_Rollinson	ns23:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1965_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1965_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Cooper"^^xsd:string ;
+	dbp:nationality	"British"^^xsd:string .
+wikipedia-en:Alan_Rollinson	foaf:primaryTopic	dbr:Alan_Rollinson .
+dbr:Rollinson	dbo:wikiPageDisambiguates	dbr:Alan_Rollinson .

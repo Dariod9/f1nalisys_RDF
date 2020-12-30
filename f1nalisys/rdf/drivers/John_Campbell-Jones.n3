@@ -1,0 +1,104 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:John_Campbell-Jones	foaf:primaryTopic	dbr:John_Campbell-Jones .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:John_Campbell-Jones	rdf:type	yago:CausalAgent100007347 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:John_Campbell-Jones	rdf:type	umbel-rc:RaceCarDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:John_Campbell-Jones	rdf:type	schema:Person ,
+		yago:PhysicalEntity100001930 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:John_Campbell-Jones	rdf:type	wikidata:Q5 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:John_Campbell-Jones	rdf:type	ns8:NaturalPerson ,
+		wikidata:Q24229398 ,
+		yago:WikicatEmerysonFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		foaf:Person ,
+		wikidata:Q378622 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:Driver110034906 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:John_Campbell-Jones	rdf:type	dbo:FormulaOneRacer ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:John_Campbell-Jones	rdf:type	owl:Thing ,
+		dbo:MotorsportRacer ,
+		ns8:Agent ,
+		dbo:Agent ,
+		dbo:Person ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:John_Campbell-Jones	rdfs:label	"John Campbell-Jones"@pt ,
+		"John Campbell-Jones"@pl ,
+		"John Campbell-Jones"@en ,
+		"John Campbell-Jones"@nl ,
+		"John Campbell-Jones"@de ;
+	rdfs:comment	"Michael John Campbell-Jones (ur. 21 stycznia 1930 roku w Leatherhead, Surrey) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Michael John Churchill Campbell-Jones (born 21 January 1930, in Leatherhead, Surrey) is a former Formula One driver from England. He participated in two World Championship Grands Prix, debuting on 17 June 1962. He scored no championship points. He also participated in numerous non-Championship Formula One races. In 1963, he moved to Tim Parnell's team which were running Lolas, but he struggled again with his single Championship entry seeing him finish 13th at the British Grand Prix. After that season, Campbell-Jones faded from the scene."@en ,
+		"Michael John Campbell-Jones (* 21. Januar 1930 Leatherhead) ist ein ehemaliger englischer Autorennfahrer."@de ,
+		"Michael John Campbell-Jones (Leatherhead, Surrey, Inglaterra, 21 de janeiro de 1930) foi um automobilista ingl\u00EAs que participou de 3 Grandes Pr\u00EAmios de F\u00F3rmula 1."@pt ,
+		"Michael John Campbell-Jones (Leatherhead (Surrey), 21 januari 1930) is een voormalige Britse Formule 1-coureur. Campbell-Jones reed twee Grands Prix Formule 1: de Grand Prix Formule 1 van Belgi\u00EB 1962 (team Emeryson Cars) en de Grand Prix Formule 1 van Groot-Brittanni\u00EB 1963 (Lotus)."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:John_Campbell-Jones	dbp:birthDate	"1930-01-21"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:John_Campbell-Jones	owl:sameAs	yago-res:John_Campbell-Jones .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:John_Campbell-Jones	owl:sameAs	dbpedia-pl:John_Campbell-Jones .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:John_Campbell-Jones	owl:sameAs	dbpedia-nl:John_Campbell-Jones .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:John_Campbell-Jones	owl:sameAs	dbpedia-pt:John_Campbell-Jones .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:John_Campbell-Jones	owl:sameAs	dbpedia-wikidata:Q173644 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:John_Campbell-Jones	owl:sameAs	dbpedia-de:John_Campbell-Jones ,
+		<http://rdf.freebase.com/ns/m.04ktzh> ,
+		dbr:John_Campbell-Jones ,
+		wikidata:Q173644 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:John_Campbell-Jones	dct:subject	dbc:English_racing_drivers ,
+		dbc:Living_people ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ,
+		dbc:People_from_Leatherhead ,
+		<http://dbpedia.org/resource/Category:1930_births> ,
+		dbc:Emeryson_Formula_One_drivers ;
+	foaf:name	"John Campbell-Jones"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"John"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:John_Campbell-Jones ;
+	foaf:surname	"Campbell-Jones"@en ;
+	dbp:points	0 ;
+	dbp:years	"-"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	"Non-works Cooper, Lotus and Lola"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:John_Campbell-Jones	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/John_Campbell-Jones?oldid=744476255> ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbo:abstract	"Michael John Campbell-Jones (Leatherhead, Surrey, Inglaterra, 21 de janeiro de 1930) foi um automobilista ingl\u00EAs que participou de 3 Grandes Pr\u00EAmios de F\u00F3rmula 1."@pt ,
+		"Michael John Campbell-Jones (Leatherhead (Surrey), 21 januari 1930) is een voormalige Britse Formule 1-coureur. Campbell-Jones reed twee Grands Prix Formule 1: de Grand Prix Formule 1 van Belgi\u00EB 1962 (team Emeryson Cars) en de Grand Prix Formule 1 van Groot-Brittanni\u00EB 1963 (Lotus)."@nl ,
+		"Michael John Churchill Campbell-Jones (born 21 January 1930, in Leatherhead, Surrey) is a former Formula One driver from England. He participated in two World Championship Grands Prix, debuting on 17 June 1962. He scored no championship points. He also participated in numerous non-Championship Formula One races. After some success in sports car racing in 1958, Campbell-Jones entered Formula Two whilst entering minor Formula One races. In 1962 he joined the Emeryson team but achieved little; his one World Championship entry was in the Belgian Grand Prix, where the Emeryson's gearbox failed in practice. He raced a borrowed Lotus which he retired with gearbox failure, although he was classified 11th. However, he did achieve some minor placings in lesser Formula One races that year. In the 1962 Solitude Grand Prix (non-championship) he had an accident in practice and was badly burnt. In 1963, he moved to Tim Parnell's team which were running Lolas, but he struggled again with his single Championship entry seeing him finish 13th at the British Grand Prix. After that season, Campbell-Jones faded from the scene."@en ,
+		"Michael John Campbell-Jones (ur. 21 stycznia 1930 roku w Leatherhead, Surrey) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Michael John Campbell-Jones (* 21. Januar 1930 Leatherhead) ist ein ehemaliger englischer Autorennfahrer."@de ;
+	dbo:birthDate	"1930-1-21"^^xsd:date ;
+	dbo:wikiPageRevisionID	744476255 ;
+	dbo:birthPlace	dbr:Leatherhead ;
+	dbo:wikiPageID	1234940 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1962_Belgian_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1963_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:John_Campbell-Jones	ns23:hypernym	dbr:Driver .

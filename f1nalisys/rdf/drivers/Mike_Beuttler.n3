@@ -1,0 +1,134 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1970_1000km_of_Brands_Hatch__11__1>	dbo:firstDriver	dbr:Mike_Beuttler .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Mike_Beuttler	foaf:primaryTopic	dbr:Mike_Beuttler .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mike_Beuttler	rdf:type	wikidata:Q215627 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mike_Beuttler	rdf:type	umbel-rc:RaceCarDriver .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mike_Beuttler	rdf:type	ns7:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mike_Beuttler	rdf:type	yago:Driver110034906 ,
+		ns7:Agent ,
+		dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mike_Beuttler	rdf:type	owl:Thing ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:Operator110378412 ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Mike_Beuttler	rdf:type	schema:Person ,
+		dbo:RacingDriver ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		wikidata:Q378622 ,
+		wikidata:Q5 ,
+		foaf:Person ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Agent ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mike_Beuttler	rdfs:label	"Mike Beuttler"@it ,
+		"Mike Beuttler"@fr ,
+		"\u0411\u0451\u0442\u0442\u043B\u0435\u0440, \u041C\u0430\u0439\u043A"@ru ,
+		"Mike Beuttler"@pt ,
+		"Mike Beuttler"@en ,
+		"Mike Beuttler"@pl ,
+		"Mike Beuttler"@nl ,
+		"\u30DE\u30A4\u30AF\u30FB\u30DC\u30A4\u30C8\u30E9\u30FC"@ja ,
+		"Mike Beuttler"@de ;
+	rdfs:comment	"Mike Beuttler (* 13. August 1942 in Kairo (\u00C4gypten); \u2020 29. Dezember 1988 in San Francisco) war ein britischer Rennfahrer und Formel-1-Fahrer. Beuttler wurde im Zweiten Weltkrieg in Kairo geboren. Sein Vater war zu dieser Zeit als Offizier der britischen Armee an der Front. Als der Krieg zu Ende war, kehrte die Familie nach England zur\u00FCck. Mike Beuttler arbeitete in seiner Jugend in einem kleinen britischen Rennteam und konnte sich auch zeitweise hinter das Steuer eines Rennwagens setzen."@de ,
+		"Michael Beuttler (n\u00E9 le 13 avril 1940 au Caire en \u00C9gypte et mort le 29 d\u00E9cembre 1988 \u00E0 Los Angeles) est un coureur automobile anglais. Il s'est inscrit \u00E0 32 Grands Prix, a pris 28 d\u00E9parts en championnat du monde et disput\u00E9 8 courses hors-championnat. Il ne marque aucun point au championnat du monde des pilotes. Beuttler est le beau-fr\u00E8re du politicien am\u00E9ricain Alan Clark."@fr ,
+		"Michael \u201EMike\u201D Beuttler (ur. 13 kwietnia 1940 roku w Kairze, zm. 29 grudnia 1988 roku w Los Angeles) \u2013 by\u0142 brytyjskim kierowc\u0105 wy\u015Bcigowym. Karier\u0119 rozpocz\u0105\u0142 w latach 60. w Formule 3, p\u00F3\u017Aniej startowa\u0142 w Formule 2. W 1971 roku zadebiutowa\u0142 w Formule 1 jako kierowca prywatnie wystawionego bolidu March 731. Przez ca\u0142\u0105 swoj\u0105 karier\u0119 otrzymywa\u0142 wsparcie finansowe od grupy zamo\u017Cnych biznesmen\u00F3w (jednym z nich by\u0142 m.in. Jack Durlacher, by\u0142y wsp\u00F3\u0142pracownik Roba Walkera), przewa\u017Cnie o orientacji homoseksualnej. Sam Beuttler \u2013 co stanowi\u0142o tajemnic\u0119 poliszynela \u2013 r\u00F3wnie\u017C by\u0142 gejem."@pl ,
+		"Mike Beuttler (Ca\u00EFro (Egypte), 13 april 1940 \u2013 San Francisco (USA), 29 december 1988) was een Brits Formule 1-coureur. Hij reed al zijn 28 Grands Prix voor het team van March Engineering."@nl ,
+		"\u041C\u0430\u0439\u043A\u043B \u00AB\u041C\u0430\u0439\u043A\u00BB \u0411\u0451\u0442\u0442\u043B\u0435\u0440 (\u0430\u043D\u0433\u043B. Michael Beuttler, 13 \u0430\u043F\u0440\u0435\u043B\u044F 1940 \u0433\u043E\u0434\u0430, \u041A\u0430\u0438\u0440, \u0415\u0433\u0438\u043F\u0435\u0442 \u2014 29 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1988 \u0433\u043E\u0434\u0430, \u0421\u0430\u043D-\u0424\u0440\u0430\u043D\u0446\u0438\u0441\u043A\u043E, \u0421\u0428\u0410) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Michael Simon Brindley Bream Beuttler (13 April 1940 \u2013 29 December 1988) was a British Formula One driver who raced privately entered March cars. He was born in Cairo, Egypt. He was a talented Formula Three graduate from the late 1960s, who then graduated to Formula Two and then to Formula One in 1971. The finance for the team came from a group of stockbroker friends from whom the team took its name \u2013 at first Clarke-Mordaunt-Guthrie Racing, and in 1973 it became Clarke-Mordaunt-Guthrie-Durlacher Racing. He raced on one occasion, at the 1971 Canadian Grand Prix, for the works March team. Beuttler's best result was a seventh place in the 1973 Spanish Grand Prix."@en ,
+		"Michael Simon Brindley Bream Beuttler (Cairo, 13 de abril de 1940 - Los Angeles, 29 de dezembro de 1988), ou apenas Mike Beuttler, foi um piloto eg\u00EDpcio de F\u00F3rmula 1, \u00FAnico de seu pa\u00EDs a guiar um carro da categoria."@pt ,
+		"\u30DE\u30A4\u30AF\u30FB\u30DC\u30A4\u30C8\u30E9\u30FC\uFF08Michael Simon Brindley Bream \"Mike\" Beuttler, 1940\u5E744\u670813\u65E5 - 1988\u5E7412\u670829\u65E5\uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u59D3\u306F\u300C\u30D3\u30E5\u30FC\u30C8\u30E9\u30FC\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"Inizia a correre in Formula 3 alla fine degli anni '60, per poi passare in Formula 2. Esordisce in Formula 1 nel 1971 alla guida di una March privata gestita da una scuderia finanziata da un gruppo di amici. Con lo stesso mezzo correr\u00E0 anche nel 1972 e nel 1973. Nel Gran Premio del Canada del 1971 gareggia con una March ufficiale. Non ha mai ottenuto punti. \u00C8 morto di AIDS nel 1988 all'et\u00E0 di 48 anni."@it .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Mike_Beuttler	dbp:points	0 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mike_Beuttler	owl:sameAs	dbpedia-pl:Mike_Beuttler .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mike_Beuttler	owl:sameAs	dbpedia-fr:Mike_Beuttler .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mike_Beuttler	owl:sameAs	yago-res:Mike_Beuttler ,
+		wikidata:Q171734 ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30A4\u30AF\u30FB\u30DC\u30A4\u30C8\u30E9\u30FC> ,
+		<http://rdf.freebase.com/ns/m.04k22l> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mike_Beuttler	owl:sameAs	dbpedia-pt:Mike_Beuttler ,
+		dbr:Mike_Beuttler .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mike_Beuttler	owl:sameAs	dbpedia-it:Mike_Beuttler .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mike_Beuttler	owl:sameAs	dbpedia-wikidata:Q171734 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mike_Beuttler	owl:sameAs	dbpedia-nl:Mike_Beuttler .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mike_Beuttler	owl:sameAs	dbpedia-de:Mike_Beuttler .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Mike_Beuttler	dct:subject	<http://dbpedia.org/resource/Category:1988_deaths> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mike_Beuttler	dct:subject	dbc:Gay_sportsmen ,
+		<http://dbpedia.org/resource/Category:1940_births> ,
+		dbc:AIDS-related_deaths_in_California ,
+		dbc:Sportspeople_from_Cairo ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:LGBT_sportspeople_from_England ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:March_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ;
+	foaf:name	"Mike Beuttler"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Mike"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Mike_Beuttler ;
+	foaf:surname	"Beuttler"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mike_Beuttler	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mike_Beuttler?oldid=725205147> ;
+	dbp:birthPlace	"Cairo, Egypt"^^xsd:string ;
+	dbp:deathPlace	"Los Angeles, California, USA"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mike_Beuttler	dbp:birthDate	"1940-04-13"^^xsd:date ;
+	dbp:deathDate	"1988-12-29"^^xsd:date ;
+	dbo:abstract	"\u30DE\u30A4\u30AF\u30FB\u30DC\u30A4\u30C8\u30E9\u30FC\uFF08Michael Simon Brindley Bream \"Mike\" Beuttler, 1940\u5E744\u670813\u65E5 - 1988\u5E7412\u670829\u65E5\uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u59D3\u306F\u300C\u30D3\u30E5\u30FC\u30C8\u30E9\u30FC\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"\u041C\u0430\u0439\u043A\u043B \u00AB\u041C\u0430\u0439\u043A\u00BB \u0411\u0451\u0442\u0442\u043B\u0435\u0440 (\u0430\u043D\u0433\u043B. Michael Beuttler, 13 \u0430\u043F\u0440\u0435\u043B\u044F 1940 \u0433\u043E\u0434\u0430, \u041A\u0430\u0438\u0440, \u0415\u0433\u0438\u043F\u0435\u0442 \u2014 29 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1988 \u0433\u043E\u0434\u0430, \u0421\u0430\u043D-\u0424\u0440\u0430\u043D\u0446\u0438\u0441\u043A\u043E, \u0421\u0428\u0410) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Michael Simon Brindley Bream Beuttler (Cairo, 13 de abril de 1940 - Los Angeles, 29 de dezembro de 1988), ou apenas Mike Beuttler, foi um piloto eg\u00EDpcio de F\u00F3rmula 1, \u00FAnico de seu pa\u00EDs a guiar um carro da categoria."@pt ,
+		"Mike Beuttler (* 13. August 1942 in Kairo (\u00C4gypten); \u2020 29. Dezember 1988 in San Francisco) war ein britischer Rennfahrer und Formel-1-Fahrer. Beuttler wurde im Zweiten Weltkrieg in Kairo geboren. Sein Vater war zu dieser Zeit als Offizier der britischen Armee an der Front. Als der Krieg zu Ende war, kehrte die Familie nach England zur\u00FCck. Mike Beuttler arbeitete in seiner Jugend in einem kleinen britischen Rennteam und konnte sich auch zeitweise hinter das Steuer eines Rennwagens setzen. Doch erst mit 24 Jahren deb\u00FCtierte der Brite in einem Rennwagen. Er fuhr in der Formel-Libre-Meisterschaft. 1969 stieg er in die britische Formel-3-Meisterschaft auf. Im darauffolgenden Jahr (1970) feierte er seine ersten Siege und wurde am Ende Dritter in der Gesamtwertung der Formel-3-Meisterschaft. 1971 folgte der Aufstieg in die Formel-2-Europameisterschaft. Trotz eines Sieges in Vallelunga kam er infolge zahlreicher Ausf\u00E4lle durch Defekte nur auf den siebten Platz in der Europameisterschaft. March-Teamchef Max Mosley wurde auf ihn aufmerksam und stellte ihm f\u00FCr vier Rennen der Formel-1-Weltmeisterschaft 1971 einen privaten March zur Verf\u00FCgung. Beuttler startete erstmals beim Grand Prix von Gro\u00DFbritannien in Silverstone auf einem March 711-Cosworth, im Rennen fiel er jedoch aus. Auch die Grand Prix von Deutschland, \u00D6sterreich, Italien und Kanada verliefen nicht gl\u00FCcklich. F\u00FCr 1972 fand Beuttler neue Sponsoren und konnte die gesamte Saison mit seinem privaten March bestreiten. Nach einem hervorragenden zweiten Platz bei der nicht zur Weltmeisterschaft z\u00E4hlenden Jim Clark Troph\u00E4e erlebte Beuttler aber erneut eine unbefriedigende und punktelose Formel-1-Saison. Seine beste Platzierung war der achte Platz beim Grand Prix von Deutschland auf dem N\u00FCrburgring. 1973 musste Mike Beuttler die Saison mit einem Vorjahresmodell (March 721) bestreiten, da er keine neuen Sponsoren fand. Trotzdem verfehlte er beim Grand Prix von Spanien in Jarama nur knapp den sechsten Platz und damit einen WM-Punkt. In Anderstorp wurde er noch einmal Achter. Beim Grand Prix von \u00D6sterreich erreichte er mit einem elften Startplatz das beste Trainingsergebnis seiner Formel-1-Karriere. Doch nach dem Start wurde er von Mike Hailwood nach einer Kollision aus dem Rennen geworfen. Trotz guter Leistungen mit dem unterlegenen March fand Beuttler f\u00FCr 1974 kein neues Cockpit in der Formel 1. So beendete er nach 28 Grand-Prix-Rennen seine Karriere in der K\u00F6nigsklasse des Motorsports. 1974 bestritt er noch einige Sportwagenrennen mit einigem Erfolg. Doch der Motorsport war ihm zu gef\u00E4hrlich geworden \u2212 nicht zuletzt wegen der vielen t\u00F6dlichen Unf\u00E4lle (unter anderem Roger Williamson und Fran\u00E7ois Cevert). So entschied sich Mike Beuttler, seine Rennsportkarriere zu beenden und zog sich mit seiner Familie nach Kalifornien zur\u00FCck. Dort verstarb er am 29. Dezember 1988 nach einer langen Krankheit in einem Krankenhaus in San Francisco."@de ,
+		"Michael Beuttler (n\u00E9 le 13 avril 1940 au Caire en \u00C9gypte et mort le 29 d\u00E9cembre 1988 \u00E0 Los Angeles) est un coureur automobile anglais. Il s'est inscrit \u00E0 32 Grands Prix, a pris 28 d\u00E9parts en championnat du monde et disput\u00E9 8 courses hors-championnat. Il ne marque aucun point au championnat du monde des pilotes. Beuttler est le beau-fr\u00E8re du politicien am\u00E9ricain Alan Clark."@fr ,
+		"Mike Beuttler (Ca\u00EFro (Egypte), 13 april 1940 \u2013 San Francisco (USA), 29 december 1988) was een Brits Formule 1-coureur. Hij reed al zijn 28 Grands Prix voor het team van March Engineering."@nl ,
+		"Michael Simon Brindley Bream Beuttler (13 April 1940 \u2013 29 December 1988) was a British Formula One driver who raced privately entered March cars. He was born in Cairo, Egypt. He was a talented Formula Three graduate from the late 1960s, who then graduated to Formula Two and then to Formula One in 1971. The finance for the team came from a group of stockbroker friends from whom the team took its name \u2013 at first Clarke-Mordaunt-Guthrie Racing, and in 1973 it became Clarke-Mordaunt-Guthrie-Durlacher Racing. He raced on one occasion, at the 1971 Canadian Grand Prix, for the works March team. Beuttler's best result was a seventh place in the 1973 Spanish Grand Prix. Beuttler retired from racing the following year and eventually moved to the United States, where he died of complications resulting from AIDS in 1988, in Los Angeles, aged 48. As of 2016 he is the only known gay F1 driver. Beuttler was also the brother-in-law of politician Alan Clark."@en ,
+		"Michael \u201EMike\u201D Beuttler (ur. 13 kwietnia 1940 roku w Kairze, zm. 29 grudnia 1988 roku w Los Angeles) \u2013 by\u0142 brytyjskim kierowc\u0105 wy\u015Bcigowym. Karier\u0119 rozpocz\u0105\u0142 w latach 60. w Formule 3, p\u00F3\u017Aniej startowa\u0142 w Formule 2. W 1971 roku zadebiutowa\u0142 w Formule 1 jako kierowca prywatnie wystawionego bolidu March 731. Przez ca\u0142\u0105 swoj\u0105 karier\u0119 otrzymywa\u0142 wsparcie finansowe od grupy zamo\u017Cnych biznesmen\u00F3w (jednym z nich by\u0142 m.in. Jack Durlacher, by\u0142y wsp\u00F3\u0142pracownik Roba Walkera), przewa\u017Cnie o orientacji homoseksualnej. Sam Beuttler \u2013 co stanowi\u0142o tajemnic\u0119 poliszynela \u2013 r\u00F3wnie\u017C by\u0142 gejem. W latach 1971-1973 wzi\u0105\u0142 udzia\u0142 w 28 wy\u015Bcigach F1; nie zdoby\u0142 ani jednego punktu. Najlepszy wynik \u2013 si\u00F3dme miejsce \u2013 zanotowa\u0142 podczas Grand Prix Hiszpanii w 1973 roku. W 1974 roku zako\u0144czy\u0142 karier\u0119 i przeni\u00F3s\u0142 si\u0119 do Stan\u00F3w Zjednoczonych. Tam te\u017C zmar\u0142 w wieku 48 lat na AIDS."@pl ,
+		"Inizia a correre in Formula 3 alla fine degli anni '60, per poi passare in Formula 2. Esordisce in Formula 1 nel 1971 alla guida di una March privata gestita da una scuderia finanziata da un gruppo di amici. Con lo stesso mezzo correr\u00E0 anche nel 1972 e nel 1973. Nel Gran Premio del Canada del 1971 gareggia con una March ufficiale. Non ha mai ottenuto punti. \u00C8 morto di AIDS nel 1988 all'et\u00E0 di 48 anni."@it ;
+	dbo:birthDate	"1940-4-13"^^xsd:date ;
+	dbo:deathDate	"1988-12-29"^^xsd:date ;
+	dbo:deathPlace	dbr:Los_Angeles ;
+	dbo:wikiPageRevisionID	725205147 ;
+	dbo:birthPlace	dbr:Cairo ;
+	dbo:wikiPageID	1226504 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Mike_Beuttler	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1971_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1973_United_States_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"29"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Non-works March"^^xsd:string ;
+	dbp:nationality	"British"^^xsd:string .

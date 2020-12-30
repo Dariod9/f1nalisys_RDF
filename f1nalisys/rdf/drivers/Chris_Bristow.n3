@@ -1,0 +1,135 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1960_Glover_Trophy>	dbo:thirdDriver	dbr:Chris_Bristow ;
+	dbo:poleDriver	dbr:Chris_Bristow .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Chris_Bristow	rdf:type	dbo:MotorsportRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Chris_Bristow	rdf:type	schema:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Chris_Bristow	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		dbo:FormulaOneRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Chris_Bristow	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		dbo:Athlete .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Chris_Bristow	rdf:type	wikidata:Q215627 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Chris_Bristow	rdf:type	foaf:Person ,
+		wikidata:Q24229398 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Chris_Bristow	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q5 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Chris_Bristow	rdf:type	ns9:NaturalPerson ,
+		wikidata:Q378622 ,
+		ns9:Agent ,
+		dbo:RacingDriver ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Chris_Bristow	rdfs:label	"Chris Bristow"@pt ,
+		"Chris Bristow"@de ,
+		"Chris Bristow"@nl ,
+		"Chris Bristow"@en ,
+		"\u30AF\u30EA\u30B9\u30FB\u30D6\u30EA\u30B9\u30C8\u30A6"@ja ,
+		"Chris Bristow"@pl ,
+		"Chris Bristow"@it ,
+		"\u0411\u0440\u0438\u0441\u0442\u043E\u0443, \u041A\u0440\u0438\u0441"@ru ,
+		"Chris Bristow"@fr ;
+	rdfs:comment	"\u30AF\u30EA\u30B9\u30FB\u30D6\u30EA\u30B9\u30C8\u30A6(Chris Bristow,1937\u5E7412\u67082\u65E5 - 1960\u5E746\u670819\u65E5)\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u51FA\u8EAB\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u300C\u30AF\u30EA\u30B9\u30FB\u30D6\u30E9\u30A4\u30B9\u30C8\u30A6\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Christopher \u201EChris\u201C William Bristow (* 2. Dezember 1937 in London; \u2020 19. Juni 1960 in Spa-Francorchamps, Belgien) war ein englischer Rennfahrer."@de ,
+		"Christopher William Bristow (2 December 1937, Lambeth, London \u2013 19 June 1960, Spa-Francorchamps, Belgium), was a British Formula One driver from England. Bristow was the son of a garage owner from London, and was unmarried. Bristow was called the wild man of British club racing, as he had spun out or had collisions on almost every race track he had raced on. He started four Formula One World Championship races and scored no championship points. The winner of the annual McLaren Autosport BRDC Award for promising young British drivers is also presented with the Chris Bristow Trophy."@en ,
+		"Chris Bristow Chris Bristow, n\u00E9 le 2 d\u00E9cembre 1937 \u00E0 Lambeth, Angleterre et mort le 19 juin 1960 \u00E0 Spa, en Belgique, est un pilote automobile britannique qui \u00E9volua en Formule 1 (quatre d\u00E9parts en Grand Prix). Stirling Moss s'\u00E9tait bless\u00E9 gri\u00E8vement dans le m\u00EAme virage pendant les essais de la veille, et Alan Stacey, un autre pilote britannique, se tue au vingt-cinqui\u00E8me tour de la course apr\u00E8s avoir \u00E9t\u00E9 heurt\u00E9 par un oiseau en plein visage."@fr ,
+		"Chris Bristow (Lambeth, Londen, 2 december 1937 \u2013 Circuit Spa-Francorchamps, Belgi\u00EB, 19 juni 1960) was een Brits Formule 1-coureur. Hij reed 4 Grands Prix voor het team Cooper. Bij de Grand Prix van Belgi\u00EB van 1960 overleed hij op 22-jarige leeftijd toen na 20 ronden zijn auto over de kop vloog."@nl ,
+		"Chris Bristow (Londres, 2 de dezembro de 1937 \u2014 Spa-Francorchamps, 19 de junho de 1960) foi um piloto ingl\u00EAs de F\u00F3rmula 1. Morreu jovem, aos 22 anos, juntamente com seu compatriota Alan Stacey. Seu acidente fatal aconteceu no Grande Pr\u00EAmio da B\u00E9lgica de 1960 na curva Burnenville em disputa com o Ferrari do piloto belga Willy Mairesse, Bristow perdeu o controle na descida da curva saindo da pista encontrando uma cerca e morrendo decapitado."@pt ,
+		"Bristow era figlio del proprietario di un'autofficina di Londra."@it ,
+		"Chris Bristow (ur. 2 grudnia 1937 w Lambeth-Londyn, zm. 19 czerwca 1960 w Spa, Belgia) \u2212 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"\u041A\u0440\u0438\u0441 \u0411\u0440\u0438\u0441\u0442\u043E\u0443 (\u0430\u043D\u0433\u043B. Chris Bristow, \u0440\u043E\u0434\u0438\u043B\u0441\u044F 2 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1937 \u0433\u043E\u0434\u0430, \u041B\u0430\u043C\u0431\u0435\u0442, \u041B\u043E\u043D\u0434\u043E\u043D, \u0410\u043D\u0433\u043B\u0438\u044F \u2014 \u043F\u043E\u0433\u0438\u0431 19 \u0438\u044E\u043D\u044F 1960 \u0433\u043E\u0434\u0430, \u0442\u0440\u0430\u0441\u0441\u0430 \u0421\u043F\u0430-\u0424\u0440\u0430\u043D\u043A\u043E\u0440\u0448\u0430\u043C, \u0411\u0435\u043B\u044C\u0433\u0438\u044F) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0423\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u0447\u0435\u0442\u044B\u0440\u0451\u0445 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0437\u0430 \u0440\u0443\u043B\u0451\u043C Cooper \u0447\u0430\u0441\u0442\u043D\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B BRP, \u043D\u043E \u0438\u0437-\u0437\u0430 \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043D\u043E\u0439 \u0435\u0437\u0434\u044B \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0441\u043C\u043E\u0433 \u0432\u0441\u0435\u0433\u043E \u043B\u0438\u0448\u044C \u0440\u0430\u0437. \u0412 \u043A\u043E\u043D\u0446\u0435 \u043A\u043E\u043D\u0446\u043E\u0432 \u043E\u043F\u0430\u0441\u043D\u0430\u044F \u043C\u0430\u043D\u0435\u0440\u0430 \u0432\u043E\u0436\u0434\u0435\u043D\u0438\u044F \u0441\u0442\u0430\u043B\u0430 \u043F\u0440\u0438\u0447\u0438\u043D\u043E\u0439 \u0435\u0433\u043E \u0433\u0438\u0431\u0435\u043B\u0438 \u2014 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 1960 \u0433\u043E\u0434\u0430 \u043E\u043D \u0431\u043E\u0440\u043E\u043B\u0441\u044F \u0437\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u044E \u0441 \u0412\u0438\u043B\u043B\u0438 \u041C\u044D\u0440\u0435\u0441\u0441\u043E\u043C, \u043D\u0435 \u0441\u043F\u0440\u0430\u0432\u0438\u043B\u0441\u044F \u0441 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\u043C, \u0432\u044B\u043B\u0435\u0442\u0435\u043B \u0441 \u0442\u0440\u0430\u0441\u0441\u044B \u0438 \u0431\u044B\u043B \u043E\u0431\u0435\u0437\u0433\u043B\u0430\u0432\u043B\u0435\u043D \u043E\u0433\u0440\u0430\u0434\u043E\u0439 \u0438\u0437 \u043A\u043E\u043B\u044E\u0447\u0435\u0439 \u043F\u0440\u043E\u0432\u043E\u043B\u043E\u043A\u0438."@ru .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Chris_Bristow	dbp:points	0 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Chris_Bristow	owl:sameAs	dbpedia-nl:Chris_Bristow .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Chris_Bristow	owl:sameAs	dbpedia-it:Chris_Bristow .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Chris_Bristow	owl:sameAs	dbpedia-fr:Chris_Bristow .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Chris_Bristow	owl:sameAs	yago-res:Chris_Bristow ,
+		dbr:Chris_Bristow ,
+		<http://ja.dbpedia.org/resource/\u30AF\u30EA\u30B9\u30FB\u30D6\u30EA\u30B9\u30C8\u30A6> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Chris_Bristow	owl:sameAs	dbpedia-de:Chris_Bristow .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Chris_Bristow	owl:sameAs	dbpedia-pl:Chris_Bristow ,
+		wikidata:Q172103 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Chris_Bristow	owl:sameAs	dbpedia-wikidata:Q172103 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Chris_Bristow	owl:sameAs	dbpedia-pt:Chris_Bristow ,
+		<http://rdf.freebase.com/ns/m.04k7q3> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Chris_Bristow	dct:subject	dbc:Sport_deaths_in_Belgium ,
+		<http://dbpedia.org/resource/Category:1960_deaths> ,
+		dbc:Racing_drivers_killed_while_racing ,
+		<http://dbpedia.org/resource/Category:1937_births> ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Deaths_by_decapitation ,
+		dbc:British_Racing_Partnership_Formula_One_drivers ;
+	foaf:name	"Chris Bristow"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Chris"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Chris_Bristow	foaf:isPrimaryTopicOf	wikipedia-en:Chris_Bristow ;
+	foaf:surname	"Bristow"@en ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Chris_Bristow	dbp:years	"1960-06-19"^^xsd:date .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Chris_Bristow	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Chris_Bristow?oldid=703965065> ;
+	dbp:before	dbr:Harry_Schell ;
+	dbp:after	dbr:Alan_Stacey ;
+	dbp:birthPlace	"Lambeth, London, England, UK"^^xsd:string ;
+	dbp:deathPlace	"Circuit de Spa-Francorchamps, Li\u00E8ge, Belgium"^^xsd:string ;
+	dbp:birthDate	"1937-12-02"^^xsd:date ;
+	dbp:deathDate	"1960-06-19"^^xsd:date ;
+	dbo:abstract	"Christopher \u201EChris\u201C William Bristow (* 2. Dezember 1937 in London; \u2020 19. Juni 1960 in Spa-Francorchamps, Belgien) war ein englischer Rennfahrer."@de ,
+		"Chris Bristow Chris Bristow, n\u00E9 le 2 d\u00E9cembre 1937 \u00E0 Lambeth, Angleterre et mort le 19 juin 1960 \u00E0 Spa, en Belgique, est un pilote automobile britannique qui \u00E9volua en Formule 1 (quatre d\u00E9parts en Grand Prix). Il participe au Grand Prix automobile de Belgique 1960 de Formule 1 sur une vieille Cooper de l'\u00E9curie British Racing Partnership et se tue dans le dix-neuvi\u00E8me tour apr\u00E8s avoir \u00E9t\u00E9 \u00E9ject\u00E9 de sa voiture lors d'une sortie de piste \u00E0 Burnenville, une section aujourd'hui disparue du circuit de Spa-Francorchamps. Burnenville, un virage tr\u00E8s rapide, \u00E9tait bord\u00E9 d'un remblai d'un peu plus d'un m\u00E8tre de haut, suivi d'une cl\u00F4ture faite de fil de fer barbel\u00E9, bordant un champ et situ\u00E9e \u00E0 environ trois m\u00E8tres. La voiture s'est retourn\u00E9e apr\u00E8s avoir heurt\u00E9 le remblai et Bristow, projet\u00E9 sur le barbel\u00E9, a \u00E9t\u00E9 d\u00E9capit\u00E9. Stirling Moss s'\u00E9tait bless\u00E9 gri\u00E8vement dans le m\u00EAme virage pendant les essais de la veille, et Alan Stacey, un autre pilote britannique, se tue au vingt-cinqui\u00E8me tour de la course apr\u00E8s avoir \u00E9t\u00E9 heurt\u00E9 par un oiseau en plein visage."@fr ,
+		"\u30AF\u30EA\u30B9\u30FB\u30D6\u30EA\u30B9\u30C8\u30A6(Chris Bristow,1937\u5E7412\u67082\u65E5 - 1960\u5E746\u670819\u65E5)\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u51FA\u8EAB\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u300C\u30AF\u30EA\u30B9\u30FB\u30D6\u30E9\u30A4\u30B9\u30C8\u30A6\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Bristow era figlio del proprietario di un'autofficina di Londra."@it ,
+		"\u041A\u0440\u0438\u0441 \u0411\u0440\u0438\u0441\u0442\u043E\u0443 (\u0430\u043D\u0433\u043B. Chris Bristow, \u0440\u043E\u0434\u0438\u043B\u0441\u044F 2 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1937 \u0433\u043E\u0434\u0430, \u041B\u0430\u043C\u0431\u0435\u0442, \u041B\u043E\u043D\u0434\u043E\u043D, \u0410\u043D\u0433\u043B\u0438\u044F \u2014 \u043F\u043E\u0433\u0438\u0431 19 \u0438\u044E\u043D\u044F 1960 \u0433\u043E\u0434\u0430, \u0442\u0440\u0430\u0441\u0441\u0430 \u0421\u043F\u0430-\u0424\u0440\u0430\u043D\u043A\u043E\u0440\u0448\u0430\u043C, \u0411\u0435\u043B\u044C\u0433\u0438\u044F) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0423\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u0447\u0435\u0442\u044B\u0440\u0451\u0445 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0437\u0430 \u0440\u0443\u043B\u0451\u043C Cooper \u0447\u0430\u0441\u0442\u043D\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B BRP, \u043D\u043E \u0438\u0437-\u0437\u0430 \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043D\u043E\u0439 \u0435\u0437\u0434\u044B \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0441\u043C\u043E\u0433 \u0432\u0441\u0435\u0433\u043E \u043B\u0438\u0448\u044C \u0440\u0430\u0437. \u0412 \u043A\u043E\u043D\u0446\u0435 \u043A\u043E\u043D\u0446\u043E\u0432 \u043E\u043F\u0430\u0441\u043D\u0430\u044F \u043C\u0430\u043D\u0435\u0440\u0430 \u0432\u043E\u0436\u0434\u0435\u043D\u0438\u044F \u0441\u0442\u0430\u043B\u0430 \u043F\u0440\u0438\u0447\u0438\u043D\u043E\u0439 \u0435\u0433\u043E \u0433\u0438\u0431\u0435\u043B\u0438 \u2014 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 1960 \u0433\u043E\u0434\u0430 \u043E\u043D \u0431\u043E\u0440\u043E\u043B\u0441\u044F \u0437\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u044E \u0441 \u0412\u0438\u043B\u043B\u0438 \u041C\u044D\u0440\u0435\u0441\u0441\u043E\u043C, \u043D\u0435 \u0441\u043F\u0440\u0430\u0432\u0438\u043B\u0441\u044F \u0441 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\u043C, \u0432\u044B\u043B\u0435\u0442\u0435\u043B \u0441 \u0442\u0440\u0430\u0441\u0441\u044B \u0438 \u0431\u044B\u043B \u043E\u0431\u0435\u0437\u0433\u043B\u0430\u0432\u043B\u0435\u043D \u043E\u0433\u0440\u0430\u0434\u043E\u0439 \u0438\u0437 \u043A\u043E\u043B\u044E\u0447\u0435\u0439 \u043F\u0440\u043E\u0432\u043E\u043B\u043E\u043A\u0438."@ru ,
+		"Chris Bristow (ur. 2 grudnia 1937 w Lambeth-Londyn, zm. 19 czerwca 1960 w Spa, Belgia) \u2212 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Chris Bristow (Lambeth, Londen, 2 december 1937 \u2013 Circuit Spa-Francorchamps, Belgi\u00EB, 19 juni 1960) was een Brits Formule 1-coureur. Hij reed 4 Grands Prix voor het team Cooper. Bij de Grand Prix van Belgi\u00EB van 1960 overleed hij op 22-jarige leeftijd toen na 20 ronden zijn auto over de kop vloog."@nl ,
+		"Christopher William Bristow (2 December 1937, Lambeth, London \u2013 19 June 1960, Spa-Francorchamps, Belgium), was a British Formula One driver from England. Bristow was the son of a garage owner from London, and was unmarried. Bristow was called the wild man of British club racing, as he had spun out or had collisions on almost every race track he had raced on. He started four Formula One World Championship races and scored no championship points. He was killed during the 1960 Belgian Grand Prix at the very fast Spa-Francorchamps circuit, in warm, dry, sunny conditions. Bristow wrecked his Yeoman Credit Racing Cooper T51 at the Burnenville corner on lap twenty while fighting to stay in front of the Ferrari of Willy Mairesse. Bristow and Alan Stacey died in close proximity and within a few minutes of one another. They both crashed at Burnenville, the same extended fast right hand bend at which Stirling Moss had been severely injured the previous day. Cars regularly sped through the Burnenville corner at 120 miles per hour. There was a four-foot embankment there and barbed wire in the meadow about ten feet back from the road. Bristow's Cooper impacted the bank and rolled over; he was hurled into the barbed wire, which decapitated him and killed him instantly. With regard to Bristow's unruly driving style, a friend of his said after the accident, \"We all knew this was going to happen. It does no good to say now, but Chris simply did not have the experience to drive that way in Grand Prix racing.\" The winner of the annual McLaren Autosport BRDC Award for promising young British drivers is also presented with the Chris Bristow Trophy."@en ,
+		"Chris Bristow (Londres, 2 de dezembro de 1937 \u2014 Spa-Francorchamps, 19 de junho de 1960) foi um piloto ingl\u00EAs de F\u00F3rmula 1. Morreu jovem, aos 22 anos, juntamente com seu compatriota Alan Stacey. Seu acidente fatal aconteceu no Grande Pr\u00EAmio da B\u00E9lgica de 1960 na curva Burnenville em disputa com o Ferrari do piloto belga Willy Mairesse, Bristow perdeu o controle na descida da curva saindo da pista encontrando uma cerca e morrendo decapitado."@pt ;
+	dbo:birthDate	"1937-12-2"^^xsd:date ;
+	dbo:deathDate	"1960-6-19"^^xsd:date ;
+	dbo:deathPlace	dbr:Circuit_de_Spa-Francorchamps ;
+	dbo:wikiPageRevisionID	703965065 ;
+	dbo:birthPlace	dbr:Lambeth ;
+	dbo:wikiPageID	1228263 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Chris_Bristow	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1959_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1960_Belgian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"4"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Cooper"^^xsd:string ;
+	dbp:nationality	"British"^^xsd:string .
+wikipedia-en:Chris_Bristow	foaf:primaryTopic	dbr:Chris_Bristow .
+dbr:Harry_Schell	dbp:after	dbr:Chris_Bristow .
+dbr:Alan_Stacey	dbp:before	dbr:Chris_Bristow .

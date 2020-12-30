@@ -1,0 +1,159 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Gunnar_Nilsson	dbp:before	dbr:Brian_Henton .
+dbr:Tony_Brise	dbp:after	dbr:Brian_Henton .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1982_British_Grand_Prix>	dbo:fastestDriver	dbr:Brian_Henton .
+dbr:Geoff_Lees	dbp:before	dbr:Brian_Henton .
+dbr:Marc_Surer	dbp:after	dbr:Brian_Henton .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Brian_Henton	foaf:primaryTopic	dbr:Brian_Henton .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Brian_Henton	rdf:type	yago:WikicatTolemanFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Brian_Henton	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		foaf:Person ,
+		yago:Driver110034906 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Brian_Henton	rdf:type	wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Brian_Henton	rdf:type	schema:Person ,
+		wikidata:Q24229398 ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		dbo:Person ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		dbo:Athlete ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatBoroFormulaOneDrivers ,
+		dbo:Agent ,
+		yago:WikicatTeamLotusFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Brian_Henton	rdf:type	owl:Thing ,
+		dbo:RacingDriver ,
+		yago:WikicatArrowsFormulaOneDrivers ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q378622 .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Brian_Henton	rdf:type	ns11:Agent ,
+		yago:Operator110378412 ,
+		ns11:NaturalPerson ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Brian_Henton	rdfs:label	"Brian Henton"@pl ,
+		"\u30D6\u30E9\u30A4\u30A2\u30F3\u30FB\u30D8\u30F3\u30C8\u30F3"@ja ,
+		"Brian Henton"@de ,
+		"Brian Henton"@pt ,
+		"Brian Henton"@fr ,
+		"Brian Henton"@es ,
+		"Brian Henton"@nl ,
+		"Brian Henton"@en ,
+		"\u0425\u0435\u043D\u0442\u043E\u043D, \u0411\u0440\u0430\u0439\u0430\u043D"@ru ,
+		"Brian Henton"@it ;
+	rdfs:comment	"Dopo una breve ma fortunata carriera nelle formule minori britanniche ottiene un volante di Formula 1 nella stagione 1975. Con la Lotus partecipa a tre Gran Premi, senza ottenere risultati di rilievo.Nel 1976, non potendo avere una vettura competitiva per la Formula 2 decide di non correre. L'anno successivo viene ingaggiato dal team British American Racing che gestisce una March. In quattro Gran Premi ottiene solo un decimo posto nel gran premio di Long Beach e tre non qualificazioni. Termina la stagione con la Boro (squalificato in Olanda e non qualificato in Italia). Nel 1978 prover\u00E0 la Surtees di Keegan durante le prove del gran premio d'Austria, ma senza risultare come ufficialmente iscritto."@it ,
+		"\u30D6\u30E9\u30A4\u30A2\u30F3\u30FB\u30D8\u30F3\u30C8\u30F3\uFF08Brian Henton, 1946\u5E749\u670819\u65E5 - \uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u306E\u30EC\u30B9\u30BF\u30FC\u30B7\u30E3\u30FC\u5DDE\u30AD\u30E3\u30C3\u30B9\u30EB\u30FB\u30C9\u30CB\u30F3\u30C8\u30F3(en)\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u30D8\u30F3\u30C8\u30F3\u306F1974\u5E74\u306E\u30A4\u30AE\u30EA\u30B9F3\u9078\u624B\u6A29\u30011980\u5E74\u306EF2\u9078\u624B\u6A29\u3092\u5236\u3057\u305F\u3002\u307E\u305F\u3001F1\u306B\u306F1975\u5E747\u670819\u65E5\u306B\u30C7\u30D3\u30E5\u30FC\u3057\u300138\u30EC\u30FC\u30B9\u306B\u53C2\u6226\u3057\u305F\u304C\u3001\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u306A\u304B\u3063\u305F\u3002"@ja ,
+		"Brian Henton (ur. 19 wrze\u015Bnia 1946 w Castle Donington) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Brian Henton (Castle Donington, Leicestershire, 19 september 1946) is een voormalig Formule 1-coureur uit Engeland. Henton won beide Britse Formule 3 kampioenschappen van 1974, en het Formule 2-kampioenschap in 1980. Hij nam tussen 1975 en 1982 deel aan 38 Grands Prix voor de teams van Lotus, March Engineering, British F1 Racing, Boro, Toleman, Arrows en Tyrell Racing, maar scoorde hierin geen punten."@nl ,
+		"Brian Henton est un ancien pilote automobile anglais n\u00E9 le 19 septembre 1946 \u00E0 Spondon, pr\u00E8s du circuit de course de Donington. Il a notamment particip\u00E9 \u00E0 19 Grands Prix de Formule 1 entre 1975 et 1982, sans parvenir \u00E0 inscrire de point. Henton figure pourtant sur les tablettes de la discipline puisqu\u2019il a r\u00E9alis\u00E9 le meilleur tour en course lors de l\u2019\u00E9dition 1982 du Grand Prix de Grande-Bretagne disput\u00E9 \u00E0 Brands-Hatch."@fr ,
+		"\u0411\u0440\u0430\u0439\u0430\u043D \u0425\u0435\u043D\u0442\u043E\u043D (\u0430\u043D\u0433\u043B. Brian Henton, 19 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1946 \u0433\u043E\u0434\u0430, \u041A\u0430\u0441\u043B \u0414\u043E\u043D\u0438\u043D\u0433\u0442\u043E\u043D, \u041B\u0435\u0441\u0442\u0435\u0440\u0448\u0438\u0440) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0415\u0432\u0440\u043E\u043F\u044B \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-2\u00BB 1980 \u0433\u043E\u0434\u0430."@ru ,
+		"Brian Henton (* 19. September 1946 in Castle Donington) ist ein ehemaliger englischer Formel-1-Rennfahrer. 1974 wurde Henton englischer Meister in Formel 3. In der Saison 1975 und 1977 sowie von 1981 bis 1982 war er bei 38 Grand Prix gemeldet und konnte sich 19-mal f\u00FCr den Start qualifizieren. 1977 unterhielt er einen eigenen Rennstall, das British Formula One Racing Team. Seine beste Platzierung war der siebte Platz beim Gro\u00DFen Preis von Deutschland 1982. Beim Gro\u00DFen Preis von Gro\u00DFbritannien im selben Jahr gelang es ihm, die schnellste Rennrunde zu fahren."@de ,
+		"Brian Henton (19 de septiembre de 1946) es un ex piloto de carreras de Inglaterra. Gan\u00F3 la F\u00F3rmula 3 Brit\u00E1nica en 1974 y la F\u00F3rmula 2 en 1980. Ha participado en 38 Grandes Premios de F\u00F3rmula 1, debutando el 19 de julio de 1975, aunque nunca consigui\u00F3 puntos de competici\u00F3n. Su debut en la F\u00F3rmula 1 lleg\u00F3 en 1975."@es ,
+		"Brian Henton (Castle Donington, 19 de setembro de 1946) \u00E9 um ex-automobilista da Inglaterra."@pt ,
+		"Brian Henton (born 19 September 1946 in Castle Donington, Leicestershire) is a former racing driver from England. He won both 1974 British Formula 3 Championships, and the Formula Two championship in 1980. He participated in 38 Formula One grands prix, debuting on 19 July 1975, but never scored any championship points. Perhaps fittingly, his last Formula One outing was at the Race of Champions at Brands Hatch in April 1983, which also turned out to be the last non-championship F1 race in the modern era."@en ;
+	dbp:points	0 ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30D6\u30E9\u30A4\u30A2\u30F3\u30FB\u30D8\u30F3\u30C8\u30F3> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Brian_Henton	owl:sameAs	dbpedia-nl:Brian_Henton .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Brian_Henton	owl:sameAs	yago-res:Brian_Henton ,
+		<http://rdf.freebase.com/ns/m.04jgf5> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Brian_Henton	owl:sameAs	dbpedia-de:Brian_Henton .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Brian_Henton	owl:sameAs	dbpedia-wikidata:Q171757 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Brian_Henton	owl:sameAs	dbpedia-es:Brian_Henton .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Brian_Henton	owl:sameAs	dbpedia-it:Brian_Henton ,
+		wikidata:Q171757 ,
+		dbr:Brian_Henton .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Brian_Henton	owl:sameAs	dbpedia-fr:Brian_Henton .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Brian_Henton	owl:sameAs	dbpedia-pl:Brian_Henton .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Brian_Henton	owl:sameAs	dbpedia-pt:Brian_Henton .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Brian_Henton	dct:subject	dbc:March_Formula_One_drivers ,
+		dbc:Toleman_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:Arrows_Formula_One_drivers ,
+		dbc:Boro_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1946_births> ,
+		dbc:British_Formula_One_Racing_Team_Formula_One_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:People_from_North_West_Leicestershire_(district)> ;
+	foaf:name	"Brian Henton"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Brian"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Brian_Henton ;
+	foaf:surname	"Henton"@en ;
+	dbp:title	"BRSCC Series Champion"^^xsd:string ,
+		"British Formula 3 ChampionshipBARC Series Champion"^^xsd:string ,
+		dbr:British_Formula_3_Championship ,
+		"Champion"^^xsd:string ,
+		dbr:European_Formula_Two_Championship ;
+	dbp:years	1980 ,
+		1974 ,
+		", , \u2013"^^xsd:string ;
+	dbp:rows	2 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Brian_Henton	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Brian_Henton?oldid=706370493> ;
+	dbp:before	dbr:Marc_Surer ,
+		<http://dbpedia.org/resource/Ian_Taylor_(racing_driver)> ;
+	dbp:after	dbr:Gunnar_Nilsson ,
+		"None"^^xsd:string ,
+		dbr:Geoff_Lees .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Brian_Henton	dbp:birthDate	"1946-09-19"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.formulaone.free-online.co.uk/formulaone/drivers/bhenton/index.html> ;
+	dbo:abstract	"\u0411\u0440\u0430\u0439\u0430\u043D \u0425\u0435\u043D\u0442\u043E\u043D (\u0430\u043D\u0433\u043B. Brian Henton, 19 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1946 \u0433\u043E\u0434\u0430, \u041A\u0430\u0441\u043B \u0414\u043E\u043D\u0438\u043D\u0433\u0442\u043E\u043D, \u041B\u0435\u0441\u0442\u0435\u0440\u0448\u0438\u0440) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-1\u00BB. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0415\u0432\u0440\u043E\u043F\u044B \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u0430-2\u00BB 1980 \u0433\u043E\u0434\u0430."@ru ,
+		"\u30D6\u30E9\u30A4\u30A2\u30F3\u30FB\u30D8\u30F3\u30C8\u30F3\uFF08Brian Henton, 1946\u5E749\u670819\u65E5 - \uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u306E\u30EC\u30B9\u30BF\u30FC\u30B7\u30E3\u30FC\u5DDE\u30AD\u30E3\u30C3\u30B9\u30EB\u30FB\u30C9\u30CB\u30F3\u30C8\u30F3(en)\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u30D8\u30F3\u30C8\u30F3\u306F1974\u5E74\u306E\u30A4\u30AE\u30EA\u30B9F3\u9078\u624B\u6A29\u30011980\u5E74\u306EF2\u9078\u624B\u6A29\u3092\u5236\u3057\u305F\u3002\u307E\u305F\u3001F1\u306B\u306F1975\u5E747\u670819\u65E5\u306B\u30C7\u30D3\u30E5\u30FC\u3057\u300138\u30EC\u30FC\u30B9\u306B\u53C2\u6226\u3057\u305F\u304C\u3001\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u306A\u304B\u3063\u305F\u3002"@ja ,
+		"Brian Henton (Castle Donington, Leicestershire, 19 september 1946) is een voormalig Formule 1-coureur uit Engeland. Henton won beide Britse Formule 3 kampioenschappen van 1974, en het Formule 2-kampioenschap in 1980. Hij nam tussen 1975 en 1982 deel aan 38 Grands Prix voor de teams van Lotus, March Engineering, British F1 Racing, Boro, Toleman, Arrows en Tyrell Racing, maar scoorde hierin geen punten."@nl ,
+		"Brian Henton est un ancien pilote automobile anglais n\u00E9 le 19 septembre 1946 \u00E0 Spondon, pr\u00E8s du circuit de course de Donington. Il a notamment particip\u00E9 \u00E0 19 Grands Prix de Formule 1 entre 1975 et 1982, sans parvenir \u00E0 inscrire de point. Henton figure pourtant sur les tablettes de la discipline puisqu\u2019il a r\u00E9alis\u00E9 le meilleur tour en course lors de l\u2019\u00E9dition 1982 du Grand Prix de Grande-Bretagne disput\u00E9 \u00E0 Brands-Hatch."@fr ,
+		"Dopo una breve ma fortunata carriera nelle formule minori britanniche ottiene un volante di Formula 1 nella stagione 1975. Con la Lotus partecipa a tre Gran Premi, senza ottenere risultati di rilievo.Nel 1976, non potendo avere una vettura competitiva per la Formula 2 decide di non correre. L'anno successivo viene ingaggiato dal team British American Racing che gestisce una March. In quattro Gran Premi ottiene solo un decimo posto nel gran premio di Long Beach e tre non qualificazioni. Termina la stagione con la Boro (squalificato in Olanda e non qualificato in Italia). Nel 1978 prover\u00E0 la Surtees di Keegan durante le prove del gran premio d'Austria, ma senza risultare come ufficialmente iscritto. Tra il 1978 e il 1980 corre in Formula 2, chiudendo questa stagione presso l'autodromo di Pergusa, con il 2\u00BA posto al Gran Premio di Enna. Divent\u00F2 vice campione europeo nel 1979 e campione nel 1980 con la Toleman, proprio ad Enna. Nel 1981 la Toleman decide di passare alla Formula 1 mantenendo Henton come pilota. L'annata sar\u00E0 disastrosa. Su 12 tentativi Henton arriver\u00E0 solo una volta decimo. Per ben 10 volte non si qualificher\u00E0 e per una nemmeno si prequalificher\u00E0. Nel 1982 viene iscritto a tre Gran Premi con l'Arrows (non qualificandosi due volte), poi passa alla Tyrrell. Otterr\u00E0 un settimo posto (in Germania) e tre ottavi. Nel Gran Premio di Gran Bretagna segner\u00E0 il Giro pi\u00F9 veloce. L'ultima sua apparizione su una monoposto di Formula 1 sar\u00E0 nel corso della Race of Champions 1983, ove con una Theodore, giunger\u00E0 quarto."@it ,
+		"Brian Henton (ur. 19 wrze\u015Bnia 1946 w Castle Donington) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Brian Henton (born 19 September 1946 in Castle Donington, Leicestershire) is a former racing driver from England. He won both 1974 British Formula 3 Championships, and the Formula Two championship in 1980. He participated in 38 Formula One grands prix, debuting on 19 July 1975, but never scored any championship points. Henton (nicknamed \"Superhen\" in the British racing press) came from a modest council house background and did not start racing until he was 23. On winning the minor British Formula Vee championship in 1971, ever-conscious of the value of public relations, he announced that he was going to be World Champion. This aim eluded him, but he enjoyed a successful career in Formula Three and Formula Two. Henton's F1 debut came in 1975 for Lotus, theoretically a good drive but the team was in turmoil with the Lotus 72 finally uncompetitive and its replacement the Lotus 76 a failure, so nothing concrete was achieved. Between 1975 and 1978 he mixed Formula One and Formula Two drives (including a spell in a private March for his own British F1 Racing team), never quite establishing himself in either category, but clinched the 1980 F2 championship for Toleman, who took him into F1 for 1981. The first Toleman-Hart was something of a disaster, overweight and underdeveloped, and Henton only managed to qualify once. Unfruitful outings for Arrows and Tyrrell in 1982 led to no more success. Perhaps fittingly, his last Formula One outing was at the Race of Champions at Brands Hatch in April 1983, which also turned out to be the last non-championship F1 race in the modern era. Following his retirement from the sport, he returned to running a car dealership and later moved into property development and in recent years has diversified into other areas, notably engineering. He has occasionally driven at historic events and holds equestrian events at his home in Ingarsby Hall, Leicestershire."@en ,
+		"Brian Henton (Castle Donington, 19 de setembro de 1946) \u00E9 um ex-automobilista da Inglaterra."@pt ,
+		"Brian Henton (19 de septiembre de 1946) es un ex piloto de carreras de Inglaterra. Gan\u00F3 la F\u00F3rmula 3 Brit\u00E1nica en 1974 y la F\u00F3rmula 2 en 1980. Ha participado en 38 Grandes Premios de F\u00F3rmula 1, debutando el 19 de julio de 1975, aunque nunca consigui\u00F3 puntos de competici\u00F3n. Nacido en Castle Donington, Leicestershire, Henton (apodado Superhen) proviene de una modesta casa y no empez\u00F3 a correr hasta tener 23 a\u00F1os. Tras ganar la divisi\u00F3n inferior del Campeonato Brit\u00E1nico de F\u00F3rmula Vee, a\u00FAn consciente del valor de las relaciones p\u00FAblicas, anunci\u00F3 que iba a ser el campe\u00F3n mundial. No cumpli\u00F3 su objetivo, pero disfrut\u00F3 de una exitosa carrera en F\u00F3rmula 3 y F\u00F3rmula 2. Su debut en la F\u00F3rmula 1 lleg\u00F3 en 1975. El F1 con que Henton debut\u00F3, fue un Lotus en 1975, te\u00F3ricamente un buen conductor pero el equipo estaba confundido con el modelo 72, a esa altura muy poco competitivo y su reemplazo, el modelo 76, fue un fracaso, as\u00ED que nada concreto se hab\u00EDa logrado. Entre 1975 y 1978 corri\u00F3 en F\u00F3rmula 1 y F\u00F3rmula 2."@es ,
+		"Brian Henton (* 19. September 1946 in Castle Donington) ist ein ehemaliger englischer Formel-1-Rennfahrer. 1974 wurde Henton englischer Meister in Formel 3. In der Saison 1975 und 1977 sowie von 1981 bis 1982 war er bei 38 Grand Prix gemeldet und konnte sich 19-mal f\u00FCr den Start qualifizieren. 1977 unterhielt er einen eigenen Rennstall, das British Formula One Racing Team. Seine beste Platzierung war der siebte Platz beim Gro\u00DFen Preis von Deutschland 1982. Beim Gro\u00DFen Preis von Gro\u00DFbritannien im selben Jahr gelang es ihm, die schnellste Rennrunde zu fahren. W\u00E4hrend seiner Formel-1-Pause startete Henton in der Formel 2 und wurde 1980 Formel-2-Europameister."@de ;
+	dbo:birthDate	"1946-9-19"^^xsd:date ;
+	dbo:wikiPageRevisionID	706370493 ;
+	dbo:birthPlace	dbr:Donington_Park ;
+	dbo:wikiPageID	1219691 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Brian_Henton	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1975_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1982_Caesars_Palace_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"37"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Lotus, non-works March, Boro, Toleman, Arrows, Tyrrell"^^xsd:string ;
+	dbp:nationality	"British"^^xsd:string .

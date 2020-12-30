@@ -1,0 +1,117 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Hans_Binder	rdf:type	wikidata:Q215627 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Hans_Binder	rdf:type	dbo:Athlete .
+@prefix schema:	<http://schema.org/> .
+dbr:Hans_Binder	rdf:type	schema:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Hans_Binder	rdf:type	yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Hans_Binder	rdf:type	owl:Thing ,
+		yago:WikicatEnsignFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		dbo:Agent ,
+		dbo:FormulaOneRacer .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Hans_Binder	rdf:type	ns7:NaturalPerson .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Hans_Binder	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q378622 ,
+		yago:Operator110378412 ,
+		ns7:Agent ,
+		wikidata:Q5 ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatATSWheelsFormulaOneDrivers ,
+		dbo:Person .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Hans_Binder	rdf:type	foaf:Person ,
+		dbo:RacingDriver ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatWolfFormulaOneDrivers ,
+		yago:WikicatSurteesFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		yago:WikicatAustrianFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Hans_Binder	rdfs:label	"\u0411\u0438\u043D\u0434\u0435\u0440, \u0425\u0430\u043D\u0441"@ru ,
+		"Hans Binder"@pl ,
+		"Hans Binder"@en ,
+		"Hans Binder"@it ,
+		"Hans Binder (Rennfahrer)"@de ,
+		"Hans Binder"@nl ;
+	rdfs:comment	"Hans Binder (born 12 June 1948 in Zell am Ziller, Innsbruck) is an Austrian former Formula One driver who raced for the Ensign, Wolf, Surtees and ATS teams. He won the European Formula Ford Championship in 1972 and moved into Formula 2 in 1976. During this year he raced at his home Grand Prix and the Japanese GP. In 1977 he moved to the Surtees team and also raced three times for ATS. He then returned to Surtees before the end of the season. In 1978 he failed to qualify for his home grand prix with ATS before disappearing from the Formula One scene."@en ,
+		"\u00C8 zio di Ren\u00E9 Binder, attuale pilota di GP2 Series 2013."@it ,
+		"Hans Binder (* 12. Juni 1948 in Zell am Ziller); auch Johann Binder, ist ein ehemaliger \u00F6sterreichischer Automobilrennfahrer; er war der erste Tiroler in der Formel 1."@de ,
+		"\u0425\u0430\u043D\u0441 \u0411\u0438\u043D\u0434\u0435\u0440 (\u043D\u0435\u043C. Hans Binder, 12 \u0438\u044E\u043D\u044F 1948 \u0433\u043E\u0434\u0430, \u0426\u0435\u043B\u043B\u044C-\u043D\u0430-\u0426\u0438\u043B\u043B\u0435\u0440\u0435) \u2014 \u0430\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Hans Binder (Zell am Ziller, Innsbruck, 12 juni 1948) is een voormalig Oostenrijks Formule 1-coureur tussen 1976 en 1978. Hij racete 15 Grands Prix voor de teams Ensign, Wolf, Surtees en ATS."@nl ,
+		"Hans Binder (ur. 12 czerwca 1948 w Zell am Ziller w Tyrolu) \u2013 austriacki kierowca wy\u015Bcigowy, w latach 1976-1978 startowa\u0142 w wy\u015Bcigach Formu\u0142y 1. Je\u017Adzi\u0142 w bolidach zespo\u0142\u00F3w ATS, Ensign, Surtees i Wolf. Wystartowa\u0142 w 15 wy\u015Bcigach Formu\u0142y 1, jednak nigdy nie zdo\u0142a\u0142 zdoby\u0107 punkt\u00F3w. Startowa\u0142 r\u00F3wnie\u017C w wy\u015Bcigach Formu\u0142y 2."@pl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Hans_Binder	dbp:points	0 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Hans_Binder	owl:sameAs	dbpedia-wikidata:Q78593 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Hans_Binder	owl:sameAs	yago-res:Hans_Binder ,
+		dbr:Hans_Binder ,
+		<http://rdf.freebase.com/ns/m.04kqfr> ,
+		wikidata:Q78593 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Hans_Binder	owl:sameAs	dbpedia-nl:Hans_Binder .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Hans_Binder	owl:sameAs	dbpedia-it:Hans_Binder .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Hans_Binder	owl:sameAs	dbpedia-pl:Hans_Binder ,
+		<http://de.dbpedia.org/resource/Hans_Binder_(Rennfahrer)> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Hans_Binder	dct:subject	dbc:Wolf_Formula_One_drivers ,
+		dbc:Ensign_Formula_One_drivers ,
+		dbc:Surtees_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:ATS_Wheels_Formula_One_drivers ,
+		dbc:Austrian_racing_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1948_births> ,
+		dbc:Austrian_Formula_One_drivers ;
+	foaf:name	"Hans Binder"@en ;
+	dct:description	"Austrian racing driver"@en ;
+	foaf:givenName	"Hans"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Hans_Binder	foaf:isPrimaryTopicOf	wikipedia-en:Hans_Binder ;
+	foaf:surname	"Binder"@en ;
+	dbp:years	"-"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Hans_Binder	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Hans_Binder?oldid=714055344> ;
+	dbp:birthPlace	"Zell am Ziller, Innsbruck, Austria"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Hans_Binder	dbp:birthDate	"1948-06-12"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-binhan.html> ;
+	dbo:abstract	"\u0425\u0430\u043D\u0441 \u0411\u0438\u043D\u0434\u0435\u0440 (\u043D\u0435\u043C. Hans Binder, 12 \u0438\u044E\u043D\u044F 1948 \u0433\u043E\u0434\u0430, \u0426\u0435\u043B\u043B\u044C-\u043D\u0430-\u0426\u0438\u043B\u043B\u0435\u0440\u0435) \u2014 \u0430\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Hans Binder (ur. 12 czerwca 1948 w Zell am Ziller w Tyrolu) \u2013 austriacki kierowca wy\u015Bcigowy, w latach 1976-1978 startowa\u0142 w wy\u015Bcigach Formu\u0142y 1. Je\u017Adzi\u0142 w bolidach zespo\u0142\u00F3w ATS, Ensign, Surtees i Wolf. Wystartowa\u0142 w 15 wy\u015Bcigach Formu\u0142y 1, jednak nigdy nie zdo\u0142a\u0142 zdoby\u0107 punkt\u00F3w. Startowa\u0142 r\u00F3wnie\u017C w wy\u015Bcigach Formu\u0142y 2."@pl ,
+		"\u00C8 zio di Ren\u00E9 Binder, attuale pilota di GP2 Series 2013."@it ,
+		"Hans Binder (Zell am Ziller, Innsbruck, 12 juni 1948) is een voormalig Oostenrijks Formule 1-coureur tussen 1976 en 1978. Hij racete 15 Grands Prix voor de teams Ensign, Wolf, Surtees en ATS."@nl ,
+		"Hans Binder (born 12 June 1948 in Zell am Ziller, Innsbruck) is an Austrian former Formula One driver who raced for the Ensign, Wolf, Surtees and ATS teams. He won the European Formula Ford Championship in 1972 and moved into Formula 2 in 1976. During this year he raced at his home Grand Prix and the Japanese GP. In 1977 he moved to the Surtees team and also raced three times for ATS. He then returned to Surtees before the end of the season. In 1978 he failed to qualify for his home grand prix with ATS before disappearing from the Formula One scene. His brother Franz was also a racing driver, and his nephew Ren\u00E9 currently competes in the GP2 Series and the German Formula Three Championship."@en ,
+		"Hans Binder (* 12. Juni 1948 in Zell am Ziller); auch Johann Binder, ist ein ehemaliger \u00F6sterreichischer Automobilrennfahrer; er war der erste Tiroler in der Formel 1."@de ;
+	dbo:birthDate	"1948-6-12"^^xsd:date ;
+	dbo:wikiPageRevisionID	714055344 ;
+	dbo:birthPlace	dbr:Zell_am_Ziller ;
+	dbo:wikiPageID	1233825 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:Hans_Binder	ns22:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1976_Austrian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1978_Austrian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"15"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Frank_Williams_Racing_Cars ,
+		dbr:Surtees ,
+		<http://dbpedia.org/resource/ATS_(wheels)> ,
+		<http://dbpedia.org/resource/Ensign_(racing_team)> ;
+	dbp:nationality	"Austrian"^^xsd:string .
+wikipedia-en:Hans_Binder	foaf:primaryTopic	dbr:Hans_Binder .
+dbr:Jakob_Klaesi	dbo:influencedBy	dbr:Hans_Binder .

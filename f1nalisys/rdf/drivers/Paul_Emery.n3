@@ -1,0 +1,123 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Paul_Emery	foaf:primaryTopic	dbr:Paul_Emery .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Emeryson	dbp:founders	dbr:Paul_Emery .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Paul_Emery	rdf:type	dbo:FormulaOneRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Paul_Emery	rdf:type	wikidata:Q378622 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Paul_Emery	rdf:type	yago:WikicatConnaughtFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		yago:WikicatEmerysonFormulaOneDrivers ,
+		dbo:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Paul_Emery	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		wikidata:Q24229398 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Paul_Emery	rdf:type	ns9:NaturalPerson ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		ns9:Agent ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Paul_Emery	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Paul_Emery	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		foaf:Person ,
+		yago:Driver110034906 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Paul_Emery	rdfs:label	"Paul Emery"@nl ,
+		"Paul Emery"@de ,
+		"Paul Emery"@pl ,
+		"Paul Emery"@it ,
+		"Paul Emery"@en ,
+		"Paul Emery"@fr ,
+		"Paul Emery"@pt ;
+	rdfs:comment	"Paul Emery (ur. 12 listopada 1916 roku w Chiswick, Londynie, zm. 3 lutego 1993 w Epson, Surrey) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Paul Emery Paul Emery, n\u00E9 le 12 novembre 1916 \u00E0 Chiswick et mort le 3 f\u00E9vrier 1993 \u00E0 Epsom, est un pilote automobile et ing\u00E9nieur britannique."@fr ,
+		"Paul Emery (Chiswick, Londres, Inglaterra, 12 de novembro de 1916 - Epsom, Surrey, Inglaterra, 3 de fevereiro de 1993) foi um automobilista ingl\u00EAs que participou dos Grandes Pr\u00EAmios de F\u00F3rmula 1 da Inglaterra em 1956 e de M\u00F4naco em 1958."@pt ,
+		"Paul Emery (Chiswick, Londen, 12 november 1916 \u2013 Epsom, Surrey, 3 februari 1993) was een Formule 1-coureur uit Groot-Brittanni\u00EB. Hij reed twee Grands Prix, de Grand Prix van Groot-Brittanni\u00EB van 1956 voor het team Emeryson en de Grand Prix van Monaco van 1958 voor het team Connaught."@nl ,
+		"Noto come costruttore di vetture per la Formula 3 da 500 cm\u00B3, disput\u00F2 in Formula 1 il Gran Premio di Gran Bretagna 1956 a bordo di una Emeryson."@it ,
+		"Paul Emery (12 November 1916 \u2013 3 February 1993) was a racing driver from England. Emery was born in Chiswick, London. He built a number of front wheel drive 500cc Formula 3 cars named Emeryson and drove them himself. He participated in two World Championship Formula One Grands Prix, debuting on 14 July 1956 and numerous non-Championship Formula One races. He scored no championship points. Emery died in Epsom, Surrey, aged 78."@en ,
+		"Paul Emery (* 12. November 1916 Chiswick; \u2020 3. Februar 1993 in Epsom) war ein britischer Autorennfahrer und Rennwagenkonstrukteur."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Paul_Emery	dbp:birthDate	"1916-11-12"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Paul_Emery	owl:sameAs	dbpedia-it:Paul_Emery .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Paul_Emery	owl:sameAs	dbpedia-wikidata:Q172551 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Paul_Emery	owl:sameAs	dbpedia-fr:Paul_Emery ,
+		dbr:Paul_Emery ,
+		<http://rdf.freebase.com/ns/m.04kwjg> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Paul_Emery	owl:sameAs	dbpedia-pl:Paul_Emery .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Paul_Emery	owl:sameAs	dbpedia-pt:Paul_Emery .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Paul_Emery	owl:sameAs	dbpedia-de:Paul_Emery .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Paul_Emery	owl:sameAs	dbpedia-nl:Paul_Emery .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Paul_Emery	owl:sameAs	yago-res:Paul_Emery ,
+		wikidata:Q172551 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Paul_Emery	dct:subject	<http://dbpedia.org/resource/Category:1916_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Paul_Emery	dct:subject	dbc:English_Formula_One_drivers ,
+		dbc:Emeryson_Formula_One_drivers ,
+		dbc:Connaught_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1993_deaths> ;
+	foaf:name	"Paul Emery"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Paul"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Paul_Emery ;
+	foaf:surname	"Emery"@en ;
+	dbp:points	0 ;
+	dbp:years	","^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Emeryson ,
+		dbr:Connaught_Engineering .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Paul_Emery	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Paul_Emery?oldid=737666449> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20081120212852/http:/www.500race.org/Men/Emery.htm> ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:birthPlace	"Chiswick, London, England"^^xsd:string ;
+	dbp:deathDate	"1993-02-03"^^xsd:date ;
+	dbp:deathPlace	"Epsom, Surrey, England"^^xsd:string ;
+	dbo:abstract	"Paul Emery Paul Emery, n\u00E9 le 12 novembre 1916 \u00E0 Chiswick et mort le 3 f\u00E9vrier 1993 \u00E0 Epsom, est un pilote automobile et ing\u00E9nieur britannique."@fr ,
+		"Paul Emery (Chiswick, Londen, 12 november 1916 \u2013 Epsom, Surrey, 3 februari 1993) was een Formule 1-coureur uit Groot-Brittanni\u00EB. Hij reed twee Grands Prix, de Grand Prix van Groot-Brittanni\u00EB van 1956 voor het team Emeryson en de Grand Prix van Monaco van 1958 voor het team Connaught."@nl ,
+		"Noto come costruttore di vetture per la Formula 3 da 500 cm\u00B3, disput\u00F2 in Formula 1 il Gran Premio di Gran Bretagna 1956 a bordo di una Emeryson."@it ,
+		"Paul Emery (12 November 1916 \u2013 3 February 1993) was a racing driver from England. Emery was born in Chiswick, London. He built a number of front wheel drive 500cc Formula 3 cars named Emeryson and drove them himself. He participated in two World Championship Formula One Grands Prix, debuting on 14 July 1956 and numerous non-Championship Formula One races. He scored no championship points. Emery died in Epsom, Surrey, aged 78."@en ,
+		"Paul Emery (Chiswick, Londres, Inglaterra, 12 de novembro de 1916 - Epsom, Surrey, Inglaterra, 3 de fevereiro de 1993) foi um automobilista ingl\u00EAs que participou dos Grandes Pr\u00EAmios de F\u00F3rmula 1 da Inglaterra em 1956 e de M\u00F4naco em 1958."@pt ,
+		"Paul Emery (* 12. November 1916 Chiswick; \u2020 3. Februar 1993 in Epsom) war ein britischer Autorennfahrer und Rennwagenkonstrukteur."@de ,
+		"Paul Emery (ur. 12 listopada 1916 roku w Chiswick, Londynie, zm. 3 lutego 1993 w Epson, Surrey) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1916-11-12"^^xsd:date ;
+	dbo:deathDate	"1993-2-3"^^xsd:date ;
+	dbo:deathPlace	dbr:Epsom ;
+	dbo:wikiPageRevisionID	737666449 ;
+	dbo:birthPlace	dbr:Chiswick ;
+	dbo:wikiPageID	1235368 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1956_British_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1958_Monaco_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Paul_Emery	ns25:hypernym	dbr:Driver .
+dbr:Shannon_Racing_Cars	dbp:founders	dbr:Paul_Emery .

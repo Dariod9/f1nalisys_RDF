@@ -1,0 +1,215 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1974_Swedish_Grand_Prix>	dbo:fastestDriver	dbr:Patrick_Depailler ;
+	dbo:secondDriver	dbr:Patrick_Depailler ;
+	dbo:poleDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1976_Swedish_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1975_Swiss_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__22__1>	dbo:firstDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__20__1>	dbo:firstDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__20__1>	dbo:firstDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__14__1>	dbo:firstDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1976_Brazilian_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1979_Brazilian_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1976_United_States_Grand_Prix_West>	dbo:thirdDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1978_United_States_Grand_Prix_West>	dbo:thirdDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1976_Japanese_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1977_Japanese_Grand_Prix>	dbo:thirdDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1978_Austrian_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Depailler .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Patrick_Depailler	foaf:primaryTopic	dbr:Patrick_Depailler .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Tyrrell_P34	dbp:drivers	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1976_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Patrick_Depailler ;
+	dbo:secondDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1977_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1976_French_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Depailler .
+dbr:Spyder_NF-10	dbp:drivers	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/David_Walker_(racing_driver)>	dbp:after	dbr:Patrick_Depailler .
+dbr:Jacques_Laffite	dbp:before	dbr:Patrick_Depailler .
+dbr:Jean-Pierre_Jaussaud	dbp:after	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1975_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1977_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1978_South_African_Grand_Prix>	dbo:secondDriver	dbr:Patrick_Depailler .
+dbr:Alfa_Romeo_179	dbp:drivers	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1978_Argentine_Grand_Prix>	dbo:thirdDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1979_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/Michel_Lecl\u00E8re>	dbp:before	dbr:Patrick_Depailler .
+dbr:Jean-Pierre_Jarier	dbp:after	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1975_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1976_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1978_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1979_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__46__1>	dbo:firstDriver	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__37__1>	dbo:firstDriver	dbr:Patrick_Depailler .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Patrick_Depailler	rdf:type	yago:WikicatLigierFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Patrick_Depailler	rdf:type	schema:Person ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Patrick_Depailler	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:WikicatFrenchFormulaThreeChampionshipDrivers ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		yago:WikicatAlfaRomeoFormulaOneDrivers ,
+		foaf:Person ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 ,
+		wikidata:Q378622 ,
+		dbo:Athlete ,
+		wikidata:Q5 ,
+		yago:WikicatFrenchMotorcycleRacers ,
+		dbo:Person .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Patrick_Depailler	rdf:type	ns9:Agent ,
+		dbo:FormulaOneRacer ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		dbo:RacingDriver ,
+		yago:PhysicalEntity100001930 ,
+		yago:Racer110502576 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		ns9:NaturalPerson .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Patrick_Depailler	rdf:type	umbel-rc:RaceCarDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Patrick_Depailler	rdf:type	owl:Thing ,
+		yago:WikicatAtlanticChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Patrick_Depailler	rdfs:label	"\u30D1\u30C8\u30EA\u30C3\u30AF\u30FB\u30C7\u30D1\u30A4\u30E6"@ja ,
+		"Patrick Depailler"@pt ,
+		"Patrick Depailler"@it ,
+		"\u0628\u0627\u062A\u0631\u064A\u0643 \u062F\u064A\u0628\u0627\u064A\u0644\u064A\u0631"@ar ,
+		"Patrick Depailler"@nl ,
+		"\u0414\u0435\u043F\u0430\u0439\u0435, \u041F\u0430\u0442\u0440\u0438\u043A"@ru ,
+		"Patrick Depailler"@en ,
+		"Patrick Depailler"@pl ,
+		"Patrick Depailler"@es ,
+		"Patrick Depailler"@de ,
+		"Patrick Depailler"@fr ;
+	rdfs:comment	"Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler ou apenas Patrick Depailler, nascido em (Clermont-Ferrand, 9 de agosto de 1944 - Hockenheim, 1 de agosto de 1980) foi um automobilista franc\u00EAs."@pt ,
+		"Patrick Andr\u00E9 Eugene Joseph Depailler (ur. 9 sierpnia 1944 w Clermont-Ferrand, zm. 1 sierpnia 1980) \u2013 francuski kierowca Formu\u0142y 1. Uczestniczy\u0142 w 95 Grand Prix. Znany z widowiskowych pojedynk\u00F3w, nawet o s\u0142absze pozycje. Depailler wygra\u0142 dwa wy\u015Bcigi, raz wywalczy\u0142 pole position, 19 razy stawa\u0142 na podium i zdoby\u0142 \u0142\u0105cznie 141 punkt\u00F3w."@pl ,
+		"\u30D1\u30C8\u30EA\u30C3\u30AF\u30FB\u30C7\u30D1\u30A4\u30E6\uFF08Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler \u30011944\u5E748\u67089\u65E5 - 1980\u5E748\u67081\u65E5\uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021971\u5E74\u30D5\u30E9\u30F3\u30B9F3\u30011974\u5E74\u30E8\u30FC\u30ED\u30C3\u30D1F2\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002 \u540D\u524D\u306F\u30C7\u30D1\u30A4\u30A8\u3001\u30C9\u30A5\u30D1\u30A4\u30A8\u3001\u30C9\u30A5\u30D1\u30A4\u30E6\u3001\u30C9\u30D1\u30A4\u30A8\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler (9 August 1944 \u2013 1 August 1980) was a racing driver from France. He participated in 95 World Championship Formula One Grands Prix, debuting on 2 July 1972. He also participated in several non-Championship Formula One races. He won 2 races, secured 1 pole position, achieved 19 podiums, and scored a total of 141 championship points."@en ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016) \u0628\u0627\u062A\u0631\u064A\u0643 \u062F\u064A\u0628\u0627\u064A\u0644\u064A\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 9 \u0623\u063A\u0633\u0637\u0633 1944 \u0641\u064A \u0643\u0644\u064A\u0631\u0645\u0648\u0646 \u0641\u064A\u0631\u0627\u0646\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1972. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1972\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0645\u0648\u0646\u0627\u0643\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 1978. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 95 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 2 \u0645\u0646\u0647\u0627."@ar ,
+		"Patrick Depailler est un pilote automobile fran\u00E7ais n\u00E9 le 9 ao\u00FBt 1944 \u00E0 Clermont-Ferrand (Auvergne), d\u00E9c\u00E9d\u00E9 le 1er ao\u00FBt 1980 au cours d'une s\u00E9ance d'essais priv\u00E9s sur le circuit d'Hockenheim, en Allemagne, au volant d'une Alfa Romeo. Il a particip\u00E9 \u00E0 95 Grand Prix de Formule 1 et en a remport\u00E9 deux. Il est inhum\u00E9 dans le cimeti\u00E8re de la commune de Crevant-Laveine dans le Puy-de-D\u00F4me."@fr ,
+		"\u041F\u0430\u0442\u0440\u0438\u043A \u0410\u043D\u0434\u0440\u0435 \u042D\u0436\u0435\u043D \u0416\u043E\u0437\u0435\u0444 \u0414\u0435\u043F\u0430\u0439\u0435 (\u0444\u0440. Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler, 9 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1944, \u041A\u043B\u0435\u0440\u043C\u043E\u043D-\u0424\u0435\u0440\u0440\u0430\u043D \u2014 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1980, \u0425\u043E\u043A\u043A\u0435\u043D\u0445\u0430\u0439\u043C) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler (Clermont-Ferrand, 9 augustus 1944 \u2013 Hockenheim, 1 augustus 1980) was een Frans Formule 1-coureur. Hij reed in 1972 en tussen 1974 en 1980 95 Grands Prix voor de teams Tyrell Racing, Ligier en Alfa Romeo. Hij behaalde 1 pole position (de Grand Prix van Zweden van 1974) en behaalde twee overwinningen (de Grand Prix van Monaco van 1978 en de Grand Prix van Spanje van 1979). Hij stierf na een ernstig ongeluk in 1980 op het circuit van Hockenheimring."@nl ,
+		"Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler (* 9. August 1944 in Clermont-Ferrand; \u2020 1. August 1980 in Hockenheim) war ein franz\u00F6sischer Rennfahrer und Formel-1-Pilot. Seine Karriere in der h\u00F6chsten Motorsportklasse begann 1972. 1980 verungl\u00FCckte er bei Testfahrten auf dem Hockenheimring t\u00F6dlich."@de ,
+		"Debut\u00F3 en el equipo Tyrrell, y tambi\u00E9n compiti\u00F3 con las escuder\u00EDas Ligier y Alfa Romeo. Consigui\u00F3 un total de dos victorias, la primera en el Gran Premio de M\u00F3naco de 1978 y la segunda en el Gran Premio de Espa\u00F1a de 1979, as\u00ED como 19 podios, una pole position y cuatro vueltas r\u00E1pidas. En 1973 corre en el circuito de Watkings Glen finalizando en el 7\u00BA lugar, pero un accidente en la F2 lo lesion\u00F3 y debi\u00F3 esperar hasta 1974"@es ;
+	dbp:points	139 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Patrick_Depailler	owl:sameAs	dbpedia-es:Patrick_Depailler ,
+		<http://rdf.freebase.com/ns/m.04k19k> ,
+		wikidata:Q171611 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Patrick_Depailler	owl:sameAs	dbpedia-fr:Patrick_Depailler .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Patrick_Depailler	owl:sameAs	dbpedia-wikidata:Q171611 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Patrick_Depailler	owl:sameAs	dbpedia-pt:Patrick_Depailler .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Patrick_Depailler	owl:sameAs	dbpedia-pl:Patrick_Depailler ,
+		dbr:Patrick_Depailler .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Patrick_Depailler	owl:sameAs	dbpedia-nl:Patrick_Depailler .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Patrick_Depailler	owl:sameAs	yago-res:Patrick_Depailler ,
+		<http://ja.dbpedia.org/resource/\u30D1\u30C8\u30EA\u30C3\u30AF\u30FB\u30C7\u30D1\u30A4\u30E6> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Patrick_Depailler	owl:sameAs	dbpedia-it:Patrick_Depailler .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Patrick_Depailler	owl:sameAs	dbpedia-de:Patrick_Depailler .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Patrick_Depailler	dct:subject	dbc:Ligier_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1980_deaths> ,
+		dbc:French_motorcycle_racers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:French_Formula_One_drivers ,
+		dbc:French_racing_drivers ,
+		dbc:Sportspeople_from_Clermont-Ferrand ,
+		dbc:French_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		dbc:Sport_deaths_in_Germany ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Atlantic_Championship_drivers ,
+		dbc:Alfa_Romeo_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1944_births> ,
+		dbc:European_Formula_Two_Championship_drivers ;
+	foaf:name	"Patrick Depailler"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/PatrickDepailler-ar.jpg> ;
+	dct:description	"French racecar driver"@en ;
+	foaf:givenName	"Patrick"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Patrick_Depailler ;
+	foaf:surname	"Depailler"@en ;
+	dbp:title	dbr:Champion ,
+		dbr:List_of_Formula_One_fatal_accidents ,
+		dbr:European_Formula_Two_Championship ,
+		dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners ,
+		"Champion"^^xsd:string ,
+		dbr:French_Formula_Three_Championship .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Patrick_Depailler	dbp:years	"1980-08-01"^^xsd:date ,
+		", \u2013"^^xsd:string ,
+		1971 ,
+		1972 ,
+		1974 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Patrick_Depailler	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Patrick_Depailler?oldid=737901213> ;
+	dbp:before	dbr:Jean-Pierre_Jaussaud ,
+		<http://dbpedia.org/resource/David_Walker_(racing_driver)> ,
+		dbr:Ronnie_Peterson ,
+		dbr:Jean-Pierre_Jarier ;
+	dbp:after	dbr:Jacques_Laffite ,
+		<http://dbpedia.org/resource/Michel_Lecl\u00E8re> ,
+		dbr:Gilles_Villeneuve ;
+	dbp:birthPlace	"Clermont-Ferrand France"^^xsd:string ;
+	dbp:deathPlace	"Hockenheim, Germany"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1978_Monaco_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1979_Spanish_Grand_Prix> ;
+	dbp:birthDate	"1944-08-09"^^xsd:date ;
+	dbp:deathDate	"1980-08-01"^^xsd:date ;
+	dbp:caption	"Depailler at Dijon in 1975"^^xsd:string ;
+	dbo:abstract	"Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler ou apenas Patrick Depailler, nascido em (Clermont-Ferrand, 9 de agosto de 1944 - Hockenheim, 1 de agosto de 1980) foi um automobilista franc\u00EAs."@pt ,
+		"\u041F\u0430\u0442\u0440\u0438\u043A \u0410\u043D\u0434\u0440\u0435 \u042D\u0436\u0435\u043D \u0416\u043E\u0437\u0435\u0444 \u0414\u0435\u043F\u0430\u0439\u0435 (\u0444\u0440. Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler, 9 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1944, \u041A\u043B\u0435\u0440\u043C\u043E\u043D-\u0424\u0435\u0440\u0440\u0430\u043D \u2014 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1980, \u0425\u043E\u043A\u043A\u0435\u043D\u0445\u0430\u0439\u043C) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler (* 9. August 1944 in Clermont-Ferrand; \u2020 1. August 1980 in Hockenheim) war ein franz\u00F6sischer Rennfahrer und Formel-1-Pilot. Seine Karriere in der h\u00F6chsten Motorsportklasse begann 1972. 1980 verungl\u00FCckte er bei Testfahrten auf dem Hockenheimring t\u00F6dlich."@de ,
+		"Debut\u00F3 en el equipo Tyrrell, y tambi\u00E9n compiti\u00F3 con las escuder\u00EDas Ligier y Alfa Romeo. Consigui\u00F3 un total de dos victorias, la primera en el Gran Premio de M\u00F3naco de 1978 y la segunda en el Gran Premio de Espa\u00F1a de 1979, as\u00ED como 19 podios, una pole position y cuatro vueltas r\u00E1pidas. En 1973 corre en el circuito de Watkings Glen finalizando en el 7\u00BA lugar, pero un accidente en la F2 lo lesion\u00F3 y debi\u00F3 esperar hasta 1974 En 1974 en su escuder\u00EDa fue un a\u00F1o de cambios ya que manej\u00F3 los modelos 005, 006 y 007. A pesar de los abandonos con el 007 termin\u00F3 el a\u00F1o muy positivamente, con 5 carreras en los puntos de 15 disputadas. La temporada de 1979 a pesar de tener un coche muy bueno, con un efecto suelo de los mejores, no fue un buen a\u00F1o para \u00E9l y su equipo, con abandono en Sud\u00E1frica y B\u00E9lgica adem\u00E1s de otras 8 carreras sin largar, por un accidente en ala delta que le fractur\u00F3 las dos piernas, s\u00F3lo pudo ver la bandera a cuadros en 5 ocasiones, con victoria en el Jarama (Espa\u00F1a) y con la an\u00E9cdota de haber apostado el bigote de un mec\u00E1nico si obten\u00EDa la victoria. Subidos en un barril grande de aceite, Patrick le afeit\u00F3 a su mec\u00E1nico el mostacho, delante de los fot\u00F3grafos y los aficionados que se encontraban all\u00ED al final de la prueba. Para 1980 firma con Alfa Romeo, pero tan solo disput\u00F3 8 grandes premios (todos sin terminar). El 1 de agosto de 1980, en los entrenamientos privados para el GP de Alemania Patrick se estrella sin raz\u00F3n aparente (quiz\u00E1 un fallo en una faldilla, perdiendo toda la succi\u00F3n del efecto suelo) contra los los rieles de protecci\u00F3n del circuito, provocando su accidente fatal."@es ,
+		"\u30D1\u30C8\u30EA\u30C3\u30AF\u30FB\u30C7\u30D1\u30A4\u30E6\uFF08Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler \u30011944\u5E748\u67089\u65E5 - 1980\u5E748\u67081\u65E5\uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021971\u5E74\u30D5\u30E9\u30F3\u30B9F3\u30011974\u5E74\u30E8\u30FC\u30ED\u30C3\u30D1F2\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002 \u540D\u524D\u306F\u30C7\u30D1\u30A4\u30A8\u3001\u30C9\u30A5\u30D1\u30A4\u30A8\u3001\u30C9\u30A5\u30D1\u30A4\u30E6\u3001\u30C9\u30D1\u30A4\u30A8\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler (Clermont-Ferrand, 9 augustus 1944 \u2013 Hockenheim, 1 augustus 1980) was een Frans Formule 1-coureur. Hij reed in 1972 en tussen 1974 en 1980 95 Grands Prix voor de teams Tyrell Racing, Ligier en Alfa Romeo. Hij behaalde 1 pole position (de Grand Prix van Zweden van 1974) en behaalde twee overwinningen (de Grand Prix van Monaco van 1978 en de Grand Prix van Spanje van 1979). Hij stierf na een ernstig ongeluk in 1980 op het circuit van Hockenheimring."@nl ,
+		"Patrick Andr\u00E9 Eugene Joseph Depailler (ur. 9 sierpnia 1944 w Clermont-Ferrand, zm. 1 sierpnia 1980) \u2013 francuski kierowca Formu\u0142y 1. Uczestniczy\u0142 w 95 Grand Prix. Znany z widowiskowych pojedynk\u00F3w, nawet o s\u0142absze pozycje. Depailler wygra\u0142 dwa wy\u015Bcigi, raz wywalczy\u0142 pole position, 19 razy stawa\u0142 na podium i zdoby\u0142 \u0142\u0105cznie 141 punkt\u00F3w."@pl ,
+		"Patrick Depailler est un pilote automobile fran\u00E7ais n\u00E9 le 9 ao\u00FBt 1944 \u00E0 Clermont-Ferrand (Auvergne), d\u00E9c\u00E9d\u00E9 le 1er ao\u00FBt 1980 au cours d'une s\u00E9ance d'essais priv\u00E9s sur le circuit d'Hockenheim, en Allemagne, au volant d'une Alfa Romeo. Il a particip\u00E9 \u00E0 95 Grand Prix de Formule 1 et en a remport\u00E9 deux. Il est inhum\u00E9 dans le cimeti\u00E8re de la commune de Crevant-Laveine dans le Puy-de-D\u00F4me."@fr ,
+		"Patrick Andr\u00E9 Eug\u00E8ne Joseph Depailler (9 August 1944 \u2013 1 August 1980) was a racing driver from France. He participated in 95 World Championship Formula One Grands Prix, debuting on 2 July 1972. He also participated in several non-Championship Formula One races. Depailler was born in Clermont-Ferrand, Puy-de-D\u00F4me. As a child, he was inspired by Jean Behra. In Formula One, he joined a Tyrrell team that was beginning a long, slow decline, eventually moving to the erratic Ligier team before finally ending up with the revived Alfa Romeo squad in 1980. Depailler was helping to advance this team up the grid when he was killed in a crash at Hockenheim on 1 August 1980, during a private testing session. He won 2 races, secured 1 pole position, achieved 19 podiums, and scored a total of 141 championship points."@en ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016) \u0628\u0627\u062A\u0631\u064A\u0643 \u062F\u064A\u0628\u0627\u064A\u0644\u064A\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 9 \u0623\u063A\u0633\u0637\u0633 1944 \u0641\u064A \u0643\u0644\u064A\u0631\u0645\u0648\u0646 \u0641\u064A\u0631\u0627\u0646\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1972. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1972\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0645\u0648\u0646\u0627\u0643\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 1978. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 95 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 2 \u0645\u0646\u0647\u0627."@ar ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/PatrickDepailler-ar.jpg?width=300> ;
+	dbo:birthDate	"1944-8-9"^^xsd:date ;
+	dbo:deathDate	"1980-8-1"^^xsd:date ;
+	dbo:deathPlace	dbr:Hockenheim ;
+	dbo:wikiPageRevisionID	737901213 ;
+	dbo:birthPlace	dbr:Clermont-Ferrand ;
+	dbo:wikiPageID	1226335 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Patrick_Depailler	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"4"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1972_French_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1980_British_Grand_Prix> ;
+	dbo:podiums	"19"^^xsd:nonNegativeInteger ;
+	dbo:poles	"1"^^xsd:nonNegativeInteger ;
+	dbo:races	"95"^^xsd:nonNegativeInteger ;
+	dbo:wins	"2"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Alfa_Romeo_in_Formula_One ,
+		dbr:Equipe_Ligier ,
+		dbr:Tyrrell_Racing ;
+	dbp:nationality	"French"^^xsd:string .
+dbr:Ronnie_Peterson	dbp:after	dbr:Patrick_Depailler .
+<http://dbpedia.org/resource/Patrick_Andr\u00E9_Eug\u00E8ne_Joseph_Depailler>	dbo:wikiPageRedirects	dbr:Patrick_Depailler .

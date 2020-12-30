@@ -1,0 +1,120 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Kenneth_McAlpine	foaf:primaryTopic	dbr:Kenneth_McAlpine .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Kenneth_McAlpine	rdf:type	wikidata:Q378622 .
+@prefix schema:	<http://schema.org/> .
+dbr:Kenneth_McAlpine	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Kenneth_McAlpine	rdf:type	yago:CausalAgent100007347 ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Kenneth_McAlpine	rdf:type	owl:Thing ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Kenneth_McAlpine	rdf:type	dbo:FormulaOneRacer ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:RacingDriver ,
+		dbo:MotorsportRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Kenneth_McAlpine	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Athlete .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Kenneth_McAlpine	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		dbo:Agent ,
+		yago:WikicatConnaughtFormulaOneDrivers ,
+		dbo:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Kenneth_McAlpine	rdfs:label	"Kenneth McAlpine"@it ,
+		"Kenneth McAlpine"@fr ,
+		"Kenneth McAlpine"@pt ,
+		"Kenneth McAlpine"@en ,
+		"Kenneth McAlpine"@pl ,
+		"Kenneth McAlpine"@de ,
+		"Kenneth McAlpine"@nl ;
+	rdfs:comment	"Kenneth McAlpine (Chobham, Inglaterra, 21 de setembro de 1920) \u00E9 um ex-automobilista ingl\u00EAs que participou de 7 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1952 e 1955."@pt ,
+		"Kenneth McAlpine (ur. 21 wrze\u015Bnia 1920 roku w Cobham) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Kenneth McAlpine (* 21. September 1920 in Cobham) ist ein ehemaliger britischer Autorennfahrer."@de ,
+		"Kenneth McAlpine (Cobham, Surrey, 21 september 1920) is een voormalig Formule 1-coureur uit Engeland. Hij nam tussen 1952 en 1955 deel aan 7 Grands Prix voor het team Connaught Engineering, maar scoorde hierin geen punten."@nl ,
+		"Kenneth McAlpine Kenneth McAlpine, n\u00E9 le 21 septembre 1920 \u00E0 Cobham (Surrey), est un ancien pilote automobile britannique. Il a notamment particip\u00E9 \u00E0 sept Grands Prix de championnat du monde de 1952 \u00E0 1955, sur Connaught. Il est, depuis le 22 ao\u00FBt 2015 et le d\u00E9c\u00E8s d'Eric Thompson, le doyen des pilotes de Formule 1."@fr ,
+		"Dopo la morte di Eric Thompson, avvenuta il 22 agosto 2015, \u00E8 diventato il decano dei piloti di Formula 1."@it ,
+		"(This article is about the Formula One driver. For the King, Kenneth MacAlpin, see Kenneth MacAlpin. For the cricket player and administrator, see Kenneth McAlpine (cricketer).) Kenneth McAlpine (born 21 September 1920) is a British former racing driver from England. He was born in Cobham, Surrey. He participated in 7 Formula One World Championship Grands Prix, debuting on 19 July 1952. He scored no championship points.During the development of the Connaught Racing Team based at Send in Surrey, McAlpine became a considerable financial backer and enjoyed several team owner triumphs including Tony Brooks's memorable F1 victory at Syracuse, Italy in 1955. The team was eventually broken up in 1958 and cars sold off, including one or more to a young Bernie Ecclestone."@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Kenneth_McAlpine	dbp:points	0 ;
+	owl:sameAs	wikidata:Q172259 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Kenneth_McAlpine	owl:sameAs	dbpedia-wikidata:Q172259 ,
+		dbr:Kenneth_McAlpine ,
+		<http://rdf.freebase.com/ns/m.04kv4s> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Kenneth_McAlpine	owl:sameAs	dbpedia-fr:Kenneth_McAlpine .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Kenneth_McAlpine	owl:sameAs	dbpedia-it:Kenneth_McAlpine .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Kenneth_McAlpine	owl:sameAs	dbpedia-de:Kenneth_McAlpine .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Kenneth_McAlpine	owl:sameAs	dbpedia-pt:Kenneth_McAlpine .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Kenneth_McAlpine	owl:sameAs	dbpedia-nl:Kenneth_McAlpine .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Kenneth_McAlpine	owl:sameAs	yago-res:Kenneth_McAlpine .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Kenneth_McAlpine	owl:sameAs	dbpedia-pl:Kenneth_McAlpine .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Kenneth_McAlpine	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:People_from_Cobham,_Surrey> ,
+		dbc:English_businesspeople ,
+		dbc:Living_people ,
+		dbc:McAlpine_family ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Connaught_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1920_births> ;
+	foaf:name	"Kenneth McAlpine"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Kenneth"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Kenneth_McAlpine ;
+	foaf:surname	"McAlpine"@en ;
+	dbp:years	"\u2013,"^^xsd:string ;
+	dbo:nationality	dbr:United_Kingdom .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Kenneth_McAlpine	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Kenneth_McAlpine?oldid=740411495> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Kenneth_McAlpine	dbp:birthDate	"1920-09-21"^^xsd:date ;
+	dbo:abstract	"Dopo la morte di Eric Thompson, avvenuta il 22 agosto 2015, \u00E8 diventato il decano dei piloti di Formula 1."@it ,
+		"Kenneth McAlpine Kenneth McAlpine, n\u00E9 le 21 septembre 1920 \u00E0 Cobham (Surrey), est un ancien pilote automobile britannique. Il a notamment particip\u00E9 \u00E0 sept Grands Prix de championnat du monde de 1952 \u00E0 1955, sur Connaught. Il est, depuis le 22 ao\u00FBt 2015 et le d\u00E9c\u00E8s d'Eric Thompson, le doyen des pilotes de Formule 1."@fr ,
+		"(This article is about the Formula One driver. For the King, Kenneth MacAlpin, see Kenneth MacAlpin. For the cricket player and administrator, see Kenneth McAlpine (cricketer).) Kenneth McAlpine (born 21 September 1920) is a British former racing driver from England. He was born in Cobham, Surrey. He participated in 7 Formula One World Championship Grands Prix, debuting on 19 July 1952. He scored no championship points.During the development of the Connaught Racing Team based at Send in Surrey, McAlpine became a considerable financial backer and enjoyed several team owner triumphs including Tony Brooks's memorable F1 victory at Syracuse, Italy in 1955. The team was eventually broken up in 1958 and cars sold off, including one or more to a young Bernie Ecclestone. After Grands Prix, McAlpine established a successful English wine growing and bottling business at his estate in Lamberhurst, Kent. He is a member of the McAlpine family that started the famous civil engineering company of the same name. He is also a member of The Air Squadron. Following the death of French driver Andr\u00E9 Guelfi on 28 June 2016, McAlpine became the oldest living Formula One driver."@en ,
+		"Kenneth McAlpine (* 21. September 1920 in Cobham) ist ein ehemaliger britischer Autorennfahrer."@de ,
+		"Kenneth McAlpine (Cobham, Surrey, 21 september 1920) is een voormalig Formule 1-coureur uit Engeland. Hij nam tussen 1952 en 1955 deel aan 7 Grands Prix voor het team Connaught Engineering, maar scoorde hierin geen punten."@nl ,
+		"Kenneth McAlpine (Chobham, Inglaterra, 21 de setembro de 1920) \u00E9 um ex-automobilista ingl\u00EAs que participou de 7 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1952 e 1955."@pt ,
+		"Kenneth McAlpine (ur. 21 wrze\u015Bnia 1920 roku w Cobham) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1920-9-21"^^xsd:date ;
+	dbo:wikiPageRevisionID	740411495 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Cobham,_Surrey> ;
+	dbo:wikiPageID	1234977 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Kenneth_McAlpine	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1955_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"7"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+dbr:Connaught_Engineering	dbp:staff	dbr:Kenneth_McAlpine .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__44__1>	dbo:firstDriver	dbr:Kenneth_McAlpine .

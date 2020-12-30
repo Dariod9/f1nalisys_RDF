@@ -1,0 +1,124 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__53__1>	dbo:firstDriver	dbr:Max_Jean .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Max_Jean	foaf:primaryTopic	dbr:Max_Jean .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Max_Jean	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers ,
+		foaf:Person .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Max_Jean	rdf:type	ns6:NaturalPerson ,
+		dbo:FormulaOneRacer ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Max_Jean	rdf:type	wikidata:Q215627 ,
+		ns6:Agent ,
+		yago:Driver110034906 ,
+		wikidata:Q24229398 ,
+		yago:Operator110378412 ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		dbo:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Max_Jean	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Max_Jean	rdf:type	umbel-rc:RaceCarDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Max_Jean	rdf:type	schema:Person ,
+		umbel-rc:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		dbo:Athlete ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Max_Jean	rdfs:label	"Max Jean"@nl ,
+		"\u0416\u0430\u043D, \u041C\u0430\u043A\u0441"@ru ,
+		"Max Jean"@pl ,
+		"Max Jean"@it ,
+		"Max Jean"@en ,
+		"Max Jean"@pt ,
+		"Max Jean"@fr ,
+		"Max Jean"@de ;
+	rdfs:comment	"Max Jean (Marseille, 27 juli 1943) is een voormalig Formule 1-coureur uit Frankrijk. Hij nam deel aan zijn thuisrace in 1971 voor het team Williams, waarvoor hij geen punten scoorde."@nl ,
+		"Max Jean Max Jean, n\u00E9 le 27 juillet 1943 \u00E0 Marseille, est un pilote automobile fran\u00E7ais. Il participe au Grand Prix automobile de France 1971 au volant d'une Williams-March 701, sans toutefois inscrire le moindre point."@fr ,
+		"Max Jean (Marselha, Fran\u00E7a, 27 de julho de 1943) foi um automobilista franc\u00EAs que participou do Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 em 1971."@pt ,
+		"Max Jean (* 27. Juli 1943 in Marseille) ist ein ehemaliger franz\u00F6sischer Rennfahrer."@de ,
+		"Max Jean, b\u0142\u0119dnie zapisywany jako Jean Max (ur. 27 lipca 1943 roku w Marsylii) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Max Jean (27 July 1943, Marseille) is a French former racing driver who won the Formule France championship in 1968. In addition to numerous Formula Two and Formula Three entries, Jean participated in one Formula One Grand Prix, driving a March for Frank Williams Racing Cars in his home race on 4 July 1971. He scored no championship points."@en ,
+		"\u041C\u0430\u043A\u0441 \u0416\u0430\u043D (\u0444\u0440. Max Jean, 27 \u0438\u044E\u043B\u044F 1943 \u0433\u043E\u0434\u0430, \u041C\u0430\u0440\u0441\u0435\u043B\u044C) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Prima di arrivare in Formula 1 fu campione di Formula Ford francese nel 1968 e corse qualche gara in Formula 3 e Formula 2. Partecip\u00F2 al Gran Premio di Francia 1971 con una March del Team di Frank Williams concludendo la gara al quattordicesimo posto."@it .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Max_Jean	dbp:points	0 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Max_Jean	owl:sameAs	dbpedia-nl:Max_Jean .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Max_Jean	owl:sameAs	dbpedia-de:Max_Jean .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Max_Jean	owl:sameAs	dbpedia-it:Max_Jean .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Max_Jean	owl:sameAs	dbpedia-fr:Max_Jean .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Max_Jean	owl:sameAs	dbpedia-pt:Max_Jean ,
+		wikidata:Q172074 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Max_Jean	owl:sameAs	dbpedia-pl:Max_Jean ,
+		dbr:Max_Jean .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Max_Jean	owl:sameAs	dbpedia-wikidata:Q172074 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Max_Jean	owl:sameAs	yago-res:Max_Jean ,
+		<http://rdf.freebase.com/ns/m.04kvl1> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Max_Jean	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Max_Jean	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1943_births> ,
+		dbc:Living_people ,
+		dbc:French_racing_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:French_Formula_One_drivers ;
+	foaf:name	"Max Jean"@en ;
+	dct:description	"French racing driver"@en ;
+	foaf:givenName	"Max"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Max_Jean ;
+	foaf:surname	"Jean"@en ;
+	dbp:classWins	0 ;
+	dbo:nationality	dbr:France .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Max_Jean	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Max_Jean?oldid=703977695> ;
+	dbp:birthPlace	"Marseille, France"^^xsd:string ;
+	dbp:teams	<http://dbpedia.org/resource/Andr\u00E9_Moynet> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Max_Jean	dbp:birthDate	"1943-07-27"^^xsd:date ;
+	dbo:abstract	"\u041C\u0430\u043A\u0441 \u0416\u0430\u043D (\u0444\u0440. Max Jean, 27 \u0438\u044E\u043B\u044F 1943 \u0433\u043E\u0434\u0430, \u041C\u0430\u0440\u0441\u0435\u043B\u044C) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Max Jean (Marseille, 27 juli 1943) is een voormalig Formule 1-coureur uit Frankrijk. Hij nam deel aan zijn thuisrace in 1971 voor het team Williams, waarvoor hij geen punten scoorde."@nl ,
+		"Max Jean (27 July 1943, Marseille) is a French former racing driver who won the Formule France championship in 1968. In addition to numerous Formula Two and Formula Three entries, Jean participated in one Formula One Grand Prix, driving a March for Frank Williams Racing Cars in his home race on 4 July 1971. He scored no championship points."@en ,
+		"Max Jean, b\u0142\u0119dnie zapisywany jako Jean Max (ur. 27 lipca 1943 roku w Marsylii) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Max Jean (* 27. Juli 1943 in Marseille) ist ein ehemaliger franz\u00F6sischer Rennfahrer."@de ,
+		"Max Jean Max Jean, n\u00E9 le 27 juillet 1943 \u00E0 Marseille, est un pilote automobile fran\u00E7ais. Il participe au Grand Prix automobile de France 1971 au volant d'une Williams-March 701, sans toutefois inscrire le moindre point. Avant d'acc\u00E9der \u00E0 la Formule 1, il est devenu champion de France de Formule France en 1968 et a pris part \u00E0 plusieurs courses en Formule 3 et Formule 2, notamment pour l'\u00E9curie de Ron Dennis. Lors de l'un de ses engagements, son patronyme a \u00E9t\u00E9 incorrectement enregistr\u00E9 en inversant son nom et son pr\u00E9nom. Depuis, il est \u00E9galement pr\u00E9sent dans les statistiques sous le patronyme erron\u00E9 de Jean Max."@fr ,
+		"Max Jean (Marselha, Fran\u00E7a, 27 de julho de 1943) foi um automobilista franc\u00EAs que participou do Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 em 1971."@pt ,
+		"Prima di arrivare in Formula 1 fu campione di Formula Ford francese nel 1968 e corse qualche gara in Formula 3 e Formula 2. Partecip\u00F2 al Gran Premio di Francia 1971 con una March del Team di Frank Williams concludendo la gara al quattordicesimo posto."@it ;
+	dbo:birthDate	"1943-7-27"^^xsd:date ;
+	dbo:wikiPageRevisionID	703977695 ;
+	dbo:birthPlace	dbr:Marseille ;
+	dbo:wikiPageID	1235073 ;
+	dbp:bestFinish	"DNF"^^xsd:string .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Max_Jean	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1971_French_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1971_French_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Frank_Williams_Racing_Cars .
+<http://dbpedia.org/resource/Jean_Max_(racing_driver)>	dbo:wikiPageRedirects	dbr:Max_Jean .
+dbr:Jean_Max	dbo:wikiPageRedirects	dbr:Max_Jean .

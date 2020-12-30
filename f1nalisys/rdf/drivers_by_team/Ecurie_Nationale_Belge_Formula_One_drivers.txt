@@ -1,0 +1,27 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Andr\u00E9_Pilette>	dct:subject	dbc:Ecurie_Nationale_Belge_Formula_One_drivers .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Willy_Mairesse	dct:subject	dbc:Ecurie_Nationale_Belge_Formula_One_drivers .
+dbr:Olivier_Gendebien	dct:subject	dbc:Ecurie_Nationale_Belge_Formula_One_drivers .
+dbr:Johnny_Claes	dct:subject	dbc:Ecurie_Nationale_Belge_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:Ecurie_Nationale_Belge_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:Ecurie_Nationale_Belge_Formula_One_drivers	rdfs:label	"Ecurie Nationale Belge Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:Ecurie_Nationale_Belge_Formula_One_drivers	owl:sameAs	wikidata:Q8400732 ,
+		dbc:Ecurie_Nationale_Belge_Formula_One_drivers .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:Ecurie_Nationale_Belge_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q8400732 ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"Ecurie Nationale Belge Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:Ecurie_Nationale_Belge_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:Ecurie_Nationale_Belge_Formula_One_drivers?oldid=500012133> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:Ecurie_Nationale_Belge_Formula_One_drivers	dbo:wikiPageRevisionID	500012133 ;
+	dbo:wikiPageID	36188654 .
+dbr:Lucien_Bianchi	dct:subject	dbc:Ecurie_Nationale_Belge_Formula_One_drivers .
+dbr:Alain_de_Changy	dct:subject	dbc:Ecurie_Nationale_Belge_Formula_One_drivers .

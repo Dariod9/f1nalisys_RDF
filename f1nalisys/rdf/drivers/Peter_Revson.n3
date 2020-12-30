@@ -1,0 +1,209 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Jean-Pierre_Beltoise	dbp:before	dbr:Peter_Revson .
+<http://dbpedia.org/resource/Fran\u00E7ois_Cevert>	dbp:after	dbr:Peter_Revson .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1972_Austrian_Grand_Prix>	dbo:thirdDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__T+2.0__4>	dbo:firstDriver	dbr:Peter_Revson .
+dbr:Peter_Jeffrey_Revson	dbo:wikiPageRedirects	dbr:Peter_Revson .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Peter_Revson	foaf:primaryTopic	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1973_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1972_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1973_South_African_Grand_Prix>	dbo:secondDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__32__1>	dbo:firstDriver	dbr:Peter_Revson .
+dbr:Ford_G7	dbp:drivers	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1972_Canadian_Grand_Prix>	dbo:poleDriver	dbr:Peter_Revson ;
+	dbo:secondDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1973_Canadian_Grand_Prix>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__24__1>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1966_Can-Am_season__10=__1>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1968_Can-Am_season__12=__1>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1969_Can-Am_season__13__1>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__3__1>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1972_Can-Am_season__6__1>	dbo:firstDriver	dbr:Peter_Revson .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Peter_Revson	rdf:type	yago:WikicatRacingDriversFromNewYork .
+@prefix schema:	<http://schema.org/> .
+dbr:Peter_Revson	rdf:type	schema:Person ,
+		dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Peter_Revson	rdf:type	wikidata:Q24229398 ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q215627 ,
+		dbo:Athlete ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Peter_Revson	rdf:type	ns9:NaturalPerson ,
+		ns9:Agent ,
+		yago:Driver110034906 ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		foaf:Person ,
+		yago:WikicatTrans-AmSeriesDrivers ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:WikicatShadowFormulaOneDrivers ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Peter_Revson	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Peter_Revson	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatChampCarDrivers ,
+		yago:WikicatIndianapolis500Drivers ,
+		wikidata:Q378622 ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Peter_Revson	rdfs:label	"\u0420\u0435\u0432\u0441\u043E\u043D, \u041F\u0438\u0442\u0435\u0440"@ru ,
+		"Peter Revson"@nl ,
+		"Peter Revson"@it ,
+		"Peter Revson"@fr ,
+		"Peter Revson"@pt ,
+		"Peter Revson"@en ,
+		"Peter Revson"@de ,
+		"\u30D4\u30FC\u30BF\u30FC\u30FB\u30EC\u30D6\u30BD\u30F3"@ja ,
+		"Peter Revson"@es ,
+		"Peter Revson"@pl ,
+		"\u0628\u064A\u062A\u0631 \u0631\u064A\u0641\u0633\u0648\u0646"@ar ;
+	rdfs:comment	"Peter Jeffrey Revson (February 27, 1939 \u2013 March 22, 1974) was an American race car driver who had successes in Formula One and the Indianapolis 500."@en ,
+		"Peter Revson (New York, 27 februari 1939 - Kyalami (Zuid-Afrika), 22 maart 1974) was een Amerikaanse formule 1-coureur. Als erfgenaam van het Amerikaanse cosmeticaconcern Revlon hoefde Peter Revson echt niet voor het geld te racen. Al in 1964 waagde hij een poging in de formule 1, maar dat liep op niets uit. Hoewel zijn broer Doug tijdens een race in Denemarken was omgekomen, zette hij door en reed \u2013 en won \u2013 in de jaren daarna vooral in Amerika in alles wat vier wielen had. Nadat hij voor McLaren de Can-Am-series had gewonnen en op Indianapolis poleposition had behaald, kwam hij in 1972-1973 voor het formule 1-team uit. Hij werd beide keren vijfde in het wereldkampioenschap en won twee grands prix."@nl ,
+		"Peter Jeffrey Revson (27 de febrero de 1939, Nueva York, Estados Unidos - 22 de marzo de 1974, Johannesburgo, Sud\u00E1frica) fue un piloto de automovilismo estadounidense. Obtuvo dos victorias y cinco podios en la F\u00F3rmula 1, y termin\u00F3 quinto en los campeonatos 1972 y 1973. Adem\u00E1s, fue campe\u00F3n de la CanAm 1971, tambi\u00E9n con el equipo McLaren. Revson era descendiente directo de la familia Revlon, propietaria de la firma de cosm\u00E9ticos Revlon."@es ,
+		"\u041F\u0438\u0301\u0442\u0435\u0440 \u0414\u0436\u0435\u0301\u0444\u0444\u0440\u0438 \u0420\u0435\u0301\u0432\u0441\u043E\u043D (\u0430\u043D\u0433\u043B. Peter Jeffrey Revson, 27 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1939, \u041D\u044C\u044E-\u0419\u043E\u0440\u043A \u2014 22 \u043C\u0430\u0440\u0442\u0430 1974, \u0442\u0440\u0430\u0441\u0441\u0430 \u041A\u044C\u044F\u043B\u0430\u043C\u0438) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 \u0438 Champ Car."@ru ,
+		"\u30D4\u30FC\u30BF\u30FC\u30FB\u30B8\u30A7\u30D5\u30EA\u30FC\u30FB\u30EC\u30D6\u30BD\u30F3\uFF08Peter Jeffrey Revson\u30011939\u5E742\u670827\u65E5 - 1974\u5E743\u670822\u65E5\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"\u00C8 stato un pilota di Formula 1, vincitore di 2 Gran Premi. Membro ed erede della famiglia di industriali della cosmesi Revlon, in quanto figlio del fondatore Charles Revson, rinunci\u00F2 all'eredit\u00E0 e ai beni di famiglia per la passione delle corse (curiosamente, nel 1973 corse anche per la McLaren, sponsorizzata dalla concorrente Yardley)."@it ,
+		"Peter Jeffrey Revson (* 27. Februar 1939 in New York; \u2020 22. M\u00E4rz 1974 in Kyalami, S\u00FCdafrika) war ein US-amerikanischer Automobilrennfahrer. Er war der Sohn von Charles Revson, eines der Gr\u00FCnder des Kosmetikkonzerns Revlon."@de ,
+		"Peter Revson est un pilote automobile am\u00E9ricain, n\u00E9 le 27 f\u00E9vrier 1939 \u00E0 New York, New York, et mort le 22 mars 1974 des suites d'un accident survenu lors d'une s\u00E9ance d'essais priv\u00E9s sur le circuit de Kyalami pr\u00E8s de Johannesburg, huit jours avant le Grand Prix d'Afrique du Sud."@fr ,
+		"Peter Jeffrey Revlon Revson (Nova Iorque, 27 de fevereiro de 1939 \u2013 Kyalami, \u00C1frica do Sul, 22 de mar\u00E7o de 1974) foi um piloto de automobilismo norte-americano."@pt ,
+		"Peter Jeffrey Revson (ur. 27 lutego 1939 roku w Nowym Jorku, zm. tragicznie 22 marca 1974 roku podczas test\u00F3w na torze Kyalami w Republice Po\u0142udniowej Afryki) \u2013 by\u0142 ameryka\u0144skim kierowc\u0105 wy\u015Bcigowym."@pl ,
+		"\u0628\u064A\u062A\u0631 \u0631\u064A\u0641\u0633\u0648\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Peter Revson) \u0645\u0648\u0627\u0644\u064A\u062F 27 \u0641\u0628\u0631\u0627\u064A\u0631 1939 \u0641\u064A \u0646\u064A\u0648\u064A\u0648\u0631\u0643\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1964. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0645\u0648\u0646\u0627\u0643\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 1964\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1973. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 32 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 2 \u0645\u0646\u0647\u0627. \u062A\u0648\u0641\u064A \u0625\u062B\u0631 \u062D\u0627\u062F\u062B \u062A\u0639\u0631\u0636 \u0644\u0647 \u0623\u062B\u0646\u0627\u0621 \u0627\u0644\u0633\u0628\u0627\u0642."@ar .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Peter_Revson	dbp:birthDate	"1939-02-27"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Peter_Revson	owl:sameAs	dbpedia-pl:Peter_Revson .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Peter_Revson	owl:sameAs	dbpedia-es:Peter_Revson .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Peter_Revson	owl:sameAs	dbpedia-wikidata:Q171535 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Peter_Revson	owl:sameAs	dbpedia-de:Peter_Revson ,
+		<http://rdf.freebase.com/ns/m.039vpg> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Peter_Revson	owl:sameAs	dbpedia-it:Peter_Revson .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Peter_Revson	owl:sameAs	dbpedia-nl:Peter_Revson .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Peter_Revson	owl:sameAs	yago-res:Peter_Revson ,
+		wikidata:Q171535 ,
+		<http://ja.dbpedia.org/resource/\u30D4\u30FC\u30BF\u30FC\u30FB\u30EC\u30D6\u30BD\u30F3> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Peter_Revson	owl:sameAs	dbpedia-fr:Peter_Revson ,
+		dbr:Peter_Revson .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Peter_Revson	owl:sameAs	dbpedia-pt:Peter_Revson .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Peter_Revson	dct:subject	dbc:Indianapolis_500_drivers ,
+		dbc:Shadow_Formula_One_drivers ,
+		dbc:Sport_deaths_in_South_Africa ,
+		dbc:American_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Sportspeople_from_New_York_City ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		dbc:Trans-Am_Series_drivers ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:Cornell_University_alumni ,
+		dbc:Indianapolis_500_polesitters ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:Burials_at_Ferncliff_Cemetery ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1974_deaths> ,
+		<http://dbpedia.org/resource/Category:1939_births> ,
+		dbc:McLaren_Formula_One_drivers ,
+		dbc:Hotchkiss_School_alumni ,
+		dbc:Jewish_American_sportspeople ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:Racing_drivers_from_New_York ;
+	foaf:name	"Peter Revson"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Peter_Revson_1973_N\u00C3\u0152rburgring_a.JPG> ;
+	dct:description	"American racecar driver"@en ;
+	foaf:givenName	"Peter"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Peter_Revson ;
+	foaf:surname	"Revson"@en ;
+	dbp:points	61 ;
+	dbp:years	"1974-03-22"^^xsd:date ,
+		1971 ,
+		1965 ,
+		",  \u2013"^^xsd:string ;
+	dbp:after	dbr:George_Follmer ,
+		dbr:Jean-Pierre_Beltoise ,
+		dbr:Helmut_Koinigg ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Lotus, Tyrrell, McLaren, Shadow"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Peter_Revson	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Peter_Revson?oldid=722662846> ;
+	dbo:wikiPageExternalLink	<http://www.bruce-mclaren.com> ,
+		<http://www.artemisimages.com/gallery.aspx?photomode=5&keywords=Peter%20Revson> ,
+		<http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSsr=41&GSmpid=45426922&GRid=21996&> ;
+	dbp:caption	"Revson at the 1973 German Grand Prix"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1973_British_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1973_Canadian_Grand_Prix> ;
+	dbp:birthPlace	<http://dbpedia.org/resource/New_York_City,_New_York> ;
+	dbp:deathDate	"1974-03-22"^^xsd:date ;
+	dbp:before	<http://dbpedia.org/resource/Fran\u00E7ois_Cevert> ,
+		dbr:Denny_Hulme ,
+		dbr:Jackie_Stewart ;
+	dbp:deathPlace	dbr:Midrand ,
+		dbr:South_Africa ;
+	dbo:abstract	"Peter Revson (New York, 27 februari 1939 - Kyalami (Zuid-Afrika), 22 maart 1974) was een Amerikaanse formule 1-coureur. Als erfgenaam van het Amerikaanse cosmeticaconcern Revlon hoefde Peter Revson echt niet voor het geld te racen. Al in 1964 waagde hij een poging in de formule 1, maar dat liep op niets uit. Hoewel zijn broer Doug tijdens een race in Denemarken was omgekomen, zette hij door en reed \u2013 en won \u2013 in de jaren daarna vooral in Amerika in alles wat vier wielen had. Nadat hij voor McLaren de Can-Am-series had gewonnen en op Indianapolis poleposition had behaald, kwam hij in 1972-1973 voor het formule 1-team uit. Hij werd beide keren vijfde in het wereldkampioenschap en won twee grands prix. Toen Emerson Fittipaldi in 1974 McLaren kwam versterken, koos Revson voor Shadow. Tijdens een test op het Zuid-Afrikaanse Kyalami brak de wielophanging van zijn auto, waardoor hij in de vangrails vloog en omkwam."@nl ,
+		"Peter Jeffrey Revson (* 27. Februar 1939 in New York; \u2020 22. M\u00E4rz 1974 in Kyalami, S\u00FCdafrika) war ein US-amerikanischer Automobilrennfahrer. Er war der Sohn von Charles Revson, eines der Gr\u00FCnder des Kosmetikkonzerns Revlon."@de ,
+		"\u0628\u064A\u062A\u0631 \u0631\u064A\u0641\u0633\u0648\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Peter Revson) \u0645\u0648\u0627\u0644\u064A\u062F 27 \u0641\u0628\u0631\u0627\u064A\u0631 1939 \u0641\u064A \u0646\u064A\u0648\u064A\u0648\u0631\u0643\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1964. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0645\u0648\u0646\u0627\u0643\u0648 \u0627\u0644\u0643\u0628\u0631\u0649 1964\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1973. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 32 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 2 \u0645\u0646\u0647\u0627. \u062A\u0648\u0641\u064A \u0625\u062B\u0631 \u062D\u0627\u062F\u062B \u062A\u0639\u0631\u0636 \u0644\u0647 \u0623\u062B\u0646\u0627\u0621 \u0627\u0644\u0633\u0628\u0627\u0642."@ar ,
+		"\u041F\u0438\u0301\u0442\u0435\u0440 \u0414\u0436\u0435\u0301\u0444\u0444\u0440\u0438 \u0420\u0435\u0301\u0432\u0441\u043E\u043D (\u0430\u043D\u0433\u043B. Peter Jeffrey Revson, 27 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1939, \u041D\u044C\u044E-\u0419\u043E\u0440\u043A \u2014 22 \u043C\u0430\u0440\u0442\u0430 1974, \u0442\u0440\u0430\u0441\u0441\u0430 \u041A\u044C\u044F\u043B\u0430\u043C\u0438) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 \u0438 Champ Car."@ru ,
+		"\u30D4\u30FC\u30BF\u30FC\u30FB\u30B8\u30A7\u30D5\u30EA\u30FC\u30FB\u30EC\u30D6\u30BD\u30F3\uFF08Peter Jeffrey Revson\u30011939\u5E742\u670827\u65E5 - 1974\u5E743\u670822\u65E5\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"Peter Jeffrey Revlon Revson (Nova Iorque, 27 de fevereiro de 1939 \u2013 Kyalami, \u00C1frica do Sul, 22 de mar\u00E7o de 1974) foi um piloto de automobilismo norte-americano."@pt ,
+		"\u00C8 stato un pilota di Formula 1, vincitore di 2 Gran Premi. Membro ed erede della famiglia di industriali della cosmesi Revlon, in quanto figlio del fondatore Charles Revson, rinunci\u00F2 all'eredit\u00E0 e ai beni di famiglia per la passione delle corse (curiosamente, nel 1973 corse anche per la McLaren, sponsorizzata dalla concorrente Yardley)."@it ,
+		"Peter Jeffrey Revson (February 27, 1939 \u2013 March 22, 1974) was an American race car driver who had successes in Formula One and the Indianapolis 500."@en ,
+		"Peter Jeffrey Revson (27 de febrero de 1939, Nueva York, Estados Unidos - 22 de marzo de 1974, Johannesburgo, Sud\u00E1frica) fue un piloto de automovilismo estadounidense. Obtuvo dos victorias y cinco podios en la F\u00F3rmula 1, y termin\u00F3 quinto en los campeonatos 1972 y 1973. Adem\u00E1s, fue campe\u00F3n de la CanAm 1971, tambi\u00E9n con el equipo McLaren. Revson era descendiente directo de la familia Revlon, propietaria de la firma de cosm\u00E9ticos Revlon."@es ,
+		"Peter Revson est un pilote automobile am\u00E9ricain, n\u00E9 le 27 f\u00E9vrier 1939 \u00E0 New York, New York, et mort le 22 mars 1974 des suites d'un accident survenu lors d'une s\u00E9ance d'essais priv\u00E9s sur le circuit de Kyalami pr\u00E8s de Johannesburg, huit jours avant le Grand Prix d'Afrique du Sud."@fr ,
+		"Peter Jeffrey Revson (ur. 27 lutego 1939 roku w Nowym Jorku, zm. tragicznie 22 marca 1974 roku podczas test\u00F3w na torze Kyalami w Republice Po\u0142udniowej Afryki) \u2013 by\u0142 ameryka\u0144skim kierowc\u0105 wy\u015Bcigowym."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Peter_Revson_1973_N\u00C3\u0152rburgring_a.JPG?width=300> ;
+	dbo:birthDate	"1939-2-27"^^xsd:date ;
+	dbo:deathDate	"1974-3-22"^^xsd:date ;
+	dbo:deathPlace	dbr:Kyalami ;
+	dbo:wikiPageRevisionID	722662846 ;
+	dbo:birthPlace	dbr:New_York_City ;
+	dbo:wikiPageID	767674 ;
+	dbo:nationality	dbr:American_people ;
+	dbo:wins	"2"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1964_Monaco_Grand_Prix> ;
+	dbo:races	"32"^^xsd:nonNegativeInteger ;
+	dbo:poles	"1"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1974_Brazilian_Grand_Prix> ;
+	dbo:podiums	"8"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Peter_Revson	ns26:hypernym	dbr:Driver ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents ,
+		"Can-Am Champion"^^xsd:string ,
+		dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners .
+<http://dbpedia.org/resource/1972_British_Grand_Prix>	dbo:thirdDriver	dbr:Peter_Revson .
+dbr:Denny_Hulme	dbp:after	dbr:Peter_Revson .
+dbr:George_Follmer	dbp:before	dbr:Peter_Revson .
+dbr:Helmuth_Koinigg	dbp:before	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__2__1>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1970_Watkins_Glen_6_Hours__P3.0__1>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1973_British_Grand_Prix>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1971_Indianapolis_500>	dbp:pole	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1967_Can-Am_season__9=__1>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1970_Can-Am_season__8__1>	dbo:firstDriver	dbr:Peter_Revson .
+<http://dbpedia.org/resource/1971_Can-Am_season__1__1>	dbo:firstDriver	dbr:Peter_Revson .

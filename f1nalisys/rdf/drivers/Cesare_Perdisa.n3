@@ -1,0 +1,131 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1955_Monaco_Grand_Prix>	dbp:thirdDriver	dbr:Cesare_Perdisa .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1956_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Cesare_Perdisa .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Cesare_Perdisa	foaf:primaryTopic	dbr:Cesare_Perdisa .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Cesare_Perdisa	rdf:type	yago:WikicatItalianFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Person ,
+		foaf:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Cesare_Perdisa	rdf:type	schema:Person ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Cesare_Perdisa	rdf:type	wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Cesare_Perdisa	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:WikicatMaseratiFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Cesare_Perdisa	rdf:type	owl:Thing .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Cesare_Perdisa	rdf:type	ns11:Agent ,
+		dbo:MotorsportRacer ,
+		dbo:FormulaOneRacer ,
+		ns11:NaturalPerson ,
+		dbo:Athlete ,
+		dbo:RacingDriver ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		wikidata:Q378622 ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Cesare_Perdisa	rdfs:label	"Cesare Perdisa"@fr ,
+		"Cesare Perdisa"@de ,
+		"Cesare Perdisa"@en ,
+		"Cesare Perdisa"@it ,
+		"Cesare Perdisa"@pl ,
+		"Cesare Perdisa"@nl ,
+		"Cesare Perdisa"@pt ,
+		"\u041F\u0435\u0440\u0434\u0438\u0437\u0430, \u0427\u0435\u0437\u0430\u0440\u0435"@ru ;
+	rdfs:comment	"Cesare Perdisa (Bolonha, 21 de outubro de 1932 \u2013 Bolonha, 10 de maio de 1998) foi um automobilista italiano. Perdisa participou de 7 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1955 e 1957. Seus melhores resultados foram os terceiros lugares em M\u00F4naco em 1955 e na B\u00E9lgica em 1956. Pilotou pelas equipes Scuderia Ferrari e Maserati."@pt ,
+		"\u0427\u0435\u0437\u0430\u0440\u0435 \u041F\u0435\u0440\u0434\u0438\u0437\u0430 (\u0438\u0442\u0430\u043B. Cesare Perdisa, 21 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1932, \u0411\u043E\u043B\u043E\u043D\u044C\u044F \u2014 10 \u043C\u0430\u044F 1998, \u0442\u0430\u043C \u0436\u0435) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0438\u0439 \u0432\u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0441 1955 \u043F\u043E 1957 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Maserati \u0438 Scuderia Ferrari."@ru ,
+		"Cesare Perdisa (Bologna, Itali\u00EB, 21 oktober 1932 \u2013 10 mei 1998) was een Formule 1-coureur uit Itali\u00EB. Hij nam tussen 1955 en 1957 deel aan 8 Grands Prix voor de teams Maserati en Ferrari en scoorde hierin 2 podia en 5 punten."@nl ,
+		"Cesare Perdisa (October 21, 1932 \u2013 May 10, 1998) was a racing driver from Bologna, Italy. He participated in 8 Formula One World Championship Grands Prix, debuting on May 22, 1955. He achieved 2 podiums, and scored a total of 5 championship points."@en ,
+		"Giuseppe Cesare Perdisa (* 21. Oktober 1932 in Bologna; \u2020 10. Mai 1998 ebenda) war ein italienischer Automobilrennfahrer und Gesch\u00E4ftsmann."@de ,
+		"Cesare Perdisa (ur. 21 pa\u017Adziernika 1932 roku w Bolonii, zm. 10 maja 1998 roku w Bolonii) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Cesare Perdisa (n\u00E9 le 21 octobre 1932 \u00E0 Bologne en Italie - mort le 10 mai 1998 dans la m\u00EAme ville) \u00E9tait un pilote automobile italien."@fr ;
+	dbp:points	5 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Cesare_Perdisa	owl:sameAs	dbpedia-pl:Cesare_Perdisa ,
+		dbr:Cesare_Perdisa ,
+		<http://viaf.org/viaf/107148603> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Cesare_Perdisa	owl:sameAs	yago-res:Cesare_Perdisa ,
+		<http://d-nb.info/gnd/140451137> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Cesare_Perdisa	owl:sameAs	dbpedia-fr:Cesare_Perdisa .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Cesare_Perdisa	owl:sameAs	dbpedia-it:Cesare_Perdisa .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Cesare_Perdisa	owl:sameAs	dbpedia-wikidata:Q172138 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Cesare_Perdisa	owl:sameAs	dbpedia-pt:Cesare_Perdisa ,
+		<http://rdf.freebase.com/ns/m.04k7nm> ,
+		wikidata:Q172138 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Cesare_Perdisa	owl:sameAs	dbpedia-de:Cesare_Perdisa .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Cesare_Perdisa	owl:sameAs	dbpedia-nl:Cesare_Perdisa .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Cesare_Perdisa	dct:subject	dbc:Maserati_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:People_from_Bologna ,
+		dbc:Italian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1932_births> ,
+		<http://dbpedia.org/resource/Category:1998_deaths> ,
+		dbc:Italian_racing_drivers ;
+	foaf:name	"Cesare Perdisa"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Cesare"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Cesare_Perdisa ;
+	foaf:surname	"Perdisa"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Cesare_Perdisa	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Cesare_Perdisa?oldid=703964988> ;
+	dbp:birthPlace	dbr:Bologna ,
+		dbr:Italy ;
+	dbp:deathPlace	dbr:Bologna ,
+		dbr:Italy .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Cesare_Perdisa	dbp:birthDate	"1932-10-21"^^xsd:date ;
+	dbp:deathDate	"1998-05-10"^^xsd:date ;
+	dbo:abstract	"Cesare Perdisa (Bologna, Itali\u00EB, 21 oktober 1932 \u2013 10 mei 1998) was een Formule 1-coureur uit Itali\u00EB. Hij nam tussen 1955 en 1957 deel aan 8 Grands Prix voor de teams Maserati en Ferrari en scoorde hierin 2 podia en 5 punten."@nl ,
+		"Cesare Perdisa (October 21, 1932 \u2013 May 10, 1998) was a racing driver from Bologna, Italy. He participated in 8 Formula One World Championship Grands Prix, debuting on May 22, 1955. He achieved 2 podiums, and scored a total of 5 championship points. Significantly younger than the majority of the drivers around at the time, Perdisa often gave his car to his more experienced team-mates when they encountered troubles. This happened, for example, on the 11th lap of the 1956 Belgian Grand Prix, Stirling Moss lost the right rear wheel of his Maserati. Moss brought his car to a stop and ran a quarter of a mile back to the pits where he took over Perdisa's Maserati, which he drove to the finish. In March 1957 Perdisa withdrew from the upcoming 12 Hours of Sebring after the death of his team-mate Eugenio Castellotti. Castellotti died at the Modena Autodrome when he crashed a Ferrari he was testing for the event. Although Perdisa initially claimed he was giving up racing for some time because of the shock he experienced when Castellotti died, he subsequently retired for good. Perdisa was Castellotti's closest friend. After his retirement, Perdisa hit the news again in September 1957 when he rushed Juan Manuel Fangio and his wife, Andrea, to a hospital in Bologna. The couple had been thrown from their 2.5 litre Lancia Aurelia while trying to avoid a truck entering the highway. Travelling at close to 100 mph, Fangio's car had smashed into a utility pole, although he and his wife only sustained bruises."@en ,
+		"Cesare Perdisa (ur. 21 pa\u017Adziernika 1932 roku w Bolonii, zm. 10 maja 1998 roku w Bolonii) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"\u0427\u0435\u0437\u0430\u0440\u0435 \u041F\u0435\u0440\u0434\u0438\u0437\u0430 (\u0438\u0442\u0430\u043B. Cesare Perdisa, 21 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1932, \u0411\u043E\u043B\u043E\u043D\u044C\u044F \u2014 10 \u043C\u0430\u044F 1998, \u0442\u0430\u043C \u0436\u0435) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0438\u0439 \u0432\u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0441 1955 \u043F\u043E 1957 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Maserati \u0438 Scuderia Ferrari."@ru ,
+		"Giuseppe Cesare Perdisa (* 21. Oktober 1932 in Bologna; \u2020 10. Mai 1998 ebenda) war ein italienischer Automobilrennfahrer und Gesch\u00E4ftsmann."@de ,
+		"Cesare Perdisa (Bolonha, 21 de outubro de 1932 \u2013 Bolonha, 10 de maio de 1998) foi um automobilista italiano. Perdisa participou de 7 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1955 e 1957. Seus melhores resultados foram os terceiros lugares em M\u00F4naco em 1955 e na B\u00E9lgica em 1956. Pilotou pelas equipes Scuderia Ferrari e Maserati."@pt ,
+		"Cesare Perdisa (n\u00E9 le 21 octobre 1932 \u00E0 Bologne en Italie - mort le 10 mai 1998 dans la m\u00EAme ville) \u00E9tait un pilote automobile italien."@fr ;
+	dbo:birthDate	"1932-10-21"^^xsd:date ;
+	dbo:deathDate	"1998-5-10"^^xsd:date ;
+	dbo:deathPlace	dbr:Bologna ;
+	dbo:wikiPageRevisionID	703964988 ;
+	dbo:birthPlace	dbr:Bologna ;
+	dbo:wikiPageID	1228258 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Cesare_Perdisa	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1955_Monaco_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1957_Argentine_Grand_Prix> ;
+	dbo:podiums	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"8"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport ,
+		dbr:Scuderia_Ferrari ;
+	dbp:nationality	"Italian"^^xsd:string .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__57__1>	dbo:firstDriver	dbr:Cesare_Perdisa .

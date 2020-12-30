@@ -1,0 +1,139 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__2__1>	dbo:firstDriver	dbr:Walt_Hansgen .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Sherwood_Johnston	dbp:after	dbr:Walt_Hansgen .
+dbr:Bridgehampton_Grand_Prix	dbp:mostWinsDriver	dbr:Walt_Hansgen .
+dbr:Bridgehampton_Sports_Car_Races	dbp:mostWinsDriver	dbr:Walt_Hansgen .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Walt_Hansgen	foaf:primaryTopic	dbr:Walt_Hansgen .
+dbr:Lotus_33	dbp:drivers	dbr:Walt_Hansgen .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Walt_Hansgen	rdf:type	ns6:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Walt_Hansgen	rdf:type	owl:Thing .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Walt_Hansgen	rdf:type	wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Walt_Hansgen	rdf:type	yago:WikicatAmericanFormulaOneDrivers ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatChampCarDrivers ,
+		dbo:FormulaOneRacer ,
+		dbo:RacingDriver ,
+		dbo:MotorsportRacer ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q215627 ,
+		dbo:Person ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		foaf:Person ,
+		yago:Operator110378412 .
+@prefix schema:	<http://schema.org/> .
+dbr:Walt_Hansgen	rdf:type	schema:Person ,
+		wikidata:Q24229398 ,
+		dbo:Agent ,
+		ns6:NaturalPerson ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatRacingDriversFromNewJersey ,
+		wikidata:Q378622 ,
+		dbo:Athlete ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Walt_Hansgen	rdfs:label	"Walt Hansgen"@de ,
+		"Walt Hansgen"@fr ,
+		"Walt Hansgen"@nl ,
+		"Walt Hansgen"@en ,
+		"Walt Hansgen"@pl ,
+		"Walt Hansgen"@it ,
+		"Walt Hansgen"@pt ;
+	rdfs:comment	"Walt Hansgen (Westfield, New Jersey, 28 oktober 1919 - Orl\u00E9ans, Frankrijk, 7 april 1966) was een Formule 1-coureur uit de Verenigde Staten van Amerika. Hij reed in 1961 en 1964 2 Grands Prix voor de teams Lotus en Cooper."@nl ,
+		"Per quanto riguarda la Formula 1 ha preso la partenza nel Gran Premio degli Stati Uniti d'America in due occasioni: nel 1961 e nel 1964."@it ,
+		"Walter Hansgen (ur. 28 pa\u017Adziernika 1919 w Westfield, zm. 7 kwietnia 1966 w Orleanie) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Karier\u0119 zaczyna\u0142 w wy\u015Bcigach ulicznych, w 1961 roku w wieku 41 lat zadebiutowa\u0142 w Formule 1. Zmar\u0142 podczas test\u00F3w Forda GT40 w 1966 roku."@pl ,
+		"Walter Hansgen (Westfield, Nova Jersey,28 de outubro de 1919 \u2014 Orle\u00E3es, 7 de abril de 1966) foi um automobilista franc\u00EAs. Participou dos Grandes Pr\u00EAmios dos Estados Unidos de F\u00F3rmula 1 em 1961 e 1964 pelas equipes Lotus e num Cooper privado. Na prova de 1964, ele terminou em quinto lugar, conquistando 2 pontos no Mundial de Pilotos. Faleceu durante teste nas 24 Horas de Le Mans quando guiava um Ford GT 40."@pt ,
+		"Walter Edwin Hansgen (October 28, 1919, Westfield, New Jersey \u2013 April 7, 1966, Orl\u00E9ans, France) was a racecar driver from the United States. His racing career began as a road racing driver. He was aged forty-one at the time of his Grand Prix debut and forty-six when he died, several days after crashing during testing for the 1966 24 Hours of Le Mans."@en ,
+		"Walt Hansgen, n\u00E9 le 28 octobre 1919 \u00E0 Westfield et mort le 7 avril 1966 \u00E0 l'h\u00F4pital d'Orl\u00E9ans (France) \u00E0 46 ans, \u00E9tait un pilote automobile am\u00E9ricain, essentiellement en voitures de sport sur circuits."@fr ,
+		"Walter \"Walt\" Hansgen (* 28. Oktober 1919 in Westfield; \u2020 7. April 1966 in Orl\u00E9ans) war ein US-amerikanischer Autorennfahrer."@de ;
+	dbp:points	2 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Walt_Hansgen	owl:sameAs	dbpedia-de:Walt_Hansgen .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Walt_Hansgen	owl:sameAs	dbpedia-it:Walt_Hansgen .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Walt_Hansgen	owl:sameAs	yago-res:Walt_Hansgen .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Walt_Hansgen	owl:sameAs	dbpedia-wikidata:Q172412 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Walt_Hansgen	owl:sameAs	dbpedia-fr:Walt_Hansgen ,
+		wikidata:Q172412 ,
+		dbr:Walt_Hansgen .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Walt_Hansgen	owl:sameAs	dbpedia-nl:Walt_Hansgen .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Walt_Hansgen	owl:sameAs	dbpedia-pt:Walt_Hansgen ,
+		<http://rdf.freebase.com/ns/m.04kz2j> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Walt_Hansgen	owl:sameAs	dbpedia-pl:Walt_Hansgen .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Walt_Hansgen	dct:subject	dbc:Team_Lotus_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1966_deaths> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:Sport_deaths_in_France ,
+		dbc:SCCA_National_Championship_Runoffs_winners ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Union_County,_New_Jersey> ,
+		<http://dbpedia.org/resource/Category:1919_births> ,
+		dbc:American_Formula_One_drivers ,
+		dbc:Racing_drivers_from_New_Jersey ,
+		<http://dbpedia.org/resource/Category:People_from_Westfield,_New_Jersey> ;
+	foaf:name	"Walt Hansgen"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Walt"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Walt_Hansgen ;
+	foaf:surname	"Hansgen"@en ;
+	dbp:years	","^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Walt_Hansgen	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Walt_Hansgen?oldid=734854615> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Walt_Hansgen	dbp:birthDate	"1919-10-28"^^xsd:date ;
+	dbp:deathDate	"1966-04-07"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.rrdc.org/> ;
+	dbo:abstract	"Walter \"Walt\" Hansgen (* 28. Oktober 1919 in Westfield; \u2020 7. April 1966 in Orl\u00E9ans) war ein US-amerikanischer Autorennfahrer."@de ,
+		"Walter Hansgen (ur. 28 pa\u017Adziernika 1919 w Westfield, zm. 7 kwietnia 1966 w Orleanie) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy. Karier\u0119 zaczyna\u0142 w wy\u015Bcigach ulicznych, w 1961 roku w wieku 41 lat zadebiutowa\u0142 w Formule 1. Zmar\u0142 podczas test\u00F3w Forda GT40 w 1966 roku."@pl ,
+		"Walter Hansgen (Westfield, Nova Jersey,28 de outubro de 1919 \u2014 Orle\u00E3es, 7 de abril de 1966) foi um automobilista franc\u00EAs. Participou dos Grandes Pr\u00EAmios dos Estados Unidos de F\u00F3rmula 1 em 1961 e 1964 pelas equipes Lotus e num Cooper privado. Na prova de 1964, ele terminou em quinto lugar, conquistando 2 pontos no Mundial de Pilotos. Faleceu durante teste nas 24 Horas de Le Mans quando guiava um Ford GT 40."@pt ,
+		"Walter Edwin Hansgen (October 28, 1919, Westfield, New Jersey \u2013 April 7, 1966, Orl\u00E9ans, France) was a racecar driver from the United States. His racing career began as a road racing driver. He was aged forty-one at the time of his Grand Prix debut and forty-six when he died, several days after crashing during testing for the 1966 24 Hours of Le Mans."@en ,
+		"Per quanto riguarda la Formula 1 ha preso la partenza nel Gran Premio degli Stati Uniti d'America in due occasioni: nel 1961 e nel 1964."@it ,
+		"Walt Hansgen, n\u00E9 le 28 octobre 1919 \u00E0 Westfield et mort le 7 avril 1966 \u00E0 l'h\u00F4pital d'Orl\u00E9ans (France) \u00E0 46 ans, \u00E9tait un pilote automobile am\u00E9ricain, essentiellement en voitures de sport sur circuits."@fr ,
+		"Walt Hansgen (Westfield, New Jersey, 28 oktober 1919 - Orl\u00E9ans, Frankrijk, 7 april 1966) was een Formule 1-coureur uit de Verenigde Staten van Amerika. Hij reed in 1961 en 1964 2 Grands Prix voor de teams Lotus en Cooper."@nl ;
+	dbo:birthDate	"1919-10-28"^^xsd:date ;
+	dbo:deathDate	"1966-4-7"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Orl\u00E9ans> ;
+	dbo:wikiPageRevisionID	734854615 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Westfield,_New_Jersey> ;
+	dbo:wikiPageID	1235953 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Walt_Hansgen	ns24:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1961_United_States_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1964_United_States_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Team_Lotus ,
+		dbr:Cooper_Car_Company ;
+	dbp:nationality	"American"^^xsd:string .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__41st__1>	dbo:firstDriver	dbr:Walt_Hansgen .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__43rd__1>	dbo:firstDriver	dbr:Walt_Hansgen .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__45__1>	dbo:firstDriver	dbr:Walt_Hansgen .
+<http://dbpedia.org/resource/6_Hours_of_Watkins_Glen>	dbp:mostWinsDriver	dbr:Walt_Hansgen .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__50__1>	dbo:firstDriver	dbr:Walt_Hansgen .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__25__1>	dbo:firstDriver	dbr:Walt_Hansgen .
+dbr:Oak_Tree_Grand_Prix	dbp:mostWinsDriver	dbr:Walt_Hansgen .

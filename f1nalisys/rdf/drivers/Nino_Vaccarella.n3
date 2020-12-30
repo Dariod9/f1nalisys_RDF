@@ -1,0 +1,167 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__7__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__55__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__28__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Nino_Vaccarella	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:FormulaOneRacer .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Nino_Vaccarella	rdf:type	ns4:NaturalPerson ,
+		ns4:Agent ,
+		dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Nino_Vaccarella	rdf:type	wikidata:Q24229398 ,
+		dbo:RacingDriver ,
+		wikidata:Q215627 ,
+		wikidata:Q5 ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:Driver110034906 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Nino_Vaccarella	rdf:type	umbel-rc:RaceCarDriver ,
+		umbel-rc:Athlete ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatScuderiaSerenissimaFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Nino_Vaccarella	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		wikidata:Q378622 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Nino_Vaccarella	rdf:type	foaf:Person ,
+		dbo:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Nino_Vaccarella	rdf:type	schema:Person ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Nino_Vaccarella	rdfs:label	"Nino Vaccarella"@es ,
+		"Nino Vaccarella"@de ,
+		"Nino Vaccarella"@nl ,
+		"\u0646\u064A\u0646\u0648 \u0641\u0627\u0643\u0643\u0627\u0631\u064A\u0644\u0627"@ar ,
+		"Nino Vaccarella"@it ,
+		"Nino Vaccarella"@pl ,
+		"Nino Vaccarella"@pt ,
+		"Nino Vaccarella"@en ,
+		"Nino Vaccarella"@fr ,
+		"\u0412\u0430\u043A\u043A\u0430\u0440\u0435\u043B\u043B\u0430, \u041D\u0438\u043D\u043E"@ru ;
+	rdfs:comment	"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0646\u064A\u0646\u0648 \u0641\u0627\u0643\u0643\u0627\u0631\u064A\u0644\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 4 \u0645\u0627\u0631\u0633 1933\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1961. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1961. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 5 \u0633\u0628\u0627\u0642\u0627\u062A."@ar ,
+		"Nino Vaccarella (Palermo, Sicili\u00EB, 4 maart 1933) is een voormalig Italiaans autocoureur. Hij nam tussen 1961 en 1965 deel aan 5 Grands Prix Formule 1 voor de teams Ferrari, De Tomaso, Lotus en Porsche, maar scoorde hierin geen WK-punten. Hij won de 24 uur van Le Mans in 1964, samen met Jean Guichet. Vaccarella was ook driemaal winnaar van de Targa Florio op Sicili\u00EB, in 1965, 1971 en 1975."@nl ,
+		"Nino Vaccarella (* 4. M\u00E4rz 1933 in Palermo) ist ein ehemaliger italienischer Sportwagen- und Formel-1-Fahrer."@de ,
+		"\u041D\u0438\u0301\u043D\u043E \u0412\u0430\u043A\u043A\u0430\u0440\u0435\u0301\u043B\u043B\u0430 (\u0438\u0442\u0430\u043B. Nino Vaccarella, 4 \u043C\u0430\u0440\u0442\u0430 1933, \u041F\u0430\u043B\u0435\u0440\u043C\u043E) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 (1964), 1000 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440\u043E\u0432 \u041D\u044E\u0440\u0431\u0443\u0440\u0433\u0440\u0438\u043D\u0433\u0430, 12 \u0447\u0430\u0441\u043E\u0432 \u0421\u0435\u0431\u0440\u0438\u043D\u0433\u0430, \u0431\u044B\u0432\u0448\u0438\u0439 \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Nino Vaccarella (ur. 4 marca 1933 roku w Palermo) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Nino Vaccarella (nacido el 4 de marzo de 1933, en Palermo, Sicilia) es un piloto de automovilismo italiano retirado, que se destac\u00F3 en las carreras de resistencia. Cosech\u00F3 varias victorias, destac\u00E1ndose en la Targa Florio en 1965, 1971 y 1975, las 24 Horas de Le Mans en 1964, las 12 Horas de Sebring de 1970 y los 1000 km de N\u00FCrburgring de 1964. Tambi\u00E9n, particip\u00F3 en 4 carreras de la F\u00F3rmula 1 entre 1961 y 1965, pero sin sumar ning\u00FAn punto. Durante la mayor parte Vaccarella corri\u00F3 para las marcas Alfa Romeo y Ferrari, aunque tambi\u00E9n compiti\u00F3 con autos Maserati, Ford, Lancia, entre otros."@es ,
+		"Nino Vaccarella (Palermo, 4 de mar\u00E7o de 1933) \u00E9 um ex-piloto italiano de F\u00F3rmula 1. Correu entre 1961 e 1962, retornando em 1965, mas nunca marcou pontos na categoria. Venceu a 24 Horas de Le Mans 1964 junto com Jean Guichet."@pt ,
+		"Nino VaccarellaFichier:Vaccarella, Nino 1972-07-07.jpg Nino Vaccarella au Nurburgring en 1972. Nino Vaccarella (n\u00E9 le 4 mars 1933 \u00E0 Palerme, en Sicile) est un pilote automobile italien."@fr ,
+		"Nino Vaccarella (born 4 March 1933 in Palermo, Sicily) is an Italian former sports car racing and Formula One driver. His principal achievements include winning the 1964 24 Hours of Le Mans, and the Targa Florio in 1965, 1971 and 1975, when it no longer was a World Sportscar Championship event."@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Nino_Vaccarella	dbp:points	0 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Nino_Vaccarella	owl:sameAs	dbpedia-pl:Nino_Vaccarella ,
+		<http://rdf.freebase.com/ns/m.04kvt_> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Nino_Vaccarella	owl:sameAs	dbpedia-pt:Nino_Vaccarella .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Nino_Vaccarella	owl:sameAs	dbpedia-de:Nino_Vaccarella ,
+		dbr:Nino_Vaccarella .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Nino_Vaccarella	owl:sameAs	dbpedia-fr:Nino_Vaccarella ,
+		wikidata:Q173443 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Nino_Vaccarella	owl:sameAs	dbpedia-nl:Nino_Vaccarella .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Nino_Vaccarella	owl:sameAs	dbpedia-it:Nino_Vaccarella .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Nino_Vaccarella	owl:sameAs	yago-res:Nino_Vaccarella .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Nino_Vaccarella	owl:sameAs	dbpedia-wikidata:Q173443 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Nino_Vaccarella	owl:sameAs	dbpedia-es:Nino_Vaccarella .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Nino_Vaccarella	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Nino_Vaccarella	dct:subject	dbc:Living_people ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Sportspeople_from_Palermo ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Scuderia_Serenissima_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		<http://dbpedia.org/resource/Category:1933_births> ;
+	foaf:name	"Nino Vaccarella"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Vaccarella,_Nino_1972-07-07.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Nino"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Nino_Vaccarella	foaf:isPrimaryTopicOf	wikipedia-en:Nino_Vaccarella ;
+	foaf:surname	"Vaccarella"@en ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners ;
+	dbp:years	"-,"^^xsd:string ,
+		dbr:Jean_Guichet ,
+		1964 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Nino_Vaccarella	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Nino_Vaccarella?oldid=742745639> ;
+	dbp:before	dbr:Ludovico_Scarfiotti ,
+		dbr:Lorenzo_Bandini ;
+	dbp:after	dbr:Masten_Gregory ,
+		dbr:Jochen_Rindt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Nino_Vaccarella	dbp:birthDate	"1933-03-04"^^xsd:date ;
+	dbo:abstract	"Nino Vaccarella (born 4 March 1933 in Palermo, Sicily) is an Italian former sports car racing and Formula One driver. His principal achievements include winning the 1964 24 Hours of Le Mans, and the Targa Florio in 1965, 1971 and 1975, when it no longer was a World Sportscar Championship event."@en ,
+		"Nino Vaccarella (Palermo, 4 de mar\u00E7o de 1933) \u00E9 um ex-piloto italiano de F\u00F3rmula 1. Correu entre 1961 e 1962, retornando em 1965, mas nunca marcou pontos na categoria. Venceu a 24 Horas de Le Mans 1964 junto com Jean Guichet."@pt ,
+		"Nino VaccarellaFichier:Vaccarella, Nino 1972-07-07.jpg Nino Vaccarella au Nurburgring en 1972. Nino Vaccarella (n\u00E9 le 4 mars 1933 \u00E0 Palerme, en Sicile) est un pilote automobile italien."@fr ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0646\u064A\u0646\u0648 \u0641\u0627\u0643\u0643\u0627\u0631\u064A\u0644\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 4 \u0645\u0627\u0631\u0633 1933\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1961. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1961. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 5 \u0633\u0628\u0627\u0642\u0627\u062A."@ar ,
+		"Nino Vaccarella (Palermo, Sicili\u00EB, 4 maart 1933) is een voormalig Italiaans autocoureur. Hij nam tussen 1961 en 1965 deel aan 5 Grands Prix Formule 1 voor de teams Ferrari, De Tomaso, Lotus en Porsche, maar scoorde hierin geen WK-punten. Hij won de 24 uur van Le Mans in 1964, samen met Jean Guichet. Vaccarella was ook driemaal winnaar van de Targa Florio op Sicili\u00EB, in 1965, 1971 en 1975."@nl ,
+		"Nino Vaccarella (nacido el 4 de marzo de 1933, en Palermo, Sicilia) es un piloto de automovilismo italiano retirado, que se destac\u00F3 en las carreras de resistencia. Cosech\u00F3 varias victorias, destac\u00E1ndose en la Targa Florio en 1965, 1971 y 1975, las 24 Horas de Le Mans en 1964, las 12 Horas de Sebring de 1970 y los 1000 km de N\u00FCrburgring de 1964. Tambi\u00E9n, particip\u00F3 en 4 carreras de la F\u00F3rmula 1 entre 1961 y 1965, pero sin sumar ning\u00FAn punto. Durante la mayor parte Vaccarella corri\u00F3 para las marcas Alfa Romeo y Ferrari, aunque tambi\u00E9n compiti\u00F3 con autos Maserati, Ford, Lancia, entre otros."@es ,
+		"Nino Vaccarella (* 4. M\u00E4rz 1933 in Palermo) ist ein ehemaliger italienischer Sportwagen- und Formel-1-Fahrer."@de ,
+		"\u041D\u0438\u0301\u043D\u043E \u0412\u0430\u043A\u043A\u0430\u0440\u0435\u0301\u043B\u043B\u0430 (\u0438\u0442\u0430\u043B. Nino Vaccarella, 4 \u043C\u0430\u0440\u0442\u0430 1933, \u041F\u0430\u043B\u0435\u0440\u043C\u043E) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 (1964), 1000 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440\u043E\u0432 \u041D\u044E\u0440\u0431\u0443\u0440\u0433\u0440\u0438\u043D\u0433\u0430, 12 \u0447\u0430\u0441\u043E\u0432 \u0421\u0435\u0431\u0440\u0438\u043D\u0433\u0430, \u0431\u044B\u0432\u0448\u0438\u0439 \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Nino Vaccarella (ur. 4 marca 1933 roku w Palermo) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Vaccarella,_Nino_1972-07-07.jpg?width=300> ;
+	dbo:birthDate	"1933-3-4"^^xsd:date ;
+	dbo:wikiPageRevisionID	742745639 ;
+	dbo:birthPlace	dbr:Palermo ;
+	dbo:wikiPageID	1235134 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Nino_Vaccarella	ns26:hypernym	dbr:Racing ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1961_Italian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1965_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"5"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Ferrari, non-works De Tomaso, Lotus, Porsche"^^xsd:string ;
+	dbp:nationality	"Italian"^^xsd:string .
+dbr:Lorenzo_Bandini	dbp:after	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1961_Coppa_Italia>	dbo:thirdDriver	dbr:Nino_Vaccarella ;
+	dbo:fastestDriver	dbr:Nino_Vaccarella ;
+	dbo:poleDriver	dbr:Nino_Vaccarella .
+wikipedia-en:Nino_Vaccarella	foaf:primaryTopic	dbr:Nino_Vaccarella .
+dbr:Jean_Guichet	dbp:years	dbr:Nino_Vaccarella .
+dbr:Ludovico_Scarfiotti	dbp:after	dbr:Nino_Vaccarella .
+dbr:Masten_Gregory	dbp:before	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__27__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+dbr:Porsche_718	dbp:drivers	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__S5.0__9>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__34__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__50__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1970_1000km_of_Monza__2__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1970_1000km_of_N\u00FCrburgring__3__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1970_1000km_of_Spa-Francorchamps__4__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__1__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1970_Targa_Florio__3__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+dbr:Nino_Vacarella	dbo:wikiPageRedirects	dbr:Nino_Vaccarella .
+dbr:Vacarella	dbo:wikiPageRedirects	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__28__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__5__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__48__1>	dbo:firstDriver	dbr:Nino_Vaccarella .
+dbr:Vaccarella	dbo:wikiPageDisambiguates	dbr:Nino_Vaccarella .

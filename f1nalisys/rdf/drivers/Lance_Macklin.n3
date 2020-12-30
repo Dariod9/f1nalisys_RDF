@@ -1,0 +1,138 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	dbp:before	dbr:Lance_Macklin .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Lance_Macklin	rdf:type	dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lance_Macklin	rdf:type	yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneRacer .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Lance_Macklin	rdf:type	foaf:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Person ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Lance_Macklin	rdf:type	ns6:NaturalPerson .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lance_Macklin	rdf:type	owl:Thing .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lance_Macklin	rdf:type	wikidata:Q215627 ,
+		dbo:Athlete ,
+		yago:Driver110034906 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Lance_Macklin	rdf:type	schema:Person ,
+		ns6:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Lance_Macklin	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q5 ,
+		dbo:Agent ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		wikidata:Q378622 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lance_Macklin	rdfs:label	"Lance Macklin"@en ,
+		"Lance Macklin"@it ,
+		"Lance Macklin"@de ,
+		"Lance Macklin"@fr ,
+		"Lance Macklin"@pl ,
+		"Lance Macklin"@pt ,
+		"Lance Macklin"@nl ;
+	rdfs:comment	"Lance Macklin (* 2. September 1919 in London; \u2020 29. August 2002 in Bethersden, Kent) war ein englischer Rennfahrer."@de ,
+		"Lance Macklin (Londen, 2 september 1919 - Tenterden, Kent, 29 augustus 2002) was een Britse Formule 1-coureur. Macklin nam tussen 1952 en 1955 deel aan vijftien Grands Prix voor de teams van HWM en Maserati, maar scoorde hierin geen punten. In 1955 was hij betrokken bij de dodelijke crash van Pierre Levegh in de 24 uur van Le Mans, waarin Levegh en 82 bezoekers om het leven kwamen."@nl ,
+		"Lance Noel Macklin (ur. 2 wrze\u015Bnia 1919 roku w Kensington w Londynie, zm. 29 sierpnia 2002 roku w Bethersden w Kent) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Lance Noel Macklin (2 September 1919 \u2013 29 August 2002) was a British racing driver from England. He participated in 15 Formula One World Championship Grands Prix, debuting on 18 May 1952."@en ,
+		"Francis Noel Lancelot Campbell Macklin (Kensington, Londres, Inglaterra, 2 de setembro de 1919 \u2013 Tenterden, Kent, Inglaterra, 29 de agosto de 2002) foi um automobilista ingl\u00EAs que participou de 15 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1952 e 1955."@pt ,
+		"Lance Macklin est un coureur automobile anglais n\u00E9 le 2 septembre 1919 \u00E0 Kensington et mort le 29 ao\u00FBt 2002 \u00E0 Tenterden dans le Kent. Il a particip\u00E9 \u00E0 quinze Grand Prix comptant pour le championnat du monde de Formule 1 d\u00E9butant le 18 mai 1952 au Grand Prix de Suisse. Il n'a pas marqu\u00E9 de point au Championnat du Monde, principalement en raison de la non-comp\u00E9titivit\u00E9 des voitures HWM mais au Mans en 1951 il finit troisi\u00E8me du classement g\u00E9n\u00E9ral au volant d'une Aston Martin DB2, c'est \u00E0 partir de ce fait d'armes que Macklin commen\u00E7a \u00E0 se faire un nom dans la course Automobile. Il a \u00E9galement couru dans 36 courses hors championnats. Son meilleur r\u00E9sultat a \u00E9t\u00E9 r\u00E9alis\u00E9 en gagnant la course hors-championnat BRDC International Trophy \u00E0 Silverstone en 1952."@fr ,
+		"Oltre che nelle competizioni per le monoposto, con le quali il risultato di maggior prestigio \u00E8 la vittoria alla BRDC International Trophy del 1952, gara non valida per il Campionato Mondiale, ha gareggiato anche con le vetture a ruote coperte, partecipando a diverse edizioni della 24 Ore di Le Mans, compresa quella funesta del 1955 in cui involontariamente innesc\u00F2 l'incidente in cui morirono Pierre Levegh e 84 spettatori. In seguito, dopo essere stato coinvolto in un secondo incidente durante il Tourist Trophy automobilistico, si ritir\u00F2 dalle competizioni."@it .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lance_Macklin	dbp:birthDate	"1919-09-02"^^xsd:date ;
+	owl:sameAs	dbr:Lance_Macklin .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Lance_Macklin	owl:sameAs	dbpedia-cs:Lance_Macklin .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lance_Macklin	owl:sameAs	dbpedia-fr:Lance_Macklin .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Lance_Macklin	owl:sameAs	dbpedia-pt:Lance_Macklin .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Lance_Macklin	owl:sameAs	dbpedia-pl:Lance_Macklin ,
+		<http://rdf.freebase.com/ns/m.04kv6b> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lance_Macklin	owl:sameAs	yago-res:Lance_Macklin .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lance_Macklin	owl:sameAs	dbpedia-it:Lance_Macklin .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Lance_Macklin	owl:sameAs	dbpedia-wikidata:Q172199 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lance_Macklin	owl:sameAs	dbpedia-de:Lance_Macklin .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Lance_Macklin	owl:sameAs	dbpedia-nl:Lance_Macklin ,
+		wikidata:Q172199 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lance_Macklin	dct:subject	dbc:People_from_Kensington ,
+		dbc:Place_of_birth_missing ,
+		<http://dbpedia.org/resource/Category:2002_deaths> ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Hersham_and_Walton_Motors_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1919_births> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:People_educated_at_Eton_College ,
+		dbc:Disease-related_deaths_in_England ;
+	foaf:name	"Lance Macklin"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Lance"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Lance_Macklin	foaf:isPrimaryTopicOf	wikipedia-en:Lance_Macklin ;
+	foaf:surname	"Macklin"@en ;
+	dbp:points	0 ;
+	dbp:years	"\u2013"^^xsd:string ,
+		1952 ;
+	dbp:after	dbr:Mike_Hawthorn ;
+	<http://dbpedia.org/property/team(s)_>	"privateer Maserati"^^xsd:string ,
+		dbr:Hersham_and_Walton_Motors .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lance_Macklin	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lance_Macklin?oldid=703977194> ;
+	dbp:deathDate	"2002-08-29"^^xsd:date ;
+	dbp:before	dbr:Reg_Parnell ;
+	dbo:abstract	"Francis Noel Lancelot Campbell Macklin (Kensington, Londres, Inglaterra, 2 de setembro de 1919 \u2013 Tenterden, Kent, Inglaterra, 29 de agosto de 2002) foi um automobilista ingl\u00EAs que participou de 15 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1952 e 1955."@pt ,
+		"Oltre che nelle competizioni per le monoposto, con le quali il risultato di maggior prestigio \u00E8 la vittoria alla BRDC International Trophy del 1952, gara non valida per il Campionato Mondiale, ha gareggiato anche con le vetture a ruote coperte, partecipando a diverse edizioni della 24 Ore di Le Mans, compresa quella funesta del 1955 in cui involontariamente innesc\u00F2 l'incidente in cui morirono Pierre Levegh e 84 spettatori. In seguito, dopo essere stato coinvolto in un secondo incidente durante il Tourist Trophy automobilistico, si ritir\u00F2 dalle competizioni."@it ,
+		"Lance Macklin est un coureur automobile anglais n\u00E9 le 2 septembre 1919 \u00E0 Kensington et mort le 29 ao\u00FBt 2002 \u00E0 Tenterden dans le Kent. Il a particip\u00E9 \u00E0 quinze Grand Prix comptant pour le championnat du monde de Formule 1 d\u00E9butant le 18 mai 1952 au Grand Prix de Suisse. Il n'a pas marqu\u00E9 de point au Championnat du Monde, principalement en raison de la non-comp\u00E9titivit\u00E9 des voitures HWM mais au Mans en 1951 il finit troisi\u00E8me du classement g\u00E9n\u00E9ral au volant d'une Aston Martin DB2, c'est \u00E0 partir de ce fait d'armes que Macklin commen\u00E7a \u00E0 se faire un nom dans la course Automobile. Il a \u00E9galement couru dans 36 courses hors championnats. Son meilleur r\u00E9sultat a \u00E9t\u00E9 r\u00E9alis\u00E9 en gagnant la course hors-championnat BRDC International Trophy \u00E0 Silverstone en 1952. Il a particip\u00E9 \u00E0 six \u00E9ditions des 24 Heures du Mans. Il a \u00E9t\u00E9 impliqu\u00E9 dans la catastrophe du Mans 1955. Dans la troisi\u00E8me heure de course, Pierre Levegh (no 20) conc\u00E8de un tour au leader Mike Hawthorn (Jaguar no 6), alors engag\u00E9 dans une intense bataille avec Juan Manuel Fangio (Mercedes no 19). \u00C0 l'entame de la ligne droite des stands, le trio rejoint l'Austin Healey de Lance Macklin (no 26), sensiblement plus lente. Hawthorn est le premier \u00E0 doubler Macklin, mais il se rabat imm\u00E9diatement devant lui pour p\u00E9n\u00E9trer dans la voie des stands. Surpris par cette man\u0153uvre \"queue de poisson\", Macklin freine fort et fait un important \u00E9cart \u00E0 gauche pour \u00E9viter la Jaguar. Lanc\u00E9 \u00E0 pleine vitesse, \u00E0 gauche de la piste, Pierre Levegh ne peut \u00E9viter Macklin, m\u00EAme si des traces de freinage seront relev\u00E9es. La Mercedes de Levegh - prenant l'Austin-Healey comme un tremplin - d\u00E9colle litt\u00E9ralement sous l'effet du choc avant de s'\u00E9craser et de rebondir \u00E0 plusieurs reprises sur le talus s\u00E9parant la piste des tribunes. Levegh est tu\u00E9 sur le coup tandis que des \u00E9l\u00E9ments de la Mercedes (notamment le moteur, le train avant, et le capot) sont projet\u00E9s dans le public, tuant plus de 80 spectateurs. Cet \u00E9v\u00E9nement reste \u00E0 ce jour le plus grand drame de l'histoire du sport automobile. Bien que sa voiture soit endommag\u00E9e, Lance Macklin n'est pas bless\u00E9. Plus tard, dans un accident au Tourist Trophy \u00E0 Dundrod, dans laquelle MacKlin quitte la route volontairement avec sa Austin-Healey 100S pour \u00E9viter l'accident o\u00F9 Jim Mayers et William T Smith se tuent, tr\u00E8s traumatis\u00E9 moralement, il d\u00E9cide de se retirer d\u00E9finitivement des sports automobiles.Il poursuivra une carri\u00E8re dans l'automobile, mais bien plus tranquillement en entrant au service exportation de la derni\u00E8re marque fran\u00E7aise de prestige Facel V\u00E9ga."@fr ,
+		"Lance Macklin (Londen, 2 september 1919 - Tenterden, Kent, 29 augustus 2002) was een Britse Formule 1-coureur. Macklin nam tussen 1952 en 1955 deel aan vijftien Grands Prix voor de teams van HWM en Maserati, maar scoorde hierin geen punten. In 1955 was hij betrokken bij de dodelijke crash van Pierre Levegh in de 24 uur van Le Mans, waarin Levegh en 82 bezoekers om het leven kwamen."@nl ,
+		"Lance Noel Macklin (2 September 1919 \u2013 29 August 2002) was a British racing driver from England. He participated in 15 Formula One World Championship Grands Prix, debuting on 18 May 1952."@en ,
+		"Lance Noel Macklin (ur. 2 wrze\u015Bnia 1919 roku w Kensington w Londynie, zm. 29 sierpnia 2002 roku w Bethersden w Kent) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Lance Macklin (* 2. September 1919 in London; \u2020 29. August 2002 in Bethersden, Kent) war ein englischer Rennfahrer."@de ;
+	dbo:birthDate	"1919-9-2"^^xsd:date ;
+	dbo:deathDate	"2002-8-29"^^xsd:date ;
+	dbo:deathPlace	dbr:Kent ;
+	dbo:wikiPageRevisionID	703977194 ;
+	dbo:birthPlace	dbr:London ;
+	dbo:wikiPageID	1234984 ;
+	dbo:nationality	dbr:United_Kingdom ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_Swiss_Grand_Prix> ;
+	dbo:races	"15"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1955_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Lance_Macklin	ns26:hypernym	dbr:Driver ;
+	dbp:title	dbr:BRDC_International_Trophy .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__54__1>	dbo:team	dbr:Lance_Macklin ;
+	dbo:firstDriver	dbr:Lance_Macklin .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__50__1>	dbo:firstDriver	dbr:Lance_Macklin .
+wikipedia-en:Lance_Macklin	foaf:primaryTopic	dbr:Lance_Macklin .
+dbr:Reg_Parnell	dbp:after	dbr:Lance_Macklin .
+dbr:Aston_Martin__1951__1	dbo:firstDriver	dbr:Lance_Macklin .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__20__1>	dbo:firstDriver	dbr:Lance_Macklin .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__3__1>	dbo:firstDriver	dbr:Lance_Macklin .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__19__1>	dbo:firstDriver	dbr:Lance_Macklin .
+dbr:Aston_Martin__1950__1	dbo:firstDriver	dbr:Lance_Macklin .

@@ -1,0 +1,220 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1969_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1971_Austrian_Grand_Prix>	dbo:fastestDriver	dbr:Jo_Siffert ;
+	dbo:poleDriver	dbr:Jo_Siffert ;
+	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1971_United_States_Grand_Prix>	dbo:secondDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1967_Syracuse_Grand_Prix>	dbo:thirdDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1967_Race_of_Champions>	dbo:thirdDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1969_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Jo_Siffert .
+dbr:Siffert_Racing_Team	dbo:wikiPageRedirects	dbr:Jo_Siffert .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Brabham_BT11	dbp:team	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1964_Mediterranean_Grand_Prix>	dbo:poleDriver	dbr:Jo_Siffert ;
+	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1966_South_African_Grand_Prix>	dbo:secondDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1963_Imola_Grand_Prix>	dbo:secondDriver	dbr:Jo_Siffert .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jo_Siffert	foaf:primaryTopic	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1963_Syracuse_Grand_Prix>	dbo:fastestDriver	dbr:Jo_Siffert ;
+	dbo:poleDriver	dbr:Jo_Siffert ;
+	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1971_World_Championship_Victory_Race>	dbo:poleDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1965_Mediterranean_Grand_Prix>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1968_Mexican_Grand_Prix>	dbo:fastestDriver	dbr:Jo_Siffert ;
+	dbo:poleDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1968_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1964_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Jo_Siffert .
+dbr:Lotus_24	dbp:team	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__49__1>	dbo:firstDriver	dbr:Jo_Siffert .
+dbr:Roger_Williamson	dbp:before	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1968_British_Grand_Prix>	dbo:fastestDriver	dbr:Jo_Siffert ;
+	dbo:firstDriver	dbr:Jo_Siffert .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Jo_Siffert	rdf:type	dbo:Person ,
+		dbo:FormulaOneRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jo_Siffert	rdf:type	yago:Racer110502576 ,
+		dbo:MotorsportRacer ,
+		foaf:Person ,
+		yago:PhysicalEntity100001930 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jo_Siffert	rdf:type	ns7:Agent ,
+		dbo:Agent ,
+		ns7:NaturalPerson ,
+		yago:WikicatScuderiaFilipinettiFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jo_Siffert	rdf:type	umbel-rc:RaceCarDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jo_Siffert	rdf:type	wikidata:Q215627 ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Jo_Siffert	rdf:type	schema:Person ,
+		wikidata:Q24229398 ,
+		yago:WikicatSwissFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		dbo:Athlete ,
+		yago:WikicatSwissMotorcycleRacers ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		wikidata:Q378622 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jo_Siffert	rdf:type	owl:Thing ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		umbel-rc:Athlete ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jo_Siffert	rdfs:label	"Jo Siffert"@pt ,
+		"Joseph Siffert"@fr ,
+		"Jo Siffert"@nl ,
+		"Jo Siffert"@pl ,
+		"Jo Siffert"@it ,
+		"\u0417\u0438\u0444\u0444\u0435\u0440\u0442, \u0419\u043E"@ru ,
+		"\u30B8\u30E7\u30FC\u30FB\u30B7\u30D5\u30A7\u30FC\u30EB"@ja ,
+		"Joseph Siffert"@de ,
+		"Jo Siffert"@en ,
+		"Jo Siffert"@es ;
+	rdfs:comment	"Joseph Siffert (Fribourg, 7 juli 1936 \u2013 Brands Hatch, Engeland, 24 oktober 1971) was een Zwitsers autocoureur. Tussen 1962 en 1971 nam hij deel aan 100 Grands Prix Formule 1 voor de teams Lotus, Brabham, Rob Walker Racing Team, March Engineering en BRM en scoorde hierin 2 overwinningen, 4 snelste ronden, 6 podia en 68 WK-punten. Hij overleed door een ongeluk tijdens de World Championship Victory Race op Brands Hatch, het circuit waar hij zijn eerste Formule 1-overwinning behaalde."@nl ,
+		"Joseph \u201EJo\u201D Siffert (ur. 7 lipca 1936 roku we Fryburgu, zm. 24 pa\u017Adziernika 1971 roku na torze Brands Hatch) \u2013 szwajcarski motocyklista i kierowca wy\u015Bcigowy. Znany r\u00F3wnie\u017C pod przydomkiem Seppi."@pl ,
+		"\u0419\u043E \u0417\u0438\u0301\u0444\u0444\u0435\u0440\u0442 (\u043D\u0435\u043C. Jo Siffert; 7 \u0438\u044E\u043B\u044F 1936 \u2014 24 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1971) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u043E\u0431\u0438\u0432\u0430\u0432\u0448\u0438\u0439\u0441\u044F \u0443\u0441\u043F\u0435\u0445\u043E\u0432 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1, \u0433\u043E\u043D\u043A\u0430\u0445 24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio 1970 \u0433\u043E\u0434\u0430. \u041F\u0435\u0440\u0432\u044B\u0439 \u043F\u0438\u043B\u043E\u0442 \u0438\u0437 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438, \u0432\u044B\u0438\u0433\u0440\u0430\u0432\u0448\u0438\u0439 \u0433\u043E\u043D\u043A\u0443 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1."@ru ,
+		"Joseph \"Jo\" Siffert (7 July 1936 \u2013 24 October 1971) was a Swiss racing driver. Affectionately known as \"Seppi\" to his family and friends, Siffert was born in Fribourg, Switzerland, the son of a dairy owner. He initially made his name in racing on two wheels, winning the Swiss 350 cc motorcycle championship in 1959, before switching to four wheels with a Formula Junior Stanguellini. Siffert graduated to Formula One as a privateer in 1962, with a four-cylinder Lotus-Climax. He later moved to Swiss team Scuderia Filipinetti, and in 1964 joined Rob Walker's private British Rob Walker Racing Team. Early successes included victories in the non-Championship 1964 and 1965 Mediterranean Grands Prix, both times beating Jim Clark by a very narrow margin. Siffert was married twice and to his second wi"@en ,
+		"Nella sua carriera ha preso parte a diversi campionati di Formula 1, riuscendo anche a vincere due Gran Premi. Pilota veloce e molto abile nel risparmiare il mezzo meccanico, riusc\u00EC a capitalizzare queste sue doti nelle gare di durata, in cui ottenne vari trionfi: la 24 Ore di Daytona e la 12 Ore di Sebring nel 1968, la 6 Ore di Watkins Glen nel 1969 e 1970 e la Targa Florio nel 1970."@it ,
+		"Joseph Siffert (Friburgo, Suiza, 7 de julio de 1936 \u2013 Kent, Inglaterra, Reino Unido, 24 de octubre de 1971) fue un piloto de automovilismo de velocidad suizo. Se destac\u00F3 en las carreras de resistencia, ganando 14 carreras en el Campeonato Mundial de Resistencia, incluyendo los 1000 km de N\u00FCrburgring de 1968 y 1969, las 24 Horas de Daytona de 1968, la Targa Florio de 1970, y las 12 Horas de Sebring de 1968."@es ,
+		"\u30B8\u30E7\u30BC\u30D5\u30FB\"\u30B8\u30E7\u30FC\"\u30FB\u30B7\u30D5\u30A7\u30FC\u30EB\uFF08Joseph \"Jo\" Siffert, 1936\u5E747\u67087\u65E5 - 1971\u5E7410\u670824\u65E5\uFF09\u306F\u3001\u30B9\u30A4\u30B9\u51FA\u8EAB\u306E\u30AB\u30FC\u30EC\u30FC\u30B5\u30FC\u3002\u65E5\u672C\u8A9E\u3067\u306F\u300C\u30B8\u30E7\u30FC\u30FB\u30B7\u30D5\u30A1\u30FC\u30C8\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002\u6E3E\u540D\u306F\u300C\u30BB\u30C3\u30D4\u30A3\uFF08seppi\uFF09\u300D\u300C\u30AF\u30EC\u30A4\u30B8\u30FC\u30FB\u30B9\u30A4\u30B9\u300D\u3002 F1\u3067\u306F\u30B9\u30A4\u30B9\u4EBA\u521D\u52DD\u5229\u3092\u542B\u3081\u30662\u52DD\u3092\u8A18\u9332\u3002\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u4E16\u754C\u9078\u624B\u6A29\u3067\u306F\u30DD\u30EB\u30B7\u30A7\u306E\u30A8\u30FC\u30B9\u30C9\u30E9\u30A4\u30D0\u30FC\u3068\u3057\u3066\u6D3B\u8E8D\u3057\u3001\u30AB\u30CA\u30C7\u30A3\u30A2\u30F3-\u30A2\u30E1\u30EA\u30AB\u30F3\u30FB\u30C1\u30E3\u30EC\u30F3\u30B8\u30AB\u30C3\u30D7 (Can-Am) \u306B\u3082\u51FA\u5834\u3057\u305F \u30021971\u5E74\u306E\u30CE\u30F3\u30BF\u30A4\u30C8\u30EBF1\u30EC\u30FC\u30B9\u3067\u4E8B\u6545\u6B7B\u3057\u305F\u3002"@ja ,
+		"Joseph Siffert (Friburgo, 7 de Julho de 1936 \u2014 Brands Hatch, Kent, 24 de Outubro de 1971) foi um piloto de carros de corrida su\u00ED\u00E7o. Siffert era filho de um empres\u00E1rio do ramo de latic\u00EDnios. Inicialmente come\u00E7ou sua carreira correndo sobre duas rodas, no campeonato su\u00ED\u00E7o de motocicletas de 350cc em 1959, e depois mudando para quatro rodas com um F\u00F3rmula J\u00FAnior Stanguellini. Carinhosamente chamado de \"Seppi\" por seus familiares e amigos mais \u00EDntimos, Siffert iniciou na F\u00F3rmula 1 em 1962 com uma Team Lotus-Coventry Climax de quatro cilindros, mais tarde pilotando para a escuderia de bandeira su\u00ED\u00E7a Filipinetti e em 1964 juntou-se \u00E0 equipe particular brit\u00E2nica de corrida de Rob Walker (Rob Walker Racing Team)."@pt ,
+		"Joseph Siffert, couramment appel\u00E9 Jo Siffert dans le milieu automobile et Seppi par ses compatriotes (n\u00E9 le 7 juillet 1936 \u00E0 Fribourg et mort le 24 octobre 1971 sur le circuit de Brands Hatch \u00E0 Longfield), est un pilote automobile suisse. Joseph Siffert meurt asphyxi\u00E9 dans l'incendie de sa monoplace, apr\u00E8s une sortie de piste, lors de la Course de la Victoire, une \u00E9preuve de Formule 1 hors-championnat \u00E0 Brands Hatch. Ses fun\u00E9railles r\u00E9unissent 50 000 personnes dans la ville de Fribourg."@fr ,
+		"Joseph \u201EJo\u201C Siffert (* 7. Juli 1936 in Freiburg im \u00DCechtland; \u2020 24. Oktober 1971 in Brands Hatch, Vereinigtes K\u00F6nigreich) war ein Schweizer Formel-1- und Sportwagen-Rennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jo_Siffert	dbp:birthDate	"1936-07-07"^^xsd:date .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jo_Siffert	owl:sameAs	dbpedia-de:Joseph_Siffert .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jo_Siffert	owl:sameAs	dbpedia-es:Jo_Siffert .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jo_Siffert	owl:sameAs	dbpedia-it:Jo_Siffert .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jo_Siffert	owl:sameAs	dbpedia-pt:Jo_Siffert ,
+		<http://d-nb.info/gnd/118765337> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jo_Siffert	owl:sameAs	dbpedia-nl:Jo_Siffert ,
+		wikidata:Q171531 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jo_Siffert	owl:sameAs	dbpedia-pl:Jo_Siffert ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E7\u30FC\u30FB\u30B7\u30D5\u30A7\u30FC\u30EB> ,
+		dbr:Jo_Siffert .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jo_Siffert	owl:sameAs	dbpedia-fr:Joseph_Siffert .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jo_Siffert	owl:sameAs	yago-res:Jo_Siffert .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jo_Siffert	owl:sameAs	dbpedia-wikidata:Q171531 ,
+		<http://rdf.freebase.com/ns/m.04gx3s> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jo_Siffert	dct:subject	dbc:Rob_Walker_Racing_Team_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		dbc:BRM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1971_deaths> ,
+		dbc:Sport_deaths_in_England ,
+		dbc:Swiss_motorcycle_racers ,
+		dbc:Scuderia_Filipinetti_Formula_One_drivers ,
+		dbc:Swiss_racing_drivers ,
+		dbc:Siffert_Racing_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Swiss_Formula_One_drivers ,
+		dbc:Deaths_by_smoke_inhalation ,
+		dbc:People_from_Fribourg ,
+		<http://dbpedia.org/resource/Category:1936_births> ,
+		dbc:March_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ;
+	foaf:name	"Jo Siffert"@en ,
+		"Joseph Siffert"@en ;
+	foaf:homepage	<http://www.josiffert.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Siffert,_Joseph_1968.jpg> ;
+	dct:description	"Swiss racecar and motorcycle driver"@en ;
+	foaf:givenName	"Joseph"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jo_Siffert ;
+	foaf:surname	"Siffert"@en ;
+	dbp:points	68 ;
+	dbp:years	"1971-10-24"^^xsd:date ,
+		"\u2013"^^xsd:string ;
+	dbp:after	dbr:Roger_Williamson ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Team_Lotus ,
+		dbr:Brabham ,
+		<http://dbpedia.org/resource/Privateer_(motorsport)> ,
+		", Rob Walker Racing Team, March, BRM"^^xsd:string ,
+		"and"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jo_Siffert	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jo_Siffert?oldid=737662487> .
+@prefix ns26:	<https://web.archive.org/web/20110712212444/http:/www.blick.ch/sport/formel1/> .
+dbr:Jo_Siffert	dbo:wikiPageExternalLink	ns26:artikel29881 ,
+		<http://www.josiffert.com/> ,
+		<http://www.josiffert.info/start.htm> ;
+	dbp:caption	"Siffer in 1968"^^xsd:string ;
+	dbp:nationality	"Swiss"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1968_British_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1971_Austrian_Grand_Prix> ;
+	dbp:birthPlace	"Fribourg, Switzerland"^^xsd:string ;
+	dbp:deathDate	"1971-10-24"^^xsd:date ;
+	dbp:before	dbr:Jochen_Rindt ;
+	dbp:deathPlace	"Kent, England"^^xsd:string ;
+	dbo:abstract	"Joseph Siffert, couramment appel\u00E9 Jo Siffert dans le milieu automobile et Seppi par ses compatriotes (n\u00E9 le 7 juillet 1936 \u00E0 Fribourg et mort le 24 octobre 1971 sur le circuit de Brands Hatch \u00E0 Longfield), est un pilote automobile suisse. Issu d'un milieu modeste, il r\u00E9pare des v\u00E9hicules accident\u00E9s et les revend afin de financer sa passion pour les sports m\u00E9caniques. Champion de Suisse de motocyclette en 1959, il dispute \u00E9galement plusieurs comp\u00E9titions internationales en side-car avant de passer au sport automobile. En 1960, il d\u00E9bute en Formule Junior et devient, l'ann\u00E9e suivante, le meilleur repr\u00E9sentant europ\u00E9en de la discipline. Il acc\u00E8de \u00E0 la Formule 1 gr\u00E2ce \u00E0 la Scuderia Filipinetti puis passe chez Rob Walker Racing Team, \u00E9curie qui lui permet de remporter cinq victoires dont deux en championnat du monde. Pilote \u00E9clectique, il dispute plusieurs saisons de Formule 2 en tant que pilote d'usine BMW et se forge un important palmar\u00E8s en endurance en tant que pilote officiel Porsche. Il remporte les plus prestigieuses \u00E9preuves de la discipline comme les 12 Heures de Sebring, les 24 Heures de Daytona, les 6 Heures de Watkins Glen, les 1 000 km du N\u00FCrburgring, les 1 000 km de Monza, les 1 000 km de Spa ou la Targa Florio. Joseph Siffert est, avec 14 victoires en 41 courses, le pilote le plus titr\u00E9 durant la p\u00E9riode 1968-1971 durant laquelle le championnat international des marques se disputait en cat\u00E9gorie Sport (5 litres) et Prototype (3 litres). Il est, avec Clay Regazzoni et Emmanuel de Graffenried, un des trois pilotes suisses \u00E0 avoir remport\u00E9 une victoire en Formule 1. Au cours de sa carri\u00E8re dans la discipline-reine, Jo Siffert a inscrit un total de 68 points et obtenu deux victoires, six podiums, deux pole positions et quatre meilleurs tours en course. Il est consid\u00E9r\u00E9 comme une v\u00E9ritable l\u00E9gende de la course automobile en Suisse. Joseph Siffert meurt asphyxi\u00E9 dans l'incendie de sa monoplace, apr\u00E8s une sortie de piste, lors de la Course de la Victoire, une \u00E9preuve de Formule 1 hors-championnat \u00E0 Brands Hatch. Ses fun\u00E9railles r\u00E9unissent 50 000 personnes dans la ville de Fribourg."@fr ,
+		"Joseph \"Jo\" Siffert (7 July 1936 \u2013 24 October 1971) was a Swiss racing driver. Affectionately known as \"Seppi\" to his family and friends, Siffert was born in Fribourg, Switzerland, the son of a dairy owner. He initially made his name in racing on two wheels, winning the Swiss 350 cc motorcycle championship in 1959, before switching to four wheels with a Formula Junior Stanguellini. Siffert graduated to Formula One as a privateer in 1962, with a four-cylinder Lotus-Climax. He later moved to Swiss team Scuderia Filipinetti, and in 1964 joined Rob Walker's private British Rob Walker Racing Team. Early successes included victories in the non-Championship 1964 and 1965 Mediterranean Grands Prix, both times beating Jim Clark by a very narrow margin. Siffert was married twice and to his second wife Simone during the height of his career in the late 1960s and at the time of his death in 1971. They had two children together, V\u00E9ronique and Philippe."@en ,
+		"Joseph Siffert (Friburgo, 7 de Julho de 1936 \u2014 Brands Hatch, Kent, 24 de Outubro de 1971) foi um piloto de carros de corrida su\u00ED\u00E7o. Siffert era filho de um empres\u00E1rio do ramo de latic\u00EDnios. Inicialmente come\u00E7ou sua carreira correndo sobre duas rodas, no campeonato su\u00ED\u00E7o de motocicletas de 350cc em 1959, e depois mudando para quatro rodas com um F\u00F3rmula J\u00FAnior Stanguellini. Carinhosamente chamado de \"Seppi\" por seus familiares e amigos mais \u00EDntimos, Siffert iniciou na F\u00F3rmula 1 em 1962 com uma Team Lotus-Coventry Climax de quatro cilindros, mais tarde pilotando para a escuderia de bandeira su\u00ED\u00E7a Filipinetti e em 1964 juntou-se \u00E0 equipe particular brit\u00E2nica de corrida de Rob Walker (Rob Walker Racing Team). Em 1968, Siffert entrou para a hist\u00F3ria da F\u00F3rmula 1 ao vencer o Grande Pr\u00EAmio da Gr\u00E3-Bretanha em Brands Hatch em uma Lotus 49B da Rob Walker Racing Team, deixando a Ferrari pilotada por Chris Amon em segundo lugar, depois de uma longa disputa. Enquanto que os bons desempenhos de Siffert na F\u00F3rmula 1 aconteciam lentamente, sua fama surgiu rapidamente ao pilotar o carro para a ind\u00FAstria Porsche no Campeonato Mundial de Sportscar. Em 1968, Siffert e Hans Herrmann venceram as 24 Horas de Daytona e as 12 Horas de Sebring em um Porsche 907, conseguindo a primeira grande vit\u00F3ria para a companhia. Mais tarde, as apresenta\u00E7\u00F5es de Siffert dirigindo um Porsche 917 foram legend\u00E1rias, conseguindo ele vencer as principais corridas na Europa. Al\u00E9m disso, Siffert foi escolhido pela Porsche para ajudar a desenvolver o seu programa para a Canadian-American Challenge Cup (CanAm), pilotando um Porsche 917PA spyder em 1969 e terminando em quarto no campeonato apesar das poucas participa\u00E7\u00F5es. Em 1970 ele se associou com Brian Redman para pilotar um Porsche 908/3 na vit\u00F3ria em Targa Florio. Naquele mesmo ano, a Porsche foi \u00E0 fal\u00EAncia e Siffert foi trabalhar para a March Engineering F1, uma vez que a companhia alem\u00E3 n\u00E3o queria perder um de seus pilotos de destaque para a rival Ferrari. Sua associa\u00E7\u00E3o com a March na F\u00F3rmula 1 foi desastrosa, de modo que ele ficou contente por ter que se juntar ao piloto de corrida Pedro Rodr\u00EDguez da BRM na temporada seguinte. Jo Siffert venceu o Grande Pr\u00EAmio da \u00C1ustria de 1971, mas acabou perdendo a vida em um acidente fora do campeonato, em Brands Hatch, o mesmo local de sua primeira e maior vit\u00F3ria. A suspens\u00E3o de sua BRM havia sido danificada, na primeira volta, em um choque com Ronnie Peterson a acabou mais tarde se partindo. A BRM bateu e Siffert n\u00E3o conseguiu deixar o carro em chamas. Este acidente levou a uma r\u00E1pida revis\u00E3o da seguran\u00E7a dos carros e do circuito. Na posterior investiga\u00E7\u00E3o do RAC (Royal Automobile Club - uma representa\u00E7\u00E3o brit\u00E2nica da FIA naquele tempo), ficou descoberto, que apesar dos ferimentos por ele sofrido n\u00E3o serem fatais, Siffert morreu por falta de oxigena\u00E7\u00E3o e inala\u00E7\u00E3o de fuma\u00E7a t\u00F3xica. Nenhum dos extintores de inc\u00EAndio pr\u00F3ximos ao local do acidente funcionou: e ficou imposs\u00EDvel se alcan\u00E7ar o carro e retirar Siffert. Depois deste fato tornou-se obrigat\u00F3rio a presen\u00E7a de extintores no interior dos carros (usando BCF: Bromoclorodifluorometano: um produto aeron\u00E1utico) e tubo de oxig\u00EAnio para os pilotos, diretamente em seus capacetes. Seu funeral na Su\u00ED\u00E7a foi acompanhado por 50 000 pessoas e um Gulf-Porsche 917 da equipe John Wyer acompanhou o cortejo. Em 2005 foi realizado um document\u00E1rio de 90 minutos sobre sua vida pelo diretor Men Lareida: Jo Siffert - vida r\u00E1pida, morte jovem \"DVD\"."@pt ,
+		"Joseph \u201EJo\u201C Siffert (* 7. Juli 1936 in Freiburg im \u00DCechtland; \u2020 24. Oktober 1971 in Brands Hatch, Vereinigtes K\u00F6nigreich) war ein Schweizer Formel-1- und Sportwagen-Rennfahrer."@de ,
+		"Joseph Siffert (Friburgo, Suiza, 7 de julio de 1936 \u2013 Kent, Inglaterra, Reino Unido, 24 de octubre de 1971) fue un piloto de automovilismo de velocidad suizo. Se destac\u00F3 en las carreras de resistencia, ganando 14 carreras en el Campeonato Mundial de Resistencia, incluyendo los 1000 km de N\u00FCrburgring de 1968 y 1969, las 24 Horas de Daytona de 1968, la Targa Florio de 1970, y las 12 Horas de Sebring de 1968. Adem\u00E1s, Siffert disput\u00F3 96 carreras de F\u00F3rmula 1 entre 1962 y 1971, logrando dos victorias y cuatro podios adicionales, y result\u00F3 quinto en la temporada 1971, s\u00E9ptimo en 1968 y noveno en 1969."@es ,
+		"Joseph Siffert (Fribourg, 7 juli 1936 \u2013 Brands Hatch, Engeland, 24 oktober 1971) was een Zwitsers autocoureur. Tussen 1962 en 1971 nam hij deel aan 100 Grands Prix Formule 1 voor de teams Lotus, Brabham, Rob Walker Racing Team, March Engineering en BRM en scoorde hierin 2 overwinningen, 4 snelste ronden, 6 podia en 68 WK-punten. Hij overleed door een ongeluk tijdens de World Championship Victory Race op Brands Hatch, het circuit waar hij zijn eerste Formule 1-overwinning behaalde."@nl ,
+		"\u0419\u043E \u0417\u0438\u0301\u0444\u0444\u0435\u0440\u0442 (\u043D\u0435\u043C. Jo Siffert; 7 \u0438\u044E\u043B\u044F 1936 \u2014 24 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1971) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u043E\u0431\u0438\u0432\u0430\u0432\u0448\u0438\u0439\u0441\u044F \u0443\u0441\u043F\u0435\u0445\u043E\u0432 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1, \u0433\u043E\u043D\u043A\u0430\u0445 24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430, \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio 1970 \u0433\u043E\u0434\u0430. \u041F\u0435\u0440\u0432\u044B\u0439 \u043F\u0438\u043B\u043E\u0442 \u0438\u0437 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438, \u0432\u044B\u0438\u0433\u0440\u0430\u0432\u0448\u0438\u0439 \u0433\u043E\u043D\u043A\u0443 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1."@ru ,
+		"Nella sua carriera ha preso parte a diversi campionati di Formula 1, riuscendo anche a vincere due Gran Premi. Pilota veloce e molto abile nel risparmiare il mezzo meccanico, riusc\u00EC a capitalizzare queste sue doti nelle gare di durata, in cui ottenne vari trionfi: la 24 Ore di Daytona e la 12 Ore di Sebring nel 1968, la 6 Ore di Watkins Glen nel 1969 e 1970 e la Targa Florio nel 1970. Trov\u00F2 la morte in un incidente nel circuito di Brands Hatch durante la disputa di una gara di F1 non valida per il Campionato Mondiale nella quale si voleva celebrare il secondo titolo di campione del Mondo appena conquistato da Jackie Stewart."@it ,
+		"Joseph \u201EJo\u201D Siffert (ur. 7 lipca 1936 roku we Fryburgu, zm. 24 pa\u017Adziernika 1971 roku na torze Brands Hatch) \u2013 szwajcarski motocyklista i kierowca wy\u015Bcigowy. Znany r\u00F3wnie\u017C pod przydomkiem Seppi."@pl ,
+		"\u30B8\u30E7\u30BC\u30D5\u30FB\"\u30B8\u30E7\u30FC\"\u30FB\u30B7\u30D5\u30A7\u30FC\u30EB\uFF08Joseph \"Jo\" Siffert, 1936\u5E747\u67087\u65E5 - 1971\u5E7410\u670824\u65E5\uFF09\u306F\u3001\u30B9\u30A4\u30B9\u51FA\u8EAB\u306E\u30AB\u30FC\u30EC\u30FC\u30B5\u30FC\u3002\u65E5\u672C\u8A9E\u3067\u306F\u300C\u30B8\u30E7\u30FC\u30FB\u30B7\u30D5\u30A1\u30FC\u30C8\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002\u6E3E\u540D\u306F\u300C\u30BB\u30C3\u30D4\u30A3\uFF08seppi\uFF09\u300D\u300C\u30AF\u30EC\u30A4\u30B8\u30FC\u30FB\u30B9\u30A4\u30B9\u300D\u3002 F1\u3067\u306F\u30B9\u30A4\u30B9\u4EBA\u521D\u52DD\u5229\u3092\u542B\u3081\u30662\u52DD\u3092\u8A18\u9332\u3002\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u4E16\u754C\u9078\u624B\u6A29\u3067\u306F\u30DD\u30EB\u30B7\u30A7\u306E\u30A8\u30FC\u30B9\u30C9\u30E9\u30A4\u30D0\u30FC\u3068\u3057\u3066\u6D3B\u8E8D\u3057\u3001\u30AB\u30CA\u30C7\u30A3\u30A2\u30F3-\u30A2\u30E1\u30EA\u30AB\u30F3\u30FB\u30C1\u30E3\u30EC\u30F3\u30B8\u30AB\u30C3\u30D7 (Can-Am) \u306B\u3082\u51FA\u5834\u3057\u305F \u30021971\u5E74\u306E\u30CE\u30F3\u30BF\u30A4\u30C8\u30EBF1\u30EC\u30FC\u30B9\u3067\u4E8B\u6545\u6B7B\u3057\u305F\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Siffert,_Joseph_1968.jpg?width=300> ;
+	dbo:birthDate	"1936-7-7"^^xsd:date ;
+	dbo:deathDate	"1971-10-24"^^xsd:date ;
+	dbo:deathPlace	dbr:Brands_Hatch ;
+	dbo:wikiPageRevisionID	737662487 ;
+	dbo:birthPlace	dbr:Fribourg ;
+	dbo:wikiPageID	1202290 ;
+	dbo:wins	"2"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"4"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1962_Monaco_Grand_Prix> ;
+	dbo:races	"100"^^xsd:nonNegativeInteger ;
+	dbo:poles	"2"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1971_United_States_Grand_Prix> ;
+	dbo:podiums	"6"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Jo_Siffert	ns27:hypernym	dbr:Affectionately ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__2__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__5__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__43__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__33__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__24__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__18__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__3__1>	dbo:team	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_1000km_of_Brands_Hatch__S5.0__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_1000km_of_Monza__12__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_1000km_of_N\u00FCrburgring__P3.0__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_1000km_of_Spa-Francorchamps__1__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__4__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__DNF__3>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_Austrian_1000km__1__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_Targa_Florio__1__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_Watkins_Glen_6_Hours__2__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__6__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1969_Can-Am_season__4__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1970_Can-Am_season__17=__1>	dbo:firstDriver	dbr:Jo_Siffert .
+<http://dbpedia.org/resource/1971_Can-Am_season__4__1>	dbo:firstDriver	dbr:Jo_Siffert .
+dbr:Jo_siffert	dbo:wikiPageRedirects	dbr:Jo_Siffert .

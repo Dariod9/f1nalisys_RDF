@@ -1,0 +1,312 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Stardust_International_Raceway	dbp:recordDriver	dbr:Bruce_McLaren .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1960_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Bruce_McLaren ;
+	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1963_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren ;
+	dbo:poleDriver	dbr:Bruce_McLaren .
+dbr:Jim_Clark	dbp:before	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1964_Lady_Wigram_Trophy>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1959_Lady_Wigram_Trophy>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1963_Lady_Wigram_Trophy>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1965_Lady_Wigram_Trophy>	dbo:fastestDriver	dbr:Bruce_McLaren ;
+	dbo:secondDriver	dbr:Bruce_McLaren ;
+	dbo:poleDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1963_BRDC_International_Trophy>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1961_International_Gold_Cup>	dbo:thirdDriver	dbr:Bruce_McLaren ;
+	dbo:poleDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1960_Silver_City_Trophy>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Lavant_Cup>	dbo:fastestDriver	dbr:Bruce_McLaren ;
+	dbo:firstDriver	dbr:Bruce_McLaren ;
+	dbo:poleDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1964_Daily_Mirror_Trophy>	dbo:thirdDriver	dbr:Bruce_McLaren .
+@prefix ns3:	<http://dbpedia.org/resource/1979_Arizona_Republic_/> .
+ns3:_Jimmy_Bryan_150	dbp:thirdTeam	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Glover_Trophy>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1963_Glover_Trophy>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1959_United_States_Grand_Prix>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1960_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_South_African_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1963_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1964_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1969_German_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1968_Race_of_Champions>	dbo:fastestDriver	dbr:Bruce_McLaren ;
+	dbo:firstDriver	dbr:Bruce_McLaren ;
+	dbo:poleDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Reims_Grand_Prix>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1961_Aintree_200>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Aintree_200>	dbo:secondDriver	dbr:Bruce_McLaren .
+dbr:Lex_Davison	dbp:after	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1964_Australian_Grand_Prix>	dbp:fastDriver	dbr:Bruce_McLaren .
+dbr:McLaren_Automotive	dbo:foundedBy	dbr:Bruce_McLaren .
+dbr:Chris_Amon	dbp:years	dbr:Bruce_McLaren .
+dbr:John_Surtees	dbp:after	dbr:Bruce_McLaren .
+dbr:Dan_Gurney	dbp:before	dbr:Bruce_McLaren ;
+	dbp:after	dbr:Bruce_McLaren .
+dbr:McLaren	dbp:founders	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1961_Brussels_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1960_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1965_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1968_Belgian_Grand_Prix>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1961_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1963_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1964_Italian_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+dbr:McLaren_M2B__3	dbo:firstDriver	dbr:Bruce_McLaren .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Bruce_McLaren	foaf:primaryTopic	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1968_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Bruce_McLaren	rdf:type	wikidata:Q5 ,
+		dbo:RacingDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Bruce_McLaren	rdf:type	schema:Person ,
+		dbo:MotorsportRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Bruce_McLaren	rdf:type	umbel-rc:RaceCarDriver .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Bruce_McLaren	rdf:type	yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		yago:WikicatNewZealandFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q215627 ,
+		dbo:Person ,
+		wikidata:Q24229398 ,
+		yago:WikicatTasmanSeriesDrivers ,
+		yago:WikicatCooperFormulaOneDrivers .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Bruce_McLaren	rdf:type	ns11:NaturalPerson ,
+		ns11:Agent ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Agent ,
+		dbo:FormulaOneRacer ,
+		foaf:Person ,
+		dbo:Athlete ,
+		yago:WikicatAngloAmericanRacersFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Bruce_McLaren	rdf:type	owl:Thing ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		wikidata:Q378622 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Bruce_McLaren	rdfs:label	"\u30D6\u30EB\u30FC\u30B9\u30FB\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3"@ja ,
+		"Bruce McLaren"@fr ,
+		"Bruce McLaren"@it ,
+		"Bruce McLaren"@pl ,
+		"Bruce McLaren"@pt ,
+		"\u041C\u0430\u043A\u043B\u0430\u0440\u0435\u043D, \u0411\u0440\u044E\u0441"@ru ,
+		"Bruce McLaren"@de ,
+		"\u0628\u0631\u0648\u0633 \u0645\u0627\u0643\u0644\u0627\u0631\u064A\u0646"@ar ,
+		"Bruce McLaren"@nl ,
+		"\u5E03\u9C81\u65AF\u00B7\u9EA6\u514B\u62C9\u4F26"@zh ,
+		"Bruce McLaren"@es ,
+		"Bruce McLaren"@en ;
+	rdfs:comment	"\u5E03\u9C81\u65AF\u00B7\u83B1\u65AF\u5229\u00B7\u9EA6\u514B\u62C9\u4F26\uFF08\u82F1\u8BED\uFF1ABruce Leslie McLaren\uFF0C1937\u5E748\u670830\u65E5-1970\u5E746\u67082\u65E5\uFF09\u662F\u4E00\u4F4D\u65B0\u897F\u5170\u7C4D\u8D5B\u8F66\u8BBE\u8BA1\u5E08\u3001\u8F66\u624B\u3001\u5DE5\u7A0B\u5E08\u548C\u53D1\u660E\u5BB6\u3002 \u4ED6\u521B\u5EFA\u4E86\u4EE5\u81EA\u5DF1\u59D3\u6C0F\u547D\u540D\u7684\u9EA6\u514B\u62C9\u4F26\u8F66\u961F\uFF0C\u8BE5\u8F66\u961F\u8D62\u5F97\u4E8620\u5EA7\u5236\u9020\u5546\u4E16\u754C\u51A0\u519B\u548C\u8F66\u624B\u4E16\u754C\u51A0\u519B\uFF0C\u662F\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u5386\u53F2\u4E0A\u6700\u4E3A\u6210\u529F\u7684\u8F66\u961F\u4E4B\u4E00\u3002\u9EA6\u514B\u62C9\u4F26\u8D5B\u8F66\u8FD8\u4E3B\u5BB0\u8FC7\u52A0\u62FF\u5927-\u7F8E\u56FD\u6311\u6218\u676F\uFF1A56\u573A\u80DC\u5229\uFF08\u5176\u4E2D\u76F8\u5F53\u4E00\u90E8\u5206\u7531\u5E03\u9C81\u65AF\u672C\u4EBA\u9A7E\u9A76\u83B7\u5F97\uFF09\u548C1967\u81F31972\u95F4\u7684\u8F66\u961F\u4E94\u8FDE\u51A0\u3002\u5728\u5370\u7B2C\u5B89\u7EB3\u6CE2\u5229\u65AF500\u300124\u5C0F\u65F6\u52D2\u8292\u4EE5\u53CA12\u5C0F\u65F6\u8D5B\u767E\u7075\u4E2D\uFF0C\u9EA6\u514B\u62C9\u4F26\u8D5B\u8F66\u4E5F\u6709\u591A\u4E2A\u51A0\u519B\u5165\u8D26\u3002"@zh ,
+		"Il suo nome sopravvive nel McLaren Racing Team, uno dei pi\u00F9 importanti del campionato di Formula 1."@it ,
+		"Bruce Leslie McLaren (* 30. August 1937 in Auckland; \u2020 2. Juni 1970 in Goodwood) war ein neuseel\u00E4ndischer Automobilrennfahrer und Begr\u00FCnder des noch heute existierenden Rennstalls McLaren."@de ,
+		"Bruce Leslie McLaren (ur. 30 sierpnia 1937 w Auckland, zm. 2 czerwca 1970 w Goodwood) \u2013 nowozelandzki in\u017Cynier, kierowca wy\u015Bcigowy, technik i wynalazca. Jego nazwisko zosta\u0142o u\u017Cyte w nazwie zespo\u0142u Team McLaren, kt\u00F3ry jest jednym z najbardziej utytu\u0142owanych zespo\u0142\u00F3w w Formule 1. Zesp\u00F3\u0142 McLarena zdoby\u0142 \u0142\u0105cznie 19 tytu\u0142\u00F3w mistrzowskich. Samochody McLarena ca\u0142kowicie zdominowa\u0142y zawody CanAm w latach 1967-1972. Wygrywali 56 razy i pi\u0119\u0107 razy zdobyli tytu\u0142 mistrzowski konstruktor\u00F3w. Wygrali r\u00F3wnie\u017C trzy wy\u015Bcigi Indianapolis 500, wy\u015Bcig Le Mans 24 i Sebring 12."@pl ,
+		"Bruce Leslie McLaren (* Auckland (Nueva Zelanda); 30 de agosto de 1937 \u2013 \u2020 Circuito de Goodwood (Gran Breta\u00F1a); 2 de junio de 1970) fue un dise\u00F1ador, piloto, ingeniero e inventor de autom\u00F3viles de carreras. Actualmente su nombre se sigue recordando en el equipo McLaren de F\u00F3rmula 1, que \u00E9l mismo fund\u00F3 y que es uno de los equipos que m\u00E1s victorias finales ha conseguido, con un total de 19 campeonatos del mundo, s\u00F3lo por detr\u00E1s de Ferrari."@es ,
+		"Bruce Leslie McLaren (30 August 1937 \u2013 2 June 1970) was a New Zealand race-car designer, driver, engineer and inventor. His name lives on in the McLaren team which has been one of the most successful in Formula One championship history, with McLaren cars and drivers winning a total of 20 world championships. McLaren cars totally dominated CanAm sports car racing with 56 wins, a considerable number of them with him behind the wheel, between 1967 and 1972 (and five constructors\u2019 championships), and have won three Indianapolis 500 races, as well as the 24 Hours of Le Mans and 12 Hours of Sebring."@en ,
+		"\u0628\u0631\u0648\u0633 \u0645\u0627\u0643\u0644\u0627\u0631\u064A\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u0623\u063A\u0633\u0637\u0633 1937 \u0641\u064A \u0623\u0648\u0643\u0644\u0627\u0646\u062F\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1959. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1958. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 104 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 4 \u0645\u0646\u0647\u0627."@ar ,
+		"Leslie Bruce McLaren (Auckland, 30 de agosto de 1937 \u2013 West Sussex, 2 de junho de 1970) foi um piloto de autom\u00F3veis. Disputou 104 provas do Campeonato Mundial de F\u00F3rmula 1 entre os anos de 1958 e 1970, obtendo 4 vit\u00F3rias, 3 melhores voltas, e 188,5 pontos. Foi o fundador da Team McLaren. Bruce McLaren sofreu da Doen\u00E7a de Perthe na inf\u00E2ncia, que o deixou paralisado por meses e fez com que sua perna direita fosse 5 cent\u00EDmetros maior que a esquerda. Isso n\u00E3o o impediu de disputar corridas de autom\u00F3vel com o Austin de seu pai entre 1956 e 1957."@pt ,
+		"\u0411\u0440\u044E\u0441 \u041B\u0435\u0441\u043B\u0438 \u041C\u0430\u043A\u043B\u0430\u0440\u0435\u043D (\u0430\u043D\u0433\u043B. Bruce Leslie McLaren, 30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1937, \u041E\u043A\u043B\u0435\u043D\u0434, \u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F \u2014 2 \u0438\u044E\u043D\u044F 1970, \u0417\u0430\u043F\u0430\u0434\u043D\u044B\u0439 \u0421\u0443\u0441\u0441\u0435\u043A\u0441, \u0410\u043D\u0433\u043B\u0438\u044F) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043E\u0441\u043D\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u041C\u0430\u043A\u043B\u0430\u0440\u0435\u043D\u00BB, \u0441\u0442\u0430\u0432\u0448\u0435\u0439 \u043B\u0435\u0433\u0435\u043D\u0434\u0430\u0440\u043D\u043E\u0439 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1."@ru ,
+		"Bruce McLaren (n\u00E9 le 30 ao\u00FBt 1937 \u00E0 Auckland, Nouvelle-Z\u00E9lande - mort le 2 juin 1970 \u00E0 Goodwood, Angleterre) est un pilote automobile n\u00E9o-z\u00E9landais, qui courut en championnat du monde de Formule 1, disputant 98 Grands Prix de 1958 \u00E0 1970. Brillant pilote, il a \u00E9galement fond\u00E9 l'\u00E9curie McLaren, devenue l'une des plus prestigieuses de l'histoire du sport automobile."@fr ,
+		"Bruce McLaren (Auckland, 30 augustus 1937 - Goodwood Circuit, 2 juni 1970) was een autocoureur uit Nieuw-Zeeland en tevens designer en uitvinder. Daarnaast was hij oprichter van het Formule 1 team McLaren, met 12 wereldtitels bij de coureurs en 8 bij de constructeurs, \u00E9\u00E9n van de meest succesvolle autosportteams ooit. Bruce McLaren was al op jonge leeftijd zeer ge\u00EFnteresseerd in auto's, vooral die van de snelle soort. Vanaf het moment dat hij samen met zijn vader een Austin 7 Ulster had gerestaureerd, zou dit de start zijn van een carri\u00E8re in de autosport."@nl ,
+		"\u30D6\u30EB\u30FC\u30B9\u30FB\u30EC\u30BA\u30EA\u30FC\u30FB\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3\uFF08Bruce Leslie McLaren \u30011937\u5E748\u670830\u65E5 - 1970\u5E746\u67082\u65E5\uFF09\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3001\u53CA\u3073\u30C1\u30FC\u30E0\u30AA\u30FC\u30CA\u30FC\u3002\u73FE\u5728\u3082F1\u306B\u53C2\u6226\u3059\u308B\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3\u30C1\u30FC\u30E0\u306E\u5275\u696D\u8005\u30021966\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u512A\u52DD\u3057\u3066\u3044\u308B\u3002"@ja .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Bruce_McLaren	dbp:points	188.5 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-pl:Bruce_McLaren .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-es:Bruce_McLaren .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	yago-res:Bruce_McLaren ,
+		<http://el.dbpedia.org/resource/\u039C\u03C0\u03C1\u03BF\u03C5\u03C2_\u039C\u03B1\u03BA\u03BB\u03AC\u03C1\u03B5\u03BD> ,
+		<http://ja.dbpedia.org/resource/\u30D6\u30EB\u30FC\u30B9\u30FB\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-de:Bruce_McLaren ,
+		wikidata:Q173081 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-it:Bruce_McLaren .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-id:Bruce_McLaren .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-cs:Bruce_McLaren .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-pt:Bruce_McLaren ,
+		dbr:Bruce_McLaren ,
+		<http://rdf.freebase.com/ns/m.02f1xv> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-fr:Bruce_McLaren .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-wikidata:Q173081 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Bruce_McLaren	owl:sameAs	dbpedia-nl:Bruce_McLaren ,
+		<http://viaf.org/viaf/28512491> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Bruce_McLaren	dct:subject	dbc:New_Zealand_Formula_One_drivers ,
+		dbc:Sportspeople_from_Auckland ,
+		dbc:Anglo_American_Racers_Formula_One_drivers ,
+		dbc:Auckland_University_of_Technology_alumni ,
+		dbc:Tasman_Series_drivers ,
+		dbc:New_Zealand_Sports_Hall_of_Fame_inductees ,
+		dbc:Formula_One_people ,
+		dbc:Formula_One_team_owners ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		dbc:New_Zealand_racing_drivers ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		dbc:BRDC_Gold_Star_winners ,
+		<http://dbpedia.org/resource/Category:1937_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:Cooper_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:McLaren_Formula_One_drivers ,
+		dbc:Sport_deaths_in_England ,
+		<http://dbpedia.org/resource/Category:1970_deaths> ,
+		dbc:McLaren_people ,
+		dbc:Segrave_Trophy_recipients ;
+	foaf:name	"Bruce McLaren"@en ;
+	foaf:homepage	<http://www.bruce-mclaren.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/McLarenBruce.jpg> ;
+	dct:description	"New Zealander racecar driver, designer and team owner"@en ;
+	foaf:givenName	"Bruce"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Bruce_McLaren ;
+	foaf:surname	"McLaren"@en ;
+	dbp:title	<http://dbpedia.org/resource/Race_of_Champions_(Brands_Hatch)> ,
+		"Can-Am Champion"^^xsd:string ,
+		dbr:List_of_Formula_One_driver_records ,
+		dbr:Tasman_Series ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+dbr:Bruce_McLaren	dbp:years	"6.845688E8"^^ns28:second ,
+		"6.905304E8"^^ns28:second ,
+		1968 ,
+		1969 ,
+		1964 ,
+		1966 ,
+		1967 ,
+		dbr:Chris_Amon ,
+		"-"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Bruce_McLaren	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bruce_McLaren?oldid=735892636> ;
+	dbp:before	"7.011792E8"^^ns28:second ,
+		dbr:Denny_Hulme ,
+		"7.835616E8"^^ns28:second ,
+		dbr:John_Surtees ,
+		"Stirling Moss'''"^^xsd:string ,
+		"Troy Ruttman'''"^^xsd:string ,
+		dbr:Masten_Gregory ,
+		"None"^^xsd:string ,
+		dbr:Dan_Gurney ,
+		dbr:Jochen_Rindt ;
+	dbp:after	dbr:Denny_Hulme ,
+		"6.90444E8"^^ns28:second ,
+		"6.892344E8"^^ns28:second ,
+		"6.417792E8"^^ns28:second ,
+		"Ricardo Rodr\u00EDguez'''"^^xsd:string ,
+		"Fernando Alonso'''"^^xsd:string ,
+		"Elio de Angelis'''"^^xsd:string ,
+		dbr:Jackie_Stewart ,
+		<http://dbpedia.org/resource/A.J._Foyt> ,
+		dbr:Dan_Gurney ,
+		dbr:Jim_Clark ;
+	dbp:birthPlace	"Auckland, New Zealand"^^xsd:string ;
+	dbp:birthName	"Bruce Leslie McLaren"^^xsd:string ;
+	dbp:deathPlace	"Goodwood Circuit, West Sussex, England, UK"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1959_United_States_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1968_Belgian_Grand_Prix> ;
+	dbp:birthDate	"1937-08-30"^^xsd:date ;
+	dbp:deathDate	"1970-06-02"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.bruce-mclaren.com> ,
+		<http://www.bruce-mclaren.com/about-bruce-mclaren/historical-books.html.> ,
+		<http://www.nzhalloffame.co.nz/page.pasp?searchtext=bruce+mclaren&Go=Go> ;
+	dbo:abstract	"Bruce McLaren (Auckland, 30 augustus 1937 - Goodwood Circuit, 2 juni 1970) was een autocoureur uit Nieuw-Zeeland en tevens designer en uitvinder. Daarnaast was hij oprichter van het Formule 1 team McLaren, met 12 wereldtitels bij de coureurs en 8 bij de constructeurs, \u00E9\u00E9n van de meest succesvolle autosportteams ooit. Bruce McLaren was al op jonge leeftijd zeer ge\u00EFnteresseerd in auto's, vooral die van de snelle soort. Vanaf het moment dat hij samen met zijn vader een Austin 7 Ulster had gerestaureerd, zou dit de start zijn van een carri\u00E8re in de autosport. Voor het eerst uitkomend in de New Zealand International Grand Prix, kwam McLaren in aanraking met Jack Brabham; een coureur uitkomend in het team van Cooper. Brabham zorgde ervoor dat McLaren een plek in het Cooper Formule 2 team kreeg. Eenmaal bij het team Cooper bewees McLaren een uitstekend coureur te zijn. Na een eerste plaats in de in 1958 gehouden Duitse Grand Prix - een mix van Formule 1 en Formule 2 auto's - werd McLaren gepromoveerd naar de Formule 1 koningsklasse. McLaren werd hiermee met zijn 22 jaren de jongste Formule 1 coureur tot dan toe. In zijn hierop volgende jaren binnen het Cooper Team in de Formule 1 zou McLaren immer in de top 10 verblijven. McLaren werd echter steeds minder tevreden en wenste zichzelf een eigen team. In het begin twijfelde hij tussen zijn droom en zijn trouw aan Cooper - die hem zijn kans in de Formule 1 had gegeven. Ten slotte besloot hij in het kielzog van Jack Brabham zijn droom waar te maken. Tussen 1959 en 1966 racete McLaren voor het Cooper team en ondertussen was hij bezig met zijn eigen F1 auto-ontwerp. Tijdens de ontwerpfase bleek het chassis veelbelovend maar ontbrak er een motorblok wat goed genoeg was om in zijn ontwerp toe te passen. In de beginperiode werden er Italiaanse motoren toegepast, welke niet krachtig genoeg bleken. Het eerste echte McLaren wapenfeit bestond uit een zesde plek in de Britse Grand Prix. Het McLaren raceteam kwam pas verder toen er een samenwerking ontstond met tuner Cosworth. In 1968 was team McLaren voor het eerst echt succesvol in een door Ford-Cosworth aangedreven auto door hierin de Belgische Grand Prix te winnen. Dit kwam door overwinningen van zowel Bruce McLaren als zijn tweede man Denny Hulme. In deze jaren was een van de mooiste overwinningen van het team McLaren eentje in de vorm van een eerste en tweede plek in de Daily Express race op het circuit van Silverstone. In de daarop volgende 2 jaren domineerde McLaren; en niet alleen de Formule 1. Met overwinningen in verschillende klassen, waaronder de CanAm werd de naam McLaren in de Verenigde Staten en Canada ook wel de 'Bruce en Denny Show' genoemd. Bruce McLaren werd Can Am kampioen in 1967 en 1969 en Denny Hulme werd hierbij in 1968 en 1970 kampioen. Op 2 juni 1970 sloeg het noodlot toe. Tijdens het testen van een Can Am bolide op het Goodwood Circuit in Engeland ging het mis en spinde de auto van de baan.De bolide crashte met hoge snelheid op een betonnen platform en de bestuurder Bruce McLaren kwam hierbij om het leven."@nl ,
+		"Il suo nome sopravvive nel McLaren Racing Team, uno dei pi\u00F9 importanti del campionato di Formula 1."@it ,
+		"\u5E03\u9C81\u65AF\u00B7\u83B1\u65AF\u5229\u00B7\u9EA6\u514B\u62C9\u4F26\uFF08\u82F1\u8BED\uFF1ABruce Leslie McLaren\uFF0C1937\u5E748\u670830\u65E5-1970\u5E746\u67082\u65E5\uFF09\u662F\u4E00\u4F4D\u65B0\u897F\u5170\u7C4D\u8D5B\u8F66\u8BBE\u8BA1\u5E08\u3001\u8F66\u624B\u3001\u5DE5\u7A0B\u5E08\u548C\u53D1\u660E\u5BB6\u3002 \u4ED6\u521B\u5EFA\u4E86\u4EE5\u81EA\u5DF1\u59D3\u6C0F\u547D\u540D\u7684\u9EA6\u514B\u62C9\u4F26\u8F66\u961F\uFF0C\u8BE5\u8F66\u961F\u8D62\u5F97\u4E8620\u5EA7\u5236\u9020\u5546\u4E16\u754C\u51A0\u519B\u548C\u8F66\u624B\u4E16\u754C\u51A0\u519B\uFF0C\u662F\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u5386\u53F2\u4E0A\u6700\u4E3A\u6210\u529F\u7684\u8F66\u961F\u4E4B\u4E00\u3002\u9EA6\u514B\u62C9\u4F26\u8D5B\u8F66\u8FD8\u4E3B\u5BB0\u8FC7\u52A0\u62FF\u5927-\u7F8E\u56FD\u6311\u6218\u676F\uFF1A56\u573A\u80DC\u5229\uFF08\u5176\u4E2D\u76F8\u5F53\u4E00\u90E8\u5206\u7531\u5E03\u9C81\u65AF\u672C\u4EBA\u9A7E\u9A76\u83B7\u5F97\uFF09\u548C1967\u81F31972\u95F4\u7684\u8F66\u961F\u4E94\u8FDE\u51A0\u3002\u5728\u5370\u7B2C\u5B89\u7EB3\u6CE2\u5229\u65AF500\u300124\u5C0F\u65F6\u52D2\u8292\u4EE5\u53CA12\u5C0F\u65F6\u8D5B\u767E\u7075\u4E2D\uFF0C\u9EA6\u514B\u62C9\u4F26\u8D5B\u8F66\u4E5F\u6709\u591A\u4E2A\u51A0\u519B\u5165\u8D26\u3002"@zh ,
+		"\u30D6\u30EB\u30FC\u30B9\u30FB\u30EC\u30BA\u30EA\u30FC\u30FB\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3\uFF08Bruce Leslie McLaren \u30011937\u5E748\u670830\u65E5 - 1970\u5E746\u67082\u65E5\uFF09\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3001\u53CA\u3073\u30C1\u30FC\u30E0\u30AA\u30FC\u30CA\u30FC\u3002\u73FE\u5728\u3082F1\u306B\u53C2\u6226\u3059\u308B\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3\u30C1\u30FC\u30E0\u306E\u5275\u696D\u8005\u30021966\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u512A\u52DD\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"\u0628\u0631\u0648\u0633 \u0645\u0627\u0643\u0644\u0627\u0631\u064A\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u0623\u063A\u0633\u0637\u0633 1937 \u0641\u064A \u0623\u0648\u0643\u0644\u0627\u0646\u062F\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1959. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1958. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 104 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 4 \u0645\u0646\u0647\u0627."@ar ,
+		"Bruce Leslie McLaren (30 August 1937 \u2013 2 June 1970) was a New Zealand race-car designer, driver, engineer and inventor. His name lives on in the McLaren team which has been one of the most successful in Formula One championship history, with McLaren cars and drivers winning a total of 20 world championships. McLaren cars totally dominated CanAm sports car racing with 56 wins, a considerable number of them with him behind the wheel, between 1967 and 1972 (and five constructors\u2019 championships), and have won three Indianapolis 500 races, as well as the 24 Hours of Le Mans and 12 Hours of Sebring."@en ,
+		"Bruce Leslie McLaren (* Auckland (Nueva Zelanda); 30 de agosto de 1937 \u2013 \u2020 Circuito de Goodwood (Gran Breta\u00F1a); 2 de junio de 1970) fue un dise\u00F1ador, piloto, ingeniero e inventor de autom\u00F3viles de carreras. Actualmente su nombre se sigue recordando en el equipo McLaren de F\u00F3rmula 1, que \u00E9l mismo fund\u00F3 y que es uno de los equipos que m\u00E1s victorias finales ha conseguido, con un total de 19 campeonatos del mundo, s\u00F3lo por detr\u00E1s de Ferrari. McLaren falleci\u00F3 durante una prueba del McLaren M8D, que \u00E9l mismo hab\u00EDa dise\u00F1ado para el campeonato de CanAm, en el Circuito de Goodwood en Inglaterra, el 2 de junio de 1970. Se sali\u00F3 de la pista debido al desprendimiento de una pieza de su auto, sufriendo un fuerte choque que le caus\u00F3 la muerte."@es ,
+		"\u0411\u0440\u044E\u0441 \u041B\u0435\u0441\u043B\u0438 \u041C\u0430\u043A\u043B\u0430\u0440\u0435\u043D (\u0430\u043D\u0433\u043B. Bruce Leslie McLaren, 30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1937, \u041E\u043A\u043B\u0435\u043D\u0434, \u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F \u2014 2 \u0438\u044E\u043D\u044F 1970, \u0417\u0430\u043F\u0430\u0434\u043D\u044B\u0439 \u0421\u0443\u0441\u0441\u0435\u043A\u0441, \u0410\u043D\u0433\u043B\u0438\u044F) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043E\u0441\u043D\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u041C\u0430\u043A\u043B\u0430\u0440\u0435\u043D\u00BB, \u0441\u0442\u0430\u0432\u0448\u0435\u0439 \u043B\u0435\u0433\u0435\u043D\u0434\u0430\u0440\u043D\u043E\u0439 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1."@ru ,
+		"Bruce McLaren (n\u00E9 le 30 ao\u00FBt 1937 \u00E0 Auckland, Nouvelle-Z\u00E9lande - mort le 2 juin 1970 \u00E0 Goodwood, Angleterre) est un pilote automobile n\u00E9o-z\u00E9landais, qui courut en championnat du monde de Formule 1, disputant 98 Grands Prix de 1958 \u00E0 1970. Brillant pilote, il a \u00E9galement fond\u00E9 l'\u00E9curie McLaren, devenue l'une des plus prestigieuses de l'histoire du sport automobile."@fr ,
+		"Bruce Leslie McLaren (ur. 30 sierpnia 1937 w Auckland, zm. 2 czerwca 1970 w Goodwood) \u2013 nowozelandzki in\u017Cynier, kierowca wy\u015Bcigowy, technik i wynalazca. Jego nazwisko zosta\u0142o u\u017Cyte w nazwie zespo\u0142u Team McLaren, kt\u00F3ry jest jednym z najbardziej utytu\u0142owanych zespo\u0142\u00F3w w Formule 1. Zesp\u00F3\u0142 McLarena zdoby\u0142 \u0142\u0105cznie 19 tytu\u0142\u00F3w mistrzowskich. Samochody McLarena ca\u0142kowicie zdominowa\u0142y zawody CanAm w latach 1967-1972. Wygrywali 56 razy i pi\u0119\u0107 razy zdobyli tytu\u0142 mistrzowski konstruktor\u00F3w. Wygrali r\u00F3wnie\u017C trzy wy\u015Bcigi Indianapolis 500, wy\u015Bcig Le Mans 24 i Sebring 12."@pl ,
+		"Leslie Bruce McLaren (Auckland, 30 de agosto de 1937 \u2013 West Sussex, 2 de junho de 1970) foi um piloto de autom\u00F3veis. Disputou 104 provas do Campeonato Mundial de F\u00F3rmula 1 entre os anos de 1958 e 1970, obtendo 4 vit\u00F3rias, 3 melhores voltas, e 188,5 pontos. Foi o fundador da Team McLaren. Bruce McLaren sofreu da Doen\u00E7a de Perthe na inf\u00E2ncia, que o deixou paralisado por meses e fez com que sua perna direita fosse 5 cent\u00EDmetros maior que a esquerda. Isso n\u00E3o o impediu de disputar corridas de autom\u00F3vel com o Austin de seu pai entre 1956 e 1957."@pt ,
+		"Bruce Leslie McLaren (* 30. August 1937 in Auckland; \u2020 2. Juni 1970 in Goodwood) war ein neuseel\u00E4ndischer Automobilrennfahrer und Begr\u00FCnder des noch heute existierenden Rennstalls McLaren."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/McLarenBruce.jpg?width=300> ;
+	dbo:birthDate	"1937-8-30"^^xsd:date ;
+	dbo:deathDate	"1970-6-2"^^xsd:date ;
+	dbo:deathPlace	dbr:Goodwood_Circuit ;
+	dbo:wikiPageRevisionID	735892636 ;
+	dbo:birthPlace	dbr:Auckland ;
+	dbo:wikiPageID	475903 .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Bruce_McLaren	ns30:hypernym	dbr:Designer ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"3"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1958_German_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1970_Monaco_Grand_Prix> ;
+	dbo:podiums	"27"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"104"^^xsd:nonNegativeInteger ;
+	dbo:wins	"4"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/McLaren_(racing)> ,
+		dbr:Anglo_American_Racers ,
+		dbr:Cooper_Car_Company ;
+	dbp:nationality	"New Zealand"^^xsd:string .
+<http://dbpedia.org/resource/1960_French_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1959_British_Grand_Prix>	dbp:fastDriver	dbr:Bruce_McLaren ;
+	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1969_British_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_British_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1966_Can-Am_season__3__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1967_Can-Am_season__1__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1968_Can-Am_season__2__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1969_Can-Am_season__1__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1968_Mexican_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+dbr:Masten_Gregory	dbp:after	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Australian_Grand_Prix>	dbo:firstDriver	dbr:Bruce_McLaren ;
+	dbo:poleDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1965_Australian_Grand_Prix>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1959_New_Zealand_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1960_New_Zealand_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1961_New_Zealand_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_New_Zealand_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren ;
+	dbo:poleDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1963_New_Zealand_Grand_Prix>	dbo:fastestDriver	dbr:Bruce_McLaren ;
+	dbo:poleDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1964_New_Zealand_Grand_Prix>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1968_BRDC_International_Trophy>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__29__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__39__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+dbr:Ronnie_Bucknum__1__1	dbo:firstDriver	dbr:Bruce_McLaren .
+dbr:McLaren_M2B__2	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/A._J._Foyt>	dbp:before	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__50__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__25__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1960_Argentine_Grand_Prix>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1969_Spanish_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1970_Spanish_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+dbr:Bruce	dbo:wikiPageDisambiguates	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1963_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_McLaren .
+dbr:Teddy_Mayer	dbo:predecessor	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__33rd__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+dbr:Stirling_Moss	dbp:after	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Crystal_Palace_Trophy>	dbo:thirdDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1962_Lady_Wigram_Trophy>	dbo:poleDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1960_Portuguese_Grand_Prix>	dbo:secondDriver	dbr:Bruce_McLaren .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__37__1>	dbo:firstDriver	dbr:Bruce_McLaren .
+dbr:Denny_Hulme	dbp:before	dbr:Bruce_McLaren ;
+	dbp:after	dbr:Bruce_McLaren .

@@ -1,0 +1,242 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Jacques_Lafitte	dbo:wikiPageRedirects	dbr:Jacques_Laffite .
+dbr:Ligier_JS19__3	dbo:firstDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1979_Brazilian_Grand_Prix>	dbo:fastestDriver	dbr:Jacques_Laffite ;
+	dbo:firstDriver	dbr:Jacques_Laffite ;
+	dbo:poleDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1986_Brazilian_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1981_British_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1985_British_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1980_Spanish_Grand_Prix>	dbo:poleDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1975_German_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1977_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1977_Swedish_Grand_Prix>	dbo:firstDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1978_German_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1979_Austrian_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1979_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1979_German_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1980_French_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite ;
+	dbo:poleDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1980_German_Grand_Prix>	dbo:firstDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1981_German_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1982_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Jacques_Laffite ;
+	dbo:secondDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1983_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1976_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1979_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite ;
+	dbo:poleDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1980_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1981_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1976_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite ;
+	dbo:poleDriver	dbr:Jacques_Laffite .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jacques_Laffite	foaf:primaryTopic	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1981_Canadian_Grand_Prix>	dbo:firstDriver	dbr:Jacques_Laffite .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jean-Pierre_Jabouille	dbp:before	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1985_German_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jacques_Laffite	rdf:type	ns6:Agent ,
+		dbo:FormulaOneRacer ,
+		dbo:RacingDriver ,
+		dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jacques_Laffite	rdf:type	yago:WikicatFrenchRallyDrivers ,
+		dbo:MotorsportRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jacques_Laffite	rdf:type	umbel-rc:RaceCarDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jacques_Laffite	rdf:type	wikidata:Q5 ,
+		umbel-rc:PersonWithOccupation ,
+		wikidata:Q378622 ,
+		<http://dbpedia.org/class/yago/WikicatFrenchFormulaRenault2.0Drivers> ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatGrandPrixMastersDrivers ,
+		dbo:Athlete ,
+		yago:WikicatLigierFormulaOneDrivers ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Jacques_Laffite	rdf:type	schema:Person ,
+		wikidata:Q24229398 ,
+		foaf:Person ,
+		umbel-rc:Athlete ,
+		yago:CausalAgent100007347 ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jacques_Laffite	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		dbo:Person ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		ns6:NaturalPerson ,
+		yago:WikicatFrenchFormulaThreeChampionshipDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jacques_Laffite	rdfs:label	"Jacques Laffite"@pl ,
+		"Jacques Laffite"@de ,
+		"\u041B\u0430\u0444\u0444\u0438\u0442, \u0416\u0430\u043A"@ru ,
+		"Jacques Laffite"@fr ,
+		"Jacques Laffite"@es ,
+		"Jacques Laffite"@it ,
+		"Jacques Laffite"@en ,
+		"\u062C\u0627\u0643 \u0644\u0627\u0641\u064A\u062A (\u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642\u0627\u062A)"@ar ,
+		"Jacques Laffite"@pt ,
+		"\u30B8\u30E3\u30C3\u30AF\u30FB\u30E9\u30D5\u30A3\u30C3\u30C8"@ja ,
+		"Jacques Laffite"@nl ;
+	rdfs:comment	"\u0416\u0430\u043A-\u0410\u043D\u0440\u0438 \u041B\u0430\u0444\u0444\u0438\u0442 (\u0444\u0440. Jacques-Henri Laffite, 21 \u043D\u043E\u044F\u0431\u0440\u044F, 1943, \u041F\u0430\u0440\u0438\u0436) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u0442\u0438\u0442\u0443\u043B\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-3 \u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-2. \u041F\u043E\u0447\u0442\u0438 \u0432\u0441\u0435 \u0441\u0432\u043E\u0438 \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u043B, \u044F\u0432\u043B\u044F\u044F\u0441\u044C \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u041B\u0438\u0436\u044C\u0435\u00BB, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u043E\u043D \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0442\u0435\u0447\u0435\u043D\u0438\u0435 9 \u0441\u0435\u0437\u043E\u043D\u043E\u0432. \u0412 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043F\u0438\u043B\u043E\u0442\u0430 \u00AB\u041B\u0438\u0436\u044C\u0435\u00BB \u041B\u0430\u0444\u0444\u0438\u0442 \u043E\u0434\u0435\u0440\u0436\u0430\u043B 6 \u043F\u043E\u0431\u0435\u0434 \u0438 31 \u0440\u0430\u0437 \u043F\u043E\u0431\u044B\u0432\u0430\u043B \u043D\u0430 \u043F\u043E\u0434\u0438\u0443\u043C\u0435 \u0438\u0437 32 \u0432 \u0441\u0432\u043E\u0435\u0439 \u043A\u0430\u0440\u044C\u0435\u0440\u0435."@ru ,
+		"Jacques-Henri Laffite (born in Paris, 21 November 1943) is a French former racing driver who competed in Formula One from 1974 to 1986. He achieved six grand prix wins, all while driving for the Ligier team. He is now a TV commentator on French television TF1."@en ,
+		"Jacques-Henri Marie Sabin Laffite (Paris, 21 de novembro de 1943) \u00E9 um ex-automobilista franc\u00EAs, que disputou a F\u00F3rmula 1 de 1974 a 1986."@pt ,
+		"Jacques-Henri Sabin Laffite (* 21. November 1943 in Paris) ist ein franz\u00F6sischer Automobilrennfahrer, der von 1974 bis 1986 in der Formel 1 fuhr. In 176 Grand-Prix-Rennen errang er sechs Siege, sieben Pole-Positions sowie 228 Weltmeisterschaftspunkte. 1979 bis 1981 wurde er jeweils Vierter der Fahrerweltmeisterschaft. Laffite war au\u00DFerdem Sportwagenfahrer; 1975 gewann er zusammen mit Arturo Merzario in einem Alfa Romeo 33TT12 die 1000 km N\u00FCrburgring. Ferner fuhr er in der DTM und der FIA GT3-Europameisterschaft Rennen."@de ,
+		"Jacques-Henri Laffite (ur. 21 listopada 1943 w Pary\u017Cu) \u2013 by\u0142y francuski kierowca wy\u015Bcigowy. Bra\u0142 udzia\u0142 w wy\u015Bcigach Formu\u0142y 1 w latach 1974-1986. Dwa razy zwi\u0105zany by\u0142 z Williamsem i Ligierem. Najwi\u0119ksze sukcesy odnosi\u0142 w latach 1979-1981, kiedy trzy razy z rz\u0119du zaj\u0105\u0142 czwarte miejsce w klasyfikacji generalnej.Z Formu\u0142y 1 wycofa\u0142 si\u0119 po wypadku do kt\u00F3rego dosz\u0142o podczas GP Wielkiej Brytanii na torze Brands Hatch w 1986. Laffite z\u0142ama\u0142 obie nogi, ale wkr\u00F3tce wyleczy\u0142 si\u0119 i zacz\u0105\u0142 \u015Bciga\u0107 si\u0119 w wy\u015Bcigach samochod\u00F3w turystycznych. Obecnie pracuje jako komentator francuskiej telewizji TF1."@pl ,
+		"Jacques Henri Sabin Laffite (Parijs, 21 november 1943) is een voormalige Franse Formule 1-coureur. Laffite reed tussen 1974 en 1986 180 Grands Prix voor de teams van Iso Marlboro, Ligier en Williams F1, waarin hij 6 overwinningen, 32 podiumplaatsen, 7 pole positions, 6 snelste rondes en 228 punten scoorde. Met 180 Grands Prix was hij 3 jaar recordhouder van het meeste aantal gereden Grands Prix', totdat Riccardo Patrese in 1989 zijn 181e start maakte."@nl ,
+		"\u062C\u0627\u0643 \u0644\u0627\u0641\u064A\u062A \u0645\u0648\u0627\u0644\u064A\u062F 21 \u0646\u0648\u0641\u0645\u0628\u0631 1943 \u0641\u064A \u0628\u0627\u0631\u064A\u0633\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1974. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1974\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0633\u0648\u064A\u062F \u0627\u0644\u0643\u0628\u0631\u0649 1977. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 180 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 6 \u0645\u0646\u0647\u0627."@ar ,
+		"Campione europeo di Formula 3 nel 1973 e di Formula 2 nel 1975, ha fatto il suo esordio nella massima serie nel 1974 e vi \u00E8 rimasto fino al 1986, anno in cui si \u00E8 dovuto ritirare a causa di un grave incidente. In Formula 1 il francese ha ottenuto in tutto sei vittorie e per tre anni consecutivi (1979, 1980 e 1981) \u00E8 stato il miglior pilota europeo della competizione. Archiviata l'esperienza nella massima serie si \u00E8 dedicato al rally e attualmente svolge il ruolo di commentatore per la rete televisiva francese TF1."@it ,
+		"\u30B8\u30E3\u30C3\u30AF\uFF1D\u30A2\u30F3\u30EA\u30FB\u30DE\u30EA\u30FC\u30FB\u30BB\u30A4\u30D3\u30F3\u30FB\u30E9\u30D5\u30A3\u30C3\u30C8\uFF08Jacques-Henri Marie Sabin Laffite, 1943\u5E7411\u670821\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u751F\u307E\u308C\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30D5\u30E9\u30F3\u30B9\u8A9E\u8AAD\u307F\u3067\u300C\u30B8\u30E3\u30C3\u30AF\u30FB\u30E9\u30D5\u30A3\u30FC\u300D\u3068\u547C\u3070\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Jacques-Henri Laffite (21 de noviembre de 1943, Par\u00EDs, Francia), es un piloto y periodista de automovilismo franc\u00E9s que compiti\u00F3 en la de F\u00F3rmula 1 desde 1974 hasta 1986 con las escuder\u00EDas Williams y Ligier. Laffite fue campe\u00F3n de la F\u00F3rmula Renault Francesa en 1972, la F\u00F3rmula 3 Francesa en 1973 y la F\u00F3rmula 2 Europea en 1975. En 1977, el franc\u00E9s corri\u00F3 las 24 Horas de Le Mans con un Renault Alpine A442 oficial de Renault Sport junto a Patrick Depailler, debiendo abandonar. En 1978 result\u00F3 d\u00E9cimo absoluto con un Mirage-Renault."@es ,
+		"Jacques Laffite, n\u00E9 le 21 novembre 1943 \u00E0 Paris, est un pilote automobile fran\u00E7ais. Il a notamment disput\u00E9 176 Grands Prix de Formule 1 et remport\u00E9 six victoires entre 1974 et 1986. De 1997 \u00E0 2012, il commente en qualit\u00E9 de consultant les Grands Prix de F1 pour la cha\u00EEne de t\u00E9l\u00E9vision fran\u00E7aise TF1. Il a deux filles : Camille et Margot, journaliste sportive (Formula one) sur Canal+. Jacques Laffite est le beau fr\u00E8re de Jean-Pierre Jabouille"@fr ;
+	dbp:points	228 ;
+	owl:sameAs	wikidata:Q171434 ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30C3\u30AF\u30FB\u30E9\u30D5\u30A3\u30C3\u30C8> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	yago-res:Jacques_Laffite .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-de:Jacques_Laffite .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-es:Jacques_Laffite .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-wikidata:Q171434 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-nl:Jacques_Laffite .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-cs:Jacques_Laffite ,
+		dbr:Jacques_Laffite .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-fr:Jacques_Laffite ,
+		<http://viaf.org/viaf/54149963> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-id:Jacques_Laffite .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-pl:Jacques_Laffite .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-it:Jacques_Laffite ,
+		<http://rdf.freebase.com/ns/m.033zg8> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jacques_Laffite	owl:sameAs	dbpedia-pt:Jacques_Laffite .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jacques_Laffite	dct:subject	dbc:Sportspeople_from_Paris ,
+		dbc:French_racing_drivers ,
+		<http://dbpedia.org/resource/Category:French_Formula_Renault_2.0_drivers> ,
+		dbc:French_Formula_One_drivers ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Ligier_Formula_One_drivers ,
+		dbc:Grand_Prix_Masters_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1943_births> ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:French_Formula_Three_Championship_drivers ;
+	foaf:name	"Jacques Laffite"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Jacques_Laffite_2015.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Jacques"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jacques_Laffite ;
+	foaf:surname	"Laffite"@en ;
+	dbp:title	dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners ,
+		dbr:European_Formula_Two_Championship ,
+		dbr:List_of_Formula_One_driver_records ,
+		<http://dbpedia.org/resource/Formula_Renault_2.0_West_European_Cup> ,
+		"Champion"^^xsd:string ,
+		dbr:French_Formula_Three_Championship ;
+	dbp:years	","^^xsd:string ,
+		180 ,
+		"-"^^xsd:string ,
+		1972 ,
+		1973 ,
+		1975 ;
+	dbo:nationality	dbr:France .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jacques_Laffite	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jacques_Laffite?oldid=733952510> ;
+	dbp:before	"Graham Hill"^^xsd:string ,
+		"Michel Lecl\u00E8rel"^^xsd:string ,
+		179 ,
+		dbr:Patrick_Depailler ,
+		<http://dbpedia.org/resource/Michel_Lecl\u00E8re> ;
+	dbp:after	dbr:Alain_Prost ,
+		257 ,
+		dbr:Tom_Pryce ,
+		"Christian Debias"^^xsd:string ,
+		181 ,
+		"Riccardo Patrese"^^xsd:string ,
+		dbr:Jean-Pierre_Jabouille ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Paris,_France> ;
+	dbo:firstWin	<http://dbpedia.org/resource/1977_Swedish_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1981_Canadian_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jacques_Laffite	dbp:birthDate	"1943-11-21"^^xsd:date ;
+	dbo:abstract	"Jacques-Henri Laffite (ur. 21 listopada 1943 w Pary\u017Cu) \u2013 by\u0142y francuski kierowca wy\u015Bcigowy. Bra\u0142 udzia\u0142 w wy\u015Bcigach Formu\u0142y 1 w latach 1974-1986. Dwa razy zwi\u0105zany by\u0142 z Williamsem i Ligierem. Najwi\u0119ksze sukcesy odnosi\u0142 w latach 1979-1981, kiedy trzy razy z rz\u0119du zaj\u0105\u0142 czwarte miejsce w klasyfikacji generalnej.Z Formu\u0142y 1 wycofa\u0142 si\u0119 po wypadku do kt\u00F3rego dosz\u0142o podczas GP Wielkiej Brytanii na torze Brands Hatch w 1986. Laffite z\u0142ama\u0142 obie nogi, ale wkr\u00F3tce wyleczy\u0142 si\u0119 i zacz\u0105\u0142 \u015Bciga\u0107 si\u0119 w wy\u015Bcigach samochod\u00F3w turystycznych. Obecnie pracuje jako komentator francuskiej telewizji TF1."@pl ,
+		"\u0416\u0430\u043A-\u0410\u043D\u0440\u0438 \u041B\u0430\u0444\u0444\u0438\u0442 (\u0444\u0440. Jacques-Henri Laffite, 21 \u043D\u043E\u044F\u0431\u0440\u044F, 1943, \u041F\u0430\u0440\u0438\u0436) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u0442\u0438\u0442\u0443\u043B\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-3 \u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-2. \u041F\u043E\u0447\u0442\u0438 \u0432\u0441\u0435 \u0441\u0432\u043E\u0438 \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u043B, \u044F\u0432\u043B\u044F\u044F\u0441\u044C \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u041B\u0438\u0436\u044C\u0435\u00BB, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u043E\u043D \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0442\u0435\u0447\u0435\u043D\u0438\u0435 9 \u0441\u0435\u0437\u043E\u043D\u043E\u0432. \u0412 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043F\u0438\u043B\u043E\u0442\u0430 \u00AB\u041B\u0438\u0436\u044C\u0435\u00BB \u041B\u0430\u0444\u0444\u0438\u0442 \u043E\u0434\u0435\u0440\u0436\u0430\u043B 6 \u043F\u043E\u0431\u0435\u0434 \u0438 31 \u0440\u0430\u0437 \u043F\u043E\u0431\u044B\u0432\u0430\u043B \u043D\u0430 \u043F\u043E\u0434\u0438\u0443\u043C\u0435 \u0438\u0437 32 \u0432 \u0441\u0432\u043E\u0435\u0439 \u043A\u0430\u0440\u044C\u0435\u0440\u0435."@ru ,
+		"Jacques-Henri Laffite (born in Paris, 21 November 1943) is a French former racing driver who competed in Formula One from 1974 to 1986. He achieved six grand prix wins, all while driving for the Ligier team. He is now a TV commentator on French television TF1."@en ,
+		"Jacques-Henri Sabin Laffite (* 21. November 1943 in Paris) ist ein franz\u00F6sischer Automobilrennfahrer, der von 1974 bis 1986 in der Formel 1 fuhr. In 176 Grand-Prix-Rennen errang er sechs Siege, sieben Pole-Positions sowie 228 Weltmeisterschaftspunkte. 1979 bis 1981 wurde er jeweils Vierter der Fahrerweltmeisterschaft. Laffite war au\u00DFerdem Sportwagenfahrer; 1975 gewann er zusammen mit Arturo Merzario in einem Alfa Romeo 33TT12 die 1000 km N\u00FCrburgring. Ferner fuhr er in der DTM und der FIA GT3-Europameisterschaft Rennen. Jacques Laffite ist verheiratet mit Bernadette und hat zwei T\u00F6chter mit Namen Camille und Marguerite; Letztere ist ebenfalls Rennfahrerin."@de ,
+		"Jacques-Henri Laffite (21 de noviembre de 1943, Par\u00EDs, Francia), es un piloto y periodista de automovilismo franc\u00E9s que compiti\u00F3 en la de F\u00F3rmula 1 desde 1974 hasta 1986 con las escuder\u00EDas Williams y Ligier. Laffite fue campe\u00F3n de la F\u00F3rmula Renault Francesa en 1972, la F\u00F3rmula 3 Francesa en 1973 y la F\u00F3rmula 2 Europea en 1975. El piloto debut\u00F3 en la F\u00F3rmula 1 en 1974. Obtuvo un total de seis victorias (Suecia 1977, Argentina 1979, Brasil 1979, Alemania 1980, Austria 1981 y Canad\u00E1 1981) y 32 podios, siete pole positions. Su periodo m\u00E1s exitoso fue el comprendido entre 1979 y 1981, cuando finaliz\u00F3 en el cuarto lugar en el Campeonato Mundial tres veces consecutivas. Tambi\u00E9n result\u00F3 octavo en 1976, 1978 y 1986, noveno en 1985, y d\u00E9cimo en 1977, en todos los casos con Ligier. En paralelo a su actividad en la F\u00F3rmula 1, Laffite particip\u00F3 en carreras de resistencia. Corri\u00F3 con Ligier en las 24 Horas de Le Mans de 1972, 1973 y 1974, resultando octavo absoluto en 1974. En 1975 disput\u00F3 el Campeonato Mundial de Resistencia, logrando victorias en los 1000 km de Monza, 1000 km de N\u00FCrburgring y 800 km de Dijon con un Alfa Romeo 33TT12, siempre acompa\u00F1ado de Arturo Merzario, logrando as\u00ED el t\u00EDtulo de marcas. En 1977, el franc\u00E9s corri\u00F3 las 24 Horas de Le Mans con un Renault Alpine A442 oficial de Renault Sport junto a Patrick Depailler, debiendo abandonar. En 1978 result\u00F3 d\u00E9cimo absoluto con un Mirage-Renault. Laffite se retir\u00F3 de la F\u00F3rmula 1 tras fracturarse ambas piernas en un accidente en el Gran Premio de Gran Breta\u00F1a de 1986. Luego se recuper\u00F3 de las lesiones y volvi\u00F3 a competir, aunque no en monoplazas. En 1987 disput\u00F3 el Campeonato Mundial de Turismos con un Alfa Romeo 75 oficial, obteniendo un tercer puesto en las 24 Horas de Spa junto a Jean-Louis Schlesser y Nicola Larini entre otros pilotos. En 1988 disput\u00F3 el Campeonato Europeo de Turismos con un BMW M3. Laffite comenz\u00F3 a disputar el Deutsche Tourenwagen Masters en 1990. Logr\u00F3 tres podios con un Mercedes-Benz 190, y termin\u00F3 11\u00BA en el tabla general. En 1992 result\u00F3 13\u00BA sin podios, nuevamente con Mercedes-Benz. El piloto disput\u00F3 el Campeonato Franc\u00E9s de Superturismos 1994 con un Opel Vectra oficial, donde consigui\u00F3 un podio y culmin\u00F3 octavo. En 1995 logr\u00F3 una victoria y seis podios, por lo cual alcanz\u00F3 la cuarta colocaci\u00F3n por detr\u00E1s de Yvan Muller, Eric H\u00E9lary y Laurent A\u00EFello. Laffite retorn\u00F3 a las 24 Horas de Le Mans en 1990, donde pilot\u00F3 un Porsche 962 oficial de Joest, arribando 14\u00BA. En 1993 particip\u00F3 con un Venturi 500LM acompa\u00F1ado de amateurs. En 1994 pilot\u00F3 un Porsche 911 de la clase GT2 del equipo Alm\u00E9ras. El franc\u00E9s se uni\u00F3 al equipo Bigazzi para la edici\u00F3n 1996. Al volante de un McLaren F1 oficial, lleg\u00F3 11\u00BA junto a Steve Soper y Marc Duez. Laffite sigui\u00F3 disputando carreras puntuales hasta 2012. Tambi\u00E9n fue comentarista de las transamisiones de F\u00F3rmula 1 de la cadena de televisi\u00F3n francesa TF1 desde 1997 hasta 2012.."@es ,
+		"Jacques Laffite, n\u00E9 le 21 novembre 1943 \u00E0 Paris, est un pilote automobile fran\u00E7ais. Il a notamment disput\u00E9 176 Grands Prix de Formule 1 et remport\u00E9 six victoires entre 1974 et 1986. De 1997 \u00E0 2012, il commente en qualit\u00E9 de consultant les Grands Prix de F1 pour la cha\u00EEne de t\u00E9l\u00E9vision fran\u00E7aise TF1. Il a deux filles : Camille et Margot, journaliste sportive (Formula one) sur Canal+. Jacques Laffite est le beau fr\u00E8re de Jean-Pierre Jabouille"@fr ,
+		"Jacques-Henri Marie Sabin Laffite (Paris, 21 de novembro de 1943) \u00E9 um ex-automobilista franc\u00EAs, que disputou a F\u00F3rmula 1 de 1974 a 1986."@pt ,
+		"\u062C\u0627\u0643 \u0644\u0627\u0641\u064A\u062A \u0645\u0648\u0627\u0644\u064A\u062F 21 \u0646\u0648\u0641\u0645\u0628\u0631 1943 \u0641\u064A \u0628\u0627\u0631\u064A\u0633\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0641\u0631\u0646\u0633\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1974. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1974\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0633\u0648\u064A\u062F \u0627\u0644\u0643\u0628\u0631\u0649 1977. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 180 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 6 \u0645\u0646\u0647\u0627."@ar ,
+		"\u30B8\u30E3\u30C3\u30AF\uFF1D\u30A2\u30F3\u30EA\u30FB\u30DE\u30EA\u30FC\u30FB\u30BB\u30A4\u30D3\u30F3\u30FB\u30E9\u30D5\u30A3\u30C3\u30C8\uFF08Jacques-Henri Marie Sabin Laffite, 1943\u5E7411\u670821\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u751F\u307E\u308C\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30D5\u30E9\u30F3\u30B9\u8A9E\u8AAD\u307F\u3067\u300C\u30B8\u30E3\u30C3\u30AF\u30FB\u30E9\u30D5\u30A3\u30FC\u300D\u3068\u547C\u3070\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Campione europeo di Formula 3 nel 1973 e di Formula 2 nel 1975, ha fatto il suo esordio nella massima serie nel 1974 e vi \u00E8 rimasto fino al 1986, anno in cui si \u00E8 dovuto ritirare a causa di un grave incidente. In Formula 1 il francese ha ottenuto in tutto sei vittorie e per tre anni consecutivi (1979, 1980 e 1981) \u00E8 stato il miglior pilota europeo della competizione. Archiviata l'esperienza nella massima serie si \u00E8 dedicato al rally e attualmente svolge il ruolo di commentatore per la rete televisiva francese TF1."@it ,
+		"Jacques Henri Sabin Laffite (Parijs, 21 november 1943) is een voormalige Franse Formule 1-coureur. Laffite reed tussen 1974 en 1986 180 Grands Prix voor de teams van Iso Marlboro, Ligier en Williams F1, waarin hij 6 overwinningen, 32 podiumplaatsen, 7 pole positions, 6 snelste rondes en 228 punten scoorde. Met 180 Grands Prix was hij 3 jaar recordhouder van het meeste aantal gereden Grands Prix', totdat Riccardo Patrese in 1989 zijn 181e start maakte."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Jacques_Laffite_2015.jpg?width=300> ;
+	dbo:birthDate	"1943-11-21"^^xsd:date ;
+	dbo:wikiPageRevisionID	733952510 ;
+	dbo:birthPlace	dbr:Paris ;
+	dbo:wikiPageID	701324 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Jacques_Laffite	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"7"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1974_German_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1986_British_Grand_Prix> ;
+	dbo:podiums	"32"^^xsd:nonNegativeInteger ;
+	dbo:poles	"7"^^xsd:nonNegativeInteger ;
+	dbo:races	"180"^^xsd:nonNegativeInteger ;
+	dbo:wins	"6"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Equipe_Ligier ,
+		dbr:Iso-Marlboro ,
+		dbr:Williams_F1_Team .
+<http://dbpedia.org/resource/1985_Australian_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite .
+dbr:Ligier_JS27__3	dbo:firstDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1980_South_African_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__30__1>	dbo:firstDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__52__1>	dbo:firstDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1974_24_Hours_of_Le_Mans__8__1>	dbo:firstDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1979_Argentine_Grand_Prix>	dbo:fastestDriver	dbr:Jacques_Laffite ;
+	dbo:firstDriver	dbr:Jacques_Laffite ;
+	dbo:poleDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1977_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1978_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1979_Spanish_Grand_Prix>	dbo:poleDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1981_Spanish_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite ;
+	dbo:poleDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/Michel_Lecl\u00E8re>	dbp:after	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1980_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1981_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1985_European_Grand_Prix>	dbo:fastestDriver	dbr:Jacques_Laffite .
+dbr:Tom_Pryce	dbp:before	dbr:Jacques_Laffite .
+dbr:Graham_Hill	dbp:after	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1980_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1976_Austrian_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1981_Austrian_Grand_Prix>	dbo:fastestDriver	dbr:Jacques_Laffite ;
+	dbo:firstDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1982_Austrian_Grand_Prix>	dbo:thirdDriver	dbr:Jacques_Laffite .
+<http://dbpedia.org/resource/1986_Detroit_Grand_Prix>	dbo:secondDriver	dbr:Jacques_Laffite .
+dbr:Patrick_Depailler	dbp:after	dbr:Jacques_Laffite .

@@ -1,0 +1,201 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Trulli_GP	dbp:principal	dbr:Jarno_Trulli .
+dbr:Norberto_Fontana	dbp:after	dbr:Jarno_Trulli .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Renault_R24__2004__2	dbo:firstDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2005_United_States_Grand_Prix>	dbo:poleDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2005_Malaysian_Grand_Prix>	dbo:secondDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2005_Bahrain_Grand_Prix>	dbo:secondDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2009_Bahrain_Grand_Prix>	dbo:thirdDriver	dbr:Jarno_Trulli ;
+	dbo:fastestDriver	dbr:Jarno_Trulli ;
+	dbo:poleDriver	dbr:Jarno_Trulli .
+dbr:Trulli	dbo:wikiPageDisambiguates	dbr:Jarno_Trulli .
+dbr:Toyota_TF108__2	dbo:firstDriver	dbr:Jarno_Trulli .
+dbr:Toyota_TF107__3	dbo:firstDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2009_Japanese_Grand_Prix>	dbo:secondDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2004_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2003_German_Grand_Prix>	dbo:thirdDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/1999_European_Grand_Prix>	dbo:secondDriver	dbr:Jarno_Trulli .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jarno_Trulli	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatGermanFormulaThreeChampionshipDrivers ,
+		<http://dbpedia.org/class/yago/WikicatTeamLotus(2010\u201311)FormulaOneDrivers> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Jarno_Trulli	rdf:type	foaf:Person ,
+		dbo:Agent .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jarno_Trulli	rdf:type	ns6:Agent ,
+		yago:WikicatToyotaFormulaOneDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		ns6:NaturalPerson ,
+		yago:WikicatRenaultFormulaOneDrivers ,
+		yago:WikicatMinardiFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jarno_Trulli	rdf:type	wikidata:Q378622 ,
+		dbo:Athlete .
+@prefix schema:	<http://schema.org/> .
+dbr:Jarno_Trulli	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:WikicatKartingWorldChampionshipDrivers ,
+		wikidata:Q24229398 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jarno_Trulli	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		yago:WikicatJordanFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatProstFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jarno_Trulli	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:RacingDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jarno_Trulli	rdfs:label	"Jarno Trulli"@nl ,
+		"Jarno Trulli"@es ,
+		"\u30E4\u30EB\u30CE\u30FB\u30C8\u30A5\u30EB\u30FC\u30EA"@ja ,
+		"Jarno Trulli"@en ,
+		"Jarno Trulli"@pl ,
+		"\u96C5\u8BFA\u00B7\u7279\u9C81\u5229"@zh ,
+		"Jarno Trulli"@de ,
+		"\u0422\u0440\u0443\u043B\u043B\u0438, \u042F\u0440\u043D\u043E"@ru ,
+		"Jarno Trulli"@pt ,
+		"Jarno Trulli"@it ,
+		"\u064A\u0627\u0631\u0646\u0648 \u062A\u0631\u0648\u0644\u064A"@ar ,
+		"Jarno Trulli"@fr ;
+	rdfs:comment	"Jarno Trulli (Pescara, 13 juli 1974) is een Italiaanse Formule 1-coureur. Jarno Trulli is vernoemd naar Jarno Saarinen, een Finse motorcoureur die om het leven kwam op het circuit van Monza in 1973. De voornaam Jarno was in die tijd erg populair in Itali\u00EB. De ouders van Jarno Trulli waren motorsportfans en Jarno was op jonge leeftijd al in een kart te vinden. In 1991 won hij het Karting World Championship. Op 14 december 2009 werd officieel bekendgemaakt dat Trulli was opgenomen in het team van Lotus, waar hij in 2010 en 2011 voor rijdt."@nl ,
+		"Jarno Trulli (Pescara, 13 de julho de 1974), \u00E9 um piloto de automobilismo italiano. Al\u00E9m do sucesso na F1, em 1991, sagrou-se campe\u00E3o mundial de kart."@pt ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u064A\u0627\u0631\u0646\u0648 \u062A\u0631\u0648\u0644\u0644\u064A (\u0628\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629: Jarno Trulli) \u0648\u0644\u062F \u0628\u062A\u0627\u0631\u064A\u062E 13 \u064A\u0648\u0644\u064A\u0648 1974. \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642."@ar ,
+		"Il pilota abruzzese \u00E8 ritenuto tra i pi\u00F9 veloci nel giro singolo negli anni 2000. Il nome Jarno fu scelto dai genitori Enzo e Franca, in omaggio alla memoria del campione finlandese Jarno Saarinen."@it ,
+		"Jarno Trulli (* 13. Juli 1974 in Pescara) ist ein italienischer Automobilrennfahrer. Er startete von 1997 bis 2011 in der Formel 1. Seinen einzigen Grand-Prix-Sieg erzielte er 2004 f\u00FCr Renault. 2014/15 fuhr er in der FIA-Formel-E-Meisterschaft. Trulli ist neben Riccardo Patrese, Giancarlo Fisichella und Andrea de Cesaris einer von vier Italienern, der mindestens 200 Grand-Prix-Rennen bestritten hat. Trulli geh\u00F6rt mit 252 Starts zu den sechs Formel-1-Fahrern mit den meisten Grand-Prix-Starts. 1996 war Trulli deutscher Formel-3-Meister."@de ,
+		"Jarno Trulli (13 de julio de 1974, Pescara, Italia) es un piloto de automovilismo de velocidad italiano que corri\u00F3 en la F\u00F3rmula 1 desde 1997 hasta 2011. Obtuvo una \u00FAnica victoria en el Gran Premio de M\u00F3naco de 2004, 11 podios y 4 pole positions, destac\u00E1ndose como piloto de las escuder\u00EDas Renault y Toyota. Sus mejores resultados de campeonato fueron sexto en 2004, s\u00E9ptimo en 2005, octavo en 2002, 2003 y 2009, y noveno en 2001 y 2008."@es ,
+		"\u30E4\u30EB\u30CE\u30FB\u30C8\u30A5\u30EB\u30FC\u30EA\uFF08Jarno Trulli, 1974\u5E747\u670813\u65E5 - \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u59D3\u306E Trulli \u306F\u3001\u30A4\u30BF\u30EA\u30A2\u8A9E\u3067\u306F\u30C8\u30EB\u30C3\u30EA\u3068\u8AAD\u307E\u308C\u3001\u540D\u306F\u6B63\u5F0F\u306A\u30A4\u30BF\u30EA\u30A2\u8A9E\u306E\u767A\u97F3\u3067\u306F\u300C\u30E4\u30EB\u30CE\uFF63\u3067\u306F\u306A\u304F\u300C\u30A4\u30A1\u30FC\u30EB\u30CE\u300D\u304C\u8FD1\u3044(\u30A4\u30BF\u30EA\u30A2\u8A9E\u306B\u306F\u300C\u30E4\u300D\u884C\u306E\u767A\u97F3\u304C\u5B58\u5728\u305B\u305A\u3001J\u306FI\u3068\u540C\u3058\u767A\u97F3\u3068\u306A\u308B\u305F\u3081)\u3002 \u30D5\u30B8\u30C6\u30EC\u30D3F1\u4E2D\u7D99\u3067\u306E\u30CB\u30C3\u30AF\u30CD\u30FC\u30E0\u306F\u300C\u60C5\u71B1\u30D5\u30A1\u30F3\u30BF\u30B8\u30B9\u30BF\u300D\u300C\u60C5\u71B1\u306E\u30C8\u30E8\u30BF\u30EA\u30A2\u30F3\u300D\uFF08\u30C8\u30E8\u30BFF1\u5728\u7C4D\u6642\uFF09\u3002"@ja ,
+		"\u042F\u0301\u0440\u043D\u043E \u0422\u0440\u0443\u0301\u043B\u043B\u0438 (\u0438\u0442\u0430\u043B. Jarno Trulli) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u041F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u043A\u043B\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0441 1997 \u0433\u043E\u0434\u0430. \u0411\u044B\u043B \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434 Minardi, Prost, Jordan GP, Renault F1, Toyota F1. \u0412 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 2010-2011 \u0433\u043E\u0434\u043E\u0432 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Lotus Racing. \u0417\u0430 \u0440\u0443\u043B\u0451\u043C \u0420\u0435\u043D\u043E \u0432 2004 \u0433\u043E\u0434\u0443 \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u0441\u0432\u043E\u044E \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u0443\u044E \u043F\u043E\u0431\u0435\u0434\u0443 \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435. \u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u041F\u0440\u0435\u043C\u0438\u0438 \u0438\u043C\u0435\u043D\u0438 \u041B\u043E\u0440\u0435\u043D\u0446\u043E \u0411\u0430\u043D\u0434\u0438\u043D\u0438 (2000: \u0437\u0430 1999)"@ru ,
+		"Jarno Trulli (ur. 13 lipca 1974 w Pescarze) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W Formule 1 startowa\u0142 od sezonu 1997 do 2011. Reprezentowa\u0142 zespo\u0142y Minardi, Prost, Jordan, Renault, Toyota i Lotus. W tej serii wy\u015Bcigowej wygra\u0142 tylko raz, podczas Grand Prix Monako 2004. Zwyci\u0119zca niemieckiej Formu\u0142y 3 w sezonie 1996."@pl ,
+		"Jarno Trulli (Italian pronunciation: [\u02C8jarno \u02C8trulli]; born 13 July 1974) is an Italian racing driver. He competed in Formula One from 1997 to 2011, driving for Minardi, Prost, Jordan, Renault, Toyota, Lotus Racing and Team Lotus. His best result in the World Drivers' Championship was sixth place in 2004; this was also the year in which he scored the only win of his Formula One career at the 2004 Monaco Grand Prix."@en ,
+		"\u96C5\u8BFA\u00B7\u7279\u9C81\u5229\uFF08Jarno Trulli\uFF0C1974\u5E747\u670813\u65E5\uFF0D\uFF09\u662F\u610F\u5927\u5229\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u624B\uFF0C\u51FA\u751F\u65BC\u610F\u5927\u5229\u4F69\u65AF\u5361\u62C9\uFF08Pescalla\uFF09\u3002"@zh ,
+		"Jarno Trulli, n\u00E9 le 13 juillet 1974 \u00E0 Pescara, est un pilote automobile italien. Il est notamment connu pour avoir disput\u00E9 252 Grands Prix de Formule 1 entre 1997 et 2011, et remport\u00E9 une victoire lors du Grand Prix de Monaco 2004."@fr .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-nl:Jarno_Trulli ,
+		<http://rdf.freebase.com/ns/m.02_8p3> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-pt:Jarno_Trulli ,
+		<http://ja.dbpedia.org/resource/\u30E4\u30EB\u30CE\u30FB\u30C8\u30A5\u30EB\u30FC\u30EA> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-cs:Jarno_Trulli .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-es:Jarno_Trulli .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-pl:Jarno_Trulli .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-it:Jarno_Trulli .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-wikidata:Q171350 ,
+		wikidata:Q171350 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-fr:Jarno_Trulli ,
+		dbr:Jarno_Trulli ,
+		<http://viaf.org/viaf/37121997> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-de:Jarno_Trulli ,
+		<http://el.dbpedia.org/resource/\u0393\u03B9\u03AC\u03C1\u03BD\u03BF_\u03A4\u03C1\u03BF\u03CD\u03BB\u03B9> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	yago-res:Jarno_Trulli .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jarno_Trulli	owl:sameAs	dbpedia-id:Jarno_Trulli .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jarno_Trulli	dct:subject	dbc:German_Formula_Three_Championship_drivers ,
+		dbc:Living_people ,
+		dbc:Karting_World_Championship_drivers ,
+		dbc:People_named_in_the_Panama_Papers ,
+		dbc:People_from_Pescara ,
+		dbc:Italian_expatriate_sportspeople_in_Switzerland ,
+		dbc:Formula_E_drivers ,
+		dbc:Prost_Formula_One_drivers ,
+		dbc:Jordan_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1974_births> ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:Toyota_Formula_One_drivers ,
+		dbc:Formula_E_team_owners ,
+		dbc:Renault_Formula_One_drivers ,
+		dbc:Italian_expatriate_sportspeople_in_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Category:Team_Lotus_(2010\u201311)_Formula_One_drivers> ,
+		dbc:Italian_expatriates_in_Monaco ;
+	foaf:name	"Jarno Trulli"@en ;
+	foaf:homepage	<http://www.jarnotrulli.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Jarno_Trulli_2010_Malaysia.jpg> ;
+	dct:description	"Italian racecar driver"@en ;
+	foaf:givenName	"Jarno"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Jarno_Trulli	foaf:isPrimaryTopicOf	wikipedia-en:Jarno_Trulli ;
+	foaf:surname	"Trulli"@en ;
+	dbp:title	dbr:Lorenzo_Bandini_Trophy ,
+		"Jarno Trulli sporting positions"^^xsd:string ,
+		dbr:List_of_German_Formula_Three_champions ;
+	dbp:years	1996 ,
+		2000 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jarno_Trulli	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jarno_Trulli?oldid=739360195> ;
+	dbp:before	dbr:Alexander_Wurz ,
+		dbr:Norberto_Fontana ;
+	dbp:after	dbr:Jenson_Button ,
+		dbr:Nick_Heidfeld ;
+	dbo:team	dbr:Trulli_GP ;
+	dbp:fastestLaps	0 ;
+	dbp:starts	11 ;
+	dbp:poles	1 ;
+	dbp:championships	0 ;
+	dbo:wikiPageExternalLink	<http://www.jarnotrulli.com/> ,
+		<http://edition.cnn.com/CNNI/Programs/revealed/trulli/> ;
+	dbp:caption	"Trulli at the 2010 Malaysian Grand Prix"^^xsd:string ;
+	dbo:abstract	"\u30E4\u30EB\u30CE\u30FB\u30C8\u30A5\u30EB\u30FC\u30EA\uFF08Jarno Trulli, 1974\u5E747\u670813\u65E5 - \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u59D3\u306E Trulli \u306F\u3001\u30A4\u30BF\u30EA\u30A2\u8A9E\u3067\u306F\u30C8\u30EB\u30C3\u30EA\u3068\u8AAD\u307E\u308C\u3001\u540D\u306F\u6B63\u5F0F\u306A\u30A4\u30BF\u30EA\u30A2\u8A9E\u306E\u767A\u97F3\u3067\u306F\u300C\u30E4\u30EB\u30CE\uFF63\u3067\u306F\u306A\u304F\u300C\u30A4\u30A1\u30FC\u30EB\u30CE\u300D\u304C\u8FD1\u3044(\u30A4\u30BF\u30EA\u30A2\u8A9E\u306B\u306F\u300C\u30E4\u300D\u884C\u306E\u767A\u97F3\u304C\u5B58\u5728\u305B\u305A\u3001J\u306FI\u3068\u540C\u3058\u767A\u97F3\u3068\u306A\u308B\u305F\u3081)\u3002 \u30D5\u30B8\u30C6\u30EC\u30D3F1\u4E2D\u7D99\u3067\u306E\u30CB\u30C3\u30AF\u30CD\u30FC\u30E0\u306F\u300C\u60C5\u71B1\u30D5\u30A1\u30F3\u30BF\u30B8\u30B9\u30BF\u300D\u300C\u60C5\u71B1\u306E\u30C8\u30E8\u30BF\u30EA\u30A2\u30F3\u300D\uFF08\u30C8\u30E8\u30BFF1\u5728\u7C4D\u6642\uFF09\u3002"@ja ,
+		"Jarno Trulli (13 de julio de 1974, Pescara, Italia) es un piloto de automovilismo de velocidad italiano que corri\u00F3 en la F\u00F3rmula 1 desde 1997 hasta 2011. Obtuvo una \u00FAnica victoria en el Gran Premio de M\u00F3naco de 2004, 11 podios y 4 pole positions, destac\u00E1ndose como piloto de las escuder\u00EDas Renault y Toyota. Sus mejores resultados de campeonato fueron sexto en 2004, s\u00E9ptimo en 2005, octavo en 2002, 2003 y 2009, y noveno en 2001 y 2008. En 2014 cre\u00F3 la escuder\u00EDa Trulli Formula E Team para participar en la temporada inaugural 2014-15 del nuevo campeonato mundial de F\u00F3rmula E organizado por la Federaci\u00F3n Internacional del Autom\u00F3vil (FIA). Adem\u00E1s de fundador de la escuder\u00EDa, tambi\u00E9n fungi\u00F3 como piloto titular de la misma."@es ,
+		"Jarno Trulli (ur. 13 lipca 1974 w Pescarze) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W Formule 1 startowa\u0142 od sezonu 1997 do 2011. Reprezentowa\u0142 zespo\u0142y Minardi, Prost, Jordan, Renault, Toyota i Lotus. W tej serii wy\u015Bcigowej wygra\u0142 tylko raz, podczas Grand Prix Monako 2004. Zwyci\u0119zca niemieckiej Formu\u0142y 3 w sezonie 1996."@pl ,
+		"Il pilota abruzzese \u00E8 ritenuto tra i pi\u00F9 veloci nel giro singolo negli anni 2000. Il nome Jarno fu scelto dai genitori Enzo e Franca, in omaggio alla memoria del campione finlandese Jarno Saarinen."@it ,
+		"\u96C5\u8BFA\u00B7\u7279\u9C81\u5229\uFF08Jarno Trulli\uFF0C1974\u5E747\u670813\u65E5\uFF0D\uFF09\u662F\u610F\u5927\u5229\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u624B\uFF0C\u51FA\u751F\u65BC\u610F\u5927\u5229\u4F69\u65AF\u5361\u62C9\uFF08Pescalla\uFF09\u3002"@zh ,
+		"\u042F\u0301\u0440\u043D\u043E \u0422\u0440\u0443\u0301\u043B\u043B\u0438 (\u0438\u0442\u0430\u043B. Jarno Trulli) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u041F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u043A\u043B\u0430\u0441\u0441\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0441 1997 \u0433\u043E\u0434\u0430. \u0411\u044B\u043B \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u043A\u043E\u043C\u0430\u043D\u0434 Minardi, Prost, Jordan GP, Renault F1, Toyota F1. \u0412 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 2010-2011 \u0433\u043E\u0434\u043E\u0432 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Lotus Racing. \u0417\u0430 \u0440\u0443\u043B\u0451\u043C \u0420\u0435\u043D\u043E \u0432 2004 \u0433\u043E\u0434\u0443 \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u0441\u0432\u043E\u044E \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u0443\u044E \u043F\u043E\u0431\u0435\u0434\u0443 \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435. \u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u041F\u0440\u0435\u043C\u0438\u0438 \u0438\u043C\u0435\u043D\u0438 \u041B\u043E\u0440\u0435\u043D\u0446\u043E \u0411\u0430\u043D\u0434\u0438\u043D\u0438 (2000: \u0437\u0430 1999)"@ru ,
+		"Jarno Trulli (Pescara, 13 de julho de 1974), \u00E9 um piloto de automobilismo italiano. Al\u00E9m do sucesso na F1, em 1991, sagrou-se campe\u00E3o mundial de kart."@pt ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u064A\u0627\u0631\u0646\u0648 \u062A\u0631\u0648\u0644\u0644\u064A (\u0628\u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629: Jarno Trulli) \u0648\u0644\u062F \u0628\u062A\u0627\u0631\u064A\u062E 13 \u064A\u0648\u0644\u064A\u0648 1974. \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642."@ar ,
+		"Jarno Trulli (* 13. Juli 1974 in Pescara) ist ein italienischer Automobilrennfahrer. Er startete von 1997 bis 2011 in der Formel 1. Seinen einzigen Grand-Prix-Sieg erzielte er 2004 f\u00FCr Renault. 2014/15 fuhr er in der FIA-Formel-E-Meisterschaft. Trulli ist neben Riccardo Patrese, Giancarlo Fisichella und Andrea de Cesaris einer von vier Italienern, der mindestens 200 Grand-Prix-Rennen bestritten hat. Trulli geh\u00F6rt mit 252 Starts zu den sechs Formel-1-Fahrern mit den meisten Grand-Prix-Starts. 1996 war Trulli deutscher Formel-3-Meister."@de ,
+		"Jarno Trulli (Italian pronunciation: [\u02C8jarno \u02C8trulli]; born 13 July 1974) is an Italian racing driver. He competed in Formula One from 1997 to 2011, driving for Minardi, Prost, Jordan, Renault, Toyota, Lotus Racing and Team Lotus. His best result in the World Drivers' Championship was sixth place in 2004; this was also the year in which he scored the only win of his Formula One career at the 2004 Monaco Grand Prix. Throughout his Formula One career, Trulli was renowned for his skill in qualifying, regularly achieving far better grid positions than rivals with superior cars to his own. He was also known for his defensive driving style which allowed him to successfully hold off quicker drivers, sometimes for an entire race. The combination of being able to achieve high grid positions in comparatively slow cars and his ability to hold off faster drivers would often result in a line of vehicles forming behind him during a race, which was commonly referred to as the 'Trulli Train' by commentators, fans and journalists. Trulli retired from Formula One at the start of the 2012 after having competed in the championship for 15 years. In 2014\u201315 he competed in the inaugural season of the FIA Formula E Championship, driving for Trulli GP, a team he founded himself."@en ,
+		"Jarno Trulli (Pescara, 13 juli 1974) is een Italiaanse Formule 1-coureur. Jarno Trulli is vernoemd naar Jarno Saarinen, een Finse motorcoureur die om het leven kwam op het circuit van Monza in 1973. De voornaam Jarno was in die tijd erg populair in Itali\u00EB. De ouders van Jarno Trulli waren motorsportfans en Jarno was op jonge leeftijd al in een kart te vinden. In 1991 won hij het Karting World Championship. Hij begon zijn Formule 1-carri\u00E8re in 1997 bij het team van Minardi. In 1998 en 1999 reed Jarno Trulli voor het team van Prost, waarna hij de overstap maakte naar Jordan, waar hij twee jaar heeft gereden. In 2001 maakt hij dan de overstap naar Renault, daar zou hij drie jaar blijven voordat hij naar het team Toyota overstapte. In het laatste jaar dat hij bij Renault reed pakte hij zijn eerste en tot nog toe enige overwinning in de Formule 1 op het stratencircuit van Monaco. Op 14 december 2009 werd officieel bekendgemaakt dat Trulli was opgenomen in het team van Lotus, waar hij in 2010 en 2011 voor rijdt. Op 30 oktober 2011 maakte hij in de Grand Prix van India zijn 250e start in een Formule 1 Grand Prix. Van het huidige veld hebben alleen Rubens Barrichello en Michael Schumacher meer races gereden. Voor het seizoen 2012 had Trulli een contract met Lotus, tegenwoordig Caterham geheten, om daar te racen. Hij werd voor de eerste race echter al vervangen door Vitali Petrov, waarmee zijn Formule 1-carri\u00E8re na 15 jaar ten einde komt. In het seizoen 2014-2015 maakte Trulli zijn terugkeer in de autosport in het nieuwe elektrische kampioenschap Formule E. Hij kwam hier uit voor zijn eigen team Trulli GP, met Michela Cerruti als teamgenoot."@nl ,
+		"Jarno Trulli, n\u00E9 le 13 juillet 1974 \u00E0 Pescara, est un pilote automobile italien. Il est notamment connu pour avoir disput\u00E9 252 Grands Prix de Formule 1 entre 1997 et 2011, et remport\u00E9 une victoire lors du Grand Prix de Monaco 2004."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Jarno_Trulli_2010_Malaysia.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jarno_Trulli	dbo:birthDate	"1974-7-13"^^xsd:date ,
+		"1974-07-13"^^xsd:date ;
+	dbo:wikiPageRevisionID	739360195 ;
+	dbo:birthPlace	dbr:Italy ,
+		dbr:Pescara ;
+	dbo:wikiPageID	647260 ;
+	dbp:currentSeries	dbr:FIA_Formula_E_Championship ;
+	dbp:lastFinish	20 ;
+	dbp:bestFinish	20 ;
+	dbp:carNumber	10 ;
+	dbp:firstYear	2014 ;
+	dbp:year	2014 ;
+	dbp:wins	0 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Jarno_Trulli	ns28:hypernym	dbr:Driver ;
+	dbp:nationality	"Italian"^^xsd:string .
+dbr:Nick_Heidfeld	dbp:before	dbr:Jarno_Trulli .
+dbr:Alexander_Wurz	dbp:after	dbr:Jarno_Trulli .
+wikipedia-en:Jarno_Trulli	foaf:primaryTopic	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/1994_British_Formula_Three_Championship__RC_Motorsport__2>	dbo:firstDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/1995_Macau_Grand_Prix__KMS__2>	dbo:firstDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/1996_Macau_Grand_Prix__KMS__1>	dbo:firstDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2008_French_Grand_Prix>	dbo:thirdDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2009_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2005_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2004_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2004_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Jarno_Trulli ;
+	dbo:poleDriver	dbr:Jarno_Trulli .
+dbr:Jordan_Grand_Prix	dbp:drivers	dbr:Jarno_Trulli .
+<http://dbpedia.org/resource/2015_Berlin_ePrix>	dbo:poleDriver	dbr:Jarno_Trulli .

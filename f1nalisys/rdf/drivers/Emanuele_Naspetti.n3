@@ -1,0 +1,151 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	dbp:before	dbr:Emanuele_Naspetti .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Emanuele_Naspetti	foaf:primaryTopic	dbr:Emanuele_Naspetti .
+dbr:Rinaldo_Capello	dbp:after	dbr:Emanuele_Naspetti .
+dbr:Fabrizio_Giovanardi	dbp:before	dbr:Emanuele_Naspetti .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Emanuele_Naspetti	rdf:type	dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Emanuele_Naspetti	rdf:type	yago:CausalAgent100007347 ,
+		yago:WikicatInternationalFormula3000Drivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Emanuele_Naspetti	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Emanuele_Naspetti	rdf:type	wikidata:Q5 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatJordanFormulaOneDrivers ,
+		yago:WikicatItalianFormulaThreeChampionshipDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Emanuele_Naspetti	rdf:type	owl:Thing ,
+		yago:WikicatJapaneseFormula3000ChampionshipDrivers ,
+		dbo:FormulaOneRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Emanuele_Naspetti	rdf:type	schema:Person .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Emanuele_Naspetti	rdf:type	ns11:NaturalPerson ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		foaf:Person ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatAmericanLeMansSeriesDrivers ,
+		ns11:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Emanuele_Naspetti	rdfs:label	"Emanuele Naspetti"@de ,
+		"Emanuele Naspetti"@nl ,
+		"\u30A8\u30DE\u30CB\u30E5\u30A8\u30EB\u30FB\u30CA\u30B9\u30DA\u30C3\u30C6\u30A3"@ja ,
+		"Emanuele Naspetti"@es ,
+		"Emanuele Naspetti"@it ,
+		"Emanuele Naspetti"@fr ,
+		"Emanuele Naspetti"@en ,
+		"Emanuele Naspetti"@pl ,
+		"\u041D\u0430\u0441\u043F\u0435\u0442\u0442\u0438, \u042D\u043C\u0430\u043D\u0443\u044D\u043B\u0435"@ru ,
+		"Emanuele Naspetti"@pt ;
+	rdfs:comment	"Emanuele Naspetti (Ancona, 24 de Fevereiro de 1968) \u00E9 um automobilista da It\u00E1lia. Participou de seis grandes pr\u00EAmios (GPs) de F1 entre 1992 e 1993, n\u00E3o conquistando pontos."@pt ,
+		"Emanuele Naspetti (n\u00E9 le 24 f\u00E9vrier 1968 \u00E0 Anc\u00F4ne, dans les Marches) est un pilote automobile italien, qui disputa six Grands Prix de Formule 1 au d\u00E9but des ann\u00E9es 1990, et s'illustra par la suite dans le championnat italien de voitures de tourisme."@fr ,
+		"Emanuele Naspetti (* 24. Februar 1968 in Ancona) ist ein ehemaliger italienischer Autorennfahrer."@de ,
+		"\u042D\u043C\u0430\u043D\u0443\u044D\u043B\u0435 \u041D\u0430\u0441\u043F\u0435\u0442\u0442\u0438 (\u0438\u0442\u0430\u043B. Emanuele Naspetti, 24 \u0444\u0435\u0432\u0440\u0430\u043B\u044F, 1968, \u0410\u043D\u043A\u043E\u043D\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Emanuele Naspetti (born February 24, 1968 in Ancona) is a racing driver and entrepreneur from Italy."@en ,
+		"Emanuele Naspetti (24 de febrero de 1968 en Ancona) es un piloto italiano de competici\u00F3n, y ex piloto de F\u00F3rmula 1 de las escuder\u00EDas March y Jordan Grand Prix."@es ,
+		"Emanuele Naspetti (ur. 24 lutego 1968 roku w Ankonie) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W 1988 wygra\u0142 w\u0142osk\u0105 Formu\u0142\u0119 3. W 1992 zosta\u0142 kierowc\u0105 testowym zespo\u0142u March. W jego barwach zadebiutowa\u0142 w Formule 1, gdy\u017C team ten postanowi\u0142 zatrudni\u0107 go jako kierowc\u0119 wy\u015Bcigowego na 5 ostatnich Grand Prix sezonu 1992. Najwy\u017Cej by\u0142 11 - jak si\u0119 p\u00F3\u017Aniej okaza\u0142o by\u0142o to najwy\u017Csze miejsce w ca\u0142ej jego karierze. W sezonie 1993 zosta\u0142 kierowc\u0105 testowym w stajni Jordan Grand Prix. Kiedy nie sprawdzili si\u0119 do\u015Bwiadczeni Ivan Capelli i Thierry Boutsen, w\u0142a\u015Bciciel teamu Eddie Jordan da\u0142 mu szans\u0119 na wyst\u0119p w GP Portugalii. Naspetti wypad\u0142 na tle partnera z zespo\u0142u (by\u0142 nim Brazylijczyk Rubens Barrichello) bardzo s\u0142abo i ju\u017C nigdy nie dosta\u0142 szansy start\u00F3w w wy\u015Bcigu F1."@pl ,
+		"Emanuele Naspetti (Ancona, 24 februari 1968) is een voormalig Italiaans autocoureur. Hij maakte zijn Formule 1-debuut in 1992 bij March en nam deel aan 6 Grands Prix. Hij scoorde geen punten. Hij werd derde in het Formule 3000-kampioenschap van 1991 en zesde in dat van 1992. Daarna mocht hij debuteren in de Formule 1 bij March. Hij reed dat jaar 5 Grand Prix met als beste resultaat een elfde plaats. Een jaar later mocht hij ook nog een race rijden voor Jordan maar werd onmiddellijk opnieuw opzij geschoven."@nl ,
+		"\u30A8\u30DE\u30CB\u30E5\u30A8\u30EB\u30FB\u30CA\u30B9\u30DA\u30C3\u30C6\u30A3\uFF08Emmanuele Naspetti, 1968\u5E742\u670824\u65E5-\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30A2\u30F3\u30B3\u30CA\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u540D\u306F\u30A8\u30DE\u30CB\u30E5\u30A8\u30FC\u30EC\u3001\u30A8\u30DE\u30CC\u30A8\u30EB\u3001\u30A8\u30DE\u30CB\u30A8\u30EB\u7B49\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u30021988\u5E74\u30A4\u30BF\u30EA\u30A2F3\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002"@ja .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Emanuele_Naspetti	dbp:birthDate	"1968-02-24"^^xsd:date .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	dbpedia-de:Emanuele_Naspetti .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	dbpedia-pl:Emanuele_Naspetti ,
+		<http://rdf.freebase.com/ns/m.04k83l> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	yago-res:Emanuele_Naspetti .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	dbpedia-nl:Emanuele_Naspetti .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	dbpedia-it:Emanuele_Naspetti ,
+		dbr:Emanuele_Naspetti .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	dbpedia-id:Emanuele_Naspetti .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	dbpedia-es:Emanuele_Naspetti ,
+		wikidata:Q171508 ,
+		<http://ja.dbpedia.org/resource/\u30A8\u30DE\u30CB\u30E5\u30A8\u30EB\u30FB\u30CA\u30B9\u30DA\u30C3\u30C6\u30A3> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	dbpedia-wikidata:Q171508 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	dbpedia-pt:Emanuele_Naspetti .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Emanuele_Naspetti	owl:sameAs	dbpedia-fr:Emanuele_Naspetti .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Emanuele_Naspetti	dct:subject	<http://dbpedia.org/resource/Category:1968_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Emanuele_Naspetti	dct:subject	dbc:European_Touring_Car_Championship_drivers ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:Japanese_Formula_3000_Championship_drivers ,
+		dbc:March_Formula_One_drivers ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:Italian_Formula_Three_Championship_drivers ,
+		dbc:Jordan_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ;
+	foaf:name	"Emanuele Naspetti"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Emanuele"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Emanuele_Naspetti ;
+	foaf:surname	"Naspetti"@en ;
+	dbp:points	0 ;
+	dbp:years	1997 ,
+		1988 ,
+		"-"^^xsd:string ;
+	dbp:after	dbr:Gianni_Morbidelli ,
+		dbr:Fabrizio_Giovanardi ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Jordan_Grand_Prix ,
+		dbr:March_Engineering .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Emanuele_Naspetti	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Emanuele_Naspetti?oldid=739316661> ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:birthPlace	"Ancona, Italy"^^xsd:string ;
+	dbp:before	dbr:Enrico_Bertaggia ,
+		dbr:Rinaldo_Capello ;
+	dbo:abstract	"\u042D\u043C\u0430\u043D\u0443\u044D\u043B\u0435 \u041D\u0430\u0441\u043F\u0435\u0442\u0442\u0438 (\u0438\u0442\u0430\u043B. Emanuele Naspetti, 24 \u0444\u0435\u0432\u0440\u0430\u043B\u044F, 1968, \u0410\u043D\u043A\u043E\u043D\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Emanuele Naspetti (Ancona, 24 de Fevereiro de 1968) \u00E9 um automobilista da It\u00E1lia. Participou de seis grandes pr\u00EAmios (GPs) de F1 entre 1992 e 1993, n\u00E3o conquistando pontos."@pt ,
+		"Emanuele Naspetti (24 de febrero de 1968 en Ancona) es un piloto italiano de competici\u00F3n, y ex piloto de F\u00F3rmula 1 de las escuder\u00EDas March y Jordan Grand Prix."@es ,
+		"Emanuele Naspetti (ur. 24 lutego 1968 roku w Ankonie) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W 1988 wygra\u0142 w\u0142osk\u0105 Formu\u0142\u0119 3. W 1992 zosta\u0142 kierowc\u0105 testowym zespo\u0142u March. W jego barwach zadebiutowa\u0142 w Formule 1, gdy\u017C team ten postanowi\u0142 zatrudni\u0107 go jako kierowc\u0119 wy\u015Bcigowego na 5 ostatnich Grand Prix sezonu 1992. Najwy\u017Cej by\u0142 11 - jak si\u0119 p\u00F3\u017Aniej okaza\u0142o by\u0142o to najwy\u017Csze miejsce w ca\u0142ej jego karierze. W sezonie 1993 zosta\u0142 kierowc\u0105 testowym w stajni Jordan Grand Prix. Kiedy nie sprawdzili si\u0119 do\u015Bwiadczeni Ivan Capelli i Thierry Boutsen, w\u0142a\u015Bciciel teamu Eddie Jordan da\u0142 mu szans\u0119 na wyst\u0119p w GP Portugalii. Naspetti wypad\u0142 na tle partnera z zespo\u0142u (by\u0142 nim Brazylijczyk Rubens Barrichello) bardzo s\u0142abo i ju\u017C nigdy nie dosta\u0142 szansy start\u00F3w w wy\u015Bcigu F1. Od 1994 skupi\u0142 si\u0119 na wy\u015Bcigach samochod\u00F3w turystycznych, w kt\u00F3rych odnosi\u0142 spore sukcesy szczeg\u00F3lnie we w\u0142oskiej serii. Zdoby\u0142 w niej tytu\u0142 mistrzowski (1997) i trzy tytu\u0142y wicemistrzowskie (1998, 1999, 2006). W 2006 zako\u0144czy\u0142 karier\u0119, jednak w 2009 ponownie pojawi\u0142 si\u0119 na torach wy\u015Bcigowych, tym razem startuj\u0105c we w\u0142oskiej serii Porsche Carrera Cup."@pl ,
+		"Emanuele Naspetti (* 24. Februar 1968 in Ancona) ist ein ehemaliger italienischer Autorennfahrer."@de ,
+		"\u30A8\u30DE\u30CB\u30E5\u30A8\u30EB\u30FB\u30CA\u30B9\u30DA\u30C3\u30C6\u30A3\uFF08Emmanuele Naspetti, 1968\u5E742\u670824\u65E5-\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30A2\u30F3\u30B3\u30CA\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u540D\u306F\u30A8\u30DE\u30CB\u30E5\u30A8\u30FC\u30EC\u3001\u30A8\u30DE\u30CC\u30A8\u30EB\u3001\u30A8\u30DE\u30CB\u30A8\u30EB\u7B49\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u30021988\u5E74\u30A4\u30BF\u30EA\u30A2F3\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002"@ja ,
+		"Emanuele Naspetti (born February 24, 1968 in Ancona) is a racing driver and entrepreneur from Italy."@en ,
+		"Emanuele Naspetti (n\u00E9 le 24 f\u00E9vrier 1968 \u00E0 Anc\u00F4ne, dans les Marches) est un pilote automobile italien, qui disputa six Grands Prix de Formule 1 au d\u00E9but des ann\u00E9es 1990, et s'illustra par la suite dans le championnat italien de voitures de tourisme."@fr ,
+		"Emanuele Naspetti (Ancona, 24 februari 1968) is een voormalig Italiaans autocoureur. Hij maakte zijn Formule 1-debuut in 1992 bij March en nam deel aan 6 Grands Prix. Hij scoorde geen punten. Hij werd derde in het Formule 3000-kampioenschap van 1991 en zesde in dat van 1992. Daarna mocht hij debuteren in de Formule 1 bij March. Hij reed dat jaar 5 Grand Prix met als beste resultaat een elfde plaats. Een jaar later mocht hij ook nog een race rijden voor Jordan maar werd onmiddellijk opnieuw opzij geschoven."@nl ;
+	dbo:birthDate	"1968-2-24"^^xsd:date ;
+	dbo:wikiPageRevisionID	739316661 ;
+	dbo:birthPlace	dbr:Ancona ;
+	dbo:wikiPageID	1228324 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1992_Belgian_Grand_Prix> ;
+	dbo:races	"6"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1993_Portuguese_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Emanuele_Naspetti	ns27:hypernym	dbr:Driver ;
+	dbp:title	dbr:Italia_Superturismo_Championship ,
+		dbr:Italian_Formula_Three_Championship .
+dbr:Enrico_Bertaggia	dbp:after	dbr:Emanuele_Naspetti .

@@ -1,0 +1,69 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1952_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Vittorio_Marzotto .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Vittorio_Marzotto	foaf:primaryTopic	dbr:Vittorio_Marzotto .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Vittorio_Marzotto	rdf:type	dbo:RacingDriver .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Vittorio_Marzotto	rdf:type	yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatRacingDrivers ,
+		yago:WikicatMilleMigliaDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Vittorio_Marzotto	rdfs:label	"Vittorio Marzotto"@nl ,
+		"Vittorio Marzotto"@en ,
+		"Vittorio Marzotto"@de ,
+		"Vittorio Marzotto"@fr ;
+	rdfs:comment	"Vittorio Marzotto (13 June 1922, Valdagno \u2013 4 February 1999) was an Italian racing driver. He drove 16 sports car races between 1948 and 1955, mainly in Ferrari's, his best results being two victories and three second places. He also entered a Formula 1-race in 1952, the French Grand Prix, as reserve driver for Scuderia Ferrari. However, all Ferrari works drivers started the race, so Marzotto was unable to and he never entered Formula 1 again.Marzotto was the son of Count Gaetano Marzotto and he was the oldest of four brothers (Paolo, Giannino, Umberto and Vittorio), who were all racing drivers too."@en ,
+		"Vittorio Marzotto (* 13. Juni 1922; \u2020 4. Februar 1999) war ein italienischer Automobilrennfahrer."@de ,
+		"Vittorio Marzotto (Valdagno, 13 juni 1922 - 4 februari 1999) was een Italiaans autocoureur. Hij was de oudste van vier broers (Paolo, Umberto, Gianni en Vittorio) die autocoureur zijn. Hij nam vanaf 1948 deel aan de Mille Miglia, waar hij in 1950 negende en in 1954 tweede werd. In 1952 won hij ook de Grand Prix van Monaco. In 1952 stond hij ook op de inschrijflijst van een Formule 1-race, de Grand Prix van Frankrijk van dat jaar, waar hij als vervanger voor de Ferrari-coureurs aanwezig was. Alle Ferrari-coureurs startten echter gewoon, waardoor Marzotto zelf niet startte. Hij schreef zich hierna nooit meer in voor een Formule 1-race. Na een zesde plaats in de Giro di Sicilia in 1955 stopte hij met de autosport."@nl ,
+		"Vittorio Marzotto, n\u00E9 le 13 juin 1922 \u00E0 Valdagno et d\u00E9c\u00E9d\u00E9 le 4 f\u00E9vrier 1999 (\u00E0 76 ans), est un pilote automobile italien essentiellement sp\u00E9cialiste de courses sur circuits, \u00E0 bord de voitures de Sport Grand Tourisme."@fr .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Vittorio_Marzotto	owl:sameAs	dbr:Vittorio_Marzotto .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Vittorio_Marzotto	owl:sameAs	yago-res:Vittorio_Marzotto .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Vittorio_Marzotto	owl:sameAs	dbpedia-fr:Vittorio_Marzotto .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Vittorio_Marzotto	owl:sameAs	dbpedia-nl:Vittorio_Marzotto .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Vittorio_Marzotto	owl:sameAs	dbpedia-de:Vittorio_Marzotto .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Vittorio_Marzotto	owl:sameAs	dbpedia-wikidata:Q187018 ,
+		<http://rdf.freebase.com/ns/m.0rpgdpb> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Vittorio_Marzotto	owl:sameAs	wikidata:Q187018 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Vittorio_Marzotto	dct:subject	dbc:Mille_Miglia_drivers ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1922_births> ,
+		dbc:Ferrari_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1999_deaths> ,
+		dbc:People_from_the_Province_of_Vicenza ;
+	foaf:name	"Vittorio Marzotto"@en ;
+	dct:description	"Italian race driver"@en ;
+	foaf:givenName	"Vittorio"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Vittorio_Marzotto ;
+	foaf:surname	"Marzotto"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Vittorio_Marzotto	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Vittorio_Marzotto?oldid=722949436> ;
+	dbo:abstract	"Vittorio Marzotto (* 13. Juni 1922; \u2020 4. Februar 1999) war ein italienischer Automobilrennfahrer."@de ,
+		"Vittorio Marzotto, n\u00E9 le 13 juin 1922 \u00E0 Valdagno et d\u00E9c\u00E9d\u00E9 le 4 f\u00E9vrier 1999 (\u00E0 76 ans), est un pilote automobile italien essentiellement sp\u00E9cialiste de courses sur circuits, \u00E0 bord de voitures de Sport Grand Tourisme."@fr ,
+		"Vittorio Marzotto (13 June 1922, Valdagno \u2013 4 February 1999) was an Italian racing driver. He drove 16 sports car races between 1948 and 1955, mainly in Ferrari's, his best results being two victories and three second places. He also entered a Formula 1-race in 1952, the French Grand Prix, as reserve driver for Scuderia Ferrari. However, all Ferrari works drivers started the race, so Marzotto was unable to and he never entered Formula 1 again.Marzotto was the son of Count Gaetano Marzotto and he was the oldest of four brothers (Paolo, Giannino, Umberto and Vittorio), who were all racing drivers too."@en ,
+		"Vittorio Marzotto (Valdagno, 13 juni 1922 - 4 februari 1999) was een Italiaans autocoureur. Hij was de oudste van vier broers (Paolo, Umberto, Gianni en Vittorio) die autocoureur zijn. Hij nam vanaf 1948 deel aan de Mille Miglia, waar hij in 1950 negende en in 1954 tweede werd. In 1952 won hij ook de Grand Prix van Monaco. In 1952 stond hij ook op de inschrijflijst van een Formule 1-race, de Grand Prix van Frankrijk van dat jaar, waar hij als vervanger voor de Ferrari-coureurs aanwezig was. Alle Ferrari-coureurs startten echter gewoon, waardoor Marzotto zelf niet startte. Hij schreef zich hierna nooit meer in voor een Formule 1-race. Na een zesde plaats in de Giro di Sicilia in 1955 stopte hij met de autosport."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Vittorio_Marzotto	dbo:birthDate	"1922-6-13"^^xsd:date ;
+	dbo:deathDate	"1999-2-4"^^xsd:date ;
+	dbo:wikiPageRevisionID	722949436 ;
+	dbo:wikiPageID	38825308 .
+@prefix ns18:	<http://purl.org/linguistics/gold/> .
+dbr:Vittorio_Marzotto	ns18:hypernym	dbr:Driver .
+dbr:Vittorio	dbo:wikiPageDisambiguates	dbr:Vittorio_Marzotto .

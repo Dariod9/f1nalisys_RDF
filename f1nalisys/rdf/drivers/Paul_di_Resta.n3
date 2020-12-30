@@ -1,0 +1,205 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Alex_Lloyd_(racing_driver)>	dbp:after	dbr:Paul_di_Resta .
+dbr:Oliver_Jarvis	dbp:before	dbr:Paul_di_Resta .
+dbr:Martin_Tomczyk	dbp:before	dbr:Paul_di_Resta .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Paul_di_Resta	foaf:primaryTopic	dbr:Paul_di_Resta .
+dbr:Kamui_Kobayashi	dbp:after	dbr:Paul_di_Resta .
+dbr:Timo_Scheider	dbp:after	dbr:Paul_di_Resta .
+<http://dbpedia.org/resource/Nico_H\u00FClkenberg>	dbp:before	dbr:Paul_di_Resta .
+<http://dbpedia.org/resource/Math\u00E9o_Tuscher>	dbp:before	dbr:Paul_di_Resta .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Paul_di_Resta	rdf:type	yago:Champion109906704 ,
+		yago:WikicatScottishPeople ,
+		yago:WikicatScottishPeopleOfItalianDescent .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Paul_di_Resta	rdf:type	dbo:Athlete ,
+		yago:WikicatLivingPeople ,
+		yago:Athlete109820263 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Paul_di_Resta	rdf:type	ns7:Agent ,
+		yago:Contestant109613191 ,
+		yago:Traveler109629752 ,
+		ns7:NaturalPerson ,
+		yago:WikicatBritishPeopleOfItalianDescent ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Paul_di_Resta	rdf:type	owl:Thing ,
+		yago:Rival110533013 ,
+		yago:WikicatScottishAthletes ,
+		yago:CausalAgent100007347 ,
+		yago:Whole100003553 ,
+		yago:Absentee109757653 ,
+		yago:LivingThing100004258 ,
+		yago:Organism100004475 ,
+		dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Paul_di_Resta	rdf:type	wikidata:Q378622 ,
+		yago:WikicatPeopleEducatedAtBathgateAcademy ,
+		yago:WikicatFormula3EuroSeriesChampions ,
+		wikidata:Q5 ,
+		yago:WikicatDeutscheTourenwagenMastersChampions .
+@prefix schema:	<http://schema.org/> .
+dbr:Paul_di_Resta	rdf:type	schema:Person ,
+		yago:WikicatScottishExpatriatesInMonaco ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		dbo:RacingDriver ,
+		yago:PhysicalEntity100001930 ,
+		yago:Exile110071332 ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:WikicatBritishPeople .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Paul_di_Resta	rdfs:label	"Paul di Resta"@nl ,
+		"\u30DD\u30FC\u30EB\u30FB\u30C7\u30A3\u30FB\u30EC\u30B9\u30BF"@ja ,
+		"\u4FDD\u7F57\u00B7\u8FEA\u00B7\u96F7\u65AF\u5854"@zh ,
+		"Paul di Resta"@pl ,
+		"Paul Di Resta"@es ,
+		"Paul di Resta"@de ,
+		"Paul di Resta"@it ,
+		"Paul di Resta"@en ,
+		"Paul di Resta"@fr ,
+		"\u0414\u0438 \u0420\u0435\u0441\u0442\u0430, \u041F\u043E\u043B"@ru ,
+		"Paul di Resta"@pt ;
+	rdfs:comment	"Paul Di Resta (Uphall, West Lothian, Escocia, Reino Unido, 16 de abril de 1986) es un piloto de automovilismo de velocidad brit\u00E1nico. Corri\u00F3 para Force India de F\u00F3rmula 1 como piloto titular entre 2011 y 2013. Anteriormente fue campe\u00F3n del Deutsche Tourenwagen Masters en 2010, subcampe\u00F3n en 2008 y tercero en 2009, logrando seis victorias y 21 podios en 42 carreras."@es ,
+		"\u4FDD\u7F85\u00B7\u9054\u00B7\u96F7\u65AF\u9054\uFF08Paul di Resta\uFF1B1986\u5E744\u670816\u65E5\uFF0D\uFF09\uFF0C\u82F1\u570B\u8607\u683C\u862D\u897F\u6D1B\u932B\u5B89\u4EBA\uFF0C\u8077\u696D\u8CFD\u8ECA\u624B\u3002\u70BA\u77E5\u540D\u8CFD\u8ECA\u624B\u9054\u91CC\u5967\u00B7\u6CD5\u862D\u57FA\u8482\uFF08Dario Franchitti\uFF09\u3001\u99AC\u5229\u8AFE\u00B7\u6CD5\u862D\u57FA\u8482\uFF08Marino Franchitti\uFF09\u4E4B\u5802\u5F1F\u3002\u65BC2010\u5E742\u6708\u63A5\u624B\u5176\u5BB6\u65CF\u65BC\u897F\u6D1B\u932B\u5B89\u6240\u7D93\u71DF\u4E4B\u4F11\u9592\u4F01\u696D\u4E3B\u4EFB\u30022011\u5E74\uFF5E2013\u5E74\u66FE\u6548\u529B\u65BC\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u5370\u5EA6\u529B\u91CF\u8F66\u961F\uFF0C\u62C5\u4EFB\u4E3B\u529B\u8F66\u624B\uFF0C\u76EE\u524D\u6548\u529B\u4E8E\u5FB7\u570B\u623F\u8ECA\u5927\u5E2B\u8CFD\uFF0C\u6548\u529B\u65BC\u6885\u8CFD\u5FB7\u65AF-\u8CD3\u58EB\u8ECA\u968A\u3002"@zh ,
+		"\u041F\u043E\u043B \u0434\u0438 \u0420\u0435\u0441\u0442\u0430 (\u0430\u043D\u0433\u043B. Paul di Resta, \u0440\u043E\u0434. 16 \u0430\u043F\u0440\u0435\u043B\u044F 1986, \u0423\u044D\u0441\u0442-\u041B\u043E\u0442\u0438\u0430\u043D, \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u044F) \u2014 \u0448\u043E\u0442\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0421 2011 \u043F\u043E 2013 \u0433\u043E\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Force India."@ru ,
+		"Paul di Resta (Uphall, West Lothian, 16 de Abril de 1986) \u00E9 um automobilista brit\u00E2nico nascido na Esc\u00F3cia. Ele \u00E9 primo do tetra campe\u00E3o da F\u00F3rmula Indy, Dario Franchitti ."@pt ,
+		"Paul di Resta (West Lothian, 16 april 1986) is een Brits Formule 1-coureur en de DTM-wereldkampioen van 2010. In 2011, 2012 en 2013 kwam Di Resta voor het Formule 1 team van Force India. Na zijn Formule 1-carri\u00E8re keerde hij terug naar de DTM. Hij is de neef van voormalig IndyCar-coureur Dario Franchitti."@nl ,
+		"Paul di Resta (* 16. April 1986 in Uphall, West Lothian, Schottland) ist ein britischer Automobilrennfahrer. Di Resta gewann 2006 die Formel-3-Euroserie. Von 2007 bis 2010 war er in der DTM f\u00FCr mehrere Teams von Mercedes-Benz aktiv. 2010 gewann er mit HWA die Gesamtwertung. Von 2011 bis 2013 fuhr di Resta f\u00FCr Force India in der Formel 1. Seine beste Gesamtplatzierung in dieser Serie war der zw\u00F6lfte Rang 2013. Von 2014 bis 2016 trat di Resta f\u00FCr HWA in der DTM an. Di Resta ist der Cousin der Rennfahrer Dario und Marino Franchitti."@de ,
+		"\u00C8 cugino del pilota Dario Franchitti."@it ,
+		"Paul di Resta (ur. 16 kwietnia 1986 w West Lothian) \u2013 brytyjski kierowca wy\u015Bcigowy, mistrz Deutsche Tourenwagen Masters w sezonie 2010. W latach 2011\u20132013 kierowca zespo\u0142u Force India w Formule 1. Kuzyn Dario Franchittiego \u2013 trzykrotnego mistrza IndyCar Series."@pl ,
+		"Paul di Resta (born 16 April 1986) is a British racing driver who drove in Formula One from 2010 to 2013 and became a reserve driver for the Williams F1 team in 2016. A former DTM and Formula 3 Euroseries champion, di Resta did not secure a Formula One drive for 2014, and rejoined Mercedes to race again in the DTM."@en ,
+		"\u30DD\u30FC\u30EB\u30FB\u30C7\u30A3\u30FB\u30EC\u30B9\u30BF\uFF08Paul di Resta, 1986\u5E744\u670816\u65E5 - \uFF09\u306F\u30A4\u30AE\u30EA\u30B9\u30FB\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Paul di Resta, n\u00E9 le 16 avril 1986 \u00E0 Uphall, en West Lothian (\u00C9cosse), est un pilote automobile britannique. Vainqueur des F3 Euroseries en 2006 et du championnat DTM en 2010, il devient en 2011 pilote de Formule 1 au sein de l'\u00E9quipe indienne Force India. Il y fait trois saisons, avec pour meilleur r\u00E9sultat, une quatri\u00E8me place en course, et revient en 2014, en DTM, sans pour autant obtenir le succ\u00E8s qu'il y avait trouv\u00E9 avant la Formule 1."@fr .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-it:Paul_di_Resta ,
+		wikidata:Q82768 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-wikidata:Q82768 .
+@prefix ns14:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Paul_di_Resta	owl:sameAs	ns14:Paul_di_Resta ,
+		dbr:Paul_di_Resta .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-es:Paul_Di_Resta .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	yago-res:Paul_di_Resta .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-id:Paul_di_Resta ,
+		<http://rdf.freebase.com/ns/m.05ss92> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-pl:Paul_di_Resta .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-fr:Paul_di_Resta ,
+		<http://ja.dbpedia.org/resource/\u30DD\u30FC\u30EB\u30FB\u30C7\u30A3\u30FB\u30EC\u30B9\u30BF> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-pt:Paul_di_Resta .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-cs:Paul_di_Resta .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-de:Paul_di_Resta .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Paul_di_Resta	owl:sameAs	dbpedia-nl:Paul_di_Resta .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Paul_di_Resta	dct:subject	dbc:British_people_of_Italian_descent ,
+		dbc:Force_India_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		dbc:Italian_Scottish_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1986_births> ,
+		dbc:Formula_3_Euro_Series_champions ,
+		dbc:People_educated_at_Bathgate_Academy ,
+		dbc:Scottish_people_of_Italian_descent ,
+		dbc:Scottish_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:British_Formula_Renault_2.0_drivers> ,
+		dbc:McLaren_Autosport_BRDC_Award_nominees ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		dbc:Scottish_expatriates_in_Monaco ,
+		dbc:Scottish_racing_drivers ,
+		dbc:Living_people ,
+		dbc:Italian_British_sportspeople ,
+		dbc:Deutsche_Tourenwagen_Masters_champions ,
+		dbc:Formula_3_Euro_Series_drivers ,
+		dbc:Sportspeople_from_West_Lothian ;
+	foaf:name	"Paul di Resta"@en ;
+	foaf:homepage	<http://www.pauldiresta.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Paul_di_resta_2009.jpg> ;
+	dct:description	"British racecar driver"@en ;
+	foaf:givenName	"Paul"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Paul_di_Resta ;
+	dbp:title	"Rookie of the Year"^^xsd:string ,
+		dbr:Formula_3_Euro_Series ,
+		dbr:Deutsche_Tourenwagen_Masters ,
+		dbr:Masters_of_Formula_3 ,
+		"Drivers' Champion"^^xsd:string ,
+		dbr:McLaren_Autosport_BRDC_Award ,
+		"Winner"^^xsd:string ,
+		dbr:Autosport_Awards ;
+	dbp:years	2010 ,
+		2011 ,
+		2004 ,
+		2006 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Paul_di_Resta	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Paul_di_Resta?oldid=744297852> ;
+	dbp:before	dbr:Lewis_Hamilton ,
+		<http://dbpedia.org/resource/Alex_Lloyd_(racing_driver)> ,
+		dbr:Timo_Scheider ,
+		dbr:Kamui_Kobayashi ;
+	dbp:after	<http://dbpedia.org/resource/Math\u00E9o_Tuscher> ,
+		<http://dbpedia.org/resource/Nico_H\u00FClkenberg> ,
+		dbr:Oliver_Jarvis ,
+		dbr:Romain_Grosjean ,
+		dbr:Martin_Tomczyk ;
+	dbo:team	dbr:HWA_Team ;
+	dbp:fastestLaps	9 ;
+	dbp:formerTeams	dbr:Persson_Motorsport ;
+	dbp:starts	86 ;
+	dbp:poles	6 ;
+	dbp:championships	1 ;
+	dbo:wikiPageExternalLink	<http://www.driverdb.com/racingdriver887.html> ,
+		<http://www.pauldiresta.com/> ;
+	dbp:caption	"di Resta in 2009"^^xsd:string ;
+	dbo:abstract	"Paul di Resta (* 16. April 1986 in Uphall, West Lothian, Schottland) ist ein britischer Automobilrennfahrer. Di Resta gewann 2006 die Formel-3-Euroserie. Von 2007 bis 2010 war er in der DTM f\u00FCr mehrere Teams von Mercedes-Benz aktiv. 2010 gewann er mit HWA die Gesamtwertung. Von 2011 bis 2013 fuhr di Resta f\u00FCr Force India in der Formel 1. Seine beste Gesamtplatzierung in dieser Serie war der zw\u00F6lfte Rang 2013. Von 2014 bis 2016 trat di Resta f\u00FCr HWA in der DTM an. Di Resta ist der Cousin der Rennfahrer Dario und Marino Franchitti."@de ,
+		"Paul di Resta (ur. 16 kwietnia 1986 w West Lothian) \u2013 brytyjski kierowca wy\u015Bcigowy, mistrz Deutsche Tourenwagen Masters w sezonie 2010. W latach 2011\u20132013 kierowca zespo\u0142u Force India w Formule 1. Kuzyn Dario Franchittiego \u2013 trzykrotnego mistrza IndyCar Series."@pl ,
+		"Paul di Resta (Uphall, West Lothian, 16 de Abril de 1986) \u00E9 um automobilista brit\u00E2nico nascido na Esc\u00F3cia. Ele \u00E9 primo do tetra campe\u00E3o da F\u00F3rmula Indy, Dario Franchitti ."@pt ,
+		"\u00C8 cugino del pilota Dario Franchitti."@it ,
+		"Paul di Resta (born 16 April 1986) is a British racing driver who drove in Formula One from 2010 to 2013 and became a reserve driver for the Williams F1 team in 2016. A former DTM and Formula 3 Euroseries champion, di Resta did not secure a Formula One drive for 2014, and rejoined Mercedes to race again in the DTM."@en ,
+		"Paul di Resta, n\u00E9 le 16 avril 1986 \u00E0 Uphall, en West Lothian (\u00C9cosse), est un pilote automobile britannique. Vainqueur des F3 Euroseries en 2006 et du championnat DTM en 2010, il devient en 2011 pilote de Formule 1 au sein de l'\u00E9quipe indienne Force India. Il y fait trois saisons, avec pour meilleur r\u00E9sultat, une quatri\u00E8me place en course, et revient en 2014, en DTM, sans pour autant obtenir le succ\u00E8s qu'il y avait trouv\u00E9 avant la Formule 1."@fr ,
+		"\u041F\u043E\u043B \u0434\u0438 \u0420\u0435\u0441\u0442\u0430 (\u0430\u043D\u0433\u043B. Paul di Resta, \u0440\u043E\u0434. 16 \u0430\u043F\u0440\u0435\u043B\u044F 1986, \u0423\u044D\u0441\u0442-\u041B\u043E\u0442\u0438\u0430\u043D, \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u044F) \u2014 \u0448\u043E\u0442\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0421 2011 \u043F\u043E 2013 \u0433\u043E\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Force India."@ru ,
+		"Paul Di Resta (Uphall, West Lothian, Escocia, Reino Unido, 16 de abril de 1986) es un piloto de automovilismo de velocidad brit\u00E1nico. Corri\u00F3 para Force India de F\u00F3rmula 1 como piloto titular entre 2011 y 2013. Anteriormente fue campe\u00F3n del Deutsche Tourenwagen Masters en 2010, subcampe\u00F3n en 2008 y tercero en 2009, logrando seis victorias y 21 podios en 42 carreras. Di Resta es primo de los pilotos Dario Franchitti (que corre en la IndyCar Series, y ha sido campe\u00F3n varias veces) y Marino Franchitti (compite en la American Le Mans Series), que corren en Estados Unidos. Paul vive con su mujer Laura Jordan en M\u00F3naco (se casaron a finales de 2013) y tiene familia italiana que vive en Corigliano, N\u00E1poles."@es ,
+		"Paul di Resta (West Lothian, 16 april 1986) is een Brits Formule 1-coureur en de DTM-wereldkampioen van 2010. In 2011, 2012 en 2013 kwam Di Resta voor het Formule 1 team van Force India. Na zijn Formule 1-carri\u00E8re keerde hij terug naar de DTM. Hij is de neef van voormalig IndyCar-coureur Dario Franchitti."@nl ,
+		"\u4FDD\u7F85\u00B7\u9054\u00B7\u96F7\u65AF\u9054\uFF08Paul di Resta\uFF1B1986\u5E744\u670816\u65E5\uFF0D\uFF09\uFF0C\u82F1\u570B\u8607\u683C\u862D\u897F\u6D1B\u932B\u5B89\u4EBA\uFF0C\u8077\u696D\u8CFD\u8ECA\u624B\u3002\u70BA\u77E5\u540D\u8CFD\u8ECA\u624B\u9054\u91CC\u5967\u00B7\u6CD5\u862D\u57FA\u8482\uFF08Dario Franchitti\uFF09\u3001\u99AC\u5229\u8AFE\u00B7\u6CD5\u862D\u57FA\u8482\uFF08Marino Franchitti\uFF09\u4E4B\u5802\u5F1F\u3002\u65BC2010\u5E742\u6708\u63A5\u624B\u5176\u5BB6\u65CF\u65BC\u897F\u6D1B\u932B\u5B89\u6240\u7D93\u71DF\u4E4B\u4F11\u9592\u4F01\u696D\u4E3B\u4EFB\u30022011\u5E74\uFF5E2013\u5E74\u66FE\u6548\u529B\u65BC\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u5370\u5EA6\u529B\u91CF\u8F66\u961F\uFF0C\u62C5\u4EFB\u4E3B\u529B\u8F66\u624B\uFF0C\u76EE\u524D\u6548\u529B\u4E8E\u5FB7\u570B\u623F\u8ECA\u5927\u5E2B\u8CFD\uFF0C\u6548\u529B\u65BC\u6885\u8CFD\u5FB7\u65AF-\u8CD3\u58EB\u8ECA\u968A\u3002"@zh ,
+		"\u30DD\u30FC\u30EB\u30FB\u30C7\u30A3\u30FB\u30EC\u30B9\u30BF\uFF08Paul di Resta, 1986\u5E744\u670816\u65E5 - \uFF09\u306F\u30A4\u30AE\u30EA\u30B9\u30FB\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Paul_di_resta_2009.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Paul_di_Resta	dbo:birthDate	"1986-4-16"^^xsd:date ,
+		"1986-04-16"^^xsd:date ;
+	dbo:wikiPageRevisionID	744297852 ;
+	dbo:birthPlace	dbr:Uphall ,
+		dbr:West_Lothian ,
+		dbr:Scotland ;
+	dbo:wikiPageID	1746765 ;
+	dbp:currentSeries	dbr:Deutsche_Tourenwagen_Masters ;
+	dbp:lastFinish	8 .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+dbr:Paul_di_Resta	dbp:bestFinish	"1.0"^^ns28:stone ;
+	dbp:carNumber	3 ;
+	dbp:firstYear	2007 ;
+	dbp:year	2010 ;
+	dbp:wins	7 .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Paul_di_Resta	ns29:hypernym	dbr:Driver .
+dbr:PDR	dbo:wikiPageDisambiguates	dbr:Paul_di_Resta .
+dbr:Romain_Grosjean	dbp:before	dbr:Paul_di_Resta .
+dbr:Paul_Di_Resta	dbo:wikiPageRedirects	dbr:Paul_di_Resta .
+dbr:Paul_di_resta	dbo:wikiPageRedirects	dbr:Paul_di_Resta .
+dbr:Di_Resta	dbo:wikiPageRedirects	dbr:Paul_di_Resta .

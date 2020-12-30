@@ -1,0 +1,277 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1961_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1958_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Phil_Hill ;
+	dbo:thirdDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1959_German_Grand_Prix>	dbo:thirdDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1959_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Phil_Hill ;
+	dbo:secondDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1960_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1960_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Phil_Hill ;
+	dbo:poleDriver	dbr:Phil_Hill ;
+	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1961_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Phil_Hill ;
+	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1961_German_Grand_Prix>	dbo:fastestDriver	dbr:Phil_Hill ;
+	dbo:poleDriver	dbr:Phil_Hill ;
+	dbo:thirdDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1961_Italian_Grand_Prix>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1961_Dutch_Grand_Prix>	dbo:poleDriver	dbr:Phil_Hill ;
+	dbo:secondDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1958_Moroccan_Grand_Prix>	dbo:thirdDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1962_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__42__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__23__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__53__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__1st__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__14th__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__55th__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1960_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1962_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1962_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1962_Aintree_200>	dbo:thirdDriver	dbr:Phil_Hill .
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix ns3:	<http://dbpedia.org/resource/Ferrari_330_TRI/> .
+ns3:LM	dbp:drivers	dbr:Phil_Hill .
+dbr:Roy_Salvadori	dbp:before	dbr:Phil_Hill .
+dbr:Olivier_Gendebien	dbp:years	dbr:Phil_Hill ;
+	dbp:after	dbr:Phil_Hill .
+dbr:Lorenzo_Bandini	dbp:before	dbr:Phil_Hill .
+dbr:Ludovico_Scarfiotti	dbp:before	dbr:Phil_Hill .
+<http://dbpedia.org/resource/Paul_Fr\u00E8re>	dbp:after	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1961_Formula_One_season>	dbp:champions	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1965_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1959_French_Grand_Prix>	dbo:secondDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1961_French_Grand_Prix>	dbo:fastestDriver	dbr:Phil_Hill ;
+	dbo:poleDriver	dbr:Phil_Hill .
+dbr:Graham_Hill	dbp:before	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__19__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__42__1>	dbo:firstDriver	dbr:Phil_Hill .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Phil_Hill	foaf:primaryTopic	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1966_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__29__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__36__1>	dbo:firstDriver	dbr:Phil_Hill .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Phil_Hill	rdf:type	yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatRacingDriversFromFlorida ,
+		dbo:Person ,
+		dbo:FormulaOneRacer ,
+		yago:CausalAgent100007347 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatMaseratiFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Phil_Hill	rdf:type	umbel-rc:Athlete ,
+		yago:WikicatAutomobiliTurismoESportFormulaOneDrivers ,
+		yago:WikicatATSWheelsFormulaOneDrivers .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Phil_Hill	rdf:type	ns9:NaturalPerson ,
+		ns9:Agent ,
+		yago:WikicatPorscheFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatScuderiaFilipinettiFormulaOneDrivers ,
+		yago:WikicatEcurieBonnierFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Phil_Hill	rdf:type	wikidata:Q378622 ,
+		wikidata:Q5 ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		yago:WikicatAngloAmericanRacersFormulaOneDrivers ,
+		yago:WikicatTasmanSeriesDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Phil_Hill	rdf:type	owl:Thing ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Phil_Hill	rdf:type	schema:Person ,
+		wikidata:Q24229398 ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		wikidata:Q215627 ,
+		foaf:Person ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatRacingDriversFromCalifornia ,
+		umbel-rc:RaceCarDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Phil_Hill	rdfs:label	"Phil Hill"@de ,
+		"\u0641\u064A\u0644 \u0647\u064A\u0644"@ar ,
+		"Phil Hill"@fr ,
+		"Phil Hill"@en ,
+		"\u0425\u0438\u043B\u043B, \u0424\u0438\u043B"@ru ,
+		"\u30D5\u30A3\u30EB\u30FB\u30D2\u30EB"@ja ,
+		"\u83F2\u5229\u666E\u00B7\u6258\u5C14\u00B7\u5E0C\u5C14"@zh ,
+		"Phil Hill"@es ,
+		"Phil Hill"@pl ,
+		"Phil Hill"@it ,
+		"Phil Hill"@pt ,
+		"Phil Hill"@nl ;
+	rdfs:comment	"\u0641\u064A\u0644 \u0647\u064A\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Phil Hill) \u0645\u0648\u0627\u0644\u064A\u062F 20 \u0623\u0628\u0631\u064A\u0644 1927 \u0641\u064A \u0645\u064A\u0627\u0645\u064A\u060C \u0641\u0644\u0648\u0631\u064A\u062F\u0627\u060C \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1953. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1958\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1960. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 51 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 3 \u0645\u0646\u0647\u0627."@ar ,
+		"Philip Toll Hill Jr. (20 de abril de 1927 en Miami, Florida - 28 de agosto de 2008) fue un piloto de automovilismo de velocidad estadounidense. Fue el primer estadounidense de nacimiento que gan\u00F3 un campeonato de F\u00F3rmula 1, logrado en 1961. Tambi\u00E9n result\u00F3 cuarto en 1959, quinto en 1960 y sexto en 1962, siempre como piloto de Scuderia Ferrari, obteniendo un total de tres victorias y 16 podios."@es ,
+		"Philip Toll Hill, Jr. (April 20, 1927 \u2013 August 28, 2008) was an American automobile racer and the only American-born driver to win the Formula One World Drivers' Championship (Mario Andretti, an American driver, won the World Drivers' Championship in 1978, but was not born in the United States). He also scored three wins at each of the 24 Hours of Le Mans and 12 Hours of Sebring sports car races. Hill was described as a \"thoughtful, gentle man\" and once said, \"I'm in the wrong business. I don't want to beat anybody, I don't want to be the big hero. I'm a peace-loving man, basically.\""@en ,
+		"\u5C0F\u83F2\u5229\u666E\u00B7\u6258\u5C14\u00B7\u5E0C\u5C14\uFF08\u82F1\u6587:Philip Toll Hill, Jr.\uFF0C\u5E38\u88AB\u79F0\u4E3APhil Hill\uFF0C\u83F2\u5C14\u00B7\u5E0C\u5C14\uFF0C1927\u5E74\uFF09\u662F\u4E00\u4F4D\u7F8E\u56FD\u8D5B\u8F66\u624B\uFF0C\u4ED6\u4E5F\u662F\u552F\u4E00\u4E00\u4F4D\u51FA\u751F\u4E8E\u7F8E\u56FD\u5E76\u6700\u7EC8\u83B7\u5F97F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u7684\u8F66\u624B\uFF08\u9A6C\u91CC\u5965\u00B7\u5B89\u5FB7\u70C8\u8482\u662F\u53E6\u5916\u4E00\u540D\u83B7\u5F97F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u7684\u8F66\u624B\uFF0C\u4F46\u662F\u4ED6\u5E76\u975E\u51FA\u751F\u4E8E\u7F8E\u56FD\uFF09\u3002\u83F2\u5C14\u00B7\u5E0C\u5C14\u8FD83\u6B21\u8D62\u5F97\u52D2\u829224\u5C0F\u65F6\u8010\u529B\u8D5B\uFF081958\uFF0C1961\uFF0C1962\uFF09\u548C\u767E\u7075\u8D5B\u8F6612\u5C0F\u65F6\u3002 \u83F2\u5C14\u00B7\u5E0C\u5C14\u7ECF\u5E38\u88AB\u5916\u4EBA\u5F62\u5BB9\u4E3A\u201Cthoughtful\uFF0Cgentle man\u201D\uFF0C\u4ED6\u66FE\u7ECF\u4E5F\u8BF4\u8FC7:\u201C\u6211\u5165\u9519\u4E86\u884C\u3002\u6211\u5E76\u4E0D\u50CF\u53BB\u51FB\u8D25\u4EFB\u4F55\u4EBA\uFF0C\u6211\u4E5F\u4E0D\u60F3\u6210\u4E3A\u5927\u82F1\u96C4\u3002\u6211\u57FA\u672C\u4E0A\u662F\u4E2A\u7231\u597D\u548C\u5E73\u7684\u4EBA\u3002\uFF08I'm in the wrong business. I don't want to beat anybody, I don't want to be the big hero. I'm a peace-loving man, basically.\uFF09\u201D"@zh ,
+		"Philip Toll \u201EPhil\u201C Hill (* 20. April 1927 in Miami, Florida; \u2020 28. August 2008 in Salinas, Kalifornien) war ein US-amerikanischer Automobilrennfahrer. Er errang 1961 den Weltmeistertitel in der Formel 1. Er ist der Vater des Rennfahrers Derek Hill."@de ,
+		"\u0424\u0438\u043B\u0438\u043F \u0422\u043E\u043B\u043B \u0425\u0438\u043B\u043B \u043C\u043B\u0430\u0434\u0448\u0438\u0439 (\u0430\u043D\u0433\u043B. Philip Toll Hill Jr.), \u0438\u043B\u0438 \u043F\u0440\u043E\u0441\u0442\u043E \u0424\u0438\u043B \u0425\u0438\u043B\u043B (20 \u0430\u043F\u0440\u0435\u043B\u044F 1927 \u2014 28 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2008) \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0437 \u0421\u0428\u0410, \u043F\u0435\u0440\u0432\u044B\u0439 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0435\u0446, \u0441\u0442\u0430\u0432\u0448\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 (\u0441\u0435\u0437\u043E\u043D 1961 \u0433\u043E\u0434\u0430), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u00AB24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB (1958, 1961, 1962)."@ru ,
+		"Philip Toll 'Phil' Hill Jr. (Miami, 20 april 1927 - Santa Monica (Californi\u00EB), 28 augustus 2008) was een Amerikaans autocoureur. Hij was \u00E9\u00E9n van de twee Amerikanen die kampioen zijn geworden in de Formule 1. In 1966 speelde hij een bescheiden bijrol in de film Grand Prix van John Frankenheimer. In 1991 werd Hill opgenomen in de International Motorsports Hall of Fame. Zijn zoon Derek reed in 2003 mee met de Formule 3000. Hill overleed op 28 augustus 2008 aan de gevolgen van de ziekte van Parkinson."@nl ,
+		"Philip Toll Hill Jr, dit Phil Hill, n\u00E9 le 20 avril 1927 \u00E0 Miami en Floride, mort le 28 ao\u00FBt 2008 \u00E0 Salinas en Californie, est un pilote automobile am\u00E9ricain. En 1961, il est devenu le premier pilote am\u00E9ricain sacr\u00E9 champion du monde de Formule 1. Il a \u00E9galement remport\u00E9 \u00E0 trois reprises les 24 Heures du Mans (1958, 1961 et 1962)."@fr ,
+		"\u30D5\u30A3\u30EA\u30C3\u30D7\u30FB\"\u30D5\u30A3\u30EB\"\u30FB\u30C8\u30EB\u30FB\u30D2\u30EB\u30FB\u30B8\u30E5\u30CB\u30A2\uFF08Philip \"Phil\" Toll Hill Jr. \u30011927\u5E744\u670820\u65E5 - 2008\u5E748\u670828\u65E5\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u30FB\u30D5\u30ED\u30EA\u30C0\u5DDE\u30DE\u30A4\u30A2\u30DF\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30A2\u30E1\u30EA\u30AB\u4EBA\u521D\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308A\u3001\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u306F3\u52DD\u3092\u6319\u3052\u305F\u3002"@ja ,
+		"Philip Toll Hill Jr., (Miami, 20 de abril de 1927 \u2013 Salinas, 28 de agosto de 2008) foi um piloto automobil\u00EDstico norte-americano, campe\u00E3o mundial de F\u00F3rmula 1 em 1961. Phill cresceu em Santa M\u00F4nica, Calif\u00F3rnia, onde viveu at\u00E9 sua morte. Come\u00E7ou a pilotar bem jovem, indo para a Inglaterra como piloto de Jaguar em 1949 e assinando com a equipe de Enzo Ferrari em 1956. Ele estreou no Grande Pr\u00EAmio da Fran\u00E7a em Reims em 1958 dirigindo um Maserati. Naquele mesmo ano, ele venceu as 24 horas de Le Mans com o companheiro de equipe, o belga Olivier Gendebien (1924-1998), dirigindo a noite em terr\u00EDveis condi\u00E7\u00F5es, j\u00E1 que chovia muito. Ele e Gendebien venceriam a competi\u00E7\u00E3o mais duas vezes."@pt ,
+		"Philip Toll Hill Jr (ur. 20 kwietnia 1927 w Miami, zm. 28 sierpnia 2008 w Monterey) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy; mistrz Formu\u0142y 1 z sezonu 1961."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Phil_Hill	dbp:birthDate	"1927-04-20"^^xsd:date .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-es:Phil_Hill ,
+		wikidata:Q3112 ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30A3\u30EB\u30FB\u30D2\u30EB> ,
+		<http://d-nb.info/gnd/136326366> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-id:Phil_Hill .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-wikidata:Q3112 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-it:Phil_Hill .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-nl:Phil_Hill .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	yago-res:Phil_Hill ,
+		<http://rdf.freebase.com/ns/m.01y4hp> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-cs:Phil_Hill ,
+		dbr:Phil_Hill .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-pl:Phil_Hill .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-fr:Phil_Hill .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-pt:Phil_Hill .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Phil_Hill	owl:sameAs	dbpedia-de:Phil_Hill .
+@prefix ns26:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Phil_Hill	owl:sameAs	ns26:Phil_Hill .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Phil_Hill	dct:subject	dbc:Ferrari_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_One_World_Drivers\u0027_Champions> ,
+		dbc:University_of_Southern_California_alumni ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:American_Formula_One_drivers ,
+		dbc:Bonneville_200_MPH_Club_members ,
+		dbc:Racing_drivers_from_Florida ,
+		<http://dbpedia.org/resource/Category:1927_births> ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:Automobili_Turismo_e_Sport_Formula_One_drivers ,
+		dbc:British_Racing_Partnership_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Ecurie_Bonnier_Formula_One_drivers ,
+		dbc:Scuderia_Filipinetti_Formula_One_drivers ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		dbc:Racing_drivers_from_California ,
+		dbc:Sportspeople_from_Miami ,
+		<http://dbpedia.org/resource/Category:Deaths_from_Parkinson\u0027s_disease> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:Tasman_Series_drivers ,
+		dbc:Anglo_American_Racers_Formula_One_drivers ,
+		dbc:Cooper_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Santa_Monica,_California> ,
+		<http://dbpedia.org/resource/Category:2008_deaths> ,
+		<http://dbpedia.org/resource/Category:Burials_at_Woodlawn_Memorial_Cemetery,_Santa_Monica> ;
+	foaf:name	"Phil Hill"@en ;
+	foaf:homepage	<http://www.philhill.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Phil_Hill_+_Jackie_Stewart_1991_USA.jpg> ;
+	dct:description	"American racecar driver"@en ;
+	foaf:givenName	"Phil"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Phil_Hill ;
+	foaf:surname	"Hill"@en ;
+	dbp:points	94 ;
+	dbp:years	dbr:Olivier_Gendebien ,
+		1958 ,
+		1961 ,
+		1962 ,
+		"\u2013,"^^xsd:string ;
+	dbp:after	dbr:Graham_Hill ,
+		dbr:Carroll_Shelby ,
+		"Phil Hill"^^xsd:string ,
+		dbr:Roy_Salvadori ,
+		dbr:Lorenzo_Bandini ,
+		dbr:Ludovico_Scarfiotti ,
+		dbr:Olivier_Gendebien ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport ,
+		dbr:Porsche_in_motorsport ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Automobili_Turismo_e_Sport ,
+		dbr:Team_Lotus ,
+		dbr:Cooper_Car_Company ,
+		dbr:Anglo_American_Racers .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Phil_Hill	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Phil_Hill?oldid=743555182> ;
+	dbo:wikiPageExternalLink	<http://i.cdn.turner.com/sivault/si_online/covers/images/1959/0316_large.jpg> ,
+		<http://home.cinci.rr.com/usgp/history/am_wdc61.html> ,
+		<http://silodrome.com/mg-ex-181/> .
+@prefix ns30:	<http://www.4mula1.ro/history/driver/> .
+dbr:Phil_Hill	dbo:wikiPageExternalLink	ns30:Phil_Hill ,
+		<http://www.formula1.com/teams_and_drivers/hall_of_fame/493/> ,
+		<http://www.philhill.com/> ,
+		<http://www.les24heures.fr/database-24h/FR/PAGE_24h_mans_pilote_lm.php?P1=813> ,
+		<http://jalopnik.com/5043145/phil-hill-racing-legend-dead-at-81/> ;
+	dbp:caption	"Hill  and Jackie Stewart at the 1991 United States Grand Prix"^^xsd:string ;
+	dbp:birthName	"Philip Toll Hill, Jr."^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1960_Italian_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1961_Italian_Grand_Prix> ;
+	dbp:birthPlace	"Miami, Florida, U.S."^^xsd:string ;
+	dbp:deathDate	"2008-08-28"^^xsd:date ;
+	dbp:before	dbr:Jack_Brabham ,
+		<http://dbpedia.org/resource/Paul_Fr\u00E8re> ,
+		dbr:Olivier_Gendebien ,
+		"Phil Hill"^^xsd:string ,
+		<http://dbpedia.org/resource/Ron_Flockhart_(auto_racing)> ,
+		dbr:Ivor_Bueb ;
+	dbp:deathPlace	"Salinas, California, U.S."^^xsd:string ;
+	dbo:abstract	"Philip Toll Hill Jr (ur. 20 kwietnia 1927 w Miami, zm. 28 sierpnia 2008 w Monterey) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy; mistrz Formu\u0142y 1 z sezonu 1961."@pl ,
+		"Philip Toll Hill Jr, dit Phil Hill, n\u00E9 le 20 avril 1927 \u00E0 Miami en Floride, mort le 28 ao\u00FBt 2008 \u00E0 Salinas en Californie, est un pilote automobile am\u00E9ricain. En 1961, il est devenu le premier pilote am\u00E9ricain sacr\u00E9 champion du monde de Formule 1. Il a \u00E9galement remport\u00E9 \u00E0 trois reprises les 24 Heures du Mans (1958, 1961 et 1962)."@fr ,
+		"Philip Toll Hill Jr. (20 de abril de 1927 en Miami, Florida - 28 de agosto de 2008) fue un piloto de automovilismo de velocidad estadounidense. Fue el primer estadounidense de nacimiento que gan\u00F3 un campeonato de F\u00F3rmula 1, logrado en 1961. Tambi\u00E9n result\u00F3 cuarto en 1959, quinto en 1960 y sexto en 1962, siempre como piloto de Scuderia Ferrari, obteniendo un total de tres victorias y 16 podios. Adem\u00E1s, Hill consigui\u00F3 tres victorias en las 24 Horas de Le Mans de 1958, 1961 y 1962, tres en las 12 Horas de Sebring de 1958, 1959 y 1961, y dos en los 1000 km de N\u00FCrburgring de 1962 y 1966, entre otros logros en el Campeonato Mundial de Resistencia, en su mayor\u00EDa tambi\u00E9n con Ferrari."@es ,
+		"\u5C0F\u83F2\u5229\u666E\u00B7\u6258\u5C14\u00B7\u5E0C\u5C14\uFF08\u82F1\u6587:Philip Toll Hill, Jr.\uFF0C\u5E38\u88AB\u79F0\u4E3APhil Hill\uFF0C\u83F2\u5C14\u00B7\u5E0C\u5C14\uFF0C1927\u5E74\uFF09\u662F\u4E00\u4F4D\u7F8E\u56FD\u8D5B\u8F66\u624B\uFF0C\u4ED6\u4E5F\u662F\u552F\u4E00\u4E00\u4F4D\u51FA\u751F\u4E8E\u7F8E\u56FD\u5E76\u6700\u7EC8\u83B7\u5F97F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u7684\u8F66\u624B\uFF08\u9A6C\u91CC\u5965\u00B7\u5B89\u5FB7\u70C8\u8482\u662F\u53E6\u5916\u4E00\u540D\u83B7\u5F97F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u7684\u8F66\u624B\uFF0C\u4F46\u662F\u4ED6\u5E76\u975E\u51FA\u751F\u4E8E\u7F8E\u56FD\uFF09\u3002\u83F2\u5C14\u00B7\u5E0C\u5C14\u8FD83\u6B21\u8D62\u5F97\u52D2\u829224\u5C0F\u65F6\u8010\u529B\u8D5B\uFF081958\uFF0C1961\uFF0C1962\uFF09\u548C\u767E\u7075\u8D5B\u8F6612\u5C0F\u65F6\u3002 \u83F2\u5C14\u00B7\u5E0C\u5C14\u7ECF\u5E38\u88AB\u5916\u4EBA\u5F62\u5BB9\u4E3A\u201Cthoughtful\uFF0Cgentle man\u201D\uFF0C\u4ED6\u66FE\u7ECF\u4E5F\u8BF4\u8FC7:\u201C\u6211\u5165\u9519\u4E86\u884C\u3002\u6211\u5E76\u4E0D\u50CF\u53BB\u51FB\u8D25\u4EFB\u4F55\u4EBA\uFF0C\u6211\u4E5F\u4E0D\u60F3\u6210\u4E3A\u5927\u82F1\u96C4\u3002\u6211\u57FA\u672C\u4E0A\u662F\u4E2A\u7231\u597D\u548C\u5E73\u7684\u4EBA\u3002\uFF08I'm in the wrong business. I don't want to beat anybody, I don't want to be the big hero. I'm a peace-loving man, basically.\uFF09\u201D"@zh ,
+		"Philip Toll Hill, Jr. (April 20, 1927 \u2013 August 28, 2008) was an American automobile racer and the only American-born driver to win the Formula One World Drivers' Championship (Mario Andretti, an American driver, won the World Drivers' Championship in 1978, but was not born in the United States). He also scored three wins at each of the 24 Hours of Le Mans and 12 Hours of Sebring sports car races. Hill was described as a \"thoughtful, gentle man\" and once said, \"I'm in the wrong business. I don't want to beat anybody, I don't want to be the big hero. I'm a peace-loving man, basically.\""@en ,
+		"Philip Toll 'Phil' Hill Jr. (Miami, 20 april 1927 - Santa Monica (Californi\u00EB), 28 augustus 2008) was een Amerikaans autocoureur. Hij was \u00E9\u00E9n van de twee Amerikanen die kampioen zijn geworden in de Formule 1. Hill werd geboren in Miami (Florida), maar groeide op in Santa Monica (Californi\u00EB). In 1949 vertrok hij naar Engeland om een opleiding bij Jaguar te gaan volgen. Hill maakte zijn debuut in Formule 1 in de Grand Prix van Frankrijk van 1958 in een Maserati. In datzelfde jaar won hij de 24 uur van Le Mans samen met zijn Belgische teamgenoot Olivier Gendebien (1924-1998), waarbij Hill voornamelijk in de nacht reed in (vanwege de regen) erbarmelijke omstandigheden. Samen met Gendebien zou hij de 24 uur van Le Mans nog tweemaal winnen. In 1959 tekende hij bij het team van Enzo Ferrari. In 1961 won Hill nogmaals de 24 uur van Le Mans. In datzelfde jaar werd hij kampioen in de Formule 1 voor het Ferrari-team. Dit kampioenschap had hij enigszins te danken aan de dood van zijn teamgenoot en grootste concurrent Wolfgang Graf Berghe von Trips. Eind 1962 verliet Hill Ferrari om nog enkele jaren te rijden voor het Ford-team en voor het Jim Hall-racing team. In 1966 speelde hij een bescheiden bijrol in de film Grand Prix van John Frankenheimer. In 1991 werd Hill opgenomen in de International Motorsports Hall of Fame. Zijn zoon Derek reed in 2003 mee met de Formule 3000. Hill overleed op 28 augustus 2008 aan de gevolgen van de ziekte van Parkinson."@nl ,
+		"Philip Toll \u201EPhil\u201C Hill (* 20. April 1927 in Miami, Florida; \u2020 28. August 2008 in Salinas, Kalifornien) war ein US-amerikanischer Automobilrennfahrer. Er errang 1961 den Weltmeistertitel in der Formel 1. Er ist der Vater des Rennfahrers Derek Hill."@de ,
+		"\u0424\u0438\u043B\u0438\u043F \u0422\u043E\u043B\u043B \u0425\u0438\u043B\u043B \u043C\u043B\u0430\u0434\u0448\u0438\u0439 (\u0430\u043D\u0433\u043B. Philip Toll Hill Jr.), \u0438\u043B\u0438 \u043F\u0440\u043E\u0441\u0442\u043E \u0424\u0438\u043B \u0425\u0438\u043B\u043B (20 \u0430\u043F\u0440\u0435\u043B\u044F 1927 \u2014 28 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2008) \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0437 \u0421\u0428\u0410, \u043F\u0435\u0440\u0432\u044B\u0439 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0435\u0446, \u0441\u0442\u0430\u0432\u0448\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 (\u0441\u0435\u0437\u043E\u043D 1961 \u0433\u043E\u0434\u0430), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u00AB24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB (1958, 1961, 1962)."@ru ,
+		"Philip Toll Hill Jr., (Miami, 20 de abril de 1927 \u2013 Salinas, 28 de agosto de 2008) foi um piloto automobil\u00EDstico norte-americano, campe\u00E3o mundial de F\u00F3rmula 1 em 1961. Phill cresceu em Santa M\u00F4nica, Calif\u00F3rnia, onde viveu at\u00E9 sua morte. Come\u00E7ou a pilotar bem jovem, indo para a Inglaterra como piloto de Jaguar em 1949 e assinando com a equipe de Enzo Ferrari em 1956. Ele estreou no Grande Pr\u00EAmio da Fran\u00E7a em Reims em 1958 dirigindo um Maserati. Naquele mesmo ano, ele venceu as 24 horas de Le Mans com o companheiro de equipe, o belga Olivier Gendebien (1924-1998), dirigindo a noite em terr\u00EDveis condi\u00E7\u00F5es, j\u00E1 que chovia muito. Ele e Gendebien venceriam a competi\u00E7\u00E3o mais duas vezes. Em 1961, Phil Hill venceu as 24 Horas de Le Mans novamente e o campeonato de F\u00F3rmula 1 dirigindo pela Ferrari, embora em parte devido a morte de seu companheiro de equipe e principal rival no campeonato Wolfgang Von Trips. Depois de deixar a Ferrari no final de 1962, ele continuou na F\u00F3rmula 1 por alguns anos mais at\u00E9 troc\u00E1-la por corridas com carros esporte. Phil Hill \u00E9 lembrado por ter vencido a primeira e a \u00FAltima corrida de sua carreira: a primeira em Peeble Beach, na Calif\u00F3rnia, e a \u00FAltima nos 1000 km de Brands Hatch, na Inglaterra, em 1967. E \u00E9 o campe\u00E3o do mundo com menos vit\u00F3rias na F1: apenas tr\u00EAs (It\u00E1lia 60/61 e B\u00E9lgica 61). Em 1991, ele foi inclu\u00EDdo no International Motorsports Hall of Fame. Seu filho Derek correu na F\u00F3rmula 3000 em 2003. Faleceu aos 81 anos. Phil sofria de Mal de Parkinson. Ele foi o \u00FAnico piloto nascido nos Estados Unidos a ser campe\u00E3o mundial de F\u00F3rmula 1. O outro norte-americano a ser campe\u00E3o mundial, Mario Andretti, nasceu na It\u00E1lia e emigrou para a Am\u00E9rica aos dezoito anos, tornando-se cidad\u00E3o americano e fazendo carreira no esporte com esta nacionalidade. Phil n\u00E3o tem nenhum grau de parentesco com Graham Hill, apesar do mesmo sobrenome."@pt ,
+		"\u30D5\u30A3\u30EA\u30C3\u30D7\u30FB\"\u30D5\u30A3\u30EB\"\u30FB\u30C8\u30EB\u30FB\u30D2\u30EB\u30FB\u30B8\u30E5\u30CB\u30A2\uFF08Philip \"Phil\" Toll Hill Jr. \u30011927\u5E744\u670820\u65E5 - 2008\u5E748\u670828\u65E5\uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u30FB\u30D5\u30ED\u30EA\u30C0\u5DDE\u30DE\u30A4\u30A2\u30DF\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30A2\u30E1\u30EA\u30AB\u4EBA\u521D\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308A\u3001\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u306F3\u52DD\u3092\u6319\u3052\u305F\u3002"@ja ,
+		"\u0641\u064A\u0644 \u0647\u064A\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Phil Hill) \u0645\u0648\u0627\u0644\u064A\u062F 20 \u0623\u0628\u0631\u064A\u0644 1927 \u0641\u064A \u0645\u064A\u0627\u0645\u064A\u060C \u0641\u0644\u0648\u0631\u064A\u062F\u0627\u060C \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1953. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1958\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1960. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 51 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 3 \u0645\u0646\u0647\u0627."@ar ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Phil_Hill_+_Jackie_Stewart_1991_USA.jpg?width=300> ;
+	dbo:birthDate	"1927-4-20"^^xsd:date ;
+	dbo:deathDate	"2008-8-28"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Salinas,_California> ;
+	dbo:wikiPageRevisionID	743555182 ;
+	dbo:birthPlace	dbr:Miami ;
+	dbo:wikiPageID	341545 ;
+	dbo:nationality	dbr:United_States ;
+	dbo:wins	"3"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"6"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1958_French_Grand_Prix> ;
+	dbo:races	"51"^^xsd:nonNegativeInteger ;
+	dbo:poles	"6"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1966_Italian_Grand_Prix> ;
+	dbo:podiums	"16"^^xsd:nonNegativeInteger ;
+	dbo:championships	"1"^^xsd:nonNegativeInteger ;
+	dbp:title	<http://dbpedia.org/resource/List_of_Formula_One_World_Drivers\u0027_Champions> ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners .
+<http://dbpedia.org/resource/Derek_Hill_(racing_driver)>	dbp:relatedTo	dbr:Phil_Hill .
+<http://dbpedia.org/resource/Ron_Flockhart_(racing_driver)>	dbp:after	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1961_British_Grand_Prix>	dbo:poleDriver	dbr:Phil_Hill ;
+	dbo:secondDriver	dbr:Phil_Hill .
+dbr:Carroll_Shelby	dbp:before	dbr:Phil_Hill .
+dbr:Ivor_Bueb	dbp:after	dbr:Phil_Hill .
+dbr:Philip_Toll_Hill_Jr	dbo:wikiPageRedirects	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__34__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__DNF__25>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1966_Can-Am_season__4__1>	dbo:firstDriver	dbr:Phil_Hill .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__43__1>	dbo:firstDriver	dbr:Phil_Hill .
+dbr:Philip_Toll_Hill	dbo:wikiPageRedirects	dbr:Phil_Hill .

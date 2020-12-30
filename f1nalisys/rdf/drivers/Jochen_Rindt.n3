@@ -1,0 +1,228 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__55__1>	dbo:firstDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1968_French_Grand_Prix>	dbo:poleDriver	dbr:Jochen_Rindt .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Nino_Vaccarella	dbp:after	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1969_Race_of_Champions>	dbo:fastestDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1966_German_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1968_German_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Rindt .
+dbr:Chris_Amon	dbp:before	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1970_International_Gold_Cup>	dbo:secondDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1969_International_Gold_Cup>	dbo:secondDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__35__1>	dbo:firstDriver	dbr:Jochen_Rindt .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jochen_Rindt	foaf:primaryTopic	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1966_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1969_Italian_Grand_Prix>	dbo:secondDriver	dbr:Jochen_Rindt ;
+	dbo:poleDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1968_Canadian_Grand_Prix>	dbo:poleDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1969_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Rindt .
+dbr:Bruce_McLaren	dbp:before	dbr:Jochen_Rindt .
+dbr:Piers_Courage	dbp:after	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1969_British_Grand_Prix>	dbo:poleDriver	dbr:Jochen_Rindt .
+dbr:Jean_Guichet	dbp:after	dbr:Jochen_Rindt .
+dbr:Masten_Gregory	dbp:years	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1969_New_Zealand_Grand_Prix>	dbo:fastestDriver	dbr:Jochen_Rindt ;
+	dbo:secondDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__54__1>	dbo:firstDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1970_Formula_One_season>	dbp:champions	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1968_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Jochen_Rindt .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Jochen_Rindt	rdf:type	dbo:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jochen_Rindt	rdf:type	yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jochen_Rindt	rdf:type	ns7:Agent ,
+		yago:WikicatTeamLotusFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jochen_Rindt	rdf:type	wikidata:Q378622 ,
+		ns7:NaturalPerson ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 ,
+		wikidata:Q5 ,
+		yago:WikicatAustrianFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		dbo:RacingDriver ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatChampCarDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jochen_Rindt	rdf:type	umbel-rc:RaceCarDriver ,
+		foaf:Person ,
+		yago:WikicatTrans-AmSeriesDrivers ,
+		yago:WikicatTasmanSeriesDrivers ,
+		yago:WikicatCooperFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jochen_Rindt	rdf:type	owl:Thing ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Jochen_Rindt	rdf:type	schema:Person ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jochen_Rindt	rdfs:label	"\u5361\u5C14\u00B7\u7EA6\u4EA8\u00B7\u6797\u7279"@zh ,
+		"Jochen Rindt"@fr ,
+		"Jochen Rindt"@it ,
+		"Jochen Rindt"@es ,
+		"\u0420\u0438\u043D\u0434\u0442, \u0419\u043E\u0445\u0435\u043D"@ru ,
+		"\u064A\u0648\u062E\u0646 \u0631\u064A\u0646\u062F\u062A"@ar ,
+		"Jochen Rindt"@en ,
+		"Jochen Rindt"@pt ,
+		"Jochen Rindt"@nl ,
+		"Jochen Rindt"@pl ,
+		"\u30E8\u30C3\u30D8\u30F3\u30FB\u30EA\u30F3\u30C8"@ja ,
+		"Jochen Rindt"@de ;
+	rdfs:comment	"Karl Jochen Rindt (* 18. April 1942 in Mainz; \u2020 5. September 1970 in Monza) war ein Automobilrennfahrer, Formel-1-Pilot und mehrfacher Grand-Prix-Sieger. Als Waise mit deutscher Staatsangeh\u00F6rigkeit wuchs er bei seinen Gro\u00DFeltern in Graz auf und startete als Rennfahrer ausschlie\u00DFlich f\u00FCr \u00D6sterreich. 1970, beim Training zum Gro\u00DFen Preis von Italien in Monza, verungl\u00FCckte Rindt t\u00F6dlich. Sein Punktevorsprung in dieser Saison gen\u00FCgte, um als bis heute einziger Fahrer postum Formel-1-Weltmeister zu werden."@de ,
+		"\u041A\u0430\u0440\u043B-\u0419\u043E\u0445\u0435\u043D \u0420\u0438\u043D\u0434\u0442 (\u043D\u0435\u043C. Karl Jochen Rindt) (18 \u0430\u043F\u0440\u0435\u043B\u044F, 1942, \u041C\u0430\u0439\u043D\u0446 \u2014 5 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F, 1970, \u041C\u043E\u043D\u0446\u0430) \u2014 \u0430\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 1970 \u0433\u043E\u0434\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u043A\u0438\u0439 \u0442\u0438\u0442\u0443\u043B \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u043E\u0441\u043C\u0435\u0440\u0442\u043D\u043E, \u0442\u0430\u043A \u043A\u0430\u043A \u0440\u0430\u0437\u0431\u0438\u043B\u0441\u044F \u043F\u0440\u0438 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0442\u0430\u043B\u0438\u0438, \u043D\u043E \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u043D\u043D\u044B\u0445 \u043D\u0430 \u043F\u0440\u0435\u0434\u044B\u0434\u0443\u0449\u0438\u0445 \u044D\u0442\u0430\u043F\u0430\u0445 \u043E\u0447\u043A\u043E\u0432 \u0445\u0432\u0430\u0442\u0438\u043B\u043E \u0434\u043B\u044F \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043D\u0438\u044F \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u043A\u043E\u0433\u043E \u0442\u0438\u0442\u0443\u043B\u0430."@ru ,
+		"Karl Jochen Rindt (ur. 18 kwietnia 1942 w Moguncji, zm. 5 wrze\u015Bnia 1970 w Mediolanie) \u2013 austriacki kierowca wy\u015Bcigowy niemieckiego pochodzenia."@pl ,
+		"Karl Jochen Rindt (Mainz, 18 de Abril de 1942 \u2014 Mil\u00E3o, 5 de Setembro de 1970) foi automobilista alem\u00E3o radicado na \u00C1ustria. \u00C9, at\u00E9 os dias de hoje, o \u00FAnico campe\u00E3o p\u00F3stumo da hist\u00F3ria da F\u00F3rmula 1 (1970)."@pt ,
+		"Karl Jochen Rindt ([ka\u0281l \u02C8j\u0254\u03C7n\u0329 \u0280\u026Ant]; 18 April 1942 \u2013 5 September 1970) was a German-born racing driver who represented Austria during his career. In 1970, he became the only driver to posthumously win the Formula One World Drivers' Championship, after being killed in practice for the Italian Grand Prix."@en ,
+		"\u064A\u0648\u062E\u0646 \u0631\u064A\u0646\u062F\u062A \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0623\u0628\u0631\u064A\u0644 1942 \u0641\u064A \u0645\u0627\u064A\u0646\u062A\u0633\u060C \u0631\u0627\u064A\u0646\u0644\u0646\u062F \u0628\u0627\u0644\u0627\u062A\u064A\u0646\u0627\u062A\u060C \u0623\u0644\u0645\u0627\u0646\u064A\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0646\u0645\u0633\u0627\u0648\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1964. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0646\u0645\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1964. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 62 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 6 \u0645\u0646\u0647\u0627."@ar ,
+		"\u5361\u5C14\u00B7\u7EA6\u4EA8\u00B7\u6797\u7279\uFF08\u82F1\u8BED\uFF1AKarl Jochen Rindt\uFF0C1942\u5E744\u67088\u65E5\uFF0D1970\u5E749\u67085\u65E5\uFF09\u662F\u4E00\u4F4D\u4EE3\u8868\u5965\u5730\u5229\u53C2\u52A0\u6BD4\u8D5B\u7684\u5FB7\u56FD\u8F66\u624B\u3002\u751F\u65BC\u5FB7\u570B\u7F8E\u56E0\u8332\uFF0C\u901D\u4E16\u65BC\u7FA9\u5927\u5229\u8499\u624E\u3002\u6797\u7279\u662F\u552F\u4E00\u4E00\u4F4D\u5728\u6B7B\u540E\u6210\u4E3A\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8F66\u624B\u4E16\u754C\u51A0\u519B\uFF08\u65BC1970\u5E74\uFF09\u7684\u8F66\u624B\uFF0C\u4ED6\u5728\u5F53\u5E74\u7684\u7FA9\u5927\u5229\u5927\u734E\u8CFD\u4E0A\u610F\u5916\u8EAB\u4EA1\u30021965\u5E74\uFF0C\u4ED6\u548C\u4ED6\u7684\u642D\u6863\u2014\u2014\u7F8E\u56FD\u8F66\u624B\u9A6C\u65AF\u5EF7\u00B7\u683C\u91CC\u9AD8\u5229\uFF0C\u9A7E\u9A76\u6CD5\u62C9\u5229250LM\u57281965\u5E74\u8D62\u5F97\u4E86\u52D2\u829224\u5C0F\u65F6\u8010\u529B\u8D5B\u7684\u51A0\u519B\u3002\u4ED6\u540C\u6642\u4E5F\u662F\u5091\u5947\u00B7\u53F2\u90FD\u83EF\u7684\u597D\u53CB\uFF0C\u8207\u5728\u745E\u58EB\u6642\u7684\u9130\u5C45\u3002"@zh ,
+		"Dotato di uno stile di guida aggressivo e spettacolare, era considerato uno dei migliori piloti automobilistici della sua epoca. Durante la sua intera carriera agonistica, pur mantenendo fino alla sua morte la cittadinanza tedesca, corse sotto licenza austriaca, Paese in cui si trasfer\u00EC dopo la morte dei genitori avvenuta a causa di un bombardamento degli Alleati durante la seconda guerra mondiale."@it ,
+		"Karl-Jochen Rindt (Mainz, 18 april 1942 - Monza, 5 september 1970) was een autocoureur. Als wees met de Duitse nationaliteit groeide hij bij zijn grootouders in Graz op en reed hij met een Oostenrijkse licentie. Rindt verongelukte tijdens de training voor de Grand Prix Formule 1 van Itali\u00EB 1970. Rindt had echter zo'n grote voorsprong in het kampioenschap dat hij toch wereldkampioen Formule 1 werd in 1970."@nl ,
+		"Jochen Rindt (n\u00E9 le 18 avril 1942 \u00E0 Mayence, Allemagne - mort le 5 septembre 1970 \u00E0 Monza, Italie) est un pilote automobile autrichien d'origine allemande. Pr\u00E9sent en Formule 1 de 1964 \u00E0 1970, il est sacr\u00E9 champion du monde en 1970 \u00E0 titre posthume, fait unique dans les annales de la Formule 1."@fr ,
+		"\u30AB\u30FC\u30EB\u30FB\u30E8\u30C3\u30D8\u30F3\u30FB\u30EA\u30F3\u30C8\uFF08Karl Jochen Rindt, 1942\u5E744\u670818\u65E5 - 1970\u5E749\u67085\u65E5\uFF09\u306F\u30C9\u30A4\u30C4\u751F\u307E\u308C\u3001\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u56FD\u7C4D\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021970\u5E74\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002"@ja ,
+		"Karl Jochen Rindt (Maguncia, 18 de abril de 1942 - \u2020 Monza, 5 de septiembre de 1970) fue un piloto de automovilismo austr\u00EDaco que se destac\u00F3 a fines de la d\u00E9cada de 1960. Gan\u00F3 el Campeonato Mundial de F\u00F3rmula 1 en 1970, y result\u00F3 tercero en 1966 y cuarto en 1969, obteniendo en total seis victorias, trece podios y diez pole positions. Su coronaci\u00F3n como campe\u00F3n fue p\u00F3stuma, pues falleci\u00F3 en las pr\u00E1cticas del Gran Premio de Italia."@es ;
+	dbp:points	107 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-cs:Jochen_Rindt ,
+		<http://d-nb.info/gnd/119343185> ,
+		dbr:Jochen_Rindt .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	yago-res:Jochen_Rindt .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-es:Jochen_Rindt .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-pt:Jochen_Rindt .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-de:Jochen_Rindt .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-wikidata:Q3234 ,
+		<http://ja.dbpedia.org/resource/\u30E8\u30C3\u30D8\u30F3\u30FB\u30EA\u30F3\u30C8> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-nl:Jochen_Rindt .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-fr:Jochen_Rindt .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-it:Jochen_Rindt ,
+		wikidata:Q3234 ,
+		<http://viaf.org/viaf/22949132> ,
+		<http://rdf.freebase.com/ns/m.0cbn4> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-id:Jochen_Rindt .
+@prefix ns23:	<http://sw.cyc.com/concept/> .
+dbr:Jochen_Rindt	owl:sameAs	ns23:Mx4rwR3PGZwpEbGdrcN5Y29ycA .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jochen_Rindt	owl:sameAs	dbpedia-pl:Jochen_Rindt ,
+		<http://el.dbpedia.org/resource/\u0393\u03B9\u03CC\u03C7\u03B5\u03BD_\u03A1\u03B9\u03BD\u03C4> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jochen_Rindt	dct:subject	dbc:People_from_Mainz ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:Filmed_deaths_in_sports ,
+		dbc:Austrian_people_of_German_descent ,
+		dbc:Austrian_racing_drivers ,
+		dbc:Tasman_Series_drivers ,
+		<http://dbpedia.org/resource/Category:1970_deaths> ,
+		dbc:Rob_Walker_Racing_Team_Formula_One_drivers ,
+		dbc:Austrian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_One_World_Drivers\u0027_Champions> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Sport_deaths_in_Italy ,
+		<http://dbpedia.org/resource/Category:1942_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:Cooper_Formula_One_drivers ,
+		dbc:Trans-Am_Series_drivers ;
+	foaf:name	"Jochen Rindt"@en ;
+	foaf:homepage	<https://www.formula1.com/content/fom-website/en/championship/drivers/hall-of-fame/Jochen_Rindt.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Rindt_at_1970_Dutch_Grand_Prix_(2B).jpg> ;
+	dct:description	"German racing driver"@en ;
+	foaf:givenName	"Jochen"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jochen_Rindt ;
+	foaf:surname	"Rindt"@en ;
+	dbp:title	<http://dbpedia.org/resource/List_of_Formula_One_World_Drivers\u0027_Champions> ,
+		dbr:List_of_Formula_One_fatal_accidents ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners ;
+	dbp:years	dbr:Masten_Gregory ,
+		1965 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jochen_Rindt	dbp:years	"1970-09-05"^^xsd:date ,
+		"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jochen_Rindt	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jochen_Rindt?oldid=742066721> ;
+	dbp:birthPlace	"Mainz, Rhineland-Palatinate, Germany"^^xsd:string ;
+	dbp:birthName	"Karl Jochen Rindt"^^xsd:string ;
+	dbp:deathPlace	"Autodromo Nazionale Monza, Lombardy, Italy"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1969_United_States_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1970_German_Grand_Prix> ;
+	dbp:birthDate	"1942-04-18"^^xsd:date ;
+	dbp:deathDate	"1970-09-05"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.jochenrindt.com> ,
+		<https://www.formula1.com/content/fom-website/en/championship/drivers/hall-of-fame/Jochen_Rindt.html> ;
+	dbp:caption	"Rindt in 1970"^^xsd:string ;
+	dbo:abstract	"Karl Jochen Rindt (Maguncia, 18 de abril de 1942 - \u2020 Monza, 5 de septiembre de 1970) fue un piloto de automovilismo austr\u00EDaco que se destac\u00F3 a fines de la d\u00E9cada de 1960. Gan\u00F3 el Campeonato Mundial de F\u00F3rmula 1 en 1970, y result\u00F3 tercero en 1966 y cuarto en 1969, obteniendo en total seis victorias, trece podios y diez pole positions. Su coronaci\u00F3n como campe\u00F3n fue p\u00F3stuma, pues falleci\u00F3 en las pr\u00E1cticas del Gran Premio de Italia."@es ,
+		"\u30AB\u30FC\u30EB\u30FB\u30E8\u30C3\u30D8\u30F3\u30FB\u30EA\u30F3\u30C8\uFF08Karl Jochen Rindt, 1942\u5E744\u670818\u65E5 - 1970\u5E749\u67085\u65E5\uFF09\u306F\u30C9\u30A4\u30C4\u751F\u307E\u308C\u3001\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u56FD\u7C4D\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021970\u5E74\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002"@ja ,
+		"\u064A\u0648\u062E\u0646 \u0631\u064A\u0646\u062F\u062A \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0623\u0628\u0631\u064A\u0644 1942 \u0641\u064A \u0645\u0627\u064A\u0646\u062A\u0633\u060C \u0631\u0627\u064A\u0646\u0644\u0646\u062F \u0628\u0627\u0644\u0627\u062A\u064A\u0646\u0627\u062A\u060C \u0623\u0644\u0645\u0627\u0646\u064A\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0646\u0645\u0633\u0627\u0648\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1964. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0646\u0645\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1964. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 62 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 6 \u0645\u0646\u0647\u0627."@ar ,
+		"\u041A\u0430\u0440\u043B-\u0419\u043E\u0445\u0435\u043D \u0420\u0438\u043D\u0434\u0442 (\u043D\u0435\u043C. Karl Jochen Rindt) (18 \u0430\u043F\u0440\u0435\u043B\u044F, 1942, \u041C\u0430\u0439\u043D\u0446 \u2014 5 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F, 1970, \u041C\u043E\u043D\u0446\u0430) \u2014 \u0430\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 1970 \u0433\u043E\u0434\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u043A\u0438\u0439 \u0442\u0438\u0442\u0443\u043B \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u043E\u0441\u043C\u0435\u0440\u0442\u043D\u043E, \u0442\u0430\u043A \u043A\u0430\u043A \u0440\u0430\u0437\u0431\u0438\u043B\u0441\u044F \u043F\u0440\u0438 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0442\u0430\u043B\u0438\u0438, \u043D\u043E \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u043D\u043D\u044B\u0445 \u043D\u0430 \u043F\u0440\u0435\u0434\u044B\u0434\u0443\u0449\u0438\u0445 \u044D\u0442\u0430\u043F\u0430\u0445 \u043E\u0447\u043A\u043E\u0432 \u0445\u0432\u0430\u0442\u0438\u043B\u043E \u0434\u043B\u044F \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043D\u0438\u044F \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u043A\u043E\u0433\u043E \u0442\u0438\u0442\u0443\u043B\u0430."@ru ,
+		"Karl Jochen Rindt (Mainz, 18 de Abril de 1942 \u2014 Mil\u00E3o, 5 de Setembro de 1970) foi automobilista alem\u00E3o radicado na \u00C1ustria. \u00C9, at\u00E9 os dias de hoje, o \u00FAnico campe\u00E3o p\u00F3stumo da hist\u00F3ria da F\u00F3rmula 1 (1970)."@pt ,
+		"Karl Jochen Rindt (ur. 18 kwietnia 1942 w Moguncji, zm. 5 wrze\u015Bnia 1970 w Mediolanie) \u2013 austriacki kierowca wy\u015Bcigowy niemieckiego pochodzenia."@pl ,
+		"Karl Jochen Rindt ([ka\u0281l \u02C8j\u0254\u03C7n\u0329 \u0280\u026Ant]; 18 April 1942 \u2013 5 September 1970) was a German-born racing driver who represented Austria during his career. In 1970, he became the only driver to posthumously win the Formula One World Drivers' Championship, after being killed in practice for the Italian Grand Prix. Rindt started motor racing in 1961, switching to single-seaters in 1963, earning success in both Formula Junior and Formula Two. In 1964, Rindt made his debut in Formula One at the Austrian Grand Prix, before securing a full drive with Cooper for 1965. After mixed success with the team, he moved to Brabham for 1968 and then Lotus in 1969. It was at Lotus where Rindt found a competitive car, although he was often concerned about the security of the notoriously unreliable Lotus vehicles. He won his first Formula One race at the 1969 United States Grand Prix. In 1970, Rindt took five victories before his fatal accident, earning enough points to win the Drivers' World Championship. Overall, he competed in 62 Grands Prix, winning six and achieving 13 podium finishes. He was also successful in sports car racing, winning the 1965 24 Hours of Le Mans, paired with Masten Gregory in a Ferrari 250LM."@en ,
+		"Jochen Rindt (n\u00E9 le 18 avril 1942 \u00E0 Mayence, Allemagne - mort le 5 septembre 1970 \u00E0 Monza, Italie) est un pilote automobile autrichien d'origine allemande. Pr\u00E9sent en Formule 1 de 1964 \u00E0 1970, il est sacr\u00E9 champion du monde en 1970 \u00E0 titre posthume, fait unique dans les annales de la Formule 1."@fr ,
+		"Karl-Jochen Rindt (Mainz, 18 april 1942 - Monza, 5 september 1970) was een autocoureur. Als wees met de Duitse nationaliteit groeide hij bij zijn grootouders in Graz op en reed hij met een Oostenrijkse licentie. Rindt verongelukte tijdens de training voor de Grand Prix Formule 1 van Itali\u00EB 1970. Rindt had echter zo'n grote voorsprong in het kampioenschap dat hij toch wereldkampioen Formule 1 werd in 1970."@nl ,
+		"Dotato di uno stile di guida aggressivo e spettacolare, era considerato uno dei migliori piloti automobilistici della sua epoca. Durante la sua intera carriera agonistica, pur mantenendo fino alla sua morte la cittadinanza tedesca, corse sotto licenza austriaca, Paese in cui si trasfer\u00EC dopo la morte dei genitori avvenuta a causa di un bombardamento degli Alleati durante la seconda guerra mondiale. Rindt trascorse buona parte della sua carriera in Formula 1, categoria in cui vinse sei Gran Premi, ma ottenne successi pure in altre categorie, quali la Formula 2 e le competizioni a ruote coperte, in cui conquist\u00F2 la 24 Ore di Le Mans del 1965."@it ,
+		"Karl Jochen Rindt (* 18. April 1942 in Mainz; \u2020 5. September 1970 in Monza) war ein Automobilrennfahrer, Formel-1-Pilot und mehrfacher Grand-Prix-Sieger. Als Waise mit deutscher Staatsangeh\u00F6rigkeit wuchs er bei seinen Gro\u00DFeltern in Graz auf und startete als Rennfahrer ausschlie\u00DFlich f\u00FCr \u00D6sterreich. 1970, beim Training zum Gro\u00DFen Preis von Italien in Monza, verungl\u00FCckte Rindt t\u00F6dlich. Sein Punktevorsprung in dieser Saison gen\u00FCgte, um als bis heute einziger Fahrer postum Formel-1-Weltmeister zu werden."@de ,
+		"\u5361\u5C14\u00B7\u7EA6\u4EA8\u00B7\u6797\u7279\uFF08\u82F1\u8BED\uFF1AKarl Jochen Rindt\uFF0C1942\u5E744\u67088\u65E5\uFF0D1970\u5E749\u67085\u65E5\uFF09\u662F\u4E00\u4F4D\u4EE3\u8868\u5965\u5730\u5229\u53C2\u52A0\u6BD4\u8D5B\u7684\u5FB7\u56FD\u8F66\u624B\u3002\u751F\u65BC\u5FB7\u570B\u7F8E\u56E0\u8332\uFF0C\u901D\u4E16\u65BC\u7FA9\u5927\u5229\u8499\u624E\u3002\u6797\u7279\u662F\u552F\u4E00\u4E00\u4F4D\u5728\u6B7B\u540E\u6210\u4E3A\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8F66\u624B\u4E16\u754C\u51A0\u519B\uFF08\u65BC1970\u5E74\uFF09\u7684\u8F66\u624B\uFF0C\u4ED6\u5728\u5F53\u5E74\u7684\u7FA9\u5927\u5229\u5927\u734E\u8CFD\u4E0A\u610F\u5916\u8EAB\u4EA1\u30021965\u5E74\uFF0C\u4ED6\u548C\u4ED6\u7684\u642D\u6863\u2014\u2014\u7F8E\u56FD\u8F66\u624B\u9A6C\u65AF\u5EF7\u00B7\u683C\u91CC\u9AD8\u5229\uFF0C\u9A7E\u9A76\u6CD5\u62C9\u5229250LM\u57281965\u5E74\u8D62\u5F97\u4E86\u52D2\u829224\u5C0F\u65F6\u8010\u529B\u8D5B\u7684\u51A0\u519B\u3002\u4ED6\u540C\u6642\u4E5F\u662F\u5091\u5947\u00B7\u53F2\u90FD\u83EF\u7684\u597D\u53CB\uFF0C\u8207\u5728\u745E\u58EB\u6642\u7684\u9130\u5C45\u3002"@zh ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Rindt_at_1970_Dutch_Grand_Prix_(2B).jpg?width=300> ;
+	dbo:birthDate	"1942-4-18"^^xsd:date ;
+	dbo:deathDate	"1970-9-5"^^xsd:date ;
+	dbo:deathPlace	dbr:Monza ;
+	dbo:wikiPageRevisionID	742066721 ;
+	dbo:birthPlace	dbr:Mainz ;
+	dbo:wikiPageID	45388 .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Jochen_Rindt	ns29:hypernym	dbr:Driver ;
+	dbo:championships	"1"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"3"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1964_Austrian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1970_Italian_Grand_Prix> ;
+	dbo:podiums	"13"^^xsd:nonNegativeInteger ;
+	dbo:poles	"10"^^xsd:nonNegativeInteger ;
+	dbo:races	"62"^^xsd:nonNegativeInteger ;
+	dbo:wins	"6"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Rob Walker ,"^^xsd:string ,
+		dbr:Cooper_Car_Company ,
+		dbr:Team_Lotus ,
+		dbr:Brabham ;
+	dbp:nationality	"Austrian"^^xsd:string .
+<http://dbpedia.org/resource/1966_United_States_Grand_Prix>	dbo:secondDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1969_United_States_Grand_Prix>	dbo:fastestDriver	dbr:Jochen_Rindt ;
+	dbo:firstDriver	dbr:Jochen_Rindt ;
+	dbo:poleDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1969_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Jochen_Rindt ;
+	dbo:poleDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1970_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Jochen_Rindt ;
+	dbo:firstDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1970_Race_of_Champions>	dbo:secondDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1970_Austrian_Grand_Prix>	dbo:poleDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1970_British_Grand_Prix>	dbo:firstDriver	dbr:Jochen_Rindt ;
+	dbo:poleDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1970_French_Grand_Prix>	dbo:firstDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1970_German_Grand_Prix>	dbo:firstDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1969_Dutch_Grand_Prix>	dbo:poleDriver	dbr:Jochen_Rindt .
+<http://dbpedia.org/resource/1970_Dutch_Grand_Prix>	dbo:firstDriver	dbr:Jochen_Rindt ;
+	dbo:poleDriver	dbr:Jochen_Rindt .
+dbr:Jo_Siffert	dbp:before	dbr:Jochen_Rindt .
+dbr:Jochen	dbo:wikiPageDisambiguates	dbr:Jochen_Rindt .

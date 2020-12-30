@@ -1,0 +1,163 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Ligier_JS29__4	dbo:firstDriver	dbr:Piercarlo_Ghinzani .
+dbr:Ligier_JS29__5	dbo:firstDriver	dbr:Piercarlo_Ghinzani .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Piercarlo_Ghinzani	foaf:primaryTopic	dbr:Piercarlo_Ghinzani .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Team_Ghinzani	dbp:principal	dbr:Piercarlo_Ghinzani .
+dbr:A1_Team_Italy	dbp:seatHolder	dbr:Piercarlo_Ghinzani .
+dbr:Siegfried_Stohr	dbp:after	dbr:Piercarlo_Ghinzani .
+dbr:Jan_Lammers	dbp:before	dbr:Piercarlo_Ghinzani .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Piercarlo_Ghinzani	rdf:type	wikidata:Q5 ,
+		dbo:Athlete ,
+		wikidata:Q378622 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Piercarlo_Ghinzani	rdf:type	yago:WikicatEuropeanFormulaThreeChampionshipDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Piercarlo_Ghinzani	rdf:type	umbel-rc:RaceCarDriver .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Piercarlo_Ghinzani	rdf:type	ns9:Agent ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatTolemanFormulaOneDrivers ,
+		ns9:NaturalPerson ,
+		dbo:MotorsportRacer ,
+		yago:WikicatOsellaFormulaOneDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:WikicatLigierFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		dbo:Agent ,
+		wikidata:Q24229398 ,
+		yago:WikicatZakspeedFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Piercarlo_Ghinzani	rdf:type	schema:Person ,
+		dbo:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Piercarlo_Ghinzani	rdf:type	owl:Thing ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatItalianFormulaThreeChampionshipDrivers ,
+		foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Piercarlo_Ghinzani	rdfs:label	"Piercarlo Ghinzani"@fr ,
+		"Piercarlo Ghinzani"@nl ,
+		"\u0413\u0438\u043D\u0434\u0437\u0430\u043D\u0438, \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E"@ru ,
+		"Piercarlo Ghinzani"@de ,
+		"Piercarlo Ghinzani"@pl ,
+		"Piercarlo Ghinzani"@en ,
+		"Piercarlo Ghinzani"@es ,
+		"Piercarlo Ghinzani"@pt ,
+		"Piercarlo Ghinzani"@it ,
+		"\u0628\u064A\u0631\u0643\u0627\u0631\u0644\u0648 \u063A\u064A\u0646\u0632\u0627\u0646\u064A"@ar ,
+		"\u30D4\u30A8\u30EB\u30AB\u30EB\u30ED\u30FB\u30AE\u30F3\u30B6\u30FC\u30CB"@ja ;
+	rdfs:comment	"Piercarlo Ghinzani (nacido el 16 de enero de 1952 en Riviera d'Adda, Lombard\u00EDa) es un ex-piloto de F\u00F3rmula 1 italiano. Particip\u00F3 en 111 Grandes Premios, debutando el 17 de mayo de 1981. Logr\u00F3 2 puntos de campeonato. Desarroll\u00F3 casi toda su carrera en F1 pilotando para el modesto equipo italiano Osella. Tambi\u00E9n result\u00F3 ganador del Campeonato Europeo de F\u00F3rmula 3 de 1977."@es ,
+		"\u30D4\u30A8\u30EB\u30AB\u30EB\u30ED\u30FB\u30AE\u30F3\u30B6\u30FC\u30CB\uFF08Piercarlo Ghinzani, 1952\u5E741\u670816\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30FB\u30EA\u30F4\u30A3\u30A8\u30FC\u30E9\u30FB\u30C0\u30C3\u30C0\uFF08\u73FE\u30FB\u30E1\u30C9\u30E9\u30FC\u30B4\uFF09\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Piercarlo Ghinzani (Riviera d'Adda, Lombardije, 16 januari 1952) is een voormalig Formule 1-coureur uit Itali\u00EB. Hij reed in 1981 en tussen 1983 en 1989 111 Grands Prix voor de teams Osella, Toleman, Ligier en Zakspeed. Hij scoorde zijn enige punten in 1984 de Grand Prix van Dallas."@nl ,
+		"Piercarlo Ghinzani (n\u00E9 le 16 janvier 1952 \u00E0 Riviera d'Adda, dans la province de Bergame, Lombardie, Italie) est un ancien pilote automobile italien. Il a notamment particip\u00E9 \u00E0 111 Grands Prix de Formule 1 entre 1981 et 1989."@fr ,
+		"Piercarlo Ghinzani (16 de janeiro de 1952 em Riviera d'Abba, atual cidade de Medolago) \u00E9 um ex-piloto de F\u00F3rmula 1 que disputou as temporadas de 1981 e de 1983 a 1989. Nas oito temporadas em que esteve presente na F\u00F3rmula 1, Ghinzani esteve por cinco temporadas inteiras pela equipe Osella Corse, uma pela equipe Ligier, uma pela equipe Zakspeed, al\u00E9m da metade inicial da temporada de 1985, pela Osella, e a metade final da mesma temporada pela equipe Toleman, totalizando 111 corridas disputadas. Conquistou dois pontos na categoria, ao terminar na 5\u00AA coloca\u00E7\u00E3o no GP dos Estados Unidos de 1984, sempre pela Osella. Tentou uma sorte melhor na temporada de 1987, ao se mudar para a decadente equipe Ligier, equipada com motores Alfa Romeo, (mas em fun\u00E7\u00E3o do franco desempenho nos testes de pr\u00E9-tempo"@pt ,
+		"Piercarlo Ghinzani (born 16 January 1952 in Riviera d'Adda, Lombardy) is a former racing driver from Italy. He currently manages his own racing team, Team Ghinzani, which was created in 1992 and is currently involved in several Formula Three championships."@en ,
+		"Piercarlo Ghinzani (* 16. Januar 1952 in Riviera d'Adda) ist ein ehemaliger italienischer Formel-1-Rennfahrer. Piercarlo Ghinzani fuhr einige Jahre in der italienischen und europ\u00E4ischen Meisterschaft der Formel 3 f\u00FCr das von Gianpaolo Pavanello geleitete Team Euroracing, das in den fr\u00FChen 1980er Jahren die Formel-1-Operationen von Alfa Romeo leitete und einige Jahre sp\u00E4ter unter dem Namen EuroBrun weiterarbeitete. 1977 wurde Ghinzani Formel-3-Europameister. 1980 war er kurzfristig mit dem italienischen Dywa-Projekt verbunden, das einen Wagen f\u00FCr die britische Aurora-Serie gebaut hatte. Das Team meldete sich nur f\u00FCr ein einziges Rennen dieser Serie, n\u00E4mlich f\u00FCr die Lotteria Monza. Allerdings trat es schlie\u00DFlich nicht an, so dass auch Ghinzani nicht zum Einsatz kam."@de ,
+		"\u0628\u064A\u0631\u0643\u0627\u0631\u0644\u0648 \u063A\u064A\u0646\u0632\u0627\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 16 \u064A\u0646\u0627\u064A\u0631 1952 \u0641\u064A \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1981. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0644\u062C\u064A\u0643\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1981. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 111 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"\u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u0413\u0438\u043D\u0434\u0437\u0430\u043D\u0438 (\u0430\u043D\u0433\u043B.  Piercarlo Ghinzani) (16 \u044F\u043D\u0432\u0430\u0440\u044F, 1952, Medolago) \u2013 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A 111 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E 17 \u043C\u0430\u044F, 1981 \u0432 \u043D\u0435\u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u041E\u0437\u0435\u043B\u043B\u0430, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0438 \u043F\u0440\u043E\u0432\u0451\u043B \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u0432\u0441\u0435 \u0441\u0432\u043E\u0438 \u0433\u043E\u043D\u043A\u0438. \u0412 1981 \u0433\u043E\u0434\u0443 \u043F\u043E\u043C\u0438\u043C\u043E \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043B\u0441\u044F \u0432 \u0433\u0440\u0443\u043F\u043F\u0435 \u0421 \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u0441 \u041C\u0438\u043A\u0435\u043B\u0435 \u0410\u043B\u044C\u0431\u043E\u0440\u0435\u0442\u043E \u0438 \u0420\u0438\u043A\u0430\u0440\u0434\u043E \u041F\u0430\u0442\u0440\u0435\u0437\u0435."@ru ,
+		"\u00C8 contitolare del A1 Team Italy."@it ,
+		"Piercarlo Ghinzani (ur. 16 stycznia 1952 w Bergamo) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W 1977 zosta\u0142 mistrzem Europejskiej Formu\u0142y 3, a w 1979 wygra\u0142 klasyfikacj\u0119 kierowc\u00F3w W\u0142oskiej Formu\u0142y 3. W latach 1981 i 1983\u20131986 je\u017Adzi\u0142 dla zespo\u0142u Osella w Formule 1. W GP USA 1984 zaj\u0105\u0142 5. miejsce. By\u0142y to jego jedyne punkty w karierze oraz jeden z dw\u00F3ch przypadk\u00F3w, by punkty zdoby\u0142 zawodnik Oselli. Da\u0142y mu one 19. miejsce w\u015Br\u00F3d kierowc\u00F3w. Pod koniec kariery po roku sp\u0119dzi\u0142 w Tolemanie, Zakspeedzie i Ligierze, ale nie zdoby\u0142 punkt\u00F3w. W 1989 zako\u0144czy\u0142 sw\u00F3j udzia\u0142 w wy\u015Bcigach Formu\u0142y 1."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Piercarlo_Ghinzani	dbp:birthDate	"1952-01-16"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Piercarlo_Ghinzani	owl:sameAs	dbpedia-pl:Piercarlo_Ghinzani .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Piercarlo_Ghinzani	owl:sameAs	dbpedia-wikidata:Q172994 ,
+		wikidata:Q172994 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Piercarlo_Ghinzani	owl:sameAs	dbpedia-de:Piercarlo_Ghinzani ,
+		<http://rdf.freebase.com/ns/m.04k18m> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Piercarlo_Ghinzani	owl:sameAs	dbpedia-it:Piercarlo_Ghinzani .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Piercarlo_Ghinzani	owl:sameAs	dbpedia-fr:Piercarlo_Ghinzani .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Piercarlo_Ghinzani	owl:sameAs	dbpedia-nl:Piercarlo_Ghinzani .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Piercarlo_Ghinzani	owl:sameAs	dbpedia-pt:Piercarlo_Ghinzani ,
+		dbr:Piercarlo_Ghinzani .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Piercarlo_Ghinzani	owl:sameAs	yago-res:Piercarlo_Ghinzani ,
+		<http://ja.dbpedia.org/resource/\u30D4\u30A8\u30EB\u30AB\u30EB\u30ED\u30FB\u30AE\u30F3\u30B6\u30FC\u30CB> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Piercarlo_Ghinzani	owl:sameAs	dbpedia-es:Piercarlo_Ghinzani .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Piercarlo_Ghinzani	dct:subject	dbc:Zakspeed_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:Toleman_Formula_One_drivers ,
+		dbc:Italian_Formula_Three_Championship_drivers ,
+		dbc:Ligier_Formula_One_drivers ,
+		dbc:A1_Grand_Prix_team_owners ,
+		<http://dbpedia.org/resource/Category:1952_births> ,
+		dbc:European_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Osella_Formula_One_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:People_from_the_Province_of_Bergamo ;
+	foaf:name	"Piercarlo Ghinzani"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ghinzani_Osella_FA1F_1984_Dallas_F1.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Piercarlo_Ghinzani ;
+	dbp:points	2 ;
+	dbp:years	1977 ,
+		1979 ,
+		",  \u2013"^^xsd:string ;
+	dbp:after	dbr:Jan_Lammers ,
+		dbr:Guido_Pardini ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Equipe_Ligier ,
+		dbr:Zakspeed ,
+		dbr:Toleman ,
+		dbr:Osella .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Piercarlo_Ghinzani	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Piercarlo_Ghinzani?oldid=739459461> ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:birthPlace	"Riviera d'Adda, Lombardy, Italy"^^xsd:string ;
+	dbp:before	dbr:Siegfried_Stohr ,
+		dbr:Riccardo_Patrese ;
+	dbo:abstract	"Piercarlo Ghinzani (n\u00E9 le 16 janvier 1952 \u00E0 Riviera d'Adda, dans la province de Bergame, Lombardie, Italie) est un ancien pilote automobile italien. Il a notamment particip\u00E9 \u00E0 111 Grands Prix de Formule 1 entre 1981 et 1989."@fr ,
+		"Piercarlo Ghinzani (born 16 January 1952 in Riviera d'Adda, Lombardy) is a former racing driver from Italy. He currently manages his own racing team, Team Ghinzani, which was created in 1992 and is currently involved in several Formula Three championships."@en ,
+		"Piercarlo Ghinzani (* 16. Januar 1952 in Riviera d'Adda) ist ein ehemaliger italienischer Formel-1-Rennfahrer. Piercarlo Ghinzani fuhr einige Jahre in der italienischen und europ\u00E4ischen Meisterschaft der Formel 3 f\u00FCr das von Gianpaolo Pavanello geleitete Team Euroracing, das in den fr\u00FChen 1980er Jahren die Formel-1-Operationen von Alfa Romeo leitete und einige Jahre sp\u00E4ter unter dem Namen EuroBrun weiterarbeitete. 1977 wurde Ghinzani Formel-3-Europameister. 1980 war er kurzfristig mit dem italienischen Dywa-Projekt verbunden, das einen Wagen f\u00FCr die britische Aurora-Serie gebaut hatte. Das Team meldete sich nur f\u00FCr ein einziges Rennen dieser Serie, n\u00E4mlich f\u00FCr die Lotteria Monza. Allerdings trat es schlie\u00DFlich nicht an, so dass auch Ghinzani nicht zum Einsatz kam. Danach bestritt Ghinzani von 1981 bis 1989 insgesamt 76 Formel-1-Rennen, er stand dabei bei Osella, Toleman, Ligier und Zakspeed unter Vertrag. Bei 31 Grand Prix konnte er sich nicht f\u00FCr das Rennen qualifizieren. Bei vier Rennen qualifizierte er sich zwar, konnte aus den verschiedensten Gr\u00FCnden aber nicht starten. Seinen gr\u00F6\u00DFten Erfolg feierte Piercarlo Ghinzani 1984, als er beim Grand Prix der USA in Dallas auf einen Osella den f\u00FCnften Platz belegte und dabei seine einzigen WM-Punkte einfuhr. Ghinzani nahm viermal am 24-Stunden-Rennen von Le Mans teil, schied jedoch jedes Mal nach technischen Defekten aus. 1992 gr\u00FCndete Piercarlo Ghinzani seinen eigenen Rennstall namens Team Ghinzani, der in Bergamo ans\u00E4ssig ist und in seiner Geschichte in diversen Motorsportklassen vertreten war. Das Team Ghinzani engagiert sich seit vielen Jahren in der italienischen Formel 3-Meisterschaft. Zwischen 2005 und 2009 nahm es zudem an der Rennserie A1GP teil und stellte dort das A1 Team Italien. Piercarlo Ghinzani unterh\u00E4lt eine Sammlung historischer Rennwagen. Zu ihr geh\u00F6rt ein Osella FA1E, ein Osella FA1F und ein Toleman TG 185. Diese Wagen fuhr Ghinzani w\u00E4hrend seiner aktiven Karriere als Formel 1-Pilot."@de ,
+		"Piercarlo Ghinzani (16 de janeiro de 1952 em Riviera d'Abba, atual cidade de Medolago) \u00E9 um ex-piloto de F\u00F3rmula 1 que disputou as temporadas de 1981 e de 1983 a 1989. Nas oito temporadas em que esteve presente na F\u00F3rmula 1, Ghinzani esteve por cinco temporadas inteiras pela equipe Osella Corse, uma pela equipe Ligier, uma pela equipe Zakspeed, al\u00E9m da metade inicial da temporada de 1985, pela Osella, e a metade final da mesma temporada pela equipe Toleman, totalizando 111 corridas disputadas. Conquistou dois pontos na categoria, ao terminar na 5\u00AA coloca\u00E7\u00E3o no GP dos Estados Unidos de 1984, sempre pela Osella. Tentou uma sorte melhor na temporada de 1987, ao se mudar para a decadente equipe Ligier, equipada com motores Alfa Romeo, (mas em fun\u00E7\u00E3o do franco desempenho nos testes de pr\u00E9-temporada, a equipe n\u00E3o esteve presente para disputar o GP do Brasil. Rapidamente, a equipe fechou com a Megatron para ser utilizado a partir do GP de San Marino at\u00E9 o final do campeonato. O projetista teve que fazer a vers\u00E3o B do chassi para se adaptar ao novo motor). Por\u00E9m voltou para equipes de menor porte. Na \u00FAltima temporada disputada, outra vez pela Osella, que foi a sua verdadeira \"casa\", Ghinzani conseguiu se classificar para largar em apenas tr\u00EAs provas."@pt ,
+		"Piercarlo Ghinzani (ur. 16 stycznia 1952 w Bergamo) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W 1977 zosta\u0142 mistrzem Europejskiej Formu\u0142y 3, a w 1979 wygra\u0142 klasyfikacj\u0119 kierowc\u00F3w W\u0142oskiej Formu\u0142y 3. W latach 1981 i 1983\u20131986 je\u017Adzi\u0142 dla zespo\u0142u Osella w Formule 1. W GP USA 1984 zaj\u0105\u0142 5. miejsce. By\u0142y to jego jedyne punkty w karierze oraz jeden z dw\u00F3ch przypadk\u00F3w, by punkty zdoby\u0142 zawodnik Oselli. Da\u0142y mu one 19. miejsce w\u015Br\u00F3d kierowc\u00F3w. Pod koniec kariery po roku sp\u0119dzi\u0142 w Tolemanie, Zakspeedzie i Ligierze, ale nie zdoby\u0142 punkt\u00F3w. W 1989 zako\u0144czy\u0142 sw\u00F3j udzia\u0142 w wy\u015Bcigach Formu\u0142y 1."@pl ,
+		"\u0628\u064A\u0631\u0643\u0627\u0631\u0644\u0648 \u063A\u064A\u0646\u0632\u0627\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 16 \u064A\u0646\u0627\u064A\u0631 1952 \u0641\u064A \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1981. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0644\u062C\u064A\u0643\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1981. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 111 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Piercarlo Ghinzani (nacido el 16 de enero de 1952 en Riviera d'Adda, Lombard\u00EDa) es un ex-piloto de F\u00F3rmula 1 italiano. Particip\u00F3 en 111 Grandes Premios, debutando el 17 de mayo de 1981. Logr\u00F3 2 puntos de campeonato. Desarroll\u00F3 casi toda su carrera en F1 pilotando para el modesto equipo italiano Osella. Tambi\u00E9n result\u00F3 ganador del Campeonato Europeo de F\u00F3rmula 3 de 1977."@es ,
+		"Piercarlo Ghinzani (Riviera d'Adda, Lombardije, 16 januari 1952) is een voormalig Formule 1-coureur uit Itali\u00EB. Hij reed in 1981 en tussen 1983 en 1989 111 Grands Prix voor de teams Osella, Toleman, Ligier en Zakspeed. Hij scoorde zijn enige punten in 1984 de Grand Prix van Dallas."@nl ,
+		"\u30D4\u30A8\u30EB\u30AB\u30EB\u30ED\u30FB\u30AE\u30F3\u30B6\u30FC\u30CB\uFF08Piercarlo Ghinzani, 1952\u5E741\u670816\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30FB\u30EA\u30F4\u30A3\u30A8\u30FC\u30E9\u30FB\u30C0\u30C3\u30C0\uFF08\u73FE\u30FB\u30E1\u30C9\u30E9\u30FC\u30B4\uFF09\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"\u00C8 contitolare del A1 Team Italy."@it ,
+		"\u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u0413\u0438\u043D\u0434\u0437\u0430\u043D\u0438 (\u0430\u043D\u0433\u043B.  Piercarlo Ghinzani) (16 \u044F\u043D\u0432\u0430\u0440\u044F, 1952, Medolago) \u2013 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A 111 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E 17 \u043C\u0430\u044F, 1981 \u0432 \u043D\u0435\u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u041E\u0437\u0435\u043B\u043B\u0430, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0438 \u043F\u0440\u043E\u0432\u0451\u043B \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u0432\u0441\u0435 \u0441\u0432\u043E\u0438 \u0433\u043E\u043D\u043A\u0438. \u0412 1981 \u0433\u043E\u0434\u0443 \u043F\u043E\u043C\u0438\u043C\u043E \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043B\u0441\u044F \u0432 \u0433\u0440\u0443\u043F\u043F\u0435 \u0421 \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u0441 \u041C\u0438\u043A\u0435\u043B\u0435 \u0410\u043B\u044C\u0431\u043E\u0440\u0435\u0442\u043E \u0438 \u0420\u0438\u043A\u0430\u0440\u0434\u043E \u041F\u0430\u0442\u0440\u0435\u0437\u0435. \u0421\u0432\u043E\u0439 \u043F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u043B\u043D\u044B\u0439 \u0441\u0435\u0437\u043E\u043D \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u043F\u0440\u043E\u0432\u0451\u043B \u0432 1983 \u0433\u043E\u0434\u0443 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u041E\u0437\u0435\u043B\u043B\u0430. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u043E\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435 \u043E\u0447\u043A\u043E\u0432 \u043D\u0430 \u0444\u0438\u043D\u0438\u0448\u0435 \u0441\u0435\u0437\u043E\u043D\u0430 1983 \u0433\u043E\u0434\u0430, \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u043B \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435. \u0421\u0435\u0437\u043E\u043D 1984 \u0433\u043E\u0434\u0430 \u0441\u0442\u0430\u043B \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u0443\u0434\u0430\u0447\u043D\u044B\u043C \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435 \u0413\u0438\u043D\u0434\u0437\u0430\u043D\u0438 \u2013 \u0438\u043C\u0435\u043D\u043D\u043E \u0432 \u043D\u0451\u043C \u0435\u043C\u0443 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0432 \u043E\u0447\u043A\u043E\u0432\u043E\u0439 \u0437\u043E\u043D\u0435. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0441\u0435\u0440\u044C\u0451\u0437\u043D\u0443\u044E \u0430\u0432\u0430\u0440\u0438\u044E \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438 1984 \u0433\u043E\u0434\u0430 \u0438 \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u044B\u0435 \u043E\u0436\u043E\u0433\u0438, \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u0432 \u0414\u0430\u043B\u043B\u0430\u0441\u0435 \u0441\u043C\u043E\u0433 \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u043F\u044F\u0442\u044B\u043C.\u0412 \u0441\u0435\u0440\u0435\u0434\u0438\u043D\u0435 \u0441\u0435\u0437\u043E\u043D\u0430 1985 \u0433\u043E\u0434\u0430 \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u043E\u0441\u0442\u0430\u0432\u0438\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u041E\u0437\u0435\u043B\u043B\u0430 \u0438 \u043F\u0435\u0440\u0435\u0448\u0451\u043B \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Toleman team, \u0433\u0434\u0435 \u0435\u0433\u043E \u043F\u0430\u0440\u0442\u043D\u0451\u0440\u043E\u043C \u043F\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u0441\u0442\u0430\u043B \u0434\u0440\u0443\u0433\u043E\u0439 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0435\u0446 \u0422\u0435\u043E \u0424\u0430\u0431\u0438. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u043A\u043E\u043D\u043A\u0443\u0440\u0435\u043D\u0442\u043E\u0441\u043F\u043E\u0441\u043E\u0431\u043D\u0443\u044E \u043C\u0430\u0448\u0438\u043D\u0443, \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u043D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043D\u0430\u0431\u0440\u0430\u0442\u044C \u043D\u0438 \u043E\u0434\u043D\u043E\u0433\u043E \u043E\u0447\u043A\u0430 \u043D\u0430 \u0444\u0438\u043D\u0438\u0448\u0435 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430. \u0412 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0435\u043C \u0441\u0435\u0437\u043E\u043D\u0435 \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u041E\u0437\u0435\u043B\u043B\u0430, \u043D\u043E \u043D\u0430 \u0441\u0435\u0437\u043E\u043D 1987 \u0433\u043E\u0434\u0430 \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u041B\u0438\u0436\u044C\u0435, \u043F\u0435\u0440\u0432\u044B\u043C \u043F\u0438\u043B\u043E\u0442\u043E\u043C \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0431\u044B\u043B \u0420\u0435\u043D\u0435 \u0410\u0440\u043D\u0443. \u041D\u043E \u0438 \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u041B\u0438\u0436\u044C\u0435 \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u043D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u0442\u044C \u043E\u0447\u043A\u043E\u0432. \u0421\u0435\u0437\u043E\u043D 1988 \u0433\u043E\u0434\u0430 \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u043F\u0440\u043E\u0432\u0451\u043B \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 Zakspeed, \u043D\u043E \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u0441\u0435\u0437\u043E\u043D \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u041E\u0437\u0435\u043B\u043B\u0430. \u0412 \u0441\u0432\u043E\u0451\u043C \u0437\u0430\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u043C \u0441\u0435\u0437\u043E\u043D\u0435 \u041F\u044C\u0435\u0440\u043A\u0430\u0440\u043B\u043E \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u043B\u0441\u044F \u043B\u0438\u0448\u044C \u0442\u0440\u0438\u0436\u0434\u044B, \u0438 \u0432 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043F\u0440\u0438 \u043F\u0440\u043E\u043B\u0438\u0432\u043D\u043E\u043C \u0434\u043E\u0436\u0434\u0435 \u0432 \u043D\u0435\u0433\u043E \u0441\u0437\u0430\u0434\u0438 \u0432\u0440\u0435\u0437\u0430\u043B\u0441\u044F \u041D\u0435\u043B\u044C\u0441\u043E\u043D \u041F\u0438\u043A\u0435.\u041F\u043E\u0441\u043B\u0435 \u0443\u0445\u043E\u0434\u0430 \u0438\u0437 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043E\u0441\u043D\u043E\u0432\u0430\u043B \u0441\u0432\u043E\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0432 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-3.\u0412 2000 \u0433\u043E\u0434\u0443 \u0435\u0433\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B\u0430 \u0432 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u043C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3000."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ghinzani_Osella_FA1F_1984_Dallas_F1.jpg?width=300> ;
+	dbo:birthDate	"1952-1-16"^^xsd:date ;
+	dbo:wikiPageRevisionID	739459461 ;
+	dbo:birthPlace	dbr:Solza ;
+	dbo:wikiPageID	1226331 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1981_Belgian_Grand_Prix> ;
+	dbo:races	"111"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1989_Australian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Piercarlo_Ghinzani	ns26:hypernym	dbr:Driver ;
+	dbp:title	dbr:Italian_Formula_Three_Championship ,
+		dbr:European_Formula_Three_Championship .
+dbr:Toleman_TG185__3	dbo:firstDriver	dbr:Piercarlo_Ghinzani .
+dbr:Zakspeed_881__2	dbo:firstDriver	dbr:Piercarlo_Ghinzani .

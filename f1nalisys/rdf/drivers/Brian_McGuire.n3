@@ -1,0 +1,126 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Brian_McGuire	foaf:primaryTopic	dbr:Brian_McGuire .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Brian_McGuire	rdf:type	yago:CausalAgent100007347 ,
+		foaf:Person .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Brian_McGuire	rdf:type	dbo:Agent .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Brian_McGuire	rdf:type	ns6:Agent ,
+		dbo:Athlete ,
+		dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Brian_McGuire	rdf:type	wikidata:Q378622 ,
+		ns6:NaturalPerson ,
+		yago:WikicatMcGuireFormulaOneDrivers ,
+		yago:WikicatRacingDriversFromMelbourne ,
+		yago:WikicatAustralianFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Brian_McGuire	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Brian_McGuire	rdf:type	schema:Person ,
+		yago:Operator110378412 ,
+		wikidata:Q5 ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Brian_McGuire	rdf:type	umbel-rc:RaceCarDriver ,
+		umbel-rc:Athlete ,
+		dbo:MotorsportRacer ,
+		yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneRacer ,
+		dbo:RacingDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Brian_McGuire	rdfs:label	"Brian McGuire"@pl ,
+		"Brian McGuire"@pt ,
+		"Brian McGuire"@en ,
+		"\u041C\u0430\u043A\u0433\u0443\u0430\u0439\u0440, \u0411\u0440\u0430\u0439\u0430\u043D"@ru ,
+		"Brian McGuire"@fr ,
+		"Brian McGuire"@it ,
+		"Brian McGuire"@nl ;
+	rdfs:comment	"Brian McGuire (13 December 1945 in East Melbourne \u2013 29 August 1977 at Brands Hatch, UK) was a racing driver and constructor from Australia."@en ,
+		"Brian McGuire (Melbourne, 13 de dezembro de 1945 \u2014 Brands Hatch, 29 de agosto de 1977) foi um piloto de autom\u00F3veis australiano. Piloto de corridas experiente na Austr\u00E1lia, migrou para a Europa, em companhia do amigo e futuro campe\u00E3o mundial de pilotos Alan Jones, na tentativa de sucesso no automobilismo. Depois de correr de F-3, comprou em 1976 um Williams de F\u00F3rmula 1 de 1975, para disputar o British Shellsport (categoria com carros de F\u00F3rmula 1 e F\u00F3rmula 5000), conseguindo uma vit\u00F3ria em Thruxton. Ele remodelou este carro, e apareceu nos treinos para o GP da Gr\u00E3-Bretanha com o carro, denominado McGuire BM1, equipado com motor Coswosth, n\u00E3o conseguindo passar da pr\u00E9-classifica\u00E7\u00E3o realizada numa quarta-feira. Foi sua \u00FAnica tentativa (n\u00E3o largou no mesmo GP da Gr\u00E3-Bretanha, em 1976)."@pt ,
+		"Brian McGuire (ur. 13 grudnia 1945 w East Melbourne, zm. 29 sierpnia 1977 w Brands Hatch, Wielka Brytania) \u2013 australijski kierowca wy\u015Bcigowy. Wyjecha\u0142 do Wielkiej Brytanii w celu zrobienia kariery wraz z m\u0142odym kierowc\u0105 Alanem Jonesem."@pl ,
+		"\u0411\u0440\u0430\u0439\u0430\u043D \u041C\u0430\u043A\u0433\u0443\u0430\u0439\u0440 (\u0430\u043D\u0433\u043B. Brian McGuire, 13 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1945 \u0433\u043E\u0434\u0430, \u041C\u0435\u043B\u044C\u0431\u0443\u0440\u043D \u2014 29 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1977 \u0433\u043E\u0434\u0430, \u0411\u0440\u044D\u043D\u0434\u0441-\u0425\u044D\u0442\u0447) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Brian McGuire \u00E9tait un pilote automobile australien n\u00E9 \u00E0 East Melbourne le 13 d\u00E9cembre 1945 et d\u00E9c\u00E9d\u00E9 dans un accident le 29 ao\u00FBt 1977. Il s'est engag\u00E9 sur deux Grand Prix en Formule 1 en 1976 et 1977, sans pour autant prendre le d\u00E9part."@fr ,
+		"Brian McGuire (East Melbourne, Victoria, 13 december 1945 - Brands Hatch, Verenigd Koninkrijk, 29 augustus 1977) was een Formule 1-coureur uit Australi\u00EB. Hij reed de Grand Prix van Groot-Brittanni\u00EB in 1976 en 1977 voor zijn eigen team McGuire, maar startte in geen van beide races. Hij verongelukte tijdens een Shellsport G8 Championship-race."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Brian_McGuire	dbp:points	0 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Brian_McGuire	owl:sameAs	yago-res:Brian_McGuire ,
+		wikidata:Q640436 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Brian_McGuire	owl:sameAs	dbpedia-pt:Brian_McGuire .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Brian_McGuire	owl:sameAs	dbpedia-wikidata:Q640436 ,
+		<http://rdf.freebase.com/ns/m.04w489> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Brian_McGuire	owl:sameAs	dbpedia-pl:Brian_McGuire ,
+		dbr:Brian_McGuire .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Brian_McGuire	owl:sameAs	dbpedia-it:Brian_McGuire .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Brian_McGuire	owl:sameAs	dbpedia-nl:Brian_McGuire .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Brian_McGuire	owl:sameAs	dbpedia-fr:Brian_McGuire .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Brian_McGuire	dct:subject	dbc:Racing_drivers_from_Melbourne ,
+		dbc:Racing_drivers_killed_while_racing ,
+		<http://dbpedia.org/resource/Category:1945_births> ,
+		dbc:Australian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1977_deaths> ,
+		dbc:Sport_deaths_in_England ,
+		dbc:McGuire_Formula_One_drivers ,
+		dbc:Australian_Formula_One_drivers ;
+	foaf:name	"Brian McGuire"@en ;
+	dct:description	"Australian racing driver"@en ;
+	foaf:givenName	"Brian"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Brian_McGuire ;
+	foaf:surname	"McGuire"@en ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Brian_McGuire	dbp:years	"1977-08-29"^^xsd:date .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Brian_McGuire	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Brian_McGuire?oldid=704479599> ;
+	dbp:before	dbr:Tom_Pryce ;
+	dbp:after	dbr:Ronnie_Peterson ;
+	dbp:birthPlace	"East Melbourne, Victoria, Australia"^^xsd:string ;
+	dbp:deathPlace	"Brands Hatch, Kent, England, UK"^^xsd:string ;
+	dbp:birthDate	"1945-12-13"^^xsd:date ;
+	dbp:deathDate	"1977-08-29"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.silhouet.com/motorsport/archive/f1/shellsport/77shell.html> ,
+		<http://www.silhouet.com/motorsport/archive/f1/shellsport/76shell.html> ;
+	dbo:abstract	"Brian McGuire (Melbourne, 13 de dezembro de 1945 \u2014 Brands Hatch, 29 de agosto de 1977) foi um piloto de autom\u00F3veis australiano. Piloto de corridas experiente na Austr\u00E1lia, migrou para a Europa, em companhia do amigo e futuro campe\u00E3o mundial de pilotos Alan Jones, na tentativa de sucesso no automobilismo. Depois de correr de F-3, comprou em 1976 um Williams de F\u00F3rmula 1 de 1975, para disputar o British Shellsport (categoria com carros de F\u00F3rmula 1 e F\u00F3rmula 5000), conseguindo uma vit\u00F3ria em Thruxton. Ele remodelou este carro, e apareceu nos treinos para o GP da Gr\u00E3-Bretanha com o carro, denominado McGuire BM1, equipado com motor Coswosth, n\u00E3o conseguindo passar da pr\u00E9-classifica\u00E7\u00E3o realizada numa quarta-feira. Foi sua \u00FAnica tentativa (n\u00E3o largou no mesmo GP da Gr\u00E3-Bretanha, em 1976). Brian McGuire faleceu um m\u00EAs e meio depois, no dia 29 de agosto, devido a um acidente numa prova de clubes em Brands Hatch. Tinha 31 anos."@pt ,
+		"\u0411\u0440\u0430\u0439\u0430\u043D \u041C\u0430\u043A\u0433\u0443\u0430\u0439\u0440 (\u0430\u043D\u0433\u043B. Brian McGuire, 13 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1945 \u0433\u043E\u0434\u0430, \u041C\u0435\u043B\u044C\u0431\u0443\u0440\u043D \u2014 29 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1977 \u0433\u043E\u0434\u0430, \u0411\u0440\u044D\u043D\u0434\u0441-\u0425\u044D\u0442\u0447) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Brian McGuire \u00E9tait un pilote automobile australien n\u00E9 \u00E0 East Melbourne le 13 d\u00E9cembre 1945 et d\u00E9c\u00E9d\u00E9 dans un accident le 29 ao\u00FBt 1977. Il s'est engag\u00E9 sur deux Grand Prix en Formule 1 en 1976 et 1977, sans pour autant prendre le d\u00E9part."@fr ,
+		"Brian McGuire (ur. 13 grudnia 1945 w East Melbourne, zm. 29 sierpnia 1977 w Brands Hatch, Wielka Brytania) \u2013 australijski kierowca wy\u015Bcigowy. Wyjecha\u0142 do Wielkiej Brytanii w celu zrobienia kariery wraz z m\u0142odym kierowc\u0105 Alanem Jonesem."@pl ,
+		"Brian McGuire (East Melbourne, Victoria, 13 december 1945 - Brands Hatch, Verenigd Koninkrijk, 29 augustus 1977) was een Formule 1-coureur uit Australi\u00EB. Hij reed de Grand Prix van Groot-Brittanni\u00EB in 1976 en 1977 voor zijn eigen team McGuire, maar startte in geen van beide races. Hij verongelukte tijdens een Shellsport G8 Championship-race."@nl ,
+		"Brian McGuire (13 December 1945 in East Melbourne \u2013 29 August 1977 at Brands Hatch, UK) was a racing driver and constructor from Australia."@en ;
+	dbo:birthDate	"1945-12-13"^^xsd:date ;
+	dbo:deathDate	"1977-8-29"^^xsd:date ;
+	dbo:deathPlace	dbr:Brands_Hatch ;
+	dbo:wikiPageRevisionID	704479599 ;
+	dbo:birthPlace	dbr:Melbourne ;
+	dbo:wikiPageID	1353851 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Brian_McGuire	ns24:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1976_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1977_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/McGuire_(Formula_One)> ;
+	dbp:nationality	"Australian"^^xsd:string .
+<http://dbpedia.org/resource/McGuire_(Formula_One)>	dbp:founders	dbr:Brian_McGuire .
+dbr:Tom_Pryce	dbp:after	dbr:Brian_McGuire .
+dbr:Ronnie_Peterson	dbp:before	dbr:Brian_McGuire .

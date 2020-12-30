@@ -1,0 +1,245 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1958_Glover_Trophy>	dbo:fastestDriver	dbr:Mike_Hawthorn ;
+	dbo:firstDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1953_German_Grand_Prix>	dbo:thirdDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1953_Swiss_Grand_Prix>	dbo:thirdDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1954_Italian_Grand_Prix>	dbo:secondDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1956_Argentine_Grand_Prix>	dbo:thirdDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Mike_Hawthorn ;
+	dbo:poleDriver	dbr:Mike_Hawthorn ;
+	dbo:secondDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_Italian_Grand_Prix>	dbo:secondDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1953_Buenos_Aires_Grand_Prix>	dbo:thirdDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1954_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_Moroccan_Grand_Prix>	dbo:poleDriver	dbr:Mike_Hawthorn ;
+	dbo:secondDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_German_Grand_Prix>	dbo:poleDriver	dbr:Mike_Hawthorn .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1954_German_Grand_Prix>	dbp:secondDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1957_German_Grand_Prix>	dbo:secondDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_Argentine_Grand_Prix>	dbo:thirdDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__56__1>	dbo:firstDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__44__1>	dbo:firstDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__27th__1>	dbo:firstDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/Jos\u00E9_Froil\u00E1n_Gonz\u00E1lez>	dbp:after	dbr:Mike_Hawthorn ;
+	dbp:before	dbr:Mike_Hawthorn .
+dbr:Hawthorn	dbo:wikiPageDisambiguates	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_Formula_One_season>	dbp:champions	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1953_French_Grand_Prix>	dbo:firstDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_French_Grand_Prix>	dbo:fastestDriver	dbr:Mike_Hawthorn ;
+	dbo:poleDriver	dbr:Mike_Hawthorn ;
+	dbo:firstDriver	dbr:Mike_Hawthorn .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mike_Hawthorn	rdf:type	yago:WikicatCooperFormulaOneDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mike_Hawthorn	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Athlete ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:WikicatVanwallFormulaOneDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Mike_Hawthorn	rdf:type	foaf:Person ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mike_Hawthorn	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Mike_Hawthorn	rdf:type	schema:Person ,
+		dbo:FormulaOneRacer ,
+		umbel-rc:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mike_Hawthorn	rdf:type	owl:Thing ,
+		wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:Driver110034906 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mike_Hawthorn	rdf:type	ns10:Agent ,
+		ns10:NaturalPerson ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		wikidata:Q5 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mike_Hawthorn	rdfs:label	"Mike Hawthorn"@nl ,
+		"\u0425\u043E\u0442\u043E\u0440\u043D, \u041C\u0430\u0439\u043A"@ru ,
+		"\u0645\u0627\u064A\u0643 \u0647\u0627\u0648\u062B\u0648\u0631\u0646"@ar ,
+		"Mike Hawthorn"@es ,
+		"Mike Hawthorn"@it ,
+		"Mike Hawthorn"@de ,
+		"\u30DE\u30A4\u30AF\u30FB\u30DB\u30FC\u30BD\u30FC\u30F3"@ja ,
+		"Mike Hawthorn"@en ,
+		"Mike Hawthorn"@fr ,
+		"Mike Hawthorn"@pt ,
+		"\u7EA6\u7FF0\u00B7\u9EA6\u514B\u00B7\u970D\u7D22\u6069"@zh ,
+		"Mike Hawthorn"@pl ;
+	rdfs:comment	"John Michael Hawthorn (10 April 1929 \u2013 22 January 1959) was a British racing driver. He became the United Kingdom's first Formula One World Champion driver in 1958, whereupon he announced his retirement, having been profoundly affected by the death of his team-mate and friend Peter Collins two months earlier in the 1958 German Grand Prix. Hawthorn also won the 1955 24 Hours of Le Mans, but was haunted by his involvement in the disastrous crash that marred the race. Hawthorn died in a road accident six months after retiring; he was suffering from a terminal illness at the time."@en ,
+		"John Michael Hawthorn (*Mexborough. Yorkshire, Inglaterra, 10 de abril de 1929 - \u2020 22 de enero de 1959) fue un piloto de automovilismo brit\u00E1nico. Obtuvo el campeonato del mundo de F\u00F3rmula 1 en la Temporada 1958 de F\u00F3rmula 1, y acab\u00F3 tercero en 1954 y cuarto en 1953 y 1957. Obtuvo tres victorias y 17 podios en 44 Grandes Premios disputados, en su la mayor\u00EDa con la Scuderia Ferrari. Por otra parte, tiene el dudoso honor de haber ganado las 24 Horas de Le Mans en 1955. El brit\u00E1nico estuvo involucrado en el accidente que acab\u00F3 con la vida de 80 espectadores en aquella edici\u00F3n, (conocida como el \"desastre de Le Mans\")). Fue el accidente m\u00E1s tr\u00E1gico de la historia del automovilismo pero, a pesar de su magnitud, la prueba no fue suspendida, lo que le permiti\u00F3 alzarse con la victoria a los mandos "@es ,
+		"John Michael Hawthorn (n\u00E9 le 10 avril 1929 \u00E0 Mexborough, dans le Yorkshire, en Angleterre - mort le 22 janvier 1959 dans un accident de la route \u00E0 Guildford) est un pilote automobile anglais. C\u00E9l\u00E8bre pour le n\u0153ud papillon qu'il arborait en comp\u00E9tition, il est devenu en 1958 au volant d'une Ferrari le premier pilote britannique \u00E0 remporter un titre de champion du monde de Formule 1. Il est \u00E9galement connu pour son implication controvers\u00E9e dans le drame des 24 Heures du Mans 1955, course qu'il remporta sur une Jaguar."@fr ,
+		"John Michael \u201EMike\u201C Hawthorn (* 10. April 1929 in Mexborough, Yorkshire; \u2020 22. Januar 1959 bei Guildford) war ein englischer Autorennfahrer, Le-Mans-Sieger und Formel-1-Weltmeister des Jahres 1958. Zu seinem Auftreten geh\u00F6rte, dass er auch im Rennwagen stets Fliege oder Krawatte und ein wei\u00DFes Hemd trug."@de ,
+		"\u0414\u0436\u043E\u043D \u041C\u0430\u0439\u043A\u043B \u00AB\u041C\u0430\u0439\u043A\u00BB \u0425\u043E\u0442\u043E\u0440\u043D (\u0430\u043D\u0433\u043B. John Michael \u00ABMike\u00BB Hawthorn, 10 \u0430\u043F\u0440\u0435\u043B\u044F 1929, \u041C\u0435\u043A\u0441\u0431\u043E\u0440\u043E, \u0419\u043E\u0440\u043A\u0448\u0438\u0440 \u2014 22 \u044F\u043D\u0432\u0430\u0440\u044F 1959, \u0413\u0443\u0438\u043B\u0444\u043E\u0440\u0434, \u0421\u0443\u0440\u0440\u0435\u0439) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u041E\u043D \u043E\u0441\u0442\u0430\u043B\u0441\u044F \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043A\u0430\u043A \u043F\u0435\u0440\u0432\u044B\u0439 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u043F\u0438\u043B\u043E\u0442, \u0441\u0442\u0430\u0432\u0448\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u043C\u0438\u0440\u0430 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"\u7EA6\u7FF0\u00B7\u9EA6\u514B\u00B7\u970D\u7D22\u6069\uFF081929\u5E744\u670810\u65E5\uFF0D1959\u5E741\u670822\u65E5\uFF09\u662F\u4E00\u4F4D\u82F1\u56FD\u8D5B\u8F66\u624B\u3002\u4ED6\u51FA\u751F\u4E8E\u82F1\u683C\u5170\u7EA6\u514B\u90E1\u897F\u533A\u6885\u514B\u65AF\u4F2F\u52D2\u3002\u4ED6\u4E8E1950\u5E74\u5F00\u59CB\u4E86\u4ED6\u7684\u8D5B\u8F66\u751F\u6DAF\u3002\u970D\u7D22\u6069\u4E0E1958\u5E74\u6210\u4E3A\u7B2C\u4E00\u4F4D\u8D62\u5F97F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u7684\u82F1\u56FD\u8F66\u624B\u3002\u4F46\u662F\u53D7\u5230\u4ED6\u7684\u961F\u53CB\u5F7C\u5F97\u00B7\u67EF\u6797\u65AF\u4E8E\u5FB7\u56FD\u5927\u5956\u8D5B\u6B7B\u4EA1\u7684\u5F71\u54CD\uFF0C\u4ED6\u5F88\u5FEB\u4FBF\u4ECE\u8FD9\u9879\u8FD0\u52A8\u4E2D\u9000\u5F79\u4E86\u3002\u4E0D\u5E78\u7684\u662F\uFF0C6\u4E2A\u6708\u4E4B\u540E\uFF0C\u4ED6\u6B7B\u4E8E\u4E00\u573A\u9053\u8DEF\u4EA4\u901A\u4E8B\u6545\u3002"@zh ,
+		"Alla pari di Phil Hill \u00E8 il pilota vincitore di almeno un titolo mondiale con il minor numero di vittorie all'attivo, 3."@it ,
+		"\u0645\u0627\u064A\u0643 \u0647\u0627\u0648\u062B\u0648\u0631\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Mike Hawthorn) \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0623\u0628\u0631\u064A\u0644 1929 \u0641\u064A \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1953. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0644\u062C\u064A\u0643\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1952\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1953. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 47 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 3 \u0645\u0646\u0647\u0627."@ar ,
+		"John Michael Hawthorn (ur. 10 kwietnia 1929 w Mexborough, zm. 22 stycznia 1959) \u2013 brytyjski kierowca wy\u015Bcigowy; mistrz Formu\u0142y 1 z sezonu 1958 oraz zwyci\u0119zca wy\u015Bcigu 24h Le Mans w 1955 roku."@pl ,
+		"\u30B8\u30E7\u30F3\u30FB\u30DE\u30A4\u30B1\u30EB\u30FB\u201C\u30DE\u30A4\u30AF\u201D\u30FB\u30DB\u30FC\u30BD\u30FC\u30F3\uFF08John Michael \"Mike\" Hawthorn \u30011929\u5E744\u670810\u65E5 - 1959\u5E741\u670822\u65E5\uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u30011958\u5E74\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30DE\u30A4\u30AF\u30FB\u30DB\u30FC\u30BD\u30F3\u3068\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u591A\u3044\u3002"@ja ,
+		"John Michael 'Mike' Hawthorn (Mexborough, Yorkshire, Verenigd Koninkrijk, 10 april 1929 - bij Guildford, 22 januari 1959) was een Britse autocoureur."@nl ,
+		"John Michael Hawthorn ou mais conhecido no meio automobil\u00EDstico como Mike Hawthorn, (Mexborough, 10 de abril de 1929 \u2014 Farnham, 22 de janeiro de 1959) foi um automobilista brit\u00E2nico nascido na Inglaterra. Dos sete campeonatos disputados, apenas no campeonato de 1955 ele n\u00E3o marcou nenhum ponto embora tenha terminado tr\u00EAs provas pela Ferrari. Naquele ano, a equipe Mercedes venceu seis das sete provas. Foi o dom\u00EDnio do time prateado. No mesmo ano, Hawthorn foi o vencedor das 24 Horas de Le Mans, apesar de estar envolvido num horr\u00EDvel acidente que matou 82 espectadores e mutilou 76."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mike_Hawthorn	dbp:birthDate	"1929-04-10"^^xsd:date .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-pt:Mike_Hawthorn .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-nl:Mike_Hawthorn .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-id:Mike_Hawthorn .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-pl:Mike_Hawthorn ,
+		wikidata:Q2104 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-cs:Mike_Hawthorn .
+@prefix ns18:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Mike_Hawthorn	owl:sameAs	ns18:Mike_Hawthorn ,
+		dbr:Mike_Hawthorn ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30A4\u30AF\u30FB\u30DB\u30FC\u30BD\u30FC\u30F3> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-it:Mike_Hawthorn ,
+		<http://viaf.org/viaf/299949092> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-fr:Mike_Hawthorn ,
+		<http://rdf.freebase.com/ns/m.0yk51> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-es:Mike_Hawthorn .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	yago-res:Mike_Hawthorn .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-de:Mike_Hawthorn .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mike_Hawthorn	owl:sameAs	dbpedia-wikidata:Q2104 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Mike_Hawthorn	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:1929_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mike_Hawthorn	dct:subject	dbc:BRDC_Gold_Star_winners ,
+		dbc:Sportspeople_from_Doncaster ,
+		dbc:People_from_Mexborough ,
+		dbc:Vanwall_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1959_deaths> ,
+		dbc:English_Formula_One_drivers ,
+		dbc:BRM_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:People_from_Yorkshire ,
+		dbc:Road_incident_deaths_in_England ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Sebring_drivers> ,
+		dbc:Ferrari_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_One_World_Drivers\u0027_Champions> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Brighton_Speed_Trials_people ,
+		dbc:People_educated_at_Ardingly_College ;
+	foaf:name	"Mike Hawthorn"@en ;
+	dct:description	"British racecar driver"@en ;
+	foaf:givenName	"Mike"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Mike_Hawthorn	foaf:isPrimaryTopicOf	wikipedia-en:Mike_Hawthorn ;
+	foaf:surname	"Hawthorn"@en ;
+	dbp:points	112 ;
+	dbp:years	1953 ,
+		1954 ,
+		1955 ,
+		"\u2013"^^xsd:string ,
+		dbr:Maurice_Trintignant .
+@prefix ns28:	<http://dbpedia.org/datatype/> .
+dbr:Mike_Hawthorn	dbp:years	"9.317592E8"^^ns28:second ,
+		dbr:Ivor_Bueb ;
+	dbp:after	"8.682984E8"^^ns28:second ,
+		"Jim Clark'''"^^xsd:string ,
+		dbr:Jack_Brabham ,
+		dbr:Ninian_Sanderson ,
+		<http://dbpedia.org/resource/John_Fitch_(racing_driver)> ,
+		dbr:Stirling_Moss ,
+		<http://dbpedia.org/resource/Jos\u00E9_Froil\u00E1n_Gonz\u00E1lez> ,
+		<http://dbpedia.org/resource/Ron_Flockhart_(auto_racing)> ;
+	<http://dbpedia.org/property/team(s)_>	dbr:BRM ,
+		dbr:Vanwall ,
+		"non-works Maserati"^^xsd:string ,
+		dbr:Scuderia_Ferrari ,
+		"non-works Cooper,"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mike_Hawthorn	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mike_Hawthorn?oldid=744566799> ;
+	dbo:wikiPageExternalLink	<http://www.mike-hawthorn.org.uk/bio.php> ;
+	dbp:birthName	"John Michael Hawthorn"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1953_French_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1958_French_Grand_Prix> ;
+	dbp:birthPlace	"Mexborough, West Riding of Yorkshire, England, UK"^^xsd:string ;
+	dbp:deathDate	"1959-01-22"^^xsd:date ;
+	dbp:before	<http://dbpedia.org/resource/Jos\u00E9_Froil\u00E1n_Gonz\u00E1lez> ,
+		<http://dbpedia.org/resource/Peter_Collins_(racing_driver)> ,
+		dbr:Maurice_Trintignant ,
+		dbr:Juan_Manuel_Fangio ,
+		dbr:Pat_Griffith ,
+		"Alberto Ascari'''"^^xsd:string ,
+		dbr:Lance_Macklin ,
+		"1.0743408E9"^^ns28:second ;
+	dbp:deathPlace	"Near Onslow Village, Guildford, Surrey, England, UK"^^xsd:string ;
+	dbo:abstract	"Alla pari di Phil Hill \u00E8 il pilota vincitore di almeno un titolo mondiale con il minor numero di vittorie all'attivo, 3."@it ,
+		"John Michael Hawthorn (ur. 10 kwietnia 1929 w Mexborough, zm. 22 stycznia 1959) \u2013 brytyjski kierowca wy\u015Bcigowy; mistrz Formu\u0142y 1 z sezonu 1958 oraz zwyci\u0119zca wy\u015Bcigu 24h Le Mans w 1955 roku."@pl ,
+		"\u7EA6\u7FF0\u00B7\u9EA6\u514B\u00B7\u970D\u7D22\u6069\uFF081929\u5E744\u670810\u65E5\uFF0D1959\u5E741\u670822\u65E5\uFF09\u662F\u4E00\u4F4D\u82F1\u56FD\u8D5B\u8F66\u624B\u3002\u4ED6\u51FA\u751F\u4E8E\u82F1\u683C\u5170\u7EA6\u514B\u90E1\u897F\u533A\u6885\u514B\u65AF\u4F2F\u52D2\u3002\u4ED6\u4E8E1950\u5E74\u5F00\u59CB\u4E86\u4ED6\u7684\u8D5B\u8F66\u751F\u6DAF\u3002\u970D\u7D22\u6069\u4E0E1958\u5E74\u6210\u4E3A\u7B2C\u4E00\u4F4D\u8D62\u5F97F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u7684\u82F1\u56FD\u8F66\u624B\u3002\u4F46\u662F\u53D7\u5230\u4ED6\u7684\u961F\u53CB\u5F7C\u5F97\u00B7\u67EF\u6797\u65AF\u4E8E\u5FB7\u56FD\u5927\u5956\u8D5B\u6B7B\u4EA1\u7684\u5F71\u54CD\uFF0C\u4ED6\u5F88\u5FEB\u4FBF\u4ECE\u8FD9\u9879\u8FD0\u52A8\u4E2D\u9000\u5F79\u4E86\u3002\u4E0D\u5E78\u7684\u662F\uFF0C6\u4E2A\u6708\u4E4B\u540E\uFF0C\u4ED6\u6B7B\u4E8E\u4E00\u573A\u9053\u8DEF\u4EA4\u901A\u4E8B\u6545\u3002"@zh ,
+		"\u0645\u0627\u064A\u0643 \u0647\u0627\u0648\u062B\u0648\u0631\u0646 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Mike Hawthorn) \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0623\u0628\u0631\u064A\u0644 1929 \u0641\u064A \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1953. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0644\u062C\u064A\u0643\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1952\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1953. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 47 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 3 \u0645\u0646\u0647\u0627."@ar ,
+		"John Michael Hawthorn (10 April 1929 \u2013 22 January 1959) was a British racing driver. He became the United Kingdom's first Formula One World Champion driver in 1958, whereupon he announced his retirement, having been profoundly affected by the death of his team-mate and friend Peter Collins two months earlier in the 1958 German Grand Prix. Hawthorn also won the 1955 24 Hours of Le Mans, but was haunted by his involvement in the disastrous crash that marred the race. Hawthorn died in a road accident six months after retiring; he was suffering from a terminal illness at the time."@en ,
+		"John Michael 'Mike' Hawthorn (Mexborough, Yorkshire, Verenigd Koninkrijk, 10 april 1929 - bij Guildford, 22 januari 1959) was een Britse autocoureur."@nl ,
+		"\u0414\u0436\u043E\u043D \u041C\u0430\u0439\u043A\u043B \u00AB\u041C\u0430\u0439\u043A\u00BB \u0425\u043E\u0442\u043E\u0440\u043D (\u0430\u043D\u0433\u043B. John Michael \u00ABMike\u00BB Hawthorn, 10 \u0430\u043F\u0440\u0435\u043B\u044F 1929, \u041C\u0435\u043A\u0441\u0431\u043E\u0440\u043E, \u0419\u043E\u0440\u043A\u0448\u0438\u0440 \u2014 22 \u044F\u043D\u0432\u0430\u0440\u044F 1959, \u0413\u0443\u0438\u043B\u0444\u043E\u0440\u0434, \u0421\u0443\u0440\u0440\u0435\u0439) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u041E\u043D \u043E\u0441\u0442\u0430\u043B\u0441\u044F \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043A\u0430\u043A \u043F\u0435\u0440\u0432\u044B\u0439 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u043F\u0438\u043B\u043E\u0442, \u0441\u0442\u0430\u0432\u0448\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u043C\u0438\u0440\u0430 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"John Michael Hawthorn ou mais conhecido no meio automobil\u00EDstico como Mike Hawthorn, (Mexborough, 10 de abril de 1929 \u2014 Farnham, 22 de janeiro de 1959) foi um automobilista brit\u00E2nico nascido na Inglaterra. Foi o vencedor do campeonato de F\u00F3rmula 1 de 1958. Com apenas uma vit\u00F3ria no ano contra quatro de Stirling Moss, foi beneficiado pelo cavalheirismo do seu compatriota Moss no Grande Pr\u00EAmio de Portugal disputado no Porto, depois de ser desclassificado por empurrar seu carro contra o regulamento da entidade. Moss intercedeu e Hawthorn pode manter seu 2\u00BA lugar no Porto, o que contribui para a vit\u00F3ria no campeonato um ponto \u00E0 frente de Moss. Depois de ganhar o t\u00EDtulo, Hawthorn imediatamente anunciou sua aposentadoria da F\u00F3rmula 1. Dos sete campeonatos disputados, apenas no campeonato de 1955 ele n\u00E3o marcou nenhum ponto embora tenha terminado tr\u00EAs provas pela Ferrari. Naquele ano, a equipe Mercedes venceu seis das sete provas. Foi o dom\u00EDnio do time prateado. No mesmo ano, Hawthorn foi o vencedor das 24 Horas de Le Mans, apesar de estar envolvido num horr\u00EDvel acidente que matou 82 espectadores e mutilou 76. Tr\u00EAs meses depois da aposentadoria, em 22 de janeiro de 1959, Hawthorn morreu num acidente automobil\u00EDstico na estrada A3 na passagem de Guildford. Ele tinha 29 anos de idade. Em Farnham, a cidade onde viveu at\u00E9 sua morte, existe um avenida com seu nome (Mike Hawthorn Drive)."@pt ,
+		"John Michael \u201EMike\u201C Hawthorn (* 10. April 1929 in Mexborough, Yorkshire; \u2020 22. Januar 1959 bei Guildford) war ein englischer Autorennfahrer, Le-Mans-Sieger und Formel-1-Weltmeister des Jahres 1958. Zu seinem Auftreten geh\u00F6rte, dass er auch im Rennwagen stets Fliege oder Krawatte und ein wei\u00DFes Hemd trug."@de ,
+		"John Michael Hawthorn (*Mexborough. Yorkshire, Inglaterra, 10 de abril de 1929 - \u2020 22 de enero de 1959) fue un piloto de automovilismo brit\u00E1nico. Obtuvo el campeonato del mundo de F\u00F3rmula 1 en la Temporada 1958 de F\u00F3rmula 1, y acab\u00F3 tercero en 1954 y cuarto en 1953 y 1957. Obtuvo tres victorias y 17 podios en 44 Grandes Premios disputados, en su la mayor\u00EDa con la Scuderia Ferrari. Por otra parte, tiene el dudoso honor de haber ganado las 24 Horas de Le Mans en 1955. El brit\u00E1nico estuvo involucrado en el accidente que acab\u00F3 con la vida de 80 espectadores en aquella edici\u00F3n, (conocida como el \"desastre de Le Mans\")). Fue el accidente m\u00E1s tr\u00E1gico de la historia del automovilismo pero, a pesar de su magnitud, la prueba no fue suspendida, lo que le permiti\u00F3 alzarse con la victoria a los mandos de su Jaguar. Hawthorn fue el primer brit\u00E1nico en alcanzar la cima de la categor\u00EDa en 1958. Es, adem\u00E1s, junto a Keke Rosberg, el piloto con menos victorias en una temporada que haya logrado proclamarse campe\u00F3n del mundo en la misma, con tan s\u00F3lo un triunfo, en el Gran Premio de Francia. Una victoria y siete podios le permitieron vencer a su compatriota Stirling Moss, a pesar de que \u00E9ste cont\u00F3 con cuatro triunfos. Esto se debi\u00F3 en gran parte gracias a la caballerosidad del segundo, que defendi\u00F3 a Hawthorn ante la sanci\u00F3n que se le aplic\u00F3 en el Gran Premio de Portugal, y sin cuya colaboraci\u00F3n en el proceso habr\u00EDa finalmente decantado el t\u00EDtulo de su lado. Tras ganar el campeonato, Hawthorn anunci\u00F3 autom\u00E1ticamente su retirada del automovilismo. Sin embargo, tan s\u00F3lo tres meses despu\u00E9s de obtener el t\u00EDtulo mundial, el 22 de enero de 1959, Hawthorn falleci\u00F3 a la edad de 29 a\u00F1os en un accidente de tr\u00E1fico con su autom\u00F3vil. Una de las calles de Farnham, la ciudad donde vivi\u00F3 hasta el final de su vida, lleva su nombre."@es ,
+		"John Michael Hawthorn (n\u00E9 le 10 avril 1929 \u00E0 Mexborough, dans le Yorkshire, en Angleterre - mort le 22 janvier 1959 dans un accident de la route \u00E0 Guildford) est un pilote automobile anglais. C\u00E9l\u00E8bre pour le n\u0153ud papillon qu'il arborait en comp\u00E9tition, il est devenu en 1958 au volant d'une Ferrari le premier pilote britannique \u00E0 remporter un titre de champion du monde de Formule 1. Il est \u00E9galement connu pour son implication controvers\u00E9e dans le drame des 24 Heures du Mans 1955, course qu'il remporta sur une Jaguar."@fr ,
+		"\u30B8\u30E7\u30F3\u30FB\u30DE\u30A4\u30B1\u30EB\u30FB\u201C\u30DE\u30A4\u30AF\u201D\u30FB\u30DB\u30FC\u30BD\u30FC\u30F3\uFF08John Michael \"Mike\" Hawthorn \u30011929\u5E744\u670810\u65E5 - 1959\u5E741\u670822\u65E5\uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30AB\u30FC\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u30011958\u5E74\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002\u30DE\u30A4\u30AF\u30FB\u30DB\u30FC\u30BD\u30F3\u3068\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u591A\u3044\u3002"@ja ;
+	dbo:birthDate	"1929-4-10"^^xsd:date ;
+	dbo:deathDate	"1959-1-22"^^xsd:date ;
+	dbo:deathPlace	dbr:Guildford ;
+	dbo:wikiPageRevisionID	744566799 ;
+	dbo:birthPlace	dbr:Mexborough ;
+	dbo:wikiPageID	128171 ;
+	dbo:nationality	dbr:United_Kingdom ;
+	dbo:wins	"3"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"6"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_Belgian_Grand_Prix> ;
+	dbo:races	"47"^^xsd:nonNegativeInteger ;
+	dbo:poles	"4"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1958_Moroccan_Grand_Prix> ;
+	dbo:podiums	"18"^^xsd:nonNegativeInteger ;
+	dbo:championships	"1"^^xsd:nonNegativeInteger .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Mike_Hawthorn	ns30:hypernym	dbr:Driver ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		<http://dbpedia.org/resource/List_of_Formula_One_World_Drivers\u0027_Champions> ,
+		dbr:BRDC_International_Trophy ,
+		dbr:RAC_Tourist_Trophy .
+dbr:Lance_Macklin	dbp:after	dbr:Mike_Hawthorn .
+wikipedia-en:Mike_Hawthorn	foaf:primaryTopic	dbr:Mike_Hawthorn .
+dbr:Ninian_Sanderson	dbp:before	dbr:Mike_Hawthorn .
+dbr:John_Michael_Hawthorn	dbo:wikiPageRedirects	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/Ron_Flockhart_(racing_driver)>	dbp:before	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1952_British_Grand_Prix>	dbo:thirdDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1954_British_Grand_Prix>	dbo:secondDriver	dbr:Mike_Hawthorn ;
+	dbp:fastDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1957_British_Grand_Prix>	dbo:thirdDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_British_Grand_Prix>	dbo:fastestDriver	dbr:Mike_Hawthorn ;
+	dbo:secondDriver	dbr:Mike_Hawthorn .
+dbr:Ivor_Bueb	dbp:years	dbr:Mike_Hawthorn .
+dbr:Maurice_Trintignant	dbp:after	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1958_Portuguese_Grand_Prix>	dbo:fastestDriver	dbr:Mike_Hawthorn ;
+	dbo:secondDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__6__1>	dbo:firstDriver	dbr:Mike_Hawthorn .
+<http://dbpedia.org/resource/Mike_Hawthorne_(driver)>	dbo:wikiPageRedirects	dbr:Mike_Hawthorn .

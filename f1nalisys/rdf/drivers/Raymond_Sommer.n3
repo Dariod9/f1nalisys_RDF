@@ -1,0 +1,189 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Tazio_Nuvolari	dbp:years	dbr:Raymond_Sommer .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1949_Swiss_Grand_Prix>	dbo:thirdDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1950_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Raymond_Sommer ;
+	dbo:poleDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1948_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1933_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Raymond_Sommer .
+dbr:Alfa_Romeo_Tipo_308	dbp:drivers	dbr:Raymond_Sommer .
+dbr:Alfa_Romeo_Tipo_312	dbp:drivers	dbr:Raymond_Sommer .
+dbr:Luigi_Chinetti	dbp:years	dbr:Raymond_Sommer ;
+	dbp:after	dbr:Raymond_Sommer ;
+	dbp:before	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__45__1>	dbo:firstDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1946_Roussillon_Grand_Prix>	dbo:fastestDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1947_Roussillon_Grand_Prix>	dbo:fastestDriver	dbr:Raymond_Sommer ;
+	dbo:poleDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1948_Roussillon_Grand_Prix>	dbo:thirdDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1932_Nice_Circuit_Race>	dbo:secondDriver	dbr:Raymond_Sommer ;
+	dbp:fastDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1946_Marseille_Grand_Prix>	dbo:fastestDriver	dbr:Raymond_Sommer ;
+	dbo:poleDriver	dbr:Raymond_Sommer ;
+	dbo:firstDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1946_Nice_Grand_Prix>	dbo:fastestDriver	dbr:Raymond_Sommer ;
+	dbo:secondDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1950_Paris_Grand_Prix>	dbo:fastestDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1946_Ren\u00E9_le_B\u00E8gue_Cup>	dbo:poleDriver	dbr:Raymond_Sommer ;
+	dbo:firstDriver	dbr:Raymond_Sommer .
+dbr:Sommer	dbo:wikiPageDisambiguates	dbr:Raymond_Sommer .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Raymond_Sommer	foaf:primaryTopic	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1946_Turin_Grand_Prix>	dbo:thirdDriver	dbr:Raymond_Sommer .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Raymond_Sommer	rdf:type	dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Raymond_Sommer	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Raymond_Sommer	rdf:type	yago:CausalAgent100007347 ,
+		wikidata:Q215627 ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		foaf:Person ,
+		yago:Driver110034906 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Raymond_Sommer	rdf:type	ns8:NaturalPerson ,
+		yago:WikicatGrandPrixDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		ns8:Agent ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q378622 ,
+		dbo:MotorsportSeason ,
+		wikidata:Q5 ,
+		yago:WikicatFrenchFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Raymond_Sommer	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Raymond_Sommer	rdf:type	schema:Person ,
+		yago:WikicatTalbotFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Raymond_Sommer	rdfs:label	"\u0421\u043E\u043C\u043C\u0435\u0440, \u0420\u0430\u0439\u043C\u043E\u043D"@ru ,
+		"Raymond Sommer"@en ,
+		"Raymond Sommer"@fr ,
+		"Raymond Sommer"@pt ,
+		"Raymond Sommer"@es ,
+		"Raymond Sommer"@it ,
+		"Raymond Sommer"@de ,
+		"Raymond Sommer"@nl ,
+		"Raymond Sommer"@pl ;
+	rdfs:comment	"Raymond Sommer, surnomm\u00E9 le Sanglier des Ardennes, n\u00E9 le 31 ao\u00FBt 1906 \u00E0 Mouzon (Ardennes) et mort le 10 septembre 1950 \u00E0 Cadours (Haute-Garonne), est un coureur automobile fran\u00E7ais. Il a particip\u00E9 \u00E0 plus de 166 comp\u00E9titions automobiles, comptant 22 victoires et 49 podiums dans quatre cat\u00E9gories : r\u00E8glement d'avant-guerre (pr\u00E9-Formule 1), Formule 1, Formule 2 et \u00E9preuves hors championnat. Il fut trois fois champion de France, en 1937, 1939 et 1946. Une tribune du circuit de Reims-Gueux porte son nom."@fr ,
+		"Raymond Sommer (ur. 31 sierpnia 1908 roku w Mouzon, zm. 10 wrze\u015Bnia 1950 roku w Cadours) \u2013 francuski kierowca wy\u015Bcigowy. Pierwsze swoje zwyci\u0119stwo odni\u00F3s\u0142 w 1932 roku podczas Grand Prix Marsylii za kierownic\u0105 Alfa Romeo \u201EMonza\u201D, kupionym na w\u0142asny koszt. Pokona\u0142 w\u00F3wczas fabrycznych kierowc\u00F3w Alfa Romeo i Maserati. W latach 1932-1933 dwukrotnie wygra\u0142 24-godzinny wy\u015Bcig w Le Mans. Jego partnerami byli Luigi Chinetti oraz Tazio Nuvolari. Zgin\u0105\u0142 na torze Cadours. Przyczyn\u0105 wypadku by\u0142a awaria uk\u0142adu kierowniczego."@pl ,
+		"Raymond Sommer (31 August 1906, Mouzon, in the Ardennes d\u00E9partement of France \u2013 10 September 1950) was a Grand Prix motor racing driver. Sommer was born into a wealthy Sedan, France carpet making family. His father, Roger, broke the Wright Brothers record for the longest flight in 1909. It was not until 1931 that Raymond started to display daredevil tendencies of his own, entering motor races in a privateer Chrysler Imperial. The following year, he won the 24 hours of Le Mans, despite having to drive over 20 hours solo after his teammate Luigi Chinetti retired ill. During the 1930s, Sommer was to dominate the French endurance classic, winning again in 1933 driving an Alfa Romeo alongside Tazio Nuvolari. He also led every race until 1938, only to suffer a mechanical failure, once when 12 la"@en ,
+		"Raymond Sommer (Mouzon, Ardennes, Fran\u00E7a, 31 de agosto de 1906 \u2014 Cadours, Haute-Garonne, Fran\u00E7a, 10 de setembro de 1950) foi um automobilista franc\u00EAs. Sommer participou dos Grandes Pr\u00EAmios de M\u00F4naco, da Su\u00ED\u00E7a, da B\u00E9lgica, da Fran\u00E7a e da It\u00E1lia de F\u00F3rmula 1 em 1950. Seu melhor resultado foi o quarto lugar em M\u00F4naco. Pilotou pela Scuderia Ferrari. Venceu as 24 Horas de Le Mans 1932 e 1933."@pt ,
+		"\u0420\u0430\u0439\u043C\u043E\u0301\u043D \u0421\u043E\u043C\u043C\u0435\u0301\u0440 (\u0444\u0440. Raymond Sommer, 31 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1908, \u041F\u0430\u0440\u0438\u0436 \u2014 10 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1950, \u0442\u0440\u0430\u0441\u0441\u0430 \u041A\u0430\u0434\u0443\u0440) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 (1932, 1933), \u043F\u0438\u043B\u043E\u0442 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0415\u0432\u0440\u043E\u043F\u044B AIACR, \u0424\u043E\u0440\u043C\u0443\u043B\u044B-2 \u0438 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Raymond Sommer (31 augustus 1906 - 10 september 1950) was een Franse autocoureur. Hij won tweemaal de 24 uur van Le Mans."@nl ,
+		"Raymond Sommer (31 de agosto de 1906 en Mouzon - 10 de septiembre de 1950) fue un piloto franc\u00E9s de F\u00F3rmula 1 apodado Coraz\u00F3n de Le\u00F3n, es considerado el primer ganador de una competencia de F\u00F3rmula 1."@es ,
+		"Raymond Sommer (* 31. August 1906 in Mouzon (Ardennes); \u2020 10. September 1950 in Cadours, Dep. Haute-Garonne) war ein franz\u00F6sischer Automobilrennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Raymond_Sommer	dbp:birthDate	"1906-08-31"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	dbpedia-pl:Raymond_Sommer .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	dbpedia-pt:Raymond_Sommer .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	dbpedia-fr:Raymond_Sommer .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	dbpedia-wikidata:Q171878 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	dbpedia-de:Raymond_Sommer .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	yago-res:Raymond_Sommer ,
+		wikidata:Q171878 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	dbpedia-it:Raymond_Sommer .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	dbpedia-nl:Raymond_Sommer ,
+		dbr:Raymond_Sommer .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	dbpedia-es:Raymond_Sommer ,
+		<http://rdf.freebase.com/ns/m.01yd5m> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Raymond_Sommer	owl:sameAs	dbpedia-cs:Raymond_Sommer .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Raymond_Sommer	dct:subject	dbc:Racing_drivers_killed_while_racing ,
+		dbc:Talbot_Formula_One_drivers ,
+		dbc:French_Formula_One_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:People_from_Ardennes ,
+		dbc:French_Resistance_members ,
+		<http://dbpedia.org/resource/Category:1906_births> ,
+		dbc:Grand_Prix_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1950_deaths> ,
+		dbc:Sport_deaths_in_France ,
+		dbc:French_racing_drivers ;
+	foaf:name	"Raymond Sommer"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Raymond_Sommer_in_Montlh\u00E9ry_in_1933_(cropped).jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Raymond"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Raymond_Sommer ;
+	foaf:surname	"Sommer"@en ;
+	dbp:points	3 ;
+	dbp:years	1932 ,
+		1933 ,
+		dbr:Tazio_Nuvolari ,
+		dbr:Luigi_Chinetti ;
+	dbp:after	"Raymond Sommer"^^xsd:string ,
+		dbr:Tazio_Nuvolari ,
+		<http://dbpedia.org/resource/Philippe_\u00C9tancelin> ,
+		dbr:Luigi_Chinetti ;
+	<http://dbpedia.org/property/team(s)_>	"Ferrari, works and private Talbot-Lago"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Raymond_Sommer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Raymond_Sommer?oldid=719886481> ;
+	dbp:caption	"Raymond Sommer in Montlh\u00E9ry, 1933"^^xsd:string ;
+	dbp:nationality	"French"^^xsd:string ;
+	dbp:birthPlace	"Mouzon, Ardennes, France"^^xsd:string ;
+	dbp:deathDate	"1950-09-10"^^xsd:date ;
+	dbp:before	<http://dbpedia.org/resource/Francis_Curzon,_5th_Earl_Howe> ,
+		dbr:Tim_Birkin ,
+		"Raymond Sommer"^^xsd:string ,
+		dbr:Luigi_Chinetti ;
+	dbp:deathPlace	"Circuit de Cadours, Tarn-et-Garonne, France"^^xsd:string ;
+	dbo:abstract	"Raymond Sommer, surnomm\u00E9 le Sanglier des Ardennes, n\u00E9 le 31 ao\u00FBt 1906 \u00E0 Mouzon (Ardennes) et mort le 10 septembre 1950 \u00E0 Cadours (Haute-Garonne), est un coureur automobile fran\u00E7ais. Il a particip\u00E9 \u00E0 plus de 166 comp\u00E9titions automobiles, comptant 22 victoires et 49 podiums dans quatre cat\u00E9gories : r\u00E8glement d'avant-guerre (pr\u00E9-Formule 1), Formule 1, Formule 2 et \u00E9preuves hors championnat. Il fut trois fois champion de France, en 1937, 1939 et 1946. Une tribune du circuit de Reims-Gueux porte son nom."@fr ,
+		"Raymond Sommer (ur. 31 sierpnia 1908 roku w Mouzon, zm. 10 wrze\u015Bnia 1950 roku w Cadours) \u2013 francuski kierowca wy\u015Bcigowy. Pierwsze swoje zwyci\u0119stwo odni\u00F3s\u0142 w 1932 roku podczas Grand Prix Marsylii za kierownic\u0105 Alfa Romeo \u201EMonza\u201D, kupionym na w\u0142asny koszt. Pokona\u0142 w\u00F3wczas fabrycznych kierowc\u00F3w Alfa Romeo i Maserati. W latach 1932-1933 dwukrotnie wygra\u0142 24-godzinny wy\u015Bcig w Le Mans. Jego partnerami byli Luigi Chinetti oraz Tazio Nuvolari. Karier\u0119 sportow\u0105 kontynuowa\u0142 po II wojnie \u015Bwiatowej. W 1950 roku bra\u0142 udzia\u0142 w pi\u0119ciu wy\u015Bcigach zaliczanych do Mistrzostw \u015Awiata Formu\u0142y 1. W Grand Prix Monako w 1950 roku zaj\u0105\u0142 czwarte miejsce. Zgin\u0105\u0142 na torze Cadours. Przyczyn\u0105 wypadku by\u0142a awaria uk\u0142adu kierowniczego."@pl ,
+		"\u0420\u0430\u0439\u043C\u043E\u0301\u043D \u0421\u043E\u043C\u043C\u0435\u0301\u0440 (\u0444\u0440. Raymond Sommer, 31 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1908, \u041F\u0430\u0440\u0438\u0436 \u2014 10 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1950, \u0442\u0440\u0430\u0441\u0441\u0430 \u041A\u0430\u0434\u0443\u0440) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 (1932, 1933), \u043F\u0438\u043B\u043E\u0442 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0415\u0432\u0440\u043E\u043F\u044B AIACR, \u0424\u043E\u0440\u043C\u0443\u043B\u044B-2 \u0438 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Raymond Sommer (Mouzon, Ardennes, Fran\u00E7a, 31 de agosto de 1906 \u2014 Cadours, Haute-Garonne, Fran\u00E7a, 10 de setembro de 1950) foi um automobilista franc\u00EAs. Sommer participou dos Grandes Pr\u00EAmios de M\u00F4naco, da Su\u00ED\u00E7a, da B\u00E9lgica, da Fran\u00E7a e da It\u00E1lia de F\u00F3rmula 1 em 1950. Seu melhor resultado foi o quarto lugar em M\u00F4naco. Pilotou pela Scuderia Ferrari. Venceu as 24 Horas de Le Mans 1932 e 1933."@pt ,
+		"Raymond Sommer (31 de agosto de 1906 en Mouzon - 10 de septiembre de 1950) fue un piloto franc\u00E9s de F\u00F3rmula 1 apodado Coraz\u00F3n de Le\u00F3n, es considerado el primer ganador de una competencia de F\u00F3rmula 1."@es ,
+		"Raymond Sommer (31 augustus 1906 - 10 september 1950) was een Franse autocoureur. Hij won tweemaal de 24 uur van Le Mans."@nl ,
+		"Raymond Sommer (31 August 1906, Mouzon, in the Ardennes d\u00E9partement of France \u2013 10 September 1950) was a Grand Prix motor racing driver. Sommer was born into a wealthy Sedan, France carpet making family. His father, Roger, broke the Wright Brothers record for the longest flight in 1909. It was not until 1931 that Raymond started to display daredevil tendencies of his own, entering motor races in a privateer Chrysler Imperial. The following year, he won the 24 hours of Le Mans, despite having to drive over 20 hours solo after his teammate Luigi Chinetti retired ill. During the 1930s, Sommer was to dominate the French endurance classic, winning again in 1933 driving an Alfa Romeo alongside Tazio Nuvolari. He also led every race until 1938, only to suffer a mechanical failure, once when 12 laps in the lead. Sommer traveled to Long Island, New York to compete in the 1936 Vanderbilt Cup where he finished fourth to the winner, Tazio Nuvolari. However, his tendency to run in privately entered cars did him no favours on the Grand Prix scene, winning just one major international race, the 1936 French Grand Prix. At the time, the German manufacturers Mercedes-Benz and Auto Union were the dominant force in GP racing, together with the French Bugatti team. Sommer turned to sports cars once more, winning the Spa 24 Hours endurance race with co-driver Francesco Severi. More wins came his way including at the \"Marseilles Three Hours\" at Miramas, the Grand Prix de Tunisie and La Turbie hill climb competition in 1938 and 1939 with Alfa Romeo 308 until the outbreak of World War II, where he played an active part in the French Resistance movement. Following the war, Sommer quickly returned to winning ways, claiming victory in the 1946 Ren\u00E9 Le B\u00E8gue Cup race at Saint-Cloud. At the 1947 Turin Grand Prix in Valentino Park he won the first ever Grand Prix for Enzo Ferrari as an independent constructor. The following season, Sommer switched from the Ferrari team, again for a privately owned car, this time a Talbot-Lago. In 1950, the F1 World Championship began and Sommer drove in five Grand Prix races for Talbot and BRM, retiring in all but one. In July 1950 he won the Aix les Bains Circuit du Lac Grand-Prix with a Ferrari 166. In September 1950, he entered the Haute-Garonne Grand Prix  in Cadours, France where the steering failed on his 1100 cc Cooper and the car overturned at a corner. Sommer, wearing his traditional canvas helmet, was instantly killed."@en ,
+		"Raymond Sommer (* 31. August 1906 in Mouzon (Ardennes); \u2020 10. September 1950 in Cadours, Dep. Haute-Garonne) war ein franz\u00F6sischer Automobilrennfahrer."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Raymond_Sommer_in_Montlh\u00E9ry_in_1933_(cropped).jpg?width=300> ;
+	dbo:birthDate	"1906-8-31"^^xsd:date ;
+	dbo:deathDate	"1950-9-10"^^xsd:date ;
+	dbo:deathPlace	dbr:Cadours ;
+	dbo:wikiPageRevisionID	719886481 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Mouzon,_Ardennes> ;
+	dbo:wikiPageID	343281 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_Monaco_Grand_Prix> ;
+	dbo:races	"5"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1950_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Raymond_Sommer	ns26:hypernym	dbr:Motor ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners .
+<http://dbpedia.org/resource/Philippe_\u00C9tancelin>	dbp:before	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1931_24_Hours_of_Le_Mans__26__1>	dbo:firstDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1932_24_Hours_of_Le_Mans__1__1>	dbo:team	dbr:Raymond_Sommer ;
+	dbo:firstDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1934_24_Hours_of_Le_Mans__44__1>	dbo:team	dbr:Raymond_Sommer ;
+	dbo:firstDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1935_24_Hours_of_Le_Mans__49__1>	dbo:team	dbr:Raymond_Sommer ;
+	dbo:firstDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1938_24_Hours_of_Le_Mans__16__1>	dbo:team	dbr:Raymond_Sommer ;
+	dbo:firstDriver	dbr:Raymond_Sommer .
+<http://dbpedia.org/resource/1939_24_Hours_of_Le_Mans__21__1>	dbo:team	dbr:Raymond_Sommer ;
+	dbo:firstDriver	dbr:Raymond_Sommer .

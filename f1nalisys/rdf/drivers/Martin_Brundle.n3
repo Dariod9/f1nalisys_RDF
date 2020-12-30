@@ -1,0 +1,247 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Greaves_Motorsport	dbp:drivers	dbr:Martin_Brundle .
+dbr:Czechoslovakian_Grand_Prix	dbp:second	dbr:Martin_Brundle .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Tyrrell_012__10	dbo:firstDriver	dbr:Martin_Brundle .
+dbr:Tyrrell_012__11	dbo:firstDriver	dbr:Martin_Brundle .
+dbr:Tyrrell_012__5	dbo:firstDriver	dbr:Martin_Brundle .
+dbr:Zakspeed_871__2	dbo:firstDriver	dbr:Martin_Brundle .
+dbr:Zakspeed_861__5	dbo:firstDriver	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/McLaren_MP4/9__4>	dbo:firstDriver	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1992_British_Grand_Prix>	dbo:thirdDriver	dbr:Martin_Brundle .
+dbr:Ligier_JS41__3	dbo:firstDriver	dbr:Martin_Brundle .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Martin_Brundle	foaf:primaryTopic	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1992_Japanese_Grand_Prix>	dbo:thirdDriver	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1995_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Martin_Brundle .
+dbr:Volker_Weidler	dbp:before	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1992_Italian_Grand_Prix>	dbo:secondDriver	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1993_San_Marino_Grand_Prix>	dbo:thirdDriver	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1985_Macau_Grand_Prix__David_Price_Racing__1>	dbo:firstDriver	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1992_French_Grand_Prix>	dbo:thirdDriver	dbr:Martin_Brundle .
+dbr:Raul_Boesel	dbp:after	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1983_Macau_Grand_Prix__Eddie_Jordan_Racing__2>	dbo:firstDriver	dbr:Martin_Brundle .
+dbr:John_Francome	dbp:after	dbr:Martin_Brundle .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbr:Martin_Brundle	rdf:type	schema:Person ,
+		dbo:FormulaOneRacer ,
+		dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Martin_Brundle	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Martin_Brundle	rdf:type	wikidata:Q378622 ,
+		yago:WikicatLigierFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatFormulaPalmerAudiDrivers ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatBenettonFormulaOneDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Martin_Brundle	rdf:type	owl:Thing ,
+		yago:WikicatZakspeedFormulaOneDrivers ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		dbo:RacingDriver ,
+		yago:PhysicalEntity100001930 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Martin_Brundle	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Person ,
+		foaf:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatJordanFormulaOneDrivers .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Martin_Brundle	rdf:type	ns11:Agent ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		yago:WikicatFIAWorldEnduranceChampionshipDrivers ,
+		ns11:NaturalPerson ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Martin_Brundle	rdfs:label	"Martin Brundle"@nl ,
+		"Martin Brundle"@it ,
+		"\u0645\u0627\u0631\u062A\u0646 \u0628\u0631\u0627\u0646\u062F\u0644"@ar ,
+		"Martin Brundle"@pt ,
+		"Martin Brundle"@pl ,
+		"Martin Brundle"@es ,
+		"Martin Brundle"@en ,
+		"Martin Brundle"@fr ,
+		"\u0411\u0440\u0430\u043D\u0434\u043B, \u041C\u0430\u0440\u0442\u0438\u043D"@ru ,
+		"Martin Brundle"@de ,
+		"\u30DE\u30FC\u30C6\u30A3\u30F3\u30FB\u30D6\u30E9\u30F3\u30C9\u30EB"@ja ;
+	rdfs:comment	"Martin John Brundle est un ancien pilote automobile anglais, d\u00E9sormais commentateur TV, n\u00E9 le 1er juin 1959, \u00E0 King's Lynn, Norfolk."@fr ,
+		"\u041C\u0430\u0440\u0442\u0438\u043D \u0411\u0440\u0430\u043D\u0434\u043B (\u0430\u043D\u0433\u043B. Martin Brundle; \u0440\u043E\u0434. 1 \u0438\u044E\u043D\u044F 1959, \u041A\u0438\u043D\u0433\u0441-\u041B\u0438\u043D\u043D, \u0433\u0440\u0430\u0444\u0441\u0442\u0432\u043E \u041D\u043E\u0440\u0444\u043E\u043B\u043A) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0412 1988 \u0433\u043E\u0434\u0443 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B \u0442\u0438\u0442\u0443\u043B \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 Worlds Sportscar, \u0430 \u0432 1990 \u0433\u043E\u0434\u0443 \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u043F\u043E\u0431\u0435\u0434\u0443 \u0432 \u0433\u043E\u043D\u043A\u0435 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB \u043D\u0430 \u043C\u0430\u0448\u0438\u043D\u0435 Jaguar XJR-12."@ru ,
+		"Martin Brundle (1 de junio de 1959) es un piloto de F\u00F3rmula 1 ya retirado. Tras consagrarse campe\u00F3n mundial de deportes automovil\u00EDsticos en 1988, gan\u00F3 la carrera de las 24 horas de Le Mans en 1990 para Jaguar. Se le conoce principalmente porque fue uno de los principales rivales de Ayrton Senna en la F\u00F3rmula 3 brit\u00E1nica."@es ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0645\u0627\u0631\u062A\u0646 \u0628\u0631\u0627\u0646\u062F\u0644 (Martin Brundle\u061B \u0648\u0644\u062F \u0641\u064A 1 \u064A\u0648\u0646\u064A\u0648 1959\u060C \u0641\u064A \u0646\u0648\u0631\u0641\u0648\u0644\u0643) \u0645\u062A\u0633\u0627\u0628\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0634\u0627\u0631\u0643 \u0633\u0627\u0628\u0642\u0627\u064B \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1\u060C \u064A\u0639\u0645\u0644 \u062D\u0627\u0644\u064A\u0627\u064B \u0643\u0645\u0639\u0644\u0642 \u0644\u0644\u0633\u0628\u0627\u0642\u0627\u062A. \u0645\u0634\u0627\u0631\u064A\u0639 \u0634\u0642\u064A\u0642\u0629 \u0641\u064A \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062A \u0639\u0646: \u0645\u0627\u0631\u062A\u0646 \u0628\u0631\u0627\u0646\u062F\u0644 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0623\u0639\u0644\u0627\u0645 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0625\u0646\u062C\u0644\u062A\u0631\u0627 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 125\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0628\u062D\u0627\u062C\u0629 \u0644\u0644\u062A\u0648\u0633\u064A\u0639. \u0634\u0627\u0631\u0643 \u0641\u064A \u062A\u062D\u0631\u064A\u0631\u0647\u0627."@ar ,
+		"Martin John Brundle (born 1 June 1959) is a British racing driver, best known as a Formula One driver and as a commentator for ITV Sport from 1997 to 2008, the BBC from 2009 to 2011, and Sky Sports from 2012."@en ,
+		"\u30DE\u30FC\u30C6\u30A3\u30F3\u30FB\u30B8\u30E7\u30F3\u30FB\u30D6\u30E9\u30F3\u30C9\u30EB\uFF08Martin John Brundle, 1959\u5E746\u67081\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u751F\u307E\u308C\u306E\u30EC\u30FC\u30B5\u30FC\u3067\u3042\u308A\u30011990\u5E74\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u8987\u8005\u3002\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u73FE\u5728\u306F\u30C6\u30EC\u30D3\u89E3\u8AAC\u3092\u4E3B\u3068\u3059\u308B\u3002\u606F\u5B50\u306F\u30A2\u30EC\u30C3\u30AF\u30B9\u30FB\u30D6\u30E9\u30F3\u30C9\u30EB\u3067\u3042\u308B\u3002"@ja ,
+		"Martin Brundle (King's Lynn, 1 juni 1959) is een voormalige Britse autocoureur. Hij maakte zijn Formule 1-debuut in 1984 bij Tyrrell en nam deel aan 165 Grands Prix waarvan hij er 158 mocht starten. Hij haalde 9 podia en 98 punten."@nl ,
+		"Martin John Brundle (King's Lynn, 1 de junho de 1959) \u00E9 um automobilista brit\u00E2nico. Disputou a categoria entre 1984 e 1989 e entre 1991 e 1996, quando deixou a F\u00F3rmula 1. Em 1999, disputou as 24 Horas de Le Mans, pela equipe Toyota. Em 1983, antes de estrear na F\u00F3rmula 1, Brundle disputou o Campeonato da F\u00F3rmula 3 Inglesa travando bons duelos com seu rival, Ayrton Senna."@pt ,
+		"\u00C8 stato un pilota di Formula 1. Nel 1988 ha vinto il Campionato Mondiale Sportprototipi e nel 1990 la 24 Ore di Le Mans. Dal 1997, anno del suo ritiro, \u00E8 commentatore televisivo dei gran premi, prima per la tv britannica Independent Television, dal 2009 al 2011 per la BBC e dal 2012 per Sky Sports."@it ,
+		"Martin Brundle (ur. 1 czerwca 1959 w King\u2019s Lynn) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy, je\u017Cd\u017C\u0105cy m.in. w Formule 1 (w latach 1984 \u2013 1996, poza sezonem 1990). Zwyci\u0119zca wy\u015Bcigu 24 godziny Le Mans w 1990 roku. Obecnie komentator brytyjskiej telewizji Sky."@pl ,
+		"Martin Brundle (* 1. Juni 1959 in King\u2019s Lynn, Norfolk) ist ein ehemaliger britischer Automobilrennfahrer und Formel-1-Pilot. Er ist der Vater des Rennfahrers Alex Brundle."@de ;
+	dbp:points	98 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-it:Martin_Brundle .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-fr:Martin_Brundle ,
+		dbr:Martin_Brundle ,
+		wikidata:Q172854 ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30FC\u30C6\u30A3\u30F3\u30FB\u30D6\u30E9\u30F3\u30C9\u30EB> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-nl:Martin_Brundle ,
+		<http://rdf.freebase.com/ns/m.01y4l6> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-de:Martin_Brundle .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-es:Martin_Brundle .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	yago-res:Martin_Brundle .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-cs:Martin_Brundle .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-wikidata:Q172854 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-pl:Martin_Brundle .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-id:Martin_Brundle .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Martin_Brundle	owl:sameAs	dbpedia-pt:Martin_Brundle .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Martin_Brundle	dct:subject	dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Jordan_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:People_from_King\u0027s_Lynn> ,
+		dbc:Zakspeed_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1959_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Segrave_Trophy_recipients ,
+		dbc:Ligier_Formula_One_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Formula_Palmer_Audi_drivers ,
+		dbc:International_Race_of_Champions_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:BBC_sports_presenters_and_reporters ,
+		dbc:BRDC_Gold_Star_winners ,
+		dbc:McLaren_Formula_One_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:FIA_World_Endurance_Championship_drivers ,
+		dbc:British_sports_broadcasters ,
+		dbc:Benetton_Formula_One_drivers ,
+		dbc:Formula_One_journalists_and_reporters ,
+		dbc:Living_people ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:Motorsport_announcers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Tyrrell_Formula_One_drivers ;
+	foaf:name	"Martin Brundle"@en ;
+	foaf:homepage	<http://www.martinbrundle.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Martin_Brundle_2011_portrait.jpg> ;
+	dct:description	"British racecar driver"@en ;
+	foaf:givenName	"Martin"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Martin_Brundle ;
+	foaf:surname	"Brundle"@en ;
+	dbp:title	"British Competition Driver of the Year"^^xsd:string ,
+		dbr:Autosport ,
+		dbr:Royal_Television_Society ,
+		dbr:World_Sportscar_Championship ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		"National Racing Driver of the Year"^^xsd:string ,
+		"Best Sports Pundit"^^xsd:string ;
+	dbp:years	dbr:Price_Cobb ,
+		1988 ,
+		1990 ,
+		1998 ,
+		2005 ,
+		"\u2013, \u2013"^^xsd:string ,
+		<http://dbpedia.org/resource/John_Nielsen_(racing_driver)> ,
+		1983 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Martin_Brundle	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Martin_Brundle?oldid=739005738> ;
+	dbp:before	dbr:John_Francome ,
+		dbr:Jonathan_Palmer ,
+		dbr:Raul_Boesel ,
+		"None"^^xsd:string ,
+		dbr:Jochen_Mass ,
+		dbr:Nigel_Mansell ,
+		dbr:Manuel_Reuter ,
+		dbr:Stanley_Dickens ,
+		<http://dbpedia.org/resource/Tommy_Byrne_(racing_driver)> ;
+	dbp:after	dbr:Jean-Louis_Schlesser ,
+		dbr:Volker_Weidler ,
+		dbr:Alan_Hansen ,
+		dbr:Incumbent ,
+		dbr:Johnny_Herbert ,
+		dbr:Bertrand_Gachot ,
+		dbr:Nigel_Mansell ,
+		<http://dbpedia.org/resource/John_Crichton-Stuart,_7th_Marquess_of_Bute> ;
+	dbp:birthPlace	"King's Lynn, Norfolk, England, UK"^^xsd:string ;
+	dbp:birthName	"Martin John Brundle"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Martin_Brundle	dbp:birthDate	"1959-06-01"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.martinbrundle.com> ,
+		<http://www.brundlequotes.com/> ,
+		<https://web.archive.org/web/20091203101010/http:/www.martinbrundlef1.com/> ;
+	dbp:caption	"Portrait of Brundle in 2011"^^xsd:string ;
+	dbo:abstract	"Martin Brundle (* 1. Juni 1959 in King\u2019s Lynn, Norfolk) ist ein ehemaliger britischer Automobilrennfahrer und Formel-1-Pilot. Er ist der Vater des Rennfahrers Alex Brundle."@de ,
+		"Martin John Brundle (King's Lynn, 1 de junho de 1959) \u00E9 um automobilista brit\u00E2nico. Disputou a categoria entre 1984 e 1989 e entre 1991 e 1996, quando deixou a F\u00F3rmula 1. Em 1999, disputou as 24 Horas de Le Mans, pela equipe Toyota. Em 1983, antes de estrear na F\u00F3rmula 1, Brundle disputou o Campeonato da F\u00F3rmula 3 Inglesa travando bons duelos com seu rival, Ayrton Senna."@pt ,
+		"Martin John Brundle (born 1 June 1959) is a British racing driver, best known as a Formula One driver and as a commentator for ITV Sport from 1997 to 2008, the BBC from 2009 to 2011, and Sky Sports from 2012. Brundle contested the British Formula Three Championship in 1983, finishing a close second to Ayrton Senna, and the two progressed to Formula One the next year. Brundle failed to win a race at the top level of single seater racing, but he has been successful in other disciplines. He was the 1988 World Sportscar Champion, with a record points score, and won the 1990 24 Hours of Le Mans race for Jaguar Cars in a Jaguar XJR-12."@en ,
+		"Martin John Brundle est un ancien pilote automobile anglais, d\u00E9sormais commentateur TV, n\u00E9 le 1er juin 1959, \u00E0 King's Lynn, Norfolk."@fr ,
+		"\u00C8 stato un pilota di Formula 1. Nel 1988 ha vinto il Campionato Mondiale Sportprototipi e nel 1990 la 24 Ore di Le Mans. Dal 1997, anno del suo ritiro, \u00E8 commentatore televisivo dei gran premi, prima per la tv britannica Independent Television, dal 2009 al 2011 per la BBC e dal 2012 per Sky Sports."@it ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0645\u0627\u0631\u062A\u0646 \u0628\u0631\u0627\u0646\u062F\u0644 (Martin Brundle\u061B \u0648\u0644\u062F \u0641\u064A 1 \u064A\u0648\u0646\u064A\u0648 1959\u060C \u0641\u064A \u0646\u0648\u0631\u0641\u0648\u0644\u0643) \u0645\u062A\u0633\u0627\u0628\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0634\u0627\u0631\u0643 \u0633\u0627\u0628\u0642\u0627\u064B \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1\u060C \u064A\u0639\u0645\u0644 \u062D\u0627\u0644\u064A\u0627\u064B \u0643\u0645\u0639\u0644\u0642 \u0644\u0644\u0633\u0628\u0627\u0642\u0627\u062A. \u0641\u064A \u0639\u0627\u0645 1983 \u0634\u0627\u0631\u0643 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 3 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629 \u0645\u0639 \u0623\u0631\u062A\u0648\u0646 \u0633\u064A\u0646\u0627\u060C \u0648\u0642\u062F \u062D\u0635\u0644 \u0639\u0644\u0649 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0646\u064A \u0645\u0639 \u0641\u0627\u0631\u0642 \u0628\u0633\u064A\u0637 \u0628\u064A\u0646\u0647 \u0648\u0628\u064A\u0646 \u0627\u0644\u0623\u0648\u0644\u060C \u0641\u0634\u0627\u0631\u0643 \u0647\u0648 \u0648\u0623\u0631\u062A\u0648\u0646 \u0633\u064A\u0646\u0627 \u0641\u064A \u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u062A\u0627\u0644\u064A\u0629 \u0641\u064A \u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1. \u0644\u0645 \u064A\u062D\u0627\u0644\u0641\u0647 \u0627\u0644\u062D\u0638 \u0643\u062B\u064A\u0631\u0627\u064B \u0641\u064A \u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0625\u0630 \u0644\u0645 \u064A\u062D\u0635\u0644 \u0639\u0644\u0649 \u0623\u064A \u0627\u0646\u062A\u0635\u0627\u0631\u060C \u0648\u0644\u0643\u0646\u0647 \u0643\u0627\u0646 \u0646\u0627\u062C\u062D\u0627\u064B \u062C\u062F\u0627\u064B \u0641\u064A \u0628\u0639\u0636 \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0623\u062E\u0631\u0649. \u0641\u064A \u0639\u0627\u0645 1988 \u0643\u0627\u0646 \u0628\u0637\u0644 \u0633\u0628\u0627\u0642 \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064A (World Sportscar Championship)\u060C \u0643\u0645\u0627 \u0643\u0627\u0646 \u0628\u0637\u0644 \u0633\u0628\u0627\u0642 24 \u0633\u0627\u0639\u0629 \u0644\u0648 \u0645\u0627\u0646 \u0641\u064A \u0639\u0627\u0645 1990 \u062D\u064A\u062B \u0642\u0627\u062F \u0633\u064A\u0627\u0631\u0629 \u062C\u0627\u063A\u0648\u0627\u0631 XJR-12. \u0645\u0634\u0627\u0631\u064A\u0639 \u0634\u0642\u064A\u0642\u0629 \u0641\u064A \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062A \u0639\u0646: \u0645\u0627\u0631\u062A\u0646 \u0628\u0631\u0627\u0646\u062F\u0644 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0623\u0639\u0644\u0627\u0645 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0625\u0646\u062C\u0644\u062A\u0631\u0627 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 125\u0628\u0643 \u0647\u0630\u0647 \u0628\u0630\u0631\u0629 \u0645\u0642\u0627\u0644\u0629 \u0639\u0646 \u0631\u064A\u0627\u0636\u0629 \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0628\u062D\u0627\u062C\u0629 \u0644\u0644\u062A\u0648\u0633\u064A\u0639. \u0634\u0627\u0631\u0643 \u0641\u064A \u062A\u062D\u0631\u064A\u0631\u0647\u0627."@ar ,
+		"\u30DE\u30FC\u30C6\u30A3\u30F3\u30FB\u30B8\u30E7\u30F3\u30FB\u30D6\u30E9\u30F3\u30C9\u30EB\uFF08Martin John Brundle, 1959\u5E746\u67081\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u751F\u307E\u308C\u306E\u30EC\u30FC\u30B5\u30FC\u3067\u3042\u308A\u30011990\u5E74\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u8987\u8005\u3002\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u73FE\u5728\u306F\u30C6\u30EC\u30D3\u89E3\u8AAC\u3092\u4E3B\u3068\u3059\u308B\u3002\u606F\u5B50\u306F\u30A2\u30EC\u30C3\u30AF\u30B9\u30FB\u30D6\u30E9\u30F3\u30C9\u30EB\u3067\u3042\u308B\u3002"@ja ,
+		"\u041C\u0430\u0440\u0442\u0438\u043D \u0411\u0440\u0430\u043D\u0434\u043B (\u0430\u043D\u0433\u043B. Martin Brundle; \u0440\u043E\u0434. 1 \u0438\u044E\u043D\u044F 1959, \u041A\u0438\u043D\u0433\u0441-\u041B\u0438\u043D\u043D, \u0433\u0440\u0430\u0444\u0441\u0442\u0432\u043E \u041D\u043E\u0440\u0444\u043E\u043B\u043A) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0412 1988 \u0433\u043E\u0434\u0443 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B \u0442\u0438\u0442\u0443\u043B \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 Worlds Sportscar, \u0430 \u0432 1990 \u0433\u043E\u0434\u0443 \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u043F\u043E\u0431\u0435\u0434\u0443 \u0432 \u0433\u043E\u043D\u043A\u0435 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB \u043D\u0430 \u043C\u0430\u0448\u0438\u043D\u0435 Jaguar XJR-12."@ru ,
+		"Martin Brundle (ur. 1 czerwca 1959 w King\u2019s Lynn) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy, je\u017Cd\u017C\u0105cy m.in. w Formule 1 (w latach 1984 \u2013 1996, poza sezonem 1990). Zwyci\u0119zca wy\u015Bcigu 24 godziny Le Mans w 1990 roku. Obecnie komentator brytyjskiej telewizji Sky."@pl ,
+		"Martin Brundle (King's Lynn, 1 juni 1959) is een voormalige Britse autocoureur. Hij maakte zijn Formule 1-debuut in 1984 bij Tyrrell en nam deel aan 165 Grands Prix waarvan hij er 158 mocht starten. Hij haalde 9 podia en 98 punten."@nl ,
+		"Martin Brundle (1 de junio de 1959) es un piloto de F\u00F3rmula 1 ya retirado. Tras consagrarse campe\u00F3n mundial de deportes automovil\u00EDsticos en 1988, gan\u00F3 la carrera de las 24 horas de Le Mans en 1990 para Jaguar. Se le conoce principalmente porque fue uno de los principales rivales de Ayrton Senna en la F\u00F3rmula 3 brit\u00E1nica. Su carrera en la F\u00F3rmula 1 comenz\u00F3 con Tyrrell en 1984, escuder\u00EDa con la que termin\u00F3 segundo en Detroit; sin embargo, en el Gran Premio de los Estados Unidos de 1984, se rompi\u00F3 los tobillos durante una pr\u00E1ctica. Tyrrell fue descalificada del campeonato mundial de ese a\u00F1o por una violaci\u00F3n t\u00E9cnica. Actualmente, Brundle es comentarista de F1 en la televisi\u00F3n brit\u00E1nica."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Martin_Brundle_2011_portrait.jpg?width=300> ;
+	dbo:birthDate	"1959-6-1"^^xsd:date ;
+	dbo:wikiPageRevisionID	739005738 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/King\u0027s_Lynn> ;
+	dbo:wikiPageID	341560 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Martin_Brundle	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1984_Brazilian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1996_Japanese_Grand_Prix> ;
+	dbo:podiums	"9"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"165"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Tyrrell, Zakspeed, Williams, Brabham, Benetton, Ligier, McLaren and Jordan"^^xsd:string ;
+	dbp:nationality	"British"^^xsd:string .
+dbr:Tyrrell_015__2	dbo:firstDriver	dbr:Martin_Brundle .
+dbr:Tyrrell_014__2	dbo:firstDriver	dbr:Martin_Brundle .
+dbr:Tyrrell_014__7	dbo:firstDriver	dbr:Martin_Brundle .
+dbr:Roger_Dowson_Engineering	dbp:drivers	dbr:Martin_Brundle .
+dbr:Formula_One_coverage_on_ITV	dbo:starring	dbr:Martin_Brundle .
+dbr:Price_Cobb	dbp:years	dbr:Martin_Brundle .
+dbr:Jean-Louis_Schlesser	dbp:before	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/John_Nielsen_(racing_driver)>	dbp:years	dbr:Martin_Brundle .
+dbr:Tyrrell_Racing	dbp:drivers	dbr:Martin_Brundle .
+dbr:Jochen_Mass	dbp:after	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1992_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/John_Crichton-Stuart,_7th_Marquess_of_Bute>	dbp:before	dbr:Martin_Brundle .
+dbr:Stanley_Dickens	dbp:after	dbr:Martin_Brundle .
+dbr:Manuel_Reuter	dbp:after	dbr:Martin_Brundle .
+dbr:Zytek_Z11SN	dbp:drivers	dbr:Martin_Brundle .
+dbr:Alex_Brundle	dbp:relatedTo	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1994_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Martin_Brundle .
+dbr:Jonathan_Palmer	dbp:after	dbr:Martin_Brundle .
+dbr:Johnny_Herbert	dbp:before	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/1994_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Martin_Brundle .
+<http://dbpedia.org/resource/Tommy_Byrne_(racing_driver)>	dbp:after	dbr:Martin_Brundle .
+dbr:Bertrand_Gachot	dbp:before	dbr:Martin_Brundle .

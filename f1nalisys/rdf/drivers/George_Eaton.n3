@@ -1,0 +1,135 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__44__1>	dbo:firstDriver	dbr:George_Eaton .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:George_Eaton	foaf:primaryTopic	dbr:George_Eaton .
+<http://dbpedia.org/resource/1968_Can-Am_season__11__1>	dbo:team	dbr:George_Eaton ;
+	dbo:firstDriver	dbr:George_Eaton .
+dbr:Woodcraft_Supply	dbo:foundedBy	dbr:George_Eaton .
+<http://dbpedia.org/resource/George_Eaton_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:George_Eaton .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:George_Eaton	rdf:type	yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:George_Eaton	rdf:type	wikidata:Q215627 ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:George_Eaton	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatBRMFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:George_Eaton	rdf:type	schema:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:George_Eaton	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Athlete ,
+		yago:WikicatCanadianFormulaOneDrivers .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:George_Eaton	rdf:type	ns10:Agent ,
+		wikidata:Q5 ,
+		umbel-rc:Athlete ,
+		ns10:NaturalPerson ,
+		wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		foaf:Person ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatRacingDriversFromOntario .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:George_Eaton	rdfs:label	"George Eaton"@pt ,
+		"George Eaton"@nl ,
+		"George Eaton"@de ,
+		"George Eaton"@en ,
+		"George Eaton"@it ,
+		"George Eaton"@fr ,
+		"George Eaton"@pl ;
+	rdfs:comment	"George Ross Eaton est un ancien pilote automobile n\u00E9 le 12 novembre 1945 \u00E0 Toronto, Ontario (Canada). Il est un descendant de Timothy Eaton, fondateur des magasins Eaton qui fut jadis la plus grande cha\u00EEne de magasins du Canada."@fr ,
+		"George Eaton (* 12. November 1945 in Toronto) ist ein ehemaliger kanadischer Autorennfahrer."@de ,
+		"George Ross Eaton (ur. 12 listopada 1945 w Toronto ) \u2013 kanadyjski kierowca wy\u015Bcigowy. Zyska\u0142 s\u0142aw\u0119 w Kanadzie, jako kierowca wielu serii wy\u015Bcigowych. \u015Aciga\u0142 si\u0119 mi\u0119dzy innymi w Can-Am, Formule 5000 oraz w Formule 1."@pl ,
+		"George Ross Eaton (Toronto, Canad\u00E1, 12 de novembro de 1945) foi um automobilista canadense que participou de 13 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1969 e 1971."@pt ,
+		"George Ross Eaton (born 12 November 1945) is a Canadian former racing driver who is a member of the prominent Eaton family."@en ,
+		"George Ross Eaton (Toronto, 12 november 1945) was de jongste zoon van Signy en John David Eaton en Canadees Formule 1-coureur. Hij reed tussen 1969 en 1971 13 Grands Prix voor het team BRM."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:George_Eaton	dbp:birthDate	"1945-11-12"^^xsd:date .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:George_Eaton	owl:sameAs	dbpedia-pt:George_Eaton .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:George_Eaton	owl:sameAs	dbpedia-de:George_Eaton .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:George_Eaton	owl:sameAs	dbpedia-it:George_Eaton ,
+		<http://viaf.org/viaf/27995361> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:George_Eaton	owl:sameAs	dbpedia-nl:George_Eaton ,
+		<http://rdf.freebase.com/ns/m.04k8j1> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:George_Eaton	owl:sameAs	dbpedia-fr:George_Eaton ,
+		wikidata:Q172283 ,
+		<http://d-nb.info/gnd/124078125> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:George_Eaton	owl:sameAs	dbpedia-cs:George_Eaton ,
+		dbr:George_Eaton .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:George_Eaton	owl:sameAs	dbpedia-wikidata:Q172283 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:George_Eaton	owl:sameAs	dbpedia-pl:George_Eaton .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:George_Eaton	owl:sameAs	yago-res:George_Eaton .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:George_Eaton	dct:subject	dbc:Canadian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Eaton\u0027s> ,
+		dbc:Canadian_people_of_Ulster-Scottish_descent ,
+		dbc:Canadian_businesspeople ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1945_births> ,
+		dbc:Can-Am_entrants ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Racing_drivers_from_Ontario ,
+		dbc:BRM_Formula_One_drivers ;
+	foaf:name	"George Eaton"@en ;
+	dct:description	"Canadian race driver"@en ;
+	foaf:givenName	"George"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:George_Eaton ;
+	foaf:surname	"Eaton"@en ;
+	dbp:points	0 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:BRM .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:George_Eaton	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/George_Eaton?oldid=738006240> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-eatgeo.html> ;
+	dbp:nationality	"Canadian"^^xsd:string ;
+	dbp:birthPlace	"Toronto, Canada"^^xsd:string ;
+	dbo:abstract	"George Ross Eaton est un ancien pilote automobile n\u00E9 le 12 novembre 1945 \u00E0 Toronto, Ontario (Canada). Il est un descendant de Timothy Eaton, fondateur des magasins Eaton qui fut jadis la plus grande cha\u00EEne de magasins du Canada."@fr ,
+		"George Ross Eaton (ur. 12 listopada 1945 w Toronto ) \u2013 kanadyjski kierowca wy\u015Bcigowy. Zyska\u0142 s\u0142aw\u0119 w Kanadzie, jako kierowca wielu serii wy\u015Bcigowych. \u015Aciga\u0142 si\u0119 mi\u0119dzy innymi w Can-Am, Formule 5000 oraz w Formule 1."@pl ,
+		"George Ross Eaton (Toronto, 12 november 1945) was de jongste zoon van Signy en John David Eaton en Canadees Formule 1-coureur. Hij reed tussen 1969 en 1971 13 Grands Prix voor het team BRM."@nl ,
+		"George Ross Eaton (born 12 November 1945) is a Canadian former racing driver who is a member of the prominent Eaton family."@en ,
+		"George Ross Eaton (Toronto, Canad\u00E1, 12 de novembro de 1945) foi um automobilista canadense que participou de 13 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1969 e 1971."@pt ,
+		"George Eaton (* 12. November 1945 in Toronto) ist ein ehemaliger kanadischer Autorennfahrer."@de ;
+	dbo:birthDate	"1945-11-12"^^xsd:date ;
+	dbo:wikiPageRevisionID	738006240 ;
+	dbo:birthPlace	dbr:Toronto ;
+	dbo:wikiPageID	1228395 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1969_United_States_Grand_Prix> ;
+	dbo:races	"13"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1971_Canadian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:George_Eaton	ns26:hypernym	dbr:Eaton .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__S5.0__11>	dbo:firstDriver	dbr:George_Eaton .
+<http://dbpedia.org/resource/1969_Can-Am_season__5__1>	dbo:team	dbr:George_Eaton ;
+	dbo:firstDriver	dbr:George_Eaton .
+<http://dbpedia.org/resource/1970_Can-Am_season__20=__1>	dbo:firstDriver	dbr:George_Eaton .
+dbr:George_Ross_Eaton	dbo:wikiPageRedirects	dbr:George_Eaton .

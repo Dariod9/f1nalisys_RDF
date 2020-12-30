@@ -1,0 +1,126 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Heini_Walter	foaf:primaryTopic	dbr:Heini_Walter .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Heini	dbo:wikiPageDisambiguates	dbr:Heini_Walter .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Heini_Walter	rdf:type	wikidata:Q24229398 ,
+		dbo:Person ,
+		wikidata:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Heini_Walter	rdf:type	yago:CausalAgent100007347 ,
+		foaf:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Heini_Walter	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Heini_Walter	rdf:type	ns8:Agent ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q378622 ,
+		ns8:NaturalPerson ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatScuderiaFilipinettiFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Heini_Walter	rdf:type	owl:Thing ,
+		yago:WikicatSwissFormulaOneDrivers ,
+		wikidata:Q5 .
+@prefix schema:	<http://schema.org/> .
+dbr:Heini_Walter	rdf:type	schema:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Heini_Walter	rdfs:label	"Heini Walter"@es ,
+		"Heini Walter"@fr ,
+		"Heini Walter"@de ,
+		"Heini Walter"@nl ,
+		"\u0423\u043E\u043B\u0442\u0435\u0440, \u0425\u0430\u0439\u043D\u0438"@ru ,
+		"Heini Walter"@en ,
+		"Heini Walter"@pl ,
+		"Heini Walter"@pt ;
+	rdfs:comment	"Heini Walter (* 28. Juli 1927 in Alpthal; \u2020 12. Mai 2009) war ein Schweizer Autorennfahrer."@de ,
+		"\u0425\u0430\u0439\u043D\u0438 \u0423\u043E\u043B\u0442\u0435\u0440 (28 \u0438\u044E\u043B\u044F 1927 - 12 \u043C\u0430\u044F 2009) \u0431\u044B\u043B \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C. \u041E\u043D \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043E\u0434\u043D\u043E\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, 5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1962 \u0433\u043E\u0434\u0430. \u0424\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u0447\u0435\u0442\u044B\u0440\u043D\u0430\u0434\u0446\u0430\u0442\u044B\u043C, \u043E\u0447\u043A\u043E\u0432 \u043D\u0435 \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u043B. \u041F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u043D\u0435 \u0432\u0445\u043E\u0434\u0438\u0432\u0448\u0438\u0445 \u0432 \u0437\u0430\u0447\u0451\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430. \u041E\u043D \u0443\u043C\u0435\u0440 \u043D\u0430 81 \u0433\u043E\u0434\u0443 \u0436\u0438\u0437\u043D\u0438."@ru ,
+		"Heini Walter (28 July 1927 \u2013 12 May 2009) was a Swiss racing driver. He participated in one Formula One World Championship Grand Prix, on 5 August 1962. He finished 14th, scoring no World Championship points. He also participated in non-Championship Formula One races."@en ,
+		"Heinrich Walter (R\u00FCti, Glarus, Su\u00ED\u00E7a, 28 de julho de 1927 - 12 de maio de 2009) foi um automobilista su\u00ED\u00E7o que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 em 1962."@pt ,
+		"Heini Walter (28 juli 1927 - 12 mei 2009) was een Zwitsers autocoureur. Hij nam deel aan de Grand Prix van Duitsland in 1962 voor het team Porsche, maar finishte als 14e en scoorde zo geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Heini Walter, n\u00E9 le 28 juillet 1927 \u00E0 Aptal et mort le 12 mai 2009, est un pilote automobile suisse."@fr ,
+		"Heini Walter (28 de julio de 1927 -12 de mayo de 2009) fue un piloto Suizo de F\u00F3rmula 1 que solamente partic\u00EDpo en una carrera fue en el Gran Premio de Alemania de 1962 con el equipo semi\u00F3cicial Porsche logrando un 14\u00B0 puesto."@es ,
+		"Heini Walter (ur. 28 lipca 1927 roku w R\u00FCti, Zurychu, zm. 12 maja 2009 roku w Binningen) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Heini_Walter	dbp:birthDate	"1927-07-28"^^xsd:date .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Heini_Walter	owl:sameAs	dbpedia-pt:Heini_Walter .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Heini_Walter	owl:sameAs	dbpedia-nl:Heini_Walter .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Heini_Walter	owl:sameAs	dbpedia-fr:Heini_Walter ,
+		dbr:Heini_Walter .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Heini_Walter	owl:sameAs	yago-res:Heini_Walter .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Heini_Walter	owl:sameAs	dbpedia-pl:Heini_Walter ,
+		<http://viaf.org/viaf/64885046> ,
+		<http://rdf.freebase.com/ns/m.04kqhj> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Heini_Walter	owl:sameAs	dbpedia-de:Heini_Walter .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Heini_Walter	owl:sameAs	dbpedia-wikidata:Q115666 ,
+		<http://d-nb.info/gnd/122285506> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Heini_Walter	owl:sameAs	dbpedia-es:Heini_Walter ,
+		wikidata:Q115666 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Heini_Walter	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:Swiss_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1927_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Swiss_Formula_One_drivers ,
+		dbc:Scuderia_Filipinetti_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2009_deaths> ;
+	foaf:name	"Heini Walter"@en ;
+	dct:description	"Swiss Formula One driver"@en ;
+	foaf:givenName	"Heini"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Heini_Walter ;
+	foaf:surname	"Walter"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Porsche"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Heini_Walter	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Heini_Walter?oldid=703974608> ;
+	dbo:wikiPageExternalLink	<http://www.liebe-zu-ihm.be/article.php?id=397> ;
+	dbp:birthPlace	dbr:Switzerland ,
+		dbr:Alpthal ;
+	dbp:deathDate	"2009-05-12"^^xsd:date ;
+	dbp:deathPlace	"Aesch, Basel-Country, Switzerland"^^xsd:string ;
+	dbo:abstract	"Heini Walter (28 juli 1927 - 12 mei 2009) was een Zwitsers autocoureur. Hij nam deel aan de Grand Prix van Duitsland in 1962 voor het team Porsche, maar finishte als 14e en scoorde zo geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Heini Walter, n\u00E9 le 28 juillet 1927 \u00E0 Aptal et mort le 12 mai 2009, est un pilote automobile suisse."@fr ,
+		"Heini Walter (28 July 1927 \u2013 12 May 2009) was a Swiss racing driver. He participated in one Formula One World Championship Grand Prix, on 5 August 1962. He finished 14th, scoring no World Championship points. He also participated in non-Championship Formula One races."@en ,
+		"Heinrich Walter (R\u00FCti, Glarus, Su\u00ED\u00E7a, 28 de julho de 1927 - 12 de maio de 2009) foi um automobilista su\u00ED\u00E7o que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 em 1962."@pt ,
+		"Heini Walter (28 de julio de 1927 -12 de mayo de 2009) fue un piloto Suizo de F\u00F3rmula 1 que solamente partic\u00EDpo en una carrera fue en el Gran Premio de Alemania de 1962 con el equipo semi\u00F3cicial Porsche logrando un 14\u00B0 puesto."@es ,
+		"Heini Walter (* 28. Juli 1927 in Alpthal; \u2020 12. Mai 2009) war ein Schweizer Autorennfahrer."@de ,
+		"\u0425\u0430\u0439\u043D\u0438 \u0423\u043E\u043B\u0442\u0435\u0440 (28 \u0438\u044E\u043B\u044F 1927 - 12 \u043C\u0430\u044F 2009) \u0431\u044B\u043B \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C. \u041E\u043D \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043E\u0434\u043D\u043E\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, 5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1962 \u0433\u043E\u0434\u0430. \u0424\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u0447\u0435\u0442\u044B\u0440\u043D\u0430\u0434\u0446\u0430\u0442\u044B\u043C, \u043E\u0447\u043A\u043E\u0432 \u043D\u0435 \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u043B. \u041F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u043D\u0435 \u0432\u0445\u043E\u0434\u0438\u0432\u0448\u0438\u0445 \u0432 \u0437\u0430\u0447\u0451\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430. \u041E\u043D \u0443\u043C\u0435\u0440 \u043D\u0430 81 \u0433\u043E\u0434\u0443 \u0436\u0438\u0437\u043D\u0438."@ru ,
+		"Heini Walter (ur. 28 lipca 1927 roku w R\u00FCti, Zurychu, zm. 12 maja 2009 roku w Binningen) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1927-7-28"^^xsd:date ;
+	dbo:deathDate	"2009-5-12"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Aesch,_Basel-Landschaft> ;
+	dbo:wikiPageRevisionID	703974608 ;
+	dbo:birthPlace	dbr:Alpthal ;
+	dbo:wikiPageID	1233837 ;
+	dbo:nationality	dbr:Switzerland ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1962_German_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1962_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Heini_Walter	ns25:hypernym	dbr:Driver .

@@ -1,0 +1,257 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1996_ITC_Interlagos_round>	dbp:fastDriverR	dbr:Giancarlo_Fisichella .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2005_Japanese_Grand_Prix>	dbo:secondDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2006_Japanese_Grand_Prix>	dbo:thirdDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1996_ITC_Suzuka_round>	dbp:secondDriverR	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2000_Brazilian_Grand_Prix>	dbo:secondDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2006_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2001_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1997_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2009_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Giancarlo_Fisichella ;
+	dbo:secondDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2000_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1998_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1998_Austrian_Grand_Prix>	dbo:poleDriver	dbr:Giancarlo_Fisichella .
+dbr:Luca_Badoer	dbp:after	dbr:Giancarlo_Fisichella .
+dbr:Christian_Pescatori	dbp:after	dbr:Giancarlo_Fisichella .
+dbr:Giancarlo	dbo:wikiPageDisambiguates	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1996_ITC_Magny-Cours_round>	dbp:fastDriverR	dbr:Giancarlo_Fisichella ;
+	dbp:secondDriverR	dbr:Giancarlo_Fisichella ;
+	dbp:thirdDriverR	dbr:Giancarlo_Fisichella .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Giancarlo_Fisichella	rdf:type	yago:Driver110034906 ,
+		yago:PhysicalEntity100001930 .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Giancarlo_Fisichella	rdf:type	ns5:Agent ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		ns5:NaturalPerson ,
+		yago:WikicatSauberFormulaOneDrivers ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatEuropeanLeMansSeriesDrivers ,
+		yago:WikicatAmericanLeMansSeriesDrivers ,
+		yago:WikicatRenaultFormulaOneDrivers ,
+		yago:WikicatMinardiFormulaOneDrivers ,
+		yago:WikicatKartingWorldChampionshipDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:WikicatUnitedSportsCarChampionshipDrivers ,
+		dbo:Agent .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Giancarlo_Fisichella	rdf:type	foaf:Person ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Giancarlo_Fisichella	rdf:type	umbel-rc:Athlete ,
+		yago:WikicatFIAWorldEnduranceChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Giancarlo_Fisichella	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:WikicatForceIndiaFormulaOneDrivers ,
+		yago:WikicatRolexSportsCarSeriesDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Giancarlo_Fisichella	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Giancarlo_Fisichella	rdf:type	owl:Thing ,
+		wikidata:Q378622 ,
+		yago:WikicatBenettonFormulaOneDrivers ,
+		yago:WikicatJordanFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatItalianFormulaThreeChampionshipDrivers ,
+		wikidata:Q5 ,
+		yago:WikicatSuperstarsSeriesDrivers ,
+		umbel-rc:RaceCarDriver ,
+		dbo:FormulaOneRacer ,
+		yago:CausalAgent100007347 ,
+		dbo:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Giancarlo_Fisichella	rdfs:label	"Giancarlo Fisichella"@it ,
+		"Giancarlo Fisichella"@es ,
+		"\u0424\u0438\u0437\u0438\u043A\u0435\u043B\u043B\u0430, \u0414\u0436\u0430\u043D\u043A\u0430\u0440\u043B\u043E"@ru ,
+		"\u062C\u0627\u0646\u0643\u0627\u0631\u0644\u0648 \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627"@ar ,
+		"\u8A79\u5361\u6D1B\u00B7\u8D39\u65AF\u5207\u62C9"@zh ,
+		"Giancarlo Fisichella"@de ,
+		"\u30B8\u30E3\u30F3\u30AB\u30EB\u30ED\u30FB\u30D5\u30A3\u30B8\u30B1\u30E9"@ja ,
+		"Giancarlo Fisichella"@nl ,
+		"Giancarlo Fisichella"@en ,
+		"Giancarlo Fisichella"@pl ,
+		"Giancarlo Fisichella"@fr ,
+		"Giancarlo Fisichella"@pt ;
+	rdfs:comment	"Giancarlo Fisichella est un pilote automobile italien n\u00E9 le 14 janvier 1973 \u00E0 Rome en Italie. Il a disput\u00E9 le championnat du monde de Formule 1 entre 1996 et 2009. Apr\u00E8s avoir accompli la majeure partie de sa carri\u00E8re chez Jordan Grand Prix, Benetton Formula, et Renault F1 Team, puis la saison 2008 et un d\u00E9but de saison 2009 pour la nouvelle \u00E9curie indienne Force India, dont il a marqu\u00E9 les premiers points, il a rejoint la Scuderia Ferrari en remplacement de Felipe Massa, bless\u00E9, avant le Grand Prix d'Italie 2009, \u00E0 l'\u00E2ge de 36 ans."@fr ,
+		"Giancarlo Fisichella (Italian pronunciation: [d\u0292a\u014B\u02C8karlo fizi\u02C8k\u025Blla]; born 14 January 1973), also known as Fisico, Giano or Fisi, is an Italian professional racing driver. He has driven in Formula One for Minardi, Jordan, Benetton, Sauber, Renault, Force India and Ferrari. Since then he has driven for AF Corse in their Ferrari 458 GTE at various sportscar events, becoming twice a Le Mans 24 Hour class winner, and a GT class winner of the Petit Le Mans at Road Atlanta. He was also Ferrari's F1 reserve driver for 2010."@en ,
+		"Giancarlo Fisichella (Roma, 14 de Janeiro de 1973) \u00E9 um automobilista italiano."@pt ,
+		"Giancarlo Fisichella (Rome, 14 januari 1973) is een Italiaanse autocoureur, die van 1996 tot en met 2009 formule 1-coureur was. Hij heeft ook een GP2 team, genaamd Fisichella Motor Sport International."@nl ,
+		"Giancarlo Fisichella (* 14. Januar 1973 in Rom) ist ein italienischer Automobilrennfahrer und Rennsportunternehmer. Er fuhr von 1996 bis 2009 in der Formel 1 und gewann dort drei Rennen. Seine beste Gesamtplatzierung erzielte er 2006 mit dem vierten Weltmeisterschaftsrang. Fisichella hat 229 Formel-1-Rennen bestritten. Von Mitte 2009 bis 2012 stand Fisichella beim italienischen Traditionsrennstall Ferrari unter Vertrag und war dort ab 2010 Test- und Ersatzfahrer. 1994 war Fisichella italienischer Formel-3-Meister."@de ,
+		"Giancarlo Fisichella (ur. 14 stycznia 1973 w Rzymie) \u2013 w\u0142oski kierowca wy\u015Bcigowy. Sezon 2009 Mistrzostw \u015Awiata Formu\u0142y 1 rozpocz\u0105\u0142 w barwach zespo\u0142u Force India, a od Grand Prix W\u0142och przeszed\u0142 do Ferrari, gdzie zast\u0105pi\u0142 Luk\u0119 Badoera. Obecnie pe\u0142ni rol\u0119 rezerwowego kierowcy w\u0142oskiej stajni."@pl ,
+		"\u0414\u0436\u0430\u043D\u043A\u0430\u0301\u0440\u043B\u043E \u0424\u0438\u0437\u0438\u043A\u0435\u0301\u043B\u043B\u0430 (\u0438\u0442\u0430\u043B. Giancarlo Fisichella, \u043D\u0435\u0444\u043E\u0440\u043C\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435 \u00AB\u0424\u0438\u0437\u0438\u043A\u043E\u00BB) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u043E \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F\u043C \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0424\u0438\u0437\u0438\u043A\u0435\u043B\u043B\u0430 \u0442\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u043B\u0441\u044F (\u0434\u043E 2009 \u0433\u043E\u0434\u0430) \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0435\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Fisichella Motor Sport International, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0435\u0439 \u0432 \u0441\u0435\u0440\u0438\u0438 GP2. \u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u041F\u0440\u0435\u043C\u0438\u0438 \u0438\u043C\u0435\u043D\u0438 \u041B\u043E\u0440\u0435\u043D\u0446\u043E \u0411\u0430\u043D\u0434\u0438\u043D\u0438 (1998 \u0437\u0430 1997)"@ru ,
+		"\u30B8\u30E3\u30F3\u30AB\u30EB\u30ED\u30FB\u30D5\u30A3\u30B8\u30B1\u30E9\uFF08Giancarlo Fisichella \u30011973\u5E741\u670814\u65E5 - \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u3001\u30ED\u30FC\u30DE\u51FA\u8EAB\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u611B\u79F0\uFF1A\u30D5\u30A3\u30B8\u30B3\u3002"@ja ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016)25\u0628\u0643 \u0647\u0630\u0647 \u0645\u0642\u0627\u0644\u0629 \u063A\u064A\u0631 \u0645\u0631\u0627\u062C\u0639\u0629. \u064A\u0646\u0628\u063A\u064A \u0623\u0646 \u064A\u0632\u0627\u0644 \u0647\u0630\u0627 \u0627\u0644\u0642\u0627\u0644\u0628 \u0628\u0639\u062F \u0623\u0646 \u064A\u0631\u0627\u062C\u0639\u0647\u0627 \u0645\u062D\u0631\u0631 \u0645\u0627 \u0639\u062F\u0627 \u0627\u0644\u0630\u064A \u0623\u0646\u0634\u0623\u0647\u0627\u061B \u0625\u0630\u0627 \u0644\u0632\u0645 \u0627\u0644\u0623\u0645\u0631 \u0641\u064A\u062C\u0628 \u0623\u0646 \u062A\u0648\u0633\u0645 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0628\u0642\u0648\u0627\u0644\u0628 \u0627\u0644\u0635\u064A\u0627\u0646\u0629 \u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629. (\u0641\u0628\u0631\u0627\u064A\u0631 2008) \u062C\u0627\u0646\u0643\u0627\u0631\u0644\u0648 \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627 (Giancarlo Fisichella) (\u0631\u0648\u0645\u0627\u060C 14 \u0643\u0627\u0646\u0648\u0646 \u0627\u0644\u062B\u0627\u0646\u064A \u064A\u0646\u0627\u064A\u0631 1973)\u060C \u064A\u0644\u0642\u0628 Fisico \u0623\u0648 Fisi\u060C \u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642\u0627\u062A \u0625\u064A\u0637\u0627\u0644\u064A. \u0633\u0627\u0642 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646 \u0631\u064A\u0646\u0648 \u0633\u0627\u0648\u0628\u0631 \u0648\u062C\u0648\u0631\u062F\u0648\u0646\u060C \u0628\u064A\u0646\u064A\u062A\u0648\u0646 \u0648\u0645\u064A\u0646\u0627\u0631\u062F\u064A. \u0641\u064A 10 \u0643\u0627\u0646\u0648\u0646 \u0627\u0644\u062B\u0627\u0646\u064A \u064A\u0646\u0627\u064A\u0631 \u0639\u0627\u0645 2008 \u0623\u0643\u062F \u0627\u0646\u0636\u0645\u0647 \u0643\u0633\u0627\u0626\u0642 \u0644\u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0633 \u0627\u0644\u062C\u062F\u064A\u062F. \u0644\u062F\u0649 \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627 \u0627\u062B\u0646\u064A\u0646 \u0645\u0646 \u0627\u0644\u0623\u0628\u0646\u0627\u0621\u060C \u0643\u0627\u0631\u0644\u0648\u062A\u0627 \u0648\u0643\u0631\u064A\u0633\u062A\u0648\u0641\u0631."@ar ,
+		"\u8A79\u5361\u6D1B\u00B7\u8D39\u65AF\u5207\u62C9\uFF08Giancarlo Fisichella\uFF0C1973\u5E741\u670814\u65E5\uFF0D\uFF09\uFF0C\u610F\u5927\u5229\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8F66\u624B\uFF0C\u51FA\u751F\u4E8E\u610F\u5927\u5229\u7F57\u9A6C\u3002"@zh ,
+		"Dopo l'esperienza con i kart, in Formula 3 e nei Campionati Turismo ha corso in Formula 1 dal 1996 al 2009 con Minardi, Jordan, Benetton, Sauber, Renault, Force India e Ferrari disputando 231 gran premi e ottenendo 275 punti iridati. Ha vinto il Gran Premio del Brasile 2003, il Gran Premio d'Australia 2005 e il Gran Premio della Malesia 2006. Ha conquistato la pole position nel Gran Premio d'Austria 1998 nel Gran Premio d'Australia 2005, nel Gran Premio della Malesia 2006 e nel Gran Premio del Belgio 2009 e il giro veloce nel Gran Premio di Spagna 1997 e 2005. \u00C8 anche stato test-driver per la Minardi nel 1995 e per la Ferrari nel 1996, 2010, 2011 e 2012."@it ,
+		"Giancarlo Fisichella (nacido el 14 de enero de 1973 en Roma) es un piloto italiano de automovilismo de velocidad. Ha disputado 231 Grandes Premios de F\u00F3rmula 1 para las escuder\u00EDas Ferrari, Renault, Sauber, Jordan, Benetton, Minardi y Force India, donde sum\u00F3 tres triunfos, 19 podios y un cuarto lugar en la temporada 2006 como mejor resultado final. Desde 2005 hasta 2009, fue propietario de FMS International, un equipo de la GP2 Series. Su apodo es Fisico, una contracci\u00F3n de su apellido."@es .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Giancarlo_Fisichella	dbp:birthDate	"1973-01-14"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-it:Giancarlo_Fisichella .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	yago-res:Giancarlo_Fisichella ,
+		wikidata:Q172712 ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30F3\u30AB\u30EB\u30ED\u30FB\u30D5\u30A3\u30B8\u30B1\u30E9> ,
+		dbr:Giancarlo_Fisichella .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-cs:Giancarlo_Fisichella .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-pt:Giancarlo_Fisichella .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-es:Giancarlo_Fisichella .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-fr:Giancarlo_Fisichella .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-nl:Giancarlo_Fisichella .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-pl:Giancarlo_Fisichella .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-wikidata:Q172712 ,
+		<http://rdf.freebase.com/ns/m.02z89x> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-de:Giancarlo_Fisichella .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Giancarlo_Fisichella	owl:sameAs	dbpedia-id:Giancarlo_Fisichella .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Giancarlo_Fisichella	dct:subject	dbc:FIA_World_Endurance_Championship_drivers ,
+		dbc:Force_India_Formula_One_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Sauber_Formula_One_drivers ,
+		dbc:Benetton_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1973_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Living_people ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		dbc:Karting_World_Championship_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:Renault_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:United_SportsCar_Championship_drivers ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:Rolex_Sports_Car_Series_drivers ,
+		dbc:European_Touring_Car_Championship_drivers ,
+		dbc:European_Le_Mans_Series_drivers ,
+		dbc:Italian_expatriates_in_Monaco ,
+		dbc:Superstars_Series_drivers ,
+		dbc:Italian_Formula_Three_Championship_drivers ,
+		dbc:Sportspeople_from_Rome ,
+		dbc:Jordan_Formula_One_drivers ;
+	foaf:name	"Giancarlo Fisichella"@en ;
+	foaf:homepage	<http://www.giancarlofisichella.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Fisichella_Monza_2009.jpg> ;
+	dct:description	"Italian racecar driver"@en ;
+	foaf:givenName	"Giancarlo"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Giancarlo_Fisichella	foaf:isPrimaryTopicOf	wikipedia-en:Giancarlo_Fisichella ;
+	foaf:surname	"Fisichella"@en ;
+	dbp:points	275 ;
+	dbp:years	"\u2013"^^xsd:string ,
+		1996 ,
+		1998 ,
+		1994 ;
+	dbp:after	dbr:Alexander_Wurz ,
+		dbr:Luca_Rangoni ,
+		dbr:Gianantonio_Pacchioni ,
+		"Not held"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Giancarlo_Fisichella	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Giancarlo_Fisichella?oldid=739984462> ;
+	dbo:wikiPageExternalLink	<http://www.f1network.net/main/s495/st122462.htm> ,
+		<http://www.giancarlofisichella.com/> .
+@prefix ns28:	<http://www.4mula1.ro/history/driver/> .
+dbr:Giancarlo_Fisichella	dbo:wikiPageExternalLink	ns28:Giancarlo_Fisichella .
+@prefix ns29:	<https://web.archive.org/web/20070927182657/http:/www.f1db.com/f1/page/> .
+dbr:Giancarlo_Fisichella	dbo:wikiPageExternalLink	ns29:Giancarlo_Fisichella ;
+	dbp:caption	"Fisichella at the 2009 Italian Grand Prix"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/2003_Brazilian_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/2006_Malaysian_Grand_Prix> ;
+	dbp:birthPlace	"Rome, Italy"^^xsd:string ;
+	dbp:before	dbr:Luca_di_Montezemolo ,
+		dbr:Luca_Badoer ,
+		dbr:Gianantonio_Pacchioni ,
+		dbr:Christian_Pescatori ;
+	dbp:teams	dbr:Force_India ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Renault_F1 ,
+		dbr:Minardi ,
+		dbr:Jordan_Grand_Prix ,
+		dbr:Sauber ,
+		dbr:Benetton_Formula ;
+	dbo:abstract	"Giancarlo Fisichella (Roma, 14 de Janeiro de 1973) \u00E9 um automobilista italiano."@pt ,
+		"Giancarlo Fisichella (Rome, 14 januari 1973) is een Italiaanse autocoureur, die van 1996 tot en met 2009 formule 1-coureur was. Hij heeft ook een GP2 team, genaamd Fisichella Motor Sport International. Fisichella begon zijn sportcarri\u00E8re in 1982 als kart-rijder. In 1984 won hij het Italiaanse 60cc-kart kampioenschap. Daarna stapte hij over op het 100cc-kart kampioenschap. In 1989 werd hij tweede in het Europese kartkampioenschap en vierde in het wereldkampioenschap. In 1992 stapte hij over op de autosport. Hij begon direct in de Italiaanse formule 3, bij het team Ravarotta. Hij won de Grand Prix van San Marino en werd achtste in het kampioenschap. In 1993 won hij twee Grands Prix en werd tweede in het kampioenschap."@nl ,
+		"Giancarlo Fisichella (nacido el 14 de enero de 1973 en Roma) es un piloto italiano de automovilismo de velocidad. Ha disputado 231 Grandes Premios de F\u00F3rmula 1 para las escuder\u00EDas Ferrari, Renault, Sauber, Jordan, Benetton, Minardi y Force India, donde sum\u00F3 tres triunfos, 19 podios y un cuarto lugar en la temporada 2006 como mejor resultado final. Desde 2010, Fisichella es piloto de pruebas del equipo Ferrari de F\u00F3rmula 1. Simult\u00E1neamente, ha competido en gran turismos con AF Corse, un equipo semioficial Ferrari, logrando victorias de clase en las 24 Horas de Le Mans de 2012 y 2014, Petit Le Mans 2011 y otras fechas del Campeonato Mundial de Resistencia y la Le Mans Series. Desde 2005 hasta 2009, fue propietario de FMS International, un equipo de la GP2 Series. Su apodo es Fisico, una contracci\u00F3n de su apellido."@es ,
+		"\u8A79\u5361\u6D1B\u00B7\u8D39\u65AF\u5207\u62C9\uFF08Giancarlo Fisichella\uFF0C1973\u5E741\u670814\u65E5\uFF0D\uFF09\uFF0C\u610F\u5927\u5229\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u8F66\u624B\uFF0C\u51FA\u751F\u4E8E\u610F\u5927\u5229\u7F57\u9A6C\u3002"@zh ,
+		"Giancarlo Fisichella (* 14. Januar 1973 in Rom) ist ein italienischer Automobilrennfahrer und Rennsportunternehmer. Er fuhr von 1996 bis 2009 in der Formel 1 und gewann dort drei Rennen. Seine beste Gesamtplatzierung erzielte er 2006 mit dem vierten Weltmeisterschaftsrang. Fisichella hat 229 Formel-1-Rennen bestritten. Von Mitte 2009 bis 2012 stand Fisichella beim italienischen Traditionsrennstall Ferrari unter Vertrag und war dort ab 2010 Test- und Ersatzfahrer. 1994 war Fisichella italienischer Formel-3-Meister."@de ,
+		"\u30B8\u30E3\u30F3\u30AB\u30EB\u30ED\u30FB\u30D5\u30A3\u30B8\u30B1\u30E9\uFF08Giancarlo Fisichella \u30011973\u5E741\u670814\u65E5 - \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u3001\u30ED\u30FC\u30DE\u51FA\u8EAB\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u611B\u79F0\uFF1A\u30D5\u30A3\u30B8\u30B3\u3002"@ja ,
+		"Dopo l'esperienza con i kart, in Formula 3 e nei Campionati Turismo ha corso in Formula 1 dal 1996 al 2009 con Minardi, Jordan, Benetton, Sauber, Renault, Force India e Ferrari disputando 231 gran premi e ottenendo 275 punti iridati. Ha vinto il Gran Premio del Brasile 2003, il Gran Premio d'Australia 2005 e il Gran Premio della Malesia 2006. Ha conquistato la pole position nel Gran Premio d'Austria 1998 nel Gran Premio d'Australia 2005, nel Gran Premio della Malesia 2006 e nel Gran Premio del Belgio 2009 e il giro veloce nel Gran Premio di Spagna 1997 e 2005. \u00C8 anche stato test-driver per la Minardi nel 1995 e per la Ferrari nel 1996, 2010, 2011 e 2012. Attualmente gareggia nel Campionato del Mondo Endurance con la Ferrari 458 Italia dell'AF Corse con cui ha vinto, nella classe GTEPro, la 24 Ore di Le Mans del 2012 e del 2014, insieme a Bruni e Vilander"@it ,
+		"25\u0628\u0643 \u0627\u0644\u0645\u062D\u062A\u0648\u0649 \u0647\u0646\u0627 \u064A\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062A\u0634\u0647\u0627\u062F \u0628\u0645\u0635\u0627\u062F\u0631. \u064A\u0631\u062C\u0649 \u0625\u064A\u0631\u0627\u062F \u0645\u0635\u0627\u062F\u0631 \u0645\u0648\u062B\u0648\u0642 \u0628\u0647\u0627. \u0623\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u063A\u064A\u0631 \u0645\u0648\u062B\u0642\u0629 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0634\u0643\u064A\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062A\u0647\u0627. (\u0641\u0628\u0631\u0627\u064A\u0631 2016)25\u0628\u0643 \u0647\u0630\u0647 \u0645\u0642\u0627\u0644\u0629 \u063A\u064A\u0631 \u0645\u0631\u0627\u062C\u0639\u0629. \u064A\u0646\u0628\u063A\u064A \u0623\u0646 \u064A\u0632\u0627\u0644 \u0647\u0630\u0627 \u0627\u0644\u0642\u0627\u0644\u0628 \u0628\u0639\u062F \u0623\u0646 \u064A\u0631\u0627\u062C\u0639\u0647\u0627 \u0645\u062D\u0631\u0631 \u0645\u0627 \u0639\u062F\u0627 \u0627\u0644\u0630\u064A \u0623\u0646\u0634\u0623\u0647\u0627\u061B \u0625\u0630\u0627 \u0644\u0632\u0645 \u0627\u0644\u0623\u0645\u0631 \u0641\u064A\u062C\u0628 \u0623\u0646 \u062A\u0648\u0633\u0645 \u0627\u0644\u0645\u0642\u0627\u0644\u0629 \u0628\u0642\u0648\u0627\u0644\u0628 \u0627\u0644\u0635\u064A\u0627\u0646\u0629 \u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629. (\u0641\u0628\u0631\u0627\u064A\u0631 2008) \u062C\u0627\u0646\u0643\u0627\u0631\u0644\u0648 \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627 (Giancarlo Fisichella) (\u0631\u0648\u0645\u0627\u060C 14 \u0643\u0627\u0646\u0648\u0646 \u0627\u0644\u062B\u0627\u0646\u064A \u064A\u0646\u0627\u064A\u0631 1973)\u060C \u064A\u0644\u0642\u0628 Fisico \u0623\u0648 Fisi\u060C \u0633\u0627\u0626\u0642 \u0633\u0628\u0627\u0642\u0627\u062A \u0625\u064A\u0637\u0627\u0644\u064A. \u0633\u0627\u0642 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646 \u0631\u064A\u0646\u0648 \u0633\u0627\u0648\u0628\u0631 \u0648\u062C\u0648\u0631\u062F\u0648\u0646\u060C \u0628\u064A\u0646\u064A\u062A\u0648\u0646 \u0648\u0645\u064A\u0646\u0627\u0631\u062F\u064A. \u0641\u064A 10 \u0643\u0627\u0646\u0648\u0646 \u0627\u0644\u062B\u0627\u0646\u064A \u064A\u0646\u0627\u064A\u0631 \u0639\u0627\u0645 2008 \u0623\u0643\u062F \u0627\u0646\u0636\u0645\u0647 \u0643\u0633\u0627\u0626\u0642 \u0644\u0641\u0631\u064A\u0642 \u0641\u0648\u0631\u0633 \u0627\u0644\u062C\u062F\u064A\u062F. \u0648\u0642\u062F \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627 \u0641\u0627\u0632 \u0628\u062B\u0644\u0627\u062B\u0629 \u0633\u0628\u0627\u0642\u0627\u062A \u0641\u064A \u0645\u0633\u064A\u0631\u062A\u0647 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646\u060C \u0643\u0627\u0646 \u0627\u0648\u0644\u0647\u0627 \u0641\u064A \u0645\u0648\u0633\u0645 2003 \u0628\u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644 \u0627\u0644\u0643\u0628\u0631\u0649\u060C \u0648\u0647\u0648 \u0633\u0628\u0627\u0642 \u062A\u0648\u0642\u0641 \u0644\u0623\u0633\u0628\u0627\u0628 \u062A\u062A\u0639\u0644\u0642 \u0628\u0627\u0644\u0633\u0644\u0627\u0645\u0629 \u0642\u0628\u0644 \u0646\u0647\u0627\u064A\u062A\u0647 \u0628\u062E\u0645\u0633\u0629 \u0639\u0634\u0631 \u0644\u0641\u0629. \u0628\u0639\u062F \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u0623\u0644\u062A\u0628\u0627\u0633 \u0628\u0634\u0623\u0646 \u0627\u0644\u0642\u0648\u0627\u0639\u062F \u0648\u062A\u0641\u0627\u0635\u064A\u0644 (\u0648\u0627\u0644\u0630\u064A \u0627\u0633\u062A\u0645\u0631 \u0644\u0639\u062F\u0629 \u0627\u064A\u0627\u0645) \u0623\u064F\u0639\u0644\u0646 \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627 \u0641\u064A \u0627\u0644\u0646\u0647\u0627\u064A\u0629 \u0641\u0627\u0626\u0632\u0627\u064B \u0641\u064A \u0627\u0644\u0627\u0633\u0628\u0648\u0639 \u0627\u0644\u062A\u0627\u0644\u064A\u060C \u0648\u0627\u0633\u062A\u0644\u0645 \u0627\u0644\u0643\u0623\u0633 \u0628\u0645\u0631\u0627\u0633\u0645 \u063A\u064A\u0631 \u062A\u0642\u0644\u064A\u062F\u064A\u0629 \u0641\u064A \u0627\u0644\u0633\u0628\u0627\u0642 \u0627\u0644\u062A\u0627\u0644\u064A. \u0627\u0646\u0636\u0645 \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627 \u0625\u0644\u0649 \u0641\u0631\u064A\u0642 \u0641\u0631\u064A\u0642 \u0631\u064A\u0646\u0648 \u0644\u064A\u062D\u0644 \u0645\u062D\u0644 \u0632\u0645\u064A\u0644\u0647 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u064A\u0627\u0631\u0646\u0648 \u062A\u0631\u0648\u0644\u064A\u060C \u0648\u0641\u0627\u0632 \u0628\u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0645\u0639\u0647 \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0641\u064A \u0639\u0627\u0645 2005. \u0648\u0644\u0643\u0646 \u0628\u0639\u062F \u0630\u0644\u0643 \u0627\u0644\u0633\u0628\u0627\u0642\u060C \u0623\u0646\u0637\u0644\u0642 \u0632\u0645\u064A\u0644\u0647 \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0633\u0627\u0626\u0642 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0641\u0631\u0646\u0627\u0646\u062F\u0648 \u0623\u0644\u0648\u0646\u0633\u0648 \u0644\u064A\u0641\u0648\u0632 \u0628\u0646\u0635\u064A\u0628 \u0628\u0623\u063A\u0644\u0628 \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0644\u0631\u064A\u0646\u0648. \u0648\u0631\u063A\u0645 \u0642\u064A\u0645\u062A\u0647 \u0627\u0644\u0639\u0627\u0644\u064A\u0629 \u0643\u0633\u0627\u0626\u0642\u060C \u0644\u0645 \u064A\u0633\u062A\u0637\u0639 \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627 \u0645\u0648\u0627\u0643\u0628\u0629 \u0627\u0644\u0628\u0637\u0644 \u0623\u0644\u0648\u0646\u0633\u0648\u060C \u0648\u0644\u0645 \u064A\u0641\u0632 \u0628\u0639\u062F \u0630\u0644\u0643 \u0625\u0644\u0627 \u0641\u064A \u0633\u0628\u0627\u0642 \u0622\u062E\u0631. \u0628\u0639\u064A\u062F\u0627 \u0639\u0646 \u0627\u0644\u0642\u064A\u0627\u062F\u0629\u060C \u064A\u062F\u064A\u0631 \u0641\u0631\u064A\u0642 \u062C\u064A \u0628\u064A 2 \u062E\u0627\u0635 \u0628\u0647 FMS International. \u0644\u062F\u0649 \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627 \u0627\u062B\u0646\u064A\u0646 \u0645\u0646 \u0627\u0644\u0623\u0628\u0646\u0627\u0621\u060C \u0643\u0627\u0631\u0644\u0648\u062A\u0627 \u0648\u0643\u0631\u064A\u0633\u062A\u0648\u0641\u0631. \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0623\u0639\u0644\u0627\u0645 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \n* 32x\u0628\u0648\u0627\u0628\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u0645\u0634\u0627\u0631\u064A\u0639 \u0634\u0642\u064A\u0642\u0629 \u0641\u064A \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062A \u0639\u0646: \u062C\u0627\u0646\u0643\u0627\u0631\u0644\u0648 \u0641\u064A\u0632\u064A\u0643\u064A\u0644\u0627"@ar ,
+		"Giancarlo Fisichella (ur. 14 stycznia 1973 w Rzymie) \u2013 w\u0142oski kierowca wy\u015Bcigowy. Sezon 2009 Mistrzostw \u015Awiata Formu\u0142y 1 rozpocz\u0105\u0142 w barwach zespo\u0142u Force India, a od Grand Prix W\u0142och przeszed\u0142 do Ferrari, gdzie zast\u0105pi\u0142 Luk\u0119 Badoera. Obecnie pe\u0142ni rol\u0119 rezerwowego kierowcy w\u0142oskiej stajni."@pl ,
+		"Giancarlo Fisichella (Italian pronunciation: [d\u0292a\u014B\u02C8karlo fizi\u02C8k\u025Blla]; born 14 January 1973), also known as Fisico, Giano or Fisi, is an Italian professional racing driver. He has driven in Formula One for Minardi, Jordan, Benetton, Sauber, Renault, Force India and Ferrari. Since then he has driven for AF Corse in their Ferrari 458 GTE at various sportscar events, becoming twice a Le Mans 24 Hour class winner, and a GT class winner of the Petit Le Mans at Road Atlanta. He was also Ferrari's F1 reserve driver for 2010. Fisichella won three races in his Formula One career, the first of which was at the chaotic 2003 Brazilian Grand Prix, a race abandoned for safety reasons with 15 laps remaining. After several days of confusion regarding rules and technicalities, Fisichella was eventually declared the winner in the following week, and collected his trophy in an unofficial ceremony at the following race. He was brought into the Renault team to replace fellow Italian Jarno Trulli, and won his first race with the team in Australia in 2005. However, after that race it was his team-mate, the Spanish driver Fernando Alonso, that would win the greater share of races for Renault. Although highly rated as a driver, Fisichella was unable to keep pace with eventual champion Alonso, managing just one further race win following his debut. Outside of driving, he has backed his own GP2 team, FMS International. Fisichella has three children, Carlotta, Christopher and Carolina, with his wife Luna Castellani. The couple married on 10 October 2009. On 17 June 2012 Fisichella won the GTE Pro division of the Le Mans 24hrs for AF Corse and followed this up with the Manufacturers' title in the WEC at the end of the season. Fisichella is set to continue with AF Corse for the forthcoming 2013 WEC season competing for a drivers' title for the first time."@en ,
+		"\u0414\u0436\u0430\u043D\u043A\u0430\u0301\u0440\u043B\u043E \u0424\u0438\u0437\u0438\u043A\u0435\u0301\u043B\u043B\u0430 (\u0438\u0442\u0430\u043B. Giancarlo Fisichella, \u043D\u0435\u0444\u043E\u0440\u043C\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435 \u00AB\u0424\u0438\u0437\u0438\u043A\u043E\u00BB) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u043E \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F\u043C \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0424\u0438\u0437\u0438\u043A\u0435\u043B\u043B\u0430 \u0442\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u043B\u0441\u044F (\u0434\u043E 2009 \u0433\u043E\u0434\u0430) \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0435\u043C \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Fisichella Motor Sport International, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0435\u0439 \u0432 \u0441\u0435\u0440\u0438\u0438 GP2. \u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u041F\u0440\u0435\u043C\u0438\u0438 \u0438\u043C\u0435\u043D\u0438 \u041B\u043E\u0440\u0435\u043D\u0446\u043E \u0411\u0430\u043D\u0434\u0438\u043D\u0438 (1998 \u0437\u0430 1997)"@ru ,
+		"Giancarlo Fisichella est un pilote automobile italien n\u00E9 le 14 janvier 1973 \u00E0 Rome en Italie. Il a disput\u00E9 le championnat du monde de Formule 1 entre 1996 et 2009. Apr\u00E8s avoir accompli la majeure partie de sa carri\u00E8re chez Jordan Grand Prix, Benetton Formula, et Renault F1 Team, puis la saison 2008 et un d\u00E9but de saison 2009 pour la nouvelle \u00E9curie indienne Force India, dont il a marqu\u00E9 les premiers points, il a rejoint la Scuderia Ferrari en remplacement de Felipe Massa, bless\u00E9, avant le Grand Prix d'Italie 2009, \u00E0 l'\u00E2ge de 36 ans."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Fisichella_Monza_2009.jpg?width=300> ;
+	dbo:birthDate	"1973-1-14"^^xsd:date ;
+	dbo:wikiPageRevisionID	739984462 ;
+	dbo:birthPlace	dbr:Rome ;
+	dbo:wikiPageID	636954 ;
+	dbo:nationality	dbr:Italy ;
+	dbo:wins	"3"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"2"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1996_Australian_Grand_Prix> ;
+	dbo:races	"231"^^xsd:nonNegativeInteger ;
+	dbo:poles	"4"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/2009_Abu_Dhabi_Grand_Prix> ;
+	dbo:podiums	"19"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Giancarlo_Fisichella	ns30:hypernym	dbr:Driver ;
+	dbp:title	dbr:Italian_Formula_Three_Championship ,
+		dbr:Formula_One_Indoor_Trophy ,
+		dbr:Lorenzo_Bandini_Trophy ,
+		dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners ,
+		"Winner"^^xsd:string .
+wikipedia-en:Giancarlo_Fisichella	foaf:primaryTopic	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1994_British_Formula_Three_Championship__RC_Motorsport__1>	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1993_Macau_Grand_Prix__RC_Motorsport__3>	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1994_Macau_Grand_Prix__RC_Motorsport__1>	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/Fisichella_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Giancarlo_Fisichella .
+dbr:Sauber_C23__2004__2	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+dbr:Ferrari_458	dbp:drivers	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1996_ITC_Mugello_round>	dbp:thirdDriverR	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2005_Australian_Grand_Prix>	dbo:poleDriver	dbr:Giancarlo_Fisichella ;
+	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2006_Malaysian_Grand_Prix>	dbo:poleDriver	dbr:Giancarlo_Fisichella ;
+	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2006_Chinese_Grand_Prix>	dbo:thirdDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2006_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2005_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2005_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2003_Brazilian_Grand_Prix>	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+dbr:Alexander_Wurz	dbp:before	dbr:Giancarlo_Fisichella .
+dbr:Minardi_M195__7	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+dbr:Fisi	dbo:wikiPageRedirects	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/2000_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1997_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1998_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1999_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Giancarlo_Fisichella .
+dbr:Luca_Rangoni	dbp:before	dbr:Giancarlo_Fisichella .
+dbr:Luca_Cordero_di_Montezemolo	dbp:after	dbr:Giancarlo_Fisichella .
+dbr:Fisico	dbo:wikiPageRedirects	dbr:Giancarlo_Fisichella .
+dbr:AF_Corse	dbp:drivers	dbr:Giancarlo_Fisichella .
+dbr:Jordan_Grand_Prix	dbp:drivers	dbr:Giancarlo_Fisichella .
+dbr:Renault_R25__2005__3	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+dbr:Renault_R26__3	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+dbr:Renault_R27__2	dbo:firstDriver	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1996_ITC_Diepholz_round>	dbp:thirdDriverR	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1996_ITC_Estoril_round>	dbp:secondDriverR	dbr:Giancarlo_Fisichella .
+<http://dbpedia.org/resource/1997_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Giancarlo_Fisichella .

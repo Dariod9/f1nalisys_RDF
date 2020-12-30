@@ -1,0 +1,147 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Aston_Martin__17	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1949_24_Hours_of_Le_Mans__8__1>	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__44__1>	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__8__1>	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__9__1>	dbo:firstDriver	dbr:Jack_Fairman .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jack_Fairman	foaf:primaryTopic	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1957_Glover_Trophy>	dbo:secondDriver	dbr:Jack_Fairman .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jack_Fairman	rdf:type	ns5:NaturalPerson ,
+		ns5:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jack_Fairman	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jack_Fairman	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		dbo:Person ,
+		wikidata:Q5 ,
+		yago:Operator110378412 ,
+		yago:CausalAgent100007347 ,
+		dbo:RacingDriver ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		yago:Driver110034906 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jack_Fairman	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jack_Fairman	rdf:type	umbel-rc:RaceCarDriver ,
+		foaf:Person ,
+		dbo:Athlete ,
+		dbo:Agent ,
+		wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatConnaughtFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Jack_Fairman	rdf:type	schema:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jack_Fairman	rdfs:label	"Jack Fairman"@fr ,
+		"Jack Fairman"@it ,
+		"Jack Fairman"@en ,
+		"Jack Fairman"@nl ,
+		"Jack Fairman"@pt ,
+		"Jack Fairman"@de ,
+		"Jack Fairman"@pl ;
+	rdfs:comment	"Jack Fairman (15 March 1913 \u2013 7 February 2002) was a British racing driver from England. He participated in 13 Formula One Grands Prix, making his debut on 18 July 1953. He scored a total of five championship points, all of which came in the 1956 season."@en ,
+		" Pour les articles homonymes, voir Fairman. Jack Fairman, n\u00E9 le 15 mars 1913 \u00E0 Horley (Surrey) et mort le 7 f\u00E9vrier 2002 \u00E0 Rugby (Warwickshire), est un ancien pilote anglais."@fr ,
+		"Jack Fairman (Horley, 15 maart 1913 \u2013 Rugby, 7 februari 2002) was een Britse Formule 1-coureur. Fairman reed in 1953 en tussen 1955 en 1961 dertien Grands Prix voor de teams van HWM, Connaught, BRM, Cooper en Ferguson."@nl ,
+		"Jack Fairman (Horley, Inglaterra, 15 de mar\u00E7o de 1913 \u2013 Rugby, Inglaterra, 7 de fevereiro de 2002) foi um automobilista ingl\u00EAs. Fairman participou de 13 Grandes Pr\u00EAmios de F\u00F3rmula 1, obtendo como melhores resultados o quarto lugar na Inglaterra e o quinto na It\u00E1lia, ambos em 1956."@pt ,
+		"Jack Fairman (ur. 15 marca 1913 w Smallfield, Surrey, zm. 7 lutego 2002 w Rugby, Warwickshire) \u2013 brytyjski kierowca wy\u015Bcigowy. Wystartowa\u0142 w dwunastu wy\u015Bcigach Grand Prix Formu\u0142y 1."@pl ,
+		"John Eric George \u201EJack\u201C Fairman (* 15. M\u00E4rz 1913 in Smallfield, Surrey; \u2020 7. Februar 2002 in Rugby) war ein britischer Rennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jack_Fairman	dbp:birthDate	"1913-03-15"^^xsd:date ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04kyrb> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jack_Fairman	owl:sameAs	dbpedia-nl:Jack_Fairman ,
+		dbr:Jack_Fairman .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jack_Fairman	owl:sameAs	yago-res:Jack_Fairman .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jack_Fairman	owl:sameAs	dbpedia-it:Jack_Fairman .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jack_Fairman	owl:sameAs	dbpedia-de:Jack_Fairman .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jack_Fairman	owl:sameAs	dbpedia-pt:Jack_Fairman .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jack_Fairman	owl:sameAs	dbpedia-fr:Jack_Fairman .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jack_Fairman	owl:sameAs	dbpedia-pl:Jack_Fairman .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jack_Fairman	owl:sameAs	dbpedia-wikidata:Q172644 ,
+		wikidata:Q172644 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jack_Fairman	dct:subject	dbc:BRM_Formula_One_drivers ,
+		dbc:Rob_Walker_Racing_Team_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:People_from_Horley ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Hersham_and_Walton_Motors_Formula_One_drivers ,
+		dbc:Connaught_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:English_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1913_births> ,
+		dbc:British_Army_personnel_of_World_War_II ,
+		dbc:Cooper_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2002_deaths> ;
+	foaf:name	"Jack Fairman"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Jack"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jack_Fairman ;
+	foaf:surname	"Fairman"@en ;
+	dbp:points	5 ;
+	dbp:years	",  \u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:BRM ,
+		<http://dbpedia.org/resource/Ferguson_Research_Ltd.> ,
+		dbr:Cooper_Car_Company ,
+		dbr:Hersham_and_Walton_Motors ,
+		dbr:Connaught_Engineering .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jack_Fairman	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jack_Fairman?oldid=737666566> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20060301135827/http:/www.autocoursegpa.com/season_driver~season~1961~driver_id~11730.htm> ,
+		<https://web.archive.org/web/20061125220933/http:/www.gpracing.net192.com/drivers/careers/195.cfm> ;
+	dbp:birthPlace	"Horley, Surrey, England, UK"^^xsd:string ;
+	dbp:deathDate	"2002-02-07"^^xsd:date ;
+	dbp:deathPlace	"Rugby, Warwickshire, England, UK"^^xsd:string ;
+	dbo:abstract	"Jack Fairman (ur. 15 marca 1913 w Smallfield, Surrey, zm. 7 lutego 2002 w Rugby, Warwickshire) \u2013 brytyjski kierowca wy\u015Bcigowy. Wystartowa\u0142 w dwunastu wy\u015Bcigach Grand Prix Formu\u0142y 1."@pl ,
+		"John Eric George \u201EJack\u201C Fairman (* 15. M\u00E4rz 1913 in Smallfield, Surrey; \u2020 7. Februar 2002 in Rugby) war ein britischer Rennfahrer."@de ,
+		"Jack Fairman (Horley, Inglaterra, 15 de mar\u00E7o de 1913 \u2013 Rugby, Inglaterra, 7 de fevereiro de 2002) foi um automobilista ingl\u00EAs. Fairman participou de 13 Grandes Pr\u00EAmios de F\u00F3rmula 1, obtendo como melhores resultados o quarto lugar na Inglaterra e o quinto na It\u00E1lia, ambos em 1956."@pt ,
+		" Pour les articles homonymes, voir Fairman. Jack Fairman, n\u00E9 le 15 mars 1913 \u00E0 Horley (Surrey) et mort le 7 f\u00E9vrier 2002 \u00E0 Rugby (Warwickshire), est un ancien pilote anglais."@fr ,
+		"Jack Fairman (15 March 1913 \u2013 7 February 2002) was a British racing driver from England. He participated in 13 Formula One Grands Prix, making his debut on 18 July 1953. He scored a total of five championship points, all of which came in the 1956 season."@en ,
+		"Jack Fairman (Horley, 15 maart 1913 \u2013 Rugby, 7 februari 2002) was een Britse Formule 1-coureur. Fairman reed in 1953 en tussen 1955 en 1961 dertien Grands Prix voor de teams van HWM, Connaught, BRM, Cooper en Ferguson."@nl ;
+	dbo:birthDate	"1913-3-15"^^xsd:date ;
+	dbo:deathDate	"2002-2-7"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Rugby,_Warwickshire> ;
+	dbo:wikiPageRevisionID	737666566 ;
+	dbo:birthPlace	dbr:Horley ;
+	dbo:wikiPageID	1235888 ;
+	dbo:nationality	dbr:British_Grand_Prix ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1953_British_Grand_Prix> ;
+	dbo:races	"13"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1961_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Jack_Fairman	ns25:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__28__1>	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__43__1>	dbo:firstDriver	dbr:Jack_Fairman .
+dbr:Fairman	dbo:wikiPageDisambiguates	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__46__1>	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__52nd__1>	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__38__1>	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__36th__1>	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__9th__1>	dbo:firstDriver	dbr:Jack_Fairman .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__53__1>	dbo:firstDriver	dbr:Jack_Fairman .

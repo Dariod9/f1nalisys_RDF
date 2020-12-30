@@ -1,0 +1,113 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Guy_Tunmer	foaf:primaryTopic	dbr:Guy_Tunmer .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Guy_Tunmer	rdf:type	ns4:NaturalPerson ,
+		ns4:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Guy_Tunmer	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Guy_Tunmer	rdf:type	yago:WikicatTeamGunstonFormulaOneDrivers ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Guy_Tunmer	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Guy_Tunmer	rdf:type	owl:Thing ,
+		yago:WikicatSouthAfricanFormulaOneDrivers ,
+		yago:Operator110378412 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Guy_Tunmer	rdf:type	dbo:RacingDriver ,
+		dbo:Person ,
+		foaf:Person ,
+		yago:CausalAgent100007347 ,
+		yago:Driver110034906 ,
+		dbo:FormulaOneRacer ,
+		dbo:MotorsportRacer ,
+		wikidata:Q378622 ,
+		wikidata:Q5 ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Guy_Tunmer	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Agent ,
+		yago:WikicatAtlanticChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Guy_Tunmer	rdfs:label	"Guy Tunmer"@en ,
+		"\u0422\u0430\u043D\u043C\u0435\u0440, \u0413\u0430\u0439"@ru ,
+		"Guy Tunmer"@de ,
+		"Guy Tunmer"@nl ,
+		"Guy Tunmer"@pl ,
+		"Guy Tunmer"@pt ,
+		"Guy Tunmer"@it ;
+	rdfs:comment	"Percival Guy Tunmer (1 December 1948 in Ficksburg \u2013 22 June 1999 in Sandton, Johannesburg) was a racing driver from South Africa. He participated in one Formula One World Championship Grand Prix, his home race in 1975, driving a Lotus 72 for a local team, Team Gunston. He finished 11th, scoring no championship points. He later found success in Formula Atlantic. Guy Tunmer was killed in a motorcycle accident in his native South Africa in 1999."@en ,
+		"Guy Tunmer (ur. 1 grudnia 1948 w Ficksburgu, zm. 22 czerwca 1999 w Johannesburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca wy\u015Bcigowy. Wyst\u0105pi\u0142 on w jednym wy\u015Bcigu Formu\u0142y 1 \u2013 Grand Prix Po\u0142udniowej Afryki w 1975, awansuj\u0105c z 25. pozycji na starcie na 11. miejsce na mecie (ze strat\u0105 dw\u00F3ch okr\u0105\u017Ce\u0144 do zwyci\u0119zcy. P\u00F3\u017Aniej wyst\u0119powa\u0142 w Formule Atlantic, zmar\u0142 w 1999 w wypadku motocyklowym."@pl ,
+		"Percival Guy Tunmer (* 1. Dezember 1948 in Ficksburg; \u2020 22. Juni 1999 in Sandton) war ein s\u00FCdafrikanischer Autorennfahrer. Guy Tunmer fuhr seine ersten Rennen in den sp\u00E4ten 1960er-Jahren noch als Amateur. Sein erstes Rennfahrzeug war ein Mini, den er bei kleinen lokalen Veranstaltungen einsetzte. Nach einem Wechsel auf Automobile der Marke Alfa Romeo, Partner bei Langstreckenrennen war meist sein Bruder Derek, folgte 1973 der Sprung in die s\u00FCdafrikanische Monoposto-Serie. Tunmer bestritt auch Rennen in anderen afrikanischen Staaten, so nahm er beispielsweise Mitte der 1970er-Jahre an der Angolanischen Sportwagenserie teil und gewann das 3-Stunden-Rennen von Luanda 1973."@de ,
+		"Percival Guy Tunmer (Ficksburg, 1 december 1948 \u2013 Sandton, Johannesburg, 22 juni 1999) was een autocoureur uit Zuid-Afrika. Hij nam deel aan zijn thuisrace in 1975 voor het team Lotus, maar finishte als elfde en scoorde zo geen punten voor het wereldkampioenschap Formule 1. Later vond hij succes in de Formule Atlantic. Hij verongelukte bij een motorongeluk."@nl ,
+		"\u041F\u0435\u0440\u0441\u0438\u0432\u0430\u043B\u044C \u0413\u0430\u0439 \u0422\u0430\u043D\u043C\u0435\u0440 (\u0430\u043D\u0433\u043B. Percival Guy Tunmer, 1 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1948 \u0433\u043E\u0434\u0430, \u0424\u0440\u0438\u043A\u0441\u0431\u0443\u0440\u0433 \u2014 22 \u0438\u044E\u043D\u044F 1999 \u0433\u043E\u0434\u0430, \u0419\u043E\u0445\u0430\u043D\u043D\u0435\u0441\u0431\u0443\u0440\u0433) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"In Formula 1 partecip\u00F2 al solo Gran Premio del Sud Africa 1975 a bordo di una Lotus 72 del Team Gunston, chiudendo la gara in undicesima posizione. In seguito corse in Formula Atlantic. Mor\u00EC in un incidente motociclistico in Sud Africa nel 1999."@it ,
+		"Percival Guy Tunmer (Ficksburg, Transvaal, \u00C1frica do Sul, 1 de dezembro de 1948 \u2013 Sandton, \u00C1frica do Sul, 22 de junho de 1999) foi um automobilista sul-africano que participou do Grande Pr\u00EAmio da \u00C1frica do Sul de F\u00F3rmula 1 em 1975."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Guy_Tunmer	dbp:birthDate	"1948-12-01"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Guy_Tunmer	owl:sameAs	yago-res:Guy_Tunmer ,
+		<http://rdf.freebase.com/ns/m.04l1y0> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Guy_Tunmer	owl:sameAs	dbpedia-pl:Guy_Tunmer .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Guy_Tunmer	owl:sameAs	dbpedia-wikidata:Q172307 ,
+		wikidata:Q172307 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Guy_Tunmer	owl:sameAs	dbpedia-de:Guy_Tunmer .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Guy_Tunmer	owl:sameAs	dbpedia-pt:Guy_Tunmer ,
+		dbr:Guy_Tunmer .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Guy_Tunmer	owl:sameAs	dbpedia-nl:Guy_Tunmer .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Guy_Tunmer	owl:sameAs	dbpedia-it:Guy_Tunmer .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Guy_Tunmer	dct:subject	dbc:Atlantic_Championship_drivers ,
+		dbc:South_African_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1948_births> ,
+		dbc:South_African_racing_drivers ,
+		dbc:People_from_Ficksburg ,
+		<http://dbpedia.org/resource/Category:1999_deaths> ,
+		dbc:Team_Gunston_Formula_One_drivers ;
+	foaf:name	"Guy Tunmer"@en ;
+	dct:description	"South African racing driver"@en ;
+	foaf:givenName	"Guy"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Guy_Tunmer ;
+	foaf:surname	"Tunmer"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Lotus"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Guy_Tunmer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Guy_Tunmer?oldid=703984582> ;
+	dbp:nationality	"South African"^^xsd:string ;
+	dbp:deathDate	"1999-06-22"^^xsd:date ;
+	dbo:abstract	"Percival Guy Tunmer (1 December 1948 in Ficksburg \u2013 22 June 1999 in Sandton, Johannesburg) was a racing driver from South Africa. He participated in one Formula One World Championship Grand Prix, his home race in 1975, driving a Lotus 72 for a local team, Team Gunston. He finished 11th, scoring no championship points. He later found success in Formula Atlantic. Guy Tunmer was killed in a motorcycle accident in his native South Africa in 1999."@en ,
+		"\u041F\u0435\u0440\u0441\u0438\u0432\u0430\u043B\u044C \u0413\u0430\u0439 \u0422\u0430\u043D\u043C\u0435\u0440 (\u0430\u043D\u0433\u043B. Percival Guy Tunmer, 1 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1948 \u0433\u043E\u0434\u0430, \u0424\u0440\u0438\u043A\u0441\u0431\u0443\u0440\u0433 \u2014 22 \u0438\u044E\u043D\u044F 1999 \u0433\u043E\u0434\u0430, \u0419\u043E\u0445\u0430\u043D\u043D\u0435\u0441\u0431\u0443\u0440\u0433) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Guy Tunmer (ur. 1 grudnia 1948 w Ficksburgu, zm. 22 czerwca 1999 w Johannesburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca wy\u015Bcigowy. Wyst\u0105pi\u0142 on w jednym wy\u015Bcigu Formu\u0142y 1 \u2013 Grand Prix Po\u0142udniowej Afryki w 1975, awansuj\u0105c z 25. pozycji na starcie na 11. miejsce na mecie (ze strat\u0105 dw\u00F3ch okr\u0105\u017Ce\u0144 do zwyci\u0119zcy. P\u00F3\u017Aniej wyst\u0119powa\u0142 w Formule Atlantic, zmar\u0142 w 1999 w wypadku motocyklowym."@pl ,
+		"In Formula 1 partecip\u00F2 al solo Gran Premio del Sud Africa 1975 a bordo di una Lotus 72 del Team Gunston, chiudendo la gara in undicesima posizione. In seguito corse in Formula Atlantic. Mor\u00EC in un incidente motociclistico in Sud Africa nel 1999."@it ,
+		"Percival Guy Tunmer (Ficksburg, 1 december 1948 \u2013 Sandton, Johannesburg, 22 juni 1999) was een autocoureur uit Zuid-Afrika. Hij nam deel aan zijn thuisrace in 1975 voor het team Lotus, maar finishte als elfde en scoorde zo geen punten voor het wereldkampioenschap Formule 1. Later vond hij succes in de Formule Atlantic. Hij verongelukte bij een motorongeluk."@nl ,
+		"Percival Guy Tunmer (Ficksburg, Transvaal, \u00C1frica do Sul, 1 de dezembro de 1948 \u2013 Sandton, \u00C1frica do Sul, 22 de junho de 1999) foi um automobilista sul-africano que participou do Grande Pr\u00EAmio da \u00C1frica do Sul de F\u00F3rmula 1 em 1975."@pt ,
+		"Percival Guy Tunmer (* 1. Dezember 1948 in Ficksburg; \u2020 22. Juni 1999 in Sandton) war ein s\u00FCdafrikanischer Autorennfahrer. Guy Tunmer fuhr seine ersten Rennen in den sp\u00E4ten 1960er-Jahren noch als Amateur. Sein erstes Rennfahrzeug war ein Mini, den er bei kleinen lokalen Veranstaltungen einsetzte. Nach einem Wechsel auf Automobile der Marke Alfa Romeo, Partner bei Langstreckenrennen war meist sein Bruder Derek, folgte 1973 der Sprung in die s\u00FCdafrikanische Monoposto-Serie. Tunmer bestritt auch Rennen in anderen afrikanischen Staaten, so nahm er beispielsweise Mitte der 1970er-Jahre an der Angolanischen Sportwagenserie teil und gewann das 3-Stunden-Rennen von Luanda 1973. Auf erste Rennen mit einem March 722 folgte das Engagement beim Team Gunston 1975, dessen Lotus 72E Tunmer dann auch beim Formel-1-Lauf in S\u00FCdafrika pilotierte. Zwei Runden fehlten im Ziel auf den Sieger Jody Scheckter, das reichte, um als Elfter gewertet zu werden. Tumner gewann mit dem Lotus 1975 die False Bay 100 in Killarney und steuerte einen March-Sportwagen beim 1000-km-Rennen von Monza im gleichen Jahr. 1976 fuhr Tunmer noch einen Chevron B34 in der S\u00FCdafrikanischen Formel-Atlantic-Meisterschaft, dann trat er vom Rennsport zur\u00FCck. Tunmer starb am 22. Juni 1999 im Alter von erst 50 Jahre an den Folgen eines Motorradunfalls."@de ;
+	dbo:birthDate	"1948-12-1"^^xsd:date ;
+	dbo:deathDate	"1999-6-22"^^xsd:date ;
+	dbo:wikiPageRevisionID	703984582 ;
+	dbo:birthPlace	dbr:Ficksburg ;
+	dbo:wikiPageID	1237412 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1975_South_African_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1975_South_African_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Guy_Tunmer	ns24:hypernym	dbr:Driver .

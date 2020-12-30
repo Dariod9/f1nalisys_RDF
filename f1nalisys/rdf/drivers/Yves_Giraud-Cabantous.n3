@@ -1,0 +1,145 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Charles_Rigoulot	dbp:teams	dbr:Yves_Giraud-Cabantous .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1931_24_Hours_of_Le_Mans__16__1>	dbo:team	dbr:Yves_Giraud-Cabantous ;
+	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1932_24_Hours_of_Le_Mans__9__1>	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1931_24_Hours_of_Le_Mans__6__1>	dbo:team	dbr:Yves_Giraud-Cabantous .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Yves_Giraud-Cabantous	rdf:type	dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Yves_Giraud-Cabantous	rdf:type	yago:PhysicalEntity100001930 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Yves_Giraud-Cabantous	rdf:type	wikidata:Q5 ,
+		dbo:FormulaOneRacer ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q378622 ,
+		dbo:Person ,
+		yago:Driver110034906 ,
+		yago:WikicatTalbotFormulaOneDrivers ,
+		yago:Operator110378412 .
+@prefix schema:	<http://schema.org/> .
+dbr:Yves_Giraud-Cabantous	rdf:type	schema:Person ,
+		dbo:RacingDriver ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Yves_Giraud-Cabantous	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:MotorsportRacer .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Yves_Giraud-Cabantous	rdf:type	ns8:Agent .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Yves_Giraud-Cabantous	rdf:type	foaf:Person ,
+		wikidata:Q215627 ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		ns8:NaturalPerson .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Yves_Giraud-Cabantous	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		yago:WikicatGrandPrixDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Yves_Giraud-Cabantous	rdfs:label	"Yves Giraud-Cabantous"@pt ,
+		"Yves Giraud-Cabantous"@en ,
+		"Yves Giraud-Cabantous"@de ,
+		"Yves Giraud-Cabantous"@pl ,
+		"Yves Giraud-Cabantous"@fr ,
+		"\u0416\u0438\u0440\u043E-\u041A\u0430\u0431\u0430\u043D\u0442\u0443, \u0418\u0432"@ru ,
+		"Yves Giraud-Cabantous"@nl ,
+		"Yves Giraud-Cabantous"@it ;
+	rdfs:comment	"Marius Aristide Yves Giraud-Cabantous (8 October 1904 \u2013 30 March 1973) was a racing driver from France. He drove in Formula One from 1950 to 1953, participating in 13 World Championship Grands Prix, plus numerous non-Championship Formula One races. Giraud-Cabantous was born in Saint-Gaudens. He drove a Talbot-Lago-Talbot in 10 Championship races in 1950 and 1951, and his final three events were in an HWM-Alta. He amassed a total of 5 Championship points, 3 at the 1950 British Grand Prix (also his highest finish, a 4th place) and 2 at the 1951 Belgian Grand Prix. He died in Paris, aged 68."@en ,
+		"Yves Giraud-Cabantous (ur. 8 pa\u017Adziernika 1903 w Saint-Gaudens zm. 30 marca 1973 w Pary\u017Cu) \u2013 francuski kierowca Formu\u0142y 1. Bra\u0142 udzia\u0142 w zawodach w latach 1950-1953. Je\u017Adzi\u0142 w zespo\u0142ach Talbot, Yves Giraud-Cabantous i HWM."@pl ,
+		"Yves Giraud-Cabantous (* 8. Oktober 1904 in Paris; \u2020 30. M\u00E4rz 1973 ebenda) war ein franz\u00F6sischer Automobilrennfahrer."@de ,
+		"Marius Aristide Yves Giraud-Cabantous, n\u00E9 le 8 octobre 1904 \u00E0 Saint-Gaudens et mort 30 mars 1973 \u00E0 Paris, est un pilote automobile fran\u00E7ais. Il a pilot\u00E9 de multiples voitures dans cinq grandes cat\u00E9gories ; r\u00E9glementation d\u2019avant-guerre (l'anc\u00EAtre de la F1), en Formule 1, Formule 2, en Formule argentine et en Endurance. Il a le privil\u00E8ge de courir les 24 Heures du Mans 1937 avec Charles Rigoulot. Il a aussi particip\u00E9 \u00E0 de nombreuses \u00E9preuves ne comptant pour aucun championnat. On compte 96 participations \u00E0 diff\u00E9rents \u00E9v\u00E8nements d'importance internationale."@fr ,
+		"\u0418\u0432 \u0416\u0438\u0440\u043E-\u041A\u0430\u0431\u0430\u043D\u0442\u0443 (\u0444\u0440. Yves Giraud-Cabantous, 8 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1904 \u2014 30 \u043C\u0430\u0440\u0442\u0430 1973) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 1950 \u0433\u043E\u0434\u0443\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 AutomobilesTalbot-Darracq SA. \u0412 \u043F\u0435\u0440\u0432\u043E\u0439 \u0436\u0435 \u0433\u043E\u043D\u043A\u0435 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0434\u043E\u0431\u0438\u043B\u0441\u044F \u043B\u0443\u0447\u0448\u0435\u0433\u043E \u0437\u0430 \u0432\u0441\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0430, \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u0432 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u044B\u043C. \u0422\u0430\u043A\u0438\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C, \u043E\u043D \u0441\u0442\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u043E\u043C, \u043D\u0430\u0431\u0440\u0430\u0432\u0448\u0438\u043C \u043E\u0447\u043A\u0438 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0414\u043E \u043A\u043E\u043D\u0446\u0430 \u0441\u0435\u0437\u043E\u043D\u0430 \u043E\u0447\u043A\u043E\u0432 \u0431\u043E\u043B\u044C\u0448\u0435 \u043D\u0435 \u043D\u0430\u0431\u0440\u0430\u043B (2 \u0441\u0445\u043E\u0434\u0430, 8-\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0413\u041F \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0438 \u043D\u0435\u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u0430\u044F \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u0432 \u0413\u041F \u041C\u043E\u043D\u0430\u043A\u043E). \u041A\u0440\u043E\u043C\u0435 \u044D\u0442\u043E\u0433\u043E, \u0435\u0449\u0451 \u0440\u0430\u0437 \u0435\u043C\u0443 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043D\u0430\u0431\u0440\u0430\u0442\u044C \u043E\u0447\u043A\u0438 \u043D\u0430 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439 \u0433\u043E\u0434 \u0432 \u0411\u0435\u043B\u044C\u0433\u0438\u0438, \u0433\u0434\u0435 \u043E\u043D \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B 5-\u043C, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044F \u043D\u0430 \u0447\u0430\u0441\u0442\u043D\u043E\u043C Talbot-Lago T26C. \u0422\u0430\u043A\u0436\u0435 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 \u0443 \u043D\u0435\u0433\u043E \u0431\u044B\u043B\u043E 3 \u0441\u0445\u043E\u0434\u0430 \u0438 2 \u0444\u0438\u043D\u0438\u0448\u0430 \u0437\u0430 \u043F\u0440\u0435\u0434\u0435\u043B\u0430\u043C\u0438 \u043E\u0447\u043A\u043E\u0432\u043E\u0439 \u0437\u043E\u043D\u044B (7-\u0435 \u043C\u0435\u0441\u0442\u043E \u043D\u0430 \u0413\u041F \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0438 8-\u0435 \u043D\u0430 \u0413\u041F \u0418\u0442\u0430\u043B\u0438\u0438). \u0412 1952 \u0433\u043E\u0434\u0443 \u043F\u0440\u043E\u0432\u0435\u043B \u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 HW Motors (10-\u0435 \u043C\u0435\u0441\u0442\u043E"@ru ,
+		"Marius Aristide Yves Giraud-Cabantous (Saint-Gaudens, 8 oktober 1904 \u2013 Parijs, 30 maart 1973) was een Formule 1-coureur uit Frankrijk. Hij reed tussen 1950 en 1953 13 Grands Prix voor de teams Talbot-Lago en HWM."@nl ,
+		"Marius Aristide Yves Giraud-Cabantous (Saint-Gaudens, 8 de outubro de 1904 - Paris, 30 de mar\u00E7o de 1973) foi um piloto franc\u00EAs de automobilismo. Iniciou sua carreira como piloto em 1931. Foi o primeiro franc\u00EAs a correr na F\u00F3rmula 1, tendo disputado 13 provas entre os anos de 1950 e 1953, contabilizando cinco pontos no total. Ele tamb\u00E9m competiu em diversas provas extra-campeonato. Ap\u00F3s a experi\u00EAncia na F-1, Cabantous se aposentou das pistas."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Yves_Giraud-Cabantous	dbp:birthDate	"1904-10-08"^^xsd:date .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Yves_Giraud-Cabantous	owl:sameAs	dbpedia-wikidata:Q171565 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Yves_Giraud-Cabantous	owl:sameAs	dbpedia-pl:Yves_Giraud-Cabantous .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Yves_Giraud-Cabantous	owl:sameAs	dbpedia-it:Yves_Giraud-Cabantous .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Yves_Giraud-Cabantous	owl:sameAs	yago-res:Yves_Giraud-Cabantous ,
+		dbr:Yves_Giraud-Cabantous ,
+		<http://rdf.freebase.com/ns/m.04k374> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Yves_Giraud-Cabantous	owl:sameAs	dbpedia-de:Yves_Giraud-Cabantous .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Yves_Giraud-Cabantous	owl:sameAs	dbpedia-nl:Yves_Giraud-Cabantous .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Yves_Giraud-Cabantous	owl:sameAs	dbpedia-cs:Yves_Giraud_Cabantous .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Yves_Giraud-Cabantous	owl:sameAs	dbpedia-pt:Yves_Giraud-Cabantous ,
+		wikidata:Q171565 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Yves_Giraud-Cabantous	owl:sameAs	dbpedia-fr:Yves_Giraud-Cabantous .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Yves_Giraud-Cabantous	dct:subject	<http://dbpedia.org/resource/Category:1904_births> ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1973_deaths> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Yves_Giraud-Cabantous	dct:subject	dbc:Talbot_Formula_One_drivers ,
+		dbc:French_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Hersham_and_Walton_Motors_Formula_One_drivers ,
+		dbc:French_racing_drivers ;
+	foaf:name	"Yves Giraud-Cabantous"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Yves"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Yves_Giraud-Cabantous	foaf:isPrimaryTopicOf	wikipedia-en:Yves_Giraud-Cabantous ;
+	foaf:surname	"Giraud-Cabantous"@en ;
+	dbp:points	5 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Hersham_and_Walton_Motors ,
+		dbr:Talbot-Lago .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Yves_Giraud-Cabantous	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Yves_Giraud-Cabantous?oldid=703961504> ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/results/season/1950/> ;
+	dbp:nationality	"French"^^xsd:string ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Saint-Gaudens,_Haute-Garonne> ,
+		dbr:France ;
+	dbp:deathDate	"1973-03-30"^^xsd:date ;
+	dbp:deathPlace	<http://dbpedia.org/resource/Paris,_France> ;
+	dbo:abstract	"Yves Giraud-Cabantous (ur. 8 pa\u017Adziernika 1903 w Saint-Gaudens zm. 30 marca 1973 w Pary\u017Cu) \u2013 francuski kierowca Formu\u0142y 1. Bra\u0142 udzia\u0142 w zawodach w latach 1950-1953. Je\u017Adzi\u0142 w zespo\u0142ach Talbot, Yves Giraud-Cabantous i HWM."@pl ,
+		"Yves Giraud-Cabantous (* 8. Oktober 1904 in Paris; \u2020 30. M\u00E4rz 1973 ebenda) war ein franz\u00F6sischer Automobilrennfahrer."@de ,
+		"Marius Aristide Yves Giraud-Cabantous (Saint-Gaudens, 8 oktober 1904 \u2013 Parijs, 30 maart 1973) was een Formule 1-coureur uit Frankrijk. Hij reed tussen 1950 en 1953 13 Grands Prix voor de teams Talbot-Lago en HWM."@nl ,
+		"Marius Aristide Yves Giraud-Cabantous, n\u00E9 le 8 octobre 1904 \u00E0 Saint-Gaudens et mort 30 mars 1973 \u00E0 Paris, est un pilote automobile fran\u00E7ais. Il a pilot\u00E9 de multiples voitures dans cinq grandes cat\u00E9gories ; r\u00E9glementation d\u2019avant-guerre (l'anc\u00EAtre de la F1), en Formule 1, Formule 2, en Formule argentine et en Endurance. Il a le privil\u00E8ge de courir les 24 Heures du Mans 1937 avec Charles Rigoulot. Il a \u00E9t\u00E9 pilote de F1 de 1950 \u00E0 1953, participant \u00E0 treize courses comptant pour les championnats du monde. Il termine meilleur Fran\u00E7ais lors de la premi\u00E8re \u00E9preuve de Formule 1 comptant pour le championnat du monde. Il a aussi particip\u00E9 \u00E0 de nombreuses \u00E9preuves ne comptant pour aucun championnat. On compte 96 participations \u00E0 diff\u00E9rents \u00E9v\u00E8nements d'importance internationale. Sa carri\u00E8re s'\u00E9tale sur plus d'un demi-si\u00E8cle, jusqu'aux 12 Heures de Reims 1957 sur Maserati."@fr ,
+		"Marius Aristide Yves Giraud-Cabantous (8 October 1904 \u2013 30 March 1973) was a racing driver from France. He drove in Formula One from 1950 to 1953, participating in 13 World Championship Grands Prix, plus numerous non-Championship Formula One races. Giraud-Cabantous was born in Saint-Gaudens. He drove a Talbot-Lago-Talbot in 10 Championship races in 1950 and 1951, and his final three events were in an HWM-Alta. He amassed a total of 5 Championship points, 3 at the 1950 British Grand Prix (also his highest finish, a 4th place) and 2 at the 1951 Belgian Grand Prix. He died in Paris, aged 68."@en ,
+		"Marius Aristide Yves Giraud-Cabantous (Saint-Gaudens, 8 de outubro de 1904 - Paris, 30 de mar\u00E7o de 1973) foi um piloto franc\u00EAs de automobilismo. Iniciou sua carreira como piloto em 1931. Foi o primeiro franc\u00EAs a correr na F\u00F3rmula 1, tendo disputado 13 provas entre os anos de 1950 e 1953, contabilizando cinco pontos no total. Ele tamb\u00E9m competiu em diversas provas extra-campeonato. Ap\u00F3s a experi\u00EAncia na F-1, Cabantous se aposentou das pistas."@pt ,
+		"\u0418\u0432 \u0416\u0438\u0440\u043E-\u041A\u0430\u0431\u0430\u043D\u0442\u0443 (\u0444\u0440. Yves Giraud-Cabantous, 8 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1904 \u2014 30 \u043C\u0430\u0440\u0442\u0430 1973) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 1950 \u0433\u043E\u0434\u0443\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 AutomobilesTalbot-Darracq SA. \u0412 \u043F\u0435\u0440\u0432\u043E\u0439 \u0436\u0435 \u0433\u043E\u043D\u043A\u0435 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0434\u043E\u0431\u0438\u043B\u0441\u044F \u043B\u0443\u0447\u0448\u0435\u0433\u043E \u0437\u0430 \u0432\u0441\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0430, \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u0432 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u044B\u043C. \u0422\u0430\u043A\u0438\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C, \u043E\u043D \u0441\u0442\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u043E\u043C, \u043D\u0430\u0431\u0440\u0430\u0432\u0448\u0438\u043C \u043E\u0447\u043A\u0438 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0414\u043E \u043A\u043E\u043D\u0446\u0430 \u0441\u0435\u0437\u043E\u043D\u0430 \u043E\u0447\u043A\u043E\u0432 \u0431\u043E\u043B\u044C\u0448\u0435 \u043D\u0435 \u043D\u0430\u0431\u0440\u0430\u043B (2 \u0441\u0445\u043E\u0434\u0430, 8-\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0413\u041F \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0438 \u043D\u0435\u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u0430\u044F \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u0432 \u0413\u041F \u041C\u043E\u043D\u0430\u043A\u043E). \u041A\u0440\u043E\u043C\u0435 \u044D\u0442\u043E\u0433\u043E, \u0435\u0449\u0451 \u0440\u0430\u0437 \u0435\u043C\u0443 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043D\u0430\u0431\u0440\u0430\u0442\u044C \u043E\u0447\u043A\u0438 \u043D\u0430 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439 \u0433\u043E\u0434 \u0432 \u0411\u0435\u043B\u044C\u0433\u0438\u0438, \u0433\u0434\u0435 \u043E\u043D \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B 5-\u043C, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044F \u043D\u0430 \u0447\u0430\u0441\u0442\u043D\u043E\u043C Talbot-Lago T26C. \u0422\u0430\u043A\u0436\u0435 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 \u0443 \u043D\u0435\u0433\u043E \u0431\u044B\u043B\u043E 3 \u0441\u0445\u043E\u0434\u0430 \u0438 2 \u0444\u0438\u043D\u0438\u0448\u0430 \u0437\u0430 \u043F\u0440\u0435\u0434\u0435\u043B\u0430\u043C\u0438 \u043E\u0447\u043A\u043E\u0432\u043E\u0439 \u0437\u043E\u043D\u044B (7-\u0435 \u043C\u0435\u0441\u0442\u043E \u043D\u0430 \u0413\u041F \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0438 8-\u0435 \u043D\u0430 \u0413\u041F \u0418\u0442\u0430\u043B\u0438\u0438). \u0412 1952 \u0433\u043E\u0434\u0443 \u043F\u0440\u043E\u0432\u0435\u043B \u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 HW Motors (10-\u0435 \u043C\u0435\u0441\u0442\u043E), \u0430 \u0432 1953 \u043A\u0440\u043E\u043C\u0435 \u0413\u041F \u0424\u0440\u0430\u043D\u0446\u0438\u0438 (14-\u0435 \u043C\u0435\u0441\u0442\u043E) \u043F\u0440\u043E\u0435\u0445\u0430\u043B \u0435\u0449\u0451 \u0438 \u0413\u041F \u0418\u0442\u0430\u043B\u0438\u0438 (15-\u0435 \u043C\u0435\u0441\u0442\u043E), \u0447\u0442\u043E \u0441\u0442\u0430\u043B\u043E \u0435\u0433\u043E \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0439 \u0433\u043E\u043D\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1.\u0423\u043C\u0435\u0440 \u0432 1973 \u0433\u043E\u0434\u0443 \u0432 \u041F\u0430\u0440\u0438\u0436\u0435."@ru ;
+	dbo:birthDate	"1904-10-8"^^xsd:date ;
+	dbo:deathDate	"1973-3-30"^^xsd:date ;
+	dbo:deathPlace	dbr:Paris ;
+	dbo:wikiPageRevisionID	703961504 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Saint-Gaudens,_Haute-Garonne> ;
+	dbo:wikiPageID	1226833 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_British_Grand_Prix> ;
+	dbo:races	"13"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1953_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Yves_Giraud-Cabantous	ns26:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1947_Roussillon_Grand_Prix>	dbo:thirdDriver	dbr:Yves_Giraud-Cabantous .
+wikipedia-en:Yves_Giraud-Cabantous	foaf:primaryTopic	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1947_San_Remo_Grand_Prix>	dbo:fastestDriver	dbr:Yves_Giraud-Cabantous ;
+	dbo:poleDriver	dbr:Yves_Giraud-Cabantous ;
+	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__24__1>	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__56__1>	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1938_24_Hours_of_Le_Mans__2__1>	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1939_24_Hours_of_Le_Mans__29__1>	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1949_24_Hours_of_Le_Mans__26__1>	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__50__1>	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__57__1>	dbo:firstDriver	dbr:Yves_Giraud-Cabantous .
+dbr:Yves_Giraud_Cabantous	dbo:wikiPageRedirects	dbr:Yves_Giraud-Cabantous .

@@ -1,0 +1,107 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Peter_Broeker	foaf:primaryTopic	dbr:Peter_Broeker .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Peter_Broeker	rdf:type	ns4:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Peter_Broeker	rdf:type	yago:CausalAgent100007347 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Peter_Broeker	rdf:type	dbo:Person ,
+		ns4:NaturalPerson ,
+		dbo:Agent ,
+		dbo:MotorsportRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Peter_Broeker	rdf:type	umbel-rc:RaceCarDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Peter_Broeker	rdf:type	wikidata:Q5 ,
+		dbo:FormulaOneRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Peter_Broeker	rdf:type	schema:Person ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		dbo:Athlete ,
+		yago:WikicatRacingDriversFromOntario .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Peter_Broeker	rdf:type	owl:Thing ,
+		yago:WikicatStebroFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		foaf:Person ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatAtlanticChampionshipDrivers ,
+		yago:WikicatCanadianFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Peter_Broeker	rdfs:label	"Peter Broeker"@pl ,
+		"Peter Broeker"@nl ,
+		"Peter Broeker"@en ,
+		"Peter Broeker"@de ,
+		"Peter Broeker"@pt ;
+	rdfs:comment	"Peter Broeker (Hamilton, Ontario, 15 mei 1929 \u2013 Pointe-Claire, Quebec, 4 november 1980 ) was een Formule 1-coureur uit Canada. Hij reed 1 Grand Prix; de Grand Prix Formule 1 van de Verenigde Staten van 1963 voor het team Stebro."@nl ,
+		"Peter \u201EPete\u201C Broeker (* 15. Mai 1929 in Hamilton; \u2020 4. November 1980 in Ottawa) war ein kanadischer Autorennfahrer."@de ,
+		"Peter Broeker (ur. 15 maja 1929 w Hamilton w Ontario, zm. 1 sierpnia 1980 w Ottawie) \u2013 kanadyjski kierowca i konstruktor Formu\u0142y 1. W 1963 Broeker i John Stevens skonstruowali samoch\u00F3d wy\u015Bcigowy Stebro. Broeker zosta\u0142 jego kierowc\u0105. Wystartowa\u0142 w wy\u015Bcigu o Grand Prix USA Formu\u0142y 1. Wy\u015Bcig uko\u0144czy\u0142 na ostatnim (spo\u015Br\u00F3d tych, kt\u00F3rzy dojechali), si\u00F3dmym miejscu z 22 okr\u0105\u017Ceniami straty do zwyci\u0119zcy."@pl ,
+		"Peter Broeker (born 15 May 1926 in Germany \u2013 died 4 November 1980 in Ottawa) was a racing driver from Canada. He participated in one World Championship Formula One Grand Prix, the 1963 United States Grand Prix, driving a Stebro. He finished seventh, albeit 22 laps down, and scored no championship points. According to the Toronto Star at the time: \"Broeker, first Canadian ever to compete in a world championship Formula One race in a Canadian-built car, finished seventh over-all despite giving away more than 80 horsepower to the rest of the field of 21.\""@en ,
+		"Peter Broeker (Hamilton, Ont\u00E1rio, Canad\u00E1, 15 de maio de 1929 - Pointe-Claire, Quebec, Canad\u00E1, 4 de novembro de 1980) foi um automobilista canadense. Broeker participou do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1963, chegando na s\u00E9tima posi\u00E7\u00E3o."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Peter_Broeker	dbp:birthDate	"1926-05-15"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Peter_Broeker	owl:sameAs	dbpedia-pl:Peter_Broeker ,
+		wikidata:Q172828 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Peter_Broeker	owl:sameAs	dbpedia-nl:Peter_Broeker .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Peter_Broeker	owl:sameAs	dbpedia-wikidata:Q172828 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Peter_Broeker	owl:sameAs	dbpedia-pt:Peter_Broeker .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Peter_Broeker	owl:sameAs	dbpedia-de:Peter_Broeker ,
+		dbr:Peter_Broeker ,
+		<http://rdf.freebase.com/ns/m.04kwmg> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Peter_Broeker	owl:sameAs	yago-res:Peter_Broeker .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Peter_Broeker	dct:subject	dbc:Racing_drivers_from_Ontario ,
+		<http://dbpedia.org/resource/Category:1980_deaths> ,
+		<http://dbpedia.org/resource/Category:1926_births> ,
+		dbc:Canadian_Formula_One_drivers ,
+		dbc:Stebro_Formula_One_drivers ,
+		dbc:Atlantic_Championship_drivers ;
+	foaf:name	"Peter Broeker"@en ;
+	dct:description	"Canadian racing driver"@en ;
+	foaf:givenName	"Peter"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Peter_Broeker ;
+	foaf:surname	"Broeker"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Stebro .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Peter_Broeker	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Peter_Broeker?oldid=703978767> ;
+	dbp:birthPlace	"Germany"^^xsd:string ;
+	dbp:deathDate	"1980-11-04"^^xsd:date ;
+	dbp:deathPlace	"Ottawa, Canada"^^xsd:string ;
+	dbo:abstract	"Peter Broeker (Hamilton, Ontario, 15 mei 1929 \u2013 Pointe-Claire, Quebec, 4 november 1980 ) was een Formule 1-coureur uit Canada. Hij reed 1 Grand Prix; de Grand Prix Formule 1 van de Verenigde Staten van 1963 voor het team Stebro."@nl ,
+		"Peter Broeker (ur. 15 maja 1929 w Hamilton w Ontario, zm. 1 sierpnia 1980 w Ottawie) \u2013 kanadyjski kierowca i konstruktor Formu\u0142y 1. W 1963 Broeker i John Stevens skonstruowali samoch\u00F3d wy\u015Bcigowy Stebro. Broeker zosta\u0142 jego kierowc\u0105. Wystartowa\u0142 w wy\u015Bcigu o Grand Prix USA Formu\u0142y 1. Wy\u015Bcig uko\u0144czy\u0142 na ostatnim (spo\u015Br\u00F3d tych, kt\u00F3rzy dojechali), si\u00F3dmym miejscu z 22 okr\u0105\u017Ceniami straty do zwyci\u0119zcy."@pl ,
+		"Peter \u201EPete\u201C Broeker (* 15. Mai 1929 in Hamilton; \u2020 4. November 1980 in Ottawa) war ein kanadischer Autorennfahrer."@de ,
+		"Peter Broeker (born 15 May 1926 in Germany \u2013 died 4 November 1980 in Ottawa) was a racing driver from Canada. He participated in one World Championship Formula One Grand Prix, the 1963 United States Grand Prix, driving a Stebro. He finished seventh, albeit 22 laps down, and scored no championship points. According to the Toronto Star at the time: \"Broeker, first Canadian ever to compete in a world championship Formula One race in a Canadian-built car, finished seventh over-all despite giving away more than 80 horsepower to the rest of the field of 21.\" In 1973 Broeker wrote and published Olympic Coins: From Antiquity to the Present. He held US citizenship as well as Canadian."@en ,
+		"Peter Broeker (Hamilton, Ont\u00E1rio, Canad\u00E1, 15 de maio de 1929 - Pointe-Claire, Quebec, Canad\u00E1, 4 de novembro de 1980) foi um automobilista canadense. Broeker participou do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1963, chegando na s\u00E9tima posi\u00E7\u00E3o."@pt ;
+	dbo:birthDate	"1926-5-15"^^xsd:date ;
+	dbo:deathDate	"1980-11-4"^^xsd:date ;
+	dbo:wikiPageRevisionID	703978767 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Hamilton,_Ontario> ;
+	dbo:wikiPageID	1235394 ;
+	dbo:nationality	dbr:Canada ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1963_United_States_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1963_United_States_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Peter_Broeker	ns23:hypernym	dbr:Driver .

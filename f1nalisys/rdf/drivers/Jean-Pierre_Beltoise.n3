@@ -1,0 +1,207 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Jean-Pierre_Beltoise	rdf:type	dbo:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jean-Pierre_Beltoise	rdf:type	yago:Racer110502576 ,
+		dbo:MotorsportRacer ,
+		dbo:MotorcycleRider ,
+		dbo:Athlete .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jean-Pierre_Beltoise	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:Driver110034906 .
+@prefix schema:	<http://schema.org/> .
+dbr:Jean-Pierre_Beltoise	rdf:type	schema:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jean-Pierre_Beltoise	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatTrans-AmSeriesDrivers ,
+		yago:Operator110378412 ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jean-Pierre_Beltoise	rdf:type	owl:Thing ,
+		dbo:Agent ,
+		yago:WikicatFrenchMotorcycleRacers ,
+		yago:WikicatFrenchFormulaThreeChampionshipDrivers ,
+		yago:WikicatMatraFormulaOneDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Jean-Pierre_Beltoise	rdf:type	foaf:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		umbel-rc:Athlete ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		wikidata:Q5 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jean-Pierre_Beltoise	rdf:type	ns9:Agent ,
+		ns9:NaturalPerson ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jean-Pierre_Beltoise	rdfs:label	"Jean-Pierre Beltoise"@pt ,
+		"\u062C\u0627\u0646 \u0628\u064A\u064A\u0631 \u0628\u064A\u0644\u062A\u0648\u064A\u0633\u064A"@ar ,
+		"\u30B8\u30E3\u30F3\uFF1D\u30D4\u30A8\u30FC\u30EB\u30FB\u30D9\u30EB\u30C8\u30EF\u30FC\u30BA"@ja ,
+		"Jean-Pierre Beltoise"@nl ,
+		"Jean-Pierre Beltoise"@es ,
+		"Jean-Pierre Beltoise"@fr ,
+		"Jean-Pierre Beltoise"@pl ,
+		"Jean-Pierre Beltoise"@en ,
+		"Jean-Pierre Beltoise"@it ,
+		"\u0411\u0435\u043B\u044C\u0442\u0443\u0430\u0437, \u0416\u0430\u043D-\u041F\u044C\u0435\u0440"@ru ,
+		"Jean-Pierre Beltoise"@de ;
+	rdfs:comment	"Jean-Pierre Maurice Georges Beltoise (* 26. April 1937 in Paris, Frankreich; \u2020 5. Januar 2015 in Dakar, Senegal) war ein franz\u00F6sischer Motorrad- und Automobilrennfahrer. Er war Schwager des Rennfahrers Fran\u00E7ois Cevert, mit dem er bei Sportwagenrennen wiederholt eine Fahrerpaarung bildete."@de ,
+		"\u30B8\u30E3\u30F3\uFF1D\u30D4\u30A8\u30FC\u30EB\u30FB\u30E2\u30FC\u30EA\u30B9\u30FB\u30B8\u30E7\u30EB\u30B8\u30E5\u30FB\u30D9\u30EB\u30C8\u30EF\u30FC\u30BA\uFF08Jean-Pierre Maurice Georges Beltoise, 1937\u5E744\u670826\u65E5 - 2015\u5E741\u67085\u65E5\uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u4EBA\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u30021965\u5E74\u30D5\u30E9\u30F3\u30B9F3\u30011968\u5E74\u30E8\u30FC\u30ED\u30C3\u30D1F2\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002 \u30DE\u30C8\u30E9\u30C1\u30FC\u30E0\u3068\u7E01\u304C\u6DF1\u304F\u3001\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u30EC\u30FC\u30B9\u304A\u3088\u3073F1\u3067\u3082\u9577\u5E74\u30DE\u30C8\u30E9\u3092\u99C6\u3063\u3066\u3044\u305F\u3002"@ja ,
+		"Jean-Pierre Maurice Georges Beltoise, n\u00E9 le 26 avril 1937 \u00E0 Boulogne-Billancourt et mort le 5 janvier 2015 \u00E0 Dakar, S\u00E9n\u00E9gal, est un pilote automobile fran\u00E7ais, fils d'un boucher de l'Essonne, et ayant trois autres fr\u00E8res. Il est le symbole du renouveau du sport automobile fran\u00E7ais avec 86 Grands Prix de Formule 1 courus et deux victoires : une en championnat du monde au Grand Prix automobile de Monaco sur British Racing Motors en 1972 et une victoire hors-championnat lors de la World Championship Victory Race (en), la m\u00EAme ann\u00E9e."@fr ,
+		"Jean-Pierre Maurice Georges Beltoise (26 April 1937 \u2013 5 January 2015) was a French Grand Prix motorcycle road racer and Formula One driver who raced for the Matra and BRM teams. Fran\u00E7ois Cevert was his brother-in-law (his wife's brother). He competed in 88 Grands Prix achieving one win and eight podium finishes."@en ,
+		"Jean-Pierre Maurice Georges Beltoise (Paris, 26 de abril de 1937 \u2013 Dacar, 5 de janeiro de 2015) foi um automobilista franc\u00EAs. Antes de iniciar carreira como piloto na F\u00F3rmula 1, Beltoise ganhou onze t\u00EDtulos nacionais de motociclismo em apenas 3 anos. Em seguida, passou pela F\u00F3rmula 3 e F\u00F3rmula 2, sendo ent\u00E3o contratado pela escuderia Matra na Temporada de F\u00F3rmula 1 de 1967. No ano seguinte conseguiu o segundo lugar no Grande Pr\u00EAmio da Holanda. Beltoise faleceu em decorr\u00EAncia de AVC."@pt ,
+		"Jean-Pierre Maurice Georges Beltoise (ur. 26 kwietnia 1937 w Boulogne-Billancourt, zm. 5 stycznia 2015 w Dakarze) \u2013 francuski kierowca motocyklowy i wy\u015Bcigowy."@pl ,
+		"\u062C\u0627\u0646 \u0628\u064A\u064A\u0631 \u0628\u064A\u0644\u062A\u0648\u064A\u0633\u064A (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Jean-Pierre Beltoise) \u0645\u0648\u0627\u0644\u064A\u062F 26 \u0623\u0628\u0631\u064A\u0644 1937 \u0641\u064A \u0628\u0627\u0631\u064A\u0633 - \u0627\u0644\u0648\u0641\u0627\u0629 5 \u064A\u0646\u0627\u064A\u0631 2015 \u0641\u064A \u062F\u0627\u0643\u0627\u0631\u060C \u0643\u0627\u0646 \u0645\u062A\u0633\u0627\u0628\u0642 \u062F\u0631\u0627\u062C\u0627\u062A \u0646\u0627\u0631\u064A\u0629 \u0641\u0631\u0646\u0633\u064A. \u0646\u0627\u0641\u0633 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0641\u0626\u0629 250 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 125 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 50 \u0633\u064A \u0633\u064A. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0644\u0648 \u0645\u0627\u0646 24 \u0633\u0627\u0639\u0629 \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629."@ar ,
+		"Jean-Pierre Maurice Georges Beltoise (Parijs, 26 april 1937 \u2013 Dakar, 5 januari 2015) was een Frans motor- en autocoureur. Hij won \u00E9\u00E9n keer een Grand Prix."@nl ,
+		"\u0416\u0430\u043D-\u041F\u044C\u0435\u0440 \u0411\u0435\u043B\u044C\u0442\u0443\u0430\u0437 (\u0444\u0440. Jean-Pierre Maurice Georges Beltoise; 26 \u0430\u043F\u0440\u0435\u043B\u044F 1937, \u041F\u0430\u0440\u0438\u0436 \u2014 5 \u044F\u043D\u0432\u0430\u0440\u044F 2015, \u0414\u0430\u043A\u0430\u0440) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u043C\u043E\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0422\u0430\u043A\u0436\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 MotoGP. \u0411\u0435\u043B\u044C\u0442\u0443\u0430\u0437 \u0432\u044B\u0438\u0433\u0440\u0430\u043B 11 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0442\u0438\u0442\u0443\u043B\u043E\u0432 \u0437\u0430 \u0442\u0440\u0438 \u0433\u043E\u0434\u0430. \u041E\u043D \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 MotoGP \u0441 1962 \u043F\u043E 1964 \u0433\u043E\u0434\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0430\u0445 50, 125 \u0438 250 cc. \u0415\u0433\u043E \u043B\u0443\u0447\u0448\u0438\u043C \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0431\u044B\u043B\u043E \u0448\u0435\u0441\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0433\u043E\u0434\u0430 1964 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 50 cc. \u041F\u043E\u0437\u0434\u043D\u0435\u0435 \u043E\u043D \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0442\u0435\u0441\u0442\u0430\u0445 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Ligier, \u043D\u043E \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0443-1 \u043D\u0435 \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F."@ru ,
+		"Jean Pierre Maurice Georges Beltoise (Par\u00EDs, Francia, 26 de abril de 1937 - Dakar, Senegal, 5 de enero de 2015) fue un piloto de automovilismo de velocidad franc\u00E9s que obtuvo una victoria de F\u00F3rmula 1 en el Gran Premio de M\u00F3naco de 1972, ocho podios y el quinto puesto en el campeonato 1969. Antes de iniciar su carrera como piloto de F\u00F3rmula 1, Beltoise gan\u00F3 once t\u00EDtulos nacional de motociclismo en tres a\u00F1os. Luego fue campe\u00F3n de la Formula 3 Francesa en 1965, ganador del Gran Premio de M\u00F3naco de F\u00F3rmula 3 de 1966, tercero en la F\u00F3rmula 2 Europea 1967 y campe\u00F3n en 1968."@es .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jean-Pierre_Beltoise	owl:sameAs	dbpedia-pt:Jean-Pierre_Beltoise ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30F3\uFF1D\u30D4\u30A8\u30FC\u30EB\u30FB\u30D9\u30EB\u30C8\u30EF\u30FC\u30BA> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jean-Pierre_Beltoise	owl:sameAs	dbpedia-de:Jean-Pierre_Beltoise ,
+		wikidata:Q171526 ,
+		dbr:Jean-Pierre_Beltoise .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jean-Pierre_Beltoise	owl:sameAs	dbpedia-wikidata:Q171526 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jean-Pierre_Beltoise	owl:sameAs	dbpedia-es:Jean-Pierre_Beltoise ,
+		<http://rdf.freebase.com/ns/m.04k1c_> ,
+		<http://viaf.org/viaf/222104677> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jean-Pierre_Beltoise	owl:sameAs	dbpedia-nl:Jean-Pierre_Beltoise .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jean-Pierre_Beltoise	owl:sameAs	yago-res:Jean-Pierre_Beltoise .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jean-Pierre_Beltoise	owl:sameAs	dbpedia-fr:Jean-Pierre_Beltoise .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jean-Pierre_Beltoise	owl:sameAs	dbpedia-pl:Jean-Pierre_Beltoise .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jean-Pierre_Beltoise	owl:sameAs	dbpedia-it:Jean-Pierre_Beltoise .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Jean-Pierre_Beltoise	dct:subject	<http://dbpedia.org/resource/Category:250cc_World_Championship_riders> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jean-Pierre_Beltoise	dct:subject	dbc:Sportspeople_from_Paris ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:French_Formula_Three_Championship_drivers ,
+		dbc:BRM_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1937_births> ,
+		dbc:Matra_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2015_deaths> ,
+		dbc:Trans-Am_Series_drivers ,
+		<http://dbpedia.org/resource/Category:50cc_World_Championship_riders> ,
+		<http://dbpedia.org/resource/Category:125cc_World_Championship_riders> ,
+		dbc:French_motorcycle_racers ,
+		dbc:French_racing_drivers ,
+		dbc:French_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Jean-Pierre Beltoise"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Jean_Pierre_Beltoise_1969_N\u00C3\u0152rburgring.JPG> ;
+	dct:description	"French motorcycle racer and racing driver"@en ;
+	foaf:givenName	"Jean-Pierre"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Jean-Pierre_Beltoise	foaf:isPrimaryTopicOf	wikipedia-en:Jean-Pierre_Beltoise ;
+	foaf:surname	"Beltoise"@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jean-Pierre_Beltoise	dbp:points	77 ;
+	dbp:gpTeams	dbr:Kreidler ;
+	dbp:years	1965 ,
+		1966 ,
+		1976 ,
+		1968 ,
+		"\u2013"^^xsd:string ;
+	dbp:after	dbr:Johnny_Servoz-Gavin ,
+		dbr:Lucien_Guitteny ,
+		dbr:Henri_Pescarolo ;
+	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors ,
+		dbr:Equipe_Matra_Sports .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jean-Pierre_Beltoise	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise?oldid=726266460> ;
+	dbp:caption	"Beltoise in 1969"^^xsd:string ;
+	dbp:nationality	"French"^^xsd:string ;
+	dbp:before	dbr:Jacky_Ickx ,
+		"None"^^xsd:string ,
+		dbr:Peter_Revson ;
+	dbp:gpFastestLaps	0 ;
+	dbp:gpFirstRace	1962250 ;
+	dbp:gpLastRace	196450 ;
+	dbp:gpPodiums	1 ;
+	dbp:gpPoles	0 ;
+	dbp:gpRaceStarts	8 ;
+	dbp:gpRaceWins	0 ;
+	dbp:gpActiveYears	1962 ;
+	dbo:abstract	"Jean-Pierre Maurice Georges Beltoise (Paris, 26 de abril de 1937 \u2013 Dacar, 5 de janeiro de 2015) foi um automobilista franc\u00EAs. Antes de iniciar carreira como piloto na F\u00F3rmula 1, Beltoise ganhou onze t\u00EDtulos nacionais de motociclismo em apenas 3 anos. Em seguida, passou pela F\u00F3rmula 3 e F\u00F3rmula 2, sendo ent\u00E3o contratado pela escuderia Matra na Temporada de F\u00F3rmula 1 de 1967. No ano seguinte conseguiu o segundo lugar no Grande Pr\u00EAmio da Holanda. Na temporada de 1969 inscreveu-se pela escuderia de Ken Tyrrell, ao lado de Jackie Stewart, sendo seu melhor resultado novamente um segundo lugar no Grande Pr\u00EAmio da Fran\u00E7a. Em 1971, pilotando novamente pela Matra, envolveu-se num acidente que causou a morte do piloto Ignazio Giunti, em Buenos Aires, que o fez perder a licen\u00E7a por algum tempo. Em 1972, ele regressou, pela decadente escuderia BRM, vencendo o Grande Pr\u00EAmio de M\u00F4naco, sob forte chuva. Foi o \u00FAltimo triunfo da BRM na F-1. Retirou-se das pistas em 1974, aos 37 anos. Ap\u00F3s seu afastamento da F\u00F3rmula 1, participou de provas para a equipe Ligier F1, mais tarde passando a competir nas corridas de classe turismo em Fran\u00E7a, chegando a ganhar por duas vezes o Campeonato Franc\u00EAs com a BMW. Participou ainda de rallies, ganhando o campeonato franc\u00EAs com um Alpine-Renault. Durante os anos 1980 tornou a participar de campeonatos de classe turismo. Casou-se com a irm\u00E3 de Fran\u00E7ois C\u00E9vert, Jacqueline Beltoise, tiveram dois filhos, um deles, Anthony Beltoise, tamb\u00E9m tornou-se piloto de carros de turismo. Beltoise faleceu em decorr\u00EAncia de AVC."@pt ,
+		"Jean-Pierre Maurice Georges Beltoise (Parijs, 26 april 1937 \u2013 Dakar, 5 januari 2015) was een Frans motor- en autocoureur. Hij won \u00E9\u00E9n keer een Grand Prix."@nl ,
+		"Jean-Pierre Maurice Georges Beltoise (ur. 26 kwietnia 1937 w Boulogne-Billancourt, zm. 5 stycznia 2015 w Dakarze) \u2013 francuski kierowca motocyklowy i wy\u015Bcigowy."@pl ,
+		"Jean-Pierre Maurice Georges Beltoise (26 April 1937 \u2013 5 January 2015) was a French Grand Prix motorcycle road racer and Formula One driver who raced for the Matra and BRM teams. Fran\u00E7ois Cevert was his brother-in-law (his wife's brother). He competed in 88 Grands Prix achieving one win and eight podium finishes."@en ,
+		"Jean-Pierre Maurice Georges Beltoise (* 26. April 1937 in Paris, Frankreich; \u2020 5. Januar 2015 in Dakar, Senegal) war ein franz\u00F6sischer Motorrad- und Automobilrennfahrer. Er war Schwager des Rennfahrers Fran\u00E7ois Cevert, mit dem er bei Sportwagenrennen wiederholt eine Fahrerpaarung bildete."@de ,
+		"\u0416\u0430\u043D-\u041F\u044C\u0435\u0440 \u0411\u0435\u043B\u044C\u0442\u0443\u0430\u0437 (\u0444\u0440. Jean-Pierre Maurice Georges Beltoise; 26 \u0430\u043F\u0440\u0435\u043B\u044F 1937, \u041F\u0430\u0440\u0438\u0436 \u2014 5 \u044F\u043D\u0432\u0430\u0440\u044F 2015, \u0414\u0430\u043A\u0430\u0440) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u043C\u043E\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0422\u0430\u043A\u0436\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 MotoGP. \u0411\u0435\u043B\u044C\u0442\u0443\u0430\u0437 \u0432\u044B\u0438\u0433\u0440\u0430\u043B 11 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0442\u0438\u0442\u0443\u043B\u043E\u0432 \u0437\u0430 \u0442\u0440\u0438 \u0433\u043E\u0434\u0430. \u041E\u043D \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 MotoGP \u0441 1962 \u043F\u043E 1964 \u0433\u043E\u0434\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0430\u0445 50, 125 \u0438 250 cc. \u0415\u0433\u043E \u043B\u0443\u0447\u0448\u0438\u043C \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0431\u044B\u043B\u043E \u0448\u0435\u0441\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0433\u043E\u0434\u0430 1964 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 50 cc. \u0412 1963 \u043E\u043D \u0433\u043E\u043D\u044F\u043B\u0441\u044F \u043D\u0430 1.1-\u043B\u0438\u0442\u0440\u043E\u0432\u043E\u043C \u0441\u043F\u043E\u0440\u0442\u043F\u0440\u043E\u0442\u043E\u0442\u0438\u043F\u0435 Rene Bonnetr. \u0415\u0433\u043E \u043A\u0430\u0440\u044C\u0435\u0440\u0430 \u0435\u0434\u0432\u0430 \u043D\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043B\u0430\u0441\u044C \u043F\u043E\u0441\u043B\u0435 \u043A\u0440\u0443\u043F\u043D\u043E\u0439 \u0430\u0432\u0430\u0440\u0438\u0438 \u0432 1964 \u043D\u0430 12 \u0447\u0430\u0441\u0430\u0445 \u0420\u0435\u0439\u043C\u0441\u0430, \u0433\u0434\u0435 \u043E\u043D \u0441\u043B\u043E\u043C\u0430\u043B \u0440\u0443\u043A\u0443. \u0411\u0435\u043B\u044C\u0442\u0443\u0430\u0437 \u043F\u043E\u0431\u0435\u0434\u0438\u043B \u043D\u0430 \u044D\u0442\u0430\u043F\u0435 \u0432 \u0420\u0435\u0439\u043C\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3, \u043D\u0430 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439 \u0441\u0435\u0437\u043E\u043D \u043E\u043D \u043F\u0435\u0440\u0435\u0448\u0451\u043B \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0443-2. \u041F\u043E\u0441\u043B\u0435 \u0445\u043E\u0440\u043E\u0448\u0438\u0445 \u0441\u0435\u0437\u043E\u043D\u043E\u0432 \u0432 1966 \u0438 1967 \u043E\u043D \u043F\u0435\u0440\u0435\u0448\u0451\u043B \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0443-1 \u0438 \u0441\u0442\u0430\u043B \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0442\u044C \u0437\u0430 Matra, \u043E\u0441\u043D\u0430\u0449\u0451\u043D\u043D\u0443\u044E \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0435\u043C V12, \u0438 \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u043B \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u043E\u0432 1968 \u0433\u043E\u0434\u0430. \u0412 1969 \u0435\u0433\u043E \u043D\u0430\u043D\u044F\u043B \u041A\u0435\u043D \u0422\u0438\u0440\u0440\u0435\u043B\u043B \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Matra, \u0435\u0433\u043E \u043D\u0430\u043F\u0430\u0440\u043D\u0438\u043A\u043E\u043C \u0431\u044B\u043B \u0414\u0436\u0435\u043A\u0438 \u0421\u0442\u044E\u0430\u0440\u0442, \u043E\u043D \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u0432\u0442\u043E\u0440\u044B\u043C \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 1971 \u0433\u043E\u0434\u0430. \u0412 1971, \u043E\u043D \u0433\u043E\u043D\u044F\u043B\u0441\u044F \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0441\u043F\u043E\u0440\u0442\u043F\u0440\u043E\u0442\u043E\u0442\u0438\u043F\u043E\u0432 Matra, \u043E\u043D \u043F\u043E\u043F\u0430\u043B \u0432 \u0430\u0432\u0430\u0440\u0438\u044E, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u043F\u043E\u0433\u0438\u0431 \u0418\u0433\u043D\u0430\u0446\u0438\u043E \u0414\u0436\u0443\u043D\u0442\u0438 \u043D\u0430 \u0442\u0440\u0430\u0441\u0441\u0435 \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441, \u0438 \u043E\u043D \u0431\u044B\u043B \u043B\u0438\u0448\u0451\u043D \u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u043B\u0438\u0446\u0435\u043D\u0437\u0438\u0438 \u043D\u0430 \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u0432\u0440\u0435\u043C\u044F. \u0412 1972 \u043E\u043D \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 BRM \u0438 \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044E\u044E \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u043F\u043E\u0431\u0435\u0434\u0443 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u043E\u043D\u0430\u043A\u043E 1972 \u0433\u043E\u0434\u0430 \u043F\u043E\u0434 \u043B\u0438\u0432\u043D\u0435\u043C. \u041E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u043E \u0438\u0437 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043E\u043D \u0443\u0448\u0451\u043B \u043F\u043E\u0441\u043B\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u0438\u044F \u0441\u0435\u0437\u043E\u043D\u0430 1974. \u041F\u043E\u0437\u0434\u043D\u0435\u0435 \u043E\u043D \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0442\u0435\u0441\u0442\u0430\u0445 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Ligier, \u043D\u043E \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0443-1 \u043D\u0435 \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F."@ru ,
+		"Jean-Pierre Maurice Georges Beltoise, n\u00E9 le 26 avril 1937 \u00E0 Boulogne-Billancourt et mort le 5 janvier 2015 \u00E0 Dakar, S\u00E9n\u00E9gal, est un pilote automobile fran\u00E7ais, fils d'un boucher de l'Essonne, et ayant trois autres fr\u00E8res. Il est le symbole du renouveau du sport automobile fran\u00E7ais avec 86 Grands Prix de Formule 1 courus et deux victoires : une en championnat du monde au Grand Prix automobile de Monaco sur British Racing Motors en 1972 et une victoire hors-championnat lors de la World Championship Victory Race (en), la m\u00EAme ann\u00E9e."@fr ,
+		"\u30B8\u30E3\u30F3\uFF1D\u30D4\u30A8\u30FC\u30EB\u30FB\u30E2\u30FC\u30EA\u30B9\u30FB\u30B8\u30E7\u30EB\u30B8\u30E5\u30FB\u30D9\u30EB\u30C8\u30EF\u30FC\u30BA\uFF08Jean-Pierre Maurice Georges Beltoise, 1937\u5E744\u670826\u65E5 - 2015\u5E741\u67085\u65E5\uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u4EBA\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u30021965\u5E74\u30D5\u30E9\u30F3\u30B9F3\u30011968\u5E74\u30E8\u30FC\u30ED\u30C3\u30D1F2\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3002 \u30DE\u30C8\u30E9\u30C1\u30FC\u30E0\u3068\u7E01\u304C\u6DF1\u304F\u3001\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u30EC\u30FC\u30B9\u304A\u3088\u3073F1\u3067\u3082\u9577\u5E74\u30DE\u30C8\u30E9\u3092\u99C6\u3063\u3066\u3044\u305F\u3002"@ja ,
+		"\u062C\u0627\u0646 \u0628\u064A\u064A\u0631 \u0628\u064A\u0644\u062A\u0648\u064A\u0633\u064A (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Jean-Pierre Beltoise) \u0645\u0648\u0627\u0644\u064A\u062F 26 \u0623\u0628\u0631\u064A\u0644 1937 \u0641\u064A \u0628\u0627\u0631\u064A\u0633 - \u0627\u0644\u0648\u0641\u0627\u0629 5 \u064A\u0646\u0627\u064A\u0631 2015 \u0641\u064A \u062F\u0627\u0643\u0627\u0631\u060C \u0643\u0627\u0646 \u0645\u062A\u0633\u0627\u0628\u0642 \u062F\u0631\u0627\u062C\u0627\u062A \u0646\u0627\u0631\u064A\u0629 \u0641\u0631\u0646\u0633\u064A. \u0646\u0627\u0641\u0633 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0641\u0626\u0629 250 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 125 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 50 \u0633\u064A \u0633\u064A. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0644\u0648 \u0645\u0627\u0646 24 \u0633\u0627\u0639\u0629 \u0648\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0629."@ar ,
+		"Jean Pierre Maurice Georges Beltoise (Par\u00EDs, Francia, 26 de abril de 1937 - Dakar, Senegal, 5 de enero de 2015) fue un piloto de automovilismo de velocidad franc\u00E9s que obtuvo una victoria de F\u00F3rmula 1 en el Gran Premio de M\u00F3naco de 1972, ocho podios y el quinto puesto en el campeonato 1969. Antes de iniciar su carrera como piloto de F\u00F3rmula 1, Beltoise gan\u00F3 once t\u00EDtulos nacional de motociclismo en tres a\u00F1os. Luego fue campe\u00F3n de la Formula 3 Francesa en 1965, ganador del Gran Premio de M\u00F3naco de F\u00F3rmula 3 de 1966, tercero en la F\u00F3rmula 2 Europea 1967 y campe\u00F3n en 1968. Beltoise fue contratado por la escuder\u00EDa Matra de F\u00F3rmula 1, con la que debut\u00F3 en Alemnia 1966 y particip\u00F3 en tres fechas de 1967. En 1968, consigui\u00F3 el segundo puesto en el Gran Premio de los Pa\u00EDses Bajos, y puntu\u00F3 en otras dos carreras que lo ubicaron en el noveno puesto final. En 1969 fue fichado por la escuder\u00EDa Matra International de Ken Tyrrell, compartiendo equipo con Jackie Stewart. Aquel a\u00F1o logr\u00F3 un segundo puesto en el Gran Premio de Francia, as\u00ED como dos terceros y siete resultados puntuables, que lo colocaron quinto en el campeonato. En 1970 obtuvo dos terceros puestos y seis resultados puntuables, quedando as\u00ED en el noveno puesto final. En 1972 regres\u00F3 a la F\u00F3rmula 1 con la escuder\u00EDa BRM y gan\u00F3 el Gran Premio de M\u00F3naco bajo las inclemencias meteorol\u00F3gicas. En 1973 obtuvo un cuarto puesto y tres quintos, por lo que acab\u00F3 d\u00E9cimo en el campeonato. El piloto logr\u00F3 un segundo puesto y dos quintos en la temporada 1974, tras lo cual se retir\u00F3 de la F\u00F3rmula 1. En 1976 fue piloto de pruebas del equipo franc\u00E9s Ligier de F\u00F3rmula 1. En paralelo a su carrera en F\u00F3rmula 1, Beltoise compiti\u00F3 en resistencia con Matra. En 1969 lleg\u00F3 cuarto absoluto en las 24 Horas de Le Mans con un prototipo de la clase 3.0. En 1971 se vio envuelto en un accidente que signific\u00F3 el fallecimiento de Ignazio Giunti en los 1000 km de la Ciudad de Buenos Aires, lo cual hizo que perdiera su licencia internacional durante un tiempo. En 1974 gan\u00F3 los 1000 km de N\u00FCrburgring y las 6 Horas de Le Castellet y las 6 Horas de Watkins Glen. Tras su retirada, Beltoise fue octavo en las 24 Horas de Le Mans de 1976 con un Inaltera de la clase GTP, y en 1979 fue d\u00E9cimo con un Rondeau de la clase Sport +2.0. Adem\u00E1s compiti\u00F3 en carreras de turismos, donde gan\u00F3 el Campeonato de Francia de 1976 y 1977 con BMW y fue subcampe\u00F3n en 1986 con Peugeot. Entre 1989 hasta 1993 disput\u00F3 la Copa Porsche Francia. Tambi\u00E9n particip\u00F3 en competiciones de rallies, ganando el campeonato franc\u00E9s con un Alpine-Renault. En 1979 fue campe\u00F3n de Francia de rallycross con un Alpine A310. Fuera de las pistas trabaj\u00F3 por la seguridad vial."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Jean_Pierre_Beltoise_1969_N\u00C3\u0152rburgring.JPG?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jean-Pierre_Beltoise	dbo:birthDate	"1937-4-26"^^xsd:date ,
+		"1937-04-26"^^xsd:date ;
+	dbo:deathDate	"2015-1-5"^^xsd:date ,
+		"2015-01-05"^^xsd:date ;
+	dbo:deathPlace	dbr:Dakar ;
+	dbo:wikiPageRevisionID	726266460 ;
+	dbo:birthPlace	dbr:Paris ;
+	dbo:wikiPageID	1226341 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Jean-Pierre_Beltoise	ns26:hypernym	dbr:Racer ;
+	dbp:title	dbr:French_Supertouring_Championship ,
+		dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners ,
+		dbr:Champion ,
+		dbr:European_Formula_Two_Championship ,
+		dbr:French_Formula_Three_Championship ,
+		"Champion"^^xsd:string .
+dbr:Henri_Pescarolo	dbp:before	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1970_1000km_of_Brands_Hatch__12__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1970_1000km_of_Monza__5__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1970_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1968_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Jean-Pierre_Beltoise ;
+	dbo:secondDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1968_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1974_South_African_Grand_Prix>	dbo:secondDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1972_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Jean-Pierre_Beltoise ;
+	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__33__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__29__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1969_French_Grand_Prix>	dbo:secondDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__18__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__35__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__39__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+wikipedia-en:Jean-Pierre_Beltoise	foaf:primaryTopic	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1968_Deutschland_Troph\u00E4e>	dbo:poleDriver	dbr:Jean-Pierre_Beltoise ;
+	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1972_World_Championship_Victory_Race>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1969_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Jean-Pierre_Beltoise ;
+	dbo:thirdDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__11__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__48__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+dbr:Johnny_Servoz-Gavin	dbp:before	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1973_Race_of_Champions>	dbo:fastestDriver	dbr:Jean-Pierre_Beltoise ;
+	dbo:poleDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1976_24_Hours_of_Le_Mans__8__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1974_24_Hours_of_Le_Mans__33__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1975_24_Hours_of_Le_Mans__50__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+dbr:Peter_Revson	dbp:after	dbr:Jean-Pierre_Beltoise .
+dbr:Jacky_Ickx	dbp:after	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__19__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__55__1>	dbo:firstDriver	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1970_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Jean-Pierre_Beltoise .
+dbr:Jean_Pierre_Beltoise	dbo:wikiPageRedirects	dbr:Jean-Pierre_Beltoise .
+<http://dbpedia.org/resource/1969_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Jean-Pierre_Beltoise .
+dbr:Jean-Pierre_Maurice_Georges_Beltoise	dbo:wikiPageRedirects	dbr:Jean-Pierre_Beltoise .
+dbr:Beltoise	dbo:wikiPageRedirects	dbr:Jean-Pierre_Beltoise .

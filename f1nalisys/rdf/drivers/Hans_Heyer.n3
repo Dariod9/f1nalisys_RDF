@@ -1,0 +1,160 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Gerhard_Berger	dbp:before	dbr:Hans_Heyer .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Hans_Heyer	foaf:primaryTopic	dbr:Hans_Heyer .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Kenneth_Heyer	dbo:wikiPageRedirects	dbr:Hans_Heyer .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__25__1>	dbo:firstDriver	dbr:Hans_Heyer .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__53__1>	dbo:firstDriver	dbr:Hans_Heyer .
+dbr:Klaus_Ludwig	dbp:after	dbr:Hans_Heyer ;
+	dbp:before	dbr:Hans_Heyer .
+<http://dbpedia.org/resource/1974_24_Hours_of_Le_Mans__39__1>	dbo:firstDriver	dbr:Hans_Heyer .
+<http://dbpedia.org/resource/1976_24_Hours_of_Le_Mans__28__1>	dbo:firstDriver	dbr:Hans_Heyer .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Hans_Heyer	rdf:type	dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Hans_Heyer	rdf:type	yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Hans_Heyer	rdf:type	owl:Thing ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Hans_Heyer	rdf:type	wikidata:Q378622 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		foaf:Person ,
+		dbo:FormulaOneRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Hans_Heyer	rdf:type	umbel-rc:Athlete ,
+		yago:Driver110034906 ,
+		umbel-rc:RaceCarDriver ,
+		dbo:Athlete .
+@prefix schema:	<http://schema.org/> .
+dbr:Hans_Heyer	rdf:type	schema:Person .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Hans_Heyer	rdf:type	ns11:NaturalPerson ,
+		ns11:Agent ,
+		wikidata:Q24229398 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatATSWheelsFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:WikicatGermanFormulaOneDrivers ,
+		yago:WikicatRacingDriversFromNorthRhine-Westphalia ,
+		dbo:Agent ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Hans_Heyer	rdfs:label	"Hans Heyer"@pl ,
+		"Hans Heyer"@en ,
+		"\u0425\u0430\u0439\u0435\u0440, \u0425\u0430\u043D\u0441"@ru ,
+		"Hans Heyer"@es ,
+		"Hans Heyer"@fr ,
+		"Hans Heyer"@pt ,
+		"Hans Heyer"@nl ,
+		"\u0647\u0627\u0646\u0632 \u0647\u064A\u0631"@ar ,
+		"Hans Heyer"@it ,
+		"Hans Heyer"@de ;
+	rdfs:comment	"Hans Heyer (* 16. M\u00E4rz 1943 in M\u00F6nchengladbach) ist ein ehemaliger deutscher Automobilrennfahrer und heutiger Unternehmer."@de ,
+		"Hans Heyer (16 de marzo de 1943, M\u00F6nchengladbach, Alemania) es un piloto de automovilismo de velocidad alem\u00E1n que se destac\u00F3 en turismos y gran turismos a nivel alem\u00E1n y europeo. Fue campe\u00F3n absoluto del Campeonato Alem\u00E1n de Automovilismo en 1975, 1976 y 1980, y subcampe\u00F3n absoluto en 1973 y 1979, logrando 5 victorias en la Divisi\u00F3n 1 y 24 en la Divisi\u00F3n 2. Tambi\u00E9n consigui\u00F3 el Campeonato Europeo de Turismos de 1974 y fue subcampe\u00F3n en 1984. Asimismo, gan\u00F3 las 24 Horas de Spa de 1982, 1983 y 1984, las 12 Horas de Sebring de 1984, y los 1000 km de Kyalami de 1975 y 1977."@es ,
+		"\u0647\u0627\u0646\u0632 \u0647\u064A\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 1943 \u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1977."@ar ,
+		"Hans Heyer (M\u00F6nchengladbach, Duitsland, 16 maart 1943) is een voormalig Formule 1-coureur uit Wegberg, in de Grenzlandring, een voormalig \"high speed race\" ovale baan. Hij reed 1 Grand Prix, de Grand Prix Formule 1 van Duitsland 1977 voor het team ATS, maar wist zich niet te kwalificeren. Hij startte deze race echter toch, maar na 10 ronden ging zijn versnellingsbak kapot. Hij werd gediskwalificeerd voor deze race en ook voor de volgende race."@nl ,
+		"Hans Heyer (ur. 16 marca 1943 roku w M\u00F6nchengladbach) \u2013 niemiecki kierowca wy\u015Bcigowy. Wyst\u0105pi\u0142 w Formule 1 jednym wy\u015Bcigu Grand Prix Niemiec."@pl ,
+		"Hans Heyer (M\u00F6nchengladbach, 16 de Mar\u00E7o de 1943) \u00E9 um automobilista alem\u00E3o."@pt ,
+		"Hans Heyer (n\u00E9 le 16 mars 1943 \u00E0 M\u00F6nchengladbach, Allemagne) est un ancien pilote automobile allemand."@fr ,
+		"Hans Heyer (born March 16, 1943 in M\u00F6nchengladbach, Germany) is a racing driver from Wegberg, the site of the Grenzlandring, a former high speed race track oval. He mainly raced touring cars, being popular with the fans for his rather funny style. Very unusual for his Western German origin, Heyer's sign is his so-called Tirolerhut, a hat from Tyrol or Bavaria which would fit better to drivers from these Alpine regions, like Hans-Joachim Stuck or Niki Lauda."@en ,
+		"\u0425\u0430\u043D\u0441 \u0425\u0430\u0439\u0435\u0440 (\u043D\u0435\u043C. Hans Heyer, 16 \u043C\u0430\u0440\u0442\u0430 1943, \u041C\u0451\u043D\u0445\u0435\u043D\u0433\u043B\u0430\u0434\u0431\u0430\u0445) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Hans_Heyer	dbp:birthDate	"1943-03-16"^^xsd:date .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Hans_Heyer	owl:sameAs	dbpedia-es:Hans_Heyer ,
+		wikidata:Q61284 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Hans_Heyer	owl:sameAs	dbpedia-nl:Hans_Heyer .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Hans_Heyer	owl:sameAs	dbpedia-it:Hans_Heyer ,
+		<http://d-nb.info/gnd/189441011> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Hans_Heyer	owl:sameAs	dbpedia-pt:Hans_Heyer .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Hans_Heyer	owl:sameAs	dbpedia-de:Hans_Heyer .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Hans_Heyer	owl:sameAs	dbpedia-wikidata:Q61284 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Hans_Heyer	owl:sameAs	yago-res:Hans_Heyer ,
+		<http://rdf.freebase.com/ns/m.04kqg3> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Hans_Heyer	owl:sameAs	dbpedia-pl:Hans_Heyer .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Hans_Heyer	owl:sameAs	dbpedia-fr:Hans_Heyer ,
+		dbr:Hans_Heyer .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Hans_Heyer	dct:subject	dbc:ATS_Wheels_Formula_One_drivers ,
+		dbc:People_from_Wegberg ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:German_Formula_One_drivers ,
+		dbc:European_Touring_Car_Championship_drivers ,
+		dbc:Racing_drivers_from_North_Rhine-Westphalia ,
+		<http://dbpedia.org/resource/Category:1943_births> ,
+		dbc:German_racing_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Hans Heyer"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/HansHeyerLate1970s.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Hans"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Hans_Heyer ;
+	foaf:surname	"Heyer"@en ;
+	dbp:points	0 ;
+	dbp:years	1974 ,
+		1975 ,
+		1980 ;
+	dbp:after	dbr:Klaus_Ludwig ,
+		"and Siegfried M\u00FCller Sr."^^xsd:string ,
+		dbr:Rolf_Stommelen ,
+		dbr:Alain_Peltier ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/ATS_(wheels)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Hans_Heyer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Hans_Heyer?oldid=740303132> ;
+	dbo:wikiPageExternalLink	<http://www.hans-heyer.de/> ,
+		<http://homepage.mac.com/frank_de_jong/Pages/p%20drivers.html> ,
+		<https://web.archive.org/web/20071011110308/http:/f1rejects.com/drivers/heyer/biography.html> ;
+	dbp:nationality	"German"^^xsd:string ;
+	dbp:birthPlace	dbr:Germany ,
+		<http://dbpedia.org/resource/M\u00F6nchengladbach> ;
+	dbp:before	dbr:Toine_Hezemans ,
+		dbr:Dieter_Glemser ,
+		dbr:Klaus_Ludwig ;
+	dbo:abstract	"Hans Heyer (n\u00E9 le 16 mars 1943 \u00E0 M\u00F6nchengladbach, Allemagne) est un ancien pilote automobile allemand."@fr ,
+		"Hans Heyer (M\u00F6nchengladbach, Duitsland, 16 maart 1943) is een voormalig Formule 1-coureur uit Wegberg, in de Grenzlandring, een voormalig \"high speed race\" ovale baan. Hij reed 1 Grand Prix, de Grand Prix Formule 1 van Duitsland 1977 voor het team ATS, maar wist zich niet te kwalificeren. Hij startte deze race echter toch, maar na 10 ronden ging zijn versnellingsbak kapot. Hij werd gediskwalificeerd voor deze race en ook voor de volgende race."@nl ,
+		"Hans Heyer (* 16. M\u00E4rz 1943 in M\u00F6nchengladbach) ist ein ehemaliger deutscher Automobilrennfahrer und heutiger Unternehmer."@de ,
+		"Hans Heyer (M\u00F6nchengladbach, 16 de Mar\u00E7o de 1943) \u00E9 um automobilista alem\u00E3o."@pt ,
+		"Hans Heyer (ur. 16 marca 1943 roku w M\u00F6nchengladbach) \u2013 niemiecki kierowca wy\u015Bcigowy. Wyst\u0105pi\u0142 w Formule 1 jednym wy\u015Bcigu Grand Prix Niemiec."@pl ,
+		"Hans Heyer (born March 16, 1943 in M\u00F6nchengladbach, Germany) is a racing driver from Wegberg, the site of the Grenzlandring, a former high speed race track oval. He mainly raced touring cars, being popular with the fans for his rather funny style. Very unusual for his Western German origin, Heyer's sign is his so-called Tirolerhut, a hat from Tyrol or Bavaria which would fit better to drivers from these Alpine regions, like Hans-Joachim Stuck or Niki Lauda."@en ,
+		"\u0647\u0627\u0646\u0632 \u0647\u064A\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 1943 \u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1977."@ar ,
+		"\u0425\u0430\u043D\u0441 \u0425\u0430\u0439\u0435\u0440 (\u043D\u0435\u043C. Hans Heyer, 16 \u043C\u0430\u0440\u0442\u0430 1943, \u041C\u0451\u043D\u0445\u0435\u043D\u0433\u043B\u0430\u0434\u0431\u0430\u0445) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Hans Heyer (16 de marzo de 1943, M\u00F6nchengladbach, Alemania) es un piloto de automovilismo de velocidad alem\u00E1n que se destac\u00F3 en turismos y gran turismos a nivel alem\u00E1n y europeo. Fue campe\u00F3n absoluto del Campeonato Alem\u00E1n de Automovilismo en 1975, 1976 y 1980, y subcampe\u00F3n absoluto en 1973 y 1979, logrando 5 victorias en la Divisi\u00F3n 1 y 24 en la Divisi\u00F3n 2. Tambi\u00E9n consigui\u00F3 el Campeonato Europeo de Turismos de 1974 y fue subcampe\u00F3n en 1984. Asimismo, gan\u00F3 las 24 Horas de Spa de 1982, 1983 y 1984, las 12 Horas de Sebring de 1984, y los 1000 km de Kyalami de 1975 y 1977."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/HansHeyerLate1970s.jpg?width=300> ;
+	dbo:birthDate	"1943-3-16"^^xsd:date ;
+	dbo:wikiPageRevisionID	740303132 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/M\u00F6nchengladbach> ;
+	dbo:wikiPageID	1233829 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1977_German_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1977_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Hans_Heyer	ns26:hypernym	dbr:Driver ;
+	dbp:title	dbr:Deutsche_Rennsport_Meisterschaft ,
+		"European Touring Car Championship champion"^^xsd:string .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__39__1>	dbo:firstDriver	dbr:Hans_Heyer .
+dbr:Heyer	dbo:wikiPageDisambiguates	dbr:Hans_Heyer .

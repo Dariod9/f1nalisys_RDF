@@ -1,0 +1,205 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2015_Monaco_GP2_Series_round>	dbp:firstDriverR	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2015_Red_Bull_Ring_GP2_and_GP3_Series_rounds>	dbp:firstDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:secondDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:poleDriver	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/Matthieu_Vaxivi\u00E8re>	dbp:before	dbr:Stoffel_Vandoorne .
+dbr:Pierre_Gasly	dbp:before	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2015_Hungaroring_GP2_and_GP3_Series_rounds>	dbp:fastDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:secondDriverR	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2015_Silverstone_GP2_and_GP3_Series_rounds>	dbp:thirdDriverR	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2014_Silverstone_GP2_and_GP3_Series_rounds>	dbp:thirdDriverR	dbr:Stoffel_Vandoorne .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Stoffel_Vandoorne	foaf:primaryTopic	dbr:Stoffel_Vandoorne .
+dbr:Jolyon_Palmer	dbp:after	dbr:Stoffel_Vandoorne .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Stoffel_Vandoorne	rdf:type	ns5:Agent ,
+		ns5:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Stoffel_Vandoorne	rdf:type	yago:Driver110034906 ,
+		yago:Operator110378412 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Stoffel_Vandoorne	rdf:type	dbo:RacingDriver ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatGP2SeriesDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Stoffel_Vandoorne	rdf:type	wikidata:Q5 ,
+		wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault2.0NECDrivers> ,
+		yago:WikicatFIAInstituteYoungDriverExcellenceAcademyDrivers ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Stoffel_Vandoorne	rdf:type	schema:Person ,
+		wikidata:Q24229398 ,
+		yago:WikicatFrenchF4ChampionshipDrivers ,
+		foaf:Person ,
+		dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Stoffel_Vandoorne	rdf:type	owl:Thing ,
+		yago:WikicatFormulaRenaultDrivers ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault3.5SeriesDrivers> ,
+		<http://dbpedia.org/class/yago/WikicatEurocupFormulaRenault2.0Drivers> ,
+		dbo:MotorsportRacer ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Stoffel_Vandoorne	rdfs:label	"Stoffel Vandoorne"@en ,
+		"Stoffel Vandoorne"@de ,
+		"Stoffel Vandoorne"@pl ,
+		"\u30B9\u30C8\u30D5\u30A7\u30EB\u30FB\u30D0\u30F3\u30C9\u30FC\u30F3"@ja ,
+		"Stoffel Vandoorne"@pt ,
+		"Stoffel Vandoorne"@es ,
+		"Stoffel Vandoorne"@nl ,
+		"Stoffel Vandoorne"@it ,
+		"\u0412\u0430\u043D\u0434\u043E\u0440\u043D, \u0421\u0442\u043E\u0444\u0444\u0435\u043B\u044C"@ru ,
+		"Stoffel Vandoorne"@fr ,
+		"\u65AF\u6258\u5F17\u00B7\u8303\u591A\u6069"@zh ;
+	rdfs:comment	"Stoffel Vandoorne (Kortrijk, 26 de mar\u00E7o de 1992) \u00E9 um automobilista belga que atualmente \u00E9 piloto reserva da equipe McLaren na F\u00F3rmula 1."@pt ,
+		"Stoffel Vandoorne (born 26 March 1992) is a professional racing driver from Belgium, currently competing in Super Formula. He is also the reserve driver for the McLaren Formula One team, and made his debut at the 2016 Bahrain Grand Prix. Vandoorne is also contracted to the 2017 McLaren race seat."@en ,
+		"Stoffel Vandoorne, n\u00E9 le 26 mars 1992 \u00E0 Courtrai, est un pilote automobile belge. Pilote de r\u00E9serve chez McLaren-Honda en Formule 1 pour la saison 2016, il dispute le premier Grand Prix de sa carri\u00E8re \u00E0 Bahre\u00EFn le 3 avril 2016 en remplacement temporaire de Fernando Alonso. Il choisit le 47 comme num\u00E9ro permanent et marque son premier point \u00E0 Bahre\u00EFn d\u00E8s sa premi\u00E8re course en terminant \u00E0 la dixi\u00E8me place."@fr ,
+		"\u65AF\u6258\u5F17\u00B7\u8303\u591A\u6069\uFF08\u8377\u862D\u8A9E\uFF1AStoffel Vandoorne\uFF0C1992\u5E743\u670826\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u6BD4\u5229\u6642\u8077\u696D\u8CFD\u8ECA\u624B\uFF0C\u76EE\u524D\u53C3\u8CFD\u65BC\u8D85\u7D1A\u65B9\u7A0B\u5F0F\u3002\u4ED6\u540C\u6642\u4E5F\u662F\u9EA5\u62C9\u502B\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u8ECA\u968A\u7684\u5132\u5099\u8ECA\u624B\uFF0C\u4E26\u66FE\u57282016\u5E74\u5DF4\u6797\u5927\u734E\u8CFD\u521D\u6B21\u767B\u5834\u3002"@zh ,
+		"Stoffel Vandoorne (Kortrijk, 26 maart 1992) is een Belgisch autocoureur."@nl ,
+		"Stoffel Vandoorne (Kortrijk, B\u00E9lgica, 26 de marzo de 1992), es un piloto belga de automovilismo de velocidad. Obtuvo el subcampeonato de la F\u00F3rmula Renault 3.5 en 2013, y fue campe\u00F3n de la GP2 Series en 2015 con el equipo ART Grand Prix. En 2013 ingres\u00F3 al Programa de J\u00F3venes Pilotos de McLaren, y actualmente es piloto de pruebas de McLaren. COmpite en la Super F\u00F3rmula Japonesa con Honda."@es ,
+		"Nella stagione 2016 si divide tra il campionato di Super Formula e il ruolo di terzo pilota della McLaren nel Campionato mondiale di Formula 1. Ha vinto il Campionato Mondiale di GP2 nel 2015 con il team ART Grand Prix."@it ,
+		"\u0421\u0442\u043E\u0301\u0444\u0444\u0435\u043B\u044C \u0412\u0430\u043D\u0434\u043E\u0301\u0440\u043D (\u043D\u0438\u0434\u0435\u0440\u043B. Stoffel Vandoorne; \u0440\u043E\u0434. 26 \u043C\u0430\u0440\u0442\u0430 1992, \u041A\u043E\u0440\u0442\u0440\u0435\u0439\u043A, \u0411\u0435\u043B\u044C\u0433\u0438\u044F) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0433\u043E\u043D\u0449\u0438\u043A, \u0441\u043B\u0443\u0448\u0430\u0442\u0435\u043B\u044C \u043C\u043E\u043B\u043E\u0434\u0451\u0436\u043D\u043E\u0439 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u0438 \u0438 \u0442\u0435\u0441\u0442-\u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B McLaren F1."@ru ,
+		"Stoffel Vandoorne (* 26. M\u00E4rz 1992 in Kortrijk) ist ein belgischer Automobilrennfahrer. Er gewann 2012 den Formel Renault 2.0 Eurocup. 2013 startete er in der Formel Renault 3.5 und wurde Gesamtzweiter. 2014 und 2015 trat er in der GP2-Serie an, die er 2015 gewann. 2016 f\u00E4hrt er in der Super Formula und deb\u00FCtierte zudem in der Formel 1."@de ,
+		"Stoffel Vandoorne (ur. 26 marca 1992 roku w Kortrijk) \u2013 belgijski kierowca wy\u015Bcigowy."@pl ,
+		"\u30B9\u30C8\u30D5\u30A7\u30EB\u30FB\u30D0\u30F3\u30C9\u30FC\u30F3\uFF08Stoffel Vandoorne, 1992\u5E743\u670826\u65E5 - \uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u30FB\u30B3\u30EB\u30C8\u30EC\u30A4\u30AF\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u30DE\u30B9\u30E1\u30C7\u30A3\u30A2\u306B\u3088\u3063\u3066\u306F\u300C\u30B9\u30C8\u30C3\u30D5\u30A7\u30EB\u30FB\u30D5\u30A1\u30F3\u30C9\u30FC\u30CD\uFF08\u30D5\u30A1\u30F3\u30C9\u30FC\u30EB\u30CD\uFF09\u300D\u3084\u300C\u30B9\u30C8\u30D5\u30A7\u30EB\u30FB\u30F4\u30A1\u30F3\u30C9\u30FC\u30EB\u30F3\uFF08\u30D0\u30F3\u30C9\u30FC\u30EB\u30F3\uFF09\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u611B\u79F0\u306F\u300C\u30B9\u30C8\u30C3\u30D5\u300D\u3002"@ja ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0ds17z4> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Stoffel_Vandoorne	owl:sameAs	dbpedia-pt:Stoffel_Vandoorne .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Stoffel_Vandoorne	owl:sameAs	dbpedia-es:Stoffel_Vandoorne .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Stoffel_Vandoorne	owl:sameAs	dbpedia-it:Stoffel_Vandoorne .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Stoffel_Vandoorne	owl:sameAs	dbpedia-de:Stoffel_Vandoorne .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Stoffel_Vandoorne	owl:sameAs	dbpedia-fr:Stoffel_Vandoorne ,
+		<http://ja.dbpedia.org/resource/\u30B9\u30C8\u30D5\u30A7\u30EB\u30FB\u30D0\u30F3\u30C9\u30FC\u30F3> ,
+		dbr:Stoffel_Vandoorne .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Stoffel_Vandoorne	owl:sameAs	dbpedia-wikidata:Q1344577 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Stoffel_Vandoorne	owl:sameAs	dbpedia-pl:Stoffel_Vandoorne ,
+		wikidata:Q1344577 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Stoffel_Vandoorne	owl:sameAs	dbpedia-nl:Stoffel_Vandoorne .
+@prefix ns20:	<http://www.bbc.co.uk/things/300b1e2a-99a7-4994-9e60-33b67d7a9915#> .
+dbr:Stoffel_Vandoorne	owl:sameAs	ns20:id .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Stoffel_Vandoorne	owl:sameAs	yago-res:Stoffel_Vandoorne .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Stoffel_Vandoorne	dct:subject	dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1992_births> ,
+		dbc:FIA_Institute_Young_Driver_Excellence_Academy_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_Renault_2.0_NEC_drivers> ,
+		dbc:Sportspeople_from_Kortrijk ,
+		dbc:Super_Formula_drivers ,
+		dbc:GP2_Series_Champions ,
+		dbc:GP2_Series_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_3.5_V8_drivers> ,
+		dbc:McLaren_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		dbc:Belgian_racing_drivers ,
+		dbc:Belgian_Formula_One_drivers ,
+		dbc:French_F4_Championship_drivers ;
+	foaf:name	"Stoffel Vandoorne"@en ;
+	foaf:homepage	<http://www.stoffelvandoorne.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Vandoorne_2013.jpg> ;
+	dct:description	"Belgian racing driver"@en ;
+	foaf:givenName	"Stoffel"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Stoffel_Vandoorne ;
+	foaf:surname	"Vandoorne"@en ;
+	dbp:titleYears	2010 ,
+		2015 ,
+		2012 ;
+	dbp:prevSeries	<http://dbpedia.org/resource/Eurocup_Formula_Renault_2.0> ,
+		<http://dbpedia.org/resource/Formula_Renault_2.0_Northern_European_Cup> ,
+		dbr:World_Series_by_Renault ,
+		dbr:French_F4_Championship ,
+		dbr:GP2_Series ;
+	dbp:years	2012 ,
+		2015 ,
+		2010 ;
+	dbp:after	dbr:Pierre_Gasly ,
+		<http://dbpedia.org/resource/Matthieu_Vaxivi\u00E8re> ,
+		"Incumbent"^^xsd:string ;
+	dbp:wins	1 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Stoffel_Vandoorne	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Stoffel_Vandoorne?oldid=743069334> ;
+	dbo:wikiPageExternalLink	<http://www.stoffelvandoorne.com> ;
+	dbp:caption	"Vandoorne in 2013"^^xsd:string ;
+	dbp:firstYear	2016 ;
+	dbp:prevSeriesYears	2014 ,
+		2013 ,
+		2010 ,
+		2011 ;
+	dbp:starts	7 ;
+	dbo:team	dbr:Dandelion_Racing ;
+	dbp:imagesize	180 ;
+	dbp:nationality	"Belgian"^^xsd:string ;
+	dbp:carNumber	41 ;
+	dbp:before	dbr:Robin_Frijns ,
+		dbr:Jolyon_Palmer ,
+		dbr:Benjamin_Bailly ;
+	dbo:abstract	"\u0421\u0442\u043E\u0301\u0444\u0444\u0435\u043B\u044C \u0412\u0430\u043D\u0434\u043E\u0301\u0440\u043D (\u043D\u0438\u0434\u0435\u0440\u043B. Stoffel Vandoorne; \u0440\u043E\u0434. 26 \u043C\u0430\u0440\u0442\u0430 1992, \u041A\u043E\u0440\u0442\u0440\u0435\u0439\u043A, \u0411\u0435\u043B\u044C\u0433\u0438\u044F) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0433\u043E\u043D\u0449\u0438\u043A, \u0441\u043B\u0443\u0448\u0430\u0442\u0435\u043B\u044C \u043C\u043E\u043B\u043E\u0434\u0451\u0436\u043D\u043E\u0439 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u0438 \u0438 \u0442\u0435\u0441\u0442-\u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B McLaren F1."@ru ,
+		"Stoffel Vandoorne (born 26 March 1992) is a professional racing driver from Belgium, currently competing in Super Formula. He is also the reserve driver for the McLaren Formula One team, and made his debut at the 2016 Bahrain Grand Prix. Vandoorne is also contracted to the 2017 McLaren race seat."@en ,
+		"Stoffel Vandoorne, n\u00E9 le 26 mars 1992 \u00E0 Courtrai, est un pilote automobile belge. Pilote de r\u00E9serve chez McLaren-Honda en Formule 1 pour la saison 2016, il dispute le premier Grand Prix de sa carri\u00E8re \u00E0 Bahre\u00EFn le 3 avril 2016 en remplacement temporaire de Fernando Alonso. Il choisit le 47 comme num\u00E9ro permanent et marque son premier point \u00E0 Bahre\u00EFn d\u00E8s sa premi\u00E8re course en terminant \u00E0 la dixi\u00E8me place."@fr ,
+		"\u65AF\u6258\u5F17\u00B7\u8303\u591A\u6069\uFF08\u8377\u862D\u8A9E\uFF1AStoffel Vandoorne\uFF0C1992\u5E743\u670826\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u6BD4\u5229\u6642\u8077\u696D\u8CFD\u8ECA\u624B\uFF0C\u76EE\u524D\u53C3\u8CFD\u65BC\u8D85\u7D1A\u65B9\u7A0B\u5F0F\u3002\u4ED6\u540C\u6642\u4E5F\u662F\u9EA5\u62C9\u502B\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u8ECA\u968A\u7684\u5132\u5099\u8ECA\u624B\uFF0C\u4E26\u66FE\u57282016\u5E74\u5DF4\u6797\u5927\u734E\u8CFD\u521D\u6B21\u767B\u5834\u3002"@zh ,
+		"Stoffel Vandoorne (Kortrijk, 26 maart 1992) is een Belgisch autocoureur."@nl ,
+		"Stoffel Vandoorne (Kortrijk, 26 de mar\u00E7o de 1992) \u00E9 um automobilista belga que atualmente \u00E9 piloto reserva da equipe McLaren na F\u00F3rmula 1."@pt ,
+		"Stoffel Vandoorne (Kortrijk, B\u00E9lgica, 26 de marzo de 1992), es un piloto belga de automovilismo de velocidad. Obtuvo el subcampeonato de la F\u00F3rmula Renault 3.5 en 2013, y fue campe\u00F3n de la GP2 Series en 2015 con el equipo ART Grand Prix. En 2013 ingres\u00F3 al Programa de J\u00F3venes Pilotos de McLaren, y actualmente es piloto de pruebas de McLaren. COmpite en la Super F\u00F3rmula Japonesa con Honda."@es ,
+		"Stoffel Vandoorne (ur. 26 marca 1992 roku w Kortrijk) \u2013 belgijski kierowca wy\u015Bcigowy."@pl ,
+		"Stoffel Vandoorne (* 26. M\u00E4rz 1992 in Kortrijk) ist ein belgischer Automobilrennfahrer. Er gewann 2012 den Formel Renault 2.0 Eurocup. 2013 startete er in der Formel Renault 3.5 und wurde Gesamtzweiter. 2014 und 2015 trat er in der GP2-Serie an, die er 2015 gewann. 2016 f\u00E4hrt er in der Super Formula und deb\u00FCtierte zudem in der Formel 1."@de ,
+		"\u30B9\u30C8\u30D5\u30A7\u30EB\u30FB\u30D0\u30F3\u30C9\u30FC\u30F3\uFF08Stoffel Vandoorne, 1992\u5E743\u670826\u65E5 - \uFF09\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u30FB\u30B3\u30EB\u30C8\u30EC\u30A4\u30AF\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u30DE\u30B9\u30E1\u30C7\u30A3\u30A2\u306B\u3088\u3063\u3066\u306F\u300C\u30B9\u30C8\u30C3\u30D5\u30A7\u30EB\u30FB\u30D5\u30A1\u30F3\u30C9\u30FC\u30CD\uFF08\u30D5\u30A1\u30F3\u30C9\u30FC\u30EB\u30CD\uFF09\u300D\u3084\u300C\u30B9\u30C8\u30D5\u30A7\u30EB\u30FB\u30F4\u30A1\u30F3\u30C9\u30FC\u30EB\u30F3\uFF08\u30D0\u30F3\u30C9\u30FC\u30EB\u30F3\uFF09\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u611B\u79F0\u306F\u300C\u30B9\u30C8\u30C3\u30D5\u300D\u3002"@ja ,
+		"Nella stagione 2016 si divide tra il campionato di Super Formula e il ruolo di terzo pilota della McLaren nel Campionato mondiale di Formula 1. Ha vinto il Campionato Mondiale di GP2 nel 2015 con il team ART Grand Prix."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Vandoorne_2013.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Stoffel_Vandoorne	dbo:birthDate	"1992-3-26"^^xsd:date ,
+		"1992-03-26"^^xsd:date ;
+	dbo:wikiPageRevisionID	743069334 ;
+	dbo:birthPlace	dbr:Belgium ,
+		dbr:Kortrijk ;
+	dbo:wikiPageID	29471472 ;
+	dbp:podiums	2 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Stoffel_Vandoorne	ns26:hypernym	dbr:Driver ;
+	dbp:title	dbr:GP2_Series ,
+		<http://dbpedia.org/resource/Eurocup_Formula_Renault_2.0> ,
+		"Champion"^^xsd:string ,
+		<http://dbpedia.org/resource/F4_Eurocup_1.6> ;
+	dbp:currentSeries	dbr:Super_Formula ;
+	dbp:titles	dbr:French_F4_Championship ,
+		dbr:GP2_Series ,
+		<http://dbpedia.org/resource/Eurocup_Formula_Renault_2.0> .
+<http://dbpedia.org/resource/2014_Bahrain_GP2_Series_round>	dbp:firstDriverR	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2014_Sochi_GP2_and_GP3_Series_rounds>	dbp:fastDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:secondDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:poleDriver	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2014_Hungaroring_GP2_and_GP3_Series_rounds>	dbp:fastDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:firstDriverR	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2014_Spa-Francorchamps_GP2_and_GP3_Series_rounds>	dbp:secondDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:poleDriver	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2014_Red_Bull_Ring_GP2_and_GP3_Series_rounds>	dbp:secondDriverR	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2015_Bahrain_GP2_Series_round>	dbp:fastDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:firstDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:secondDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:poleDriver	dbr:Stoffel_Vandoorne .
+dbr:Benjamin_Bailly	dbp:after	dbr:Stoffel_Vandoorne .
+dbr:Robin_Frijns	dbp:after	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2014_Hockenheimring_GP2_and_GP3_Series_rounds>	dbp:secondDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:thirdDriverR	dbr:Stoffel_Vandoorne .
+dbr:Moscow_Raceway	dbp:recordDriver	dbr:Stoffel_Vandoorne .
+<http://dbpedia.org/resource/2015_Catalunya_GP2_and_GP3_Series_rounds>	dbp:fastDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:firstDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:secondDriverR	dbr:Stoffel_Vandoorne ;
+	dbp:poleDriver	dbr:Stoffel_Vandoorne .

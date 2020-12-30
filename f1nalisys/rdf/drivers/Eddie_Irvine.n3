@@ -1,0 +1,220 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1999_Malaysian_Grand_Prix>	dbo:firstDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1997_Japanese_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1999_Hungarian_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1998_Japanese_Grand_Prix>	dbo:secondDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1999_Japanese_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1999_German_Grand_Prix>	dbo:firstDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/2002_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1997_San_Marino_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1998_Italian_Grand_Prix>	dbo:secondDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1998_San_Marino_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Allan_McNish	dbp:before	dbr:Eddie_Irvine .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Eddie_Irvine	foaf:primaryTopic	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1998_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1999_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine ;
+	dbo:fastestDriver	dbr:Eddie_Irvine .
+dbr:Roland_Ratzenberger	dbp:after	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1997_French_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1998_French_Grand_Prix>	dbo:secondDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1998_British_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1999_British_Grand_Prix>	dbo:secondDriver	dbr:Eddie_Irvine .
+dbr:Irvine	dbo:wikiPageDisambiguates	dbr:Eddie_Irvine .
+@prefix ns5:	<http://dbpedia.org/resource/1988_Macau_Grand_Prix__West_Surrey_Racing_w/> .
+ns5:_Theodore_Racing__1	dbo:firstDriver	dbr:Eddie_Irvine .
+dbr:David_Coulthard	dbp:before	dbr:Eddie_Irvine ;
+	dbp:after	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1999_Australian_Grand_Prix>	dbo:firstDriver	dbr:Eddie_Irvine .
+dbr:Vincenzo_Sospiri	dbp:before	dbr:Eddie_Irvine .
+dbr:Derek_Higgins	dbp:before	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1995_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1996_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1997_Argentine_Grand_Prix>	dbo:secondDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1998_Argentine_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1997_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1998_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/2001_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Eddie_Irvine .
+dbr:Dario_Franchitti	dbp:after	dbr:Eddie_Irvine .
+dbr:Jordan_Grand_Prix	dbp:drivers	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/Paul_Warwick_(racing_driver)>	dbp:after	dbr:Eddie_Irvine .
+dbr:Jordan_194__1994__3	dbo:firstDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1999_Austrian_Grand_Prix>	dbo:firstDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1999_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Eddie_Irvine .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Eddie_Irvine	rdf:type	ns7:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Eddie_Irvine	rdf:type	umbel-rc:Athlete ,
+		ns7:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Eddie_Irvine	rdf:type	yago:WikicatFormulaOneDriversFromNorthernIreland ,
+		foaf:Person ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Eddie_Irvine	rdf:type	owl:Thing .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Eddie_Irvine	rdf:type	wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Eddie_Irvine	rdf:type	schema:Person ,
+		yago:WikicatFormulaFordDrivers ,
+		yago:Operator110378412 ,
+		wikidata:Q215627 ,
+		dbo:Person ,
+		yago:Driver110034906 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		wikidata:Q5 ,
+		wikidata:Q378622 ,
+		dbo:Athlete ,
+		umbel-rc:RaceCarDriver ,
+		yago:WikicatJordanFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatJaguarFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatJapaneseFormula3000ChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:RacingDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Eddie_Irvine	rdfs:label	"Eddie Irvine"@pl ,
+		"Eddie Irvine"@en ,
+		"Eddie Irvine"@es ,
+		"Eddie Irvine"@it ,
+		"Eddie Irvine"@pt ,
+		"Eddie Irvine"@fr ,
+		"\u0625\u062F\u064A \u0625\u064A\u0631\u0641\u064A\u0646"@ar ,
+		"\u30A8\u30C7\u30A3\u30FB\u30A2\u30FC\u30D0\u30A4\u30F3"@ja ,
+		"Eddie Irvine"@nl ,
+		"Eddie Irvine"@de ,
+		"\u0418\u0440\u0432\u0430\u0439\u043D, \u042D\u0434\u0434\u0438"@ru ;
+	rdfs:comment	"Proveniente dall'Irlanda del Nord, dopo aver gareggiato per vari anni nelle categorie minori dell'automobilismo, vincendo il titolo di Formula Ford britannica nel 1987, riusc\u00EC a partecipare a dieci campionati di Formula 1, dal 1993 al 2002. Il suo debutto avvenne con la Jordan, scuderia con cui corse fino al 1995. Nel 1996 venne assunto dalla Ferrari e ottenne i suoi migliori risultati: quattro gare vinte e un secondo posto finale nella classifica piloti del Campionato di Formula 1 del 1999. Passato alla Jaguar Racing nel 2000, chiuse la carriera nella massima serie con il team inglese due stagioni pi\u00F9 tardi."@it ,
+		"Edmund \"Eddie\" Irvine, Jr. (born 10 November 1965) is a retired British racing driver from Northern Ireland. He was the runner-up in 1999 Formula One World Drivers' Championship, driving for Ferrari. Irvine was influenced by his parents to enter motor racing. He began his career at the age of seventeen when he entered the Formula Ford Championship achieving early success, before progressing to the Formula Three and Formula 3000 Championships. He first drove in Formula One with the Jordan team in 1993 season, where he achieved early notoriety for his involvement in incidents during his early career. He clinched his first podium finish in 1995 before moving to Ferrari in 1996."@en ,
+		"Edmund Irvine, dit Eddie Irvine, n\u00E9 le 10 novembre 1965 \u00E0 Bangor, est un pilote automobile nord-irlandais. Il a notamment disput\u00E9 146 Grands Prix de Formule 1 entre 1993 et 2002 et remport\u00E9 quatre victoires pour un titre de vice-champion du monde en 1999."@fr ,
+		"Edmund Irvine jr (ur. 10 listopada 1965 w Newtownards) \u2013 brytyjski kierowca wy\u015Bcigowy. Startowa\u0142 w Formule 1 w sezonach 1993-2002. Na pocz\u0105tku \u015Bciga\u0142 si\u0119 bez wi\u0119kszych sukces\u00F3w w barwach zespo\u0142u Jordan. Potem startowa\u0142 przez 4 sezony w Ferrari i w tym okresie odnosi\u0142 najwi\u0119ksze sukcesy w karierze \u2013 w sezonie 1999 zdoby\u0142 tytu\u0142 wicemistrza \u015Bwiata. Po odej\u015Bciu z Ferrari trafi\u0142 do zespo\u0142u Jaguar Racing, gdzie startowa\u0142 do ko\u0144ca sezonu 2002. Z ko\u0144cem tego roku zako\u0144czy\u0142 karier\u0119. Przez ca\u0142\u0105 karier\u0119 wygra\u0142 4 wy\u015Bcigi (wszystkie wy\u015Bcigi wygra\u0142 w swoim najlepszym sezonie w karierze, czyli w 1999). Znany jest te\u017C z licznych podboj\u00F3w mi\u0142osnych m.in. ze zwi\u0105zku ze znan\u0105 modelk\u0105 Katie Price."@pl ,
+		"\u30A8\u30C9\u30E0\u30F3\u30C9\u30FB\"\u30A8\u30C7\u30A3\"\u30FB\u30A2\u30FC\u30D0\u30A4\u30F3\uFF08Edmund \"Eddie\" Irvine, 1965\u5E7411\u670810\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u72EC\u8EAB\u3002"@ja ,
+		"\u042D\u0434\u043C\u0443\u043D\u0434 \u0418\u0440\u0432\u0430\u0439\u043D-\u043C\u043B\u0430\u0434\u0448\u0438\u0439 (\u0430\u043D\u0433\u043B. Edmund Irvine Jr.; 10 \u043D\u043E\u044F\u0431\u0440\u044F 1965) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0433\u043E\u043D\u0449\u0438\u043A \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u044D\u0442\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0438\u0440\u043B\u0430\u043D\u0434\u0435\u0446. \u0420\u043E\u0434\u0438\u043B\u0441\u044F \u0438 \u0432\u044B\u0440\u043E\u0441 \u0432 \u0421\u0435\u0432\u0435\u0440\u043D\u043E\u0439 \u0418\u0440\u043B\u0430\u043D\u0434\u0438\u0438, \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u041A\u043E\u043D\u043B\u0438\u0433. \u041F\u0440\u043E\u0436\u0438\u0432\u0430\u0435\u0442 \u0432 \u0414\u0443\u0431\u043B\u0438\u043D\u0435, \u0418\u0440\u043B\u0430\u043D\u0434\u0438\u044F."@ru ,
+		"Edmund Irvine ou mais conhecido como Eddie Irvine (Newtownards, 10 de novembro de 1965) \u00E9 um ex-piloto de F\u00F3rmula 1 da Irlanda do Norte. O seu pai, Eddie Irvine Sr. estava envolvido no automobilismo, e a sua irm\u00E3, Sonia, tamb\u00E9m. Mais tarde, foi ela que geria a carreira do irm\u00E3o na Formula 1. Eddie come\u00E7ou a guiar em 1983, na Formula Ford, e em 1987, ganha o campeonato birt\u00E2nico, bem como o Formula Ford Festival, no circuito de Brands Hatch."@pt ,
+		"Edmund \"Eddie\" Irvine, Jr. (nacido el 10 de noviembre de 1965) es un piloto retirado norirland\u00E9s de F\u00F3rmula 1, que corri\u00F3 en dicha categor\u00EDa para las escuder\u00EDas Jordan, Ferrari y Jaguar. A lo largo de su carrera, Irvine obtuvo 4 victorias y 26 podios; result\u00F3 subcampe\u00F3n en 1999, cuarto en 1998 y s\u00E9ptimo en 1997."@es ,
+		"Edmund \u201EEddie\u201C Irvine junior (* 10. November 1965 in Newtownards, Nordirland) ist ein ehemaliger britischer Automobilrennfahrer. Er startete zwischen 1993 und 2002 in der h\u00F6chsten automobilen Motorsportklasse Formel 1 und wurde dort 1999 Vizeweltmeister."@de ,
+		"Edmund 'Eddie' Irvine, jr. (Newtownards, 10 november 1965) is een voormalig Formule 1-coureur. Hij werd geboren in Noord-Ierland, en begon zijn carri\u00E8re in 1983. Hij begon in de Formule 3 in 1988 voordat hij doorging naar de Formule 3000 in 1989. In 1990 begon hij te racen voor het Jordan-team in de Formula 3000, en hij begon in 1993 opnieuw voor Jordan in Formule 1. Irvine heeft regelmatig mensen tegen zich in het harnas gejaagd door zijn uitspraken. Het aantal gevaarlijke ongelukken waarbij hij betrokken was, verminderde toen hij naar Ferrari ging."@nl ,
+		"\u0625\u062F\u064A \u0625\u064A\u0631\u0641\u064A\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0646\u0648\u0641\u0645\u0628\u0631 1965 \u0641\u064A \u0645\u0642\u0627\u0637\u0639\u0629 \u062F\u0627\u0648\u0646\u060C \u0623\u064A\u0631\u0644\u0646\u062F\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1992. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1993\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1999. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 148 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 4 \u0645\u0646\u0647\u0627."@ar ;
+	dbp:points	191 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-fr:Eddie_Irvine .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-wikidata:Q171397 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	yago-res:Eddie_Irvine .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-es:Eddie_Irvine ,
+		dbr:Eddie_Irvine ,
+		<http://rdf.freebase.com/ns/m.026vrq> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-id:Eddie_Irvine ,
+		<http://d-nb.info/gnd/121304728> ,
+		wikidata:Q171397 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-nl:Eddie_Irvine .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-pl:Eddie_Irvine .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-it:Eddie_Irvine .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-pt:Eddie_Irvine .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-cs:Eddie_Irvine .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Eddie_Irvine	owl:sameAs	dbpedia-de:Eddie_Irvine ,
+		<http://ja.dbpedia.org/resource/\u30A8\u30C7\u30A3\u30FB\u30A2\u30FC\u30D0\u30A4\u30F3> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Eddie_Irvine	dct:subject	dbc:Living_people ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:People_educated_at_Regent_House_Grammar_School ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:People_from_Newtownards ,
+		dbc:Formula_Ford_drivers ,
+		dbc:Jordan_Formula_One_drivers ,
+		dbc:Formula_One_drivers_from_Northern_Ireland ,
+		dbc:People_from_Dalkey ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Japanese_Formula_3000_Championship_drivers ,
+		dbc:Jaguar_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1965_births> ,
+		dbc:Racing_drivers_from_Northern_Ireland ,
+		dbc:International_Formula_3000_drivers ;
+	foaf:name	"Eddie Irvine"@en ;
+	foaf:homepage	<http://www.eddieirvine.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Eddie_Irvine_-_Ferrari_portrait.jpg> ;
+	dct:description	"British racecar driver"@en ;
+	foaf:givenName	"Eddie"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Eddie_Irvine ;
+	foaf:surname	"Irvine"@en ;
+	dbp:title	dbr:Hawthorn_Memorial_Trophy ,
+		dbr:Autosport ,
+		"British Competition Driver of the Year"^^xsd:string ,
+		dbr:British_Formula_Ford_Championship ,
+		dbr:Formula_Ford_Festival ,
+		"British Club Driver of the Year"^^xsd:string ;
+	dbp:years	"\u2013"^^xsd:string ,
+		1987 ,
+		1999 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Eddie_Irvine	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Eddie_Irvine?oldid=737150264> ;
+	dbp:before	<http://dbpedia.org/resource/Paul_Warwick_(racing_driver)> ,
+		<http://dbpedia.org/resource/Jason_Elliot_(driver)> ,
+		dbr:Roland_Ratzenberger ,
+		dbr:David_Coulthard ,
+		dbr:Dario_Franchitti ;
+	dbp:after	dbr:Allan_McNish ,
+		dbr:Vincenzo_Sospiri ,
+		dbr:David_Coulthard ,
+		dbr:Derek_Higgins ;
+	dbp:birthPlace	"Newtownards, County Down, Northern Ireland"^^xsd:string ;
+	dbp:birthName	"Edmund Irvine, Jr."^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1999_Australian_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1999_Malaysian_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Eddie_Irvine	dbp:birthDate	"1965-11-10"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.eddieirvine.com/> ;
+	dbo:abstract	"\u0625\u062F\u064A \u0625\u064A\u0631\u0641\u064A\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0646\u0648\u0641\u0645\u0628\u0631 1965 \u0641\u064A \u0645\u0642\u0627\u0637\u0639\u0629 \u062F\u0627\u0648\u0646\u060C \u0623\u064A\u0631\u0644\u0646\u062F\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1992. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1993\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1999. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 148 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 4 \u0645\u0646\u0647\u0627."@ar ,
+		"Edmund \u201EEddie\u201C Irvine junior (* 10. November 1965 in Newtownards, Nordirland) ist ein ehemaliger britischer Automobilrennfahrer. Er startete zwischen 1993 und 2002 in der h\u00F6chsten automobilen Motorsportklasse Formel 1 und wurde dort 1999 Vizeweltmeister."@de ,
+		"Edmund 'Eddie' Irvine, jr. (Newtownards, 10 november 1965) is een voormalig Formule 1-coureur. Hij werd geboren in Noord-Ierland, en begon zijn carri\u00E8re in 1983. Hij begon in de Formule 3 in 1988 voordat hij doorging naar de Formule 3000 in 1989. In 1990 begon hij te racen voor het Jordan-team in de Formula 3000, en hij begon in 1993 opnieuw voor Jordan in Formule 1. In 1996 vertrok hij naar Scuderia Ferrari, waar hij vier seizoenen naast Michael Schumacher heeft gereden en in 1999 net naast de titel greep. In 2000 ging hij voor twee jaar naar het nieuwe Jaguar Racing, waar hijzelf aan meegeholpen heeft bij de opzet ervan. De goede prestaties bleven echter uit, Eddie zag het niet meer zitten en stapte uit de Formule 1. Zijn team werd later overgenomen door Red Bull Racing. Eddie Irvine stond bekend, vooral in de vroege jaren van zijn carri\u00E8re, als erg competitief. Zelfs als hij een zwakkere auto had en achter in de opstelling begon, probeerde hij de race bij de start al te winnen, en veroorzaakte ongelukken die zowel hemzelf als anderen voortijdig uit de race haalden. Hij was ook bekend als rokkenjager, en doordat hij niet goed met autoriteit overweg kon. Tijdens zijn debuut met Jordan in Suzuka in 1993 lag Irvine een ronde achter op Ayrton Senna. Hoewel hoogst ongebruikelijk, haalde Irvine Senna in om zichzelf van de ronde achterstand te ontdoen en haalde daarop direct Damon Hill in, met wie hij in direct gevecht was. Na de race liep Senna de Jordan garage in en verkocht Irvine een klap. Irvine heeft regelmatig mensen tegen zich in het harnas gejaagd door zijn uitspraken. Het aantal gevaarlijke ongelukken waarbij hij betrokken was, verminderde toen hij naar Ferrari ging."@nl ,
+		"Edmund Irvine, dit Eddie Irvine, n\u00E9 le 10 novembre 1965 \u00E0 Bangor, est un pilote automobile nord-irlandais. Il a notamment disput\u00E9 146 Grands Prix de Formule 1 entre 1993 et 2002 et remport\u00E9 quatre victoires pour un titre de vice-champion du monde en 1999."@fr ,
+		"Edmund \"Eddie\" Irvine, Jr. (nacido el 10 de noviembre de 1965) es un piloto retirado norirland\u00E9s de F\u00F3rmula 1, que corri\u00F3 en dicha categor\u00EDa para las escuder\u00EDas Jordan, Ferrari y Jaguar. A lo largo de su carrera, Irvine obtuvo 4 victorias y 26 podios; result\u00F3 subcampe\u00F3n en 1999, cuarto en 1998 y s\u00E9ptimo en 1997."@es ,
+		"Edmund \"Eddie\" Irvine, Jr. (born 10 November 1965) is a retired British racing driver from Northern Ireland. He was the runner-up in 1999 Formula One World Drivers' Championship, driving for Ferrari. Irvine was influenced by his parents to enter motor racing. He began his career at the age of seventeen when he entered the Formula Ford Championship achieving early success, before progressing to the Formula Three and Formula 3000 Championships. He first drove in Formula One with the Jordan team in 1993 season, where he achieved early notoriety for his involvement in incidents during his early career. He clinched his first podium finish in 1995 before moving to Ferrari in 1996. His most successful season was in 1999 when he took four victories and challenged McLaren driver Mika H\u00E4kkinen for the World Championship, eventually finishing the runner-up. He moved to Jaguar in 2000 and endured poor results but managed to clinch his team's first podium in 2001 and another podium in 2002. Irvine left Jaguar due to friction within his team and announced his retirement from competitive motorsport when he did not secure a race seat. Since leaving motorsport, Irvine became a media personality in Britain. He was also linked with the takeover of the Jordan and Minardi teams in 2005, with talks coming to nothing. Irvine also expanded his interests into the property market, having built up an investment during his racing career."@en ,
+		"Proveniente dall'Irlanda del Nord, dopo aver gareggiato per vari anni nelle categorie minori dell'automobilismo, vincendo il titolo di Formula Ford britannica nel 1987, riusc\u00EC a partecipare a dieci campionati di Formula 1, dal 1993 al 2002. Il suo debutto avvenne con la Jordan, scuderia con cui corse fino al 1995. Nel 1996 venne assunto dalla Ferrari e ottenne i suoi migliori risultati: quattro gare vinte e un secondo posto finale nella classifica piloti del Campionato di Formula 1 del 1999. Passato alla Jaguar Racing nel 2000, chiuse la carriera nella massima serie con il team inglese due stagioni pi\u00F9 tardi. Terminata l'esperienza in Formula 1 si ritir\u00F2 dal mondo delle corse, dedicandosi alla gestione di varie societ\u00E0 di sua propriet\u00E0. Irvine \u00E8, insieme a Bruce McLaren, il pilota ad aver ottenuto pi\u00F9 vittorie nella massima serie senza aver mai realizzato una pole position."@it ,
+		"Edmund Irvine jr (ur. 10 listopada 1965 w Newtownards) \u2013 brytyjski kierowca wy\u015Bcigowy. Startowa\u0142 w Formule 1 w sezonach 1993-2002. Na pocz\u0105tku \u015Bciga\u0142 si\u0119 bez wi\u0119kszych sukces\u00F3w w barwach zespo\u0142u Jordan. Potem startowa\u0142 przez 4 sezony w Ferrari i w tym okresie odnosi\u0142 najwi\u0119ksze sukcesy w karierze \u2013 w sezonie 1999 zdoby\u0142 tytu\u0142 wicemistrza \u015Bwiata. Po odej\u015Bciu z Ferrari trafi\u0142 do zespo\u0142u Jaguar Racing, gdzie startowa\u0142 do ko\u0144ca sezonu 2002. Z ko\u0144cem tego roku zako\u0144czy\u0142 karier\u0119. Przez ca\u0142\u0105 karier\u0119 wygra\u0142 4 wy\u015Bcigi (wszystkie wy\u015Bcigi wygra\u0142 w swoim najlepszym sezonie w karierze, czyli w 1999). Znany jest te\u017C z licznych podboj\u00F3w mi\u0142osnych m.in. ze zwi\u0105zku ze znan\u0105 modelk\u0105 Katie Price."@pl ,
+		"\u042D\u0434\u043C\u0443\u043D\u0434 \u0418\u0440\u0432\u0430\u0439\u043D-\u043C\u043B\u0430\u0434\u0448\u0438\u0439 (\u0430\u043D\u0433\u043B. Edmund Irvine Jr.; 10 \u043D\u043E\u044F\u0431\u0440\u044F 1965) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0433\u043E\u043D\u0449\u0438\u043A \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u044D\u0442\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0438\u0440\u043B\u0430\u043D\u0434\u0435\u0446. \u0420\u043E\u0434\u0438\u043B\u0441\u044F \u0438 \u0432\u044B\u0440\u043E\u0441 \u0432 \u0421\u0435\u0432\u0435\u0440\u043D\u043E\u0439 \u0418\u0440\u043B\u0430\u043D\u0434\u0438\u0438, \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u041A\u043E\u043D\u043B\u0438\u0433. \u041F\u0440\u043E\u0436\u0438\u0432\u0430\u0435\u0442 \u0432 \u0414\u0443\u0431\u043B\u0438\u043D\u0435, \u0418\u0440\u043B\u0430\u043D\u0434\u0438\u044F."@ru ,
+		"Edmund Irvine ou mais conhecido como Eddie Irvine (Newtownards, 10 de novembro de 1965) \u00E9 um ex-piloto de F\u00F3rmula 1 da Irlanda do Norte. O seu pai, Eddie Irvine Sr. estava envolvido no automobilismo, e a sua irm\u00E3, Sonia, tamb\u00E9m. Mais tarde, foi ela que geria a carreira do irm\u00E3o na Formula 1. Eddie come\u00E7ou a guiar em 1983, na Formula Ford, e em 1987, ganha o campeonato birt\u00E2nico, bem como o Formula Ford Festival, no circuito de Brands Hatch. Em 1988 chega \u00E0 Formula 3 inglesa, e no ano seguinte, passa para a Formula 3000. No ano seguinte, foi correr na Jordan de Formula 3000, e as suas presta\u00E7\u00F5es ao volante impressionaram Eddie Jordan, mas quando este foi montar a sua equipa de Formula 1, no ano seguinte, n\u00E3o levou Irvine com ele. Em vez disso, foi para o Jap\u00E3o, fazer carreira na Formula Nippon, onde l\u00E1 ficou entre 1991 e 1993."@pt ,
+		"\u30A8\u30C9\u30E0\u30F3\u30C9\u30FB\"\u30A8\u30C7\u30A3\"\u30FB\u30A2\u30FC\u30D0\u30A4\u30F3\uFF08Edmund \"Eddie\" Irvine, 1965\u5E7411\u670810\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u72EC\u8EAB\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Eddie_Irvine_-_Ferrari_portrait.jpg?width=300> ;
+	dbo:birthDate	"1965-11-10"^^xsd:date ;
+	dbo:wikiPageRevisionID	737150264 ;
+	dbo:birthPlace	dbr:Newtownards ;
+	dbo:wikiPageID	424417 ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1993_Japanese_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/2002_Japanese_Grand_Prix> ;
+	dbo:podiums	"26"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"148"^^xsd:nonNegativeInteger ;
+	dbo:wins	"4"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scuderia_Ferrari ,
+		dbr:Jaguar_Racing ,
+		dbr:Jordan_Grand_Prix ;
+	dbp:nationality	"British"^^xsd:string .
+dbr:Edmund_Irvine	dbo:wikiPageRedirects	dbr:Eddie_Irvine .
+@prefix ns29:	<http://dbpedia.org/resource/1989_Macau_Grand_Prix__West_Surrey_Racing_w/> .
+ns29:_Theodore_Racing__2	dbo:firstDriver	dbr:Eddie_Irvine .
+<http://dbpedia.org/resource/1990_Macau_Grand_Prix__Marlboro_Team_Theodore__1>	dbo:firstDriver	dbr:Eddie_Irvine .

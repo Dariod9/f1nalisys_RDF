@@ -1,0 +1,120 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Franco_Rol	foaf:primaryTopic	dbr:Franco_Rol .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Franco_Rol	rdf:type	yago:WikicatItalianFormulaOneDrivers ,
+		yago:CausalAgent100007347 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Franco_Rol	rdf:type	dbo:Person ,
+		dbo:MotorsportRacer ,
+		yago:Driver110034906 ,
+		yago:WikicatMaseratiFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Franco_Rol	rdf:type	wikidata:Q378622 ,
+		dbo:RacingDriver ,
+		yago:WikicatOSCAFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Franco_Rol	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Franco_Rol	rdf:type	owl:Thing ,
+		dbo:FormulaOneRacer ,
+		dbo:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Franco_Rol	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		wikidata:Q215627 ,
+		foaf:Person ,
+		wikidata:Q24229398 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Franco_Rol	rdf:type	ns10:Agent ,
+		ns10:NaturalPerson ,
+		yago:Operator110378412 ,
+		dbo:Athlete .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Franco_Rol	rdfs:label	"Franco Rol"@fr ,
+		"Franco Rol"@en ,
+		"Franco Rol"@it ,
+		"\u0420\u043E\u043B\u044C, \u0424\u0440\u0430\u043D\u043A\u043E"@ru ,
+		"Franco Rol"@de ,
+		"Franco Rol"@pl ,
+		"Franco Rol"@nl ,
+		"Franco Rol"@pt ;
+	rdfs:comment	"Franco Rol Franco Rol (n\u00E9 le 5 juin 1908 \u00E0 Turin et mort le 8 juin 1977) est un ancien pilote italien de course automobile,"@fr ,
+		"Franco Rol (* 5. Juni 1908 in Turin; \u2020 18. Juni 1977 Rapallo) war ein italienischer Autorennfahrer. Franco Rol war ein italienischer Aristokrat, der als Herrenfahrer in den 1940er-Jahren mit dem Motorsport begann. Sein Alfa Romeo hatte ein spezielles, kurzes Chassis und Rol f\u00FChrte damit 1948 den Gro\u00DFen Preis von Sizilien an, ehe ihn ein Motorschaden stoppte. 1949 wurde er Dritter bei der Mille Miglia. 1951 wechselte er ins Team von OSCA, bestritt aber nur das Rennen in Monza, das er als Neunter beendete."@de ,
+		"\u0424\u0440\u0430\u0301\u043D\u043A\u043E \u0420\u043E\u043B\u044C (\u0438\u0442\u0430\u043B. Franco Rol, 5 \u0438\u044E\u043D\u044F 1908, \u0422\u0443\u0440\u0438\u043D \u2014 18 \u0438\u044E\u043D\u044F 1977, \u0420\u0430\u043F\u0430\u043B\u043B\u043E) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"Franco Rol (June 5, 1908 in Turin \u2013 June 18, 1977 in Rapallo ) was a racing driver from Italy. He participated in five Formula One World Championship Grands Prix, debuting on May 21, 1950. He scored no championship points. He also participated in many non-championship Formula One events."@en ,
+		"Franco Rol (Turijn, 5 juni 1908 \u2013 Rapallo, 18 juni 1977) was een Formule 1-coureur uit Itali\u00EB. Hij nam tussen 1950 en 1952 deel aan vijf Grands Prix voor de teams Maserati en O.S.C.A., maar scoorde hierin geen punten."@nl ,
+		"Franco Rol (ur. 5 czerwca 1908 roku w Turynie, zm. 18 czerwca 1977 roku w Rapallo) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Franco Rol (Turim, 5 de junho de 1908  \u2014 Rapallo, 18 de junho de 1977) foi um automobilista italiano que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1952."@pt .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Franco_Rol	dbp:points	0 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Franco_Rol	owl:sameAs	dbpedia-wikidata:Q172069 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Franco_Rol	owl:sameAs	dbpedia-pl:Franco_Rol .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Franco_Rol	owl:sameAs	dbpedia-cs:Franco_Rol ,
+		dbr:Franco_Rol .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Franco_Rol	owl:sameAs	dbpedia-fr:Franco_Rol ,
+		wikidata:Q172069 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Franco_Rol	owl:sameAs	dbpedia-de:Franco_Rol ,
+		<http://rdf.freebase.com/ns/m.04k8bb> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Franco_Rol	owl:sameAs	yago-res:Franco_Rol .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Franco_Rol	owl:sameAs	dbpedia-nl:Franco_Rol .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Franco_Rol	owl:sameAs	dbpedia-it:Franco_Rol .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Franco_Rol	owl:sameAs	dbpedia-pt:Franco_Rol .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Franco_Rol	dct:subject	dbc:Italian_Formula_One_drivers ,
+		dbc:OSCA_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Maserati_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1977_deaths> ,
+		<http://dbpedia.org/resource/Category:1908_births> ;
+	foaf:name	"Franco Rol"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Franco"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Franco_Rol ;
+	foaf:surname	"Rol"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Franco_Rol	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Franco_Rol?oldid=704423158> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Franco_Rol	dbp:birthDate	"1908-06-05"^^xsd:date ;
+	dbp:deathDate	"1977-06-18"^^xsd:date ;
+	dbo:abstract	"Franco Rol (ur. 5 czerwca 1908 roku w Turynie, zm. 18 czerwca 1977 roku w Rapallo) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Franco Rol (June 5, 1908 in Turin \u2013 June 18, 1977 in Rapallo ) was a racing driver from Italy. He participated in five Formula One World Championship Grands Prix, debuting on May 21, 1950. He scored no championship points. He also participated in many non-championship Formula One events."@en ,
+		"\u0424\u0440\u0430\u0301\u043D\u043A\u043E \u0420\u043E\u043B\u044C (\u0438\u0442\u0430\u043B. Franco Rol, 5 \u0438\u044E\u043D\u044F 1908, \u0422\u0443\u0440\u0438\u043D \u2014 18 \u0438\u044E\u043D\u044F 1977, \u0420\u0430\u043F\u0430\u043B\u043B\u043E) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"Franco Rol (Turijn, 5 juni 1908 \u2013 Rapallo, 18 juni 1977) was een Formule 1-coureur uit Itali\u00EB. Hij nam tussen 1950 en 1952 deel aan vijf Grands Prix voor de teams Maserati en O.S.C.A., maar scoorde hierin geen punten."@nl ,
+		"Franco Rol (* 5. Juni 1908 in Turin; \u2020 18. Juni 1977 Rapallo) war ein italienischer Autorennfahrer. Franco Rol war ein italienischer Aristokrat, der als Herrenfahrer in den 1940er-Jahren mit dem Motorsport begann. Sein Alfa Romeo hatte ein spezielles, kurzes Chassis und Rol f\u00FChrte damit 1948 den Gro\u00DFen Preis von Sizilien an, ehe ihn ein Motorschaden stoppte. 1949 wurde er Dritter bei der Mille Miglia. 1950 kam er in die Formel 1. Er wurde Teamkollege von Louis Chiron bei Maserati. Sein Deb\u00FCt gab er beim Gro\u00DFen Preis von Monaco, wo er in die Startkollision der ersten Runde verwickelt war. Auch die Rennen in Frankreich und Italien gingen f\u00FCr Rol ohne z\u00E4hlbares Ergebnis zu Ende. 1951 wechselte er ins Team von OSCA, bestritt aber nur das Rennen in Monza, das er als Neunter beendete. 1953 endete die Karriere von Rol nach einem schweren Unfall bei einem Stra\u00DFenrennen in Sizilien. Rol \u00FCberlebte einen heftigen Einschlag in einer Mauer mit schweren Verletzungen, konnte wieder vollst\u00E4ndig genesen, fuhr aber keine Rennen mehr."@de ,
+		"Franco Rol Franco Rol (n\u00E9 le 5 juin 1908 \u00E0 Turin et mort le 8 juin 1977) est un ancien pilote italien de course automobile,"@fr ,
+		"Franco Rol (Turim, 5 de junho de 1908  \u2014 Rapallo, 18 de junho de 1977) foi um automobilista italiano que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1952."@pt ;
+	dbo:birthDate	"1908-6-5"^^xsd:date ;
+	dbo:deathDate	"1977-6-18"^^xsd:date ;
+	dbo:deathPlace	dbr:Rapallo ;
+	dbo:wikiPageRevisionID	704423158 ;
+	dbo:birthPlace	dbr:Turin ;
+	dbo:wikiPageID	1228359 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Franco_Rol	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_Monaco_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1952_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"5"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport ,
+		<http://dbpedia.org/resource/O.S.C.A.> ;
+	dbp:nationality	"Italian"^^xsd:string .

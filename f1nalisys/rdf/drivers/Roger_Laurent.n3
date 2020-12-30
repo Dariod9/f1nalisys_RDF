@@ -1,0 +1,123 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__9__1>	dbo:firstDriver	dbr:Roger_Laurent .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Roger_Laurent	foaf:primaryTopic	dbr:Roger_Laurent .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Roger_Laurent	rdf:type	foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Roger_Laurent	rdf:type	yago:WikicatBelgianFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Roger_Laurent	rdf:type	schema:Person ,
+		dbo:Athlete ,
+		yago:WikicatBelgianMotorcycleRacers ,
+		yago:WikicatEcurieFrancorchampsFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Roger_Laurent	rdf:type	wikidata:Q5 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Roger_Laurent	rdf:type	ns8:Agent ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		dbo:Agent ,
+		wikidata:Q378622 ,
+		ns8:NaturalPerson ,
+		yago:Racer110502576 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneRacer ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 ,
+		dbo:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Roger_Laurent	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		dbo:RacingDriver ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Roger_Laurent	rdfs:label	"Roger Laurent"@de ,
+		"Roger Laurent"@en ,
+		"Roger Laurent (pilote)"@fr ,
+		"Roger Laurent"@nl ,
+		"Roger Laurent"@pt ,
+		"Roger Laurent"@it ,
+		"Roger Laurent"@pl ;
+	rdfs:comment	"Roger Laurent (21 February 1913 \u2013 6 February 1997) was a racing driver and motorcycle racer from Belgium. He was born in Li\u00E8ge and died in Uccle. Laurent competed aboard a Moto Guzzi in the 1949 Grand Prix motorcycle racing season, entering the Belgian Grand Prix. He also participated in two World Championship Formula One Grands Prix, debuting on 22 June 1952. He scored no championship points."@en ,
+		"Roger Laurent (Luik, 21 februari 1913 \u2013 Ukkel, 6 februari 1997) was een Formule 1-coureur uit Belgi\u00EB. In 1952 nam hij deel aan twee Grand Prix-wedstrijden voor de teams HWM en Ferrari, waarin hij geen punten scoorde."@nl ,
+		"Ha partecipato a 2 Gran Premi di Formula 1 nel 1952. Il miglior piazzamento \u00E8 stato il sesto posto conquistato in Germania."@it ,
+		"Roger Laurent est un coureur automobile belge n\u00E9 le 21 f\u00E9vrier 1913 \u00E0 Li\u00E8ge et d\u00E9c\u00E9d\u00E9 le 6 f\u00E9vrier 1997 \u00E0 Uccle. Il commence la comp\u00E9tition par le sport motocycliste, o\u00F9 il r\u00E9alise de bons r\u00E9sultats dans les ann\u00E9es 1940, puis il se lance dans la course automobile apr\u00E8s guerre sur Veritas RS. En 1951, il participe \u00E0 sa premi\u00E8re course de Formule 1, hors-championnat."@fr ,
+		"Roger Laurent (ur. 21 lutego 1913 w Li\u00E8ge, zm. 6 lutego 1997 w Ukkel) \u2013 belgijski kierowca wy\u015Bcigowy i motocyklowy, pi\u0119ciokrotny motocyklowy mistrz Belgii, uczestnik dw\u00F3ch Grand Prix Formu\u0142y 1."@pl ,
+		"Roger Laurent (Li\u00E8ge, B\u00E9lgica, 21 de fevereiro de 1913 \u2013 Uccle, B\u00E9lgica, 6 de fevereiro de 1997) foi um automobilista belga que participou dos Grandes Pr\u00EAmios da B\u00E9lgica e da Alemanha em 1952."@pt ,
+		"Roger Laurent (* 21. Februar 1913 in L\u00FCttich; \u2020 6. Februar 1997 in Uccle) war ein belgischer Motorrad- und Automobilrennfahrer."@de .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Roger_Laurent	dbp:points	0 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Roger_Laurent	owl:sameAs	dbpedia-wikidata:Q146857 ,
+		<http://fr.dbpedia.org/resource/Roger_Laurent_(pilote)> ,
+		dbr:Roger_Laurent .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Roger_Laurent	owl:sameAs	yago-res:Roger_Laurent .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Roger_Laurent	owl:sameAs	dbpedia-de:Roger_Laurent .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Roger_Laurent	owl:sameAs	dbpedia-nl:Roger_Laurent .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Roger_Laurent	owl:sameAs	dbpedia-pl:Roger_Laurent ,
+		<http://rdf.freebase.com/ns/m.04kxd4> ,
+		wikidata:Q146857 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Roger_Laurent	owl:sameAs	dbpedia-pt:Roger_Laurent .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Roger_Laurent	owl:sameAs	dbpedia-it:Roger_Laurent .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Roger_Laurent	dct:subject	<http://dbpedia.org/resource/Category:500cc_World_Championship_riders> ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Li\u00E8ge> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Roger_Laurent	dct:subject	dbc:Belgian_motorcycle_racers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:Hersham_and_Walton_Motors_Formula_One_drivers ,
+		dbc:Belgian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1997_deaths> ,
+		dbc:Belgian_Formula_One_drivers ,
+		dbc:Ecurie_Francorchamps_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1913_births> ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Roger Laurent"@en ;
+	dct:description	"former racing driver and motorcycle racer from Belgium"@en ;
+	foaf:givenName	"Roger"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Roger_Laurent ;
+	foaf:surname	"Laurent"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Roger_Laurent	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Roger_Laurent?oldid=703979621> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Roger_Laurent	dbp:birthDate	"1913-02-21"^^xsd:date ;
+	dbp:deathDate	"1997-02-06"^^xsd:date ;
+	dbo:abstract	"Ha partecipato a 2 Gran Premi di Formula 1 nel 1952. Il miglior piazzamento \u00E8 stato il sesto posto conquistato in Germania."@it ,
+		"Roger Laurent (* 21. Februar 1913 in L\u00FCttich; \u2020 6. Februar 1997 in Uccle) war ein belgischer Motorrad- und Automobilrennfahrer."@de ,
+		"Roger Laurent (Li\u00E8ge, B\u00E9lgica, 21 de fevereiro de 1913 \u2013 Uccle, B\u00E9lgica, 6 de fevereiro de 1997) foi um automobilista belga que participou dos Grandes Pr\u00EAmios da B\u00E9lgica e da Alemanha em 1952."@pt ,
+		"Roger Laurent (Luik, 21 februari 1913 \u2013 Ukkel, 6 februari 1997) was een Formule 1-coureur uit Belgi\u00EB. In 1952 nam hij deel aan twee Grand Prix-wedstrijden voor de teams HWM en Ferrari, waarin hij geen punten scoorde."@nl ,
+		"Roger Laurent (ur. 21 lutego 1913 w Li\u00E8ge, zm. 6 lutego 1997 w Ukkel) \u2013 belgijski kierowca wy\u015Bcigowy i motocyklowy, pi\u0119ciokrotny motocyklowy mistrz Belgii, uczestnik dw\u00F3ch Grand Prix Formu\u0142y 1."@pl ,
+		"Roger Laurent est un coureur automobile belge n\u00E9 le 21 f\u00E9vrier 1913 \u00E0 Li\u00E8ge et d\u00E9c\u00E9d\u00E9 le 6 f\u00E9vrier 1997 \u00E0 Uccle. Il commence la comp\u00E9tition par le sport motocycliste, o\u00F9 il r\u00E9alise de bons r\u00E9sultats dans les ann\u00E9es 1940, puis il se lance dans la course automobile apr\u00E8s guerre sur Veritas RS. En 1951, il participe \u00E0 sa premi\u00E8re course de Formule 1, hors-championnat. Il a disput\u00E9 deux Grands Prix comptant pour le Championnat du monde de Formule 1, d\u00E9butant le 22 juin 1952 au Grand Prix de Belgique, sans marquer de point au championnat. Il a \u00E9galement couru six courses hors-championnat, en remportant l'avant dernier Grand Prix de Finlande en 1952 (l'El\u00E4intarhanajot \u00E0 El\u00E4intarharata sur Talbot-Lago, avant de terminer troisi\u00E8me de cette \u00E9preuve deux saisons plus tard en Sport, sur Ferrari). Apr\u00E8s son passage en Formule 1, il fait quelques apparitions en Formule 2, puis il se lance dans les courses de voitures de sport et d'endurance. Il se blesse s\u00E9rieusement \u00E0 la jambe en 1955 (apr\u00E8s avoir \u00E9t\u00E9 troisi\u00E8me du Grand Prix de Spa Sport en mai, sur Ferrari 750 Monza), et il fera ses ultimes courses en 1956 (cinqui\u00E8me du Grand Prix des Fronti\u00E8res Sport en mai sur Ferrari 500 TR, et ultime apparition au Tour de France automobile en septembres, sur D.B.)."@fr ,
+		"Roger Laurent (21 February 1913 \u2013 6 February 1997) was a racing driver and motorcycle racer from Belgium. He was born in Li\u00E8ge and died in Uccle. Laurent competed aboard a Moto Guzzi in the 1949 Grand Prix motorcycle racing season, entering the Belgian Grand Prix. He also participated in two World Championship Formula One Grands Prix, debuting on 22 June 1952. He scored no championship points."@en ;
+	dbo:birthDate	"1913-2-21"^^xsd:date ;
+	dbo:deathDate	"1997-2-6"^^xsd:date ;
+	dbo:deathPlace	dbr:Uccle ;
+	dbo:wikiPageRevisionID	703979621 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Li\u00E8ge> ;
+	dbo:wikiPageID	1235613 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Roger_Laurent	ns23:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_Belgian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1952_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"HWM, non-works Ferrari"^^xsd:string ;
+	dbp:nationality	"Belgian"^^xsd:string .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Roger_Laurent .

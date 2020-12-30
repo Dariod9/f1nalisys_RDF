@@ -1,0 +1,167 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Tony_Brise	dbp:before	dbr:Roger_Williamson .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	dbp:caption	dbr:Roger_Williamson .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Roger_Williamson	foaf:primaryTopic	dbr:Roger_Williamson .
+<http://dbpedia.org/resource/Fran\u00E7ois_Cevert>	dbp:before	dbr:Roger_Williamson .
+<http://dbpedia.org/resource/David_Walker_(racing_driver)>	dbp:after	dbr:Roger_Williamson .
+dbr:Rikky_von_Opel	dbp:before	dbr:Roger_Williamson .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Roger_Williamson	rdf:type	yago:PhysicalEntity100001930 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Roger_Williamson	rdf:type	wikidata:Q378622 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Roger_Williamson	rdf:type	dbo:Athlete ,
+		dbo:MotorsportRacer ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Roger_Williamson	rdf:type	owl:Thing ,
+		dbo:RacingDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Roger_Williamson	rdf:type	schema:Person ,
+		foaf:Person ,
+		dbo:Person ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:CausalAgent100007347 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Roger_Williamson	rdf:type	ns10:Agent ,
+		yago:Operator110378412 ,
+		wikidata:Q24229398 ,
+		yago:Driver110034906 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		wikidata:Q215627 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		ns10:NaturalPerson ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		wikidata:Q5 ,
+		dbo:FormulaOneRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Roger_Williamson	rdfs:label	"Roger Williamson"@fr ,
+		"Roger Williamson"@it ,
+		"Roger Williamson"@de ,
+		"Roger Williamson"@es ,
+		"Roger Williamson"@pt ,
+		"Roger Williamson"@pl ,
+		"Roger Williamson"@en ,
+		"\u30ED\u30B8\u30E3\u30FC\u30FB\u30A6\u30A3\u30EA\u30A2\u30E0\u30BD\u30F3"@ja ,
+		"\u0423\u0438\u043B\u044C\u044F\u043C\u0441\u043E\u043D, \u0420\u043E\u0434\u0436\u0435\u0440"@ru ,
+		"Roger Williamson"@nl ;
+	rdfs:comment	"Roger Williamson (ur. 2 lutego 1948 w Ashby-de-la-Zouch, Leicester, zm. 29 lipca 1973 w Zandvoort) \u2013 brytyjski kierowca wy\u015Bcigowy. Zgin\u0105\u0142 podczas Grand Prix Holandii na torze Zandvoort Circuit. Dwukrotny mistrz Formu\u0142y 3 w latach 1971 i 1972. Dwukrotnie wyst\u0105pi\u0142 w Formule 1. Pierwszy raz, startuj\u0105c w barwach zespo\u0142u March Engineering w Grand Prix Wielkiej Brytanii, ju\u017C na pierwszym okr\u0105\u017Ceniu uczestniczy\u0142 w kolizji, czego efektem by\u0142o wycofanie si\u0119 z wy\u015Bcigu. Zgin\u0105\u0142 w czasie drugiego wyst\u0119pu."@pl ,
+		"Roger Williamson, n\u00E9 le 2 f\u00E9vrier 1948 \u00E0 Ashby-de-la-Zouch, Angleterre et mort le 29 juillet 1973 \u00E0 Zandvoort, Pays-Bas, est un pilote automobile britannique. Il trouva la mort dans un accident survenu \u00E0 l'occasion du GP des Pays-Bas."@fr ,
+		"Roger Williamson (Ashby-de-la-Zouch (Leicester), 2 februari 1948 - Zandvoort, 29 juli 1973) was een Britse autocoureur. Hij kwam in 1973 om tijdens de Formule 1 Grote Prijs Formule 1 van Nederland op het circuit van Zandvoort."@nl ,
+		"\u30ED\u30B8\u30E3\u30FC\u30FB\u30A6\u30A3\u30EA\u30A2\u30E0\u30BD\u30F3\uFF08Roger Williamson, 1948\u5E742\u67082\u65E5 - 1973\u5E747\u670829\u65E5\uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u51FA\u8EAB\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Roger Williamson (2 February 1948 \u2013 29 July 1973) was a British racing driver who died during the 1973 Dutch Grand Prix at Zandvoort Circuit in the Netherlands."@en ,
+		"Roger Williamson (* 2. Februar 1948 in Ashby-de-la-Zouch, Leicestershire, England; \u2020 29. Juli 1973 in Zandvoort, Niederlande) war ein britischer Automobilrennfahrer. Er gewann mehrere Formel-3-Meisterschaften und startete 1973 in der Formel 1. Bei seinem zweiten Formel-1-Rennen in den Niederlanden verungl\u00FCckte er t\u00F6dlich."@de ,
+		"Roger Williamson (Leicestershire, 2 de febrero de 1948-Zandvoort, 29 de julio de 1973), piloto de automovilismo que falleci\u00F3 durante el Gran Premio de los Pa\u00EDses Bajos de 1973, su segunda carrera en la F\u00F3rmula 1."@es ,
+		"\u0420\u043E\u0301\u0434\u0436\u0435\u0440 \u0423\u0438\u0301\u043B\u044C\u044F\u043C\u0441\u043E\u043D (\u0430\u043D\u0433\u043B. Roger Williamson; 2 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1948 \u2014 29 \u0438\u044E\u043B\u044F 1973) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u041F\u043E\u0433\u0438\u0431, \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044F \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0413\u043E\u043B\u043B\u0430\u043D\u0434\u0438\u0438 1973 \u0433\u043E\u0434\u0430. \u0423\u0438\u043B\u044C\u044F\u043C\u0441\u043E\u043D \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0434\u0432\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u043A\u0438\u0445 \u0442\u0438\u0442\u0443\u043B\u0430 \u0432 \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B 3 (1971 \u0438 1972 \u0433\u043E\u0434\u0430). \u0412 1973 \u0423\u0438\u043B\u044C\u044F\u043C\u0441\u043E\u043D \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0435\u043D\u0438\u0435 \u043E\u0442 March Engineering \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0418\u0437-\u0437\u0430 \u0442\u0440\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0438\u0441\u0445\u043E\u0434\u0430 \u0435\u0433\u043E \u0432\u0442\u043E\u0440\u043E\u0439 \u0433\u043E\u043D\u043A\u0438, \u0432 \u043F\u043E\u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0435 \u0433\u043E\u0434\u044B \u0441\u0442\u0430\u043B\u0438 \u0430\u043A\u0442\u0438\u0432\u043D\u043E \u0437\u0430\u043D\u0438\u043C\u0430\u0442\u044C\u0441\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\u044E \u0442\u0440\u0430\u0441\u0441 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0411\u043E\u043B\u0438\u0434 \u0423\u0438\u043B\u044C\u044F\u043C\u0441\u043E\u043D\u0430 \u0432\u0440\u0435\u0437\u0430\u043B\u0441\u044F \u0432 \u043E\u0442\u0431\u043E\u0439\u043D\u0438\u043A \u0438, \u043F\u0435\u0440\u0435\u0432\u0435\u0440\u043D\u0443\u0432\u0448\u0438\u0441\u044C, \u0437\u0430\u0433\u043E\u0440\u0435\u043B\u0441\u044F. \u0414\u044D\u0432\u0438\u0434 \u041F\u044D\u0440\u043B\u0438 \u043E\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u043B\u0441\u044F \u0438 \u043F\u044B\u0442\u0430\u043B\u0441\u044F \u0432\u044B\u0442\u0430\u0449\u0438\u0442\u044C \u0420\u043E\u0434\u0436\u0435\u0440\u0430, \u043D\u043E \u0442\u043E\u0442 \u0437\u0430\u0434\u043E\u0445\u043D\u0443\u043B\u0441\u044F \u043E\u0442 \u0434\u044B\u043C\u0430. \u0418\u043C\u0435\u0432\u0448\u0438\u0435 \u043F\u0440\u0438 \u0441\u0435\u0431\u0435 \u043E\u0433\u043D\u0435\u0442\u0443\u0448\u0438\u0442\u0435\u043B\u0438 \u043C\u0430\u0440\u0448\u0430\u043B\u044B \u043D\u0435 \u0440\u0438\u0441\u043A\u043D\u0443\u043B\u0438 \u043F\u0440\u0438\u0431\u043B\u0438\u0436\u0430\u0442\u044C\u0441\u044F \u043A \u0431\u043E\u043B\u0438\u0434\u0443, \u0447\u0435\u0439 \u0431\u0435\u043D\u0437\u043E\u0431\u0430\u043A \u043C\u043E\u0433 \u0432\u0437\u043E\u0440\u0432\u0430\u0442\u044C\u0441\u044F, \u0438 \u0437\u0430\u043D\u0438\u043C\u0430\u043B\u0438\u0441\u044C \u0441\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u043D\u0438\u0435\u043C \u0437\u0440\u0438\u0442\u0435\u043B\u0435\u0439, \u0441\u0442\u0440\u0435\u043C\u0438\u0432\u0448\u0438\u0445\u0441\u044F \u043F\u043E\u043C\u043E\u0447\u044C \u0423\u0438\u043B\u044C\u044F\u043C\u0441\u043E\u043D\u0443."@ru ,
+		"Roger Williamson (Ashby-de-la-Zouch, 2 de fevereiro de 1948 \u2014 Zandvoort, 29 de julho de 1973) foi um piloto ingl\u00EAs de F\u00F3rmula 1, que morreu durante o Grande Pr\u00EAmio da Holanda de 1973. Williamson ganhou os campeonatos da F\u00F3rmula 3 inglesa de 1971 e 1972. Em 1973, Williamson teve uma chance de correr pela equipe March. Para a sua segunda corrida, o circuito escolhido foi o holand\u00EAs, depois de 1 ano sem corridas a fim de melhorar as condi\u00E7\u00F5es de seguran\u00E7a na pista."@pt ;
+	dbp:points	0 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-de:Roger_Williamson ,
+		<http://rdf.freebase.com/ns/m.04kxdw> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-pt:Roger_Williamson .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-it:Roger_Williamson .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-pl:Roger_Williamson .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-fr:Roger_Williamson .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-wikidata:Q171501 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-id:Roger_Williamson .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-nl:Roger_Williamson .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	yago-res:Roger_Williamson ,
+		<http://ja.dbpedia.org/resource/\u30ED\u30B8\u30E3\u30FC\u30FB\u30A6\u30A3\u30EA\u30A2\u30E0\u30BD\u30F3> ,
+		<http://viaf.org/viaf/12271166> ,
+		dbr:Roger_Williamson ,
+		wikidata:Q171501 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-cs:Roger_Williamson .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Roger_Williamson	owl:sameAs	dbpedia-es:Roger_Williamson .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Roger_Williamson	dct:subject	dbc:March_Formula_One_drivers ,
+		dbc:Filmed_deaths_in_sports ,
+		dbc:People_from_Ashby-de-la-Zouch ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:English_racing_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:English_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1948_births> ,
+		dbc:Deaths_from_asphyxiation ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Sport_deaths_in_the_Netherlands ,
+		<http://dbpedia.org/resource/Category:1973_deaths> ;
+	foaf:name	"Roger Williamson"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Grand_Prix_van_Nederland_op_circuit_Zandvoort;_o.a._verongelukte_racewagen_van_Roger_Williamson.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Roger"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Roger_Williamson ;
+	foaf:surname	"Williamson"@en ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents ,
+		"British Formula 3 ChampionshipBRSCC Motorsport/Shell Series Champion"^^xsd:string ,
+		"British Formula 3 ChampionshipBRSCC North Central Lombard Series Champion"^^xsd:string ,
+		"British Formula 3 ChampionshipBARC Series Champion"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Roger_Williamson	dbp:years	"1973-07-29"^^xsd:date ,
+		1971 ,
+		1972 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Roger_Williamson	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Roger_Williamson?oldid=744815746> ;
+	dbp:before	<http://dbpedia.org/resource/David_Walker_(racing_driver)> ,
+		dbr:Jo_Siffert ;
+	dbp:after	dbr:Tony_Brise ,
+		<http://dbpedia.org/resource/Ian_Taylor_(racing_driver)> ,
+		<http://dbpedia.org/resource/Fran\u00E7ois_Cevert> ,
+		dbr:Rikky_von_Opel ;
+	dbp:birthPlace	dbr:England ,
+		dbr:North_West_Leicestershire ,
+		dbr:Ashby-de-la-Zouch ;
+	dbp:deathPlace	dbr:Zandvoort ,
+		dbr:Netherlands ;
+	dbp:birthDate	"1948-02-02"^^xsd:date ;
+	dbp:deathDate	"1973-07-29"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.archive.worldpressphoto.org/search/layout/result/indeling/detailwpp/form/wpp/start/1/q/photographer/Cor%20Mooij/q/ishoofdafbeelding/true?id=wpp%3Acol1%3Adat4459> ,
+		<http://www.asag.sk/bio/williamson.htm> ,
+		<http://www.formulaone.free-online.co.uk/formulaone/drivers/rwilliamson/index.html> ;
+	dbo:abstract	"Roger Williamson (Ashby-de-la-Zouch, 2 de fevereiro de 1948 \u2014 Zandvoort, 29 de julho de 1973) foi um piloto ingl\u00EAs de F\u00F3rmula 1, que morreu durante o Grande Pr\u00EAmio da Holanda de 1973. Williamson ganhou os campeonatos da F\u00F3rmula 3 inglesa de 1971 e 1972. Em 1973, Williamson teve uma chance de correr pela equipe March. Para a sua segunda corrida, o circuito escolhido foi o holand\u00EAs, depois de 1 ano sem corridas a fim de melhorar as condi\u00E7\u00F5es de seguran\u00E7a na pista. Durante a corrida, o pneu do carro de Williamson estourou; seu carro bateu no muro de conten\u00E7\u00E3o e foi arrastando-se por 275 metros, quando atravessou a pista e finalmente estacionou no muro de conten\u00E7\u00E3o oposto. Durante o arrasto, o tanque riscou o asfalto, efeito similar ao de um palito de f\u00F3sforo sendo friccionado contra a caixa. O carro parou de cabe\u00E7a para baixo, impossibilitando a sa\u00EDda de Williamson. Seu compatriota e amigo David Purley, embora n\u00E3o sendo da mesma equipe, abandonou sua pr\u00F3pria corrida na tentativa desesperada de resgatar o amigo. Williamson n\u00E3o sofreu maiores escoria\u00E7\u00F5es na batida, e ouviram-o gritando por Purley para tir\u00E1-lo do carro, virando o mesmo. Inicialmente os comentaristas da TV holandesa, os fiscais de prova e os outros pilotos pensaram que o carro ali destro\u00E7ado era de Purley, vendo-o tentando virar o carro, conclu\u00EDram que o piloto estava bem. Resultado: a corrida prosseguiu tranquilamente, enquanto Purley tentava salvar seu amigo. Desesperado, Purley gesticulava pedindo ajuda aos comiss\u00E1rios (que pouco mais podiam fazer do que olhar) e tentou at\u00E9 desvirar o carro sozinho. Ao perceber que nada mais poderia ser feito por Williamson, Purley caminhou desolado, a esmo, chegando a ficar no meio da pista, com os demais pilotos passando em alta velocidade. Detalhe: a corrida prosseguiu normalmente - o m\u00E1ximo que se fez nessa situa\u00E7\u00E3o foi sinalizar o local com bandeira amarela. Como n\u00E3o poderia deixar de ser, os organizadores holandeses foram acusados de incompetentes para baixo. Anos depois, surgiu uma vers\u00E3o de que o diretor de prova havia olhado de seu posto para o local do acidente com um bin\u00F3culo (lembrem-se de que n\u00E3o havia ainda o aparato televisivo de hoje). Ao ver um piloto andando perto do carro em chamas, o diretor teria conclu\u00EDdo que tudo estava bem e que os danos eram apenas materiais - da\u00ED a decis\u00E3o de n\u00E3o paralisar a corrida. Verdade ou n\u00E3o, o fato \u00E9 que Williamson morreu asfixiado."@pt ,
+		"\u0420\u043E\u0301\u0434\u0436\u0435\u0440 \u0423\u0438\u0301\u043B\u044C\u044F\u043C\u0441\u043E\u043D (\u0430\u043D\u0433\u043B. Roger Williamson; 2 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1948 \u2014 29 \u0438\u044E\u043B\u044F 1973) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u041F\u043E\u0433\u0438\u0431, \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044F \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0413\u043E\u043B\u043B\u0430\u043D\u0434\u0438\u0438 1973 \u0433\u043E\u0434\u0430. \u0423\u0438\u043B\u044C\u044F\u043C\u0441\u043E\u043D \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0434\u0432\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u043A\u0438\u0445 \u0442\u0438\u0442\u0443\u043B\u0430 \u0432 \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B 3 (1971 \u0438 1972 \u0433\u043E\u0434\u0430). \u0412 1973 \u0423\u0438\u043B\u044C\u044F\u043C\u0441\u043E\u043D \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0435\u043D\u0438\u0435 \u043E\u0442 March Engineering \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0418\u0437-\u0437\u0430 \u0442\u0440\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0438\u0441\u0445\u043E\u0434\u0430 \u0435\u0433\u043E \u0432\u0442\u043E\u0440\u043E\u0439 \u0433\u043E\u043D\u043A\u0438, \u0432 \u043F\u043E\u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0435 \u0433\u043E\u0434\u044B \u0441\u0442\u0430\u043B\u0438 \u0430\u043A\u0442\u0438\u0432\u043D\u043E \u0437\u0430\u043D\u0438\u043C\u0430\u0442\u044C\u0441\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C\u044E \u0442\u0440\u0430\u0441\u0441 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0411\u043E\u043B\u0438\u0434 \u0423\u0438\u043B\u044C\u044F\u043C\u0441\u043E\u043D\u0430 \u0432\u0440\u0435\u0437\u0430\u043B\u0441\u044F \u0432 \u043E\u0442\u0431\u043E\u0439\u043D\u0438\u043A \u0438, \u043F\u0435\u0440\u0435\u0432\u0435\u0440\u043D\u0443\u0432\u0448\u0438\u0441\u044C, \u0437\u0430\u0433\u043E\u0440\u0435\u043B\u0441\u044F. \u0414\u044D\u0432\u0438\u0434 \u041F\u044D\u0440\u043B\u0438 \u043E\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u043B\u0441\u044F \u0438 \u043F\u044B\u0442\u0430\u043B\u0441\u044F \u0432\u044B\u0442\u0430\u0449\u0438\u0442\u044C \u0420\u043E\u0434\u0436\u0435\u0440\u0430, \u043D\u043E \u0442\u043E\u0442 \u0437\u0430\u0434\u043E\u0445\u043D\u0443\u043B\u0441\u044F \u043E\u0442 \u0434\u044B\u043C\u0430. \u0418\u043C\u0435\u0432\u0448\u0438\u0435 \u043F\u0440\u0438 \u0441\u0435\u0431\u0435 \u043E\u0433\u043D\u0435\u0442\u0443\u0448\u0438\u0442\u0435\u043B\u0438 \u043C\u0430\u0440\u0448\u0430\u043B\u044B \u043D\u0435 \u0440\u0438\u0441\u043A\u043D\u0443\u043B\u0438 \u043F\u0440\u0438\u0431\u043B\u0438\u0436\u0430\u0442\u044C\u0441\u044F \u043A \u0431\u043E\u043B\u0438\u0434\u0443, \u0447\u0435\u0439 \u0431\u0435\u043D\u0437\u043E\u0431\u0430\u043A \u043C\u043E\u0433 \u0432\u0437\u043E\u0440\u0432\u0430\u0442\u044C\u0441\u044F, \u0438 \u0437\u0430\u043D\u0438\u043C\u0430\u043B\u0438\u0441\u044C \u0441\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u043D\u0438\u0435\u043C \u0437\u0440\u0438\u0442\u0435\u043B\u0435\u0439, \u0441\u0442\u0440\u0435\u043C\u0438\u0432\u0448\u0438\u0445\u0441\u044F \u043F\u043E\u043C\u043E\u0447\u044C \u0423\u0438\u043B\u044C\u044F\u043C\u0441\u043E\u043D\u0443."@ru ,
+		"Roger Williamson (Ashby-de-la-Zouch (Leicester), 2 februari 1948 - Zandvoort, 29 juli 1973) was een Britse autocoureur. Hij kwam in 1973 om tijdens de Formule 1 Grote Prijs Formule 1 van Nederland op het circuit van Zandvoort."@nl ,
+		"Roger Williamson (ur. 2 lutego 1948 w Ashby-de-la-Zouch, Leicester, zm. 29 lipca 1973 w Zandvoort) \u2013 brytyjski kierowca wy\u015Bcigowy. Zgin\u0105\u0142 podczas Grand Prix Holandii na torze Zandvoort Circuit. Dwukrotny mistrz Formu\u0142y 3 w latach 1971 i 1972. Dwukrotnie wyst\u0105pi\u0142 w Formule 1. Pierwszy raz, startuj\u0105c w barwach zespo\u0142u March Engineering w Grand Prix Wielkiej Brytanii, ju\u017C na pierwszym okr\u0105\u017Ceniu uczestniczy\u0142 w kolizji, czego efektem by\u0142o wycofanie si\u0119 z wy\u015Bcigu. Zgin\u0105\u0142 w czasie drugiego wyst\u0119pu."@pl ,
+		"Roger Williamson (Leicestershire, 2 de febrero de 1948-Zandvoort, 29 de julio de 1973), piloto de automovilismo que falleci\u00F3 durante el Gran Premio de los Pa\u00EDses Bajos de 1973, su segunda carrera en la F\u00F3rmula 1."@es ,
+		"\u30ED\u30B8\u30E3\u30FC\u30FB\u30A6\u30A3\u30EA\u30A2\u30E0\u30BD\u30F3\uFF08Roger Williamson, 1948\u5E742\u67082\u65E5 - 1973\u5E747\u670829\u65E5\uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u51FA\u8EAB\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Roger Williamson (* 2. Februar 1948 in Ashby-de-la-Zouch, Leicestershire, England; \u2020 29. Juli 1973 in Zandvoort, Niederlande) war ein britischer Automobilrennfahrer. Er gewann mehrere Formel-3-Meisterschaften und startete 1973 in der Formel 1. Bei seinem zweiten Formel-1-Rennen in den Niederlanden verungl\u00FCckte er t\u00F6dlich."@de ,
+		"Roger Williamson (2 February 1948 \u2013 29 July 1973) was a British racing driver who died during the 1973 Dutch Grand Prix at Zandvoort Circuit in the Netherlands."@en ,
+		"Roger Williamson, n\u00E9 le 2 f\u00E9vrier 1948 \u00E0 Ashby-de-la-Zouch, Angleterre et mort le 29 juillet 1973 \u00E0 Zandvoort, Pays-Bas, est un pilote automobile britannique. Il trouva la mort dans un accident survenu \u00E0 l'occasion du GP des Pays-Bas."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Grand_Prix_van_Nederland_op_circuit_Zandvoort;_o.a._verongelukte_racewagen_van_Roger_Williamson.jpg?width=300> ;
+	dbo:birthDate	"1948-2-2"^^xsd:date ;
+	dbo:deathDate	"1973-7-29"^^xsd:date ;
+	dbo:deathPlace	dbr:Zandvoort ;
+	dbo:wikiPageRevisionID	744815746 ;
+	dbo:birthPlace	dbr:Ashby-de-la-Zouch ;
+	dbo:wikiPageID	1235618 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Roger_Williamson	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1973_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1973_Dutch_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:March_Engineering ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:width	275 ;
+	dbp:align	"right"^^xsd:string .
+dbr:Jo_Siffert	dbp:after	dbr:Roger_Williamson .

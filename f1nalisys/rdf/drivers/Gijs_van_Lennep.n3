@@ -1,0 +1,185 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Henri_Pescarolo	dbp:before	dbr:Gijs_van_Lennep .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Gijs_Van_Lennep	dbo:wikiPageRedirects	dbr:Gijs_van_Lennep .
+dbr:Gijs_van_lennep	dbo:wikiPageRedirects	dbr:Gijs_van_Lennep .
+dbr:Gijs	dbo:wikiPageDisambiguates	dbr:Gijs_van_Lennep .
+dbr:Graham_Hill	dbp:before	dbr:Gijs_van_Lennep .
+dbr:Van_Lennep	dbo:wikiPageDisambiguates	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__27__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Gijs_van_Lennep	foaf:primaryTopic	dbr:Gijs_van_Lennep .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Gijs_van_Lennep	rdf:type	ns6:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Gijs_van_Lennep	rdf:type	yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatEnsignFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatDutchFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Gijs_van_Lennep	rdf:type	schema:Person ,
+		yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Gijs_van_Lennep	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:CausalAgent100007347 ,
+		foaf:Person ,
+		dbo:Athlete ,
+		dbo:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Gijs_van_Lennep	rdf:type	owl:Thing ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Gijs_van_Lennep	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q5 ,
+		umbel-rc:Athlete ,
+		wikidata:Q378622 ,
+		dbo:Agent ,
+		yago:WikicatFormulaThreeDrivers ,
+		dbo:MotorsportRacer ,
+		ns6:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Gijs_van_Lennep	rdfs:label	"Gijs van Lennep"@en ,
+		"Gijs van Lennep"@pt ,
+		"\u30B8\u30A3\u30BA\u30FB\u30F4\u30A1\u30F3\u30FB\u30EC\u30CD\u30C3\u30D7"@ja ,
+		"Gijs van Lennep"@pl ,
+		"\u0412\u0430\u043D \u041B\u0435\u043D\u043D\u0435\u043F, \u0413\u0435\u0439\u0441"@ru ,
+		"Gijs van Lennep"@de ,
+		"Gijs van Lennep"@nl ,
+		"\u062C\u064A\u0633 \u0641\u0627\u0646 \u0644\u064A\u0646\u064A\u0628"@ar ,
+		"Gijs van Lennep"@it ,
+		"Gijs van Lennep"@fr ;
+	rdfs:comment	"Ha realizzato due punti nella sua carriera in Formula 1 giungendo due volte sesto."@it ,
+		"Jhr. Gijsbert (Gijs) van Lennep (Aerdenhout, 16 maart 1942) is een voormalige Nederlandse Formule 1- en Sportscar-coureur. Hij begon zijn carri\u00E8re als Formule V-coureur. Later werd hij opgenomen in het Racing Team Holland."@nl ,
+		"\u30B8\u30A3\u30BA\u30D9\u30EB\u30C8\u30FB\"\u30B8\u30A3\u30BA\"\u30FB\u30F4\u30A1\u30F3\u30FB\u30EC\u30CD\u30C3\u30D7\uFF08Jonkheer Gijsbert \"Gijs\" van Lennep \u30011942\u5E743\u670816\u65E5 - \uFF09\u306F\u3001\u30AA\u30E9\u30F3\u30C0\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021971\u5E74\u30011976\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u512A\u52DD\u8005\u3002 \u300CGijs\u300D\u306E\u65E5\u672C\u8A9E\u8868\u8A18\u306F\u300C\u30B8\u30A4\u30BA/\u30AE\u30B9/\u30AE\u30FC\u30B9/\u30AC\u30A4\u30B9\u300D\u306A\u3069\u8907\u6570\u5B58\u5728\u3059\u308B\u3002"@ja ,
+		"Gijsbert van Lennep (born 16 March 1942, in Aerdenhout, North Holland) is a Dutch esquire and former racing driver who competed in eight Formula One races. However his main achievements were in sports car racing. He is a member of the Dutch nobility with the title Jonkheer."@en ,
+		"Jonkheer Gijsbert van Lennep (ur. 16 marca 1942 w Aerdenhout) \u2013 holenderski kierowca wy\u015Bcigowy, kt\u00F3ry w latach 1971, 1973-1975 wystartowa\u0142 w 8 wy\u015Bcigach Formu\u0142y 1"@pl ,
+		"Gijs van Lennep, n\u00E9 le 16 mars 1942 \u00E0 Aerdenhout, est un pilote de course automobile n\u00E9erlandais. Il a notamment disput\u00E9 8 Grands Prix de Formule 1 entre 1971 et 1975 et a marqu\u00E9 2 points au championnat du monde des pilotes. Il est connu pour avoir remport\u00E9 deux fois les 24 Heures du Mans."@fr ,
+		"Gijsbert \u201EGijs\u201C van Lennep (* 16. M\u00E4rz 1942 in Aerdenhout) ist ein ehemaliger niederl\u00E4ndischer Automobilrennfahrer. Er entstammte dem Geschlecht Van Lennep."@de ,
+		"Gijsbert (Gijs) van Lennep (Aerdenhout, 16 de Mar\u00E7o de 1942) \u00E9 um ex-piloto automobil\u00EDstico e nobre neerland\u00EAs. Ele iniciou sua carreira como piloto de F\u00F3rmula V. Mais tarde, ele foi inclu\u00EDdo no Racing Team Holland. Em 1976, ele venceu as 24 Horas de Le Mans pela segunda vez, desta vez com o piloto belga Jacky Ickx. Em 1999, ele foi eleito o \"melhor piloto neerland\u00EAs de automobilismo do s\u00E9culo\" por um j\u00FAri especializado."@pt ,
+		"\u0413\u0435\u0439\u0441\u0431\u0435\u0440\u0442 \u00AB\u0413\u0435\u0439\u0441\u00BB \u0432\u0430\u043D \u041B\u0435\u043D\u043D\u0435\u043F (\u043D\u0438\u0434\u0435\u0440\u043B. Gijsbert \u00ABGijs\u00BB van Lennep, 16 \u043C\u0430\u0440\u0442\u0430 1942 \u0433\u043E\u0434\u0430, \u0411\u043B\u0443\u043C\u0435\u043D\u0434\u0430\u043B) \u2014 \u043D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0414\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043A\u0438 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB."@ru ,
+		"\u062C\u064A\u0633 \u0641\u0627\u0646 \u0644\u064A\u0646\u064A\u0628 \u0645\u0648\u0627\u0644\u064A\u062F 16 \u0645\u0627\u0631\u0633 1942 \u0641\u064A \u0647\u0648\u0644\u0646\u062F\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0647\u0648\u0644\u0646\u062F\u064A \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1970. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0647\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1971. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 10 \u0633\u0628\u0627\u0642\u0627\u062A."@ar .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Gijs_van_Lennep	dbp:birthDate	"1942-03-16"^^xsd:date .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Gijs_van_Lennep	owl:sameAs	dbpedia-fr:Gijs_van_Lennep ,
+		dbr:Gijs_van_Lennep ,
+		<http://rdf.freebase.com/ns/m.02kzn4> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Gijs_van_Lennep	owl:sameAs	dbpedia-wikidata:Q120308 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Gijs_van_Lennep	owl:sameAs	dbpedia-pl:Gijs_van_Lennep ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30A3\u30BA\u30FB\u30F4\u30A1\u30F3\u30FB\u30EC\u30CD\u30C3\u30D7> ,
+		wikidata:Q120308 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Gijs_van_Lennep	owl:sameAs	dbpedia-it:Gijs_van_Lennep .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Gijs_van_Lennep	owl:sameAs	dbpedia-pt:Gijs_van_Lennep .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Gijs_van_Lennep	owl:sameAs	dbpedia-de:Gijs_van_Lennep .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Gijs_van_Lennep	owl:sameAs	yago-res:Gijs_van_Lennep .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Gijs_van_Lennep	owl:sameAs	dbpedia-nl:Gijs_van_Lennep .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Gijs_van_Lennep	dct:subject	dbc:Williams_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Dutch_racing_drivers ,
+		dbc:Ensign_Formula_One_drivers ,
+		dbc:People_from_Bloemendaal ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:Dutch_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1942_births> ,
+		dbc:Dutch_nobility ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ;
+	foaf:name	"Gijs van Lennep"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Gijs_van_Lennep_(1971).jpg> ;
+	dct:description	"Dutch racing driver"@en ;
+	foaf:givenName	"Gijsbert"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Gijs_van_Lennep ;
+	dbp:points	2 ;
+	dbp:years	1972 ,
+		1971 ,
+		19711973 ,
+		dbr:Helmut_Marko ,
+		dbr:Jacky_Ickx ,
+		1976 ;
+	dbp:after	dbr:Graham_Hill ,
+		<http://dbpedia.org/resource/J\u00FCrgen_Barth> ,
+		dbr:Teddy_Pilette ,
+		dbr:Hurley_Haywood ,
+		dbr:Henri_Pescarolo ,
+		dbr:Jacky_Ickx ;
+	<http://dbpedia.org/property/team(s)_>	"S.A.N, Williams, Ensign"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Gijs_van_Lennep	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gijs_van_Lennep?oldid=724053193> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-vangij.html> ;
+	dbp:caption	"Gijs van Lennep, 1971"^^xsd:string ;
+	dbp:nationality	"Dutch"^^xsd:string ;
+	dbp:birthName	"Gijsbert van Lennep"^^xsd:string ;
+	dbp:birthPlace	"Aerdenhout, Netherlands"^^xsd:string ;
+	dbp:before	dbr:Jacky_Ickx ,
+		dbr:Richard_Attwood ,
+		dbr:Hans_Herrmann ,
+		<http://dbpedia.org/resource/Frank_Gardner_(driver)> ,
+		<http://dbpedia.org/resource/Derek_Bell_(auto_racer)> ;
+	dbo:abstract	"\u30B8\u30A3\u30BA\u30D9\u30EB\u30C8\u30FB\"\u30B8\u30A3\u30BA\"\u30FB\u30F4\u30A1\u30F3\u30FB\u30EC\u30CD\u30C3\u30D7\uFF08Jonkheer Gijsbert \"Gijs\" van Lennep \u30011942\u5E743\u670816\u65E5 - \uFF09\u306F\u3001\u30AA\u30E9\u30F3\u30C0\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021971\u5E74\u30011976\u5E74\u306E\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u512A\u52DD\u8005\u3002 \u300CGijs\u300D\u306E\u65E5\u672C\u8A9E\u8868\u8A18\u306F\u300C\u30B8\u30A4\u30BA/\u30AE\u30B9/\u30AE\u30FC\u30B9/\u30AC\u30A4\u30B9\u300D\u306A\u3069\u8907\u6570\u5B58\u5728\u3059\u308B\u3002"@ja ,
+		"Gijsbert (Gijs) van Lennep (Aerdenhout, 16 de Mar\u00E7o de 1942) \u00E9 um ex-piloto automobil\u00EDstico e nobre neerland\u00EAs. Ele iniciou sua carreira como piloto de F\u00F3rmula V. Mais tarde, ele foi inclu\u00EDdo no Racing Team Holland. Em 1967, Van Lennep obteve a sua primeira vit\u00F3ria na Su\u00E9cia com a DAF na F\u00F3rmula 3. Neste mesmo ano, ele correu para a Porsche. Em 1971 ele venceu as 24 Horas de Le Mans junto com Helmut Marko. Com esta vit\u00F3ria ele ainda det\u00E9m o recorde de dist\u00E2ncia. Em m\u00E9dia, eles correram a mais de 222 km/h (inclusive paragens pit).Van Lennep participou de quatro temporadas da F\u00F3rmula 1. Ele correu para Surtees, Iso-Marlboro e Alferes. Em 1971, ele participou do Grande Pr\u00EAmio da Holanda, no circuito de Zandvoort com um Surtees e terminou em oitavo lugar. No fim deste ano ele correu para a equipe da f\u00E1brica, mas n\u00E3o conseguiu finalizar. Em 1972, ele n\u00E3o correu na F\u00F3rmula 1, mas tornou-se campe\u00E3o europeu de F\u00F3rmula 5000. Atrav\u00E9s do patrocinador Marlboro, ele correupara o time Iso Marlboro de Frank Williams, com o qual obteve um ponto em Zandvoort. Isto marcou a primeiro ponto para a equipe Williams em um GP. No mesmo ano ele venceu o Targa Florio. Em 1974 ele correu para a equipe Iso. Em 1975 ele substituiu Roelof Wunderink na equipe Ensign por tr\u00EAs corridas. Em N\u00FCrburgring ele obteve um outro ponto. Com isto, ele se tornou o segundo piloto de F\u00F3rmula 1 neerland\u00EAs de maior sucesso, logo atr\u00E1s de Carel Godin de Beaufort. Em 1976, ele venceu as 24 Horas de Le Mans pela segunda vez, desta vez com o piloto belga Jacky Ickx. Em 1999, ele foi eleito o \"melhor piloto neerland\u00EAs de automobilismo do s\u00E9culo\" por um j\u00FAri especializado."@pt ,
+		"Gijs van Lennep, n\u00E9 le 16 mars 1942 \u00E0 Aerdenhout, est un pilote de course automobile n\u00E9erlandais. Il a notamment disput\u00E9 8 Grands Prix de Formule 1 entre 1971 et 1975 et a marqu\u00E9 2 points au championnat du monde des pilotes. Il est connu pour avoir remport\u00E9 deux fois les 24 Heures du Mans."@fr ,
+		"Gijsbert \u201EGijs\u201C van Lennep (* 16. M\u00E4rz 1942 in Aerdenhout) ist ein ehemaliger niederl\u00E4ndischer Automobilrennfahrer. Er entstammte dem Geschlecht Van Lennep."@de ,
+		"\u062C\u064A\u0633 \u0641\u0627\u0646 \u0644\u064A\u0646\u064A\u0628 \u0645\u0648\u0627\u0644\u064A\u062F 16 \u0645\u0627\u0631\u0633 1942 \u0641\u064A \u0647\u0648\u0644\u0646\u062F\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0647\u0648\u0644\u0646\u062F\u064A \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1970. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0647\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1971. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 10 \u0633\u0628\u0627\u0642\u0627\u062A."@ar ,
+		"Gijsbert van Lennep (born 16 March 1942, in Aerdenhout, North Holland) is a Dutch esquire and former racing driver who competed in eight Formula One races. However his main achievements were in sports car racing. He is a member of the Dutch nobility with the title Jonkheer."@en ,
+		"Jonkheer Gijsbert van Lennep (ur. 16 marca 1942 w Aerdenhout) \u2013 holenderski kierowca wy\u015Bcigowy, kt\u00F3ry w latach 1971, 1973-1975 wystartowa\u0142 w 8 wy\u015Bcigach Formu\u0142y 1"@pl ,
+		"Ha realizzato due punti nella sua carriera in Formula 1 giungendo due volte sesto."@it ,
+		"Jhr. Gijsbert (Gijs) van Lennep (Aerdenhout, 16 maart 1942) is een voormalige Nederlandse Formule 1- en Sportscar-coureur. Hij begon zijn carri\u00E8re als Formule V-coureur. Later werd hij opgenomen in het Racing Team Holland."@nl ,
+		"\u0413\u0435\u0439\u0441\u0431\u0435\u0440\u0442 \u00AB\u0413\u0435\u0439\u0441\u00BB \u0432\u0430\u043D \u041B\u0435\u043D\u043D\u0435\u043F (\u043D\u0438\u0434\u0435\u0440\u043B. Gijsbert \u00ABGijs\u00BB van Lennep, 16 \u043C\u0430\u0440\u0442\u0430 1942 \u0433\u043E\u0434\u0430, \u0411\u043B\u0443\u043C\u0435\u043D\u0434\u0430\u043B) \u2014 \u043D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0414\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043A\u0438 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Gijs_van_Lennep_(1971).jpg?width=300> ;
+	dbo:birthDate	"1942-3-16"^^xsd:date ;
+	dbo:wikiPageRevisionID	724053193 ;
+	dbo:birthPlace	dbr:Aerdenhout ;
+	dbo:wikiPageID	520229 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1971_Dutch_Grand_Prix> ;
+	dbo:races	"10"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1975_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Gijs_van_Lennep	ns25:hypernym	dbr:Esquire ;
+	dbp:title	dbr:Formula_5000 ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners .
+dbr:Helmut_Marko	dbp:years	dbr:Gijs_van_Lennep .
+dbr:Hurley_Haywood	dbp:before	dbr:Gijs_van_Lennep .
+dbr:Jacky_Ickx	dbp:years	dbr:Gijs_van_Lennep ;
+	dbp:after	dbr:Gijs_van_Lennep ;
+	dbp:before	dbr:Gijs_van_Lennep .
+dbr:Hans_Herrmann	dbp:after	dbr:Gijs_van_Lennep .
+dbr:Teddy_Pilette	dbp:before	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/Frank_Gardner_(racing_driver)>	dbp:after	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/J\u00FCrgen_Barth>	dbp:before	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__P3.0__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__31__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__DNF__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1974_24_Hours_of_Le_Mans__2__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1975_24_Hours_of_Le_Mans__5__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1976_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1970_Can-Am_season__25=__2>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/1971_Can-Am_season__31=__1>	dbo:firstDriver	dbr:Gijs_van_Lennep .
+<http://dbpedia.org/resource/Derek_Bell_(racing_driver)>	dbp:after	dbr:Gijs_van_Lennep .
+dbr:Richard_Attwood	dbp:after	dbr:Gijs_van_Lennep .

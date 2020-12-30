@@ -1,0 +1,187 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Reg_Parnell	rdf:type	yago:CausalAgent100007347 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Reg_Parnell	rdf:type	dbo:MotorsportRacer ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Reg_Parnell	rdf:type	wikidata:Q378622 ,
+		dbo:FormulaOneRacer ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Reg_Parnell	rdf:type	owl:Thing ,
+		wikidata:Q5 ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Reg_Parnell	rdf:type	schema:Person .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Reg_Parnell	rdf:type	ns7:Agent ,
+		wikidata:Q24229398 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Reg_Parnell	rdf:type	foaf:Person ,
+		yago:WikicatScuderiaAmbrosianaFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		dbo:Agent ,
+		ns7:NaturalPerson ,
+		yago:Operator110378412 ,
+		dbo:Athlete ,
+		yago:WikicatVanwallFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatAlfaRomeoFormulaOneDrivers ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		yago:WikicatGrandPrixDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		dbo:Person ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Reg_Parnell	rdfs:label	"Reg Parnell"@de ,
+		"Reg Parnell"@es ,
+		"\u0631\u064A\u062C \u0628\u0627\u0631\u0646\u064A\u0644"@ar ,
+		"Reg Parnell"@pt ,
+		"Reg Parnell"@pl ,
+		"Reg Parnell"@it ,
+		"\u041F\u0430\u0440\u043D\u0435\u043B\u043B, \u0420\u0435\u0434\u0436"@ru ,
+		"Reg Parnell"@en ,
+		"Reg Parnell"@nl ,
+		"Reg Parnell"@fr ;
+	rdfs:comment	"Reginald Parnell (2 de julio de 1911 Derby, Inglaterra - 7 de enero de 1964 Derby, Inglaterra) fue un piloto de carreras ingl\u00E9s. Particip\u00F3 en la F\u00F3rmula 1 durante las primeras temporadas de ella. Adem\u00E1s de piloto, Parnell fue m\u00E1nager de una escuder\u00EDa."@es ,
+		"Reginald Parnell (Derby, Inglaterra, 2 de julho de 1911 \u2013 Derby, Inglaterra, 7 de janeiro de 1964) foi um automobilista ingl\u00EAs que participou de 6 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1954. Seu melhor resultado foi o terceiro lugar na Inglaterra em 1950."@pt ,
+		"\u0420\u0435\u0434\u0436\u0438\u043D\u0430\u043B\u044C\u0434 \u0425\u0430\u0440\u043E\u043B\u044C\u0434 \u0425\u0430\u0441\u043B\u0430\u043C \u041F\u0430\u0440\u043D\u0435\u043B\u043B (\u0430\u043D\u0433\u043B. Reginald Harold Haslam Parnell), \u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043A \u0420\u0435\u0434\u0436 \u041F\u0430\u0440\u043D\u0435\u043B\u043B (\u0430\u043D\u0433\u043B. Reg Parnell; 2 \u0438\u044E\u043B\u044F, 1911 \u2014 7 \u044F\u043D\u0432\u0430\u0440\u044F, 1964) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u043A\u043E\u043C\u0430\u043D\u0434\u044B. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 1950 \u0433\u043E\u0434\u0430 \u0432 \u043F\u0435\u0440\u0432\u043E\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u043B \u0441\u0432\u043E\u0439 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u043F\u043E\u0434\u0438\u0443\u043C \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435."@ru ,
+		"Suo figlio Tim \u00E8 stato anche un pilota di Formula 1 con scarsa fortuna. Entrambi hanno avuto esperienze come manager in squadre di Formula 1 negli anni successivi all'impegno agonistico, Reg Parnell in particolare fu team manager di una scuderia utilizzante solitamente telai della Lola."@it ,
+		"Reg Parnell (ur. 2 lipca 1911 w Derby, zm. 7 stycznia 1964 w Derby) \u2013 by\u0142 brytyjskim kierowc\u0105 Formu\u0142y 1. Startowa\u0142 w sezonach 1950\u20131954 za kierownic\u0105 samochod\u00F3w stajni: Scuderia Ambrosiana, Alfa Romeo, Vanwall, BRM i Archie Bryde."@pl ,
+		"Reginald Harold Haslam \u201EReg\u201C Parnell (* 2. Juli 1911 in Derby, England; \u2020 7. Januar 1964 ebenda) war ein britischer Rennfahrer und Teamchef. Er war sowohl in der Formel 1 als auch bei Sportwagenrennen aktiv und f\u00FChrte in den 1960er-Jahren das Formel-1-Team Parnell Racing, f\u00FCr das u. a. Mike Hailwood und Chris Amon an den Start gingen."@de ,
+		" Pour les articles homonymes, voir Parnell.Reg Parnell Reginald Harold Haslam Parnell, n\u00E9 le 2 juillet 1911 \u00E0 Derby (Angleterre), d\u00E9c\u00E9d\u00E9 d'une p\u00E9ritonite le 7 janvier 1964 \u00E0 Derby, est un ancien pilote automobile britannique qui a disput\u00E9 le championnat du monde de Formule 1 de 1950 \u00E0 1952, puis en 1954. Il termine troisi\u00E8me du premier Grand Prix du championnat du monde, \u00E0 Silverstone en 1950 sur une Alfa Romeo. En 1951, il pilote une Ferrari avec laquelle il inscrit cinq points, puis il participe encore deux fois \u00E0 des Grands Prix de Grande-Bretagne."@fr ,
+		"Reginald Harold Haslam Parnell (Derby, Derbyshire, 2 juli 1911 \u2013 aldaar, 7 januari 1964) was een Formule 1-coureur uit Engeland. Hij nam tussen 1950 en 1954 deel aan 7 Grands Prix voor de teams Alfa Romeo, BRM, Ferrari, Maserati en Cooper en scoorde hierin 1 podium en 9 WK-punten."@nl ,
+		"Reginald Harold Haslam \"Reg\" Parnell (2 July 1911 \u2013 7 January 1964) was a racing driver and team manager from Derby, England. He participated in seven Formula One World Championship Grands Prix, achieving one podium, and scoring a total of nine championship points."@en ,
+		"\u0631\u064A\u062C \u0628\u0627\u0631\u0646\u064A\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Reg Parnell) \u0645\u0648\u0627\u0644\u064A\u062F 2 \u064A\u0648\u0644\u064A\u0648 1911 \u0641\u064A \u062F\u0631\u0628\u064A\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1950. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1950. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 7 \u0633\u0628\u0627\u0642\u0627\u062A."@ar .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Reg_Parnell	dbp:points	9 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04kylb> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	dbpedia-de:Reg_Parnell ,
+		dbr:Reg_Parnell .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	dbpedia-wikidata:Q172057 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	dbpedia-it:Reg_Parnell .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	dbpedia-fr:Reg_Parnell .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	dbpedia-nl:Reg_Parnell .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	dbpedia-cs:Reg_Parnell .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	dbpedia-pt:Reg_Parnell ,
+		wikidata:Q172057 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	dbpedia-pl:Reg_Parnell ,
+		<http://d-nb.info/gnd/120339552> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	yago-res:Reg_Parnell .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Reg_Parnell	owl:sameAs	dbpedia-es:Reg_Parnell .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Reg_Parnell	dct:subject	<http://dbpedia.org/resource/Category:12_Hours_of_Sebring_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Reg_Parnell	dct:subject	dbc:Scuderia_Ambrosiana_Formula_One_drivers ,
+		dbc:Mille_Miglia_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:BRM_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:BRDC_Gold_Star_winners ,
+		dbc:Brighton_Speed_Trials_people ,
+		dbc:Vanwall_Formula_One_drivers ,
+		dbc:Deaths_from_peritonitis ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Alfa_Romeo_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1964_deaths> ,
+		dbc:Sportspeople_from_Derby ,
+		<http://dbpedia.org/resource/Category:1911_births> ,
+		dbc:Formula_One_entrants ;
+	foaf:name	"Reg Parnell"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Maserati_4CLT_ex-Parnell.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Reginald"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Reg_Parnell	foaf:isPrimaryTopicOf	wikipedia-en:Reg_Parnell ;
+	dbp:title	dbr:BRDC_International_Trophy ,
+		dbr:List_of_Formula_One_driver_records ;
+	dbp:years	"\u2013 ,"^^xsd:string .
+@prefix ns24:	<http://dbpedia.org/datatype/> .
+dbr:Reg_Parnell	dbp:years	"1.2264048E9"^^ns24:second ,
+		1951 ;
+	dbo:nationality	<http://dbpedia.org/resource/1962_British_Grand_Prix> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Reg_Parnell	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Reg_Parnell?oldid=741437549> ;
+	dbp:before	"1.3738248E9"^^ns24:second ,
+		dbr:Giuseppe_Farina ,
+		"Giuseppe Farina'''"^^xsd:string ;
+	dbp:after	dbr:Lance_Macklin ,
+		"Alberto Ascari'''"^^xsd:string ,
+		"1.0052424E9"^^ns24:second ;
+	dbp:birthPlace	"Derby, Derbyshire, England"^^xsd:string ;
+	dbp:deathPlace	"Derby, Derbyshire, England"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Reg_Parnell	dbp:birthDate	"1911-07-02"^^xsd:date ;
+	dbp:deathDate	"1964-01-07"^^xsd:date ;
+	dbo:abstract	"Reg Parnell (ur. 2 lipca 1911 w Derby, zm. 7 stycznia 1964 w Derby) \u2013 by\u0142 brytyjskim kierowc\u0105 Formu\u0142y 1. Startowa\u0142 w sezonach 1950\u20131954 za kierownic\u0105 samochod\u00F3w stajni: Scuderia Ambrosiana, Alfa Romeo, Vanwall, BRM i Archie Bryde."@pl ,
+		" Pour les articles homonymes, voir Parnell.Reg Parnell Reginald Harold Haslam Parnell, n\u00E9 le 2 juillet 1911 \u00E0 Derby (Angleterre), d\u00E9c\u00E9d\u00E9 d'une p\u00E9ritonite le 7 janvier 1964 \u00E0 Derby, est un ancien pilote automobile britannique qui a disput\u00E9 le championnat du monde de Formule 1 de 1950 \u00E0 1952, puis en 1954. Il termine troisi\u00E8me du premier Grand Prix du championnat du monde, \u00E0 Silverstone en 1950 sur une Alfa Romeo. En 1951, il pilote une Ferrari avec laquelle il inscrit cinq points, puis il participe encore deux fois \u00E0 des Grands Prix de Grande-Bretagne."@fr ,
+		"Reginald Harold Haslam Parnell (Derby, Derbyshire, 2 juli 1911 \u2013 aldaar, 7 januari 1964) was een Formule 1-coureur uit Engeland. Hij nam tussen 1950 en 1954 deel aan 7 Grands Prix voor de teams Alfa Romeo, BRM, Ferrari, Maserati en Cooper en scoorde hierin 1 podium en 9 WK-punten."@nl ,
+		"Reginald Parnell (2 de julio de 1911 Derby, Inglaterra - 7 de enero de 1964 Derby, Inglaterra) fue un piloto de carreras ingl\u00E9s. Particip\u00F3 en la F\u00F3rmula 1 durante las primeras temporadas de ella. Adem\u00E1s de piloto, Parnell fue m\u00E1nager de una escuder\u00EDa."@es ,
+		"\u0631\u064A\u062C \u0628\u0627\u0631\u0646\u064A\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Reg Parnell) \u0645\u0648\u0627\u0644\u064A\u062F 2 \u064A\u0648\u0644\u064A\u0648 1911 \u0641\u064A \u062F\u0631\u0628\u064A\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1950. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1950. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 7 \u0633\u0628\u0627\u0642\u0627\u062A."@ar ,
+		"Reginald Parnell (Derby, Inglaterra, 2 de julho de 1911 \u2013 Derby, Inglaterra, 7 de janeiro de 1964) foi um automobilista ingl\u00EAs que participou de 6 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1954. Seu melhor resultado foi o terceiro lugar na Inglaterra em 1950."@pt ,
+		"Suo figlio Tim \u00E8 stato anche un pilota di Formula 1 con scarsa fortuna. Entrambi hanno avuto esperienze come manager in squadre di Formula 1 negli anni successivi all'impegno agonistico, Reg Parnell in particolare fu team manager di una scuderia utilizzante solitamente telai della Lola."@it ,
+		"Reginald Harold Haslam \u201EReg\u201C Parnell (* 2. Juli 1911 in Derby, England; \u2020 7. Januar 1964 ebenda) war ein britischer Rennfahrer und Teamchef. Er war sowohl in der Formel 1 als auch bei Sportwagenrennen aktiv und f\u00FChrte in den 1960er-Jahren das Formel-1-Team Parnell Racing, f\u00FCr das u. a. Mike Hailwood und Chris Amon an den Start gingen."@de ,
+		"Reginald Harold Haslam \"Reg\" Parnell (2 July 1911 \u2013 7 January 1964) was a racing driver and team manager from Derby, England. He participated in seven Formula One World Championship Grands Prix, achieving one podium, and scoring a total of nine championship points. Parnell, as both a driver and a team manager, had a considerable influence on post-war British motorsport until his premature death in 1964. Parnell raced at Brooklands and was banned following an accident with Kay Petre which ended her racing career. Before the war he bought up racing cars. Once the hostilities had ceased he sold them to form the basis of post-war racing entries. He later raced a whole host of cars before turning to management and taking Aston Martin into Formula 1. Parnell went on to run the Yeoman Credit Racing team with the help of his son Tim who later raced in Formula 1 himself."@en ,
+		"\u0420\u0435\u0434\u0436\u0438\u043D\u0430\u043B\u044C\u0434 \u0425\u0430\u0440\u043E\u043B\u044C\u0434 \u0425\u0430\u0441\u043B\u0430\u043C \u041F\u0430\u0440\u043D\u0435\u043B\u043B (\u0430\u043D\u0433\u043B. Reginald Harold Haslam Parnell), \u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043A \u0420\u0435\u0434\u0436 \u041F\u0430\u0440\u043D\u0435\u043B\u043B (\u0430\u043D\u0433\u043B. Reg Parnell; 2 \u0438\u044E\u043B\u044F, 1911 \u2014 7 \u044F\u043D\u0432\u0430\u0440\u044F, 1964) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u0440\u0443\u043A\u043E\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C \u043A\u043E\u043C\u0430\u043D\u0434\u044B. \u0414\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 1950 \u0433\u043E\u0434\u0430 \u0432 \u043F\u0435\u0440\u0432\u043E\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u0437\u0430\u0440\u0430\u0431\u043E\u0442\u0430\u043B \u0441\u0432\u043E\u0439 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u043F\u043E\u0434\u0438\u0443\u043C \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435. \u0414\u043E \u0412\u0442\u043E\u0440\u043E\u0439 \u043C\u0438\u0440\u043E\u0432\u043E\u0439 \u0432\u043E\u0439\u043D\u044B \u041F\u0430\u0440\u043D\u0435\u043B\u043B \u0432\u044B\u0438\u0433\u0440\u044B\u0432\u0430\u043B \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0435 \u043D\u0435\u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F, \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044F \u043D\u0430 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u043C\u0430\u0448\u0438\u043D\u0430\u0445, \u0432\u043A\u043B\u044E\u0447\u0430\u044F Bugatti. \u041F\u043E\u0441\u043B\u0435 \u0432\u043E\u0439\u043D\u044B \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 1950 \u0433\u043E\u0434\u0430 \u2014 \u043F\u0435\u0440\u0432\u043E\u043C \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u0433\u0434\u0435 \u0434\u043E\u0431\u0438\u043B\u0441\u044F \u0441\u0432\u043E\u0435\u0433\u043E \u043D\u0430\u0438\u0431\u043E\u043B\u044C\u0448\u0435\u0433\u043E \u0443\u0441\u043F\u0435\u0445\u0430, \u0437\u0430\u043D\u044F\u0432 \u0442\u0440\u0435\u0442\u044C\u044E \u0441\u0442\u0443\u043F\u0435\u043D\u044C \u043F\u043E\u0434\u0438\u0443\u043C\u0430. \u041F\u043E\u0441\u043B\u0435 \u044D\u0442\u043E\u0433\u043E, \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0435\u0449\u0451 \u0432 6 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1950-1952 \u0438 1954 \u0433\u043E\u0434\u043E\u0432. \u041A\u0440\u043E\u043C\u0435 \u0442\u043E\u0433\u043E, \u041F\u0430\u0440\u043D\u0435\u043B\u043B \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445, \u0438 \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 1954 \u0433\u043E\u0434\u0430 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0440\u044F\u0434 \u0433\u043E\u043D\u043E\u043A. \u041F\u043E\u0437\u0434\u043D\u0435\u0435 \u043E\u043D \u0432\u0440\u0435\u043C\u044F \u043E\u0442 \u0432\u0440\u0435\u043C\u0435\u043D\u0438 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u043D\u0430 Connaught \u0420\u043E\u0431\u0430 \u0423\u043E\u043B\u043A\u0435\u0440\u0430, \u0430 \u0437\u0430 \u0440\u0443\u043B\u0435\u043C Ferrari Super Squalo \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0432 1957 \u0433\u043E\u0434\u0443 \u043D\u0435\u0437\u0430\u0447\u0435\u0442\u043D\u044B\u0435 \u0413\u0440\u0430\u043D \u041F\u0440\u0438 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438 \u0438 \u0433\u043E\u043D\u043A\u0443 South Island. \u041F\u043E\u0441\u043B\u0435 \u0443\u0445\u043E\u0434\u0430 \u0438\u0437 \u0433\u043E\u043D\u043E\u043A \u041F\u0430\u0440\u043D\u0435\u043B\u043B \u0441\u0442\u0430\u043B \u0442\u0438\u043C-\u043C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u043E\u043C \u0432 Aston Martin, \u0437\u0430\u0442\u0435\u043C \u0432 \u0442\u0435\u0447\u0435\u043D\u0438\u0435 1961 \u0438 1962 \u0433\u043E\u0434\u043E\u0432 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u043E\u0432\u0430\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u044B Yeoman Credit \u0438 Bowmaker Lola, \u043F\u043E\u0441\u043B\u0435 \u0447\u0435\u0433\u043E \u0440\u0435\u0448\u0438\u043B \u043E\u0441\u043D\u043E\u0432\u0430\u0442\u044C \u0441\u0432\u043E\u0451 \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0435 \u0434\u0435\u0442\u0438\u0449\u0435 \u2014 Reg Parnell Racing; \u0432\u0441\u0435 \u0442\u043E\u043B\u044C\u043A\u043E \u043D\u0430\u0447\u0438\u043D\u0430\u043B\u043E\u0441\u044C, \u043A\u043E\u0433\u0434\u0430 \u041F\u0430\u0440\u043D\u0435\u043B\u043B, \u0430\u0431\u0441\u043E\u043B\u044E\u0442\u043D\u043E \u0437\u0434\u043E\u0440\u043E\u0432\u044B\u0439, \u0432 \u044F\u043D\u0432\u0430\u0440\u0435 1964 \u0433\u043E\u0434\u0430 \u0432\u043D\u0435\u0437\u0430\u043F\u043D\u043E \u0441\u043A\u043E\u043D\u0447\u0430\u043B\u0441\u044F \u043E\u0442 \u043F\u0435\u0440\u0438\u0442\u043E\u043D\u0438\u0442\u0430, \u044F\u0432\u0438\u0432\u0448\u0435\u0433\u043E\u0441\u044F \u0441\u043B\u0435\u0434\u0441\u0442\u0432\u0438\u0435\u043C \u043E\u0431\u044B\u0447\u043D\u043E\u0439 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u043F\u043E \u0443\u0434\u0430\u043B\u0435\u043D\u0438\u044E \u0430\u043F\u043F\u0435\u043D\u0434\u0438\u043A\u0441\u0430 \u2014 \u0432 \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0435 52 \u043B\u0435\u0442."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Maserati_4CLT_ex-Parnell.jpg?width=300> ;
+	dbo:birthDate	"1911-7-2"^^xsd:date ;
+	dbo:deathDate	"1964-1-7"^^xsd:date ;
+	dbo:deathPlace	dbr:Derby ;
+	dbo:wikiPageRevisionID	741437549 ;
+	dbo:birthPlace	dbr:Derby ;
+	dbo:wikiPageID	1235870 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Reg_Parnell	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1954_British_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"7"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Alfa Romeo, BRM, non-works Ferrari, non-works Maserati, non-works Cooper"^^xsd:string .
+<http://dbpedia.org/resource/1950_Richmond_Trophy>	dbo:fastestDriver	dbr:Reg_Parnell ;
+	dbo:firstDriver	dbr:Reg_Parnell .
+wikipedia-en:Reg_Parnell	foaf:primaryTopic	dbr:Reg_Parnell .
+dbr:Bowmaker-Yeoman	dbo:wikiPageRedirects	dbr:Reg_Parnell .
+dbr:Bowmaker-Yeoman_Racing	dbo:wikiPageRedirects	dbr:Reg_Parnell .
+dbr:Bowmaker-Yeoman_Racing_Team	dbo:wikiPageRedirects	dbr:Reg_Parnell .
+dbr:Aston_Martin__11	dbo:firstDriver	dbr:Reg_Parnell .
+dbr:Aston_Martin__13	dbo:firstDriver	dbr:Reg_Parnell .
+dbr:Pat_Griffith	dbp:after	dbr:Reg_Parnell .
+dbr:Lucien_Bianchi	<http://dbpedia.org/property/team(s)_>	dbr:Reg_Parnell .
+dbr:Parnell	dbo:wikiPageDisambiguates	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1957_New_Zealand_Grand_Prix>	dbo:fastestDriver	dbr:Reg_Parnell ;
+	dbo:firstDriver	dbr:Reg_Parnell .
+dbr:Reg_Parnell_Racing	dbp:founders	dbr:Reg_Parnell ;
+	dbp:staff	dbr:Reg_Parnell .
+dbr:Giuseppe_Farina	dbp:after	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1950_Jersey_Road_Race>	dbo:secondDriver	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1950_British_Grand_Prix>	dbo:thirdDriver	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1950_British_Empire_Trophy>	dbo:fastestDriver	dbr:Reg_Parnell .
+dbr:Lance_Macklin	dbp:before	dbr:Reg_Parnell .
+dbr:Giancarlo_Baghetti	<http://dbpedia.org/property/team(s)_>	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__6__1>	dbo:firstDriver	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__7__1>	dbo:firstDriver	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__56__1>	dbo:firstDriver	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__54__1>	dbo:firstDriver	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__22__1>	dbo:firstDriver	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__15__1>	dbo:firstDriver	dbr:Reg_Parnell .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__39__1>	dbo:firstDriver	dbr:Reg_Parnell .

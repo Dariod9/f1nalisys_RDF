@@ -1,0 +1,152 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1962_Naples_Grand_Prix>	dbo:fastestDriver	dbr:Willy_Mairesse ;
+	dbo:firstDriver	dbr:Willy_Mairesse .
+<http://dbpedia.org/resource/1960_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Willy_Mairesse .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__29th__1>	dbo:firstDriver	dbr:Willy_Mairesse .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__2__1>	dbo:firstDriver	dbr:Willy_Mairesse .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__15__1>	dbo:firstDriver	dbr:Willy_Mairesse .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Willy_Mairesse	rdf:type	dbo:Agent ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer .
+@prefix ns3:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Willy_Mairesse	rdf:type	ns3:NaturalPerson ,
+		ns3:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Willy_Mairesse	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Willy_Mairesse	rdf:type	yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Willy_Mairesse	rdf:type	schema:Person ,
+		yago:WikicatRacingDriversWhoCommittedSuicide ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Willy_Mairesse	rdf:type	owl:Thing ,
+		wikidata:Q5 ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		wikidata:Q378622 ,
+		yago:WikicatEcurieNationaleBelgeFormulaOneDrivers ,
+		yago:WikicatBelgianFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Willy_Mairesse	rdf:type	foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Willy_Mairesse	rdfs:label	"Willy Mairesse"@en ,
+		"Willy Mairesse"@it ,
+		"\u041C\u044D\u0440\u0435\u0441\u0441, \u0412\u0438\u043B\u043B\u0438"@ru ,
+		"Willy Mairesse"@nl ,
+		"Willy Mairesse"@fr ,
+		"\u30A6\u30A3\u30EA\u30FC\u30FB\u30E1\u30EC\u30B9"@ja ,
+		"Willy Mairesse"@pt ,
+		"Willy Mairesse"@pl ,
+		"Willy Mairesse"@de ;
+	rdfs:comment	"Willy Mairesse (1 October 1928 \u2013 9 September 1969) was a Formula One and sports car driver from Belgium. He participated in 13 World Championship Grands Prix, debuting on 19 June 1960. He achieved one podium, and scored a total of seven championship points. He committed suicide in a hotel room in Ostend after injury at the 1968 24 Hours of Le Mans forced an end to his career."@en ,
+		"\u30A6\u30A3\u30EA\u30FC\u30FB\u30E1\u30EC\u30B9(Willy Mairesse,1928\u5E7410\u67081\u65E5 - 1969\u5E749\u67082\u65E5)\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u51FA\u8EAB\u306E\u30EC\u30FC\u30B9\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Willy Mairesse (Momignies, B\u00E9lgica, 1 de outubro de 1928 - Ostend, B\u00E9lgica, 2 de setembro de 1969) foi um automobilista belga que participou de 12 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1960 e 1965 por equipes com Lotus e Ferrari. Seu melhor resultado foi o terceiro lugar na It\u00E1lia em 1960."@pt ,
+		"Willy Mairesse (ur. 1 pa\u017Adziernika 1928 roku w Momignies, zm. 2 wrze\u015Bnia 1969 roku w Ostendzie) \u2013 by\u0142 belgijskim kierowc\u0105 wy\u015Bcigowym. W trakcie swojej kariery zaliczy\u0142 wiele powa\u017Cnych wypadk\u00F3w, kt\u00F3re po\u015Brednio przyczyni\u0142y si\u0119 do jego przedwczesnej \u015Bmierci."@pl ,
+		"Willy Mairesse (Momignies, 1 oktober 1928 - Oostende, 9 september 1969) was een Formule 1-coureur uit Belgi\u00EB. Hij nam tussen 1960 en 1965 deel aan 13 Grands Prix voor de teams Ferrari, Ecurie Nationale Belge, Lotus en Scuderia Centro Sud en scoorde hierin 1 podium en 7 punten. Nadat hij gewond raakte tijdens de 24 uur van Le Mans 1968 besliste hij dat hij een eind aan zijn carri\u00E8re maakt."@nl ,
+		"Willy Mairesse (n\u00E9 le 1er octobre 1928 \u00E0 Momignies - mort le 2 septembre 1969 \u00E0 Ostende) \u00E9tait un pilote automobile belge des ann\u00E9es 1950 et 60. Il a particip\u00E9 \u00E0 treize GP en Formule 1 avec \u00E0 la cl\u00E9 un podium et un total de sept points marqu\u00E9s au championnat du monde des pilotes. Il se suicide dans sa chambre d'h\u00F4tel apr\u00E8s avoir arr\u00EAt\u00E9 sa carri\u00E8re automobile (il ne pouvait plus piloter depuis son accident aux 24 heures du Mans 1968 en raison des s\u00E9quelles du coma qui s'ensuivit)."@fr ,
+		"Wilhelm \u201EWilly\u201C Mairesse (* 1. Oktober 1928 in Momignies; \u2020 2. September 1969 in Ostende) war ein belgischer Automobilrennfahrer."@de ,
+		"\u0412\u0438\u0301\u043B\u043B\u0438 \u041C\u044D\u0440\u0435\u0301\u0441\u0441 (\u0444\u0440. Willy Mairesse, 1 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1928, \u041C\u043E\u043C\u0438\u043D\u044C\u0438 \u2014 2 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1969, \u041E\u0441\u0442\u0435\u043D\u0434\u0435) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u043F\u0438\u043B\u043E\u0442 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 \u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Willy_Mairesse	dbp:birthDate	"1928-10-01"^^xsd:date ;
+	owl:sameAs	wikidata:Q171881 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Willy_Mairesse	owl:sameAs	dbpedia-fr:Willy_Mairesse .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Willy_Mairesse	owl:sameAs	dbpedia-nl:Willy_Mairesse ,
+		dbr:Willy_Mairesse .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Willy_Mairesse	owl:sameAs	dbpedia-it:Willy_Mairesse .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Willy_Mairesse	owl:sameAs	dbpedia-pl:Willy_Mairesse ,
+		<http://viaf.org/viaf/212080306> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Willy_Mairesse	owl:sameAs	dbpedia-cs:Willy_Mairesse ,
+		<http://ja.dbpedia.org/resource/\u30A6\u30A3\u30EA\u30FC\u30FB\u30E1\u30EC\u30B9> ,
+		<http://rdf.freebase.com/ns/m.04kypv> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Willy_Mairesse	owl:sameAs	dbpedia-pt:Willy_Mairesse .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Willy_Mairesse	owl:sameAs	yago-res:Willy_Mairesse .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Willy_Mairesse	owl:sameAs	dbpedia-de:Willy_Mairesse .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Willy_Mairesse	owl:sameAs	dbpedia-wikidata:Q171881 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Willy_Mairesse	dct:subject	dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1969_deaths> ,
+		<http://dbpedia.org/resource/Category:1928_births> ,
+		dbc:Place_of_birth_missing ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:Racing_drivers_who_committed_suicide ,
+		dbc:Ecurie_Nationale_Belge_Formula_One_drivers ,
+		dbc:Belgian_racing_drivers ,
+		dbc:Belgian_Formula_One_drivers ,
+		dbc:Suicides_in_Belgium ;
+	foaf:name	"Willy Mairesse"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Willy_Mairesse.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Willy"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Willy_Mairesse	foaf:isPrimaryTopicOf	wikipedia-en:Willy_Mairesse ;
+	foaf:surname	"Mairesse"@en ;
+	dbp:points	7 ;
+	dbp:years	"\u2013,"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Team_Lotus ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Ecurie_Nationale_Belge ,
+		dbr:Scuderia_Centro_Sud .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Willy_Mairesse	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Willy_Mairesse?oldid=726263978> ;
+	dbp:nationality	"Belgian"^^xsd:string ;
+	dbp:deathDate	"1969-09-09"^^xsd:date ;
+	dbo:abstract	"Willy Mairesse (Momignies, 1 oktober 1928 - Oostende, 9 september 1969) was een Formule 1-coureur uit Belgi\u00EB. Hij nam tussen 1960 en 1965 deel aan 13 Grands Prix voor de teams Ferrari, Ecurie Nationale Belge, Lotus en Scuderia Centro Sud en scoorde hierin 1 podium en 7 punten. Nadat hij gewond raakte tijdens de 24 uur van Le Mans 1968 besliste hij dat hij een eind aan zijn carri\u00E8re maakt."@nl ,
+		"Willy Mairesse (Momignies, B\u00E9lgica, 1 de outubro de 1928 - Ostend, B\u00E9lgica, 2 de setembro de 1969) foi um automobilista belga que participou de 12 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1960 e 1965 por equipes com Lotus e Ferrari. Seu melhor resultado foi o terceiro lugar na It\u00E1lia em 1960."@pt ,
+		"\u0412\u0438\u0301\u043B\u043B\u0438 \u041C\u044D\u0440\u0435\u0301\u0441\u0441 (\u0444\u0440. Willy Mairesse, 1 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1928, \u041C\u043E\u043C\u0438\u043D\u044C\u0438 \u2014 2 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1969, \u041E\u0441\u0442\u0435\u043D\u0434\u0435) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C Targa Florio, \u043F\u0438\u043B\u043E\u0442 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430 \u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"\u30A6\u30A3\u30EA\u30FC\u30FB\u30E1\u30EC\u30B9(Willy Mairesse,1928\u5E7410\u67081\u65E5 - 1969\u5E749\u67082\u65E5)\u306F\u3001\u30D9\u30EB\u30AE\u30FC\u51FA\u8EAB\u306E\u30EC\u30FC\u30B9\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Willy Mairesse (1 October 1928 \u2013 9 September 1969) was a Formula One and sports car driver from Belgium. He participated in 13 World Championship Grands Prix, debuting on 19 June 1960. He achieved one podium, and scored a total of seven championship points. He committed suicide in a hotel room in Ostend after injury at the 1968 24 Hours of Le Mans forced an end to his career. Peter Revson once described the intensity of Mairesse before a race at Spa, Belgium. Revson looked into his car and saw Mairesse's \"furrowed\" face, beetled brows, and eyes which were almost tilted and their colour changed. \"It was almost like looking at the devil.\""@en ,
+		"Wilhelm \u201EWilly\u201C Mairesse (* 1. Oktober 1928 in Momignies; \u2020 2. September 1969 in Ostende) war ein belgischer Automobilrennfahrer."@de ,
+		"Willy Mairesse (n\u00E9 le 1er octobre 1928 \u00E0 Momignies - mort le 2 septembre 1969 \u00E0 Ostende) \u00E9tait un pilote automobile belge des ann\u00E9es 1950 et 60. Il a particip\u00E9 \u00E0 treize GP en Formule 1 avec \u00E0 la cl\u00E9 un podium et un total de sept points marqu\u00E9s au championnat du monde des pilotes. Il se suicide dans sa chambre d'h\u00F4tel apr\u00E8s avoir arr\u00EAt\u00E9 sa carri\u00E8re automobile (il ne pouvait plus piloter depuis son accident aux 24 heures du Mans 1968 en raison des s\u00E9quelles du coma qui s'ensuivit)."@fr ,
+		"Willy Mairesse (ur. 1 pa\u017Adziernika 1928 roku w Momignies, zm. 2 wrze\u015Bnia 1969 roku w Ostendzie) \u2013 by\u0142 belgijskim kierowc\u0105 wy\u015Bcigowym. W trakcie swojej kariery zaliczy\u0142 wiele powa\u017Cnych wypadk\u00F3w, kt\u00F3re po\u015Brednio przyczyni\u0142y si\u0119 do jego przedwczesnej \u015Bmierci."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Willy_Mairesse.jpg?width=300> ;
+	dbo:birthDate	"1928-10-1"^^xsd:date ;
+	dbo:deathDate	"1969-9-9"^^xsd:date ;
+	dbo:deathPlace	dbr:Ostend ;
+	dbo:wikiPageRevisionID	726263978 ;
+	dbo:birthPlace	dbr:Momignies ;
+	dbo:wikiPageID	1235884 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1960_Belgian_Grand_Prix> ;
+	dbo:races	"13"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1965_Belgian_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Willy_Mairesse	ns25:hypernym	dbr:Formula .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__44th__1>	dbo:firstDriver	dbr:Willy_Mairesse .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__3__1>	dbo:firstDriver	dbr:Willy_Mairesse .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__26__1>	dbo:firstDriver	dbr:Willy_Mairesse .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__3__1>	dbo:firstDriver	dbr:Willy_Mairesse .
+dbr:Mairesse	dbo:wikiPageDisambiguates	dbr:Willy_Mairesse .
+wikipedia-en:Willy_Mairesse	foaf:primaryTopic	dbr:Willy_Mairesse .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__54__1>	dbo:firstDriver	dbr:Willy_Mairesse .
+<http://dbpedia.org/resource/1962_Brussels_Grand_Prix>	dbo:firstDriver	dbr:Willy_Mairesse .

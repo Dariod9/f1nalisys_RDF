@@ -1,0 +1,128 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Mike_MacDowel	foaf:primaryTopic	dbr:Mike_MacDowel .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Mike_MacDowel	rdf:type	dbo:RacingDriver .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mike_MacDowel	rdf:type	yago:WikicatBritishHillclimbDrivers ,
+		yago:Driver110034906 ,
+		yago:CausalAgent100007347 ,
+		dbo:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mike_MacDowel	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		dbo:Athlete ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q5 ,
+		foaf:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Mike_MacDowel	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mike_MacDowel	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mike_MacDowel	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		wikidata:Q378622 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mike_MacDowel	rdf:type	ns10:NaturalPerson ,
+		yago:PhysicalEntity100001930 ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		ns10:Agent ,
+		yago:Operator110378412 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mike_MacDowel	rdfs:label	"Mike MacDowel"@pl ,
+		"Mike MacDowel"@fr ,
+		"Mike MacDowel"@it ,
+		"Mike MacDowel"@de ,
+		"Mike MacDowel"@nl ,
+		"Mike MacDowel"@en ,
+		"Mike MacDowel"@pt ;
+	rdfs:comment	"Michael George Hartwell \u201EMike\u201C MacDowel (* 13. September 1932 in Great Yarmouth; \u2020 18. Januar 2016) war ein britischer Automobilrennfahrer."@de ,
+		"Michael \u201EMike\u201D George Hartwell MacDowel (ur. 13 wrze\u015Bnia 1932 roku w Great Yarmouth) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"In Formula 1 partecip\u00F2 al solo Gran Premio di Francia 1957, condividendo una Cooper con Jack Brabham e terminando la gara settimo. Dal 1968 agli anni novanta corse in competizioni di cronoscalata automobilistica, diventando campione nazionale nel 1973 e 1974."@it ,
+		"Michael George Hartwell (Mike) MacDowel (Great Yarmouth, Norfolk, 13 september 1932 \u2013 18 januari 2016) was een Formule 1-coureur uit Engeland. MacDowel nam deel aan de Grand Prix van Frankrijk in 1957 voor het team van Cooper, maar scoorde geen punten. Hij deelde zijn wagen met de latere wereldkampioen Jack Brabham. MacDowel overleed in 2016 op 83-jarige leeftijd aan kanker."@nl ,
+		"Michael George Hartwell MacDowel (Great Yarmouth, Inglaterra, 13 de setembro de 1932 - Surrey, Inglaterra, 18 de janeiro de 2016) foi um automobilista ingl\u00EAs que participou do Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 em 1957."@pt ,
+		"Michael George Hartwell MacDowel (13 September 1932 \u2013 18 January 2016) was an English racing driver who participated in one Formula One World Championship Grand Prix, the 1957 French Grand Prix on 7 July 1957, sharing his car with Jack Brabham. MacDowel did not score any championship points as he finished seventh (having qualified 15th and last), and points were only awarded to the first five finishers. He died of cancer on 18 January 2016."@en ,
+		"Michael George Hartwell MacDowel dit Mike MacDowel (n\u00E9 le 13 septembre 1932 \u00E0 Great Yarmouth, comt\u00E9 de Norfolk, Angleterre, Royaume-Uni, et mort le 18 janvier 2016) est un pilote Britannique. Il participe au Grand Prix de France 1957, comptant pour le championnat du monde de Formule 1 o\u00F9 il partage sa voiture avec Jack Brabham. MacDowel n'inscrit aucun point car il termine termine septi\u00E8me de l'\u00E9preuve et seuls les cinq premiers et l'auteur du meilleur tour en course inscrivent des points. MacDowel s'\u00E9tait, \u00E0 l'origine qualifi\u00E9 en quinzi\u00E8me et derni\u00E8re position."@fr .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Mike_MacDowel	dbp:birthDate	"1932-09-13"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mike_MacDowel	owl:sameAs	yago-res:Mike_MacDowel .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mike_MacDowel	owl:sameAs	dbpedia-nl:Mike_MacDowel .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Mike_MacDowel	owl:sameAs	dbpedia-cs:Mike_MacDowel ,
+		wikidata:Q173599 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mike_MacDowel	owl:sameAs	dbpedia-pt:Mike_MacDowel .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mike_MacDowel	owl:sameAs	dbpedia-pl:Mike_MacDowel ,
+		dbr:Mike_MacDowel .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mike_MacDowel	owl:sameAs	dbpedia-it:Mike_MacDowel .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mike_MacDowel	owl:sameAs	dbpedia-de:Mike_MacDowel ,
+		<http://rdf.freebase.com/ns/m.04l22d> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mike_MacDowel	owl:sameAs	dbpedia-fr:Mike_MacDowel .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mike_MacDowel	owl:sameAs	dbpedia-wikidata:Q173599 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Mike_MacDowel	dct:subject	<http://dbpedia.org/resource/Category:2016_deaths> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mike_MacDowel	dct:subject	dbc:English_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1932_births> ,
+		dbc:Cooper_Formula_One_drivers ,
+		dbc:Sportspeople_from_Great_Yarmouth ,
+		dbc:British_hillclimb_drivers ,
+		dbc:English_racing_drivers ;
+	foaf:name	"Mike MacDowel"@en ;
+	dct:description	"English racing driver"@en ;
+	foaf:givenName	"Michael"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Mike_MacDowel ;
+	dbp:points	0 ;
+	dbp:years	1973 ;
+	dbp:after	dbr:Roy_Lane ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mike_MacDowel	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mike_MacDowel?oldid=743450501> .
+@prefix ns26:	<http://www.oldracingcars.com/driver/> .
+dbr:Mike_MacDowel	dbo:wikiPageExternalLink	ns26:Mike_MacDowel ,
+		<https://web.archive.org/web/20071030055457/http:/www.gpracing.net192.com/drivers/careers/386.cfm> ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:birthPlace	"Great Yarmouth, Norfolk, England"^^xsd:string ;
+	dbp:deathDate	"2016-01-18"^^xsd:date ;
+	dbp:before	dbr:Nicholas_Williamson ;
+	dbp:deathPlace	"Surrey, England"^^xsd:string ;
+	dbo:abstract	"Michael George Hartwell \u201EMike\u201C MacDowel (* 13. September 1932 in Great Yarmouth; \u2020 18. Januar 2016) war ein britischer Automobilrennfahrer."@de ,
+		"Michael George Hartwell (Mike) MacDowel (Great Yarmouth, Norfolk, 13 september 1932 \u2013 18 januari 2016) was een Formule 1-coureur uit Engeland. MacDowel nam deel aan de Grand Prix van Frankrijk in 1957 voor het team van Cooper, maar scoorde geen punten. Hij deelde zijn wagen met de latere wereldkampioen Jack Brabham. MacDowel overleed in 2016 op 83-jarige leeftijd aan kanker."@nl ,
+		"Michael George Hartwell MacDowel dit Mike MacDowel (n\u00E9 le 13 septembre 1932 \u00E0 Great Yarmouth, comt\u00E9 de Norfolk, Angleterre, Royaume-Uni, et mort le 18 janvier 2016) est un pilote Britannique. Il participe au Grand Prix de France 1957, comptant pour le championnat du monde de Formule 1 o\u00F9 il partage sa voiture avec Jack Brabham. MacDowel n'inscrit aucun point car il termine termine septi\u00E8me de l'\u00E9preuve et seuls les cinq premiers et l'auteur du meilleur tour en course inscrivent des points. MacDowel s'\u00E9tait, \u00E0 l'origine qualifi\u00E9 en quinzi\u00E8me et derni\u00E8re position. MacDowel est un pilote amateur. Apr\u00E8s un long break, il se lance d\u00E8s 1968 dans la course de c\u00F4te et continue \u00E0 s'engager dans la discipline jusque apr\u00E8s ses soixante ans. En 1973, il remporte le Shelsley Walsh Speed Hill Climb ainsi que son premier titre de champion de Grande-Bretagne de la montagne. L'ann\u00E9e suivante, Mike MacDowel remporte \u00E9galement le titre, toujours sur Brabham-Repco BT36X."@fr ,
+		"Michael George Hartwell MacDowel (Great Yarmouth, Inglaterra, 13 de setembro de 1932 - Surrey, Inglaterra, 18 de janeiro de 2016) foi um automobilista ingl\u00EAs que participou do Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 em 1957."@pt ,
+		"In Formula 1 partecip\u00F2 al solo Gran Premio di Francia 1957, condividendo una Cooper con Jack Brabham e terminando la gara settimo. Dal 1968 agli anni novanta corse in competizioni di cronoscalata automobilistica, diventando campione nazionale nel 1973 e 1974."@it ,
+		"Michael George Hartwell MacDowel (13 September 1932 \u2013 18 January 2016) was an English racing driver who participated in one Formula One World Championship Grand Prix, the 1957 French Grand Prix on 7 July 1957, sharing his car with Jack Brabham. MacDowel did not score any championship points as he finished seventh (having qualified 15th and last), and points were only awarded to the first five finishers. MacDowel was a keen amateur racer. After a break, he competed in hill climb events from 1968 until well after his 60th birthday. He set what was then the course record at Shelsley Walsh in 1973 \u2013 28.21 seconds for the 1000 yard course \u2013 and in both that season and the following year he won the British Hill Climb Championship. He died of cancer on 18 January 2016."@en ,
+		"Michael \u201EMike\u201D George Hartwell MacDowel (ur. 13 wrze\u015Bnia 1932 roku w Great Yarmouth) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1932-9-13"^^xsd:date ;
+	dbo:deathDate	"2016-1-18"^^xsd:date ;
+	dbo:deathPlace	dbr:Surrey ;
+	dbo:wikiPageRevisionID	743450501 ;
+	dbo:birthPlace	dbr:Great_Yarmouth ;
+	dbo:wikiPageID	1237448 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1957_French_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1957_French_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Mike_MacDowel	ns27:hypernym	dbr:English ;
+	dbp:title	dbr:British_Hill_Climb_Championship .
+dbr:Roy_Lane	dbp:before	dbr:Mike_MacDowel .

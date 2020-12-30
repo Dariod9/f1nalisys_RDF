@@ -1,0 +1,117 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Roger_Loyer	rdf:type	yago:Racer110502576 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Roger_Loyer	rdf:type	wikidata:Q378622 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Roger_Loyer	rdf:type	foaf:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Roger_Loyer	rdf:type	owl:Thing ,
+		yago:WikicatFrenchMotorcycleRacers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Roger_Loyer	rdf:type	dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:Operator110378412 ,
+		wikidata:Q5 ,
+		dbo:RacingDriver ,
+		dbo:Agent ,
+		yago:WikicatGordiniFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		dbo:MotorsportRacer ,
+		wikidata:Q215627 ,
+		yago:PhysicalEntity100001930 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Roger_Loyer	rdf:type	ns7:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Roger_Loyer	rdf:type	schema:Person ,
+		ns7:NaturalPerson ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		dbo:Athlete .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Roger_Loyer	rdfs:label	"Roger Loyer"@en ,
+		"Roger Loyer"@de ,
+		"Roger Loyer"@fr ,
+		"Roger Loyer"@pt ,
+		"Roger Loyer"@pl ,
+		"Roger Loyer"@nl ;
+	rdfs:comment	"Roger Loyer (5 August 1907 \u2013 24 March 1988) was a motorcycle road racer and racing driver from France. He won the 1937 250cc French motorcycle Grand Prix and the 1938 350cc French motorcycle Grand Prix. He participated in one Formula One World Championship Grand Prix, the Argentine Grand Prix on 17 January 1954. His Gordini Type 16 ran out of oil, and he scored no championship points. Shortly after, this car failed again during the non-Championship Buenos Aires Grand Prix, but Loyer was able to share \u00C9lie Bayol's car to finish 10th."@en ,
+		"Roger Loyer (Paris, Fran\u00E7a, 5 de agosto de 1907 \u2013 Boulogne-Billancourt, Fran\u00E7a, 24 de mar\u00E7o de 1988) foi um automobilista franc\u00EAs que participou do Grande Pr\u00EAmio da Argentina de F\u00F3rmula 1 em 1954."@pt ,
+		"Roger Loyer (ur. 5 sierpnia 1907 roku w Pary\u017Cu, zm. 24 marca 1988 roku w Boulogne-Billancourt w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy i motocyklowy."@pl ,
+		"Roger Loyer (* 5. August 1907; \u2020 24. M\u00E4rz 1988) war ein franz\u00F6sischer Automobil- und Motorradrennfahrer."@de ,
+		"Roger Loyer (Parijs, 5 augustus 1907 \u2013 Boulogne-Billancourt, 24 maart 1988) was een Frans Formule 1-coureur. Hij nam deel aan de Grand Prix van Argentini\u00EB in 1954 voor het team Gordini, maar viel uit en scoorde geen punten."@nl ,
+		"Roger Loyer est un pilote motocycliste et automobile fran\u00E7ais, n\u00E9 le 5 ao\u00FBt 1907 \u00E0 Paris et mort le 24 mars 1988 \u00E0 Boulogne-Billancourt."@fr .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Roger_Loyer	dbp:birthDate	"1907-08-05"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Roger_Loyer	owl:sameAs	yago-res:Roger_Loyer .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Roger_Loyer	owl:sameAs	dbpedia-pl:Roger_Loyer .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Roger_Loyer	owl:sameAs	dbpedia-de:Roger_Loyer .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Roger_Loyer	owl:sameAs	dbpedia-wikidata:Q172829 ,
+		<http://rdf.freebase.com/ns/m.04kxdj> ,
+		wikidata:Q172829 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Roger_Loyer	owl:sameAs	dbpedia-nl:Roger_Loyer ,
+		dbr:Roger_Loyer .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Roger_Loyer	owl:sameAs	dbpedia-fr:Roger_Loyer .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Roger_Loyer	owl:sameAs	dbpedia-pt:Roger_Loyer .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Roger_Loyer	dct:subject	dbc:French_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1988_deaths> ,
+		<http://dbpedia.org/resource/Category:1907_births> ,
+		dbc:Gordini_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:French_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:French_motorcycle_racers ;
+	foaf:name	"Roger Loyer"@en ;
+	dct:description	"French racing driver"@en ;
+	foaf:givenName	"Roger"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Roger_Loyer	foaf:isPrimaryTopicOf	wikipedia-en:Roger_Loyer ;
+	foaf:surname	"Loyer"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Roger_Loyer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Roger_Loyer?oldid=703979652> ;
+	dbp:nationality	"French"^^xsd:string ;
+	dbp:deathDate	"1988-03-24"^^xsd:date ;
+	dbo:abstract	"Roger Loyer (5 August 1907 \u2013 24 March 1988) was a motorcycle road racer and racing driver from France. He won the 1937 250cc French motorcycle Grand Prix and the 1938 350cc French motorcycle Grand Prix. He participated in one Formula One World Championship Grand Prix, the Argentine Grand Prix on 17 January 1954. His Gordini Type 16 ran out of oil, and he scored no championship points. Shortly after, this car failed again during the non-Championship Buenos Aires Grand Prix, but Loyer was able to share \u00C9lie Bayol's car to finish 10th."@en ,
+		"Roger Loyer est un pilote motocycliste et automobile fran\u00E7ais, n\u00E9 le 5 ao\u00FBt 1907 \u00E0 Paris et mort le 24 mars 1988 \u00E0 Boulogne-Billancourt."@fr ,
+		"Roger Loyer (* 5. August 1907; \u2020 24. M\u00E4rz 1988) war ein franz\u00F6sischer Automobil- und Motorradrennfahrer."@de ,
+		"Roger Loyer (Parijs, 5 augustus 1907 \u2013 Boulogne-Billancourt, 24 maart 1988) was een Frans Formule 1-coureur. Hij nam deel aan de Grand Prix van Argentini\u00EB in 1954 voor het team Gordini, maar viel uit en scoorde geen punten."@nl ,
+		"Roger Loyer (Paris, Fran\u00E7a, 5 de agosto de 1907 \u2013 Boulogne-Billancourt, Fran\u00E7a, 24 de mar\u00E7o de 1988) foi um automobilista franc\u00EAs que participou do Grande Pr\u00EAmio da Argentina de F\u00F3rmula 1 em 1954."@pt ,
+		"Roger Loyer (ur. 5 sierpnia 1907 roku w Pary\u017Cu, zm. 24 marca 1988 roku w Boulogne-Billancourt w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy i motocyklowy."@pl ;
+	dbo:birthDate	"1907-8-5"^^xsd:date ;
+	dbo:deathDate	"1988-3-24"^^xsd:date ;
+	dbo:wikiPageRevisionID	703979652 ;
+	dbo:birthPlace	dbr:Paris ;
+	dbo:wikiPageID	1235616 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1954_Argentine_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1954_Argentine_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Roger_Loyer	ns23:hypernym	dbr:Racer .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__48__1>	dbo:firstDriver	dbr:Roger_Loyer .
+wikipedia-en:Roger_Loyer	foaf:primaryTopic	dbr:Roger_Loyer .
+<http://dbpedia.org/resource/1939_24_Hours_of_Le_Mans__25__1>	dbo:firstDriver	dbr:Roger_Loyer .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__44__1>	dbo:firstDriver	dbr:Roger_Loyer .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__47__1>	dbo:firstDriver	dbr:Roger_Loyer .
+<http://dbpedia.org/resource/1938_24_Hours_of_Le_Mans__26__1>	dbo:firstDriver	dbr:Roger_Loyer .
+dbr:Loyer	dbo:wikiPageDisambiguates	dbr:Roger_Loyer .

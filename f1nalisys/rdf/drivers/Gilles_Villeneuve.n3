@@ -1,0 +1,213 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Bill_Brack	dbp:after	dbr:Gilles_Villeneuve .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1979_United_States_Grand_Prix_West>	dbo:fastestDriver	dbr:Gilles_Villeneuve ;
+	dbo:firstDriver	dbr:Gilles_Villeneuve ;
+	dbo:poleDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1978_Austrian_Grand_Prix>	dbo:thirdDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_Austrian_Grand_Prix>	dbo:secondDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_French_Grand_Prix>	dbo:secondDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_German_Grand_Prix>	dbo:fastestDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_Italian_Grand_Prix>	dbo:secondDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1981_San_Marino_Grand_Prix>	dbo:fastestDriver	dbr:Gilles_Villeneuve ;
+	dbo:poleDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1982_San_Marino_Grand_Prix>	dbo:secondDriver	dbr:Gilles_Villeneuve .
+dbr:Riccardo_Paletti	dbp:before	dbr:Gilles_Villeneuve .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Gilles_Villeneuve	foaf:primaryTopic	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1981_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Gilles_Villeneuve .
+dbr:Atlantic_Motorsport_Park	dbp:recordDriver	dbr:Gilles_Villeneuve .
+dbr:Keke_Rosberg	dbp:before	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_Race_of_Champions>	dbo:firstDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1978_Canadian_Grand_Prix>	dbo:firstDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Gilles_Villeneuve ;
+	dbo:firstDriver	dbr:Gilles_Villeneuve .
+dbr:Villeneuve	dbo:wikiPageDisambiguates	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_United_States_Grand_Prix>	dbo:firstDriver	dbr:Gilles_Villeneuve .
+dbr:James_Hunt	dbp:after	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1978_Argentine_Grand_Prix>	dbo:fastestDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1981_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Gilles_Villeneuve .
+dbr:Circuito_del_Jarama	dbp:recordDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1981_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Gilles_Villeneuve .
+<http://dbpedia.org/resource/1979_Dino_Ferrari_Grand_Prix>	dbo:fastestDriver	dbr:Gilles_Villeneuve ;
+	dbo:poleDriver	dbr:Gilles_Villeneuve .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Gilles_Villeneuve	rdf:type	foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Gilles_Villeneuve	rdf:type	yago:CausalAgent100007347 ,
+		yago:Operator110378412 ,
+		dbo:Person ,
+		yago:Driver110034906 ,
+		yago:WikicatRacingDriversFromQuebec ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Gilles_Villeneuve	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Agent ,
+		yago:PhysicalEntity100001930 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatAtlanticChampionshipDrivers ,
+		dbo:RacingDriver ,
+		yago:WikicatCanadianFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Gilles_Villeneuve	rdf:type	wikidata:Q215627 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Gilles_Villeneuve	rdf:type	ns9:Agent ,
+		wikidata:Q24229398 ,
+		ns9:NaturalPerson .
+@prefix schema:	<http://schema.org/> .
+dbr:Gilles_Villeneuve	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		dbo:Athlete ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		wikidata:Q378622 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Gilles_Villeneuve	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Gilles_Villeneuve	rdfs:label	"Gilles Villeneuve"@es ,
+		"Gilles Villeneuve"@pl ,
+		"\u5409\u723E\u00B7\u7DAD\u502B\u7D10\u592B"@zh ,
+		"Gilles Villeneuve"@pt ,
+		"Gilles Villeneuve"@fr ,
+		"Gilles Villeneuve"@nl ,
+		"\u062C\u064A\u0644 \u0641\u064A\u0644\u0646\u0648\u0641"@ar ,
+		"\u0412\u0438\u043B\u044C\u043D\u0451\u0432, \u0416\u0438\u043B\u044C"@ru ,
+		"Gilles Villeneuve"@it ,
+		"Gilles Villeneuve"@en ,
+		"\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4"@ja ,
+		"Gilles Villeneuve"@de ;
+	rdfs:comment	"Joseph Gilles Henri Villeneuve, (Richelieu, Quebec, Canad\u00E1, 18 de enero de 1950-Zolder, B\u00E9lgica, 8 de mayo de 1982) fue un piloto de automovilismo canadiense. Obtuvo seis victorias y 13 podios en la F\u00F3rmula 1, resultando subcampe\u00F3n en 1979, s\u00E9ptimo en 1981 y noveno en 1978. En aquella misma \u00E9poca, corr\u00EDa tambi\u00E9n su hermano, Jacques Villeneuve Senior."@es ,
+		"\u062C\u064A\u0644 \u0641\u064A\u0644\u0646\u0648\u0641 \u0645\u0648\u0627\u0644\u064A\u062F 18 \u064A\u0646\u0627\u064A\u0631 1950 \u0641\u064A \u0633\u0627\u0646 \u062C\u0627\u0646 \u0633\u0648\u0631 \u0631\u064A\u0634\u0644\u064A\u0648\u060C \u0643\u064A\u0628\u0643\u060C \u0643\u0646\u062F\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0643\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1977. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A 1977\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0643\u0646\u062F\u064A 1978. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 68 \u0633\u0628\u0627\u0642\u0627\u064B\u060C \u0641\u0627\u0632 \u0641\u064A 6 \u0645\u0646\u0647\u0627."@ar ,
+		"Gilles Villeneuve (18 janvier 1950 \u00E0 Saint-Jean-sur-Richelieu, Qu\u00E9bec - 8 mai 1982 \u00E0 Zolder, Belgique) est un pilote automobile canadien. Malgr\u00E9 un palmar\u00E8s relativement peu \u00E9toff\u00E9 (six victoires en Grand Prix), son style de pilotage hautement spectaculaire ainsi que sa mort tragique aux qualifications du GP de Belgique 1982 ont contribu\u00E9 \u00E0 faire de lui l'une des l\u00E9gendes de la Formule 1. Son fils Jacques, lui aussi pilote de course, est devenu champion du monde de F1 en 1997."@fr ,
+		"\u5409\u723E\u00B7\u7DAD\u502B\u7D10\u592B\uFF08Joseph Gilles Henri Villeneuve\uFF0C1950\u5E741\u670818\u65E5\uFF0D1982\u5E745\u67088\u65E5\uFF09\u662F\u4E00\u4F4D\u52A0\u62FF\u5927F1\u8D5B\u8F66\u624B\u3002\u4ED6\u662F\u53F2\u4E0A\u7D55\u7121\u50C5\u6709\u7684\u50B3\u5947\u8ECA\u624B\uFF0C\u4EE5\u5145\u6EFF\u6FC0\u60C5\u7684\u99D5\u99DB\u98A8\u683C\u6DF1\u53D7\u8ECA\u8FF7\u7684\u559C\u611B\uFF0C\u6CD5\u62C9\u5229\u7684\u5275\u59CB\u4EBA\u6069\u4F50\u00B7\u6CD5\u62C9\u5229\uFF08Enzo Ferrari\uFF09\u8996\u4ED6\u5982\u89AA\u751F\u5152\u5B50\u30021982\u5E74\uFF0C\u4ED6\u5728\u6BD4\u5229\u6642\u5927\u734E\u8CFD\u7684\u6392\u4F4D\u8CFD\u4E2D\u4E0D\u5E78\u767C\u751F\u8ECA\u798D\u55AA\u751F\u3002\u4ED6\u7684\u5152\u5B50\u5091\u514B\u00B7\u7DAD\u502B\u7D10\u592B\u57281997\u5E74\u6210\u70BA\u4E86\u7B2C\u4E00\u4F4D\u52A0\u62FF\u5927\u7C4D\u7684\u4E16\u754C\u51A0\u8ECD\u8ECA\u624B\u3002"@zh ,
+		"Joseph Gilles Henri Villeneuve, mais conhecido como Gilles Villeneuve , (Saint-Jean-sur-Richelieu, 18 de janeiro de 1950 \u2014 Lovaina, 9 de maio de 1982) foi um piloto de automobilismo canadense."@pt ,
+		"Joseph Gilles Henri Villeneuve (Saint-Jean-sur-Richelieu, Quebec (Canada), 18 januari 1950 - Leuven (Belgi\u00EB), 8 mei 1982) was een Canadees Formule 1-coureur. Hij startte zijn carri\u00E8re in de F1 als derde coureur bij het McLaren team in 1977, waar hij slechts een race voor reed. Later dat jaar werd hij door Ferrari in huis gehaald om voor de laatste twee races het stuur over te nemen van Niki Lauda, die dat jaar wereldkampioen werd in de F1. Zijn eerste overwinning behaalde hij in 1978 tijdens de Canadese Grand Prix die in Montreal gehouden werd."@nl ,
+		"Joseph Gilles Henri Villeneuve (ur. 18 stycznia 1950, zm. 8 maja 1982) \u2013 kanadyjski kierowca wy\u015Bcigowy. Ojciec Jacques'a Villeneuve'a. Urodzony w niewielkiej miejscowo\u015Bci Berthierville (Quebec, Kanada), Villeneuve karier\u0119 rozpoczyn\u0105\u0142 m.in. od udzia\u0142u w wy\u015Bcigach \"Formula Atlantic\".Wkr\u00F3tce zosta\u0142 dostrze\u017Cony przez Europejczyk\u00F3w i od 1977 r. rozpocz\u0119\u0142a si\u0119 jego kariera w wy\u015Bcigach Formu\u0142y 1, jako kierowcy McLarena. Sezon 1980 jest przeciwie\u0144stwem wcze\u015Bniejszego \u2013 s\u0142aby samoch\u00F3d nie pozwala Kanadyjczykowi na osi\u0105gni\u0119cie znacz\u0105cych sukces\u00F3w."@pl ,
+		"Inizi\u00F2 la propria carriera sportiva partecipando a gare tra motoslitte nella nativa provincia del Qu\u00E9bec. Successivamente pass\u00F2 alla guida delle monoposto, e nel 1976, vinse sia il Campionato di Formula Atlantic canadese che quello statunitense. Un anno pi\u00F9 tardi la McLaren fece esordire Villeneuve in Formula 1 al Gran Premio di Gran Bretagna 1977; nel corso della medesima annata la Scuderia Ferrari lo ingaggi\u00F2 per le ultime due gare stagionali in sostituzione di Niki Lauda. Legatosi alla scuderia di Maranello per il resto della carriera fece registrare sei vittorie nei Gran Premi ed una vittoria nella Race of Champions del 1979 a Brands Hatch (gara non valida per il titolo), oltre ad un secondo posto nella classifica del Mondiale 1979 alle spalle del compagno di squadra Jody Scheckter com"@it ,
+		"Joseph Gilles Henri Villeneuve, bekannt als Gilles Villeneuve ([\u0292il viln\u0153v],  anh\u00F6ren?/i) (* 18. Januar 1950 in Saint-Jean-sur-Richelieu; \u2020 8. Mai 1982 in L\u00F6wen, Belgien), war ein kanadischer Automobilrennfahrer. Von 1978 bis 1982 startete Villeneuve bei 67 Formel-1-Grands-Prix, bei 66 von ihnen f\u00FCr die Scuderia Ferrari. In der Formel-1-Saison 1979 wurde er Zweiter der Weltmeisterschaft. Beim Abschlusstraining des Gro\u00DFen Preises von Belgien 1982 kollidierte Villeneuve mit dem langsam fahrenden Jochen Mass, wobei sich Villeneuve lebensbedrohliche Verletzungen zuzog und wenige Stunden sp\u00E4ter starb."@de ,
+		"\u30B8\u30E7\u30BC\u30D5\u30FB\u30B8\u30EB\u30FB\u30A2\u30F3\u30EA\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\uFF08Joseph Gilles Henri Villeneuve, 1950\u5E741\u670818\u65E5 - 1982\u5E745\u67088\u65E5\uFF09\u306F\u3001\u30AB\u30CA\u30C0\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u59D3\u306F\u300C\u30D3\u30EB\u30CC\u30FC\u30F4\u300D\u3042\u308B\u3044\u306F\u300C\u30D3\u30EB\u30CC\u30FC\u30D6\u300D\u300C\u30D3\u30EB\u30CB\u30E5\u30FC\u30D6\u300D\u306A\u3069\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"\u0416\u043E\u0301\u0437\u0435\u0444 \u0416\u0438\u0301\u043B\u044C \u0410\u043D\u0440\u0438\u0301 \u0412\u0438\u043B\u044C\u043D\u0451\u0432 (\u0444\u0440. Joseph Gilles Henri Villeneuve; [\u0292il viln\u0153v] (\u0438\u043D\u0444.) 18 \u044F\u043D\u0432\u0430\u0440\u044F 1950, \u0434\u0435\u0440\u0435\u0432\u043D\u044F (\u0442\u0435\u043F\u0435\u0440\u044C \u0433\u043E\u0440\u043E\u0434) \u0428\u0430\u043C\u0431\u043B\u0438, \u041A\u0432\u0435\u0431\u0435\u043A, \u041A\u0430\u043D\u0430\u0434\u0430 \u2014 8 \u043C\u0430\u044F 1982, \u0433\u043E\u0441\u043F\u0438\u0442\u0430\u043B\u044C \u0421\u0432\u044F\u0442\u043E\u0433\u043E \u0420\u0430\u0444\u0430\u044D\u043B\u044F \u0432 \u041B\u0451\u0432\u0435\u043D\u0435, \u0411\u0435\u043B\u044C\u0433\u0438\u044F) \u2014 \u043A\u0430\u043D\u0430\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u043E\u0442\u0435\u0446 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 1997 \u0433\u043E\u0434\u0430 \u0416\u0430\u043A\u0430 \u0412\u0438\u043B\u044C\u043D\u0451\u0432\u0430. \u041C\u043B\u0430\u0434\u0448\u0438\u0439 \u0431\u0440\u0430\u0442 \u0442\u0430\u043A\u0436\u0435 \u0431\u044B\u043B \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C \u2014 \u0416\u0430\u043A \u0412\u0438\u043B\u044C\u043D\u0451\u0432-\u0441\u0442\u0430\u0440\u0448\u0438\u0439. \u0417\u0430 \u0441\u0432\u043E\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u043F\u0440\u043E\u0432\u0435\u043B 67 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0438\u0437 \u043D\u0438\u0445 \u0432 6 \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u043F\u043E\u0431\u0435\u0434\u0443. \u041F\u043E\u043B\u0443\u0447\u0438\u043B \u0441\u043C\u0435\u0440\u0442\u0435\u043B\u044C\u043D\u044B\u0435 \u0442\u0440\u0430\u0432\u043C\u044B \u0432 \u0430\u0432\u0430\u0440\u0438\u0438 \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u0438 \u043F\u0435\u0440\u0435\u0434 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 1982 \u0433\u043E\u0434\u0430. \u0412 \u0447\u0435\u0441\u0442\u044C \u043D\u0435\u0433\u043E \u043D\u0430\u0437\u0432\u0430\u043D \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0432 \u041C\u043E\u043D\u0440\u0435\u0430\u043B\u0435."@ru ,
+		"Joseph Gilles Henri Villeneuve (French pronunciation: \u200B[\u0292il viln\u0153v]; January 18, 1950 \u2013 May 8, 1982), known as Gilles Villeneuve, was a Canadian racing driver. Villeneuve spent six years in Grand Prix racing with Ferrari, winning six races and widespread acclaim for his performances."@en ;
+	dbp:points	101 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0lwxb> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-id:Gilles_Villeneuve .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-es:Gilles_Villeneuve .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-it:Gilles_Villeneuve .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-wikidata:Q172845 ,
+		<http://d-nb.info/gnd/118926721> ,
+		<http://el.dbpedia.org/resource/\u0396\u03B9\u03BB_\u0392\u03B9\u03BB\u03BD\u03AD\u03B2> ,
+		dbr:Gilles_Villeneuve .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-de:Gilles_Villeneuve ,
+		wikidata:Q172845 ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-fr:Gilles_Villeneuve .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-cs:Gilles_Villeneuve .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	yago-res:Gilles_Villeneuve .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-pl:Gilles_Villeneuve .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-nl:Gilles_Villeneuve .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Gilles_Villeneuve	owl:sameAs	dbpedia-pt:Gilles_Villeneuve .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Gilles_Villeneuve	dct:subject	dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:McLaren_Formula_One_drivers ,
+		dbc:Atlantic_Championship_drivers ,
+		dbc:Canadian_expatriates_in_Monaco ,
+		<http://dbpedia.org/resource/Category:1950_births> ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:People_from_Saint-Jean-sur-Richelieu ,
+		<http://dbpedia.org/resource/Category:Canada\u0027s_Sports_Hall_of_Fame_inductees> ,
+		dbc:Filmed_deaths_in_sports ,
+		dbc:French_Quebecers ,
+		<http://dbpedia.org/resource/Category:1982_deaths> ,
+		dbc:Burials_in_Quebec ,
+		dbc:Sport_deaths_in_Belgium ,
+		dbc:Racing_drivers_from_Quebec ,
+		dbc:Canadian_Formula_One_drivers ,
+		dbc:Canadian_Motorsport_Hall_of_Fame_inductees ,
+		dbc:Canadian_people_of_French_descent ;
+	foaf:name	"Gilles Villeneuve"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Gilles_Villeneuve_1979_Imola.jpg> ;
+	dct:description	"Canadian racecar driver"@en ;
+	foaf:givenName	"Gilles"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Gilles_Villeneuve ;
+	foaf:surname	"Villeneuve"@en ;
+	dbp:title	<http://dbpedia.org/resource/Race_of_Champions_(Brands_Hatch)> ,
+		dbr:Champ_Car_Atlantic ,
+		dbr:List_of_Formula_One_fatal_accidents .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Gilles_Villeneuve	dbp:years	"1982-05-08"^^xsd:date ,
+		1976 ,
+		1977 ,
+		1979 ;
+	dbo:nationality	dbr:Canadians ;
+	dbp:rows	2 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Gilles_Villeneuve	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gilles_Villeneuve?oldid=744927908> ;
+	dbp:after	dbr:Howdy_Holmes ;
+	dbp:birthPlace	"Saint-Jean-sur-Richelieu, Quebec, Canada"^^xsd:string ;
+	dbp:birthName	"Joseph Gilles Henri Villeneuve"^^xsd:string ;
+	dbp:deathPlace	"Leuven, Belgium"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1978_Canadian_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1981_Spanish_Grand_Prix> ;
+	dbp:birthDate	"1950-01-18"^^xsd:date ;
+	dbp:deathDate	"1982-05-08"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.ventisetterosso.it/> ,
+		<http://www.canada.com/story_print.html?id=85e18070-0e17-43be-8ff4-c992dfefaa27&sponsor=> ,
+		<http://www.formula1.com/results/driver/1977/241.html> ,
+		<http://www.museegillesvilleneuve.com> ,
+		<http://www.cmhf.ca/> ,
+		<http://archives.cbc.ca/IDD-1-74-339/people/gilles_villeneuve/> ;
+	dbp:caption	"Villeneuve in Imola, 1979"^^xsd:string ;
+	dbo:abstract	"\u30B8\u30E7\u30BC\u30D5\u30FB\u30B8\u30EB\u30FB\u30A2\u30F3\u30EA\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\uFF08Joseph Gilles Henri Villeneuve, 1950\u5E741\u670818\u65E5 - 1982\u5E745\u67088\u65E5\uFF09\u306F\u3001\u30AB\u30CA\u30C0\u4EBA\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u59D3\u306F\u300C\u30D3\u30EB\u30CC\u30FC\u30F4\u300D\u3042\u308B\u3044\u306F\u300C\u30D3\u30EB\u30CC\u30FC\u30D6\u300D\u300C\u30D3\u30EB\u30CB\u30E5\u30FC\u30D6\u300D\u306A\u3069\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"Gilles Villeneuve (18 janvier 1950 \u00E0 Saint-Jean-sur-Richelieu, Qu\u00E9bec - 8 mai 1982 \u00E0 Zolder, Belgique) est un pilote automobile canadien. Malgr\u00E9 un palmar\u00E8s relativement peu \u00E9toff\u00E9 (six victoires en Grand Prix), son style de pilotage hautement spectaculaire ainsi que sa mort tragique aux qualifications du GP de Belgique 1982 ont contribu\u00E9 \u00E0 faire de lui l'une des l\u00E9gendes de la Formule 1. Son fils Jacques, lui aussi pilote de course, est devenu champion du monde de F1 en 1997."@fr ,
+		"Joseph Gilles Henri Villeneuve, bekannt als Gilles Villeneuve ([\u0292il viln\u0153v],  anh\u00F6ren?/i) (* 18. Januar 1950 in Saint-Jean-sur-Richelieu; \u2020 8. Mai 1982 in L\u00F6wen, Belgien), war ein kanadischer Automobilrennfahrer. Von 1978 bis 1982 startete Villeneuve bei 67 Formel-1-Grands-Prix, bei 66 von ihnen f\u00FCr die Scuderia Ferrari. In der Formel-1-Saison 1979 wurde er Zweiter der Weltmeisterschaft. Beim Abschlusstraining des Gro\u00DFen Preises von Belgien 1982 kollidierte Villeneuve mit dem langsam fahrenden Jochen Mass, wobei sich Villeneuve lebensbedrohliche Verletzungen zuzog und wenige Stunden sp\u00E4ter starb. Gilles Villeneuves Sohn Jacques wurde 1997 Formel-1-Weltmeister; auch Gilles\u2019 j\u00FCngerer Bruder Jacques Villeneuve sr. war Automobilrennfahrer."@de ,
+		"Joseph Gilles Henri Villeneuve (Saint-Jean-sur-Richelieu, Quebec (Canada), 18 januari 1950 - Leuven (Belgi\u00EB), 8 mei 1982) was een Canadees Formule 1-coureur. Hij startte zijn carri\u00E8re in de F1 als derde coureur bij het McLaren team in 1977, waar hij slechts een race voor reed. Later dat jaar werd hij door Ferrari in huis gehaald om voor de laatste twee races het stuur over te nemen van Niki Lauda, die dat jaar wereldkampioen werd in de F1. Zijn eerste overwinning behaalde hij in 1978 tijdens de Canadese Grand Prix die in Montreal gehouden werd. Villeneuve stond bekend om zijn alles-of-niets-rijstijl. Er zijn verschillende momenten gedurende zijn korte carri\u00E8re waar hij echt voor spektakel zorgde, zoals op Zandvoort in 1979. Aan de leiding van de wedstrijd liggend, kreeg Villeneuve op het rechte stuk een klapband rechtsachter waardoor hij in de Tarzanbocht van het circuit af gleed. In plaats van op te geven, reed hij het circuit weer op en probeerde de pits te bereiken. Omdat hij die net voorbij was, moest hij bijna een volle ronde op zijn lekke band rijden. Dat deed hij zo hard als hij kon met als gevolg dat eerst de band en vervolgens de wielophanging rechtsachter desintegreerde, een vonkenregen achter zich aan trekkend. Hij bereikte de pits, maar de auto was niet meer te repareren. Memorabel is ook het hero\u00EFsche gevecht met Ren\u00E9 Arnoux om de tweede plaats op Dijon in datzelfde jaar. Voortdurend haalden de twee kemphanen elkaar in, raakten elkaars wielen en vlogen over het gras. In Watkins Glen International slaagde Villeneuve erin, tijdens de eerste kwalificatie op een volledig nat wegdek, een ronde 11 seconden sneller af te leggen dan welke coureur dan ook. Tijdens de Grand Prix van San Marino op Imola in 1982 ging Villeneuve ervan uit dat hij de wedstrijd in handen had, maar zijn teamgenoot Didier Pironi ging, tegen teamorders in, er echter totaal onverwacht met de overwinning vandoor. Dit kan geleid hebben tot wat de volgende Grand Prix gebeurd is. Villeneuve voelde zich bestolen en praatte na dit incident nooit meer met zijn teamgenoot Pironi. Villeneuve won in zijn korte carri\u00E8re zes races. Hij verongelukte op 8 mei 1982 op Circuit Zolder tijdens zijn laatste kwalificatieronde voor de Grand Prix van Belgi\u00EB. Jochen Mass reed een langzame ronde en week uit voor de aanstormende Villeneuve, maar met het linker voorwiel reed Villeneuve in op Mass. Villeneuve werd gelanceerd en uit zijn bolide geslingerd. Hij belandde in de hekken, waar het medisch team hem nog wel reanimeerde, maar Villeneuve overleed later die avond in het ziekenhuis van Leuven. Het circuit Ile de Notre Dame in Montreal, waarop hij in 1978 de eerste overwinning in de Formule 1 behaalde, werd na zijn dood omgedoopt in Circuit Gilles Villeneuve. In 2002 werd de herinnering aan Gilles Villeneuve nieuw leven ingeblazen door de onthulling van een nieuwe gedenkplaat en een kunstwerk. Eerder al kreeg de bocht waar het fatale ongeval plaatsvond, de naam van de betreurde Canadees, samen met een gedenkplaat in betreffende bocht. Gilles was ook een fervent helikopterfanaat. Vlak voor zijn dood had hij nog een Agusta A109 gekocht. De toenmalige top in civiele helikopters. Hij is de vader van Jacques Villeneuve, de wereldkampioen Formule 1 van 1997."@nl ,
+		"Joseph Gilles Henri Villeneuve (ur. 18 stycznia 1950, zm. 8 maja 1982) \u2013 kanadyjski kierowca wy\u015Bcigowy. Ojciec Jacques'a Villeneuve'a. Urodzony w niewielkiej miejscowo\u015Bci Berthierville (Quebec, Kanada), Villeneuve karier\u0119 rozpoczyn\u0105\u0142 m.in. od udzia\u0142u w wy\u015Bcigach \"Formula Atlantic\".Wkr\u00F3tce zosta\u0142 dostrze\u017Cony przez Europejczyk\u00F3w i od 1977 r. rozpocz\u0119\u0142a si\u0119 jego kariera w wy\u015Bcigach Formu\u0142y 1, jako kierowcy McLarena. Pod koniec pierwszego sezonu w F1 Kanadyjczyk dosta\u0142 propozycj\u0119 przej\u015Bcia do Ferrari i zgodzi\u0142 si\u0119 (p\u00F3\u017Aniej mia\u0142 stwierdzi\u0107: \"Gdyby kto\u015B mi powiedzia\u0142 \u2013 masz trzy \u017Cyczenia to pierwszym by\u0142oby: chc\u0119 si\u0119 \u015Bciga\u0107, drugim: chc\u0119 si\u0119 \u015Bciga\u0107 w F1, trzecim: chc\u0119 si\u0119 \u015Bciga\u0107 w F1 dla Ferrari\"). Dzi\u0119ki swojej charyzmie i widowiskowym wy\u015Bcigom zdoby\u0142 rzesze fan\u00F3w, lecz cz\u0119sto uszkadza\u0142 przydzielane mu bolidy i nie ko\u0144czy\u0142 wielu wy\u015Bcig\u00F3w. W 1978 Scuderia musi uzna\u0107 wy\u017Cszo\u015B\u0107 Lotusa. Szef stajni \u2013 Enzo Ferrari by\u0142 tym faktem rozczarowany. Odbywa kr\u00F3tk\u0105 rozmow\u0119 z m\u0142odym kierowc\u0105, gani\u0105c go za cz\u0119ste zniszczenia bolid\u00F3w. W rzeczywisto\u015Bci Enzo Ferrari bardzo lubi\u0142 Villeneuve'a, kt\u00F3ry przypomina\u0142 mu tragicznie zmar\u0142ego syna Dino. Rok 1979 nale\u017Ca\u0142 do Ferrari i rewelacyjnego bolidu 312T4. Co prawda Villeneuve musia\u0142 uzna\u0107 wy\u017Cszo\u015B\u0107 swojego kolegi z teamu \u2013 Jody'ego Schecktera (w klasyfikacji generalnej mistrzostw uplasowa\u0142 si\u0119 na drugim miejscu ze strat\u0105 4 pkt.), jednak wreszcie pokazuje na co go sta\u0107. Do historii przeszed\u0142 jego zwyci\u0119ski pojedynek z Francuzem Ren\u00E9 Arnoux (Renault) o drugie miejsce na podium, podczas Grand Prix Francji. Sezon 1980 jest przeciwie\u0144stwem wcze\u015Bniejszego \u2013 s\u0142aby samoch\u00F3d nie pozwala Kanadyjczykowi na osi\u0105gni\u0119cie znacz\u0105cych sukces\u00F3w. Sytuacja nieco si\u0119 zmieni\u0142a w 1981 roku, wraz z wprowadzeniem przez Ferrari silnika turbo. Villeneuve wygrywa na torach w Monako i Hiszpanii, bierze r\u00F3wnie\u017C udzia\u0142 w zorganizowanym przez stajni\u0119, pokazowym wy\u015Bcigu ze startuj\u0105cym my\u015Bliwcem, w kt\u00F3rym r\u00F3wnie\u017C odnosi zwyci\u0119stwo. Sezon '82 zacz\u0105\u0142 si\u0119 dobrze, Gilles jest w formie. Wkr\u00F3tce dosz\u0142o jednak do kontrowersyjnego incydentu, kt\u00F3ry, jak si\u0119 p\u00F3\u017Aniej okaza\u0142o, mia\u0142 fatalne konsekwencje. Villeneuve prowadzi\u0142 w GP San Marino rozgrywanym na torze Imola. Pod koniec wy\u015Bcigu, m.in. z powodu wycofania si\u0119 ekipy Renault, szef teamu nakaza\u0142 zwolni\u0107 wszystkim Ferrari. Gilles, pewny zwyci\u0119stwa, zastosowa\u0142 si\u0119 do tego zalecenia. Inaczej post\u0105pi\u0142 jednak inny kierowca w\u0142oskiego zespo\u0142u \u2013 Didier Pironi, kt\u00F3ry, tu\u017C przed lini\u0105 mety, wyprzedzi\u0142 Kanadyjczyka wygrywaj\u0105c tym samym wy\u015Bcig. Villeneuve poczu\u0142 si\u0119 zdradzony i obieca\u0142, \u017Ce ju\u017C wi\u0119cej nie odezwie si\u0119 do Pironiego. Rzeczywi\u015Bcie obaj kierowcy ju\u017C nigdy wi\u0119cej nie zamienili ze sob\u0105 s\u0142owa. Dwa tygodnie po tym wydarzeniu na torze Zolder podczas pi\u0105tkowych kwalifikacji do GP Belgii, Gilles chcia\u0142 udowodni\u0107, \u017Ce to on jest \"numerem jeden\" w zespole. Jednak na jedno okr\u0105\u017Cenie przed ko\u0144cem sesji jego czas wci\u0105\u017C by\u0142 gorszy od tego, kt\u00F3ry uzyska\u0142 Pironi. B\u0119d\u0105c pod ogromn\u0105 presj\u0105, Kanadyjczyk pope\u0142ni\u0142 b\u0142\u0105d. Wchodz\u0105c z du\u017C\u0105 pr\u0119dko\u015Bci\u0105 w zakr\u0119t, najecha\u0142 na ko\u0142o jad\u0105cego przed nim bolidu Niemca Jochena Massa. Bolid Villeneuve'a \"wystrzeli\u0142\" w powietrze i wielokrotnie \"kozio\u0142kuj\u0105c\", z wielk\u0105 si\u0142\u0105, wyrzuci\u0142 cia\u0142o kierowcy na zewn\u0105trz. W wyniku odniesionych obra\u017Ce\u0144 Villeneuve zmar\u0142. W latach 80. Kanadyjczycy na cze\u015B\u0107 swojego wielkiego kierowcy tor w Montrealu nazwali \"Circuit Gilles Villeneuve\", za\u015B w 1997 roku ukaza\u0142a si\u0119 seria znaczk\u00F3w pocztowych z jego podobizn\u0105."@pl ,
+		"\u0416\u043E\u0301\u0437\u0435\u0444 \u0416\u0438\u0301\u043B\u044C \u0410\u043D\u0440\u0438\u0301 \u0412\u0438\u043B\u044C\u043D\u0451\u0432 (\u0444\u0440. Joseph Gilles Henri Villeneuve; [\u0292il viln\u0153v] (\u0438\u043D\u0444.) 18 \u044F\u043D\u0432\u0430\u0440\u044F 1950, \u0434\u0435\u0440\u0435\u0432\u043D\u044F (\u0442\u0435\u043F\u0435\u0440\u044C \u0433\u043E\u0440\u043E\u0434) \u0428\u0430\u043C\u0431\u043B\u0438, \u041A\u0432\u0435\u0431\u0435\u043A, \u041A\u0430\u043D\u0430\u0434\u0430 \u2014 8 \u043C\u0430\u044F 1982, \u0433\u043E\u0441\u043F\u0438\u0442\u0430\u043B\u044C \u0421\u0432\u044F\u0442\u043E\u0433\u043E \u0420\u0430\u0444\u0430\u044D\u043B\u044F \u0432 \u041B\u0451\u0432\u0435\u043D\u0435, \u0411\u0435\u043B\u044C\u0433\u0438\u044F) \u2014 \u043A\u0430\u043D\u0430\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u043E\u0442\u0435\u0446 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 1997 \u0433\u043E\u0434\u0430 \u0416\u0430\u043A\u0430 \u0412\u0438\u043B\u044C\u043D\u0451\u0432\u0430. \u041C\u043B\u0430\u0434\u0448\u0438\u0439 \u0431\u0440\u0430\u0442 \u0442\u0430\u043A\u0436\u0435 \u0431\u044B\u043B \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C \u2014 \u0416\u0430\u043A \u0412\u0438\u043B\u044C\u043D\u0451\u0432-\u0441\u0442\u0430\u0440\u0448\u0438\u0439. \u0417\u0430 \u0441\u0432\u043E\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u043F\u0440\u043E\u0432\u0435\u043B 67 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0438\u0437 \u043D\u0438\u0445 \u0432 6 \u043E\u0434\u0435\u0440\u0436\u0430\u043B \u043F\u043E\u0431\u0435\u0434\u0443. \u041F\u043E\u043B\u0443\u0447\u0438\u043B \u0441\u043C\u0435\u0440\u0442\u0435\u043B\u044C\u043D\u044B\u0435 \u0442\u0440\u0430\u0432\u043C\u044B \u0432 \u0430\u0432\u0430\u0440\u0438\u0438 \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u0438 \u043F\u0435\u0440\u0435\u0434 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 1982 \u0433\u043E\u0434\u0430. \u0412 \u0447\u0435\u0441\u0442\u044C \u043D\u0435\u0433\u043E \u043D\u0430\u0437\u0432\u0430\u043D \u0430\u0432\u0442\u043E\u0434\u0440\u043E\u043C \u0432 \u041C\u043E\u043D\u0440\u0435\u0430\u043B\u0435."@ru ,
+		"Joseph Gilles Henri Villeneuve, mais conhecido como Gilles Villeneuve , (Saint-Jean-sur-Richelieu, 18 de janeiro de 1950 \u2014 Lovaina, 9 de maio de 1982) foi um piloto de automobilismo canadense."@pt ,
+		"Joseph Gilles Henri Villeneuve, (Richelieu, Quebec, Canad\u00E1, 18 de enero de 1950-Zolder, B\u00E9lgica, 8 de mayo de 1982) fue un piloto de automovilismo canadiense. Obtuvo seis victorias y 13 podios en la F\u00F3rmula 1, resultando subcampe\u00F3n en 1979, s\u00E9ptimo en 1981 y noveno en 1978. En aquella misma \u00E9poca, corr\u00EDa tambi\u00E9n su hermano, Jacques Villeneuve Senior."@es ,
+		"\u5409\u723E\u00B7\u7DAD\u502B\u7D10\u592B\uFF08Joseph Gilles Henri Villeneuve\uFF0C1950\u5E741\u670818\u65E5\uFF0D1982\u5E745\u67088\u65E5\uFF09\u662F\u4E00\u4F4D\u52A0\u62FF\u5927F1\u8D5B\u8F66\u624B\u3002\u4ED6\u662F\u53F2\u4E0A\u7D55\u7121\u50C5\u6709\u7684\u50B3\u5947\u8ECA\u624B\uFF0C\u4EE5\u5145\u6EFF\u6FC0\u60C5\u7684\u99D5\u99DB\u98A8\u683C\u6DF1\u53D7\u8ECA\u8FF7\u7684\u559C\u611B\uFF0C\u6CD5\u62C9\u5229\u7684\u5275\u59CB\u4EBA\u6069\u4F50\u00B7\u6CD5\u62C9\u5229\uFF08Enzo Ferrari\uFF09\u8996\u4ED6\u5982\u89AA\u751F\u5152\u5B50\u30021982\u5E74\uFF0C\u4ED6\u5728\u6BD4\u5229\u6642\u5927\u734E\u8CFD\u7684\u6392\u4F4D\u8CFD\u4E2D\u4E0D\u5E78\u767C\u751F\u8ECA\u798D\u55AA\u751F\u3002\u4ED6\u7684\u5152\u5B50\u5091\u514B\u00B7\u7DAD\u502B\u7D10\u592B\u57281997\u5E74\u6210\u70BA\u4E86\u7B2C\u4E00\u4F4D\u52A0\u62FF\u5927\u7C4D\u7684\u4E16\u754C\u51A0\u8ECD\u8ECA\u624B\u3002"@zh ,
+		"\u062C\u064A\u0644 \u0641\u064A\u0644\u0646\u0648\u0641 \u0645\u0648\u0627\u0644\u064A\u062F 18 \u064A\u0646\u0627\u064A\u0631 1950 \u0641\u064A \u0633\u0627\u0646 \u062C\u0627\u0646 \u0633\u0648\u0631 \u0631\u064A\u0634\u0644\u064A\u0648\u060C \u0643\u064A\u0628\u0643\u060C \u0643\u0646\u062F\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0643\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1977. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A 1977\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0643\u0646\u062F\u064A 1978. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 68 \u0633\u0628\u0627\u0642\u0627\u064B\u060C \u0641\u0627\u0632 \u0641\u064A 6 \u0645\u0646\u0647\u0627."@ar ,
+		"Inizi\u00F2 la propria carriera sportiva partecipando a gare tra motoslitte nella nativa provincia del Qu\u00E9bec. Successivamente pass\u00F2 alla guida delle monoposto, e nel 1976, vinse sia il Campionato di Formula Atlantic canadese che quello statunitense. Un anno pi\u00F9 tardi la McLaren fece esordire Villeneuve in Formula 1 al Gran Premio di Gran Bretagna 1977; nel corso della medesima annata la Scuderia Ferrari lo ingaggi\u00F2 per le ultime due gare stagionali in sostituzione di Niki Lauda. Legatosi alla scuderia di Maranello per il resto della carriera fece registrare sei vittorie nei Gran Premi ed una vittoria nella Race of Champions del 1979 a Brands Hatch (gara non valida per il titolo), oltre ad un secondo posto nella classifica del Mondiale 1979 alle spalle del compagno di squadra Jody Scheckter come miglior risultato. Mor\u00EC in uno schianto a 227 km/h causato da un contatto con la March di Jochen Mass durante le qualifiche per il Gran Premio del Belgio 1982 a bordo della Ferrari 126 C2. Villeneuve al momento del decesso era molto popolare tra gli appassionati per il suo stile di guida altamente combattivo e spettacolare, e da allora \u00E8 diventato un simbolo della storia di questo sport, nonch\u00E9 uno dei pi\u00F9 grandi piloti di tutti i tempi pur non avendo mai vinto un titolo mondiale. Le sue vittorie e svariate altre prestazioni vengono considerate capolavori assoluti nella storia della Formula 1, anche perch\u00E9 spesso sono state ottenute al volante di monoposto non all'altezza di quelle della concorrenza. Suo figlio Jacques sarebbe poi diventato nel 1997 il primo \u2013 e tuttora unico \u2013 canadese campione del mondo dei piloti di Formula 1."@it ,
+		"Joseph Gilles Henri Villeneuve (French pronunciation: \u200B[\u0292il viln\u0153v]; January 18, 1950 \u2013 May 8, 1982), known as Gilles Villeneuve, was a Canadian racing driver. Villeneuve spent six years in Grand Prix racing with Ferrari, winning six races and widespread acclaim for his performances. An enthusiast of cars and fast driving from an early age, Villeneuve started his professional career in snowmobile racing in his native province of Quebec. He moved into single seaters, winning the US and Canadian Formula Atlantic championships in 1976, before being offered a drive in Formula One with the McLaren team at the 1977 British Grand Prix. He was taken on by reigning world champions Ferrari for the end of the season and from 1978 to his death in 1982 drove for the Italian team. He won six Grand Prix races in a short career at the highest level. In 1979, he finished second by four points in the championship to teammate Jody Scheckter. Villeneuve died in a 140 mph (225 km/h) crash caused by a collision with the March of Jochen Mass during qualifying for the 1982 Belgian Grand Prix at Zolder. The accident came less than two weeks after an intense argument with his teammate, Didier Pironi, over Pironi's move to pass Villeneuve at the preceding San Marino Grand Prix. At the time of his death, Villeneuve was extremely popular with fans and has since become an iconic figure in the history of the sport. His son, Jacques Villeneuve, became Formula One world champion in 1997 and, to date, the only Canadian to win the Formula One World Championship."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Gilles_Villeneuve_1979_Imola.jpg?width=300> ;
+	dbo:birthDate	"1950-1-18"^^xsd:date ;
+	dbo:deathDate	"1982-5-8"^^xsd:date ;
+	dbo:deathPlace	dbr:Leuven ;
+	dbo:wikiPageRevisionID	744927908 ;
+	dbo:birthPlace	dbr:Saint-Jean-sur-Richelieu ;
+	dbo:wikiPageID	86632 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Gilles_Villeneuve	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"8"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1977_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1982_Belgian_Grand_Prix> ;
+	dbo:podiums	"13"^^xsd:nonNegativeInteger ;
+	dbo:poles	"2"^^xsd:nonNegativeInteger ;
+	dbo:races	"68"^^xsd:nonNegativeInteger ;
+	dbo:wins	"6"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/McLaren_(racing)> ,
+		dbr:Scuderia_Ferrari .
+dbr:Jacques_Villeneuve	dbp:relatedTo	dbr:Gilles_Villeneuve .
+dbr:Patrick_Depailler	dbp:after	dbr:Gilles_Villeneuve .

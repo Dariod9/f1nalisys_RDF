@@ -1,0 +1,141 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1950_British_Empire_Trophy>	dbo:firstDriver	dbr:Bob_Gerard .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__34__1>	dbo:firstDriver	dbr:Bob_Gerard .
+dbr:Bob_Gerard_Racing	dbo:wikiPageRedirects	dbr:Bob_Gerard .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Bob_Gerard	foaf:primaryTopic	dbr:Bob_Gerard .
+<http://dbpedia.org/resource/1955_Avon_Trophy>	dbo:thirdDriver	dbr:Bob_Gerard .
+<http://dbpedia.org/resource/1948_British_Grand_Prix>	dbo:thirdDriver	dbr:Bob_Gerard .
+<http://dbpedia.org/resource/1949_British_Grand_Prix>	dbo:secondDriver	dbr:Bob_Gerard .
+<http://dbpedia.org/resource/1947_Reims_Grand_Prix>	dbo:thirdDriver	dbr:Bob_Gerard .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Tony_Rolt	dbp:after	dbr:Bob_Gerard .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Bob_Gerard	rdf:type	yago:Driver110034906 ,
+		dbo:MotorsportRacer ,
+		dbo:Person ,
+		dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Bob_Gerard	rdf:type	wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatGrandPrixDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Bob_Gerard	rdf:type	owl:Thing ,
+		yago:WikicatCooperFormulaOneDrivers .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Bob_Gerard	rdf:type	ns9:NaturalPerson ,
+		ns9:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Bob_Gerard	rdf:type	umbel-rc:RaceCarDriver ,
+		foaf:Person ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Bob_Gerard	rdf:type	schema:Person ,
+		wikidata:Q215627 ,
+		wikidata:Q5 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Bob_Gerard	rdfs:label	"Bob Gerard"@it ,
+		"Bob Gerard"@nl ,
+		"Bob Gerard"@fr ,
+		"Bob Gerard"@pl ,
+		"Bob Gerard"@en ,
+		"Bob Gerard"@de ,
+		"Bob Gerard"@pt ,
+		"\u0414\u0436\u0435\u0440\u0430\u0440\u0434, \u0411\u043E\u0431"@ru ;
+	rdfs:comment	"Frederick Robert \u201EBob\u201C Gerard (* 19. Januar 1914 in Leicester; \u2020 26. Januar 1990 ebenda) war ein britischer Autorennfahrer."@de ,
+		"Frederick Roberts \"Bob\" Gerard (ur. 19 stycznia 1914 roku w Leicester, zm. 26 stycznia 1990 roku w South Croxton) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Frederick Roberts \"Bob\" Gerard (Leicester, Inglaterra, 19 de janeiro de 1914 \u2013 South Croxton, Leicestershire, Inglaterra, 26 de janeiro de 1990) foi um automobilista ingl\u00EAs que participou de 8 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1957."@pt ,
+		"Frederick Roberts \"Bob\" Gerard (19 January 1914, Leicester \u2013 26 January 1990, South Croxton, Leicestershire) was a racing driver and businessman from England. He participated in numerous top-level motor racing events on either side of World War II, including eight World Championship Formula One Grands Prix, scoring no championship points."@en ,
+		"Prese parte a 8 Gran Premi in Formula 1 tra il 1950 ed il 1957, debuttando nella gara d'esordio del Mondiale a Silverstone. Corse con vetture ERA e Cooper private, conseguendo come miglior risultato il 6\u00BA posto in gara in tre occasioni. Inoltre vinse 9 Gran Premi di Formula 1 non valevoli per il Campionato Mondiale."@it ,
+		"\u0411\u043E\u0431 \u0414\u0436\u0435\u0440\u0430\u0440\u0434 (\u0430\u043D\u0433\u043B. Frederick Roberts \"Bob\" Gerard; 19 \u044F\u043D\u0432\u0430\u0440\u044F 1914 \u041B\u0435\u0441\u0442\u0435\u0440 \u2014 26 \u044F\u043D\u0432\u0430\u0440\u044F 1990 \u0421\u0430\u0443\u0442-\u041A\u0440\u043E\u043A\u0441\u0442\u043E\u043D, \u041B\u0435\u0441\u0442\u0435\u0440\u0448\u0438\u0440) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D \u0438\u0437 \u0410\u043D\u0433\u043B\u0438\u0438. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0432\u043E\u0441\u044C\u043C\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 ERA 4A, ERA 14B(B/C), Cooper T23 \u0438 Cooper T43."@ru ,
+		"Frederick Roberts Gerard dit Bob Gerard est un ancien coureur automobile anglais n\u00E9 le 19 janvier 1914 \u00E0 Leicester et d\u00E9c\u00E9d\u00E9 le 26 janvier 1990 \u00E0 South Croxton. Il a particip\u00E9 \u00E0 une soixantaine d'\u00E9preuves de Formule 1 hors championnat du monde et s'est qualifi\u00E9 \u00E0 huit Grands Prix de championnat du monde entre 1950 et 1957. Gerard n'a jamais inscrit de point en championnat du monde, sa meilleure performance \u00E9tant une 6e place d\u00E9croch\u00E9e \u00E0 trois reprises."@fr ,
+		"Frederick Roberts \"Bob\" Gerard (Leicester, 19 januari 1914 \u2013 South Croxton, 26 januari 1990) was een Britse Formule 1-coureur. Gerard reed tussen 1950 en 1957 acht Grands Prix voor de teams van ERA en Cooper.In 1933 maakte hij zijn debuut in de autosport in een Riley 9. Gerard was gelijk succesvol, ondanks het feit dat myopie bij hem werd geconstateerd. Gerard reed in de resterende jaren voor de oorlog nog meer clubraces en had vaak succes op zijn thuisbaan Donington Park. In 1953 deed Gerard mee aan de 24 uur van Le Mans, maar slaagde er niet in de finish niet te bereiken."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Bob_Gerard	dbp:birthDate	"1914-01-19"^^xsd:date ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04k7k9> ,
+		dbr:Bob_Gerard .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Bob_Gerard	owl:sameAs	dbpedia-fr:Bob_Gerard .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Bob_Gerard	owl:sameAs	dbpedia-it:Bob_Gerard .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Bob_Gerard	owl:sameAs	dbpedia-de:Bob_Gerard .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Bob_Gerard	owl:sameAs	dbpedia-wikidata:Q172325 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Bob_Gerard	owl:sameAs	dbpedia-pt:Bob_Gerard ,
+		wikidata:Q172325 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Bob_Gerard	owl:sameAs	dbpedia-pl:Bob_Gerard ,
+		<http://cs.dbpedia.org/resource/Bob_G\u00E9rard> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Bob_Gerard	owl:sameAs	yago-res:Bob_Gerard .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Bob_Gerard	owl:sameAs	dbpedia-nl:Bob_Gerard .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Bob_Gerard	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Bob_Gerard	dct:subject	dbc:Grand_Prix_drivers ,
+		<http://dbpedia.org/resource/Category:1990_deaths> ,
+		dbc:English_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:Bob_Gerard_Racing_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Brighton_Speed_Trials_people ,
+		dbc:BRDC_Gold_Star_winners ,
+		<http://dbpedia.org/resource/Category:1914_births> ;
+	foaf:name	"Bob Gerard"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Bob"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Bob_Gerard ;
+	foaf:surname	"Gerard"@en ;
+	dbp:points	0 ;
+	dbp:years	"\u2013 ,  \u2013 ,  \u2013"^^xsd:string ;
+	dbp:classWins	0 ;
+	<http://dbpedia.org/property/team(s)_>	"Privateer ERA and Cooper"^^xsd:string ;
+	dbp:bestFinish	"dnf"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Bob_Gerard	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bob_Gerard?oldid=714295648> ;
+	dbo:wikiPageExternalLink	<http://www.chicanef1.com/indiv.pl?name=Bob%20Gerard&type=d> ,
+		<http://www.grandprix.com/gpe/drv-gerbob.html> ,
+		<http://www.500race.org/Men/Gerard.htm> ,
+		<http://www.gpracing.net192.com/drivers/careers/232.cfm> ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:deathDate	"1990-01-26"^^xsd:date ;
+	dbp:teams	dbr:Frazer_Nash ;
+	dbo:abstract	"Prese parte a 8 Gran Premi in Formula 1 tra il 1950 ed il 1957, debuttando nella gara d'esordio del Mondiale a Silverstone. Corse con vetture ERA e Cooper private, conseguendo come miglior risultato il 6\u00BA posto in gara in tre occasioni. Inoltre vinse 9 Gran Premi di Formula 1 non valevoli per il Campionato Mondiale."@it ,
+		"Frederick Roberts \"Bob\" Gerard (19 January 1914, Leicester \u2013 26 January 1990, South Croxton, Leicestershire) was a racing driver and businessman from England. He participated in numerous top-level motor racing events on either side of World War II, including eight World Championship Formula One Grands Prix, scoring no championship points."@en ,
+		"Frederick Roberts \"Bob\" Gerard (Leicester, 19 januari 1914 \u2013 South Croxton, 26 januari 1990) was een Britse Formule 1-coureur. Gerard reed tussen 1950 en 1957 acht Grands Prix voor de teams van ERA en Cooper.In 1933 maakte hij zijn debuut in de autosport in een Riley 9. Gerard was gelijk succesvol, ondanks het feit dat myopie bij hem werd geconstateerd. Gerard reed in de resterende jaren voor de oorlog nog meer clubraces en had vaak succes op zijn thuisbaan Donington Park. Gerard wist in zijn eerste Grand Prix, de Grand Prix van Groot-Brittanni\u00EB van 1950 een zesde positie te behalen. Deze klassering wist hij later dat jaar bij de Grand Prix van Monaco te evenaren. Hij veroverde er echter geen punten mee en wist die tijdens zijn carri\u00E8re ook niet te behalen. In 1953 deed Gerard mee aan de 24 uur van Le Mans, maar slaagde er niet in de finish niet te bereiken."@nl ,
+		"Frederick Robert \u201EBob\u201C Gerard (* 19. Januar 1914 in Leicester; \u2020 26. Januar 1990 ebenda) war ein britischer Autorennfahrer."@de ,
+		"\u0411\u043E\u0431 \u0414\u0436\u0435\u0440\u0430\u0440\u0434 (\u0430\u043D\u0433\u043B. Frederick Roberts \"Bob\" Gerard; 19 \u044F\u043D\u0432\u0430\u0440\u044F 1914 \u041B\u0435\u0441\u0442\u0435\u0440 \u2014 26 \u044F\u043D\u0432\u0430\u0440\u044F 1990 \u0421\u0430\u0443\u0442-\u041A\u0440\u043E\u043A\u0441\u0442\u043E\u043D, \u041B\u0435\u0441\u0442\u0435\u0440\u0448\u0438\u0440) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D \u0438\u0437 \u0410\u043D\u0433\u043B\u0438\u0438. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0432\u043E\u0441\u044C\u043C\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 ERA 4A, ERA 14B(B/C), Cooper T23 \u0438 Cooper T43."@ru ,
+		"Frederick Roberts \"Bob\" Gerard (ur. 19 stycznia 1914 roku w Leicester, zm. 26 stycznia 1990 roku w South Croxton) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Frederick Roberts Gerard dit Bob Gerard est un ancien coureur automobile anglais n\u00E9 le 19 janvier 1914 \u00E0 Leicester et d\u00E9c\u00E9d\u00E9 le 26 janvier 1990 \u00E0 South Croxton. Il a particip\u00E9 \u00E0 une soixantaine d'\u00E9preuves de Formule 1 hors championnat du monde et s'est qualifi\u00E9 \u00E0 huit Grands Prix de championnat du monde entre 1950 et 1957. Gerard n'a jamais inscrit de point en championnat du monde, sa meilleure performance \u00E9tant une 6e place d\u00E9croch\u00E9e \u00E0 trois reprises."@fr ,
+		"Frederick Roberts \"Bob\" Gerard (Leicester, Inglaterra, 19 de janeiro de 1914 \u2013 South Croxton, Leicestershire, Inglaterra, 26 de janeiro de 1990) foi um automobilista ingl\u00EAs que participou de 8 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1950 e 1957."@pt ;
+	dbo:birthDate	"1914-1-19"^^xsd:date ;
+	dbo:deathDate	"1990-1-26"^^xsd:date ;
+	dbo:deathPlace	dbr:Leicester ;
+	dbo:wikiPageRevisionID	714295648 ;
+	dbo:birthPlace	dbr:Leicester ;
+	dbo:wikiPageID	1228242 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_British_Grand_Prix> ;
+	dbo:races	"8"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1957_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Bob_Gerard	ns25:hypernym	dbr:Driver .

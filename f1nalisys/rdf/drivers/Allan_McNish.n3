@@ -1,0 +1,246 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Paul_Bonhomme	dbp:before	dbr:Allan_McNish .
+dbr:Porsche_LMP2000	dbp:drivers	dbr:Allan_McNish .
+<http://dbpedia.org/resource/Marc_Gen\u00E9>	dbp:before	dbr:Allan_McNish .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix ns3:	<http://dbpedia.org/resource/1989_Macau_Grand_Prix__West_Surrey_Racing_w/> .
+ns3:_Theodore_Racing__1	dbo:firstDriver	dbr:Allan_McNish .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Allan_McNish	foaf:primaryTopic	dbr:Allan_McNish .
+dbr:Joachim_Winkelhock	dbp:before	dbr:Allan_McNish .
+dbr:Lucas_Luhr	dbp:before	dbr:Allan_McNish .
+<http://dbpedia.org/resource/Andr\u00E9_Lotterer>	dbp:before	dbr:Allan_McNish ;
+	dbp:after	dbr:Allan_McNish .
+dbr:Pierluigi_Martini	dbp:before	dbr:Allan_McNish .
+dbr:Rinaldo_Capello	dbp:years	dbr:Allan_McNish .
+dbr:Alexander_Wurz	dbp:before	dbr:Allan_McNish .
+<http://dbpedia.org/resource/6_Hours_of_Silverstone>	dbp:mostWinsDriver	dbr:Allan_McNish .
+<http://dbpedia.org/resource/Beno\u00EEt_Tr\u00E9luyer>	dbp:before	dbr:Allan_McNish ;
+	dbp:after	dbr:Allan_McNish .
+dbr:Anthony_Davidson	dbp:before	dbr:Allan_McNish .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Allan_McNish	rdf:type	dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Allan_McNish	rdf:type	yago:CausalAgent100007347 ,
+		dbo:RacingDriver .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Allan_McNish	rdf:type	ns8:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Allan_McNish	rdf:type	wikidata:Q378622 ,
+		dbo:Person ,
+		ns8:NaturalPerson ,
+		yago:WikicatEuropeanLeMansSeriesDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Allan_McNish	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:Operator110378412 ,
+		wikidata:Q5 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Allan_McNish	rdf:type	schema:Person ,
+		yago:WikicatToyotaFormulaOneDrivers ,
+		yago:WikicatFIAWorldEnduranceChampionshipDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatAmericanLeMansSeriesDrivers ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Allan_McNish	rdf:type	owl:Thing ,
+		yago:WikicatFIAGTChampionshipDrivers ,
+		yago:WikicatScottishFormulaOneDrivers ,
+		yago:WikicatRolexSportsCarSeriesDrivers ,
+		dbo:Agent ,
+		dbo:Athlete .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Allan_McNish	rdfs:label	"Allan McNish"@nl ,
+		"Allan McNish"@it ,
+		"Allan McNish"@pt ,
+		"\u30A2\u30E9\u30F3\u30FB\u30DE\u30AF\u30CB\u30C3\u30B7\u30E5"@ja ,
+		"Allan McNish"@pl ,
+		"\u041C\u0430\u043A\u043D\u0438\u0448, \u0410\u043B\u0430\u043D"@ru ,
+		"Allan McNish"@fr ,
+		"Allan McNish"@de ,
+		"Allan McNish"@es ,
+		"Allan McNish"@en ;
+	rdfs:comment	"Allan McNish (Dumfries, 29 december 1969) is een Schots coureur. McNish kwam in 2002 uit in de Formule 1, en heeft daarnaast op zijn palmares driemaal een overwinning in de 24 uur van Le Mans staan."@nl ,
+		"\u0410\u043B\u0430\u043D \u041C\u0430\u043A\u043D\u0438\u0448 (\u0430\u043D\u0433\u043B. Allan McNish, 29 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1969, \u0414\u0430\u043C\u0444\u0440\u0438\u0441) \u2014 \u0448\u043E\u0442\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0432\u044B\u043D\u043E\u0441\u043B\u0438\u0432\u043E\u0441\u0442\u044C, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u041B\u0435-\u041C\u0430\u043D, \u0442\u0440\u0435\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043A\u0438 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB."@ru ,
+		"Allan McNish (ur. 29 grudnia 1969 w Dumfries w Szkocji) \u2013 brytyjski kierowca wy\u015Bcigowy. Zwyci\u0119zca 24-godzinnego wy\u015Bcigu w Le Mans w 1998 oraz American Le Mans Series w 2000. Jednak najwi\u0119ksz\u0105 s\u0142aw\u0119 zdoby\u0142 jako kierowca startuj\u0105cy w Formule 1. W latach 1990-2001 i 2003 by\u0142 testerem poszczeg\u00F3lnych zespo\u0142\u00F3w F1, a w 2002 startowa\u0142 jako kierowca wy\u015Bcigowy w zespole Panasonic Toyota Racing. Obecnie mieszka w Monte Carlo. W sezonach 2006-2007 ponownie triumfowa\u0142 w American Le Mans Series. W 2008 roku zn\u00F3w wygra\u0142 24h Le Mans oraz zosta\u0142 mistrzem Le Mans Series."@pl ,
+		"\u30A2\u30E9\u30F3\u30FB\u30DE\u30AF\u30CB\u30C3\u30B7\u30E5\uFF08Allan McNish \u30011969\u5E7412\u670829\u65E5 - \uFF09\u306F\u3001\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u304C\u3001F1\u53C2\u6226\u6B74\u306F2002\u5E74\u306E\u30C8\u30E8\u30BFF1\u306E\u307F\u3002\u3057\u304B\u3057\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3\u3084\u30D9\u30CD\u30C8\u30F3\u3001\u30EB\u30CE\u30FC\u306A\u3069\u591A\u304F\u306E\u30C1\u30FC\u30E0\u3067\u9577\u304F\u30C6\u30B9\u30C8\u30C9\u30E9\u30A4\u30D0\u30FC\u3092\u52D9\u3081\u305F\u3002\u307E\u305F\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u306F\u30011998\u5E74\u306B\u30DD\u30EB\u30B7\u30A7\u30012008\u5E74\u306B\u30A2\u30A6\u30C7\u30A3\u3067\u5236\u3059\u308B\u306A\u3069\u3001\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u30EC\u30FC\u30B9\u3067\u6D3B\u8E8D\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Allan McNish est un pilote automobile \u00E9cossais, n\u00E9 le 29 d\u00E9cembre 1969 \u00E0 Dumfries, en \u00C9cosse."@fr ,
+		"Allan McNish (29 de dezembro de 1969, (Dumfries) \u00E9 um ex-automobilista escoc\u00EAs, ex-piloto da F\u00F3rmula 1.Foi campe\u00E3o das 24 Horas de Le Mans no ano de 1998 juntamente com o piloto franc\u00EAs Laurent A\u00EFello e o monegasco St\u00E9phane Ortelli dirigindo um Porsche 911 GT1. Voltou a ser campe\u00E3o das 24 Horas de Le Mans em 2008 com o piloto dinamarqu\u00EAs Tom Kristensen e o italiano Rinaldo Capello dirigindo um Audi R10 TDI."@pt ,
+		"Allan McNish (* 29. Dezember 1969 in Dumfries, Schottland) ist ein ehemaliger britischer Automobilrennfahrer."@de ,
+		"Allan McNish (nacido el 29 de diciembre de 1969 en Dumfries, Escocia, Reino Unido) es un piloto profesional de automovilismo de diferentes disciplinas. Entre sus mayores logros se encuentran tres victorias absolutas en las 24 Horas de Le Mans de 1998, 2008 y 2013, cuatro en las 12 Horas de Sebring de 2004, 2006, 2009 y 2012, cuatro victorias de clase en Petit Le Mans, un t\u00EDtulo mundial de pilotos del Campeonato Mundial de Resistencia de 2013, y los campeonatos de pilotos de la clase LMP / LMP1 de la American Le Mans Series en 2000, 2006 y 2007, casi todos ellos para la marca alemana Audi. Vive en M\u00F3naco con su mujer Kelly."@es ,
+		"Allan McNish (born 29 December 1969) is a British former racing driver, commentator, and journalist from Scotland. He is a three-time winner of the 24 Hours of Le Mans, most recently in 2013, as well as a three-time winner of the American Le Mans Series, which he last won in 2007. He won the FIA World Endurance Championship (FIA WEC) in 2013. He is also a co-commentator and pundit for BBC Formula One coverage on TV, radio and online."@en .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-es:Allan_McNish .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-cs:Allan_McNish .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-nl:Allan_McNish .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	yago-res:Allan_McNish .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-wikidata:Q173002 ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30E9\u30F3\u30FB\u30DE\u30AF\u30CB\u30C3\u30B7\u30E5> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-pt:Allan_McNish .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-id:Allan_McNish ,
+		wikidata:Q173002 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-fr:Allan_McNish .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-it:Allan_McNish .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-pl:Allan_McNish ,
+		dbr:Allan_McNish ,
+		<http://rdf.freebase.com/ns/m.04k783> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Allan_McNish	owl:sameAs	dbpedia-de:Allan_McNish .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Allan_McNish	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Allan_McNish	dct:subject	dbc:FIA_World_Endurance_Championship_drivers ,
+		dbc:Segrave_Trophy_recipients ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:Scottish_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:Living_people ,
+		dbc:Scottish_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1969_births> ,
+		dbc:International_Formula_3000_drivers ,
+		<http://dbpedia.org/resource/Category:People_educated_at_St_Joseph\u0027s_College,_Dumfries> ,
+		dbc:Rolex_Sports_Car_Series_drivers ,
+		dbc:European_Le_Mans_Series_drivers ,
+		dbc:FIA_GT_Championship_drivers ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		dbc:Sportspeople_from_Dumfries ,
+		dbc:Motorsport_announcers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Toyota_Formula_One_drivers ;
+	foaf:name	"Allan McNish"@en ;
+	foaf:homepage	<http://www.allanmcnish.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Allan_Mcnish.jpg> ;
+	dct:description	"racing driver, 1998, 2008, & 2013 24 Hours of Le Mans winner, commentator for BBC Formula One coverage"@en ;
+	foaf:givenName	"Allan"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Allan_McNish ;
+	foaf:surname	"McNish"@en ;
+	dbp:title	dbr:Autosport ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		dbr:Segrave_Trophy ,
+		dbr:American_Le_Mans_Series ,
+		"National Racing Driver of the Year"^^xsd:string ,
+		dbr:FIA_World_Endurance_Championship ,
+		"British Club Driver of the Year"^^xsd:string ,
+		"British Competition Driver of the Year"^^xsd:string ;
+	dbp:years	1998 ,
+		<http://dbpedia.org/resource/St\u00E9phane_Ortelli> ,
+		1988 ,
+		1989 ,
+		2008 ,
+		2013 ,
+		2000 ,
+		2006 ,
+		"with Rinaldo Capello"^^xsd:string ,
+		<http://dbpedia.org/resource/Laurent_A\u00EFello> ,
+		dbr:Rinaldo_Capello ,
+		<http://dbpedia.org/resource/Lo\u00EFc_Duval> ,
+		<http://dbpedia.org/resource/Tom_Kristensen_(racing_driver)> ;
+	dbp:titles	dbr:FIA_World_Endurance_Championship ,
+		dbr:American_Le_Mans_Series .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Allan_McNish	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Allan_McNish?oldid=743492297> ;
+	dbp:before	dbr:Emanuele_Pirro ,
+		<http://dbpedia.org/resource/Beno\u00EEt_Tr\u00E9luyer> ,
+		dbr:Elliott_Forbes-Robinson ,
+		<http://dbpedia.org/resource/Andr\u00E9_Lotterer> ,
+		dbr:Lewis_Hamilton ,
+		dbr:Michele_Alboreto ,
+		dbr:Marco_Werner ,
+		dbr:JJ_Lehto ,
+		dbr:Frank_Biela ,
+		dbr:Stefan_Johansson ,
+		dbr:Eddie_Irvine ,
+		<http://dbpedia.org/resource/Tom_Kristensen_(racing_driver)> ,
+		<http://dbpedia.org/resource/Marcel_F\u00E4ssler_(racing_driver)> ;
+	dbp:after	<http://dbpedia.org/resource/Marcel_F\u00E4ssler_(racing_driver)> ,
+		dbr:Pierluigi_Martini ,
+		dbr:Emanuele_Pirro ,
+		dbr:Anthony_Davidson ,
+		<http://dbpedia.org/resource/Beno\u00EEt_Tr\u00E9luyer> ,
+		<http://dbpedia.org/resource/Andr\u00E9_Lotterer> ,
+		dbr:Lucas_Luhr ,
+		dbr:Marco_Werner ,
+		dbr:Robb_Gravett ,
+		dbr:David_Brabham ,
+		dbr:Paul_Bonhomme ,
+		dbr:Joachim_Winkelhock ,
+		<http://dbpedia.org/resource/S\u00E9bastien_Buemi> ,
+		dbr:David_Coulthard ,
+		dbr:Yannick_Dalmas ,
+		dbr:Alexander_Wurz ,
+		<http://dbpedia.org/resource/Marc_Gen\u00E9> ,
+		dbr:Jenson_Button ;
+	dbp:date	"July 2016"^^xsd:string ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20081218041953/http:/www.fiagt.com/> ,
+		<http://www.allanmcnish.com/> ,
+		<https://web.archive.org/web/20070927033457/http:/www.fiagt.com/driverinfo.php?drivername=Allan+McNish> ,
+		<http://richardsf1.com/category/exclusive-interviews/allan-mcnish-exclusive-interviews/> ,
+		<https://web.archive.org/web/20070928191138/http:/www.allanmcnish.com/blog/> ;
+	dbo:abstract	"Allan McNish (29 de dezembro de 1969, (Dumfries) \u00E9 um ex-automobilista escoc\u00EAs, ex-piloto da F\u00F3rmula 1.Foi campe\u00E3o das 24 Horas de Le Mans no ano de 1998 juntamente com o piloto franc\u00EAs Laurent A\u00EFello e o monegasco St\u00E9phane Ortelli dirigindo um Porsche 911 GT1. Voltou a ser campe\u00E3o das 24 Horas de Le Mans em 2008 com o piloto dinamarqu\u00EAs Tom Kristensen e o italiano Rinaldo Capello dirigindo um Audi R10 TDI."@pt ,
+		"\u0410\u043B\u0430\u043D \u041C\u0430\u043A\u043D\u0438\u0448 (\u0430\u043D\u0433\u043B. Allan McNish, 29 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1969, \u0414\u0430\u043C\u0444\u0440\u0438\u0441) \u2014 \u0448\u043E\u0442\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u043F\u043E \u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0432\u044B\u043D\u043E\u0441\u043B\u0438\u0432\u043E\u0441\u0442\u044C, \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 \u041B\u0435-\u041C\u0430\u043D, \u0442\u0440\u0435\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043A\u0438 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB."@ru ,
+		"\u30A2\u30E9\u30F3\u30FB\u30DE\u30AF\u30CB\u30C3\u30B7\u30E5\uFF08Allan McNish \u30011969\u5E7412\u670829\u65E5 - \uFF09\u306F\u3001\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u304C\u3001F1\u53C2\u6226\u6B74\u306F2002\u5E74\u306E\u30C8\u30E8\u30BFF1\u306E\u307F\u3002\u3057\u304B\u3057\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3\u3084\u30D9\u30CD\u30C8\u30F3\u3001\u30EB\u30CE\u30FC\u306A\u3069\u591A\u304F\u306E\u30C1\u30FC\u30E0\u3067\u9577\u304F\u30C6\u30B9\u30C8\u30C9\u30E9\u30A4\u30D0\u30FC\u3092\u52D9\u3081\u305F\u3002\u307E\u305F\u30EB\u30FB\u30DE\u30F324\u6642\u9593\u30EC\u30FC\u30B9\u3067\u306F\u30011998\u5E74\u306B\u30DD\u30EB\u30B7\u30A7\u30012008\u5E74\u306B\u30A2\u30A6\u30C7\u30A3\u3067\u5236\u3059\u308B\u306A\u3069\u3001\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u30EC\u30FC\u30B9\u3067\u6D3B\u8E8D\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Allan McNish (ur. 29 grudnia 1969 w Dumfries w Szkocji) \u2013 brytyjski kierowca wy\u015Bcigowy. Zwyci\u0119zca 24-godzinnego wy\u015Bcigu w Le Mans w 1998 oraz American Le Mans Series w 2000. Jednak najwi\u0119ksz\u0105 s\u0142aw\u0119 zdoby\u0142 jako kierowca startuj\u0105cy w Formule 1. W latach 1990-2001 i 2003 by\u0142 testerem poszczeg\u00F3lnych zespo\u0142\u00F3w F1, a w 2002 startowa\u0142 jako kierowca wy\u015Bcigowy w zespole Panasonic Toyota Racing. Obecnie mieszka w Monte Carlo. W sezonach 2006-2007 ponownie triumfowa\u0142 w American Le Mans Series. W 2008 roku zn\u00F3w wygra\u0142 24h Le Mans oraz zosta\u0142 mistrzem Le Mans Series."@pl ,
+		"Allan McNish (* 29. Dezember 1969 in Dumfries, Schottland) ist ein ehemaliger britischer Automobilrennfahrer."@de ,
+		"Allan McNish (Dumfries, 29 december 1969) is een Schots coureur. McNish kwam in 2002 uit in de Formule 1, en heeft daarnaast op zijn palmares driemaal een overwinning in de 24 uur van Le Mans staan."@nl ,
+		"Allan McNish est un pilote automobile \u00E9cossais, n\u00E9 le 29 d\u00E9cembre 1969 \u00E0 Dumfries, en \u00C9cosse."@fr ,
+		"Allan McNish (born 29 December 1969) is a British former racing driver, commentator, and journalist from Scotland. He is a three-time winner of the 24 Hours of Le Mans, most recently in 2013, as well as a three-time winner of the American Le Mans Series, which he last won in 2007. He won the FIA World Endurance Championship (FIA WEC) in 2013. He is also a co-commentator and pundit for BBC Formula One coverage on TV, radio and online."@en ,
+		"Allan McNish (nacido el 29 de diciembre de 1969 en Dumfries, Escocia, Reino Unido) es un piloto profesional de automovilismo de diferentes disciplinas. Entre sus mayores logros se encuentran tres victorias absolutas en las 24 Horas de Le Mans de 1998, 2008 y 2013, cuatro en las 12 Horas de Sebring de 2004, 2006, 2009 y 2012, cuatro victorias de clase en Petit Le Mans, un t\u00EDtulo mundial de pilotos del Campeonato Mundial de Resistencia de 2013, y los campeonatos de pilotos de la clase LMP / LMP1 de la American Le Mans Series en 2000, 2006 y 2007, casi todos ellos para la marca alemana Audi. Vive en M\u00F3naco con su mujer Kelly."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Allan_Mcnish.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Allan_McNish	dbo:birthDate	"1969-12-29"^^xsd:date ;
+	dbo:wikiPageRevisionID	743492297 ;
+	dbo:birthPlace	dbr:Dumfries ;
+	dbo:wikiPageID	1228199 ;
+	dbp:titleYears	200020062007 ,
+		2013 .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Allan_McNish	ns29:hypernym	dbr:Driver ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:bot	"InternetArchiveBot"^^xsd:string ;
+	dbp:fixAttempted	"yes"^^xsd:string .
+<http://dbpedia.org/resource/Marcel_F\u00E4ssler_(racing_driver)>	dbp:before	dbr:Allan_McNish ;
+	dbp:after	dbr:Allan_McNish .
+dbr:Lone_Star_Grand_Prix__2007__2	dbo:firstDriver	dbr:Allan_McNish .
+dbr:Petit_Le_Mans__2006__1	dbo:firstDriver	dbr:Allan_McNish .
+dbr:Petit_Le_Mans__2007__1	dbo:firstDriver	dbr:Allan_McNish .
+dbr:Petit_Le_Mans__2008__1	dbo:firstDriver	dbr:Allan_McNish .
+dbr:Yannick_Dalmas	dbp:before	dbr:Allan_McNish .
+<http://dbpedia.org/resource/St\u00E9phane_Ortelli>	dbp:years	dbr:Allan_McNish .
+dbr:Robb_Gravett	dbp:before	dbr:Allan_McNish .
+<http://dbpedia.org/resource/Laurent_A\u00EFello>	dbp:years	dbr:Allan_McNish .
+dbr:Journey_to_Le_Mans	dbo:starring	dbr:Allan_McNish .
+<http://dbpedia.org/resource/S\u00E9bastien_Buemi>	dbp:before	dbr:Allan_McNish .
+dbr:Michele_Alboreto	dbp:after	dbr:Allan_McNish .
+dbr:David_Coulthard	dbp:before	dbr:Allan_McNish .
+dbr:Stefan_Johansson	dbp:after	dbr:Allan_McNish .
+dbr:Frank_Biela	dbp:after	dbr:Allan_McNish .
+dbr:Truth_in_24	dbo:starring	dbr:Allan_McNish .
+dbr:Petit_Le_Mans__2000__1	dbo:firstDriver	dbr:Allan_McNish .
+dbr:Emanuele_Pirro	dbp:before	dbr:Allan_McNish ;
+	dbp:after	dbr:Allan_McNish .
+<http://dbpedia.org/resource/2008_Rolex_Sports_Car_Series__SAMAX_Motorsport__3>	dbo:firstDriver	dbr:Allan_McNish .
+dbr:JJ_Lehto	dbp:after	dbr:Allan_McNish .
+dbr:Marco_Werner	dbp:after	dbr:Allan_McNish .
+dbr:David_Brabham	dbp:before	dbr:Allan_McNish .
+dbr:Eddie_Irvine	dbp:after	dbr:Allan_McNish .
+dbr:Lone_Star_Grand_Prix__2006__1	dbo:firstDriver	dbr:Allan_McNish .
+dbr:McNish	dbo:wikiPageDisambiguates	dbr:Allan_McNish .

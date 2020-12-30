@@ -1,0 +1,175 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/S\u00E9bastien_Philippe>	dbp:after	dbr:Franck_Montagny .
+dbr:Heikki_Kovalainen	dbp:before	dbr:Franck_Montagny .
+dbr:Zhuhai_International_Circuit	dbp:recordDriver	dbr:Franck_Montagny .
+<http://dbpedia.org/resource/2010_N\u00FCrburgring_Superleague_Formula_round>	dbp:fastDriverR	dbr:Franck_Montagny ;
+	dbp:secondDriverR	dbr:Franck_Montagny .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Franck_Montagny	foaf:primaryTopic	dbr:Franck_Montagny .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1997_Macau_Grand_Prix__La_Filiere__1>	dbo:firstDriver	dbr:Franck_Montagny .
+<http://dbpedia.org/resource/1998_Macau_Grand_Prix__La_Filiere__1>	dbo:firstDriver	dbr:Franck_Montagny .
+dbr:Ricardo_Zonta	dbp:before	dbr:Franck_Montagny ;
+	dbp:after	dbr:Franck_Montagny .
+<http://dbpedia.org/resource/2014_Beijing_ePrix>	dbo:secondDriver	dbr:Franck_Montagny .
+<http://dbpedia.org/resource/2008_Toyota_Grand_Prix_of_Long_Beach>	dbp:secondDriver	dbr:Franck_Montagny .
+<http://dbpedia.org/resource/2010_Jarama_Superleague_Formula_round>	dbp:firstDriverR	dbr:Franck_Montagny .
+<http://dbpedia.org/resource/2010_Assen_Superleague_Formula_round>	dbp:thirdDriverR	dbr:Franck_Montagny .
+dbr:Petit_Le_Mans__2009__1	dbo:firstDriver	dbr:Franck_Montagny .
+dbr:Petit_Le_Mans__2010__1	dbo:firstDriver	dbr:Franck_Montagny .
+dbr:Petit_Le_Mans__2011__1	dbo:firstDriver	dbr:Franck_Montagny .
+dbr:Super_Aguri_SA05__3	dbo:firstDriver	dbr:Franck_Montagny .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Franck_Montagny	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatFrenchFormulaThreeChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Franck_Montagny	rdf:type	wikidata:Q5 ,
+		yago:CausalAgent100007347 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Franck_Montagny	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Person ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatFrenchFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Franck_Montagny	rdf:type	schema:Person ,
+		foaf:Person ,
+		yago:WikicatSuperleagueFormulaDrivers ,
+		yago:WikicatAmericanLeMansSeriesDrivers ,
+		yago:WikicatFormuleCampusRenaultElfDrivers ,
+		wikidata:Q378622 ,
+		yago:WikicatA1TeamFranceDrivers ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		yago:WikicatEuropeanLeMansSeriesDrivers ,
+		dbo:MotorsportRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Franck_Montagny	rdf:type	owl:Thing ,
+		yago:WikicatSuperAguriFormulaOneDrivers ,
+		dbo:Agent ,
+		yago:WikicatFIAWorldEnduranceChampionshipDrivers .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Franck_Montagny	rdf:type	ns11:NaturalPerson ,
+		dbo:Athlete ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		ns11:Agent ,
+		yago:WikicatIndyCarSeriesDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Franck_Montagny	rdfs:label	"Franck Montagny"@pt ,
+		"\u30D5\u30E9\u30F3\u30AF\u30FB\u30E2\u30F3\u30BF\u30CB\u30FC"@ja ,
+		"Franck Montagny"@nl ,
+		"Franck Montagny"@es ,
+		"\u041C\u043E\u043D\u0442\u0430\u043D\u044C\u0438, \u0424\u0440\u0430\u043D\u043A"@ru ,
+		"Franck Montagny"@fr ,
+		"Franck Montagny"@de ,
+		"Franck Montagny"@pl ,
+		"Franck Montagny"@en ,
+		"Franck Montagny"@it ,
+		"\u5F17\u5170\u514B\u00B7\u8499\u5854\u5C3C"@zh ;
+	rdfs:comment	"Franck Montagny est un pilote automobile fran\u00E7ais n\u00E9 le 5 janvier 1978 \u00E0 Feurs (Loire). Il a notamment pris le d\u00E9part de sept Grands Prix de Formule 1 en 2006 au sein de l'\u00E9curie japonaise Super Aguri F1. Depuis 2013, il est consultant-envoy\u00E9 sp\u00E9cial sur les Grands Prix pour la cha\u00EEne Canal+, diffuseur de la Formule 1 en France. En 2014, Andretti Autosport le recrute pour participer aux d\u00E9buts du nouveau championnat de monoplaces \u00E9lectriques, la Formule E."@fr ,
+		"Franck Montagny (Feurs, 5 januari 1978) is een Frans autocoureur die tijdens de Grand Prix van Europa 2006 zijn debuut maakte in de Formule 1 voor het team van Super Aguri. Montagny begon in 1988 met karten en stapte in 1994 over naar de Formule Renault. Via een succesvolle periode in de Formule 3 kwam hij in 1999 in de Formule 3000 uit waar hij twee matige jaren beleefde. In 2001 en 2003 won Montagny de World Series by Nissan wat hem een testcontract bij het Formule 1-team van Renault opleverde. In 2004 was hij de derde coureur van Renault, vanaf halverwege het seizoen 2005 had hij dezelfde functie bij Jordan."@nl ,
+		"Franck Montagny (born 5 January 1978) is a French professional racing driver, who is currently suspended from the sport after testing positive for a banned substance. He briefly raced for the Super Aguri Formula One team in 2006."@en ,
+		"Franck Montagny (nacido el 5 de enero de 1978 en Feurs, Francia) es un piloto franc\u00E9s de automovilismo de velocidad. Compiti\u00F3 en la F\u00F3rmula 1 en 2006, pero sus mayores logros los consigui\u00F3 en sport prototipos, donde gan\u00F3 Petit Le Mans y consigui\u00F3 podios en las 24 Horas de Le Mans y las 12 Horas de Sebring."@es ,
+		"Franck Montagny (ur. 5 stycznia 1978 w Feurs) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"\u0424\u0440\u0430\u043D\u043A \u041C\u043E\u043D\u0442\u0430\u043D\u044C\u0438 (\u0444\u0440. Franck Montagny, 5 \u044F\u043D\u0432\u0430\u0440\u044F 1978, \u0424\u0451\u0440) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u0445 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0414\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0424\u043E\u0440\u043C\u0443\u043B\u044B-\u041D\u0438\u0441\u0441\u0430\u043D (2001, 2003)."@ru ,
+		"\u30D5\u30E9\u30F3\u30AF\u30FB\u30E2\u30F3\u30BF\u30CB\u30FC\uFF08Franck Montagny\u30011978\u5E741\u67085\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Franck Montagny (* 5. Januar 1978 in Feurs) ist ein franz\u00F6sischer Automobilrennfahrer. Er ist zweifacher Meister der World Series by Nissan (2001, 2003). 2006 bestritt er sieben Formel-1-Rennen. Er war zw\u00F6lfmal beim 24-Stunden-Rennen von Le Mans am Start. 2006 und 2009 erreichte er dort mit dem zweiten Platz seine beste Gesamtplatzierung. 2014/15 trat er in der FIA-Formel-E-Meisterschaft an."@de ,
+		"Franck Montagny (Nascido em 5 de janeiro de 1978, em Feurs) \u00E9 um automobilista franc\u00EAs. Entrou na F\u00F3rmula 1 em 2006 pela equipe Super Aguri como substituto de Yuji Ide, por\u00E9m ap\u00F3s algumas corridas a equipe decide apostar em um outro japon\u00EAs, Sakon Yamamoto, e Montagny fica na F\u00F3rmula 1 como piloto de teste da equipe japonesa. Em 2007, ele trabalhou na equipe Toyota, novamente como piloto de testes."@pt ,
+		"\u6CD5\u862D\u514B\u00B7\u8499\u7279\u5947 \uFF08Franck Montagny\uFF0C1978\u5E741\u67085\u65E5\uFF0D\uFF09\u662F\u6CD5\u570B\u7C4D\u524D\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u904B\u52D5\u54E1\uFF0C\u66FE\u7D93\u6548\u529B\u904E\u96F7\u8AFE\u8ECA\u968A\uFF082003\u5E74-2005\u5E74\uFF09\u3001\u55AC\u4E39\u8ECA\u968A\uFF082005\u5E74\uFF09\u3001\u8D85\u7D1A\u4E9E\u4E45\u91CC\u8ECA\u968A\uFF082006\u5E74\uFF09\u3001\u8C50\u7530\u8ECA\u968A\uFF082007\u5E74\uFF0C\u7B2C\u4E09\u8ECA\u624B\uFF09\u7B49\u3002\u73FE\u5DF2\u9000\u51FA\u4E26\u8F49\u5F80\u5229\u66FC24\u5C0F\u6642\u62C9\u529B\u8CFD\u3002 2007\u5E74-2008\u5E74A1 GP\uFF0C\u6CD5\u862D\u514B\u00B7\u8499\u7279\u5947\u70BA\u6CD5\u570B\u51FA\u8CFD2\u5834\uFF0C\u5206\u5225\u662F\u4E2D\u570B\u7AD9\u3001\u82F1\u570B\u7AD9\u3002"@zh .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-pt:Franck_Montagny .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-pl:Franck_Montagny ,
+		dbr:Franck_Montagny .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	yago-res:Franck_Montagny ,
+		<http://rdf.freebase.com/ns/m.03_p8n> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-cs:Franck_Montagny ,
+		<http://ja.dbpedia.org/resource/\u30D5\u30E9\u30F3\u30AF\u30FB\u30E2\u30F3\u30BF\u30CB\u30FC> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-nl:Franck_Montagny .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-wikidata:Q173162 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-it:Franck_Montagny .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-de:Franck_Montagny ,
+		<http://viaf.org/viaf/171266776> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-fr:Franck_Montagny ,
+		wikidata:Q173162 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-id:Franck_Montagny .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Franck_Montagny	owl:sameAs	dbpedia-es:Franck_Montagny .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Franck_Montagny	dct:subject	dbc:A1_Team_France_drivers ,
+		dbc:Doping_cases_in_auto_racing ,
+		dbc:Superleague_Formula_drivers ,
+		<http://dbpedia.org/resource/Category:1978_births> ,
+		dbc:French_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:French_racing_drivers ,
+		dbc:European_Le_Mans_Series_drivers ,
+		dbc:French_Formula_One_drivers ,
+		dbc:FIA_World_Endurance_Championship_drivers ,
+		dbc:IndyCar_Series_drivers ,
+		dbc:Living_people ,
+		dbc:Formula_E_drivers ,
+		dbc:Formule_Campus_Renault_Elf_drivers ,
+		dbc:People_from_Feurs ,
+		dbc:Super_Aguri_Formula_One_drivers ;
+	foaf:name	"Franck Montagny"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Franck_Montagny_Le_Mans_drivers_parade_2011_crop.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Franck"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Franck_Montagny ;
+	foaf:surname	"Montagny"@en ;
+	dbp:title	<http://dbpedia.org/resource/Formula_3.5_V8> ,
+		"Formula Campus Champion"^^xsd:string ,
+		"Champion"^^xsd:string ;
+	dbp:years	2001 ,
+		2003 ,
+		1994 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Franck_Montagny	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Franck_Montagny?oldid=726263519> ;
+	dbp:before	<http://dbpedia.org/resource/S\u00E9bastien_Philippe> ,
+		dbr:Ricardo_Zonta ,
+		<http://dbpedia.org/resource/Antonio_Garc\u00EDa_(racing_driver)> ;
+	dbp:after	dbr:Heikki_Kovalainen ,
+		"Renaud Malinconi"^^xsd:string ,
+		dbr:Ricardo_Zonta ;
+	dbp:caption	"Montagny at the 2011 24 Hours of Le Mans driver parade"^^xsd:string ;
+	dbo:abstract	"\u0424\u0440\u0430\u043D\u043A \u041C\u043E\u043D\u0442\u0430\u043D\u044C\u0438 (\u0444\u0440. Franck Montagny, 5 \u044F\u043D\u0432\u0430\u0440\u044F 1978, \u0424\u0451\u0440) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u0445 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0414\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0424\u043E\u0440\u043C\u0443\u043B\u044B-\u041D\u0438\u0441\u0441\u0430\u043D (2001, 2003)."@ru ,
+		"Franck Montagny (* 5. Januar 1978 in Feurs) ist ein franz\u00F6sischer Automobilrennfahrer. Er ist zweifacher Meister der World Series by Nissan (2001, 2003). 2006 bestritt er sieben Formel-1-Rennen. Er war zw\u00F6lfmal beim 24-Stunden-Rennen von Le Mans am Start. 2006 und 2009 erreichte er dort mit dem zweiten Platz seine beste Gesamtplatzierung. 2014/15 trat er in der FIA-Formel-E-Meisterschaft an."@de ,
+		"Franck Montagny (born 5 January 1978) is a French professional racing driver, who is currently suspended from the sport after testing positive for a banned substance. He briefly raced for the Super Aguri Formula One team in 2006."@en ,
+		"\u6CD5\u862D\u514B\u00B7\u8499\u7279\u5947 \uFF08Franck Montagny\uFF0C1978\u5E741\u67085\u65E5\uFF0D\uFF09\u662F\u6CD5\u570B\u7C4D\u524D\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u904B\u52D5\u54E1\uFF0C\u66FE\u7D93\u6548\u529B\u904E\u96F7\u8AFE\u8ECA\u968A\uFF082003\u5E74-2005\u5E74\uFF09\u3001\u55AC\u4E39\u8ECA\u968A\uFF082005\u5E74\uFF09\u3001\u8D85\u7D1A\u4E9E\u4E45\u91CC\u8ECA\u968A\uFF082006\u5E74\uFF09\u3001\u8C50\u7530\u8ECA\u968A\uFF082007\u5E74\uFF0C\u7B2C\u4E09\u8ECA\u624B\uFF09\u7B49\u3002\u73FE\u5DF2\u9000\u51FA\u4E26\u8F49\u5F80\u5229\u66FC24\u5C0F\u6642\u62C9\u529B\u8CFD\u3002 2007\u5E74-2008\u5E74A1 GP\uFF0C\u6CD5\u862D\u514B\u00B7\u8499\u7279\u5947\u70BA\u6CD5\u570B\u51FA\u8CFD2\u5834\uFF0C\u5206\u5225\u662F\u4E2D\u570B\u7AD9\u3001\u82F1\u570B\u7AD9\u3002"@zh ,
+		"Franck Montagny (Nascido em 5 de janeiro de 1978, em Feurs) \u00E9 um automobilista franc\u00EAs. Entrou na F\u00F3rmula 1 em 2006 pela equipe Super Aguri como substituto de Yuji Ide, por\u00E9m ap\u00F3s algumas corridas a equipe decide apostar em um outro japon\u00EAs, Sakon Yamamoto, e Montagny fica na F\u00F3rmula 1 como piloto de teste da equipe japonesa. Em 2007, ele trabalhou na equipe Toyota, novamente como piloto de testes."@pt ,
+		"Franck Montagny (Feurs, 5 januari 1978) is een Frans autocoureur die tijdens de Grand Prix van Europa 2006 zijn debuut maakte in de Formule 1 voor het team van Super Aguri. Montagny begon in 1988 met karten en stapte in 1994 over naar de Formule Renault. Via een succesvolle periode in de Formule 3 kwam hij in 1999 in de Formule 3000 uit waar hij twee matige jaren beleefde. In 2001 en 2003 won Montagny de World Series by Nissan wat hem een testcontract bij het Formule 1-team van Renault opleverde. In 2004 was hij de derde coureur van Renault, vanaf halverwege het seizoen 2005 had hij dezelfde functie bij Jordan. Voor het seizoen 2006 zou Montagny de derde coureur worden bij Super Aguri, een functie die niet veel waard leek omdat het team niet in staat was de derde auto in te zetten. Nadat Super Aguri echter op advies van de FIA tweede coureur Yuji Ide aan de kant zette kreeg Montagny eindelijk de kans om te debuteren in een Formule 1-race, wat gebeurde tijdens de Grand Prix van Europa. Na 7 races werd hij, in de Grand Prix van Duitsland op Hockenheim, echter weer vervangen door Sakon Yamamoto, die het seizoen zou afmaken. Na zijn vertrek uit de Formule 1 reed Montagny in het lange afstandsracen. Hij nam verschillende keren deel aan de 24 uur van Le Mans, met tweede plaatsen in 2006 en 2009 als beste resultaat. Verder reed hij enkele gastraces in de A1GP, de Superleague Formula, de Champ Car en de IndyCar Series. In het seizoen 2014-2015 rijdt hij in het elektrische kampioenschap Formule E voor het team Andretti Autosport. Hij wordt hier de teamgenoot van zijn landgenoot Charles Pic."@nl ,
+		"Franck Montagny (nacido el 5 de enero de 1978 en Feurs, Francia) es un piloto franc\u00E9s de automovilismo de velocidad. Compiti\u00F3 en la F\u00F3rmula 1 en 2006, pero sus mayores logros los consigui\u00F3 en sport prototipos, donde gan\u00F3 Petit Le Mans y consigui\u00F3 podios en las 24 Horas de Le Mans y las 12 Horas de Sebring."@es ,
+		"Franck Montagny est un pilote automobile fran\u00E7ais n\u00E9 le 5 janvier 1978 \u00E0 Feurs (Loire). Il a notamment pris le d\u00E9part de sept Grands Prix de Formule 1 en 2006 au sein de l'\u00E9curie japonaise Super Aguri F1. Depuis 2013, il est consultant-envoy\u00E9 sp\u00E9cial sur les Grands Prix pour la cha\u00EEne Canal+, diffuseur de la Formule 1 en France. En 2014, Andretti Autosport le recrute pour participer aux d\u00E9buts du nouveau championnat de monoplaces \u00E9lectriques, la Formule E."@fr ,
+		"\u30D5\u30E9\u30F3\u30AF\u30FB\u30E2\u30F3\u30BF\u30CB\u30FC\uFF08Franck Montagny\u30011978\u5E741\u67085\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Franck Montagny (ur. 5 stycznia 1978 w Feurs) \u2013 francuski kierowca wy\u015Bcigowy."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Franck_Montagny_Le_Mans_drivers_parade_2011_crop.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Franck_Montagny	dbo:birthDate	"1978-1-5"^^xsd:date ,
+		"1978-01-05"^^xsd:date ;
+	dbo:wikiPageRevisionID	726263519 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Loire_(department)> ,
+		dbr:Feurs ,
+		dbr:A1_Team_France ;
+	dbo:wikiPageID	1029114 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Franck_Montagny	ns28:hypernym	dbr:Driver ;
+	dbp:nationality	"French"^^xsd:string .
+<http://dbpedia.org/resource/Antonio_Garc\u00EDa_(racing_driver)>	dbp:after	dbr:Franck_Montagny .
+dbr:Montagny	dbo:wikiPageDisambiguates	dbr:Franck_Montagny .

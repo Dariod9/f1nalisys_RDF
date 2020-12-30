@@ -1,0 +1,141 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Riccardo_Paletti	foaf:primaryTopic	dbr:Riccardo_Paletti .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbr:Riccardo_Paletti	rdf:type	schema:Person .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Riccardo_Paletti	rdf:type	ns5:NaturalPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Riccardo_Paletti	rdf:type	wikidata:Q5 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Riccardo_Paletti	rdf:type	dbo:MotorsportRacer ,
+		wikidata:Q24229398 ,
+		dbo:Agent ,
+		foaf:Person ,
+		wikidata:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Riccardo_Paletti	rdf:type	yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Riccardo_Paletti	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		dbo:FormulaOneRacer ,
+		dbo:RacingDriver ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:WikicatOsellaFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportSeason ,
+		ns5:Agent ,
+		wikidata:Q378622 ,
+		dbo:Athlete .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Riccardo_Paletti	rdfs:label	"Riccardo Paletti"@en ,
+		"Riccardo Paletti"@fr ,
+		"Riccardo Paletti"@nl ,
+		"\u041F\u0430\u043B\u0435\u0442\u0442\u0438, \u0420\u0438\u043A\u043A\u0430\u0440\u0434\u043E"@ru ,
+		"\u30EA\u30AB\u30EB\u30C9\u30FB\u30D1\u30EC\u30C3\u30C6\u30A3"@ja ,
+		"Riccardo Paletti"@it ,
+		"Riccardo Paletti"@pt ,
+		"Riccardo Paletti"@pl ,
+		"Riccardo Paletti"@es ,
+		"Riccardo Paletti"@de ;
+	rdfs:comment	"Riccardo Paletti (Mil\u00E3o, 15 de junho de 1958 \u2013 Montreal, 13 de junho de 1982) foi um piloto italiano de automobilismo. Sua carreira na F\u00F3rmula 1 encontra-se entre as mais curtas da hist\u00F3ria, pois faleceu na largada da sua segunda corrida de F\u00F3rmula 1. Era a sua primeira corrida com o grid completo."@pt ,
+		"Riccardo Paletti (15 June 1958 \u2013 13 June 1982) was an Italian motor racing driver. Paletti was killed when he crashed on the start grid in his second Formula One start."@en ,
+		"\u0420\u0438\u043A\u043A\u0430\u0301\u0440\u0434\u043E \u041F\u0430\u043B\u0435\u0301\u0442\u0442\u0438 (\u0438\u0442\u0430\u043B. Riccardo Paletti, 15 \u0438\u044E\u043D\u044F 1958, \u041C\u0438\u043B\u0430\u043D, \u0418\u0442\u0430\u043B\u0438\u044F \u2014 13 \u0438\u044E\u043D\u044F 1982, \u041C\u043E\u043D\u0440\u0435\u0430\u043B\u044C, \u041A\u0430\u043D\u0430\u0434\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0415\u0433\u043E \u043A\u0430\u0440\u044C\u0435\u0440\u0430 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435 1 \u0431\u044B\u043B\u0430 \u043E\u0447\u0435\u043D\u044C \u043A\u043E\u0440\u043E\u0442\u043A\u043E\u0439, \u0442\u0430\u043A \u043A\u0430\u043A \u043E\u043D \u0442\u0440\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u0438 \u043F\u043E\u0433\u0438\u0431 \u0432 \u0430\u0432\u0430\u0440\u0438\u0438 \u043F\u0440\u0438 \u0441\u0432\u043E\u0435\u043C \u0432\u0442\u043E\u0440\u043E\u043C \u0441\u0442\u0430\u0440\u0442\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445."@ru ,
+		"Riccardo Paletti Riccardo Paletti (n\u00E9 le 15 juin 1958 \u00E0 Milan, Italie - mort le 13 juin 1982 \u00E0 Montr\u00E9al, Canada dans un accident survenu au d\u00E9part du GP du Canada) est un pilote automobile italien."@fr ,
+		"\u30EA\u30AB\u30EB\u30C9\u30FB\u30D1\u30EC\u30C3\u30C6\u30A3\uFF08Riccardo Paletti, 1958\u5E746\u670815\u65E5 - 1982\u5E746\u670813\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Riccardo Paletti (* 15. Juni 1958 in Mailand; \u2020 13. Juni 1982 in Montreal, Kanada) war ein italienischer Rennfahrer."@de ,
+		"Riccardo Paletti (*15 de junio de 1958 - 13 de junio de 1982), fue un piloto italiano de los a\u00F1os 80 que particip\u00F3 8 grandes premios de F\u00F3rmula 1, clasificando en 3 de ellos, con el equipo Osella, al cual se uni\u00F3 como segundo conductor aportando sus propios fondos tras sus \u00E9xitos en categor\u00EDas inferiores."@es ,
+		"Ricardo Paletti (ur. 15 czerwca 1958 w Mediolanie, zm. 13 czerwca 1982 w Montrealu) \u2013 w\u0142oski kierowca wy\u015Bcigowy Formu\u0142y 1. Paletti do\u0142\u0105czy\u0142 do zespo\u0142u Osella w 1982 roku. Zadebiutowa\u0142 podczas Grand Prix RPA na torze Kyalami, jednak do samego wy\u015Bcigu si\u0119 nie zakwalifikowa\u0142. Wystartowa\u0142 w Grand Prix San Marino oraz Kanady. \u017Badnego z nich nie uko\u0144czy\u0142."@pl ,
+		"Riccardo Paletti (Milaan, 15 juni 1958 \u2013 Montreal, 13 juni 1982) was een Italiaans Formule 1-coureur. Na zich vijf keer niet te hebben kunnen kwalificeren met zijn Osella, lukte het dan toch voor de eerste keer op 13 juni 1982 voor de Grand Prix Formule 1 van Canada in Montreal. Maar bij de start ging het al direct helemaal mis. Hoewel men Paletti nog probeerde te redden, was het ondanks de professionaliteit te laat. De auto stond nog kortstondig in brand, al had Paletti geen brandwonden. Hij was de tweede dode in het seizoen 1982: Gilles Villeneuve stierf kort daarvoor in Zolder."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Riccardo_Paletti	dbp:birthDate	"1958-06-15"^^xsd:date .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	dbpedia-nl:Riccardo_Paletti .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	dbpedia-cs:Riccardo_Paletti .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	dbpedia-fr:Riccardo_Paletti .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	yago-res:Riccardo_Paletti .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	dbpedia-pt:Riccardo_Paletti ,
+		dbr:Riccardo_Paletti ,
+		<http://rdf.freebase.com/ns/m.03hrgy> ,
+		<http://ja.dbpedia.org/resource/\u30EA\u30AB\u30EB\u30C9\u30FB\u30D1\u30EC\u30C3\u30C6\u30A3> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	dbpedia-de:Riccardo_Paletti .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	dbpedia-pl:Riccardo_Paletti ,
+		wikidata:Q173258 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	dbpedia-it:Riccardo_Paletti .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	dbpedia-es:Riccardo_Paletti .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Riccardo_Paletti	owl:sameAs	dbpedia-wikidata:Q173258 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Riccardo_Paletti	dct:subject	<http://dbpedia.org/resource/Category:1958_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Riccardo_Paletti	dct:subject	dbc:Racing_drivers_killed_while_racing ,
+		dbc:Osella_Formula_One_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Filmed_deaths_in_sports ,
+		dbc:Accidental_deaths_in_Quebec ,
+		dbc:Sport_deaths_in_Canada ,
+		<http://dbpedia.org/resource/Category:1982_deaths> ,
+		dbc:Sportspeople_from_Milan ;
+	foaf:name	"Riccardo Paletti"@en ;
+	dct:description	"Italian racing driver"@en ;
+	foaf:givenName	"Riccardo"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Riccardo_Paletti ;
+	foaf:surname	"Paletti"@en ;
+	dbp:points	0 ;
+	dbp:years	"1982-06-13"^^xsd:date ;
+	dbp:after	dbr:Elio_de_Angelis ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Osella .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Riccardo_Paletti	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Riccardo_Paletti?oldid=709353854> ;
+	dbo:wikiPageExternalLink	<http://www.varano.it/cgi-bin/home.pl> ;
+	dbp:imageSize	200 ;
+	dbp:birthPlace	"Milan, Italy"^^xsd:string ;
+	dbp:deathDate	"1982-06-13"^^xsd:date ;
+	dbp:before	dbr:Gilles_Villeneuve ;
+	dbp:deathPlace	"Montreal, Quebec, Canada"^^xsd:string ;
+	dbo:abstract	"\u30EA\u30AB\u30EB\u30C9\u30FB\u30D1\u30EC\u30C3\u30C6\u30A3\uFF08Riccardo Paletti, 1958\u5E746\u670815\u65E5 - 1982\u5E746\u670813\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Riccardo Paletti (* 15. Juni 1958 in Mailand; \u2020 13. Juni 1982 in Montreal, Kanada) war ein italienischer Rennfahrer."@de ,
+		"Riccardo Paletti (Mil\u00E3o, 15 de junho de 1958 \u2013 Montreal, 13 de junho de 1982) foi um piloto italiano de automobilismo. Sua carreira na F\u00F3rmula 1 encontra-se entre as mais curtas da hist\u00F3ria, pois faleceu na largada da sua segunda corrida de F\u00F3rmula 1. Era a sua primeira corrida com o grid completo."@pt ,
+		"Riccardo Paletti Riccardo Paletti (n\u00E9 le 15 juin 1958 \u00E0 Milan, Italie - mort le 13 juin 1982 \u00E0 Montr\u00E9al, Canada dans un accident survenu au d\u00E9part du GP du Canada) est un pilote automobile italien."@fr ,
+		"Ricardo Paletti (ur. 15 czerwca 1958 w Mediolanie, zm. 13 czerwca 1982 w Montrealu) \u2013 w\u0142oski kierowca wy\u015Bcigowy Formu\u0142y 1. Paletti do\u0142\u0105czy\u0142 do zespo\u0142u Osella w 1982 roku. Zadebiutowa\u0142 podczas Grand Prix RPA na torze Kyalami, jednak do samego wy\u015Bcigu si\u0119 nie zakwalifikowa\u0142. Wystartowa\u0142 w Grand Prix San Marino oraz Kanady. \u017Badnego z nich nie uko\u0144czy\u0142."@pl ,
+		"Riccardo Paletti (Milaan, 15 juni 1958 \u2013 Montreal, 13 juni 1982) was een Italiaans Formule 1-coureur. Na zich vijf keer niet te hebben kunnen kwalificeren met zijn Osella, lukte het dan toch voor de eerste keer op 13 juni 1982 voor de Grand Prix Formule 1 van Canada in Montreal. Maar bij de start ging het al direct helemaal mis. Didier Pironi stond op poleposition, maar liet bij de start de motor van zijn Ferrari afslaan. Dat soort dingen gebeurt wel vaker, vooral in het turbotijdperk. Hoewel het meestal goed afliep, zou Paletti, die startte vanaf de laatste startrij, van daaraf onmogelijk zien wat er voor hem gebeurde en botste met zo'n 180 km/u boven op de stilstaande Ferrari. Hoewel men Paletti nog probeerde te redden, was het ondanks de professionaliteit te laat. De auto stond nog kortstondig in brand, al had Paletti geen brandwonden. Hij was de tweede dode in het seizoen 1982: Gilles Villeneuve stierf kort daarvoor in Zolder. In Varano, in de Italiaanse provincie Parma, is een racecircuit naar Paletti vernoemd."@nl ,
+		"Riccardo Paletti (15 June 1958 \u2013 13 June 1982) was an Italian motor racing driver. Paletti was killed when he crashed on the start grid in his second Formula One start."@en ,
+		"\u0420\u0438\u043A\u043A\u0430\u0301\u0440\u0434\u043E \u041F\u0430\u043B\u0435\u0301\u0442\u0442\u0438 (\u0438\u0442\u0430\u043B. Riccardo Paletti, 15 \u0438\u044E\u043D\u044F 1958, \u041C\u0438\u043B\u0430\u043D, \u0418\u0442\u0430\u043B\u0438\u044F \u2014 13 \u0438\u044E\u043D\u044F 1982, \u041C\u043E\u043D\u0440\u0435\u0430\u043B\u044C, \u041A\u0430\u043D\u0430\u0434\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0415\u0433\u043E \u043A\u0430\u0440\u044C\u0435\u0440\u0430 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435 1 \u0431\u044B\u043B\u0430 \u043E\u0447\u0435\u043D\u044C \u043A\u043E\u0440\u043E\u0442\u043A\u043E\u0439, \u0442\u0430\u043A \u043A\u0430\u043A \u043E\u043D \u0442\u0440\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u0438 \u043F\u043E\u0433\u0438\u0431 \u0432 \u0430\u0432\u0430\u0440\u0438\u0438 \u043F\u0440\u0438 \u0441\u0432\u043E\u0435\u043C \u0432\u0442\u043E\u0440\u043E\u043C \u0441\u0442\u0430\u0440\u0442\u0435 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445."@ru ,
+		"Riccardo Paletti (*15 de junio de 1958 - 13 de junio de 1982), fue un piloto italiano de los a\u00F1os 80 que particip\u00F3 8 grandes premios de F\u00F3rmula 1, clasificando en 3 de ellos, con el equipo Osella, al cual se uni\u00F3 como segundo conductor aportando sus propios fondos tras sus \u00E9xitos en categor\u00EDas inferiores."@es ;
+	dbo:birthDate	"1958-6-15"^^xsd:date ;
+	dbo:deathDate	"1982-6-13"^^xsd:date ;
+	dbo:deathPlace	dbr:Montreal ;
+	dbo:wikiPageRevisionID	709353854 ;
+	dbo:birthPlace	dbr:Milan ;
+	dbo:wikiPageID	857026 ;
+	dbo:nationality	dbr:Italy ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1982_South_African_Grand_Prix> ;
+	dbo:races	"8"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1982_Canadian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Riccardo_Paletti	ns26:hypernym	dbr:Motor ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents .
+dbr:Elio_de_Angelis	dbp:before	dbr:Riccardo_Paletti .
+dbr:Ricardo_Paletti	dbo:wikiPageRedirects	dbr:Riccardo_Paletti .

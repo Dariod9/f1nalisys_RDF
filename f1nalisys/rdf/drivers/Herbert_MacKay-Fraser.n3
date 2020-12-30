@@ -1,0 +1,124 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Herbert_MacKay-Fraser	foaf:primaryTopic	dbr:Herbert_MacKay-Fraser .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Herbert_MacKay-Fraser	rdf:type	yago:Operator110378412 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Herbert_MacKay-Fraser	rdf:type	dbo:RacingDriver ,
+		dbo:Person ,
+		dbo:Agent ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:Driver110034906 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Herbert_MacKay-Fraser	rdf:type	wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Herbert_MacKay-Fraser	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Herbert_MacKay-Fraser	rdf:type	owl:Thing ,
+		wikidata:Q215627 ,
+		wikidata:Q5 ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Herbert_MacKay-Fraser	rdf:type	umbel-rc:RaceCarDriver ,
+		foaf:Person ,
+		dbo:MotorsportRacer .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Herbert_MacKay-Fraser	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Herbert_MacKay-Fraser	rdfs:label	"Herbert MacKay-Fraser"@nl ,
+		"Herbert MacKay-Fraser"@pt ,
+		"Herbert MacKay-Fraser"@fr ,
+		"Herbert MacKay-Fraser"@pl ,
+		"Herbert MacKay-Fraser"@it ,
+		"Herbert MacKay-Fraser"@en ,
+		"Herbert MacKay-Fraser"@de ;
+	rdfs:comment	"Herbert MacKay-Fraser, n\u00E9 le 23 juin 1927 \u00E0 Recife et mort le 14 juillet 1957 sur le circuit de Reims-Gueux, est un pilote automobile am\u00E9ricain."@fr ,
+		"Herbert MacKay-Fraser (* 23. Juni 1927 in der Provinz Pernambuco, Brasilien nach anderen Angaben in Connecticut; \u2020 14. Juli 1957 in Reims, Frankreich) war ein US-amerikanischer Rennfahrer."@de ,
+		"Herbert MacKay-Fraser (June 23, 1927 \u2013 July 14, 1957) was a racing driver from the United States, born in Pernambuco, Brazil. He participated in one Formula One World Championship grand prix, the 1957 French Grand Prix, on July 7, 1957. He retired from the race and scored no championship points. A week later he was killed in the Coupe de Vitesse at Reims-Gueux, when he crashed his Lotus."@en ,
+		"In Formula 1 partecip\u00F2 al solo Gran Premio di Francia 1957 a bordo di una BRM. La settimana seguente mor\u00EC in un incidente a bordo di una Lotus sul Circuito di Reims durante la Coupe de Vitesse."@it ,
+		"Herbert MacKay-Fraser (Pernambuco, Brazili\u00EB, 23 juni 1927 - Reims-Gueux, 14 juli 1957) was een Formule 1-coureur uit de Verenigde Staten. Hij nam deel aan de Grand Prix van Frankrijk in 1957 voor het team BRM, maar scoorde geen punten. Een week later verongelukte hij in de Coupe de Vitesse waar hij crashte in zijn Lotus."@nl ,
+		"Herbert MacKay-Fraser (ur. 23 czerwca 1927 roku w Pernambuco, zm. 14 lipca 1957 w Reims) \u2013 ameryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"Herbert MacKay-Fraser (Pernambuco, Brasil, 23 de junho de 1922 \u2014 Reims, 14 de julho de 1957) foi um automobilista norte-americano que participou do Grande Pr\u00EAmio da Fran\u00E7a de 1957. Faleceu v\u00EDtima de acidente enquanto disputava uma prova em Reims-Gueux."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Herbert_MacKay-Fraser	dbp:birthDate	"1927-06-23"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Herbert_MacKay-Fraser	owl:sameAs	dbpedia-it:Herbert_MacKay-Fraser ,
+		<http://rdf.freebase.com/ns/m.04kqkc> ,
+		dbr:Herbert_MacKay-Fraser .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Herbert_MacKay-Fraser	owl:sameAs	dbpedia-pt:Herbert_MacKay-Fraser .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Herbert_MacKay-Fraser	owl:sameAs	dbpedia-wikidata:Q172434 ,
+		wikidata:Q172434 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Herbert_MacKay-Fraser	owl:sameAs	dbpedia-de:Herbert_MacKay-Fraser .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Herbert_MacKay-Fraser	owl:sameAs	dbpedia-nl:Herbert_MacKay-Fraser .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Herbert_MacKay-Fraser	owl:sameAs	dbpedia-pl:Herbert_MacKay-Fraser .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Herbert_MacKay-Fraser	owl:sameAs	yago-res:Herbert_MacKay-Fraser .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Herbert_MacKay-Fraser	owl:sameAs	dbpedia-fr:Herbert_MacKay-Fraser .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Herbert_MacKay-Fraser	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Herbert_MacKay-Fraser	dct:subject	dbc:BRM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1927_births> ,
+		dbc:American_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		<http://dbpedia.org/resource/Category:1957_deaths> ,
+		dbc:Sport_deaths_in_France ,
+		dbc:People_from_Pernambuco ;
+	foaf:name	"Herbert MacKay-Fraser"@en ;
+	dct:description	"American racecar driver"@en ;
+	foaf:givenName	"Herbert"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Herbert_MacKay-Fraser ;
+	foaf:surname	"MacKay-Fraser"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:BRM .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Herbert_MacKay-Fraser	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Herbert_MacKay-Fraser?oldid=735009795> ;
+	dbp:nationality	"American"^^xsd:string ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Pernambuco,_Brazil> ;
+	dbp:deathDate	"1957-07-14"^^xsd:date ;
+	dbp:deathPlace	<http://dbpedia.org/resource/Reims,_France> ;
+	dbo:abstract	"In Formula 1 partecip\u00F2 al solo Gran Premio di Francia 1957 a bordo di una BRM. La settimana seguente mor\u00EC in un incidente a bordo di una Lotus sul Circuito di Reims durante la Coupe de Vitesse."@it ,
+		"Herbert MacKay-Fraser, n\u00E9 le 23 juin 1927 \u00E0 Recife et mort le 14 juillet 1957 sur le circuit de Reims-Gueux, est un pilote automobile am\u00E9ricain."@fr ,
+		"Herbert MacKay-Fraser (ur. 23 czerwca 1927 roku w Pernambuco, zm. 14 lipca 1957 w Reims) \u2013 ameryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"Herbert MacKay-Fraser (Pernambuco, Brazili\u00EB, 23 juni 1927 - Reims-Gueux, 14 juli 1957) was een Formule 1-coureur uit de Verenigde Staten. Hij nam deel aan de Grand Prix van Frankrijk in 1957 voor het team BRM, maar scoorde geen punten. Een week later verongelukte hij in de Coupe de Vitesse waar hij crashte in zijn Lotus."@nl ,
+		"Herbert MacKay-Fraser (June 23, 1927 \u2013 July 14, 1957) was a racing driver from the United States, born in Pernambuco, Brazil. He participated in one Formula One World Championship grand prix, the 1957 French Grand Prix, on July 7, 1957. He retired from the race and scored no championship points. A week later he was killed in the Coupe de Vitesse at Reims-Gueux, when he crashed his Lotus."@en ,
+		"Herbert MacKay-Fraser (* 23. Juni 1927 in der Provinz Pernambuco, Brasilien nach anderen Angaben in Connecticut; \u2020 14. Juli 1957 in Reims, Frankreich) war ein US-amerikanischer Rennfahrer."@de ,
+		"Herbert MacKay-Fraser (Pernambuco, Brasil, 23 de junho de 1922 \u2014 Reims, 14 de julho de 1957) foi um automobilista norte-americano que participou do Grande Pr\u00EAmio da Fran\u00E7a de 1957. Faleceu v\u00EDtima de acidente enquanto disputava uma prova em Reims-Gueux."@pt ;
+	dbo:birthDate	"1927-6-23"^^xsd:date ;
+	dbo:deathDate	"1957-7-14"^^xsd:date ;
+	dbo:deathPlace	dbr:Reims ;
+	dbo:wikiPageRevisionID	735009795 ;
+	dbo:birthPlace	dbr:Pernambuco ;
+	dbo:wikiPageID	1233845 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1957_French_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1957_French_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Herbert_MacKay-Fraser	ns25:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__19__1>	dbo:firstDriver	dbr:Herbert_MacKay-Fraser .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__\u00279__1>	dbo:firstDriver	dbr:Herbert_MacKay-Fraser .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__DNS__3>	dbo:firstDriver	dbr:Herbert_MacKay-Fraser .

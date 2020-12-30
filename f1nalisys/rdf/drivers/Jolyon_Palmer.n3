@@ -1,0 +1,173 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2012_Silverstone_GP2_and_GP3_Series_rounds>	dbp:thirdDriverR	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2014_Monaco_GP2_Series_round>	dbp:fastDriverR	dbr:Jolyon_Palmer ;
+	dbp:firstDriverR	dbr:Jolyon_Palmer ;
+	dbp:poleDriver	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2012_Bahrain_GP2_Series_rounds>	dbp:fastDriverR	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2011_GP2_Final>	dbp:thirdDriverR	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2014_Bahrain_GP2_Series_round>	dbp:firstDriverR	dbr:Jolyon_Palmer ;
+	dbp:thirdDriverR	dbr:Jolyon_Palmer ;
+	dbp:poleDriver	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2014_Hungaroring_GP2_and_GP3_Series_rounds>	dbp:secondDriverR	dbr:Jolyon_Palmer .
+dbr:Stoffel_Vandoorne	dbp:before	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2014_Spa-Francorchamps_GP2_and_GP3_Series_rounds>	dbp:thirdDriverR	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2010_Zolder_Formula_Two_round>	dbp:secondDriverR	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2014_Hockenheimring_GP2_and_GP3_Series_rounds>	dbp:fastDriverR	dbr:Jolyon_Palmer ;
+	dbp:thirdDriverR	dbr:Jolyon_Palmer ;
+	dbp:poleDriver	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2010_Oschersleben_Formula_Two_round>	dbp:thirdDriverR	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2010_Monza_Formula_Two_round>	dbp:firstDriverR	dbr:Jolyon_Palmer ;
+	dbp:poleDriverR	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2012_Monza_GP2_and_GP3_Series_rounds>	dbp:thirdDriverR	dbr:Jolyon_Palmer .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jolyon_Palmer	foaf:primaryTopic	dbr:Jolyon_Palmer .
+dbr:DAMS	dbp:driverTitles	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2010_Silverstone_Formula_Two_round>	dbp:fastDriverR	dbr:Jolyon_Palmer ;
+	dbp:firstDriverR	dbr:Jolyon_Palmer ;
+	dbp:secondDriverR	dbr:Jolyon_Palmer ;
+	dbp:poleDriverR	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2010_Brno_Formula_Two_round>	dbp:fastDriverR	dbr:Jolyon_Palmer ;
+	dbp:firstDriverR	dbr:Jolyon_Palmer .
+dbr:Fabio_Leimer	dbp:after	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2012_Monaco_GP2_and_GP3_Series_rounds>	dbp:firstDriverR	dbr:Jolyon_Palmer .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jolyon_Palmer	rdf:type	yago:Driver110034906 ,
+		yago:PhysicalEntity100001930 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Jolyon_Palmer	rdf:type	dbo:RacingDriver ,
+		yago:WikicatFormulaPalmerAudiDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jolyon_Palmer	rdf:type	owl:Thing ,
+		dbo:MotorsportRacer ,
+		yago:Operator110378412 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jolyon_Palmer	rdf:type	ns8:NaturalPerson ,
+		yago:WikicatGP2SeriesDrivers ,
+		yago:WikicatGP2AsiaSeriesDrivers ,
+		ns8:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jolyon_Palmer	rdf:type	wikidata:Q378622 ,
+		foaf:Person ,
+		dbo:FormulaOneRacer ,
+		dbo:Athlete ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:WikicatFIAFormulaTwoChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Jolyon_Palmer	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		dbo:Agent ,
+		dbo:Person ,
+		yago:CausalAgent100007347 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jolyon_Palmer	rdfs:label	"Jolyon Palmer"@en ,
+		"Jolyon Palmer"@fr ,
+		"Jolyon Palmer"@pt ,
+		"Jolyon Palmer"@de ,
+		"\u30B8\u30E7\u30EA\u30AA\u30F3\u30FB\u30D1\u30FC\u30DE\u30FC"@ja ,
+		"Jolyon Palmer"@es ,
+		"\u041F\u0430\u043B\u043C\u0435\u0440, \u0414\u0436\u043E\u043B\u0438\u043E\u043D"@ru ,
+		"Jolyon Palmer"@it ,
+		"Jolyon Palmer"@pl ,
+		"Jolyon Palmer"@nl ,
+		"\u55AC\u91CC\u6602\u00B7\u5E15\u723E\u9ED8"@zh ;
+	rdfs:comment	"Jolyon Carlyle Palmer (born 20 January 1991 in Horsham) is a British racing driver and the 2014 GP2 Series champion. Palmer is the son of former F1 driver and major UK race circuit owner Jonathan Palmer. Jolyon was educated at Cranleigh School and the University of Nottingham. He drove for the Lotus Formula One team as a test driver in 2015, and replaced Romain Grosjean as the full-time driver in 2016. Following a launch in Paris on 3 February 2016, Palmer was officially unveiled as one of the main race drivers alongside Kevin Magnussen at the Renault Sport F1 Team."@en ,
+		"Jolyon PalmerFichier:Jolyon Palmer 2016 Malaysia.jpg Jolyon Palmer en 2016 Jolyon Palmer, n\u00E9 le 20 juillet 1991, est un pilote automobile britannique. Il est le fils de Jonathan Palmer. Il fait ses d\u00E9buts en Formule 1 en 2016 au sein de l'\u00E9curie Renault F1 Team."@fr ,
+		"Jolyon Palmer (Horsham, 20 de janeiro de 1991) \u00E9 um piloto brit\u00E2nico de automobilismo, correndo atualmente na F1 pela Renault F1 Team. \u00C9 filho do ex-piloto brit\u00E2nico Jonathan Palmer."@pt ,
+		"\u55AC\u91CC\u6602\u00B7\u51F1\u96F7\u00B7\u5E15\u723E\u9ED8\uFF08\u82F1\u8BED\uFF1AJolyon Carlyle Palmer\uFF1B1991\u5E741\u670820\u65E5\uFF0D\uFF09\uFF0C\u82F1\u570B\u7684\u8CFD\u8ECA\u904B\u52D5\u54E1\u3002\u4ED6\u5C06\u4E8E2016\u8D5B\u5B63\u5F00\u59CB\u62C5\u4EFB\u8DEF\u7279\u65AF\u8F66\u961F\u7684\u6B63\u5F0F\u8F66\u624B\u4E4B\u4E00\uFF0C\u6B64\u524D\u66FE\u662F\u4E00\u4F4D\u8F66\u961F\u7684\u6E2C\u8A66\u8ECA\u624B\u3002\u4ED6\u662F2014\u5E74GP2\u7684\u51A0\u8ECD\u3002\u4ED6\u7562\u696D\u65BC\u8AFE\u6C40\u7F55\u5927\u5B78\u3002"@zh ,
+		"Jolyon Palmer (* 20. Januar 1991 in Horsham) ist ein britischer Automobilrennfahrer. Sein Vater ist der ehemalige Formel-1-Pilot Jonathan Palmer. Von 2011 bis 2014 startete er in der GP2-Serie, in der er 2014 die Meisterschaft gewann. 2016 f\u00E4hrt er f\u00FCr Renault in der Formel 1."@de ,
+		"Jolyon Palmer (Horsham, 20 januari 1991) is een Brits autocoureur en de zoon van voormalig Formule 1-coureur Jonathan Palmer. Hij won in 2014 de GP2 Series. Palmer werd in januari 2015 aangesteld als testrijder bij het Formule 1-team Lotus. In 2016 zal hij zijn Formule 1-racedebuut maken voor dit team, dat overgenomen werd door Renault."@nl ,
+		"Jolyon Palmer (nacido el 20 de enero 1991 en Horsham) es un piloto de automovilismo brit\u00E1nico, campe\u00F3n de la GP2 Series 2014. En 2016 dio el salto a la F1, siendo piloto oficial de Renault junto al Dan\u00E9s Kevin Magnussen."@es ,
+		"\u0414\u0436\u043E\u043B\u0438\u043E\u043D \u041F\u0430\u043B\u043C\u0435\u0440 (\u0430\u043D\u0433\u043B. Jolyon Palmer; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 20 \u044F\u043D\u0432\u0430\u0440\u044F 1991 \u0433\u043E\u0434\u0430 \u0432 \u0425\u043E\u0440\u0448\u0430\u043C\u0435\u0440\u0443\u0441\u0441\u043A., \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F) \u2014 \u043F\u043E\u0442\u043E\u043C\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A; \u0431\u043E\u0435\u0432\u043E\u0439 \u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Renault \u0432 2016 \u0433\u043E\u0434\u0443; \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 GP2 (2014); \u0432\u0438\u0446\u0435-\u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 FIA \u0424\u043E\u0440\u043C\u0443\u043B\u0430-2 (2010)."@ru ,
+		"\u30B8\u30E7\u30EA\u30AA\u30F3\u30FB\u30AB\u30FC\u30E9\u30A4\u30EB\u30FB\u30D1\u30FC\u30DE\u30FC\uFF08Jolyon Carlyle Palmer, 1991\u5E741\u670820\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u30FB\u30A6\u30A7\u30B9\u30C8\u30FB\u30B5\u30BB\u30C3\u30AF\u30B9\u5DDE\uFF08\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\uFF09\u30DB\u30FC\u30B7\u30E3\u30E0\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30022014\u5E74\u306EGP2\u30B7\u30EA\u30FC\u30BA\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308A\u3001\u7236\u306F\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30B8\u30E7\u30CA\u30B5\u30F3\u30FB\u30D1\u30FC\u30DE\u30FC\u3002"@ja ,
+		"Jolyon Palmer (ur. 20 stycznia 1991 roku w Horsham) \u2013 brytyjski kierowca wy\u015Bcigowy. Syn by\u0142ego kierowcy Formu\u0142y 1 oraz wsp\u00F3\u0142organizatora Formu\u0142y 2 i Formu\u0142y Palmer Audi \u2013 Jonathana Palmera."@pl .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	dbpedia-wikidata:Q714365 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	dbpedia-id:Jolyon_Palmer ,
+		<http://el.dbpedia.org/resource/\u03A4\u03B6\u03CC\u03BB\u03C5\u03BF\u03BD_\u03A0\u03AC\u03BB\u03BC\u03B5\u03C1> ,
+		<http://rdf.freebase.com/ns/m.05bzmpn> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	dbpedia-nl:Jolyon_Palmer .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	dbpedia-pl:Jolyon_Palmer .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	dbpedia-de:Jolyon_Palmer .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	dbpedia-it:Jolyon_Palmer .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	yago-res:Jolyon_Palmer ,
+		dbr:Jolyon_Palmer ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E7\u30EA\u30AA\u30F3\u30FB\u30D1\u30FC\u30DE\u30FC> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	dbpedia-pt:Jolyon_Palmer .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	dbpedia-es:Jolyon_Palmer .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jolyon_Palmer	owl:sameAs	dbpedia-fr:Jolyon_Palmer ,
+		wikidata:Q714365 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jolyon_Palmer	dct:subject	dbc:FIA_Formula_Two_Championship_drivers ,
+		dbc:GP2_Series_drivers ,
+		dbc:GP2_Asia_Series_drivers ,
+		dbc:GP2_Series_Champions ,
+		dbc:Renault_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:People_from_Horsham ,
+		dbc:Formula_Palmer_Audi_drivers ,
+		<http://dbpedia.org/resource/Category:1991_births> ,
+		dbc:Living_people ;
+	foaf:name	"Jolyon Palmer"@en ;
+	foaf:homepage	<http://www.jolyonpalmer.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Palmer_April_2016.jpg> ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Jolyon"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jolyon_Palmer ;
+	foaf:surname	"Palmer"@en ;
+	dbp:title	dbr:GP2_Series ,
+		"Champion"^^xsd:string ;
+	dbp:years	2014 ;
+	<http://dbpedia.org/property/2016Team>	dbr:Renault_in_Formula_One .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jolyon_Palmer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jolyon_Palmer?oldid=743732740> ;
+	dbp:before	dbr:Fabio_Leimer ;
+	dbp:after	dbr:Stoffel_Vandoorne ;
+	dbp:birthPlace	"Horsham, United Kingdom"^^xsd:string ;
+	<http://dbpedia.org/property/2016CarNumber>	30 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jolyon_Palmer	dbp:birthDate	"1991-01-20"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.jolyonpalmer.com> ;
+	dbp:caption	"Palmer in 2016"^^xsd:string ;
+	dbo:abstract	"Jolyon Palmer (* 20. Januar 1991 in Horsham) ist ein britischer Automobilrennfahrer. Sein Vater ist der ehemalige Formel-1-Pilot Jonathan Palmer. Von 2011 bis 2014 startete er in der GP2-Serie, in der er 2014 die Meisterschaft gewann. 2016 f\u00E4hrt er f\u00FCr Renault in der Formel 1."@de ,
+		"Jolyon PalmerFichier:Jolyon Palmer 2016 Malaysia.jpg Jolyon Palmer en 2016 Jolyon Palmer, n\u00E9 le 20 juillet 1991, est un pilote automobile britannique. Il est le fils de Jonathan Palmer. Il fait ses d\u00E9buts en Formule 1 en 2016 au sein de l'\u00E9curie Renault F1 Team."@fr ,
+		"\u0414\u0436\u043E\u043B\u0438\u043E\u043D \u041F\u0430\u043B\u043C\u0435\u0440 (\u0430\u043D\u0433\u043B. Jolyon Palmer; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 20 \u044F\u043D\u0432\u0430\u0440\u044F 1991 \u0433\u043E\u0434\u0430 \u0432 \u0425\u043E\u0440\u0448\u0430\u043C\u0435\u0440\u0443\u0441\u0441\u043A., \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F) \u2014 \u043F\u043E\u0442\u043E\u043C\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A; \u0431\u043E\u0435\u0432\u043E\u0439 \u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Renault \u0432 2016 \u0433\u043E\u0434\u0443; \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 GP2 (2014); \u0432\u0438\u0446\u0435-\u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0441\u0435\u0440\u0438\u0438 FIA \u0424\u043E\u0440\u043C\u0443\u043B\u0430-2 (2010)."@ru ,
+		"\u55AC\u91CC\u6602\u00B7\u51F1\u96F7\u00B7\u5E15\u723E\u9ED8\uFF08\u82F1\u8BED\uFF1AJolyon Carlyle Palmer\uFF1B1991\u5E741\u670820\u65E5\uFF0D\uFF09\uFF0C\u82F1\u570B\u7684\u8CFD\u8ECA\u904B\u52D5\u54E1\u3002\u4ED6\u5C06\u4E8E2016\u8D5B\u5B63\u5F00\u59CB\u62C5\u4EFB\u8DEF\u7279\u65AF\u8F66\u961F\u7684\u6B63\u5F0F\u8F66\u624B\u4E4B\u4E00\uFF0C\u6B64\u524D\u66FE\u662F\u4E00\u4F4D\u8F66\u961F\u7684\u6E2C\u8A66\u8ECA\u624B\u3002\u4ED6\u662F2014\u5E74GP2\u7684\u51A0\u8ECD\u3002\u4ED6\u7562\u696D\u65BC\u8AFE\u6C40\u7F55\u5927\u5B78\u3002"@zh ,
+		"Jolyon Palmer (ur. 20 stycznia 1991 roku w Horsham) \u2013 brytyjski kierowca wy\u015Bcigowy. Syn by\u0142ego kierowcy Formu\u0142y 1 oraz wsp\u00F3\u0142organizatora Formu\u0142y 2 i Formu\u0142y Palmer Audi \u2013 Jonathana Palmera."@pl ,
+		"Jolyon Palmer (nacido el 20 de enero 1991 en Horsham) es un piloto de automovilismo brit\u00E1nico, campe\u00F3n de la GP2 Series 2014. En 2016 dio el salto a la F1, siendo piloto oficial de Renault junto al Dan\u00E9s Kevin Magnussen."@es ,
+		"\u30B8\u30E7\u30EA\u30AA\u30F3\u30FB\u30AB\u30FC\u30E9\u30A4\u30EB\u30FB\u30D1\u30FC\u30DE\u30FC\uFF08Jolyon Carlyle Palmer, 1991\u5E741\u670820\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u30FB\u30A6\u30A7\u30B9\u30C8\u30FB\u30B5\u30BB\u30C3\u30AF\u30B9\u5DDE\uFF08\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\uFF09\u30DB\u30FC\u30B7\u30E3\u30E0\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30022014\u5E74\u306EGP2\u30B7\u30EA\u30FC\u30BA\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308A\u3001\u7236\u306F\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u306E\u30B8\u30E7\u30CA\u30B5\u30F3\u30FB\u30D1\u30FC\u30DE\u30FC\u3002"@ja ,
+		"Jolyon Palmer (Horsham, 20 januari 1991) is een Brits autocoureur en de zoon van voormalig Formule 1-coureur Jonathan Palmer. Hij won in 2014 de GP2 Series. Palmer werd in januari 2015 aangesteld als testrijder bij het Formule 1-team Lotus. In 2016 zal hij zijn Formule 1-racedebuut maken voor dit team, dat overgenomen werd door Renault."@nl ,
+		"Jolyon Palmer (Horsham, 20 de janeiro de 1991) \u00E9 um piloto brit\u00E2nico de automobilismo, correndo atualmente na F1 pela Renault F1 Team. \u00C9 filho do ex-piloto brit\u00E2nico Jonathan Palmer."@pt ,
+		"Jolyon Carlyle Palmer (born 20 January 1991 in Horsham) is a British racing driver and the 2014 GP2 Series champion. Palmer is the son of former F1 driver and major UK race circuit owner Jonathan Palmer. Jolyon was educated at Cranleigh School and the University of Nottingham. He drove for the Lotus Formula One team as a test driver in 2015, and replaced Romain Grosjean as the full-time driver in 2016. Following a launch in Paris on 3 February 2016, Palmer was officially unveiled as one of the main race drivers alongside Kevin Magnussen at the Renault Sport F1 Team."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Palmer_April_2016.jpg?width=300> ;
+	dbo:birthDate	"1991-1-20"^^xsd:date ;
+	dbo:wikiPageRevisionID	743732740 ;
+	dbo:birthPlace	dbr:Horsham ;
+	dbo:wikiPageID	21116204 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Jolyon_Palmer	ns26:hypernym	dbr:Driver ;
+	dbo:firstRace	<http://dbpedia.org/resource/2016_Australian_Grand_Prix> ;
+	dbp:nationality	"British"^^xsd:string .
+<http://dbpedia.org/resource/2014_Catalunya_GP2_and_GP3_Series_rounds>	dbp:secondDriverR	dbr:Jolyon_Palmer .
+dbr:Will_Palmer	dbp:relatedTo	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2014_Silverstone_GP2_and_GP3_Series_rounds>	dbp:secondDriverR	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2010_Algarve_Formula_Two_round>	dbp:fastDriverR	dbr:Jolyon_Palmer ;
+	dbp:firstDriverR	dbr:Jolyon_Palmer ;
+	dbp:secondDriverR	dbr:Jolyon_Palmer ;
+	dbp:poleDriverR	dbr:Jolyon_Palmer .
+dbr:Jolyon	dbo:wikiPageDisambiguates	dbr:Jolyon_Palmer .
+<http://dbpedia.org/resource/2014_Sochi_GP2_and_GP3_Series_rounds>	dbp:firstDriverR	dbr:Jolyon_Palmer .

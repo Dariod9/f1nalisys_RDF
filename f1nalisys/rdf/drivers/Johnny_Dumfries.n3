@@ -1,0 +1,29 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Czechoslovakian_Grand_Prix	dbp:third	dbr:Johnny_Dumfries .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Johnny_Dumfries	rdfs:label	"Johnny Dumfries"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Johnny_Dumfries	owl:sameAs	dbr:Johnny_Dumfries .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Johnny_Dumfries	dct:subject	dbc:Scottish_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Scottish_Formula_One_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Johnny_Dumfries	foaf:isPrimaryTopicOf	wikipedia-en:Johnny_Dumfries .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Johnny_Dumfries	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Johnny_Dumfries?oldid=500013918> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Johnny_Dumfries	dbo:wikiPageRevisionID	500013918 ;
+	dbo:wikiPageID	1235918 ;
+	dbo:wikiPageRedirects	<http://dbpedia.org/resource/John_Crichton-Stuart,_7th_Marquess_of_Bute> .
+wikipedia-en:Johnny_Dumfries	foaf:primaryTopic	dbr:Johnny_Dumfries .
+<http://dbpedia.org/resource/1985_Macau_Grand_Prix__David_Price_Racing__3>	dbo:firstDriver	dbr:Johnny_Dumfries .
+@prefix ns10:	<http://dbpedia.org/resource/1986_Macau_Grand_Prix__David_Price_Racing_w/> .
+ns10:_Theodore_Racing__2	dbo:firstDriver	dbr:Johnny_Dumfries .
+<http://dbpedia.org/resource/1987_Macau_Grand_Prix__Volkswagen_Motorsport__1>	dbo:firstDriver	dbr:Johnny_Dumfries .
+<http://dbpedia.org/resource/1984_Macau_Grand_Prix__Team_JPS__3>	dbo:firstDriver	dbr:Johnny_Dumfries .

@@ -1,0 +1,207 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2014_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2016_Hungarian_Grand_Prix>	dbo:thirdDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2015_Hungarian_Grand_Prix>	dbo:fastestDriver	dbr:Daniel_Ricciardo ;
+	dbo:thirdDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2015_Singapore_Grand_Prix>	dbo:fastestDriver	dbr:Daniel_Ricciardo ;
+	dbo:secondDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2015_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2009_British_Formula_Three_Championship__Carlin_Motorsport__3>	dbo:firstDriver	dbr:Daniel_Ricciardo .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Jean-\u00C9ric_Vergne>	dbp:before	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/Top_Gear_(series_22)>	dbp:aux	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2014_British_Grand_Prix>	dbo:thirdDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2016_Malaysian_Grand_Prix>	dbo:firstDriver	dbr:Daniel_Ricciardo .
+dbr:Dan_Ricciardo	dbo:wikiPageRedirects	dbr:Daniel_Ricciardo .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Daniel_Ricciardo	foaf:primaryTopic	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2014_Hungarian_Grand_Prix>	dbo:firstDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2016_Singapore_Grand_Prix>	dbo:fastestDriver	dbr:Daniel_Ricciardo ;
+	dbo:secondDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2014_Canadian_Grand_Prix>	dbo:firstDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2014_Abu_Dhabi_Grand_Prix>	dbo:fastestDriver	dbr:Daniel_Ricciardo .
+dbr:Mercedes-Benz_in_Formula_One	dbp:before	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2016_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Daniel_Ricciardo .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Daniel_Ricciardo	rdf:type	yago:WikicatRedBullFormulaOneDrivers .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Daniel_Ricciardo	rdf:type	ns7:Agent ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault2.0WECDrivers> ,
+		yago:WikicatFormulaBMWAsiaDrivers ,
+		yago:WikicatRacingDriversFromWesternAustralia ,
+		dbo:MotorsportRacer ,
+		yago:WikicatHRTFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Daniel_Ricciardo	rdf:type	wikidata:Q5 ,
+		yago:WikicatFormulaBMWUKDrivers ,
+		foaf:Person ,
+		wikidata:Q378622 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatFormulaRenaultDrivers ,
+		yago:WikicatFormula3EuroSeriesDrivers ,
+		dbo:FormulaOneRacer ,
+		<http://dbpedia.org/class/yago/WikicatFormulaRenault3.5SeriesDrivers> ,
+		dbo:Agent ,
+		<http://dbpedia.org/class/yago/WikicatEurocupFormulaRenault2.0Drivers> ,
+		<http://dbpedia.org/class/yago/WikicatItalianFormulaRenault2.0Drivers> ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		wikidata:Q24229398 ,
+		yago:WikicatAustralianFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Daniel_Ricciardo	rdf:type	owl:Thing ,
+		yago:CausalAgent100007347 ,
+		dbo:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Daniel_Ricciardo	rdf:type	schema:Person ,
+		yago:WikicatFormulaFordDrivers ,
+		dbo:Athlete ,
+		ns7:NaturalPerson ,
+		yago:WikicatToroRossoFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Daniel_Ricciardo	rdfs:label	"Daniel Ricciardo"@en ,
+		"\u0420\u0438\u043A\u043A\u0430\u0440\u0434\u043E, \u0414\u0430\u043D\u0438\u044D\u043B\u044C"@ru ,
+		"Daniel Ricciardo"@de ,
+		"\u062F\u0627\u0646\u064A\u0644 \u0631\u064A\u0643\u0627\u0631\u062F\u0648"@ar ,
+		"\u4E39\u5C3C\u5C14\u00B7\u91CC\u5947\u4E9A\u591A"@zh ,
+		"Daniel Ricciardo"@nl ,
+		"Daniel Ricciardo"@it ,
+		"Daniel Ricciardo"@fr ,
+		"Daniel Ricciardo"@pt ,
+		"Daniel Ricciardo"@es ,
+		"\u30C0\u30CB\u30A8\u30EB\u30FB\u30EA\u30C1\u30E3\u30EB\u30C9"@ja ,
+		"Daniel Ricciardo"@pl ;
+	rdfs:comment	"Daniel Ricciardo (Perth, 1 de julho de 1989) \u00E9 um piloto de autom\u00F3veis australiano que atua na F\u00F3rmula 1 pela equipe Red Bull Racing. Ele venceu o Campeonato Brit\u00E2nico de F\u00F3rmula 3 em 2009. Depois de Mark Webber anunciar sua aposentadoria da F\u00F3rmula 1, Ricciardo foi confirmado como seu substituto na Red Bull Racing para 2014."@pt ,
+		"Daniel Ricciardo (* 1. Juli 1989 in Perth) ist ein australischer Automobilrennfahrer. Er wurde 2009 britischer Formel-3-Meister. Er war 2010 und 2011 in der Formel Renault 3.5 aktiv und erreichte dort 2010 den zweiten Gesamtrang. Seit 2011 startet er in der Formel 1. Er tritt seit 2014 f\u00FCr Red Bull an."@de ,
+		"Cresciuto sportivamente nel vivaio del Red Bull Junior Team, \u00E8 stato campione della Formula Renault WEC nel 2008 e della F3 inglese con la Carlin nel 2009; primo pilota dell'Australia Occidentale a gareggiare in Formula 1, \u00E8 attivo nella massima serie automobilistica dal 2011. Ha origini italiane, in quanto il padre Joe \u00E8 nato a Ficarra, in provincia di Messina e si \u00E8 trasferito in Australia all'et\u00E0 di sette anni, mentre la famiglia della madre Grace \u00E8 di origini calabresi. Il suo numero di gara \u00E8 il 3."@it ,
+		"\u062F\u0627\u0646\u064A\u0644 \u0631\u064A\u0643\u0627\u0631\u062F\u0648 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: daniel riccardo) (\u0645\u0648\u0627\u0644\u064A\u062F 1 \u062A\u0645\u0648\u0632 1989) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0627\u0633\u062A\u0631\u0627\u0644\u064A \u0627\u0644\u062C\u0646\u0633\u064A\u0629\u060C \u0645\u064F\u0631\u062A\u0628\u0637 \u0645\u0639 \u0641\u0631\u064A\u0642 \u0631\u064A\u062F \u0628\u0648\u0644 \u062D\u0627\u0644\u064A\u0627\u064B."@ar ,
+		"Daniel Ricciardo (/r\u1D7B\u02C8k\u0251\u02D0rdo\u028A/ rih-CAR-doh; born 1 July 1989) is an Australian racing driver who is currently competing in Formula One for Red Bull Racing. He won the British Formula 3 Championship in 2009. After Mark Webber announced his retirement from Formula One, Ricciardo was confirmed as his replacement at Red Bull Racing for 2014. In his first season with Red Bull, Ricciardo finished third in the championship with his first three Formula One wins, in Canada, Hungary, and Belgium. Ricciardo returned to winning form after over a two year absence when he won the 2016 Malaysian Grand Prix."@en ,
+		"Daniel Ricciardo (Perth, Australia, 1 de julio de 1989) es un piloto australiano de automovilismo de velocidad. Gan\u00F3 la F\u00F3rmula 3 Brit\u00E1nica en el a\u00F1o 2009. En las temporadas de 2012 y 2013, fue el primer piloto de la escuder\u00EDa Toro Rosso de F\u00F3rmula 1. Desde la 2014 es titular en el equipo Red Bull junto a Sebastian Vettel. Red Bull ha confirmado que en 2015 ser\u00E1 el primer piloto, tras la marcha de Sebastian Vettel, y tendr\u00E1 como compa\u00F1ero a Daniil Kvyat, que en 2014 corri\u00F3 para Toro Rosso. Ha logrado cuatro victorias, una pole position y once podios en la F\u00F3rmula 1, y qued\u00F3 tercero en la temporada 2014, solo por detr\u00E1s de los Mercedes de Hamilton y Rosberg."@es ,
+		"\u30C0\u30CB\u30A8\u30EB\u30FB\u30EA\u30C1\u30E3\u30EB\u30C9\uFF08Daniel Ricciardo, 1989\u5E747\u67081\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u30FB\u897F\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u5DDE\u30D1\u30FC\u30B9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u300C\u30C0\u30CB\u30A8\u30EB\u30FB\u30EA\u30AB\u30EB\u30C9\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002\u5F7C\u306E\u4E21\u89AA\u306F\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u305F\u3081\u3001\u59D3\u3092\u30A4\u30BF\u30EA\u30A2\u8A9E\u8AAD\u307F\u306E\u30EA\u30C1\u30E3\u30EB\u30C9\u3068\u540D\u4E57\u3063\u3066\u3044\u308B\u304C\u3001\u672C\u4EBA\u306F\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u751F\u307E\u308C\u306E\u305F\u3081\u82F1\u8A9E\u98A8\u306B\u300C\u30EA\u30AB\u30FC\u30C9\u300D\u3068\u767A\u97F3\u3057\u3066\u3044\u308B\u3002\u3002"@ja ,
+		"Daniel Ricciardo (ur. 1 lipca 1989 w Perth) \u2013 australijski kierowca wy\u015Bcigowy zespo\u0142u Red Bull w Formule 1."@pl ,
+		"\u4E39\u5C3C\u723E\u00B7\u91CC\u5947\u5361\u591A\uFF08\u82F1\u8BED\uFF1ADaniel Ricciardo\uFF0Crih-CAR-doh\uFF0C\u751F\u4E8E\u6FB3\u5927\u5229\u4E9E\u897F\u6FB3\u5927\u5229\u4E9E\u5DDE\u73C0\u65AF\uFF0C1989\u5E747\u67081\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u6FB3\u5927\u5229\u4E9A\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u8F66\u624B\uFF0C\u76EE\u524D\u6548\u529B\u65BC\u7D05\u725B\u8ECA\u968A\u3002\u4ED6\u66FE\u83B7\u5F972009\u5E74\u8D5B\u5B63\u82F1\u570B\u4E09\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u7684\u51A0\u519B\u3002\u5728\u99AC\u514B\u00B7\u97CB\u4F2F\u5BA3\u5E03\u5F9E\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9000\u4F11\u5F8C\uFF0C\u91CC\u5361\u591A\u88AB\u78BA\u5B9A\u57282014\u5E74\u8CFD\u5B63\u53D6\u4EE3\u4ED6\u6210\u70BA\u7D05\u725B\u8ECA\u968A\u7684\u8ECA\u624B\u3002\u5728\u4ED6\u6548\u529B\u7D05\u725B\u7684\u9996\u500B\u8CFD\u5B63\uFF0C\u91CC\u5361\u591A\u85C9\u7531\u5728\u52A0\u62FF\u5927\u3001\u5308\u7259\u5229\u53CA\u6BD4\u5229\u6642\u7684\u4E09\u5834\u5206\u7AD9\u51A0\u8ECD\uFF0C\u5728\u8ECA\u624B\u7A4D\u5206\u699C\u4E0A\u53D6\u5F97\u7B2C\u4E09\u540D\u3002"@zh ,
+		"Daniel RicciardoFichier:2016209185746 2016-07-27 Champions for Charity - Sven - 1D X - 0219 - DV3P4812 mod.jpg Daniel Ricciardo en 2016. Daniel Ricciardo, n\u00E9 le 1er juillet 1989 \u00E0 Perth, Australie-Occidentale, est un pilote automobile australien. En 2008, il remporte la Formula Renault 2.0 West European Cup et termine vice-champion de la Eurocup Formula Renault 2.0, ce qui lui vaut d'int\u00E9grer le Red Bull Junior Team. L'ann\u00E9e suivante, champion de Grande-Bretagne de Formule 3, il est promu pilote d'essais des \u00E9curies Red Bull Racing et Scuderia Toro Rosso."@fr ,
+		"Daniel Ricciardo (Engels: /r\u1D7B\u02C8k\u0251\u02D0rdo\u028A/; Italiaans: /rit\u02C8t\u0283ardo/; Perth, West-Australi\u00EB, 1 juli 1989) is een Australisch coureur die onder contract staat bij het Formule 1-team Red Bull Racing. Ook was hij in 2011 actief in de Formule Renault 3.5 Series bij het team van Tech 1 Racing. Ricciardo is ook kampioen van het seizoen 2009 in het Britse Formule 3-kampioenschap."@nl ,
+		"\u0414\u0430\u043D\u0438\u044D\u043B\u044C \u0420\u0438\u043A\u043A\u0430\u0440\u0434\u043E (\u0430\u043D\u0433\u043B. Daniel Ricciardo, \u0440\u043E\u0434. 1 \u0438\u044E\u043B\u044F 1989 \u0433\u043E\u0434\u0430 \u0432 \u041F\u0435\u0440\u0442\u0435, \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0441 \u0441\u0435\u0437\u043E\u043D\u0430 2014 \u0433\u043E\u0434\u0430 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u00AB\u0420\u0435\u0434 \u0411\u0443\u043B\u043B\u00BB, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 2009 \u0433\u043E\u0434\u0430."@ru .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Daniel_Ricciardo	dbp:birthDate	"1989-07-01"^^xsd:date .
+@prefix ns13:	<http://www.bbc.co.uk/things/6a8198a3-5b08-467a-9c94-967f36901e6a#> .
+dbr:Daniel_Ricciardo	owl:sameAs	ns13:id .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	yago-res:Daniel_Ricciardo .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-cs:Daniel_Ricciardo .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-fr:Daniel_Ricciardo .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-de:Daniel_Ricciardo .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-pt:Daniel_Ricciardo ,
+		<http://el.dbpedia.org/resource/\u039D\u03C4\u03AC\u03BD\u03B9\u03B5\u03BB_\u03A1\u03B9\u03BA\u03B9\u03AC\u03C1\u03BD\u03C4\u03BF> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-wikidata:Q82816 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-pl:Daniel_Ricciardo ,
+		<http://ja.dbpedia.org/resource/\u30C0\u30CB\u30A8\u30EB\u30FB\u30EA\u30C1\u30E3\u30EB\u30C9> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-id:Daniel_Ricciardo ,
+		<http://rdf.freebase.com/ns/m.04f3fd8> ,
+		wikidata:Q82816 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-es:Daniel_Ricciardo .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-it:Daniel_Ricciardo ,
+		dbr:Daniel_Ricciardo .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Daniel_Ricciardo	owl:sameAs	dbpedia-nl:Daniel_Ricciardo .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Daniel_Ricciardo	dct:subject	dbc:Australian_people_of_Sicilian_descent ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Perth,_Western_Australia> ,
+		dbc:People_of_Calabrian_descent ,
+		<http://dbpedia.org/resource/Category:1989_births> ,
+		dbc:Australian_people_of_Italian_descent ,
+		dbc:Formula_3_Euro_Series_drivers ,
+		dbc:Living_people ,
+		dbc:Toro_Rosso_Formula_One_drivers ,
+		dbc:Australian_expatriate_sportspeople_in_the_United_Kingdom ,
+		dbc:Australian_expatriates_in_Monaco ,
+		dbc:Racing_drivers_from_Western_Australia ,
+		dbc:Formula_BMW_Asia_drivers ,
+		dbc:Formula_BMW_UK_drivers ,
+		dbc:HRT_Formula_One_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_3.5_V8_drivers> ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:Italian_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:Formula_Renault_2.0_WEC_drivers> ,
+		dbc:Australian_racing_drivers ,
+		dbc:Laureus_World_Sports_Awards_winners ,
+		dbc:Red_Bull_Formula_One_drivers ,
+		dbc:Australian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:People_educated_at_Newman_College,_Perth> ,
+		dbc:Formula_Ford_drivers ;
+	foaf:name	"Daniel Ricciardo"@en ;
+	foaf:homepage	<http://www.danielricciardo.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Ricciardo_2016_Malaysia.jpg> ;
+	dct:description	"Australian racing driver"@en ;
+	foaf:givenName	"Daniel"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Daniel_Ricciardo ;
+	foaf:surname	"Ricciardo"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Daniel_Ricciardo	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Daniel_Ricciardo?oldid=744592270> ;
+	dbo:wikiPageExternalLink	<http://www.danielricciardo.com/> ,
+		<http://www.formula1.com/teams_and_drivers/drivers/857/> ,
+		<http://www.driverdb.com/drivers/daniel-ricciardo/> ;
+	dbp:imageSize	200 ;
+	dbp:caption	"Ricciardo at the 2016 Malaysian Grand Prix."^^xsd:string ;
+	dbp:nationality	"Australian"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/2014_Canadian_Grand_Prix> ;
+	dbo:lastPosition	"8"^^xsd:positiveInteger ;
+	dbo:lastWin	<http://dbpedia.org/resource/2016_Malaysian_Grand_Prix> ;
+	dbp:lastSeason	2015 ;
+	<http://dbpedia.org/property/2016Team>	dbr:TAG_Heuer ,
+		dbr:Red_Bull_Racing ;
+	dbp:carNumber	3 ;
+	dbp:birthPlace	"Perth, Western Australia, Australia"^^xsd:string ;
+	dbo:abstract	"\u0414\u0430\u043D\u0438\u044D\u043B\u044C \u0420\u0438\u043A\u043A\u0430\u0440\u0434\u043E (\u0430\u043D\u0433\u043B. Daniel Ricciardo, \u0440\u043E\u0434. 1 \u0438\u044E\u043B\u044F 1989 \u0433\u043E\u0434\u0430 \u0432 \u041F\u0435\u0440\u0442\u0435, \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0441 \u0441\u0435\u0437\u043E\u043D\u0430 2014 \u0433\u043E\u0434\u0430 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u00AB\u0420\u0435\u0434 \u0411\u0443\u043B\u043B\u00BB, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0411\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 2009 \u0433\u043E\u0434\u0430."@ru ,
+		"Daniel Ricciardo (ur. 1 lipca 1989 w Perth) \u2013 australijski kierowca wy\u015Bcigowy zespo\u0142u Red Bull w Formule 1."@pl ,
+		"Daniel RicciardoFichier:2016209185746 2016-07-27 Champions for Charity - Sven - 1D X - 0219 - DV3P4812 mod.jpg Daniel Ricciardo en 2016. Daniel Ricciardo, n\u00E9 le 1er juillet 1989 \u00E0 Perth, Australie-Occidentale, est un pilote automobile australien. En 2008, il remporte la Formula Renault 2.0 West European Cup et termine vice-champion de la Eurocup Formula Renault 2.0, ce qui lui vaut d'int\u00E9grer le Red Bull Junior Team. L'ann\u00E9e suivante, champion de Grande-Bretagne de Formule 3, il est promu pilote d'essais des \u00E9curies Red Bull Racing et Scuderia Toro Rosso. En 2010, il est vice-champion de Formula Renault 3.5 Series, \u00E0 deux points du Russe Mikhail Aleshin. La saison suivante, il quitte ce championnat en cours de saison, promu en Formule 1 au sein de l'\u00E9curie espagnole HRT Formula One Team o\u00F9 il remplace Narain Karthikeyan ; il dispute son premier Grand Prix \u00E0 Silverstone, le 10 juillet 2011. En 2012, Ricciardo devient titulaire au sein de la Scuderia Toro Rosso aux c\u00F4t\u00E9s de Jean-\u00C9ric Vergne, et inscrit ses premier points en Formule 1. En 2014, il remplace Mark Webber, qui se retire de la Formule 1, chez Red Bull Racing et fait \u00E9quipe avec Sebastian Vettel, quadruple champion du monde en titre. Il remporte sa premi\u00E8re victoire lors du Grand Prix du Canada, pour son cinquante-septi\u00E8me d\u00E9part en Formule 1. En s'imposant en Hongrie et en Belgique, il est le seul pilote \u00AB non-Mercedes \u00BB victorieux en 2014."@fr ,
+		"Cresciuto sportivamente nel vivaio del Red Bull Junior Team, \u00E8 stato campione della Formula Renault WEC nel 2008 e della F3 inglese con la Carlin nel 2009; primo pilota dell'Australia Occidentale a gareggiare in Formula 1, \u00E8 attivo nella massima serie automobilistica dal 2011. Ha origini italiane, in quanto il padre Joe \u00E8 nato a Ficarra, in provincia di Messina e si \u00E8 trasferito in Australia all'et\u00E0 di sette anni, mentre la famiglia della madre Grace \u00E8 di origini calabresi. Il suo numero di gara \u00E8 il 3."@it ,
+		"\u30C0\u30CB\u30A8\u30EB\u30FB\u30EA\u30C1\u30E3\u30EB\u30C9\uFF08Daniel Ricciardo, 1989\u5E747\u67081\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u30FB\u897F\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u5DDE\u30D1\u30FC\u30B9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u300C\u30C0\u30CB\u30A8\u30EB\u30FB\u30EA\u30AB\u30EB\u30C9\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002\u5F7C\u306E\u4E21\u89AA\u306F\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u305F\u3081\u3001\u59D3\u3092\u30A4\u30BF\u30EA\u30A2\u8A9E\u8AAD\u307F\u306E\u30EA\u30C1\u30E3\u30EB\u30C9\u3068\u540D\u4E57\u3063\u3066\u3044\u308B\u304C\u3001\u672C\u4EBA\u306F\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u751F\u307E\u308C\u306E\u305F\u3081\u82F1\u8A9E\u98A8\u306B\u300C\u30EA\u30AB\u30FC\u30C9\u300D\u3068\u767A\u97F3\u3057\u3066\u3044\u308B\u3002\u3002"@ja ,
+		"Daniel Ricciardo (Perth, 1 de julho de 1989) \u00E9 um piloto de autom\u00F3veis australiano que atua na F\u00F3rmula 1 pela equipe Red Bull Racing. Ele venceu o Campeonato Brit\u00E2nico de F\u00F3rmula 3 em 2009. Depois de Mark Webber anunciar sua aposentadoria da F\u00F3rmula 1, Ricciardo foi confirmado como seu substituto na Red Bull Racing para 2014."@pt ,
+		"Daniel Ricciardo (* 1. Juli 1989 in Perth) ist ein australischer Automobilrennfahrer. Er wurde 2009 britischer Formel-3-Meister. Er war 2010 und 2011 in der Formel Renault 3.5 aktiv und erreichte dort 2010 den zweiten Gesamtrang. Seit 2011 startet er in der Formel 1. Er tritt seit 2014 f\u00FCr Red Bull an."@de ,
+		"\u4E39\u5C3C\u723E\u00B7\u91CC\u5947\u5361\u591A\uFF08\u82F1\u8BED\uFF1ADaniel Ricciardo\uFF0Crih-CAR-doh\uFF0C\u751F\u4E8E\u6FB3\u5927\u5229\u4E9E\u897F\u6FB3\u5927\u5229\u4E9E\u5DDE\u73C0\u65AF\uFF0C1989\u5E747\u67081\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u6FB3\u5927\u5229\u4E9A\u7684\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u8F66\u624B\uFF0C\u76EE\u524D\u6548\u529B\u65BC\u7D05\u725B\u8ECA\u968A\u3002\u4ED6\u66FE\u83B7\u5F972009\u5E74\u8D5B\u5B63\u82F1\u570B\u4E09\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u7684\u51A0\u519B\u3002\u5728\u99AC\u514B\u00B7\u97CB\u4F2F\u5BA3\u5E03\u5F9E\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9000\u4F11\u5F8C\uFF0C\u91CC\u5361\u591A\u88AB\u78BA\u5B9A\u57282014\u5E74\u8CFD\u5B63\u53D6\u4EE3\u4ED6\u6210\u70BA\u7D05\u725B\u8ECA\u968A\u7684\u8ECA\u624B\u3002\u5728\u4ED6\u6548\u529B\u7D05\u725B\u7684\u9996\u500B\u8CFD\u5B63\uFF0C\u91CC\u5361\u591A\u85C9\u7531\u5728\u52A0\u62FF\u5927\u3001\u5308\u7259\u5229\u53CA\u6BD4\u5229\u6642\u7684\u4E09\u5834\u5206\u7AD9\u51A0\u8ECD\uFF0C\u5728\u8ECA\u624B\u7A4D\u5206\u699C\u4E0A\u53D6\u5F97\u7B2C\u4E09\u540D\u3002"@zh ,
+		"Daniel Ricciardo (Perth, Australia, 1 de julio de 1989) es un piloto australiano de automovilismo de velocidad. Gan\u00F3 la F\u00F3rmula 3 Brit\u00E1nica en el a\u00F1o 2009. En las temporadas de 2012 y 2013, fue el primer piloto de la escuder\u00EDa Toro Rosso de F\u00F3rmula 1. Desde la 2014 es titular en el equipo Red Bull junto a Sebastian Vettel. Red Bull ha confirmado que en 2015 ser\u00E1 el primer piloto, tras la marcha de Sebastian Vettel, y tendr\u00E1 como compa\u00F1ero a Daniil Kvyat, que en 2014 corri\u00F3 para Toro Rosso. Ha logrado cuatro victorias, una pole position y once podios en la F\u00F3rmula 1, y qued\u00F3 tercero en la temporada 2014, solo por detr\u00E1s de los Mercedes de Hamilton y Rosberg."@es ,
+		"Daniel Ricciardo (/r\u1D7B\u02C8k\u0251\u02D0rdo\u028A/ rih-CAR-doh; born 1 July 1989) is an Australian racing driver who is currently competing in Formula One for Red Bull Racing. He won the British Formula 3 Championship in 2009. After Mark Webber announced his retirement from Formula One, Ricciardo was confirmed as his replacement at Red Bull Racing for 2014. In his first season with Red Bull, Ricciardo finished third in the championship with his first three Formula One wins, in Canada, Hungary, and Belgium. Ricciardo returned to winning form after over a two year absence when he won the 2016 Malaysian Grand Prix."@en ,
+		"\u062F\u0627\u0646\u064A\u0644 \u0631\u064A\u0643\u0627\u0631\u062F\u0648 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: daniel riccardo) (\u0645\u0648\u0627\u0644\u064A\u062F 1 \u062A\u0645\u0648\u0632 1989) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0627\u0633\u062A\u0631\u0627\u0644\u064A \u0627\u0644\u062C\u0646\u0633\u064A\u0629\u060C \u0645\u064F\u0631\u062A\u0628\u0637 \u0645\u0639 \u0641\u0631\u064A\u0642 \u0631\u064A\u062F \u0628\u0648\u0644 \u062D\u0627\u0644\u064A\u0627\u064B."@ar ,
+		"Daniel Ricciardo (Engels: /r\u1D7B\u02C8k\u0251\u02D0rdo\u028A/; Italiaans: /rit\u02C8t\u0283ardo/; Perth, West-Australi\u00EB, 1 juli 1989) is een Australisch coureur die onder contract staat bij het Formule 1-team Red Bull Racing. Ook was hij in 2011 actief in de Formule Renault 3.5 Series bij het team van Tech 1 Racing. Ricciardo is ook kampioen van het seizoen 2009 in het Britse Formule 3-kampioenschap."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Ricciardo_2016_Malaysia.jpg?width=300> ;
+	dbo:birthDate	"1989-7-1"^^xsd:date ;
+	dbo:wikiPageRevisionID	744592270 ;
+	dbo:birthPlace	dbr:Perth ;
+	dbo:wikiPageID	18334077 ;
+	dbo:firstRace	<http://dbpedia.org/resource/2011_British_Grand_Prix> ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Daniel_Ricciardo	ns28:hypernym	dbr:Driver ;
+	dbp:title	"Daniel Ricciardo sporting positions"^^xsd:string .
+dbr:Piero_Ferrari	dbp:after	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2016_Monaco_Grand_Prix>	dbo:poleDriver	dbr:Daniel_Ricciardo ;
+	dbo:secondDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2016_German_Grand_Prix>	dbo:fastestDriver	dbr:Daniel_Ricciardo ;
+	dbo:secondDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2014_Belgian_Grand_Prix>	dbo:firstDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2016_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Daniel_Ricciardo .
+dbr:Jaime_Alguersuari	dbp:after	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2014_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/Albert_Costa_(racing_driver)>	dbp:before	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2014_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Daniel_Ricciardo .
+<http://dbpedia.org/resource/2014_Singapore_Grand_Prix>	dbo:thirdDriver	dbr:Daniel_Ricciardo .

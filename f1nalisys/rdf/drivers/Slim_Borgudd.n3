@@ -1,0 +1,133 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Roger_Dowson_Engineering	dbp:drivers	dbr:Slim_Borgudd .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1984_Macau_Grand_Prix__Trivellato_Racing__2>	dbo:firstDriver	dbr:Slim_Borgudd .
+<http://dbpedia.org/resource/1985_Macau_Grand_Prix__Chantaler_Avia__1>	dbo:firstDriver	dbr:Slim_Borgudd .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Slim_Borgudd	foaf:primaryTopic	dbr:Slim_Borgudd .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Slim_Borgudd	rdf:type	dbo:MotorsportRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Slim_Borgudd	rdf:type	owl:Thing .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Slim_Borgudd	rdf:type	wikidata:Q5 ,
+		dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Slim_Borgudd	rdf:type	yago:WikicatSwedishFormulaOneDrivers ,
+		yago:WikicatSwedishFormulaThreeChampionshipDrivers ,
+		dbo:Agent ,
+		wikidata:Q378622 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatTyrrellFormulaOneDrivers .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Slim_Borgudd	rdf:type	ns9:Agent ,
+		yago:Driver110034906 ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:Operator110378412 .
+@prefix schema:	<http://schema.org/> .
+dbr:Slim_Borgudd	rdf:type	schema:Person ,
+		dbo:RacingDriver ,
+		ns9:NaturalPerson ,
+		yago:PhysicalEntity100001930 ,
+		foaf:Person ,
+		yago:WikicatATSWheelsFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Slim_Borgudd	rdfs:label	"Slim Borgudd"@en ,
+		"\u0411\u043E\u0440\u0433\u0443\u0434\u0434, \u0421\u043B\u0438\u043C"@ru ,
+		"Slim Borgudd"@pl ,
+		"Slim Borgudd"@pt ,
+		"Slim Borgudd"@fr ,
+		"Slim Borgudd"@it ,
+		"Slim Borgudd"@nl ,
+		"Slim Borgudd"@de ,
+		"\u30B9\u30EA\u30E0\u30FB\u30DC\u30EB\u30B0\u30C3\u30C9"@ja ;
+	rdfs:comment	"Karl Edward Tommy Borgudd, better known as Slim Borgudd (born November 25, 1946) is a Swedish former Formula One driver who raced for the ATS and Tyrrell teams."@en ,
+		"Karl Edward Tommy Borgudd (ur. 25 listopada 1946 roku w Borgholm) \u2013 szwedzki kierowca Formu\u0142y 1 i muzyk."@pl ,
+		"Prima di diventare pilota automobilistico, Slim Borgudd era un affermato batterista jazz-rock, che suon\u00F2 in diversi gruppi locali e fu anche session-man per diversi lavori degli ABBA grazie alla considerazione che di lui aveva Bj\u00F6rn Ulvaeus, con il quale aveva gi\u00E0 collaborato in uno dei suoi precedenti gruppi musicali."@it ,
+		"Karl Edward Tommy Borgudd (Borgholm, 25 november 1946), beter bekend als Slim Borgudd, is een voormalig Zweeds Formule 1-coureur, die actief was in de periode 1981 - 1982. Hij reed 15 Grands Prix-races voor de teams ATS en Tyrrell."@nl ,
+		"Karl Edward Tommy Borgudd, mais conhecido como Slim Borgudd (25 de Novembro de 1946) \u00E9 um ex-piloto de F\u00F3rmula 1 da Su\u00E9cia que correu pelas equipes ATS e Tyrrell. Antes de ser piloto, Slim era baterista, tendo inclusive feito trabalhos para o grupo sueco Abba."@pt ,
+		"\u30AB\u30FC\u30EB\u30FB\u30A8\u30C9\u30EF\u30FC\u30C9\u30FB\u30C8\u30DF\u30FC\u30FB\"\u30B9\u30EA\u30E0\"\u30FB\u30DC\u30EB\u30B0\u30C3\u30C9\uFF08Karl Edward Tommy \"Slim\" Borgudd, 1946\u5E7411\u670825\u65E5 - \uFF09\u306F\u3001\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u51FA\u8EAB\u306E\u30DF\u30E5\u30FC\u30B8\u30B7\u30E3\u30F3\u3001\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002ATS\u3001\u30C6\u30A3\u30EC\u30EB\u3088\u308AF1\u306B\u53C2\u6226\u3057\u305F\u3002"@ja ,
+		"Karl Edward Tommy Borgudd dit Slim Borgudd (n\u00E9 le 25 novembre 1946 \u00E0 Borgholm, Su\u00E8de) est un ancien musicien et pilote automobile su\u00E9dois. Il a notamment particip\u00E9 \u00E0 10 GP de Formule 1 en 1981 et 1982. Il a inscrit 1 point et s'est class\u00E9 18e du championnat pilotes en 1981."@fr ,
+		"\u041A\u0430\u0440\u043B \u042D\u0434\u0432\u0430\u0440\u0434 \u0422\u043E\u043C\u043C\u0438 \u00AB\u0421\u043B\u0438\u043C\u00BB \u0411\u043E\u0440\u0433\u0443\u0434\u0434 (\u0448\u0432\u0435\u0434. Karl Edward Tommy \"Slim\" Borgudd; \u0440\u043E\u0434. 25 \u043D\u043E\u044F\u0431\u0440\u044F 1946, \u0411\u043E\u0440\u0433\u0445\u043E\u043B\u044C\u043C, \u043B\u0435\u043D \u041A\u0430\u043B\u044C\u043C\u0430\u0440) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0415\u0432\u0440\u043E\u043F\u044B \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0433\u0440\u0443\u0437\u043E\u0432\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 1995 \u0433\u043E\u0434\u0430."@ru ,
+		"Karl Edward Tommy \u201ESlim\u201C Borgudd (* 25. November 1946 in Borgholm) ist ein ehemaliger schwedischer Formel-1-Rennfahrer. Er fuhr 1981 f\u00FCr ATS und 1982 f\u00FCr Tyrrell, war f\u00FCr insgesamt 15 WM-L\u00E4ufe genannt, konnte sich aber nur f\u00FCr 10 Rennen qualifizieren. Nach seinen Monoposto-Eins\u00E4tzen war Borgudd bei Tourenwagen-Rennen und in der Truck-EM aktiv. Vor und w\u00E4hrend seiner Zeit in der Formel 1 machte sich Borgudd auch als Schlagzeuger einen Namen, unter anderem als Studiomusiker f\u00FCr die schwedische Pop-Band ABBA."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Slim_Borgudd	dbp:birthDate	"1946-11-25"^^xsd:date .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Slim_Borgudd	owl:sameAs	dbpedia-pt:Slim_Borgudd .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Slim_Borgudd	owl:sameAs	dbpedia-pl:Slim_Borgudd ,
+		<http://rdf.freebase.com/ns/m.04kzcc> ,
+		dbr:Slim_Borgudd .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Slim_Borgudd	owl:sameAs	dbpedia-it:Slim_Borgudd .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Slim_Borgudd	owl:sameAs	yago-res:Slim_Borgudd .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Slim_Borgudd	owl:sameAs	dbpedia-nl:Slim_Borgudd ,
+		<http://ja.dbpedia.org/resource/\u30B9\u30EA\u30E0\u30FB\u30DC\u30EB\u30B0\u30C3\u30C9> ,
+		wikidata:Q172264 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Slim_Borgudd	owl:sameAs	dbpedia-fr:Slim_Borgudd .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Slim_Borgudd	owl:sameAs	dbpedia-wikidata:Q172264 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Slim_Borgudd	owl:sameAs	dbpedia-de:Slim_Borgudd .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Slim_Borgudd	dct:subject	dbc:Swedish_musicians ,
+		dbc:Swedish_racing_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1946_births> ,
+		dbc:Living_people ,
+		dbc:Swedish_Formula_Three_Championship_drivers ,
+		dbc:Swedish_Formula_One_drivers ,
+		dbc:ATS_Wheels_Formula_One_drivers ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:International_Formula_3000_drivers ;
+	foaf:name	"Slim Borgudd"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Tommy"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Slim_Borgudd ;
+	dbp:points	1 ;
+	dbp:years	1979 ,
+		"\u2013"^^xsd:string ;
+	dbp:after	<http://dbpedia.org/resource/Thorbj\u00F6rn_Carlsson> ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Tyrrell_Racing ,
+		<http://dbpedia.org/resource/ATS_(wheels)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Slim_Borgudd	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Slim_Borgudd?oldid=737666607> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20100927110640/http:/www.slimracing.co.uk/history.htm> ,
+		<https://web.archive.org/web/20120204040620/http:/www.f1rejects.com/drivers/borgudd/biography.html> ;
+	dbp:before	dbr:Anders_Olofsson ;
+	dbo:abstract	"Karl Edward Tommy Borgudd (Borgholm, 25 november 1946), beter bekend als Slim Borgudd, is een voormalig Zweeds Formule 1-coureur, die actief was in de periode 1981 - 1982. Hij reed 15 Grands Prix-races voor de teams ATS en Tyrrell."@nl ,
+		"Karl Edward Tommy Borgudd dit Slim Borgudd (n\u00E9 le 25 novembre 1946 \u00E0 Borgholm, Su\u00E8de) est un ancien musicien et pilote automobile su\u00E9dois. Il a notamment particip\u00E9 \u00E0 10 GP de Formule 1 en 1981 et 1982. Il a inscrit 1 point et s'est class\u00E9 18e du championnat pilotes en 1981."@fr ,
+		"Karl Edward Tommy \u201ESlim\u201C Borgudd (* 25. November 1946 in Borgholm) ist ein ehemaliger schwedischer Formel-1-Rennfahrer. Er fuhr 1981 f\u00FCr ATS und 1982 f\u00FCr Tyrrell, war f\u00FCr insgesamt 15 WM-L\u00E4ufe genannt, konnte sich aber nur f\u00FCr 10 Rennen qualifizieren. Nach seinen Monoposto-Eins\u00E4tzen war Borgudd bei Tourenwagen-Rennen und in der Truck-EM aktiv. Vor und w\u00E4hrend seiner Zeit in der Formel 1 machte sich Borgudd auch als Schlagzeuger einen Namen, unter anderem als Studiomusiker f\u00FCr die schwedische Pop-Band ABBA."@de ,
+		"Prima di diventare pilota automobilistico, Slim Borgudd era un affermato batterista jazz-rock, che suon\u00F2 in diversi gruppi locali e fu anche session-man per diversi lavori degli ABBA grazie alla considerazione che di lui aveva Bj\u00F6rn Ulvaeus, con il quale aveva gi\u00E0 collaborato in uno dei suoi precedenti gruppi musicali. Attivo nel ramo corse gi\u00E0 dalla met\u00E0 degli anni sessanta soprattutto nella Formula Ford, Borgudd arriv\u00F2 relativamente tardi alla fama, a 26 anni nel 1972, dopo cinque vittorie nella formula Sport. Esord\u00EC quindi a 30 anni in Formula 3, poi form\u00F2 un team col quale corse nelle serie sia svedesi che europee. Fallito l'ingresso in Formula 2 nel 1980, Borgudd riusc\u00EC tuttavia a entrare in Formula 1 l'anno successivo, a 35 anni. Esord\u00EC su una ATS al Gran Premio di San Marino del 1981, con un vistoso logo degli ABBA piazzato sulla carrozzeria dell'auto. La manovra, senza fini commerciali, aveva in realt\u00E0 lo scopo di attrarre l'attenzione degli sponsor sulla vettura. Dopo avere realizzato un punto in tutta la stagione (a Silverstone), Borgudd l'anno successivo pass\u00F2 alla Tyrrell, in coppia con Michele Alboreto. Ma i risultati non arrivarono. L'avventura di Slim Borgudd in Formula 1 si concluse quindi con quindici G.P. disputati e un sesto posto quale risultato migliore. Dal 1983 al 1997 Borgudd \u00E8 stato attivo in varie specialit\u00E0 automobilistiche, tra cui la 24 ore di Le Mans; in particolare ha ottenuto successi nel truck racing, di cui ha vinto il campionato europeo FIA nel 1986 (Classe B), nel 1987 (Classe C) e nel 1995 (Super-Race-Trucks). Anche dopo il suo definitivo ritiro dall'automobilismo professionistico, Borgudd spesso \u00E8 presente in gare europee di livello dilettantistico o amatoriale."@it ,
+		"Karl Edward Tommy Borgudd, mais conhecido como Slim Borgudd (25 de Novembro de 1946) \u00E9 um ex-piloto de F\u00F3rmula 1 da Su\u00E9cia que correu pelas equipes ATS e Tyrrell. Antes de ser piloto, Slim era baterista, tendo inclusive feito trabalhos para o grupo sueco Abba."@pt ,
+		"\u041A\u0430\u0440\u043B \u042D\u0434\u0432\u0430\u0440\u0434 \u0422\u043E\u043C\u043C\u0438 \u00AB\u0421\u043B\u0438\u043C\u00BB \u0411\u043E\u0440\u0433\u0443\u0434\u0434 (\u0448\u0432\u0435\u0434. Karl Edward Tommy \"Slim\" Borgudd; \u0440\u043E\u0434. 25 \u043D\u043E\u044F\u0431\u0440\u044F 1946, \u0411\u043E\u0440\u0433\u0445\u043E\u043B\u044C\u043C, \u043B\u0435\u043D \u041A\u0430\u043B\u044C\u043C\u0430\u0440) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0415\u0432\u0440\u043E\u043F\u044B \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u043D\u0430 \u0433\u0440\u0443\u0437\u043E\u0432\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F\u0445 1995 \u0433\u043E\u0434\u0430."@ru ,
+		"\u30AB\u30FC\u30EB\u30FB\u30A8\u30C9\u30EF\u30FC\u30C9\u30FB\u30C8\u30DF\u30FC\u30FB\"\u30B9\u30EA\u30E0\"\u30FB\u30DC\u30EB\u30B0\u30C3\u30C9\uFF08Karl Edward Tommy \"Slim\" Borgudd, 1946\u5E7411\u670825\u65E5 - \uFF09\u306F\u3001\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u51FA\u8EAB\u306E\u30DF\u30E5\u30FC\u30B8\u30B7\u30E3\u30F3\u3001\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002ATS\u3001\u30C6\u30A3\u30EC\u30EB\u3088\u308AF1\u306B\u53C2\u6226\u3057\u305F\u3002"@ja ,
+		"Karl Edward Tommy Borgudd (ur. 25 listopada 1946 roku w Borgholm) \u2013 szwedzki kierowca Formu\u0142y 1 i muzyk."@pl ,
+		"Karl Edward Tommy Borgudd, better known as Slim Borgudd (born November 25, 1946) is a Swedish former Formula One driver who raced for the ATS and Tyrrell teams."@en ;
+	dbo:birthDate	"1946-11-25"^^xsd:date ;
+	dbo:wikiPageRevisionID	737666607 ;
+	dbo:birthPlace	dbr:Borgholm ;
+	dbo:wikiPageID	1236013 ;
+	dbo:nationality	dbr:Sweden ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1981_San_Marino_Grand_Prix> ;
+	dbo:races	"15"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1982_United_States_Grand_Prix_West> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Slim_Borgudd	ns24:hypernym	dbr:Driver ;
+	dbp:title	dbr:Formula_Three .

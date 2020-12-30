@@ -1,0 +1,193 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Czechoslovakian_Grand_Prix	dbp:fastestLapDriver	dbr:Mauro_Baldi ;
+	dbp:poleDriver	dbr:Mauro_Baldi .
+dbr:Lamborghini_Countach_QVX	dbp:drivers	dbr:Mauro_Baldi .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Mauro_Baldi	foaf:primaryTopic	dbr:Mauro_Baldi .
+dbr:Masanori_Sekiya	dbp:before	dbr:Mauro_Baldi .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Mauro_Baldi	rdf:type	dbo:Agent .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mauro_Baldi	rdf:type	ns6:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mauro_Baldi	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mauro_Baldi	rdf:type	yago:WikicatSpiritFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatAlfaRomeoFormulaOneDrivers ,
+		dbo:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Mauro_Baldi	rdf:type	schema:Person ,
+		yago:WikicatEuropeanFormulaThreeChampionshipDrivers ,
+		foaf:Person ,
+		wikidata:Q378622 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mauro_Baldi	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Athlete ,
+		wikidata:Q5 ,
+		dbo:FormulaOneRacer ,
+		yago:Driver110034906 ,
+		dbo:RacingDriver ,
+		yago:WikicatChampCarDrivers ,
+		yago:WikicatArrowsFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mauro_Baldi	rdf:type	owl:Thing ,
+		ns6:NaturalPerson ,
+		yago:Operator110378412 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatAmericanLeMansSeriesDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mauro_Baldi	rdfs:label	"Mauro Baldi"@fr ,
+		"\u30DE\u30A6\u30ED\u30FB\u30D0\u30EB\u30C7\u30A3"@ja ,
+		"Mauro Baldi"@pt ,
+		"Mauro Baldi"@it ,
+		"Mauro Baldi"@en ,
+		"Mauro Baldi"@pl ,
+		"Mauro Baldi"@de ,
+		"\u0411\u0430\u043B\u044C\u0434\u0438, \u041C\u0430\u0443\u0440\u043E"@ru ,
+		"Mauro Baldi"@nl ,
+		"\u0645\u0627\u0648\u0631\u0648 \u0628\u0627\u0644\u062F\u064A"@ar ,
+		"Mauro Baldi"@es ;
+	rdfs:comment	"Mauro Baldi (Reggio Emilia, 31 de janeiro de 1954) \u00E9 um ex-piloto italiano de F\u00F3rmula 1 que correu pelas equipes Arrows, Alfa Romeo e Spirit. Iniciou sua carreira no rali em 1972 e passou a correr em aut\u00F3dromos em 1975 com a copa Renault 5 italiana. Em 1980 ele tornou-se um dos melhores pilotos da F\u00F3rmula 3, ganhando o Grande Pr\u00EAmio de M\u00F4naco da F3 e o campeonato europeu de F\u00F3rmula 3, com oito vit\u00F3rias. Em 1982 ele se inscreveu para correr pela Arrows, antes de mudar-se para a Alfa Romeo em 1983, marcando o 5\u00BA lugar em Zandvoort, o Grande Pr\u00EAmio da Holanda. Quando a Benetton tornou-se um patrocinador da Alfa Romeo em 1984, Baldi perdeu seu carro, e juntou-se \u00E0 equipe Spirit at\u00E9 1985."@pt ,
+		"Mauro BaldiFichier:Mauro Baldi 1982.jpg Mauro Baldi lors du Grand Prix des Pays-Bas 1982 Mauro Baldi est un ancien pilote de Formule 1, n\u00E9 le 31 janvier 1954 \u00E0 Reggio Emilia, Italie."@fr ,
+		"Mauro Baldi (* 31. Januar 1954 in Reggio nell\u2019Emilia) ist ein ehemaliger italienischer Formel-1-Rennfahrer."@de ,
+		"Mauro Baldi (ur. 31 stycznia 1954 roku w Reggio Emilia) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Mauro Baldi (Reggio Emilia, 31 januari 1954) is een voormalige Italiaanse autocoureur, die tussen 1982 en 1985 in de Formule 1 actief was. Aanvankelijk begon Baldi zijn autosportloopbaan in 1972 als rallyrijder. In 1975 stapte hij over op het racen op circuits in de Italiaanse Renault 5 Cup. In 1980 was hij opgeklommen tot de top in de Formule 3, won hij de Monaco F3 Grand Prix en werd hij in 1981 Europees Formula 3-kampioen met acht overwinningen."@nl ,
+		"Mauro Baldi (nacido el 31 de enero de 1954 en Reggio Emilia, Italia) es un piloto de automovilismo de velocidad italiano. Se destac\u00F3 en el Campeonato Mundial de Resistencia, donde logr\u00F3 el t\u00EDtulo de pilotos en 1990 y acumul\u00F3 17 victorias. Venci\u00F3 en las 24 Horas de Le Mans de 1994, las 24 Horas de Daytona de 1998 y 2002, y las 12 Horas de Sebring de 1998. Tambi\u00E9n corri\u00F3 para las escuder\u00EDas Arrows, Alfa Romeo y Spirit de F\u00F3rmula 1."@es ,
+		"\u041C\u0430\u0443\u0440\u043E \u0411\u0430\u043B\u044C\u0434\u0438 (\u0438\u0442\u0430\u043B. Mauro Baldi; \u0440\u043E\u0434. 31 \u044F\u043D\u0432\u0430\u0440\u044F 1954, \u0420\u0435\u0434\u0436\u043E-\u043D\u0435\u043B\u044C-\u042D\u043C\u0438\u043B\u0438\u044F) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 1981 \u0433\u043E\u0434\u0430, \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 1990 \u0433\u043E\u0434\u0430, \u0433\u043E\u043D\u043A\u0438 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB 1994 \u0433\u043E\u0434\u0430."@ru ,
+		"\u30DE\u30A6\u30ED\u30FB\u30D0\u30EB\u30C7\u30A3\uFF08Mauro Baldi \u30011954\u5E741\u670831\u65E5 - \uFF09\u306F\u30A4\u30BF\u30EA\u30A2\u4EBA\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u30A2\u30ED\u30A6\u30BA\u3001\u30A2\u30EB\u30D5\u30A1\u30ED\u30E1\u30AA\u3001\u30B9\u30D4\u30EA\u30C3\u30C8\u304B\u3089\u53C2\u6226\u3057\u305F\u3002"@ja ,
+		"\u0645\u0627\u0648\u0631\u0648 \u0628\u0627\u0644\u062F\u064A \u0645\u0648\u0627\u0644\u064A\u062F 31 \u064A\u0646\u0627\u064A\u0631 1954 \u0641\u064A \u0631\u064A\u062F\u062C\u0648 \u0625\u0645\u064A\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1982. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1982. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 41 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Mauro Baldi (born January 31, 1954 in Reggio Emilia) is an Italian former Formula One driver who raced for the Arrows, Alfa Romeo and Spirit teams. He started his career in rallying in 1972 and turned to circuit racing in 1975 with the Italian Renault 5 Cup. By 1980 he had become a top Formula 3 driver, winning the Monaco F3 Grand Prix and the 1981 European Formula 3 Championship with eight victories. In 1982 he signed to drive for Arrows before moving to Alfa Romeo in 1983, scoring a fifth place in Zandvoort. When Benetton became Alfa Romeo's team sponsor in 1984, Baldi lost his drive, and joined the underfunded Spirit team until 1985."@en ;
+	dbp:points	5 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Mauro_Baldi	owl:sameAs	dbpedia-es:Mauro_Baldi .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mauro_Baldi	owl:sameAs	dbpedia-nl:Mauro_Baldi ,
+		wikidata:Q171521 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mauro_Baldi	owl:sameAs	dbpedia-pt:Mauro_Baldi ,
+		<http://rdf.freebase.com/ns/m.04k225> ,
+		<http://ja.dbpedia.org/resource/\u30DE\u30A6\u30ED\u30FB\u30D0\u30EB\u30C7\u30A3> ,
+		dbr:Mauro_Baldi .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mauro_Baldi	owl:sameAs	dbpedia-de:Mauro_Baldi .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mauro_Baldi	owl:sameAs	dbpedia-fr:Mauro_Baldi .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mauro_Baldi	owl:sameAs	dbpedia-it:Mauro_Baldi .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mauro_Baldi	owl:sameAs	dbpedia-pl:Mauro_Baldi .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mauro_Baldi	owl:sameAs	dbpedia-wikidata:Q171521 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mauro_Baldi	owl:sameAs	yago-res:Mauro_Baldi .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mauro_Baldi	dct:subject	dbc:Champ_Car_drivers ,
+		dbc:European_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1954_births> ,
+		dbc:Alfa_Romeo_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:Living_people ,
+		dbc:Spirit_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:Arrows_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:People_from_Reggio_Emilia ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ;
+	foaf:name	"Mauro Baldi"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Mauro_Baldi_1982.jpg> ;
+	dct:description	"Italian racecar driver"@en ;
+	foaf:givenName	"Mauro"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Mauro_Baldi ;
+	foaf:surname	"Baldi"@en ;
+	dbp:title	dbr:World_Sportscar_Championship ,
+		dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		dbr:European_Formula_Three_Championship ,
+		"Coupe d'Europe Renault 5 Alpine Champion"^^xsd:string ;
+	dbp:years	1994 ,
+		1990 ,
+		"with Jean-Louis Schlesser"^^xsd:string ,
+		"\u2013"^^xsd:string ,
+		1977 ,
+		1980 ,
+		1981 ,
+		dbr:Yannick_Dalmas ,
+		dbr:Hurley_Haywood ;
+	dbo:nationality	dbr:Italy .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mauro_Baldi	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mauro_Baldi?oldid=730629174> ;
+	dbp:before	dbr:Christophe_Bouchut ,
+		dbr:Jean-Louis_Schlesser ,
+		<http://dbpedia.org/resource/\u00C9ric_H\u00E9lary> ,
+		dbr:Alain_Prost ,
+		dbr:Michele_Alboreto ,
+		"Yves Fr\u00E9mont"^^xsd:string ,
+		dbr:Geoff_Brabham ;
+	dbp:after	dbr:Masanori_Sekiya ,
+		dbr:JJ_Lehto ,
+		"Wolfgang Sch\u00FCtz"^^xsd:string ,
+		dbr:Yannick_Dalmas ,
+		<http://dbpedia.org/resource/Alain_Fert\u00E9> ,
+		dbr:Oscar_Larrauri ,
+		dbr:Teo_Fabi ;
+	dbp:birthPlace	dbr:Reggio_Emilia ,
+		dbr:Italy .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mauro_Baldi	dbp:birthDate	"1954-01-31"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-balmau.html> ;
+	dbo:abstract	"\u041C\u0430\u0443\u0440\u043E \u0411\u0430\u043B\u044C\u0434\u0438 (\u0438\u0442\u0430\u043B. Mauro Baldi; \u0440\u043E\u0434. 31 \u044F\u043D\u0432\u0430\u0440\u044F 1954, \u0420\u0435\u0434\u0436\u043E-\u043D\u0435\u043B\u044C-\u042D\u043C\u0438\u043B\u0438\u044F) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 1981 \u0433\u043E\u0434\u0430, \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 1990 \u0433\u043E\u0434\u0430, \u0433\u043E\u043D\u043A\u0438 \u00AB24 \u0447\u0430\u0441\u0430 \u041B\u0435-\u041C\u0430\u043D\u0430\u00BB 1994 \u0433\u043E\u0434\u0430."@ru ,
+		"Mauro Baldi (ur. 31 stycznia 1954 roku w Reggio Emilia) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Mauro Baldi (Reggio Emilia, 31 januari 1954) is een voormalige Italiaanse autocoureur, die tussen 1982 en 1985 in de Formule 1 actief was. Aanvankelijk begon Baldi zijn autosportloopbaan in 1972 als rallyrijder. In 1975 stapte hij over op het racen op circuits in de Italiaanse Renault 5 Cup. In 1980 was hij opgeklommen tot de top in de Formule 3, won hij de Monaco F3 Grand Prix en werd hij in 1981 Europees Formula 3-kampioen met acht overwinningen. Baldi debuteerde in 1982 in de Formule 1 bij de Grote Prijs van Brazili\u00EB en racete achtereenvolgens voor de teams van Arrows, Alfa Romeo en Spirit-Honda. In 1994 won hij samen met Yannick Dalmas en Hurley Haywood de 24 uur van Le Mans in een Porsche 962"@nl ,
+		"Mauro Baldi (nacido el 31 de enero de 1954 en Reggio Emilia, Italia) es un piloto de automovilismo de velocidad italiano. Se destac\u00F3 en el Campeonato Mundial de Resistencia, donde logr\u00F3 el t\u00EDtulo de pilotos en 1990 y acumul\u00F3 17 victorias. Venci\u00F3 en las 24 Horas de Le Mans de 1994, las 24 Horas de Daytona de 1998 y 2002, y las 12 Horas de Sebring de 1998. Tambi\u00E9n corri\u00F3 para las escuder\u00EDas Arrows, Alfa Romeo y Spirit de F\u00F3rmula 1."@es ,
+		"Mauro Baldi (Reggio Emilia, 31 de janeiro de 1954) \u00E9 um ex-piloto italiano de F\u00F3rmula 1 que correu pelas equipes Arrows, Alfa Romeo e Spirit. Iniciou sua carreira no rali em 1972 e passou a correr em aut\u00F3dromos em 1975 com a copa Renault 5 italiana. Em 1980 ele tornou-se um dos melhores pilotos da F\u00F3rmula 3, ganhando o Grande Pr\u00EAmio de M\u00F4naco da F3 e o campeonato europeu de F\u00F3rmula 3, com oito vit\u00F3rias. Em 1982 ele se inscreveu para correr pela Arrows, antes de mudar-se para a Alfa Romeo em 1983, marcando o 5\u00BA lugar em Zandvoort, o Grande Pr\u00EAmio da Holanda. Quando a Benetton tornou-se um patrocinador da Alfa Romeo em 1984, Baldi perdeu seu carro, e juntou-se \u00E0 equipe Spirit at\u00E9 1985. Depois de aposentar-se da F\u00F3rmula 1, Baldi teve uma carreira de sucesso nas corridas de carros esportivos, dirigindo para a equipe Martini-Lancia em 1984 e 1985. Em 1986, ele mudou-se para uma Porsche 956 de Richard Lloyd Racing, retornando a dirigir em 1988 com a equipe Sauber-Mercedes, na qual Baldi ganhou o Campeonato Mundial de Carros Esportivos de 1990, dividindo o carro com Jean-Louis Schlesser. Em 1991 e 1992, ele dirigiu pela Peugeot. Ele teve um breve retorno para a F-1, n\u00E3o como titular, mas fazendo a maior parte dos testes de dire\u00E7\u00E3o para o projeto \"Modena Lambo\". Finalmente, ele ganhou a corrida de 24 Horas de Le Mans em 1994, dividindo a Dauer (uma Porsche 962 modificada com Yannick Dalmas e Hurley Haywood. Ele tamb\u00E9m ganhou a 24 Horas de Daytona e a 12 Horas de Sebring, as duas mais importantes corridas de longa dura\u00E7\u00E3o dos Estados Unidos, em 1998 com Arie Luyendyk e Didier Theys."@pt ,
+		"Mauro Baldi (* 31. Januar 1954 in Reggio nell\u2019Emilia) ist ein ehemaliger italienischer Formel-1-Rennfahrer."@de ,
+		"\u30DE\u30A6\u30ED\u30FB\u30D0\u30EB\u30C7\u30A3\uFF08Mauro Baldi \u30011954\u5E741\u670831\u65E5 - \uFF09\u306F\u30A4\u30BF\u30EA\u30A2\u4EBA\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u30A2\u30ED\u30A6\u30BA\u3001\u30A2\u30EB\u30D5\u30A1\u30ED\u30E1\u30AA\u3001\u30B9\u30D4\u30EA\u30C3\u30C8\u304B\u3089\u53C2\u6226\u3057\u305F\u3002"@ja ,
+		"\u0645\u0627\u0648\u0631\u0648 \u0628\u0627\u0644\u062F\u064A \u0645\u0648\u0627\u0644\u064A\u062F 31 \u064A\u0646\u0627\u064A\u0631 1954 \u0641\u064A \u0631\u064A\u062F\u062C\u0648 \u0625\u0645\u064A\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1982. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1982. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 41 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Mauro Baldi (born January 31, 1954 in Reggio Emilia) is an Italian former Formula One driver who raced for the Arrows, Alfa Romeo and Spirit teams. He started his career in rallying in 1972 and turned to circuit racing in 1975 with the Italian Renault 5 Cup. By 1980 he had become a top Formula 3 driver, winning the Monaco F3 Grand Prix and the 1981 European Formula 3 Championship with eight victories. In 1982 he signed to drive for Arrows before moving to Alfa Romeo in 1983, scoring a fifth place in Zandvoort. When Benetton became Alfa Romeo's team sponsor in 1984, Baldi lost his drive, and joined the underfunded Spirit team until 1985. After retiring from Formula One he went to enjoy a successful career in sports car racing, driving for the works Martini-Lancia team in 1984 and 1985. In 1986, he switched to a Porsche 956 from Richard Lloyd Racing's outfit, returning to a works drive in 1988 with the Sauber-Mercedes team, with whom Baldi won the 1990 FIA World Sports Prototype Championship for Drivers, sharing the car with Jean-Louis Schlesser. In 1991 and 1992 he was a driver for Peugeot. He had a brief return to F1, doing most of the test driving for the Modena Lambo project. Returning to sports cars, he won the Le Mans 24 Hours race in 1994, sharing the \"road-going\" Dauer 962 Le Mans (a modified Porsche 962) with Yannick Dalmas and Hurley Haywood. He also won the 24 Hours of Daytona and 12 Hours of Sebring, both in 1998 with Arie Luyendyk and Didier Theys."@en ,
+		"Mauro BaldiFichier:Mauro Baldi 1982.jpg Mauro Baldi lors du Grand Prix des Pays-Bas 1982 Mauro Baldi est un ancien pilote de Formule 1, n\u00E9 le 31 janvier 1954 \u00E0 Reggio Emilia, Italie."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Mauro_Baldi_1982.jpg?width=300> ;
+	dbo:birthDate	"1954-1-31"^^xsd:date ;
+	dbo:wikiPageRevisionID	730629174 ;
+	dbo:birthPlace	dbr:Reggio_Emilia ;
+	dbo:wikiPageID	1226503 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Mauro_Baldi	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1982_South_African_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1985_San_Marino_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"41"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Spirit_(racing_team)> ,
+		dbr:Arrows_Grand_Prix_International ,
+		<http://dbpedia.org/resource/Alfa_Romeo_(Formula_One)> .
+dbr:Hurley_Haywood	dbp:years	dbr:Mauro_Baldi .
+dbr:Yannick_Dalmas	dbp:years	dbr:Mauro_Baldi ;
+	dbp:before	dbr:Mauro_Baldi .
+<http://dbpedia.org/resource/1987_200_Miles_of_Norisring__1__1>	dbo:firstDriver	dbr:Mauro_Baldi .
+<http://dbpedia.org/resource/\u00C9ric_H\u00E9lary>	dbp:after	dbr:Mauro_Baldi .
+dbr:Geoff_Brabham	dbp:after	dbr:Mauro_Baldi .
+dbr:Michele_Alboreto	dbp:after	dbr:Mauro_Baldi .
+@prefix ns27:	<http://dbpedia.org/resource/1994_PPG_Indy_Car_World_Series__Payton/> .
+ns27:Coyne_Racing__1	dbo:firstDriver	dbr:Mauro_Baldi .
+<http://dbpedia.org/resource/6_Hours_of_Donington>	dbp:mostWinsDriver	dbr:Mauro_Baldi .
+dbr:Christophe_Bouchut	dbp:after	dbr:Mauro_Baldi .
+dbr:Oscar_Larrauri	dbp:before	dbr:Mauro_Baldi .
+dbr:Alfa_Romeo_183T__3	dbo:firstDriver	dbr:Mauro_Baldi .
+dbr:JJ_Lehto	dbp:before	dbr:Mauro_Baldi .

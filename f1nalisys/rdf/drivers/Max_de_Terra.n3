@@ -1,0 +1,117 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Max_de_Terra	foaf:primaryTopic	dbr:Max_de_Terra .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Max_de_Terra	rdf:type	yago:WikicatGrandPrixDrivers ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Max_de_Terra	rdf:type	dbo:RacingDriver ,
+		dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Max_de_Terra	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		dbo:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Max_de_Terra	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Max_de_Terra	rdf:type	owl:Thing ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		foaf:Person ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q5 ,
+		dbo:Athlete ,
+		wikidata:Q378622 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Max_de_Terra	rdf:type	umbel-rc:RaceCarDriver .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Max_de_Terra	rdf:type	ns10:Agent ,
+		yago:PhysicalEntity100001930 ,
+		<http://dbpedia.org/class/yago/Wikicat\u00C9curieEspadonFormulaOneDrivers> ,
+		yago:WikicatSwissFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		ns10:NaturalPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Max_de_Terra	rdfs:label	"Max de Terra"@nl ,
+		"Max de Terra"@en ,
+		"Max de Terra"@de ,
+		"Max de Terra"@it ,
+		"Max de Terra"@pl ,
+		"Max de Terra"@pt ,
+		"Max de Terra"@fr ;
+	rdfs:comment	"Max de Terra (Zurique, Su\u00ED\u00E7a, 6 de outubro de 1918 \u2014 Zollikon, Su\u00ED\u00E7a, 29 de dezembro de 1982) foi um automobilista su\u00ED\u00E7o que participou do Grande Pr\u00EAmio da Su\u00ED\u00E7a de F\u00F3rmula 1 em 1952 e 1953."@pt ,
+		"Maximilian \u201EMax\u201C de Terra (* 6. Oktober 1918 in Z\u00FCrich; \u2020 29. Dezember 1982 in Zollikon) war ein Schweizer Autorennfahrer."@de ,
+		"Max de Terra (Z\u00FCrich, 6 oktober 1918 \u2013 Z\u00FCrich, 29 december 1982) was een Formule 1-coureur uit Zwitserland. Hij reed tussen 1952 en 1953 2 Grands Prix voor de teams Simca-Gordini en Ferrari."@nl ,
+		"Ha partecipato a due Gran Premi in Formula 1, debuttando nel Gran Premio di Svizzera 1952 a bordo di una Gordini."@it ,
+		"Max de Terra (born in Zurich, 6 October 1918 \u2013 died in Zurich, 29 December 1982) was a racing driver from Switzerland. He participated in two Formula One World Championship Grands Prix, debuting on 18 May 1952. He scored no championship points. He was a member of the Ecurie Espadon."@en ,
+		"Max de Terra Max de Terra, n\u00E9 le 6 octobre 1918 \u00E0 Zurich et mort dans la m\u00EAme ville le 29 d\u00E9cembre 1982, est un pilote suisse de course automobile. Sp\u00E9cialiste de la course de c\u00F4te, il a \u00E9galement disput\u00E9 deux \u00E9preuves de championnat du monde des conducteurs, en 1952 et 1953."@fr ,
+		"Max de Terra (ur. 6 pa\u017Adziernika 1918 w Zurychu, zm. 29 grudnia 1982 w Zollikon) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Max_de_Terra	dbp:birthDate	"1918-10-06"^^xsd:date ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04kvkq> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Max_de_Terra	owl:sameAs	dbpedia-fr:Max_de_Terra .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Max_de_Terra	owl:sameAs	dbpedia-wikidata:Q115677 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Max_de_Terra	owl:sameAs	dbpedia-it:Max_de_Terra ,
+		wikidata:Q115677 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Max_de_Terra	owl:sameAs	dbpedia-de:Max_de_Terra .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Max_de_Terra	owl:sameAs	dbpedia-nl:Max_de_Terra .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Max_de_Terra	owl:sameAs	yago-res:Max_de_Terra .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Max_de_Terra	owl:sameAs	dbpedia-pl:Max_de_Terra ,
+		dbr:Max_de_Terra .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Max_de_Terra	owl:sameAs	dbpedia-pt:Max_de_Terra .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Max_de_Terra	dct:subject	dbc:Swiss_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1918_births> ,
+		<http://dbpedia.org/resource/Category:1982_deaths> ,
+		dbc:Swiss_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:\u00C9curie_Espadon_Formula_One_drivers> ;
+	foaf:name	"Max de Terra"@en ;
+	dct:description	"racing driver"@en ;
+	foaf:givenName	"Max"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Max_de_Terra ;
+	dbp:points	0 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Simca-Gordini, non-works Ferrari"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Max_de_Terra	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Max_de_Terra?oldid=708179500> ;
+	dbp:nationality	"Swiss"^^xsd:string ;
+	dbp:birthPlace	"Zurich, Switzerland"^^xsd:string ;
+	dbp:deathDate	"1982-12-29"^^xsd:date ;
+	dbp:deathPlace	"Zurich, Switzerland"^^xsd:string ;
+	dbo:abstract	"Max de Terra (Z\u00FCrich, 6 oktober 1918 \u2013 Z\u00FCrich, 29 december 1982) was een Formule 1-coureur uit Zwitserland. Hij reed tussen 1952 en 1953 2 Grands Prix voor de teams Simca-Gordini en Ferrari."@nl ,
+		"Max de Terra (Zurique, Su\u00ED\u00E7a, 6 de outubro de 1918 \u2014 Zollikon, Su\u00ED\u00E7a, 29 de dezembro de 1982) foi um automobilista su\u00ED\u00E7o que participou do Grande Pr\u00EAmio da Su\u00ED\u00E7a de F\u00F3rmula 1 em 1952 e 1953."@pt ,
+		"Ha partecipato a due Gran Premi in Formula 1, debuttando nel Gran Premio di Svizzera 1952 a bordo di una Gordini."@it ,
+		"Maximilian \u201EMax\u201C de Terra (* 6. Oktober 1918 in Z\u00FCrich; \u2020 29. Dezember 1982 in Zollikon) war ein Schweizer Autorennfahrer."@de ,
+		"Max de Terra (born in Zurich, 6 October 1918 \u2013 died in Zurich, 29 December 1982) was a racing driver from Switzerland. He participated in two Formula One World Championship Grands Prix, debuting on 18 May 1952. He scored no championship points. He was a member of the Ecurie Espadon."@en ,
+		"Max de Terra (ur. 6 pa\u017Adziernika 1918 w Zurychu, zm. 29 grudnia 1982 w Zollikon) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ,
+		"Max de Terra Max de Terra, n\u00E9 le 6 octobre 1918 \u00E0 Zurich et mort dans la m\u00EAme ville le 29 d\u00E9cembre 1982, est un pilote suisse de course automobile. Sp\u00E9cialiste de la course de c\u00F4te, il a \u00E9galement disput\u00E9 deux \u00E9preuves de championnat du monde des conducteurs, en 1952 et 1953."@fr ;
+	dbo:birthDate	"1918-10-6"^^xsd:date ;
+	dbo:deathDate	"1982-12-29"^^xsd:date ;
+	dbo:deathPlace	dbr:Zollikon ;
+	dbo:wikiPageRevisionID	708179500 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Z\u00FCrich> ;
+	dbo:wikiPageID	1235071 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_Swiss_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1953_Swiss_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Max_de_Terra	ns25:hypernym	dbr:Driver .

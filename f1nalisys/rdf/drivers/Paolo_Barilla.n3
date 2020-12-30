@@ -1,0 +1,156 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Henri_Pescarolo	dbp:after	dbr:Paolo_Barilla .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Paolo_Barilla	foaf:primaryTopic	dbr:Paolo_Barilla .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Paolo_Barilla	rdf:type	dbo:FormulaOneRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Paolo_Barilla	rdf:type	yago:Driver110034906 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Paolo_Barilla	rdf:type	umbel-rc:RaceCarDriver .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Paolo_Barilla	rdf:type	ns8:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Paolo_Barilla	rdf:type	wikidata:Q5 ,
+		yago:WikicatJapaneseFormula3000ChampionshipDrivers ,
+		ns8:NaturalPerson ,
+		wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Athlete .
+@prefix schema:	<http://schema.org/> .
+dbr:Paolo_Barilla	rdf:type	schema:Person ,
+		dbo:Person ,
+		dbo:MotorsportRacer ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:WikicatMinardiFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatItalianFormulaThreeChampionshipDrivers ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Paolo_Barilla	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		dbo:Agent ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Paolo_Barilla	rdfs:label	"Paolo Barilla"@fr ,
+		"Paolo Barilla"@it ,
+		"Paolo Barilla"@es ,
+		"Paolo Barilla"@en ,
+		"\u30D1\u30AA\u30ED\u30FB\u30D0\u30EA\u30C3\u30E9"@ja ,
+		"Paolo Barilla"@de ,
+		"Paolo Barilla"@pl ,
+		"\u0411\u0430\u0440\u0438\u043B\u043B\u0430, \u041F\u0430\u043E\u043B\u043E"@ru ,
+		"\u0628\u0627\u0648\u0644\u0648 \u0628\u0627\u0631\u064A\u0644\u0627"@ar ,
+		"Paolo Barilla"@nl ,
+		"Paolo Barilla"@pt ;
+	rdfs:comment	"\u30D1\u30AA\u30ED\u30FB\u30D0\u30EA\u30C3\u30E9\uFF08Paolo Barilla\u30011961\u5E744\u670820\u65E5 - \uFF09\u306F\u30A4\u30BF\u30EA\u30A2\u751F\u307E\u308C\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3001\u5B9F\u696D\u5BB6\u30022008\u5E74\u73FE\u5728\u3001\u30D0\u30EA\u30C3\u30E9\u30FB\u30DB\u30FC\u30EB\u30C7\u30A3\u30F3\u30B0\u306E\u526F\u793E\u9577\u3092\u59CB\u3081\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u98DF\u54C1\u4F1A\u793E\u30D0\u30EA\u30C3\u30E9\u30B0\u30EB\u30FC\u30D7\u5404\u793E\u306E\u5F79\u54E1\u3092\u52D9\u3081\u3066\u3044\u308B\u3002"@ja ,
+		"\u041F\u0430\u043E\u043B\u043E \u0411\u0430\u0440\u0438\u043B\u043B\u0430 (\u0438\u0442\u0430\u043B. Paolo Barilla, 20 \u0430\u043F\u0440\u0435\u043B\u044F 1961, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Paolo Barilla (born 20 April 1961 in Milan, Italy) is a former Formula One driver who raced for the Minardi team. Paolo is one of the heirs of the vast Barilla pasta empire. Barilla started racing in 1975 and won the Italian 100 cc karting title in 1976. In 1980 he entered Formula Fiat Abarth, and moved up to Formula 3 in 1981, where he won some races and finished third in the Italian Championship. Barilla then entered Formula 2 in 1982 with Minardi, but between 1983 and 1988 he concentrated in sports car racing, winning 24 Hours of Le Mans by a three lap margin in 1985, among other victories, in the Joest Racing Porsche 956, co-driven at times with Klaus Ludwig, Paul Belmondo, Marc Duez, and Louis Krages (also known at the time as John Winter)."@en ,
+		"Paolo Barilla (20 de abril de 1961 en Mil\u00E1n) es un ex piloto italiano de Automovilismo, compiti\u00F3 en la F\u00F3rmula 1 con la escuder\u00EDa Minardi en quince Grandes Premios."@es ,
+		"Paolo Barilla Paolo Barilla (n\u00E9 le 20 avril 1961 \u00E0 Milan) est un ancien pilote automobile Italien. Auteur d'un modeste passage en Formule 1, il s'est surtout distingu\u00E9 dans les \u00E9preuves d'endurance, ayant notamment remport\u00E9 les 24 Heures du Mans en 1985."@fr ,
+		"\u0628\u0627\u0648\u0644\u0648 \u0628\u0627\u0631\u064A\u0644\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 20 \u0623\u0628\u0631\u064A\u0644 1961\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1989. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1989. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 15 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Paolo Barilla (Mil\u00E3o, 20 de abril de 1961) \u00E9 um automobilista italiano, que pilotou na F\u00F3rmula 1 por duas temporadas."@pt ,
+		"Paolo Barilla (ur. 20 kwietnia 1961 roku w Mediolanie) \u2013 by\u0142y w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Per Paolo Barilla (* 21. April 1961 in Mailand) ist ein italienischer Industriemanager und ehemaliger Automobilrennfahrer. Er fungiert als Stellvertretender Vorsitzender des italienischen Nudelherstellers und Weltmarktf\u00FChrers Barilla."@de ,
+		"Paolo Barilla (Milaan, 20 april 1961) is een Italiaans autocoureur. Hij won de 24 uur van Le Mans en nam 15 keer deel aan Formule 1-wedstrijden, hij kwalificeerde zich niet altijd. Paolo is afkomstig uit de familie van het Barilla pasta-imperium. Het geld daarvan heeft zijn carri\u00E8re zeker vooruit geholpen hoewel hij ook over het nodige talent beschikte. Barilla begon met racen in karts, daarna volgden onder andere Formule 3 en Formule 2. Vanaf 1983 kwam uit in Sportscar-klassen en behaalde daar de nodige successen. In 1985 volgde het hoogtepunt toen hij met Klaus Ludwig en 'Johnny Winter' (eigenlijk Louis Krages) de 24 uur van Le Mans won in een Porsche 956. Ze pakten ook het record van grootst afgelegde afstand bij die race."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Paolo_Barilla	dbp:birthDate	"1961-04-20"^^xsd:date .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Paolo_Barilla	owl:sameAs	dbpedia-de:Paolo_Barilla .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Paolo_Barilla	owl:sameAs	dbpedia-nl:Paolo_Barilla .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Paolo_Barilla	owl:sameAs	dbpedia-es:Paolo_Barilla .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Paolo_Barilla	owl:sameAs	dbpedia-pl:Paolo_Barilla ,
+		dbr:Paolo_Barilla .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Paolo_Barilla	owl:sameAs	dbpedia-fr:Paolo_Barilla .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Paolo_Barilla	owl:sameAs	dbpedia-pt:Paolo_Barilla .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Paolo_Barilla	owl:sameAs	dbpedia-wikidata:Q171613 ,
+		wikidata:Q171613 ,
+		<http://rdf.freebase.com/ns/m.04kwff> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Paolo_Barilla	owl:sameAs	dbpedia-it:Paolo_Barilla ,
+		<http://ja.dbpedia.org/resource/\u30D1\u30AA\u30ED\u30FB\u30D0\u30EA\u30C3\u30E9> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Paolo_Barilla	owl:sameAs	yago-res:Paolo_Barilla .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Paolo_Barilla	dct:subject	dbc:Japanese_Formula_3000_Championship_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Barilla_Group ,
+		dbc:International_Formula_3000_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1961_births> ,
+		dbc:Living_people ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:Italian_Formula_Three_Championship_drivers ;
+	foaf:name	"Paolo Barilla"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Paolo"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Paolo_Barilla ;
+	foaf:surname	"Barilla"@en ;
+	dbp:points	0 ;
+	dbp:years	dbr:Louis_Krages ,
+		1985 ,
+		dbr:Klaus_Ludwig ,
+		"-"^^xsd:string ;
+	dbp:after	dbr:Hans-Joachim_Stuck ,
+		dbr:Al_Holbert ,
+		<http://dbpedia.org/resource/Derek_Bell_(auto_racer)> ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Minardi .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Paolo_Barilla	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Paolo_Barilla?oldid=737666445> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20060619081823/http:/www.f1rejects.com/drivers/barilla/index.html> ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:before	dbr:Klaus_Ludwig ,
+		dbr:Henri_Pescarolo ;
+	dbo:abstract	"\u0628\u0627\u0648\u0644\u0648 \u0628\u0627\u0631\u064A\u0644\u0627 \u0645\u0648\u0627\u0644\u064A\u062F 20 \u0623\u0628\u0631\u064A\u0644 1961\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1989. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1989. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 15 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Paolo Barilla (Milaan, 20 april 1961) is een Italiaans autocoureur. Hij won de 24 uur van Le Mans en nam 15 keer deel aan Formule 1-wedstrijden, hij kwalificeerde zich niet altijd. Paolo is afkomstig uit de familie van het Barilla pasta-imperium. Het geld daarvan heeft zijn carri\u00E8re zeker vooruit geholpen hoewel hij ook over het nodige talent beschikte. Barilla begon met racen in karts, daarna volgden onder andere Formule 3 en Formule 2. Vanaf 1983 kwam uit in Sportscar-klassen en behaalde daar de nodige successen. In 1985 volgde het hoogtepunt toen hij met Klaus Ludwig en 'Johnny Winter' (eigenlijk Louis Krages) de 24 uur van Le Mans won in een Porsche 956. Ze pakten ook het record van grootst afgelegde afstand bij die race. Vanaf 1986 reed Barilla behalve in de Sportscars ook in de Formule 3000, toen de opstapklasse voor de Formule 1. Zijn resultaten daarin waren in de jaren daarop wisselvallig. In 1988 vertrok hij naar Japan waar uitkwam Sports Prototype-wedstrijden en de Japanse F3000. Het Formule 1-team van Minardi zocht in 1989 voor de Grand Prix Formule 1 van Japan een tijdelijke vervanger voor de geblesseerde Pierluigi Martini. Barilla, een goede vriend van Martini en een kenner van het circuit van Suzuka door zijn Japanse ervaring, kreeg de plek en wist zich voor de race te kwalificeren maar in de eerste ronde viel hij al uit met koppelingsproblemen. Een race later keerde Martini terug. Barilla had echter voldoende indruk gemaakt om een stoeltje te krijgen bij het team in 1990 als tweede coureur achter Martini. Maar Minardi maakte geen goed seizoen door en scoorde geen punten. Barilla had moeite om zich te kwalificeren en reed vaak anoniem mee. Bij de herstart van de Grand Prix Formule 1 van Belgi\u00EB viel hij wel op, Barilla crashte in Eau Rouge en miste de derde start. Hierna viel hij verder terug en Minardi zette hem drie races later op straat. Barilla kwam daarna nog zelden uit in autoraces, slechts af en toe een Sportscars-wedstrijd en enkele deelnames aan Parijs-Dakar bij de vrachtwagens. Hij ging werken bij zijn familiebedrijf en is vicepresident. Samen met zijn broers bezit hij 51% van de aandelen."@nl ,
+		"Paolo Barilla (born 20 April 1961 in Milan, Italy) is a former Formula One driver who raced for the Minardi team. Paolo is one of the heirs of the vast Barilla pasta empire. Barilla started racing in 1975 and won the Italian 100 cc karting title in 1976. In 1980 he entered Formula Fiat Abarth, and moved up to Formula 3 in 1981, where he won some races and finished third in the Italian Championship. Barilla then entered Formula 2 in 1982 with Minardi, but between 1983 and 1988 he concentrated in sports car racing, winning 24 Hours of Le Mans by a three lap margin in 1985, among other victories, in the Joest Racing Porsche 956, co-driven at times with Klaus Ludwig, Paul Belmondo, Marc Duez, and Louis Krages (also known at the time as John Winter). In 1987 Barilla returned to single-seaters and raced in the Japanese Formula 3000 Championship, before returning to Minardi in 1989 for a test. This test gave him the chance to replace Pierluigi Martini at Suzuka that year and afterwards was signed to drive for the team in 1990. Barilla wasn't quick enough to qualify regularly and was replaced before the end of the year by Gianni Morbidelli. Barilla then retired from racing and joined his family's businesses, where Paolo and his two brothers own a 51 percent stake in the company. Upon his return to the corporation, he briefly filled in as the CEO, before taking a more permanent position as a Vice-President. He has remained connected to motorsports in part due to Barilla's sponsorship of Alex Zanardi."@en ,
+		"Paolo Barilla (ur. 20 kwietnia 1961 roku w Mediolanie) \u2013 by\u0142y w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Per Paolo Barilla (* 21. April 1961 in Mailand) ist ein italienischer Industriemanager und ehemaliger Automobilrennfahrer. Er fungiert als Stellvertretender Vorsitzender des italienischen Nudelherstellers und Weltmarktf\u00FChrers Barilla."@de ,
+		"Paolo Barilla (20 de abril de 1961 en Mil\u00E1n) es un ex piloto italiano de Automovilismo, compiti\u00F3 en la F\u00F3rmula 1 con la escuder\u00EDa Minardi en quince Grandes Premios."@es ,
+		"Paolo Barilla Paolo Barilla (n\u00E9 le 20 avril 1961 \u00E0 Milan) est un ancien pilote automobile Italien. Auteur d'un modeste passage en Formule 1, il s'est surtout distingu\u00E9 dans les \u00E9preuves d'endurance, ayant notamment remport\u00E9 les 24 Heures du Mans en 1985."@fr ,
+		"\u041F\u0430\u043E\u043B\u043E \u0411\u0430\u0440\u0438\u043B\u043B\u0430 (\u0438\u0442\u0430\u043B. Paolo Barilla, 20 \u0430\u043F\u0440\u0435\u043B\u044F 1961, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"\u30D1\u30AA\u30ED\u30FB\u30D0\u30EA\u30C3\u30E9\uFF08Paolo Barilla\u30011961\u5E744\u670820\u65E5 - \uFF09\u306F\u30A4\u30BF\u30EA\u30A2\u751F\u307E\u308C\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3001\u5B9F\u696D\u5BB6\u30022008\u5E74\u73FE\u5728\u3001\u30D0\u30EA\u30C3\u30E9\u30FB\u30DB\u30FC\u30EB\u30C7\u30A3\u30F3\u30B0\u306E\u526F\u793E\u9577\u3092\u59CB\u3081\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u98DF\u54C1\u4F1A\u793E\u30D0\u30EA\u30C3\u30E9\u30B0\u30EB\u30FC\u30D7\u5404\u793E\u306E\u5F79\u54E1\u3092\u52D9\u3081\u3066\u3044\u308B\u3002"@ja ,
+		"Paolo Barilla (Mil\u00E3o, 20 de abril de 1961) \u00E9 um automobilista italiano, que pilotou na F\u00F3rmula 1 por duas temporadas."@pt ;
+	dbo:birthDate	"1961-4-20"^^xsd:date ;
+	dbo:wikiPageRevisionID	737666445 ;
+	dbo:birthPlace	dbr:Milan ;
+	dbo:wikiPageID	1235356 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1989_Japanese_Grand_Prix> ;
+	dbo:races	"15"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1990_Spanish_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Paolo_Barilla	ns26:hypernym	dbr:Driver ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners .
+dbr:Louis_Krages	dbp:years	dbr:Paolo_Barilla .
+dbr:Al_Holbert	dbp:before	dbr:Paolo_Barilla .
+dbr:Klaus_Ludwig	dbp:years	dbr:Paolo_Barilla ;
+	dbp:after	dbr:Paolo_Barilla .
+<http://dbpedia.org/resource/Derek_Bell_(racing_driver)>	dbp:before	dbr:Paolo_Barilla .
+dbr:Hans-Joachim_Stuck	dbp:before	dbr:Paolo_Barilla .

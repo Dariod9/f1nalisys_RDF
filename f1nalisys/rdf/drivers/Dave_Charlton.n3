@@ -1,0 +1,142 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Dave_Charlton	foaf:primaryTopic	dbr:Dave_Charlton .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/John_Love_(racing_driver)>	dbp:after	dbr:Dave_Charlton .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Dave_Charlton	rdf:type	owl:Thing .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Dave_Charlton	rdf:type	ns6:NaturalPerson ,
+		ns6:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Dave_Charlton	rdf:type	wikidata:Q24229398 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Dave_Charlton	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Dave_Charlton	rdf:type	schema:Person ,
+		foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Dave_Charlton	rdf:type	yago:WikicatSouthAfricanFormulaOneDrivers ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		yago:WikicatTeamLotusFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Dave_Charlton	rdf:type	dbo:FormulaOneRacer ,
+		yago:WikicatScuderiaScribanteFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Athlete .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Dave_Charlton	rdfs:label	"Dave Charlton"@nl ,
+		"Dave Charlton"@fr ,
+		"Dave Charlton"@de ,
+		"Dave Charlton"@it ,
+		"Dave Charlton"@es ,
+		"\u30C7\u30A4\u30F4\u30FB\u30C1\u30E3\u30FC\u30EB\u30C8\u30F3"@ja ,
+		"Dave Charlton"@pl ,
+		"Dave Charlton"@en ,
+		"Dave Charlton"@pt ;
+	rdfs:comment	"\u30C7\u30D3\u30C3\u30C9\u30FB\u30A6\u30A3\u30EA\u30A2\u30E0\u30FB\u30C1\u30E3\u30FC\u30EB\u30C8\u30F3\uFF08David William Charlton\u30011936\u5E7410\u670827\u65E5 - 2013\u5E742\u670824\u65E5\uFF09\u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u5171\u548C\u56FD\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u30C1\u30E3\u30FC\u30EB\u30C8\u30F3\u306F\u30A4\u30AE\u30EA\u30B9\u30FB\u30E8\u30FC\u30AF\u30B7\u30E3\u30FC\u5DDE\u30D6\u30ED\u30C3\u30C8\u30F3\u306B\u751F\u307E\u308C\u305F\u3002\u5F7C\u306F1965\u5E741\u67081\u65E5\u306BF1\u4E16\u754C\u9078\u624B\u6A29\u306B\u30C7\u30D3\u30E5\u30FC\u305713\u6226\u306B\u51FA\u8D70\u3057\u305F\u304C\u3001\u9078\u624B\u6A29\u306E\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3059\u308B\u3053\u3068\u304C\u3067\u304D\u306A\u304B\u3063\u305F\u3002\u5F7C\u306F\u5357\u30A2\u30D5\u30EA\u30ABF1\u9078\u624B\u6A29\u30671970\u5E74\u304B\u30891975\u5E74\u307E\u30676\u5E74\u9023\u7D9A\u306E\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3068\u306A\u3063\u305F\u3002\u307E\u305F\u3001\u8907\u6570\u306E\u30CE\u30F3\u30BF\u30A4\u30C8\u30EB\u30EC\u30FC\u30B9\u306B\u3082\u53C2\u52A0\u3057\u305F\u3002 \u30C1\u30E3\u30FC\u30EB\u30C8\u30F3\u306F2013\u5E742\u670824\u65E5\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u306E\u30E8\u30CF\u30CD\u30B9\u30D6\u30EB\u30B0\u3067\u6B7B\u53BB\u3057\u305F\u300276\u6B73\u6CA1\u3002"@ja ,
+		"Dave Williams Charlton, n\u00E9 le 27 octobre 1936 \u00E0 Brotton (Yorkshire du Nord, Royaume-Uni), et mort le 24 f\u00E9vrier 2013, est un pilote automobile sud-africain qui a b\u00E2ti principalement son palmar\u00E8s en Championnat d'Afrique du Sud de Formule 1. Au niveau local, Dave Charlton restera longtemps dans l'ombre du rhod\u00E9sien John Love avant de prendre le dessus en 1970. D\u00E8s lors, il deviendra le ma\u00EEtre incontest\u00E9 de la discipline jusqu'\u00E0 la mort de celle-ci, en 1975 en sport."@fr ,
+		"Dave Charlton (Brotton, Yorkshire, Groot-Brittanni\u00EB, 27 oktober 1936 \u2013 Johannesburg, 24 februari 2013) was een Formule 1-coureur uit Zuid-Afrika. Hij reed in 1965, 1967, 1968 en van 1970 t/m 1975 11 Grands Prix voor de teams Lotus, Brabham en McLaren."@nl ,
+		"Dave Charlton (Brotton, Yorkshire, Inglaterra, 27 de outubro de 1936 - Johannesburg, \u00C1frica do Sul, 23 de fevereiro de 2013) foi um automobilista sul-africano. Participou de 13 Grandes Pr\u00EAmios de F\u00F3rmula 1 pelas equipes Team Lotus, Brabham e McLaren."@pt ,
+		"David William \u201EDave\u201C Charlton (* 27. Oktober 1936 in Brotton; \u2020 24. Februar 2013 in Johannesburg) war ein s\u00FCdafrikanischer Autorennfahrer. Er gewann sechsmal in Folge (1970 bis 1975) die S\u00FCdafrikanische Formel-1-Meisterschaft und nahm auch an einigen Rennen der Formel-1-Weltmeisterschaft teil."@de ,
+		"David William Charlton (27 October 1936 \u2013 24 February 2013) was a racing driver from South Africa. Charlton was born in Brotton, Yorkshire, UK. He participated in 13 World Championship Formula One Grands Prix, debuting on 1 January 1965. He scored no championship points. He competed in many non-World Championship Formula One races, winning the South African Formula One Championship six times in succession from 1970 to 1975. Charlton died in Johannesburg, South Africa on February 24, 2013, aged 76."@en ,
+		"Dave Charlton (Yorkshire, Reino unido, 27 de octubre de 1936 - Johanesburgo, Sud\u00E1frica, 24 de febrero de 2013)fue un piloto sudafricano de F\u00F3rmula 1."@es ,
+		"David William \u201EDave\u201D Charlton (ur. 27 pa\u017Adziernika 1936 w Brotton, Yorkshire, zm. 24 lutego 2013 w Johannesburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca wy\u015Bcigowy."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Dave_Charlton	dbp:birthDate	"1936-10-27"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Dave_Charlton	owl:sameAs	yago-res:Dave_Charlton .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Dave_Charlton	owl:sameAs	dbpedia-fr:Dave_Charlton ,
+		wikidata:Q460768 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Dave_Charlton	owl:sameAs	dbpedia-it:Dave_Charlton ,
+		<http://rdf.freebase.com/ns/m.04k7vz> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Dave_Charlton	owl:sameAs	dbpedia-es:Dave_Charlton .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Dave_Charlton	owl:sameAs	dbpedia-nl:Dave_Charlton .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Dave_Charlton	owl:sameAs	dbpedia-de:Dave_Charlton .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Dave_Charlton	owl:sameAs	dbpedia-pt:Dave_Charlton .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Dave_Charlton	owl:sameAs	dbpedia-wikidata:Q460768 ,
+		dbr:Dave_Charlton .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Dave_Charlton	owl:sameAs	dbpedia-pl:Dave_Charlton ,
+		<http://ja.dbpedia.org/resource/\u30C7\u30A4\u30F4\u30FB\u30C1\u30E3\u30FC\u30EB\u30C8\u30F3> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Dave_Charlton	dct:subject	dbc:South_African_racing_drivers ,
+		<http://dbpedia.org/resource/Category:2013_deaths> ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:South_African_Formula_One_drivers ,
+		dbc:English_emigrants_to_South_Africa ,
+		dbc:Scuderia_Scribante_Formula_One_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1936_births> ;
+	foaf:name	"Dave Charlton"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/McLaren_M23_(Emerson_Fittipaldi)_-_001.jpg> ;
+	dct:description	"English-born South African racing driver"@en ;
+	foaf:givenName	"Dave"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Dave_Charlton ;
+	foaf:surname	"Charlton"@en ;
+	dbp:points	0 ;
+	dbp:years	", \u2013, \u2013"^^xsd:string ,
+		1970 ;
+	dbp:after	"none"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Brabham ,
+		"non-works McLaren and Lotus"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Dave_Charlton	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dave_Charlton?oldid=697103122> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-chadav.html> ;
+	dbp:nationality	"South African"^^xsd:string ;
+	dbp:birthPlace	", UK"^^xsd:string ,
+		","^^xsd:string ,
+		dbr:Yorkshire ,
+		dbr:Brotton ;
+	dbp:deathDate	"2013-02-24"^^xsd:date ;
+	dbp:before	<http://dbpedia.org/resource/John_Love_(racing_driver)> ;
+	dbp:deathPlace	", South Africa"^^xsd:string ,
+		dbr:Johannesburg ;
+	dbo:abstract	"Dave Williams Charlton, n\u00E9 le 27 octobre 1936 \u00E0 Brotton (Yorkshire du Nord, Royaume-Uni), et mort le 24 f\u00E9vrier 2013, est un pilote automobile sud-africain qui a b\u00E2ti principalement son palmar\u00E8s en Championnat d'Afrique du Sud de Formule 1. Dans le cadre du championnat du monde de Formule 1, sa premi\u00E8re tentative, \u00E0 l'occasion du Grand Prix automobile d'Afrique du Sud 1965 se conclut par une non-qualification. Il r\u00E9ussira \u00E0 prendre le d\u00E9part de son premier Grand Prix deux ans plus tard, gr\u00E2ce \u00E0 une belle 8e place sur la grille de d\u00E9part. Concurrent r\u00E9gulier de cette \u00E9preuve, il sera le premier pilote de son pays \u00E0 parvenir \u00E0 se qualifier pour un Grand Prix europ\u00E9en (GP de Grande-Bretagne 1971). Au niveau local, Dave Charlton restera longtemps dans l'ombre du rhod\u00E9sien John Love avant de prendre le dessus en 1970. D\u00E8s lors, il deviendra le ma\u00EEtre incontest\u00E9 de la discipline jusqu'\u00E0 la mort de celle-ci, en 1975 en sport."@fr ,
+		"David William \u201EDave\u201D Charlton (ur. 27 pa\u017Adziernika 1936 w Brotton, Yorkshire, zm. 24 lutego 2013 w Johannesburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Dave Charlton (Brotton, Yorkshire, Inglaterra, 27 de outubro de 1936 - Johannesburg, \u00C1frica do Sul, 23 de fevereiro de 2013) foi um automobilista sul-africano. Participou de 13 Grandes Pr\u00EAmios de F\u00F3rmula 1 pelas equipes Team Lotus, Brabham e McLaren."@pt ,
+		"Dave Charlton (Brotton, Yorkshire, Groot-Brittanni\u00EB, 27 oktober 1936 \u2013 Johannesburg, 24 februari 2013) was een Formule 1-coureur uit Zuid-Afrika. Hij reed in 1965, 1967, 1968 en van 1970 t/m 1975 11 Grands Prix voor de teams Lotus, Brabham en McLaren."@nl ,
+		"Dave Charlton (Yorkshire, Reino unido, 27 de octubre de 1936 - Johanesburgo, Sud\u00E1frica, 24 de febrero de 2013)fue un piloto sudafricano de F\u00F3rmula 1."@es ,
+		"David William Charlton (27 October 1936 \u2013 24 February 2013) was a racing driver from South Africa. Charlton was born in Brotton, Yorkshire, UK. He participated in 13 World Championship Formula One Grands Prix, debuting on 1 January 1965. He scored no championship points. He competed in many non-World Championship Formula One races, winning the South African Formula One Championship six times in succession from 1970 to 1975. Charlton died in Johannesburg, South Africa on February 24, 2013, aged 76."@en ,
+		"David William \u201EDave\u201C Charlton (* 27. Oktober 1936 in Brotton; \u2020 24. Februar 2013 in Johannesburg) war ein s\u00FCdafrikanischer Autorennfahrer. Er gewann sechsmal in Folge (1970 bis 1975) die S\u00FCdafrikanische Formel-1-Meisterschaft und nahm auch an einigen Rennen der Formel-1-Weltmeisterschaft teil."@de ,
+		"\u30C7\u30D3\u30C3\u30C9\u30FB\u30A6\u30A3\u30EA\u30A2\u30E0\u30FB\u30C1\u30E3\u30FC\u30EB\u30C8\u30F3\uFF08David William Charlton\u30011936\u5E7410\u670827\u65E5 - 2013\u5E742\u670824\u65E5\uFF09\u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u5171\u548C\u56FD\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u30C1\u30E3\u30FC\u30EB\u30C8\u30F3\u306F\u30A4\u30AE\u30EA\u30B9\u30FB\u30E8\u30FC\u30AF\u30B7\u30E3\u30FC\u5DDE\u30D6\u30ED\u30C3\u30C8\u30F3\u306B\u751F\u307E\u308C\u305F\u3002\u5F7C\u306F1965\u5E741\u67081\u65E5\u306BF1\u4E16\u754C\u9078\u624B\u6A29\u306B\u30C7\u30D3\u30E5\u30FC\u305713\u6226\u306B\u51FA\u8D70\u3057\u305F\u304C\u3001\u9078\u624B\u6A29\u306E\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3059\u308B\u3053\u3068\u304C\u3067\u304D\u306A\u304B\u3063\u305F\u3002\u5F7C\u306F\u5357\u30A2\u30D5\u30EA\u30ABF1\u9078\u624B\u6A29\u30671970\u5E74\u304B\u30891975\u5E74\u307E\u30676\u5E74\u9023\u7D9A\u306E\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3068\u306A\u3063\u305F\u3002\u307E\u305F\u3001\u8907\u6570\u306E\u30CE\u30F3\u30BF\u30A4\u30C8\u30EB\u30EC\u30FC\u30B9\u306B\u3082\u53C2\u52A0\u3057\u305F\u3002 \u30C1\u30E3\u30FC\u30EB\u30C8\u30F3\u306F2013\u5E742\u670824\u65E5\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u306E\u30E8\u30CF\u30CD\u30B9\u30D6\u30EB\u30B0\u3067\u6B7B\u53BB\u3057\u305F\u300276\u6B73\u6CA1\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/McLaren_M23_(Emerson_Fittipaldi)_-_001.jpg?width=300> ;
+	dbo:birthDate	"1936-10-27"^^xsd:date ;
+	dbo:deathDate	"2013-2-24"^^xsd:date ;
+	dbo:deathPlace	dbr:Johannesburg ;
+	dbo:wikiPageRevisionID	697103122 ;
+	dbo:birthPlace	dbr:Brotton ;
+	dbo:wikiPageID	1228291 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1965_South_African_Grand_Prix> ;
+	dbo:races	"14"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1975_South_African_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Dave_Charlton	ns26:hypernym	dbr:Driver ;
+	dbp:title	"South African Formula One Champion"^^xsd:string .

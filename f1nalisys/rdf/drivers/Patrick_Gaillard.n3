@@ -1,0 +1,124 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Patrick_Gaillard	foaf:primaryTopic	dbr:Patrick_Gaillard .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Patrick_Gaillard	rdf:type	dbo:RacingDriver ,
+		dbo:MotorsportRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Patrick_Gaillard	rdf:type	umbel-rc:RaceCarDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Patrick_Gaillard	rdf:type	wikidata:Q378622 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Patrick_Gaillard	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Patrick_Gaillard	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		foaf:Person ,
+		dbo:Person ,
+		dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Patrick_Gaillard	rdf:type	yago:CausalAgent100007347 ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Patrick_Gaillard	rdf:type	ns10:NaturalPerson ,
+		yago:WikicatEnsignFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		ns10:Agent ,
+		wikidata:Q24229398 ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		wikidata:Q215627 ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatFormulaRenaultDrivers ,
+		dbo:Athlete ,
+		yago:Operator110378412 ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Patrick_Gaillard	rdfs:label	"Patrick Gaillard"@it ,
+		"Patrick Gaillard"@nl ,
+		"Patrick Gaillard"@de ,
+		"\u0413\u0430\u0439\u044F\u0440, \u041F\u0430\u0442\u0440\u0438\u043A"@ru ,
+		"Patrick Gaillard"@fr ,
+		"Patrick Gaillard"@en ,
+		"Patrick Gaillard"@pl ,
+		"Patrick Gaillard"@pt ;
+	rdfs:comment	"Patrick Gaillard (Parijs, 12 februari 1952) is een voormalig Formule 1-coureur uit Frankrijk. Hij reed in 1979 5 Grands Prix voor het team Ensign."@nl ,
+		"Patrick Gaillard (* 12. Februar 1952 in Paris) ist ein ehemaliger franz\u00F6sischer Formel-1- und Sportwagenrennfahrer. Er startete in zwei Grand-Prix-Rennen f\u00FCr das Team Ensign; dreimal konnte er sich nicht qualifizieren."@de ,
+		"Patrick Gaillard (ur. 2 lutego 1952 roku w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Patrick Gaillard (born February 12, 1952 in Paris) is a former racing driver from France. He participated in 5 World Championship Formula One Grands Prix, debuting on July 1, 1979. He scored no championship points. After performing well in French Formula Renault and Formula 3, Gaillard moved into Formula 2 in 1979, the same year as he drove for Ensign in Formula 1. The Ensign N179 was not a good car and Gaillard struggled on occasions, failing to qualify three times out of five, before being dropped in favour of Marc Surer."@en ,
+		"\u041F\u0430\u0442\u0440\u0438\u043A \u0413\u0430\u0439\u044F\u0440 (\u0444\u0440. Patrick Gaillard, 12 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1952 \u0433\u043E\u0434\u0430, \u041F\u0430\u0440\u0438\u0436) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Dopo aver ottenuto buoni risultati nella Formula Renault e nella Formula 3 francese pass\u00F2 nel 1979 alla Formula 2, debuttando nello stesso anno anche in Formula 1 con il team Ensign. La Ensign N179 non era affatto un'auto competitiva e Gaillard riusc\u00EC a qualificarsi per la gara solamente in due occasioni su cinque. Venne sostituito in squadra da Marc Surer. Nel 1980 torn\u00F2 in Ensign disputando il Gran Premio di Spagna, che venne in seguito non dichiarato valido per il mondiale a causa della guerra tra FISA e FOCA."@it ,
+		"Patrick Gaillard, n\u00E9 le 12 f\u00E9vrier 1952 \u00E0 Paris, est un pilote automobile fran\u00E7ais."@fr ,
+		"Patrick Gaillard (Paris, 12 de Fevereiro de 1952) \u00E9 um ex-piloto da Fran\u00E7a. Participou de 5 finais de semana, por\u00E9m s\u00F3 disputou duas corridas na F\u00F3rmula 1. Atualmente, \u00E9 instrutor de pilotagem na Fran\u00E7a."@pt .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Patrick_Gaillard	dbp:points	0 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Patrick_Gaillard	owl:sameAs	dbpedia-fr:Patrick_Gaillard .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Patrick_Gaillard	owl:sameAs	dbpedia-pl:Patrick_Gaillard .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Patrick_Gaillard	owl:sameAs	dbpedia-it:Patrick_Gaillard ,
+		wikidata:Q172204 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Patrick_Gaillard	owl:sameAs	dbpedia-nl:Patrick_Gaillard .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Patrick_Gaillard	owl:sameAs	yago-res:Patrick_Gaillard ,
+		<http://rdf.freebase.com/ns/m.04kwg6> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Patrick_Gaillard	owl:sameAs	dbpedia-pt:Patrick_Gaillard .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Patrick_Gaillard	owl:sameAs	dbpedia-de:Patrick_Gaillard ,
+		dbr:Patrick_Gaillard .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Patrick_Gaillard	owl:sameAs	dbpedia-cs:Patrick_Gaillard .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Patrick_Gaillard	owl:sameAs	dbpedia-wikidata:Q172204 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Patrick_Gaillard	dct:subject	dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Living_people ,
+		dbc:French_Formula_One_drivers ,
+		dbc:French_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1952_births> ,
+		dbc:Sportspeople_from_Paris ,
+		dbc:Ensign_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Patrick Gaillard"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Patrick"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Patrick_Gaillard ;
+	foaf:surname	"Gaillard"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Patrick_Gaillard	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Patrick_Gaillard?oldid=703978603> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Patrick_Gaillard	dbp:birthDate	"1952-02-12"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-gaipat.html> ;
+	dbo:abstract	"\u041F\u0430\u0442\u0440\u0438\u043A \u0413\u0430\u0439\u044F\u0440 (\u0444\u0440. Patrick Gaillard, 12 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1952 \u0433\u043E\u0434\u0430, \u041F\u0430\u0440\u0438\u0436) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Dopo aver ottenuto buoni risultati nella Formula Renault e nella Formula 3 francese pass\u00F2 nel 1979 alla Formula 2, debuttando nello stesso anno anche in Formula 1 con il team Ensign. La Ensign N179 non era affatto un'auto competitiva e Gaillard riusc\u00EC a qualificarsi per la gara solamente in due occasioni su cinque. Venne sostituito in squadra da Marc Surer. Nel 1980 torn\u00F2 in Ensign disputando il Gran Premio di Spagna, che venne in seguito non dichiarato valido per il mondiale a causa della guerra tra FISA e FOCA. Corse negli anni seguenti in Formula 2, CanAm e nella categorie sport, compresa la 24 Ore di Le Mans. Dopo il ritiro \u00E8 diventato istruttore di guida sportiva."@it ,
+		"Patrick Gaillard (ur. 2 lutego 1952 roku w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Patrick Gaillard (* 12. Februar 1952 in Paris) ist ein ehemaliger franz\u00F6sischer Formel-1- und Sportwagenrennfahrer. Er startete in zwei Grand-Prix-Rennen f\u00FCr das Team Ensign; dreimal konnte er sich nicht qualifizieren."@de ,
+		"Patrick Gaillard (born February 12, 1952 in Paris) is a former racing driver from France. He participated in 5 World Championship Formula One Grands Prix, debuting on July 1, 1979. He scored no championship points. After performing well in French Formula Renault and Formula 3, Gaillard moved into Formula 2 in 1979, the same year as he drove for Ensign in Formula 1. The Ensign N179 was not a good car and Gaillard struggled on occasions, failing to qualify three times out of five, before being dropped in favour of Marc Surer. In 1980 Gaillard returned to Ensign for the Spanish Grand Prix and finished in a points-paying 6th place\u2014the last of 6 cars still running at the finish, 5 laps down. However, the result did not count as this race was subsequently downgraded to non-Championship status due to the FISA-FOCA war (F1 sporting body versus the F1 manufacturers), making Gaillard's only point nullified. Thereafter he drove in Formula 2, CanAm, and sports cars including the 24 Hours of Le Mans before retiring. He later became a racing instructor."@en ,
+		"Patrick Gaillard (Parijs, 12 februari 1952) is een voormalig Formule 1-coureur uit Frankrijk. Hij reed in 1979 5 Grands Prix voor het team Ensign."@nl ,
+		"Patrick Gaillard (Paris, 12 de Fevereiro de 1952) \u00E9 um ex-piloto da Fran\u00E7a. Participou de 5 finais de semana, por\u00E9m s\u00F3 disputou duas corridas na F\u00F3rmula 1. Atualmente, \u00E9 instrutor de pilotagem na Fran\u00E7a."@pt ,
+		"Patrick Gaillard, n\u00E9 le 12 f\u00E9vrier 1952 \u00E0 Paris, est un pilote automobile fran\u00E7ais."@fr ;
+	dbo:birthDate	"1952-2-12"^^xsd:date ;
+	dbo:wikiPageRevisionID	703978603 ;
+	dbo:birthPlace	dbr:Paris ;
+	dbo:wikiPageID	1235358 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Patrick_Gaillard	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1979_French_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1979_Dutch_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"5"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Ensign_(racing_team)> ;
+	dbp:nationality	"French"^^xsd:string .
+<http://dbpedia.org/resource/Gaillard_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Patrick_Gaillard .

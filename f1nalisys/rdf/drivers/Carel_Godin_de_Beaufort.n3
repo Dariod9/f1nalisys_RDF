@@ -1,0 +1,166 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1963_Syracuse_Grand_Prix>	dbo:secondDriver	dbr:Carel_Godin_de_Beaufort .
+<http://dbpedia.org/resource/1963_Austrian_Grand_Prix>	dbo:thirdDriver	dbr:Carel_Godin_de_Beaufort .
+<http://dbpedia.org/resource/1963_Rome_Grand_Prix>	dbo:secondDriver	dbr:Carel_Godin_de_Beaufort ;
+	dbo:poleDriver	dbr:Carel_Godin_de_Beaufort .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__36__1>	dbo:firstDriver	dbr:Carel_Godin_de_Beaufort .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__8__1>	dbo:firstDriver	dbr:Carel_Godin_de_Beaufort .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__5th__1>	dbo:team	dbr:Carel_Godin_de_Beaufort ;
+	dbo:firstDriver	dbr:Carel_Godin_de_Beaufort .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__18th__1>	dbo:firstDriver	dbr:Carel_Godin_de_Beaufort .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__31st__1>	dbo:team	dbr:Carel_Godin_de_Beaufort ;
+	dbo:firstDriver	dbr:Carel_Godin_de_Beaufort .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__47__1>	dbo:firstDriver	dbr:Carel_Godin_de_Beaufort .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__31__1>	dbo:firstDriver	dbr:Carel_Godin_de_Beaufort .
+dbr:Carel	dbo:wikiPageDisambiguates	dbr:Carel_Godin_de_Beaufort .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Carel_Godin_de_Beaufort	foaf:primaryTopic	dbr:Carel_Godin_de_Beaufort .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/John_Taylor_(racing_driver)>	dbp:before	dbr:Carel_Godin_de_Beaufort .
+dbr:Gary_Hocking	dbp:after	dbr:Carel_Godin_de_Beaufort .
+dbr:Porsche_718	dbp:drivers	dbr:Carel_Godin_de_Beaufort .
+dbr:Ecurie_Maarsbergen	dbp:founders	dbr:Carel_Godin_de_Beaufort .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Carel_Godin_de_Beaufort	rdf:type	yago:Driver110034906 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Carel_Godin_de_Beaufort	rdf:type	ns7:NaturalPerson ,
+		ns7:Agent ,
+		yago:WikicatEcurieMaarsbergenFormulaOneDrivers ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		yago:Operator110378412 ,
+		yago:WikicatDutchFormulaOneDrivers ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Carel_Godin_de_Beaufort	rdf:type	wikidata:Q378622 ,
+		wikidata:Q5 ,
+		dbo:MotorsportRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Carel_Godin_de_Beaufort	rdf:type	owl:Thing ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Agent ,
+		dbo:FormulaOneRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Carel_Godin_de_Beaufort	rdf:type	umbel-rc:RaceCarDriver ,
+		umbel-rc:Athlete ,
+		wikidata:Q24229398 ,
+		dbo:Person ,
+		wikidata:Q215627 ,
+		yago:CausalAgent100007347 ,
+		foaf:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Carel_Godin_de_Beaufort	rdf:type	schema:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Carel_Godin_de_Beaufort	rdfs:label	"Carel Godin de Beaufort"@de ,
+		"\u0411\u043E\u0444\u043E\u0440, \u041A\u0430\u0440\u0435\u043B-\u0413\u043E\u0434\u0435\u043D \u0434\u0435"@ru ,
+		"Carel Godin de Beaufort"@nl ,
+		"Carel Godin de Beaufort"@it ,
+		"Carel Godin de Beaufort"@fr ,
+		"Carel Godin de Beaufort"@en ,
+		"\u0643\u0627\u0631\u064A\u0644 \u063A\u0648\u062F\u064A\u0646 \u062F\u064A \u0628\u0648\u0641\u0648\u0631\u062A"@ar ,
+		"Carel Godin de Beaufort"@pl ,
+		"Carel Godin de Beaufort"@pt ;
+	rdfs:comment	"Jonkheer Karel Pieter Antoni Jan Hubertus (Carel) Godin de Beaufort (ur. 10 kwietnia 1934 w Maarsbergen, zm. 2 sierpnia 1964 w Kolonii) \u2013 holenderski kierowca wy\u015Bcigowy. Pochodzi\u0142 z jednego z najwi\u0119kszych rod\u00F3w szlacheckich w Holandii. Zaczyna\u0142 od kartingu i awansowa\u0142 do coraz wy\u017Cszych serii wy\u015Bcigowych. Startowa\u0142 w Formule 1 w latach 1957-1964. Zwi\u0105zany by\u0142 z zespo\u0142em Porsche. Cztery razy zdobywa\u0142 po punkcie za sz\u00F3ste miejsca w wy\u015Bcigach. Podczas trening\u00F3w przed Grand Prix Niemiec w 1964 wypad\u0142 z toru na szybkim zakr\u0119cie. Bolid przekozio\u0142kowa\u0142, kierowca wypad\u0142 i zosta\u0142 przygnieciony przez wrak. Dozna\u0142 obra\u017Ce\u0144 g\u0142owy, n\u00F3g i narz\u0105d\u00F3w wewn\u0119trznych. Zmar\u0142 w szpitalu po trzech dniach."@pl ,
+		"Corse 31 Gran Premi in Formula 1 dal 1957 al 1964 (28 partenze), la maggior parte dei quali al volante di automobili Porsche dipinte nel tipico arancione olandese ed iscritte dalla sua squadra Ecurie Maarsbergen. Mor\u00EC per le conseguenze di un incidente durante le prove del Gran Premio di Germania 1964 al N\u00FCrburgring nella curva Bergwerk."@it ,
+		"Karel Pieter Antoni Jan Hubertus (Carel) Godin de Beaufort (Maarsbergen, 10 april 1934 \u2013 Keulen, 1 augustus 1964), heer van Maarn en Maarsbergen, was een Nederlands autocoureur, die bijnamen als De racende jonkheer en De jonker van Maarsbergen had. De Beaufort was een lid van de adellijke tak van de familie De Beaufort. Hij werd ook wel Careltje genoemd vanwege zijn toch wel aanzienlijk postuur - bijna twee meter lang en 118 kilo zwaar. Hij woonde op kasteel Maarsbergen, dat sinds 1882 in familiebezit is. Met hem stierf deze tak van het geslacht in mannelijke lijn uit, hij was de laatste man die de familienaam Godin de Beaufort droeg."@nl ,
+		"Jonkheer Karel Pieter Antoni Jan Hubertus (Carel) Godin de Beaufort (10 April 1934, Maarsbergen \u2013 2 August 1964, Cologne, Germany) was a Dutch nobleman and motorsport driver from the Netherlands. He competed in Formula One between 1957 and 1964."@en ,
+		"L'\u00E9cuyer Karel Pieter Antoni Jan Hubertus Godin de Beaufort seigneur de Maarn et Maarsbergen, dit Carel Godin de Beaufort, n\u00E9 le 10 avril 1934 au ch\u00E2teau de Maarsbergen (province d'Utrecht) aux Pays-Bas et mort le 2 ao\u00FBt 1964 \u00E0 D\u00FCsseldorf (Land de Rh\u00E9nanie-du-Nord-Westphalie) en Allemagne, est un pilote de course automobile n\u00E9erlandais. Il a notamment disput\u00E9 26 Grands Prix de Formule 1 entre 1957 et 1964 et est le premier N\u00E9erlandais \u00E0 avoir marqu\u00E9 des points en championnat du monde (4 au total)."@fr ,
+		"\u0643\u0627\u0631\u064A\u0644 \u063A\u0648\u062F\u064A\u0646 \u062F\u064A \u0628\u0648\u0641\u0648\u0631\u062A \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0623\u0628\u0631\u064A\u0644 1934 \u0641\u064A \u0647\u0648\u0644\u0646\u062F\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0647\u0648\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1957. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1957."@ar ,
+		"Jonkheer Karel Pieter Antoni Jan Hubertus Godin de Beaufort, mais conhecido como Carel Godin de Beaufort ou tamb\u00E9m Carel de Beaufort (Maarsbergen, 10 de abril de 1934 - Col\u00F4nia, 2 de agosto de 1964) foi um ex-piloto de automobilismo dos Pa\u00EDses Baixos. Ele disputou oito temoradas de F\u00F3rmula 1, marcando quatro pontos ao todo."@pt ,
+		"Carel Godin de Beaufort, eigentlich Jonkheer Karel Pieter Anthonie Jan Hubertus Godin de Beaufort, Heer van Maarn en Maarsbergen, (* 10. April 1934 in Maarsbergen, Niederlande; \u2020 2. August 1964 in K\u00F6ln) war ein niederl\u00E4ndischer Formel-1-Rennfahrer."@de ,
+		"\u041A\u0430\u0301\u0440\u0435\u043B-\u0413\u043E\u0301\u0434\u0435\u043D \u0434\u0435 \u0411\u043E\u0444\u043E\u0301\u0440 (\u043D\u0438\u0434\u0435\u0440\u043B. Carel Godin de Beaufort; 10 \u0430\u043F\u0440\u0435\u043B\u044F 1934, \u041C\u0430\u0430\u0440\u0441\u0431\u0435\u0440\u0433\u0435\u043D \u2014 2 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1964, \u041A\u0451\u043B\u044C\u043D) \u2014 \u043D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0433\u0440\u0430\u0444 \u0438 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ;
+	dbp:points	4 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Carel_Godin_de_Beaufort	owl:sameAs	dbpedia-pl:Carel_Godin_de_Beaufort ,
+		<http://rdf.freebase.com/ns/m.04jghs> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Carel_Godin_de_Beaufort	owl:sameAs	dbpedia-de:Carel_Godin_de_Beaufort ,
+		dbr:Carel_Godin_de_Beaufort .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Carel_Godin_de_Beaufort	owl:sameAs	dbpedia-wikidata:Q171963 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Carel_Godin_de_Beaufort	owl:sameAs	dbpedia-nl:Carel_Godin_de_Beaufort .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Carel_Godin_de_Beaufort	owl:sameAs	dbpedia-it:Carel_Godin_de_Beaufort .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Carel_Godin_de_Beaufort	owl:sameAs	dbpedia-fr:Carel_Godin_de_Beaufort .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Carel_Godin_de_Beaufort	owl:sameAs	yago-res:Carel_Godin_de_Beaufort ,
+		wikidata:Q171963 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Carel_Godin_de_Beaufort	owl:sameAs	dbpedia-pt:Carel_Godin_de_Beaufort .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Carel_Godin_de_Beaufort	dct:subject	dbc:Ecurie_Maarsbergen_Formula_One_drivers ,
+		dbc:Dutch_Formula_One_drivers ,
+		dbc:Dutch_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1934_births> ,
+		dbc:People_from_Maarn ,
+		dbc:Sport_deaths_in_Germany ,
+		<http://dbpedia.org/resource/Category:1964_deaths> ,
+		dbc:Dutch_nobility ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Carel Godin de Beaufort"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ecurie_Maarsbergen.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Carel"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Carel_Godin_de_Beaufort ;
+	dbp:classWins	1 ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents ;
+	dbp:years	"\u2013"^^xsd:string ,
+		"\u2013 ,  \u2013"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Carel_Godin_de_Beaufort	dbp:years	"1964-08-03"^^xsd:date ;
+	dbo:nationality	dbr:Netherlands .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Carel_Godin_de_Beaufort	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort?oldid=739323157> ;
+	dbp:before	dbr:Gary_Hocking ;
+	dbp:after	<http://dbpedia.org/resource/John_Taylor_(racer)> ;
+	dbp:birthPlace	dbr:Maarsbergen ,
+		dbr:Netherlands ;
+	dbp:deathPlace	dbr:West_Germany ,
+		dbr:Cologne ;
+	dbp:teams	"privateer"^^xsd:string ,
+		"Wolfgang Seidel"^^xsd:string ,
+		dbr:Porsche_in_motorsport ,
+		"Ed Hugus"^^xsd:string ;
+	dbp:birthDate	"1934-04-10"^^xsd:date ;
+	dbp:deathDate	"1964-08-02"^^xsd:date ;
+	dbp:caption	"(Carel Godin de Beaufort's Ecurie Maarsbergen badge.)"^^xsd:string ;
+	dbo:abstract	"Jonkheer Karel Pieter Antoni Jan Hubertus (Carel) Godin de Beaufort (10 April 1934, Maarsbergen \u2013 2 August 1964, Cologne, Germany) was a Dutch nobleman and motorsport driver from the Netherlands. He competed in Formula One between 1957 and 1964."@en ,
+		"Jonkheer Karel Pieter Antoni Jan Hubertus Godin de Beaufort, mais conhecido como Carel Godin de Beaufort ou tamb\u00E9m Carel de Beaufort (Maarsbergen, 10 de abril de 1934 - Col\u00F4nia, 2 de agosto de 1964) foi um ex-piloto de automobilismo dos Pa\u00EDses Baixos. Ele disputou oito temoradas de F\u00F3rmula 1, marcando quatro pontos ao todo."@pt ,
+		"L'\u00E9cuyer Karel Pieter Antoni Jan Hubertus Godin de Beaufort seigneur de Maarn et Maarsbergen, dit Carel Godin de Beaufort, n\u00E9 le 10 avril 1934 au ch\u00E2teau de Maarsbergen (province d'Utrecht) aux Pays-Bas et mort le 2 ao\u00FBt 1964 \u00E0 D\u00FCsseldorf (Land de Rh\u00E9nanie-du-Nord-Westphalie) en Allemagne, est un pilote de course automobile n\u00E9erlandais. Il a notamment disput\u00E9 26 Grands Prix de Formule 1 entre 1957 et 1964 et est le premier N\u00E9erlandais \u00E0 avoir marqu\u00E9 des points en championnat du monde (4 au total)."@fr ,
+		"Karel Pieter Antoni Jan Hubertus (Carel) Godin de Beaufort (Maarsbergen, 10 april 1934 \u2013 Keulen, 1 augustus 1964), heer van Maarn en Maarsbergen, was een Nederlands autocoureur, die bijnamen als De racende jonkheer en De jonker van Maarsbergen had. De Beaufort was een lid van de adellijke tak van de familie De Beaufort. Hij werd ook wel Careltje genoemd vanwege zijn toch wel aanzienlijk postuur - bijna twee meter lang en 118 kilo zwaar. Hij woonde op kasteel Maarsbergen, dat sinds 1882 in familiebezit is. Met hem stierf deze tak van het geslacht in mannelijke lijn uit, hij was de laatste man die de familienaam Godin de Beaufort droeg."@nl ,
+		"Carel Godin de Beaufort, eigentlich Jonkheer Karel Pieter Anthonie Jan Hubertus Godin de Beaufort, Heer van Maarn en Maarsbergen, (* 10. April 1934 in Maarsbergen, Niederlande; \u2020 2. August 1964 in K\u00F6ln) war ein niederl\u00E4ndischer Formel-1-Rennfahrer."@de ,
+		"\u041A\u0430\u0301\u0440\u0435\u043B-\u0413\u043E\u0301\u0434\u0435\u043D \u0434\u0435 \u0411\u043E\u0444\u043E\u0301\u0440 (\u043D\u0438\u0434\u0435\u0440\u043B. Carel Godin de Beaufort; 10 \u0430\u043F\u0440\u0435\u043B\u044F 1934, \u041C\u0430\u0430\u0440\u0441\u0431\u0435\u0440\u0433\u0435\u043D \u2014 2 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1964, \u041A\u0451\u043B\u044C\u043D) \u2014 \u043D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0433\u0440\u0430\u0444 \u0438 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A."@ru ,
+		"Corse 31 Gran Premi in Formula 1 dal 1957 al 1964 (28 partenze), la maggior parte dei quali al volante di automobili Porsche dipinte nel tipico arancione olandese ed iscritte dalla sua squadra Ecurie Maarsbergen. Mor\u00EC per le conseguenze di un incidente durante le prove del Gran Premio di Germania 1964 al N\u00FCrburgring nella curva Bergwerk."@it ,
+		"\u0643\u0627\u0631\u064A\u0644 \u063A\u0648\u062F\u064A\u0646 \u062F\u064A \u0628\u0648\u0641\u0648\u0631\u062A \u0645\u0648\u0627\u0644\u064A\u062F 10 \u0623\u0628\u0631\u064A\u0644 1934 \u0641\u064A \u0647\u0648\u0644\u0646\u062F\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0647\u0648\u0644\u0646\u062F\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1957. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1957."@ar ,
+		"Jonkheer Karel Pieter Antoni Jan Hubertus (Carel) Godin de Beaufort (ur. 10 kwietnia 1934 w Maarsbergen, zm. 2 sierpnia 1964 w Kolonii) \u2013 holenderski kierowca wy\u015Bcigowy. Pochodzi\u0142 z jednego z najwi\u0119kszych rod\u00F3w szlacheckich w Holandii. Zaczyna\u0142 od kartingu i awansowa\u0142 do coraz wy\u017Cszych serii wy\u015Bcigowych. Startowa\u0142 w Formule 1 w latach 1957-1964. Zwi\u0105zany by\u0142 z zespo\u0142em Porsche. Cztery razy zdobywa\u0142 po punkcie za sz\u00F3ste miejsca w wy\u015Bcigach. Podczas trening\u00F3w przed Grand Prix Niemiec w 1964 wypad\u0142 z toru na szybkim zakr\u0119cie. Bolid przekozio\u0142kowa\u0142, kierowca wypad\u0142 i zosta\u0142 przygnieciony przez wrak. Dozna\u0142 obra\u017Ce\u0144 g\u0142owy, n\u00F3g i narz\u0105d\u00F3w wewn\u0119trznych. Zmar\u0142 w szpitalu po trzech dniach."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ecurie_Maarsbergen.jpg?width=300> ;
+	dbo:birthDate	"1934-4-10"^^xsd:date ;
+	dbo:deathDate	"1964-8-2"^^xsd:date ;
+	dbo:deathPlace	dbr:Cologne ;
+	dbo:wikiPageRevisionID	739323157 ;
+	dbo:birthPlace	dbr:Maarsbergen ;
+	dbo:wikiPageID	1219705 ;
+	dbp:bestFinish	5 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Carel_Godin_de_Beaufort	ns25:hypernym	dbr:Nobleman ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1957_German_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1964_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"31"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Scuderia Ugolini"^^xsd:string ,
+		dbr:Ecurie_Maarsbergen .
+dbr:Carel_godin_de_beaufort	dbo:wikiPageRedirects	dbr:Carel_Godin_de_Beaufort .
+dbr:Karel_Godain_de_Beaufort	dbo:wikiPageRedirects	dbr:Carel_Godin_de_Beaufort .

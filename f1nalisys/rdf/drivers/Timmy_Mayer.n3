@@ -1,0 +1,123 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Tim_Mayer_(racing_driver)>	dbo:wikiPageRedirects	dbr:Timmy_Mayer .
+<http://dbpedia.org/resource/1964_New_Zealand_Grand_Prix>	dbo:thirdDriver	dbr:Timmy_Mayer .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Timmy_Mayer	foaf:primaryTopic	dbr:Timmy_Mayer .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Timmy_Mayer	rdf:type	yago:Driver110034906 ,
+		yago:WikicatTasmanSeriesDrivers ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		dbo:Agent ,
+		yago:WikicatAmericanFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Timmy_Mayer	rdf:type	wikidata:Q378622 ,
+		dbo:MotorsportRacer ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Athlete ,
+		wikidata:Q5 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Timmy_Mayer	rdf:type	ns7:NaturalPerson .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Timmy_Mayer	rdf:type	owl:Thing ,
+		foaf:Person ,
+		ns7:Agent ,
+		wikidata:Q215627 ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatRacingDriversFromPennsylvania ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Timmy_Mayer	rdf:type	schema:Person ,
+		dbo:Person ,
+		dbo:FormulaOneRacer ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Timmy_Mayer	rdfs:label	"Timmy Mayer"@pt ,
+		"Timmy Mayer"@pl ,
+		"Tim Mayer"@de ,
+		"Tim Mayer"@fr ,
+		"Timmy Mayer"@it ,
+		"Timmy Mayer"@en ,
+		"Timmy Mayer"@nl ;
+	rdfs:comment	"Timothy \u201ETim\u201C Mayer (* 22. Februar 1938 in Dalton, Pennsylvania; \u2020 28. Februar 1964 Longford, Tasmanien, Australien) war ein US-amerikanischer Automobilrennfahrer."@de ,
+		"Timothy Andrew Mayer (February 22, 1938 \u2013 February 28, 1964) was a racecar driver from Dalton, Pennsylvania in the United States. He participated in one World Championship Formula One Grand Prix, on October 7, 1962. He retired with ignition failure and scored no championship points."@en ,
+		"Timothy Mayer (Scranton, Pennsylvania, 22 februari 1938 - Langford, Australi\u00EB, 28 februari 1964), was een Formule 1-coureur uit de Verenigde Staten. Hij nam deel aan zijn thuisrace in 1962 voor het team Cooper, maar viel uit en scoorde geen punten. Mayers oudere broer Teddy was een van de oprichters van het Formule 1-team McLaren. Beide broers reisden van de Verenigde Staten naar Europa in het begin van de jaren '60 met toekomstig Grand Prix-winnaar Peter Revson. Timothy Mayer verongelukte in een training voor een race op Tasmani\u00EB."@nl ,
+		"Timothy Mayer (Dalton, Pensilv\u00E2nia, Estados Unidos, 22 de fevereiro de 1938 - Longford, Austr\u00E1lia, 28 de fevereiro de 1964) foi um automobilista norte-americano que participou do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1962."@pt ,
+		"Timothy Mayer (plus connu sous le nom de Tim Mayer) \u00E9tait un pilote automobile am\u00E9ricain, n\u00E9 le 22 f\u00E9vrier 1938 \u00E0 Scranton (Pennsylvanie), et d\u00E9c\u00E9d\u00E9 le 28 f\u00E9vrier 1964 \u00E0 Longford (Australie)."@fr ,
+		"Timmy Mayer (ur. 22 lutego 1938 roku w Dalton, Pensylwania, zm. 28 lutego 1964 roku w Longford w Australii) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Timmy_Mayer	dbp:birthDate	"1938-02-22"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Timmy_Mayer	owl:sameAs	dbpedia-pl:Timmy_Mayer ,
+		dbr:Timmy_Mayer .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Timmy_Mayer	owl:sameAs	dbpedia-fr:Tim_Mayer .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Timmy_Mayer	owl:sameAs	dbpedia-nl:Timmy_Mayer .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Timmy_Mayer	owl:sameAs	dbpedia-wikidata:Q172268 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Timmy_Mayer	owl:sameAs	dbpedia-pt:Timmy_Mayer .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Timmy_Mayer	owl:sameAs	dbpedia-de:Tim_Mayer .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Timmy_Mayer	owl:sameAs	dbpedia-it:Timmy_Mayer ,
+		<http://rdf.freebase.com/ns/m.04l24y> ,
+		wikidata:Q172268 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Timmy_Mayer	owl:sameAs	yago-res:Timmy_Mayer .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Timmy_Mayer	dct:subject	dbc:SCCA_National_Championship_Runoffs_winners ,
+		dbc:American_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1964_deaths> ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Racing_drivers_from_Pennsylvania ,
+		<http://dbpedia.org/resource/Category:1938_births> ,
+		dbc:Sport_deaths_in_Australia ,
+		<http://dbpedia.org/resource/Category:People_from_Lackawanna_County,_Pennsylvania> ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:Accidental_deaths_in_Tasmania ,
+		dbc:Tasman_Series_drivers ,
+		dbc:Cooper_Formula_One_drivers ;
+	foaf:name	"Tim Mayer"@en ,
+		"Timmy Mayer"@en ;
+	dct:description	"American racing driver"@en ;
+	foaf:givenName	"Tim"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Timmy_Mayer ;
+	foaf:surname	"Mayer"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Timmy_Mayer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Timmy_Mayer?oldid=714285459> ;
+	dbp:nationality	"American"^^xsd:string ;
+	dbp:birthPlace	"Dalton, Pennsylvania, USA"^^xsd:string ;
+	dbp:deathDate	"1964-02-28"^^xsd:date ;
+	dbp:deathPlace	"Longford Circuit, Tasmania, Australia"^^xsd:string ;
+	dbo:abstract	"Timothy \u201ETim\u201C Mayer (* 22. Februar 1938 in Dalton, Pennsylvania; \u2020 28. Februar 1964 Longford, Tasmanien, Australien) war ein US-amerikanischer Automobilrennfahrer."@de ,
+		"Timmy Mayer (ur. 22 lutego 1938 roku w Dalton, Pensylwania, zm. 28 lutego 1964 roku w Longford w Australii) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Timothy Mayer (Dalton, Pensilv\u00E2nia, Estados Unidos, 22 de fevereiro de 1938 - Longford, Austr\u00E1lia, 28 de fevereiro de 1964) foi um automobilista norte-americano que participou do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1962."@pt ,
+		"Timothy Mayer (plus connu sous le nom de Tim Mayer) \u00E9tait un pilote automobile am\u00E9ricain, n\u00E9 le 22 f\u00E9vrier 1938 \u00E0 Scranton (Pennsylvanie), et d\u00E9c\u00E9d\u00E9 le 28 f\u00E9vrier 1964 \u00E0 Longford (Australie)."@fr ,
+		"Timothy Mayer (Scranton, Pennsylvania, 22 februari 1938 - Langford, Australi\u00EB, 28 februari 1964), was een Formule 1-coureur uit de Verenigde Staten. Hij nam deel aan zijn thuisrace in 1962 voor het team Cooper, maar viel uit en scoorde geen punten. Mayers oudere broer Teddy was een van de oprichters van het Formule 1-team McLaren. Beide broers reisden van de Verenigde Staten naar Europa in het begin van de jaren '60 met toekomstig Grand Prix-winnaar Peter Revson. Timothy Mayer verongelukte in een training voor een race op Tasmani\u00EB."@nl ,
+		"Timothy Andrew Mayer (February 22, 1938 \u2013 February 28, 1964) was a racecar driver from Dalton, Pennsylvania in the United States. He participated in one World Championship Formula One Grand Prix, on October 7, 1962. He retired with ignition failure and scored no championship points."@en ;
+	dbo:birthDate	"1938-2-22"^^xsd:date ;
+	dbo:deathDate	"1964-2-28"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Longford,_Tasmania> ;
+	dbo:wikiPageRevisionID	714285459 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Scranton,_Pennsylvania> ;
+	dbo:wikiPageID	1237468 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1962_United_States_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1962_United_States_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Timmy_Mayer	ns24:hypernym	dbr:Driver .

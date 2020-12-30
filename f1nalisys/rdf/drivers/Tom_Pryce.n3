@@ -1,0 +1,189 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Pryce	dbo:wikiPageDisambiguates	dbr:Tom_Pryce .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/The_Lost_Generation_(book)>	dbp:caption	dbr:Tom_Pryce .
+<http://dbpedia.org/resource/1976_Brazilian_Grand_Prix>	dbo:thirdDriver	dbr:Tom_Pryce .
+<http://dbpedia.org/resource/1975_British_Grand_Prix>	dbo:poleDriver	dbr:Tom_Pryce .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Tom_Pryce	foaf:primaryTopic	dbr:Tom_Pryce .
+dbr:Mark_Donohue	dbp:after	dbr:Tom_Pryce .
+<http://dbpedia.org/resource/1975_Race_of_Champions>	dbo:fastestDriver	dbr:Tom_Pryce ;
+	dbo:firstDriver	dbr:Tom_Pryce ;
+	dbo:poleDriver	dbr:Tom_Pryce .
+dbr:Jacques_Laffite	dbp:after	dbr:Tom_Pryce .
+dbr:Brian_McGuire	dbp:before	dbr:Tom_Pryce .
+dbr:Jacky_Ickx	dbp:after	dbr:Tom_Pryce .
+dbr:James_Hunt	dbp:before	dbr:Tom_Pryce .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Tom_Pryce	rdf:type	wikidata:Q24229398 ,
+		dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Tom_Pryce	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Agent ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 ,
+		dbo:FormulaOneRacer ,
+		foaf:Person ,
+		yago:Operator110378412 ,
+		dbo:MotorsportRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Tom_Pryce	rdf:type	owl:Thing ,
+		wikidata:Q378622 ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		wikidata:Q5 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatTokenFormulaOneDrivers ,
+		yago:WikicatWelshFormulaOneDrivers .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Tom_Pryce	rdf:type	ns9:NaturalPerson .
+@prefix schema:	<http://schema.org/> .
+dbr:Tom_Pryce	rdf:type	schema:Person ,
+		ns9:Agent ,
+		wikidata:Q215627 ,
+		yago:WikicatShadowFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Tom_Pryce	rdfs:label	"Tom Pryce"@es ,
+		"Tom Pryce"@de ,
+		"Tom Pryce"@pl ,
+		"\u041F\u0440\u0430\u0439\u0441, \u0422\u043E\u043C"@ru ,
+		"Tom Pryce"@fr ,
+		"Tom Pryce"@en ,
+		"Tom Pryce"@pt ,
+		"Tom Pryce"@it ,
+		"\u30C8\u30E0\u30FB\u30D7\u30E9\u30A4\u30B9"@ja ,
+		"Tom Pryce"@nl ;
+	rdfs:comment	"Thomas Maldwyn \u201ETom\u201C Pryce (* 11. Juni 1949 in Ruthin, Denbighshire, Wales; \u2020 5. M\u00E4rz 1977 in Kyalami, Transvaal, S\u00FCdafrika) war ein britischer Automobilrennfahrer. Er startete von 1974 bis zu seinem Tod in der Formel 1 und gilt in dieser Motorsportklasse bis heute als der beste und erfolgreichste walisische Pilot."@de ,
+		"Nella sua carriera risult\u00F2 vincitore della Race of Champions 1975, unico britannico proveniente dal Galles ad avere vinto una gara di Formula 1 bench\u00E9 non valida per il campionato del mondo. Mor\u00EC sul circuito di Kyalami durante il Gran Premio del Sudafrica 1977."@it ,
+		"Thomas Maldwyn Pryce dit Tom Pryce est un pilote automobile gallois, n\u00E9 le 11 juin 1949 \u00E0 Ruthin, Pays de Galles et mort le 5 mars 1977 \u00E0 27 ans, lors d'un accident survenu au Grand Prix d'Afrique du Sud sur le Circuit de Kyalami pr\u00E8s de Johannesburg. En 42 Grands Prix, Tom Pryce a marqu\u00E9 19 points, r\u00E9alis\u00E9 une pole position et trois meilleurs tours en course."@fr ,
+		"Thomas Maldwyn Pryce ou apenas Tom Pryce (Ruthin, em Gales, 11 de Junho de 1949 \u2014 Kyalami, \u00C1frica do Sul, 5 de Mar\u00E7o de 1977) foi um piloto brit\u00E2nico de F\u00F3rmula 1 nascido em Gales. Pryce teve sua passagem por esse esporte caracterizada por um dos acidentes mais tr\u00E1gicos e bizarros de sua hist\u00F3ria. O acidente ocorreu na pista de Kyalami, na \u00C1frica do Sul, no dia 5 de mar\u00E7o do ano de 1977. Tom foi substitu\u00EDdo na Shadow pelo Australiano Alan Jones, que venceu ainda em 1977 o Grande Pr\u00EAmio da \u00C1ustria e veio a ser Campe\u00E3o do Mundo em 1980 pela Williams."@pt ,
+		"Thomas Maldwyn Pryce (11 June 1949 \u2013 5 March 1977) was a British racing driver from Wales, famous for winning the Brands Hatch Race of Champions, a non-championship Formula One race, in 1975 and for the circumstances surrounding his death. Pryce is the only Welsh driver to have won a Formula One race and is also the only Welshman to lead a Formula One World Championship Grand Prix: two laps of the 1975 British Grand Prix."@en ,
+		"Tom Pryce (Ruthin (ook wel Denbigshire), 11 juni 1949 \u2013 circuit Kyalami (Zuid-Afrika), 5 maart 1977) was een autocoureur in de Formule 1. Hij reed in de periode dat veel talenten verongelukten, in deze hoogste klasse van de autosport, zoals Tony Brise en Roger Williamson."@nl ,
+		"Thomas Maldwyn Pryce (11 de junio de 1949 \u2014 5 de marzo de 1977), fue un piloto de F\u00F3rmula 1. Se hizo famoso por ganar la \"Race of Champions (Brands Hatch)\" de 1975, carrera de F\u00F3rmula 1 que no contaba para el campeonato, utilizando un Shadow (un monoplaza con notorio menor nivel que el resto de sus rivales). Est\u00E1 considerado como uno de los mejores pilotos de la historia que nunca gan\u00F3 un Gran Premio de F\u00F3rmula 1 oficial. Su \u00EDdolo deportivo era el piloto escoc\u00E9s de F\u00F3rmula 1 Jim Clark."@es ,
+		"Thomas Maldwyn Pryce (ur. 11 czerwca 1949 roku w Ruthin, zm. 5 marca 1977 roku Johannesburgu) \u2013 brytyjski kierowca wy\u015Bcigowy, znany z wygranej w Race of Champions w 1975 i okoliczno\u015Bci \u015Bmierci w wypadku podczas Grand Prix RPA."@pl ,
+		"\u30C8\u30E0\u30FB\u30D7\u30E9\u30A4\u30B9\uFF08Tom Pryce\uFF09\u672C\u540D \uFF1A \u30C8\u30FC\u30DE\u30B9\u30FB\u30E2\u30EB\u30C9\u30A6\u30A3\u30F3\u30FB\u30D7\u30E9\u30A4\u30B9\uFF08Thomas Maldwyn Pryce, 1949\u5E746\u670811\u65E5 - 1977\u5E743\u67085\u65E5\uFF09\u306F\u30A4\u30AE\u30EA\u30B9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"\u0422\u043E\u043C \u041F\u0440\u0430\u0439\u0441 (\u0430\u043D\u0433\u043B. Thomas Maldwyn Pryce, 11 \u0438\u044E\u043D\u044F 1949, \u0420\u0438\u0442\u0438\u043D, \u0414\u0435\u043D\u0431\u0438\u0448\u0438\u0440, \u0423\u044D\u043B\u044C\u0441 \u2014 5 \u043C\u0430\u0440\u0442\u0430 1977, \u042E\u0410\u0420) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0433\u0438\u0431 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438 1977 \u0433\u043E\u0434\u0430, \u043E\u043D \u0441\u0431\u0438\u043B \u043C\u0430\u0440\u0448\u0430\u043B\u0430 \u043F\u0435\u0440\u0435\u0431\u0435\u0433\u0430\u0432\u0448\u0435\u0433\u043E \u0442\u0440\u0430\u0441\u0441\u0443 \u0441 \u043E\u0433\u043D\u0435\u0442\u0443\u0448\u0438\u0442\u0435\u043B\u0435\u043C, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0438 \u043F\u043E\u043F\u0430\u043B \u0433\u043E\u043D\u0449\u0438\u043A\u0443 \u0432 \u0433\u043E\u043B\u043E\u0432\u0443."@ru ;
+	rdfs:seeAlso	dbr:Token_Racing ,
+		dbr:Shadow_Racing_Cars ;
+	dbp:points	19 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-it:Tom_Pryce .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-pl:Tom_Pryce .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	yago-res:Tom_Pryce .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-id:Tom_Pryce .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-pt:Tom_Pryce ,
+		wikidata:Q172835 ,
+		<http://viaf.org/viaf/19642313> ,
+		<http://ko.dbpedia.org/resource/\uD1B0_\uD504\uB77C\uC774\uC2A4> ,
+		dbr:Tom_Pryce ,
+		<http://ja.dbpedia.org/resource/\u30C8\u30E0\u30FB\u30D7\u30E9\u30A4\u30B9> ,
+		<http://rdf.freebase.com/ns/m.039vkt> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-wikidata:Q172835 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-es:Tom_Pryce .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-cs:Tom_Pryce .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-fr:Tom_Pryce .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-de:Tom_Pryce .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Tom_Pryce	owl:sameAs	dbpedia-nl:Tom_Pryce .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Tom_Pryce	dct:subject	dbc:Token_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Sport_deaths_in_South_Africa ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Welsh_racing_drivers ,
+		dbc:Shadow_Formula_One_drivers ,
+		dbc:Burials_in_Kent ,
+		dbc:Welsh_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1977_deaths> ,
+		dbc:Filmed_deaths_in_sports ,
+		dbc:People_from_Ruthin ,
+		<http://dbpedia.org/resource/Category:1949_births> ;
+	foaf:name	"Tom Pryce"@en ;
+	dct:description	"Welsh racecar driver"@en ;
+	foaf:givenName	"Tom"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Tom_Pryce ;
+	foaf:surname	"Pryce"@en ;
+	dbp:title	dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners ,
+		<http://dbpedia.org/resource/Race_of_Champions_(Brands_Hatch)> ,
+		dbr:List_of_fatal_Formula_One_accidents ;
+	dbp:years	1974 ,
+		1975 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Tom_Pryce	dbp:years	"1977-03-05"^^xsd:date ;
+	dbo:nationality	dbr:United_Kingdom .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Tom_Pryce	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tom_Pryce?oldid=739999004> ;
+	dbp:before	dbr:Mark_Donohue ,
+		dbr:Jacques_Laffite ,
+		dbr:Jacky_Ickx ;
+	dbp:after	dbr:Brian_McGuire ,
+		dbr:Renzo_Zorzi ,
+		dbr:James_Hunt ;
+	dbp:birthPlace	"Ruthin, Denbighshire, Wales"^^xsd:string ;
+	dbp:birthName	"Thomas Maldwyn Pryce"^^xsd:string ;
+	dbp:deathPlace	"Midrand, South Africa"^^xsd:string ;
+	dbp:birthDate	"1949-06-11"^^xsd:date ;
+	dbp:deathDate	"1977-03-05"^^xsd:date .
+@prefix ns27:	<http://www.oldracingcars.com/driver/> .
+dbr:Tom_Pryce	dbo:wikiPageExternalLink	ns27:Tom_Pryce ,
+		<http://www.neildalrymple.com/tom-pryce-memorial-commission.html> ,
+		<https://books.google.com/books?id=Tn8zHUZLDAAC&pg=PA39> ,
+		<https://books.google.com/books?id=tasINoru5_QC&pg=PT28> ,
+		<https://books.google.com/books?id=2c7tAQAAQBAJ&pg=PA122> ,
+		<http://www.formula1.com/archive/driver/detail/1974/377/93.html> ;
+	dbp:caption	"Pryce at Brands Hatch in 1974"^^xsd:string ;
+	dbo:abstract	"\u30C8\u30E0\u30FB\u30D7\u30E9\u30A4\u30B9\uFF08Tom Pryce\uFF09\u672C\u540D \uFF1A \u30C8\u30FC\u30DE\u30B9\u30FB\u30E2\u30EB\u30C9\u30A6\u30A3\u30F3\u30FB\u30D7\u30E9\u30A4\u30B9\uFF08Thomas Maldwyn Pryce, 1949\u5E746\u670811\u65E5 - 1977\u5E743\u67085\u65E5\uFF09\u306F\u30A4\u30AE\u30EA\u30B9\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Nella sua carriera risult\u00F2 vincitore della Race of Champions 1975, unico britannico proveniente dal Galles ad avere vinto una gara di Formula 1 bench\u00E9 non valida per il campionato del mondo. Mor\u00EC sul circuito di Kyalami durante il Gran Premio del Sudafrica 1977."@it ,
+		"Thomas Maldwyn Pryce (11 June 1949 \u2013 5 March 1977) was a British racing driver from Wales, famous for winning the Brands Hatch Race of Champions, a non-championship Formula One race, in 1975 and for the circumstances surrounding his death. Pryce is the only Welsh driver to have won a Formula One race and is also the only Welshman to lead a Formula One World Championship Grand Prix: two laps of the 1975 British Grand Prix. Pryce started his career in Formula One with the small Token team, making his only start for them at the 1974 Belgian Grand Prix. Shortly after an impressive performance at the Formula Three support race for the 1974 Monaco Grand Prix, Pryce joined the Shadow team and scored his first points in Germany in only his fourth race. Pryce later claimed two podium finishes, his first in Austria in 1975 and the second in Brazil a year later. Pryce was considered by his team as a great wet-weather driver. During the practice session for the 1977 South African Grand Prix, run in wet conditions, Pryce was faster than everyone, including world champion drivers Niki Lauda and James Hunt. During the race, he collided at high speed with a safety marshal, Frederik Jansen van Vuuren, and both men were killed. A memorial to Pryce was unveiled in 2009 in his home town of Ruthin."@en ,
+		"Thomas Maldwyn Pryce ou apenas Tom Pryce (Ruthin, em Gales, 11 de Junho de 1949 \u2014 Kyalami, \u00C1frica do Sul, 5 de Mar\u00E7o de 1977) foi um piloto brit\u00E2nico de F\u00F3rmula 1 nascido em Gales. Pryce teve sua passagem por esse esporte caracterizada por um dos acidentes mais tr\u00E1gicos e bizarros de sua hist\u00F3ria. O acidente ocorreu na pista de Kyalami, na \u00C1frica do Sul, no dia 5 de mar\u00E7o do ano de 1977. Pryce, ent\u00E3o com 27 anos, conduzia um carro da equipe Shadow, com o n\u00FAmero 16. Ap\u00F3s um acidente com outro Shadow, do italiano Renzo Zorzi, alguns fiscais de pista buscam auxiliar o piloto. Dois fiscais cruzam a pista. O primeiro consegue se livrar, mas o segundo \u00E9 atropelado violentamente pelo carro de Pryce, que estava a quase 280 km/h, e o extintor por ele segurado atinge a cabe\u00E7a do piloto, arrancando o capacete de sua cabe\u00E7a, que perde o controle do carro e bate forte. Pryce n\u00E3o resiste e morre instantaneamente. O fiscal, Jansen Van Vuuren, ent\u00E3o com apenas 19 anos, morreu. Ele s\u00F3 foi identificado por exclus\u00E3o, pois seu corpo ficou irreconhec\u00EDvel. O Shadow de Pryce ainda foi atingir o Ligier do franc\u00EAs Jacques Laffite, n\u00E3o tendo no entanto causado mais danos f\u00EDsicos. Tom foi substitu\u00EDdo na Shadow pelo Australiano Alan Jones, que venceu ainda em 1977 o Grande Pr\u00EAmio da \u00C1ustria e veio a ser Campe\u00E3o do Mundo em 1980 pela Williams. Tom Pryce iniciou sua carreira na F\u00F3rmula 1 em 1974, no Grande Pr\u00EAmio da B\u00E9lgica, em Nivelles, atuando em 42 corridas. Acumulou na carreira 19 pontos, conseguindo ir ao p\u00F3dium duas vezes \u2014 dois terceiros lugares \u2014, al\u00E9m de ter conseguido uma pole-position."@pt ,
+		"Tom Pryce (Ruthin (ook wel Denbigshire), 11 juni 1949 \u2013 circuit Kyalami (Zuid-Afrika), 5 maart 1977) was een autocoureur in de Formule 1. Hij reed in de periode dat veel talenten verongelukten, in deze hoogste klasse van de autosport, zoals Tony Brise en Roger Williamson."@nl ,
+		"Thomas Maldwyn Pryce (ur. 11 czerwca 1949 roku w Ruthin, zm. 5 marca 1977 roku Johannesburgu) \u2013 brytyjski kierowca wy\u015Bcigowy, znany z wygranej w Race of Champions w 1975 i okoliczno\u015Bci \u015Bmierci w wypadku podczas Grand Prix RPA."@pl ,
+		"Thomas Maldwyn Pryce dit Tom Pryce est un pilote automobile gallois, n\u00E9 le 11 juin 1949 \u00E0 Ruthin, Pays de Galles et mort le 5 mars 1977 \u00E0 27 ans, lors d'un accident survenu au Grand Prix d'Afrique du Sud sur le Circuit de Kyalami pr\u00E8s de Johannesburg. En 42 Grands Prix, Tom Pryce a marqu\u00E9 19 points, r\u00E9alis\u00E9 une pole position et trois meilleurs tours en course."@fr ,
+		"\u0422\u043E\u043C \u041F\u0440\u0430\u0439\u0441 (\u0430\u043D\u0433\u043B. Thomas Maldwyn Pryce, 11 \u0438\u044E\u043D\u044F 1949, \u0420\u0438\u0442\u0438\u043D, \u0414\u0435\u043D\u0431\u0438\u0448\u0438\u0440, \u0423\u044D\u043B\u044C\u0441 \u2014 5 \u043C\u0430\u0440\u0442\u0430 1977, \u042E\u0410\u0420) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0433\u0438\u0431 \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0438 1977 \u0433\u043E\u0434\u0430, \u043E\u043D \u0441\u0431\u0438\u043B \u043C\u0430\u0440\u0448\u0430\u043B\u0430 \u043F\u0435\u0440\u0435\u0431\u0435\u0433\u0430\u0432\u0448\u0435\u0433\u043E \u0442\u0440\u0430\u0441\u0441\u0443 \u0441 \u043E\u0433\u043D\u0435\u0442\u0443\u0448\u0438\u0442\u0435\u043B\u0435\u043C, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0438 \u043F\u043E\u043F\u0430\u043B \u0433\u043E\u043D\u0449\u0438\u043A\u0443 \u0432 \u0433\u043E\u043B\u043E\u0432\u0443."@ru ,
+		"Thomas Maldwyn \u201ETom\u201C Pryce (* 11. Juni 1949 in Ruthin, Denbighshire, Wales; \u2020 5. M\u00E4rz 1977 in Kyalami, Transvaal, S\u00FCdafrika) war ein britischer Automobilrennfahrer. Er startete von 1974 bis zu seinem Tod in der Formel 1 und gilt in dieser Motorsportklasse bis heute als der beste und erfolgreichste walisische Pilot."@de ,
+		"Thomas Maldwyn Pryce (11 de junio de 1949 \u2014 5 de marzo de 1977), fue un piloto de F\u00F3rmula 1. Se hizo famoso por ganar la \"Race of Champions (Brands Hatch)\" de 1975, carrera de F\u00F3rmula 1 que no contaba para el campeonato, utilizando un Shadow (un monoplaza con notorio menor nivel que el resto de sus rivales). Est\u00E1 considerado como uno de los mejores pilotos de la historia que nunca gan\u00F3 un Gran Premio de F\u00F3rmula 1 oficial. Su \u00EDdolo deportivo era el piloto escoc\u00E9s de F\u00F3rmula 1 Jim Clark."@es ;
+	dbo:birthDate	"1949-6-11"^^xsd:date ;
+	dbo:deathDate	"1977-3-5"^^xsd:date ;
+	dbo:deathPlace	dbr:Kyalami ;
+	dbo:wikiPageRevisionID	739999004 ;
+	dbo:birthPlace	dbr:Ruthin ;
+	dbo:wikiPageID	767658 ;
+	dbp:source	"Tom Pryce"^^xsd:string ,
+		"Hans-Joachim Stuck"^^xsd:string ,
+		<http://dbpedia.org/resource/John_Watson_(racing_driver)> .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Tom_Pryce	ns28:hypernym	dbr:Welsh ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1974_Belgian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1977_South_African_Grand_Prix> ;
+	dbo:podiums	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"1"^^xsd:nonNegativeInteger ;
+	dbo:races	"42"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Token_Racing ,
+		dbr:Shadow_Racing_Cars ;
+	dbp:quote	"\"As we got to the top I suddenly sensed this marshal running across the track from my right, carrying an extinguisher. I took a big chance and I don't know how I got away with it. There was no time, I just reacted on pure instinct.\""^^xsd:string ,
+		"\"I think that people who are involved in motor racing and have achieved something, have an ability to spot talent. It was abundantly clear that Tom's ability was above and beyond most of his contemporaries.\""^^xsd:string ,
+		"\"I was fiddling about with the car when I suddenly saw Peter Lamplough coming straight towards me. I just couldn't believe it \u2013 I froze on the spot. The next thing I remember is being picked out of a shop window, where my car had been hurled by the impact\""^^xsd:string .
+@prefix ns29:	<http://dbpedia.org/datatype/> .
+dbr:Tom_Pryce	dbp:width	"21.0"^^ns29:perCent ;
+	dbp:align	"right"^^xsd:string .
+<http://dbpedia.org/resource/1975_Austrian_Grand_Prix>	dbo:thirdDriver	dbr:Tom_Pryce .

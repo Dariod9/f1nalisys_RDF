@@ -1,0 +1,31 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Yuji_Ide	dct:subject	dbc:Super_Aguri_Formula_One_drivers .
+dbr:Takuma_Sato	dct:subject	dbc:Super_Aguri_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:Super_Aguri_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:Super_Aguri_Formula_One_drivers	rdfs:label	"Super Aguri Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns7:	<http://fr.dbpedia.org/resource/Cat\u00E9gorie:> .
+dbc:Super_Aguri_Formula_One_drivers	owl:sameAs	ns7:Pilote_Super_Aguri .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:Super_Aguri_Formula_One_drivers	owl:sameAs	wikidata:Q9674197 .
+@prefix ns9:	<http://es.dbpedia.org/resource/Categor\u00EDa:> .
+dbc:Super_Aguri_Formula_One_drivers	owl:sameAs	ns9:Pilotos_de_Super_Aguri .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:Super_Aguri_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q9674197 ,
+		dbc:Super_Aguri_Formula_One_drivers ,
+		<http://pt.dbpedia.org/resource/Categoria:Pilotos_da_equipe_Super_Aguri_de_F\u00F3rmula_1> ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"Super Aguri Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:Super_Aguri_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:Super_Aguri_Formula_One_drivers?oldid=548617593> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:Super_Aguri_Formula_One_drivers	dbo:wikiPageRevisionID	548617593 ;
+	dbo:wikiPageID	17290994 .
+dbr:Anthony_Davidson	dct:subject	dbc:Super_Aguri_Formula_One_drivers .
+dbr:Franck_Montagny	dct:subject	dbc:Super_Aguri_Formula_One_drivers .
+dbr:Sakon_Yamamoto	dct:subject	dbc:Super_Aguri_Formula_One_drivers .

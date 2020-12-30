@@ -1,0 +1,82 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Felice_Bonetto	dbp:before	dbr:Franco_Cortese .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Franco_Cortese	foaf:primaryTopic	dbr:Franco_Cortese .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1932_24_Hours_of_Le_Mans__2__1>	dbo:firstDriver	dbr:Franco_Cortese .
+dbr:Scuderia_Ambrosiana	dbp:founders	dbr:Franco_Cortese .
+dbr:Alberto_Ascari	dbp:before	dbr:Franco_Cortese .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Franco_Cortese	rdf:type	yago:Operator110378412 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Driver110034906 ,
+		dbo:RacingDriver ,
+		yago:WikicatMilleMigliaDrivers ,
+		dbo:Person ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatGrandPrixDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Franco_Cortese	rdfs:label	"Franco Cortese"@it ,
+		"Franco Cortese"@fr ,
+		"Franco Cortese"@pl ,
+		"Franco Cortese"@en ,
+		"Franco Cortese"@de ;
+	rdfs:comment	"Franco Cortese (ur. 10 lutego 1903 roku w Oggebbio, zm. w 13 listopada 1986 roku w Mediolanie) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Franco Cortese (10 February 1903 in Oggebbio, Piedmont \u2013 13 November 1986 in Milano) was an Italian racing driver. He entered 156 races between 1927 and 1958, of which one was a Formula 1 Grand Prix and three were Formula 2 Grands Prix. Cortese holds the record of most finishes in a Mille Miglia race: fourteen. Besides having entered many races in an Alfa Romeo, Cortese became most famous for his affiliation with Ferrari between 1947 and 1949, driving the first race car built by Ferrari in 1947, the Ferrari 125 S, which brought victories at four races in 1947."@en ,
+		"Franco Cortese (* 10. Februar 1903 in Oggebbio; \u2020 13. November 1986) war ein italienischer Automobilrennfahrer."@de ,
+		"Franco Cortese Franco Cortese est un pilote automobile italien n\u00E9 le 10 f\u00E9vrier 1903 \u00E0 Oggebbio, dans la province du Verbano-Cusio-Ossola, pr\u00E8s de Turin, et mort le 13 novembre 1986 \u00E0 Milan."@fr ,
+		"Fu il primo pilota e collaudatore della Ferrari . Detiene un record, partecip\u00F2 a 14 Mille Miglia (1927-1956). Inizi\u00F2 la sua carriera nell'Itala (1926), quindi guid\u00F2 le vetture di molte Case automobilistiche, tra cui l'Alfa Romeo, la Maserati, la Bugatti e la Ferrari. Con la Maserati partecip\u00F2 alla classe voiturette (1937-1939). Fond\u00F2 la Scuderia Ambrosiana con Giovanni Lurani, Luigi Villoresi ed Eugenio Minetti (1937)."@it .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Franco_Cortese	owl:sameAs	dbr:Franco_Cortese .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Franco_Cortese	owl:sameAs	dbpedia-de:Franco_Cortese .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Franco_Cortese	owl:sameAs	dbpedia-it:Franco_Cortese .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Franco_Cortese	owl:sameAs	dbpedia-wikidata:Q249424 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Franco_Cortese	owl:sameAs	dbpedia-fr:Franco_Cortese .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Franco_Cortese	owl:sameAs	dbpedia-pl:Franco_Cortese .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Franco_Cortese	owl:sameAs	wikidata:Q249424 ,
+		<http://rdf.freebase.com/ns/m.0dbsb0> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Franco_Cortese	owl:sameAs	yago-res:Franco_Cortese .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Franco_Cortese	dct:subject	dbc:People_from_the_Province_of_Verbano-Cusio-Ossola ,
+		dbc:Sportspeople_from_Piedmont ,
+		<http://dbpedia.org/resource/Category:1903_births> ,
+		dbc:Italian_racing_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1986_deaths> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Ferrari_people ,
+		dbc:Mille_Miglia_drivers ;
+	foaf:name	"Franco Cortese"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Franco"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Franco_Cortese ;
+	foaf:surname	"Cortese"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Franco_Cortese	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Franco_Cortese?oldid=707765481> ;
+	dbo:abstract	"Franco Cortese (ur. 10 lutego 1903 roku w Oggebbio, zm. w 13 listopada 1986 roku w Mediolanie) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Franco Cortese Franco Cortese est un pilote automobile italien n\u00E9 le 10 f\u00E9vrier 1903 \u00E0 Oggebbio, dans la province du Verbano-Cusio-Ossola, pr\u00E8s de Turin, et mort le 13 novembre 1986 \u00E0 Milan."@fr ,
+		"Fu il primo pilota e collaudatore della Ferrari . Detiene un record, partecip\u00F2 a 14 Mille Miglia (1927-1956). Inizi\u00F2 la sua carriera nell'Itala (1926), quindi guid\u00F2 le vetture di molte Case automobilistiche, tra cui l'Alfa Romeo, la Maserati, la Bugatti e la Ferrari. Con la Maserati partecip\u00F2 alla classe voiturette (1937-1939). Fond\u00F2 la Scuderia Ambrosiana con Giovanni Lurani, Luigi Villoresi ed Eugenio Minetti (1937). Franco Cortese divenne famoso per la sua collaborazione con la Ferrari (1947-1951), di cui fu il primo pilota e collaudatore, guidando una Ferrari 125 S. Le sue principali vittorie furono nel 1947 al Gran Premio di Roma, al Circuito di Vercelli, al Circuito di Vigevano ed al Circuito di Varese. Nel 1950 vinse il Gran Premio di Napoli, e nel 1951 si aggiudic\u00F2 con la Frazer Nash la Targa Florio, ed ancora con la Ferrari nel 1956 vinse il campionato italiano per le vetture con cilindrata 2 L con una Ferrari 500"@it ,
+		"Franco Cortese (* 10. Februar 1903 in Oggebbio; \u2020 13. November 1986) war ein italienischer Automobilrennfahrer."@de ,
+		"Franco Cortese (10 February 1903 in Oggebbio, Piedmont \u2013 13 November 1986 in Milano) was an Italian racing driver. He entered 156 races between 1927 and 1958, of which one was a Formula 1 Grand Prix and three were Formula 2 Grands Prix. Cortese holds the record of most finishes in a Mille Miglia race: fourteen. Besides having entered many races in an Alfa Romeo, Cortese became most famous for his affiliation with Ferrari between 1947 and 1949, driving the first race car built by Ferrari in 1947, the Ferrari 125 S, which brought victories at four races in 1947."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Franco_Cortese	dbo:birthDate	"1903-2-10"^^xsd:date ;
+	dbo:deathDate	"1986-11-13"^^xsd:date ;
+	dbo:deathPlace	dbr:Milan ;
+	dbo:wikiPageRevisionID	707765481 ;
+	dbo:birthPlace	dbr:Oggebbio ;
+	dbo:wikiPageID	5269318 .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+dbr:Franco_Cortese	ns20:hypernym	dbr:Driver .

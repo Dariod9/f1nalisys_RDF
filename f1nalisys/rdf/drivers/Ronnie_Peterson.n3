@@ -1,0 +1,258 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1973_Austrian_Grand_Prix>	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1971_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1974_Argentine_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1976_Dutch_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_Brazilian_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_French_Grand_Prix>	dbo:secondDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1974_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1974_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Ronnie_Peterson ;
+	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1974_French_Grand_Prix>	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1974_Italian_Grand_Prix>	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1976_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Ronnie_Peterson ;
+	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1977_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__43__1>	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1971_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_Austrian_Grand_Prix>	dbo:fastestDriver	dbr:Ronnie_Peterson ;
+	dbo:poleDriver	dbr:Ronnie_Peterson ;
+	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Ronnie_Peterson ;
+	dbo:secondDriver	dbr:Ronnie_Peterson .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Ferrari_312_PB	dbp:drivers	dbr:Ronnie_Peterson .
+dbr:Clay_Regazzoni	dbp:after	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_French_Grand_Prix>	dbo:firstDriver	dbr:Ronnie_Peterson .
+dbr:Ronny_Peterson	dbo:wikiPageRedirects	dbr:Ronnie_Peterson .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Ronnie_Peterson	foaf:primaryTopic	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_BRDC_International_Trophy>	dbo:poleDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1977_United_States_Grand_Prix>	dbo:fastestDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Ronnie_Peterson ;
+	dbo:poleDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_United_States_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson ;
+	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_German_Grand_Prix>	dbo:fastestDriver	dbr:Ronnie_Peterson .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ronnie_Peterson	rdf:type	yago:WikicatTyrrellFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Ronnie_Peterson	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatTheodoreFormulaOneDrivers ,
+		yago:WikicatSwedishFormulaOneDrivers ,
+		yago:WikicatSwedishFormulaThreeChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ronnie_Peterson	rdf:type	wikidata:Q378622 ,
+		wikidata:Q5 ,
+		dbo:Athlete ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		dbo:MotorsportRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Ronnie_Peterson	rdf:type	schema:Person ,
+		dbo:Agent ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Ronnie_Peterson	rdf:type	ns10:NaturalPerson ,
+		yago:Driver110034906 ,
+		foaf:Person ,
+		ns10:Agent ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Ronnie_Peterson	rdf:type	geo:SpatialThing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ronnie_Peterson	rdfs:label	"Ronnie Peterson"@fr ,
+		"Ronnie Peterson"@nl ,
+		"\u041F\u0435\u0442\u0435\u0440\u0441\u043E\u043D, \u0420\u043E\u043D\u043D\u0438"@ru ,
+		"Ronnie Peterson"@de ,
+		"\u30ED\u30CB\u30FC\u30FB\u30D4\u30FC\u30BF\u30FC\u30BD\u30F3"@ja ,
+		"Ronnie Peterson"@en ,
+		"\u7F85\u5C3C\u00B7\u5F7C\u5F97\u68EE"@zh ,
+		"Ronnie Peterson"@es ,
+		"Ronnie Peterson"@pl ,
+		"Ronnie Peterson"@pt ,
+		"Ronnie Peterson"@it ;
+	rdfs:comment	"Bengt Ronnie Peterson (Swedish pronunciation: [\u02C8r\u0254ni \u02C8p\u025Bt\u025B\u02C8\u0282on]; 14 February 1944 \u2013 11 September 1978) was a Swedish racing driver. Known by the nickname 'SuperSwede', he was a two-time runner-up in the FIA Formula One World Drivers' Championship."@en ,
+		"Ronnie Peterson (ur. 14 lutego 1944 w \u00D6rebro, zm. 11 wrze\u015Bnia 1978 w Mediolanie) \u2013 szwedzki kierowca wy\u015Bcigowy. Jego pierwszym sukcesem by\u0142o wygranie w 1969 roku wy\u015Bcigu Formu\u0142y 3 towarzysz\u0105cego Grand Prix Monako. W 1970 roku zadebiutowa\u0142 w Formule 1 w zespole March. Odby\u0142 w sumie 123 starty w wy\u015Bcigach Grand Prix, zwyci\u0119\u017Caj\u0105c 10 razy, zdobywaj\u0105c 206 punkt\u00F3w, 26 razy stawa\u0142 na podium, 14 razy zdobywa\u0142 pole position oraz 9 razy zanotowa\u0142 najszybsze okr\u0105\u017Cenie. Jako jeden z nielicznych rywalizowa\u0142 z Jackiem Stewartem. W 1973 roku wygra\u0142 swoje pierwsze wy\u015Bcigi i ustanowi\u0142 rekord 9 pole position w jednym sezonie. W 1978 roku wystartowa\u0142 w barwach Lotusa u boku Mario Andrettiego."@pl ,
+		"\u672C\u7279\u00B7\u7F85\u5C3C\u00B7\u5F7C\u5F97\u68EE\uFF08\u745E\u5178\u8A9E\uFF1ABengt Ronnie Peterson\uFF0C\u745E\u5178\u8BED\u53D1\u97F3\uFF1A[\u02C8r\u0254ni \u02C8p\u025Bt\u025B \u02C8rson]\uFF0C1944\u5E742\u670814\u65E5\uFF0D1978\u5E749\u670811\u65E5\uFF09\uFF0C\u662F\u4E00\u4F4D\u745E\u5178\u8CFD\u8ECA\u624B\u3002\u4EE5\u7DBD\u865F\u300CSuperSwede\u300D\u77E5\u540D\uFF0C\u4ED6\u662F\u5169\u5C46\u7684\u570B\u969B\u6C7D\u8ECA\u806F\u76DF\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u4E16\u754C\u8ECA\u624B\u9326\u6A19\u8CFD\u8ECA\u624B\u4E9E\u8ECD\u3002 \u5F7C\u5F97\u68EE\u65BC\u5361\u4E01\u8ECA\u5C55\u958B\u4ED6\u7684\u8077\u696D\u751F\u6DAF\uFF0C\u50B3\u7D71\u4E0A\u4F86\u8AAA\u9019\u4E5F\u662F\u5927\u591A\u6578\u8ECA\u624B\u9032\u5165\u958B\u8F2A\u5F0F\u7AF6\u901F\u7684\u5927\u9580\u3002\u5728\u4ED6\u8D0F\u5F97\u5305\u62EC1963\u548C1964\u5E74\u745E\u5178\u51A0\u8ECD\u7B49\u7684\u5361\u4E01\u8ECA\u51A0\u8ECD\u5F8C\uFF0C\u4ED6\u8F49\u5F80\u4E09\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u800C\u4ED6\u4E5F\u8D0F\u5F97\u4E861969\u5E74\u6469\u7D0D\u54E5\u5927\u734E\u8CFD\u7684\u6469\u7D0D\u54E5\u5927\u734E\u8CFD\u4E09\u7D1A\u65B9\u7A0B\u5F0F\u8D0A\u52A9\u8CFD\u3002\u9694\u5E74\u4ED6\u8D0F\u5F97\u4E86\u6B50\u6D32\u4E09\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u51A0\u8ECD\u5F8C\uFF0C\u6649\u5347\u81F3\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u52A0\u5165\u4E86\u746A\u99B3\u8ECA\u968A\u3002\u4ED6\u5728\u8A72\u968A\u4E09\u5E74\u7684\u6642\u9593\u5167\uFF0C\u7AD9\u4E0A6\u6B21\u9812\u734E\u53F0\uFF0C\u5927\u591A\u6578\u90FD\u57281971\u5E74\u4E16\u754C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u671F\u9593\uFF0C\u540C\u6642\u4E5F\u662F\u4ED6\u8D0F\u5F97\u4E9E\u8ECD\u7684\u90A3\u4E00\u5E74\u3002 \u5728\u4ED6\u8207\u746A\u99B3\u7684\u4E09\u5E74\u5408\u7D04\u7D50\u675F\u5F8C\uFF0C\u5F7C\u5F97\u68EE\u57281973\u5E74\u8CFD\u5B63\u52A0\u5165\u4E86\u79D1\u6797\u00B7\u67E5\u666E\u66FC\u7684\u84EE\u82B1\u8ECA\u968A\uFF0C\u8207\u885B\u5195\u51A0\u8ECD\u57C3\u9ED8\u68EE\u00B7\u83F2\u8482\u5E15\u723E\u8FEA\u642D\u6A94\u3002\u5728\u4ED6\u65BC\u84EE\u82B1\u7684\u524D\u5169\u500B\u8CFD\u5B63\uFF0C\u5F7C\u5F97\u68EE\u8D0F\u5F977\u6B21\u52DD\u5229\uFF0C\u4E14\u57281973\u5E74\u5F97\u5230\u751F\u6DAF\u6700\u4F73\u768452\u5206\u3002\u5728\u60B2\u6158\u76841975\u5E74\u8CFD\u5B63\u5F8C\uFF0C\u5F7C\u5F97\u68EE\u518D\u5EA6\u56DE\u5230\u746A\u99B3\uFF0C\u4E26\u57281976\u5E74\u7FA9\u5927\u5229\u5927\u734E\u8CFD\u8D0F\u5F97\u4ED6\u5728\u8A72\u968A\u7684\u6700\u5F8C\u4E00\u52DD\u3002\u57281977\u5E74\u8CFD\u5B63\u52A0\u5165\u6CF0\u745E\u723E\u5F8C\uFF0C\u4ED6\u518D\u5EA6\u56DE\u5230\u84EE\u82B1\uFF0C\u51FA\u8CFD1978\u5E74\u8CFD\u5B63\uFF0C\u4F5C\u70BA\u99AC\u91CC\u5967\u00B7\u5B89\u5FB7\u70C8\u8482\u7684\u4E8C\u865F\u8ECA\u624B\u3002\u5F7C\u5F97\u68EE\u5728\u5357\u975E\u548C\u6FB3\u5927\u5229\u4E9E\u8D0F\u5F97\u5169\u5834\u52DD\u5229\uFF0C\u4E26\u4E14\u5C07\u80FD\u5920\u8D0F\u5F97\u4E9E\u8ECD\uFF0C\u4E0D\u904E\u4ED6\u5728\u4F4D\u65BC\u8499\u624E\u7684\u7FA9\u5927\u5229\u5927\u734E\u8CFD\u9996\u5708\u767C\u751F\u4E86\u81F4\u547D\u4E8B\u6545\u3002"@zh ,
+		"Bengt Ronnie Peterson, n\u00E9 le 14 f\u00E9vrier 1944 \u00E0 \u00D6rebro, Su\u00E8de, et mort le 11 septembre 1978 \u00E0 Milan, Italie, des suites d'un accident survenu la veille lors du Grand Prix d'Italie, est un pilote automobile su\u00E9dois. Il a disput\u00E9 le championnat du monde de Formule 1 entre 1970 et 1978 et est consid\u00E9r\u00E9 comme l'un des pilotes les plus spectaculaires et les plus talentueux de sa g\u00E9n\u00E9ration."@fr ,
+		"Bengt Ronald \u201ERonnie\u201C Peterson  (* 14. Februar 1944 in \u00D6rebro; \u2020 11. September 1978 in Mailand, Italien) war ein schwedischer Automobilrennfahrer. Petersons Motorsportkarriere begann 1962 im Kartsport. 1968 und 1969 gewann er die Schwedische Formel-3-Meisterschaft. 1970 deb\u00FCtierte er in der Formel 1. Parallel hierzu bestritt Peterson die Formel-2-Europameisterschaft, die er 1971 gewann. Insgesamt startete Peterson von 1970 bis 1978 bei 123 Formel-1-Grands-Prix. 1971 und 1978 wurde er Zweiter in der Fahrerweltmeisterschaft (1978 postum). Beim Start des Gro\u00DFen Preises von Italien 1978 geriet er unverschuldet in eine Massenkarambolage, bei der er sich mehrere Beinfrakturen zuzog. Bei der anschlie\u00DFenden Operation kam es zu Komplikationen, an deren Folgen Peterson starb. Neben "@de ,
+		"\u0411\u0435\u043D\u0433\u0442 \u0420\u043E\u043D\u043D\u0438 \u041F\u0435\u0442\u0435\u0440\u0441\u043E\u043D (\u0448\u0432\u0435\u0434. Bengt Ronnie Peterson, 14 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1944, \u042D\u0440\u0435\u0431\u0440\u0443 \u2014 11 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1978, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0438\u0439 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u0432\u0438\u0446\u0435-\u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 1971 \u0438 1978 \u0433\u043E\u0434\u043E\u0432. \u041D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0442\u0430\u043B\u0438\u0438 1978 \u0433\u043E\u0434\u0430 \u043E\u043D \u043F\u043E\u043F\u0430\u043B \u0432 \u0430\u0432\u0430\u0440\u0438\u044E \u043D\u0430 \u0441\u0442\u0430\u0440\u0442\u0435. \u0411\u044B\u043B \u0434\u043E\u0441\u0442\u0430\u0432\u043B\u0435\u043D \u0432 \u0431\u043E\u043B\u044C\u043D\u0438\u0446\u0443 \u0441 \u043F\u0435\u0440\u0435\u043B\u043E\u043C\u0430\u043C\u0438 \u043E\u0431\u0435\u0438\u0445 \u043D\u043E\u0433. \u041F\u043E \u0441\u043B\u043E\u0432\u0430\u043C \u0432\u0440\u0430\u0447\u0435\u0439 \u041F\u0435\u0442\u0435\u0440\u0441\u043E\u043D \u043D\u0430\u0445\u043E\u0434\u0438\u043B\u0441\u044F \u0432 \u0442\u044F\u0436\u0435\u043B\u043E\u043C \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0438, \u043E\u0434\u043D\u0430\u043A\u043E \u0435\u0433\u043E \u0436\u0438\u0437\u043D\u0438 \u043D\u0438\u0447\u0435\u0433\u043E \u043D\u0435 \u0443\u0433\u0440\u043E\u0436\u0430\u043B\u043E. \u0422\u0435\u043C \u043D\u0435 \u043C\u0435\u043D\u0435\u0435, \u043D\u043E\u0447\u044C\u044E \u043E\u043D \u0441\u043A\u043E\u043D\u0447\u0430\u043B\u0441\u044F. \u041F\u0440\u0438\u0447\u0438\u043D\u043E\u0439 \u0441\u043C\u0435\u0440\u0442\u0438 \u043F\u043E\u0441\u043B\u0443\u0436\u0438\u043B\u0438 \u0442\u0440\u0430\u0432\u043C\u044B, \u0432\u044B\u0437\u0432\u0430\u0432\u0448\u0438\u0435 \u0436\u0438\u0440\u043E\u0432\u0443\u044E \u044D\u043C\u0431\u043E\u043B\u0438\u044E."@ru ,
+		"Bengt Ronnie Peterson (\u00D6rebro, 14 februari 1944 - Milaan, 11 september 1978) was een Zweeds autocoureur."@nl ,
+		"Bengt Ronald Peterson, mais conhecido como Ronnie Peterson (\u00D6rebro, 14 de fevereiro de 1944 \u2014 Mil\u00E3o, 11 de setembro de 1978), apelidado de o sueco voador, foi um automobilista que guiou na F\u00F3rmula 1 na d\u00E9cada de 1970."@pt ,
+		"\u30D9\u30F3\u30AF\u30C8\u30FB\u30ED\u30CB\u30FC\u30FB\u30D4\u30FC\u30BF\u30FC\u30BD\u30F3\uFF08Bengt Ronnie Peterson, 1944\u5E742\u670814\u65E5 - 1978\u5E749\u670811\u65E5\uFF09\u306F\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u306E\u30A8\u30FC\u30EC\u30D6\u30EB\u30FC\u751F\u307E\u308C\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u540D\u5B57\u306F\u6BCD\u56FD\u8A9E\u3067\u306E\u767A\u97F3\u306B\u57FA\u3065\u304D\u300C\u30DA\u30C6\u30EB\u30BD\u30F3\u300D\u300C\u30DA\u30BF\u30FC\u30BD\u30F3\u300D\u300C\u30DA\u30BF\u30BD\u30F3\u300D\u306A\u3069\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002 \u30AA\u30FC\u30D0\u30FC\u30B9\u30C6\u30A2\u3092\u597D\u307F\u3001\u6FC0\u3057\u3044\u30C6\u30FC\u30EB\u30B9\u30E9\u30A4\u30C9\u3092\u591A\u7528\u3059\u308B\u30C0\u30A4\u30CA\u30DF\u30C3\u30AF\u306A\u8D70\u308A\u306A\u304C\u3089\u3082\u7D20\u6674\u3089\u3057\u3044\u30DE\u30B7\u30F3\u30B3\u30F3\u30C8\u30ED\u30FC\u30EB\u3067\u81EA\u7531\u81EA\u5728\u306B\u64CD\u308A\u3064\u3064\u9A5A\u7570\u7684\u306A\u901F\u3055\u3092\u8A87\u3063\u305F\u3001\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u304C\u751F\u3093\u3060\u5F53\u4EE3\u6700\u901F\u306E\u30EC\u30FC\u30B5\u30FC\u3002\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\u306A\u3069\u305D\u306E\u83EF\u9E97\u306A\u8D70\u308A\u306B\u9B45\u4E86\u3055\u308C\u305F\u8005\u3082\u591A\u304F\u3001\u300CSuper Swede\uFF08\u30B9\u30FC\u30D1\u30FC\u30FB\u30B9\u30A6\u30A7\u30FC\u30C9\uFF09\u300D\u3001\u300C\u30B5\u30A4\u30C9\u30A6\u30A7\u30A4\u30FB\u30ED\u30CB\u30FC\u300D\u7B49\u3068\u3082\u547C\u3070\u308C\u305F\u3002"@ja ,
+		"Bengt Ronnie Peterson, (14 de febrero de 1944, \u00D6rebro, Suecia - 11 de septiembre de 1978, Monza, Italia) fue un piloto de automovilismo de velocidad sueco. Compiti\u00F3 en la F\u00F3rmula 1 para los equipos March, Lotus y Tyrrell, donde logr\u00F3 diez victorias y 26 podios, adem\u00E1s de resultar subcampe\u00F3n en 1971 y 1978, tercero en 1973 y quinto en 1974. Es el s\u00E9ptimo piloto con m\u00E1s victorias entre quienes no obtuvieron el t\u00EDtulo. Su carrera se vio detenida por un choque fatal en el Gran Premio de Italia de 1978 cuando peleaba por el campeonato. Aquella vez cuando sucedi\u00F3 ese tr\u00E1gico accidente, los pilotos James Hunt y Clay Regazzoni (leyendas de la Formula 1) fueron dos de los que ayudaron a sacarlo de su auto, mientras se estaba incendiando."@es ,
+		"Durante la sua carriera ha vinto vari titoli nei campionati minori, tra cui due campionati di F3 svedese e uno di Formula 2. Nella massima serie, in cui aveva debuttato nel 1970, \u00E8 riuscito ad imporsi in 10 Gran Premi di Formula 1 ed era riconosciuto anche dai colleghi come un pilota grintoso e in assoluto il pi\u00F9 veloce del gruppo. Peterson per due volte \u00E8 stato vice-campione del mondo (1971 e 1978), ma durante il Gran Premio d'Italia 1978 ha trovato la morte a seguito delle numerose fratture riportate in un incidente alla partenza della gara."@it .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Ronnie_Peterson	dbp:birthDate	"1944-02-14"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-it:Ronnie_Peterson .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	yago-res:Ronnie_Peterson .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-es:Ronnie_Peterson .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-pl:Ronnie_Peterson .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-wikidata:Q173280 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-id:Ronnie_Peterson ,
+		dbr:Ronnie_Peterson ,
+		wikidata:Q173280 ,
+		<http://rdf.freebase.com/ns/m.022cx7> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-cs:Ronnie_Peterson .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-nl:Ronnie_Peterson ,
+		<http://viaf.org/viaf/7372050> ,
+		<http://ja.dbpedia.org/resource/\u30ED\u30CB\u30FC\u30FB\u30D4\u30FC\u30BF\u30FC\u30BD\u30F3> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-fr:Ronnie_Peterson .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-de:Ronnie_Peterson .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Ronnie_Peterson	owl:sameAs	dbpedia-pt:Ronnie_Peterson .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ronnie_Peterson	dct:subject	dbc:Swedish_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:Theodore_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:People_from_\u00D6rebro> ,
+		<http://dbpedia.org/resource/Category:1978_deaths> ,
+		dbc:Sport_deaths_in_Italy ,
+		dbc:Swedish_Formula_Three_Championship_drivers ,
+		dbc:Swedish_Formula_One_drivers ,
+		dbc:Burials_in_Sweden ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Swedish_expatriates_in_the_United_Kingdom ,
+		dbc:Swedish_expatriates_in_Monaco ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Filmed_deaths_in_sports ,
+		<http://dbpedia.org/resource/Category:1944_births> ,
+		dbc:March_Formula_One_drivers ,
+		dbc:Deaths_from_embolism ;
+	foaf:name	"Ronnie Peterson"@en ;
+	foaf:homepage	<http://www.ronniepeterson.se/eng_index.html> ;
+	geo:lat	"59.261928558349609375"^^xsd:float ;
+	geo:long	"15.238120079040527344"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Peterson_at_1978_Dutch_Grand_Prix.jpg> ;
+	dct:description	"Swedish racing driver"@en ;
+	foaf:givenName	"Bengt"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ronnie_Peterson ;
+	foaf:surname	"Peterson"@en .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Ronnie_Peterson	geo:geometry	"POINT(15.238120079041 59.26192855835)"^^virtrdf:Geometry ;
+	dbp:points	206 ;
+	dbp:years	"1978-09-11"^^xsd:date ,
+		1968 ,
+		1969 ,
+		1971 ,
+		"\u2013"^^xsd:string ,
+		"1978-09-10"^^xsd:date ;
+	dbp:after	dbr:Patrick_Depailler ,
+		dbr:Tony_Trimmer ,
+		dbr:Mike_Hailwood ,
+		dbr:Torsten_Palm ;
+	<http://dbpedia.org/property/team(s)_>	"March inc. non-works, Tyrrell, Lotus"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ronnie_Peterson	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ronnie_Peterson?oldid=741067630> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Ronnie_Peterson	georss:point	"59.26193 15.23812" ;
+	dbo:wikiPageExternalLink	<http://www.ronniepeterson.se/eng_index.html> ,
+		<http://www.forix.com/8w/peterson.html> ;
+	dbp:caption	"Peterson at the 1978 Dutch Grand Prix"^^xsd:string ;
+	dbp:nationality	"Swedish"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1973_French_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1978_Austrian_Grand_Prix> ;
+	dbp:birthPlace	"\u00D6rebro, Sweden"^^xsd:string ;
+	dbp:deathDate	"1978-09-11"^^xsd:date ;
+	dbp:before	dbr:Jean-Pierre_Jaussaud ,
+		dbr:Brian_McGuire ,
+		dbr:Clay_Regazzoni ,
+		dbr:Reine_Wisell ;
+	dbp:deathPlace	"Milan, Italy"^^xsd:string ;
+	dbo:abstract	"\u0411\u0435\u043D\u0433\u0442 \u0420\u043E\u043D\u043D\u0438 \u041F\u0435\u0442\u0435\u0440\u0441\u043E\u043D (\u0448\u0432\u0435\u0434. Bengt Ronnie Peterson, 14 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1944, \u042D\u0440\u0435\u0431\u0440\u0443 \u2014 11 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1978, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0438\u0439 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u0432\u0438\u0446\u0435-\u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 1971 \u0438 1978 \u0433\u043E\u0434\u043E\u0432. \u041D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0442\u0430\u043B\u0438\u0438 1978 \u0433\u043E\u0434\u0430 \u043E\u043D \u043F\u043E\u043F\u0430\u043B \u0432 \u0430\u0432\u0430\u0440\u0438\u044E \u043D\u0430 \u0441\u0442\u0430\u0440\u0442\u0435. \u0411\u044B\u043B \u0434\u043E\u0441\u0442\u0430\u0432\u043B\u0435\u043D \u0432 \u0431\u043E\u043B\u044C\u043D\u0438\u0446\u0443 \u0441 \u043F\u0435\u0440\u0435\u043B\u043E\u043C\u0430\u043C\u0438 \u043E\u0431\u0435\u0438\u0445 \u043D\u043E\u0433. \u041F\u043E \u0441\u043B\u043E\u0432\u0430\u043C \u0432\u0440\u0430\u0447\u0435\u0439 \u041F\u0435\u0442\u0435\u0440\u0441\u043E\u043D \u043D\u0430\u0445\u043E\u0434\u0438\u043B\u0441\u044F \u0432 \u0442\u044F\u0436\u0435\u043B\u043E\u043C \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0438, \u043E\u0434\u043D\u0430\u043A\u043E \u0435\u0433\u043E \u0436\u0438\u0437\u043D\u0438 \u043D\u0438\u0447\u0435\u0433\u043E \u043D\u0435 \u0443\u0433\u0440\u043E\u0436\u0430\u043B\u043E. \u0422\u0435\u043C \u043D\u0435 \u043C\u0435\u043D\u0435\u0435, \u043D\u043E\u0447\u044C\u044E \u043E\u043D \u0441\u043A\u043E\u043D\u0447\u0430\u043B\u0441\u044F. \u041F\u0440\u0438\u0447\u0438\u043D\u043E\u0439 \u0441\u043C\u0435\u0440\u0442\u0438 \u043F\u043E\u0441\u043B\u0443\u0436\u0438\u043B\u0438 \u0442\u0440\u0430\u0432\u043C\u044B, \u0432\u044B\u0437\u0432\u0430\u0432\u0448\u0438\u0435 \u0436\u0438\u0440\u043E\u0432\u0443\u044E \u044D\u043C\u0431\u043E\u043B\u0438\u044E."@ru ,
+		"Bengt Ronnie Peterson, n\u00E9 le 14 f\u00E9vrier 1944 \u00E0 \u00D6rebro, Su\u00E8de, et mort le 11 septembre 1978 \u00E0 Milan, Italie, des suites d'un accident survenu la veille lors du Grand Prix d'Italie, est un pilote automobile su\u00E9dois. Il a disput\u00E9 le championnat du monde de Formule 1 entre 1970 et 1978 et est consid\u00E9r\u00E9 comme l'un des pilotes les plus spectaculaires et les plus talentueux de sa g\u00E9n\u00E9ration."@fr ,
+		"\u672C\u7279\u00B7\u7F85\u5C3C\u00B7\u5F7C\u5F97\u68EE\uFF08\u745E\u5178\u8A9E\uFF1ABengt Ronnie Peterson\uFF0C\u745E\u5178\u8BED\u53D1\u97F3\uFF1A[\u02C8r\u0254ni \u02C8p\u025Bt\u025B \u02C8rson]\uFF0C1944\u5E742\u670814\u65E5\uFF0D1978\u5E749\u670811\u65E5\uFF09\uFF0C\u662F\u4E00\u4F4D\u745E\u5178\u8CFD\u8ECA\u624B\u3002\u4EE5\u7DBD\u865F\u300CSuperSwede\u300D\u77E5\u540D\uFF0C\u4ED6\u662F\u5169\u5C46\u7684\u570B\u969B\u6C7D\u8ECA\u806F\u76DF\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u4E16\u754C\u8ECA\u624B\u9326\u6A19\u8CFD\u8ECA\u624B\u4E9E\u8ECD\u3002 \u5F7C\u5F97\u68EE\u65BC\u5361\u4E01\u8ECA\u5C55\u958B\u4ED6\u7684\u8077\u696D\u751F\u6DAF\uFF0C\u50B3\u7D71\u4E0A\u4F86\u8AAA\u9019\u4E5F\u662F\u5927\u591A\u6578\u8ECA\u624B\u9032\u5165\u958B\u8F2A\u5F0F\u7AF6\u901F\u7684\u5927\u9580\u3002\u5728\u4ED6\u8D0F\u5F97\u5305\u62EC1963\u548C1964\u5E74\u745E\u5178\u51A0\u8ECD\u7B49\u7684\u5361\u4E01\u8ECA\u51A0\u8ECD\u5F8C\uFF0C\u4ED6\u8F49\u5F80\u4E09\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u800C\u4ED6\u4E5F\u8D0F\u5F97\u4E861969\u5E74\u6469\u7D0D\u54E5\u5927\u734E\u8CFD\u7684\u6469\u7D0D\u54E5\u5927\u734E\u8CFD\u4E09\u7D1A\u65B9\u7A0B\u5F0F\u8D0A\u52A9\u8CFD\u3002\u9694\u5E74\u4ED6\u8D0F\u5F97\u4E86\u6B50\u6D32\u4E09\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u51A0\u8ECD\u5F8C\uFF0C\u6649\u5347\u81F3\u4E00\u7D1A\u65B9\u7A0B\u5F0F\uFF0C\u52A0\u5165\u4E86\u746A\u99B3\u8ECA\u968A\u3002\u4ED6\u5728\u8A72\u968A\u4E09\u5E74\u7684\u6642\u9593\u5167\uFF0C\u7AD9\u4E0A6\u6B21\u9812\u734E\u53F0\uFF0C\u5927\u591A\u6578\u90FD\u57281971\u5E74\u4E16\u754C\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u9326\u6A19\u8CFD\u671F\u9593\uFF0C\u540C\u6642\u4E5F\u662F\u4ED6\u8D0F\u5F97\u4E9E\u8ECD\u7684\u90A3\u4E00\u5E74\u3002 \u5728\u4ED6\u8207\u746A\u99B3\u7684\u4E09\u5E74\u5408\u7D04\u7D50\u675F\u5F8C\uFF0C\u5F7C\u5F97\u68EE\u57281973\u5E74\u8CFD\u5B63\u52A0\u5165\u4E86\u79D1\u6797\u00B7\u67E5\u666E\u66FC\u7684\u84EE\u82B1\u8ECA\u968A\uFF0C\u8207\u885B\u5195\u51A0\u8ECD\u57C3\u9ED8\u68EE\u00B7\u83F2\u8482\u5E15\u723E\u8FEA\u642D\u6A94\u3002\u5728\u4ED6\u65BC\u84EE\u82B1\u7684\u524D\u5169\u500B\u8CFD\u5B63\uFF0C\u5F7C\u5F97\u68EE\u8D0F\u5F977\u6B21\u52DD\u5229\uFF0C\u4E14\u57281973\u5E74\u5F97\u5230\u751F\u6DAF\u6700\u4F73\u768452\u5206\u3002\u5728\u60B2\u6158\u76841975\u5E74\u8CFD\u5B63\u5F8C\uFF0C\u5F7C\u5F97\u68EE\u518D\u5EA6\u56DE\u5230\u746A\u99B3\uFF0C\u4E26\u57281976\u5E74\u7FA9\u5927\u5229\u5927\u734E\u8CFD\u8D0F\u5F97\u4ED6\u5728\u8A72\u968A\u7684\u6700\u5F8C\u4E00\u52DD\u3002\u57281977\u5E74\u8CFD\u5B63\u52A0\u5165\u6CF0\u745E\u723E\u5F8C\uFF0C\u4ED6\u518D\u5EA6\u56DE\u5230\u84EE\u82B1\uFF0C\u51FA\u8CFD1978\u5E74\u8CFD\u5B63\uFF0C\u4F5C\u70BA\u99AC\u91CC\u5967\u00B7\u5B89\u5FB7\u70C8\u8482\u7684\u4E8C\u865F\u8ECA\u624B\u3002\u5F7C\u5F97\u68EE\u5728\u5357\u975E\u548C\u6FB3\u5927\u5229\u4E9E\u8D0F\u5F97\u5169\u5834\u52DD\u5229\uFF0C\u4E26\u4E14\u5C07\u80FD\u5920\u8D0F\u5F97\u4E9E\u8ECD\uFF0C\u4E0D\u904E\u4ED6\u5728\u4F4D\u65BC\u8499\u624E\u7684\u7FA9\u5927\u5229\u5927\u734E\u8CFD\u9996\u5708\u767C\u751F\u4E86\u81F4\u547D\u4E8B\u6545\u3002"@zh ,
+		"Bengt Ronnie Peterson, (14 de febrero de 1944, \u00D6rebro, Suecia - 11 de septiembre de 1978, Monza, Italia) fue un piloto de automovilismo de velocidad sueco. Compiti\u00F3 en la F\u00F3rmula 1 para los equipos March, Lotus y Tyrrell, donde logr\u00F3 diez victorias y 26 podios, adem\u00E1s de resultar subcampe\u00F3n en 1971 y 1978, tercero en 1973 y quinto en 1974. Es el s\u00E9ptimo piloto con m\u00E1s victorias entre quienes no obtuvieron el t\u00EDtulo. Su carrera se vio detenida por un choque fatal en el Gran Premio de Italia de 1978 cuando peleaba por el campeonato. Aquella vez cuando sucedi\u00F3 ese tr\u00E1gico accidente, los pilotos James Hunt y Clay Regazzoni (leyendas de la Formula 1) fueron dos de los que ayudaron a sacarlo de su auto, mientras se estaba incendiando."@es ,
+		"Bengt Ronald Peterson, mais conhecido como Ronnie Peterson (\u00D6rebro, 14 de fevereiro de 1944 \u2014 Mil\u00E3o, 11 de setembro de 1978), apelidado de o sueco voador, foi um automobilista que guiou na F\u00F3rmula 1 na d\u00E9cada de 1970."@pt ,
+		"Bengt Ronald \u201ERonnie\u201C Peterson  (* 14. Februar 1944 in \u00D6rebro; \u2020 11. September 1978 in Mailand, Italien) war ein schwedischer Automobilrennfahrer. Petersons Motorsportkarriere begann 1962 im Kartsport. 1968 und 1969 gewann er die Schwedische Formel-3-Meisterschaft. 1970 deb\u00FCtierte er in der Formel 1. Parallel hierzu bestritt Peterson die Formel-2-Europameisterschaft, die er 1971 gewann. Insgesamt startete Peterson von 1970 bis 1978 bei 123 Formel-1-Grands-Prix. 1971 und 1978 wurde er Zweiter in der Fahrerweltmeisterschaft (1978 postum). Beim Start des Gro\u00DFen Preises von Italien 1978 geriet er unverschuldet in eine Massenkarambolage, bei der er sich mehrere Beinfrakturen zuzog. Bei der anschlie\u00DFenden Operation kam es zu Komplikationen, an deren Folgen Peterson starb. Neben dem Formelsport fuhr Peterson zahlreiche Sportwagen- und Tourenwagenrennen sowie Rallyes."@de ,
+		"Bengt Ronnie Peterson (Swedish pronunciation: [\u02C8r\u0254ni \u02C8p\u025Bt\u025B\u02C8\u0282on]; 14 February 1944 \u2013 11 September 1978) was a Swedish racing driver. Known by the nickname 'SuperSwede', he was a two-time runner-up in the FIA Formula One World Drivers' Championship. Peterson began his motor racing career in kart racing, traditionally the discipline where the majority of race drivers begin their careers in open-wheel racing. After winning a number of karting titles, including two Swedish titles in 1963 and 1964, he moved on to Formula Three, where he won the Monaco Grand Prix Formula Three support race for the 1969 Grand Prix. Later that year he won the European Formula Three Championship and moved up into Formula One, racing for the March factory team. In his three-year spell with the team, he took six podiums, most of which were scored during the 1971 Formula One season in which he also finished as runner-up in the Drivers' Championship. After seeing out his three-year contract at March, Peterson joined Colin Chapman's Team Lotus in the 1973 season, partnering defending champion Emerson Fittipaldi. During his first two seasons with Lotus, Peterson took seven victories, scoring a career-best 52 points in 1973. After a poor 1975 season, Peterson moved back to March and scored his final victory for the team at the 1976 Italian Grand Prix. After spending the 1977 season with Tyrrell, he moved back to Lotus for the 1978 season as \"number two\" driver to Mario Andretti. Peterson scored two wins, at the South African and Austrian Grand Prix races, and would finish second in the Drivers' Championship standings despite his fatal first-lap accident at Monza during the Italian Grand Prix."@en ,
+		"\u30D9\u30F3\u30AF\u30C8\u30FB\u30ED\u30CB\u30FC\u30FB\u30D4\u30FC\u30BF\u30FC\u30BD\u30F3\uFF08Bengt Ronnie Peterson, 1944\u5E742\u670814\u65E5 - 1978\u5E749\u670811\u65E5\uFF09\u306F\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u306E\u30A8\u30FC\u30EC\u30D6\u30EB\u30FC\u751F\u307E\u308C\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u540D\u5B57\u306F\u6BCD\u56FD\u8A9E\u3067\u306E\u767A\u97F3\u306B\u57FA\u3065\u304D\u300C\u30DA\u30C6\u30EB\u30BD\u30F3\u300D\u300C\u30DA\u30BF\u30FC\u30BD\u30F3\u300D\u300C\u30DA\u30BF\u30BD\u30F3\u300D\u306A\u3069\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002 \u30AA\u30FC\u30D0\u30FC\u30B9\u30C6\u30A2\u3092\u597D\u307F\u3001\u6FC0\u3057\u3044\u30C6\u30FC\u30EB\u30B9\u30E9\u30A4\u30C9\u3092\u591A\u7528\u3059\u308B\u30C0\u30A4\u30CA\u30DF\u30C3\u30AF\u306A\u8D70\u308A\u306A\u304C\u3089\u3082\u7D20\u6674\u3089\u3057\u3044\u30DE\u30B7\u30F3\u30B3\u30F3\u30C8\u30ED\u30FC\u30EB\u3067\u81EA\u7531\u81EA\u5728\u306B\u64CD\u308A\u3064\u3064\u9A5A\u7570\u7684\u306A\u901F\u3055\u3092\u8A87\u3063\u305F\u3001\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u304C\u751F\u3093\u3060\u5F53\u4EE3\u6700\u901F\u306E\u30EC\u30FC\u30B5\u30FC\u3002\u30B8\u30EB\u30FB\u30F4\u30A3\u30EB\u30CC\u30FC\u30F4\u306A\u3069\u305D\u306E\u83EF\u9E97\u306A\u8D70\u308A\u306B\u9B45\u4E86\u3055\u308C\u305F\u8005\u3082\u591A\u304F\u3001\u300CSuper Swede\uFF08\u30B9\u30FC\u30D1\u30FC\u30FB\u30B9\u30A6\u30A7\u30FC\u30C9\uFF09\u300D\u3001\u300C\u30B5\u30A4\u30C9\u30A6\u30A7\u30A4\u30FB\u30ED\u30CB\u30FC\u300D\u7B49\u3068\u3082\u547C\u3070\u308C\u305F\u3002"@ja ,
+		"Ronnie Peterson (ur. 14 lutego 1944 w \u00D6rebro, zm. 11 wrze\u015Bnia 1978 w Mediolanie) \u2013 szwedzki kierowca wy\u015Bcigowy. Jego pierwszym sukcesem by\u0142o wygranie w 1969 roku wy\u015Bcigu Formu\u0142y 3 towarzysz\u0105cego Grand Prix Monako. W 1970 roku zadebiutowa\u0142 w Formule 1 w zespole March. Odby\u0142 w sumie 123 starty w wy\u015Bcigach Grand Prix, zwyci\u0119\u017Caj\u0105c 10 razy, zdobywaj\u0105c 206 punkt\u00F3w, 26 razy stawa\u0142 na podium, 14 razy zdobywa\u0142 pole position oraz 9 razy zanotowa\u0142 najszybsze okr\u0105\u017Cenie. Jako jeden z nielicznych rywalizowa\u0142 z Jackiem Stewartem. W 1973 roku wygra\u0142 swoje pierwsze wy\u015Bcigi i ustanowi\u0142 rekord 9 pole position w jednym sezonie. W 1978 roku wystartowa\u0142 w barwach Lotusa u boku Mario Andrettiego. Ronnie Peterson zmar\u0142 na skutek zatoru naczy\u0144 krwiono\u015Bnych m\u00F3zgu, spowodowanego z\u0142amaniem nogi podczas wypadku w Grand Prix W\u0142och. Zaraz po starcie jego bolid bra\u0142 udzia\u0142 w karambolu (uczestnicy karambolu: James Hunt \u2013 kt\u00F3ry uderzy\u0142 w bolid Petersona, Riccardo Patrese, Vittorio Brambilla, Hans-Joachim Stuck, Patrick Depailler, Didier Pironi, Derek Daly, Clay Regazzoni i Brett Lunger). Bolid Petersona uderzy\u0142 w band\u0119 i zapali\u0142 si\u0119. Hunt, Regazzoni i Depailler uwolnili Petersona z wraku i u\u0142o\u017Cyli go na \u015Brodku toru zanim zd\u0105\u017Cy\u0142 ulec powa\u017Cniejszym poparzeniom. Peterson dozna\u0142 powa\u017Cnych obra\u017Ce\u0144 n\u00F3g (p\u00F3\u017Aniej Hunt wyzna\u0142, \u017Ce powstrzymywa\u0142 Petersona przed patrzeniem na nogi, by oszcz\u0119dzi\u0107 mu stresu). Co skandaliczne, s\u0142u\u017Cby medyczne zosta\u0142y wys\u0142ane do wypadku po 20 minutach. Mimo wszystko, nie wygl\u0105da\u0142o na to, by \u017Cycie Petersona by\u0142o zagro\u017Cone. Ranni kierowcy zostali odtransportowani do szpitala w Mediolanie i po uporz\u0105dkowaniu toru wy\u015Bcig zosta\u0142 wznowiony (dla kierowc\u00F3w, kt\u00F3rzy mieli nieuszkodzone b\u0105d\u017A zapasowe bolidy). W szpitalu prze\u015Bwietlenie rentgenowskie wykaza\u0142o u Petersona 17 od\u0142amk\u00F3w ko\u015Bci w prawej i 3 od\u0142amki w lewej nodze. Lekarze, po konsultacji z samym Petersonem, zdecydowali si\u0119 na operacj\u0119, maj\u0105c\u0105 na celu ustabilizowanie od\u0142amk\u00F3w. W nocy szpik kostny z od\u0142amk\u00F3w dosta\u0142 si\u0119 do krwiobiegu Petersona, co spowodowa\u0142o stworzenie zator\u00F3w w wa\u017Cnych narz\u0105dach: p\u0142ucach, w\u0105trobie i m\u00F3zgu. Prawdopodobnie uda\u0142oby si\u0119 uratowa\u0107 \u017Cycie Petersonowi, gdyby otrzyma\u0142 on nale\u017Cyt\u0105 opiek\u0119 lekarsk\u0105 zaraz po wypadku. Jego \u017Con\u0105 by\u0142a modelka Barbro Edwardsson. 19 grudnia 1987, niespe\u0142na 10 lat po jego \u015Bmierci pope\u0142ni\u0142a w paryskim hotelu samob\u00F3jstwo. Ronnie i Barbro pozostawili po sobie c\u00F3rk\u0119 Nin\u0119 Louis\u0119 ur. 4 listopada 1973."@pl ,
+		"Bengt Ronnie Peterson (\u00D6rebro, 14 februari 1944 - Milaan, 11 september 1978) was een Zweeds autocoureur."@nl ,
+		"Durante la sua carriera ha vinto vari titoli nei campionati minori, tra cui due campionati di F3 svedese e uno di Formula 2. Nella massima serie, in cui aveva debuttato nel 1970, \u00E8 riuscito ad imporsi in 10 Gran Premi di Formula 1 ed era riconosciuto anche dai colleghi come un pilota grintoso e in assoluto il pi\u00F9 veloce del gruppo. Peterson per due volte \u00E8 stato vice-campione del mondo (1971 e 1978), ma durante il Gran Premio d'Italia 1978 ha trovato la morte a seguito delle numerose fratture riportate in un incidente alla partenza della gara."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Peterson_at_1978_Dutch_Grand_Prix.jpg?width=300> ;
+	dbo:birthDate	"1944-2-14"^^xsd:date ;
+	dbo:deathDate	"1978-9-11"^^xsd:date ;
+	dbo:deathPlace	dbr:Milan ;
+	dbo:wikiPageRevisionID	741067630 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/\u00D6rebro> ;
+	dbo:wikiPageID	387446 ;
+	dbo:wins	"10"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"9"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1970_Monaco_Grand_Prix> ;
+	dbo:races	"123"^^xsd:nonNegativeInteger ;
+	dbo:poles	"14"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1978_Italian_Grand_Prix> ;
+	dbo:podiums	"26"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns30:	<http://purl.org/linguistics/gold/> .
+dbr:Ronnie_Peterson	ns30:hypernym	dbr:Driver ;
+	dbp:title	dbr:European_Formula_Two_Championship ,
+		dbr:List_of_Monaco_Grand_Prix_Formula_Three_support_race_winners ,
+		dbr:Formula_Three ,
+		dbr:List_of_Formula_One_fatal_accidents ,
+		"Champion"^^xsd:string .
+<http://dbpedia.org/resource/1971_Italian_Grand_Prix>	dbo:secondDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_Italian_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson ;
+	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_South_African_Grand_Prix>	dbo:firstDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1971_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_Canadian_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1974_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_Race_of_Champions>	dbp:fastDriver	dbr:Ronnie_Peterson .
+dbr:Tyrrell_Racing	dbp:drivers	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/Montju\u00EFc_circuit>	dbp:recordDriver	dbr:Ronnie_Peterson .
+dbr:Circuit_de_Monaco	dbp:recordDriver	dbr:Ronnie_Peterson .
+dbr:Tyrrell_P34	dbp:drivers	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_Brazilian_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1975_Race_of_Champions>	dbo:thirdDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1971_British_Grand_Prix>	dbo:secondDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_British_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson .
+dbr:Brian_McGuire	dbp:after	dbr:Ronnie_Peterson .
+dbr:Jean-Pierre_Jaussaud	dbp:after	dbr:Ronnie_Peterson .
+dbr:Mike_Hailwood	dbp:before	dbr:Ronnie_Peterson .
+dbr:Patrick_Depailler	dbp:before	dbr:Ronnie_Peterson .
+dbr:Reine_Wisell	dbp:after	dbr:Ronnie_Peterson .
+dbr:Torsten_Palm	dbp:before	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1971_Jochen_Rindt_Ged\u00E4chtnisrennen>	dbo:secondDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1972_German_Grand_Prix>	dbo:thirdDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_British_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson ;
+	dbo:secondDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_Swedish_Grand_Prix>	dbo:poleDriver	dbr:Ronnie_Peterson ;
+	dbo:secondDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_Swedish_Grand_Prix>	dbo:thirdDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1973_Spanish_Grand_Prix>	dbo:fastestDriver	dbr:Ronnie_Peterson ;
+	dbo:poleDriver	dbr:Ronnie_Peterson .
+<http://dbpedia.org/resource/1978_Spanish_Grand_Prix>	dbo:secondDriver	dbr:Ronnie_Peterson .
+dbr:Bengt_Ronnie_Peterson	dbo:wikiPageRedirects	dbr:Ronnie_Peterson .

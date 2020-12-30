@@ -1,0 +1,162 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Gerhard_Berger	dbp:after	dbr:Dieter_Quester .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Dieter_Quester	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q215627 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Dieter_Quester	rdf:type	dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Dieter_Quester	rdf:type	yago:Racer110502576 .
+@prefix schema:	<http://schema.org/> .
+dbr:Dieter_Quester	rdf:type	schema:Person ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Dieter_Quester	rdf:type	owl:Thing ,
+		yago:Driver110034906 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Agent ,
+		dbo:FormulaOneRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Dieter_Quester	rdf:type	umbel-rc:RaceCarDriver .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Dieter_Quester	rdf:type	ns9:NaturalPerson ,
+		<http://dbpedia.org/class/yago/WikicatBMW(1950s\u201360s)FormulaOneDrivers> ,
+		wikidata:Q378622 ,
+		ns9:Agent ,
+		yago:Operator110378412 ,
+		wikidata:Q5 ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatAustrianMotorboatRacers ,
+		dbo:Person .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Dieter_Quester	rdf:type	foaf:Person ,
+		dbo:RacingDriver ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportRacer ,
+		dbo:Automobile ,
+		yago:WikicatAustrianFormulaOneDrivers ,
+		yago:WikicatSurteesFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Dieter_Quester	rdfs:label	"Dieter Quester"@en ,
+		"Dieter Quester"@pt ,
+		"Dieter Quester"@fr ,
+		"Dieter Quester"@de ,
+		"Dieter Quester"@pl ,
+		"Dieter Quester"@es ,
+		"Dieter Quester"@nl ,
+		"\u041A\u0432\u0435\u0441\u0442\u0435\u0440, \u0414\u0438\u0442\u0435\u0440"@ru ,
+		"Dieter Quester"@it ;
+	rdfs:comment	"Dieter Quester (* 30. Mai 1939 in Wien) ist ein ehemaliger \u00F6sterreichischer Motorboot-, Motorrad- und Automobilrennfahrer."@de ,
+		"Dieter Quester (ur. 30 maja 1939 roku w Wiedniu) \u2013 austriacki kierowca wy\u015Bcigowy."@pl ,
+		"Dieter Quester (Wenen, 30 mei 1939) is een voormalig Formule 1-coureur uit Oostenrijk. Hij nam deel aan de Grand Prix van Duitsland in 1969 voor het team BMW en zijn thuisrace in 1974 voor het team Surtees, maar startte in de eerste niet en behaalde in de tweede een negende plaats, zodat hij geen WK-punten scoorde."@nl ,
+		"Dieter Quester (Viena, Austria, 30 de mayo de 1939) fue un piloto de carreras automovil\u00EDsticas austriaco que lleg\u00F3 a disputar dos carreras de F\u00F3rmula 1."@es ,
+		"\u0414\u0438\u0301\u0442\u0435\u0440 \u041A\u0432\u0435\u0301\u0441\u0442\u0435\u0440 (\u043D\u0435\u043C. Dieter Quester, 30 \u043C\u0430\u044F 1939, \u0412\u0435\u043D\u0430) \u2014 \u0430\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0411\u043E\u0301\u043B\u044C\u0448\u0443\u044E \u0447\u0430\u0441\u0442\u044C \u0441\u0432\u043E\u0438\u0445 \u0433\u043E\u043D\u043E\u043A \u043F\u0440\u043E\u0432\u0451\u043B \u0437\u0430 \u0440\u0443\u043B\u0451\u043C BMW, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 BMW \u0441 1968 \u043F\u043E 1988. \u0422\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u0421\u043F\u0430, \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D ETCC. \u041F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0434\u0432\u0443\u0445 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043D\u0435 \u043D\u0430\u0431\u0440\u0430\u043B \u043E\u0447\u043A\u043E\u0432."@ru ,
+		"Dieter Quester (born 30 May 1939 in Vienna) is an active touring car racing driver from Austria. Dieter has participated in 53 24-Hour Races. He competed in a single Formula One race in which he finished ninth. Quester participated in his home 1974 Austrian Grand Prix on 18 August 1974. He out-qualified his three team mates at Surtees and finished 9th ahead of Hans-Joachim Stuck and double World Champion Graham Hill in the race, but scored no championship points."@en ,
+		"Dieter QuesterFichier:QuesterDieter1973.jpg Dieter Quester en 1973 Dieter Quester, n\u00E9 le 30 mai 1939, est un pilote automobile autrichien qui a pilot\u00E9 en comp\u00E9tition motocycliste, en comp\u00E9tition motonautique et en comp\u00E9tition automobile."@fr ,
+		"Dieter Quester (Viena, 30 de maio de 1939) \u00E9 um ex-piloto austr\u00EDaco de F\u00F3rmula 1. Dieter n\u00E3o pontuou em sua curta passagem pela categoria."@pt ;
+	dbp:points	0 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	dbpedia-es:Dieter_Quester .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	dbpedia-it:Dieter_Quester .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	dbpedia-cs:Dieter_Quester .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	dbpedia-pl:Dieter_Quester ,
+		dbr:Dieter_Quester .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	dbpedia-pt:Dieter_Quester .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	yago-res:Dieter_Quester .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	dbpedia-de:Dieter_Quester .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	dbpedia-fr:Dieter_Quester .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	dbpedia-wikidata:Q78551 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Dieter_Quester	owl:sameAs	dbpedia-nl:Dieter_Quester ,
+		wikidata:Q78551 ,
+		<http://rdf.freebase.com/ns/m.04k7yy> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Dieter_Quester	dct:subject	dbc:European_Touring_Car_Championship_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Austrian_motorboat_racers ,
+		dbc:Surtees_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:Sportspeople_from_Vienna ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:BMW_(1950s\u201360s)_Formula_One_drivers> ,
+		dbc:Austrian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1939_births> ,
+		dbc:Austrian_Formula_One_drivers ,
+		dbc:World_Touring_Car_Championship_drivers ;
+	foaf:name	"Dieter Quester"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/QuesterDieter1973.jpg> ;
+	dct:description	"austrian Formula One driver"@en ;
+	foaf:givenName	"Dieter"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Dieter_Quester	foaf:isPrimaryTopicOf	wikipedia-en:Dieter_Quester ;
+	foaf:surname	"Quester"@en ;
+	dbp:title	dbr:European_Touring_Car_Championship ,
+		"Winner"^^xsd:string ,
+		dbr:Macau_Grand_Prix ,
+		"Champion"^^xsd:string ;
+	dbp:years	1968 ,
+		1970 ,
+		1977 ,
+		1983 ,
+		","^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Dieter_Quester	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dieter_Quester?oldid=740111970> ;
+	dbp:before	"and Pierre Dieudonn\u00E9"^^xsd:string ,
+		dbr:Umberto_Grano ,
+		<http://dbpedia.org/resource/Kevin_Bartlett_(race_driver)> ,
+		dbr:Karl_von_Wendt ,
+		dbr:Jean_Xhenceval ;
+	dbp:after	dbr:Toine_Hezemans ,
+		dbr:Jan_Bussell ,
+		dbr:Umberto_Grano ,
+		dbr:Tom_Walkinshaw ;
+	dbp:birthPlace	"Vienna, Austria"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Dieter_Quester	dbp:birthDate	"1939-05-30"^^xsd:date ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20060114154842/http:/www.f1rejects.com/drivers/quester/index.html> ,
+		<http://www.john-w.de/bmwf2/> ,
+		<http://bmw-motorsport.com/ms/en/fascination/history/bmw_touring/heroes/index.html> ;
+	dbp:caption	"Dieter Quester, 1973"^^xsd:string ;
+	dbo:abstract	"Dieter Quester (* 30. Mai 1939 in Wien) ist ein ehemaliger \u00F6sterreichischer Motorboot-, Motorrad- und Automobilrennfahrer."@de ,
+		"Dieter Quester (Wenen, 30 mei 1939) is een voormalig Formule 1-coureur uit Oostenrijk. Hij nam deel aan de Grand Prix van Duitsland in 1969 voor het team BMW en zijn thuisrace in 1974 voor het team Surtees, maar startte in de eerste niet en behaalde in de tweede een negende plaats, zodat hij geen WK-punten scoorde."@nl ,
+		"Dieter Quester (ur. 30 maja 1939 roku w Wiedniu) \u2013 austriacki kierowca wy\u015Bcigowy."@pl ,
+		"Dieter Quester (Viena, 30 de maio de 1939) \u00E9 um ex-piloto austr\u00EDaco de F\u00F3rmula 1. Dieter n\u00E3o pontuou em sua curta passagem pela categoria."@pt ,
+		"Dieter Quester (born 30 May 1939 in Vienna) is an active touring car racing driver from Austria. Dieter has participated in 53 24-Hour Races. He competed in a single Formula One race in which he finished ninth. Starting with motorboats in the 1950s, he became part of the Formula 2 team of BMW which intended to take part in the 1969 German Grand Prix. Teammate Gerhard Mitter was killed at the N\u00FCrburgring while practising with the BMW 269, though. As a suspension or steering failure was suspected, the BMW team with Quester and Hubert Hahne withdrew from the race, as did Mitter's teammate at Porsche, Hans Herrmann. Quester participated in his home 1974 Austrian Grand Prix on 18 August 1974. He out-qualified his three team mates at Surtees and finished 9th ahead of Hans-Joachim Stuck and double World Champion Graham Hill in the race, but scored no championship points. Quester then focused again on European Touring Car Championship to drive a BMW 3.0 CSL for Schnitzer Motorsport. Quester had already won the 1973 Spa 24 Hours. Later racing in the DTM, he once slid on the roof of his BMW M3 over the start/finish line of the AVUS for a 3rd place. His career is still active at age 70, sponsored by Red Bull. On 15 January 2006 he won the 24 Hours race at the Dubai Autodrome on a BMW M3 together with Hans-Joachim Stuck, Philipp Peter and Toto Wolff. Stuck and Quester returned in the 24 Hours N\u00FCrburgring, but their BMW was destroyed in a crash at night that involved an oil spill and seven cars. During the weekend of 9\u201310 September 2006, he won the Britcar 24 Hours of Silverstone in a Duller Motorsport BMW MZ4, and on 14 January 2007 he again won the 24 Hours race at the Dubai Autodrome in the Duller Motorsport BMW Z4. In September 2007 he and Duller won the 24 Hours of Silverstone in the Duller BMW Z4, by a margin of 30 laps."@en ,
+		"\u0414\u0438\u0301\u0442\u0435\u0440 \u041A\u0432\u0435\u0301\u0441\u0442\u0435\u0440 (\u043D\u0435\u043C. Dieter Quester, 30 \u043C\u0430\u044F 1939, \u0412\u0435\u043D\u0430) \u2014 \u0430\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0411\u043E\u0301\u043B\u044C\u0448\u0443\u044E \u0447\u0430\u0441\u0442\u044C \u0441\u0432\u043E\u0438\u0445 \u0433\u043E\u043D\u043E\u043A \u043F\u0440\u043E\u0432\u0451\u043B \u0437\u0430 \u0440\u0443\u043B\u0451\u043C BMW, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 BMW \u0441 1968 \u043F\u043E 1988. \u0422\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 24 \u0447\u0430\u0441\u043E\u0432 \u0421\u043F\u0430, \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D ETCC. \u041F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0434\u0432\u0443\u0445 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1, \u043D\u0435 \u043D\u0430\u0431\u0440\u0430\u043B \u043E\u0447\u043A\u043E\u0432."@ru ,
+		"Dieter QuesterFichier:QuesterDieter1973.jpg Dieter Quester en 1973 Dieter Quester, n\u00E9 le 30 mai 1939, est un pilote automobile autrichien qui a pilot\u00E9 en comp\u00E9tition motocycliste, en comp\u00E9tition motonautique et en comp\u00E9tition automobile."@fr ,
+		"Dieter Quester (Viena, Austria, 30 de mayo de 1939) fue un piloto de carreras automovil\u00EDsticas austriaco que lleg\u00F3 a disputar dos carreras de F\u00F3rmula 1."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/QuesterDieter1973.jpg?width=300> ;
+	dbo:birthDate	"1939-5-30"^^xsd:date ;
+	dbo:wikiPageRevisionID	740111970 ;
+	dbo:birthPlace	dbr:Vienna ;
+	dbo:wikiPageID	1228302 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Dieter_Quester	ns27:hypernym	dbr:Car ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1969_German_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1974_Austrian_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Surtees ,
+		dbr:BMW_in_Formula_One ;
+	dbp:nationality	"Austrian"^^xsd:string .
+wikipedia-en:Dieter_Quester	foaf:primaryTopic	dbr:Dieter_Quester .
+dbr:Gianfranco_Brancatelli	dbp:before	dbr:Dieter_Quester .
+<http://dbpedia.org/resource/Kevin_Bartlett_(racing_driver)>	dbp:after	dbr:Dieter_Quester .
+<http://dbpedia.org/resource/1973_24_Hours_of_Le_Mans__11__1>	dbo:firstDriver	dbr:Dieter_Quester .
+<http://dbpedia.org/resource/1976_24_Hours_of_Le_Mans__38__1>	dbo:firstDriver	dbr:Dieter_Quester .
+dbr:Tom_Walkinshaw	dbp:before	dbr:Dieter_Quester .

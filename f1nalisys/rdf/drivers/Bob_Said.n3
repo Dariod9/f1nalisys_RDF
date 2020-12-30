@@ -1,0 +1,106 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Bob_Said	foaf:primaryTopic	dbr:Bob_Said .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Bob_Said	rdf:type	foaf:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Bob_Said	rdf:type	umbel-rc:RaceCarDriver .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Bob_Said	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:Driver110034906 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Bob_Said	rdf:type	dbo:Person ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Bob_Said	rdf:type	schema:Person ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:WikicatNASCARDrivers ,
+		dbo:RacingDriver .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Bob_Said	rdf:type	ns8:NaturalPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Bob_Said	rdf:type	wikidata:Q24229398 ,
+		ns8:Agent ,
+		yago:CausalAgent100007347 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Bob_Said	rdf:type	owl:Thing ,
+		dbo:Athlete ,
+		wikidata:Q378622 ,
+		yago:WikicatRacingDriversFromNewYork ,
+		wikidata:Q5 ,
+		wikidata:Q215627 ,
+		yago:Operator110378412 ,
+		yago:WikicatConnaughtFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Bob_Said	rdfs:label	"Bob Said"@pt ,
+		"Bob Said"@en ,
+		"Bob Said"@nl ,
+		"Bob Said"@de ,
+		"Bob Said"@pl ;
+	rdfs:comment	"Boris Said (Greenwich, Nova Iorque, Estados Unidos, 5 de maio de 1932 - Kirkland, Washington, Estados Unidos, 24 de mar\u00E7o de 2002) foi um automobilista norte-americano que participou do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1959."@pt ,
+		"Boris \"Bob\" Said (New York City, 5 mei 1932 - Seattle, 24 maart 2002) was een autocoureur uit de Verenigde Staten. Hij nam deel aan zijn thuisrace in 1959 op Sebring International Speedway voor het team Connaught Engineering, maar spinde in de eerste ronde van de baan en scoorde dus geen WK-punten."@nl ,
+		"Boris Robert \u201EBob\u201C Said junior (* 5. Mai 1932 in New York City; \u2020 24. M\u00E4rz 2002 in Los Angeles) war ein US-amerikanischer Automobilrenn- und Bobfahrer."@de ,
+		"Boris \"Bob\" Said (May 5, 1932 in New York City \u2013 March 24, 2002 in Seattle) was a racing driver from the United States. Boris was the first American to win a road race in Europe after World War II \u2013 the 1953 Rouen Grand Prix. He participated in the first Formula One United States Grand Prix at Sebring on December 12, 1959. He spun off on the first lap and scored no World Championship points. He also made one NASCAR start, the 1959 Daytona 500 where he finished 50th after a transmission failure. Later he was the executive producer of a documentary entitled Mystery of the Sphynx."@en ,
+		"Boris \"Bob\" Said (ur. 5 maja 1932 roku w Greenwich w Nowym Jorku, zm. 24 marca 2002 roku w Los Angeles w Kalifornii) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ;
+	owl:sameAs	wikidata:Q172794 ,
+		dbr:Bob_Said .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Bob_Said	owl:sameAs	dbpedia-nl:Bob_Said .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Bob_Said	owl:sameAs	dbpedia-de:Bob_Said .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Bob_Said	owl:sameAs	yago-res:Bob_Said .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Bob_Said	owl:sameAs	dbpedia-pt:Bob_Said ,
+		<http://rdf.freebase.com/ns/m.04k7kp> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Bob_Said	owl:sameAs	dbpedia-wikidata:Q172794 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Bob_Said	owl:sameAs	dbpedia-pl:Bob_Said .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Bob_Said	dct:subject	dbc:American_sportspeople_of_Syrian_descent ,
+		<http://dbpedia.org/resource/Category:1932_births> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_from_New_York ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:Sportspeople_from_New_York_City ,
+		dbc:American_Formula_One_drivers ,
+		dbc:NASCAR_drivers ,
+		dbc:Bobsledders_at_the_1972_Winter_Olympics ,
+		dbc:Connaught_Formula_One_drivers ,
+		dbc:American_people_of_Syrian_descent ,
+		dbc:Bobsledders_at_the_1968_Winter_Olympics ,
+		dbc:American_bobsledders ,
+		dbc:Male_bobsledders ,
+		<http://dbpedia.org/resource/Category:2002_deaths> ;
+	foaf:name	"Bob Said"@en ;
+	dct:description	"American racing driver"@en ;
+	foaf:givenName	"Bob"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Bob_Said ;
+	foaf:surname	"Said"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Bob_Said	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bob_Said?oldid=737101062> ;
+	dbo:wikiPageExternalLink	<http://www.imdb.com/title/tt0316293/> ,
+		<http://www.grandprix.com/gpe/drv-saibob.html> ;
+	dbo:abstract	"Boris Said (Greenwich, Nova Iorque, Estados Unidos, 5 de maio de 1932 - Kirkland, Washington, Estados Unidos, 24 de mar\u00E7o de 2002) foi um automobilista norte-americano que participou do Grande Pr\u00EAmio dos Estados Unidos de F\u00F3rmula 1 em 1959."@pt ,
+		"Boris Robert \u201EBob\u201C Said junior (* 5. Mai 1932 in New York City; \u2020 24. M\u00E4rz 2002 in Los Angeles) war ein US-amerikanischer Automobilrenn- und Bobfahrer."@de ,
+		"Boris \"Bob\" Said (May 5, 1932 in New York City \u2013 March 24, 2002 in Seattle) was a racing driver from the United States. Boris was the first American to win a road race in Europe after World War II \u2013 the 1953 Rouen Grand Prix. He participated in the first Formula One United States Grand Prix at Sebring on December 12, 1959. He spun off on the first lap and scored no World Championship points. He also made one NASCAR start, the 1959 Daytona 500 where he finished 50th after a transmission failure. Said was also a bobsled racer, competing in the Olympics twice, 1968 in Grenoble and in 1972 at Sapporo, Japan achieving a best result of tenth. The 1968 games were notable as he competed against another racing driver-come-bobsledder, Robin Widdows. Later he was the executive producer of a documentary entitled Mystery of the Sphynx. His son, Boris Said III, is a current NASCAR driver and road course ringer."@en ,
+		"Boris \"Bob\" Said (ur. 5 maja 1932 roku w Greenwich w Nowym Jorku, zm. 24 marca 2002 roku w Los Angeles w Kalifornii) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Boris \"Bob\" Said (New York City, 5 mei 1932 - Seattle, 24 maart 2002) was een autocoureur uit de Verenigde Staten. Hij nam deel aan zijn thuisrace in 1959 op Sebring International Speedway voor het team Connaught Engineering, maar spinde in de eerste ronde van de baan en scoorde dus geen WK-punten."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Bob_Said	dbo:birthDate	"1932-5-5"^^xsd:date ,
+		"1932-05-05"^^xsd:date ;
+	dbo:deathDate	"2002-3-24"^^xsd:date ,
+		"2002-03-24"^^xsd:date ;
+	dbo:wikiPageRevisionID	737101062 ;
+	dbo:birthPlace	dbr:New_York_City ;
+	dbo:wikiPageID	1228243 .
+@prefix ns22:	<http://purl.org/linguistics/gold/> .
+dbr:Bob_Said	ns22:hypernym	dbr:Driver .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bob_Said	dbp:nationality	"American"^^xsd:string .

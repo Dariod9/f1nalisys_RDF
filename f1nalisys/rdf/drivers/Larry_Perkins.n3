@@ -1,0 +1,215 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Dick_Johnson_(racing_driver)>	dbp:after	dbr:Larry_Perkins ;
+	dbp:before	dbr:Larry_Perkins .
+dbr:Craig_Lowndes	dbp:before	dbr:Larry_Perkins .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Larry_Perkins	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatSurteesFormulaOneDrivers ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:Driver110034906 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Larry_Perkins	rdf:type	foaf:Person ,
+		yago:Operator110378412 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Larry_Perkins	rdf:type	dbo:RacingDriver ,
+		yago:WikicatEuropeanFormulaThreeChampionshipDrivers ,
+		dbo:FormulaOneRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Larry_Perkins	rdf:type	owl:Thing ,
+		yago:WikicatV8SupercarDrivers ,
+		dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Larry_Perkins	rdf:type	wikidata:Q215627 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Larry_Perkins	rdf:type	ns8:Agent ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Larry_Perkins	rdf:type	schema:Person ,
+		ns8:NaturalPerson ,
+		wikidata:Q5 ,
+		yago:WikicatAmonFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportRacer ,
+		wikidata:Q378622 ,
+		dbo:Person ,
+		yago:WikicatAustralianFormula2Drivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Larry_Perkins	rdf:type	umbel-rc:RaceCarDriver ,
+		<http://dbpedia.org/class/yago/WikicatRacingDriversFromVictoria(Australia)> ,
+		yago:WikicatBoroFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatAustralianFormulaOneDrivers ,
+		yago:WikicatFormulaFordDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		dbo:Athlete .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Larry_Perkins	rdfs:label	"Larry Perkins"@de ,
+		"Larry Perkins"@pt ,
+		"Larry Perkins"@pl ,
+		"Larry Perkins"@en ,
+		"Larry Perkins"@nl ,
+		"\u30E9\u30EA\u30FC\u30FB\u30D1\u30FC\u30AD\u30F3\u30B9"@ja ,
+		"\u041F\u0435\u0440\u043A\u0438\u043D\u0441, \u041B\u0430\u0440\u0440\u0438"@ru ,
+		"Larry Perkins"@it ,
+		"Larry Perkins"@fr ;
+	rdfs:comment	"Larry Perkins (* 18. M\u00E4rz 1950 in Murrayville) ist ein ehemaliger australischer Automobilrennfahrer. Larry Perkins kam, angeregt durch seinen Landsmann Tim Schenken, nach Europa. Seine Referenz waren Erfolge in den australischen Formel-Vau-, Formel-Ford- und Formel-3-Serien. Nach einem letzten erfolglosen Versuch bei Surtees ging Perkins zur\u00FCck nach Australien und holte sich 1979 den Gesamtsieg in der heimischen Formel-5000-Meisterschaft."@de ,
+		"Larry Clifton Perkins (ur. 18 marca 1950 roku w Cowangie, Wiktoria) \u2013 australijski kierowca wy\u015Bcigowy."@pl ,
+		"\u30E9\u30EA\u30FC\u30FB\u30AF\u30EA\u30D5\u30C8\u30F3\u30FB\u30D1\u30FC\u30AD\u30F3\u30B9\uFF08Larry Clifton Perkins, 1950\u5E743\u670818\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Larry Clifton Perkins est un ancien pilote automobile australien, n\u00E9 le 18 mars 1950, \u00E0 Murrayville."@fr ,
+		"Larry Perkins (18 de mar\u00E7o de 1950) \u00E9 um ex-automobilista e atualmente chefe de equipe na V8 Supercar da Austr\u00E1lia."@pt ,
+		"\u041B\u0430\u0440\u0440\u0438 \u041F\u0435\u0440\u043A\u0438\u043D\u0441 (\u0430\u043D\u0433\u043B. Larry Perkins; 18 \u043C\u0430\u0440\u0442\u0430 1950, \u041A\u0430\u0443\u044D\u043D\u0434\u0436\u0438, \u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F, \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0431\u044B\u0432\u0448\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0438 \u0432\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0432 \u0441\u0435\u0440\u0438\u0438 V8 Supercars. \u0421\u044B\u043D \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u0430 \u042D\u0434\u0434\u0438 \u041F\u0435\u0440\u043A\u0438\u043D\u0441\u0430 (\u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 1955 RedeX Round Australia Trial), \u043B\u044E\u0431\u043E\u0432\u044C \u041B\u0430\u0440\u0440\u0438 \u043A \u043C\u0430\u0448\u0438\u043D\u0430\u043C \u0440\u0430\u0437\u0432\u0438\u043B\u0430\u0441\u044C \u0441 \u0440\u0430\u043D\u043D\u0438\u0445 \u043B\u0435\u0442. \u041E\u0442 \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 1970-\u0445 \u0434\u043E \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 V8 Supercars. \u041E\u043D \u0443\u0448\u0451\u043B \u0438\u0437 \u0433\u043E\u043D\u043E\u043A \u0432 2003, \u043A\u043E\u0433\u0434\u0430 \u0435\u043C\u0443 \u0431\u044B\u043B\u043E 53, \u0430 \u0441\u0435\u0439\u0447\u0430\u0441 \u043E\u043D \u0432\u043B\u0430\u0434\u0435\u0435\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 V8 Supercar. \u0422\u0430\u043A \u0436\u0435 \u043E\u043D \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u0447\u0435\u043B\u043E\u0432\u0435\u043A \u0441 \u0431\u043E\u043B\u044C\u0448\u0438\u043C \u0447\u0443\u0432\u0441\u0442\u0432\u043E\u043C \u044E\u043C\u043E\u0440\u0430. \u0415\u0433\u043E \u043F\u0441\u0435\u0432\u0434\u043E\u043D\u0438\u043C \u00ABLP\u00BB, \u043D\u043E \u043E\u043D \u0447\u0430\u0441\u0442\u043E \u0441\u0435\u0431\u044F \u043D\u0430\u0437\u044B\u0432\u0430\u043B \u00ABLarrikin Larry\u00BB."@ru ,
+		"Larry Perkins (Cowangie, Victoria, 18 maart 1950) is een voormalig Formule 1-coureur uit Australi\u00EB. Hij nam tussen 1974 en 1977 deel aan 15 Grands Prix voor de teams Amon, Boro, Brabham, BRM en Surtees, maar scoorde hierin geen punten. Perkins won in 1982 samen met avonturier Hans Thostrup de BP Solar Trek met de auto Quiet Achiever, een van de eerste auto's op zonne-energie. Deze wedstrijd was de voorloper van de World Solar Challenge, een race voor zonnewagens dwars door Australi\u00EB."@nl ,
+		"Larry Clifton Perkins (born 18 March 1950 in Murrayville, Victoria) is a former racing driver and V8 Supercar team owner from Australia."@en .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Larry_Perkins	owl:sameAs	dbpedia-it:Larry_Perkins .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Larry_Perkins	owl:sameAs	dbpedia-de:Larry_Perkins ,
+		<http://ja.dbpedia.org/resource/\u30E9\u30EA\u30FC\u30FB\u30D1\u30FC\u30AD\u30F3\u30B9> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Larry_Perkins	owl:sameAs	dbpedia-nl:Larry_Perkins ,
+		<http://rdf.freebase.com/ns/m.04h02w> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Larry_Perkins	owl:sameAs	dbpedia-wikidata:Q172072 ,
+		dbr:Larry_Perkins ,
+		wikidata:Q172072 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Larry_Perkins	owl:sameAs	dbpedia-fr:Larry_Perkins .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Larry_Perkins	owl:sameAs	yago-res:Larry_Perkins .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Larry_Perkins	owl:sameAs	dbpedia-pl:Larry_Perkins .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Larry_Perkins	owl:sameAs	dbpedia-pt:Larry_Perkins .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Larry_Perkins	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:Australian_Formula_2_drivers ,
+		dbc:V8_Supercar_drivers ,
+		dbc:Australian_Touring_Car_Championship_drivers ,
+		dbc:Bathurst_1000_winners ,
+		<http://dbpedia.org/resource/Category:Racing_drivers_from_Victoria_(Australia)> ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Boro_Formula_One_drivers ,
+		dbc:Australian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1950_births> ,
+		dbc:Australian_Formula_One_drivers ,
+		dbc:Amon_Formula_One_drivers ,
+		dbc:Surtees_Formula_One_drivers ,
+		dbc:Formula_Ford_drivers ,
+		dbc:European_Formula_Three_Championship_drivers ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:BRM_Formula_One_drivers ;
+	foaf:name	"Larry Perkins"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Cowangie_-_Hometown_of_Larry_Perkins.jpg> ;
+	dct:description	"Australian racecar driver"@en ;
+	foaf:givenName	"Larry"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Larry_Perkins	foaf:isPrimaryTopicOf	wikipedia-en:Larry_Perkins ;
+	foaf:surname	"Perkins"@en ;
+	dbp:lastSeries	dbr:Australian_Touring_Car_Championship ,
+		dbr:V8_Supercar ;
+	dbp:titleYears	1975 ,
+		1979 ;
+	dbp:points	0 ;
+	dbp:retired	2003 ;
+	dbp:years	",  \u2013"^^xsd:string ,
+		1975 ,
+		1993 ,
+		198219831984 ,
+		1995 ,
+		1997 ;
+	dbp:after	<http://dbpedia.org/resource/Dick_Johnson_(race_driver)> ,
+		<http://dbpedia.org/resource/John_Bowe_(racing_driver)> ,
+		dbr:Steven_Richards ,
+		dbr:Riccardo_Patrese ,
+		<http://dbpedia.org/resource/John_Goss_(race_driver)> ,
+		dbr:Greg_Murphy ,
+		dbr:Armin_Hahne ,
+		dbr:Craig_Lowndes ,
+		dbr:Jason_Bright ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Surtees ,
+		<http://dbpedia.org/resource/Boro_(Formula_One)> ,
+		dbr:Brabham ,
+		<http://dbpedia.org/resource/Amon_(Formula_One_team)> ,
+		dbr:British_Racing_Motors ;
+	dbp:bestFinish	4 ;
+	dbp:wins	4 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Larry_Perkins	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Larry_Perkins?oldid=737530098> ;
+	dbo:wikiPageExternalLink	<http://f1rejects.com/drivers/perkins/> ;
+	dbp:yearsActive	19811985 ;
+	dbp:starts	160 ;
+	dbp:nationality	"Australian"^^xsd:string ;
+	dbp:birthName	"Larry Clifton Perkins"^^xsd:string ;
+	dbp:before	<http://dbpedia.org/resource/John_French_(racing_driver)> ,
+		dbr:Greg_Murphy ,
+		<http://dbpedia.org/resource/John_Bowe_(racing_driver)> ,
+		dbr:Mark_Skaife ,
+		dbr:Craig_Lowndes ,
+		<http://dbpedia.org/resource/Jim_Richards_(race_driver)> ,
+		<http://dbpedia.org/resource/Dick_Johnson_(race_driver)> ,
+		"None"^^xsd:string ;
+	dbp:teams	dbr:Perkins_Engineering ,
+		dbr:Holden_Dealer_Team ;
+	dbo:abstract	"Larry Clifton Perkins est un ancien pilote automobile australien, n\u00E9 le 18 mars 1950, \u00E0 Murrayville."@fr ,
+		"Larry Clifton Perkins (born 18 March 1950 in Murrayville, Victoria) is a former racing driver and V8 Supercar team owner from Australia."@en ,
+		"Larry Perkins (* 18. M\u00E4rz 1950 in Murrayville) ist ein ehemaliger australischer Automobilrennfahrer. Larry Perkins kam, angeregt durch seinen Landsmann Tim Schenken, nach Europa. Seine Referenz waren Erfolge in den australischen Formel-Vau-, Formel-Ford- und Formel-3-Serien. In Europa wurde er 1972 F\u00FCnfter beim Formel-Ford-Festival und wechselte 1973 in die Formel-3-Europameisterschaft. 1974 war er in das Formel-1-Projekt von Chris Amon eingebunden. Das Chris-Amon-Racing-Team gab ihm einen Werkswagen f\u00FCr den Gro\u00DFen Preis von Deutschland am N\u00FCrburgring. Aber Perkins verungl\u00FCckte im Training und der massiv besch\u00E4digte Amon AF101 konnte f\u00FCr das Rennen nicht mehr repariert werden. Allerdings war Perkins im Training so langsam, dass eine Qualifikation ausgeschlossen gewesen w\u00E4re. 1975 startete Perkins in der europ\u00E4ischen Formel 3 zur\u00FCck und wurde auf einem Ralt deren Meister. 1976 kam er doch noch zu einem Formel-1-Engagement, als er bei Boro unterschrieb, und gab in Spanien sein Deb\u00FCt in der h\u00F6chsten Monoposto-Serie. Nach sechs Rennen mit dem unterlegenen Boro-Rennwagen kam die Gelegenheit, in der Serie richtig Fu\u00DF zu fassen, als er den zu Ferrari abgewanderten Carlos Reutemann bei Brabham ersetzte. Aber Perkins konnte die Chance nicht nutzen und fand sich 1977 im B.R.M.-Team von Louis Stanley wieder. Mit dem BRM P207 hatte er keine M\u00F6glichkeit, sein Talent zu zeigen, und verlie\u00DF das Team nach zwei Rennen wieder. Nach einem letzten erfolglosen Versuch bei Surtees ging Perkins zur\u00FCck nach Australien und holte sich 1979 den Gesamtsieg in der heimischen Formel-5000-Meisterschaft. Am Ende seiner Karriere gr\u00FCndete er ein Tourenwagen-Team, das nach wie vor mit Fahrzeugen von Holden an den Start geht. Perkins agiert als Teamchef und kann gro\u00DFe Erfahrung einbringen, gewann er doch sechs Mal das Langstreckenrennen von Bathurst."@de ,
+		"Larry Perkins (18 de mar\u00E7o de 1950) \u00E9 um ex-automobilista e atualmente chefe de equipe na V8 Supercar da Austr\u00E1lia."@pt ,
+		"Larry Clifton Perkins (ur. 18 marca 1950 roku w Cowangie, Wiktoria) \u2013 australijski kierowca wy\u015Bcigowy."@pl ,
+		"\u30E9\u30EA\u30FC\u30FB\u30AF\u30EA\u30D5\u30C8\u30F3\u30FB\u30D1\u30FC\u30AD\u30F3\u30B9\uFF08Larry Clifton Perkins, 1950\u5E743\u670818\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Larry Perkins (Cowangie, Victoria, 18 maart 1950) is een voormalig Formule 1-coureur uit Australi\u00EB. Hij nam tussen 1974 en 1977 deel aan 15 Grands Prix voor de teams Amon, Boro, Brabham, BRM en Surtees, maar scoorde hierin geen punten. Perkins won in 1982 samen met avonturier Hans Thostrup de BP Solar Trek met de auto Quiet Achiever, een van de eerste auto's op zonne-energie. Deze wedstrijd was de voorloper van de World Solar Challenge, een race voor zonnewagens dwars door Australi\u00EB."@nl ,
+		"\u041B\u0430\u0440\u0440\u0438 \u041F\u0435\u0440\u043A\u0438\u043D\u0441 (\u0430\u043D\u0433\u043B. Larry Perkins; 18 \u043C\u0430\u0440\u0442\u0430 1950, \u041A\u0430\u0443\u044D\u043D\u0434\u0436\u0438, \u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F, \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0431\u044B\u0432\u0448\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0438 \u0432\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0432 \u0441\u0435\u0440\u0438\u0438 V8 Supercars. \u0421\u044B\u043D \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u0430 \u042D\u0434\u0434\u0438 \u041F\u0435\u0440\u043A\u0438\u043D\u0441\u0430 (\u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C 1955 RedeX Round Australia Trial), \u043B\u044E\u0431\u043E\u0432\u044C \u041B\u0430\u0440\u0440\u0438 \u043A \u043C\u0430\u0448\u0438\u043D\u0430\u043C \u0440\u0430\u0437\u0432\u0438\u043B\u0430\u0441\u044C \u0441 \u0440\u0430\u043D\u043D\u0438\u0445 \u043B\u0435\u0442. \u041E\u0442 \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 1970-\u0445 \u0434\u043E \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 V8 Supercars. \u041E\u043D \u0443\u0448\u0451\u043B \u0438\u0437 \u0433\u043E\u043D\u043E\u043A \u0432 2003, \u043A\u043E\u0433\u0434\u0430 \u0435\u043C\u0443 \u0431\u044B\u043B\u043E 53, \u0430 \u0441\u0435\u0439\u0447\u0430\u0441 \u043E\u043D \u0432\u043B\u0430\u0434\u0435\u0435\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 V8 Supercar. \u0422\u0430\u043A \u0436\u0435 \u043E\u043D \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u0447\u0435\u043B\u043E\u0432\u0435\u043A \u0441 \u0431\u043E\u043B\u044C\u0448\u0438\u043C \u0447\u0443\u0432\u0441\u0442\u0432\u043E\u043C \u044E\u043C\u043E\u0440\u0430. \u0415\u0433\u043E \u043F\u0441\u0435\u0432\u0434\u043E\u043D\u0438\u043C \u00ABLP\u00BB, \u043D\u043E \u043E\u043D \u0447\u0430\u0441\u0442\u043E \u0441\u0435\u0431\u044F \u043D\u0430\u0437\u044B\u0432\u0430\u043B \u00ABLarrikin Larry\u00BB. \u041F\u043E\u0441\u043B\u0435 \u043F\u043E\u0431\u0435\u0434\u044B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-2 \u0432 1972, \u041F\u0435\u0440\u043A\u0438\u043D\u0441 \u043F\u043E\u0441\u0435\u0442\u0438\u043B \u0415\u0432\u0440\u043E\u043F\u0443, \u0433\u0434\u0435 \u043E\u043D \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u0442\u0438\u0442\u0443\u043B \u0432 \u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3. \u0422\u0430\u043A\u0436\u0435 \u043E\u043D \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 1974, 1976 \u0438 1977. \u041F\u043E\u0441\u043B\u0435 \u043D\u0435\u0443\u0434\u0430\u0447\u0438 \u0432 \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u0438 \u043F\u043E\u0441\u0442\u043E\u044F\u043D\u043D\u043E\u0433\u043E \u043C\u0435\u0441\u0442\u0430 \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u043E\u043D \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F \u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044E \u0433\u0434\u0435 \u043E\u043D \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u0441\u0440\u0430\u0437\u0443, \u043F\u043E\u0431\u0435\u0436\u0434\u0430\u0435\u0442 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-5000. \u041B\u0430\u0440\u0440\u0438 \u0442\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0442\u0446\u043E\u043C \u0433\u043E\u043D\u0449\u0438\u043A\u0430 V8 Supercar \u0414\u0436\u0435\u043A\u0430 \u041F\u0435\u0440\u043A\u0438\u043D\u0441\u0430. \u041F\u0435\u0440\u043A\u0438\u043D\u0441 \u0431\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0417\u0430\u043B \u0441\u043B\u0430\u0432\u044B V8 Supercar \u0432 2008."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Cowangie_-_Hometown_of_Larry_Perkins.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Larry_Perkins	dbo:birthDate	"1950-03-18"^^xsd:date ,
+		"1950-3-18"^^xsd:date ;
+	dbo:wikiPageRevisionID	737530098 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Victoria_(Australia)> ,
+		dbr:Australia ,
+		<http://dbpedia.org/resource/Murrayville,_Victoria> ;
+	dbo:wikiPageID	1203364 ;
+	dbp:relatedTo	<http://dbpedia.org/resource/Jack_Perkins_(racing_driver)> ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1974_German_Grand_Prix> ,
+		<http://dbpedia.org/resource/1976_Spanish_Grand_Prix> ;
+	dbo:races	"15"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1977_French_Grand_Prix> ,
+		<http://dbpedia.org/resource/1977_Belgian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbp:year	19941995 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Larry_Perkins	ns25:hypernym	dbr:Driver ;
+	dbp:title	"Winner of the Bathurst 1000"^^xsd:string ,
+		dbr:FIA_European_Formula_Three_Championship ,
+		"Winner of the Bathurst Classic"^^xsd:string ;
+	dbp:titles	dbr:European_Formula_Three_Championship ,
+		<http://dbpedia.org/resource/1979_Australian_Rallycross_Championship> ,
+		dbr:Rothmans_International_Series .
+dbr:Jason_Bright	dbp:before	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/John_Bowe_(racing_driver)>	dbp:after	dbr:Larry_Perkins ;
+	dbp:before	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/1978_New_Zealand_Grand_Prix>	dbo:secondDriver	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/1979_New_Zealand_Grand_Prix>	dbo:secondDriver	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/1995_Australian_Touring_Car_Championship_-_Round_3_-_Mount_Panorama>	dbp:thirdRound	dbr:Larry_Perkins .
+wikipedia-en:Larry_Perkins	foaf:primaryTopic	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/1995_Australian_Touring_Car_Championship_-_Round_1_-_Sandown>	dbp:firstRound	dbr:Larry_Perkins ;
+	dbp:winner	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/1999_Queensland_500>	dbp:firstRound	dbr:Larry_Perkins ;
+	dbp:winner	dbr:Larry_Perkins .
+dbr:Perkins_Engineering	dbp:principal	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/Jim_Richards_(racing_driver)>	dbp:after	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/John_Harvey_(racing_driver)>	dbp:after	dbr:Larry_Perkins ;
+	dbp:before	dbr:Larry_Perkins .
+dbr:Mark_Skaife	dbp:after	dbr:Larry_Perkins .
+dbr:Steven_Richards	dbp:before	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/Jack_Perkins_(racing_driver)>	dbp:relatedTo	dbr:Larry_Perkins .
+dbr:Greg_Murphy	dbp:before	dbr:Larry_Perkins .
+dbr:Perkins	dbo:wikiPageDisambiguates	dbr:Larry_Perkins .
+<http://dbpedia.org/resource/2001_VIP_Petfoods_Queensland_500>	dbp:secondRound	dbr:Larry_Perkins .

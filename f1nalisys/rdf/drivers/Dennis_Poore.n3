@@ -1,0 +1,137 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Poore	dbo:wikiPageDisambiguates	dbr:Dennis_Poore .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__49__1>	dbo:firstDriver	dbr:Dennis_Poore .
+dbr:Norton_Villiers_Triumph	dbo:keyPerson	dbr:Dennis_Poore .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Dennis_Poore	foaf:primaryTopic	dbr:Dennis_Poore .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Sydney_Allard	dbp:after	dbr:Dennis_Poore .
+dbr:Ken_Wharton	dbp:before	dbr:Dennis_Poore .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Dennis_Poore	rdf:type	dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Dennis_Poore	rdf:type	yago:WikicatBritishFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Dennis_Poore	rdf:type	wikidata:Q5 ,
+		yago:WikicatConnaughtFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q378622 ,
+		dbo:MotorsportRacer ,
+		dbo:Person ,
+		yago:Operator110378412 ,
+		foaf:Person ,
+		dbo:Athlete ,
+		dbo:RacingDriver ,
+		dbo:FormulaOneRacer ,
+		yago:Driver110034906 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Dennis_Poore	rdf:type	ns8:Agent ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		ns8:NaturalPerson .
+@prefix schema:	<http://schema.org/> .
+dbr:Dennis_Poore	rdf:type	schema:Person ,
+		yago:WikicatBritishHillclimbDrivers ,
+		wikidata:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Dennis_Poore	rdf:type	owl:Thing ,
+		wikidata:Q24229398 ,
+		yago:PhysicalEntity100001930 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Dennis_Poore	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatEnglishFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Dennis_Poore	rdfs:label	"Dennis Poore"@it ,
+		"Dennis Poore"@pt ,
+		"Dennis Poore"@nl ,
+		"Dennis Poore"@fr ,
+		"Dennis Poore"@de ,
+		"Dennis Poore"@pl ,
+		"Dennis Poore"@en ;
+	rdfs:comment	"Roger Dennistoun \"Dennis\" Poore (19 August 1916, Paddington, London \u2013 12 February 1987, Kensington ) was a British entrepreneur, financier and sometime racing driver. He became chairman of NVT during the dying days of the old British motorcycle industry."@en ,
+		"Dennis Poore, w\u0142a\u015Bc. Roger Dennistoun Poore (ur. 19 sierpnia 1916 w Paddington, Londyn, zm. 12 lutego 1987 w Kensington) \u2013 brytyjski kierowca wy\u015Bcigowy. W 1952 zadebiutowa\u0142 w Grand Prix Wielkiej Brytanii w Formule 1. Wywalczy\u0142 czwarte miejsce i zdoby\u0142 jedyne w swojej karierze trzy punkty w Formule 1."@pl ,
+		"Roger Dennistoun \"Dennis\" Poore (Paddington, Londen, 19 augustus 1916 \u2013 Kensington , 12 februari 1987) was een Brits, piloot, ondernemer, financier en later ook Formule 1-coureur. Dennis Poore nam als RAF piloot deel aan de Slag om Engeland. Hij financierde zijn eigen blad Autosport. In 1950 won hij het Britse heuvelklimkampioenschap met een Alfa Romeo. Hij nam in 1952 deel aan twee Grands Prix voor het team Connaught Engineering en scoorde hierin 3 punten."@nl ,
+		"Roger Dennistoun \"Dennis\" Poore, n\u00E9 le 16 ao\u00FBt 1916 \u00E0 Westminster et mort le 12 f\u00E9vrier 1987 \u00E0 Londres \u00E9tait un industriel et pilote amateur britannique. Il a notamment particip\u00E9 \u00E0 deux Grands Prix de championnat du monde en 1952. Il est \u00E9galement \u00E0 l'origine de la cr\u00E9ation de l'hebdomadaire anglais Autosport, en 1950 (ann\u00E9e o\u00F9 il remporta le championnat britannique de course de c\u00F4te), dont il finan\u00E7a le lancement."@fr ,
+		"Roger Dennistoun Poore (Paddington, Londres, Inglaterra, 19 de agosto de 1916 \u2013 Kensington, Londres, Inglaterra, 12 de fevereiro de 1987) foi um automobilista ingl\u00EAs que participou dos Grandes Pr\u00EAmios da Inglaterra e da It\u00E1lia de F\u00F3rmula 1 em 1952. Seu melhor resultado foi o quarto lugar na Inglaterra."@pt ,
+		"Dennis Poore (* 19. August 1916, in London; \u2020 12. Februar 1987 ebenda) war ein britischer Autorennfahrer."@de ,
+		"Nella Formula 1 ha gareggiato con la squadra Connaught, con la quale corse due Gran Premi del Campionato Mondiale 1952 conquistando tre punti iridati. La sua carriera nel mondo dell'automobilismo era pi\u00F9 che altro quale gentlemen driver, la sua attivit\u00E0 principale fu invece nell'imprenditorialit\u00E0, quale dirigente di una multinazionale come la Manganese Bronze Holdings PLC. Durante i suoi anni di dirigenza avvenne anche il tentativo di salvare l'industria motociclistica inglese dalla bancarotta con l'unione dei marchi pi\u00F9 importanti (Norton, Triumph e BSA) sotto un'unica bandiera, quella del gruppo Norton Villiers Triumph che ebbe in ogni caso vita breve"@it ;
+	dbp:points	3 ;
+	owl:sameAs	dbr:Dennis_Poore ,
+		<http://rdf.freebase.com/ns/m.04k7xv> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Dennis_Poore	owl:sameAs	dbpedia-de:Dennis_Poore ,
+		wikidata:Q172297 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Dennis_Poore	owl:sameAs	yago-res:Dennis_Poore .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Dennis_Poore	owl:sameAs	dbpedia-pt:Dennis_Poore .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Dennis_Poore	owl:sameAs	dbpedia-it:Dennis_Poore .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Dennis_Poore	owl:sameAs	dbpedia-nl:Dennis_Poore .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Dennis_Poore	owl:sameAs	dbpedia-fr:Dennis_Poore .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Dennis_Poore	owl:sameAs	dbpedia-wikidata:Q172297 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Dennis_Poore	owl:sameAs	dbpedia-pl:Dennis_Poore .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Dennis_Poore	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Dennis_Poore	dct:subject	dbc:Brighton_Speed_Trials_people ,
+		<http://dbpedia.org/resource/Category:1987_deaths> ,
+		<http://dbpedia.org/resource/Category:1916_births> ,
+		dbc:British_hillclimb_drivers ,
+		dbc:English_businesspeople ,
+		dbc:Connaught_Formula_One_drivers ,
+		dbc:Royal_Air_Force_personnel_of_World_War_II ,
+		dbc:British_World_War_II_pilots ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ;
+	foaf:name	"Dennis Poore"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Dennis"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Dennis_Poore ;
+	foaf:surname	"Poore"@en ;
+	dbp:title	dbr:British_Hill_Climb_Championship ;
+	dbp:years	1950 ;
+	dbo:nationality	dbr:United_Kingdom .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Dennis_Poore	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dennis_Poore?oldid=714055030> ;
+	dbp:before	dbr:Sydney_Allard ;
+	dbp:after	dbr:Ken_Wharton .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Dennis_Poore	dbp:birthDate	"1916-08-19"^^xsd:date ;
+	dbp:deathDate	"1987-02-12"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.oldclassiccar.co.uk/8c35.htm> ;
+	dbp:caption	"Poore sitting at the wheel of an historic hillclimb car"^^xsd:string ;
+	dbo:abstract	"Dennis Poore, w\u0142a\u015Bc. Roger Dennistoun Poore (ur. 19 sierpnia 1916 w Paddington, Londyn, zm. 12 lutego 1987 w Kensington) \u2013 brytyjski kierowca wy\u015Bcigowy. W 1952 zadebiutowa\u0142 w Grand Prix Wielkiej Brytanii w Formule 1. Wywalczy\u0142 czwarte miejsce i zdoby\u0142 jedyne w swojej karierze trzy punkty w Formule 1."@pl ,
+		"Dennis Poore (* 19. August 1916, in London; \u2020 12. Februar 1987 ebenda) war ein britischer Autorennfahrer."@de ,
+		"Roger Dennistoun \"Dennis\" Poore (Paddington, Londen, 19 augustus 1916 \u2013 Kensington , 12 februari 1987) was een Brits, piloot, ondernemer, financier en later ook Formule 1-coureur. Dennis Poore nam als RAF piloot deel aan de Slag om Engeland. Hij financierde zijn eigen blad Autosport. In 1950 won hij het Britse heuvelklimkampioenschap met een Alfa Romeo. Hij nam in 1952 deel aan twee Grands Prix voor het team Connaught Engineering en scoorde hierin 3 punten."@nl ,
+		"Roger Dennistoun \"Dennis\" Poore (19 August 1916, Paddington, London \u2013 12 February 1987, Kensington ) was a British entrepreneur, financier and sometime racing driver. He became chairman of NVT during the dying days of the old British motorcycle industry."@en ,
+		"Roger Dennistoun \"Dennis\" Poore, n\u00E9 le 16 ao\u00FBt 1916 \u00E0 Westminster et mort le 12 f\u00E9vrier 1987 \u00E0 Londres \u00E9tait un industriel et pilote amateur britannique. Il a notamment particip\u00E9 \u00E0 deux Grands Prix de championnat du monde en 1952. Il est \u00E9galement \u00E0 l'origine de la cr\u00E9ation de l'hebdomadaire anglais Autosport, en 1950 (ann\u00E9e o\u00F9 il remporta le championnat britannique de course de c\u00F4te), dont il finan\u00E7a le lancement."@fr ,
+		"Nella Formula 1 ha gareggiato con la squadra Connaught, con la quale corse due Gran Premi del Campionato Mondiale 1952 conquistando tre punti iridati. La sua carriera nel mondo dell'automobilismo era pi\u00F9 che altro quale gentlemen driver, la sua attivit\u00E0 principale fu invece nell'imprenditorialit\u00E0, quale dirigente di una multinazionale come la Manganese Bronze Holdings PLC. Durante i suoi anni di dirigenza avvenne anche il tentativo di salvare l'industria motociclistica inglese dalla bancarotta con l'unione dei marchi pi\u00F9 importanti (Norton, Triumph e BSA) sotto un'unica bandiera, quella del gruppo Norton Villiers Triumph che ebbe in ogni caso vita breve Mor\u00EC a Kensington."@it ,
+		"Roger Dennistoun Poore (Paddington, Londres, Inglaterra, 19 de agosto de 1916 \u2013 Kensington, Londres, Inglaterra, 12 de fevereiro de 1987) foi um automobilista ingl\u00EAs que participou dos Grandes Pr\u00EAmios da Inglaterra e da It\u00E1lia de F\u00F3rmula 1 em 1952. Seu melhor resultado foi o quarto lugar na Inglaterra."@pt ;
+	dbo:birthDate	"1916-8-19"^^xsd:date ;
+	dbo:deathDate	"1987-2-12"^^xsd:date ;
+	dbo:deathPlace	dbr:London ;
+	dbo:wikiPageRevisionID	714055030 ;
+	dbo:birthPlace	dbr:London ;
+	dbo:wikiPageID	1228298 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Dennis_Poore	ns25:hypernym	dbr:Entrepreneur ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1952_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__48__1>	dbo:firstDriver	dbr:Dennis_Poore .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__30__1>	dbo:firstDriver	dbr:Dennis_Poore .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__39__1>	dbo:firstDriver	dbr:Dennis_Poore .

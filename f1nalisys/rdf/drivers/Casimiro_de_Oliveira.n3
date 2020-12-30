@@ -1,0 +1,88 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Casimiro_de_Oliveira	foaf:primaryTopic	dbr:Casimiro_de_Oliveira .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Casimiro_de_Oliveira	rdf:type	dbo:MotorsportRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Casimiro_de_Oliveira	rdf:type	wikidata:Q24229398 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Casimiro_de_Oliveira	rdf:type	ns6:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Casimiro_de_Oliveira	rdf:type	yago:Driver110034906 ,
+		foaf:Person ,
+		yago:Operator110378412 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Casimiro_de_Oliveira	rdf:type	owl:Thing ,
+		yago:WikicatMaseratiFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Casimiro_de_Oliveira	rdf:type	schema:Person ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q5 ,
+		dbo:SoccerPlayer ,
+		dbo:Athlete ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		ns6:NaturalPerson ,
+		dbo:RacingDriver ,
+		yago:WikicatPortugueseFormulaOneDrivers ,
+		dbo:Agent ,
+		wikidata:Q215627 ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q378622 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Casimiro_de_Oliveira	rdfs:label	"Casimiro de Oliveira"@fr ,
+		"Casimiro de Oliveira"@en ,
+		"Casimiro de Oliveira"@nl ;
+	rdfs:comment	"Casimiro Ant\u00F4nio Pinto de Oliveira (Porto, 8 september 1907 - 22 november 1970) was een Portugees autocoureur. Hij schreef zich in 1958 in voor \u00E9\u00E9n Formule 1-race, zijn thuisrace van dat jaar voor het team Maserati. Hij was op het moment van de race echter niet aanwezig op het Circuito da Boavista, waar de race gehouden werd, en startte de race dus niet. De Oliveira schreef zich hierna nooit meer in voor een Formule 1-race."@nl ,
+		"Antonio Casimiro Pinto de Oliveira (8 September 1907 \u2013 22 November 1970) was a Portuguese racing driver. He was entered for the 1958 Portuguese Grand Prix but he was not present during the weekend. He was responsible for organizing the event. His brother was Manoel de Oliveira, a famed film director who managed to survive him by nearly 45 years."@en ,
+		"Casimiro de Oliveira, n\u00E9 le 8 septembre 1907 et d\u00E9c\u00E9d\u00E9 le 22 novembre 1970, est un ancien pilote automobile sur circuits portugais."@fr .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Casimiro_de_Oliveira	owl:sameAs	yago-res:Casimiro_de_Oliveira ,
+		dbr:Casimiro_de_Oliveira ,
+		wikidata:Q2009126 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Casimiro_de_Oliveira	owl:sameAs	dbpedia-wikidata:Q2009126 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Casimiro_de_Oliveira	owl:sameAs	dbpedia-fr:Casimiro_de_Oliveira ,
+		<http://rdf.freebase.com/ns/m.0hngny6> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Casimiro_de_Oliveira	owl:sameAs	dbpedia-nl:Casimiro_de_Oliveira .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Casimiro_de_Oliveira	dct:subject	<http://dbpedia.org/resource/Category:1907_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Casimiro_de_Oliveira	dct:subject	dbc:Portuguese_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1970_deaths> ,
+		dbc:Maserati_Formula_One_drivers ,
+		dbc:Sportspeople_from_Porto ,
+		dbc:Portuguese_Formula_One_drivers ;
+	foaf:name	"Casimiro De Oliveira"@en ,
+		"Casimiro de Oliveira"@en ;
+	dct:description	"Portuguese racing driver"@en ;
+	foaf:givenName	"Casimiro"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Casimiro_de_Oliveira ;
+	dbo:nationality	dbr:Portugal .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Casimiro_de_Oliveira	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Casimiro_de_Oliveira?oldid=723498074> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Casimiro_de_Oliveira	dbp:birthPlace	"Porto, Portugal"^^xsd:string ;
+	dbp:deathPlace	"Porto, Portugal"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Casimiro_de_Oliveira	dbp:birthDate	"1907-09-08"^^xsd:date ;
+	dbp:deathDate	"1970-11-22"^^xsd:date ;
+	dbo:abstract	"Casimiro de Oliveira, n\u00E9 le 8 septembre 1907 et d\u00E9c\u00E9d\u00E9 le 22 novembre 1970, est un ancien pilote automobile sur circuits portugais."@fr ,
+		"Casimiro Ant\u00F4nio Pinto de Oliveira (Porto, 8 september 1907 - 22 november 1970) was een Portugees autocoureur. Hij schreef zich in 1958 in voor \u00E9\u00E9n Formule 1-race, zijn thuisrace van dat jaar voor het team Maserati. Hij was op het moment van de race echter niet aanwezig op het Circuito da Boavista, waar de race gehouden werd, en startte de race dus niet. De Oliveira schreef zich hierna nooit meer in voor een Formule 1-race. De Oliveira reed voor zijn korte F1-carri\u00E8re ook nog in de sportscars tussen 1950 en 1955, waarin hij vijf overwinningen behaalde. Hij was de broer van filmregisseur Manoel de Oliveira."@nl ,
+		"Antonio Casimiro Pinto de Oliveira (8 September 1907 \u2013 22 November 1970) was a Portuguese racing driver. He was entered for the 1958 Portuguese Grand Prix but he was not present during the weekend. He was responsible for organizing the event. His brother was Manoel de Oliveira, a famed film director who managed to survive him by nearly 45 years."@en ;
+	dbo:birthDate	"1907-9-8"^^xsd:date ;
+	dbo:deathDate	"1970-11-22"^^xsd:date ;
+	dbo:wikiPageRevisionID	723498074 ;
+	dbo:wikiPageID	40388107 .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+dbr:Casimiro_de_Oliveira	ns20:hypernym	dbr:Portuguese ;
+	dbo:firstRace	<http://dbpedia.org/resource/1958_Portuguese_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1958_Portuguese_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport .
+dbr:Casimiro_De_Oliveira	dbo:wikiPageRedirects	dbr:Casimiro_de_Oliveira .

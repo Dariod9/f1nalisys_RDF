@@ -1,0 +1,142 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Paco	dbo:wikiPageDisambiguates	dbr:Paco_Godia .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Paco_Godia	foaf:primaryTopic	dbr:Paco_Godia .
+dbr:Chico_Godia	dbo:wikiPageRedirects	dbr:Paco_Godia .
+dbr:Francesco_Godia	dbo:wikiPageRedirects	dbr:Paco_Godia .
+dbr:Francesco_Godia-Sales	dbo:wikiPageRedirects	dbr:Paco_Godia .
+dbr:Francesco_Godia_Sales	dbo:wikiPageRedirects	dbr:Paco_Godia .
+dbr:Fransisco_Godia-Sales	dbo:wikiPageRedirects	dbr:Paco_Godia .
+dbr:Francisco_Godia_Sales	dbo:wikiPageRedirects	dbr:Paco_Godia .
+<http://dbpedia.org/resource/1949_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Paco_Godia .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__24th__1>	dbo:team	dbr:Paco_Godia ;
+	dbo:firstDriver	dbr:Paco_Godia .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Paco_Godia	rdf:type	dbo:FormulaOneRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Paco_Godia	rdf:type	wikidata:Q24229398 ,
+		wikidata:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Paco_Godia	rdf:type	yago:WikicatMaseratiFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Paco_Godia	rdf:type	ns7:Agent ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Paco_Godia	rdf:type	schema:Person ,
+		dbo:Athlete ,
+		yago:WikicatSpanishFormulaOneDrivers ,
+		ns7:NaturalPerson ,
+		yago:Operator110378412 ,
+		wikidata:Q5 ,
+		yago:Driver110034906 ,
+		wikidata:Q378622 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Paco_Godia	rdf:type	owl:Thing ,
+		dbo:Agent ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatScuderiaMilanoFormulaOneDrivers ,
+		dbo:MotorsportRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Paco_Godia	rdf:type	umbel-rc:Athlete ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:RacingDriver ,
+		umbel-rc:RaceCarDriver ,
+		yago:WikicatCatalanFormulaOneDrivers ,
+		foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Paco_Godia	rdfs:label	"Paco Godia"@it ,
+		"Francisco Godia-Sales"@nl ,
+		"Francisco Godia"@es ,
+		"Paco Godia"@pt ,
+		"Francisco Godia Sales"@fr ,
+		"\u0413\u043E\u0434\u0438\u0430, \u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E"@ru ,
+		"Paco Godia"@de ,
+		"Paco Godia"@en ,
+		"Francisco Godia"@pl ;
+	rdfs:comment	"Francisco Godia Sales, better known as Paco Godia (21 March 1921 \u2013 28 November 1990) was a racing driver from Barcelona, Spain. He drove intermittently in Formula One between 1951 and 1958, participating in 14 World Championship Grands Prix and numerous non-Championship races."@en ,
+		"Francisco Godia Sales, beter bekend als Paco Godia (Barcelona, 21 maart 1921 \u2013 Barcelona, 28 november 1990) was een Formule 1-coureur uit Spanje. Hij reed in 1951, 1954 en van 1956 tot 1958 14 Grands Prix voor de teams Scuderia Milano en Maserati."@nl ,
+		"Francisco Godia Sales, mais conhecido como Paco Godia (Barcelona, Espanha, 21 de mar\u00E7o de 1921 \u2013 Barcelona, 28 de novembro de 1990) foi um automobilista espanhol. Paco participou de 13 Grandes Pr\u00EAmios de F\u00F3rmula 1, tendo como melhores resultados dois quartos lugares: Alemanha e It\u00E1lia em 1956."@pt ,
+		"Francesco Godia Sales Francisco Godia Sales, surnomm\u00E9 Chico ou Paco (n\u00E9 le 21 mars 1921 \u00E0 Barcelone et mort le 28 novembre 1990) est un ancien pilote espagnol de course automobile qui disputa treize Grands Prix de championnat du monde de 1951 \u00E0 1958. C'est en 1956 qu'il obtint ses meilleurs r\u00E9sultats en championnat, terminant quatri\u00E8me des Grands Prix d'Allemagne et d'Italie sur Maserati. Il a \u00E9galement termin\u00E9 quatri\u00E8me des 24 Heures du Mans 1949 sur Delage, associ\u00E9 au pilote fran\u00E7ais Louis G\u00E9rard."@fr ,
+		"Francisco Godia Sales (nacido el 21 de marzo de 1921 en Barcelona - fallecido el 28 de noviembre de 1990) fue el primer piloto espa\u00F1ol en saltar a la F\u00F3rmula 1. Fue una personalidad singular que uni\u00F3 un instinto excepcional para los negocios con el amor por el arte y la pasi\u00F3n por las carreras de autom\u00F3viles."@es ,
+		"Francisco Godia Sales (ur. 21 marca 1921 roku w Barcelonie, zm. 28 listopada 1990 w Barcelonie) \u2013 hiszpa\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"\u0424\u0440\u0430\u043D\u0447\u0435\u0301\u0441\u043A\u043E \u0413\u043E\u0301\u0434\u0438\u0430, \u0442\u0430\u043A\u0436\u0435 \u0427\u0438\u0301\u043A\u043E \u0413\u043E\u0301\u0434\u0438\u0430 (\u0438\u0441\u043F. Francesco Godia, Chico Godia, 21 \u043C\u0430\u0440\u0442\u0430 1921, \u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0430 \u2014 18 \u043D\u043E\u044F\u0431\u0440\u044F 1990, \u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0430) \u2014 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0439 \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D \u0438 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0413\u043E\u0434\u0438\u0430 \u0431\u044B\u043B \u0431\u043E\u0433\u0430\u0442\u044B\u043C \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u043C \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D\u043E\u043C, \u0438\u043C\u0435\u0432\u0448\u0438\u043C \u0441\u0442\u0440\u0430\u0441\u0442\u044C \u043A \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0443. \u0412 1949 \u0413\u043E\u0434\u0438\u0430 \u0437\u0430\u043D\u044F\u043B \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435 Delage 4 \u043C\u0435\u0441\u0442\u043E \u0432 24 \u0447\u0430\u0441\u0430\u0445 \u041B\u0435-\u041C\u0430\u043D\u0430 \u0432\u043C\u0435\u0441\u0442\u0435 \u0441\u043E \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u043C \u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C \u041B\u0443\u0438 \u0416\u0435\u0440\u0430\u0440\u043E\u043C. \u0410 \u0432 1951 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0441\u044F \u0434\u0435\u0431\u044E\u0442 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1: \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 \u043E\u043D \u0437\u0430\u043D\u044F\u043B 10 \u043C\u0435\u0441\u0442\u043E \u0437\u0430 \u0440\u0443\u043B\u0451\u043C Maserati 4\u0421LT. \u0412 1954 \u0438 1956 \u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0432\u044B\u0437\u044B\u0432\u0430\u043B\u0441\u044F \u0432 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Maserati. \u041B\u0443\u0447\u0448\u0438\u043C \u0435\u0433\u043E \u0441\u0435\u0437\u043E\u043D\u043E\u043C \u0431\u044B\u043B 1956 \u2014 \u043E\u043D \u0434\u0432\u0430\u0436\u0434\u044B \u043D\u0430\u0431\u0440\u0430\u043B \u043E\u0447\u043A\u0438 \u0438 \u0441\u0442\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0434\u0435\u0432\u044F\u0442\u044B\u043C. \u041F\u043E\u0441\u043B\u0435 \u044D\u0442\u043E\u0433\u043E, \u0432 1957 \u0438 1958 \u0433\u043E\u0434\u0430\u0445, \u0431\u044B\u043B\u043E \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043F\u043E \u0447\u0430\u0441\u0442\u043D\u043E\u0439 \u0437\u0430\u044F\u0432\u043A\u0435 \u043D\u0430 Maserati 250F.  \u0412 1969 \u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0413\u043E\u0434\u0438\u0430 \u0443\u0448\u0451\u043B \u0438\u0437 \u0433\u043E\u043D\u043E\u043A \u0438 \u0437\u0430\u043D\u044F\u043B\u0441\u044F \u043F\u0440\u043E\u0434\u0430\u0436\u0435\u0439 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 - Ford \u0438 Por"@ru ,
+		"Francisco \u201EPaco\u201C Godia Sales (* 21. M\u00E4rz 1921 in Barcelona; \u2020 28. November 1990 ebenda), auch \u201EChico\u201C Godia genannt, war ein spanischer Automobilrennfahrer."@de .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Paco_Godia	dbp:points	6 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Paco_Godia	owl:sameAs	dbpedia-fr:Francisco_Godia_Sales .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Paco_Godia	owl:sameAs	yago-res:Paco_Godia .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Paco_Godia	owl:sameAs	dbpedia-es:Francisco_Godia .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Paco_Godia	owl:sameAs	dbpedia-wikidata:Q171922 ,
+		dbr:Paco_Godia ,
+		<http://rdf.freebase.com/ns/m.04kz9w> ,
+		wikidata:Q171922 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Paco_Godia	owl:sameAs	dbpedia-pl:Francisco_Godia .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Paco_Godia	owl:sameAs	dbpedia-de:Paco_Godia .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Paco_Godia	owl:sameAs	dbpedia-it:Paco_Godia .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Paco_Godia	owl:sameAs	dbpedia-nl:Francisco_Godia-Sales .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Paco_Godia	owl:sameAs	dbpedia-pt:Paco_Godia .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Paco_Godia	dct:subject	dbc:Maserati_Formula_One_drivers ,
+		dbc:Scuderia_Milano_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1990_deaths> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Spanish_racing_drivers ,
+		dbc:Catalan_racing_drivers ,
+		dbc:Catalan_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1921_births> ,
+		dbc:Spanish_Formula_One_drivers ;
+	foaf:name	"Francisco Godia"@en ,
+		"Paco Godia"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Francisco"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Paco_Godia ;
+	dbp:years	", , \u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Paco_Godia	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Paco_Godia?oldid=703981938> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Paco_Godia	dbp:birthDate	"1921-03-21"^^xsd:date ;
+	dbp:deathDate	"1990-11-28"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.formula1.com/results/season/1951/> ;
+	dbo:abstract	"Francisco \u201EPaco\u201C Godia Sales (* 21. M\u00E4rz 1921 in Barcelona; \u2020 28. November 1990 ebenda), auch \u201EChico\u201C Godia genannt, war ein spanischer Automobilrennfahrer."@de ,
+		"Francesco Godia Sales Francisco Godia Sales, surnomm\u00E9 Chico ou Paco (n\u00E9 le 21 mars 1921 \u00E0 Barcelone et mort le 28 novembre 1990) est un ancien pilote espagnol de course automobile qui disputa treize Grands Prix de championnat du monde de 1951 \u00E0 1958. C'est en 1956 qu'il obtint ses meilleurs r\u00E9sultats en championnat, terminant quatri\u00E8me des Grands Prix d'Allemagne et d'Italie sur Maserati. Il a \u00E9galement termin\u00E9 quatri\u00E8me des 24 Heures du Mans 1949 sur Delage, associ\u00E9 au pilote fran\u00E7ais Louis G\u00E9rard."@fr ,
+		"Francisco Godia Sales, mais conhecido como Paco Godia (Barcelona, Espanha, 21 de mar\u00E7o de 1921 \u2013 Barcelona, 28 de novembro de 1990) foi um automobilista espanhol. Paco participou de 13 Grandes Pr\u00EAmios de F\u00F3rmula 1, tendo como melhores resultados dois quartos lugares: Alemanha e It\u00E1lia em 1956."@pt ,
+		"Francisco Godia Sales, beter bekend als Paco Godia (Barcelona, 21 maart 1921 \u2013 Barcelona, 28 november 1990) was een Formule 1-coureur uit Spanje. Hij reed in 1951, 1954 en van 1956 tot 1958 14 Grands Prix voor de teams Scuderia Milano en Maserati."@nl ,
+		"Francisco Godia Sales (nacido el 21 de marzo de 1921 en Barcelona - fallecido el 28 de noviembre de 1990) fue el primer piloto espa\u00F1ol en saltar a la F\u00F3rmula 1. Fue una personalidad singular que uni\u00F3 un instinto excepcional para los negocios con el amor por el arte y la pasi\u00F3n por las carreras de autom\u00F3viles."@es ,
+		"\u0424\u0440\u0430\u043D\u0447\u0435\u0301\u0441\u043A\u043E \u0413\u043E\u0301\u0434\u0438\u0430, \u0442\u0430\u043A\u0436\u0435 \u0427\u0438\u0301\u043A\u043E \u0413\u043E\u0301\u0434\u0438\u0430 (\u0438\u0441\u043F. Francesco Godia, Chico Godia, 21 \u043C\u0430\u0440\u0442\u0430 1921, \u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0430 \u2014 18 \u043D\u043E\u044F\u0431\u0440\u044F 1990, \u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0430) \u2014 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0439 \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D \u0438 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0413\u043E\u0434\u0438\u0430 \u0431\u044B\u043B \u0431\u043E\u0433\u0430\u0442\u044B\u043C \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u043C \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D\u043E\u043C, \u0438\u043C\u0435\u0432\u0448\u0438\u043C \u0441\u0442\u0440\u0430\u0441\u0442\u044C \u043A \u0430\u0432\u0442\u043E\u0441\u043F\u043E\u0440\u0442\u0443. \u0412 1949 \u0413\u043E\u0434\u0438\u0430 \u0437\u0430\u043D\u044F\u043B \u043D\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435 Delage 4 \u043C\u0435\u0441\u0442\u043E \u0432 24 \u0447\u0430\u0441\u0430\u0445 \u041B\u0435-\u041C\u0430\u043D\u0430 \u0432\u043C\u0435\u0441\u0442\u0435 \u0441\u043E \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u043C \u0433\u043E\u043D\u0449\u0438\u043A\u043E\u043C \u041B\u0443\u0438 \u0416\u0435\u0440\u0430\u0440\u043E\u043C. \u0410 \u0432 1951 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0441\u044F \u0434\u0435\u0431\u044E\u0442 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1: \u043D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 \u043E\u043D \u0437\u0430\u043D\u044F\u043B 10 \u043C\u0435\u0441\u0442\u043E \u0437\u0430 \u0440\u0443\u043B\u0451\u043C Maserati 4\u0421LT. \u0412 1954 \u0438 1956 \u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0432\u044B\u0437\u044B\u0432\u0430\u043B\u0441\u044F \u0432 \u0437\u0430\u0432\u043E\u0434\u0441\u043A\u0443\u044E \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Maserati. \u041B\u0443\u0447\u0448\u0438\u043C \u0435\u0433\u043E \u0441\u0435\u0437\u043E\u043D\u043E\u043C \u0431\u044B\u043B 1956 \u2014 \u043E\u043D \u0434\u0432\u0430\u0436\u0434\u044B \u043D\u0430\u0431\u0440\u0430\u043B \u043E\u0447\u043A\u0438 \u0438 \u0441\u0442\u0430\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0434\u0435\u0432\u044F\u0442\u044B\u043C. \u041F\u043E\u0441\u043B\u0435 \u044D\u0442\u043E\u0433\u043E, \u0432 1957 \u0438 1958 \u0433\u043E\u0434\u0430\u0445, \u0431\u044B\u043B\u043E \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u043F\u043E \u0447\u0430\u0441\u0442\u043D\u043E\u0439 \u0437\u0430\u044F\u0432\u043A\u0435 \u043D\u0430 Maserati 250F.  \u0412 1969 \u0424\u0440\u0430\u043D\u0447\u0435\u0441\u043A\u043E \u0413\u043E\u0434\u0438\u0430 \u0443\u0448\u0451\u043B \u0438\u0437 \u0433\u043E\u043D\u043E\u043A \u0438 \u0437\u0430\u043D\u044F\u043B\u0441\u044F \u043F\u0440\u043E\u0434\u0430\u0436\u0435\u0439 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 - Ford \u0438 Porsche."@ru ,
+		"Francisco Godia Sales (ur. 21 marca 1921 roku w Barcelonie, zm. 28 listopada 1990 w Barcelonie) \u2013 hiszpa\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"Francisco Godia Sales, better known as Paco Godia (21 March 1921 \u2013 28 November 1990) was a racing driver from Barcelona, Spain. He drove intermittently in Formula One between 1951 and 1958, participating in 14 World Championship Grands Prix and numerous non-Championship races."@en ;
+	dbo:birthDate	"1921-3-21"^^xsd:date ;
+	dbo:deathDate	"1990-11-28"^^xsd:date ;
+	dbo:deathPlace	dbr:Barcelona ;
+	dbo:wikiPageRevisionID	703981938 ;
+	dbo:birthPlace	dbr:Barcelona ;
+	dbo:wikiPageID	1235995 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Paco_Godia	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1951_Spanish_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1958_French_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"14"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Maserati including non-works"^^xsd:string ;
+	dbp:nationality	"Spanish"^^xsd:string .

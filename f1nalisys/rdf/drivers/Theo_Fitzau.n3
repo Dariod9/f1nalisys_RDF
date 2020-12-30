@@ -1,0 +1,117 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Theo_Fitzau	rdf:type	owl:Thing .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Theo_Fitzau	rdf:type	dbo:RacingDriver ,
+		dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Theo_Fitzau	rdf:type	yago:WikicatAFMFormulaOneDrivers ,
+		dbo:FormulaOneRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Theo_Fitzau	rdf:type	wikidata:Q378622 ,
+		dbo:Person ,
+		yago:WikicatGermanFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:Driver110034906 ,
+		yago:CausalAgent100007347 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Theo_Fitzau	rdf:type	foaf:Person ,
+		dbo:Agent ,
+		dbo:Athlete ,
+		yago:Operator110378412 ,
+		yago:WikicatRacingDriversFromSaxony-Anhalt .
+@prefix schema:	<http://schema.org/> .
+dbr:Theo_Fitzau	rdf:type	schema:Person .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Theo_Fitzau	rdf:type	ns8:NaturalPerson ,
+		wikidata:Q24229398 ,
+		ns8:Agent ,
+		wikidata:Q215627 ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Theo_Fitzau	rdfs:label	"Theo Fitzau"@pl ,
+		"Theo Fitzau"@de ,
+		"Theo Fitzau"@fr ,
+		"Theo Fitzau"@it ,
+		"Theo Fitzau"@nl ,
+		"Theo Fitzau"@pt ,
+		"Theo Fitzau"@en ;
+	rdfs:comment	"Theodor Fitzau (10 February 1923 in K\u00F6then, Germany (later East Germany) \u2013 18 March 1982 in Gro\u00DF-Gerau, West Germany) was a racing driver from East Germany. Generally a Formula Two racer, he participated in one World Championship Grand Prix, the 1953 German Grand Prix, driving an AFM owned by fellow driver Helmut Niedermayr. He retired from the race, scoring no championship points."@en ,
+		"Principalmente noto come pilota di Formula 2, prese parte in F1 al Gran Premio di Germania 1953 a bordo di una AFM privata. Non porter\u00E0 a termine la gara."@it ,
+		"Theo Fitzau (K\u00F6then, Duitsland (later Oost-Duitsland), 10 februari 1923 - Gro\u00DF-Gerau, West-Duitsland, 18 maart 1982), was een Formule 1-coureur uit Oost-Duitsland. Hij reed 1 Grand Prix, de Grand Prix van Duitsland van 1953 voor het team AFM."@nl ,
+		"Theo Fitzau Theodor Fitzau est un pilote automobile allemand, n\u00E9 le 10 f\u00E9vrier 1923 \u00E0 K\u00F6then, Allemagne, et mort le 18 mars 1982 \u00E0 Gross-Gerau, Allemagne. Il a particip\u00E9 \u00E0 une course du championnat du monde de Formule 1 en 1953."@fr ,
+		"Theo Fitzau (ur. 10 lutego 1923 w K\u00F6then, zm. 18 marca 1982 w Gro\u00DF-Gerau) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl ,
+		"Theodor \u201ETheo\u201C Fitzau (* 10. Februar 1923 in K\u00F6then; \u2020 18. M\u00E4rz 1982 in Gro\u00DF-Gerau) war ein deutscher Automobilrennfahrer."@de ,
+		"Theodor Fitzau (K\u00F6then, Alemanha, 10 de fevereiro de 1923 \u2013 Gro\u00DF-Gerau, Alemanha, 18 de mar\u00E7o de 1982) foi um automobilista alem\u00E3o que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 de 1953."@pt .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Theo_Fitzau	dbp:points	0 ;
+	owl:sameAs	dbr:Theo_Fitzau .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Theo_Fitzau	owl:sameAs	dbpedia-it:Theo_Fitzau .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Theo_Fitzau	owl:sameAs	dbpedia-wikidata:Q61918 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Theo_Fitzau	owl:sameAs	dbpedia-pt:Theo_Fitzau .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Theo_Fitzau	owl:sameAs	dbpedia-nl:Theo_Fitzau ,
+		wikidata:Q61918 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Theo_Fitzau	owl:sameAs	dbpedia-fr:Theo_Fitzau ,
+		<http://rdf.freebase.com/ns/m.04kxmc> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Theo_Fitzau	owl:sameAs	dbpedia-de:Theo_Fitzau .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Theo_Fitzau	owl:sameAs	dbpedia-pl:Theo_Fitzau .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Theo_Fitzau	owl:sameAs	yago-res:Theo_Fitzau .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Theo_Fitzau	dct:subject	dbc:German_racing_drivers ,
+		dbc:German_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1923_births> ,
+		dbc:AFM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1982_deaths> ,
+		dbc:Racing_drivers_from_Saxony-Anhalt ,
+		<http://dbpedia.org/resource/Category:People_from_K\u00F6then> ;
+	foaf:name	"Theo Fitzau"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Theo"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Theo_Fitzau	foaf:isPrimaryTopicOf	wikipedia-en:Theo_Fitzau ;
+	foaf:surname	"Fitzau"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Theo_Fitzau	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Theo_Fitzau?oldid=703979969> ;
+	dbp:birthPlace	"K\u00F6then, Germany"^^xsd:string ;
+	dbp:deathPlace	dbr:West_Germany ,
+		<http://dbpedia.org/resource/Gro\u00DF-Gerau> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Theo_Fitzau	dbp:birthDate	"1923-02-10"^^xsd:date ;
+	dbp:deathDate	"1982-03-18"^^xsd:date ;
+	dbo:abstract	"Theo Fitzau (K\u00F6then, Duitsland (later Oost-Duitsland), 10 februari 1923 - Gro\u00DF-Gerau, West-Duitsland, 18 maart 1982), was een Formule 1-coureur uit Oost-Duitsland. Hij reed 1 Grand Prix, de Grand Prix van Duitsland van 1953 voor het team AFM."@nl ,
+		"Theo Fitzau Theodor Fitzau est un pilote automobile allemand, n\u00E9 le 10 f\u00E9vrier 1923 \u00E0 K\u00F6then, Allemagne, et mort le 18 mars 1982 \u00E0 Gross-Gerau, Allemagne. Il a particip\u00E9 \u00E0 une course du championnat du monde de Formule 1 en 1953."@fr ,
+		"Theodor Fitzau (K\u00F6then, Alemanha, 10 de fevereiro de 1923 \u2013 Gro\u00DF-Gerau, Alemanha, 18 de mar\u00E7o de 1982) foi um automobilista alem\u00E3o que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 de 1953."@pt ,
+		"Theo Fitzau (ur. 10 lutego 1923 w K\u00F6then, zm. 18 marca 1982 w Gro\u00DF-Gerau) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl ,
+		"Theodor \u201ETheo\u201C Fitzau (* 10. Februar 1923 in K\u00F6then; \u2020 18. M\u00E4rz 1982 in Gro\u00DF-Gerau) war ein deutscher Automobilrennfahrer."@de ,
+		"Theodor Fitzau (10 February 1923 in K\u00F6then, Germany (later East Germany) \u2013 18 March 1982 in Gro\u00DF-Gerau, West Germany) was a racing driver from East Germany. Generally a Formula Two racer, he participated in one World Championship Grand Prix, the 1953 German Grand Prix, driving an AFM owned by fellow driver Helmut Niedermayr. He retired from the race, scoring no championship points."@en ,
+		"Principalmente noto come pilota di Formula 2, prese parte in F1 al Gran Premio di Germania 1953 a bordo di una AFM privata. Non porter\u00E0 a termine la gara."@it ;
+	dbo:birthDate	"1923-2-10"^^xsd:date ;
+	dbo:deathDate	"1982-3-18"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Gro\u00DF-Gerau> ;
+	dbo:wikiPageRevisionID	703979969 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/K\u00F6then_(Anhalt)> ;
+	dbo:wikiPageID	1235649 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Theo_Fitzau	ns24:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1953_German_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1953_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"non-works AFM"^^xsd:string ;
+	dbp:nationality	"East German"^^xsd:string .
+wikipedia-en:Theo_Fitzau	foaf:primaryTopic	dbr:Theo_Fitzau .

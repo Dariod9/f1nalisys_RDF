@@ -1,0 +1,121 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Juan_Manuel_Bordeu	foaf:primaryTopic	dbr:Juan_Manuel_Bordeu .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Jean-Manuel_Bordeu	dbo:wikiPageRedirects	dbr:Juan_Manuel_Bordeu .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Eduardo_Copello	dbp:before	dbr:Juan_Manuel_Bordeu .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Juan_Manuel_Bordeu	rdf:type	owl:Thing ,
+		dbo:FormulaOneRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Juan_Manuel_Bordeu	rdf:type	schema:Person .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Juan_Manuel_Bordeu	rdf:type	ns8:NaturalPerson ,
+		dbo:Agent ,
+		dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Juan_Manuel_Bordeu	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Juan_Manuel_Bordeu	rdf:type	wikidata:Q215627 ,
+		ns8:Agent ,
+		wikidata:Q24229398 ,
+		yago:WikicatTurismoCarreteraDrivers ,
+		dbo:MotorsportRacer ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Juan_Manuel_Bordeu	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Person ,
+		yago:WikicatLanciaFormulaOneDrivers ,
+		umbel-rc:Athlete ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 ,
+		wikidata:Q378622 ,
+		foaf:Person ,
+		yago:WikicatArgentineFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Juan_Manuel_Bordeu	rdfs:label	"Juan Manuel Bordeu"@nl ,
+		"Juan Manuel Bordeu"@pl ,
+		"\u0411\u043E\u0440\u0434\u0435\u0443, \u0425\u0443\u0430\u043D \u041C\u0430\u043D\u0443\u044D\u043B\u044C"@ru ,
+		"Juan Manuel Bordeu"@pt ,
+		"Juan Manuel Bordeu"@es ,
+		"Juan Manuel Bordeu"@en ;
+	rdfs:comment	"Juan Manuel Bordeu (ur. 28 stycznia 1930 roku w Balcarce w Buenos Aires, zm. 24 listopada 1990 roku) \u2013 argenty\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Juan Manuel Bordeu (24 de enero de 1934, Balcarce, Buenos Aires - 24 de noviembre de 1990, Buenos Aires, Argentina) fue un automovilista argentino, campe\u00F3n del Turismo Carretera en el a\u00F1o 1966. Como protegido de Juan Manuel Fangio, Bordeu ten\u00EDa una carrera tempranera y acertada, pero un fuerte accidente en una prueba arruin\u00F3 sus chances de demostrarse en la F\u00F3rmula 1. Tuvo una \u00FAnica participaci\u00F3n en la F\u00F3rmula 1, en el Gran Premio de Francia de 1961 con un Lotus del equipo UDT Laystall, aunque el auto eventualmente fue piloteado por Lucien Bianchi."@es ,
+		"Juan Manuel Bordeu (28 January 1934 \u2013 24 November 1990) was a racing driver from Buenos Aires, Argentina. A prot\u00E9g\u00E9 of Juan Manuel Fangio, Bordeu had a successful early career but a bad testing accident wrecked his chances in Formula One. His only World Championship Formula One entry was at the 1961 French Grand Prix in a Lotus run by the UDT Laystall team, but the car was eventually driven by Lucien Bianchi. He raced on until his retirement in 1973, after which he represented his country as a delegate of FISA."@en ,
+		"\u0425\u0443\u0430\u043D \u041C\u0430\u043D\u0443\u044D\u043B\u044C \u0411\u043E\u0440\u0434\u0435\u0443 (\u0438\u0441\u043F. Juan Manuel Bordeu, 28 \u044F\u043D\u0432\u0430\u0440\u044F 1934 \u0433\u043E\u0434\u0430, \u0411\u0430\u043B\u044C\u043A\u0430\u0440\u0441\u0435, \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441, \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430 \u2014 24 \u043D\u043E\u044F\u0431\u0440\u044F 1990 \u0433\u043E\u0434\u0430, \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441, \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430) \u2014 \u0430\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043D\u0438 \u0440\u0430\u0437\u0443 \u043D\u0435 \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u0430\u0432\u0448\u0438\u0439 \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438."@ru ,
+		"Juan Manuel Bordeu (Buenos Aires, Argentina; 28 de janeiro de 1934 - 24 de novembro de 1990) foi um automobilista argentino que participou do Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 de 1961."@pt ,
+		"Juan Manuel Bordeu (Balcarce, Buenos Aires, 28 januari 1934 \u2013 24 november 1990) was een Formule 1-coureur uit Argentini\u00EB. Hij reed 1 race (de Grand Prix van Frankrijk van 1961); hij verscheen hier niet aan de start. Hij zou rijden voor het team UDT Laystall. Hij was de echtgenoot van actrice Graciela Borges."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Juan_Manuel_Bordeu	dbp:birthDate	"1934-01-28"^^xsd:date ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.09vsrq> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Juan_Manuel_Bordeu	owl:sameAs	dbpedia-pl:Juan_Manuel_Bordeu ,
+		dbr:Juan_Manuel_Bordeu .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Juan_Manuel_Bordeu	owl:sameAs	dbpedia-nl:Juan_Manuel_Bordeu .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Juan_Manuel_Bordeu	owl:sameAs	dbpedia-es:Juan_Manuel_Bordeu .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Juan_Manuel_Bordeu	owl:sameAs	dbpedia-wikidata:Q636886 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Juan_Manuel_Bordeu	owl:sameAs	dbpedia-pt:Juan_Manuel_Bordeu .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Juan_Manuel_Bordeu	owl:sameAs	yago-res:Juan_Manuel_Bordeu ,
+		wikidata:Q636886 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Juan_Manuel_Bordeu	dct:subject	dbc:Turismo_Carretera_drivers ,
+		dbc:Sportspeople_from_Buenos_Aires_Province ,
+		dbc:Argentine_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1990_deaths> ,
+		<http://dbpedia.org/resource/Category:1934_births> ,
+		dbc:British_Racing_Partnership_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Argentine_Formula_One_drivers ,
+		dbc:People_from_Balcarce_Partido ;
+	foaf:name	"Juan Manuel Bordeu"@en ;
+	dct:description	"Argentine racing driver"@en ;
+	foaf:givenName	"Juan"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Juan_Manuel_Bordeu ;
+	dbp:points	0 ;
+	dbp:years	1966 ;
+	dbp:after	dbr:Eduardo_Copello ;
+	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Partnership .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Juan_Manuel_Bordeu	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Juan_Manuel_Bordeu?oldid=713657438> ;
+	dbo:wikiPageExternalLink	<http://www.espn.co.uk/teamlotus/motorsport/driver/814.html> ;
+	dbp:nationality	"Argentine"^^xsd:string ;
+	dbp:birthPlace	"Balcarce, Buenos Aires, Argentina"^^xsd:string ;
+	dbp:deathDate	"1990-11-24"^^xsd:date ;
+	dbp:before	dbr:Dante_Emiliozzi ;
+	dbp:deathPlace	"Buenos Aires, Argentina"^^xsd:string ;
+	dbo:abstract	"\u0425\u0443\u0430\u043D \u041C\u0430\u043D\u0443\u044D\u043B\u044C \u0411\u043E\u0440\u0434\u0435\u0443 (\u0438\u0441\u043F. Juan Manuel Bordeu, 28 \u044F\u043D\u0432\u0430\u0440\u044F 1934 \u0433\u043E\u0434\u0430, \u0411\u0430\u043B\u044C\u043A\u0430\u0440\u0441\u0435, \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441, \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430 \u2014 24 \u043D\u043E\u044F\u0431\u0440\u044F 1990 \u0433\u043E\u0434\u0430, \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441, \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430) \u2014 \u0430\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043D\u0438 \u0440\u0430\u0437\u0443 \u043D\u0435 \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u0430\u0432\u0448\u0438\u0439 \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438."@ru ,
+		"Juan Manuel Bordeu (ur. 28 stycznia 1930 roku w Balcarce w Buenos Aires, zm. 24 listopada 1990 roku) \u2013 argenty\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Juan Manuel Bordeu (Balcarce, Buenos Aires, 28 januari 1934 \u2013 24 november 1990) was een Formule 1-coureur uit Argentini\u00EB. Hij reed 1 race (de Grand Prix van Frankrijk van 1961); hij verscheen hier niet aan de start. Hij zou rijden voor het team UDT Laystall. Hij was de echtgenoot van actrice Graciela Borges."@nl ,
+		"Juan Manuel Bordeu (24 de enero de 1934, Balcarce, Buenos Aires - 24 de noviembre de 1990, Buenos Aires, Argentina) fue un automovilista argentino, campe\u00F3n del Turismo Carretera en el a\u00F1o 1966. Como protegido de Juan Manuel Fangio, Bordeu ten\u00EDa una carrera tempranera y acertada, pero un fuerte accidente en una prueba arruin\u00F3 sus chances de demostrarse en la F\u00F3rmula 1. Tuvo una \u00FAnica participaci\u00F3n en la F\u00F3rmula 1, en el Gran Premio de Francia de 1961 con un Lotus del equipo UDT Laystall, aunque el auto eventualmente fue piloteado por Lucien Bianchi."@es ,
+		"Juan Manuel Bordeu (28 January 1934 \u2013 24 November 1990) was a racing driver from Buenos Aires, Argentina. A prot\u00E9g\u00E9 of Juan Manuel Fangio, Bordeu had a successful early career but a bad testing accident wrecked his chances in Formula One. His only World Championship Formula One entry was at the 1961 French Grand Prix in a Lotus run by the UDT Laystall team, but the car was eventually driven by Lucien Bianchi. He raced on until his retirement in 1973, after which he represented his country as a delegate of FISA."@en ,
+		"Juan Manuel Bordeu (Buenos Aires, Argentina; 28 de janeiro de 1934 - 24 de novembro de 1990) foi um automobilista argentino que participou do Grande Pr\u00EAmio da Fran\u00E7a de F\u00F3rmula 1 de 1961."@pt ;
+	dbo:birthDate	"1934-1-28"^^xsd:date ;
+	dbo:deathDate	"1990-11-24"^^xsd:date ;
+	dbo:wikiPageRevisionID	713657438 ;
+	dbo:wikiPageID	3693173 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1961_French_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1961_French_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Juan_Manuel_Bordeu	ns23:hypernym	dbr:Driver ;
+	dbp:title	dbr:Turismo_Carretera .
+dbr:Dante_Emiliozzi	dbp:after	dbr:Juan_Manuel_Bordeu .
+dbr:Graciela_Borges	dbo:spouse	dbr:Juan_Manuel_Bordeu .

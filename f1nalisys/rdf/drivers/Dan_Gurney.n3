@@ -1,0 +1,286 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1970_24_Hours_of_Daytona__S5.0__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__34th__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__22__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__DSQ__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1961_Syracuse_Grand_Prix>	dbo:fastestDriver	dbr:Dan_Gurney ;
+	dbo:secondDriver	dbr:Dan_Gurney ;
+	dbo:poleDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1964_BRDC_International_Trophy>	dbo:poleDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1959_German_Grand_Prix>	dbo:secondDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1962_German_Grand_Prix>	dbo:thirdDriver	dbr:Dan_Gurney ;
+	dbo:poleDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1963_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1963_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Dan_Gurney ;
+	dbo:secondDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1964_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Dan_Gurney ;
+	dbo:poleDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1965_German_Grand_Prix>	dbo:thirdDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1967_Race_of_Champions>	dbo:fastestDriver	dbr:Dan_Gurney ;
+	dbo:firstDriver	dbr:Dan_Gurney ;
+	dbo:poleDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__49__1>	dbo:firstDriver	dbr:Dan_Gurney .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Ballarat_Airport	dbp:recordDriver	dbr:Dan_Gurney .
+dbr:Bridgehampton_Grand_Prix	dbp:mostWinsDriver	dbr:Dan_Gurney .
+dbr:Chris_Amon	dbp:after	dbr:Dan_Gurney .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Dan_Gurney	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Dan_Gurney	rdf:type	yago:WikicatBrabhamFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Dan_Gurney	rdf:type	wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatRacingDriversFromCalifornia ,
+		wikidata:Q5 ,
+		yago:WikicatNASCARDrivers ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		yago:WikicatFerrariFormulaOneDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Dan_Gurney	rdf:type	foaf:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Dan_Gurney	rdf:type	schema:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatChampCarDrivers ,
+		dbo:FormulaOneRacer ,
+		dbo:Agent ,
+		wikidata:Q24229398 ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Dan_Gurney	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:MotorsportRacer ,
+		yago:WikicatPorscheFormulaOneDrivers ,
+		yago:WikicatAngloAmericanRacersFormulaOneDrivers ,
+		yago:Operator110378412 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Dan_Gurney	rdf:type	ns10:NaturalPerson ,
+		ns10:Agent ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		yago:WikicatTrans-AmSeriesDrivers ,
+		dbo:Athlete ,
+		yago:WikicatTeamLotusFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Dan_Gurney	rdfs:label	"Dan Gurney"@en ,
+		"\u0413\u0435\u0440\u043D\u0438, \u0414\u044D\u043D"@ru ,
+		"Dan Gurney"@pl ,
+		"\u062F\u0627\u0646 \u062C\u0648\u0631\u0646\u064A"@ar ,
+		"Dan Gurney"@es ,
+		"Dan Gurney"@de ,
+		"Dan Gurney"@fr ,
+		"Dan Gurney"@pt ,
+		"Dan Gurney"@nl ,
+		"Dan Gurney"@it ,
+		"\u30C0\u30F3\u30FB\u30AC\u30FC\u30CB\u30FC"@ja ;
+	rdfs:comment	"\u30C0\u30CB\u30A8\u30EB\u30FB\"\u30C0\u30F3\"\u30FB\u30BB\u30AF\u30B9\u30C8\u30F3\u30FB\u30AC\u30FC\u30CB\u30FC\uFF08Daniel \"Dan\" Sexton Gurney \u30011931\u5E744\u670813\u65E5 - \uFF09\u306F\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Daniel Sexton (Dan) Gurney (Port Jefferson (New York), 13 april 1931) is een Amerikaans voormalig Formule 1-, IndyCar-, Sports Cars- en NASCAR-coureur. Hij reed de Formule 1 tussen 1959 en 1968 en in 1970 87 Grands Prix voor de teams Ferrari, BRM, Porsche, Lotus, Brabham, Eagle en McLaren."@nl ,
+		"Ha corso in vari campionati internazionali come Formula 1, CanAm, Champ Car e NASCAR, oltre alla 500 miglia di Indianapolis e alla 24 Ore di Le Mans."@it ,
+		"Daniel Sexton Gurney (born April 13, 1931) is a retired American racing driver, race car constructor, and team owner who reached racing's highest levels starting in 1958. The son of a Metropolitan Opera star, he was born in Port Jefferson, New York, but moved to California as a teenager."@en ,
+		"Daniel Sexton Gurney (nacido el 13 de abril de 1931 en Port Jefferson, Nueva York, Estados Unidos) es una de las figuras m\u00E1s importantes en la historia del automovilismo estadounidense. Se destac\u00F3 como piloto en las d\u00E9cadas de 1960, y fue adem\u00E1s fundador y due\u00F1o del equipo y fabricante de autom\u00F3viles All American Racers. Junto con Mario Andretti y Juan Pablo Montoya, Gurney es uno de los tres pilotos en ganar carreras de F\u00F3rmula 1, la NASCAR Cup Series y la serie CART."@es ,
+		"\u0414\u0430\u043D\u0438\u044D\u043B\u044C \u0421\u0435\u043A\u0441\u0442\u043E\u043D \u0413\u0435\u0440\u043D\u0438 (\u0430\u043D\u0433\u043B. Daniel Sexton Gurney, 13 \u0430\u043F\u0440\u0435\u043B\u044F 1931 \u0433\u043E\u0434\u0430, \u041F\u043E\u0440\u0442 \u0414\u0436\u0435\u0444\u0444\u0435\u0440\u0441\u043E\u043D, \u0448\u0442\u0430\u0442 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0418\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u0440\u043E\u0434\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u0438\u043A \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438 \u043E\u0431\u043B\u0438\u0432\u0430\u0442\u044C\u0441\u044F \u0448\u0430\u043C\u043F\u0430\u043D\u0441\u043A\u0438\u043C \u043D\u0430 \u043F\u043E\u0434\u0438\u0443\u043C\u0435."@ru ,
+		"Daniel Sexton \u201EDan\u201D Gurney (ur. 13 kwietnia 1931 roku w Port Jefferson) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy, konstruktor i za\u0142o\u017Cyciel zespo\u0142u All American Racers. Obok Bruce'a McLarena i Jacka Brabhama nale\u017Cy do najbardziej wizjonerskich kierowc\u00F3w wy\u015Bcigowych w historii, kt\u00F3rzy z powodzeniem prze\u0142o\u017Cyli swoj\u0105 wiedz\u0119 i umiej\u0119tno\u015Bci na sukcesy w barwach samochod\u00F3w w\u0142asnej konstrukcji. Jako pierwszy kierowca w historii u\u017Cywa\u0142 tzw. kasku zamkni\u0119tego, w kt\u00F3rym twarz by\u0142a os\u0142oni\u0119ta wizjerem."@pl ,
+		"Daniel Sexton \u201EDan\u201C Gurney (* 13. April 1931 in Port Jefferson, Long Island, New York) ist ein ehemaliger US-amerikanischer Automobilrennfahrer, Konstrukteur und Teambesitzer. Gurney gilt als einer der erfolgreichsten US-amerikanischen Rennfahrer und ist unter diesen der bisher einzige, der einen Formel-1-Sieg auf einer Eigenkonstruktion erringen konnte, beim Gro\u00DFen Preis von Belgien in Spa-Francorchamps 1967. Nur eine Woche zuvor hatte er \u00FCberraschend die 24 Stunden von Le Mans gewonnen und seiner \u201E\u00FCbersch\u00E4umenden Freude\u201C durch Verspritzen des Siegerchampagners Ausdruck verliehen."@de ,
+		"Daniel Sexton Gurney, mais conhecido por Dan Gurney (Port Jefferson, 13 de abril de 1931) \u00E9 um ex-automobilista estadunidense e atual construtor e diretor de equipes. Gurney tamb\u00E9m ganhou corridas na  Indy Car, NASCAR, Can-Am e Trans-Am Series. Gurney \u00E9 o primeiro dos tr\u00EAs pilotos que venceram corridas em carros esportivos (1958), F\u00F3rmula 1 (1962), NASCAR (1963) e IndyCar (1967) (os outros dois sendo Mario Andretti e Juan Pablo Montoya). Depois de vencer as 24 horas de Le Mans em 1967 com A.J. Foyt, ele espontaneamente pulverizou champanhe ao comemorar no p\u00F3dio, al\u00E9m desta tradi\u00E7\u00E3o, ele tamb\u00E9m foi o primeiro a colocar uma simples extens\u00E3o de \u00E2ngulo reto sobre a borda direita superior da asa traseira. Este dispositivo, chamado um Gurney flap(nomenclatura em ingl\u00EAs), aumenta a press\u00E3o aerodi"@pt ,
+		"Daniel Sexton Gurney est un ancien pilote automobile am\u00E9ricain n\u00E9 le 13 avril 1931 \u00E0 Port Jefferson (\u00C9tat de New York). Pilote complet, aussi \u00E0 l'aise sur trac\u00E9s routiers que sur ovale, Dan Gurney figure parmi les plus grands pilotes automobiles des ann\u00E9es 1960. Dan Gurney a pris le d\u00E9part de quatre-vingt-six Grands Prix de championnat du monde de Formule 1, inscrit 133 points et remport\u00E9 quatre victoires. Il a \u00E9galement obtenu trois pole positions et six meilleurs tours en course. Gurney est le fondateur de l'officine de construction de monoplaces de course Eagle et le fondateur de l'\u00E9curie AAR (All American Racers ou Anglo American Racers selon le c\u00F4t\u00E9 de l'Atlantique o\u00F9 elle exerce)."@fr ,
+		"\u062F\u0627\u0646 \u062C\u0648\u0631\u0646\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Dan Gurney) \u0645\u0648\u0627\u0644\u064A\u062F 13 \u0623\u0628\u0631\u064A\u0644 1931 \u0641\u064A \u0628\u0648\u0631\u062A \u062C\u0641\u0631\u0633\u0648\u0646\u060C \u0646\u064A\u0648\u064A\u0648\u0631\u0643\u060C \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1959. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1959\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1962. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 87 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 4 \u0645\u0646\u0647\u0627."@ar ;
+	dbp:points	133 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	yago-res:Dan_Gurney .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	dbpedia-pl:Dan_Gurney .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	dbpedia-wikidata:Q171466 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	dbpedia-es:Dan_Gurney .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	dbpedia-id:Dan_Gurney .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	dbpedia-fr:Dan_Gurney ,
+		dbr:Dan_Gurney .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	dbpedia-it:Dan_Gurney ,
+		<http://ja.dbpedia.org/resource/\u30C0\u30F3\u30FB\u30AC\u30FC\u30CB\u30FC> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	dbpedia-de:Dan_Gurney ,
+		<http://rdf.freebase.com/ns/m.02pdvq> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	dbpedia-nl:Dan_Gurney .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Dan_Gurney	owl:sameAs	dbpedia-pt:Dan_Gurney ,
+		<http://d-nb.info/gnd/144017385> ,
+		wikidata:Q171466 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Dan_Gurney	dct:subject	dbc:West_Coast_Stock_Car_Hall_of_Fame_inductees ,
+		dbc:Formula_One_team_owners ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:McLaren_Formula_One_drivers ,
+		dbc:American_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Riverside,_California> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:NASCAR_drivers ,
+		dbc:Motorsport_announcers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Living_people ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:Porsche_Formula_One_drivers ,
+		dbc:Racing_drivers_from_California ,
+		dbc:Trans-Am_Series_drivers ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		dbc:BRM_Formula_One_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:Anglo_American_Racers_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1931_births> ,
+		<http://dbpedia.org/resource/Category:People_from_Port_Jefferson,_New_York> ;
+	foaf:name	"Dan Gurney"@en ;
+	foaf:homepage	<http://www.gurney-weslake.co.uk/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Dan_Gurney_(1970).jpg> ;
+	dct:description	"American racecar driver, constructor and team owner"@en ;
+	foaf:givenName	"Dan"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Dan_Gurney	foaf:isPrimaryTopicOf	wikipedia-en:Dan_Gurney ;
+	foaf:surname	"Gurney"@en ;
+	dbp:title	<http://dbpedia.org/resource/Race_of_Champions_(Brands_Hatch)> ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners ;
+	dbp:years	"-,"^^xsd:string ,
+		<http://dbpedia.org/resource/A._J._Foyt> ,
+		1967 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Dan_Gurney	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dan_Gurney?oldid=738842446> ;
+	dbp:before	dbr:Chris_Amon ,
+		dbr:Mike_Spence ,
+		dbr:Bruce_McLaren ;
+	dbp:after	<http://dbpedia.org/resource/Pedro_Rodriguez_(racing_driver)> ,
+		dbr:Lucien_Bianchi ,
+		dbr:Bruce_McLaren ;
+	dbp:birthPlace	"Port Jefferson, New York, US"^^xsd:string ,
+		"Port Jefferson, New York"^^xsd:string ;
+	dbp:bestCupPos	"Unranked"^^xsd:string ;
+	dbp:cupPoles	10 ;
+	dbp:cupTopTens	8 ;
+	dbp:cupWins	5 ;
+	dbp:firstCupRace	1962 ;
+	dbp:firstCupWin	1963 ;
+	dbp:lastCupRace	1980 ;
+	dbp:totalCupRaces	16 ;
+	dbp:yearsInCup	10 ;
+	dbo:firstWin	<http://dbpedia.org/resource/1962_French_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1967_Belgian_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Dan_Gurney	dbp:birthDate	"1931-04-13"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.atlasf1.com/99/bra/preview/horton.html> ,
+		<http://www.ddavid.com/formula1/gurney.htm> ,
+		<http://www.grandprix.com/gpe/drv-gurdan.html> ,
+		<http://thegreatest33.com/default.aspx#selecteddrivers?s=dan_gurney> ,
+		<http://www.allamericanracers.com/gurney_flap.html> ,
+		<http://www.allamericanracers.com/home.html> ,
+		<http://racing-reference.info/driver?id=gurneda01> ,
+		<http://www.gurney-weslake.co.uk/> ,
+		<http://www.allamericanracers.com/> ,
+		<http://www.les24heures.fr/database-24h/FR/PAGE_24h_mans_pilote_lm.php?P1=1056> ,
+		<http://www.gpracing.net192.com/drivers/careers/258.cfm> ;
+	dbp:caption	"Gurney in 1970"^^xsd:string ,
+		"Gurney's 1963 Riverside 500 car."^^xsd:string ;
+	dbo:abstract	"\u0414\u0430\u043D\u0438\u044D\u043B\u044C \u0421\u0435\u043A\u0441\u0442\u043E\u043D \u0413\u0435\u0440\u043D\u0438 (\u0430\u043D\u0433\u043B. Daniel Sexton Gurney, 13 \u0430\u043F\u0440\u0435\u043B\u044F 1931 \u0433\u043E\u0434\u0430, \u041F\u043E\u0440\u0442 \u0414\u0436\u0435\u0444\u0444\u0435\u0440\u0441\u043E\u043D, \u0448\u0442\u0430\u0442 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0418\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043A\u0430\u043A \u0440\u043E\u0434\u043E\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u0438\u043A \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0438 \u043E\u0431\u043B\u0438\u0432\u0430\u0442\u044C\u0441\u044F \u0448\u0430\u043C\u043F\u0430\u043D\u0441\u043A\u0438\u043C \u043D\u0430 \u043F\u043E\u0434\u0438\u0443\u043C\u0435."@ru ,
+		"Daniel Sexton \u201EDan\u201C Gurney (* 13. April 1931 in Port Jefferson, Long Island, New York) ist ein ehemaliger US-amerikanischer Automobilrennfahrer, Konstrukteur und Teambesitzer. Gurney gilt als einer der erfolgreichsten US-amerikanischen Rennfahrer und ist unter diesen der bisher einzige, der einen Formel-1-Sieg auf einer Eigenkonstruktion erringen konnte, beim Gro\u00DFen Preis von Belgien in Spa-Francorchamps 1967. Nur eine Woche zuvor hatte er \u00FCberraschend die 24 Stunden von Le Mans gewonnen und seiner \u201E\u00FCbersch\u00E4umenden Freude\u201C durch Verspritzen des Siegerchampagners Ausdruck verliehen. Abgesehen von diesem l\u00E4ngst weltweit kopierten Siegeszeremoniell hat er u. a. die Gurney Flaps erfunden, eine kleine, nach oben weisende Klappe an der Hinterkante des Fl\u00FCgels an Rennwagen. Mit dieser Gurney Flap wird der Abtrieb des Fl\u00FCgels verbessert, wobei sich der Luftwiderstand kaum erh\u00F6ht, was zur Folge hat, dass der Rennwagen eine bessere aerodynamische Effizienz hat. Als Mitinitiator hat er daf\u00FCr gesorgt, dass Long Beach (Kalifornien) f\u00FCr zwei denkbar verschiedene Motorsportveranstaltungen bekannt wurde: f\u00FCr den Long Beach Grand Prix (ab 1976 als Grand Prix der USA-West und sp\u00E4ter als Champ-Car-Rennen) sowie als Zielort des Cannonball-Rennens."@de ,
+		"\u062F\u0627\u0646 \u062C\u0648\u0631\u0646\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Dan Gurney) \u0645\u0648\u0627\u0644\u064A\u062F 13 \u0623\u0628\u0631\u064A\u0644 1931 \u0641\u064A \u0628\u0648\u0631\u062A \u062C\u0641\u0631\u0633\u0648\u0646\u060C \u0646\u064A\u0648\u064A\u0648\u0631\u0643\u060C \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0645\u0631\u064A\u0643\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1959. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1959\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1962. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 87 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 4 \u0645\u0646\u0647\u0627."@ar ,
+		"Daniel Sexton Gurney est un ancien pilote automobile am\u00E9ricain n\u00E9 le 13 avril 1931 \u00E0 Port Jefferson (\u00C9tat de New York). Pilote complet, aussi \u00E0 l'aise sur trac\u00E9s routiers que sur ovale, Dan Gurney figure parmi les plus grands pilotes automobiles des ann\u00E9es 1960. Dan Gurney a pris le d\u00E9part de quatre-vingt-six Grands Prix de championnat du monde de Formule 1, inscrit 133 points et remport\u00E9 quatre victoires. Il a \u00E9galement obtenu trois pole positions et six meilleurs tours en course. Gurney est le fondateur de l'officine de construction de monoplaces de course Eagle et le fondateur de l'\u00E9curie AAR (All American Racers ou Anglo American Racers selon le c\u00F4t\u00E9 de l'Atlantique o\u00F9 elle exerce). Dan Gurney a permis \u00E0 trois \u00E9curies diff\u00E9rentes de remporter leur premi\u00E8re victoire en tant que constructeur en championnat du monde de Formule 1 : Porsche en 1962, Brabham en 1964 et AAR-Eagle en 1967. En 1967, Dan Gurney, pour la premi\u00E8re fois, secoue la bouteille de champagne traditionnellement offerte aux vainqueurs des 24 Heures du Mans. Depuis, la douche de champagne s'est g\u00E9n\u00E9ralis\u00E9e sur presque tous les podiums de sport m\u00E9canique (en dehors de la bouteille de lait des 500 miles d'Indianapolis)."@fr ,
+		"Daniel Sexton (Dan) Gurney (Port Jefferson (New York), 13 april 1931) is een Amerikaans voormalig Formule 1-, IndyCar-, Sports Cars- en NASCAR-coureur. Hij reed de Formule 1 tussen 1959 en 1968 en in 1970 87 Grands Prix voor de teams Ferrari, BRM, Porsche, Lotus, Brabham, Eagle en McLaren."@nl ,
+		"Daniel Sexton Gurney (nacido el 13 de abril de 1931 en Port Jefferson, Nueva York, Estados Unidos) es una de las figuras m\u00E1s importantes en la historia del automovilismo estadounidense. Se destac\u00F3 como piloto en las d\u00E9cadas de 1960, y fue adem\u00E1s fundador y due\u00F1o del equipo y fabricante de autom\u00F3viles All American Racers. Junto con Mario Andretti y Juan Pablo Montoya, Gurney es uno de los tres pilotos en ganar carreras de F\u00F3rmula 1, la NASCAR Cup Series y la serie CART."@es ,
+		"Ha corso in vari campionati internazionali come Formula 1, CanAm, Champ Car e NASCAR, oltre alla 500 miglia di Indianapolis e alla 24 Ore di Le Mans."@it ,
+		"Daniel Sexton Gurney (born April 13, 1931) is a retired American racing driver, race car constructor, and team owner who reached racing's highest levels starting in 1958. The son of a Metropolitan Opera star, he was born in Port Jefferson, New York, but moved to California as a teenager. Gurney won races in the Formula One, Indy Car, NASCAR, Can-Am, and Trans-Am Series. Gurney is the first of three drivers to have won races in Sports Cars (1958), Formula One (1962), NASCAR (1963), and Indy Car (1967) (the other two being Mario Andretti and Juan Pablo Montoya). In 1967, after winning the 24 Hours of Le Mans together with A.J. Foyt, he spontaneously sprayed champagne while celebrating on the podium. Apart from starting this tradition, he also was the first to put a simple right-angle extension on the upper trailing edge of the rear wing. This device, called a Gurney flap, increases downforce and, if well designed, imposes only a relatively small increase in aerodynamic drag. At the 1968 German Grand Prix he became the first driver ever to use a full face helmet in Grand Prix racing."@en ,
+		"Daniel Sexton \u201EDan\u201D Gurney (ur. 13 kwietnia 1931 roku w Port Jefferson) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy, konstruktor i za\u0142o\u017Cyciel zespo\u0142u All American Racers. Obok Bruce'a McLarena i Jacka Brabhama nale\u017Cy do najbardziej wizjonerskich kierowc\u00F3w wy\u015Bcigowych w historii, kt\u00F3rzy z powodzeniem prze\u0142o\u017Cyli swoj\u0105 wiedz\u0119 i umiej\u0119tno\u015Bci na sukcesy w barwach samochod\u00F3w w\u0142asnej konstrukcji. Jako pierwszy kierowca w historii u\u017Cywa\u0142 tzw. kasku zamkni\u0119tego, w kt\u00F3rym twarz by\u0142a os\u0142oni\u0119ta wizjerem. Jest autorem tzw. Gurney Flap, metalowej listwy montowanej na zako\u0144czeniu tylnego spojlera. Rozwi\u0105zanie to zosta\u0142o zaadaptowane przez konstruktor\u00F3w na ca\u0142ym \u015Bwiecie."@pl ,
+		"\u30C0\u30CB\u30A8\u30EB\u30FB\"\u30C0\u30F3\"\u30FB\u30BB\u30AF\u30B9\u30C8\u30F3\u30FB\u30AC\u30FC\u30CB\u30FC\uFF08Daniel \"Dan\" Sexton Gurney \u30011931\u5E744\u670813\u65E5 - \uFF09\u306F\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Daniel Sexton Gurney, mais conhecido por Dan Gurney (Port Jefferson, 13 de abril de 1931) \u00E9 um ex-automobilista estadunidense e atual construtor e diretor de equipes. Gurney tamb\u00E9m ganhou corridas na  Indy Car, NASCAR, Can-Am e Trans-Am Series. Gurney \u00E9 o primeiro dos tr\u00EAs pilotos que venceram corridas em carros esportivos (1958), F\u00F3rmula 1 (1962), NASCAR (1963) e IndyCar (1967) (os outros dois sendo Mario Andretti e Juan Pablo Montoya). Depois de vencer as 24 horas de Le Mans em 1967 com A.J. Foyt, ele espontaneamente pulverizou champanhe ao comemorar no p\u00F3dio, al\u00E9m desta tradi\u00E7\u00E3o, ele tamb\u00E9m foi o primeiro a colocar uma simples extens\u00E3o de \u00E2ngulo reto sobre a borda direita superior da asa traseira. Este dispositivo, chamado um Gurney flap(nomenclatura em ingl\u00EAs), aumenta a press\u00E3o aerodin\u00E2mica e, se bem projetado, imp\u00F5e apenas um aumento relativamente pequeno na aerodin\u00E2mica. No Grande Pr\u00EAmio da Alemanha de 1968 (F\u00F3rmula 1) ele se tornou o primeiro piloto a usar um capacete cobrindo toda a face nas corridas de Grande Pr\u00EAmio."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Dan_Gurney_(1970).jpg?width=300> ;
+	dbo:birthDate	"1931-4-13"^^xsd:date ;
+	dbo:wikiPageRevisionID	738842446 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Port_Jefferson,_New_York> ;
+	dbo:wikiPageID	554522 .
+@prefix ns27:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Dan_Gurney	dbp:wordnet_type	ns27:synset-racer-noun-1 ;
+	dbp:name	"Dan Gurney"^^xsd:string .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Dan_Gurney	ns28:hypernym	dbr:American ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"6"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1959_French_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1970_British_Grand_Prix> ;
+	dbo:podiums	"19"^^xsd:nonNegativeInteger ;
+	dbo:poles	"3"^^xsd:nonNegativeInteger ;
+	dbo:races	"87"^^xsd:nonNegativeInteger ;
+	dbo:wins	"4"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:All_American_Racers ,
+		dbr:Team_McLaren ,
+		dbr:BRM ,
+		dbr:Porsche_in_Formula_One ,
+		dbr:Scuderia_Ferrari ,
+		dbr:Team_Lotus ,
+		dbr:Brabham ;
+	dbp:nationality	"American"^^xsd:string ;
+	dbp:lastCupWin	1968 .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__26__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1967_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Dan_Gurney ;
+	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1961_Italian_Grand_Prix>	dbo:secondDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1965_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1961_Modena_Grand_Prix>	dbo:thirdDriver	dbr:Dan_Gurney .
+wikipedia-en:Dan_Gurney	foaf:primaryTopic	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1961_United_States_Grand_Prix>	dbo:secondDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1967_Canadian_Grand_Prix>	dbo:thirdDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1966_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Dan_Gurney ;
+	dbo:poleDriver	dbr:Dan_Gurney .
+dbr:Bruce_McLaren	dbp:before	dbr:Dan_Gurney ;
+	dbp:after	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1961_French_Grand_Prix>	dbo:secondDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1962_French_Grand_Prix>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1964_French_Grand_Prix>	dbo:firstDriver	dbr:Dan_Gurney .
+dbr:Sebring_International_Raceway	dbp:recordDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1969_Can-Am_season__11=__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1970_Can-Am_season__7__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1970_Motor_Trend_500>	dbp:poleDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/Pedro_Rodr\u00EDguez_(racing_driver)>	dbp:before	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1964_Mexican_Grand_Prix>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1965_Mexican_Grand_Prix>	dbo:fastestDriver	dbr:Dan_Gurney ;
+	dbo:secondDriver	dbr:Dan_Gurney .
+dbr:Lucien_Bianchi	dbp:before	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__4__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__22__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__17__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__1__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1966_Can-Am_season__7__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1968_Can-Am_season__15=__1>	dbo:firstDriver	dbr:Dan_Gurney .
+dbr:Winston_Western_500	dbp:mostWinsDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__43rd__1>	dbo:firstDriver	dbr:Dan_Gurney .
+dbr:Porsche_718	dbp:drivers	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__26th__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/A._J._Foyt>	dbp:years	dbr:Dan_Gurney .
+dbr:Canadian_Tire_Motorsport_Park__1968__1	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1970_12_Hours_of_Sebring__12__1>	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1965_United_States_Grand_Prix>	dbo:secondDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1967_German_Grand_Prix>	dbo:fastestDriver	dbr:Dan_Gurney .
+dbr:Mike_Spence	dbp:after	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1963_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1964_Dutch_Grand_Prix>	dbo:poleDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1965_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1964_Austrian_Grand_Prix>	dbo:fastestDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1963_Tony_Bettenhausen_200>	dbp:thirdDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1961_Solitude_Grand_Prix>	dbo:thirdDriver	dbr:Dan_Gurney ;
+	dbo:fastestDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1962_Solitude_Grand_Prix>	dbo:fastestDriver	dbr:Dan_Gurney ;
+	dbo:firstDriver	dbr:Dan_Gurney .
+<http://dbpedia.org/resource/1959_Portuguese_Grand_Prix>	dbo:thirdDriver	dbr:Dan_Gurney .

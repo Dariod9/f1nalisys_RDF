@@ -1,0 +1,163 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1958_Lady_Wigram_Trophy>	dbo:thirdDriver	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/1957_Moroccan_Grand_Prix>	dbo:secondDriver	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/1957_Glover_Trophy>	dbo:firstDriver	dbr:Stuart_Lewis-Evans .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Stuart_Lewis-Evans	foaf:primaryTopic	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/1958_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/1957_Italian_Grand_Prix>	dbo:poleDriver	dbr:Stuart_Lewis-Evans .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Jerry_Unser_Jr.>	dbp:before	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/Peter_Collins_(racing_driver)>	dbp:after	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/1957_Reims_Grand_Prix>	dbo:thirdDriver	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__5__1>	dbo:firstDriver	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__DNS__1>	dbo:firstDriver	dbr:Stuart_Lewis-Evans .
+dbr:Ivor_Bueb	dbp:before	dbr:Stuart_Lewis-Evans .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Stuart_Lewis-Evans	rdf:type	wikidata:Q378622 ,
+		dbo:Person ,
+		foaf:Person ,
+		wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Stuart_Lewis-Evans	rdf:type	yago:CausalAgent100007347 ,
+		yago:WikicatVanwallFormulaOneDrivers .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Stuart_Lewis-Evans	rdf:type	ns8:NaturalPerson ,
+		dbo:Athlete ,
+		yago:Driver110034906 ,
+		ns8:Agent ,
+		wikidata:Q24229398 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Stuart_Lewis-Evans	rdf:type	schema:Person ,
+		dbo:FormulaOneRacer ,
+		yago:Operator110378412 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		dbo:RacingDriver ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		yago:WikicatConnaughtFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Stuart_Lewis-Evans	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Stuart_Lewis-Evans	rdfs:label	"\u0633\u062A\u064A\u0648\u0627\u0631\u062A \u0644\u0648\u064A\u0633 \u0625\u064A\u0641\u0627\u0646\u0632"@ar ,
+		"Stuart Lewis-Evans"@nl ,
+		"Stuart Lewis-Evans"@it ,
+		"Stuart Lewis-Evans"@es ,
+		"\u30B9\u30C1\u30E5\u30A2\u30FC\u30C8\u30FB\u30EB\u30A4\u30B9\uFF1D\u30A8\u30F4\u30A1\u30F3\u30BA"@ja ,
+		"Stuart Lewis-Evans"@de ,
+		"Stuart Lewis-Evans"@pl ,
+		"\u041B\u044C\u044E\u0438\u0441-\u042D\u0432\u0430\u043D\u0441, \u0421\u0442\u044E\u0430\u0440\u0442"@ru ,
+		"Stuart Lewis-Evans"@pt ,
+		"Stuart Lewis-Evans"@en ,
+		"Stuart Lewis-Evans"@fr ;
+	rdfs:comment	"\u30B9\u30C1\u30E5\u30A2\u30FC\u30C8\u30FB\u30CA\u30A4\u30B8\u30A7\u30EB\u30FB\u30EB\u30A4\u30B9\uFF1D\u30A8\u30F4\u30A1\u30F3\u30BA (Stuart Nigel Lewis-Evans, 1930\u5E744\u670820\u65E5 - 1958\u5E7410\u670825\u65E5) \u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021957\u5E74\u306BF1\u30C7\u30D3\u30E5\u30FC\u3057\u300114\u6226\u306B\u51FA\u8D70\u3057\u305F\u3002\u8868\u5F70\u53F0\u306F2\u56DE\u300116\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3057\u3001\u30DD\u30FC\u30EB\u30DD\u30B8\u30B7\u30E7\u30F3\u30822\u56DE\u7372\u5F97\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Stuart Lewis-Evans est un pilote automobile britannique n\u00E9 le 20 avril 1930 \u00E0 Luton dans le Bedfordshire en Angleterre et d\u00E9c\u00E9d\u00E9 le 25 octobre 1958 \u00E0 East Grinstead dans le Sussex en Angleterre, des suites d'un grave accident survenu quelques jours plus t\u00F4t au Grand Prix du Maroc de Formule 1. Il a disput\u00E9 14 GP de Formule 1 entre 1957 et 1958, a inscrit un total de 16 points, d\u00E9croch\u00E9 2 pole positions et 2 podiums."@fr ,
+		"Fu la quarta vittima di quell'anno, dopo Pat O'Connor, Luigi Musso e Peter Collins. Pilota veloce, si ritiene non sia mai riuscito ad esprimere completamente le sue capacit\u00E0. Emerse come pilota di Formula 3 e durante gli anni cinquanta venne assunto dalla Ferrari per correre nel campionato di vetture sport. Nel 1957 venne assunto dalla Vanwall come terzo pilota dopo un quarto posto ottenuto a Monaco. Nel prosieguo della stagione giunse quinto a Pescara e ottenne la pole position a Monza."@it ,
+		"\u0421\u0442\u044E\u0301\u0430\u0440\u0442 \u041B\u044C\u044E\u0301\u0438\u0441-\u042D\u0301\u0432\u0430\u043D\u0441 (\u0430\u043D\u0433\u043B. Stuart Lewis Evans, 20 \u0430\u043F\u0440\u0435\u043B\u044F 1930, \u041B\u0443\u0442\u043E\u043D \u2014 25 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1958, \u0418\u0441\u0442-\u0413\u0440\u0438\u043D\u0441\u0442\u0435\u0434, \u0421\u0443\u0441\u0441\u0435\u043A\u0441) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430."@ru ,
+		"Stuart Nigel Lewis-Evans (20 April 1930, Luton, Bedfordshire \u2013 25 October 1958, East Grinstead, Sussex) was a British racing driver from England. He participated in 14 Formula One World Championship Grands Prix, debuting on 19 May 1957. He achieved two podiums, and scored a total of 16 championship points. He also achieved two pole positions."@en ,
+		"\u0633\u062A\u064A\u0648\u0627\u0631\u062A \u0644\u0648\u064A\u0633 \u0625\u064A\u0641\u0627\u0646\u0632 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Stuart Lewis-Evans) \u0645\u0648\u0627\u0644\u064A\u062F 20 \u0623\u0628\u0631\u064A\u0644 1930\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1957. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1957. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 14 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Stuart Lewis-Evans (ur. 20 kwietnia 1930 roku w Luton, zm. 25 pa\u017Adziernika 1958 roku w East Grinstead) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Stuart Lewis-Evans (* 20. April 1930 in Luton, England; \u2020 25. Oktober 1958 in East Grinstead, Sussex) war ein britischer Automobilrennfahrer."@de ,
+		"Stuatt Lewis-Evans (20 de abril de 1930-\u202025 de octubre de 1958) fue un piloto brit\u00E1nico de F\u00F3rmula 1, que particip\u00F3 en 14 Grandes Premios consiguiendo dos podios y dos Pole Positions."@es ,
+		"Stuart Nigel Lewis-Evans (Luton, 20 de abril de 1930 \u2014 East Grinstead, 25 de outubro de 1958) foi um piloto ingl\u00EAs de F\u00F3rmula 1. Disputou catorze corridas, estreando em 1957, marcando dezesseis pontos no total e conquistando duas pole-positions,al\u00E9m de dois p\u00F3dios. Evans faleceu tragicamente em 1958, durante o Grande Pr\u00EAmio de Marrocos. O motor de sua Vanwall explodiu ap\u00F3s o carro se chocar no muro. O ingl\u00EAs sofreu graves queimaduras e, n\u00E3o resistindo, acabou morrendo aos 28 anos."@pt ,
+		"Stuart Nigel Lewis-Evans (Luton, Bedfordshire, 20 april 1930 \u2013 East Grinstead, Sussex, 25 oktober 1958) was een Britse Formule 1-coureur. Lewis-Evans nam in 1957 en 1958 deel aan zestien Grands Prix voor de teams van Connaught Engineering en Vanwall, waarin hij twee polepositions, twee podiumfinishes en zestien punten scoorde. Hij crashte hevig tijdens de seizoensfinale van 1958, de Grand Prix van Marokko. Hij werd naar een ziekenhuis in Engeland gevlogen, waar hij zes dagen later overleed."@nl ;
+	dbp:points	16 ;
+	owl:sameAs	wikidata:Q171961 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Stuart_Lewis-Evans	owl:sameAs	dbpedia-es:Stuart_Lewis-Evans ,
+		<http://ja.dbpedia.org/resource/\u30B9\u30C1\u30E5\u30A2\u30FC\u30C8\u30FB\u30EB\u30A4\u30B9\uFF1D\u30A8\u30F4\u30A1\u30F3\u30BA> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Stuart_Lewis-Evans	owl:sameAs	dbpedia-pl:Stuart_Lewis-Evans .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Stuart_Lewis-Evans	owl:sameAs	dbpedia-it:Stuart_Lewis-Evans ,
+		dbr:Stuart_Lewis-Evans .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Stuart_Lewis-Evans	owl:sameAs	dbpedia-wikidata:Q171961 ,
+		<http://rdf.freebase.com/ns/m.04kyn8> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Stuart_Lewis-Evans	owl:sameAs	yago-res:Stuart_Lewis-Evans .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Stuart_Lewis-Evans	owl:sameAs	dbpedia-nl:Stuart_Lewis-Evans .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Stuart_Lewis-Evans	owl:sameAs	dbpedia-pt:Stuart_Lewis-Evans .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Stuart_Lewis-Evans	owl:sameAs	dbpedia-de:Stuart_Lewis-Evans .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Stuart_Lewis-Evans	owl:sameAs	dbpedia-fr:Stuart_Lewis-Evans .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Stuart_Lewis-Evans	dct:subject	dbc:Vanwall_Formula_One_drivers ,
+		dbc:Sport_deaths_in_England ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1958_deaths> ,
+		dbc:Brighton_Speed_Trials_people ,
+		<http://dbpedia.org/resource/Category:1930_births> ,
+		dbc:Sportspeople_from_Luton ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Connaught_Formula_One_drivers ;
+	foaf:name	"Stuart Lewis-Evans"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Stuart"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Stuart_Lewis-Evans ;
+	foaf:surname	"Lewis-Evans"@en ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Stuart_Lewis-Evans	dbp:years	"1958-09-19"^^xsd:date ,
+		"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Stuart_Lewis-Evans	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Stuart_Lewis-Evans?oldid=726264090> ;
+	dbp:before	<http://dbpedia.org/resource/Peter_Collins_(racing_driver)> ;
+	dbp:after	dbr:Jerry_Unser ;
+	dbp:birthDate	"1930-04-20"^^xsd:date ;
+	dbp:deathDate	"1958-10-25"^^xsd:date .
+@prefix ns25:	<http://f1-facts.com/gallery/p/> .
+dbr:Stuart_Lewis-Evans	dbo:wikiPageExternalLink	ns25:Lewis-Evans ,
+		<http://www.forix.com/8w/connaught.html> ,
+		<http://www.gpracing.net192.com/drivers/careers/349.cfm> ,
+		<http://www.500race.org/Men/men.htm> ;
+	dbo:abstract	"Stuart Lewis-Evans (* 20. April 1930 in Luton, England; \u2020 25. Oktober 1958 in East Grinstead, Sussex) war ein britischer Automobilrennfahrer."@de ,
+		"Stuart Nigel Lewis-Evans (Luton, Bedfordshire, 20 april 1930 \u2013 East Grinstead, Sussex, 25 oktober 1958) was een Britse Formule 1-coureur. Lewis-Evans nam in 1957 en 1958 deel aan zestien Grands Prix voor de teams van Connaught Engineering en Vanwall, waarin hij twee polepositions, twee podiumfinishes en zestien punten scoorde. Hij crashte hevig tijdens de seizoensfinale van 1958, de Grand Prix van Marokko. Hij werd naar een ziekenhuis in Engeland gevlogen, waar hij zes dagen later overleed."@nl ,
+		"Stuart Nigel Lewis-Evans (20 April 1930, Luton, Bedfordshire \u2013 25 October 1958, East Grinstead, Sussex) was a British racing driver from England. He participated in 14 Formula One World Championship Grands Prix, debuting on 19 May 1957. He achieved two podiums, and scored a total of 16 championship points. He also achieved two pole positions."@en ,
+		"Stuatt Lewis-Evans (20 de abril de 1930-\u202025 de octubre de 1958) fue un piloto brit\u00E1nico de F\u00F3rmula 1, que particip\u00F3 en 14 Grandes Premios consiguiendo dos podios y dos Pole Positions."@es ,
+		"Stuart Lewis-Evans est un pilote automobile britannique n\u00E9 le 20 avril 1930 \u00E0 Luton dans le Bedfordshire en Angleterre et d\u00E9c\u00E9d\u00E9 le 25 octobre 1958 \u00E0 East Grinstead dans le Sussex en Angleterre, des suites d'un grave accident survenu quelques jours plus t\u00F4t au Grand Prix du Maroc de Formule 1. Il a disput\u00E9 14 GP de Formule 1 entre 1957 et 1958, a inscrit un total de 16 points, d\u00E9croch\u00E9 2 pole positions et 2 podiums."@fr ,
+		"\u0633\u062A\u064A\u0648\u0627\u0631\u062A \u0644\u0648\u064A\u0633 \u0625\u064A\u0641\u0627\u0646\u0632 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Stuart Lewis-Evans) \u0645\u0648\u0627\u0644\u064A\u062F 20 \u0623\u0628\u0631\u064A\u0644 1930\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1957. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1957. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 14 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Stuart Nigel Lewis-Evans (Luton, 20 de abril de 1930 \u2014 East Grinstead, 25 de outubro de 1958) foi um piloto ingl\u00EAs de F\u00F3rmula 1. Disputou catorze corridas, estreando em 1957, marcando dezesseis pontos no total e conquistando duas pole-positions,al\u00E9m de dois p\u00F3dios. Evans faleceu tragicamente em 1958, durante o Grande Pr\u00EAmio de Marrocos. O motor de sua Vanwall explodiu ap\u00F3s o carro se chocar no muro. O ingl\u00EAs sofreu graves queimaduras e, n\u00E3o resistindo, acabou morrendo aos 28 anos."@pt ,
+		"\u30B9\u30C1\u30E5\u30A2\u30FC\u30C8\u30FB\u30CA\u30A4\u30B8\u30A7\u30EB\u30FB\u30EB\u30A4\u30B9\uFF1D\u30A8\u30F4\u30A1\u30F3\u30BA (Stuart Nigel Lewis-Evans, 1930\u5E744\u670820\u65E5 - 1958\u5E7410\u670825\u65E5) \u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021957\u5E74\u306BF1\u30C7\u30D3\u30E5\u30FC\u3057\u300114\u6226\u306B\u51FA\u8D70\u3057\u305F\u3002\u8868\u5F70\u53F0\u306F2\u56DE\u300116\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3057\u3001\u30DD\u30FC\u30EB\u30DD\u30B8\u30B7\u30E7\u30F3\u30822\u56DE\u7372\u5F97\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"\u0421\u0442\u044E\u0301\u0430\u0440\u0442 \u041B\u044C\u044E\u0301\u0438\u0441-\u042D\u0301\u0432\u0430\u043D\u0441 (\u0430\u043D\u0433\u043B. Stuart Lewis Evans, 20 \u0430\u043F\u0440\u0435\u043B\u044F 1930, \u041B\u0443\u0442\u043E\u043D \u2014 25 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1958, \u0418\u0441\u0442-\u0413\u0440\u0438\u043D\u0441\u0442\u0435\u0434, \u0421\u0443\u0441\u0441\u0435\u043A\u0441) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 24 \u0447\u0430\u0441\u043E\u0432 \u041B\u0435-\u041C\u0430\u043D\u0430."@ru ,
+		"Fu la quarta vittima di quell'anno, dopo Pat O'Connor, Luigi Musso e Peter Collins. Pilota veloce, si ritiene non sia mai riuscito ad esprimere completamente le sue capacit\u00E0. Emerse come pilota di Formula 3 e durante gli anni cinquanta venne assunto dalla Ferrari per correre nel campionato di vetture sport. Nel 1957 venne assunto dalla Vanwall come terzo pilota dopo un quarto posto ottenuto a Monaco. Nel prosieguo della stagione giunse quinto a Pescara e ottenne la pole position a Monza. Nel 1958 ottenne due terzi posti, ma al Gran Premio del Marocco fu protagonista di un grave incidente al seguito del quale riport\u00F2 ustioni in gran parte del corpo. Subito trasportato in ospedale, mor\u00EC sei giorni dopo per le conseguenze dell'incidente."@it ,
+		"Stuart Lewis-Evans (ur. 20 kwietnia 1930 roku w Luton, zm. 25 pa\u017Adziernika 1958 roku w East Grinstead) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ;
+	dbo:birthDate	"1930-4-20"^^xsd:date ;
+	dbo:deathDate	"1958-10-25"^^xsd:date ;
+	dbo:deathPlace	dbr:East_Grinstead ;
+	dbo:wikiPageRevisionID	726264090 ;
+	dbo:birthPlace	dbr:Luton ;
+	dbo:wikiPageID	1235877 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Stuart_Lewis-Evans	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1957_Monaco_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1958_Moroccan_Grand_Prix> ;
+	dbo:podiums	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"2"^^xsd:nonNegativeInteger ;
+	dbo:races	"14"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering ,
+		dbr:Vanwall ;
+	dbp:nationality	"British"^^xsd:string .
+<http://dbpedia.org/resource/1958_Dutch_Grand_Prix>	dbo:poleDriver	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/1958_Portuguese_Grand_Prix>	dbo:thirdDriver	dbr:Stuart_Lewis-Evans .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__37th__1>	dbo:firstDriver	dbr:Stuart_Lewis-Evans .

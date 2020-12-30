@@ -1,0 +1,111 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Gimax	rdf:type	yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Gimax	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Gimax	rdf:type	owl:Thing .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Gimax	rdf:type	dbo:Athlete ,
+		dbo:FormulaOneRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Gimax	rdf:type	wikidata:Q378622 ,
+		yago:Operator110378412 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Agent .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Gimax	rdf:type	ns7:Agent .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Gimax	rdf:type	foaf:Person ,
+		yago:Driver110034906 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Gimax	rdf:type	umbel-rc:RaceCarDriver ,
+		ns7:NaturalPerson ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportRacer ,
+		dbo:Person ,
+		dbo:RacingDriver ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Gimax	rdfs:label	"Carlo Franchi"@de ,
+		"Carlo Franchi"@nl ,
+		"Gimax"@pl ,
+		"Gimax"@it ,
+		"Gimax"@en ,
+		"\u0414\u0436\u0438\u043C\u0430\u043A\u0441"@ru ,
+		"Carlo Franchi"@pt ;
+	rdfs:comment	"\"Gimax\" was the racing pseudonym of Carlo Franchi (born January 1, 1938), a racing driver from Milan, Italy. He never raced under his real name, and his son has also raced using the name \"Gimax\". He entered one World Championship Formula One Grand Prix with Surtees (Italy 1978) but failed to qualify. He also participated in one non-Championship Formula One race."@en ,
+		"Carlo Franchi (Mil\u00E3o, 1 de janeiro de 1938), mais conhecido por Gimax, \u00E9 um ex-automobilista da It\u00E1lia. Participou da temporada de 1978 da F\u00F3rmula 1, pela equipe Surtees, quando j\u00E1 tinha 40 anos de idade. Inscreveu-se apenas para o GP da It\u00E1lia, mas n\u00E3o conseguiu a classifica\u00E7\u00E3o para a corrida."@pt ,
+		"Gimax, w\u0142a\u015Bc. Carlo Franchi (ps. Gimax, ur. 1 stycznia 1938 w Mediolanie) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W 1965 roku zdoby\u0142 tytu\u0142 mistrza W\u0142oskiej Formu\u0142y 2. Wystartowa\u0142 w jednym Grand Prix Formu\u0142y 1 w zespole Surtees, by\u0142o to Grand Prix W\u0142och w sezonie 1978. Nie zakwalifikowa\u0142 si\u0119 do wy\u015Bcigu. Po zako\u0144czeniu kariery sportowca by\u0142 biznesmenem. W 2002 mia\u0142 zawa\u0142 serca, ale wyszed\u0142 z niego bez szwanku. Nigdy nie \u015Bciga\u0142 si\u0119 pod swoim prawdziwym nazwiskiem, podobnie jak jego syn, kt\u00F3ry r\u00F3wnie\u017C u\u017Cywa\u0142 pseudonimu Gimax."@pl ,
+		"\u0414\u0436\u0438\u043C\u0430\u043A\u0441 (\u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0438\u043C\u044F \u2014 \u041A\u0430\u0440\u043B\u043E \u0424\u0440\u0430\u043D\u043A\u0438, \u0438\u0442\u0430\u043B. Carlo Franchi, 1 \u044F\u043D\u0432\u0430\u0440\u044F 1938 \u0433\u043E\u0434\u0430, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Carlo Franchi (Milaan, 1 januari 1938), is een voormalig Formule 1-coureur. Hij reed 1 Grand Prix; de Grand Prix van Itali\u00EB van 1978 voor het team Surtees."@nl ,
+		"Carlo Franchi (* 1. Januar 1938 in Mailand) ist ein ehemaliger italienischer Autorennfahrer, der seine Rennen unter dem Pseudonym Gimax bestritt."@de ,
+		"Ha partecipato ad un'unica gara valida per il campionato mondiale di Formula 1, il Gran Premio d'Italia a Monza nella stagione 1978 al volante di una Surtees, fallendone la qualificazione. Ha inoltre corso, l'anno successivo, al Gran Premio Dino Ferrari ad Imola, non valido per il mondiale. Non si \u00E8 mai iscritto utilizzando il suo vero nome e anche suo figlio ha usato lo stesso pseudonimo del padre."@it .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Gimax	dbp:points	0 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Gimax	owl:sameAs	dbpedia-nl:Carlo_Franchi ,
+		<http://rdf.freebase.com/ns/m.04w49p> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Gimax	owl:sameAs	dbpedia-wikidata:Q867073 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Gimax	owl:sameAs	dbpedia-de:Carlo_Franchi .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Gimax	owl:sameAs	yago-res:Gimax ,
+		wikidata:Q867073 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Gimax	owl:sameAs	dbpedia-it:Gimax .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Gimax	owl:sameAs	dbpedia-pt:Carlo_Franchi ,
+		dbr:Gimax .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Gimax	owl:sameAs	dbpedia-pl:Gimax .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Gimax	dct:subject	dbc:Surtees_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1938_births> ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Gimax"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Carlo"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Gimax	foaf:isPrimaryTopicOf	wikipedia-en:Gimax .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Gimax	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gimax?oldid=704479701> ;
+	dbp:birthPlace	"Milan, Italy"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Gimax	dbp:birthDate	"1938-01-01"^^xsd:date ;
+	dbo:abstract	"Gimax, w\u0142a\u015Bc. Carlo Franchi (ps. Gimax, ur. 1 stycznia 1938 w Mediolanie) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W 1965 roku zdoby\u0142 tytu\u0142 mistrza W\u0142oskiej Formu\u0142y 2. Wystartowa\u0142 w jednym Grand Prix Formu\u0142y 1 w zespole Surtees, by\u0142o to Grand Prix W\u0142och w sezonie 1978. Nie zakwalifikowa\u0142 si\u0119 do wy\u015Bcigu. Po zako\u0144czeniu kariery sportowca by\u0142 biznesmenem. W 2002 mia\u0142 zawa\u0142 serca, ale wyszed\u0142 z niego bez szwanku. Nigdy nie \u015Bciga\u0142 si\u0119 pod swoim prawdziwym nazwiskiem, podobnie jak jego syn, kt\u00F3ry r\u00F3wnie\u017C u\u017Cywa\u0142 pseudonimu Gimax."@pl ,
+		"\u0414\u0436\u0438\u043C\u0430\u043A\u0441 (\u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0438\u043C\u044F \u2014 \u041A\u0430\u0440\u043B\u043E \u0424\u0440\u0430\u043D\u043A\u0438, \u0438\u0442\u0430\u043B. Carlo Franchi, 1 \u044F\u043D\u0432\u0430\u0440\u044F 1938 \u0433\u043E\u0434\u0430, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Carlo Franchi (Mil\u00E3o, 1 de janeiro de 1938), mais conhecido por Gimax, \u00E9 um ex-automobilista da It\u00E1lia. Participou da temporada de 1978 da F\u00F3rmula 1, pela equipe Surtees, quando j\u00E1 tinha 40 anos de idade. Inscreveu-se apenas para o GP da It\u00E1lia, mas n\u00E3o conseguiu a classifica\u00E7\u00E3o para a corrida."@pt ,
+		"Ha partecipato ad un'unica gara valida per il campionato mondiale di Formula 1, il Gran Premio d'Italia a Monza nella stagione 1978 al volante di una Surtees, fallendone la qualificazione. Ha inoltre corso, l'anno successivo, al Gran Premio Dino Ferrari ad Imola, non valido per il mondiale. Non si \u00E8 mai iscritto utilizzando il suo vero nome e anche suo figlio ha usato lo stesso pseudonimo del padre."@it ,
+		"Carlo Franchi (* 1. Januar 1938 in Mailand) ist ein ehemaliger italienischer Autorennfahrer, der seine Rennen unter dem Pseudonym Gimax bestritt."@de ,
+		"Carlo Franchi (Milaan, 1 januari 1938), is een voormalig Formule 1-coureur. Hij reed 1 Grand Prix; de Grand Prix van Itali\u00EB van 1978 voor het team Surtees."@nl ,
+		"\"Gimax\" was the racing pseudonym of Carlo Franchi (born January 1, 1938), a racing driver from Milan, Italy. He never raced under his real name, and his son has also raced using the name \"Gimax\". He entered one World Championship Formula One Grand Prix with Surtees (Italy 1978) but failed to qualify. He also participated in one non-Championship Formula One race."@en ;
+	dbo:birthDate	"1938-1-1"^^xsd:date ;
+	dbo:wikiPageRevisionID	704479701 ;
+	dbo:birthPlace	dbr:Lainate ;
+	dbo:wikiPageID	1353856 ;
+	dbp:pixels	150 ;
+	dbp:imageSize	150 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Gimax	ns24:hypernym	dbr:Pseudonym ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1978_Italian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1978_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Surtees ;
+	dbp:nationality	"Italian"^^xsd:string .
+wikipedia-en:Gimax	foaf:primaryTopic	dbr:Gimax .

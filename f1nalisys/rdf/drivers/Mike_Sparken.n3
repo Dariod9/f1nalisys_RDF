@@ -1,0 +1,121 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__58__1>	dbo:team	dbr:Mike_Sparken ;
+	dbo:firstDriver	dbr:Mike_Sparken .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Mike_Sparken	foaf:primaryTopic	dbr:Mike_Sparken .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mike_Sparken	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mike_Sparken	rdf:type	ns6:NaturalPerson ,
+		dbo:Athlete ,
+		ns6:Agent ,
+		dbo:FormulaOneRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mike_Sparken	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		yago:Driver110034906 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mike_Sparken	rdf:type	umbel-rc:RaceCarDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mike_Sparken	rdf:type	wikidata:Q378622 ,
+		wikidata:Q5 ,
+		foaf:Person ,
+		yago:Operator110378412 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent ,
+		yago:WikicatGordiniFormulaOneDrivers ,
+		dbo:RacingDriver ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		dbo:MotorsportRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Mike_Sparken	rdf:type	schema:Person ,
+		yago:WikicatFrenchFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mike_Sparken	rdfs:label	"Mike Sparken"@nl ,
+		"Michel Poberejsky"@de ,
+		"Mike Sparken"@it ,
+		"Mike Sparken"@pt ,
+		"Mike Sparken"@en ,
+		"Michael Poberejsky"@pl ,
+		"Mike Sparken"@fr ;
+	rdfs:comment	"Michel Poberejsky, connu en sport automobile sous le pseudonyme de Mike Sparken, est un pilote automobile fran\u00E7ais n\u00E9 le 16 juin 1930 \u00E0 Neuilly-sur-Seine (Hauts-de-Seine), et mort le 21 septembre 2012 \u00E0 Beaulieu-sur-Mer. Il a disput\u00E9 une course de Formule 1, le Grand Prix automobile de Grande-Bretagne 1955."@fr ,
+		"Michael Poberejsky, w\u0142a\u015Bciwie Mike Sparken (ur. 16 czerwca 1930 roku w Neuilly-sur-Seine, Hauts-de-Seine w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Mike Sparken was a pseudonym for Michel Poberejsky (born 16 June 1930 in Neuilly-sur-Seine, Hauts-de-Seine; died 21 September 2012), a former racing driver from France. He participated in one Formula One World Championship Grand Prix, at the 1955 British Grand Prix on 16 July. He finished seventh albeit nine laps down and scored no championship points. Sparken was better known as a sportscar driver and much of his success came in events in North Africa."@en ,
+		"Sparken muore nel 2012 ed \u00E8 stato sepolto presso il Cimitero di Montparnasse, a Parigi."@it ,
+		"Michel Poberejsky (* 16. Juni 1930 in Neuilly-sur-Seine; \u2020 21. September 2012 in Beaulieu-sur-Mer) war ein franz\u00F6sischer Autorennfahrer."@de ,
+		"Michael Poberejsky (Neuilly-sur-Seine, Paris, Fran\u00E7a, 16 de junho de 1930) foi um automobilista franc\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1955. Ele terminou a prova em s\u00E9timo lugar."@pt ,
+		"Mike Sparken, een pseudoniem van Michel Poberejsky, (Neuilly-sur-Seine, 16 juni 1930 \u2013 Beaulieu-sur-Mer 21 september 2012) was een autocoureur uit Frankrijk. Hij nam deel aan de Grand Prix van Groot-Brittanni\u00EB in 1955 voor het team Gordini, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Mike_Sparken	dbp:points	0 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mike_Sparken	owl:sameAs	dbpedia-fr:Mike_Sparken .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mike_Sparken	owl:sameAs	dbpedia-pt:Mike_Sparken .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mike_Sparken	owl:sameAs	dbpedia-wikidata:Q172570 ,
+		dbr:Mike_Sparken .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mike_Sparken	owl:sameAs	dbpedia-pl:Michael_Poberejsky ,
+		wikidata:Q172570 ,
+		<http://rdf.freebase.com/ns/m.04kvr2> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mike_Sparken	owl:sameAs	dbpedia-de:Michel_Poberejsky .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mike_Sparken	owl:sameAs	dbpedia-nl:Mike_Sparken .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mike_Sparken	owl:sameAs	dbpedia-it:Mike_Sparken .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mike_Sparken	owl:sameAs	yago-res:Mike_Sparken .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mike_Sparken	dct:subject	dbc:Sportspeople_from_Neuilly-sur-Seine ,
+		dbc:Gordini_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:French_Formula_One_drivers ,
+		dbc:French_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1930_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:2012_deaths> ;
+	foaf:name	"Mike Sparken"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Michel"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Mike_Sparken .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mike_Sparken	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mike_Sparken?oldid=719065580> ;
+	dbp:birthPlace	dbr:Neuilly-sur-Seine ,
+		dbr:France .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mike_Sparken	dbp:birthDate	"1930-06-16"^^xsd:date ;
+	dbp:deathDate	"2012-09-21"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-spamik.html> ;
+	dbo:abstract	"Michel Poberejsky (* 16. Juni 1930 in Neuilly-sur-Seine; \u2020 21. September 2012 in Beaulieu-sur-Mer) war ein franz\u00F6sischer Autorennfahrer."@de ,
+		"Michael Poberejsky (Neuilly-sur-Seine, Paris, Fran\u00E7a, 16 de junho de 1930) foi um automobilista franc\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1955. Ele terminou a prova em s\u00E9timo lugar."@pt ,
+		"Mike Sparken was a pseudonym for Michel Poberejsky (born 16 June 1930 in Neuilly-sur-Seine, Hauts-de-Seine; died 21 September 2012), a former racing driver from France. He participated in one Formula One World Championship Grand Prix, at the 1955 British Grand Prix on 16 July. He finished seventh albeit nine laps down and scored no championship points. Sparken was better known as a sportscar driver and much of his success came in events in North Africa."@en ,
+		"Michel Poberejsky, connu en sport automobile sous le pseudonyme de Mike Sparken, est un pilote automobile fran\u00E7ais n\u00E9 le 16 juin 1930 \u00E0 Neuilly-sur-Seine (Hauts-de-Seine), et mort le 21 septembre 2012 \u00E0 Beaulieu-sur-Mer. Il a disput\u00E9 une course de Formule 1, le Grand Prix automobile de Grande-Bretagne 1955."@fr ,
+		"Michael Poberejsky, w\u0142a\u015Bciwie Mike Sparken (ur. 16 czerwca 1930 roku w Neuilly-sur-Seine, Hauts-de-Seine w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Sparken muore nel 2012 ed \u00E8 stato sepolto presso il Cimitero di Montparnasse, a Parigi."@it ,
+		"Mike Sparken, een pseudoniem van Michel Poberejsky, (Neuilly-sur-Seine, 16 juni 1930 \u2013 Beaulieu-sur-Mer 21 september 2012) was een autocoureur uit Frankrijk. Hij nam deel aan de Grand Prix van Groot-Brittanni\u00EB in 1955 voor het team Gordini, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1."@nl ;
+	dbo:birthDate	"1930-6-16"^^xsd:date ;
+	dbo:deathDate	"2012-9-21"^^xsd:date ;
+	dbo:deathPlace	dbr:Beaulieu-sur-Mer ;
+	dbo:wikiPageRevisionID	719065580 ;
+	dbo:birthPlace	dbr:Neuilly-sur-Seine ;
+	dbo:wikiPageID	1235109 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Mike_Sparken	ns25:hypernym	dbr:Pseudonym ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1955_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1955_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Gordini ;
+	dbp:nationality	"French"^^xsd:string .

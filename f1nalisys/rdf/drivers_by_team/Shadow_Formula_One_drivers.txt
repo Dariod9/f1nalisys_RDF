@@ -1,0 +1,45 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Stefan_Johansson	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Arturo_Merzario	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Clay_Regazzoni	dct:subject	dbc:Shadow_Formula_One_drivers .
+<http://dbpedia.org/resource/David_Kennedy_(racing_driver)>	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Tom_Pryce	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Riccardo_Patrese	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Peter_Revson	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Renzo_Zorzi	dct:subject	dbc:Shadow_Formula_One_drivers .
+<http://dbpedia.org/resource/Alan_Jones_(racing_driver)>	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Jan_Lammers	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Elio_de_Angelis	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Bertil_Roos	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Brian_Redman	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Geoff_Lees	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:George_Follmer	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Jackie_Oliver	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Hans-Joachim_Stuck	dct:subject	dbc:Shadow_Formula_One_drivers .
+dbr:Jean-Pierre_Jarier	dct:subject	dbc:Shadow_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:Shadow_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:Shadow_Formula_One_drivers	rdfs:label	"Shadow Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns7:	<http://it.dbpedia.org/resource/Categoria:> .
+dbc:Shadow_Formula_One_drivers	owl:sameAs	ns7:Piloti_della_Shadow_Racing_Cars .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:Shadow_Formula_One_drivers	owl:sameAs	wikidata:Q7943884 ,
+		<http://pt.dbpedia.org/resource/Categoria:Pilotos_da_equipe_Shadow_de_F\u00F3rmula_1> ,
+		<http://ja.dbpedia.org/resource/Category:\u30B7\u30E3\u30C9\u30A6\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC> ,
+		dbc:Shadow_Formula_One_drivers .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:Shadow_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q7943884 .
+@prefix ns10:	<http://es.dbpedia.org/resource/Categor\u00EDa:> .
+dbc:Shadow_Formula_One_drivers	owl:sameAs	ns10:Pilotos_de_Shadow ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"Shadow Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:Shadow_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:Shadow_Formula_One_drivers?oldid=546362246> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:Shadow_Formula_One_drivers	dbo:wikiPageRevisionID	546362246 ;
+	dbo:wikiPageID	36181682 .

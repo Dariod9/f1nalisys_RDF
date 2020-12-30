@@ -1,0 +1,125 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1952_24_Hours_of_Le_Mans__2__1>	dbo:firstDriver	dbr:Theo_Helfrich .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Theo_Helfrich	rdf:type	foaf:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Theo_Helfrich	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Theo_Helfrich	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatKlenkFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Theo_Helfrich	rdf:type	owl:Thing ,
+		yago:WikicatGermanFormulaOneDrivers ,
+		dbo:Athlete .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Theo_Helfrich	rdf:type	ns7:NaturalPerson ,
+		yago:WikicatRacingDriversFromHesse ,
+		ns7:Agent ,
+		wikidata:Q378622 ,
+		dbo:MotorsportRacer ,
+		wikidata:Q5 .
+@prefix schema:	<http://schema.org/> .
+dbr:Theo_Helfrich	rdf:type	schema:Person ,
+		dbo:Agent ,
+		dbo:FormulaOneRacer ,
+		yago:Operator110378412 ,
+		yago:CausalAgent100007347 ,
+		dbo:RacingDriver ,
+		dbo:Person ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Theo_Helfrich	rdfs:label	"Theo Helfrich"@de ,
+		"Theo Helfrich"@pl ,
+		"Theo Helfrich"@nl ,
+		"Theo Helfrich"@pt ,
+		"Theo Helfrich"@it ,
+		"\u062B\u064A\u0648 \u0647\u0644\u0641\u0631\u064A\u0634\u062A"@ar ,
+		"Theo Helfrich"@en ,
+		"Theo Helfrich"@fr ;
+	rdfs:comment	"Theodor Helfrich (Frankfurt, Alemanha, 13 de maio de 1913 \u2014 Ludwigshafen, Alemanha, 29 de abril de 1978) foi um automobilista alem\u00E3o que participou dos Grandes Pr\u00EAmios da Alemanha de F\u00F3rmula 1 em 1952, 1953 e 1954."@pt ,
+		"Ha partecipato a 3 edizioni del Gran Premio di Germania dal 1952 al 1954."@it ,
+		"Theodor \"Theo\" Helfrich (13 May 1913 in Frankfurt am Main \u2013 29 April 1978 in Ludwigshafen am Rhein) was a racing driver from Germany. He participated in three World Championship Grands Prix, debuting on 3 August 1952, but scored no championship points. He was German Formula Two Champion in 1953, took a number of wins in the German Formula Three Championship in a Cooper-Norton, and finished in second place in the 1952 24 Hours of Le Mans race."@en ,
+		"Theodor \u201ETheo\u201C Helfrich (* 13. Mai 1913 in Frankfurt am Main; \u2020 29. April 1978 in Ludwigshafen am Rhein) war ein deutscher Grand-Prix- und Sportwagenfahrer."@de ,
+		"\u062B\u064A\u0648 \u0647\u0644\u0641\u0631\u064A\u0634\u062A (\u0645\u0648\u0627\u0644\u064A\u062F 1913 - \u0648\u0641\u064A\u0627\u062A 1978) \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1952."@ar ,
+		"Theo Helfrich (13 mei 1913 - 29 april 1978) was een Formule 1-coureur uit Duitsland. Hij nam tussen 1952 en 1954 deel aan 3 Grands Prix voor de teams Veritas en Klenk waarin hij geen punten scoorde."@nl ,
+		"Theo HelfrichFichier:Fotothek df roe-neg 0006640 013 Portrait eines Automobilrennfahrers in seinem Wa.jpg Theo Helfrich lors d'une course de Formule 3 \u00E0 Leipzig. Theodor \"Theo\" Helfrich est un pilote automobile allemand, n\u00E9 le 13 mai 1913 \u00E0 Francfort-sur-le-Main, Allemagne, et mort le 29 avril 1978 \u00E0 Ludwigshafen, Allemagne. Il a particip\u00E9 \u00E0 trois courses du championnat du monde de Formule 1. Helfrich termine \u00E9galement deuxi\u00E8me des 24 Heures du Mans 1952 avec Helmut Niedermayr."@fr ,
+		"Theo Helfrich, w\u0142a\u015Bc. Theodor Helfrich (ur. 13 maja 1913 we Frankfurcie, zm. 29 kwietnia 1978 w Ludwigshafen am Rhein) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Theo_Helfrich	dbp:birthDate	"1913-05-13"^^xsd:date .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Theo_Helfrich	owl:sameAs	dbpedia-nl:Theo_Helfrich ,
+		wikidata:Q61295 ,
+		dbr:Theo_Helfrich .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Theo_Helfrich	owl:sameAs	dbpedia-it:Theo_Helfrich .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Theo_Helfrich	owl:sameAs	dbpedia-fr:Theo_Helfrich ,
+		<http://rdf.freebase.com/ns/m.04kxn2> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Theo_Helfrich	owl:sameAs	dbpedia-de:Theo_Helfrich .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Theo_Helfrich	owl:sameAs	dbpedia-pl:Theo_Helfrich .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Theo_Helfrich	owl:sameAs	dbpedia-wikidata:Q61295 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Theo_Helfrich	owl:sameAs	dbpedia-pt:Theo_Helfrich .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Theo_Helfrich	owl:sameAs	yago-res:Theo_Helfrich .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Theo_Helfrich	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Theo_Helfrich	dct:subject	dbc:Klenk_Formula_One_drivers ,
+		dbc:Racing_drivers_from_Hesse ,
+		dbc:Sportspeople_from_Frankfurt ,
+		<http://dbpedia.org/resource/Category:1978_deaths> ,
+		<http://dbpedia.org/resource/Category:1913_births> ,
+		dbc:German_racing_drivers ,
+		dbc:German_Formula_One_drivers ;
+	foaf:name	"Theo Helfrich"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Fotothek_df_roe-neg_0006640_013_Portrait_eines_Automobilrennfahrers_in_seinem_Wa.jpg> ;
+	dct:description	"German racing driver"@en ;
+	foaf:givenName	"Theodor"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Theo_Helfrich	foaf:isPrimaryTopicOf	wikipedia-en:Theo_Helfrich ;
+	dbp:points	0 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Klenk ,
+		<http://dbpedia.org/resource/Veritas_(constructor)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Theo_Helfrich	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Theo_Helfrich?oldid=682862103> ;
+	dbo:wikiPageExternalLink	<http://www.500race.org/Men/Helfrich.htm> ;
+	dbp:caption	"--05-16"^^xsd:gMonthDay ;
+	dbp:nationality	"West German"^^xsd:string ;
+	dbp:deathDate	"1978-04-29"^^xsd:date ;
+	dbo:abstract	"Theodor Helfrich (Frankfurt, Alemanha, 13 de maio de 1913 \u2014 Ludwigshafen, Alemanha, 29 de abril de 1978) foi um automobilista alem\u00E3o que participou dos Grandes Pr\u00EAmios da Alemanha de F\u00F3rmula 1 em 1952, 1953 e 1954."@pt ,
+		"Theodor \"Theo\" Helfrich (13 May 1913 in Frankfurt am Main \u2013 29 April 1978 in Ludwigshafen am Rhein) was a racing driver from Germany. He participated in three World Championship Grands Prix, debuting on 3 August 1952, but scored no championship points. He was German Formula Two Champion in 1953, took a number of wins in the German Formula Three Championship in a Cooper-Norton, and finished in second place in the 1952 24 Hours of Le Mans race."@en ,
+		"Theo Helfrich, w\u0142a\u015Bc. Theodor Helfrich (ur. 13 maja 1913 we Frankfurcie, zm. 29 kwietnia 1978 w Ludwigshafen am Rhein) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl ,
+		"Ha partecipato a 3 edizioni del Gran Premio di Germania dal 1952 al 1954."@it ,
+		"\u062B\u064A\u0648 \u0647\u0644\u0641\u0631\u064A\u0634\u062A (\u0645\u0648\u0627\u0644\u064A\u062F 1913 - \u0648\u0641\u064A\u0627\u062A 1978) \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u062C\u0627\u0626\u0632\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1952."@ar ,
+		"Theodor \u201ETheo\u201C Helfrich (* 13. Mai 1913 in Frankfurt am Main; \u2020 29. April 1978 in Ludwigshafen am Rhein) war ein deutscher Grand-Prix- und Sportwagenfahrer."@de ,
+		"Theo HelfrichFichier:Fotothek df roe-neg 0006640 013 Portrait eines Automobilrennfahrers in seinem Wa.jpg Theo Helfrich lors d'une course de Formule 3 \u00E0 Leipzig. Theodor \"Theo\" Helfrich est un pilote automobile allemand, n\u00E9 le 13 mai 1913 \u00E0 Francfort-sur-le-Main, Allemagne, et mort le 29 avril 1978 \u00E0 Ludwigshafen, Allemagne. Il a particip\u00E9 \u00E0 trois courses du championnat du monde de Formule 1. Helfrich termine \u00E9galement deuxi\u00E8me des 24 Heures du Mans 1952 avec Helmut Niedermayr."@fr ,
+		"Theo Helfrich (13 mei 1913 - 29 april 1978) was een Formule 1-coureur uit Duitsland. Hij nam tussen 1952 en 1954 deel aan 3 Grands Prix voor de teams Veritas en Klenk waarin hij geen punten scoorde."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Fotothek_df_roe-neg_0006640_013_Portrait_eines_Automobilrennfahrers_in_seinem_Wa.jpg?width=300> ;
+	dbo:birthDate	"1913-5-13"^^xsd:date ;
+	dbo:deathDate	"1978-4-29"^^xsd:date ;
+	dbo:deathPlace	dbr:Ludwigshafen ;
+	dbo:wikiPageRevisionID	682862103 ;
+	dbo:birthPlace	dbr:Frankfurt ;
+	dbo:wikiPageID	1235651 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_German_Grand_Prix> ;
+	dbo:races	"3"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1954_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Theo_Helfrich	ns24:hypernym	dbr:Driver .
+wikipedia-en:Theo_Helfrich	foaf:primaryTopic	dbr:Theo_Helfrich .
+dbr:Helfrich	dbo:wikiPageDisambiguates	dbr:Theo_Helfrich .

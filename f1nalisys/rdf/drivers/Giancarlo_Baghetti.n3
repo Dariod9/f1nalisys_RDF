@@ -1,0 +1,180 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1961_Naples_Grand_Prix>	dbo:fastestDriver	dbr:Giancarlo_Baghetti ;
+	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1962_Mediterranean_Grand_Prix>	dbo:secondDriver	dbr:Giancarlo_Baghetti .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1962_Mediterranean_Grand_Prix>	dbp:fastDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1961_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1961_Syracuse_Grand_Prix>	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+dbr:Ferrari_246_F1-66__1966__4	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__33__1>	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__19__1>	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__43__1>	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+dbr:Willi_Kauhsen	dbp:before	dbr:Giancarlo_Baghetti .
+dbr:Giancarlo	dbo:wikiPageDisambiguates	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__50__1>	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__30__1>	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__28__1>	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1961_Coppa_Italia>	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+<http://dbpedia.org/resource/1961_French_Grand_Prix>	dbo:firstDriver	dbr:Giancarlo_Baghetti .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Giancarlo_Baghetti	foaf:primaryTopic	dbr:Giancarlo_Baghetti .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Giancarlo_Baghetti	rdf:type	yago:PhysicalEntity100001930 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Giancarlo_Baghetti	rdf:type	umbel-rc:RaceCarDriver ,
+		foaf:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Giancarlo_Baghetti	rdf:type	wikidata:Q5 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Giancarlo_Baghetti	rdf:type	ns9:Agent ,
+		dbo:FormulaOneRacer ,
+		yago:Driver110034906 ,
+		wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		ns9:NaturalPerson ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		dbo:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Giancarlo_Baghetti	rdf:type	owl:Thing ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		dbo:Agent ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		dbo:Athlete ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		yago:WikicatAutomobiliTurismoESportFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Giancarlo_Baghetti	rdf:type	schema:Person ,
+		yago:WikicatATSWheelsFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Giancarlo_Baghetti	rdfs:label	"Giancarlo Baghetti"@nl ,
+		"Giancarlo Baghetti"@es ,
+		"Giancarlo Baghetti"@en ,
+		"Giancarlo Baghetti"@fr ,
+		"\u30B8\u30E3\u30F3\u30AB\u30EB\u30ED\u30FB\u30D0\u30B2\u30C3\u30C6\u30A3"@ja ,
+		"Giancarlo Baghetti"@de ,
+		"Giancarlo Baghetti"@it ,
+		"\u062C\u064A\u0627\u0646\u0643\u0627\u0631\u0644\u0648 \u0628\u0648\u063A\u0627\u062A\u064A"@ar ,
+		"\u0411\u0430\u0433\u0435\u0442\u0442\u0438, \u0414\u0436\u0430\u043D\u043A\u0430\u0440\u043B\u043E"@ru ,
+		"Giancarlo Baghetti"@pt ,
+		"Giancarlo Baghetti"@pl ;
+	rdfs:comment	"\u0414\u0436\u0430\u043D\u043A\u0430\u0301\u0440\u043B\u043E \u0411\u0430\u0433\u0435\u0301\u0442\u0442\u0438 (\u0438\u0442\u0430\u043B. Giancarlo Baghetti) (25 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1934, \u041C\u0438\u043B\u0430\u043D \u2014 27 \u043D\u043E\u044F\u0431\u0440\u044F 1995, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432 60-\u0445 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-3, \u0424\u043E\u0440\u043C\u0443\u043B\u0435-2 \u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1. \u0415\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0433\u043E\u043D\u0449\u0438\u043A \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438, \u0432\u044B\u0438\u0433\u0440\u0430\u0432\u0448\u0438\u0439 \u0441\u0432\u043E\u044E \u0434\u0435\u0431\u044E\u0442\u043D\u0443\u044E \u0433\u043E\u043D\u043A\u0443, \u0432 \u0434\u0430\u043B\u044C\u043D\u0435\u0439\u0448\u0435\u043C \u0440\u0430\u0437\u0432\u0438\u0442\u044C \u0443\u0441\u043F\u0435\u0445 \u043D\u0435 \u0441\u043C\u043E\u0433, \u043B\u0438\u0448\u044C \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0440\u0430\u0437 \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u043E\u0447\u043A\u0430\u0445 \u0438 \u0432\u0441\u043A\u043E\u0440\u0435 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B \u043A\u0430\u0440\u044C\u0435\u0440\u0443. \u041F\u043E\u0441\u043B\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0439 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u0443\u0440\u043E\u0432\u043D\u044F, \u0441\u0442\u0430\u043B \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C ETCC 1966 \u0433\u043E\u0434\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u043E\u0431\u044A\u0435\u043C\u043E\u043C \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044F \u0434\u043E \u043B\u0438\u0442\u0440\u0430. \u0422\u0430\u043A\u0436\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 24 \u0447\u0430\u0441\u0430\u0445 \u041B\u0435-\u041C\u0430\u043D\u0430, \u0434\u0432\u0430\u0436\u0434\u044B \u0437\u0430\u043D\u0438\u043C\u0430\u043B \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 Targa Florio. \u041F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0437\u0430\u043D\u0438\u043C\u0430\u043B\u0441\u044F \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u043E\u0439 \u0436\u0443\u0440\u043D\u0430\u043B\u0438\u0441\u0442\u0438\u043A\u043E\u0439, \u0440\u0430\u0431\u043E\u0442\u0430\u043B \u0444\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u043E\u043C."@ru ,
+		"Giancarlo Baghetti (* 25. Dezember 1934 in Mailand; \u2020 27. November 1995 ebenda) war ein italienischer Formel-1-Rennfahrer, der der einzige Fahrer seit der ersten Saison war, der sein Formel-1-Deb\u00FCt gewann, den Gro\u00DFen Preis von Frankreich 1961. Es blieb allerdings sein einziger Sieg."@de ,
+		"Giancarlo Baghetti (Mil\u00E3o, 25 de dezembro de 1934 - Mil\u00E3o, 27 de novembro de 1995) foi um piloto italiano de F\u00F3rmula 1. Conquistou uma vit\u00F3ria (ocorrida em sua estreia na categoria) e somou 14 pontos no campeonato, tendo participado da F-1 entre 1961 e 1967. Pilotou pelas equipes Ferrari, Lotus e Brabham."@pt ,
+		"Giancarlo Baghetti (25 December 1934 in Milan, Italy \u2013 27 November 1995 also in Milan) was a Formula One driver who raced for the Ferrari, ATS (the Italian team), BRM, Brabham and Lotus teams. He was the son of a wealthy Milan industrialist. Baghetti is one of only three drivers to have won his first World Championship race, the other two being Nino Farina, who won the first World Championship race (the 1950 British Grand Prix) and Johnnie Parsons, who won the 1950 Indianapolis 500 (the Indianapolis 500 was part of the World Championship from 1950 to 1960)."@en ,
+		"Giancarlo Baghetti (ur. 25 grudnia 1934 w Mediolanie, zm. 27 listopada 1995 tam\u017Ce) \u2013 w\u0142oski kierowca Formu\u0142y 1. \u015Aciga\u0142 si\u0119 w samochodach Ferrari, w\u0142oskiego ATS-u, BRM-u, Brabhama i Lotusa. Baghetti jest oficjalnie jednym z trzech kierowc\u00F3w, kt\u00F3rzy wygrali wy\u015Bcig F1 w swoim debiucie. Tak naprawd\u0119 W\u0142och jako jedyny w historii dokona\u0142 tego wyczynu, gdy\u017C Nino Farina by\u0142 zwyci\u0119zc\u0105 pierwszego wy\u015Bcigu w og\u00F3le, a Johnnie Parsons triumfowa\u0142 w pierwszym Indy 500 zaliczanym do klasyfikacji mistrzostw \u015Bwiata (nikt z Europy nie startowa\u0142 w Indy, a nikt z Ameryki nie bra\u0142 udzia\u0142u w europejskiej cz\u0119\u015Bci)."@pl ,
+		"Giancarlo Baghetti (n\u00E9 le 25 d\u00E9cembre 1934 \u00E0 Milan, Italie - mort le 27 novembre 1995 \u00E0 Milan d'un cancer) est un pilote automobile italien. \u00C0 l'issue du Grand Prix de France 1961 disput\u00E9 sur le circuit de Reims-Gueux, il devient, avec Giuseppe Farina (vainqueur du GP inaugural du championnat du monde \u00E0 Silverstone), le seul pilote \u00E0 s'\u00EAtre impos\u00E9 d\u00E8s sa premi\u00E8re participation \u00E0 un Grand Prix du championnat du monde."@fr ,
+		"\u062C\u064A\u0627\u0646\u0643\u0627\u0631\u0644\u0648 \u0628\u0648\u063A\u0627\u062A\u064A \u0645\u0648\u0627\u0644\u064A\u062F 25 \u062F\u064A\u0633\u0645\u0628\u0631 1934 \u0641\u064A \u0645\u064A\u0644\u0627\u0646\u0648\u060C \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1961. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1961\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1961. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 21 \u0633\u0628\u0627\u0642\u0627\u064B\u060C \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ,
+		"Giancarlo Baghetti era un piloto italiano de F\u00F3rmula Uno. Naci\u00F3 en 1934 en Mil\u00E1n, Italia, Muri\u00F3 en 1995."@es ,
+		"Giancarlo Baghetti (Milaan, 25 december 1934 - 27 november 1995) was een Italiaanse Formule 1-coureur tussen 1961 en 1967."@nl ,
+		"\u30B8\u30E3\u30F3\u30AB\u30EB\u30ED\u30FB\u30D0\u30B2\u30C3\u30C6\u30A3\uFF08Giancarlo Baghetti, 1934\u5E7412\u670825\u65E5 - 1995\u5E7411\u670827\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 F1\u306B\u304A\u3044\u3066\u3001\u5B9F\u8CEA\u552F\u4E00\u3068\u306A\u308B\u30C7\u30D3\u30E5\u30FC\u30FB\u30A6\u30A3\u30F3\u9054\u6210\u8005\u3060\u304C\u3001\u305D\u306E\u5F8C\u306F\u8868\u5F70\u53F0\u306B\u3059\u3089\u7ACB\u3064\u3053\u3068\u306A\u304F\u30AD\u30E3\u30EA\u30A2\u3092\u7D42\u3048\u305F\u3002"@ja .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Giancarlo_Baghetti	dbp:birthDate	"1934-12-25"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	dbpedia-pl:Giancarlo_Baghetti ,
+		<http://rdf.freebase.com/ns/m.04k8pl> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	yago-res:Giancarlo_Baghetti .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	dbpedia-it:Giancarlo_Baghetti .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	dbpedia-id:Giancarlo_Baghetti .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	dbpedia-nl:Giancarlo_Baghetti .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	dbpedia-wikidata:Q171478 ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30F3\u30AB\u30EB\u30ED\u30FB\u30D0\u30B2\u30C3\u30C6\u30A3> ,
+		dbr:Giancarlo_Baghetti .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	dbpedia-es:Giancarlo_Baghetti .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	dbpedia-pt:Giancarlo_Baghetti .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	dbpedia-de:Giancarlo_Baghetti ,
+		wikidata:Q171478 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Giancarlo_Baghetti	owl:sameAs	dbpedia-fr:Giancarlo_Baghetti .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Giancarlo_Baghetti	dct:subject	dbc:Deaths_from_cancer_in_Italy ,
+		<http://dbpedia.org/resource/Category:1995_deaths> ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Ferrari_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1934_births> ,
+		dbc:Automobili_Turismo_e_Sport_Formula_One_drivers ,
+		dbc:European_Touring_Car_Championship_drivers ;
+	foaf:name	"Giancarlo Baghetti"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Giancarlo"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Giancarlo_Baghetti ;
+	foaf:surname	"Baghetti"@en ;
+	dbp:reason	"see Talk page"^^xsd:string ;
+	dbp:points	14 ;
+	dbp:years	1966 ,
+		"\u2013"^^xsd:string ;
+	dbp:after	dbr:Willi_Kauhsen ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Brabham ,
+		dbr:Scuderia_Centro_Sud ,
+		dbr:Automobili_Turismo_e_Sport ,
+		dbr:Reg_Parnell ,
+		dbr:Team_Lotus ,
+		dbr:Scuderia_Ferrari .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Giancarlo_Baghetti	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Giancarlo_Baghetti?oldid=706339049> .
+@prefix ns27:	<http://www.motorsportmagazine.com/archive/article/january-1996/8/> .
+dbr:Giancarlo_Baghetti	dbo:wikiPageExternalLink	ns27:obituary ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1961_French_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1961_French_Grand_Prix> ;
+	dbp:birthPlace	"Milan, Lombardy, Italy"^^xsd:string ;
+	dbp:deathDate	"1995-11-27"^^xsd:date ;
+	dbp:before	dbr:Ed_Swart ;
+	dbp:deathPlace	"Milan, Lombardy, Italy"^^xsd:string ;
+	dbo:abstract	"Giancarlo Baghetti (Milaan, 25 december 1934 - 27 november 1995) was een Italiaanse Formule 1-coureur tussen 1961 en 1967."@nl ,
+		"Giancarlo Baghetti (25 December 1934 in Milan, Italy \u2013 27 November 1995 also in Milan) was a Formula One driver who raced for the Ferrari, ATS (the Italian team), BRM, Brabham and Lotus teams. He was the son of a wealthy Milan industrialist. Baghetti is one of only three drivers to have won his first World Championship race, the other two being Nino Farina, who won the first World Championship race (the 1950 British Grand Prix) and Johnnie Parsons, who won the 1950 Indianapolis 500 (the Indianapolis 500 was part of the World Championship from 1950 to 1960)."@en ,
+		"\u30B8\u30E3\u30F3\u30AB\u30EB\u30ED\u30FB\u30D0\u30B2\u30C3\u30C6\u30A3\uFF08Giancarlo Baghetti, 1934\u5E7412\u670825\u65E5 - 1995\u5E7411\u670827\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 F1\u306B\u304A\u3044\u3066\u3001\u5B9F\u8CEA\u552F\u4E00\u3068\u306A\u308B\u30C7\u30D3\u30E5\u30FC\u30FB\u30A6\u30A3\u30F3\u9054\u6210\u8005\u3060\u304C\u3001\u305D\u306E\u5F8C\u306F\u8868\u5F70\u53F0\u306B\u3059\u3089\u7ACB\u3064\u3053\u3068\u306A\u304F\u30AD\u30E3\u30EA\u30A2\u3092\u7D42\u3048\u305F\u3002"@ja ,
+		"\u062C\u064A\u0627\u0646\u0643\u0627\u0631\u0644\u0648 \u0628\u0648\u063A\u0627\u062A\u064A \u0645\u0648\u0627\u0644\u064A\u062F 25 \u062F\u064A\u0633\u0645\u0628\u0631 1934 \u0641\u064A \u0645\u064A\u0644\u0627\u0646\u0648\u060C \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A\u0627\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1961. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1961\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0641\u0631\u0646\u0633\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1961. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 21 \u0633\u0628\u0627\u0642\u0627\u064B\u060C \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ,
+		"\u0414\u0436\u0430\u043D\u043A\u0430\u0301\u0440\u043B\u043E \u0411\u0430\u0433\u0435\u0301\u0442\u0442\u0438 (\u0438\u0442\u0430\u043B. Giancarlo Baghetti) (25 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1934, \u041C\u0438\u043B\u0430\u043D \u2014 27 \u043D\u043E\u044F\u0431\u0440\u044F 1995, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0432 60-\u0445 \u0433\u043E\u0434\u0430\u0445 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-3, \u0424\u043E\u0440\u043C\u0443\u043B\u0435-2 \u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1. \u0415\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0433\u043E\u043D\u0449\u0438\u043A \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438, \u0432\u044B\u0438\u0433\u0440\u0430\u0432\u0448\u0438\u0439 \u0441\u0432\u043E\u044E \u0434\u0435\u0431\u044E\u0442\u043D\u0443\u044E \u0433\u043E\u043D\u043A\u0443, \u0432 \u0434\u0430\u043B\u044C\u043D\u0435\u0439\u0448\u0435\u043C \u0440\u0430\u0437\u0432\u0438\u0442\u044C \u0443\u0441\u043F\u0435\u0445 \u043D\u0435 \u0441\u043C\u043E\u0433, \u043B\u0438\u0448\u044C \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0440\u0430\u0437 \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u043E\u0447\u043A\u0430\u0445 \u0438 \u0432\u0441\u043A\u043E\u0440\u0435 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B \u043A\u0430\u0440\u044C\u0435\u0440\u0443. \u041F\u043E\u0441\u043B\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0439 \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0432 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u0443\u0440\u043E\u0432\u043D\u044F, \u0441\u0442\u0430\u043B \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C ETCC 1966 \u0433\u043E\u0434\u0430 \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u0435\u0439 \u043E\u0431\u044A\u0435\u043C\u043E\u043C \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044F \u0434\u043E \u043B\u0438\u0442\u0440\u0430. \u0422\u0430\u043A\u0436\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 24 \u0447\u0430\u0441\u0430\u0445 \u041B\u0435-\u041C\u0430\u043D\u0430, \u0434\u0432\u0430\u0436\u0434\u044B \u0437\u0430\u043D\u0438\u043C\u0430\u043B \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 Targa Florio. \u041F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0437\u0430\u043D\u0438\u043C\u0430\u043B\u0441\u044F \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u043E\u0439 \u0436\u0443\u0440\u043D\u0430\u043B\u0438\u0441\u0442\u0438\u043A\u043E\u0439, \u0440\u0430\u0431\u043E\u0442\u0430\u043B \u0444\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u043E\u043C."@ru ,
+		"Giancarlo Baghetti (* 25. Dezember 1934 in Mailand; \u2020 27. November 1995 ebenda) war ein italienischer Formel-1-Rennfahrer, der der einzige Fahrer seit der ersten Saison war, der sein Formel-1-Deb\u00FCt gewann, den Gro\u00DFen Preis von Frankreich 1961. Es blieb allerdings sein einziger Sieg."@de ,
+		"Giancarlo Baghetti era un piloto italiano de F\u00F3rmula Uno. Naci\u00F3 en 1934 en Mil\u00E1n, Italia, Muri\u00F3 en 1995."@es ,
+		"Giancarlo Baghetti (n\u00E9 le 25 d\u00E9cembre 1934 \u00E0 Milan, Italie - mort le 27 novembre 1995 \u00E0 Milan d'un cancer) est un pilote automobile italien. \u00C0 l'issue du Grand Prix de France 1961 disput\u00E9 sur le circuit de Reims-Gueux, il devient, avec Giuseppe Farina (vainqueur du GP inaugural du championnat du monde \u00E0 Silverstone), le seul pilote \u00E0 s'\u00EAtre impos\u00E9 d\u00E8s sa premi\u00E8re participation \u00E0 un Grand Prix du championnat du monde."@fr ,
+		"Giancarlo Baghetti (ur. 25 grudnia 1934 w Mediolanie, zm. 27 listopada 1995 tam\u017Ce) \u2013 w\u0142oski kierowca Formu\u0142y 1. \u015Aciga\u0142 si\u0119 w samochodach Ferrari, w\u0142oskiego ATS-u, BRM-u, Brabhama i Lotusa. Baghetti jest oficjalnie jednym z trzech kierowc\u00F3w, kt\u00F3rzy wygrali wy\u015Bcig F1 w swoim debiucie. Tak naprawd\u0119 W\u0142och jako jedyny w historii dokona\u0142 tego wyczynu, gdy\u017C Nino Farina by\u0142 zwyci\u0119zc\u0105 pierwszego wy\u015Bcigu w og\u00F3le, a Johnnie Parsons triumfowa\u0142 w pierwszym Indy 500 zaliczanym do klasyfikacji mistrzostw \u015Bwiata (nikt z Europy nie startowa\u0142 w Indy, a nikt z Ameryki nie bra\u0142 udzia\u0142u w europejskiej cz\u0119\u015Bci)."@pl ,
+		"Giancarlo Baghetti (Mil\u00E3o, 25 de dezembro de 1934 - Mil\u00E3o, 27 de novembro de 1995) foi um piloto italiano de F\u00F3rmula 1. Conquistou uma vit\u00F3ria (ocorrida em sua estreia na categoria) e somou 14 pontos no campeonato, tendo participado da F-1 entre 1961 e 1967. Pilotou pelas equipes Ferrari, Lotus e Brabham."@pt ;
+	dbo:birthDate	"1934-12-25"^^xsd:date ;
+	dbo:deathDate	"1995-11-27"^^xsd:date ;
+	dbo:deathPlace	dbr:Milan ;
+	dbo:wikiPageRevisionID	706339049 ;
+	dbo:birthPlace	dbr:Milan ;
+	dbo:wikiPageID	1228416 ;
+	dbo:wins	"1"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1961_French_Grand_Prix> ;
+	dbo:races	"21"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1967_Italian_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbp:date	"December 2012"^^xsd:string .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Giancarlo_Baghetti	ns28:hypernym	dbr:Driver ;
+	dbp:title	"European Touring Car Championship champion"^^xsd:string .
+dbr:Baghetti	dbo:wikiPageRedirects	dbr:Giancarlo_Baghetti .

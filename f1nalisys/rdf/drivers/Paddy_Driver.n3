@@ -1,0 +1,128 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Paddy_Driver	rdf:type	yago:Wikicat125ccWorldChampionshipRiders ,
+		yago:WikicatSouthAfricanPeople .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Paddy_Driver	rdf:type	dbo:MotorcycleRider ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		yago:Whole100003553 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Paddy_Driver	rdf:type	foaf:Person ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:Traveler109629752 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Paddy_Driver	rdf:type	wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Paddy_Driver	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Wikicat500ccWorldChampionshipRiders ,
+		yago:Wikicat250ccWorldChampionshipRiders ,
+		yago:Wikicat350ccWorldChampionshipRiders .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Paddy_Driver	rdf:type	owl:Thing ,
+		dbo:Agent .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Paddy_Driver	rdf:type	ns8:NaturalPerson ,
+		ns8:Agent ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Paddy_Driver	rdf:type	schema:Person ,
+		yago:Rider110529965 ,
+		yago:WikicatLivingPeople ,
+		dbo:Athlete ,
+		dbo:MotorsportRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Paddy_Driver	rdfs:label	"Paddy Driver"@nl ,
+		"Paddy Driver"@pl ,
+		"\u30D1\u30C7\u30A3\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC"@ja ,
+		"\u0628\u0627\u062F\u064A \u062F\u0631\u0627\u064A\u0641\u0631"@ar ,
+		"Paddy Driver"@en ,
+		"Paddy Driver"@de ,
+		"Paddy Driver"@pt ,
+		"Paddy Driver"@it ;
+	rdfs:comment	"\u30D1\u30C7\u30A3\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC (Paddy Driver, 1934\u5E745\u670813\u65E5 - ) \u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u5171\u548C\u56FD\u3001\u30E8\u30CF\u30CD\u30B9\u30D6\u30EB\u30B0\u51FA\u8EAB\u306E\u30AA\u30FC\u30C8\u30D0\u30A4\u30EC\u30FC\u30B5\u30FC\u3001F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u30ED\u30FC\u30C9\u30EC\u30FC\u30B9\u4E16\u754C\u9078\u624B\u6A29\u306B\u306F1959\u5E74\u304B\u30891965\u5E74\u307E\u3067\u53C2\u6226\u3057\u305F\u3002\u6700\u9AD8\u6210\u7E3E\u306F\u30DE\u30C1\u30EC\u30B9\u3067\u53C2\u6226\u3057\u305F500cc\u30AF\u30E9\u30B9\u30011965\u5E74\u306B\u6319\u3052\u305F2\u5EA6\u306E2\u4F4D\u3067\u3001\u30E9\u30F3\u30AD\u30F3\u30B0\u306F\u30DE\u30A4\u30AF\u30FB\u30D8\u30A4\u30EB\u30A6\u30C3\u30C9\u3001\u30B8\u30E3\u30B3\u30E2\u30FB\u30A2\u30B4\u30B9\u30C1\u30FC\u30CB\u306B\u6B21\u30503\u4F4D\u3068\u306A\u3063\u305F\u3002 F1\u30B0\u30E9\u30F3\u30D7\u30EA\u306B\u306F2\u6226\u306B\u53C2\u52A0\u3057\u305F\u304C\u3001\u30DD\u30A4\u30F3\u30C8\u306F\u6319\u3052\u3089\u308C\u306A\u304B\u3063\u305F\u30021963\u5E74\u5357\u30A2\u30D5\u30EA\u30AB\u30B0\u30E9\u30F3\u30D7\u30EA\u306B\u30B9\u30DD\u30C3\u30C8\u53C2\u6226\u3057\u305F\u304C\u3001\u30B9\u30BF\u30FC\u30C8\u3067\u304D\u306A\u304B\u3063\u305F\u30021969\u5E74\u306B\u306F\u30D5\u30A9\u30FC\u30DF\u30E5\u30E95000\u306B\u30ED\u30FC\u30E9\u3067\u30D5\u30EB\u53C2\u6226\u3057\u305F\u30021971\u5E74\u306B\u306F\u81EA\u8EAB\u306E\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3\u3067\u30C1\u30FC\u30E0\u30FB\u30D1\u30FC\u30BD\u30CA\u30EA\u30C6\u30A3\u3068\u3057\u3066\u30A8\u30F3\u30C8\u30EA\u30FC\u3057\u3001\u30E9\u30F3\u30AD\u30F3\u30B03\u4F4D\u3068\u306A\u3063\u3066\u3044\u308B\u30021974\u5E74\u306B\u306FF1\u3067\u30C1\u30FC\u30E0\u30FB\u30AC\u30F3\u30B9\u30C8\u30F3\u306B\u8D77\u7528\u3055\u308C\u30ED\u30FC\u30BF\u30B9\u30FB72\u3092\u30C9\u30E9\u30A4\u30D6\u3057\u305F\u304C\u3001\u30EA\u30BF\u30A4\u30A2\u306B\u7D42\u308F\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"Paddy Driver (Johannesburg, 13 mei 1934) is een voormalig auto- en motorcoureur. Driver reed in het begin van de zestiger jaren eerst wegraces op een Norton, voordat hij in 1964 op vier wielen overstapte. Met een Lotus 24 werd hij zevende bij de Rand Grand Prix in Kyalami en deed een poging zich voor het eerst voor de Grand Prix van Zuid-Afrika in de Formule 1 te kwalificeren. De onderneming eindigde met een afgeschreven wagen in de laatste training en Driver kon wegens gebrek aan een reservewagen niet aan de race deelnemen.Hij keerde naar de motorfietsen terug en werd in 1965 op een Matchless derde in het wereldkampioenschap wegrace in de klasse tot 500 cc, achter Mike Hailwood en Giacomo Agostini. Vanaf 1969 reed hij weer autoraces en had successen in de sportwagens en bestuurde een Lotu"@nl ,
+		"\u0628\u0627\u062F\u064A \u062F\u0631\u0627\u064A\u0641\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 13 \u0645\u0627\u0631\u0633 1934 \u0641\u064A \u062C\u0648\u0647\u0627\u0646\u0633\u0628\u0631\u063A\u060C \u0643\u0627\u0646 \u0645\u062A\u0633\u0627\u0628\u0642 \u062F\u0631\u0627\u062C\u0627\u062A \u0646\u0627\u0631\u064A\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A. \u0646\u0627\u0641\u0633 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0641\u0626\u0629 500 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 350 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 125 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 50 \u0633\u064A \u0633\u064A. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0643\u0623\u0633 \u062C\u0632\u064A\u0631\u0629 \u0645\u0627\u0646 \u0627\u0644\u0633\u064A\u0627\u062D\u064A\u0629."@ar ,
+		"Paddy Driver (born in Johannesburg, 13 May 1934) is a former Grand Prix motorcycle road racer and a racing driver from South Africa. He competed on the Grand Prix motorcycle racing circuit from 1959 to 1965. His best result was in 1965 when he rode a Matchless to a third-place finish in the 500cc world championship behind Mike Hailwood and Giacomo Agostini."@en ,
+		"Paddy Driver (ur. 13 maja 1934 roku w Johannesburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"Paddy Driver (* 13. Mai 1934 in Johannesburg, S\u00FCdafrika) ist ein ehemaliger s\u00FCdafrikanischer Motorrad- und Autorennfahrer."@de ,
+		"Paddy Driver (Johannesburgo, \u00C1frica do Sul, 13 de maio de 1934) foi um automobilista sul-africano que participou dos Grandes Pr\u00EAmios da \u00C1frica do Sul de F\u00F3rmula 1 de 1963 e 1974."@pt .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Paddy_Driver	dbp:points	0 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Paddy_Driver	owl:sameAs	dbpedia-nl:Paddy_Driver .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Paddy_Driver	owl:sameAs	dbpedia-de:Paddy_Driver ,
+		dbr:Paddy_Driver .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Paddy_Driver	owl:sameAs	yago-res:Paddy_Driver .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Paddy_Driver	owl:sameAs	dbpedia-pl:Paddy_Driver ,
+		<http://rdf.freebase.com/ns/m.04kwf2> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Paddy_Driver	owl:sameAs	dbpedia-it:Paddy_Driver .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Paddy_Driver	owl:sameAs	dbpedia-wikidata:Q172501 ,
+		wikidata:Q172501 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Paddy_Driver	owl:sameAs	dbpedia-pt:Paddy_Driver ,
+		<http://ja.dbpedia.org/resource/\u30D1\u30C7\u30A3\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Paddy_Driver	dct:subject	dbc:South_African_racing_drivers ,
+		dbc:Isle_of_Man_TT_riders ,
+		dbc:Team_Gunston_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:500cc_World_Championship_riders> ,
+		<http://dbpedia.org/resource/Category:350cc_World_Championship_riders> ,
+		<http://dbpedia.org/resource/Category:125cc_World_Championship_riders> ,
+		<http://dbpedia.org/resource/Category:1934_births> ,
+		dbc:Sportspeople_from_Johannesburg ,
+		dbc:South_African_motorcycle_racers ,
+		dbc:Living_people ,
+		dbc:South_African_Formula_One_drivers ;
+	foaf:name	"Paddy Driver"@en ;
+	dct:description	"racing driver"@en ;
+	foaf:givenName	"Paddy"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Paddy_Driver	foaf:isPrimaryTopicOf	wikipedia-en:Paddy_Driver ;
+	foaf:surname	"Driver"@en ;
+	dbp:years	","^^xsd:string ;
+	dbp:gpFastestLaps	0 ;
+	dbp:gpFirstRace	1958350 ;
+	dbp:gpLastRace	1965500 ;
+	dbp:gpPodiums	9 ;
+	dbp:gpPoles	0 ;
+	dbp:gpRaceStarts	33 ;
+	dbp:gpRaceWins	0 ;
+	dbp:gpActiveYears	1958 ;
+	dbp:gpChampionships	0 ;
+	dbp:gpTeams	<http://dbpedia.org/resource/Norton_(motorcycle)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Paddy_Driver	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Paddy_Driver?oldid=703978530> ;
+	dbo:abstract	"\u0628\u0627\u062F\u064A \u062F\u0631\u0627\u064A\u0641\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 13 \u0645\u0627\u0631\u0633 1934 \u0641\u064A \u062C\u0648\u0647\u0627\u0646\u0633\u0628\u0631\u063A\u060C \u0643\u0627\u0646 \u0645\u062A\u0633\u0627\u0628\u0642 \u062F\u0631\u0627\u062C\u0627\u062A \u0646\u0627\u0631\u064A\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A. \u0646\u0627\u0641\u0633 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0641\u0626\u0629 500 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 350 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 125 \u0633\u064A \u0633\u064A \u0648\u0644\u0641\u0626\u0629 50 \u0633\u064A \u0633\u064A. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0643\u0623\u0633 \u062C\u0632\u064A\u0631\u0629 \u0645\u0627\u0646 \u0627\u0644\u0633\u064A\u0627\u062D\u064A\u0629."@ar ,
+		"Paddy Driver (Johannesburg, 13 mei 1934) is een voormalig auto- en motorcoureur. Driver reed in het begin van de zestiger jaren eerst wegraces op een Norton, voordat hij in 1964 op vier wielen overstapte. Met een Lotus 24 werd hij zevende bij de Rand Grand Prix in Kyalami en deed een poging zich voor het eerst voor de Grand Prix van Zuid-Afrika in de Formule 1 te kwalificeren. De onderneming eindigde met een afgeschreven wagen in de laatste training en Driver kon wegens gebrek aan een reservewagen niet aan de race deelnemen.Hij keerde naar de motorfietsen terug en werd in 1965 op een Matchless derde in het wereldkampioenschap wegrace in de klasse tot 500 cc, achter Mike Hailwood en Giacomo Agostini. Vanaf 1969 reed hij weer autoraces en had successen in de sportwagens en bestuurde een Lotus 72 bij de Grand Prix van Zuid-Afrika in 1974. Tot in de tachtiger jaren streed hij in toerwagenraces met auto's van Mazda."@nl ,
+		"Paddy Driver (* 13. Mai 1934 in Johannesburg, S\u00FCdafrika) ist ein ehemaliger s\u00FCdafrikanischer Motorrad- und Autorennfahrer."@de ,
+		"Paddy Driver (ur. 13 maja 1934 roku w Johannesburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"\u30D1\u30C7\u30A3\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC (Paddy Driver, 1934\u5E745\u670813\u65E5 - ) \u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u5171\u548C\u56FD\u3001\u30E8\u30CF\u30CD\u30B9\u30D6\u30EB\u30B0\u51FA\u8EAB\u306E\u30AA\u30FC\u30C8\u30D0\u30A4\u30EC\u30FC\u30B5\u30FC\u3001F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002 \u30ED\u30FC\u30C9\u30EC\u30FC\u30B9\u4E16\u754C\u9078\u624B\u6A29\u306B\u306F1959\u5E74\u304B\u30891965\u5E74\u307E\u3067\u53C2\u6226\u3057\u305F\u3002\u6700\u9AD8\u6210\u7E3E\u306F\u30DE\u30C1\u30EC\u30B9\u3067\u53C2\u6226\u3057\u305F500cc\u30AF\u30E9\u30B9\u30011965\u5E74\u306B\u6319\u3052\u305F2\u5EA6\u306E2\u4F4D\u3067\u3001\u30E9\u30F3\u30AD\u30F3\u30B0\u306F\u30DE\u30A4\u30AF\u30FB\u30D8\u30A4\u30EB\u30A6\u30C3\u30C9\u3001\u30B8\u30E3\u30B3\u30E2\u30FB\u30A2\u30B4\u30B9\u30C1\u30FC\u30CB\u306B\u6B21\u30503\u4F4D\u3068\u306A\u3063\u305F\u3002 F1\u30B0\u30E9\u30F3\u30D7\u30EA\u306B\u306F2\u6226\u306B\u53C2\u52A0\u3057\u305F\u304C\u3001\u30DD\u30A4\u30F3\u30C8\u306F\u6319\u3052\u3089\u308C\u306A\u304B\u3063\u305F\u30021963\u5E74\u5357\u30A2\u30D5\u30EA\u30AB\u30B0\u30E9\u30F3\u30D7\u30EA\u306B\u30B9\u30DD\u30C3\u30C8\u53C2\u6226\u3057\u305F\u304C\u3001\u30B9\u30BF\u30FC\u30C8\u3067\u304D\u306A\u304B\u3063\u305F\u30021969\u5E74\u306B\u306F\u30D5\u30A9\u30FC\u30DF\u30E5\u30E95000\u306B\u30ED\u30FC\u30E9\u3067\u30D5\u30EB\u53C2\u6226\u3057\u305F\u30021971\u5E74\u306B\u306F\u81EA\u8EAB\u306E\u30DE\u30AF\u30E9\u30FC\u30EC\u30F3\u3067\u30C1\u30FC\u30E0\u30FB\u30D1\u30FC\u30BD\u30CA\u30EA\u30C6\u30A3\u3068\u3057\u3066\u30A8\u30F3\u30C8\u30EA\u30FC\u3057\u3001\u30E9\u30F3\u30AD\u30F3\u30B03\u4F4D\u3068\u306A\u3063\u3066\u3044\u308B\u30021974\u5E74\u306B\u306FF1\u3067\u30C1\u30FC\u30E0\u30FB\u30AC\u30F3\u30B9\u30C8\u30F3\u306B\u8D77\u7528\u3055\u308C\u30ED\u30FC\u30BF\u30B9\u30FB72\u3092\u30C9\u30E9\u30A4\u30D6\u3057\u305F\u304C\u3001\u30EA\u30BF\u30A4\u30A2\u306B\u7D42\u308F\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"Paddy Driver (Johannesburgo, \u00C1frica do Sul, 13 de maio de 1934) foi um automobilista sul-africano que participou dos Grandes Pr\u00EAmios da \u00C1frica do Sul de F\u00F3rmula 1 de 1963 e 1974."@pt ,
+		"Paddy Driver (born in Johannesburg, 13 May 1934) is a former Grand Prix motorcycle road racer and a racing driver from South Africa. He competed on the Grand Prix motorcycle racing circuit from 1959 to 1965. His best result was in 1965 when he rode a Matchless to a third-place finish in the 500cc world championship behind Mike Hailwood and Giacomo Agostini. He participated in two World Championship Formula One Grands Prix, scoring no championship points. Driver was a regular competitor in the South African Formula One championship for many years, starting with the 1963 Rand Grand Prix, but only graduated full-time in 1969, driving a Formula 5000 Lola for Doug Serrurier. From 1971 he entered his own McLaren under the guise of Team Personality, finishing third in the series final classification. In 1974 he was hired by Team Gunston, racing a Formula One Lotus 72, and repeating his third place."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Paddy_Driver	dbo:birthDate	"1934-03-13"^^xsd:date ,
+		"1934-5-13"^^xsd:date ;
+	dbo:wikiPageRevisionID	703978530 ;
+	dbo:birthPlace	dbr:Johannesburg ;
+	dbo:wikiPageID	1235355 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Paddy_Driver	ns24:hypernym	dbr:Racer ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Team_Lotus ;
+	dbp:nationality	"n"^^xsd:string .
+wikipedia-en:Paddy_Driver	foaf:primaryTopic	dbr:Paddy_Driver .

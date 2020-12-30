@@ -1,0 +1,91 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Lost_in_the_Dark_(1947_film)>	dbo:writer	dbr:Giovanni_Bracco .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Giovanni_Bracco	foaf:primaryTopic	dbr:Giovanni_Bracco .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Gianni_Marzotto	dbp:before	dbr:Giovanni_Bracco .
+dbr:Bracco	dbo:wikiPageDisambiguates	dbr:Giovanni_Bracco .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Giovanni_Bracco	rdf:type	yago:WikicatItalianPeople ,
+		yago:WikicatPeopleFromBiella ,
+		dbo:RacingDriver ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:Person100007846 ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:Wikicat20th-centuryItalianPeople .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Giovanni_Bracco	rdfs:label	"Giovanni Bracco"@en ,
+		"Giovanni Bracco"@nl ,
+		"Giovanni Bracco"@fr ,
+		"Giovanni Bracco"@de ,
+		"Giovanni Bracco"@it ,
+		"Giovanni Bracco"@pl ;
+	rdfs:comment	"Visse a Biella, citt\u00E0 che diede in natali ad altri piloti come Mario Porrino e Lamberto Grolla. A cavallo della seconda guerra mondiale corse su una Lancia Aprilia .Vinse il Gran Premio d'Italia del 1948 (classe 2 litri di cilindrata) su una Maserati GCS prima di correre per la Ferrari (1950-1952), vincendo la Mille Miglia su una Ferrari 250 S. Ha anche partecipato due volte nella Coppa d'Oro delle Dolomiti, finendo primo nel 1948 e secondo nel 1950.Con il suo pupillo pi\u00F9 giovane, Umberto Maglioli, arriv\u00F2 secondo alla Mille Miglia del 1951 guidando una Lancia Aurelia B20. Nel 1955 corse su una Maserati 200S."@it ,
+		"Giovanni Bracco (ur. 6 czerwca 1908 roku w Biella, zm. 6 sierpnia 1968 roku w Biella) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Giovanni Bracco (Biella, 6 juni 1908 - aldaar, 6 augustus 1968) was een Italiaans autocoureur die vooral bekend is om zijn ongeval tijdens de Grand Prix van Itali\u00EB 1947, waar hij vijf toeschouwers doodde door een crash met zijn Delage. In 1950 schreef hij zich in voor zijn thuisrace van dat jaar voor het team Ferrari, maar verscheen niet aan de start. In 1952 won hij de Mille Miglia samen met Alfonso Rolfo, waar hij in 1951 al als tweede eindigde met zijn pupil Umberto Maglioli."@nl ,
+		"Giovanni Bracco (6 June 1908 at Biella \u2013 7 August 1968 at Biella) was an Italian racing car driver. He lived in Biella, home town of other racing aces such as Mario Porrino and Lamberto Grolla.Before and after World War II he had been racing Lancia Aprilias.He won the 1948 Italian Grand Prix (2-litre class) in a Maserati A6 GCS,before joining Ferrari 1950-52, winning the 1952 Mille Miglia in a Ferrari 250.With his younger pupil, Umberto Maglioli, he got second in the 1951 Mille Miglia, driving aLancia Aurelia B20.He raced a Maserati 200S in 1955.He once lost control of his Delage 3000, accidentally killing five spectators standing too close to the road at the 1947 Italian Grand Prix."@en ,
+		"Giovanni Bracco (* 6. Juni 1908 in Biella; \u2020 6. August 1968 ebenda) war ein italienischer Automobilrennfahrer."@de ,
+		"Giovanni Bracco (n\u00E9 le 6 juin 1908 \u00E0 Biella et mort le 6 ao\u00FBt 1968 dans la m\u00EAme ville) est un ancien pilote italien de course automobile, qui s'est surtout illustr\u00E9 en course de c\u00F4te et en cat\u00E9gorie Sport."@fr .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Giovanni_Bracco	owl:sameAs	dbpedia-it:Giovanni_Bracco .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Giovanni_Bracco	owl:sameAs	yago-res:Giovanni_Bracco ,
+		dbr:Giovanni_Bracco .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Giovanni_Bracco	owl:sameAs	wikidata:Q1389834 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Giovanni_Bracco	owl:sameAs	dbpedia-fr:Giovanni_Bracco .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Giovanni_Bracco	owl:sameAs	dbpedia-nl:Giovanni_Bracco .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Giovanni_Bracco	owl:sameAs	dbpedia-wikidata:Q1389834 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Giovanni_Bracco	owl:sameAs	dbpedia-pl:Giovanni_Bracco .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Giovanni_Bracco	owl:sameAs	dbpedia-de:Giovanni_Bracco ,
+		<http://rdf.freebase.com/ns/m.03hpbq3> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Giovanni_Bracco	dct:subject	dbc:People_from_Biella ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1908_births> ,
+		<http://dbpedia.org/resource/Category:1968_deaths> ,
+		dbc:Italian_racing_drivers ,
+		dbc:Ferrari_Formula_One_drivers ;
+	foaf:name	"Giovanni Bracco"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Bandini_1100sport.JPG> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Giovanni"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Giovanni_Bracco ;
+	foaf:surname	"Bracco"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Giovanni_Bracco	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Giovanni_Bracco?oldid=723579511> ;
+	dbo:abstract	"Giovanni Bracco (ur. 6 czerwca 1908 roku w Biella, zm. 6 sierpnia 1968 roku w Biella) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"Visse a Biella, citt\u00E0 che diede in natali ad altri piloti come Mario Porrino e Lamberto Grolla. A cavallo della seconda guerra mondiale corse su una Lancia Aprilia .Vinse il Gran Premio d'Italia del 1948 (classe 2 litri di cilindrata) su una Maserati GCS prima di correre per la Ferrari (1950-1952), vincendo la Mille Miglia su una Ferrari 250 S. Ha anche partecipato due volte nella Coppa d'Oro delle Dolomiti, finendo primo nel 1948 e secondo nel 1950.Con il suo pupillo pi\u00F9 giovane, Umberto Maglioli, arriv\u00F2 secondo alla Mille Miglia del 1951 guidando una Lancia Aurelia B20. Nel 1955 corse su una Maserati 200S."@it ,
+		"Giovanni Bracco (6 June 1908 at Biella \u2013 7 August 1968 at Biella) was an Italian racing car driver. He lived in Biella, home town of other racing aces such as Mario Porrino and Lamberto Grolla.Before and after World War II he had been racing Lancia Aprilias.He won the 1948 Italian Grand Prix (2-litre class) in a Maserati A6 GCS,before joining Ferrari 1950-52, winning the 1952 Mille Miglia in a Ferrari 250.With his younger pupil, Umberto Maglioli, he got second in the 1951 Mille Miglia, driving aLancia Aurelia B20.He raced a Maserati 200S in 1955.He once lost control of his Delage 3000, accidentally killing five spectators standing too close to the road at the 1947 Italian Grand Prix."@en ,
+		"Giovanni Bracco (Biella, 6 juni 1908 - aldaar, 6 augustus 1968) was een Italiaans autocoureur die vooral bekend is om zijn ongeval tijdens de Grand Prix van Itali\u00EB 1947, waar hij vijf toeschouwers doodde door een crash met zijn Delage. In 1950 schreef hij zich in voor zijn thuisrace van dat jaar voor het team Ferrari, maar verscheen niet aan de start. In 1952 won hij de Mille Miglia samen met Alfonso Rolfo, waar hij in 1951 al als tweede eindigde met zijn pupil Umberto Maglioli."@nl ,
+		"Giovanni Bracco (n\u00E9 le 6 juin 1908 \u00E0 Biella et mort le 6 ao\u00FBt 1968 dans la m\u00EAme ville) est un ancien pilote italien de course automobile, qui s'est surtout illustr\u00E9 en course de c\u00F4te et en cat\u00E9gorie Sport."@fr ,
+		"Giovanni Bracco (* 6. Juni 1908 in Biella; \u2020 6. August 1968 ebenda) war ein italienischer Automobilrennfahrer."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Bandini_1100sport.JPG?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Giovanni_Bracco	dbo:birthDate	"1908-6-6"^^xsd:date ;
+	dbo:deathDate	"1968-8-6"^^xsd:date ;
+	dbo:deathPlace	dbr:Biella ;
+	dbo:wikiPageRevisionID	723579511 ;
+	dbo:birthPlace	dbr:Biella ;
+	dbo:wikiPageID	15294174 .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Giovanni_Bracco	ns21:hypernym	dbr:Driver .

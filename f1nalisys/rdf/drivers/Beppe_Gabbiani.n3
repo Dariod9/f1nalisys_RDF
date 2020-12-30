@@ -1,0 +1,135 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Giuseppe_Gabbiani	dbo:wikiPageRedirects	dbr:Beppe_Gabbiani .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbr:Beppe_Gabbiani	rdf:type	schema:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Beppe_Gabbiani	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:WikicatSurteesFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Beppe_Gabbiani	rdf:type	owl:Thing ,
+		dbo:Athlete ,
+		dbo:FormulaOneRacer .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Beppe_Gabbiani	rdf:type	ns6:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Beppe_Gabbiani	rdf:type	wikidata:Q378622 ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Beppe_Gabbiani	rdf:type	umbel-rc:Athlete ,
+		dbo:Agent .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Beppe_Gabbiani	rdf:type	foaf:Person ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		umbel-rc:RaceCarDriver ,
+		ns6:NaturalPerson ,
+		yago:WikicatOsellaFormulaOneDrivers ,
+		wikidata:Q5 ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		dbo:Person ,
+		dbo:RacingDriver ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:WikicatEuropeanLeMansSeriesDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Beppe_Gabbiani	rdfs:label	"Beppe Gabbiani"@fr ,
+		"Beppe Gabbiani"@pl ,
+		"Beppe Gabbiani"@en ,
+		"Beppe Gabbiani"@pt ,
+		"Beppe Gabbiani"@nl ,
+		"\u0413\u0430\u0431\u0431\u044C\u044F\u043D\u0438, \u0411\u0435\u043F\u043F\u0435"@ru ,
+		"\u0628\u064A\u0628\u064A \u062C\u0627\u0628\u064A\u0627\u0646\u064A"@ar ,
+		"Beppe Gabbiani"@it ,
+		"Beppe Gabbiani"@de ;
+	rdfs:comment	"Giuseppe \"Beppe\" Gabbiani (Piacenza, 2 de janeiro de 1957) \u00E9 um automobilista da It\u00E1lia."@pt ,
+		"Giuseppe (Beppe) Gabbiani (Piacenza, 2 januari 1957) is een Italiaans voormalig Formule 1-coureur. Hij reed in 1978 en 1981 zeventienmaal een Grand Prix voor de teams Surtees en Osella. Hij wist zich voor drie races te kwalificeren en bij alle viel hij uit. In zijn racecarri\u00E8re reed hij onder andere in de Formule 2. In een later vervolg van zijn carri\u00E8re scoorde hij een derde plaats bij de 1000 km van Spa-Francorchamps in 2003."@nl ,
+		"\u0628\u064A\u0628\u064A \u062C\u0627\u0628\u064A\u0627\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 2 \u064A\u0646\u0627\u064A\u0631 1957 \u0641\u064A \u0628\u064A\u0627\u062A\u0634\u0646\u0632\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1978. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1978. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 17 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Beppe GabbianiFichier:Beppe Gabbiani crop.jpg Beppe Gabbiani lors de la parade des 24 Heures du Mans 2006. Giuseppe Gabbiani (n\u00E9 le 2 janvier 1957 \u00E0 Plaisance, en \u00C9milie-Romagne, Italie) est un ancien pilote automobile italien."@fr ,
+		"\u0414\u0436\u0443\u0437\u0435\u0301\u043F\u043F\u0435 \u00AB\u0411\u0435\u0301\u043F\u043F\u0435\u00BB \u0413\u0430\u0431\u0431\u044C\u044F\u0301\u043D\u0438 (\u0438\u0442\u0430\u043B. Giuseppe \u00ABBeppe\u00BB Gabbiani, 2 \u044F\u043D\u0432\u0430\u0440\u044F 1957 \u0433\u043E\u0434\u0430, \u041F\u044C\u044F\u0447\u0435\u043D\u0446\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Giuseppe \"Beppe\" Gabbiani (born 2 January 1957) is an Italian racing driver. He participated in 17 World Championship Formula One Grands Prix, debuting on 1 October 1978, and scored no championship points. He also participated in one non-Championship Formula One race. In Formula 2, he won the 1983 Eifelrennen. In sports car racing, he finished third in the 2003 1000km Spa."@en ,
+		"Giuseppe \u201EBeppe\u201C Gabbiani (* 2. Januar 1957 in Piacenza, Italien) ist ein italienischer Rennfahrer."@de ,
+		"Giuseppe \u201EBeppe\u201D Gabbiani (ur. 2 stycznia 1957 roku w Piacenzie) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Beppe_Gabbiani	dbp:points	0 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04k7g2> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Beppe_Gabbiani	owl:sameAs	yago-res:Beppe_Gabbiani .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Beppe_Gabbiani	owl:sameAs	dbpedia-wikidata:Q171988 ,
+		dbr:Beppe_Gabbiani .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Beppe_Gabbiani	owl:sameAs	dbpedia-fr:Beppe_Gabbiani .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Beppe_Gabbiani	owl:sameAs	dbpedia-pt:Beppe_Gabbiani .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Beppe_Gabbiani	owl:sameAs	dbpedia-it:Beppe_Gabbiani ,
+		wikidata:Q171988 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Beppe_Gabbiani	owl:sameAs	dbpedia-nl:Beppe_Gabbiani .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Beppe_Gabbiani	owl:sameAs	dbpedia-de:Beppe_Gabbiani .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Beppe_Gabbiani	owl:sameAs	dbpedia-pl:Beppe_Gabbiani .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Beppe_Gabbiani	dct:subject	dbc:Surtees_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:European_Le_Mans_Series_drivers ,
+		<http://dbpedia.org/resource/Category:1957_births> ,
+		dbc:Osella_Formula_One_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Beppe Gabbiani"@en ;
+	foaf:homepage	<http://www.beppegabbiani.it/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Beppe_Gabbiani_crop.jpg> ;
+	dct:description	"Italian racing driver"@en ;
+	foaf:givenName	"Giuseppe"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Beppe_Gabbiani	foaf:isPrimaryTopicOf	wikipedia-en:Beppe_Gabbiani ;
+	dbp:years	","^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Beppe_Gabbiani	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Beppe_Gabbiani?oldid=726265454> ;
+	dbp:birthPlace	dbr:Piacenza .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Beppe_Gabbiani	dbp:birthDate	"1957-01-02"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.beppegabbiani.it/> ,
+		<http://www.grandprix.com/gpe/drv-gabbep.html> ;
+	dbo:abstract	"Giuseppe (Beppe) Gabbiani (Piacenza, 2 januari 1957) is een Italiaans voormalig Formule 1-coureur. Hij reed in 1978 en 1981 zeventienmaal een Grand Prix voor de teams Surtees en Osella. Hij wist zich voor drie races te kwalificeren en bij alle viel hij uit. In zijn racecarri\u00E8re reed hij onder andere in de Formule 2. In een later vervolg van zijn carri\u00E8re scoorde hij een derde plaats bij de 1000 km van Spa-Francorchamps in 2003."@nl ,
+		"\u0414\u0436\u0443\u0437\u0435\u0301\u043F\u043F\u0435 \u00AB\u0411\u0435\u0301\u043F\u043F\u0435\u00BB \u0413\u0430\u0431\u0431\u044C\u044F\u0301\u043D\u0438 (\u0438\u0442\u0430\u043B. Giuseppe \u00ABBeppe\u00BB Gabbiani, 2 \u044F\u043D\u0432\u0430\u0440\u044F 1957 \u0433\u043E\u0434\u0430, \u041F\u044C\u044F\u0447\u0435\u043D\u0446\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Giuseppe \u201EBeppe\u201D Gabbiani (ur. 2 stycznia 1957 roku w Piacenzie) \u2013 w\u0142oski kierowca wy\u015Bcigowy."@pl ,
+		"\u0628\u064A\u0628\u064A \u062C\u0627\u0628\u064A\u0627\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 2 \u064A\u0646\u0627\u064A\u0631 1957 \u0641\u064A \u0628\u064A\u0627\u062A\u0634\u0646\u0632\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1978. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1978. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 17 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Beppe GabbianiFichier:Beppe Gabbiani crop.jpg Beppe Gabbiani lors de la parade des 24 Heures du Mans 2006. Giuseppe Gabbiani (n\u00E9 le 2 janvier 1957 \u00E0 Plaisance, en \u00C9milie-Romagne, Italie) est un ancien pilote automobile italien."@fr ,
+		"Giuseppe \"Beppe\" Gabbiani (Piacenza, 2 de janeiro de 1957) \u00E9 um automobilista da It\u00E1lia."@pt ,
+		"Giuseppe \u201EBeppe\u201C Gabbiani (* 2. Januar 1957 in Piacenza, Italien) ist ein italienischer Rennfahrer."@de ,
+		"Giuseppe \"Beppe\" Gabbiani (born 2 January 1957) is an Italian racing driver. He participated in 17 World Championship Formula One Grands Prix, debuting on 1 October 1978, and scored no championship points. He also participated in one non-Championship Formula One race. In Formula 2, he won the 1983 Eifelrennen. In sports car racing, he finished third in the 2003 1000km Spa."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Beppe_Gabbiani_crop.jpg?width=300> ;
+	dbo:birthDate	"1957-1-2"^^xsd:date ;
+	dbo:wikiPageRevisionID	726265454 ;
+	dbo:birthPlace	dbr:Piacenza ;
+	dbo:wikiPageID	1228225 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Beppe_Gabbiani	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1978_United_States_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1981_Caesars_Palace_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"17"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Surtees ,
+		dbr:Osella ;
+	dbp:nationality	"Italian"^^xsd:string .
+wikipedia-en:Beppe_Gabbiani	foaf:primaryTopic	dbr:Beppe_Gabbiani .
+dbr:Beppe	dbo:wikiPageDisambiguates	dbr:Beppe_Gabbiani .

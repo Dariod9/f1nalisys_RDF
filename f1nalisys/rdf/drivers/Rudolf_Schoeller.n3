@@ -1,0 +1,109 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Rudolf_Schoeller	rdf:type	<http://dbpedia.org/class/yago/Wikicat\u00C9curieEspadonFormulaOneDrivers> .
+@prefix schema:	<http://schema.org/> .
+dbr:Rudolf_Schoeller	rdf:type	schema:Person .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Rudolf_Schoeller	rdf:type	dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Rudolf_Schoeller	rdf:type	yago:Driver110034906 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Rudolf_Schoeller	rdf:type	wikidata:Q5 ,
+		dbo:RacingDriver ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		dbo:Agent ,
+		wikidata:Q378622 ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatSwissFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Rudolf_Schoeller	rdf:type	owl:Thing .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Rudolf_Schoeller	rdf:type	foaf:Person .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Rudolf_Schoeller	rdf:type	ns8:Agent ,
+		wikidata:Q215627 ,
+		ns8:NaturalPerson ,
+		wikidata:Q24229398 ,
+		yago:CausalAgent100007347 ,
+		yago:Operator110378412 ,
+		dbo:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Rudolf_Schoeller	rdfs:label	"Rudolf Schoeller"@fr ,
+		"Rudolf Schoeller"@en ,
+		"Rudolf Schoeller"@pl ,
+		"Rudolf Schoeller"@pt ,
+		"Rudolf Schoeller"@nl ,
+		"Rudolf Schoeller"@de ;
+	rdfs:comment	"Rudolf Schoeller (D\u00FCren, Alemanha, 27 de abril de 1902 - Grabs, Su\u00ED\u00E7a, 7 de mar\u00E7o de 1978) foi um automobilista su\u00ED\u00E7o que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 em 1952."@pt ,
+		"Rudolf Schoeller (* 27. April 1902 in D\u00FCren; \u2020 7. M\u00E4rz 1978 in Grabs) war ein Schweizer Automobilrennfahrer."@de ,
+		"Rudolf Schoeller (27 April 1902 in D\u00FCren, Germany \u2013 7 March 1978 in Grabs) was a racing driver from Switzerland. He participated in a single Formula One World Championship Grand Prix, on 3 August 1952. He retired from the race with shock absorber problems, and scored no championship points. He was a member of the Ecurie Espadon."@en ,
+		"Rudolf Schoeller lub Rudolf Sch\u00F6ller (ur. 27 kwietnia 1902 roku w D\u00FCren, zm. 7 marca 1978 roku w Grabs) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ,
+		"Rudolf Schoeller (D\u00FCren, Duitsland, 27 april 1902 - Grabs, 7 maart 1978) was een autocoureur uit Zwitserland. Hij nam deel aan de Grand Prix van Duitsland in 1952 voor het team Ferrari, maar viel uit en scoorde zo geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Rudolf Schoeller, n\u00E9 le 27 avril 1902 \u00E0 D\u00FCren (Allemagne) et mort le 7 mars 1978 \u00E0 Grabs, est un pilote suisse de course automobile. Il a notamment particip\u00E9 \u00E0 une \u00E9preuve du championnat du monde des conducteurs, en 1952, au volant d'une Ferrari."@fr .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Rudolf_Schoeller	dbp:points	0 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Rudolf_Schoeller	owl:sameAs	dbpedia-wikidata:Q116276 ,
+		<http://rdf.freebase.com/ns/m.04kxfm> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Rudolf_Schoeller	owl:sameAs	dbpedia-de:Rudolf_Schoeller .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Rudolf_Schoeller	owl:sameAs	dbpedia-pt:Rudolf_Schoeller ,
+		wikidata:Q116276 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Rudolf_Schoeller	owl:sameAs	dbpedia-fr:Rudolf_Schoeller .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Rudolf_Schoeller	owl:sameAs	dbpedia-nl:Rudolf_Schoeller .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Rudolf_Schoeller	owl:sameAs	dbpedia-pl:Rudolf_Schoeller ,
+		dbr:Rudolf_Schoeller .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Rudolf_Schoeller	owl:sameAs	yago-res:Rudolf_Schoeller .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Rudolf_Schoeller	dct:subject	dbc:Swiss_racing_drivers ,
+		<http://dbpedia.org/resource/Category:\u00C9curie_Espadon_Formula_One_drivers> ,
+		dbc:Swiss_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1978_deaths> ,
+		<http://dbpedia.org/resource/Category:1902_births> ;
+	foaf:name	"Rudolf Schoeller"@en ;
+	dct:description	"Swiss racing driver"@en ;
+	foaf:givenName	"Rudolf"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Rudolf_Schoeller	foaf:isPrimaryTopicOf	wikipedia-en:Rudolf_Schoeller ;
+	foaf:surname	"Schoeller"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Rudolf_Schoeller	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Rudolf_Schoeller?oldid=703979743> ;
+	dbp:birthPlace	"D\u00FCren, Rhine Province, Germany"^^xsd:string ;
+	dbp:deathPlace	"Grabs, St. Gallen, Switzerland"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Rudolf_Schoeller	dbp:birthDate	"1902-04-27"^^xsd:date ;
+	dbp:deathDate	"1978-03-07"^^xsd:date ;
+	dbo:abstract	"Rudolf Schoeller (D\u00FCren, Duitsland, 27 april 1902 - Grabs, 7 maart 1978) was een autocoureur uit Zwitserland. Hij nam deel aan de Grand Prix van Duitsland in 1952 voor het team Ferrari, maar viel uit en scoorde zo geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Rudolf Schoeller lub Rudolf Sch\u00F6ller (ur. 27 kwietnia 1902 roku w D\u00FCren, zm. 7 marca 1978 roku w Grabs) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ,
+		"Rudolf Schoeller (27 April 1902 in D\u00FCren, Germany \u2013 7 March 1978 in Grabs) was a racing driver from Switzerland. He participated in a single Formula One World Championship Grand Prix, on 3 August 1952. He retired from the race with shock absorber problems, and scored no championship points. He was a member of the Ecurie Espadon."@en ,
+		"Rudolf Schoeller (* 27. April 1902 in D\u00FCren; \u2020 7. M\u00E4rz 1978 in Grabs) war ein Schweizer Automobilrennfahrer."@de ,
+		"Rudolf Schoeller, n\u00E9 le 27 avril 1902 \u00E0 D\u00FCren (Allemagne) et mort le 7 mars 1978 \u00E0 Grabs, est un pilote suisse de course automobile. Il a notamment particip\u00E9 \u00E0 une \u00E9preuve du championnat du monde des conducteurs, en 1952, au volant d'une Ferrari."@fr ,
+		"Rudolf Schoeller (D\u00FCren, Alemanha, 27 de abril de 1902 - Grabs, Su\u00ED\u00E7a, 7 de mar\u00E7o de 1978) foi um automobilista su\u00ED\u00E7o que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 em 1952."@pt ;
+	dbo:birthDate	"1902-4-27"^^xsd:date ;
+	dbo:deathDate	"1978-3-7"^^xsd:date ;
+	dbo:deathPlace	dbr:Grabs ;
+	dbo:wikiPageRevisionID	703979743 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/D\u00FCren> ;
+	dbo:wikiPageID	1235621 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Rudolf_Schoeller	ns23:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_German_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1952_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Ferrari"^^xsd:string ;
+	dbp:nationality	"Swiss"^^xsd:string .
+wikipedia-en:Rudolf_Schoeller	foaf:primaryTopic	dbr:Rudolf_Schoeller .

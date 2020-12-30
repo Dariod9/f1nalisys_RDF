@@ -1,0 +1,142 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:George_Abecassis	rdf:type	wikidata:Q5 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:George_Abecassis	rdf:type	foaf:Person ,
+		wikidata:Q378622 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:George_Abecassis	rdf:type	yago:PhysicalEntity100001930 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:George_Abecassis	rdf:type	dbo:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:George_Abecassis	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Athlete ,
+		yago:CausalAgent100007347 ,
+		yago:Driver110034906 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:George_Abecassis	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:MotorsportRacer .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:George_Abecassis	rdf:type	ns8:NaturalPerson ,
+		yago:WikicatGrandPrixDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:George_Abecassis	rdf:type	schema:Person ,
+		wikidata:Q24229398 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		ns8:Agent ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:George_Abecassis	rdfs:label	"George Abecassis"@fr ,
+		"George Abecassis"@pt ,
+		"\u062C\u0648\u0631\u062C \u0623\u0628\u064A\u0643\u0627\u0633\u064A\u0633"@ar ,
+		"George Abecassis"@it ,
+		"George Abecassis"@pl ,
+		"George Abecassis"@nl ,
+		"George Abecassis"@es ,
+		"George Abecassis"@de ,
+		"George Abecassis"@en ,
+		"\u0410\u0431\u0435\u043A\u0430\u0441\u0441\u0438\u0441, \u0414\u0436\u043E\u0440\u0434\u0436"@ru ;
+	rdfs:comment	"George Edgar Abecassis DFC (21 March 1913 \u2013 18 December 1991) was a British racing driver, and co-founder of the HWM Formula One team."@en ,
+		"George Abecassis (* 21. M\u00E4rz 1913 in Chertsey, Surrey; \u2020 18. Dezember 1991 in Ibstone, Buckinghamshire) war ein britischer Rennfahrer."@de ,
+		"George Abecassis (ur. 21 marca 1913 roku w Chertsey, Surrey, zm. 18 grudnia 1991 r. w Ibstone) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy Formu\u0142y 1. Wyst\u0105pi\u0142 w dw\u00F3ch wy\u015Bcigach \u2013 Grand Prix Szwajcarii 27 maja 1951 roku i o to samo Grand Prix 18 maja 1952 roku."@pl ,
+		"Attivo dal 1938 al 1957, partecip\u00F2 a due Gran Premi di Svizzera di Formula 1 nelle stagioni 1951 e 1952 con la Hersham and Walton Motors da lui fondata."@it ,
+		"George Abecassis (Surrey, 21 de mar\u00E7o de 1913 - Buckinghamshire, 18 de dezembro de 1991) foi um piloto de autom\u00F3vel ingl\u00EAs."@pt ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436 \u042D\u0434\u0433\u0430\u0440 \u0410\u0431\u0435\u043A\u0430\u0441\u0441\u0438\u0441, DFC (\u0430\u043D\u0433\u043B. George Edgar Abecassis; 21 \u043C\u0430\u0440\u0442\u0430 1913, \u0427\u0435\u0440\u0442\u0441\u0438, \u0421\u0443\u0440\u0440\u0435\u0439 \u2014 18 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1991, \u0418\u0431\u0441\u0442\u043E\u0443\u043D, \u0411\u044D\u043A\u0438\u043D\u0433\u0435\u043C\u0448\u0438\u0440) \u2014 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0441\u043E-\u043E\u0441\u043D\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 HWM."@ru ,
+		"George Abecassis (Chertsey (Londen), 21 maart 1913 - Ibstone, 18 december 1991) was een Brits Formule 1-coureur. Abecassis maakte in 1950 zijn debuut in de Formule 1 in samenwerking met Alta, een motorenbouwer."@nl ,
+		"George Abecassis es un piloto brit\u00E1nico nacido en Chertsey (Surrey) el 21 de marzo de 1913. Falleci\u00F3 en Ibstone el 18 de diciembre de 1991. Antes de la guerra, Abecassis destac\u00F3 en algunas carreras de Sport corriendo con un Alta 12/50 privado, se clasific\u00F3 en 2\u00AA posici\u00F3n en 1938 en el Crystal Palace Plate y en el Imperial Plate. En 1939 gan\u00F3 el Imperial Plate tambi\u00E9n con un Alta 15/20."@es ,
+		"\u062C\u0648\u0631\u062C \u0623\u0628\u064A\u0643\u0627\u0633\u064A\u0633 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: George Abecassis) \u0645\u0648\u0627\u0644\u064A\u062F 21 \u0645\u0627\u0631\u0633 1913 \u0641\u064A \u0633\u0631\u064A\u060C \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1951. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0633\u0648\u064A\u0633\u0631\u064A 1951."@ar ,
+		"George Abecassis George Edgar Abecassis (21 mars 1913 \u00E0 Chertsey, Surrey - 18 d\u00E9cembre 1991 \u00E0 Ibstone, Buckinghamshire, \u00E0 l'\u00E2ge de 78 ans) est un pilote automobile anglais, cofondateur avec John Heath de l'\u00E9quipe de Formule 1 HWM pr\u00E8s de Londres (14 Grand Prix disput\u00E9s de 1951 \u00E0 1954)."@fr ;
+	rdfs:seeAlso	dbr:Walton_Motors ,
+		dbr:Hersham .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	dbpedia-pl:George_Abecassis ,
+		wikidata:Q173276 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	dbpedia-wikidata:Q173276 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	dbpedia-de:George_Abecassis .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	dbpedia-cs:George_Abecassis .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	dbpedia-it:George_Abecassis .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	dbpedia-pt:George_Abecassis ,
+		<http://rdf.freebase.com/ns/m.03y5gm> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	yago-res:George_Abecassis .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	dbpedia-es:George_Abecassis .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	dbpedia-fr:George_Abecassis .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:George_Abecassis	owl:sameAs	dbpedia-nl:George_Abecassis ,
+		dbr:George_Abecassis .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:George_Abecassis	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:George_Abecassis	dct:subject	dbc:English_aviators ,
+		dbc:Brighton_Speed_Trials_people ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Royal_Air_Force_personnel_of_World_War_II ,
+		dbc:Royal_Air_Force_officers ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Sebring_drivers> ,
+		dbc:Mille_Miglia_drivers ,
+		<http://dbpedia.org/resource/Category:1913_births> ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Hy\u00E8res_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:Recipients_of_the_Distinguished_Flying_Cross_(United_Kingdom)> ,
+		dbc:Hersham_and_Walton_Motors_Formula_One_drivers ,
+		dbc:People_from_Chertsey ,
+		<http://dbpedia.org/resource/Category:1991_deaths> ,
+		dbc:Grand_Prix_drivers ;
+	foaf:name	"George Abecassis"@en ;
+	foaf:homepage	<http://www.georgeabecassis.com> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"George"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:George_Abecassis	foaf:isPrimaryTopicOf	wikipedia-en:George_Abecassis ;
+	foaf:surname	"Abecassis"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:George_Abecassis	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/George_Abecassis?oldid=737098134> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:George_Abecassis	dbp:birthName	"George Edgar Abecassis"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://www.georgeabecassis.com> ;
+	dbo:abstract	"George Abecassis es un piloto brit\u00E1nico nacido en Chertsey (Surrey) el 21 de marzo de 1913. Falleci\u00F3 en Ibstone el 18 de diciembre de 1991. Antes de la guerra, Abecassis destac\u00F3 en algunas carreras de Sport corriendo con un Alta 12/50 privado, se clasific\u00F3 en 2\u00AA posici\u00F3n en 1938 en el Crystal Palace Plate y en el Imperial Plate. En 1939 gan\u00F3 el Imperial Plate tambi\u00E9n con un Alta 15/20. Durante la guerra fue piloto de un bombardero de la R.A.F. y particip\u00F3 en misiones para introducir comandos paracaidistas detr\u00E1s de las l\u00EDneas alemanas. Act\u00FAa en los \"Moon Squadrons\", con un avi\u00F3n Lysander que volaba por las noches para introducir y rescatar agentes brit\u00E1nicos en Francia. Tras la guerra entra a formar parte del equipo t\u00E9cnico de Alta, corriendo algunas carreras con material anterior a la guerra y desarrollando el nuevo Alta para la F\u00F3rmula 1. Junto a su amigo John Heath fund\u00F3 la Hersham & Walton Motors, una empresa en principio dedicada a desarrollar coches deportivos con motores Alta que luego entr\u00F3 en la F\u00F3rmula 1. Con estos autom\u00F3viles actu\u00F3 en los dos G.P. de Suiza del 51 y 52, pruebas v\u00E1lidas para el campeonato del mundo. Tambi\u00E9n forma parte del equipo Aston Martin para carreras de resistencia en los primeros a\u00F1os de la d\u00E9cada de los 50. Sin embargo con la muerte de su amigo Heath en 1956 en las Mille Miglia, Abecassis abandona la competici\u00F3n y pronto cierra la HWM en 1957 dedic\u00E1ndose desde entonces a sus negocios fuera del automovilismo."@es ,
+		"\u062C\u0648\u0631\u062C \u0623\u0628\u064A\u0643\u0627\u0633\u064A\u0633 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: George Abecassis) \u0645\u0648\u0627\u0644\u064A\u062F 21 \u0645\u0627\u0631\u0633 1913 \u0641\u064A \u0633\u0631\u064A\u060C \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1951. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u0644\u0633\u0648\u064A\u0633\u0631\u064A 1951."@ar ,
+		"George Abecassis George Edgar Abecassis (21 mars 1913 \u00E0 Chertsey, Surrey - 18 d\u00E9cembre 1991 \u00E0 Ibstone, Buckinghamshire, \u00E0 l'\u00E2ge de 78 ans) est un pilote automobile anglais, cofondateur avec John Heath de l'\u00E9quipe de Formule 1 HWM pr\u00E8s de Londres (14 Grand Prix disput\u00E9s de 1951 \u00E0 1954)."@fr ,
+		"George Abecassis (Surrey, 21 de mar\u00E7o de 1913 - Buckinghamshire, 18 de dezembro de 1991) foi um piloto de autom\u00F3vel ingl\u00EAs."@pt ,
+		"\u0414\u0436\u043E\u0440\u0434\u0436 \u042D\u0434\u0433\u0430\u0440 \u0410\u0431\u0435\u043A\u0430\u0441\u0441\u0438\u0441, DFC (\u0430\u043D\u0433\u043B. George Edgar Abecassis; 21 \u043C\u0430\u0440\u0442\u0430 1913, \u0427\u0435\u0440\u0442\u0441\u0438, \u0421\u0443\u0440\u0440\u0435\u0439 \u2014 18 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1991, \u0418\u0431\u0441\u0442\u043E\u0443\u043D, \u0411\u044D\u043A\u0438\u043D\u0433\u0435\u043C\u0448\u0438\u0440) \u2014 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0441\u043E-\u043E\u0441\u043D\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 HWM."@ru ,
+		"George Abecassis (Chertsey (Londen), 21 maart 1913 - Ibstone, 18 december 1991) was een Brits Formule 1-coureur. Abecassis maakte in 1950 zijn debuut in de Formule 1 in samenwerking met Alta, een motorenbouwer."@nl ,
+		"George Abecassis (* 21. M\u00E4rz 1913 in Chertsey, Surrey; \u2020 18. Dezember 1991 in Ibstone, Buckinghamshire) war ein britischer Rennfahrer."@de ,
+		"George Abecassis (ur. 21 marca 1913 roku w Chertsey, Surrey, zm. 18 grudnia 1991 r. w Ibstone) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy Formu\u0142y 1. Wyst\u0105pi\u0142 w dw\u00F3ch wy\u015Bcigach \u2013 Grand Prix Szwajcarii 27 maja 1951 roku i o to samo Grand Prix 18 maja 1952 roku."@pl ,
+		"Attivo dal 1938 al 1957, partecip\u00F2 a due Gran Premi di Svizzera di Formula 1 nelle stagioni 1951 e 1952 con la Hersham and Walton Motors da lui fondata."@it ,
+		"George Edgar Abecassis DFC (21 March 1913 \u2013 18 December 1991) was a British racing driver, and co-founder of the HWM Formula One team."@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:George_Abecassis	dbo:birthDate	"1913-03-21"^^xsd:date ,
+		"1913-3-21"^^xsd:date ;
+	dbo:deathDate	"1991-12-18"^^xsd:date ;
+	dbo:deathPlace	dbr:Ibstone ,
+		dbr:Buckinghamshire ;
+	dbo:wikiPageRevisionID	737098134 ;
+	dbo:birthPlace	dbr:Surrey ,
+		dbr:Chertsey ,
+		dbr:Oatlands ;
+	dbo:wikiPageID	1001064 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:George_Abecassis	ns27:hypernym	dbr:English ;
+	dbp:nationality	"British"^^xsd:string .
+wikipedia-en:George_Abecassis	foaf:primaryTopic	dbr:George_Abecassis .
+dbr:Aston_Martin__1950__1	dbo:firstDriver	dbr:George_Abecassis .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__5__1>	dbo:firstDriver	dbr:George_Abecassis .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__5__1>	dbo:firstDriver	dbr:George_Abecassis .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__43__1>	dbo:firstDriver	dbr:George_Abecassis .
+dbr:Aston_Martin__12	dbo:firstDriver	dbr:George_Abecassis .

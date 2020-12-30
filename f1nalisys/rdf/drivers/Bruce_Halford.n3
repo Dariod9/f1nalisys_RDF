@@ -1,0 +1,126 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Bruce_Halford	rdf:type	yago:Driver110034906 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Bruce_Halford	rdf:type	wikidata:Q378622 .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Bruce_Halford	rdf:type	ns4:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:Operator110378412 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Bruce_Halford	rdf:type	dbo:RacingDriver ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		ns4:NaturalPerson ,
+		dbo:Athlete ,
+		dbo:Agent ,
+		yago:PhysicalEntity100001930 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Bruce_Halford	rdf:type	foaf:Person ,
+		dbo:MotorsportRacer ,
+		wikidata:Q5 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Bruce_Halford	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Bruce_Halford	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Bruce_Halford	rdf:type	schema:Person ,
+		wikidata:Q215627 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		dbo:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Bruce_Halford	rdfs:label	"Bruce Halford"@en ,
+		"Bruce Halford"@fr ,
+		"Bruce Halford"@pl ,
+		"Bruce Halford"@de ,
+		"Bruce Halford"@it ,
+		"Bruce Halford"@nl ,
+		"Bruce Halford"@pt ;
+	rdfs:comment	"Bruce Halford (Hampton-in-Arden, Inglaterra, 18 de maio de 1931 - Churston Ferrers, Inglaterra, 2 de dezembro de 2001) foi um automobilista ingl\u00EAs que participou de 9 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1956 e 1960."@pt ,
+		"Bruce Halford  (n\u00E9 le 18 mai 1931 \u00E0 Barston et d\u00E9c\u00E9d\u00E9 le 2 d\u00E9cembre 2001 \u00E0 Churston Ferrers) \u00E9tait un pilote de course automobile anglais. Il a notamment disput\u00E9 8 Grands Prix de Formule 1 sur les 9 engagements entre 1956 et 1960 d\u00E9butant le 14 juillet 1956 au Grand Prix de Grande-Bretagne.Il a pris part \u00E9galement \u00E0 37 engagements dans des courses hors-championnat, o\u00F9 il obtient de meilleurs r\u00E9sultats et a particip\u00E9 \u00E0 5 fois \u00E0 l'\u00E9preuve d'endurance des 24 Heures du Mans"@fr ,
+		"Bruce Halford (ur. 18 maja 1931 w Hampton-in-Arden, zm. 2 grudnia 2001 w Brixham) \u2013 brytyjski kierowca wy\u015Bcigowy. Jego rodzina by\u0142a w\u0142a\u015Bcicielem hotelu w Torquay. Halford zadebiutowa\u0142 w Formule 1 w 1956 roku, kupuj\u0105c od Horace'a Goulda Maserati 250F. W Formule 1 \u015Bciga\u0142 si\u0119 do 1960 roku. Nast\u0119pnie by\u0142 kierowc\u0105 Formu\u0142y 2, a po zako\u0144czeniu kariery wy\u015Bcigowej zosta\u0142 w\u0142a\u015Bcicielem hotelu. W po\u0142owie lat 70. uczestniczy\u0142 w wy\u015Bcigach samochod\u00F3w historycznych. Zmar\u0142 w 2001 roku."@pl ,
+		"Bruce Halford (Hampton-in-Arden, Warwickshire, 18 mei 1931 - Churston Ferrers, Devon, 2 december 2001) was een Brits Formule 1-coureur. Hij reed tussen 1956 en 1960 (1958 niet) 9 Grands Prix voor de teams Maserati, Lotus en Cooper."@nl ,
+		"Bruce Halford (* 18. Mai 1931 Hampton-in-Arden; \u2020 2. Dezember 2001 in Churston Ferrers) war ein britischer Autorennfahrer."@de ,
+		"Bruce Halford (18 May 1931 \u2013 2 December 2001) was a British racing driver from England. He was born in Hampton-in-Arden (then in Warwickshire) and educated at Blundell's School Halford drove in Formula One from 1956 to 1960, participating in nine World Championship Grands Prix and numerous non-Championship races. He died in Churston Ferrers, Devon. Halford's obituary in The Daily Telegraph described him as \"one of the last of the 1950s' select band of private-entrant owner-drivers from the heyday of the classical front-engined Grand Prix car.\""@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bruce_Halford	dbp:birthDate	"1931-05-18"^^xsd:date ;
+	owl:sameAs	wikidata:Q172443 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Bruce_Halford	owl:sameAs	dbpedia-wikidata:Q172443 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Bruce_Halford	owl:sameAs	dbpedia-fr:Bruce_Halford .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Bruce_Halford	owl:sameAs	dbpedia-it:Bruce_Halford .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Bruce_Halford	owl:sameAs	dbpedia-de:Bruce_Halford ,
+		<http://rdf.freebase.com/ns/m.04k7mh> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Bruce_Halford	owl:sameAs	dbpedia-pt:Bruce_Halford .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Bruce_Halford	owl:sameAs	dbpedia-pl:Bruce_Halford .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Bruce_Halford	owl:sameAs	yago-res:Bruce_Halford .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Bruce_Halford	owl:sameAs	dbpedia-nl:Bruce_Halford ,
+		dbr:Bruce_Halford .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Bruce_Halford	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:British_Racing_Partnership_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1931_births> ,
+		<http://dbpedia.org/resource/Category:2001_deaths> ,
+		dbc:English_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:People_educated_at_Blundell\u0027s_School> ;
+	foaf:name	"Bruce Halford"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Bruce"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Bruce_Halford	foaf:isPrimaryTopicOf	wikipedia-en:Bruce_Halford ;
+	foaf:surname	"Halford"@en ;
+	dbp:points	0 ;
+	dbp:years	"\u2013 ,  \u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Maserati_in_motorsport ,
+		dbr:Team_Lotus ,
+		dbr:Cooper_Car_Company .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Bruce_Halford	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bruce_Halford?oldid=703964901> ;
+	dbp:deathDate	"2001-12-02"^^xsd:date ;
+	dbo:abstract	"Bruce Halford (Hampton-in-Arden, Warwickshire, 18 mei 1931 - Churston Ferrers, Devon, 2 december 2001) was een Brits Formule 1-coureur. Hij reed tussen 1956 en 1960 (1958 niet) 9 Grands Prix voor de teams Maserati, Lotus en Cooper."@nl ,
+		"Bruce Halford (ur. 18 maja 1931 w Hampton-in-Arden, zm. 2 grudnia 2001 w Brixham) \u2013 brytyjski kierowca wy\u015Bcigowy. Jego rodzina by\u0142a w\u0142a\u015Bcicielem hotelu w Torquay. Halford zadebiutowa\u0142 w Formule 1 w 1956 roku, kupuj\u0105c od Horace'a Goulda Maserati 250F. W Formule 1 \u015Bciga\u0142 si\u0119 do 1960 roku. Nast\u0119pnie by\u0142 kierowc\u0105 Formu\u0142y 2, a po zako\u0144czeniu kariery wy\u015Bcigowej zosta\u0142 w\u0142a\u015Bcicielem hotelu. W po\u0142owie lat 70. uczestniczy\u0142 w wy\u015Bcigach samochod\u00F3w historycznych. Zmar\u0142 w 2001 roku."@pl ,
+		"Bruce Halford (18 May 1931 \u2013 2 December 2001) was a British racing driver from England. He was born in Hampton-in-Arden (then in Warwickshire) and educated at Blundell's School Halford drove in Formula One from 1956 to 1960, participating in nine World Championship Grands Prix and numerous non-Championship races. He died in Churston Ferrers, Devon. Halford's obituary in The Daily Telegraph described him as \"one of the last of the 1950s' select band of private-entrant owner-drivers from the heyday of the classical front-engined Grand Prix car.\""@en ,
+		"Bruce Halford (Hampton-in-Arden, Inglaterra, 18 de maio de 1931 - Churston Ferrers, Inglaterra, 2 de dezembro de 2001) foi um automobilista ingl\u00EAs que participou de 9 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1956 e 1960."@pt ,
+		"Bruce Halford  (n\u00E9 le 18 mai 1931 \u00E0 Barston et d\u00E9c\u00E9d\u00E9 le 2 d\u00E9cembre 2001 \u00E0 Churston Ferrers) \u00E9tait un pilote de course automobile anglais. Il a notamment disput\u00E9 8 Grands Prix de Formule 1 sur les 9 engagements entre 1956 et 1960 d\u00E9butant le 14 juillet 1956 au Grand Prix de Grande-Bretagne.Il a pris part \u00E9galement \u00E0 37 engagements dans des courses hors-championnat, o\u00F9 il obtient de meilleurs r\u00E9sultats et a particip\u00E9 \u00E0 5 fois \u00E0 l'\u00E9preuve d'endurance des 24 Heures du Mans"@fr ,
+		"Bruce Halford (* 18. Mai 1931 Hampton-in-Arden; \u2020 2. Dezember 2001 in Churston Ferrers) war ein britischer Autorennfahrer."@de ;
+	dbo:birthDate	"1931-5-18"^^xsd:date ;
+	dbo:deathDate	"2001-12-2"^^xsd:date ;
+	dbo:wikiPageRevisionID	703964901 ;
+	dbo:birthPlace	dbr:Hampton-in-Arden ;
+	dbo:wikiPageID	1228251 ;
+	dbo:nationality	dbr:United_Kingdom ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1956_British_Grand_Prix> ;
+	dbo:races	"9"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1960_French_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Bruce_Halford	ns25:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1959_24_Hours_of_Le_Mans__27th__1>	dbo:firstDriver	dbr:Bruce_Halford .
+wikipedia-en:Bruce_Halford	foaf:primaryTopic	dbr:Bruce_Halford .
+<http://dbpedia.org/resource/1958_Caen_Grand_Prix>	dbo:thirdDriver	dbr:Bruce_Halford .
+<http://dbpedia.org/resource/1957_24_Hours_of_Le_Mans__54__1>	dbo:firstDriver	dbr:Bruce_Halford .
+<http://dbpedia.org/resource/1958_24_Hours_of_Le_Mans__15th__1>	dbo:team	dbr:Bruce_Halford ;
+	dbo:firstDriver	dbr:Bruce_Halford .
+<http://dbpedia.org/resource/1960_24_Hours_of_Le_Mans__34th__1>	dbo:firstDriver	dbr:Bruce_Halford .
+<http://dbpedia.org/resource/1961_24_Hours_of_Le_Mans__51__1>	dbo:firstDriver	dbr:Bruce_Halford .

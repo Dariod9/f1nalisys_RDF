@@ -1,0 +1,123 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Pablo_Birger	foaf:primaryTopic	dbr:Pablo_Birger .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Pablo_Birger	rdf:type	dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Pablo_Birger	rdf:type	yago:WikicatArgentineFormulaOneDrivers ,
+		yago:CausalAgent100007347 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Pablo_Birger	rdf:type	ns6:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Pablo_Birger	rdf:type	wikidata:Q378622 ,
+		ns6:NaturalPerson ,
+		dbo:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:Driver110034906 ,
+		dbo:MotorsportRacer ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Pablo_Birger	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q5 ,
+		dbo:Agent ,
+		yago:WikicatGordiniFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		dbo:FormulaOneRacer ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Pablo_Birger	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Pablo_Birger	rdf:type	schema:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Pablo_Birger	rdfs:label	"Pablo Birger"@nl ,
+		"Pablo Birger"@de ,
+		"Pablo Birger"@en ,
+		"Pablo Birger"@pl ,
+		"Pablo Birger"@pt ,
+		"Pablo Birger"@es ,
+		"Pablo Birger"@it ,
+		"Pablo Birger"@fr ;
+	rdfs:comment	"Pablo Birger (ur. 7 stycznia 1924 w Buenos Aires, zm. 9 marca 1966 tam\u017Ce) \u2013 by\u0142y argenty\u0144ski kierowca wy\u015Bcigowy. W 1953 i w 1955 roku wystartowa\u0142 w Grand Prix Argentyny w zespole Gordini. Nie uko\u0144czy\u0142 \u017Cadnego z wy\u015Bcig\u00F3w. Zgin\u0105\u0142 9 marca 1966 w wypadku drogowym."@pl ,
+		"Pablo Birger (Buenos Aires, 7 januari 1924 \u2013 aldaar, 9 maart 1966) was een Argentijns Formule 1-coureur. Hij reed 2 races; de Grand Prix van Argentini\u00EB in 1953 en 1955 voor het team Gordini, hij haalde geen van beide races de finish. Hij stierf op 42-jarige leeftijd bij een auto-ongeluk."@nl ,
+		"Pablo Birger (7 de enero de 1924, Buenos Aires-9 de Marzo de 1966, Luj\u00E1n, provincia de Buenos Aires) fue un piloto de automovilismo argentino. Compiti\u00F3 en el Turismo Carretera y en dos Grandes Premios de F\u00F3rmula 1 para Gordini. Falleci\u00F3 en una competencia sobre la Ruta 7, en cercan\u00EDas de la ciudad de Luj\u00E1n, cuando choc\u00F3 de frente contra otro competidor."@es ,
+		"Pablo Birger (Buenos Aires, 7 de janeiro de 1924 \u2013 Buenos Aires, 9 de mar\u00E7o de 1966) foi um automobilista argentino que disputou os Grandes Pr\u00EAmios da Argentina de 1953 e 1955."@pt ,
+		"Pablo Birger (* 6. Januar 1924 in Buenos Aires; \u2020 9. M\u00E4rz 1966 ebenda) war ein argentinischer Autorennfahrer."@de ,
+		"Pablo Birger (7 January 1924 \u2013 9 March 1966) was an Argentine racing driver who raced in two World Championship Grands Prix for the Gordini team. He raced a Gordini Type 15 in the 1953 Argentine Grand Prix but the car lasted just twenty-one laps. Two years later he again rented a seat with Gordini, this time racing a Type 16, but spun on the first lap and collided with Carlos Menditeguy. Birger, who was born in Buenos Aires, died in a road accident in his native city at the age of 42."@en ,
+		"Pablo Birger (n\u00E9 le 7 janvier 1924 \u00E0 Buenos Aires) est un ancien pilote argentin de course automobile. Il a notamment disput\u00E9 le Grand Prix d'Argentine en 1953 et 1955, sur Gordini. Il fut victime d'un accident de la route le 9 mars 1966."@fr .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Pablo_Birger	dbp:birthDate	"1924-01-07"^^xsd:date .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Pablo_Birger	owl:sameAs	dbpedia-nl:Pablo_Birger ,
+		dbr:Pablo_Birger .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Pablo_Birger	owl:sameAs	dbpedia-it:Pablo_Birger ,
+		<http://rdf.freebase.com/ns/m.04kwdr> ,
+		wikidata:Q172418 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Pablo_Birger	owl:sameAs	dbpedia-de:Pablo_Birger .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Pablo_Birger	owl:sameAs	dbpedia-pt:Pablo_Birger .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Pablo_Birger	owl:sameAs	yago-res:Pablo_Birger .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Pablo_Birger	owl:sameAs	dbpedia-fr:Pablo_Birger .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Pablo_Birger	owl:sameAs	dbpedia-pl:Pablo_Birger .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Pablo_Birger	owl:sameAs	dbpedia-wikidata:Q172418 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Pablo_Birger	owl:sameAs	dbpedia-es:Pablo_Birger .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Pablo_Birger	dct:subject	dbc:Sportspeople_from_Buenos_Aires ,
+		dbc:Argentine_racing_drivers ,
+		dbc:Road_incident_deaths_in_Argentina ,
+		<http://dbpedia.org/resource/Category:1966_deaths> ,
+		<http://dbpedia.org/resource/Category:1924_births> ,
+		dbc:Argentine_Formula_One_drivers ,
+		dbc:Argentine_people_of_German_descent ,
+		dbc:Gordini_Formula_One_drivers ;
+	foaf:name	"Pablo Birger"@en ;
+	dct:description	"Argentine racing driver"@en ;
+	foaf:givenName	"Pablo"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Pablo_Birger ;
+	foaf:surname	"Birger"@en ;
+	dbp:points	0 ;
+	dbp:years	","^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Gordini .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Pablo_Birger	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pablo_Birger?oldid=717617684> ;
+	dbp:birthPlace	"Buenos Aires, Argentina"^^xsd:string ;
+	dbp:deathDate	"1966-03-09"^^xsd:date ;
+	dbp:deathPlace	"Buenos Aires, Argentina"^^xsd:string ;
+	dbo:abstract	"Pablo Birger (n\u00E9 le 7 janvier 1924 \u00E0 Buenos Aires) est un ancien pilote argentin de course automobile. Il a notamment disput\u00E9 le Grand Prix d'Argentine en 1953 et 1955, sur Gordini. Il fut victime d'un accident de la route le 9 mars 1966."@fr ,
+		"Pablo Birger (7 January 1924 \u2013 9 March 1966) was an Argentine racing driver who raced in two World Championship Grands Prix for the Gordini team. He raced a Gordini Type 15 in the 1953 Argentine Grand Prix but the car lasted just twenty-one laps. Two years later he again rented a seat with Gordini, this time racing a Type 16, but spun on the first lap and collided with Carlos Menditeguy. Birger, who was born in Buenos Aires, died in a road accident in his native city at the age of 42."@en ,
+		"Pablo Birger (ur. 7 stycznia 1924 w Buenos Aires, zm. 9 marca 1966 tam\u017Ce) \u2013 by\u0142y argenty\u0144ski kierowca wy\u015Bcigowy. W 1953 i w 1955 roku wystartowa\u0142 w Grand Prix Argentyny w zespole Gordini. Nie uko\u0144czy\u0142 \u017Cadnego z wy\u015Bcig\u00F3w. Zgin\u0105\u0142 9 marca 1966 w wypadku drogowym."@pl ,
+		"Pablo Birger (Buenos Aires, 7 de janeiro de 1924 \u2013 Buenos Aires, 9 de mar\u00E7o de 1966) foi um automobilista argentino que disputou os Grandes Pr\u00EAmios da Argentina de 1953 e 1955."@pt ,
+		"Pablo Birger (7 de enero de 1924, Buenos Aires-9 de Marzo de 1966, Luj\u00E1n, provincia de Buenos Aires) fue un piloto de automovilismo argentino. Compiti\u00F3 en el Turismo Carretera y en dos Grandes Premios de F\u00F3rmula 1 para Gordini. Falleci\u00F3 en una competencia sobre la Ruta 7, en cercan\u00EDas de la ciudad de Luj\u00E1n, cuando choc\u00F3 de frente contra otro competidor."@es ,
+		"Pablo Birger (* 6. Januar 1924 in Buenos Aires; \u2020 9. M\u00E4rz 1966 ebenda) war ein argentinischer Autorennfahrer."@de ,
+		"Pablo Birger (Buenos Aires, 7 januari 1924 \u2013 aldaar, 9 maart 1966) was een Argentijns Formule 1-coureur. Hij reed 2 races; de Grand Prix van Argentini\u00EB in 1953 en 1955 voor het team Gordini, hij haalde geen van beide races de finish. Hij stierf op 42-jarige leeftijd bij een auto-ongeluk."@nl ;
+	dbo:birthDate	"1924-1-7"^^xsd:date ;
+	dbo:deathDate	"1966-3-9"^^xsd:date ;
+	dbo:deathPlace	dbr:Buenos_Aires ;
+	dbo:wikiPageRevisionID	717617684 ;
+	dbo:birthPlace	dbr:Buenos_Aires ;
+	dbo:wikiPageID	1235352 ;
+	dbo:nationality	dbr:Argentina ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1953_Argentine_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1955_Argentine_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Pablo_Birger	ns26:hypernym	dbr:Driver .
+dbr:Birger	dbo:wikiPageDisambiguates	dbr:Pablo_Birger .

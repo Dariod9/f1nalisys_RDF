@@ -1,0 +1,265 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Red_Bull_Ring_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli ;
+	dbp:poleDriver	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Salzburgring_round>	dbp:thirdDriverR	dbr:Gianni_Morbidelli .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Ferrari_643__4	dbo:firstDriver	dbr:Gianni_Morbidelli .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Gianni_Morbidelli	rdf:type	yago:WikicatV8SupercarDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatADACGTMastersDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Gianni_Morbidelli	rdf:type	foaf:Person ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatMinardiFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatArrowsFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Gianni_Morbidelli	rdf:type	umbel-rc:RaceCarDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Gianni_Morbidelli	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Gianni_Morbidelli	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		wikidata:Q378622 ,
+		yago:WikicatSauberFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Gianni_Morbidelli	rdf:type	owl:Thing ,
+		dbo:Agent ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:WikicatItalianFormulaThreeChampionshipDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatSuperstarsSeriesDrivers ,
+		yago:WikicatScuderiaItaliaFormulaOneDrivers ,
+		yago:WikicatSpeedcarSeriesDrivers ,
+		dbo:Athlete ,
+		yago:CausalAgent100007347 ,
+		dbo:Person .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Gianni_Morbidelli	rdf:type	ns10:Agent ,
+		ns10:NaturalPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Gianni_Morbidelli	rdfs:label	"Gianni Morbidelli"@en ,
+		"Gianni Morbidelli"@it ,
+		"Gianni Morbidelli"@es ,
+		"\u062C\u064A\u0627\u0646\u064A \u0645\u0648\u0631\u0628\u064A\u062F\u064A\u0644\u064A"@ar ,
+		"Gianni Morbidelli"@pt ,
+		"Gianni Morbidelli"@de ,
+		"Gianni Morbidelli"@fr ,
+		"\u30B8\u30E3\u30F3\u30CB\u30FB\u30E2\u30EB\u30D3\u30C7\u30EA"@ja ,
+		"Gianni Morbidelli"@pl ,
+		"\u041C\u043E\u0440\u0431\u0438\u0434\u0435\u043B\u043B\u0438, \u0414\u0436\u0430\u043D\u043D\u0438"@ru ,
+		"Gianni Morbidelli"@nl ;
+	rdfs:comment	"Gianni Morbidelli (P\u00E9saro, 13 de janeiro de 1968) \u00E9 um ex-piloto italiano de F\u00F3rmula 1. Ele participou de 70 Grands Prix de F\u00F3rmula 1, estreando em 11 de mar\u00E7o de 1990. Ele conseguiu um p\u00F3dio e somou um total de 8,5 pontos no campeonato. Em 1998 ele pilotou para a Volvo no British Touring Car Championship, mas n\u00E3o foi t\u00E3o competitivo quanto o seu companheiro de equipe Rickard Rydell que acabou levando o t\u00EDtulo de campe\u00E3o. Mais recentemente ele competiu na European Touring Car Championship e World Touring Car Championship pela Alfa Romeo."@pt ,
+		"\u0414\u0436\u0430\u043D\u043D\u0438 \u041C\u043E\u0440\u0431\u0438\u0434\u0435\u043B\u043B\u0438 (\u0438\u0442\u0430\u043B. Gianni Morbidelli  (13 \u044F\u043D\u0432\u0430\u0440\u044F, 1968, \u041F\u0435\u0437\u0430\u0440\u043E, \u041F\u0435\u0437\u0430\u0440\u043E-\u044D-\u0423\u0440\u0431\u0438\u043D\u043E) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0439 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-3\u00BB, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0430\u0437\u0438\u0430\u0442\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 SpeedCar'2008-2009."@ru ,
+		"Gianni Morbidelli (born 13 January 1968) is an Italian racing driver. He is the son of Giancarlo Morbidelli, the founder of Morbidelli motorcycle company which had success in Grand Prix motorcycle racing. Morbidelli participated in 70 Formula One Grands Prix, debuting on 11 March 1990. He achieved one podium, and scored a total of 8.5 championship points. He competes in the World Touring Car Championship."@en ,
+		"Gianni Morbidelli (n\u00E9 le 13 janvier 1968 \u00E0 Pesaro en Italie) est un pilote automobile italien. Il a notamment particip\u00E9 \u00E0 67 Grands Prix de Formule 1 entre 1990 et 1997."@fr ,
+		"Gianni Morbidelli (Pesaro, 13 januari 1968) is een Italiaans autocoureur. Hij maakte zijn Formule 1-debuut in 1990 bij Scuderia Italia en nam deel aan 70 Grands Prix waarvan hij er 67 mocht starten. Hij scoorde 8,5 punten. Hij werd Italiaans en Europees kampioen Formule 3 in 1989. In 1990 mocht hij al onmiddellijk debuteren in de Formule 1 voor het team Scuderia Italia, hij reed hiervoor 2 races. Hierna concentreerde hij zich op de Formule 3000 terwijl hij toch nog testrijder was voor Ferrari. Hetzelfde seizoen mocht hij ook nog twee races voor Minardi rijden in de Formule 1."@nl ,
+		"Ritenuto un ottimo collaudatore, era considerato una delle migliori promesse dell'automobilismo italiano nei primi anni '90. Campione italiano ed europeo di Formula 3 nel 1989, esord\u00EC l'anno seguente in Formula 1, categoria nel quale disput\u00F2 sei campionati ed ottenne, come miglior risultato, un terzo posto al Gran Premio d'Australia 1995. Ha dedicato, per\u00F2, la maggior parte della sua carriera a gare su ruote coperte, gareggiando in campionati come il BTCC e l'ETCC, dove ha conquistato diverse vittorie."@it ,
+		"\u062C\u064A\u0627\u0646\u064A \u0645\u0648\u0631\u0628\u064A\u062F\u064A\u0644\u064A \u0645\u0648\u0627\u0644\u064A\u062F 13 \u064A\u0646\u0627\u064A\u0631 1968 \u0641\u064A \u0628\u064A\u0632\u0627\u0631\u0648\u060C \u0645\u0627\u0631\u0643\u064A\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 1990. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 70 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Gianni Morbidelli (nacido el 13 de junio de 1968 en P\u00E9saro, Italia) es un piloto de automovilismo de velocidad italiano. Particip\u00F3 en 70 grandes premios de F\u00F3rmula 1, y logr\u00F3 un total de 8.5 puntos. Luego se destac\u00F3 en turismos, al obtener cuatro t\u00EDtulos en la Superstars Series italiana en 2007, 2008, 2009 y 2013, dos t\u00EDtulos internacionales en 2009 y 2013, y 29 victorias en el certamen."@es ,
+		"Gianni Morbidelli (* 13. Januar 1968 in Pesaro) ist ein italienischer Automobilrennfahrer. Er gewann 1989 die italienische Formel-3-Meisterschaft. Von 1990 bis 1997 trat er zu 67 Formel-1-Rennen an. Von 2007 bis 2013 war er in der Superstars Series aktiv und gewann in dieser Zeit sechs Meisterschaften. 2015 ging er in der TCR International Series an den Start."@de ,
+		"Gianni Morbidelli (ur. 13 stycznia 1968 w Pesaro) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W latach 1990 - 1992, 1994 - 1995 i 1997 startowa\u0142 w wy\u015Bcigach Formu\u0142y 1."@pl ,
+		"\u30B8\u30E3\u30F3\u30CB\u30FB\u30E2\u30EB\u30D3\u30C7\u30EA\uFF08Gianni Morbidelli, 1968\u5E741\u670813\u65E5 - \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30FB\u30DA\u30FC\u30B6\u30ED\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u59D3\u306F\u300C\u30E2\u30EB\u30D3\u30C7\u30C3\u30EA\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u30A4\u30BF\u30EA\u30A2\u306E\u30AA\u30FC\u30C8\u30D0\u30A4\u30E1\u30FC\u30AB\u30FC\u3067\u3042\u308B\u30E2\u30EB\u30D3\u30C7\u30EA\u793E\u306E\u5FA1\u66F9\u53F8\u3067\u3042\u308B\u3002\u8EAB\u9577168cm\u3002"@ja ;
+	owl:sameAs	<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30F3\u30CB\u30FB\u30E2\u30EB\u30D3\u30C7\u30EA> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-pt:Gianni_Morbidelli ,
+		dbr:Gianni_Morbidelli .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-wikidata:Q171559 ,
+		<http://rdf.freebase.com/ns/m.04k1qw> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-es:Gianni_Morbidelli .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-pl:Gianni_Morbidelli .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-cs:Gianni_Morbidelli ,
+		wikidata:Q171559 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-de:Gianni_Morbidelli .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-id:Gianni_Morbidelli .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-it:Gianni_Morbidelli .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-nl:Gianni_Morbidelli .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	dbpedia-fr:Gianni_Morbidelli .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Gianni_Morbidelli	owl:sameAs	yago-res:Gianni_Morbidelli .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Gianni_Morbidelli	dct:subject	dbc:Italian_Formula_One_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Arrows_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:World_Rallycross_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1968_births> ,
+		dbc:Speedcar_Series_drivers ,
+		dbc:Sauber_Formula_One_drivers ,
+		dbc:People_from_Pesaro ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:Italian_Formula_Three_Championship_drivers ,
+		dbc:Scuderia_Italia_Formula_One_drivers ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:V8_Supercar_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:ADAC_GT_Masters_drivers ,
+		dbc:Superstars_Series_drivers ,
+		dbc:TCR_International_Series_drivers ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		dbc:European_Touring_Car_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ;
+	foaf:name	"Gianni Morbidelli"@en ;
+	foaf:homepage	<http://www.giannimorbidelli.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Gianni_morbidelli_spafrancorchamps2014.JPG> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Gianni"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Gianni_Morbidelli	foaf:isPrimaryTopicOf	wikipedia-en:Gianni_Morbidelli ;
+	foaf:surname	"Morbidelli"@en ;
+	dbp:prevSeries	dbr:Superstars_Series ,
+		dbr:Formula_One ,
+		dbr:V8_Supercars ,
+		dbr:British_Touring_Car_Championship .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Gianni_Morbidelli	dbp:points	8.5 ;
+	dbp:years	200720082009 ,
+		"\u2013, \u2013,"^^xsd:string ,
+		1989 ,
+		1990 ,
+		2008 ,
+		2009 ,
+		2013 ;
+	dbp:after	dbr:Roberto_Colciago ,
+		"none"^^xsd:string ,
+		dbr:Thomas_Biagi ,
+		dbr:Gabriele_Tarquini ,
+		dbr:Alessandro_Zanardi ,
+		dbr:Francesco_Sini ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scuderia_Ferrari ,
+		dbr:Sauber ,
+		dbr:Footwork_Arrows ,
+		dbr:Scuderia_Italia ,
+		dbr:Minardi ;
+	dbp:bestFinish	9 ;
+	dbp:wins	1 ;
+	dbp:fastestLaps	0 ;
+	dbp:poles	1 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Gianni_Morbidelli	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gianni_Morbidelli?oldid=743086524> ;
+	dbo:wikiPageExternalLink	<http://www.gtmasters.org/driverbio.php?countkey=38> ,
+		<http://www.giannimorbidelli.com/> ,
+		<http://www.reiter-engineering.com/racing-drivers/gianni-morbidelli/> ;
+	dbp:caption	"Morbidelli at the 2014 FIA WTCC Race of Belgium."^^xsd:string ;
+	dbp:firstYear	2006 ;
+	dbp:prevSeriesYears	2010 ,
+		2009 ,
+		1998 ,
+		1990 ;
+	dbp:starts	42 ;
+	dbo:team	<http://dbpedia.org/resource/M\u00FCnnich_Motorsport> ;
+	dbp:imagesize	200 ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:carNumber	10 ;
+	dbp:before	dbr:Joachim_Winkelhock ,
+		dbr:Johan_Kristoffersson ,
+		dbr:Johnny_Herbert ,
+		dbr:Max_Pigoli ,
+		dbr:Emanuele_Naspetti ,
+		<http://dbpedia.org/resource/Luis_P\u00E9rez-Sala> ,
+		dbr:Stefano_Gabellini ;
+	dbp:formerTeams	<http://dbpedia.org/resource/N._Technology> ;
+	dbo:abstract	"Gianni Morbidelli (born 13 January 1968) is an Italian racing driver. He is the son of Giancarlo Morbidelli, the founder of Morbidelli motorcycle company which had success in Grand Prix motorcycle racing. Morbidelli participated in 70 Formula One Grands Prix, debuting on 11 March 1990. He achieved one podium, and scored a total of 8.5 championship points. He competes in the World Touring Car Championship."@en ,
+		"Gianni Morbidelli (n\u00E9 le 13 janvier 1968 \u00E0 Pesaro en Italie) est un pilote automobile italien. Il a notamment particip\u00E9 \u00E0 67 Grands Prix de Formule 1 entre 1990 et 1997."@fr ,
+		"Gianni Morbidelli (* 13. Januar 1968 in Pesaro) ist ein italienischer Automobilrennfahrer. Er gewann 1989 die italienische Formel-3-Meisterschaft. Von 1990 bis 1997 trat er zu 67 Formel-1-Rennen an. Von 2007 bis 2013 war er in der Superstars Series aktiv und gewann in dieser Zeit sechs Meisterschaften. 2015 ging er in der TCR International Series an den Start."@de ,
+		"Gianni Morbidelli (nacido el 13 de junio de 1968 en P\u00E9saro, Italia) es un piloto de automovilismo de velocidad italiano. Particip\u00F3 en 70 grandes premios de F\u00F3rmula 1, y logr\u00F3 un total de 8.5 puntos. Luego se destac\u00F3 en turismos, al obtener cuatro t\u00EDtulos en la Superstars Series italiana en 2007, 2008, 2009 y 2013, dos t\u00EDtulos internacionales en 2009 y 2013, y 29 victorias en el certamen."@es ,
+		"\u30B8\u30E3\u30F3\u30CB\u30FB\u30E2\u30EB\u30D3\u30C7\u30EA\uFF08Gianni Morbidelli, 1968\u5E741\u670813\u65E5 - \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30FB\u30DA\u30FC\u30B6\u30ED\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u59D3\u306F\u300C\u30E2\u30EB\u30D3\u30C7\u30C3\u30EA\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u30A4\u30BF\u30EA\u30A2\u306E\u30AA\u30FC\u30C8\u30D0\u30A4\u30E1\u30FC\u30AB\u30FC\u3067\u3042\u308B\u30E2\u30EB\u30D3\u30C7\u30EA\u793E\u306E\u5FA1\u66F9\u53F8\u3067\u3042\u308B\u3002\u8EAB\u9577168cm\u3002"@ja ,
+		"Ritenuto un ottimo collaudatore, era considerato una delle migliori promesse dell'automobilismo italiano nei primi anni '90. Campione italiano ed europeo di Formula 3 nel 1989, esord\u00EC l'anno seguente in Formula 1, categoria nel quale disput\u00F2 sei campionati ed ottenne, come miglior risultato, un terzo posto al Gran Premio d'Australia 1995. Ha dedicato, per\u00F2, la maggior parte della sua carriera a gare su ruote coperte, gareggiando in campionati come il BTCC e l'ETCC, dove ha conquistato diverse vittorie."@it ,
+		"Gianni Morbidelli (Pesaro, 13 januari 1968) is een Italiaans autocoureur. Hij maakte zijn Formule 1-debuut in 1990 bij Scuderia Italia en nam deel aan 70 Grands Prix waarvan hij er 67 mocht starten. Hij scoorde 8,5 punten. Hij werd Italiaans en Europees kampioen Formule 3 in 1989. In 1990 mocht hij al onmiddellijk debuteren in de Formule 1 voor het team Scuderia Italia, hij reed hiervoor 2 races. Hierna concentreerde hij zich op de Formule 3000 terwijl hij toch nog testrijder was voor Ferrari. Hetzelfde seizoen mocht hij ook nog twee races voor Minardi rijden in de Formule 1. Hij bleef bij Minardi tot het einde van het seizoen 1992. Hij mocht de laatste Grand Prix van het seizoen voor Ferrari rijden nadat Alain Prost ontslagen was. Hij behaalde in Australi\u00EB de zesde plaats. De race werd echter voor de helft stilgelegd en Morbidelli scoorde hierdoor maar een half puntje. In 1994 en 1995 reed hij voor Footwork met als beste resultaat een derde plaats in de Grand Prix van Australi\u00EB in 1995. In 1997 reed hij nog enkele races voor Sauber maar zonder al te veel succes. Daarnaast kon hij door blessures ook een aantal races niet rijden, waardoor zijn Formule 1-carri\u00E8re erop zat. Daarop stapte hij over naar het BTCC en waarin hij reed voor Volvo, maar hij was niet zo competitief als zijn teammaat Rickard Rydell die de titel won. Recentelijk reed hij ook nog voor Alfa Romeo in de ETCC en BTCC."@nl ,
+		"Gianni Morbidelli (P\u00E9saro, 13 de janeiro de 1968) \u00E9 um ex-piloto italiano de F\u00F3rmula 1. Ele participou de 70 Grands Prix de F\u00F3rmula 1, estreando em 11 de mar\u00E7o de 1990. Ele conseguiu um p\u00F3dio e somou um total de 8,5 pontos no campeonato. Ele foi campe\u00E3o da F\u00F3rmula 3 italiana e da Copa Europ\u00E9ia de F\u00F3rmula 3 em 1989. Depois de realizar as duas primeiras corridas da temporada de 1990 de F1 pela Dallara, ele concentrou-se na F\u00F3rmula 3000. Quando essa temporada terminou, ele fez as duas \u00FAltimas corridas da temporada de F1 com a Minardi, onde ele continuou at\u00E9 o fim de 1992, com exce\u00E7\u00E3o de 1991 na Austr\u00E1lia, no qual ele substituiu Alain Prost na Ferrari, marcando meio ponto pelo sexto lugar conseguido em uma corrida que durou apenas catorze voltas e foi encerrada devido \u00E0 pista muito molhada. Ele uniu-se a Footwork em 1994 depois de ter ficado um ano parado, correndo para eles a maior parte das duas temporadas, terminando em terceiro na Austr\u00E1lia em 1995, uma corrida muito desgastante. Algumas poucas corridas sem sucesso no meio da temporada de 1997 pela Sauber e interrup\u00E7\u00F5es devido a ferimentos, acabaram por encerrar a sua carreira na F\u00F3rmula 1. Em 1998 ele pilotou para a Volvo no British Touring Car Championship, mas n\u00E3o foi t\u00E3o competitivo quanto o seu companheiro de equipe Rickard Rydell que acabou levando o t\u00EDtulo de campe\u00E3o. Mais recentemente ele competiu na European Touring Car Championship e World Touring Car Championship pela Alfa Romeo."@pt ,
+		"\u062C\u064A\u0627\u0646\u064A \u0645\u0648\u0631\u0628\u064A\u062F\u064A\u0644\u064A \u0645\u0648\u0627\u0644\u064A\u062F 13 \u064A\u0646\u0627\u064A\u0631 1968 \u0641\u064A \u0628\u064A\u0632\u0627\u0631\u0648\u060C \u0645\u0627\u0631\u0643\u064A\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 1990. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 70 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Gianni Morbidelli (ur. 13 stycznia 1968 w Pesaro) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W latach 1990 - 1992, 1994 - 1995 i 1997 startowa\u0142 w wy\u015Bcigach Formu\u0142y 1."@pl ,
+		"\u0414\u0436\u0430\u043D\u043D\u0438 \u041C\u043E\u0440\u0431\u0438\u0434\u0435\u043B\u043B\u0438 (\u0438\u0442\u0430\u043B. Gianni Morbidelli  (13 \u044F\u043D\u0432\u0430\u0440\u044F, 1968, \u041F\u0435\u0437\u0430\u0440\u043E, \u041F\u0435\u0437\u0430\u0440\u043E-\u044D-\u0423\u0440\u0431\u0438\u043D\u043E) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0439 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-3\u00BB, \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0430\u0437\u0438\u0430\u0442\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 SpeedCar'2008-2009."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Gianni_morbidelli_spafrancorchamps2014.JPG?width=300> ;
+	dbo:birthDate	"1968-1-13"^^xsd:date ,
+		"1968-01-13"^^xsd:date ;
+	dbo:wikiPageRevisionID	743086524 ;
+	dbo:birthPlace	dbr:Pesaro ;
+	dbo:wikiPageID	1226455 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1990_United_States_Grand_Prix> ;
+	dbo:races	"70"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1997_Japanese_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbp:year	2014 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Gianni_Morbidelli	ns28:hypernym	dbr:Driver ;
+	dbp:title	"Winner"^^xsd:string ,
+		dbr:FIA_European_Formula_Three_Cup ,
+		dbr:Italian_Formula_Three_Championship ,
+		"International Champion"^^xsd:string ,
+		dbr:Formula_One_Indoor_Trophy ,
+		dbr:Speedcar_Series ,
+		"Italian Champion"^^xsd:string ,
+		"Champion"^^xsd:string ,
+		"International & Italian Champion"^^xsd:string ,
+		dbr:Superstars_Series ;
+	dbp:currentSeries	dbr:World_Touring_Car_Championship .
+<http://dbpedia.org/resource/1988_Macau_Grand_Prix__Forti_Corse__2>	dbo:firstDriver	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/1989_Macau_Grand_Prix__Forti_Corse__1>	dbo:firstDriver	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2012_Superstars_Series_Donington_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli ;
+	dbp:firstDriverR	dbr:Gianni_Morbidelli ;
+	dbp:poleDriver	dbr:Gianni_Morbidelli .
+wikipedia-en:Gianni_Morbidelli	foaf:primaryTopic	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Sepang_round>	dbp:thirdDriverR	dbr:Gianni_Morbidelli .
+dbr:Stefano_Gabellini	dbp:after	dbr:Gianni_Morbidelli .
+dbr:Roberto_Colciago	dbp:before	dbr:Gianni_Morbidelli .
+dbr:Gianni	dbo:wikiPageDisambiguates	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Monza_round>	dbp:firstDriverR	dbr:Gianni_Morbidelli ;
+	dbp:poleDriver	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2016_TCR_International_Series_Imola_round>	dbp:poleDriver	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2012_Superstars_Series_Imola_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Singapore_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli ;
+	dbp:thirdDriverR	dbr:Gianni_Morbidelli .
+dbr:Emanuele_Naspetti	dbp:after	dbr:Gianni_Morbidelli .
+dbr:Thomas_Biagi	dbp:before	dbr:Gianni_Morbidelli .
+dbr:Alex_Zanardi	dbp:before	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Buriram_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli ;
+	dbp:poleDriver	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2016_TCR_International_Series_Buriram_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli ;
+	dbp:thirdDriverR	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Shanghai_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli ;
+	dbp:firstDriverR	dbr:Gianni_Morbidelli ;
+	dbp:thirdDriverR	dbr:Gianni_Morbidelli ;
+	dbp:poleDriver	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2016_TCR_International_Series_Sochi_round>	dbp:thirdDriverR	dbr:Gianni_Morbidelli .
+dbr:Max_Pigoli	dbp:after	dbr:Gianni_Morbidelli .
+dbr:Gabriele_Tarquini	dbp:before	dbr:Gianni_Morbidelli .
+dbr:Johnny_Herbert	dbp:after	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/1991_Formula_One_Indoor_Trophy>	dbp:rd1Team	dbr:Gianni_Morbidelli .
+dbr:Joachim_Winkelhock	dbp:after	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2012_Superstars_Series_Spa-Francorchamps_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli ;
+	dbp:firstDriverR	dbr:Gianni_Morbidelli ;
+	dbp:poleDriver	dbr:Gianni_Morbidelli .
+dbr:Johan_Kristoffersson	dbp:after	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/1995_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2016_TCR_International_Series_Estoril_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli ;
+	dbp:firstDriverR	dbr:Gianni_Morbidelli ;
+	dbp:thirdDriverR	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/Luis_P\u00E9rez-Sala>	dbp:after	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2015_TCR_International_Series_Valencia_round>	dbp:thirdDriverR	dbr:Gianni_Morbidelli .
+<http://dbpedia.org/resource/2016_TCR_International_Series_Sakhir_round>	dbp:fastDriverR	dbr:Gianni_Morbidelli ;
+	dbp:secondDriverR	dbr:Gianni_Morbidelli .

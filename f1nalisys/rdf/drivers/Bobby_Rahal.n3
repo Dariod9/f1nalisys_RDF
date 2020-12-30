@@ -1,0 +1,211 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1996_Molson_Indy_Toronto__8__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1995_PPG_Indy_Car_World_Series__Rahal-Hogan_Racing__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1995_Indycar_Australia>	dbp:secondDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1991_Gold_Coast_IndyCar_Grand_Prix>	dbp:secondDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1992_Daikyo_IndyCar_Grand_Prix>	dbp:thirdDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1998_Toyota_Grand_Prix_of_Long_Beach>	dbp:fastDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1986_Indianapolis_500>	dbp:thisWinner	dbr:Bobby_Rahal ;
+	dbp:winner	dbr:Bobby_Rahal .
+dbr:Rahal	dbo:wikiPageDisambiguates	dbr:Bobby_Rahal .
+dbr:Danny_Sullivan	dbp:before	dbr:Bobby_Rahal ;
+	dbp:after	dbr:Bobby_Rahal .
+dbr:Michael_Andretti	dbp:before	dbr:Bobby_Rahal ;
+	dbp:after	dbr:Bobby_Rahal .
+dbr:Graham_Rahal	dbp:relatedTo	dbr:Bobby_Rahal .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Bobby_Rahal	foaf:primaryTopic	dbr:Bobby_Rahal .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Bobby_Rahal	rdf:type	ns6:Agent ,
+		ns6:NaturalPerson ,
+		dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Bobby_Rahal	rdf:type	yago:PhysicalEntity100001930 ,
+		dbo:Agent ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Bobby_Rahal	rdf:type	wikidata:Q215627 .
+@prefix schema:	<http://schema.org/> .
+dbr:Bobby_Rahal	rdf:type	schema:Person ,
+		wikidata:Q24229398 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:RacingDriver ,
+		wikidata:Q5 ,
+		yago:WikicatNASCARDrivers ,
+		wikidata:Q378622 ,
+		foaf:Person ,
+		yago:WikicatWolfFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:WikicatAtlanticChampionshipDrivers ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatChampCarDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatRacingDriversFromOhio .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Bobby_Rahal	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Bobby_Rahal	rdfs:label	"\u0420\u044D\u0439\u0445\u043E\u043B, \u0411\u043E\u0431\u0431\u0438"@ru ,
+		"Bobby Rahal"@de ,
+		"Bobby Rahal"@it ,
+		"\u30DC\u30D3\u30FC\u30FB\u30EC\u30A4\u30DB\u30FC\u30EB"@ja ,
+		"Bobby Rahal"@fr ,
+		"Bobby Rahal"@nl ,
+		"Bobby Rahal"@es ,
+		"Bobby Rahal"@en ,
+		"Bobby Rahal"@pt ,
+		"Bobby Rahal"@pl ;
+	rdfs:comment	"\u0420\u043E\u0431\u0435\u0440\u0442 \u0412\u0443\u0434\u0432\u043E\u0440\u0434 \u00AB\u0411\u043E\u0431\u0431\u0438\u00BB \u0420\u044D\u0439\u0445\u043E\u043B (\u0430\u043D\u0433\u043B. Robert \"Bobby\" Woodward Rahal, 10 \u044F\u043D\u0432\u0430\u0440\u044F 1953 \u0433\u043E\u0434\u0430, \u041C\u0435\u0434\u0430\u0439\u043D\u0430, \u0448\u0442\u0430\u0442 \u041E\u0433\u0430\u0439\u043E, \u0421\u0428\u0410) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0438 \u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 CART. \u0422\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D CART (1986, 1987, 1992), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043A\u0438 500 \u043C\u0438\u043B\u044C \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0430 1986 \u0433\u043E\u0434\u0430. \u0412\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0420\u044D\u0439\u0445\u043E\u043B \u041B\u0435\u0442\u0442\u0435\u0440\u043C\u0430\u043D \u041B\u044D\u043D\u0438\u0433\u0430\u043D \u0420\u044D\u0439\u0441\u0438\u043D\u0433\u00BB, \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044E\u0449\u0435\u0439 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 IndyCar."@ru ,
+		"Robert 'Bobby' Woodward Rahal (Medina (Ohio), 10 januari 1953) is een Amerikaanse raceteameigenaar en voormalig autocoureur. Hij won de Indianapolis 500 van 1986 en is drievoudig Champ Car kampioen. In 1981 won Rahal de 24 uur van Daytona. Zijn zoon Graham Rahal werd in 2006 ook autocoureur."@nl ,
+		"Bobby RahalFichier:Bobby Rahal at the Barber Legends of Motorsport 2010.jpg Robert Woodward Rahal (plus connu sous le nom de Bobby Rahal), n\u00E9 le 10 janvier \u00E0 Medina, Ohio, est un pilote automobile am\u00E9ricain, d\u00E9sormais reconverti en tant que directeur d'\u00E9curie."@fr ,
+		"Robert Woodward Rahal, mejor conocido como Bobby Rahal (10 de enero de 1953, Medina, Ohio, Estados Unidos), es un expiloto de automovilismo de velocidad y actual due\u00F1o del equipo Rahal Letterman Lanigan Racing. Su hijo Graham Rahal tambi\u00E9n compite en automovilismo. Rahal fue presidente y jefe ejecutivo de la CART durante la primera mitad del a\u00F1o 2000. A lo largo de la temporada 2001 de F\u00F3rmula 1, fue gerente del equipo Jaguar Racing de F\u00F3rmula 1."@es ,
+		"\u30ED\u30D0\u30FC\u30C8\u30FB\"\u30DC\u30D3\u30FC\"\u30FB\u30A6\u30C3\u30C9\u30EF\u30FC\u30C9\u30FB\u30EC\u30A4\u30DB\u30FC\u30EB\uFF08Robert \"Bobby\" Woodward Rahal, 1953\u5E741\u670810\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30AA\u30CF\u30A4\u30AA\u5DDE\u30E1\u30C0\u30A4\u30CA\u751F\u307E\u308C\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u73FE\u5728\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u306E\u30AA\u30FC\u30CA\u30FC\u30022004\u5E74\u306B\u56FD\u969B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u6BBF\u5802\u5165\u308A\u3092\u679C\u305F\u3057\u305F\u3002\u65E5\u672C\u306B\u304A\u3044\u3066\u304B\u3064\u3066\u306F\u300C\u30EC\u30A4\u30CF\u30EB\u300D\u3001\u300C\u30EC\u30FC\u30CF\u30EB\u300D\u3001\u300C\u30E9\u30CF\u30EB\u300D\u7B49\u3068\u8868\u8A18\u3055\u308C\u3066\u3044\u305F\u304C\u3001\u8FD1\u5E74\u306F\u672C\u4EBA\u306B\u3088\u308B\u767A\u97F3\u306B\u3088\u308A\u8FD1\u3044\u300C\u30EC\u30A4\u30DB\u30FC\u30EB\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3088\u3046\u306B\u306A\u3063\u305F\u3002"@ja ,
+		"Robert \u201EBobby\u201C Woodward Rahal (* 10. Juni 1953 in Medina, Ohio, USA) ist ein ehemaliger Automobilrennfahrer, heutiger Mitbesitzer eines Teams in der IndyCar Series und Unternehmer."@de ,
+		"Robert Woodward \u201EBobby\u201D Rahal (ur. 10 stycznia 1953 roku w Medinie) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Robert \"Bobby\" Woodward Rahal (Medina, 10 de janeiro de 1953) \u00E9 um ex-automobilista norte-americano. \u00C9 pai de Graham Rahal, atualmente piloto da IndyCar Series."@pt ,
+		"Robert \"Bobby\" Woodward Rahal (born January 10, 1953 in Medina, Ohio) is an American auto racing driver and team owner. As a driver, he won three championships and 24 races in the CART open-wheel series, including the 1986 Indianapolis 500. He also won the 2004 Indianapolis 500 as a team owner for the winning driver, Buddy Rice. After retiring as a driver, Rahal held managerial positions with the Jaguar Formula 1 team and also was an interim president of the CART series. Rahal was also a sports car driver during the 1980s, and made one NASCAR start for the Wood Brothers."@en .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Bobby_Rahal	owl:sameAs	dbpedia-pl:Bobby_Rahal ,
+		<http://ja.dbpedia.org/resource/\u30DC\u30D3\u30FC\u30FB\u30EC\u30A4\u30DB\u30FC\u30EB> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Bobby_Rahal	owl:sameAs	dbpedia-fr:Bobby_Rahal .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Bobby_Rahal	owl:sameAs	dbpedia-pt:Bobby_Rahal .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Bobby_Rahal	owl:sameAs	dbpedia-it:Bobby_Rahal .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Bobby_Rahal	owl:sameAs	dbpedia-wikidata:Q172255 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Bobby_Rahal	owl:sameAs	dbpedia-es:Bobby_Rahal ,
+		<http://rdf.freebase.com/ns/m.033b4r> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Bobby_Rahal	owl:sameAs	yago-res:Bobby_Rahal ,
+		wikidata:Q172255 ,
+		dbr:Bobby_Rahal .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Bobby_Rahal	owl:sameAs	dbpedia-nl:Bobby_Rahal .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Bobby_Rahal	owl:sameAs	dbpedia-de:Bobby_Rahal .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Bobby_Rahal	dct:subject	dbc:Champ_Car_drivers ,
+		dbc:American_people_of_Lebanese_descent ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:NASCAR_drivers ,
+		dbc:IndyCar_Series_team_owners ,
+		dbc:Living_people ,
+		dbc:Auto_racing_executives ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:Rahal_Letterman_Lanigan_Racing ,
+		<http://dbpedia.org/resource/Category:People_from_Medina,_Ohio> ,
+		dbc:Wolf_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Atlantic_Championship_drivers ,
+		dbc:Indianapolis_500_winners ,
+		dbc:Racing_drivers_from_Ohio ,
+		dbc:American_Formula_One_drivers ,
+		dbc:SCCA_Formula_Super_Vee_drivers ,
+		<http://dbpedia.org/resource/Category:1953_births> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		dbc:Denison_University_alumni ,
+		dbc:SCCA_National_Championship_Runoffs_winners ;
+	foaf:name	"Bobby Rahal"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Bobby_Rahal_at_the_Barber_Legends_of_Motorsport_2010.jpg> ;
+	dct:description	"American racecar driver"@en ;
+	foaf:givenName	"Bobby"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Bobby_Rahal ;
+	foaf:surname	"Rahal"@en ;
+	dbp:title	dbr:List_of_Indianapolis_500_winners ,
+		"Champion"^^xsd:string ,
+		"Winner"^^xsd:string ,
+		dbr:Champ_Car ;
+	dbp:years	1992 ,
+		1986 ,
+		19861987 ,
+		1982 ;
+	dbo:nationality	dbr:United_States ;
+	dbp:titles	198619871992 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Bobby_Rahal	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bobby_Rahal?oldid=740051952> ;
+	dbp:before	dbr:Danny_Sullivan ,
+		dbr:Michael_Andretti ,
+		dbr:Bob_Lazier ,
+		dbr:Al_Unser ;
+	dbp:after	dbr:Danny_Sullivan ,
+		dbr:Teo_Fabi ,
+		dbr:Al_Unser ,
+		dbr:Nigel_Mansell ;
+	dbp:birthName	"Robert Woodward Rahal"^^xsd:string ;
+	dbp:author	"Rahal, spekaing about his Formula One debut at Watkins Glen"^^xsd:string ;
+	dbo:wikiPageExternalLink	<http://thegreatest33.com/default.aspx#selecteddrivers?s=bobby_rahal> ,
+		<http://www.rahal.com/> ,
+		<http://www.bobbyrahal.com/index.htm> ;
+	dbp:caption	"Rahal in 2010"^^xsd:string ;
+	dbo:abstract	"Robert Woodward Rahal, mejor conocido como Bobby Rahal (10 de enero de 1953, Medina, Ohio, Estados Unidos), es un expiloto de automovilismo de velocidad y actual due\u00F1o del equipo Rahal Letterman Lanigan Racing. Su hijo Graham Rahal tambi\u00E9n compite en automovilismo. Disput\u00F3 el campeonato de monoplazas CART entre 1982 y 1998, logrando 24 victorias y 88 podios. Gan\u00F3 las 500 Millas de Indian\u00E1polis de 1986, y lleg\u00F3 segundo en 1990 y tercero en 1994 y 1995; adem\u00E1s venci\u00F3 en el Desaf\u00EDo Marlboro de la CART de 1987. Fue campe\u00F3n de la CART en las temporadas 1986, 1987 y 1992, subcampe\u00F3n en 1982 y 1991, tercero en 1984, 1985, 1988 y 1995, y cuarto en 1990 y 1993. Por otra parte, obtuvo victorias absolutas en las 24 Horas de Daytona de 1981 y las 12 Horas de Sebring de 1987. A fines de 1991, Rahal fund\u00F3 el equipo Rahal-Hogan Racing, que cambi\u00F3 de denominaci\u00F3n dos veces y del cual a\u00FAn es due\u00F1o. La escuadra particip\u00F3 en la Champ Car desde 1992 hasta 2003, en la IndyCar Series desde 2003, y en la American Le Mans Series desde 2007. Rahal corri\u00F3 para su equipo desde 1992 hasta su retiro como piloto a fines de 1998. Luego del t\u00EDtulo de 1992, ning\u00FAn otro piloto de autom\u00F3viles Indy logr\u00F3 el campeonato corriendo para su propio equipo. Rahal fue presidente y jefe ejecutivo de la CART durante la primera mitad del a\u00F1o 2000. A lo largo de la temporada 2001 de F\u00F3rmula 1, fue gerente del equipo Jaguar Racing de F\u00F3rmula 1."@es ,
+		"Robert \"Bobby\" Woodward Rahal (born January 10, 1953 in Medina, Ohio) is an American auto racing driver and team owner. As a driver, he won three championships and 24 races in the CART open-wheel series, including the 1986 Indianapolis 500. He also won the 2004 Indianapolis 500 as a team owner for the winning driver, Buddy Rice. After retiring as a driver, Rahal held managerial positions with the Jaguar Formula 1 team and also was an interim president of the CART series. Rahal was also a sports car driver during the 1980s, and made one NASCAR start for the Wood Brothers."@en ,
+		"Robert \u201EBobby\u201C Woodward Rahal (* 10. Juni 1953 in Medina, Ohio, USA) ist ein ehemaliger Automobilrennfahrer, heutiger Mitbesitzer eines Teams in der IndyCar Series und Unternehmer."@de ,
+		"\u30ED\u30D0\u30FC\u30C8\u30FB\"\u30DC\u30D3\u30FC\"\u30FB\u30A6\u30C3\u30C9\u30EF\u30FC\u30C9\u30FB\u30EC\u30A4\u30DB\u30FC\u30EB\uFF08Robert \"Bobby\" Woodward Rahal, 1953\u5E741\u670810\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30AA\u30CF\u30A4\u30AA\u5DDE\u30E1\u30C0\u30A4\u30CA\u751F\u307E\u308C\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u73FE\u5728\u30EC\u30FC\u30B7\u30F3\u30B0\u30C1\u30FC\u30E0\u306E\u30AA\u30FC\u30CA\u30FC\u30022004\u5E74\u306B\u56FD\u969B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u6BBF\u5802\u5165\u308A\u3092\u679C\u305F\u3057\u305F\u3002\u65E5\u672C\u306B\u304A\u3044\u3066\u304B\u3064\u3066\u306F\u300C\u30EC\u30A4\u30CF\u30EB\u300D\u3001\u300C\u30EC\u30FC\u30CF\u30EB\u300D\u3001\u300C\u30E9\u30CF\u30EB\u300D\u7B49\u3068\u8868\u8A18\u3055\u308C\u3066\u3044\u305F\u304C\u3001\u8FD1\u5E74\u306F\u672C\u4EBA\u306B\u3088\u308B\u767A\u97F3\u306B\u3088\u308A\u8FD1\u3044\u300C\u30EC\u30A4\u30DB\u30FC\u30EB\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3088\u3046\u306B\u306A\u3063\u305F\u3002"@ja ,
+		"Robert 'Bobby' Woodward Rahal (Medina (Ohio), 10 januari 1953) is een Amerikaanse raceteameigenaar en voormalig autocoureur. Hij won de Indianapolis 500 van 1986 en is drievoudig Champ Car kampioen. In 1981 won Rahal de 24 uur van Daytona. Zijn zoon Graham Rahal werd in 2006 ook autocoureur."@nl ,
+		"Robert \"Bobby\" Woodward Rahal (Medina, 10 de janeiro de 1953) \u00E9 um ex-automobilista norte-americano. \u00C9 pai de Graham Rahal, atualmente piloto da IndyCar Series."@pt ,
+		"\u0420\u043E\u0431\u0435\u0440\u0442 \u0412\u0443\u0434\u0432\u043E\u0440\u0434 \u00AB\u0411\u043E\u0431\u0431\u0438\u00BB \u0420\u044D\u0439\u0445\u043E\u043B (\u0430\u043D\u0433\u043B. Robert \"Bobby\" Woodward Rahal, 10 \u044F\u043D\u0432\u0430\u0440\u044F 1953 \u0433\u043E\u0434\u0430, \u041C\u0435\u0434\u0430\u0439\u043D\u0430, \u0448\u0442\u0430\u0442 \u041E\u0433\u0430\u0439\u043E, \u0421\u0428\u0410) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0438 \u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 CART. \u0422\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D CART (1986, 1987, 1992), \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0433\u043E\u043D\u043A\u0438 500 \u043C\u0438\u043B\u044C \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441\u0430 1986 \u0433\u043E\u0434\u0430. \u0412\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0420\u044D\u0439\u0445\u043E\u043B \u041B\u0435\u0442\u0442\u0435\u0440\u043C\u0430\u043D \u041B\u044D\u043D\u0438\u0433\u0430\u043D \u0420\u044D\u0439\u0441\u0438\u043D\u0433\u00BB, \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044E\u0449\u0435\u0439 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 IndyCar."@ru ,
+		"Bobby RahalFichier:Bobby Rahal at the Barber Legends of Motorsport 2010.jpg Robert Woodward Rahal (plus connu sous le nom de Bobby Rahal), n\u00E9 le 10 janvier \u00E0 Medina, Ohio, est un pilote automobile am\u00E9ricain, d\u00E9sormais reconverti en tant que directeur d'\u00E9curie."@fr ,
+		"Robert Woodward \u201EBobby\u201D Rahal (ur. 10 stycznia 1953 roku w Medinie) \u2013 ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Bobby_Rahal_at_the_Barber_Legends_of_Motorsport_2010.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Bobby_Rahal	dbo:birthDate	"1953-1-10"^^xsd:date ,
+		"1953-01-10"^^xsd:date ;
+	dbo:wikiPageRevisionID	740051952 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Medina,_Ohio> ;
+	dbo:wikiPageID	693427 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Bobby_Rahal	ns25:hypernym	dbr:Auto ;
+	dbp:quote	"And it was frigid. A very cold day, and the race long \u2013 long for me. The longest I'd done before that was a 100-mile Formula Atlantic race, and this was a 200-mile grand prix. I just wanted to get to the end and get to the next race. It was a workman-like debut."^^xsd:string .
+@prefix ns26:	<http://dbpedia.org/datatype/> .
+dbr:Bobby_Rahal	dbp:width	"20.0"^^ns26:perCent ;
+	dbp:align	"left"^^xsd:string .
+dbr:Al_Unser	dbp:before	dbr:Bobby_Rahal ;
+	dbp:after	dbr:Bobby_Rahal .
+dbr:Sebring_International_Raceway	dbp:recordDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1991_CART_PPG_Indy_Car_World_Series__Galles-Kraco_Racing__2>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1992_PPG_Indy_Car_World_Series__Rahal-Hogan_Racing__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+dbr:Meadowlands_Grand_Prix__1991__1	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1990_CART_PPG_Indy_Car_World_Series__Galles-Kraco_Racing__2>	dbo:firstDriver	dbr:Bobby_Rahal .
+dbr:March_817	dbp:drivers	dbr:Bobby_Rahal .
+dbr:Race_Hamilton__3__1	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1996_PPG_Indy_Car_World_Series__Team_Rahal__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+dbr:Teo_Fabi	dbp:before	dbr:Bobby_Rahal .
+dbr:Bob_Lazier	dbp:after	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1985_Indianapolis_500>	dbp:nextWinner	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1984_CART_PPG_Indy_Car_World_Series__Truesports__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1985_CART_PPG_Indy_Car_World_Series__Truesports_Co.__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1986_CART_PPG_Indy_Car_World_Series__Truesports__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1987_CART_PPG_Indy_Car_World_Series__Truesports__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1988_CART_PPG_Indy_Car_World_Series__Truesports__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1989_CART_PPG_Indy_Car_World_Series__Kraco_Racing__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/Grand_Prix_of_Miami_(open_wheel_racing)__1987__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1998_CART_season__Team_Rahal__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+dbr:Meadowlands_Grand_Prix__1987__1	dbo:firstDriver	dbr:Bobby_Rahal .
+dbr:Meadowlands_Grand_Prix__1989__1	dbo:firstDriver	dbr:Bobby_Rahal .
+dbr:Grand_Prix_of_Montreal__1986__1	dbo:firstDriver	dbr:Bobby_Rahal .
+dbr:Sanair_Super_Speedway__1986__1	dbo:firstDriver	dbr:Bobby_Rahal .
+dbr:Marlboro_Challenge__1987__1	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1997_CART_season__Team_Rahal__1>	dbo:firstDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1998_Miller_Lite_200>	dbp:thirdDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1987_Indianapolis_500>	dbp:previousWinner	dbr:Bobby_Rahal .
+dbr:Meadowlands_Grand_Prix	dbp:mostWinsDriver	dbr:Bobby_Rahal .
+dbr:Monterey_Grand_Prix	dbp:mostWinsDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1992_Molson_Indy_Toronto>	dbp:secondDriver	dbr:Bobby_Rahal ;
+	dbp:poleDriver	dbr:Bobby_Rahal .
+<http://dbpedia.org/resource/1994_PPG_Indy_Car_World_Series__Rahal-Hogan_Racing__1>	dbo:firstDriver	dbr:Bobby_Rahal .

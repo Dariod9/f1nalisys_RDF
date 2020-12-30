@@ -1,0 +1,202 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2004_British_Formula_Three_Championship__Hitech_Racing__3>	dbo:firstDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2014_Putrajaya_ePrix>	dbo:secondDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2015_Putrajaya_ePrix>	dbo:firstDriver	dbr:Lucas_di_Grassi .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2009_Silverstone_GP2_Series_round>	dbp:fastDriverR	dbr:Lucas_di_Grassi ;
+	dbp:secondDriverR	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2009_Hungaroring_GP2_Series_round>	dbp:secondDriverR	dbr:Lucas_di_Grassi ;
+	dbp:thirdDriverR	dbr:Lucas_di_Grassi ;
+	dbp:poleDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2009_Spa-Francorchamps_GP2_Series_round>	dbp:thirdDriverR	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2009_Monza_GP2_Series_round>	dbp:secondDriverR	dbr:Lucas_di_Grassi ;
+	dbp:thirdDriverR	dbr:Lucas_di_Grassi .
+dbr:Mike_Conway	dbp:before	dbr:Lucas_di_Grassi .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Lucas_di_Grassi	foaf:primaryTopic	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2016_Long_Beach_ePrix>	dbo:firstDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2015_Long_Beach_ePrix>	dbo:thirdDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/Alexandre_Pr\u00E9mat>	dbp:after	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2009_Monaco_GP2_Series_round>	dbp:thirdDriverR	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2014_Beijing_ePrix>	dbo:firstDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2015_Monaco_ePrix>	dbo:secondDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2016_Paris_ePrix>	dbo:firstDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2016_Hong_Kong_ePrix>	dbo:secondDriver	dbr:Lucas_di_Grassi .
+dbr:Lucas_Di_Grassi	dbo:wikiPageRedirects	dbr:Lucas_di_Grassi .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lucas_di_Grassi	rdf:type	yago:WikicatAmericanLeMansSeriesDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Lucas_di_Grassi	rdf:type	schema:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lucas_di_Grassi	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		dbo:Agent ,
+		wikidata:Q5 ,
+		wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:MotorsportRacer ,
+		dbo:RacingDriver ,
+		dbo:Athlete ,
+		yago:WikicatFIAWorldEnduranceChampionshipDrivers ,
+		yago:WikicatKartingWorldChampionshipDrivers ,
+		yago:WikicatStockCarBrasilDrivers ,
+		yago:WikicatBrazilianFormulaOneDrivers ,
+		foaf:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Lucas_di_Grassi	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatFormula3SudamericanaDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lucas_di_Grassi	rdf:type	owl:Thing .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Lucas_di_Grassi	rdf:type	ns11:Agent ,
+		ns11:NaturalPerson ,
+		<http://dbpedia.org/class/yago/WikicatBrazilianFormulaRenault2.0Drivers> ,
+		yago:WikicatGP2SeriesDrivers ,
+		yago:Operator110378412 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatFormula3EuroSeriesDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatV8SupercarDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lucas_di_Grassi	rdfs:label	"Lucas Di Grassi"@pt ,
+		"\u30EB\u30FC\u30AB\u30B9\u30FB\u30C7\u30A3\u30FB\u30B0\u30E9\u30C3\u30B7"@ja ,
+		"\u0413\u0440\u0430\u0441\u0441\u0438, \u041B\u0443\u043A\u0430\u0441 \u0434\u0438"@ru ,
+		"Lucas di Grassi"@en ,
+		"Lucas di Grassi"@de ,
+		"\u76E7\u5361\u65AF\u00B7\u8FEA\u00B7\u683C\u62C9\u897F"@zh ,
+		"Lucas di Grassi"@pl ,
+		"Lucas Di Grassi"@es ,
+		"Lucas di Grassi"@nl ,
+		"Lucas di Grassi"@fr ,
+		"Lucas Di Grassi"@it ;
+	rdfs:comment	"Lucas Tucci di Grassi (born 11 August 1984) is a Brazilian professional racing driver who currently competes for Audi Sport Team Joest in the FIA World Endurance Championship, and for Audi Sport ABT in Formula E. In 2014, di Grassi became the first driver in motorsport history to win a motor race in an all-electric single-seater racing car at the 2014 Beijing ePrix. He is also a former GP2 Series runner-up, as well as driving for Virgin Racing in the 2010 Formula One season."@en ,
+		"Lucas Tucci di Grassi, n\u00E9 le 11 ao\u00FBt 1984 \u00E0 S\u00E3o Paulo, est un pilote automobile br\u00E9silien qui a fait ses d\u00E9buts en Formule 1 en 2010."@fr ,
+		"Lucas di Grassi (* 11. August 1984 in S\u00E3o Paulo) ist ein brasilianischer Automobilrennfahrer. Er fuhr von 2006 bis 2009 in der GP2-Serie und wurde dort 2007 Vizemeister. 2010 ging er in der Formel 1 an den Start. Seit 2012 nimmt er an der FIA-Langstrecken-Weltmeisterschaft (WEC) teil. Zudem startet er seit 2014 in der FIA-Formel-E-Meisterschaft."@de ,
+		"\u30EB\u30FC\u30AB\u30B9\u30FB\u30C4\u30C3\u30C1\u30FB\u30C7\u30A3\u30FB\u30B0\u30E9\u30C3\u30B7\uFF08Lucas Tucci di Grassi , 1984\u5E748\u670811\u65E5 - \uFF09\u30D6\u30E9\u30B8\u30EB\u30FB\u30B5\u30F3\u30D1\u30A6\u30ED\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u8EAB\u9577179cm\u3001\u4F53\u91CD74kg\u3002"@ja ,
+		"Lucas di Grassi (ur. 11 sierpnia 1984 w S\u00E3o Paulo) \u2013 brazylijski kierowca wy\u015Bcigowy. Obecnie pe\u0142ni funkcj\u0119 kierowcy testowego dostawcy opon do formu\u0142y 1, firmy Pirelli."@pl ,
+		"Lucas Tucci di Grassi (S\u00E3o Paulo, 11 augustus 1984) is een Braziliaanse autocoureur. Di Grassi was in 2010 actief in de Formule 1 voor het nieuwe team van Virgin Racing. Tegenwoordig rijdt hij in het Formule E-kampioenschap, een autosportklasse voor enkel elektrische auto's, voor het team Audi Sport ABT. Hij slaagde erin de allereerste Formule E-race op 13 september 2014 te winnen, deze werd gehouden op het Beijing Olympic Green Circuit in Peking, China."@nl ,
+		"Lucas Tucci Di Grassi (S\u00E3o Paulo, 11 de agosto de 1984) \u00E9 um automobilista brasileiro. O piloto fez sua estreia na F\u00F3rmula 1 em 2010, sendo o 30\u00BA brasileiro a correr na categoria. Atualmente corre na F\u00F3rmula E."@pt ,
+		"Lucas Tucci Di Grassi (San Pablo, 11 de agosto de 1984) es un piloto de carreras automovil\u00EDsticas brasile\u00F1o. Desde 2006 compite en GP2 Series y en 2010 debuta en F\u00F3rmula 1 con el equipo Virgin Racing. Actualmente trabaja como piloto oficial de Audi Sport ABT en la F\u00F3rmula E."@es ,
+		"\u041B\u0443\u043A\u0430\u0441 \u0422\u0443\u0441\u0441\u0438 \u0414\u0438 \u0413\u0440\u0430\u0441\u0441\u0438 (\u043F\u043E\u0440\u0442. Lucas Tucci Di Grassi, \u0440\u043E\u0434\u0438\u043B\u0441\u044F 11 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1984 \u0433\u043E\u0434\u0430 \u0432 \u0421\u0430\u043D-\u041F\u0430\u0443\u043B\u0443, \u0411\u0440\u0430\u0437\u0438\u043B\u0438\u044F) \u0433\u043E\u043D\u0449\u0438\u043A, \u043A\u0430\u0440\u044C\u0435\u0440\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u043D\u0430\u0447\u0430\u043B\u0430\u0441\u044C \u0441 \u043A\u0430\u0440\u0442\u0438\u043D\u0433\u0430 \u0438 \u0444\u043E\u0440\u043C\u0443\u043B\u044C\u043D\u044B\u0445 \u0433\u043E\u043D\u043E\u043A. \u041E\u043D \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u0432\u0441\u043B\u0435\u0434 \u0437\u0430 \u0422\u0438\u043C\u043E \u0413\u043B\u043E\u043A\u043E\u043C \u0432 \u0421\u0435\u0437\u043E\u043D\u0435 2007 GP2, \u0438 \u0432 2010 \u0433\u043E\u0434\u0443 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 Virgin Racing. \u041E\u043D \u0442\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u043B\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043F\u044F\u0442\u0438 \u0433\u043E\u043D\u0449\u0438\u043A\u043E\u0432, \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u0432\u0448\u0438\u0445 \u0432 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0435 \u0420\u0435\u043D\u043E \u043F\u043E \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0435 \u043C\u043E\u043B\u043E\u0434\u044B\u0445 \u043F\u0438\u043B\u043E\u0442\u043E\u0432."@ru ,
+		"La famiglia paterna \u00E8 originaria di Polignano a Mare, in provincia di Bari: il nonno emigr\u00F2 in Brasile, ma il pilota possiede, cosiccome il padre, anche il passaporto italiano."@it ,
+		"\u76E7\u5361\u65AF\u00B7\u8FEA\u00B7\u683C\u62C9\u897F\uFF08Lucas di Grassi\u30011984\u5E748\u670811\u65E5\uFF0D\uFF09\u662F\u5DF4\u897F\u8077\u696D\u8CFD\u8ECA\u624B\uFF0C\u53C3\u52A0\u8FC7\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u3002\u66FE\u6548\u529B\u7DAD\u73CD\u8ECA\u968A\u3002"@zh .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-cs:Lucas_di_Grassi .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-id:Lucas_di_Grassi ,
+		wikidata:Q172783 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-nl:Lucas_di_Grassi .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	yago-res:Lucas_di_Grassi .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-es:Lucas_Di_Grassi ,
+		dbr:Lucas_di_Grassi ,
+		<http://rdf.freebase.com/ns/m.0bhrry> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-pl:Lucas_di_Grassi .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-pt:Lucas_Di_Grassi .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-wikidata:Q172783 ,
+		<http://ja.dbpedia.org/resource/\u30EB\u30FC\u30AB\u30B9\u30FB\u30C7\u30A3\u30FB\u30B0\u30E9\u30C3\u30B7> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-fr:Lucas_di_Grassi .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-de:Lucas_di_Grassi .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lucas_di_Grassi	owl:sameAs	dbpedia-it:Lucas_Di_Grassi .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lucas_di_Grassi	dct:subject	dbc:Living_people ,
+		dbc:Mensans ,
+		dbc:Formula_3_Sudamericana_drivers ,
+		dbc:Karting_World_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:Brazilian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_S\u00E3o_Paulo_(city)> ,
+		dbc:Stock_Car_Brasil_drivers ,
+		dbc:Brazilian_racing_drivers ,
+		dbc:Brazilian_people_of_Italian_descent ,
+		dbc:GP2_Series_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Formula_3_Euro_Series_drivers ,
+		dbc:V8_Supercar_drivers ,
+		dbc:Virgin_Racing_Formula_One_drivers ,
+		dbc:Formula_E_drivers ,
+		dbc:FIA_World_Endurance_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:Brazilian_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:1984_births> ;
+	foaf:name	"Lucas di Grassi"@en ;
+	foaf:homepage	<http://www.lucasdigrassi.com.br/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Lucas_Di_Grassi_2010_Malaysia.jpg> ;
+	dct:description	"racing driver, 2010 Formula One, 2014-2016 Formula E, 2012-2016 World Endurance Championship"@en ;
+	foaf:givenName	"Lucas"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Lucas_di_Grassi ;
+	dbp:title	"Winner"^^xsd:string ,
+		dbr:Macau_Grand_Prix ,
+		dbr:Desafio_Internacional_das_Estrelas ;
+	dbp:years	2010 ,
+		2005 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lucas_di_Grassi	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lucas_di_Grassi?oldid=744434839> ;
+	dbp:before	dbr:Michael_Schumacher ,
+		<http://dbpedia.org/resource/Alexandre_Pr\u00E9mat> ;
+	dbp:after	dbr:Mike_Conway ,
+		dbr:Jaime_Alguersuari ;
+	dbo:team	dbr:Joest_Racing ;
+	dbp:fastestLaps	1 ;
+	dbp:formerTeams	0 ;
+	dbp:starts	25 ;
+	dbp:poles	1 ;
+	dbp:championships	0 ;
+	dbo:wikiPageExternalLink	<http://www.lucasdigrassi.com.br/> ;
+	dbp:caption	"Di Grassi at the 2010 Malaysian Grand Prix"^^xsd:string ;
+	dbo:abstract	"Lucas Tucci Di Grassi (S\u00E3o Paulo, 11 de agosto de 1984) \u00E9 um automobilista brasileiro. O piloto fez sua estreia na F\u00F3rmula 1 em 2010, sendo o 30\u00BA brasileiro a correr na categoria. Atualmente corre na F\u00F3rmula E."@pt ,
+		"Lucas Tucci Di Grassi (San Pablo, 11 de agosto de 1984) es un piloto de carreras automovil\u00EDsticas brasile\u00F1o. Desde 2006 compite en GP2 Series y en 2010 debuta en F\u00F3rmula 1 con el equipo Virgin Racing. Actualmente trabaja como piloto oficial de Audi Sport ABT en la F\u00F3rmula E."@es ,
+		"Lucas Tucci di Grassi (S\u00E3o Paulo, 11 augustus 1984) is een Braziliaanse autocoureur. Di Grassi was in 2010 actief in de Formule 1 voor het nieuwe team van Virgin Racing. Tegenwoordig rijdt hij in het Formule E-kampioenschap, een autosportklasse voor enkel elektrische auto's, voor het team Audi Sport ABT. Hij slaagde erin de allereerste Formule E-race op 13 september 2014 te winnen, deze werd gehouden op het Beijing Olympic Green Circuit in Peking, China."@nl ,
+		"La famiglia paterna \u00E8 originaria di Polignano a Mare, in provincia di Bari: il nonno emigr\u00F2 in Brasile, ma il pilota possiede, cosiccome il padre, anche il passaporto italiano."@it ,
+		"Lucas Tucci di Grassi, n\u00E9 le 11 ao\u00FBt 1984 \u00E0 S\u00E3o Paulo, est un pilote automobile br\u00E9silien qui a fait ses d\u00E9buts en Formule 1 en 2010."@fr ,
+		"\u30EB\u30FC\u30AB\u30B9\u30FB\u30C4\u30C3\u30C1\u30FB\u30C7\u30A3\u30FB\u30B0\u30E9\u30C3\u30B7\uFF08Lucas Tucci di Grassi , 1984\u5E748\u670811\u65E5 - \uFF09\u30D6\u30E9\u30B8\u30EB\u30FB\u30B5\u30F3\u30D1\u30A6\u30ED\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u8EAB\u9577179cm\u3001\u4F53\u91CD74kg\u3002"@ja ,
+		"\u041B\u0443\u043A\u0430\u0441 \u0422\u0443\u0441\u0441\u0438 \u0414\u0438 \u0413\u0440\u0430\u0441\u0441\u0438 (\u043F\u043E\u0440\u0442. Lucas Tucci Di Grassi, \u0440\u043E\u0434\u0438\u043B\u0441\u044F 11 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1984 \u0433\u043E\u0434\u0430 \u0432 \u0421\u0430\u043D-\u041F\u0430\u0443\u043B\u0443, \u0411\u0440\u0430\u0437\u0438\u043B\u0438\u044F) \u0433\u043E\u043D\u0449\u0438\u043A, \u043A\u0430\u0440\u044C\u0435\u0440\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u043D\u0430\u0447\u0430\u043B\u0430\u0441\u044C \u0441 \u043A\u0430\u0440\u0442\u0438\u043D\u0433\u0430 \u0438 \u0444\u043E\u0440\u043C\u0443\u043B\u044C\u043D\u044B\u0445 \u0433\u043E\u043D\u043E\u043A. \u041E\u043D \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u0432\u0441\u043B\u0435\u0434 \u0437\u0430 \u0422\u0438\u043C\u043E \u0413\u043B\u043E\u043A\u043E\u043C \u0432 \u0421\u0435\u0437\u043E\u043D\u0435 2007 GP2, \u0438 \u0432 2010 \u0433\u043E\u0434\u0443 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 Virgin Racing. \u041E\u043D \u0442\u0430\u043A\u0436\u0435 \u044F\u0432\u043B\u044F\u043B\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043F\u044F\u0442\u0438 \u0433\u043E\u043D\u0449\u0438\u043A\u043E\u0432, \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u0432\u0448\u0438\u0445 \u0432 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0435 \u0420\u0435\u043D\u043E \u043F\u043E \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0435 \u043C\u043E\u043B\u043E\u0434\u044B\u0445 \u043F\u0438\u043B\u043E\u0442\u043E\u0432."@ru ,
+		"Lucas Tucci di Grassi (born 11 August 1984) is a Brazilian professional racing driver who currently competes for Audi Sport Team Joest in the FIA World Endurance Championship, and for Audi Sport ABT in Formula E. In 2014, di Grassi became the first driver in motorsport history to win a motor race in an all-electric single-seater racing car at the 2014 Beijing ePrix. He is also a former GP2 Series runner-up, as well as driving for Virgin Racing in the 2010 Formula One season."@en ,
+		"Lucas di Grassi (* 11. August 1984 in S\u00E3o Paulo) ist ein brasilianischer Automobilrennfahrer. Er fuhr von 2006 bis 2009 in der GP2-Serie und wurde dort 2007 Vizemeister. 2010 ging er in der Formel 1 an den Start. Seit 2012 nimmt er an der FIA-Langstrecken-Weltmeisterschaft (WEC) teil. Zudem startet er seit 2014 in der FIA-Formel-E-Meisterschaft."@de ,
+		"\u76E7\u5361\u65AF\u00B7\u8FEA\u00B7\u683C\u62C9\u897F\uFF08Lucas di Grassi\u30011984\u5E748\u670811\u65E5\uFF0D\uFF09\u662F\u5DF4\u897F\u8077\u696D\u8CFD\u8ECA\u624B\uFF0C\u53C3\u52A0\u8FC7\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u3002\u66FE\u6548\u529B\u7DAD\u73CD\u8ECA\u968A\u3002"@zh ,
+		"Lucas di Grassi (ur. 11 sierpnia 1984 w S\u00E3o Paulo) \u2013 brazylijski kierowca wy\u015Bcigowy. Obecnie pe\u0142ni funkcj\u0119 kierowcy testowego dostawcy opon do formu\u0142y 1, firmy Pirelli."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Lucas_Di_Grassi_2010_Malaysia.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lucas_di_Grassi	dbo:birthDate	"1984-8-11"^^xsd:date ,
+		"1984-08-11"^^xsd:date ;
+	dbo:wikiPageRevisionID	744434839 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/S\u00E3o_Paulo> ;
+	dbo:wikiPageID	4095564 ;
+	dbp:currentSeries	dbr:FIA_World_Endurance_Championship ;
+	dbp:lastFinish	4 ;
+	dbp:bestFinish	4 ;
+	dbp:carNumber	1 ;
+	dbp:firstYear	2012 ;
+	dbp:year	20142015 ;
+	dbp:wins	1 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Lucas_di_Grassi	ns28:hypernym	dbr:Driver ;
+	dbp:nationality	"Brazilian"^^xsd:string .
+<http://dbpedia.org/resource/2016_Buenos_Aires_ePrix>	dbo:thirdDriver	dbr:Lucas_di_Grassi .
+dbr:Jaime_Alguersuari	dbp:before	dbr:Lucas_di_Grassi .
+dbr:Grassi	dbo:wikiPageDisambiguates	dbr:Lucas_di_Grassi .
+dbr:Di_Grassi	dbo:wikiPageDisambiguates	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2015_London_ePrix>	dbo:fastestDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2015_Punta_del_Este_ePrix>	dbo:secondDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2014_Punta_del_Este_ePrix>	dbo:thirdDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2016_Berlin_ePrix>	dbo:thirdDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2009_Algarve_GP2_Series_round>	dbp:thirdDriverR	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2015_Beijing_ePrix>	dbo:secondDriver	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2009_Istanbul_Park_GP2_Series_round>	dbp:fastDriverR	dbr:Lucas_di_Grassi ;
+	dbp:firstDriverR	dbr:Lucas_di_Grassi .
+<http://dbpedia.org/resource/2015_Moscow_ePrix>	dbo:secondDriver	dbr:Lucas_di_Grassi .

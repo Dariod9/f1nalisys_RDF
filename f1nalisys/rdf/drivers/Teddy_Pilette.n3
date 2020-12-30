@@ -1,0 +1,149 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1972_24_Hours_of_Le_Mans__8__1>	dbo:firstDriver	dbr:Teddy_Pilette .
+<http://dbpedia.org/resource/1975_24_Hours_of_Le_Mans__12__1>	dbo:firstDriver	dbr:Teddy_Pilette .
+<http://dbpedia.org/resource/1974_New_Zealand_Grand_Prix>	dbo:secondDriver	dbr:Teddy_Pilette .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Teddy_Pilette	foaf:primaryTopic	dbr:Teddy_Pilette .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Gijs_van_Lennep	dbp:after	dbr:Teddy_Pilette .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__35__1>	dbo:firstDriver	dbr:Teddy_Pilette .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__37__1>	dbo:firstDriver	dbr:Teddy_Pilette .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Th\u00E9odore_Pilette>	owl:differentFrom	dbr:Teddy_Pilette .
+<http://dbpedia.org/resource/Bob_Evans_(racing_driver)>	dbp:after	dbr:Teddy_Pilette ;
+	dbp:before	dbr:Teddy_Pilette .
+dbr:David_Purley	dbp:before	dbr:Teddy_Pilette .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Teddy_Pilette	rdf:type	yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Teddy_Pilette	rdf:type	wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatTasmanSeriesDrivers ,
+		yago:WikicatBelgianFormulaOneDrivers ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		owl:Thing ,
+		wikidata:Q5 ,
+		yago:WikicatBRMFormulaOneDrivers .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Teddy_Pilette	rdf:type	ns9:Agent ,
+		foaf:Person ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Teddy_Pilette	rdf:type	schema:Person ,
+		ns9:NaturalPerson ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:WikicatChampCarDrivers ,
+		yago:Driver110034906 ,
+		dbo:FormulaOneRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Teddy_Pilette	rdfs:label	"Teddy Pilette"@en ,
+		"\u041F\u0438\u043B\u0435\u0442\u0442, \u0422\u0435\u0434\u0434\u0438"@ru ,
+		"Teddy Pilette"@pt ,
+		"Teddy Pilette"@it ,
+		"Teddy Pilette"@de ,
+		"Teddy Pilette"@nl ,
+		"Teddy Pilette"@fr ,
+		"Teddy Pilette"@pl ;
+	rdfs:comment	"Theodore \"Teddy\" Pilette (Bruxelas, 26 de julho de 1942) \u00E9 um ex-automobilista da B\u00E9lgica."@pt ,
+		"Theodore \u201ETeddy\u201D Pilette (ur. 26 lipca 1942 w Brukseli) \u2013 belgijski kierowca wy\u015Bcigowy."@pl ,
+		"Theodore \"Teddy\" Pilette (Brussel, 26 juli 1942) is een voormalig Formule 1-coureur uit Belgi\u00EB. Tussen 1974 en 1977 nam hij deel aan 4 Grands Prix voor de teams Brabham en BRM, maar scoorde hierin geen punten."@nl ,
+		"Th\u00E9odore Pilette, dit Teddy Pilette, n\u00E9 le 26 juillet 1942 \u00E0 Bruxelles, est un pilote automobile belge. Il est le petit-fils de Th\u00E9odore Pilette, qui a remport\u00E9 la Course de c\u00F4te de Malchamps en 1912 sur Mercedes 16/45 \"Knight\" et qui s'est notamment class\u00E9 5e des 500 miles d'Indianapolis 1913, et le fils d'Andr\u00E9 Pilette, pilote entre 1951 et 1964. Teddy Pilette a connu la r\u00E9ussite en voitures de sport et monoplaces, mais pas en Formule 1."@fr ,
+		"\u0422\u0435\u043E\u0434\u043E\u0440 \u00AB\u0422\u0435\u0434\u0434\u0438\u00BB \u041F\u0438\u043B\u0435\u0442\u0442 (\u0444\u0440. Theodore \u00ABTeddy\u00BB Pilette, 26 \u0438\u044E\u043B\u044F 1942, \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Ha gareggiato nel 1974 con una Brabham e nel 1977 con una BRM."@it ,
+		"Theodore \"Teddy\" Pilette (born 26 July 1942, in Brussels) is a former racing driver from Belgium. He participated in 4 Formula One World Championship Grands Prix, the first on 12 May 1974 with Bernie Ecclestone's Brabham team. In 1977, Capparelli arranged for Pilette to drive with the dying BRM team in Formula One, and also in the Aurora AFX Formula One Championship the following year. In sports cars Pilette won the Spa 24 Hours with a Ford Capri, in the last race on the long circuit in 1978."@en ,
+		"Th\u00E9odore Jacques Ren\u00E9 \u201ETeddy\u201C Pilette (* 26. Juli 1942 in Br\u00FCssel) ist ein ehemaliger belgischer Automobilrennfahrer. 1974 und 1977 war er f\u00FCr insgesamt vier Formel-1-Grand-Prix gemeldet, konnte sich jedoch nur einmal qualifizieren."@de ;
+	owl:differentFrom	<http://dbpedia.org/resource/Th\u00E9odore_Pilette> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Teddy_Pilette	dbp:birthDate	"1942-07-26"^^xsd:date .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Teddy_Pilette	owl:sameAs	dbpedia-fr:Teddy_Pilette .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Teddy_Pilette	owl:sameAs	dbpedia-it:Teddy_Pilette ,
+		<http://rdf.freebase.com/ns/m.04kxm0> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Teddy_Pilette	owl:sameAs	dbpedia-pl:Teddy_Pilette .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Teddy_Pilette	owl:sameAs	yago-res:Teddy_Pilette .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Teddy_Pilette	owl:sameAs	dbpedia-nl:Teddy_Pilette .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Teddy_Pilette	owl:sameAs	dbpedia-pt:Teddy_Pilette ,
+		dbr:Teddy_Pilette .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Teddy_Pilette	owl:sameAs	dbpedia-de:Teddy_Pilette .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Teddy_Pilette	owl:sameAs	dbpedia-wikidata:Q172136 ,
+		wikidata:Q172136 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Teddy_Pilette	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Teddy_Pilette	dct:subject	dbc:Champ_Car_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:Belgian_Formula_One_drivers ,
+		dbc:Belgian_racing_drivers ,
+		dbc:Sportspeople_from_Brussels ,
+		dbc:BRM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1942_births> ,
+		dbc:Tasman_Series_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Living_people ;
+	foaf:name	"Teddy Pilette"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Teddy"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Teddy_Pilette ;
+	foaf:surname	"Pilette"@en ;
+	dbp:points	0 ;
+	dbp:years	1973 ,
+		1975 ,
+		","^^xsd:string ;
+	dbp:after	dbr:David_Purley ,
+		<http://dbpedia.org/resource/Bob_Evans_(race_driver)> ;
+	<http://dbpedia.org/property/team(s)_>	dbr:British_Racing_Motors ,
+		dbr:Brabham .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Teddy_Pilette	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Teddy_Pilette?oldid=725569127> ;
+	dbo:wikiPageExternalLink	<http://www.teddypilette.com> ;
+	dbp:imageSize	150 ;
+	dbp:nationality	"Belgian"^^xsd:string ;
+	dbp:before	<http://dbpedia.org/resource/Bob_Evans_(race_driver)> ,
+		dbr:Gijs_van_Lennep ;
+	dbo:abstract	"Theodore \"Teddy\" Pilette (Bruxelas, 26 de julho de 1942) \u00E9 um ex-automobilista da B\u00E9lgica."@pt ,
+		"Theodore \u201ETeddy\u201D Pilette (ur. 26 lipca 1942 w Brukseli) \u2013 belgijski kierowca wy\u015Bcigowy."@pl ,
+		"Th\u00E9odore Jacques Ren\u00E9 \u201ETeddy\u201C Pilette (* 26. Juli 1942 in Br\u00FCssel) ist ein ehemaliger belgischer Automobilrennfahrer. 1974 und 1977 war er f\u00FCr insgesamt vier Formel-1-Grand-Prix gemeldet, konnte sich jedoch nur einmal qualifizieren."@de ,
+		"Th\u00E9odore Pilette, dit Teddy Pilette, n\u00E9 le 26 juillet 1942 \u00E0 Bruxelles, est un pilote automobile belge. Il est le petit-fils de Th\u00E9odore Pilette, qui a remport\u00E9 la Course de c\u00F4te de Malchamps en 1912 sur Mercedes 16/45 \"Knight\" et qui s'est notamment class\u00E9 5e des 500 miles d'Indianapolis 1913, et le fils d'Andr\u00E9 Pilette, pilote entre 1951 et 1964. Teddy Pilette a connu la r\u00E9ussite en voitures de sport et monoplaces, mais pas en Formule 1."@fr ,
+		"\u0422\u0435\u043E\u0434\u043E\u0440 \u00AB\u0422\u0435\u0434\u0434\u0438\u00BB \u041F\u0438\u043B\u0435\u0442\u0442 (\u0444\u0440. Theodore \u00ABTeddy\u00BB Pilette, 26 \u0438\u044E\u043B\u044F 1942, \u0411\u0440\u044E\u0441\u0441\u0435\u043B\u044C) \u2014 \u0431\u0435\u043B\u044C\u0433\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Theodore \"Teddy\" Pilette (born 26 July 1942, in Brussels) is a former racing driver from Belgium. He participated in 4 Formula One World Championship Grands Prix, the first on 12 May 1974 with Bernie Ecclestone's Brabham team. Son of Andr\u00E9 Pilette and great grandson of Th\u00E9odore Pilette, he followed the family path. He started his career by winning many go-kart races before being sent to England to the talent-spotting Jim Russell Racing School. This experience created the opportunity for him to be part of the cast for John Frankenheimer's movie Grand Prix, and later on Le Mans with Steve McQueen. On the circuit, Pilette raced for Carlo Abarth in 1963 and 1965, and in 1967 he started racing for the Belgian VDS team. He won the European Formula 5000 Championship in 1973 with a Chevron B24, and again in 1975 with a Lola T400. He also competed in the USA in Formula 5000. He also made 3 attempts at the Indy 500. He attempted to qualify for the 1977 Indianapolis 500 but failed to make the field. He drove in the CART Championship Car race at Watkins Glen International in 1981 but retired after 14 laps due to gearbox failure. It would be his only Champ Car start as he failed to qualify for the 1982 Indianapolis 500 and 1983 Indianapolis 500 and was entered in the Cleveland Grand Prix later that year but the car was driven by Herm Johnson. In 1977, Capparelli arranged for Pilette to drive with the dying BRM team in Formula One, and also in the Aurora AFX Formula One Championship the following year. In sports cars Pilette won the Spa 24 Hours with a Ford Capri, in the last race on the long circuit in 1978. In 1992 he formed the Pilette Speed Tradition Formula Ford team in Europe. In 1994 he built his own Formula Three car, the Pilette F.3, and raced in the German Formula 3 championship with Paolo Coloni.In September 2013, he was elected Vice President of the Grand Prix Drivers Club (formerly known as Club International des Anciens Pilotes de Grand-Prix F1)"@en ,
+		"Theodore \"Teddy\" Pilette (Brussel, 26 juli 1942) is een voormalig Formule 1-coureur uit Belgi\u00EB. Tussen 1974 en 1977 nam hij deel aan 4 Grands Prix voor de teams Brabham en BRM, maar scoorde hierin geen punten."@nl ,
+		"Ha gareggiato nel 1974 con una Brabham e nel 1977 con una BRM."@it ;
+	dbo:birthDate	"1942-7-26"^^xsd:date ;
+	dbo:wikiPageRevisionID	725569127 ;
+	dbo:birthPlace	dbpedia-wikidata:Q9005 ;
+	dbo:wikiPageID	1235647 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1974_Belgian_Grand_Prix> ;
+	dbo:races	"4"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1977_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbp:pixels	150 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Teddy_Pilette	ns24:hypernym	dbr:Driver ;
+	dbp:title	dbr:Formula_5000 .
+<http://dbpedia.org/resource/1970_24_Hours_of_Le_Mans__33__1>	dbo:firstDriver	dbr:Teddy_Pilette .
+<http://dbpedia.org/resource/1971_24_Hours_of_Le_Mans__49__1>	dbo:firstDriver	dbr:Teddy_Pilette .
+<http://dbpedia.org/resource/1970_1000km_of_Monza__16__1>	dbo:firstDriver	dbr:Teddy_Pilette .
+<http://dbpedia.org/resource/1970_1000km_of_Spa-Francorchamps__S5.0__2>	dbo:firstDriver	dbr:Teddy_Pilette .

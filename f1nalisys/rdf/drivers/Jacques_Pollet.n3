@@ -1,0 +1,119 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Jacques_Pollet	foaf:primaryTopic	dbr:Jacques_Pollet .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jacques_Pollet	rdf:type	yago:WikicatFrenchFormulaOneDrivers .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jacques_Pollet	rdf:type	ns5:Agent ,
+		yago:Operator110378412 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jacques_Pollet	rdf:type	wikidata:Q215627 ,
+		ns5:NaturalPerson ,
+		wikidata:Q24229398 ,
+		yago:WikicatGordiniFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jacques_Pollet	rdf:type	owl:Thing ,
+		foaf:Person .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Jacques_Pollet	rdf:type	dbo:Athlete ,
+		wikidata:Q378622 ,
+		dbo:MotorsportRacer ,
+		dbo:RacingDriver ,
+		dbo:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jacques_Pollet	rdf:type	umbel-rc:RaceCarDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Jacques_Pollet	rdf:type	schema:Person ,
+		dbo:FormulaOneRacer ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Person ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jacques_Pollet	rdfs:label	"Jacques Pollet"@pt ,
+		"Jacques Pollet"@nl ,
+		"Jacques Pollet"@de ,
+		"Jacques Pollet"@en ,
+		"Jacques Pollet"@it ,
+		"Jacques Pollet"@pl ,
+		"Jacques Pollet"@fr ;
+	rdfs:comment	"Jacques Pollet (Roubaix, 2 juli 1922 \u2013 Parijs, 16 augustus 1997) was een Formule 1-coureur uit Frankrijk. Hij nam tussen 1954 en 1955 deel aan 5 Grands Prix voor het team Gordini, maar scoorde hierin geen punten."@nl ,
+		"Jacques Pollet (July 2, 1922 in Roubaix \u2013 August 16, 1997 in Paris ) was a racing driver from France. He participated in 5 Formula One World Championship Grands Prix, debuting on July 4, 1954. He scored no championship points."@en ,
+		"Jacques Pollet (Roubaix, Fran\u00E7a, 2 de julho de 1922 \u2013 Paris, Fran\u00E7a, 16 de agosto de 1997) foi um automobilista franc\u00EAs que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1954 e 1955."@pt ,
+		"Jacques Pollet (ur. 2 lipca 1922 w Roubaix, zm. 16 sierpnia 1997 w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy.Startowa\u0142 w Formule 1 og\u00F3\u0142em w 5 wy\u015Bcigach reprezentuj\u0105c zesp\u00F3\u0142 Gordini. W Formule 1 zadebiutowa\u0142 4 lipca 1954. Nigdy nie zdoby\u0142 punkt\u00F3w."@pl ,
+		"Jacques Pollet est un coureur automobile fran\u00E7ais n\u00E9 le 2 juillet 1922 \u00E0 Roubaix et d\u00E9c\u00E9d\u00E9 le 16 ao\u00FBt 1997 \u00E0 Paris. D\u00E8s 1951, il est inscrit \u00E0 la Targa Florio sur Frazer Nash. Il a particip\u00E9 \u00E0 5 Grand Prix comptant pour le championnat du monde de Formule 1 d\u00E9butant le 4 juillet 1954 au Grand Prix de France. Il n'a pas marqu\u00E9 de point au Championnat du Monde. Il a \u00E9galement couru dans 12 courses hors championnats."@fr ,
+		"Jacques Pollet (* 2. Juli 1922 in Roubaix; \u2020 16. August 1997 in Paris) war ein franz\u00F6sischer Autorennfahrer."@de .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jacques_Pollet	dbp:points	0 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jacques_Pollet	owl:sameAs	dbpedia-pt:Jacques_Pollet .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jacques_Pollet	owl:sameAs	dbpedia-it:Jacques_Pollet .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jacques_Pollet	owl:sameAs	dbpedia-nl:Jacques_Pollet .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jacques_Pollet	owl:sameAs	dbpedia-de:Jacques_Pollet .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jacques_Pollet	owl:sameAs	dbpedia-wikidata:Q172355 ,
+		wikidata:Q172355 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jacques_Pollet	owl:sameAs	dbpedia-fr:Jacques_Pollet .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jacques_Pollet	owl:sameAs	dbpedia-pl:Jacques_Pollet ,
+		<http://rdf.freebase.com/ns/m.04kqq2> ,
+		dbr:Jacques_Pollet .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jacques_Pollet	owl:sameAs	yago-res:Jacques_Pollet .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jacques_Pollet	dct:subject	dbc:Gordini_Formula_One_drivers ,
+		dbc:French_racing_drivers ,
+		dbc:French_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1997_deaths> ,
+		<http://dbpedia.org/resource/Category:1922_births> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:People_from_Roubaix ;
+	foaf:name	"Jacques Pollet"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Jacques"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jacques_Pollet ;
+	foaf:surname	"Pollet"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jacques_Pollet	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jacques_Pollet?oldid=703974935> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jacques_Pollet	dbp:birthDate	"1922-07-02"^^xsd:date ;
+	dbp:deathDate	"1997-08-16"^^xsd:date ;
+	dbo:abstract	"Jacques Pollet (July 2, 1922 in Roubaix \u2013 August 16, 1997 in Paris ) was a racing driver from France. He participated in 5 Formula One World Championship Grands Prix, debuting on July 4, 1954. He scored no championship points."@en ,
+		"Jacques Pollet (Roubaix, 2 juli 1922 \u2013 Parijs, 16 augustus 1997) was een Formule 1-coureur uit Frankrijk. Hij nam tussen 1954 en 1955 deel aan 5 Grands Prix voor het team Gordini, maar scoorde hierin geen punten."@nl ,
+		"Jacques Pollet est un coureur automobile fran\u00E7ais n\u00E9 le 2 juillet 1922 \u00E0 Roubaix et d\u00E9c\u00E9d\u00E9 le 16 ao\u00FBt 1997 \u00E0 Paris. D\u00E8s 1951, il est inscrit \u00E0 la Targa Florio sur Frazer Nash. Il a particip\u00E9 \u00E0 5 Grand Prix comptant pour le championnat du monde de Formule 1 d\u00E9butant le 4 juillet 1954 au Grand Prix de France. Il n'a pas marqu\u00E9 de point au Championnat du Monde. Il a \u00E9galement couru dans 12 courses hors championnats. Ses meilleurs r\u00E9sultats ont \u00E9t\u00E9 obtenus dans les courses hors championnats et dans les courses de voitures de sport et en endurance, comme lors du Tour de France automobile qu'il remporte en 1954, moins de trois mois apr\u00E8s un premier succ\u00E8s lors du Grand Prix de Picardie (toujours sur Gordini T15S), aux 24 heures du Mans 1954 et 1955, durant le Bol d'or 1955 (4e), ou encore pour les Mille Miglia 1956 (8e sur Mercedes-Benz 300 SL, deux mois apr\u00E8s une neuvi\u00E8me place au Grand Prix d'Agadir)."@fr ,
+		"Jacques Pollet (Roubaix, Fran\u00E7a, 2 de julho de 1922 \u2013 Paris, Fran\u00E7a, 16 de agosto de 1997) foi um automobilista franc\u00EAs que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1954 e 1955."@pt ,
+		"Jacques Pollet (ur. 2 lipca 1922 w Roubaix, zm. 16 sierpnia 1997 w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy.Startowa\u0142 w Formule 1 og\u00F3\u0142em w 5 wy\u015Bcigach reprezentuj\u0105c zesp\u00F3\u0142 Gordini. W Formule 1 zadebiutowa\u0142 4 lipca 1954. Nigdy nie zdoby\u0142 punkt\u00F3w."@pl ,
+		"Jacques Pollet (* 2. Juli 1922 in Roubaix; \u2020 16. August 1997 in Paris) war ein franz\u00F6sischer Autorennfahrer."@de ;
+	dbo:birthDate	"1922-7-2"^^xsd:date ;
+	dbo:deathDate	"1997-8-16"^^xsd:date ;
+	dbo:deathPlace	dbr:Paris ;
+	dbo:wikiPageRevisionID	703974935 ;
+	dbo:birthPlace	dbr:Roubaix ;
+	dbo:wikiPageID	1233864 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Jacques_Pollet	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1954_French_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1955_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"5"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Gordini ;
+	dbp:nationality	"French"^^xsd:string .
+dbr:Pollet	dbo:wikiPageDisambiguates	dbr:Jacques_Pollet .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__6__1>	dbo:firstDriver	dbr:Jacques_Pollet .
+<http://dbpedia.org/resource/1955_24_Hours_of_Le_Mans__25__1>	dbo:firstDriver	dbr:Jacques_Pollet .

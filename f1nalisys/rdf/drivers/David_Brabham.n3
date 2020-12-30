@@ -1,0 +1,247 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Simon_Pagenaud	dbp:before	dbr:David_Brabham ;
+	dbp:with	dbr:David_Brabham .
+dbr:Rickard_Rydell	dbp:before	dbr:David_Brabham .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:David_Brabham	foaf:primaryTopic	dbr:David_Brabham .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Aston_Martin__18	dbo:firstDriver	dbr:David_Brabham .
+dbr:Aston_Martin__2005__1	dbo:firstDriver	dbr:David_Brabham .
+dbr:Aston_Martin__2007__1	dbo:firstDriver	dbr:David_Brabham .
+dbr:Aston_Martin__2008__1	dbo:firstDriver	dbr:David_Brabham .
+dbr:Petit_Le_Mans__1999__1	dbo:firstDriver	dbr:David_Brabham .
+dbr:Brabham_Racing	dbp:principal	dbr:David_Brabham .
+dbr:Craig_Lowndes	dbp:after	dbr:David_Brabham .
+<http://dbpedia.org/resource/Marc_Gen\u00E9>	dbp:years	dbr:David_Brabham .
+dbr:Masahiko_Kageyama	dbp:after	dbr:David_Brabham .
+dbr:Enrico_Bertaggia	dbp:after	dbr:David_Brabham .
+<http://dbpedia.org/resource/Guy_Smith_(racing_driver)>	dbp:before	dbr:David_Brabham .
+dbr:Michael_Krumm	dbp:before	dbr:David_Brabham .
+dbr:Lucas_Luhr	dbp:after	dbr:David_Brabham .
+dbr:Rinaldo_Capello	dbp:after	dbr:David_Brabham .
+dbr:Alexander_Wurz	dbp:years	dbr:David_Brabham .
+dbr:Allan_McNish	dbp:after	dbr:David_Brabham .
+<http://dbpedia.org/resource/1989_Macau_Grand_Prix__Bowman_Racing__1>	dbo:firstDriver	dbr:David_Brabham .
+dbr:Chris_Dyson	dbp:before	dbr:David_Brabham .
+dbr:Matthew_Brabham	dbp:relatedTo	dbr:David_Brabham .
+dbr:Timo_Bernhard	dbp:before	dbr:David_Brabham .
+dbr:Romain_Dumas	dbp:before	dbr:David_Brabham .
+dbr:Geoff_Brabham	dbp:relatedTo	dbr:David_Brabham .
+<http://dbpedia.org/resource/Luis_D\u00EDaz_(racing_driver)>	dbp:after	dbr:David_Brabham .
+dbr:Mike_Rockenfeller	dbp:before	dbr:David_Brabham .
+<http://dbpedia.org/resource/Jim_Richards_(racing_driver)>	dbp:before	dbr:David_Brabham .
+<http://dbpedia.org/resource/John_Nielsen_(racing_driver)>	dbp:years	dbr:David_Brabham .
+dbr:Pedro_de_la_Rosa	dbp:before	dbr:David_Brabham .
+dbr:JJ_Lehto	dbp:after	dbr:David_Brabham .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:David_Brabham	rdf:type	yago:WikicatFIAWorldEnduranceChampionshipDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Athlete .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:David_Brabham	rdf:type	wikidata:Q24229398 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:David_Brabham	rdf:type	ns8:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:David_Brabham	rdf:type	owl:Thing ,
+		wikidata:Q215627 ,
+		ns8:NaturalPerson .
+@prefix schema:	<http://schema.org/> .
+dbr:David_Brabham	rdf:type	schema:Person ,
+		yago:WikicatAustralianFormula2Drivers ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:WikicatUnitedSportsCarChampionshipDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:David_Brabham	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Person ,
+		yago:WikicatAustralianFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q378622 ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q5 ,
+		yago:Operator110378412 ,
+		yago:Driver110034906 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatV8SupercarDrivers ,
+		yago:WikicatAtlanticChampionshipDrivers ,
+		yago:WikicatEuropeanLeMansSeriesDrivers ,
+		dbo:Agent ,
+		dbo:RacingDriver ,
+		yago:WikicatBlancpainEnduranceSeriesDrivers ,
+		yago:WikicatFIAGTChampionshipDrivers ,
+		yago:WikicatFIAGT1WorldChampionshipDrivers ,
+		yago:WikicatSimtekFormulaOneDrivers ,
+		yago:WikicatRacingDriversFromSydney ,
+		yago:WikicatAmericanLeMansSeriesDrivers ,
+		foaf:Person ,
+		dbo:FormulaOneRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:David_Brabham	rdfs:label	"David Brabham"@fr ,
+		"\u30C7\u30D3\u30C3\u30C9\u30FB\u30D6\u30E9\u30D0\u30E0"@ja ,
+		"\u0411\u0440\u044D\u0431\u0435\u043C, \u0414\u044D\u0432\u0438\u0434"@ru ,
+		"David Brabham"@de ,
+		"David Brabham"@pl ,
+		"David Brabham"@es ,
+		"David Brabham"@nl ,
+		"David Brabham"@it ,
+		"David Brabham"@pt ,
+		"David Brabham"@en ;
+	rdfs:comment	"David Philip Brabham (Wimbledon, Londres, 5 de setembro de 1965) \u00E9 um ex-piloto australiano de F\u00F3rmula 1 que correu pelas equipes Brabham e Simtek. David \u00E9 filho do tricampe\u00E3o de F\u00F3rmula 1 Jack Brabham e irm\u00E3o do tamb\u00E9m ex-piloto Gary Brabham."@pt ,
+		"David Brabham (born 5 September 1965) is an Australian professional racing driver and one of the most successful and experienced specialists in sports car racing. He has won three international Sports Car series and is one of four Australians to have won the Le Mans 24 Hour sports car race, winning the event in 2009. Brabham won the American Le Mans Series in 2009 and 2010. He also competed in Formula One, racing for the Brabham and Simtek teams in 1990 and 1994 respectively. Brabham is the youngest son of three-time Formula One world champion Sir Jack Brabham."@en ,
+		"David Brabham (Wimbledon, Reino Unido, 5 de septiembre de 1965) es un piloto de automovilismo australiano. Entre sus m\u00FAltiples logros, se destacan una victoria absoluta en las 24 Horas de Le Mans de 2009, un segundo puesto absoluto en 2003 y dos victorias en la clase GT1 en 2007 y 2008, una victoria en los 1000 km de Bathurst de Superturismo de 1997, dos t\u00EDtulos en la American Le Mans Series 2009 y 2010, dos subcampeonatos en 1999 y 2008, y un t\u00EDtulo en el Campeonato Japon\u00E9s de Gran Turismos 1996. Es uno de los tres hijos del triple campe\u00F3n del mundo de F\u00F3rmula 1 Jack Brabham."@es ,
+		"David Brabham (ur. 5 wrze\u015Bnia 1965 w Wimbledon na przedmie\u015Bciach Londynu) \u2013 australijski kierowca wy\u015Bcigowy. Startowa\u0142 m.in. w Formule 1, 24h Le Mans, wy\u015Bcigach samochod\u00F3w sportowych oraz turystycznych. Syn Sir Jacka Brabhama, trzykrotnego mistrza Formu\u0142y 1. Jego bracia Geoff i Gary r\u00F3wnie\u017C s\u0105 kierowcami wy\u015Bcigowymi."@pl ,
+		"David Philip Brabham est un pilote automobile australien n\u00E9 le 5 septembre 1965 \u00E0 Wimbledon (Angleterre). Il est l'un des trois fils du triple champion du monde de Formule 1, Jack Brabham."@fr ,
+		"\u0414\u044D\u0432\u0438\u0434 \u0411\u0440\u044D\u0431\u0435\u043C (\u0430\u043D\u0433\u043B. David Brabham, 5 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1965, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 1989 \u0433\u043E\u0434\u0430. \u041C\u043B\u0430\u0434\u0448\u0438\u0439 \u0441\u044B\u043D \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u043E\u0433\u043E \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0414\u0436\u0435\u043A\u0430 \u0411\u0440\u044D\u0431\u0435\u043C\u0430."@ru ,
+		"\u30C7\u30D3\u30C3\u30C9\u30FB\u30D6\u30E9\u30D0\u30E0\uFF08David Brabham \u30011965\u5E749\u67085\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"David Brabham (* 5. September 1965 in Wimbledon, England) ist ein australischer Automobilrennfahrer."@de ,
+		"David Brabham (Wimbledon, 5 september 1965) is een voormalig Australisch autocoureur. Hij maakte zijn Formule 1-debuut in 1990 bij Brabham en nam deel aan 30 Grands Prix waarvan hij er 24 mocht starten. Hij behaalde geen punten. Hij is de jongste zoon van voormalig Formule 1-kampioen Jack Brabham. In 1989 ging hij dan naar Europa om in de Britse Formule 3 te gaan rijden. Een jaar later reed hij al in de Formule 1 voor Brabham. In veertien races slaagde hij er slechts zes keer in om de wagen te kwalificeren. Hij werd dan ook vervangen aan het einde van het seizoen."@nl ;
+	dbp:points	0 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04bg93> ,
+		dbr:David_Brabham .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:David_Brabham	owl:sameAs	dbpedia-pt:David_Brabham .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:David_Brabham	owl:sameAs	dbpedia-it:David_Brabham .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:David_Brabham	owl:sameAs	dbpedia-fr:David_Brabham .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:David_Brabham	owl:sameAs	dbpedia-de:David_Brabham .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:David_Brabham	owl:sameAs	dbpedia-cs:David_Brabham ,
+		wikidata:Q173001 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:David_Brabham	owl:sameAs	dbpedia-pl:David_Brabham .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:David_Brabham	owl:sameAs	dbpedia-wikidata:Q173001 ,
+		<http://ja.dbpedia.org/resource/\u30C7\u30D3\u30C3\u30C9\u30FB\u30D6\u30E9\u30D0\u30E0> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:David_Brabham	owl:sameAs	dbpedia-es:David_Brabham .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:David_Brabham	owl:sameAs	yago-res:David_Brabham .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:David_Brabham	owl:sameAs	dbpedia-nl:David_Brabham .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:David_Brabham	dct:subject	dbc:Brabham_Formula_One_drivers ,
+		dbc:United_SportsCar_Championship_drivers ,
+		dbc:FIA_GT_Championship_drivers ,
+		dbc:FIA_GT1_World_Championship_drivers ,
+		dbc:Blancpain_Endurance_Series_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:V8_Supercar_drivers ,
+		dbc:Atlantic_Championship_drivers ,
+		dbc:Australian_Formula_One_drivers ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:Bathurst_1000_winners ,
+		dbc:Brabham_family ,
+		dbc:Simtek_Formula_One_drivers ,
+		dbc:Sportsmen_from_New_South_Wales ,
+		dbc:European_Le_Mans_Series_drivers ,
+		dbc:Australian_racing_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:Australian_Formula_2_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:American_Le_Mans_Series_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1965_births> ,
+		dbc:Sportspeople_from_Sydney ,
+		dbc:Sports_car_racing_team_owners ,
+		dbc:Racing_drivers_from_Sydney ,
+		dbc:FIA_World_Endurance_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ;
+	foaf:name	"David Brabham"@en ;
+	foaf:homepage	<http://www.davidbrabham.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/David_Brabham_2007.jpg> ;
+	dct:description	"racing driver"@en ;
+	foaf:givenName	"David"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:David_Brabham ;
+	foaf:surname	"Brabham"@en ;
+	dbp:title	dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		"Winner of the Australian Drivers' Championship"^^xsd:string ,
+		dbr:Super_GT ,
+		"Winner of the Bathurst 1000"^^xsd:string ,
+		dbr:Macau_Grand_Prix ,
+		dbr:British_Formula_3_Championship ,
+		dbr:American_Le_Mans_Series ;
+	dbp:years	dbr:Alexander_Wurz ,
+		<http://dbpedia.org/resource/Marc_Gen\u00E9> ,
+		"with Scott Sharp"^^xsd:string ,
+		","^^xsd:string ,
+		"with Simon Pagenaud"^^xsd:string ,
+		1989 ,
+		1987 ,
+		1996 ,
+		1997 ,
+		2009 ,
+		2010 ,
+		<http://dbpedia.org/resource/John_Nielsen_(racing_driver)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:David_Brabham	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/David_Brabham?oldid=742377861> ;
+	dbp:before	dbr:Allan_McNish ,
+		<http://dbpedia.org/resource/Tom_Kristensen_(racing_driver)> ,
+		dbr:Scott_Sharp ,
+		"David Brabham"^^xsd:string ,
+		dbr:Masahiko_Kageyama ,
+		dbr:Enrico_Bertaggia ,
+		dbr:Rinaldo_Capello ,
+		"Graham Watson"^^xsd:string ,
+		dbr:Marco_Werner ,
+		dbr:JJ_Lehto ,
+		dbr:Greg_Murphy ,
+		dbr:Craig_Lowndes ,
+		dbr:Lucas_Luhr ;
+	dbp:after	"David Brabham"^^xsd:string ,
+		dbr:Michael_Krumm ,
+		dbr:Mike_Rockenfeller ,
+		dbr:Rohan_Onslow ,
+		dbr:Simon_Pagenaud ,
+		dbr:Timo_Bernhard ,
+		dbr:Michael_Schumacher ,
+		dbr:Rickard_Rydell ,
+		dbr:Pedro_de_la_Rosa ,
+		dbr:Chris_Dyson ,
+		<http://dbpedia.org/resource/Mika_H\u00E4kkinen> ,
+		<http://dbpedia.org/resource/Guy_Smith_(racing_driver)> ,
+		dbr:Romain_Dumas ,
+		<http://dbpedia.org/resource/Jim_Richards_(race_driver)> ;
+	dbp:birthPlace	"Wimbledon, London, England, United Kingdom"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:David_Brabham	dbp:birthDate	"1965-09-05"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.davidbrabham.com/> ;
+	dbp:caption	"David Brabham in 2007"^^xsd:string ;
+	dbo:abstract	"David Brabham (Wimbledon, 5 september 1965) is een voormalig Australisch autocoureur. Hij maakte zijn Formule 1-debuut in 1990 bij Brabham en nam deel aan 30 Grands Prix waarvan hij er 24 mocht starten. Hij behaalde geen punten. Hij is de jongste zoon van voormalig Formule 1-kampioen Jack Brabham. Hij deed aanvankelijk enkele andere sporten voordat hij op zeventienjarige leeftijd in de karting begon te rijden. Zijn professionele carri\u00E8re begon in 1983 in de karting, waarin hij twee jaar bleef rijden. Hierop stapte hij over naar de toerwagens. Hierin reed hij \u00E9\u00E9n jaar waarna hij naar de Formule Ford 1600 ging en een jaar later alweer naar de Formula Atlantic. In 1989 ging hij dan naar Europa om in de Britse Formule 3 te gaan rijden. Een jaar later reed hij al in de Formule 1 voor Brabham. In veertien races slaagde hij er slechts zes keer in om de wagen te kwalificeren. Hij werd dan ook vervangen aan het einde van het seizoen. Hij ging in 1991 bij Tom Walkinshaw Racing rijden en won datzelfde jaar de 24 uur van Spa-Francorchamps met Nissan. David won ook de 24 uur van Daytona met Jaguar in 1992. Hij kwam terug in de Formule 1 bij Simtek in 1994, het jaar waarin Roland Ratzenberger de dood vond in een Simtek in de Grand Prix van San Marino. Het jaar erna ging hij in de toerwagens rijden. Hij boekte hierin een aantal mooie resultaten. In de 24 uur van Le Mans 2006 behaalde hij een negende plaats. In 2007 en 2008 won hij de GT1 klasse van de 24 uren van Le Mans aan het stuur van een Aston Martin DBR9. In 2009 won hij de 24 uren van Le Mans met de Peugeot 908 HDi FAP. De twee broers van David, Geoff en Gary bouwen ook aan een racecarri\u00E8re."@nl ,
+		"David Brabham (ur. 5 wrze\u015Bnia 1965 w Wimbledon na przedmie\u015Bciach Londynu) \u2013 australijski kierowca wy\u015Bcigowy. Startowa\u0142 m.in. w Formule 1, 24h Le Mans, wy\u015Bcigach samochod\u00F3w sportowych oraz turystycznych. Syn Sir Jacka Brabhama, trzykrotnego mistrza Formu\u0142y 1. Jego bracia Geoff i Gary r\u00F3wnie\u017C s\u0105 kierowcami wy\u015Bcigowymi. W 1990 roku startowa\u0142 w Formule 1 w zespole Brabhama (8 start\u00F3w). W 1994 roku \u015Bciga\u0142 si\u0119 natomiast w zespole Simtek (16 start\u00F3w). W 1995 startowa\u0142 bez wi\u0119kszych sukces\u00F3w w BTCC, a w 1996 wygra\u0142 japo\u0144sk\u0105 seri\u0119 GT. Od tego czasu skupi\u0142 si\u0119 w\u0142a\u015Bnie na wy\u015Bcigach typu GT startuj\u0105c regularnie w American Le Mans Series i wy\u015Bcigach 24 godziny Le Mans."@pl ,
+		"David Philip Brabham (Wimbledon, Londres, 5 de setembro de 1965) \u00E9 um ex-piloto australiano de F\u00F3rmula 1 que correu pelas equipes Brabham e Simtek. David \u00E9 filho do tricampe\u00E3o de F\u00F3rmula 1 Jack Brabham e irm\u00E3o do tamb\u00E9m ex-piloto Gary Brabham."@pt ,
+		"David Brabham (born 5 September 1965) is an Australian professional racing driver and one of the most successful and experienced specialists in sports car racing. He has won three international Sports Car series and is one of four Australians to have won the Le Mans 24 Hour sports car race, winning the event in 2009. Brabham won the American Le Mans Series in 2009 and 2010. He also competed in Formula One, racing for the Brabham and Simtek teams in 1990 and 1994 respectively. Brabham is the youngest son of three-time Formula One world champion Sir Jack Brabham."@en ,
+		"\u0414\u044D\u0432\u0438\u0434 \u0411\u0440\u044D\u0431\u0435\u043C (\u0430\u043D\u0433\u043B. David Brabham, 5 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1965, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0439 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 1989 \u0433\u043E\u0434\u0430. \u041C\u043B\u0430\u0434\u0448\u0438\u0439 \u0441\u044B\u043D \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u043E\u0433\u043E \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0414\u0436\u0435\u043A\u0430 \u0411\u0440\u044D\u0431\u0435\u043C\u0430."@ru ,
+		"\u30C7\u30D3\u30C3\u30C9\u30FB\u30D6\u30E9\u30D0\u30E0\uFF08David Brabham \u30011965\u5E749\u67085\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"David Brabham (Wimbledon, Reino Unido, 5 de septiembre de 1965) es un piloto de automovilismo australiano. Entre sus m\u00FAltiples logros, se destacan una victoria absoluta en las 24 Horas de Le Mans de 2009, un segundo puesto absoluto en 2003 y dos victorias en la clase GT1 en 2007 y 2008, una victoria en los 1000 km de Bathurst de Superturismo de 1997, dos t\u00EDtulos en la American Le Mans Series 2009 y 2010, dos subcampeonatos en 1999 y 2008, y un t\u00EDtulo en el Campeonato Japon\u00E9s de Gran Turismos 1996. Es uno de los tres hijos del triple campe\u00F3n del mundo de F\u00F3rmula 1 Jack Brabham."@es ,
+		"David Philip Brabham est un pilote automobile australien n\u00E9 le 5 septembre 1965 \u00E0 Wimbledon (Angleterre). Il est l'un des trois fils du triple champion du monde de Formule 1, Jack Brabham."@fr ,
+		"David Brabham (* 5. September 1965 in Wimbledon, England) ist ein australischer Automobilrennfahrer."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/David_Brabham_2007.jpg?width=300> ;
+	dbo:birthDate	"1965-9-5"^^xsd:date ;
+	dbo:wikiPageRevisionID	742377861 ;
+	dbo:birthPlace	dbr:London ;
+	dbo:wikiPageID	1148454 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:David_Brabham	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1990_San_Marino_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1994_Australian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"30"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Simtek ,
+		dbr:Brabham ;
+	dbp:nationality	"Australian"^^xsd:string .
+dbr:Scott_Sharp	dbp:after	dbr:David_Brabham .

@@ -1,0 +1,149 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Tony_Marsh_(racing_driver)>	dbp:before	dbr:Ken_Wharton .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1954_New_Zealand_Grand_Prix>	dbo:fastestDriver	dbr:Ken_Wharton ;
+	dbo:secondDriver	dbr:Ken_Wharton .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Ken_Wharton	foaf:primaryTopic	dbr:Ken_Wharton .
+<http://dbpedia.org/resource/1954_24_Hours_of_Le_Mans__29__1>	dbo:firstDriver	dbr:Ken_Wharton .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__46__1>	dbo:firstDriver	dbr:Ken_Wharton .
+<http://dbpedia.org/resource/Duncan_Hamilton_(racing_driver)>	dbp:before	dbr:Ken_Wharton .
+dbr:Wharton	dbo:wikiPageDisambiguates	dbr:Ken_Wharton .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__13__1>	dbo:firstDriver	dbr:Ken_Wharton .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ken_Wharton	rdf:type	yago:WikicatVanwallFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatEnglishFormulaOneDrivers .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Ken_Wharton	rdf:type	ns7:NaturalPerson ,
+		yago:WikicatEnglishRallyDrivers ,
+		foaf:Person ,
+		ns7:Agent ,
+		yago:WikicatBritishHillclimbDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ken_Wharton	rdf:type	wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Ken_Wharton	rdf:type	schema:Person ,
+		wikidata:Q215627 ,
+		dbo:Athlete ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Ken_Wharton	rdf:type	owl:Thing ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Ken_Wharton	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:MotorsportRacer ,
+		yago:Operator110378412 ,
+		dbo:Person ,
+		wikidata:Q378622 ,
+		wikidata:Q5 ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ken_Wharton	rdfs:label	"\u0423\u043E\u0440\u0442\u043E\u043D, \u041A\u0435\u043D (\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A)"@ru ,
+		"Ken Wharton"@it ,
+		"Ken Wharton"@nl ,
+		"Ken Wharton"@fr ,
+		"Ken Wharton"@en ,
+		"Ken Wharton"@pl ,
+		"Ken Wharton"@pt ,
+		"Ken Wharton"@de ,
+		"\u30B1\u30F3\u30FB\u30A6\u30A9\u30FC\u30C8\u30F3"@ja ;
+	rdfs:comment	"Kenneth Albert Wharton (Smethwick, Birmingham, Inglaterra, 21 de mar\u00E7o de 1916 \u2013 Otahuhu, Auckland, Nova Zel\u00E2ndia, 12 de janeiro de 1957) foi um automobilista ingl\u00EAs que participou de 15 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1952 e 1955. Seu melhor resultado foi o quarto lugar na Su\u00ED\u00E7a em 1952."@pt ,
+		"Ken Wharton (21 March 1916, Smethwick \u2013 12 January 1957, Ardmore, Auckland, New Zealand) (born Frederick Charles Kenneth Wharton) was a British racing driver from England. He competed in off-road trials, hillclimbs, and rallying, and also raced sports cars and single-seaters. He began racing in the new National 500cc Formula in his own special, and later acquired a Cooper. His World Championship Grand Prix debut was at the 1952 Swiss event, run to Formula 2 regulations, where he started from 13th position on the grid and finished 4th. He participated in a total of 15 World Championship Grands Prix, from which he scored 3 championship points."@en ,
+		"Ken Wharton Ken Wharton, n\u00E9 le 21 mars 1916 \u00E0 Smethwick (Midlands de l'Ouest) et mort accidentellement le 12 janvier 1957 \u00E0 Ardmore (Nouvelle-Z\u00E9lande), est un ancien pilote anglais de course automobile, tant en rallyes que sur circuits et en courses de c\u00F4te. Il a disput\u00E9 quinze \u00E9preuves de championnat du monde des conducteurs de Formule 1, de 1952 \u00E0 1955."@fr ,
+		"Ken Wharton (Smethwick, 21 maart 1916 - Ardmore Circuit, vlak bij Auckland, Nieuw-Zeeland, 12 januari 1957) was een Brits autocoureur. Hij nam tussen 1952 en 1955 deel aan 16 Grands Prix Formule 1 voor de teams Frazer-Nash, Cooper, BRM en Vanwall en scoorde hierin 3 WK-punten. Hij overleed terwijl hij in een Ferrari Monza reed op het Ardmore Circuit."@nl ,
+		"\u041A\u0435\u043D \u0423\u043E\u0301\u0440\u0442\u043E\u043D (\u0430\u043D\u0433\u043B. Ken Wharton, 21 \u043C\u0430\u0440\u0442\u0430 1916, \u0421\u043C\u0435\u0442\u0438\u043A, \u0412\u0443\u0441\u0442\u0435\u0440\u0448\u0438\u0440 \u2014 12 \u044F\u043D\u0432\u0430\u0440\u044F 1957, \u0410\u0440\u0434\u043C\u043E\u0440, \u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u0442\u044B\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u043F\u043E \u043F\u043E\u0434\u044A\u0451\u043C\u0443 \u0432 \u0433\u043E\u0440\u0443, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"\u30B1\u30F3\u30FB\u30A6\u30A9\u30FC\u30C8\u30F3\uFF08Ken Wharton \u30011916\u5E743\u670821\u65E5 - 1957\u5E741\u670812\u65E5\uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002F1\u306E\u307F\u306A\u3089\u305A\u30E9\u30EA\u30FC\u3084\u8010\u4E45\u30EC\u30FC\u30B9\u3001\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u30EC\u30FC\u30B9\u306A\u3069\u5E45\u5E83\u304F\u6D3B\u8E8D\u3057\u305F\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3082\u3042\u3063\u305F\u3002"@ja ,
+		"Ken Wharton (* 21. M\u00E4rz 1916 in Smethwick bei Birmingham; \u2020 12. Januar 1957 in Ardmore, Neuseeland) war ein englischer Formel-1-Rennfahrer."@de ,
+		"Ken Wharton, w\u0142a\u015Bc. Kenneth Wharton (ur. 21 marca 1916 w Smethwick, zm. 12 stycznia 1957 w Ardmore) \u2013 brytyjski kierowca wy\u015Bcigowy i rajdowy. W 1952 zadebiutowa\u0142 w Grand Prix Szwajcarii w Formule 1. Wywalczy\u0142 czwarte miejsce i zdoby\u0142 jedyne w swojej karierze trzy punkty w Formule 1."@pl ;
+	dbp:points	3 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Ken_Wharton	owl:sameAs	dbpedia-wikidata:Q172452 ,
+		<http://rdf.freebase.com/ns/m.04kywk> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Ken_Wharton	owl:sameAs	dbpedia-nl:Ken_Wharton ,
+		<http://ja.dbpedia.org/resource/\u30B1\u30F3\u30FB\u30A6\u30A9\u30FC\u30C8\u30F3> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ken_Wharton	owl:sameAs	dbpedia-pl:Ken_Wharton .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ken_Wharton	owl:sameAs	yago-res:Ken_Wharton ,
+		wikidata:Q172452 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Ken_Wharton	owl:sameAs	dbpedia-it:Ken_Wharton .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Ken_Wharton	owl:sameAs	dbpedia-pt:Ken_Wharton ,
+		dbr:Ken_Wharton .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ken_Wharton	owl:sameAs	dbpedia-de:Ken_Wharton .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Ken_Wharton	owl:sameAs	dbpedia-fr:Ken_Wharton .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ken_Wharton	dct:subject	dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:British_hillclimb_drivers ,
+		dbc:People_from_Smethwick ,
+		<http://dbpedia.org/resource/Category:1916_births> ,
+		dbc:BRM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1957_deaths> ,
+		dbc:Sport_deaths_in_New_Zealand ,
+		dbc:Brighton_Speed_Trials_people ,
+		dbc:Vanwall_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Ken Wharton"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Ken"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ken_Wharton ;
+	foaf:surname	"Wharton"@en ;
+	dbp:title	dbr:British_Hill_Climb_Championship ;
+	dbp:years	1951 ,
+		"\u2013"^^xsd:string ;
+	dbo:nationality	dbr:United_Kingdom .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ken_Wharton	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ken_Wharton?oldid=716050924> ;
+	dbp:before	dbr:Dennis_Poore ;
+	dbp:after	<http://dbpedia.org/resource/Tony_Marsh_(racing_driver)> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Ken_Wharton	dbp:birthDate	"1916-03-21"^^xsd:date ;
+	dbp:deathDate	"1957-01-12"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.500race.org/Men/Wharton.htm> ;
+	dbp:caption	"Ken Wharton in 1953."^^xsd:string ;
+	dbo:abstract	"\u30B1\u30F3\u30FB\u30A6\u30A9\u30FC\u30C8\u30F3\uFF08Ken Wharton \u30011916\u5E743\u670821\u65E5 - 1957\u5E741\u670812\u65E5\uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002F1\u306E\u307F\u306A\u3089\u305A\u30E9\u30EA\u30FC\u3084\u8010\u4E45\u30EC\u30FC\u30B9\u3001\u30B9\u30DD\u30FC\u30C4\u30AB\u30FC\u30EC\u30FC\u30B9\u306A\u3069\u5E45\u5E83\u304F\u6D3B\u8E8D\u3057\u305F\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3082\u3042\u3063\u305F\u3002"@ja ,
+		"Ken Wharton (* 21. M\u00E4rz 1916 in Smethwick bei Birmingham; \u2020 12. Januar 1957 in Ardmore, Neuseeland) war ein englischer Formel-1-Rennfahrer."@de ,
+		"Kenneth Albert Wharton (Smethwick, Birmingham, Inglaterra, 21 de mar\u00E7o de 1916 \u2013 Otahuhu, Auckland, Nova Zel\u00E2ndia, 12 de janeiro de 1957) foi um automobilista ingl\u00EAs que participou de 15 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1952 e 1955. Seu melhor resultado foi o quarto lugar na Su\u00ED\u00E7a em 1952."@pt ,
+		"Ken Wharton (21 March 1916, Smethwick \u2013 12 January 1957, Ardmore, Auckland, New Zealand) (born Frederick Charles Kenneth Wharton) was a British racing driver from England. He competed in off-road trials, hillclimbs, and rallying, and also raced sports cars and single-seaters. He began racing in the new National 500cc Formula in his own special, and later acquired a Cooper. His World Championship Grand Prix debut was at the 1952 Swiss event, run to Formula 2 regulations, where he started from 13th position on the grid and finished 4th. He participated in a total of 15 World Championship Grands Prix, from which he scored 3 championship points. In 1951 he \"travelled abroad, with Peter Bell's 2-litre E.R.A., to finish 3rd overall in the Susa/Mont Cenis hill-climb and 4th overall in the Aosta/Grand Saint Bernard hill-climb. With a Cooper 500 he also competed in the German Freiburg hill-climb where he was runner-up in the 500 cc class to Stirling Moss.\"  Wharton won the Freiburg event outright in the E.R.A. on 5 August, climbing the 7.4 miles of the Schauinsland Pass, in 8 minutes 5.33 seconds. On 19 August he was fastest at the Vue des Alpes hill-climb, with a time of 3 minutes 57.8 seconds. He won the British Hill Climb Championship every year from 1951 to 1954, and remains the only driver to have won four successive BHCC titles. Other successes with ERA R4D included winning the Brighton Speed Trials in 1954, 1955 and 1956. Success in rallies included winning the Tulip Rally in 1949, 1950 and 1952, driving Fords. He also became British Trials Champion. On 4 July 1954, he and Peter Whitehead won the Reims 12-hour race in a Jaguar D-Type. In 1957 Wharton was fatally injured when his Ferrari Monza crashed in a sports car race at the Ardmore Circuit in New Zealand."@en ,
+		"Ken Wharton, w\u0142a\u015Bc. Kenneth Wharton (ur. 21 marca 1916 w Smethwick, zm. 12 stycznia 1957 w Ardmore) \u2013 brytyjski kierowca wy\u015Bcigowy i rajdowy. W 1952 zadebiutowa\u0142 w Grand Prix Szwajcarii w Formule 1. Wywalczy\u0142 czwarte miejsce i zdoby\u0142 jedyne w swojej karierze trzy punkty w Formule 1."@pl ,
+		"Ken Wharton Ken Wharton, n\u00E9 le 21 mars 1916 \u00E0 Smethwick (Midlands de l'Ouest) et mort accidentellement le 12 janvier 1957 \u00E0 Ardmore (Nouvelle-Z\u00E9lande), est un ancien pilote anglais de course automobile, tant en rallyes que sur circuits et en courses de c\u00F4te. Il a disput\u00E9 quinze \u00E9preuves de championnat du monde des conducteurs de Formule 1, de 1952 \u00E0 1955."@fr ,
+		"Ken Wharton (Smethwick, 21 maart 1916 - Ardmore Circuit, vlak bij Auckland, Nieuw-Zeeland, 12 januari 1957) was een Brits autocoureur. Hij nam tussen 1952 en 1955 deel aan 16 Grands Prix Formule 1 voor de teams Frazer-Nash, Cooper, BRM en Vanwall en scoorde hierin 3 WK-punten. Hij overleed terwijl hij in een Ferrari Monza reed op het Ardmore Circuit."@nl ,
+		"\u041A\u0435\u043D \u0423\u043E\u0301\u0440\u0442\u043E\u043D (\u0430\u043D\u0433\u043B. Ken Wharton, 21 \u043C\u0430\u0440\u0442\u0430 1916, \u0421\u043C\u0435\u0442\u0438\u043A, \u0412\u0443\u0441\u0442\u0435\u0440\u0448\u0438\u0440 \u2014 12 \u044F\u043D\u0432\u0430\u0440\u044F 1957, \u0410\u0440\u0434\u043C\u043E\u0440, \u041D\u043E\u0432\u0430\u044F \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044F) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0447\u0435\u0442\u044B\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 \u0432 \u0433\u043E\u043D\u043A\u0430\u0445 \u043F\u043E \u043F\u043E\u0434\u044A\u0451\u043C\u0443 \u0432 \u0433\u043E\u0440\u0443, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ;
+	dbo:birthDate	"1916-3-21"^^xsd:date ;
+	dbo:deathDate	"1957-1-12"^^xsd:date ;
+	dbo:wikiPageRevisionID	716050924 ;
+	dbo:birthPlace	dbr:Smethwick ;
+	dbo:wikiPageID	1235921 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Ken_Wharton	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_Swiss_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1955_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"16"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"privateer Frazer-Nash & Cooper, BRM, Vanwall"^^xsd:string .
+dbr:Dennis_Poore	dbp:after	dbr:Ken_Wharton .
+<http://dbpedia.org/resource/1954_Lady_Wigram_Trophy>	dbo:thirdDriver	dbr:Ken_Wharton ;
+	dbo:fastestDriver	dbr:Ken_Wharton ;
+	dbo:poleDriver	dbr:Ken_Wharton .

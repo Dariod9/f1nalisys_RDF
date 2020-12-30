@@ -1,0 +1,251 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1951_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Giuseppe_Farina .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Reg_Parnell	dbp:before	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1949_BRDC_International_Trophy>	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1950_BRDC_International_Trophy>	dbp:fastDriver	dbr:Giuseppe_Farina ;
+	dbo:firstDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1952_German_Grand_Prix>	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1953_German_Grand_Prix>	dbo:firstDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1955_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1949_Swiss_Grand_Prix>	dbo:fastestDriver	dbr:Giuseppe_Farina ;
+	dbo:poleDriver	dbr:Giuseppe_Farina .
+dbr:Alfa_Romeo_Tipo_312	dbp:drivers	dbr:Giuseppe_Farina .
+dbr:Alfa_Romeo_Tipo_316	dbp:drivers	dbr:Giuseppe_Farina .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Giuseppe_Farina	foaf:primaryTopic	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1950_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Giuseppe_Farina ;
+	dbo:poleDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1951_Belgian_Grand_Prix>	dbo:firstDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1952_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1949_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Giuseppe_Farina .
+dbr:Alfa_Romeo_8C	dbp:drivers	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1950_Bari_Grand_Prix>	dbo:firstDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1935_Italian_Grand_Prix>	dbo:poleDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1938_Italian_Grand_Prix>	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1946_Turin_Grand_Prix>	dbo:poleDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1951_Italian_Grand_Prix>	dbp:thirdDriver	dbr:Giuseppe_Farina ;
+	dbo:fastestDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1953_Italian_Grand_Prix>	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1952_French_Grand_Prix>	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1951_British_Grand_Prix>	dbo:fastestDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1952_British_Grand_Prix>	dbo:poleDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1953_British_Grand_Prix>	dbo:thirdDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1946_Ren\u00E9_le_B\u00E8gue_Cup>	dbo:fastestDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1946_Nations_Grand_Prix>	dbo:firstDriver	dbr:Giuseppe_Farina ;
+	dbo:poleDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1950_Swiss_Grand_Prix>	dbo:fastestDriver	dbr:Giuseppe_Farina ;
+	dbo:firstDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1951_Swiss_Grand_Prix>	dbo:thirdDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1952_Swiss_Grand_Prix>	dbo:poleDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1953_Swiss_Grand_Prix>	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1950_Italian_Grand_Prix>	dbo:firstDriver	dbr:Giuseppe_Farina .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Giuseppe_Farina	rdf:type	yago:Driver110034906 ,
+		yago:WikicatItalianFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Giuseppe_Farina	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:Operator110378412 ,
+		dbo:Person .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Giuseppe_Farina	rdf:type	ns8:NaturalPerson ,
+		umbel-rc:PersonWithOccupation ,
+		dbo:Agent ,
+		ns8:Agent ,
+		yago:CausalAgent100007347 ,
+		dbo:Athlete ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		foaf:Person ,
+		yago:WikicatAlfaRomeoFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Giuseppe_Farina	rdf:type	wikidata:Q378622 ,
+		wikidata:Q5 ,
+		umbel-rc:Athlete .
+@prefix schema:	<http://schema.org/> .
+dbr:Giuseppe_Farina	rdf:type	schema:Person ,
+		yago:WikicatGrandPrixDrivers ,
+		dbo:RacingDriver ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q24229398 ,
+		dbo:MotorsportRacer ,
+		wikidata:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Giuseppe_Farina	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Giuseppe_Farina	rdfs:label	"Giuseppe Farina"@en ,
+		"\u062C\u0648\u0632\u064A\u0628\u064A \u0641\u0627\u0631\u064A\u0646\u0627"@ar ,
+		"Giuseppe Farina"@fr ,
+		"\u6731\u585E\u4F69\u00B7\u6CD5\u91CC\u7EB3"@zh ,
+		"\u0424\u0430\u0440\u0438\u043D\u0430, \u0414\u0436\u0443\u0437\u0435\u043F\u043F\u0435"@ru ,
+		"Giuseppe Farina"@de ,
+		"Giuseppe Farina"@es ,
+		"Giuseppe Farina"@pl ,
+		"Giuseppe Farina"@nl ,
+		"Giuseppe Farina"@pt ,
+		"Nino Farina"@it ,
+		"\u30B8\u30E5\u30BC\u30C3\u30DA\u30FB\u30D5\u30A1\u30EA\u30FC\u30CA"@ja ;
+	rdfs:comment	"Celeberrimo per essere stato, nel 1950, il primo campione del mondo di Formula 1 moderna (e vincitore, sempre in quell'anno, del primo gran premio nella storia della Formula 1, oltre che ottenitore della prima Pole position), era anche noto alle cronache mondane per alcuni comportamenti, dentro e fuori i circuiti, in quegli anni considerati \"eccessivi\". Si ricorda, ad esempio, il vezzo di correre con un sigaro cubano fra le labbra, oltre alla sua grande passione per le donne."@it ,
+		"\u57C3\u7C73\u5229\u5965\u00B7\u6731\u585E\u4F69\u00B7\u6CD5\u91CC\u7EB3\uFF08\u610F\u5927\u5229\u8BED\uFF1AGiuseppe Emilio Farina\uFF0C1906\u5E7410\u670830\u65E5\uFF0D1966\u5E746\u670830\u65E5\uFF09\uFF0C\u51FA\u751F\u4E8E\u610F\u5927\u5229\u90FD\u7075\uFF0C\u662F\u4E00\u4F4D\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u624B\uFF0C\u56E0\u4E3A\u5176\u300Cstraight-arm\u300D\u7684\u9A7E\u9A76\u98CE\u683C\u800C\u7559\u540D\u4E8E\u8D5B\u8F66\u6B77\u53F2\u4E0A\u3002\u6CD5\u91CC\u7EB3\u662F\u7B2C\u4E00\u4F4D\u83B7\u5F97\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8F66\u624B\u4E16\u754C\u51A0\u519B\u8363\u8A89\u7684\u8F66\u624B\u30021966\u5E74\u56E0\u8F66\u7978\u4E8E\u8428\u4F0F\u4F0A\u53BB\u4E16\u3002"@zh ,
+		"Emilio Giuseppe \u00AB Nino \u00BB Farina (n\u00E9 le 30 octobre 1906 \u00E0 Turin, Italie - mort le 30 juin 1966 \u00E0 Aiguebelle, France) est un pilote automobile italien. En 1950, au volant d'une Alfa Romeo, il est devenu le tout premier champion du monde des pilotes de Formule 1."@fr ,
+		"Giuseppe \u201ENino\u201C Farina (* 30. Oktober 1906 in Turin; \u2020 30. Juni 1966 bei Chamb\u00E9ry) war ein italienischer Automobilrennfahrer und der erste Formel-1-Weltmeister der Geschichte."@de ,
+		"\u30A8\u30DF\u30EA\u30AA\u30FB\u30B8\u30E5\u30BC\u30C3\u30DA\u30FB\u30D5\u30A1\u30EA\u30FC\u30CA\uFF08Emilio Giuseppe Farina \u30011906\u5E7410\u670830\u65E5 - 1966\u5E746\u670830\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30FB\u30C8\u30EA\u30CE\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021950\u5E74\u306B\u5275\u59CB\u3055\u308C\u305FF1\u4E16\u754C\u9078\u624B\u6A29\u306E\u521D\u4EE3\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3082\u3042\u308B\u3002\u535A\u58EB\u53F7\u3092\u6301\u3064\u3053\u3068\u304B\u3089\u3001\u30C9\u30AF\u30BF\u30FC\u30FB\u30D5\u30A1\u30EA\u30FC\u30CA\u306E\u7570\u540D\u3092\u53D6\u3063\u305F\u3002\u307E\u305F\u3001\u30CB\u30FC\u30CE\u306E\u611B\u79F0\u3082\u3042\u308B\u3002"@ja ,
+		"Giuseppe Antonio \u201CNino\u201D Farina (Turim, 30 de outubro de 1906 \u2014 Aiguebelle, 30 de junho de 1966) foi um automobilista italiano e primeiro campe\u00E3o mundial da F\u00F3rmula 1, em 1950."@pt ,
+		"Emilio Giuseppe \"Nino\" Farina (30 de octubre de 1906 - 30 de junio de 1966), fue un piloto de automovilismo de Italia, campe\u00F3n de la Temporada 1950 de F\u00F3rmula 1, siendo el primer campe\u00F3n de dicha categor\u00EDa. En 1956, Farina intent\u00F3 disputar las 500 millas de Indian\u00E1polis, y m\u00E1s tarde sufri\u00F3 una lesi\u00F3n en su cuello durante una carrera menor en Monza. Tras su recuperaci\u00F3n, intent\u00F3 regresar a las pistas en Indian\u00E1polis, pero desisti\u00F3 tras presenciar la muerte de un compa\u00F1ero que estaba probando el auto que le correspond\u00EDa a Farina."@es ,
+		"Dr. Emilio Giuseppe \"Nino\" Farina (Turijn, 30 oktober 1906 - Aiguebelle, 30 juni 1966) was een Italiaanse autocoureur. Hij was in 1950 de eerste wereldkampioen in de Formule 1. Giuseppe Farina was actief in de Formule 1 van 1950 tot 1955, scoorde 1 wereldtitel en won meteen de eerste wedstrijd waaraan hij deelnam. Giuseppe Farina kwam om het leven in 1966 toen hij als toeschouwer op weg was naar de Franse GP."@nl ,
+		"Emilio Giuseppe \u201ENino\u201D Farina (ur. 30 pa\u017Adziernika 1906 w Turynie, zm. 30 czerwca 1966 w Aiguebelle) \u2013 w\u0142oski kierowca wy\u015Bcigowy, pierwszy w historii mistrz \u015Bwiata Formu\u0142y 1. Farina przeszed\u0142 do historii Formu\u0142y 1 jako zwyci\u0119zca inauguracyjnego sezonu mistrzostw \u015Bwiata w 1950 roku. Jest bratankiem Battisty Pininfarina."@pl ,
+		"Dottore Giuseppe Antonio \u201CNino\u201D Farina (30 October 1906 \u2013 30 June 1966), was an Italian racing driver and was the first official Formula One World Champion, gaining the title in 1950. He was also the Italian Champion in 1937, 1938 and 1939. During his thirty-year racing career he suffered a series of accidents."@en ,
+		"\u042D\u043C\u0438\u043B\u0438\u043E \u0414\u0436\u0443\u0437\u0435\u043F\u043F\u0435 \u00AB\u041D\u0438\u043D\u043E\u00BB \u0424\u0430\u0440\u0438\u043D\u0430 (\u0438\u0442\u0430\u043B. Emilio Giuseppe \u00ABNino\u00BB Farina, 30 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1906 \u2014 30 \u0438\u044E\u043D\u044F 1966) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u041E\u043D \u043E\u0441\u0442\u0430\u043B\u0441\u044F \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043A\u0430\u043A \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u044D\u0442\u0430\u043F\u0430 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 \u043F\u0435\u0440\u0432\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u0432 \u044D\u0442\u0438\u0445 \u0433\u043E\u043D\u043A\u0430\u0445."@ru ,
+		"\u062C\u0648\u0632\u064A\u0628\u064A \u0641\u0627\u0631\u064A\u0646\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Giuseppe Farina) (\u0645\u0648\u0627\u0644\u064A\u062F 30 \u0623\u0643\u062A\u0648\u0628\u0631 1906 - \u0627\u0644\u0648\u0641\u0627\u0629 30 \u064A\u0648\u0646\u064A\u0648 1966) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1950. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u06441950\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u06441950. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 34 \u0633\u0628\u0627\u0642\u0627\u064B."@ar .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-pt:Giuseppe_Farina ,
+		dbr:Giuseppe_Farina .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-id:Giuseppe_Farina .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-fr:Giuseppe_Farina ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E5\u30BC\u30C3\u30DA\u30FB\u30D5\u30A1\u30EA\u30FC\u30CA> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-wikidata:Q2040 ,
+		wikidata:Q2040 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-nl:Giuseppe_Farina .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-cs:Giuseppe_Farina ,
+		<http://rdf.freebase.com/ns/m.01ybqb> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-it:Nino_Farina .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-de:Giuseppe_Farina .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	yago-res:Giuseppe_Farina .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-es:Giuseppe_Farina .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Giuseppe_Farina	owl:sameAs	dbpedia-pl:Giuseppe_Farina .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Giuseppe_Farina	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Giuseppe_Farina	dct:subject	dbc:Sportspeople_from_Turin ,
+		dbc:Road_incident_deaths_in_France ,
+		dbc:Grand_Prix_drivers ,
+		dbc:Carrera_Panamericana_drivers ,
+		dbc:Italian_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1966_deaths> ,
+		<http://dbpedia.org/resource/Category:1906_births> ,
+		dbc:Alfa_Romeo_Formula_One_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_One_World_Drivers\u0027_Champions> ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Mille_Miglia_drivers ;
+	foaf:name	"Giuseppe Farina"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/NinoFarina.jpg> ;
+	dct:description	"Italian racecar driver"@en ;
+	foaf:givenName	"Giuseppe"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Giuseppe_Farina ;
+	foaf:surname	"Farina"@en ;
+	dbp:title	<http://dbpedia.org/resource/Buenos_Aires_Grand_Prix_(motor_racing)> ,
+		"Grand Prix de Paris winner"^^xsd:string ,
+		dbr:Bari_Grand_Prix ,
+		dbr:Grand_Prix_of_Naples ,
+		dbr:Tripoli_Grand_Prix ,
+		dbr:List_of_Formula_One_driver_records ,
+		"with Mike Hawthorn"^^xsd:string ,
+		dbr:Spa_24_Hours ,
+		dbr:BRDC_International_Trophy ,
+		<http://dbpedia.org/resource/List_of_Formula_One_World_Drivers\u0027_Champions> ,
+		dbr:Monaco_Grand_Prix .
+@prefix ns26:	<http://dbpedia.org/datatype/> .
+dbr:Giuseppe_Farina	dbp:years	"1.3738248E9"^^ns26:second ,
+		1 ,
+		2 ,
+		"1.383588E9"^^ns26:second ,
+		1940 ,
+		1948 ,
+		1950 ,
+		1951 ,
+		1952 ,
+		1953 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Giuseppe_Farina	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Giuseppe_Farina?oldid=743645618> ;
+	dbp:before	dbr:Hermann_Lang ,
+		dbr:Luigi_Chinetti ,
+		dbr:Alberto_Ascari ,
+		dbr:Georges_Grignard ,
+		dbr:Manfred_von_Brauchitsch ,
+		dbr:Jean_Lucas ,
+		"None"^^xsd:string ,
+		1949 ,
+		1937 ;
+	dbp:after	"Reg Parnell'''"^^xsd:string ,
+		dbr:Reg_Parnell ,
+		dbr:Gustave_Gosselin ,
+		dbr:Robert_Crevits ,
+		"1.2731904E9"^^ns26:second ,
+		dbr:Juan_Manuel_Fangio ,
+		dbr:Maurice_Trintignant ,
+		"Juan Manuel Fangio"^^xsd:string ,
+		"1.2277872E9"^^ns26:second ,
+		dbr:Luigi_Musso ,
+		dbr:Piero_Taruffi ,
+		"Juan Manuel Fangio'''"^^xsd:string ,
+		"None"^^xsd:string ,
+		"1.2264048E9"^^ns26:second ,
+		3 ,
+		6 ,
+		1950 ,
+		1964 ;
+	dbp:birthName	"Emilio Giuseppe Farina"^^xsd:string ;
+	dbp:group	"note"^^xsd:string ;
+	dbo:abstract	"Giuseppe Antonio \u201CNino\u201D Farina (Turim, 30 de outubro de 1906 \u2014 Aiguebelle, 30 de junho de 1966) foi um automobilista italiano e primeiro campe\u00E3o mundial da F\u00F3rmula 1, em 1950."@pt ,
+		"Emilio Giuseppe \"Nino\" Farina (30 de octubre de 1906 - 30 de junio de 1966), fue un piloto de automovilismo de Italia, campe\u00F3n de la Temporada 1950 de F\u00F3rmula 1, siendo el primer campe\u00F3n de dicha categor\u00EDa. Nacido en Tur\u00EDn, Italia, Giuseppe estaba doctorado en derecho, y era sobrino del dise\u00F1ador de autom\u00F3viles Battista Farina. Sus primeras experiencias en pista las hizo con Maserati, aunque su carrera comenzar\u00EDa a florecer con su pase a Alfa Romeo, donde tuvo como compa\u00F1ero de equipo a Tazio Nuvolari. A fines de la d\u00E9cada de 1930, Farina gan\u00F3 varios Gran Premios menores, que le permitieron obtener el t\u00EDtulo de campe\u00F3n italiano de pilotos durante tres a\u00F1os seguidos (1937-1939). Al a\u00F1o siguiente lograr\u00EDa su primer triunfo grande, en el Gran Premio de Tr\u00EDpoli de 1940, en Libia. En el momento en que estaba llegando a su madurez como piloto, se desat\u00F3 la Segunda Guerra Mundial, y pasar\u00EDan ocho a\u00F1os antes de que Farina pudiera ganar otro Gran Premio. En la posguerra, Nino tom\u00F3 parte de varios grandes premios con una Maserati propia, logrando de esta forma un triunfo en el Gran Premio de M\u00F3naco de 1948. Cuando la F\u00E9d\u00E9ration Internationale de l'Automobile anunci\u00F3 el Campeonato Mundial de F\u00F3rmula 1 de 1950, Farina se asegur\u00F3 una plaza en el equipo Alfa Romeo, junto a Juan Manuel Fangio y al italiano Luigi Fagioli, al mando de uno de los aparentemente invencibles 158 Alfetta. Farina obtuvo 3 victorias en 7 fechas del campeonato, y logr\u00F3 as\u00ED su primer campeonato mundial en la categor\u00EDa. En 1951, se vio obligado a hacer el papel de escudero de Fangio, cuyo ritmo de carrera fue demasiado para Farina. El italiano logr\u00F3 un \u00FAnico triunfo en el Gran Premio de B\u00E9lgica, aunque gan\u00F3 algunas de las carreras no v\u00E1lidas para el campeonato. Tras su pase a Ferrari en 1952, Farina se vio otra vez sobrepasado por un piloto m\u00E1s joven, esta vez Alberto Ascari, quien logr\u00F3 9 victorias consecutivas en pruebas por el campeonato entre 1952 y 1953. El primer triunfo de Farina en Ferrari, que a la vez ser\u00EDa el \u00FAltimo de sus 5 triunfos en el campeonato mundial de F1, se produjo en el Gran Premio de Alemania de 1953, disputado en N\u00FCrburgring. En ese a\u00F1o, tambi\u00E9n form\u00F3 un equipo con su amigo de la F1 Mike Hawthorn, para disputar y ganar las 24 Horas de Spa. A principios de 1954, Farina gan\u00F3 una prueba del Campeonato Mundial de Resistencia, aunque tiempo despu\u00E9s sufri\u00F3 graves quemaduras en un accidente en la largada de Monza. El italiano intent\u00F3 regresar a las pistas en 1955 tomando calmantes, y logr\u00F3 finalizar en la zona de puntos en ocasiones. Sin embargo, d\u00E1ndose cuenta de que no podr\u00EDa alcanzar su nivel de otrora, decidi\u00F3 retirarse al final de esa temporada. En 1956, Farina intent\u00F3 disputar las 500 millas de Indian\u00E1polis, y m\u00E1s tarde sufri\u00F3 una lesi\u00F3n en su cuello durante una carrera menor en Monza. Tras su recuperaci\u00F3n, intent\u00F3 regresar a las pistas en Indian\u00E1polis, pero desisti\u00F3 tras presenciar la muerte de un compa\u00F1ero que estaba probando el auto que le correspond\u00EDa a Farina. Figura notable de los primeros a\u00F1os de la F\u00F3rmula 1, Farina era reconocido por su estilo de manejo y su inteligencia, pero tambi\u00E9n por su petulancia y su desprecio por sus rivales en la pista. Ir\u00F3nicamente, y a pesar de todos los accidentes que sobrevivi\u00F3 en sus \u00FAltimos a\u00F1os como piloto, perdi\u00F3 la vida en un accidente de autos fuera de pista en Chamb\u00E9ry, mientras se dirig\u00EDa como espectador al Gran Premio de Francia."@es ,
+		"\u062C\u0648\u0632\u064A\u0628\u064A \u0641\u0627\u0631\u064A\u0646\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Giuseppe Farina) (\u0645\u0648\u0627\u0644\u064A\u062F 30 \u0623\u0643\u062A\u0648\u0628\u0631 1906 - \u0627\u0644\u0648\u0641\u0627\u0629 30 \u064A\u0648\u0646\u064A\u0648 1966) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0639\u0627\u0645 1950. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u06441950\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u0633\u0628\u0627\u0642 \u0627\u0644\u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 \u0627\u06441950. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 34 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Emilio Giuseppe \u201ENino\u201D Farina (ur. 30 pa\u017Adziernika 1906 w Turynie, zm. 30 czerwca 1966 w Aiguebelle) \u2013 w\u0142oski kierowca wy\u015Bcigowy, pierwszy w historii mistrz \u015Bwiata Formu\u0142y 1. Farina przeszed\u0142 do historii Formu\u0142y 1 jako zwyci\u0119zca inauguracyjnego sezonu mistrzostw \u015Bwiata w 1950 roku. Jest bratankiem Battisty Pininfarina."@pl ,
+		"Dr. Emilio Giuseppe \"Nino\" Farina (Turijn, 30 oktober 1906 - Aiguebelle, 30 juni 1966) was een Italiaanse autocoureur. Hij was in 1950 de eerste wereldkampioen in de Formule 1. Giuseppe Farina was actief in de Formule 1 van 1950 tot 1955, scoorde 1 wereldtitel en won meteen de eerste wedstrijd waaraan hij deelnam. Giuseppe Farina kwam om het leven in 1966 toen hij als toeschouwer op weg was naar de Franse GP."@nl ,
+		"Dottore Giuseppe Antonio \u201CNino\u201D Farina (30 October 1906 \u2013 30 June 1966), was an Italian racing driver and was the first official Formula One World Champion, gaining the title in 1950. He was also the Italian Champion in 1937, 1938 and 1939. During his thirty-year racing career he suffered a series of accidents."@en ,
+		"Giuseppe \u201ENino\u201C Farina (* 30. Oktober 1906 in Turin; \u2020 30. Juni 1966 bei Chamb\u00E9ry) war ein italienischer Automobilrennfahrer und der erste Formel-1-Weltmeister der Geschichte."@de ,
+		"Celeberrimo per essere stato, nel 1950, il primo campione del mondo di Formula 1 moderna (e vincitore, sempre in quell'anno, del primo gran premio nella storia della Formula 1, oltre che ottenitore della prima Pole position), era anche noto alle cronache mondane per alcuni comportamenti, dentro e fuori i circuiti, in quegli anni considerati \"eccessivi\". Si ricorda, ad esempio, il vezzo di correre con un sigaro cubano fra le labbra, oltre alla sua grande passione per le donne. Suo padre Giovanni era il fondatore degli \"Stabilimenti Farina\", una delle pi\u00F9 antiche ed importanti carrozzerie automobilistiche dell'epoca. Mor\u00EC nel 1966 all'et\u00E0 di 59 anni in un incidente stradale presso Aiguebelle, uscendo di strada in una curva presa ad alta velocit\u00E0 con la sua Ford Cortina Lotus, mentre si stava recando a Reims per assistere al Gran Premio di Francia."@it ,
+		"Emilio Giuseppe \u00AB Nino \u00BB Farina (n\u00E9 le 30 octobre 1906 \u00E0 Turin, Italie - mort le 30 juin 1966 \u00E0 Aiguebelle, France) est un pilote automobile italien. En 1950, au volant d'une Alfa Romeo, il est devenu le tout premier champion du monde des pilotes de Formule 1."@fr ,
+		"\u57C3\u7C73\u5229\u5965\u00B7\u6731\u585E\u4F69\u00B7\u6CD5\u91CC\u7EB3\uFF08\u610F\u5927\u5229\u8BED\uFF1AGiuseppe Emilio Farina\uFF0C1906\u5E7410\u670830\u65E5\uFF0D1966\u5E746\u670830\u65E5\uFF09\uFF0C\u51FA\u751F\u4E8E\u610F\u5927\u5229\u90FD\u7075\uFF0C\u662F\u4E00\u4F4D\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8D5B\u8F66\u624B\uFF0C\u56E0\u4E3A\u5176\u300Cstraight-arm\u300D\u7684\u9A7E\u9A76\u98CE\u683C\u800C\u7559\u540D\u4E8E\u8D5B\u8F66\u6B77\u53F2\u4E0A\u3002\u6CD5\u91CC\u7EB3\u662F\u7B2C\u4E00\u4F4D\u83B7\u5F97\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u8F66\u624B\u4E16\u754C\u51A0\u519B\u8363\u8A89\u7684\u8F66\u624B\u30021966\u5E74\u56E0\u8F66\u7978\u4E8E\u8428\u4F0F\u4F0A\u53BB\u4E16\u3002"@zh ,
+		"\u042D\u043C\u0438\u043B\u0438\u043E \u0414\u0436\u0443\u0437\u0435\u043F\u043F\u0435 \u00AB\u041D\u0438\u043D\u043E\u00BB \u0424\u0430\u0440\u0438\u043D\u0430 (\u0438\u0442\u0430\u043B. Emilio Giuseppe \u00ABNino\u00BB Farina, 30 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1906 \u2014 30 \u0438\u044E\u043D\u044F 1966) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u041E\u043D \u043E\u0441\u0442\u0430\u043B\u0441\u044F \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043A\u0430\u043A \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u044D\u0442\u0430\u043F\u0430 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0438 \u043F\u0435\u0440\u0432\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u0432 \u044D\u0442\u0438\u0445 \u0433\u043E\u043D\u043A\u0430\u0445."@ru ,
+		"\u30A8\u30DF\u30EA\u30AA\u30FB\u30B8\u30E5\u30BC\u30C3\u30DA\u30FB\u30D5\u30A1\u30EA\u30FC\u30CA\uFF08Emilio Giuseppe Farina \u30011906\u5E7410\u670830\u65E5 - 1966\u5E746\u670830\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u30FB\u30C8\u30EA\u30CE\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u30021950\u5E74\u306B\u5275\u59CB\u3055\u308C\u305FF1\u4E16\u754C\u9078\u624B\u6A29\u306E\u521D\u4EE3\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3082\u3042\u308B\u3002\u535A\u58EB\u53F7\u3092\u6301\u3064\u3053\u3068\u304B\u3089\u3001\u30C9\u30AF\u30BF\u30FC\u30FB\u30D5\u30A1\u30EA\u30FC\u30CA\u306E\u7570\u540D\u3092\u53D6\u3063\u305F\u3002\u307E\u305F\u3001\u30CB\u30FC\u30CE\u306E\u611B\u79F0\u3082\u3042\u308B\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/NinoFarina.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Giuseppe_Farina	dbo:birthDate	"1906-10-30"^^xsd:date ;
+	dbo:deathDate	"1966-06-30"^^xsd:date ,
+		"1966-6-30"^^xsd:date ;
+	dbo:deathPlace	dbr:Aiguebelle ,
+		<http://dbpedia.org/resource/Chamb\u00E9ry> ,
+		dbr:Savoie ;
+	dbo:wikiPageRevisionID	743645618 ;
+	dbo:birthPlace	dbr:Turin ,
+		dbr:Piedmont ;
+	dbo:wikiPageID	342972 .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Giuseppe_Farina	ns29:hypernym	dbr:Driver ;
+	dbp:nationality	"Italian"^^xsd:string ;
+	dbp:liststyle	"lower-roman"^^xsd:string .
+dbr:Alberto_Ascari	dbp:after	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1953_Buenos_Aires_Grand_Prix>	dbo:firstDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1953_24_Hours_of_Le_Mans__56__1>	dbo:firstDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1950_British_Grand_Prix>	dbo:fastestDriver	dbr:Giuseppe_Farina ;
+	dbo:firstDriver	dbr:Giuseppe_Farina ;
+	dbo:poleDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1954_Argentine_Grand_Prix>	dbo:secondDriver	dbr:Giuseppe_Farina ;
+	dbo:poleDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1955_Argentine_Grand_Prix>	dbo:thirdDriver	dbr:Giuseppe_Farina ;
+	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1948_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Giuseppe_Farina ;
+	dbo:firstDriver	dbr:Giuseppe_Farina ;
+	dbo:poleDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1952_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1953_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Giuseppe_Farina .
+<http://dbpedia.org/resource/1950_Formula_One_season>	dbp:champions	dbr:Giuseppe_Farina .
+dbr:Nino_Farina	dbo:wikiPageRedirects	dbr:Giuseppe_Farina .
+dbr:Guiseppe_Farina	dbo:wikiPageRedirects	dbr:Giuseppe_Farina .

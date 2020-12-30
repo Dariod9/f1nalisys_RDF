@@ -1,0 +1,125 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix ns2:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Aldo_Gordini	rdf:type	ns2:NaturalPerson .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Aldo_Gordini	rdf:type	dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		dbo:FormulaOneRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Aldo_Gordini	rdf:type	wikidata:Q5 ,
+		dbo:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Aldo_Gordini	rdf:type	yago:WikicatFrenchFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Aldo_Gordini	rdf:type	umbel-rc:RaceCarDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Aldo_Gordini	rdf:type	owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Aldo_Gordini	rdf:type	schema:Person ,
+		yago:Driver110034906 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Aldo_Gordini	rdf:type	foaf:Person ,
+		ns2:Agent ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		wikidata:Q378622 ,
+		yago:WikicatGrandPrixDrivers ,
+		yago:WikicatGordiniFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Aldo_Gordini	rdfs:label	"Aldo Gordini"@pt ,
+		"Aldo Gordini"@pl ,
+		"Aldo Gordini"@de ,
+		"\u0413\u043E\u0440\u0434\u0438\u043D\u0438, \u0410\u043B\u044C\u0434\u043E"@ru ,
+		"Aldo Gordini"@es ,
+		"Aldo Gordini"@fr ,
+		"Aldo Gordini"@nl ,
+		"Aldo Gordini"@en ;
+	rdfs:comment	" Pour les articles homonymes, voir Gordini (patronyme).Aldo Gordini Aldo Gordini (n\u00E9 le 20 mai 1921 \u00E0 Bologne et mort le 28 janvier 1995 \u00E0 Paris) est un ancien pilote fran\u00E7ais de course automobile."@fr ,
+		"Aldo Gordini (ur. 20 maja 1921 w Bolonii, zm. 28 stycznia 1995 roku w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Aldo Gordini (Bologna, 20 mei 1921 \u2013 Parijs, 28 januari 1995) was een Frans Formule 1-coureur. Gordini werd geboren als de zoon van Am\u00E9d\u00E9e Gordini, de oprichter van het automerk Gordini. Hij werkte als mecanicien maar racete ook wedstrijden in de Formula 2. Hij reed op 1 juli 1951 zijn enige Grand Prix voor het Franse raceteam Gordini. In datzelfde jaar reed hij met Jose Scaron de 24 uur van Le Mans, maar door een probleem met de brandstofpomp moesten ze na 77 ronden opgeven. Gordini overleed op 73-jarige leeftijd."@nl ,
+		"Aldo Gordini (* 20. Mai 1921 in Bologna; \u2020 28. Januar 1995 in Paris) war ein franz\u00F6sischer Autorennfahrer."@de ,
+		"Aldo Gordini (20 May 1921 \u2013 28 January 1995) was a racing driver from France. Born in Bologna, Italy, he was the son of Am\u00E9d\u00E9e Gordini, owner of the French sports car manufacturer Gordini. Aldo worked for the family's racing team as a mechanic and occasionally drove in Grand Prix motor racing events and Formula Two races. He participated in one Formula One World Championship race on 1 July 1951 as well as one non-Championship Formula One race. That same year he also drove for the Gordini team at the 24 hours of Le Mans but fuel pump problems forced him out of the race."@en ,
+		"\u0410\u043B\u044C\u0434\u043E \u0413\u043E\u0440\u0434\u0438\u043D\u0438 (\u0444\u0440. Aldo Gordini, 20 \u043C\u0430\u044F 1921 (\u0411\u043E\u043B\u043E\u043D\u044C\u044F) \u2014 28 \u044F\u043D\u0432\u0430\u0440\u044F 1995 (\u041F\u0430\u0440\u0438\u0436)) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0441\u044B\u043D \u0410\u043C\u0435\u0434\u0438 \u0413\u043E\u0440\u0434\u0438\u043D\u0438, \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0430 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u043C\u0430\u0448\u0438\u043D Gordini. \u0421 1946 \u0433\u043E\u0434\u0430 \u0440\u0430\u0431\u043E\u0442\u0430\u043B \u0432 \u0441\u0435\u043C\u0435\u0439\u043D\u043E\u0439 \u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u043E\u043C. \u0412 1950 \u0433\u043E\u0434\u0443 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-2, \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u044F Type 11. \u0412 1951 \u0433\u043E\u0434\u0443 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0432 \u043E\u0434\u043D\u043E\u0439 \u0432\u043D\u0435\u0437\u0430\u0447\u0435\u0442\u043D\u043E\u0439 \u0433\u043E\u043D\u043A\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412 \u0442\u043E\u043C \u0436\u0435 \u0433\u043E\u0434\u0443 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 24 \u0447\u0430\u0441\u0430\u0445 \u041B\u0435-\u041C\u0430\u043D\u0430 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 Gordini. \u041F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 1951 \u0433\u043E\u0434\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043B \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u0430. \u0423\u043C\u0435\u0440 \u0432 \u041F\u0430\u0440\u0438\u0436\u0435 \u0432 1995 \u0433\u043E\u0434\u0443."@ru ,
+		"Aldo Gordini (Bolonha, 20 de maio de 1921 - Paris, 28 de janeiro de 1995) foi um automobilista \u00EDtalo-franc\u00EAs. Era filho de Amed\u00E9e Gordini, um dos idealizadores da f\u00E1brica de autom\u00F3veis que levava seu sobrenome. Correu apenas uma prova na F\u00F3rmula 1, o GP da Fran\u00E7a de 1951. Morreu em Paris, aos 73 anos."@pt ,
+		"Aldo Gordini (20 de mayo de 1921-\u2020 28 de enero de 1995), fue un piloto franc\u00E9s de origen italiano, que era hijo de Am\u00E9d\u00E9e GordiniLuego de participar en algunas carreras de Sports prototipos, Aldo trabaj\u00F3 en el equipo familiar como mec\u00E1nico, participando acacionalmente como piloto de F\u00F3rmula 2.Gracias al apoyo familiar, Aldo, lleg\u00F3 a la F\u00F3rmula 1, participando \u00FAnicamente en una carrera en el Gran Premio de Francia de 1951retir\u00E1ndose de la carrera, luego de algunos a\u00F1os sin competir, participo en las 24 horas de Le Mans con el equipo GordiniGordini falleci\u00F3 en Par\u00EDs el 28 de junio de 1995"@es .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Aldo_Gordini	dbp:birthDate	"1921-05-20"^^xsd:date ;
+	owl:sameAs	wikidata:Q172467 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Aldo_Gordini	owl:sameAs	dbpedia-pl:Aldo_Gordini .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Aldo_Gordini	owl:sameAs	dbpedia-pt:Aldo_Gordini ,
+		<http://rdf.freebase.com/ns/m.04k752> .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Aldo_Gordini	owl:sameAs	dbpedia-es:Aldo_Gordini .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Aldo_Gordini	owl:sameAs	dbpedia-de:Aldo_Gordini ,
+		dbr:Aldo_Gordini .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Aldo_Gordini	owl:sameAs	yago-res:Aldo_Gordini .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Aldo_Gordini	owl:sameAs	dbpedia-fr:Aldo_Gordini .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Aldo_Gordini	owl:sameAs	dbpedia-wikidata:Q172467 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Aldo_Gordini	owl:sameAs	dbpedia-nl:Aldo_Gordini .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Aldo_Gordini	dct:subject	<http://dbpedia.org/resource/Category:1921_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Aldo_Gordini	dct:subject	dbc:Gordini_Formula_One_drivers ,
+		dbc:Sportspeople_from_Bologna ,
+		<http://dbpedia.org/resource/Category:1995_deaths> ,
+		dbc:French_Formula_One_drivers ,
+		dbc:Grand_Prix_drivers ,
+		dbc:French_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:French_people_of_Italian_descent ;
+	foaf:name	"Aldo Gordini"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Aldo"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Aldo_Gordini	foaf:isPrimaryTopicOf	wikipedia-en:Aldo_Gordini ;
+	foaf:surname	"Gordini"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Simca-Gordini .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Aldo_Gordini	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Aldo_Gordini?oldid=737665662> ;
+	dbp:nationality	"French"^^xsd:string ;
+	dbp:birthPlace	"Bologna, Emilia-Romagna, Italy"^^xsd:string ;
+	dbp:deathDate	"1995-01-28"^^xsd:date ;
+	dbp:deathPlace	"Paris, France"^^xsd:string ;
+	dbo:abstract	"Aldo Gordini (* 20. Mai 1921 in Bologna; \u2020 28. Januar 1995 in Paris) war ein franz\u00F6sischer Autorennfahrer."@de ,
+		"Aldo Gordini (Bolonha, 20 de maio de 1921 - Paris, 28 de janeiro de 1995) foi um automobilista \u00EDtalo-franc\u00EAs. Era filho de Amed\u00E9e Gordini, um dos idealizadores da f\u00E1brica de autom\u00F3veis que levava seu sobrenome. Correu apenas uma prova na F\u00F3rmula 1, o GP da Fran\u00E7a de 1951. Morreu em Paris, aos 73 anos."@pt ,
+		"Aldo Gordini (ur. 20 maja 1921 w Bolonii, zm. 28 stycznia 1995 roku w Pary\u017Cu) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		" Pour les articles homonymes, voir Gordini (patronyme).Aldo Gordini Aldo Gordini (n\u00E9 le 20 mai 1921 \u00E0 Bologne et mort le 28 janvier 1995 \u00E0 Paris) est un ancien pilote fran\u00E7ais de course automobile."@fr ,
+		"Aldo Gordini (20 de mayo de 1921-\u2020 28 de enero de 1995), fue un piloto franc\u00E9s de origen italiano, que era hijo de Am\u00E9d\u00E9e GordiniLuego de participar en algunas carreras de Sports prototipos, Aldo trabaj\u00F3 en el equipo familiar como mec\u00E1nico, participando acacionalmente como piloto de F\u00F3rmula 2.Gracias al apoyo familiar, Aldo, lleg\u00F3 a la F\u00F3rmula 1, participando \u00FAnicamente en una carrera en el Gran Premio de Francia de 1951retir\u00E1ndose de la carrera, luego de algunos a\u00F1os sin competir, participo en las 24 horas de Le Mans con el equipo GordiniGordini falleci\u00F3 en Par\u00EDs el 28 de junio de 1995"@es ,
+		"Aldo Gordini (20 May 1921 \u2013 28 January 1995) was a racing driver from France. Born in Bologna, Italy, he was the son of Am\u00E9d\u00E9e Gordini, owner of the French sports car manufacturer Gordini. Aldo worked for the family's racing team as a mechanic and occasionally drove in Grand Prix motor racing events and Formula Two races. He participated in one Formula One World Championship race on 1 July 1951 as well as one non-Championship Formula One race. That same year he also drove for the Gordini team at the 24 hours of Le Mans but fuel pump problems forced him out of the race. Aldo Gordini died in Paris in 1995."@en ,
+		"Aldo Gordini (Bologna, 20 mei 1921 \u2013 Parijs, 28 januari 1995) was een Frans Formule 1-coureur. Gordini werd geboren als de zoon van Am\u00E9d\u00E9e Gordini, de oprichter van het automerk Gordini. Hij werkte als mecanicien maar racete ook wedstrijden in de Formula 2. Hij reed op 1 juli 1951 zijn enige Grand Prix voor het Franse raceteam Gordini. In datzelfde jaar reed hij met Jose Scaron de 24 uur van Le Mans, maar door een probleem met de brandstofpomp moesten ze na 77 ronden opgeven. Gordini overleed op 73-jarige leeftijd."@nl ,
+		"\u0410\u043B\u044C\u0434\u043E \u0413\u043E\u0440\u0434\u0438\u043D\u0438 (\u0444\u0440. Aldo Gordini, 20 \u043C\u0430\u044F 1921 (\u0411\u043E\u043B\u043E\u043D\u044C\u044F) \u2014 28 \u044F\u043D\u0432\u0430\u0440\u044F 1995 (\u041F\u0430\u0440\u0438\u0436)) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0441\u044B\u043D \u0410\u043C\u0435\u0434\u0438 \u0413\u043E\u0440\u0434\u0438\u043D\u0438, \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0430 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u044B\u0445 \u043C\u0430\u0448\u0438\u043D Gordini. \u0421 1946 \u0433\u043E\u0434\u0430 \u0440\u0430\u0431\u043E\u0442\u0430\u043B \u0432 \u0441\u0435\u043C\u0435\u0439\u043D\u043E\u0439 \u0433\u043E\u043D\u043E\u0447\u043D\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u043E\u043C. \u0412 1950 \u0433\u043E\u0434\u0443 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u0433\u043E\u043D\u043A\u0430\u0445 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-2, \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u044F Type 11. \u0412 1951 \u0433\u043E\u0434\u0443 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u0438, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0432 \u043E\u0434\u043D\u043E\u0439 \u0432\u043D\u0435\u0437\u0430\u0447\u0435\u0442\u043D\u043E\u0439 \u0433\u043E\u043D\u043A\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1. \u0412 \u0442\u043E\u043C \u0436\u0435 \u0433\u043E\u0434\u0443 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 24 \u0447\u0430\u0441\u0430\u0445 \u041B\u0435-\u041C\u0430\u043D\u0430 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 Gordini. \u041F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 1951 \u0433\u043E\u0434\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043B \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A\u0430. \u0423\u043C\u0435\u0440 \u0432 \u041F\u0430\u0440\u0438\u0436\u0435 \u0432 1995 \u0433\u043E\u0434\u0443."@ru ;
+	dbo:birthDate	"1921-5-20"^^xsd:date ;
+	dbo:deathDate	"1995-1-28"^^xsd:date ;
+	dbo:deathPlace	dbr:Paris ;
+	dbo:wikiPageRevisionID	737665662 ;
+	dbo:birthPlace	dbr:Bologna ;
+	dbo:wikiPageID	1228173 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1951_French_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1951_French_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Aldo_Gordini	ns25:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1950_24_Hours_of_Le_Mans__56__1>	dbo:firstDriver	dbr:Aldo_Gordini .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__46__1>	dbo:firstDriver	dbr:Aldo_Gordini .
+wikipedia-en:Aldo_Gordini	foaf:primaryTopic	dbr:Aldo_Gordini .

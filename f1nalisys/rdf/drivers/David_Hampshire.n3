@@ -1,0 +1,123 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Aston_Martin__13	dbo:firstDriver	dbr:David_Hampshire .
+<http://dbpedia.org/resource/1950_Jersey_Road_Race>	dbo:fastestDriver	dbr:David_Hampshire ;
+	dbo:poleDriver	dbr:David_Hampshire .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:David_Hampshire	foaf:primaryTopic	dbr:David_Hampshire .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Retford_Gamston_Airport	dbp:recordDriver	dbr:David_Hampshire .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:David_Hampshire	rdf:type	dbo:Agent .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:David_Hampshire	rdf:type	ns6:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:David_Hampshire	rdf:type	yago:WikicatScuderiaAmbrosianaFormulaOneDrivers ,
+		yago:Driver110034906 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:David_Hampshire	rdf:type	umbel-rc:RaceCarDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:David_Hampshire	rdf:type	wikidata:Q5 ,
+		yago:Operator110378412 ,
+		dbo:MotorsportRacer ,
+		dbo:RacingDriver ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:David_Hampshire	rdf:type	owl:Thing ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:David_Hampshire	rdf:type	schema:Person ,
+		dbo:Athlete ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		wikidata:Q378622 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		ns6:Agent .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:David_Hampshire	rdfs:label	"David Hampshire"@pt ,
+		"David Hampshire"@it ,
+		"David Hampshire"@pl ,
+		"\u0425\u044D\u043C\u043F\u0448\u0438\u0440, \u0414\u044D\u0432\u0438\u0434"@ru ,
+		"David Hampshire"@nl ,
+		"David Hampshire"@en ,
+		"David Hampshire"@fr ,
+		"David Hampshire"@de ;
+	rdfs:comment	"David Hampshire (Mickleover (Derby, Derbyshire), 29 december 1917 - Newton Solney (South Derbyshire), 25 augustus 1990) was een Formule 1-coureur uit Groot-Brittanni\u00EB. Hij reed in 1950 2 Grands Prix voor het team Maserati."@nl ,
+		"David Hampshire (* 29. Dezember 1917 in Mickleover, England; \u2020 25. August 1990 in Newton Soleney) war ein britischer Automobilrennfahrer. In der ersten offiziellen Formel-1-Saison im Jahr 1950 bestritt er zwei zur Weltmeisterschaft z\u00E4hlende Rennen f\u00FCr die Scuderia Ambrosiana, die einen Maserati einsetzte, wobei er jedoch keine Meisterschaftspunkte erzielen konnte. Seine einzige Zielankunft war der neunte Platz beim ersten Formel-1-Rennen \u00FCberhaupt in Silverstone. Hampshire fuhr ebenfalls einige nicht zur Weltmeisterschaft z\u00E4hlende Rennen, wobei er 1950 den Nottingham Grand Prix gewann."@de ,
+		"David Alan Hampshire (29 December 1917 \u2013 25 August 1990) was a racing driver from England. He was born in Mickleover, Derby, Derbyshire and died in Newton Solney, in South Derbyshire. David Hampshire first appeared amongst the likes of Bira, Villoresi, Tony Rolt, Raymond Mays, Peter Whitehead, Lesley Brooke and Reg Parnell in the 1939 Nuffield Trophy at Donington Park. However, the Maserati 6CL which he was driving, formerly owned by Arthur Dobson and re-engineered into an 1100cc car, only managed a few laps, retiring with a melted piston. The car was subsequently returned to 1500cc format. He raced the 6CL again at the 1939 Brooklands Whit Monday meeting and the Sydenham Trophy at Crystal Palace on 20 May (televised by the BBC). It had a final outing at Donington Park on 12 August 1939 ju"@en ,
+		"\u0414\u044D\u0432\u0438\u0434 \u0425\u044D\u043C\u043F\u0448\u0438\u0440 (\u0430\u043D\u0433\u043B. David Hampshire; 29 \u0434\u0435\u043A\u0430\u0431\u0440\u044F, 1917, \u041C\u0438\u043A\u043B\u043E\u0432\u0435\u0440, \u0414\u0435\u0440\u0431\u0438 \u2014 25 \u0430\u0432\u0433\u0443\u0441\u0442\u0430, 1990, \u041D\u044C\u044E\u0442\u043E\u043D-\u0421\u043E\u0443\u043B\u043D\u0438, \u0411\u0440\u0435\u0442\u043E\u043D-\u043E\u043D-\u0442\u0440\u0435\u043D\u0442, \u0414\u0435\u0440\u0431\u0438\u0448\u0438\u0440) \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0437 \u0410\u043D\u0433\u043B\u0438\u0438. \u0423\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 2 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B 1."@ru ,
+		"David Hampshire David Hampshire (n\u00E9 le 29 d\u00E9cembre 1917 \u00E0 Mickleover dans le Derbyshire et mort le 25 ao\u00FBt 1990 \u00E0 Newton Solney dans le m\u00EAme comt\u00E9) est un ancien pilote anglais de course automobile, qui s'illustra sur circuit dans l'imm\u00E9diat apr\u00E8s guerre. Il termine notamment second du British Empire Trophy 1948 sur ERA et participe \u00E0 deux \u00E9preuves du championnat du Monde de Formule 1 en 1950, au volant d'une Maserati 4CLT/48."@fr ,
+		"David Alan Hampshire (ur. 29 grudnia 1917 w Mickleover, Derbach, zm. 25 sierpnia 1990 w Newton Solney) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"David Alan Hampshire (Mickleover, Derby, Inglaterra, 29 de dezembro de 1917 \u2013 Newton Solney, Inglaterra, 25 de agosto de 1990) foi um automobilista ingl\u00EAs que participou dos Grandes Pr\u00EAmios da Inglaterra e da Fran\u00E7a de F\u00F3rmula 1 em 1950."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:David_Hampshire	dbp:birthDate	"1917-12-29"^^xsd:date ;
+	owl:sameAs	dbr:David_Hampshire ,
+		wikidata:Q172063 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:David_Hampshire	owl:sameAs	dbpedia-nl:David_Hampshire .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:David_Hampshire	owl:sameAs	dbpedia-pl:David_Hampshire .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:David_Hampshire	owl:sameAs	dbpedia-fr:David_Hampshire .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:David_Hampshire	owl:sameAs	dbpedia-pt:David_Hampshire .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:David_Hampshire	owl:sameAs	dbpedia-it:David_Hampshire ,
+		<http://rdf.freebase.com/ns/m.04k7wb> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:David_Hampshire	owl:sameAs	yago-res:David_Hampshire .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:David_Hampshire	owl:sameAs	dbpedia-wikidata:Q172063 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:David_Hampshire	owl:sameAs	dbpedia-cs:David_Hampshire .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:David_Hampshire	owl:sameAs	dbpedia-de:David_Hampshire .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:David_Hampshire	dct:subject	<http://dbpedia.org/resource/Category:1917_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:David_Hampshire	dct:subject	dbc:English_Formula_One_drivers ,
+		dbc:Scuderia_Ambrosiana_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1990_deaths> ;
+	foaf:name	"David Hampshire"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"David"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:David_Hampshire ;
+	foaf:surname	"Hampshire"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Maserati"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:David_Hampshire	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/David_Hampshire?oldid=729807824> ;
+	dbo:wikiPageExternalLink	<http://www.chicanef1.com> ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:deathDate	"1990-08-25"^^xsd:date ;
+	dbo:abstract	"\u0414\u044D\u0432\u0438\u0434 \u0425\u044D\u043C\u043F\u0448\u0438\u0440 (\u0430\u043D\u0433\u043B. David Hampshire; 29 \u0434\u0435\u043A\u0430\u0431\u0440\u044F, 1917, \u041C\u0438\u043A\u043B\u043E\u0432\u0435\u0440, \u0414\u0435\u0440\u0431\u0438 \u2014 25 \u0430\u0432\u0433\u0443\u0441\u0442\u0430, 1990, \u041D\u044C\u044E\u0442\u043E\u043D-\u0421\u043E\u0443\u043B\u043D\u0438, \u0411\u0440\u0435\u0442\u043E\u043D-\u043E\u043D-\u0442\u0440\u0435\u043D\u0442, \u0414\u0435\u0440\u0431\u0438\u0448\u0438\u0440) \u2014 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438\u0437 \u0410\u043D\u0433\u043B\u0438\u0438. \u0423\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 2 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B 1."@ru ,
+		"David Alan Hampshire (ur. 29 grudnia 1917 w Mickleover, Derbach, zm. 25 sierpnia 1990 w Newton Solney) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"David Alan Hampshire (29 December 1917 \u2013 25 August 1990) was a racing driver from England. He was born in Mickleover, Derby, Derbyshire and died in Newton Solney, in South Derbyshire. David Hampshire first appeared amongst the likes of Bira, Villoresi, Tony Rolt, Raymond Mays, Peter Whitehead, Lesley Brooke and Reg Parnell in the 1939 Nuffield Trophy at Donington Park. However, the Maserati 6CL which he was driving, formerly owned by Arthur Dobson and re-engineered into an 1100cc car, only managed a few laps, retiring with a melted piston. The car was subsequently returned to 1500cc format. He raced the 6CL again at the 1939 Brooklands Whit Monday meeting and the Sydenham Trophy at Crystal Palace on 20 May (televised by the BBC). It had a final outing at Donington Park on 12 August 1939 just before the outbreak of World War 2. After the Second World War,there were virtually no circuits in England to begin with so Sprints were undertaken at Gransden Lodge and Shelsley Walsh. Later in 1946 he competed in his Delage 158L (a 1927 GP car) in the Albi Grand Prix and the Grand Prix des Nations in which he finished 8th. In 1947 he first drove Reg Parnell's \"The Challenger\" in the British Empire Trophy and Reg's ERA E type (GP1) at Lausanne both ending in retirements. On the whole,1948 was more fruitful: he finished second in his Delage 158L in the 1948 British Empire Trophy at Douglas, Isle of Man, and seventh in the Zandvoort Grand Prix in the Netherlands. He also competed in that year's Jersey Road Race. In 1949 with the newly acquired (but 10yrs old) ERA R12b he was fourth in the British Grand Prix at Silverstone and also fourth at the Goodwood Trophy race. There were top ten results in the Jersey Road Race and the British Empire Trophy, an 11th position at the International Trophy Meeting, but retirements at the Albi and Lausanne GPs. During the 1950 Formula One season he competed two World Championship Formula One Grands Prix, and numerous non-Championship Formula One races. He took pole position for the non-Championship Jersey Road Race in the Scuderia Ambrosiana Maserati 4CLT, but his maiden Formula One win eluded him when the car's magneto failed. Nevertheless, he recorded the fastest lap of the race, which was won by Peter Whitehead in a Ferrari. Later in the season he did finally manage to take a Formula One race victory in the 1950 Nottingham Trophy at Gamston, which he won in a Scuderia Ambrosiana 4CLT Maserati. He competed in the 1951 24 Hours of Le Mans race in a works Aston Martin DB2 where, along with his friend, Reg Parnell, he finished third in class and seventh overall."@en ,
+		"David Hampshire (Mickleover (Derby, Derbyshire), 29 december 1917 - Newton Solney (South Derbyshire), 25 augustus 1990) was een Formule 1-coureur uit Groot-Brittanni\u00EB. Hij reed in 1950 2 Grands Prix voor het team Maserati."@nl ,
+		"David Hampshire David Hampshire (n\u00E9 le 29 d\u00E9cembre 1917 \u00E0 Mickleover dans le Derbyshire et mort le 25 ao\u00FBt 1990 \u00E0 Newton Solney dans le m\u00EAme comt\u00E9) est un ancien pilote anglais de course automobile, qui s'illustra sur circuit dans l'imm\u00E9diat apr\u00E8s guerre. Il termine notamment second du British Empire Trophy 1948 sur ERA et participe \u00E0 deux \u00E9preuves du championnat du Monde de Formule 1 en 1950, au volant d'une Maserati 4CLT/48."@fr ,
+		"David Alan Hampshire (Mickleover, Derby, Inglaterra, 29 de dezembro de 1917 \u2013 Newton Solney, Inglaterra, 25 de agosto de 1990) foi um automobilista ingl\u00EAs que participou dos Grandes Pr\u00EAmios da Inglaterra e da Fran\u00E7a de F\u00F3rmula 1 em 1950."@pt ,
+		"David Hampshire (* 29. Dezember 1917 in Mickleover, England; \u2020 25. August 1990 in Newton Soleney) war ein britischer Automobilrennfahrer. In der ersten offiziellen Formel-1-Saison im Jahr 1950 bestritt er zwei zur Weltmeisterschaft z\u00E4hlende Rennen f\u00FCr die Scuderia Ambrosiana, die einen Maserati einsetzte, wobei er jedoch keine Meisterschaftspunkte erzielen konnte. Seine einzige Zielankunft war der neunte Platz beim ersten Formel-1-Rennen \u00FCberhaupt in Silverstone. Hampshire fuhr ebenfalls einige nicht zur Weltmeisterschaft z\u00E4hlende Rennen, wobei er 1950 den Nottingham Grand Prix gewann."@de ;
+	dbo:birthDate	"1917-12-29"^^xsd:date ;
+	dbo:deathDate	"1990-8-25"^^xsd:date ;
+	dbo:wikiPageRevisionID	729807824 ;
+	dbo:birthPlace	dbr:Derby ;
+	dbo:wikiPageID	1228292 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1950_British_Grand_Prix> ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1950_French_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:David_Hampshire	ns26:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1951_24_Hours_of_Le_Mans__7__1>	dbo:firstDriver	dbr:David_Hampshire .

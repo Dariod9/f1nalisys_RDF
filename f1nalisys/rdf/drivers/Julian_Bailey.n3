@@ -1,0 +1,165 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1987_Macau_Grand_Prix__Reynard_R&D__1>	dbo:firstDriver	dbr:Julian_Bailey .
+<http://dbpedia.org/resource/1989_Macau_Grand_Prix__Team_Sch\u00FCbel__2>	dbo:firstDriver	dbr:Julian_Bailey .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Karl_Wendlinger	dbp:after	dbr:Julian_Bailey .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Julian_Bailey	foaf:primaryTopic	dbr:Julian_Bailey .
+<http://dbpedia.org/resource/Jack_Clarke_(racing_driver)>	dbp:relatedTo	dbr:Julian_Bailey .
+dbr:Christophe_Bouchut	dbp:before	dbr:Julian_Bailey .
+dbr:Tyrrell_017__3	dbo:firstDriver	dbr:Julian_Bailey .
+<http://dbpedia.org/resource/1991_Macau_Grand_Prix__West_Surrey_Racing__3>	dbo:firstDriver	dbr:Julian_Bailey .
+dbr:Andrew_Gilbert-Scott	dbp:before	dbr:Julian_Bailey .
+<http://dbpedia.org/resource/Tommy_Byrne_(racing_driver)>	dbp:after	dbr:Julian_Bailey .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Julian_Bailey	rdf:type	yago:WikicatFormulaFordDrivers .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Julian_Bailey	rdf:type	ns7:Agent ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		foaf:Person .
+@prefix schema:	<http://schema.org/> .
+dbr:Julian_Bailey	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Julian_Bailey	rdf:type	owl:Thing ,
+		ns7:NaturalPerson ,
+		yago:Driver110034906 ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Julian_Bailey	rdf:type	wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		dbo:Athlete ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		wikidata:Q5 ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		yago:WikicatBritishGTChampionshipDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Julian_Bailey	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Julian_Bailey	rdfs:label	"Julian Bailey"@en ,
+		"Julian Bailey"@it ,
+		"Julian Bailey"@fr ,
+		"Julian Bailey"@pt ,
+		"Julian Bailey"@es ,
+		"Julian Bailey"@nl ,
+		"\u30B8\u30E5\u30EA\u30A2\u30F3\u30FB\u30D9\u30A4\u30EA\u30FC"@ja ,
+		"\u0411\u044D\u0439\u043B\u0438, \u0414\u0436\u0443\u043B\u0438\u0430\u043D"@ru ,
+		"Julian Bailey"@de ,
+		"Julian Bailey"@pl ,
+		"\u062C\u0648\u0644\u064A\u0627\u0646 \u0628\u064A\u0644\u064A"@ar ;
+	rdfs:comment	"Julian Bailey (* 9. Oktober 1961 in Woolwich) ist ein britischer Automobilrennfahrer."@de ,
+		"\u30B8\u30E5\u30EA\u30A2\u30F3\u30FB\u30D9\u30A4\u30EA\u30FC\uFF08Julian Bailey, 1961\u5E7410\u67089\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Julian Bailey (ur. 9 pa\u017Adziernika 1961 w Woolwich pod Londynem) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"\u062C\u0648\u0644\u064A\u0627\u0646 \u0628\u064A\u0644\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Julian Bailey) \u0645\u0648\u0627\u0644\u064A\u062F 9 \u0623\u0643\u062A\u0648\u0628\u0631 1961 \u0641\u064A \u0644\u0646\u062F\u0646\u060C \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1988. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644 \u0627\u0644\u0643\u0628\u0631\u0649 1988. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 20 \u0633\u0628\u0627\u0642\u0627\u064B\u060C \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ,
+		"Julian Bailey (9 de octubre de 1961 en Woolwich, Londres) es un expiloto ingl\u00E9s de F\u00F3rmula 1 que corri\u00F3 para los equipos Tyrrell y Lotus."@es ,
+		"\u0414\u0436\u0443\u043B\u0438\u0430\u043D \u0411\u044D\u0439\u043B\u0438 (\u0430\u043D\u0433\u043B. Julian Bailey, 9 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1961, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Julian Bailey (Woolwich, 9 oktober 1961) is een voormalige Britse autocoureur. Hij maakte zijn Formule 1-debuut in 1988 bij Tyrell en nam deel aan twintig Grands Prix, waarvan hij er zeven mocht starten."@nl ,
+		"Julian Bailey (born 9 October 1961 in Woolwich, London) is a former Formula One driver who raced for the Tyrrell and Lotus teams."@en ,
+		"Julian BaileyFichier:Julian Bailey 1991 USA.jpg Julian Bailey en 1991 au GP des USA. Julian Bailey, n\u00E9 le 9 octobre 1961 \u00E0 Woolwich, en Angleterre, est un pilote automobile britannique."@fr ,
+		"Julian Bailey (Woolwich, Inglaterra, a 9 de Outubro de 1961) \u00E9 um ex-piloto de F\u00F3rmula 1 que correu pelas equipes Tyrrell e Lotus.Estreou na F\u00F3rmula 1 em 1988 ao lado do compatriota Jonathan Palmer na equipe Tyrrell. O estreante piloto ingl\u00EAs teve muitas dificuldades para classificar o carro no grid de largada. Ele conseguiu alinhar em 6 oportunidades e apenas 4 conseguiu terminar as corridas. Sem equipe, Julian Bailey encerra a sua r\u00E1pida passagem na F\u00F3rmula 1."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Julian_Bailey	dbp:birthDate	"1961-10-09"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Julian_Bailey	owl:sameAs	dbpedia-pl:Julian_Bailey ,
+		dbr:Julian_Bailey .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Julian_Bailey	owl:sameAs	dbpedia-fr:Julian_Bailey .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Julian_Bailey	owl:sameAs	dbpedia-de:Julian_Bailey .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Julian_Bailey	owl:sameAs	dbpedia-nl:Julian_Bailey .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Julian_Bailey	owl:sameAs	dbpedia-it:Julian_Bailey .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Julian_Bailey	owl:sameAs	yago-res:Julian_Bailey ,
+		<http://rdf.freebase.com/ns/m.04kyw5> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Julian_Bailey	owl:sameAs	dbpedia-pt:Julian_Bailey ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E5\u30EA\u30A2\u30F3\u30FB\u30D9\u30A4\u30EA\u30FC> ,
+		wikidata:Q173304 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Julian_Bailey	owl:sameAs	dbpedia-wikidata:Q173304 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Julian_Bailey	owl:sameAs	dbpedia-es:Julian_Bailey .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Julian_Bailey	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Formula_Ford_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:British_GT_Championship_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1961_births> ,
+		dbc:People_from_Woolwich ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:English_racing_drivers ;
+	foaf:name	"Julian Bailey"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Julian_Bailey_1991_USA.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Julian"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Julian_Bailey ;
+	foaf:surname	"Bailey"@en ;
+	dbp:points	1 ;
+	dbp:years	dbr:Jamie_Campbell-Walter ,
+		1982 ,
+		","^^xsd:string ,
+		2000 ;
+	dbp:after	dbr:Christophe_Bouchut ,
+		dbr:Jean-Philippe_Belloc ,
+		dbr:Andrew_Gilbert_Scott ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Tyrrell_Racing ,
+		dbr:Team_Lotus .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Julian_Bailey	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Julian_Bailey?oldid=743756213> ;
+	dbp:caption	"Bailey at the 1991 United States Grand Prix"^^xsd:string ;
+	dbp:nationality	"British"^^xsd:string ;
+	dbp:birthPlace	"Woolwich, London, England, UK"^^xsd:string ;
+	dbp:before	dbr:Karl_Wendlinger ,
+		<http://dbpedia.org/resource/Tommy_Byrne_(Formula_One)> ,
+		dbr:Olivier_Beretta ;
+	dbo:abstract	"Julian BaileyFichier:Julian Bailey 1991 USA.jpg Julian Bailey en 1991 au GP des USA. Julian Bailey, n\u00E9 le 9 octobre 1961 \u00E0 Woolwich, en Angleterre, est un pilote automobile britannique."@fr ,
+		"Julian Bailey (9 de octubre de 1961 en Woolwich, Londres) es un expiloto ingl\u00E9s de F\u00F3rmula 1 que corri\u00F3 para los equipos Tyrrell y Lotus."@es ,
+		"\u30B8\u30E5\u30EA\u30A2\u30F3\u30FB\u30D9\u30A4\u30EA\u30FC\uFF08Julian Bailey, 1961\u5E7410\u67089\u65E5 - \uFF09\u306F\u3001\u30A4\u30AE\u30EA\u30B9\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"\u0414\u0436\u0443\u043B\u0438\u0430\u043D \u0411\u044D\u0439\u043B\u0438 (\u0430\u043D\u0433\u043B. Julian Bailey, 9 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1961, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"\u062C\u0648\u0644\u064A\u0627\u0646 \u0628\u064A\u0644\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Julian Bailey) \u0645\u0648\u0627\u0644\u064A\u062F 9 \u0623\u0643\u062A\u0648\u0628\u0631 1961 \u0641\u064A \u0644\u0646\u062F\u0646\u060C \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1988. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644 \u0627\u0644\u0643\u0628\u0631\u0649 1988. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 20 \u0633\u0628\u0627\u0642\u0627\u064B\u060C \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ,
+		"Julian Bailey (Woolwich, Inglaterra, a 9 de Outubro de 1961) \u00E9 um ex-piloto de F\u00F3rmula 1 que correu pelas equipes Tyrrell e Lotus.Estreou na F\u00F3rmula 1 em 1988 ao lado do compatriota Jonathan Palmer na equipe Tyrrell. O estreante piloto ingl\u00EAs teve muitas dificuldades para classificar o carro no grid de largada. Ele conseguiu alinhar em 6 oportunidades e apenas 4 conseguiu terminar as corridas. Com dificuldades financeiras para continuar na categoria, Bailey n\u00E3o esteve em 1989. Ele tentou o Mundial de Sport-Prot\u00F3tipos na equipe oficial da Nissan ao lado do prometido e compatriota Mark Blundell. No final de 1990, depois de uma boa temporada nos Sport-Prot\u00F3tipos, Julian resolve retornar \u00E0 F\u00F3rmula 1 ao juntar dinheiro suficiente para correr em 1991 na Lotus, que esteve prestes de fechar as portas. Ele divide os boxes com um jovem promissor campe\u00E3o da F\u00F3rmula 3 Inglesa do ano anterior, o finland\u00EAs Mika Hakkinen. Na sua nova equipe, ele n\u00E3o conseguiu vaga nos Grande Pr\u00EAmios: Estados Unidos e no Brasil; apenas em San Marino ele conseguiu se alinhar. Na prova, Bailey se aproveita dos erros e problemas do pelot\u00E3o dianteiro e do meio e vai ganhando v\u00E1rias posi\u00E7\u00F5es. Faltando tr\u00EAs voltas para o final, o belga Eric Van de Poele da Lambo abandona a prova por problemas da bomba de combust\u00EDvel. Com isso, o piloto ingl\u00EAs ganha a posi\u00E7\u00E3o e termina em 6\u00BA lugar marcando 1 ponto. Mas depois, voltou o normal: depois de falhar mais uma classifica\u00E7\u00E3o, em M\u00F4naco, a Lotus decidiu dispensar o seus servi\u00E7os e contratar o compatriota Johnny Herbert. Sem equipe, Julian Bailey encerra a sua r\u00E1pida passagem na F\u00F3rmula 1."@pt ,
+		"Julian Bailey (Woolwich, 9 oktober 1961) is een voormalige Britse autocoureur. Hij maakte zijn Formule 1-debuut in 1988 bij Tyrell en nam deel aan twintig Grands Prix, waarvan hij er zeven mocht starten."@nl ,
+		"Julian Bailey (* 9. Oktober 1961 in Woolwich) ist ein britischer Automobilrennfahrer."@de ,
+		"Julian Bailey (ur. 9 pa\u017Adziernika 1961 w Woolwich pod Londynem) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Julian Bailey (born 9 October 1961 in Woolwich, London) is a former Formula One driver who raced for the Tyrrell and Lotus teams."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Julian_Bailey_1991_USA.jpg?width=300> ;
+	dbo:birthDate	"1961-10-9"^^xsd:date ;
+	dbo:wikiPageRevisionID	743756213 ;
+	dbo:birthPlace	dbr:Woolwich ;
+	dbo:wikiPageID	1235920 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1988_Brazilian_Grand_Prix> ;
+	dbo:races	"20"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1991_Monaco_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Julian_Bailey	ns26:hypernym	dbr:Driver ;
+	dbp:title	dbr:FIA_GT_Championship ,
+		dbr:Formula_Ford_Festival .
+dbr:Olivier_Beretta	dbp:after	dbr:Julian_Bailey .
+dbr:Jamie_Campbell-Walter	dbp:years	dbr:Julian_Bailey .

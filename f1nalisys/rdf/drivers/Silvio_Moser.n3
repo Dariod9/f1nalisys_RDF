@@ -1,0 +1,132 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Silvio_Moser_Racing_Team	dbp:founders	dbr:Silvio_Moser ;
+	dbp:staff	dbr:Silvio_Moser .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Silvio_Moser	foaf:primaryTopic	dbr:Silvio_Moser .
+dbr:Scuderia_Finotto	dbp:founders	dbr:Silvio_Moser .
+dbr:Bellasi	dbp:entrants	dbr:Silvio_Moser .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Silvio_Moser	rdf:type	dbo:MotorsportRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Silvio_Moser	rdf:type	wikidata:Q24229398 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Silvio_Moser	rdf:type	yago:WikicatCooperFormulaOneDrivers ,
+		dbo:Agent ,
+		wikidata:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Silvio_Moser	rdf:type	owl:Thing ,
+		yago:WikicatSwissFormulaOneDrivers ,
+		dbo:Athlete ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		foaf:Person .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Silvio_Moser	rdf:type	ns9:Agent ,
+		wikidata:Q5 ,
+		ns9:NaturalPerson ,
+		yago:Driver110034906 ,
+		wikidata:Q378622 .
+@prefix schema:	<http://schema.org/> .
+dbr:Silvio_Moser	rdf:type	schema:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Silvio_Moser	rdfs:label	"Silvio Moser"@en ,
+		"Silvio Moser"@pt ,
+		"Silvio Moser"@it ,
+		"\u041C\u043E\u0437\u0435\u0440, \u0421\u0438\u043B\u044C\u0432\u0438\u043E"@ru ,
+		"Silvio Moser"@de ,
+		"\u30B7\u30EB\u30D3\u30AA\u30FB\u30E2\u30FC\u30B6\u30FC"@ja ,
+		"Silvio Moser"@nl ,
+		"Silvio Moser"@pl ,
+		"Silvio Moser"@fr ;
+	rdfs:comment	"Silvio Moser (born in Z\u00FCrich, 24 April 1941 \u2013 died in Locarno, 26 May 1974) was a racing driver from Switzerland."@en ,
+		"\u0421\u0438\u043B\u044C\u0432\u0438\u043E \u041C\u043E\u0437\u0435\u0440 (\u043D\u0435\u043C. Silvio Moser, 24 \u0430\u043F\u0440\u0435\u043B\u044F 1941, \u0426\u044E\u0440\u0438\u0445 \u2014 26 \u043C\u0430\u044F 1974, \u041B\u043E\u043A\u0430\u0440\u043D\u043E) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Silvio Moser (ur. 24 kwietnia 1941 roku w Zurychu, zm. 26 maja 1974 w Locarno) \u2013 szwajcarski kierowca wy\u015Bcigowy. Moser by\u0142 kierowc\u0105 Formu\u0142y 1, ale zanim zadebiutowa\u0142 w tej serii, \u015Bciga\u0142 si\u0119 w Formule 2 i wy\u015Bcigach samochod\u00F3w sportowych. W Formule 1 zadebiutowa\u0142 15 lipca 1967 roku podczas Grand Prix Wielkiej Brytanii prywatnym Cooperem. Wzi\u0105\u0142 udzia\u0142 w 19 Grand Prix Formu\u0142y 1, w kt\u00F3rych zdoby\u0142 3 punkty. Moser zmar\u0142 26 maja 1974 w wyniku ci\u0119\u017Ckich uraz\u00F3w nie odzyskawszy przytomno\u015Bci, po pewnym czasie od wypadku jego Loli-BMW w wy\u015Bcigu 1000 km Monza."@pl ,
+		"Silvio Moser (Z\u00FCrich, 24 april 1941 - Locarno, 26 mei 1974) was een Formule 1-coureur uit Zwitserland."@nl ,
+		"Silvio Moser (Zurique, Su\u00ED\u00E7a, 24 de abril de 1941 \u2013 Locarno, Su\u00ED\u00E7a, 26 de maio de 1974) foi um automobilista su\u00ED\u00E7o que participou de 12 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1966 e 1971. Seu melhor resultado foi o quinto lugar na Holanda em 1968."@pt ,
+		"Silvio Moser, n\u00E9 le 24 avril 1941 \u00E0 Zurich et mort le 26 mai 1974 \u00E0 Locarno \u00E0 la suite d'un accident en course lors des 1 000 kilom\u00E8tres de Monza, \u00E9tait un pilote automobile suisse. Moser a disput\u00E9 douze Grands prix de Formule 1 entre 1967 et 1971 et a inscrit un total de trois points en championnat du monde."@fr ,
+		"\u30B7\u30EB\u30D3\u30AA\u30FB\u30E2\u30FC\u30B6\u30FC\uFF08Silvio Moser, 1941\u5E744\u670824\u65E5 - 1974\u5E745\u670826\u65E5\uFF09\u306F\u3001\u30B9\u30A4\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3001F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u611B\u79F0\u306F\u300CBig Silv\u300D\u3002"@ja ,
+		"Silvio Moser (* 24. April 1941 in Z\u00FCrich; \u2020 26. Mai 1974 in Locarno) war ein Schweizer Automobilrennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Silvio_Moser	dbp:birthDate	"1941-04-24"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Silvio_Moser	owl:sameAs	yago-res:Silvio_Moser ,
+		<http://rdf.freebase.com/ns/m.04kz0k> ,
+		wikidata:Q173283 ,
+		<http://ja.dbpedia.org/resource/\u30B7\u30EB\u30D3\u30AA\u30FB\u30E2\u30FC\u30B6\u30FC> ,
+		dbr:Silvio_Moser .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Silvio_Moser	owl:sameAs	dbpedia-nl:Silvio_Moser .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Silvio_Moser	owl:sameAs	dbpedia-de:Silvio_Moser .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Silvio_Moser	owl:sameAs	dbpedia-it:Silvio_Moser .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Silvio_Moser	owl:sameAs	dbpedia-fr:Silvio_Moser .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Silvio_Moser	owl:sameAs	dbpedia-wikidata:Q173283 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Silvio_Moser	owl:sameAs	dbpedia-pl:Silvio_Moser .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Silvio_Moser	owl:sameAs	dbpedia-pt:Silvio_Moser .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Silvio_Moser	dct:subject	<http://dbpedia.org/resource/Category:1941_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Silvio_Moser	dct:subject	dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1974_deaths> ,
+		dbc:Swiss_racing_drivers ,
+		dbc:Silvio_Moser_Racing_Team_Formula_One_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Sport_deaths_in_Italy ,
+		dbc:Formula_One_entrants ,
+		dbc:Swiss_Formula_One_drivers ;
+	foaf:name	"Silvio Moser"@en ;
+	foaf:homepage	<http://www.silviomoser.ch> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/SilvioMoser.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Silvio"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Silvio_Moser ;
+	foaf:surname	"Moser"@en ;
+	dbp:points	3 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	"privateer Cooper, Brabham and Bellasi"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Silvio_Moser	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Silvio_Moser?oldid=744307541> ;
+	dbo:wikiPageExternalLink	<http://www.silviomoser.ch> ;
+	dbp:nationality	"Swiss"^^xsd:string ;
+	dbp:birthPlace	"Z\u00FCrich, Switzerland"^^xsd:string ;
+	dbp:deathDate	"1974-05-26"^^xsd:date ;
+	dbp:deathPlace	"Locarno, Ticino, Switzerland"^^xsd:string ;
+	dbo:abstract	"Silvio Moser (* 24. April 1941 in Z\u00FCrich; \u2020 26. Mai 1974 in Locarno) war ein Schweizer Automobilrennfahrer."@de ,
+		"Silvio Moser, n\u00E9 le 24 avril 1941 \u00E0 Zurich et mort le 26 mai 1974 \u00E0 Locarno \u00E0 la suite d'un accident en course lors des 1 000 kilom\u00E8tres de Monza, \u00E9tait un pilote automobile suisse. Moser a disput\u00E9 douze Grands prix de Formule 1 entre 1967 et 1971 et a inscrit un total de trois points en championnat du monde."@fr ,
+		"Silvio Moser (Zurique, Su\u00ED\u00E7a, 24 de abril de 1941 \u2013 Locarno, Su\u00ED\u00E7a, 26 de maio de 1974) foi um automobilista su\u00ED\u00E7o que participou de 12 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1966 e 1971. Seu melhor resultado foi o quinto lugar na Holanda em 1968."@pt ,
+		"Silvio Moser (Z\u00FCrich, 24 april 1941 - Locarno, 26 mei 1974) was een Formule 1-coureur uit Zwitserland."@nl ,
+		"Silvio Moser (born in Z\u00FCrich, 24 April 1941 \u2013 died in Locarno, 26 May 1974) was a racing driver from Switzerland."@en ,
+		"\u0421\u0438\u043B\u044C\u0432\u0438\u043E \u041C\u043E\u0437\u0435\u0440 (\u043D\u0435\u043C. Silvio Moser, 24 \u0430\u043F\u0440\u0435\u043B\u044F 1941, \u0426\u044E\u0440\u0438\u0445 \u2014 26 \u043C\u0430\u044F 1974, \u041B\u043E\u043A\u0430\u0440\u043D\u043E) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Silvio Moser (ur. 24 kwietnia 1941 roku w Zurychu, zm. 26 maja 1974 w Locarno) \u2013 szwajcarski kierowca wy\u015Bcigowy. Moser by\u0142 kierowc\u0105 Formu\u0142y 1, ale zanim zadebiutowa\u0142 w tej serii, \u015Bciga\u0142 si\u0119 w Formule 2 i wy\u015Bcigach samochod\u00F3w sportowych. W Formule 1 zadebiutowa\u0142 15 lipca 1967 roku podczas Grand Prix Wielkiej Brytanii prywatnym Cooperem. Wzi\u0105\u0142 udzia\u0142 w 19 Grand Prix Formu\u0142y 1, w kt\u00F3rych zdoby\u0142 3 punkty. Moser zmar\u0142 26 maja 1974 w wyniku ci\u0119\u017Ckich uraz\u00F3w nie odzyskawszy przytomno\u015Bci, po pewnym czasie od wypadku jego Loli-BMW w wy\u015Bcigu 1000 km Monza."@pl ,
+		"\u30B7\u30EB\u30D3\u30AA\u30FB\u30E2\u30FC\u30B6\u30FC\uFF08Silvio Moser, 1941\u5E744\u670824\u65E5 - 1974\u5E745\u670826\u65E5\uFF09\u306F\u3001\u30B9\u30A4\u30B9\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3001F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002\u611B\u79F0\u306F\u300CBig Silv\u300D\u3002"@ja ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/SilvioMoser.jpg?width=300> ;
+	dbo:birthDate	"1941-4-24"^^xsd:date ;
+	dbo:deathDate	"1974-5-26"^^xsd:date ;
+	dbo:deathPlace	dbr:Locarno ;
+	dbo:wikiPageRevisionID	744307541 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Z\u00FCrich> ;
+	dbo:wikiPageID	1235945 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1966_German_Grand_Prix> ;
+	dbo:races	"20"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1971_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Silvio_Moser	ns24:hypernym	dbr:Driver .

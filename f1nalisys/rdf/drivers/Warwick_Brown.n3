@@ -1,0 +1,140 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1974_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Warwick_Brown ;
+	dbo:firstDriver	dbr:Warwick_Brown .
+<http://dbpedia.org/resource/1977_Australian_Grand_Prix>	dbo:firstDriver	dbr:Warwick_Brown ;
+	dbo:poleDriver	dbr:Warwick_Brown .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/John_Goss_(racing_driver)>	dbp:after	dbr:Warwick_Brown .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Warwick_Brown	foaf:primaryTopic	dbr:Warwick_Brown .
+dbr:Peter_Gethin	dbp:after	dbr:Warwick_Brown .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Warwick_Brown	rdf:type	yago:WikicatTasmanSeriesDrivers .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Warwick_Brown	rdf:type	ns7:Agent ,
+		ns7:NaturalPerson ,
+		yago:PhysicalEntity100001930 .
+@prefix schema:	<http://schema.org/> .
+dbr:Warwick_Brown	rdf:type	schema:Person ,
+		yago:WikicatAustralianFormulaOneDrivers ,
+		dbo:FormulaOneRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Warwick_Brown	rdf:type	wikidata:Q215627 ,
+		yago:WikicatWolfFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		dbo:RacingDriver ,
+		yago:Operator110378412 ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q5 ,
+		dbo:Person ,
+		wikidata:Q378622 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Warwick_Brown	rdf:type	owl:Thing ,
+		foaf:Person ,
+		yago:Driver110034906 ,
+		yago:WikicatRacingDriversFromSydney .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Warwick_Brown	rdfs:label	"Warwick Brown"@en ,
+		"\u0411\u0440\u0430\u0443\u043D, \u0423\u043E\u0440\u0438\u043A"@ru ,
+		"Warwick Brown"@pt ,
+		"Warwick Brown"@pl ,
+		"Warwick Brown"@it ,
+		"Warwick Brown"@nl ,
+		"Warwick Brown"@de ;
+	rdfs:comment	"\u0423\u043E\u0440\u0438\u043A \u0411\u0440\u0430\u0443\u043D (\u0430\u043D\u0433\u043B. Warwick Brown, 24 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1949 \u0433\u043E\u0434\u0430, \u0421\u0438\u0434\u043D\u0435\u0439) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0422\u0430\u0441\u043C\u0430\u043D\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 1975 \u0433\u043E\u0434\u0430."@ru ,
+		"Warwick Brown (Sydney, 24 december 1949) is een voormalig Formule 1-coureur uit Australi\u00EB. Hij reed 1 Grand Prix; de Grand Prix van de Verenigde Staten van 1976 voor het team Wolf."@nl ,
+		"Warwick Brown (ur. 24 grudnia 1949 w Sydney) \u2212 australijski kierowca wy\u015Bcigowy."@pl ,
+		"Warwick Brown (Sydney, 24 de Dezembro de 1949) \u00E9 um ex-automobilista da Austr\u00E1lia."@pt ,
+		"Warwick Brown (* 24. Dezember 1949 in Sydney) ist ein ehemaliger australischer Autorennfahrer. Warwick Brown machte au\u00DFerhalb der Formel 1 Karriere im Motorsport, dort wo seine Wurzeln lagen: in Australien und Neuseeland und sp\u00E4ter in den Vereinigten Staaten. Erste Erfolge mit einem gebrauchten Formel-5000-McLaren machten es m\u00F6glich, dass Brown sich einen Lola T300 kaufte, um mit diesem 1973 in die Tasman-Serie einzusteigen. Ein schwerer Unfall in Surfers Paradise beendete die ersten Ambitionen schlagartig. Brown brach sich beide Beine und verbrachte drei Monate im Krankenhaus."@de ,
+		"Warwick Brown (born in Sydney, 24 December 1949) is a former racing driver from Australia."@en ;
+	owl:differentFrom	dbr:Warrick_Brown ;
+	dbp:points	0 ;
+	owl:sameAs	wikidata:Q172543 ,
+		dbr:Warwick_Brown .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Warwick_Brown	owl:sameAs	dbpedia-it:Warwick_Brown .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Warwick_Brown	owl:sameAs	dbpedia-pt:Warwick_Brown .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Warwick_Brown	owl:sameAs	dbpedia-wikidata:Q172543 ,
+		<http://rdf.freebase.com/ns/m.04kxyp> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Warwick_Brown	owl:sameAs	yago-res:Warwick_Brown .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Warwick_Brown	owl:sameAs	dbpedia-nl:Warwick_Brown .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Warwick_Brown	owl:sameAs	dbpedia-de:Warwick_Brown .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Warwick_Brown	owl:sameAs	dbpedia-pl:Warwick_Brown .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Warwick_Brown	dct:subject	dbc:Australian_Formula_One_drivers ,
+		dbc:Sportspeople_from_Sydney ,
+		dbc:Sportsmen_from_New_South_Wales ,
+		dbc:Living_people ,
+		dbc:Tasman_Series_drivers ,
+		dbc:Racing_drivers_from_Sydney ,
+		<http://dbpedia.org/resource/Category:1949_births> ,
+		dbc:Wolf_Formula_One_drivers ;
+	foaf:name	"Warwick Brown"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Lola_T430.jpg> ;
+	dct:description	"Australian racing driver"@en ;
+	foaf:givenName	"Warwick"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Warwick_Brown ;
+	foaf:surname	"Brown"@en ;
+	dbp:title	dbr:Australian_Grand_Prix ,
+		"Winner"^^xsd:string ,
+		dbr:Tasman_Series ,
+		dbr:New_Zealand_Grand_Prix ;
+	dbp:years	1977 ,
+		1975 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Warwick_Brown	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Warwick_Brown?oldid=743338368> ;
+	dbp:before	<http://dbpedia.org/resource/John_Goss_(racing_driver)> ,
+		<http://dbpedia.org/resource/John_McCormack_(racing_driver)> ,
+		dbr:Peter_Gethin ;
+	dbp:after	<http://dbpedia.org/resource/Ken_Smith_(racing_driver)> ,
+		dbr:Graham_McRae ,
+		"None"^^xsd:string ;
+	dbp:birthPlace	"Sydney, Australia"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Warwick_Brown	dbp:birthDate	"1949-12-24"^^xsd:date ;
+	dbo:wikiPageExternalLink	<https://books.google.com/books?id=1KZE3Ou_Q84C&pg=PA7&dq=formula+5000+usa> ,
+		<https://web.archive.org/web/20090717021926/http:/www.sergent.com.au/tasman.html> ,
+		<http://www.grandprix.com/gpe/drv-browar.html> ,
+		<https://books.google.com/books?id=suthR2oHxdUC&printsec=frontcover&dq=formula+5000> ;
+	dbo:abstract	"Warwick Brown (ur. 24 grudnia 1949 w Sydney) \u2212 australijski kierowca wy\u015Bcigowy."@pl ,
+		"Warwick Brown (* 24. Dezember 1949 in Sydney) ist ein ehemaliger australischer Autorennfahrer. Warwick Brown machte au\u00DFerhalb der Formel 1 Karriere im Motorsport, dort wo seine Wurzeln lagen: in Australien und Neuseeland und sp\u00E4ter in den Vereinigten Staaten. Erste Erfolge mit einem gebrauchten Formel-5000-McLaren machten es m\u00F6glich, dass Brown sich einen Lola T300 kaufte, um mit diesem 1973 in die Tasman-Serie einzusteigen. Ein schwerer Unfall in Surfers Paradise beendete die ersten Ambitionen schlagartig. Brown brach sich beide Beine und verbrachte drei Monate im Krankenhaus. 1974 kehrte er zur\u00FCck und feierte seinen ersten Sieg in der Tasman-Serie beim Abschlussrennen in Adelaide. Brown ging in die USA und wurde zu einem Spitzenfahrer in der US-amerikanischen Formel-5000-Meisterschaft und in der CanAm-Serie in den 1970er-Jahren. 1975 fuhr er noch einmal in der Tasman-Serie und gewann die Gesamtwertung. Ein einziges Mal sah man ihn auch am Start bei einem Formel-1-Grand-Prix. 1976 fuhr er f\u00FCr Walter Wolf und dessen Team Walter Wolf Racing den Gro\u00DFen Preis der USA Ost in Watkins Glen. Mit f\u00FCnf Runden R\u00FCckstand blieb nur der entt\u00E4uschende 14. Rang."@de ,
+		"Warwick Brown (Sydney, 24 de Dezembro de 1949) \u00E9 um ex-automobilista da Austr\u00E1lia."@pt ,
+		"Warwick Brown (born in Sydney, 24 December 1949) is a former racing driver from Australia."@en ,
+		"\u0423\u043E\u0440\u0438\u043A \u0411\u0440\u0430\u0443\u043D (\u0430\u043D\u0433\u043B. Warwick Brown, 24 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1949 \u0433\u043E\u0434\u0430, \u0421\u0438\u0434\u043D\u0435\u0439) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u0422\u0430\u0441\u043C\u0430\u043D\u0441\u043A\u043E\u0439 \u0441\u0435\u0440\u0438\u0438 1975 \u0433\u043E\u0434\u0430."@ru ,
+		"Warwick Brown (Sydney, 24 december 1949) is een voormalig Formule 1-coureur uit Australi\u00EB. Hij reed 1 Grand Prix; de Grand Prix van de Verenigde Staten van 1976 voor het team Wolf."@nl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Lola_T430.jpg?width=300> ;
+	dbo:birthDate	"1949-12-24"^^xsd:date ;
+	dbo:wikiPageRevisionID	743338368 ;
+	dbo:birthPlace	dbr:Sydney ;
+	dbo:wikiPageID	1235704 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Warwick_Brown	ns23:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1976_United_States_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1976_United_States_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Wolf-Williams_Racing ;
+	dbp:nationality	"Australian"^^xsd:string .
+<http://dbpedia.org/resource/John_McCormack_(racing_driver)>	dbp:after	dbr:Warwick_Brown .
+<http://dbpedia.org/resource/1975_New_Zealand_Grand_Prix>	dbo:firstDriver	dbr:Warwick_Brown .
+<http://dbpedia.org/resource/Ken_Smith_(racing_driver)>	dbp:before	dbr:Warwick_Brown .
+dbr:Graham_McRae	dbp:before	dbr:Warwick_Brown .
+<http://dbpedia.org/resource/Warwick_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Warwick_Brown .

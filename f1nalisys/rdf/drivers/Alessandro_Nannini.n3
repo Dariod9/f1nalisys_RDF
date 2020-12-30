@@ -1,0 +1,179 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1996_ITC_Interlagos_round>	dbp:fastDriverR	dbr:Alessandro_Nannini ;
+	dbp:firstDriverR	dbr:Alessandro_Nannini .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1988_British_Grand_Prix>	dbo:thirdDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1989_British_Grand_Prix>	dbo:thirdDriver	dbr:Alessandro_Nannini .
+dbr:Sandro_Nannini	dbo:wikiPageRedirects	dbr:Alessandro_Nannini .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Alessandro_Nannini	foaf:primaryTopic	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1989_Japanese_Grand_Prix>	dbo:firstDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1996_ITC_Hockenheim-1_round>	dbp:fastDriverR	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1996_ITC_N\u00FCrburgring-2_round>	dbp:fastDriverR	dbr:Alessandro_Nannini ;
+	dbp:firstDriverR	dbr:Alessandro_Nannini ;
+	dbp:poleDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1989_San_Marino_Grand_Prix>	dbo:thirdDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1990_San_Marino_Grand_Prix>	dbo:thirdDriver	dbr:Alessandro_Nannini ;
+	dbo:fastestDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1996_ITC_Magny-Cours_round>	dbp:firstDriverR	dbr:Alessandro_Nannini .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Alessandro_Nannini	rdf:type	ns6:Agent ,
+		dbo:MotorsportRacer .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Alessandro_Nannini	rdf:type	wikidata:Q378622 ,
+		dbo:RacingDriver ,
+		ns6:NaturalPerson .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Alessandro_Nannini	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Alessandro_Nannini	rdf:type	yago:CausalAgent100007347 ,
+		dbo:Person ,
+		yago:PhysicalEntity100001930 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Alessandro_Nannini	rdf:type	umbel-rc:RaceCarDriver ,
+		foaf:Person ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q5 ,
+		yago:Operator110378412 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Agent ,
+		yago:WikicatMinardiFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		yago:WikicatGrandPrixMastersDrivers ,
+		wikidata:Q24229398 ,
+		dbo:Athlete ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:WikicatItalianFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Alessandro_Nannini	rdf:type	schema:Person ,
+		yago:WikicatBenettonFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Alessandro_Nannini	rdfs:label	"Alessandro Nannini"@fr ,
+		"Alessandro Nannini"@it ,
+		"Alessandro Nannini"@nl ,
+		"Alessandro Nannini"@pt ,
+		"\u30A2\u30EC\u30C3\u30B5\u30F3\u30C9\u30ED\u30FB\u30CA\u30CB\u30FC\u30CB"@ja ,
+		"\u0623\u0644\u064A\u0633\u0627\u0646\u062F\u0631\u0648 \u0646\u0627\u0646\u064A\u0646\u064A"@ar ,
+		"Alessandro Nannini"@es ,
+		"Alessandro Nannini"@en ,
+		"\u041D\u0430\u043D\u043D\u0438\u043D\u0438, \u0410\u043B\u0435\u0441\u0441\u0430\u043D\u0434\u0440\u043E"@ru ,
+		"Alessandro Nannini"@pl ,
+		"Alessandro Nannini"@de ;
+	rdfs:comment	"Alessandro \"Sandro\" Nannini (born 7 July 1959) is a former racing driver from Italy. He is the younger brother of rock-singer Gianna Nannini."@en ,
+		"Alessandro Nannini, apodado Sandro (7 de julio de 1959, Siena, Italia), es un piloto de automovilismo de velocidad italiano. Disput\u00F3 78 Grandes Premios de F\u00F3rmula 1 entre 1986 y 1990 para las escuder\u00EDas Minardi y Benetton. Gan\u00F3 una carrera, obtuvo 9 podios y consigui\u00F3 un total de 65 puntos del campeonato. Sus mejores resultados de campeonato fueron sexto en 1989, octavo en 1990 y d\u00E9cimo en 1988. Es el hermano menor de la cantante de rock Gianna Nannini."@es ,
+		"Alessandro Nannini (Siena, 7 de julho de 1959) \u00E9 um piloto italiano. Disputou o Campeonato Mundial de F\u00F3rmula 1 entre os anos de 1986 e 1990, participando de 78 grandes Pr\u00EAmios, obtendo uma vit\u00F3ria, duas voltas mais r\u00E1pidas e 65 pontos. Pilotou para as equipes Minardi e Benetton. Ele \u00E9 tamb\u00E9m o irm\u00E3o mais novo da cantora de rock Gianna Nannini."@pt ,
+		"Alessandro \"Sandro\" Nannini (Siena, 7 juli 1959) is een voormalig Italiaans autocoureur, die actief geweest is in de Formule 1. Nannini is de broer van de Italiaanse zangeres Gianna Nannini."@nl ,
+		"\u0623\u0644\u064A\u0633\u0627\u0646\u062F\u0631\u0648 \u0646\u0627\u0646\u064A\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 7 \u064A\u0648\u0644\u064A\u0648 1959\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1986. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644\u064A \u0627\u0644\u0643\u0628\u0631\u0649 1986\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1989. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 78 \u0633\u0628\u0627\u0642\u0627\u064B\u060C \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ,
+		"Alessandro Nannini (souvent surnomm\u00E9 Sandro Nannini) est un ancien pilote automobile italien n\u00E9 le 7 juillet 1959 \u00E0 Sienne en Italie."@fr ,
+		"\u00C8 fratello minore della cantante Gianna Nannini e figlio dell'imprenditore Danilo Nannini."@it ,
+		"Alessandro Nannini (ur. 7 lipca 1959 w Sienie) \u2013 by\u0142y w\u0142oski kierowca wy\u015Bcigowy, m\u0142odszy brat piosenkarki rockowej, Gianny Nannini."@pl ,
+		"Alessandro \u201ESandro\u201C Nannini (* 7. Juli 1959 in Siena) ist ein ehemaliger italienischer Automobilrennfahrer. Er startete zwischen 1986 und 1990 bei 77 Grand-Prix-Rennen in der automobilen K\u00F6nigsklasse Formel 1 und gewann eines davon. Anschlie\u00DFend war Nannini u.a. in der DTM aktiv. Seine Schwester ist die Rockmusikerin Gianna Nannini."@de ,
+		"\u30A2\u30EC\u30C3\u30B5\u30F3\u30C9\u30ED\u30FB\"\u30B5\u30F3\u30C9\u30ED\"\u30FB\u30CA\u30CB\u30FC\u30CB\uFF08Alessandro \"Sandro\" Nannini \u30011959\u5E747\u67087\u65E5 - \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3001\u5B9F\u696D\u5BB6\u3002\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u95A2\u4FC2\u306E\u96D1\u8A8C\u3067\u306F\u6B86\u3069\u30CA\u30CB\u30FC\u30CB\u8868\u8A18\u3060\u304C\u3001\u6BCD\u56FD\u8A9E\u306E\u767A\u97F3\u306B\u57FA\u3065\u304D\u3001\u59D3\u3092\u30CA\u30F3\u30CB\u30FC\u30CB\u3068\u8A18\u3059\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"\u0410\u043B\u0435\u0441\u0441\u0430\u043D\u0434\u0440\u043E \u041D\u0430\u043D\u043D\u0438\u043D\u0438 (\u0438\u0442\u0430\u043B. Alessandro Nannini, 7 \u0438\u044E\u043B\u044F, 1959, \u0421\u0438\u0435\u043D\u0430, \u0422\u043E\u0441\u043A\u0430\u043D\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0411\u0440\u0430\u0442 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0439 \u043F\u0435\u0432\u0438\u0446\u044B \u0438 \u043A\u043E\u043C\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0430 \u0414\u0436\u0430\u043D\u043D\u044B \u041D\u0430\u043D\u043D\u0438\u043D\u0438. \u0417\u0430 \u0441\u0432\u043E\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u043E\u0434\u0435\u0440\u0436\u0430\u043B 1 \u043F\u043E\u0431\u0435\u0434\u0443, \u043D\u043E \u043D\u0438 \u0440\u0430\u0437\u0443 \u043D\u0435 \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C. \u041F\u043E\u0431\u0435\u0434\u0443 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u043E\u0441\u043B\u0435 \u0434\u0438\u0441\u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u0438 \u0410\u0439\u0440\u0442\u043E\u043D\u0430 \u0421\u0435\u043D\u043D\u044B \u043D\u0430 \u0433\u0440\u0430\u043D-\u043F\u0440\u0438 \u042F\u043F\u043E\u043D\u0438\u0438 1989. \u0422\u0430\u043A\u0438\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C \u0434\u043E\u0431\u044B\u0442\u0430\u044F \u043F\u043E\u0431\u0435\u0434\u0430 \u043E\u043A\u0430\u0437\u0430\u043B\u0430\u0441\u044C \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439 \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0446\u0430."@ru ;
+	dbp:points	65 ;
+	owl:sameAs	wikidata:Q173087 ,
+		<http://ja.dbpedia.org/resource/\u30A2\u30EC\u30C3\u30B5\u30F3\u30C9\u30ED\u30FB\u30CA\u30CB\u30FC\u30CB> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-de:Alessandro_Nannini .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-nl:Alessandro_Nannini .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-es:Alessandro_Nannini .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-it:Alessandro_Nannini ,
+		dbr:Alessandro_Nannini .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	yago-res:Alessandro_Nannini .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-fr:Alessandro_Nannini ,
+		<http://rdf.freebase.com/ns/m.04j99y> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-pt:Alessandro_Nannini .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-wikidata:Q173087 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-cs:Alessandro_Nannini .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-id:Alessandro_Nannini .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Alessandro_Nannini	owl:sameAs	dbpedia-pl:Alessandro_Nannini .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Alessandro_Nannini	dct:subject	dbc:Italian_amputees ,
+		dbc:World_Touring_Car_Championship_drivers ,
+		dbc:Italian_racing_drivers ,
+		dbc:Benetton_Formula_One_drivers ,
+		dbc:People_from_Siena ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Minardi_Formula_One_drivers ,
+		dbc:Grand_Prix_Masters_drivers ,
+		<http://dbpedia.org/resource/Category:1959_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ;
+	foaf:name	"Alessandro Nannini"@en ;
+	foaf:homepage	<http://www.caffenannini.it/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro_Nannini_1988_Canada_2.jpg> ;
+	dct:description	"Italian racecar driver"@en ;
+	foaf:givenName	"Alessandro"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Alessandro_Nannini ;
+	foaf:surname	"Nannini"@en ;
+	dbp:years	1986 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Alessandro_Nannini	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Alessandro_Nannini?oldid=726263223> ;
+	dbo:firstWin	<http://dbpedia.org/resource/1989_Japanese_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1989_Japanese_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Alessandro_Nannini	dbp:birthDate	"1959-07-07"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.caffenannini.it/> ,
+		<http://8w.forix.com/nannini.html> ;
+	dbo:abstract	"\u30A2\u30EC\u30C3\u30B5\u30F3\u30C9\u30ED\u30FB\"\u30B5\u30F3\u30C9\u30ED\"\u30FB\u30CA\u30CB\u30FC\u30CB\uFF08Alessandro \"Sandro\" Nannini \u30011959\u5E747\u67087\u65E5 - \uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3001\u5B9F\u696D\u5BB6\u3002\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u95A2\u4FC2\u306E\u96D1\u8A8C\u3067\u306F\u6B86\u3069\u30CA\u30CB\u30FC\u30CB\u8868\u8A18\u3060\u304C\u3001\u6BCD\u56FD\u8A9E\u306E\u767A\u97F3\u306B\u57FA\u3065\u304D\u3001\u59D3\u3092\u30CA\u30F3\u30CB\u30FC\u30CB\u3068\u8A18\u3059\u3053\u3068\u3082\u3042\u308B\u3002"@ja ,
+		"\u0623\u0644\u064A\u0633\u0627\u0646\u062F\u0631\u0648 \u0646\u0627\u0646\u064A\u0646\u064A \u0645\u0648\u0627\u0644\u064A\u062F 7 \u064A\u0648\u0644\u064A\u0648 1959\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1986. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644\u064A \u0627\u0644\u0643\u0628\u0631\u0649 1986\u060C \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0627\u0644\u0643\u0628\u0631\u0649 1989. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 78 \u0633\u0628\u0627\u0642\u0627\u064B\u060C \u0641\u0627\u0632 \u0641\u064A 1 \u0645\u0646\u0647\u0627."@ar ,
+		"Alessandro Nannini (souvent surnomm\u00E9 Sandro Nannini) est un ancien pilote automobile italien n\u00E9 le 7 juillet 1959 \u00E0 Sienne en Italie."@fr ,
+		"Alessandro Nannini, apodado Sandro (7 de julio de 1959, Siena, Italia), es un piloto de automovilismo de velocidad italiano. Disput\u00F3 78 Grandes Premios de F\u00F3rmula 1 entre 1986 y 1990 para las escuder\u00EDas Minardi y Benetton. Gan\u00F3 una carrera, obtuvo 9 podios y consigui\u00F3 un total de 65 puntos del campeonato. Sus mejores resultados de campeonato fueron sexto en 1989, octavo en 1990 y d\u00E9cimo en 1988. Nannini tambi\u00E9n obtuvo victorias en el Campeonato Mundial de Resistencia como piloto de Lancia. Luego de recuperarse de una lesi\u00F3n, se destac\u00F3 en el Deutsche Tourenwagen Masters con Alfa Romeo y el Campeonato FIA GT con Mercedes-Benz. Es el hermano menor de la cantante de rock Gianna Nannini."@es ,
+		"Alessandro \"Sandro\" Nannini (born 7 July 1959) is a former racing driver from Italy. He is the younger brother of rock-singer Gianna Nannini."@en ,
+		"\u0410\u043B\u0435\u0441\u0441\u0430\u043D\u0434\u0440\u043E \u041D\u0430\u043D\u043D\u0438\u043D\u0438 (\u0438\u0442\u0430\u043B. Alessandro Nannini, 7 \u0438\u044E\u043B\u044F, 1959, \u0421\u0438\u0435\u043D\u0430, \u0422\u043E\u0441\u043A\u0430\u043D\u0430) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0411\u0440\u0430\u0442 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0439 \u043F\u0435\u0432\u0438\u0446\u044B \u0438 \u043A\u043E\u043C\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0430 \u0414\u0436\u0430\u043D\u043D\u044B \u041D\u0430\u043D\u043D\u0438\u043D\u0438. \u0417\u0430 \u0441\u0432\u043E\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u043E\u0434\u0435\u0440\u0436\u0430\u043B 1 \u043F\u043E\u0431\u0435\u0434\u0443, \u043D\u043E \u043D\u0438 \u0440\u0430\u0437\u0443 \u043D\u0435 \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C. \u041F\u043E\u0431\u0435\u0434\u0443 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u043E\u0441\u043B\u0435 \u0434\u0438\u0441\u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u0438 \u0410\u0439\u0440\u0442\u043E\u043D\u0430 \u0421\u0435\u043D\u043D\u044B \u043D\u0430 \u0433\u0440\u0430\u043D-\u043F\u0440\u0438 \u042F\u043F\u043E\u043D\u0438\u0438 1989. \u0422\u0430\u043A\u0438\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C \u0434\u043E\u0431\u044B\u0442\u0430\u044F \u043F\u043E\u0431\u0435\u0434\u0430 \u043E\u043A\u0430\u0437\u0430\u043B\u0430\u0441\u044C \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439 \u0432 \u043A\u0430\u0440\u044C\u0435\u0440\u0435 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0446\u0430."@ru ,
+		"Alessandro \"Sandro\" Nannini (Siena, 7 juli 1959) is een voormalig Italiaans autocoureur, die actief geweest is in de Formule 1. Nannini is de broer van de Italiaanse zangeres Gianna Nannini."@nl ,
+		"Alessandro Nannini (Siena, 7 de julho de 1959) \u00E9 um piloto italiano. Disputou o Campeonato Mundial de F\u00F3rmula 1 entre os anos de 1986 e 1990, participando de 78 grandes Pr\u00EAmios, obtendo uma vit\u00F3ria, duas voltas mais r\u00E1pidas e 65 pontos. Pilotou para as equipes Minardi e Benetton. Ele \u00E9 tamb\u00E9m o irm\u00E3o mais novo da cantora de rock Gianna Nannini."@pt ,
+		"Alessandro \u201ESandro\u201C Nannini (* 7. Juli 1959 in Siena) ist ein ehemaliger italienischer Automobilrennfahrer. Er startete zwischen 1986 und 1990 bei 77 Grand-Prix-Rennen in der automobilen K\u00F6nigsklasse Formel 1 und gewann eines davon. Anschlie\u00DFend war Nannini u.a. in der DTM aktiv. Seine Schwester ist die Rockmusikerin Gianna Nannini."@de ,
+		"Alessandro Nannini (ur. 7 lipca 1959 w Sienie) \u2013 by\u0142y w\u0142oski kierowca wy\u015Bcigowy, m\u0142odszy brat piosenkarki rockowej, Gianny Nannini."@pl ,
+		"\u00C8 fratello minore della cantante Gianna Nannini e figlio dell'imprenditore Danilo Nannini."@it ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro_Nannini_1988_Canada_2.jpg?width=300> ;
+	dbo:birthDate	"1959-7-7"^^xsd:date ;
+	dbo:wikiPageRevisionID	726263223 ;
+	dbo:birthPlace	dbr:Siena ;
+	dbo:wikiPageID	1218385 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Alessandro_Nannini	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"2"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1986_Brazilian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1990_Spanish_Grand_Prix> ;
+	dbo:podiums	"9"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"78"^^xsd:nonNegativeInteger ;
+	dbo:wins	"1"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Minardi ,
+		dbr:Benetton_Formula ;
+	dbp:nationality	"Italian"^^xsd:string .
+dbr:Sandro	dbo:wikiPageDisambiguates	dbr:Alessandro_Nannini .
+dbr:Minardi_M187__3	dbo:firstDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1988_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1990_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1996_ITC_Silverstone_round>	dbp:fastDriverR	dbr:Alessandro_Nannini .
+dbr:Nannini	dbo:wikiPageDisambiguates	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1988_German_Grand_Prix>	dbo:fastestDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1990_German_Grand_Prix>	dbo:secondDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1989_Australian_Grand_Prix>	dbo:secondDriver	dbr:Alessandro_Nannini .
+<http://dbpedia.org/resource/1996_ITC_Estoril_round>	dbp:fastDriverR	dbr:Alessandro_Nannini ;
+	dbp:firstDriverR	dbr:Alessandro_Nannini ;
+	dbp:poleDriver	dbr:Alessandro_Nannini .

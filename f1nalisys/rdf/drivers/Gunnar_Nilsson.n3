@@ -1,0 +1,155 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Gunnar_Nilsson	rdf:type	wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Gunnar_Nilsson	rdf:type	yago:CausalAgent100007347 ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Gunnar_Nilsson	rdf:type	dbo:Person ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q378622 ,
+		dbo:Athlete ,
+		yago:WikicatSwedishFormulaOneDrivers ,
+		dbo:RacingDriver ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		dbo:Agent .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Gunnar_Nilsson	rdf:type	foaf:Person ,
+		yago:Driver110034906 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Gunnar_Nilsson	rdf:type	ns6:NaturalPerson ,
+		yago:Operator110378412 ,
+		dbo:MotorsportRacer ,
+		ns6:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Gunnar_Nilsson	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Gunnar_Nilsson	rdf:type	schema:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Gunnar_Nilsson	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Gunnar_Nilsson	rdfs:label	"Gunnar Nilsson (Rennfahrer)"@de ,
+		"Gunnar Nilsson"@es ,
+		"Gunnar Nilsson (pilote automobile)"@fr ,
+		"Gunnar Nilsson"@en ,
+		"\u041D\u0438\u043B\u044C\u0441\u0441\u043E\u043D, \u0413\u0443\u043D\u043D\u0430\u0440"@ru ,
+		"Gunnar Nilsson (kierowca)"@pl ,
+		"Gunnar Nilsson"@nl ,
+		"\u30B0\u30F3\u30CA\u30FC\u30FB\u30CB\u30EB\u30BD\u30F3"@ja ,
+		"Gunnar Nilsson"@pt ,
+		"Gunnar Nilsson"@it ;
+	rdfs:comment	"Gunnar Nilsson fue un piloto automovilista sueco que naci\u00F3 en Helsingborg el 20 de noviembre de 1948 y muri\u00F3 en Hammersmith el viernes 20 de octubre de 1978, v\u00EDctima de un cruel c\u00E1ncer. Nilsson se sinti\u00F3 atra\u00EDdo por el automovilismo desde la infancia y, en cuanto pudo, en lugar de los rallies tan t\u00EDpicos de su pa\u00EDs eligi\u00F3 la velocidad pura en circuito (como Reine Wisell o su inmediato antecesor y gu\u00EDa Ronnie Peterson, 1944-1978), aunque no podr\u00EDa empezar a competir hasta 1972, a los 23 a\u00F1os. Sin embargo, recuperando el tiempo perdido, en 1975 gan\u00F3 un campeonato brit\u00E1nico de f\u00F3rmula III."@es ,
+		"Gunnar Axel Arvid Nilsson (* 20. November 1948 in Helsingborg; \u2020 20. Oktober 1978 in London) war ein schwedischer Formel-1-Fahrer."@de ,
+		"Gunnar Nilsson (n\u00E9 le 20 novembre 1948 \u00E0 Helsingborg, Su\u00E8de \u2014 mort le 20 octobre 1978 \u00E0 Londres) est un pilote automobile su\u00E9dois, qui a disput\u00E9 31 Grand Prix de Formule 1."@fr ,
+		"Gunnar Nilsson (Helsingborg, 20 november 1948 - Londen, 20 oktober 1978) was een Zweeds Formule 1-coureur. In 1975 won hij het Britse Formule 3-kampioenschap. Hij nam in 1976 en 1977 deel aan 32 Grands Prix voor het team Lotus en scoorde hierin 1 overwinning (de Grand Prix in Belgi\u00EB in 1977), 1 snelste ronde, 4 podia en 31 punten. Hij overleed aan zaadbalkanker."@nl ,
+		"Gunnar Nilsson (ur. 20 listopada 1948 w Helsingborgu, zm. 20 pa\u017Adziernika 1978 w Londynie) \u2013 szwedzki kierowca wy\u015Bcigowy; w 1975 zdoby\u0142 tytu\u0142 mistrza Formu\u0142y 3; w latach 1976 \u2013 1977 w Formule 1. Nilsson wystartowa\u0142 w 32 wy\u015Bcigach Formu\u0142y 1. Nie zdarzy\u0142o si\u0119, by nie zakwalifikowa\u0142 si\u0119 do wy\u015Bcigu. Je\u017Adzi\u0142 dla Lotusa, dla kt\u00F3rego wygra\u0142 Grand Prix Belgii w 1977. Na sezon 1978 mia\u0142 podpisany konntrakt z Arrows, jednak nigdy nie by\u0142 ju\u017C w stanie wystartowa\u0107 w wy\u015Bcigu."@pl ,
+		"\u30B0\u30F3\u30CA\u30FC\u30FB\u30CB\u30EB\u30BD\u30F3\uFF08Gunner Nilsson, 1948\u5E7411\u670829\u65E5 - 1978\u5E7410\u670820\u65E5\uFF09\u306F\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30B9\u30B3\u30FC\u30CD\u770C\u30D8\u30EB\u30B7\u30F3\u30DC\u30EA\u51FA\u8EAB\u3002"@ja ,
+		"Gunnar Nilsson (Helsingborg, 30 de novembro de 1948 \u2014 Londres, 20 de outubro de 1978) foi um piloto de autom\u00F3veis sueco. Ele estreou na F\u00F3rmula 1 em 1976 na segunda corrida, o GP da \u00C1frica do Sul, substituindo o compatriota Ronnie Peterson na Lotus, que se desentendeu ap\u00F3s o GP do Brasil em Interlagos com Colin Chapman. Em t\u00E3o pouco tempo adapta-se rapidamente ao carro. Na terceira corrida, o GP da Espanha, em Jarama, termina em 3\u00BA lugar, obtendo o primeiro podium na carreira. Obteve ainda mais um 3\u00BA, desta vez no GP da \u00C1ustria, em \u00D6sterreichring. Termina o campeonato em 10\u00BA lugar com 11 pontos."@pt ,
+		"Gunnar Nilsson (20 November 1948 \u2013 20 October 1978) was a Swedish racing driver, born in Helsingborg. Before entering Formula One, he won the 1975 British Formula 3 Championship. Nilsson entered 32 Formula One Grand Prix races, qualifying for all of them. He won once, the 1977 Belgian Grand Prix at Zolder while driving for Team Lotus. After losing his Lotus seat, he signed for Arrows, but was later diagnosed with testicular cancer which meant he couldn't drive the car, however he did compete in three International Race of Champions (IROC) races in 1977. He had two sixth-place finishes and a fifth-place finish."@en ,
+		"\u0413\u0443\u043D\u043D\u0430\u0440 \u041D\u0438\u043B\u044C\u0441\u0441\u043E\u043D (\u0448\u0432\u0435\u0434. Gunnar Nilsson; 20 \u043D\u043E\u044F\u0431\u0440\u044F 1948, \u0425\u0435\u043B\u044C\u0441\u0438\u043D\u0433\u0431\u043E\u0440\u0433 \u2014 20 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1978, \u0425\u0430\u043C\u043C\u0435\u0440\u0441\u043C\u0438\u0442, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0431\u044B\u0432\u0448\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0412 1975 \u0433\u043E\u0434\u0443 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 \u0438 \u043D\u0430 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439 \u0441\u0435\u0437\u043E\u043D \u0431\u044B\u043B \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0451\u043D \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u00AB\u041B\u043E\u0442\u0443\u0441\u00BB \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1. \u041E\u043D \u043F\u043E\u0431\u0435\u0434\u0438\u043B \u043D\u0430 \u00AB\u0434\u043E\u0436\u0434\u0435\u0432\u043E\u043C\u00BB \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 \u0432 1977 \u0433\u043E\u0434\u0443, \u043D\u043E \u0432 \u0445\u043E\u0434\u0435 \u0441\u0435\u0437\u043E\u043D\u0430 \u0431\u044B\u043B \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u043D\u0435\u0441\u0442\u0430\u0431\u0438\u043B\u0435\u043D. \u041D\u0438\u043A\u0442\u043E \u043D\u0435 \u0437\u043D\u0430\u043B \u0442\u043E\u0433\u0434\u0430, \u0447\u0442\u043E \u0413\u0443\u043D\u043D\u0430\u0440 \u0431\u043E\u043B\u0435\u043D \u0440\u0430\u043A\u043E\u043C. \u0425\u043E\u0442\u044F \u0432 1978 \u0433\u043E\u0434\u0443 \u043E\u043D \u0438 \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u043D\u043E\u0432\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u00AB\u042D\u0440\u0440\u043E\u0443\u0437\u00BB, \u043D\u043E \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435 \u0437\u0434\u043E\u0440\u043E\u0432\u044C\u044F \u0443\u0436\u0435 \u043D\u0435 \u043F\u043E\u0437\u0432\u043E\u043B\u044F\u043B\u043E \u0435\u043C\u0443 \u043F\u0438\u043B\u043E\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u043C\u0430\u0448\u0438\u043D\u0443. \u041E\u0441\u0435\u043D\u044C\u044E \u0442\u043E\u0433\u043E \u0436\u0435 \u0433\u043E\u0434\u0430 \u043E\u043D \u0443\u043C\u0435\u0440."@ru .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Gunnar_Nilsson	dbp:points	31 ;
+	owl:sameAs	<http://fr.dbpedia.org/resource/Gunnar_Nilsson_(pilote_automobile)> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Gunnar_Nilsson	owl:sameAs	dbpedia-cs:Gunnar_Nilsson ,
+		<http://viaf.org/viaf/75133222> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Gunnar_Nilsson	owl:sameAs	dbpedia-nl:Gunnar_Nilsson .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Gunnar_Nilsson	owl:sameAs	yago-res:Gunnar_Nilsson ,
+		<http://rdf.freebase.com/ns/m.04hwhq> ,
+		<http://pl.dbpedia.org/resource/Gunnar_Nilsson_(kierowca)> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Gunnar_Nilsson	owl:sameAs	dbpedia-pt:Gunnar_Nilsson .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Gunnar_Nilsson	owl:sameAs	dbpedia-it:Gunnar_Nilsson ,
+		<http://de.dbpedia.org/resource/Gunnar_Nilsson_(Rennfahrer)> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Gunnar_Nilsson	owl:sameAs	dbpedia-wikidata:Q171445 ,
+		dbr:Gunnar_Nilsson ,
+		wikidata:Q171445 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Gunnar_Nilsson	owl:sameAs	dbpedia-es:Gunnar_Nilsson ,
+		<http://ja.dbpedia.org/resource/\u30B0\u30F3\u30CA\u30FC\u30FB\u30CB\u30EB\u30BD\u30F3> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Gunnar_Nilsson	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:Swedish_Formula_One_drivers ,
+		dbc:Sportspeople_from_Helsingborg ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:Swedish_racing_drivers ,
+		dbc:Deaths_from_testicular_cancer ,
+		<http://dbpedia.org/resource/Category:1978_deaths> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1948_births> ,
+		dbc:Deaths_from_cancer_in_England ,
+		dbc:Team_Lotus_Formula_One_drivers ;
+	foaf:name	"Gunnar Nilsson"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/1976-07-10_Gunnar_Nilsson_im_BMW_CSL.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Gunnar"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Gunnar_Nilsson	foaf:isPrimaryTopicOf	wikipedia-en:Gunnar_Nilsson ;
+	foaf:surname	"Nilsson"@en ;
+	dbp:title	"British Formula 3 ChampionshipBARC Series Champion"^^xsd:string ;
+	dbp:years	1975 ,
+		"\u2013"^^xsd:string ;
+	dbo:nationality	dbr:Sweden .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Gunnar_Nilsson	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gunnar_Nilsson?oldid=740631053> ;
+	dbp:before	dbr:Brian_Henton ;
+	dbp:after	dbr:Rupert_Keegan ;
+	dbo:firstWin	<http://dbpedia.org/resource/1977_Belgian_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1977_Belgian_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Gunnar_Nilsson	dbp:birthDate	"1948-11-20"^^xsd:date ;
+	dbp:deathDate	"1978-10-20"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.cancerstiftelsen.com/> ,
+		<http://thespeedblog.com/racers-past-gunnar-nilsson-1948-1978/> ;
+	dbp:caption	"Nilsson in 1976"^^xsd:string ;
+	dbo:abstract	"Gunnar Nilsson (20 November 1948 \u2013 20 October 1978) was a Swedish racing driver, born in Helsingborg. Before entering Formula One, he won the 1975 British Formula 3 Championship. Nilsson entered 32 Formula One Grand Prix races, qualifying for all of them. He won once, the 1977 Belgian Grand Prix at Zolder while driving for Team Lotus. After losing his Lotus seat, he signed for Arrows, but was later diagnosed with testicular cancer which meant he couldn't drive the car, however he did compete in three International Race of Champions (IROC) races in 1977. He had two sixth-place finishes and a fifth-place finish. As soon as the cancer was determined to be terminal, he created the Gunnar Nilsson Cancer Foundation. He died in October 1978. Gunnar Nilsson is buried in P\u00E5lsj\u00F6 cemetery in Helsingborg, Sweden, close to his parents Arvid and Elisabeth Nilsson."@en ,
+		"Gunnar Nilsson (Helsingborg, 20 november 1948 - Londen, 20 oktober 1978) was een Zweeds Formule 1-coureur. In 1975 won hij het Britse Formule 3-kampioenschap. Hij nam in 1976 en 1977 deel aan 32 Grands Prix voor het team Lotus en scoorde hierin 1 overwinning (de Grand Prix in Belgi\u00EB in 1977), 1 snelste ronde, 4 podia en 31 punten. Hij overleed aan zaadbalkanker."@nl ,
+		"\u0413\u0443\u043D\u043D\u0430\u0440 \u041D\u0438\u043B\u044C\u0441\u0441\u043E\u043D (\u0448\u0432\u0435\u0434. Gunnar Nilsson; 20 \u043D\u043E\u044F\u0431\u0440\u044F 1948, \u0425\u0435\u043B\u044C\u0441\u0438\u043D\u0433\u0431\u043E\u0440\u0433 \u2014 20 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1978, \u0425\u0430\u043C\u043C\u0435\u0440\u0441\u043C\u0438\u0442, \u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0431\u044B\u0432\u0448\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0412 1975 \u0433\u043E\u0434\u0443 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-3 \u0438 \u043D\u0430 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439 \u0441\u0435\u0437\u043E\u043D \u0431\u044B\u043B \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0451\u043D \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u00AB\u041B\u043E\u0442\u0443\u0441\u00BB \u0434\u043B\u044F \u0433\u043E\u043D\u043E\u043A \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1. \u041E\u043D \u043F\u043E\u0431\u0435\u0434\u0438\u043B \u043D\u0430 \u00AB\u0434\u043E\u0436\u0434\u0435\u0432\u043E\u043C\u00BB \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0411\u0435\u043B\u044C\u0433\u0438\u0438 \u0432 1977 \u0433\u043E\u0434\u0443, \u043D\u043E \u0432 \u0445\u043E\u0434\u0435 \u0441\u0435\u0437\u043E\u043D\u0430 \u0431\u044B\u043B \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u043D\u0435\u0441\u0442\u0430\u0431\u0438\u043B\u0435\u043D. \u041D\u0438\u043A\u0442\u043E \u043D\u0435 \u0437\u043D\u0430\u043B \u0442\u043E\u0433\u0434\u0430, \u0447\u0442\u043E \u0413\u0443\u043D\u043D\u0430\u0440 \u0431\u043E\u043B\u0435\u043D \u0440\u0430\u043A\u043E\u043C. \u0425\u043E\u0442\u044F \u0432 1978 \u0433\u043E\u0434\u0443 \u043E\u043D \u0438 \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u043D\u043E\u0432\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u00AB\u042D\u0440\u0440\u043E\u0443\u0437\u00BB, \u043D\u043E \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435 \u0437\u0434\u043E\u0440\u043E\u0432\u044C\u044F \u0443\u0436\u0435 \u043D\u0435 \u043F\u043E\u0437\u0432\u043E\u043B\u044F\u043B\u043E \u0435\u043C\u0443 \u043F\u0438\u043B\u043E\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u043C\u0430\u0448\u0438\u043D\u0443. \u041E\u0441\u0435\u043D\u044C\u044E \u0442\u043E\u0433\u043E \u0436\u0435 \u0433\u043E\u0434\u0430 \u043E\u043D \u0443\u043C\u0435\u0440. \u041F\u0440\u043E\u0432\u0451\u043B 31 \u044D\u0442\u0430\u043F \u0413\u0440\u0430\u043D-\u043F\u0440\u0438, \u0432 1977 \u0433\u043E\u0434\u0443 \u0437\u0430\u043D\u044F\u043B \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0432\u043E\u0441\u044C\u043C\u043E\u0435 \u043C\u0435\u0441\u0442\u043E."@ru ,
+		"Gunnar Nilsson (ur. 20 listopada 1948 w Helsingborgu, zm. 20 pa\u017Adziernika 1978 w Londynie) \u2013 szwedzki kierowca wy\u015Bcigowy; w 1975 zdoby\u0142 tytu\u0142 mistrza Formu\u0142y 3; w latach 1976 \u2013 1977 w Formule 1. Nilsson wystartowa\u0142 w 32 wy\u015Bcigach Formu\u0142y 1. Nie zdarzy\u0142o si\u0119, by nie zakwalifikowa\u0142 si\u0119 do wy\u015Bcigu. Je\u017Adzi\u0142 dla Lotusa, dla kt\u00F3rego wygra\u0142 Grand Prix Belgii w 1977. Na sezon 1978 mia\u0142 podpisany konntrakt z Arrows, jednak nigdy nie by\u0142 ju\u017C w stanie wystartowa\u0107 w wy\u015Bcigu. Zmar\u0142 na raka j\u0105der zaledwie miesi\u0105c po tym, jak zgin\u0105\u0142 inny szwedzki kierowca \u2013 Ronnie Peterson. Jego matka po \u015Bmierci za\u0142o\u017Cy\u0142a fundacj\u0119 imienia swego syna, kt\u00F3ra walczy z rakiem."@pl ,
+		"\u30B0\u30F3\u30CA\u30FC\u30FB\u30CB\u30EB\u30BD\u30F3\uFF08Gunner Nilsson, 1948\u5E7411\u670829\u65E5 - 1978\u5E7410\u670820\u65E5\uFF09\u306F\u30B9\u30A6\u30A7\u30FC\u30C7\u30F3\u306EF1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30B9\u30B3\u30FC\u30CD\u770C\u30D8\u30EB\u30B7\u30F3\u30DC\u30EA\u51FA\u8EAB\u3002"@ja ,
+		"Gunnar Nilsson (n\u00E9 le 20 novembre 1948 \u00E0 Helsingborg, Su\u00E8de \u2014 mort le 20 octobre 1978 \u00E0 Londres) est un pilote automobile su\u00E9dois, qui a disput\u00E9 31 Grand Prix de Formule 1."@fr ,
+		"Gunnar Nilsson (Helsingborg, 30 de novembro de 1948 \u2014 Londres, 20 de outubro de 1978) foi um piloto de autom\u00F3veis sueco. Ele estreou na F\u00F3rmula 1 em 1976 na segunda corrida, o GP da \u00C1frica do Sul, substituindo o compatriota Ronnie Peterson na Lotus, que se desentendeu ap\u00F3s o GP do Brasil em Interlagos com Colin Chapman. Em t\u00E3o pouco tempo adapta-se rapidamente ao carro. Na terceira corrida, o GP da Espanha, em Jarama, termina em 3\u00BA lugar, obtendo o primeiro podium na carreira. Obteve ainda mais um 3\u00BA, desta vez no GP da \u00C1ustria, em \u00D6sterreichring. Termina o campeonato em 10\u00BA lugar com 11 pontos. Em 1977, como segundo piloto, Nilsson obt\u00E9m a primeira e \u00FAnica vit\u00F3ria na carreria. Ela aconteceu na encharcada pista de Zolder, na B\u00E9lgica. Fez ainda a volta mais r\u00E1pida dessa corrida. O piloto sueco consegue o \u00FAltimo podium na carreira, ficando atr\u00E1s de Niki Lauda da Ferrari e James Hunt da McLaren, o vencedor no GP da Gr\u00E3-Bretanha, em Silverstone. Mas \u00E0 medida que o fim da temporada se aproximava, Nilsson ficava cada vez mais doente, com constantes dores de cabe\u00E7a. Esperou at\u00E9 ao final da temporada para consultar um m\u00E9dico, e entretanto, tinha assinado por uma nova equipe: a Arrows. Finalizou o campeonato em 8\u00BA lugar com 20 pontos, a melhor coloca\u00E7\u00E3o na carreira. Depois de v\u00E1rios exames, os m\u00E9dicos disseram que a sua dor de cabe\u00E7a era afinal, um c\u00E2ncer testicular, comum entre homens jovens. Mas na altura, era um cancro mortal, e no caso dele, as suas hip\u00F3teses de sobreviv\u00EAncia n\u00E3o eram muitas. Sendo assim, decidiu tirar uma pausa na carreira, para tratar da doen\u00E7a. Enquanto estava no Hospital Chaning Cross, em Londres, um dos melhores do mundo na \u00E1rea da Oncologia, Nilsson reparava no sofrimento das crian\u00E7as ao serem submetidas aos v\u00E1rios tratamentos, como a quimioterapia e a radioterapia. Tal como eles, Nilsson perdeu o seu cabelo, mas recusava os sedativos, achando que seriam melhor aplicados nas crian\u00E7as. Nessa altura, tinha o apoio e a solidariedade dos seus colegas pilotos, que o homenageavam sempre que o podiam. Em Zolder, Mario Andretti dedicou a sua vit\u00F3ria ao ex-companheiro, e outro dos seus amigos no \u201Cpaddock\u201D era Ronnie Peterson, que o tinha substitu\u00EDdo na equipe. Contudo, os acontecimentos em Monza, no m\u00EAs de setembro, precipitaram o seu fim. Ronnie Peterson estava morto, e foi um Nilsson fraco e inconsol\u00E1vel, que fez quest\u00E3o de acompanhar o seu funeral em \u00D6rebro, a sua cidade natal. Regressou a Londres para morrer, a 20 de outubro de 1978, um m\u00EAs antes de fazer 30 anos. Um ano depois da sua morte, a sua m\u00E3e Elisabetha lan\u00E7ou o \"Gunnar Nilsson Cancer Foundation\", que se dedica \u00E0 investiga\u00E7\u00E3o e tratamento do c\u00E2ncer. Quando a sua m\u00E3e morreu, alguns anos mais tarde, toda a sua fortuna reverteu-se para esta funda\u00E7\u00E3o, que se tornou numa das poderosas do seu pa\u00EDs. Hoje em dia, gra\u00E7as ao trabalho cientifico, o c\u00E2ncer testicular tem cura em mais de 90 por cento de casos, contra os cerca de 10 por cento h\u00E1 30 anos."@pt ,
+		"Gunnar Axel Arvid Nilsson (* 20. November 1948 in Helsingborg; \u2020 20. Oktober 1978 in London) war ein schwedischer Formel-1-Fahrer."@de ,
+		"Gunnar Nilsson fue un piloto automovilista sueco que naci\u00F3 en Helsingborg el 20 de noviembre de 1948 y muri\u00F3 en Hammersmith el viernes 20 de octubre de 1978, v\u00EDctima de un cruel c\u00E1ncer. Nilsson se sinti\u00F3 atra\u00EDdo por el automovilismo desde la infancia y, en cuanto pudo, en lugar de los rallies tan t\u00EDpicos de su pa\u00EDs eligi\u00F3 la velocidad pura en circuito (como Reine Wisell o su inmediato antecesor y gu\u00EDa Ronnie Peterson, 1944-1978), aunque no podr\u00EDa empezar a competir hasta 1972, a los 23 a\u00F1os. Sin embargo, recuperando el tiempo perdido, en 1975 gan\u00F3 un campeonato brit\u00E1nico de f\u00F3rmula III. La puerta de la f\u00F3rmula I estaba abierta y en 1976 corri\u00F3 para el John Player Team Lotus con un JPS12/Lotus 77-Ford Cosworth, logrando dos meritorias plazas de podio (3 en Espa\u00F1a, 3\u00BA en Austria). Gan\u00F3 tambi\u00E9n un h\u00FAmedo Grand Prix de B\u00E9lgica 1977, batiendo a Niki Lauda y a Peterson, pero, a partir de entonces, su conducci\u00F3n perdi\u00F3 garra; la insidiosa enfermedad hab\u00EDa comenzado a atenazarle. Al detectar sus cefaleas, su compa\u00F1ero de equipo en Lotus Mario Andretti le aconsej\u00F3 una urgente revisi\u00F3n m\u00E9dica, aunque ya era tarde. Sin resignarse a un final sin esperanza, Nilsson fich\u00F3 para 1978 con Arrows, pero no pudo llegar a tomar el volante en carrera. No pudo aumentar en su hoja de servicios el n\u00FAmero de Grands Prix disputados, que se qued\u00F3 en 31; ni el de puntos obtenidos, tambi\u00E9n 31, porque cay\u00F3 en coma en octubre y muri\u00F3 un mes antes de cumplir los 30 a\u00F1os. Ronnie Peterson le hab\u00EDa aventajado en 39 d\u00EDas en cruzar la meta final. Nilsson hab\u00EDa querido contribuir a portar el ata\u00FAd de su antiguo h\u00E9roe, pero su estado ya no se lo permit\u00EDa y, cari\u00F1osamente, James Hunt y Fittipaldi tuvieron que disuadirle. En los \u00FAltimos meses, Nilsson hab\u00EDa perdido 30 Kg de peso y todo el pelo, a causa del tratamiento de quimioterapia, pero conserv\u00F3 el \u00E1nimo, trabaj\u00F3 personalmente en una fundaci\u00F3n contra el c\u00E1ncer (para la que recaud\u00F3 cerca de un mill\u00F3n de d\u00F3lares) y anunci\u00F3 que se reintegrar\u00EDa al Gran Circo de la f\u00F3rmula 1 en 1979. En sus postreros d\u00EDas se neg\u00F3 a ser drogado y afront\u00F3 el final con completa lucidez."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/1976-07-10_Gunnar_Nilsson_im_BMW_CSL.jpg?width=300> ;
+	dbo:birthDate	"1948-11-20"^^xsd:date ;
+	dbo:deathDate	"1978-10-20"^^xsd:date ;
+	dbo:deathPlace	dbr:London ;
+	dbo:wikiPageRevisionID	740631053 ;
+	dbo:birthPlace	dbr:Helsingborg ;
+	dbo:wikiPageID	1213859 .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Gunnar_Nilsson	ns24:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"1"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1976_South_African_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1977_Japanese_Grand_Prix> ;
+	dbo:podiums	"4"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"32"^^xsd:nonNegativeInteger ;
+	dbo:wins	"1"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Team_Lotus .
+<http://dbpedia.org/resource/1977_British_Grand_Prix>	dbo:thirdDriver	dbr:Gunnar_Nilsson .
+<http://dbpedia.org/resource/1977_Belgian_Grand_Prix>	dbo:fastestDriver	dbr:Gunnar_Nilsson ;
+	dbo:firstDriver	dbr:Gunnar_Nilsson .
+dbr:Rupert_Keegan	dbp:before	dbr:Gunnar_Nilsson .
+wikipedia-en:Gunnar_Nilsson	foaf:primaryTopic	dbr:Gunnar_Nilsson .
+dbr:Gunnar	dbo:wikiPageDisambiguates	dbr:Gunnar_Nilsson .
+dbr:Nilsson	dbo:wikiPageDisambiguates	dbr:Gunnar_Nilsson .
+<http://dbpedia.org/resource/1976_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Gunnar_Nilsson .
+dbr:Brian_Henton	dbp:after	dbr:Gunnar_Nilsson .
+<http://dbpedia.org/resource/1976_Austrian_Grand_Prix>	dbo:thirdDriver	dbr:Gunnar_Nilsson .
+<http://dbpedia.org/resource/Gunnar_Nilsson_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Gunnar_Nilsson .

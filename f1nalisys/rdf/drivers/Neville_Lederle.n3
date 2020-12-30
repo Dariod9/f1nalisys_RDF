@@ -1,0 +1,113 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Neville_Lederle	rdf:type	yago:WikicatSouthAfricanFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Neville_Lederle	rdf:type	dbo:Person ,
+		dbo:MotorsportRacer ,
+		yago:CausalAgent100007347 ,
+		dbo:Athlete .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Neville_Lederle	rdf:type	foaf:Person ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		dbo:RacingDriver ,
+		yago:PhysicalEntity100001930 .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Neville_Lederle	rdf:type	ns5:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Neville_Lederle	rdf:type	wikidata:Q378622 ,
+		ns5:NaturalPerson .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Neville_Lederle	rdf:type	owl:Thing ,
+		yago:WikicatScuderiaScribanteFormulaOneDrivers ,
+		dbo:Agent ,
+		wikidata:Q5 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Neville_Lederle	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:Operator110378412 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Neville_Lederle	rdf:type	schema:Person ,
+		dbo:FormulaOneRacer ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Neville_Lederle	rdfs:label	"Neville Lederle"@en ,
+		"Neville Lederle"@de ,
+		"Neville Lederle"@pt ,
+		"Neville Lederle"@it ,
+		"Neville Lederle"@pl ,
+		"Neville Lederle"@nl ,
+		"Neville Lederle"@fr ;
+	rdfs:comment	"Neville Lederle, n\u00E9 le 25 septembre 1938 \u00E0 Theunissen, dans l'\u00C9tat libre d'Orange, est un pilote automobile d'Afrique du Sud. Il a particip\u00E9 \u00E0 deux saisons du championnat du monde de Formule 1 et marqu\u00E9 un seul point."@fr ,
+		"Neville Lederle (Theunissen, Winburg, \u00C1frica do Sul, 25 de setembro de 1938) foi um automobilista sul-africano que participou dos Grandes Pr\u00EAmios da \u00C1frica do Sul em 1962 e 1965."@pt ,
+		"Neville Lederle (* 25. September 1938 in Theunissen, Winburg, Oranje-Freistaat) ist ein ehemaliger s\u00FCdafrikanischer Autorennfahrer."@de ,
+		"Neville Lederle (born 25 September 1938 in Theunissen, Orange Free State) is a former racing driver from South Africa. He participated in two World Championship Formula One Grands Prix, scoring a single championship point."@en ,
+		"Neville Lederle (ur. 25 wrze\u015Bnia 1938 w Theunissen, Winburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"Neville Lederle (Theunissen, Winburg, Oranje Vrijstaat, 25 september 1938) is een voormalig Formule 1-coureur uit Zuid-Afrika. In 1962 en 1965 nam hij deel aan 2 Grands Prix voor het team Lotus en scoorde hierin 1 punt."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Neville_Lederle	dbp:points	1 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Neville_Lederle	owl:sameAs	dbpedia-nl:Neville_Lederle .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Neville_Lederle	owl:sameAs	dbpedia-fr:Neville_Lederle ,
+		wikidata:Q172279 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Neville_Lederle	owl:sameAs	dbpedia-de:Neville_Lederle .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Neville_Lederle	owl:sameAs	dbpedia-wikidata:Q172279 ,
+		<http://rdf.freebase.com/ns/m.04kyxf> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Neville_Lederle	owl:sameAs	dbpedia-pt:Neville_Lederle .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Neville_Lederle	owl:sameAs	yago-res:Neville_Lederle ,
+		dbr:Neville_Lederle .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Neville_Lederle	owl:sameAs	dbpedia-pl:Neville_Lederle .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Neville_Lederle	owl:sameAs	dbpedia-it:Neville_Lederle .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Neville_Lederle	dct:subject	dbc:Living_people ,
+		dbc:South_African_Formula_One_drivers ,
+		dbc:People_from_Lejweleputswa_District_Municipality ,
+		dbc:Scuderia_Scribante_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1938_births> ,
+		dbc:South_African_racing_drivers ;
+	foaf:name	"Neville Lederle"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Neville"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Neville_Lederle	foaf:isPrimaryTopicOf	wikipedia-en:Neville_Lederle ;
+	foaf:surname	"Lederle"@en ;
+	dbp:years	","^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Neville_Lederle	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Neville_Lederle?oldid=737666577> ;
+	dbp:birthPlace	"Theunissen, Winburg, Orange Free State, South Africa"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Neville_Lederle	dbp:birthDate	"1938-09-25"^^xsd:date ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20070428182548/http:/www.f1rejects.com/interviews/lederle/index.html> ;
+	dbo:abstract	"Neville Lederle (* 25. September 1938 in Theunissen, Winburg, Oranje-Freistaat) ist ein ehemaliger s\u00FCdafrikanischer Autorennfahrer."@de ,
+		"Neville Lederle (Theunissen, Winburg, \u00C1frica do Sul, 25 de setembro de 1938) foi um automobilista sul-africano que participou dos Grandes Pr\u00EAmios da \u00C1frica do Sul em 1962 e 1965."@pt ,
+		"Neville Lederle, n\u00E9 le 25 septembre 1938 \u00E0 Theunissen, dans l'\u00C9tat libre d'Orange, est un pilote automobile d'Afrique du Sud. Il a particip\u00E9 \u00E0 deux saisons du championnat du monde de Formule 1 et marqu\u00E9 un seul point."@fr ,
+		"Neville Lederle (born 25 September 1938 in Theunissen, Orange Free State) is a former racing driver from South Africa. He participated in two World Championship Formula One Grands Prix, scoring a single championship point. Starting out in Formula One with his Ford-engined Lotus 18 in 1961, he retired from the Rand Grand Prix and only managed 14th in the Cape Grand Prix in January 1962. Later that year, however, he acquired a Lotus 21 with a Climax engine and came fifth in the 1962 Rand Grand Prix and fourth in the Natal Grand Prix. This form led him to a sixth place in the World Championship South African Grand Prix and thus a World Championship point in his first event at that level. In 1963 Lederle broke a leg in practice for the Rand 9 Hours sports car race and missed a large part of the 1964 season whilst recovering. He returned with his Lotus 21 for the end-of-season 1964 Rand Grand Prix where he finished 10th, but he narrowly failed to qualify for January's 1965 South African Grand Prix. After this disappointment, Lederle effectively retired from racing to concentrate on business interests, which included a Volkswagen dealership."@en ,
+		"Neville Lederle (Theunissen, Winburg, Oranje Vrijstaat, 25 september 1938) is een voormalig Formule 1-coureur uit Zuid-Afrika. In 1962 en 1965 nam hij deel aan 2 Grands Prix voor het team Lotus en scoorde hierin 1 punt."@nl ,
+		"Neville Lederle (ur. 25 wrze\u015Bnia 1938 w Theunissen, Winburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ;
+	dbo:birthDate	"1938-9-25"^^xsd:date ;
+	dbo:wikiPageRevisionID	737666577 ;
+	dbo:birthPlace	dbr:Theunissen ;
+	dbo:wikiPageID	1235923 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Neville_Lederle	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1962_South_African_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1965_South_African_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"2"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Lotus"^^xsd:string ;
+	dbp:nationality	"South African"^^xsd:string .
+wikipedia-en:Neville_Lederle	foaf:primaryTopic	dbr:Neville_Lederle .

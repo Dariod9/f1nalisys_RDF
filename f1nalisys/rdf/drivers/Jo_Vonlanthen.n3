@@ -1,0 +1,117 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Jo_Vonlanthen	foaf:primaryTopic	dbr:Jo_Vonlanthen .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Vonlanthen	dbo:wikiPageDisambiguates	dbr:Jo_Vonlanthen .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Johan_Vonlanthen	owl:differentFrom	dbr:Jo_Vonlanthen .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jo_Vonlanthen	rdf:type	wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jo_Vonlanthen	rdf:type	yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		foaf:Person ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 ,
+		yago:Operator110378412 ,
+		wikidata:Q24229398 ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jo_Vonlanthen	rdf:type	umbel-rc:RaceCarDriver ,
+		owl:Thing .
+@prefix schema:	<http://schema.org/> .
+dbr:Jo_Vonlanthen	rdf:type	schema:Person ,
+		dbo:Athlete ,
+		yago:WikicatSwissFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q378622 ,
+		dbo:Person .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jo_Vonlanthen	rdf:type	ns10:Agent ,
+		yago:WikicatSwissFormulaThreeChampionshipDrivers ,
+		ns10:NaturalPerson ,
+		dbo:Agent ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jo_Vonlanthen	rdfs:label	"Jo Vonlanthen"@nl ,
+		"\u0412\u043E\u043D\u043B\u0430\u043D\u0442\u0435\u043D, \u0419\u043E"@ru ,
+		"Jo Vonlanthen"@pt ,
+		"Jo Vonlanthen"@de ,
+		"Jo Vonlanthen"@en ,
+		"Jo Vonlanthen"@pl ,
+		"Jo Vonlanthen"@it ;
+	rdfs:comment	"Joseph Vonlanthen (born 31 May 1942 in St. Ursen) is a former racing driver from Switzerland. He participated in one Formula One World Championship Grand Prix, on 17 August 1975, driving a Williams. He retired with engine failure, scoring no championship points. He subsequently returned to Formula 2 before disappearing from the sport's higher levels."@en ,
+		"Joseph Vonlanthen (Sankt Ursen, 31 mei 1942) is een Zwitsers autocoureur, die een keer startte in een Formule 1-race. Voordat Vonlanthen in de Formule 1 terechtkwam had hij onder andere het Zwitsers Formule 3-kampioenschap gewonnen in 1972. Na een periode in de Formule 2, reed hij in 1975 voor Ensign in een niet voor het wereldkampioenschap meetellende Formule 1-race. Nog datzelfde jaar stapte hij over naar Williams, toen nog geen topteam. Na de Zwitserse Grand Prix waar hij veertiende werd, en die ook niet meetelde voor het wereldkampioenschap, maakte Vonlanthen zijn werelkampioenschapsdebuut bij de Grand Prix van Oostenrijk. Eigenlijk had hij zich niet gekwalificeerd maar door een blessure van Wilson Fittipaldi kwam er een plek vrij. Hij viel uit met motorproblemen."@nl ,
+		"Joseph Vonlanthen (Sankt Ursen, 31 de Maio de 1942) \u00E9 um ex-automobilista su\u00ED\u00E7o."@pt ,
+		"\u0419\u043E\u0437\u0435\u0444 \u00AB\u0419\u043E\u00BB \u0412\u043E\u043D\u043B\u0430\u043D\u0442\u0435\u043D (\u043D\u0435\u043C. Joseph Vonlanthen, 31 \u043C\u0430\u044F 1942 \u0433\u043E\u0434\u0430, \u0421\u0435\u043D \u0423\u0440\u0441\u0435\u043D) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Joseph \u201EJo\u201C Vonlanthen (* 31. Mai 1942 in St. Ursen) ist ein ehemaliger Schweizer Automobilrennfahrer. Jo Vonlanthen war Autoh\u00E4ndler in Frauenfeld, als er 1968 privat begann Rennen zu fahren. Seine ersten Rennen fuhr er in der Formel Super Vau. 1972 gewann er mit einem Tecno die Schweizer Formel-3-Meisterschaft. 1973 wechselte er in die Formel-2-Europameisterschaft. Bestes Resultat war der dritte Platz beim Gro\u00DFen Preis von Rom in Vallelunga mit einem GRD-273-Ford. 1975 wurde er Zweiter beim Er\u00F6ffnungsrennen der Formel-2-EM-Saison in Estoril, mit einem March-742-BMW hinter dem Sieger Jacques Laffite."@de ,
+		"Joseph \"Jo\" Vonlanthen (ur. 31 maja 1942 roku w St. Ursen) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ;
+	owl:differentFrom	dbr:Johan_Vonlanthen .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jo_Vonlanthen	dbp:birthDate	"1942-05-31"^^xsd:date .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jo_Vonlanthen	owl:sameAs	dbpedia-it:Jo_Vonlanthen .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jo_Vonlanthen	owl:sameAs	dbpedia-pl:Jo_Vonlanthen ,
+		<http://rdf.freebase.com/ns/m.04kty2> ,
+		wikidata:Q115685 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Jo_Vonlanthen	owl:sameAs	dbpedia-cs:Jo_Vonlanthen .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jo_Vonlanthen	owl:sameAs	dbpedia-de:Jo_Vonlanthen .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jo_Vonlanthen	owl:sameAs	yago-res:Jo_Vonlanthen .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jo_Vonlanthen	owl:sameAs	dbpedia-nl:Jo_Vonlanthen .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jo_Vonlanthen	owl:sameAs	dbpedia-wikidata:Q115685 ,
+		dbr:Jo_Vonlanthen .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jo_Vonlanthen	owl:sameAs	dbpedia-pt:Jo_Vonlanthen .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jo_Vonlanthen	dct:subject	dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1942_births> ,
+		dbc:Swiss_Formula_One_drivers ,
+		dbc:Swiss_racing_drivers ,
+		dbc:People_from_the_canton_of_Fribourg ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:Swiss_Formula_Three_Championship_drivers ;
+	foaf:name	"Jo Vonlanthen"@en ;
+	dct:description	"Swiss racing driver"@en ;
+	foaf:givenName	"Joseph"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jo_Vonlanthen ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Frank_Williams_Racing_Cars .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jo_Vonlanthen	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jo_Vonlanthen?oldid=727577679> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-vonjo.html> ;
+	dbp:nationality	"Swiss"^^xsd:string ;
+	dbp:birthPlace	"St. Ursen, Switzerland"^^xsd:string ;
+	dbo:abstract	"Joseph \u201EJo\u201C Vonlanthen (* 31. Mai 1942 in St. Ursen) ist ein ehemaliger Schweizer Automobilrennfahrer. Jo Vonlanthen war Autoh\u00E4ndler in Frauenfeld, als er 1968 privat begann Rennen zu fahren. Seine ersten Rennen fuhr er in der Formel Super Vau. 1972 gewann er mit einem Tecno die Schweizer Formel-3-Meisterschaft. 1973 wechselte er in die Formel-2-Europameisterschaft. Bestes Resultat war der dritte Platz beim Gro\u00DFen Preis von Rom in Vallelunga mit einem GRD-273-Ford. 1975 wurde er Zweiter beim Er\u00F6ffnungsrennen der Formel-2-EM-Saison in Estoril, mit einem March-742-BMW hinter dem Sieger Jacques Laffite. Vonlanthen fuhr in seiner Karriere drei Rennen der Formel 1, wobei nur eines den Status als Weltmeisterschaftslauf hatte. 1975 fuhr er einen Werks\u2013Ensign bei der BRDC International Trophy in Silverstone. F\u00FCr Frank Williams Racing Cars bestritt er danach den ebenfalls nicht zur Weltmeisterschaft z\u00E4hlenden Gro\u00DFen Preis der Schweiz in Dijon. Obwohl er mit 9 Runden R\u00FCckstand nicht klassifiziert wurde, brachte ihm dieses Rennen ein Engagement f\u00FCr einen WM-Lauf. Beim Gro\u00DFen Preis von \u00D6sterreich kam er allerdings nur deswegen ins Rennen, weil Wilson Fittipaldi und Brian Henton nach Trainingsunf\u00E4llen ihre qualifizierten Fahrzeuge vom Start zur\u00FCckzogen. Vonlanthen ging mit seinem Williams-FW03-Ford-Cosworth vom letzten Startplatz aus ins Rennen und fiel in der 14. Runde mit einem Motorschaden aus. 1976 kehrte Vonlanthen in die Formel 2 zur\u00FCck, hatte dort erneut nicht den gew\u00FCnschten Erfolg und zog sich vom Rennsport zur\u00FCck."@de ,
+		"Joseph Vonlanthen (Sankt Ursen, 31 mei 1942) is een Zwitsers autocoureur, die een keer startte in een Formule 1-race. Voordat Vonlanthen in de Formule 1 terechtkwam had hij onder andere het Zwitsers Formule 3-kampioenschap gewonnen in 1972. Na een periode in de Formule 2, reed hij in 1975 voor Ensign in een niet voor het wereldkampioenschap meetellende Formule 1-race. Nog datzelfde jaar stapte hij over naar Williams, toen nog geen topteam. Na de Zwitserse Grand Prix waar hij veertiende werd, en die ook niet meetelde voor het wereldkampioenschap, maakte Vonlanthen zijn werelkampioenschapsdebuut bij de Grand Prix van Oostenrijk. Eigenlijk had hij zich niet gekwalificeerd maar door een blessure van Wilson Fittipaldi kwam er een plek vrij. Hij viel uit met motorproblemen. Hierna keerde Vonlanthen terug naar de Formule 2. Tegenwoordig rijdt Vonlanthen regelmatig mee met demo's tijdens historische evenementen, meestal met een GRD 273, waarmee hij in 1973 reed in het Formule 2-kampioenschap."@nl ,
+		"Joseph \"Jo\" Vonlanthen (ur. 31 maja 1942 roku w St. Ursen) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ,
+		"Joseph Vonlanthen (born 31 May 1942 in St. Ursen) is a former racing driver from Switzerland. He participated in one Formula One World Championship Grand Prix, on 17 August 1975, driving a Williams. He retired with engine failure, scoring no championship points. Vonlanthen started in Formula Vee, before progressing to Formula Three, where he won the Swiss Formula 3 Championship. He found things a little tougher in Formula Two, but managed to secure a seat with Ensign for a non-Championship Formula One race in 1975. He then drove twice for Frank Williams, firstly in the non-championship Swiss Grand Prix, where he finished 14th, then his one World Championship start in the 1975 Austrian Grand Prix. Vonlanthen can be considered lucky to have started this race, as he was only allowed to start when Wilson Fittipaldi suffered an injury in practice which prevented him from taking his place on the grid. He subsequently returned to Formula 2 before disappearing from the sport's higher levels."@en ,
+		"Joseph Vonlanthen (Sankt Ursen, 31 de Maio de 1942) \u00E9 um ex-automobilista su\u00ED\u00E7o."@pt ,
+		"\u0419\u043E\u0437\u0435\u0444 \u00AB\u0419\u043E\u00BB \u0412\u043E\u043D\u043B\u0430\u043D\u0442\u0435\u043D (\u043D\u0435\u043C. Joseph Vonlanthen, 31 \u043C\u0430\u044F 1942 \u0433\u043E\u0434\u0430, \u0421\u0435\u043D \u0423\u0440\u0441\u0435\u043D) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ;
+	dbo:birthDate	"1942-5-31"^^xsd:date ;
+	dbo:wikiPageRevisionID	727577679 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/St._Ursen> ;
+	dbo:wikiPageID	1234932 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1975_Austrian_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1975_Austrian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Jo_Vonlanthen	ns25:hypernym	dbr:Driver .

@@ -1,0 +1,114 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Bertil_Roos	foaf:primaryTopic	dbr:Bertil_Roos .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Bertil_Roos	rdf:type	wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Bertil_Roos	rdf:type	yago:Operator110378412 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Bertil_Roos	rdf:type	dbo:FormulaOneRacer ,
+		dbo:RacingDriver ,
+		wikidata:Q378622 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Agent ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		dbo:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Bertil_Roos	rdf:type	owl:Thing ,
+		yago:WikicatAtlanticChampionshipDrivers ,
+		yago:WikicatSwedishFormulaOneDrivers ,
+		foaf:Person .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Bertil_Roos	rdf:type	ns8:Agent ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Bertil_Roos	rdf:type	schema:Person ,
+		ns8:NaturalPerson .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Bertil_Roos	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatShadowFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Bertil_Roos	rdfs:label	"\u0420\u043E\u0441, \u0411\u0435\u0440\u0442\u0438\u043B\u044C"@ru ,
+		"Bertil Roos"@nl ,
+		"Bertil Roos"@de ,
+		"Bertil Roos"@pl ,
+		"Bertil Roos"@pt ,
+		"Bertil Roos"@it ,
+		"Bertil Roos"@en ;
+	rdfs:comment	"\u0411\u0435\u0440\u0442\u0438\u043B\u044C \u0420\u043E\u0441 (\u0448\u0432\u0435\u0434. Bertil Roos; 12 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1943, \u0413\u0451\u0442\u0435\u0431\u043E\u0440\u0433 \u2014 31 \u043C\u0430\u0440\u0442\u0430 2016) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Bertil Roos (* 12. Oktober 1943 in G\u00F6teborg, Schweden; \u2020 31. M\u00E4rz 2016 in Wilkes-Barre, Pennsylvania) war ein schwedischer Autorennfahrer, der unter anderem ein Rennen in der Formel 1 bestritt."@de ,
+		"Bertil Roos (ur. 12 pa\u017Adziernika 1943 roku w G\u00F6teborgu) \u2013 szwedzki kierowca Formu\u0142y 1."@pl ,
+		"Bertil Roos (October 12, 1943 \u2013 March 31, 2016) was a Swedish racing driver from Gothenburg. He participated in a single Formula One Grand Prix, his home race in 1974, from which he retired with transmission failure."@en ,
+		"Bertil Roos (G\u00F6teborg, 12 oktober 1943 - East Stroudsburg, 31 maart 2016) is een voormalig Formule 1-coureur uit Zweden. Hij nam deel aan zijn thuisrace in 1974 voor het team Shadow Racing Cars, maar scoorde hierin geen punten. Op 31 maart 2016 overleed Roos op 72-jarige leeftijd in het Pocono Medical Center. Hij was jarenlang eigenaar van een raceschool bij de Pocono Raceway."@nl ,
+		"Bertil Roos (Gotemburgo, Su\u00E9cia, 12 de outubro de 1943 - 31 de mar\u00E7o de 2016) foi um automobilista sueco que participou do Grande Pr\u00EAmio da Su\u00E9cia de F\u00F3rmula 1 em 1974. Roos morreu em 31 de mar\u00E7o de 2016, aos 72 anos."@pt .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Bertil_Roos	dbp:birthDate	"1943-10-12"^^xsd:date .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Bertil_Roos	owl:sameAs	dbpedia-wikidata:Q172531 ,
+		wikidata:Q172531 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Bertil_Roos	owl:sameAs	dbpedia-it:Bertil_Roos ,
+		dbr:Bertil_Roos .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Bertil_Roos	owl:sameAs	dbpedia-pl:Bertil_Roos ,
+		<http://rdf.freebase.com/ns/m.04k7gt> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Bertil_Roos	owl:sameAs	dbpedia-pt:Bertil_Roos .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Bertil_Roos	owl:sameAs	dbpedia-nl:Bertil_Roos .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Bertil_Roos	owl:sameAs	dbpedia-de:Bertil_Roos .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Bertil_Roos	owl:sameAs	yago-res:Bertil_Roos .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Bertil_Roos	dct:subject	dbc:Swedish_Formula_One_drivers ,
+		dbc:Swedish_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1943_births> ,
+		dbc:SCCA_Formula_Super_Vee_drivers ,
+		dbc:Shadow_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:2016_deaths> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Atlantic_Championship_drivers ;
+	foaf:name	"Bertil Roos"@en ;
+	dct:description	"Swedish racing driver"@en ;
+	foaf:givenName	"Bertil"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Bertil_Roos ;
+	foaf:surname	"Roos"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Shadow_Racing_Cars .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Bertil_Roos	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bertil_Roos?oldid=714786304> ;
+	dbo:wikiPageExternalLink	<http://www.bensing-thomasfuneralhome.com/obituaries/obituary-listings?obId=856543> ;
+	dbp:nationality	"Swedish"^^xsd:string ;
+	dbp:deathDate	"2016-03-31"^^xsd:date ;
+	dbo:abstract	"Bertil Roos (Gotemburgo, Su\u00E9cia, 12 de outubro de 1943 - 31 de mar\u00E7o de 2016) foi um automobilista sueco que participou do Grande Pr\u00EAmio da Su\u00E9cia de F\u00F3rmula 1 em 1974. Roos morreu em 31 de mar\u00E7o de 2016, aos 72 anos."@pt ,
+		"\u0411\u0435\u0440\u0442\u0438\u043B\u044C \u0420\u043E\u0441 (\u0448\u0432\u0435\u0434. Bertil Roos; 12 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1943, \u0413\u0451\u0442\u0435\u0431\u043E\u0440\u0433 \u2014 31 \u043C\u0430\u0440\u0442\u0430 2016) \u2014 \u0448\u0432\u0435\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Bertil Roos (G\u00F6teborg, 12 oktober 1943 - East Stroudsburg, 31 maart 2016) is een voormalig Formule 1-coureur uit Zweden. Hij nam deel aan zijn thuisrace in 1974 voor het team Shadow Racing Cars, maar scoorde hierin geen punten. Op 31 maart 2016 overleed Roos op 72-jarige leeftijd in het Pocono Medical Center. Hij was jarenlang eigenaar van een raceschool bij de Pocono Raceway."@nl ,
+		"Bertil Roos (ur. 12 pa\u017Adziernika 1943 roku w G\u00F6teborgu) \u2013 szwedzki kierowca Formu\u0142y 1."@pl ,
+		"Bertil Roos (* 12. Oktober 1943 in G\u00F6teborg, Schweden; \u2020 31. M\u00E4rz 2016 in Wilkes-Barre, Pennsylvania) war ein schwedischer Autorennfahrer, der unter anderem ein Rennen in der Formel 1 bestritt."@de ,
+		"Bertil Roos (October 12, 1943 \u2013 March 31, 2016) was a Swedish racing driver from Gothenburg. He participated in a single Formula One Grand Prix, his home race in 1974, from which he retired with transmission failure."@en ;
+	dbo:birthDate	"1943-10-12"^^xsd:date ;
+	dbo:deathDate	"2016-3-31"^^xsd:date ;
+	dbo:wikiPageRevisionID	714786304 ;
+	dbo:birthPlace	dbr:Gothenburg ;
+	dbo:wikiPageID	1228229 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1974_Swedish_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1974_Swedish_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Bertil_Roos	ns24:hypernym	dbr:Driver .

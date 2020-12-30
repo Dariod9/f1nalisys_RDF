@@ -1,0 +1,172 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2009_Monza_GP2_Series_round>	dbp:secondDriverR	dbr:Vitaly_Petrov ;
+	dbp:poleDriver	dbr:Vitaly_Petrov .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Vitaly_Petrov	foaf:primaryTopic	dbr:Vitaly_Petrov .
+<http://dbpedia.org/resource/2009_Monaco_GP2_Series_round>	dbp:fastDriverR	dbr:Vitaly_Petrov ;
+	dbp:secondDriverR	dbr:Vitaly_Petrov .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2011_Australian_Grand_Prix>	dbo:thirdDriver	dbr:Vitaly_Petrov .
+dbr:Vyborg_Rocket	dbo:wikiPageRedirects	dbr:Vitaly_Petrov .
+dbr:Vitaliy_Petrov	dbo:wikiPageRedirects	dbr:Vitaly_Petrov .
+dbr:Artline_Engineering__2005__1	dbo:firstDriver	dbr:Vitaly_Petrov .
+<http://dbpedia.org/resource/2009_Catalunya_GP2_Series_round>	dbp:secondDriverR	dbr:Vitaly_Petrov .
+<http://dbpedia.org/resource/2009_Valencia_Street_GP2_Series_round>	dbp:firstDriverR	dbr:Vitaly_Petrov ;
+	dbp:thirdDriverR	dbr:Vitaly_Petrov .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Vitaly_Petrov	rdf:type	dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Vitaly_Petrov	rdf:type	yago:WikicatGP2AsiaSeriesDrivers ,
+		dbo:Person ,
+		<http://dbpedia.org/class/yago/WikicatBritishFormulaRenault2.0Drivers> ,
+		yago:WikicatRussianFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:CausalAgent100007347 ,
+		yago:Operator110378412 ,
+		yago:WikicatInternationalGTOpenDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Vitaly_Petrov	rdf:type	wikidata:Q5 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Vitaly_Petrov	rdf:type	owl:Thing ,
+		yago:WikicatGP2SeriesDrivers ,
+		foaf:Person ,
+		yago:Driver110034906 ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		wikidata:Q24229398 ,
+		wikidata:Q215627 ,
+		<http://dbpedia.org/class/yago/WikicatEurocupFormulaRenault2.0Drivers> ,
+		yago:WikicatRenaultFormulaOneDrivers ,
+		dbo:RacingDriver .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Vitaly_Petrov	rdf:type	ns9:Agent ,
+		ns9:NaturalPerson ,
+		<http://dbpedia.org/class/yago/WikicatItalianFormulaRenault2.0Drivers> ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Vitaly_Petrov	rdf:type	schema:Person ,
+		yago:WikicatAutoGPWorldSeriesDrivers ,
+		yago:WikicatCaterhamFormulaOneDrivers ,
+		wikidata:Q378622 ,
+		yago:WikicatEuropeanLeMansSeriesDrivers ,
+		yago:WikicatInternationalFormulaMasterDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Vitaly_Petrov	rdfs:label	"Vitaly Petrov"@pt ,
+		"Vitali Petrov"@nl ,
+		"\u30F4\u30A3\u30BF\u30EA\u30FC\u30FB\u30DA\u30C8\u30ED\u30D5"@ja ,
+		"Vitali Petrov"@es ,
+		"\u7EF4\u5854\u5229\u00B7\u4F69\u7279\u7F57\u592B"@zh ,
+		"Vitaly Petrov"@fr ,
+		"Witalij Pietrow"@pl ,
+		"Witali Alexandrowitsch Petrow"@de ,
+		"\u041F\u0435\u0442\u0440\u043E\u0432, \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447"@ru ,
+		"Vitalij Aleksandrovi\u010D Petrov"@it ,
+		"Vitaly Petrov"@en ;
+	rdfs:comment	"\u7EF4\u5854\u5229\u00B7\u4F69\u7279\u7F57\u592B\uFF081984\u5E749\u67088\u65E5\uFF0D\u3001(\u4FC4\u8BED\uFF1A\u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u041F\u0435\u0442\u0440\u043E\u0432\u3001Vitaly Petrov\uFF09\u662F\u4FC4\u7F85\u65AF\u8CFD\u8ECA\u624B\uFF0C\u66FE\u7ECF\u5728\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u6548\u529B\u5361\u7279\u6F22\u59C6\u8ECA\u968A\u3002\u4ED6\u662F\u662F\u9996\u4F4D\u53C3\u52A0\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u7684\u4FC4\u7F85\u65AF\u8ECA\u624B\u3002"@zh ,
+		"Vitali Aleksandrovitsj Petrov  (Russisch: \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432) (Vyborg, 8 september 1984) is een Russisch coureur. Hij draagt de bijnaam Vyborg Rocket. Petrov was de eerste Russische coureur in de Formule 1. In 2010 en 2011 was Petrov coureur bij het Renault F1 Team. Hij werd hier na twee seizoenen ontslagen. Een maand voor de start van het Formule 1-seizoen van 2012 werd bekend dat hij Jarno Trulli mocht vervangen bij Caterham."@nl ,
+		"\u0412\u0438\u0442\u0430\u0301\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u0301\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0301\u0432 (\u0440\u043E\u0434\u0438\u043B\u0441\u044F 8 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1984 \u0433\u043E\u0434\u0430 \u0432 \u0412\u044B\u0431\u043E\u0440\u0433\u0435) \u2014 \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0418\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043F\u043E\u0434 \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435\u043C \u00AB\u0412\u044B\u0431\u043E\u0440\u0433\u0441\u043A\u0430\u044F \u0440\u0430\u043A\u0435\u0442\u0430\u00BB. \u0421 31 \u044F\u043D\u0432\u0430\u0440\u044F 2010 \u0433\u043E\u0434\u0430 \u043F\u043E 9 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2011 \u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0420\u0435\u043D\u043E\u00BB \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1. \u0421 17 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 2012 \u0433\u043E\u0434\u0430 \u043F\u043E 1 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 2013 \u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Caterham F1 Team. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u0435\u0440\u0432\u044B\u043C \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u043C \u043F\u0438\u043B\u043E\u0442\u043E\u043C, \u043A\u043E\u0433\u0434\u0430-\u043B\u0438\u0431\u043E \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0438\u043C \u0432 \u0440\u0430\u043C\u043A\u0430\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB \u0432 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0433\u043E \u043F\u0438\u043B\u043E\u0442\u0430. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u0435\u0440\u0432\u044B\u043C \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u043C \u043F\u0438\u043B\u043E\u0442\u043E\u043C, \u043E\u043A\u0430\u0437\u0430\u0432\u0448\u0438\u043C\u0441\u044F \u043D\u0430 \u043F\u043E\u0434\u0438\u0443\u043C\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B 1. \u0417\u0430\u0441\u043B\u0443\u0436\u0435\u043D\u043D\u044B\u0439 \u043C\u0430\u0441\u0442\u0435\u0440 \u0441\u043F\u043E\u0440\u0442\u0430 (2015). \u041C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u043E\u043C \u041F\u0435\u0442\u0440\u043E\u0432\u0430 \u0434\u043E \u0432\u0435\u0441\u043D\u044B 2013 \u0433\u043E\u0434\u0430 \u0431\u044B\u043B\u0430 \u041E\u043A\u0441\u0430\u043D\u0430 \u041A\u043E\u0441\u0430\u0447\u0435\u043D\u043A\u043E."@ru ,
+		"Vitaly Alexandrovich Petrov, n\u00E9 le 8 septembre 1984 \u00E0 Vyborg en Russie, est un pilote automobile russe. Il effectue en 2010 ses d\u00E9buts en Formule 1 au sein de l'\u00E9curie Renault, devenant le premier pilote russe \u00E0 \u00EAtre engag\u00E9 en Formule 1."@fr ,
+		"Vitaly Aleksandrovich Petrov (Russo: \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u041F\u0435\u0442\u0440\u043E\u0432) (Vyborg, 8 de setembro de 1984) \u00E9 um automobilista russo. \u00C9 mais conhecido como \"Vyborg Rocket\" na R\u00FAssia."@pt ,
+		"\u30F4\u30A3\u30BF\u30EA\u30FC\u30FB\u30A2\u30EC\u30AF\u30B5\u30F3\u30C9\u30ED\u30F4\u30A3\u30C1\u30FB\u30DA\u30C8\u30ED\u30D5\uFF08\u9732: \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432 \u82F1: Vitaly Aleksandrovich Petrov\u30011984\u5E749\u67088\u65E5 - \uFF09\u306F\u3001\u30ED\u30B7\u30A2\u30FB\u30EC\u30CB\u30F3\u30B0\u30E9\u30FC\u30C9\u5DDE\u30F4\u30A3\u30DC\u30EB\u30B0\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30ED\u30B7\u30A2\u3067\u300C\u30F4\u30A3\u30DC\u30EB\u30B0 \u30ED\u30B1\u30C3\u30C8(Vyborg Rocket)\u300D\u3068\u3044\u3046\u611B\u79F0\u3067\u77E5\u3089\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"Vitaly Aleksandrovich Petrov (Russian: \u0412\u0438\u0442\u0430\u0301\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u0301\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0301\u0432; IPA: [v\u02B2\u026A\u02C8tal\u02B2\u026A \u0250l\u02B2\u026Ak\u02C8sandr\u0259v\u02B2\u026At\u0255 p\u02B2\u026A\u02C8trof], born 8 September 1984) is a Russian racing driver who drove in Formula One for Caterham in 2012 and Renault in 2010 and 2011. Born in Vyborg, he is known as the \"Vyborg Rocket\" (Russian: \u0412\u044B\u0301\u0431\u043E\u0440\u0433\u0441\u043A\u0430\u044F \u0420\u0430\u043A\u0435\u0301\u0442\u0430; IPA: [\u02C8vib\u0254r\u0261sk\u0250j\u0250 r\u0250\u02C8k\u02B2et\u0250]) in Russia. He was the first Russian to have competed in the Formula One World Championship."@en ,
+		"Witalij Aleksandrowicz Pietrow (ros. \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432, ur. 8 wrze\u015Bnia 1984 w Wyborgu) \u2013 rosyjski kierowca wy\u015Bcigowy. Wicemistrz serii GP2 w sezonie 2009. W latach 2010-2012 kierowca Formu\u0142y 1. Pierwszy w historii Rosjanin startuj\u0105cy w tej serii.. Pietrow nazywany jest \"rakiet\u0105 z Wyborga\"."@pl ,
+		"Vitali Aleks\u00E1ndrovich Petrov (en ruso \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432; nacido el 8 de septiembre de 1984 en Vyborg) es un piloto ruso de automovilismo. Entre 2010 y 2012 compiti\u00F3 en F\u00F3rmula 1 con Lotus Renault GP y con Caterham F1 Team, obteniendo un podio y un d\u00E9cimo puesto de campeonato. En 2014 corri\u00F3 en el Deutsche Tourenwagen Masters con la marca Mercedes-Benz."@es ,
+		"Witali Alexandrowitsch Petrow (russisch \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432, englische Transkription Vitaly Petrov; * 8. September 1984 in Wyborg) ist ein russischer Automobilrennfahrer. Er war von 2006 bis 2009 in der GP2-Serie aktiv und wurde 2009 Vizemeister dieser Meisterschaft. Von 2010 bis 2012 trat er in der Formel 1 an. 2014 startete er in der DTM."@de .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	dbpedia-nl:Vitali_Petrov ,
+		<http://ja.dbpedia.org/resource/\u30F4\u30A3\u30BF\u30EA\u30FC\u30FB\u30DA\u30C8\u30ED\u30D5> ,
+		<http://it.dbpedia.org/resource/Vitalij_Aleksandrovi\u010D_Petrov> ,
+		wikidata:Q82901 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	dbpedia-cs:Vitalij_Petrov .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	dbpedia-pt:Vitaly_Petrov .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	dbpedia-de:Witali_Alexandrowitsch_Petrow ,
+		<http://rdf.freebase.com/ns/m.0gp45g> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	dbpedia-pl:Witalij_Pietrow .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	yago-res:Vitaly_Petrov .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	dbpedia-es:Vitali_Petrov ,
+		dbr:Vitaly_Petrov ,
+		<http://el.dbpedia.org/resource/\u0392\u03B9\u03C4\u03AC\u03BB\u03B9_\u03A0\u03B5\u03C4\u03C1\u03CC\u03C6> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	dbpedia-wikidata:Q82901 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	dbpedia-fr:Vitaly_Petrov .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Vitaly_Petrov	owl:sameAs	dbpedia-id:Vitaly_Petrov .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Vitaly_Petrov	dct:subject	<http://dbpedia.org/resource/Category:Italian_Formula_Renault_2.0_drivers> ,
+		<http://dbpedia.org/resource/Category:1984_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Vitaly_Petrov	dct:subject	dbc:European_Le_Mans_Series_drivers ,
+		dbc:Living_people ,
+		dbc:International_Formula_Master_drivers ,
+		dbc:International_GT_Open_drivers ,
+		dbc:Russian_expatriates_in_Spain ,
+		dbc:Russian_racing_drivers ,
+		dbc:Deutsche_Tourenwagen_Masters_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:Eurocup_Formula_Renault_2.0_drivers> ,
+		dbc:People_from_Vyborg ,
+		dbc:Auto_GP_drivers ,
+		<http://dbpedia.org/resource/Category:British_Formula_Renault_2.0_drivers> ,
+		dbc:GP2_Series_drivers ,
+		dbc:GP2_Asia_Series_drivers ,
+		dbc:Caterham_Formula_One_drivers ,
+		dbc:Russian_Formula_One_drivers ,
+		dbc:Renault_Formula_One_drivers ;
+	foaf:name	"Vitaly Petrov"@en ;
+	foaf:homepage	<http://vitalypetrov.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Vitaly_Petrov_in_Goodwood.jpg> ;
+	dct:description	"Russian racing driver"@en ;
+	foaf:givenName	"Vitaly"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Vitaly_Petrov ;
+	foaf:surname	"Petrov"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Vitaly_Petrov	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Vitaly_Petrov?oldid=743073872> ;
+	dbo:team	<http://dbpedia.org/resource/M\u00FCcke_Motorsport> ;
+	dbp:fastestLaps	0 ;
+	dbp:starts	10 ;
+	dbp:poles	0 ;
+	dbp:championships	0 ;
+	dbo:wikiPageExternalLink	<http://vitalypetrov.com/> ;
+	dbp:caption	"Petrov at the 2011 Goodwood Festival of Speed"^^xsd:string ;
+	dbo:abstract	"\u30F4\u30A3\u30BF\u30EA\u30FC\u30FB\u30A2\u30EC\u30AF\u30B5\u30F3\u30C9\u30ED\u30F4\u30A3\u30C1\u30FB\u30DA\u30C8\u30ED\u30D5\uFF08\u9732: \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432 \u82F1: Vitaly Aleksandrovich Petrov\u30011984\u5E749\u67088\u65E5 - \uFF09\u306F\u3001\u30ED\u30B7\u30A2\u30FB\u30EC\u30CB\u30F3\u30B0\u30E9\u30FC\u30C9\u5DDE\u30F4\u30A3\u30DC\u30EB\u30B0\u51FA\u8EAB\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30ED\u30B7\u30A2\u3067\u300C\u30F4\u30A3\u30DC\u30EB\u30B0 \u30ED\u30B1\u30C3\u30C8(Vyborg Rocket)\u300D\u3068\u3044\u3046\u611B\u79F0\u3067\u77E5\u3089\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"\u7EF4\u5854\u5229\u00B7\u4F69\u7279\u7F57\u592B\uFF081984\u5E749\u67088\u65E5\uFF0D\u3001(\u4FC4\u8BED\uFF1A\u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u041F\u0435\u0442\u0440\u043E\u0432\u3001Vitaly Petrov\uFF09\u662F\u4FC4\u7F85\u65AF\u8CFD\u8ECA\u624B\uFF0C\u66FE\u7ECF\u5728\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u8CFD\u8ECA\u6548\u529B\u5361\u7279\u6F22\u59C6\u8ECA\u968A\u3002\u4ED6\u662F\u662F\u9996\u4F4D\u53C3\u52A0\u4E00\u7D1A\u65B9\u7A0B\u5F0F\u7684\u4FC4\u7F85\u65AF\u8ECA\u624B\u3002"@zh ,
+		"Witalij Aleksandrowicz Pietrow (ros. \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432, ur. 8 wrze\u015Bnia 1984 w Wyborgu) \u2013 rosyjski kierowca wy\u015Bcigowy. Wicemistrz serii GP2 w sezonie 2009. W latach 2010-2012 kierowca Formu\u0142y 1. Pierwszy w historii Rosjanin startuj\u0105cy w tej serii.. Pietrow nazywany jest \"rakiet\u0105 z Wyborga\"."@pl ,
+		"Vitaly Alexandrovich Petrov, n\u00E9 le 8 septembre 1984 \u00E0 Vyborg en Russie, est un pilote automobile russe. Il effectue en 2010 ses d\u00E9buts en Formule 1 au sein de l'\u00E9curie Renault, devenant le premier pilote russe \u00E0 \u00EAtre engag\u00E9 en Formule 1."@fr ,
+		"\u0412\u0438\u0442\u0430\u0301\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u0301\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0301\u0432 (\u0440\u043E\u0434\u0438\u043B\u0441\u044F 8 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1984 \u0433\u043E\u0434\u0430 \u0432 \u0412\u044B\u0431\u043E\u0440\u0433\u0435) \u2014 \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0418\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043F\u043E\u0434 \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435\u043C \u00AB\u0412\u044B\u0431\u043E\u0440\u0433\u0441\u043A\u0430\u044F \u0440\u0430\u043A\u0435\u0442\u0430\u00BB. \u0421 31 \u044F\u043D\u0432\u0430\u0440\u044F 2010 \u0433\u043E\u0434\u0430 \u043F\u043E 9 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2011 \u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u00AB\u0420\u0435\u043D\u043E\u00BB \u0432 \u0424\u043E\u0440\u043C\u0443\u043B\u0435-1. \u0421 17 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 2012 \u0433\u043E\u0434\u0430 \u043F\u043E 1 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 2013 \u043F\u0438\u043B\u043E\u0442 \u043A\u043E\u043C\u0430\u043D\u0434\u044B Caterham F1 Team. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u0435\u0440\u0432\u044B\u043C \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u043C \u043F\u0438\u043B\u043E\u0442\u043E\u043C, \u043A\u043E\u0433\u0434\u0430-\u043B\u0438\u0431\u043E \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0438\u043C \u0432 \u0440\u0430\u043C\u043A\u0430\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u00AB\u0424\u043E\u0440\u043C\u0443\u043B\u044B-1\u00BB \u0432 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0433\u043E \u043F\u0438\u043B\u043E\u0442\u0430. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043F\u0435\u0440\u0432\u044B\u043C \u0440\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u043C \u043F\u0438\u043B\u043E\u0442\u043E\u043C, \u043E\u043A\u0430\u0437\u0430\u0432\u0448\u0438\u043C\u0441\u044F \u043D\u0430 \u043F\u043E\u0434\u0438\u0443\u043C\u0435 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0424\u043E\u0440\u043C\u0443\u043B\u044B 1. \u0417\u0430\u0441\u043B\u0443\u0436\u0435\u043D\u043D\u044B\u0439 \u043C\u0430\u0441\u0442\u0435\u0440 \u0441\u043F\u043E\u0440\u0442\u0430 (2015). \u041C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u043E\u043C \u041F\u0435\u0442\u0440\u043E\u0432\u0430 \u0434\u043E \u0432\u0435\u0441\u043D\u044B 2013 \u0433\u043E\u0434\u0430 \u0431\u044B\u043B\u0430 \u041E\u043A\u0441\u0430\u043D\u0430 \u041A\u043E\u0441\u0430\u0447\u0435\u043D\u043A\u043E."@ru ,
+		"Witali Alexandrowitsch Petrow (russisch \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432, englische Transkription Vitaly Petrov; * 8. September 1984 in Wyborg) ist ein russischer Automobilrennfahrer. Er war von 2006 bis 2009 in der GP2-Serie aktiv und wurde 2009 Vizemeister dieser Meisterschaft. Von 2010 bis 2012 trat er in der Formel 1 an. 2014 startete er in der DTM."@de ,
+		"Vitaly Aleksandrovich Petrov (Russian: \u0412\u0438\u0442\u0430\u0301\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u0301\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0301\u0432; IPA: [v\u02B2\u026A\u02C8tal\u02B2\u026A \u0250l\u02B2\u026Ak\u02C8sandr\u0259v\u02B2\u026At\u0255 p\u02B2\u026A\u02C8trof], born 8 September 1984) is a Russian racing driver who drove in Formula One for Caterham in 2012 and Renault in 2010 and 2011. Born in Vyborg, he is known as the \"Vyborg Rocket\" (Russian: \u0412\u044B\u0301\u0431\u043E\u0440\u0433\u0441\u043A\u0430\u044F \u0420\u0430\u043A\u0435\u0301\u0442\u0430; IPA: [\u02C8vib\u0254r\u0261sk\u0250j\u0250 r\u0250\u02C8k\u02B2et\u0250]) in Russia. He was the first Russian to have competed in the Formula One World Championship."@en ,
+		"Vitali Aleksandrovitsj Petrov  (Russisch: \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432) (Vyborg, 8 september 1984) is een Russisch coureur. Hij draagt de bijnaam Vyborg Rocket. Petrov was de eerste Russische coureur in de Formule 1. In 2010 en 2011 was Petrov coureur bij het Renault F1 Team. Hij werd hier na twee seizoenen ontslagen. Een maand voor de start van het Formule 1-seizoen van 2012 werd bekend dat hij Jarno Trulli mocht vervangen bij Caterham."@nl ,
+		"Vitaly Aleksandrovich Petrov (Russo: \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u041F\u0435\u0442\u0440\u043E\u0432) (Vyborg, 8 de setembro de 1984) \u00E9 um automobilista russo. \u00C9 mais conhecido como \"Vyborg Rocket\" na R\u00FAssia."@pt ,
+		"Vitali Aleks\u00E1ndrovich Petrov (en ruso \u0412\u0438\u0442\u0430\u043B\u0438\u0439 \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0438\u0447 \u041F\u0435\u0442\u0440\u043E\u0432; nacido el 8 de septiembre de 1984 en Vyborg) es un piloto ruso de automovilismo. Entre 2010 y 2012 compiti\u00F3 en F\u00F3rmula 1 con Lotus Renault GP y con Caterham F1 Team, obteniendo un podio y un d\u00E9cimo puesto de campeonato. En 2014 corri\u00F3 en el Deutsche Tourenwagen Masters con la marca Mercedes-Benz."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Vitaly_Petrov_in_Goodwood.jpg?width=300> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Vitaly_Petrov	dbo:birthDate	"1984-09-08"^^xsd:date ,
+		"1984-9-8"^^xsd:date ;
+	dbo:wikiPageRevisionID	743073872 ;
+	dbo:birthPlace	dbr:Vyborg ;
+	dbo:wikiPageID	6791864 ;
+	dbp:currentSeries	dbr:Deutsche_Tourenwagen_Masters ;
+	dbp:lastFinish	23 .
+@prefix ns26:	<http://dbpedia.org/datatype/> .
+dbr:Vitaly_Petrov	dbp:bestFinish	"23.0"^^ns26:rod ;
+	dbp:carNumber	20 ;
+	dbp:firstYear	2014 ;
+	dbp:year	2014 ;
+	dbp:wins	0 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Vitaly_Petrov	ns27:hypernym	dbr:Driver ;
+	dbp:nationality	"Russian"^^xsd:string .
+<http://dbpedia.org/resource/2009_Algarve_GP2_Series_round>	dbp:poleDriver	dbr:Vitaly_Petrov .
+<http://dbpedia.org/resource/2010_Turkish_Grand_Prix>	dbo:fastestDriver	dbr:Vitaly_Petrov .
+<http://dbpedia.org/resource/2009_Istanbul_Park_GP2_Series_round>	dbp:firstDriverR	dbr:Vitaly_Petrov ;
+	dbp:thirdDriverR	dbr:Vitaly_Petrov .

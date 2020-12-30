@@ -1,0 +1,158 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Gary_Brabham	dbp:after	dbr:Pedro_Chaves .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Pedro_Chaves	foaf:primaryTopic	dbr:Pedro_Chaves .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1990_Macau_Grand_Prix__Superpower_Engineering__1>	dbo:firstDriver	dbr:Pedro_Chaves .
+<http://dbpedia.org/resource/1990_Formula_One_Indoor_Trophy>	dbp:rd2Team	dbr:Pedro_Chaves .
+dbr:Chaves	dbo:wikiPageDisambiguates	dbr:Pedro_Chaves .
+dbr:Pedro_Matos_Chaves	dbo:wikiPageRedirects	dbr:Pedro_Chaves .
+<http://dbpedia.org/resource/Paul_Warwick_(racing_driver)>	dbp:before	dbr:Pedro_Chaves .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Pedro_Chaves	rdf:type	ns6:Agent ,
+		dbo:Athlete .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Pedro_Chaves	rdf:type	wikidata:Q24229398 ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Pedro_Chaves	rdf:type	yago:WikicatFormulaFordDrivers ,
+		dbo:Person ,
+		wikidata:Q5 ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Pedro_Chaves	rdf:type	owl:Thing ,
+		yago:WikicatJapaneseFormula3000ChampionshipDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatPortugueseFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		dbo:Agent ,
+		dbo:SoccerPlayer ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatBritishFormula3000ChampionshipDrivers ,
+		yago:WikicatColoniFormulaOneDrivers ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:Driver110034906 ,
+		yago:WikicatIndyLightsDrivers ,
+		yago:WikicatPortugueseRallyDrivers ,
+		wikidata:Q378622 ,
+		yago:WikicatFormulaThreeDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Pedro_Chaves	rdf:type	schema:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Pedro_Chaves	rdf:type	umbel-rc:RaceCarDriver ,
+		umbel-rc:Athlete ,
+		ns6:NaturalPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Pedro_Chaves	rdfs:label	"Pedro Chaves"@es ,
+		"Pedro Chaves"@it ,
+		"\u30DA\u30C9\u30ED\u30FB\u30C1\u30E3\u30D9\u30B9"@ja ,
+		"Pedro Chaves"@fr ,
+		"Pedro Chaves"@pl ,
+		"Pedro Chaves"@en ,
+		"Pedro Matos Chaves"@nl ,
+		"Pedro Chaves"@de ,
+		"Pedro Chaves"@pt ,
+		"\u0428\u0430\u0432\u0438\u0448, \u041F\u0435\u0434\u0440\u0443"@ru ;
+	rdfs:comment	"Pedro Pinto Ferreira Matos Chaves (* 27. Februar 1965 in Porto) ist ein portugiesischer Automobilrennfahrer und zweifacher nationaler Rallye-Meister."@de ,
+		"Pedro Ant\u00F3nio Matos Chaves (Portuguese pronunciation: [\u02C8pe\u00F0\u027Eu \u02C8matu\u0283 \u02C8\u0283av\u0268\u0283]; born in Oporto, 27 February 1965) is a Portuguese racing driver. Chaves was the second Portuguese Formula Ford Champion, in 1986, starting an international career in 1987 in the British Formula Ford Championship. In 1990 he won the British F3000 Championship with the Madgwick Motorsport outfit, also racing in a few rounds of the FIA F3000 series. In 2005 and 2006, he returned to the Portuguese Rally Championship to drive a works Renault Clio S1600."@en ,
+		"Pedro Ant\u00F3nio Matos Chaves, mais conhecido como Pedro Chaves (Porto, 27 de fevereiro de 1965) \u00E9 um ex-piloto de automobilismo portugu\u00EAs. Ele atuou na Temporada de F\u00F3rmula 1 de 1991, pela equipe Coloni, n\u00E3o se classificando para nenhuma corrida."@pt ,
+		"Pedro Matos Chaves (Porto, 27 februari 1965) is een voormalig Portugees autocoureur. Hij maakte zijn Formule 1-debuut in 1991 bij Coloni en nam deel aan 13 Grands Prix waarvan hij er geen enkele mocht starten. Hij scoorde geen punten. Chaves won het Portugese Formule Ford-kampioenschap in 1985 en het internationale kampioenschap in 1987, toen hij racete in de Britse Formule Ford. In 1990 won hij het Brits Formule 3000-kampioenschap en racete ook in het internationaal kampioenschap."@nl ,
+		"Pedro Matos Chaves, nacido el 27 de febrero de 1965, en Oporto es un ex-piloto portugu\u00E9s de F\u00F3rmula 1. Tambi\u00E9n ha participado en pruebas del WRC y la F\u00F3rmula 3000."@es ,
+		"Pedro Antonio Chaves Matos (ur. 27 lutego 1965 roku w Porto) \u2013 portugalski kierowca wy\u015Bcigowy i rajdowy."@pl ,
+		"\u041F\u0435\u0434\u0440\u0443 \u041C\u0430\u0442\u0443\u0448 \u0428\u0430\u0432\u0438\u0448 (\u043F\u043E\u0440\u0442. Pedro Matos Chaves, 27 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1965, \u041F\u043E\u0440\u0442\u0443) \u2014 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"\u30DA\u30C9\u30ED\u30FB\u30DE\u30C8\u30B9\u30FB\u30C1\u30E3\u30D9\u30B9\uFF08Pedro Ant\u00F3nio Matos Chaves\u30011965\u5E742\u670827\u65E5 - \uFF09\u306F\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		" Pour les articles homonymes, voir Pedro et Chaves.Pedro Chaves Pedro Pinto Ferreira Matos Chaves est un pilote de course automobile portugais (n\u00E9 le 27 f\u00E9vrier 1965 \u00E0 Porto au Portugal)."@fr .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Pedro_Chaves	dbp:birthDate	"1965-02-27"^^xsd:date ;
+	owl:sameAs	dbr:Pedro_Chaves .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Pedro_Chaves	owl:sameAs	yago-res:Pedro_Chaves .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Pedro_Chaves	owl:sameAs	dbpedia-fr:Pedro_Chaves .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Pedro_Chaves	owl:sameAs	dbpedia-wikidata:Q456593 ,
+		<http://ja.dbpedia.org/resource/\u30DA\u30C9\u30ED\u30FB\u30C1\u30E3\u30D9\u30B9> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Pedro_Chaves	owl:sameAs	dbpedia-pl:Pedro_Chaves .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Pedro_Chaves	owl:sameAs	dbpedia-es:Pedro_Chaves .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Pedro_Chaves	owl:sameAs	dbpedia-nl:Pedro_Matos_Chaves .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Pedro_Chaves	owl:sameAs	dbpedia-it:Pedro_Chaves ,
+		<http://rdf.freebase.com/ns/m.05bgcx> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Pedro_Chaves	owl:sameAs	dbpedia-de:Pedro_Chaves .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Pedro_Chaves	owl:sameAs	dbpedia-pt:Pedro_Chaves ,
+		wikidata:Q456593 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Pedro_Chaves	dct:subject	dbc:Portuguese_rally_drivers ,
+		dbc:Portuguese_racing_drivers ,
+		dbc:Sportspeople_from_Porto ,
+		dbc:Formula_Ford_drivers ,
+		dbc:British_Formula_3000_Championship_drivers ,
+		dbc:Coloni_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:A1_Grand_Prix_people ,
+		dbc:Japanese_Formula_3000_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1965_births> ,
+		dbc:International_Formula_3000_drivers ,
+		dbc:Living_people ,
+		dbc:Indy_Lights_drivers ,
+		dbc:Portuguese_Formula_One_drivers ;
+	foaf:name	"Pedro Chaves"@en ,
+		"Pedro Matos Chaves"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Pedro"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Pedro_Chaves ;
+	foaf:surname	"Chaves"@en ;
+	dbp:points	0 ;
+	dbp:years	2002 ,
+		1990 ;
+	dbp:after	dbr:Gines_Vivancos ,
+		<http://dbpedia.org/resource/Paul_Warwick_(racing_driver)> ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Enzo_Coloni_Racing_Car_Systems .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Pedro_Chaves	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pedro_Chaves?oldid=737783861> ;
+	dbo:wikiPageExternalLink	<http://www.giantbomb.com/pedro-matos-chaves/94-24694/> ,
+		<https://web.archive.org/web/20120506093245/http:/f1rejects.com/drivers/chaves/index.html> ;
+	dbp:birthPlace	"Porto, Portugal"^^xsd:string ;
+	dbp:before	dbr:Carlos_Palau ,
+		dbr:Alberto_Castello ,
+		dbr:Gary_Brabham ;
+	dbo:abstract	"Pedro Ant\u00F3nio Matos Chaves (Portuguese pronunciation: [\u02C8pe\u00F0\u027Eu \u02C8matu\u0283 \u02C8\u0283av\u0268\u0283]; born in Oporto, 27 February 1965) is a Portuguese racing driver. Chaves was the second Portuguese Formula Ford Champion, in 1986, starting an international career in 1987 in the British Formula Ford Championship. In 1990 he won the British F3000 Championship with the Madgwick Motorsport outfit, also racing in a few rounds of the FIA F3000 series. In 1991, he suffered a disastrous season in Formula One, failing to pre-qualify for 13 Grands Prix with an under-financed and uncompetitive Coloni. After failing to pre-qualify for the Portuguese Grand Prix, Chaves left the team, taking the remainder of his sponsorship money with him. At the end of that year Chaves had an agreement with Leyton House (which would be renamed to March F1) to compete in 1992, however the sponsorship money came too late, and Karl Wendlinger took the place. In 1992, Chaves returned to F3000, first with GJ Racing and later in the season moving to the more competitive Il Barone Rampante, with no results. Chaves then spent three years in the American Indy Lights series with Brian Stewart Racing, winning one race, in Vancouver in 1995. Chaves and Robbie Buhl were the only drivers to win that season other than Greg Moore, who won the rest of the events. In 1996, he moved to touring car racing and was second in the Spanish Touring Car Championship in a BMW, before racing a Porsche in the FIA GT Championship. Chaves moved to the Portuguese Rally Championship in 1998, winning the title in 1999 and 2000, with his co-driver S\u00E9rgio Paiva, in a works-supported Toyota Corolla WRC. In 2001, he took the Spanish GT Championship title, in a Saleen S7-R co-driven by Miguel Ramos. He has also gone back to drive in the 24 Hours of Le Mans and the FIA GT Championship, for Graham Nash Motorsport. In 2005 and 2006, he returned to the Portuguese Rally Championship to drive a works Renault Clio S1600. Chaves has since retired from racing and in 2006 became driver coach to A1 Team Lebanon. In 2008 he took over managerial duties in A1 Team Portugal. He is also managing the career of his son David."@en ,
+		" Pour les articles homonymes, voir Pedro et Chaves.Pedro Chaves Pedro Pinto Ferreira Matos Chaves est un pilote de course automobile portugais (n\u00E9 le 27 f\u00E9vrier 1965 \u00E0 Porto au Portugal)."@fr ,
+		"Pedro Ant\u00F3nio Matos Chaves, mais conhecido como Pedro Chaves (Porto, 27 de fevereiro de 1965) \u00E9 um ex-piloto de automobilismo portugu\u00EAs. Ele atuou na Temporada de F\u00F3rmula 1 de 1991, pela equipe Coloni, n\u00E3o se classificando para nenhuma corrida."@pt ,
+		"\u041F\u0435\u0434\u0440\u0443 \u041C\u0430\u0442\u0443\u0448 \u0428\u0430\u0432\u0438\u0448 (\u043F\u043E\u0440\u0442. Pedro Matos Chaves, 27 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1965, \u041F\u043E\u0440\u0442\u0443) \u2014 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Pedro Matos Chaves, nacido el 27 de febrero de 1965, en Oporto es un ex-piloto portugu\u00E9s de F\u00F3rmula 1. Tambi\u00E9n ha participado en pruebas del WRC y la F\u00F3rmula 3000."@es ,
+		"\u30DA\u30C9\u30ED\u30FB\u30DE\u30C8\u30B9\u30FB\u30C1\u30E3\u30D9\u30B9\uFF08Pedro Ant\u00F3nio Matos Chaves\u30011965\u5E742\u670827\u65E5 - \uFF09\u306F\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u51FA\u8EAB\u306E\u5143F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002"@ja ,
+		"Pedro Pinto Ferreira Matos Chaves (* 27. Februar 1965 in Porto) ist ein portugiesischer Automobilrennfahrer und zweifacher nationaler Rallye-Meister."@de ,
+		"Pedro Matos Chaves (Porto, 27 februari 1965) is een voormalig Portugees autocoureur. Hij maakte zijn Formule 1-debuut in 1991 bij Coloni en nam deel aan 13 Grands Prix waarvan hij er geen enkele mocht starten. Hij scoorde geen punten. Chaves won het Portugese Formule Ford-kampioenschap in 1985 en het internationale kampioenschap in 1987, toen hij racete in de Britse Formule Ford. In 1990 won hij het Brits Formule 3000-kampioenschap en racete ook in het internationaal kampioenschap. In 1991 mocht hij het proberen in de Formule 1 bij Coloni maar wist zich niet te pre-kwalificeren voor 13 Grands Prix. Nadat hij zich niet kon kwalificeren voor de Grand Prix van Portugal. Met zijn vertrek nam hij ook zijn sponsorgeld mee. Het volgende jaar ging Chaves opnieuw in de Formule 3000 rijden maar zonder al te veel succes. Hij ging in de Indy Lights rijden, waarin hij \u00E9\u00E9n race won. Sindsdien heeft tweemaal het Portugese kampioenschap Rally gewonnen, samen met S\u00E9rgio Paiva in een Toyota Corolla, en het Spaans GT kampioenschap in een Saleen S7 met Miguel Ramos. Hij heeft ook deelgenomen aan de 24 uur van Le Mans en de FIA GT. In 2005 en 2006 keerde hij terug naar het Portugese kampioenschap rally. Hierna stopte Chaves met racen en werd rijdercoach voor A1 Team Libanon. Hij is ook manager van zijn zoon David."@nl ,
+		"Pedro Antonio Chaves Matos (ur. 27 lutego 1965 roku w Porto) \u2013 portugalski kierowca wy\u015Bcigowy i rajdowy."@pl ;
+	dbo:birthDate	"1965-2-27"^^xsd:date ;
+	dbo:wikiPageRevisionID	737783861 ;
+	dbo:birthPlace	dbr:Porto ;
+	dbo:wikiPageID	1560756 ;
+	dbo:nationality	dbr:Portugal ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1991_United_States_Grand_Prix> ;
+	dbo:races	"13"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1991_Portuguese_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Pedro_Chaves	ns26:hypernym	dbr:Portuguese ;
+	dbp:title	dbr:Spanish_GT_Championship ,
+		dbr:British_Formula_3000 .

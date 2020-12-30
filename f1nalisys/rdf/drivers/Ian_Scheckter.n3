@@ -1,0 +1,143 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Ian_Scheckter	foaf:primaryTopic	dbr:Ian_Scheckter .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Tomas_Scheckter	dbp:relatedTo	dbr:Ian_Scheckter .
+dbr:Toby_Scheckter	dbp:relatedTo	dbr:Ian_Scheckter .
+dbr:Team_Gunston	dbp:drivers	dbr:Ian_Scheckter .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ian_Scheckter	rdf:type	wikidata:Q24229398 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Ian_Scheckter	rdf:type	ns6:NaturalPerson .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Ian_Scheckter	rdf:type	owl:Thing ,
+		wikidata:Q215627 ,
+		ns6:Agent .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Ian_Scheckter	rdf:type	dbo:Agent ,
+		dbo:MotorsportRacer ,
+		wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ian_Scheckter	rdf:type	yago:WikicatHeskethFormulaOneDrivers ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Ian_Scheckter	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatSouthAfricanFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Ian_Scheckter	rdf:type	schema:Person ,
+		foaf:Person ,
+		wikidata:Q378622 ,
+		yago:Driver110034906 ,
+		yago:WikicatTeamGunstonFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		dbo:RacingDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ian_Scheckter	rdfs:label	"Ian Scheckter"@de ,
+		"Ian Scheckter"@it ,
+		"Ian Scheckter"@nl ,
+		"Ian Scheckter"@fr ,
+		"Ian Scheckter"@es ,
+		"\u0428\u0435\u043A\u0442\u0435\u0440, \u042F\u043D"@ru ,
+		"Ian Scheckter"@pt ,
+		"Ian Scheckter"@en ,
+		"Ian Scheckter"@pl ,
+		"\u30A4\u30A2\u30F3\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC"@ja ;
+	rdfs:comment	"Ian Scheckter (* 22. August 1947 in East London, S\u00FCdafrika) ist ein ehemaliger s\u00FCdafrikanischer Automobilrennfahrer und der Bruder des Formel-1-Weltmeisters von 1979, Jody Scheckter. Ian folgte seinem Bruder nach Europa und in die Formel 1, nachdem er in der Formel Ford \u201ESunshine Series\u201C gewonnen hatte. Sein Formel-1-Deb\u00FCt gab Ian Scheckter beim Gro\u00DFen Preis von S\u00FCdafrika 1974 im Team Gunston. In den Jahren 1975 und 1976 fuhr er ein paar Rennen in dem Team von Frank Williams, im Tyrrell des Alex-Blignaut-Teams. In der Saison 1977 absolvierte Ian 14 von 17 Rennen f\u00FCr das March-Team."@de ,
+		"Ian Scheckter (22 de agosto de 1947) es un ex piloto sudafricano, es el hermano mayor del Ex campe\u00F3n de F\u00F3rmula 1 Jody Scheckter"@es ,
+		"Ian Scheckter (n\u00E9 le 22 ao\u00FBt 1947 \u00E0 East London, Afrique du Sud) est un pilote automobile sud-africain. Auteur au niveau national d'une jolie carri\u00E8re qui l'a men\u00E9 jusqu'\u00E0 la Formule 1 o\u00F9 il a disput\u00E9 18 GP sans parvenir \u00E0 engranger de point, il est rest\u00E9 dans l'ombre de son fr\u00E8re cadet Jody Scheckter, champion du monde en 1979."@fr ,
+		"\u042F\u043D \u0428\u0435\u043A\u0442\u0435\u0440 (\u0430\u0444\u0440\u0438\u043A. Ian Scheckter, 22 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1947 \u0433\u043E\u0434\u0430, \u0418\u0441\u0442-\u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u0431\u0440\u0430\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 1979 \u0433\u043E\u0434\u0430 \u0414\u0436\u043E\u0434\u0438 \u0428\u0435\u043A\u0442\u0435\u0440\u0430 \u0438 \u0434\u044F\u0434\u044F \u0433\u043E\u043D\u0449\u0438\u043A\u0430 \u0441\u0435\u0440\u0438\u0438 IRL \u0422\u043E\u043C\u0430\u0441\u0430 \u0428\u0435\u043A\u0442\u0435\u0440\u0430."@ru ,
+		"Ian Scheckter (ur. 22 sierpnia 1947 w East London) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"Ian Scheckter (born 22 August 1947 in East London, South Africa) is a former racing driver. He participated in 20 Formula One World Championship Grands Prix, debuting on 30 March 1974. He scored no championship points. The elder brother of 1979 Formula One champion Jody Scheckter and uncle of IRL racer Tomas Scheckter, his first F1 races were in the South African Grand Prix, first driving a Lotus 72 for locals Team Gunston in 1974. The following year and also in 1976, he drove a Tyrrell 007 for Lexington Racing, either side of a couple of European outings for Williams."@en ,
+		"Ian Scheckter (East London (Zuid-Afrika), 22 augustus 1947) is een voormalig autocoureur uit Zuid-Afrika. Hij reed 20 Formule 1 Grands Prix. Zijn eerste race was op 30 maart 1974. Hij scoorde geen punten. Hij is de broer van de voormalig wereldkampioen Formule 1 in 1979 Jody Scheckter, en oom van Tomas Scheckter. Zijn eerste Formule 1 race was in Zuid-Afrika, waar hij reed bij Lotus 72. Het volgende jaar en ook in 1976 reed hij bij Tyrrell 007 voor Lexington Racing."@nl ,
+		"\u30A4\u30A2\u30F3\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC\uFF08Ian Scheckter, 1947\u5E748\u670822\u65E5 - \uFF09\u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u30FB\u30A4\u30FC\u30B9\u30C8\u30FB\u30ED\u30F3\u30C9\u30F3\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021974\u5E743\u670830\u65E5\u306BF1\u30C7\u30D3\u30E5\u30FC\u300220\u6226\u306B\u51FA\u8D70\u3057\u305F\u304C\u3001\u9078\u624B\u6A29\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u306A\u304B\u3063\u305F\u3002"@ja ,
+		"Fratello del pi\u00F9 noto Jody Scheckter, tent\u00F2 senza successo la strada della Formula 1, ma non conquist\u00F2 mai punti iridati.Ancora in attivit\u00E0 nelle gare sport e storiche del suo Paese, il Sudafrica, al volante di Tiga, McLaren e Tyrrell."@it ,
+		"Ian Scheckter (East London, 22 de Agosto de 1947) \u00E9 um ex-automobilista sul-africano. Ele \u00E9 irm\u00E3o mais velho do campe\u00E3o mundial de 1979, Jody Scheckter."@pt ;
+	dbp:points	0 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Ian_Scheckter	owl:sameAs	dbpedia-fr:Ian_Scheckter ,
+		<http://ja.dbpedia.org/resource/\u30A4\u30A2\u30F3\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Ian_Scheckter	owl:sameAs	dbpedia-nl:Ian_Scheckter .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ian_Scheckter	owl:sameAs	yago-res:Ian_Scheckter ,
+		wikidata:Q172733 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Ian_Scheckter	owl:sameAs	dbpedia-es:Ian_Scheckter ,
+		<http://rdf.freebase.com/ns/m.04kqm7> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ian_Scheckter	owl:sameAs	dbpedia-de:Ian_Scheckter .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Ian_Scheckter	owl:sameAs	dbpedia-it:Ian_Scheckter .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Ian_Scheckter	owl:sameAs	dbpedia-pt:Ian_Scheckter ,
+		dbr:Ian_Scheckter .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ian_Scheckter	owl:sameAs	dbpedia-pl:Ian_Scheckter .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Ian_Scheckter	owl:sameAs	dbpedia-wikidata:Q172733 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ian_Scheckter	dct:subject	dbc:Team_Gunston_Formula_One_drivers ,
+		dbc:Living_people ,
+		dbc:March_Formula_One_drivers ,
+		dbc:Alumni_of_Selborne_College ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:South_African_Jews ,
+		<http://dbpedia.org/resource/Category:1947_births> ,
+		dbc:South_African_Formula_One_drivers ,
+		dbc:South_African_people_of_British-Jewish_descent ,
+		dbc:South_African_racing_drivers ,
+		dbc:Hesketh_Formula_One_drivers ;
+	foaf:name	"Ian Scheckter"@en ;
+	dct:description	"South African racecar driver"@en ;
+	foaf:givenName	"Ian"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ian_Scheckter ;
+	foaf:surname	"Scheckter"@en ;
+	dbp:title	"South African Formula Atlantic Champion"^^xsd:string ,
+		"Formula South Africa Champion"^^xsd:string ;
+	dbp:years	"\u2013"^^xsd:string ,
+		1975 ,
+		1983 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ian_Scheckter	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ian_Scheckter?oldid=713946352> ;
+	dbp:before	"None"^^xsd:string ,
+		dbr:Graham_Duxbury ;
+	dbp:after	dbr:Trevor_van_Rooyen ,
+		"None"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Ian_Scheckter	dbp:birthDate	"1947-08-22"^^xsd:date ;
+	dbo:abstract	"Ian Scheckter (n\u00E9 le 22 ao\u00FBt 1947 \u00E0 East London, Afrique du Sud) est un pilote automobile sud-africain. Auteur au niveau national d'une jolie carri\u00E8re qui l'a men\u00E9 jusqu'\u00E0 la Formule 1 o\u00F9 il a disput\u00E9 18 GP sans parvenir \u00E0 engranger de point, il est rest\u00E9 dans l'ombre de son fr\u00E8re cadet Jody Scheckter, champion du monde en 1979."@fr ,
+		"Ian Scheckter (* 22. August 1947 in East London, S\u00FCdafrika) ist ein ehemaliger s\u00FCdafrikanischer Automobilrennfahrer und der Bruder des Formel-1-Weltmeisters von 1979, Jody Scheckter. Ian folgte seinem Bruder nach Europa und in die Formel 1, nachdem er in der Formel Ford \u201ESunshine Series\u201C gewonnen hatte. Sein Formel-1-Deb\u00FCt gab Ian Scheckter beim Gro\u00DFen Preis von S\u00FCdafrika 1974 im Team Gunston. In den Jahren 1975 und 1976 fuhr er ein paar Rennen in dem Team von Frank Williams, im Tyrrell des Alex-Blignaut-Teams. In der Saison 1977 absolvierte Ian 14 von 17 Rennen f\u00FCr das March-Team. Nach seinem Formel-1-Engagement dominierte Ian Scheckter die s\u00FCdafrikanischen S\u00FCdafrikanische Formel-Atlantic-Meisterschaft, der Nachfolgeserie der s\u00FCdafrikanischen Formel-1-Meisterschaft, die er sechsmal (darunter viermal in Folge) gewann."@de ,
+		"\u042F\u043D \u0428\u0435\u043A\u0442\u0435\u0440 (\u0430\u0444\u0440\u0438\u043A. Ian Scheckter, 22 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1947 \u0433\u043E\u0434\u0430, \u0418\u0441\u0442-\u041B\u043E\u043D\u0434\u043E\u043D) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u0431\u0440\u0430\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 1979 \u0433\u043E\u0434\u0430 \u0414\u0436\u043E\u0434\u0438 \u0428\u0435\u043A\u0442\u0435\u0440\u0430 \u0438 \u0434\u044F\u0434\u044F \u0433\u043E\u043D\u0449\u0438\u043A\u0430 \u0441\u0435\u0440\u0438\u0438 IRL \u0422\u043E\u043C\u0430\u0441\u0430 \u0428\u0435\u043A\u0442\u0435\u0440\u0430."@ru ,
+		"Ian Scheckter (ur. 22 sierpnia 1947 w East London) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1."@pl ,
+		"\u30A4\u30A2\u30F3\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC\uFF08Ian Scheckter, 1947\u5E748\u670822\u65E5 - \uFF09\u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u30FB\u30A4\u30FC\u30B9\u30C8\u30FB\u30ED\u30F3\u30C9\u30F3\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021974\u5E743\u670830\u65E5\u306BF1\u30C7\u30D3\u30E5\u30FC\u300220\u6226\u306B\u51FA\u8D70\u3057\u305F\u304C\u3001\u9078\u624B\u6A29\u30DD\u30A4\u30F3\u30C8\u3092\u7372\u5F97\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u306A\u304B\u3063\u305F\u3002"@ja ,
+		"Fratello del pi\u00F9 noto Jody Scheckter, tent\u00F2 senza successo la strada della Formula 1, ma non conquist\u00F2 mai punti iridati.Ancora in attivit\u00E0 nelle gare sport e storiche del suo Paese, il Sudafrica, al volante di Tiga, McLaren e Tyrrell."@it ,
+		"Ian Scheckter (East London, 22 de Agosto de 1947) \u00E9 um ex-automobilista sul-africano. Ele \u00E9 irm\u00E3o mais velho do campe\u00E3o mundial de 1979, Jody Scheckter."@pt ,
+		"Ian Scheckter (East London (Zuid-Afrika), 22 augustus 1947) is een voormalig autocoureur uit Zuid-Afrika. Hij reed 20 Formule 1 Grands Prix. Zijn eerste race was op 30 maart 1974. Hij scoorde geen punten. Hij is de broer van de voormalig wereldkampioen Formule 1 in 1979 Jody Scheckter, en oom van Tomas Scheckter. Zijn eerste Formule 1 race was in Zuid-Afrika, waar hij reed bij Lotus 72. Het volgende jaar en ook in 1976 reed hij bij Tyrrell 007 voor Lexington Racing."@nl ,
+		"Ian Scheckter (born 22 August 1947 in East London, South Africa) is a former racing driver. He participated in 20 Formula One World Championship Grands Prix, debuting on 30 March 1974. He scored no championship points. The elder brother of 1979 Formula One champion Jody Scheckter and uncle of IRL racer Tomas Scheckter, his first F1 races were in the South African Grand Prix, first driving a Lotus 72 for locals Team Gunston in 1974. The following year and also in 1976, he drove a Tyrrell 007 for Lexington Racing, either side of a couple of European outings for Williams. In domestic racing Scheckter came close to ending the run of Dave Charlton of titles in the South African National Drivers Championship in 1975, but in his two spells as a full-time competitor dominated the championship winning 49 races and equalling John Love and Charlton's tally of 6 championships. Securing enough funds for a full season with the March works F1 team in 1977, he turned in some poor performances, aided in great part by the fact that in some races team March had up to five drivers signed, lacking resources to provide adequately for them all. This situation spelled the end of his F1 career. Scheckter's final grand prix would have been the 1977 Japanese Grand Prix but he was detained and then expelled from Japan due to only having a tourist visa in his South African passport and Japanese objections to the South African apartheid regime."@en ,
+		"Ian Scheckter (22 de agosto de 1947) es un ex piloto sudafricano, es el hermano mayor del Ex campe\u00F3n de F\u00F3rmula 1 Jody Scheckter"@es ;
+	dbo:birthDate	"1947-8-22"^^xsd:date ;
+	dbo:wikiPageRevisionID	713946352 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/East_London,_Eastern_Cape> ;
+	dbo:wikiPageID	1233850 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Ian_Scheckter	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1974_South_African_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1977_Canadian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"20"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"March, Williams, non-works teams"^^xsd:string ;
+	dbp:nationality	"South African"^^xsd:string .

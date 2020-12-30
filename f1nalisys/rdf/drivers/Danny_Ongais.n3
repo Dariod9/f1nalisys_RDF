@@ -1,0 +1,151 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Danny_Ongais	rdf:type	dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Danny_Ongais	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Danny_Ongais	rdf:type	yago:Operator110378412 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Danny_Ongais	rdf:type	umbel-rc:RaceCarDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Danny_Ongais	rdf:type	wikidata:Q5 ,
+		wikidata:Q215627 ,
+		yago:WikicatDragsterDrivers ,
+		yago:WikicatEnsignFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Danny_Ongais	rdf:type	schema:Person ,
+		yago:WikicatAmericanFormulaOneDrivers ,
+		yago:WikicatIndianapolis500Drivers ,
+		yago:WikicatChampCarDrivers ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Danny_Ongais	rdf:type	foaf:Person ,
+		dbo:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		yago:WikicatIndyCarSeriesDrivers ,
+		dbo:RacingDriver ,
+		yago:WikicatNASCARDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatTrans-AmSeriesDrivers ,
+		yago:WikicatRacingDriversFromHawaii ,
+		wikidata:Q378622 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Danny_Ongais	rdf:type	ns9:Agent ,
+		ns9:NaturalPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Danny_Ongais	rdfs:label	"Danny Ongais"@pt ,
+		"Danny Ongais"@it ,
+		"Danny Ongais"@fr ,
+		"Danny Ongais"@en ,
+		"Danny Ongais"@de ,
+		"Danny Ongais"@pl ,
+		"Danny Ongais"@nl ,
+		"\u041E\u043D\u0433\u0435\u0439\u0441, \u0414\u044D\u043D\u043D\u0438"@ru ;
+	rdfs:comment	"Daniel \u201EDanny\u201C Ongais (* 21. Mai 1942 in Kahului, Maui Island, Hawaii) ist ein ehemaliger US-amerikanischer Autorennfahrer."@de ,
+		"Danny Ongais (ur. 21 maja 1942 roku w Kahului) \u2013 by\u0142y ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"Danny Ongais (born May 21, 1942) is a retired American racing driver. Ongais is the only native Hawaiian to compete in the Indianapolis 500. A motorcycle, sports car, Formula One, and drag racing competitor, he won the American Hot Rod Association AA Gas Dragster Championship in 1963 and 1964, and in the National Hot Rod Association AA Dragster championship title in 1965. A flamboyant figure on the racing circuit, Ongais was nicknamed \"On-Gas\" and \"The Flyin' Hawaiian.\""@en ,
+		"\u0414\u044D\u043D\u0438\u0435\u043B \u00AB\u0414\u044D\u043D\u043D\u0438\u00BB \u041E\u043D\u0433\u0435\u0439\u0441 (\u0430\u043D\u0433\u043B. Danny Ongais, 21 \u043C\u0430\u044F 1942 \u0433\u043E\u0434\u0430, \u041A\u0430\u0445\u0443\u043B\u0443\u0438, \u0448\u0442\u0430\u0442 \u0413\u0430\u0432\u0430\u0439\u0438, \u0421\u0428\u0410) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0438 \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0441\u0435\u0440\u0438\u0439 USAC, CART \u0438 IRL."@ru ,
+		"Danny Ongais (Kahului (Hawa\u00EF), 21 mei 1942) is een Amerikaans voormalig autocoureur."@nl ,
+		"Danny Ongais (Kahului, 21 de maio de 1942) \u00E9 um ex-piloto de F\u00F3rmula 1 e F\u00F3rmula Indy dos Estados Unidos."@pt ,
+		"\u00C8 soprannominato Danny \"On the gas\" per il suo coraggio al volante delle auto da corsa."@it ,
+		"Danny Ongais (n\u00E9 le 21 mai 1942 \u00E0 Kahului, Hawa\u00EF) est un ancien pilote automobile am\u00E9ricain."@fr .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Danny_Ongais	dbp:points	0 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Danny_Ongais	owl:sameAs	dbpedia-fr:Danny_Ongais .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Danny_Ongais	owl:sameAs	dbpedia-de:Danny_Ongais .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Danny_Ongais	owl:sameAs	yago-res:Danny_Ongais .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Danny_Ongais	owl:sameAs	dbpedia-pt:Danny_Ongais .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Danny_Ongais	owl:sameAs	dbpedia-pl:Danny_Ongais ,
+		dbr:Danny_Ongais ,
+		<http://rdf.freebase.com/ns/m.04k7v3> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Danny_Ongais	owl:sameAs	dbpedia-nl:Danny_Ongais .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Danny_Ongais	owl:sameAs	dbpedia-it:Danny_Ongais ,
+		wikidata:Q172322 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Danny_Ongais	owl:sameAs	dbpedia-wikidata:Q172322 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Danny_Ongais	dct:subject	dbc:Native_Hawaiian_sportspeople ,
+		dbc:People_from_Maui ,
+		dbc:Ensign_Formula_One_drivers ,
+		dbc:Champ_Car_drivers ,
+		dbc:American_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Daytona_drivers> ,
+		dbc:Trans-Am_Series_drivers ,
+		dbc:NASCAR_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:20th-century_American_racing_drivers> ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:International_Race_of_Champions_drivers ,
+		dbc:Motorsports_Hall_of_Fame_of_America_inductees ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		<http://dbpedia.org/resource/Category:1942_births> ,
+		dbc:Dragster_drivers ,
+		dbc:Racing_drivers_from_Hawaii ,
+		dbc:IndyCar_Series_drivers ;
+	foaf:name	"Danny Ongais"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ongais,_Danny_(1984).jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Daniel"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Danny_Ongais	foaf:isPrimaryTopicOf	wikipedia-en:Danny_Ongais ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Danny_Ongais	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Danny_Ongais?oldid=740275078> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Danny_Ongais	dbp:birthDate	"1942-05-21"^^xsd:date ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20120502033544/http:/f1rejects.com/drivers/ongais/index.html> ;
+	dbp:caption	"Danny Ongais in 1984"^^xsd:string ;
+	dbo:abstract	"Daniel \u201EDanny\u201C Ongais (* 21. Mai 1942 in Kahului, Maui Island, Hawaii) ist ein ehemaliger US-amerikanischer Autorennfahrer."@de ,
+		"Danny Ongais (born May 21, 1942) is a retired American racing driver. Ongais is the only native Hawaiian to compete in the Indianapolis 500. A motorcycle, sports car, Formula One, and drag racing competitor, he won the American Hot Rod Association AA Gas Dragster Championship in 1963 and 1964, and in the National Hot Rod Association AA Dragster championship title in 1965. A flamboyant figure on the racing circuit, Ongais was nicknamed \"On-Gas\" and \"The Flyin' Hawaiian.\" In Formula One, Ongais in six Grands Prix, debuting on October 2, 1977, and recorded a best result of seventh. In 1996, at the age of 54, he served as the substitute driver for Scott Brayton in the Indianapolis 500, as Brayton had died in a crash while practicing shortly before the race. Starting last, Ongais finished 7th in what was his final 500. At the 1981 Indianapolis 500, Ongais was involved in a near-fatal wreck, which caused several arm and leg fractures as well as internal injuries. Four years later, at the Michigan 500, he spun on the exit of turn two and barrel-rolled down the back straight, during a race which had several crashes throughout its duration."@en ,
+		"Danny Ongais (Kahului, 21 de maio de 1942) \u00E9 um ex-piloto de F\u00F3rmula 1 e F\u00F3rmula Indy dos Estados Unidos."@pt ,
+		"Danny Ongais (Kahului (Hawa\u00EF), 21 mei 1942) is een Amerikaans voormalig autocoureur."@nl ,
+		"Danny Ongais (ur. 21 maja 1942 roku w Kahului) \u2013 by\u0142y ameryka\u0144ski kierowca wy\u015Bcigowy."@pl ,
+		"\u00C8 soprannominato Danny \"On the gas\" per il suo coraggio al volante delle auto da corsa."@it ,
+		"\u0414\u044D\u043D\u0438\u0435\u043B \u00AB\u0414\u044D\u043D\u043D\u0438\u00BB \u041E\u043D\u0433\u0435\u0439\u0441 (\u0430\u043D\u0433\u043B. Danny Ongais, 21 \u043C\u0430\u044F 1942 \u0433\u043E\u0434\u0430, \u041A\u0430\u0445\u0443\u043B\u0443\u0438, \u0448\u0442\u0430\u0442 \u0413\u0430\u0432\u0430\u0439\u0438, \u0421\u0428\u0410) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1 \u0438 \u0433\u043E\u043D\u043E\u0447\u043D\u044B\u0445 \u0441\u0435\u0440\u0438\u0439 USAC, CART \u0438 IRL."@ru ,
+		"Danny Ongais (n\u00E9 le 21 mai 1942 \u00E0 Kahului, Hawa\u00EF) est un ancien pilote automobile am\u00E9ricain."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ongais,_Danny_(1984).jpg?width=300> ;
+	dbo:birthDate	"1942-5-21"^^xsd:date ;
+	dbo:wikiPageRevisionID	740275078 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Kahului,_Hawaii> ;
+	dbo:wikiPageID	1228288 ;
+	dbp:imageSize	150 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Danny_Ongais	ns25:hypernym	dbr:American ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1977_United_States_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1978_Dutch_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"6"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Ensign; non-works Penske & Shadow"^^xsd:string ;
+	dbp:nationality	"American"^^xsd:string .
+<http://dbpedia.org/resource/1986_100_Miles_of_Norisring__9__1>	dbo:firstDriver	dbr:Danny_Ongais .
+<http://dbpedia.org/resource/1984_CART_PPG_Indy_Car_World_Series__Interscope_Racing__1>	dbo:firstDriver	dbr:Danny_Ongais .
+dbr:Texas_World_Speedway__1978__1	dbo:firstDriver	dbr:Danny_Ongais .
+<http://dbpedia.org/resource/1985_CART_PPG_Indy_Car_World_Series__Interscope_Racing__1>	dbo:firstDriver	dbr:Danny_Ongais .
+<http://dbpedia.org/resource/1986_CART_PPG_Indy_Car_World_Series__March_Engineering__1>	dbo:firstDriver	dbr:Danny_Ongais .
+<http://dbpedia.org/resource/1980_CART_PPG_Indy_Car_World_Series__Interscope_Racing__1>	dbo:firstDriver	dbr:Danny_Ongais .
+dbr:Canadian_Tire_Motorsport_Park__1978__1	dbo:firstDriver	dbr:Danny_Ongais .
+wikipedia-en:Danny_Ongais	foaf:primaryTopic	dbr:Danny_Ongais .
+dbr:Lola_T600	dbp:drivers	dbr:Danny_Ongais .
+<http://dbpedia.org/resource/1987_CART_PPG_Indy_Car_World_Series__Interscope_Racing__1>	dbo:firstDriver	dbr:Danny_Ongais .
+<http://dbpedia.org/resource/1980_CART_PPG_Indy_Car_World_Series__AMI_Racing__3>	dbo:firstDriver	dbr:Danny_Ongais .

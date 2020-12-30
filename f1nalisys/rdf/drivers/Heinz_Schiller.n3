@@ -1,0 +1,122 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Heinz_Schiller	rdf:type	wikidata:Q5 ,
+		wikidata:Q378622 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Heinz_Schiller	rdf:type	dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Heinz_Schiller	rdf:type	yago:WikicatSwissFormulaOneDrivers ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Heinz_Schiller	rdf:type	foaf:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:Driver110034906 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Heinz_Schiller	rdf:type	schema:Person .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Heinz_Schiller	rdf:type	ns7:Agent ,
+		ns7:NaturalPerson ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Heinz_Schiller	rdf:type	owl:Thing ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		dbo:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Heinz_Schiller	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatScuderiaFilipinettiFormulaOneDrivers ,
+		dbo:Athlete .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Heinz_Schiller	rdfs:label	"Heinz Schiller"@fr ,
+		"Heinz Schiller"@nl ,
+		"Heinz Schiller"@pt ,
+		"Heinz Schiller"@es ,
+		"Heinz Schiller"@de ,
+		"Heinz Schiller"@pl ,
+		"Heinz Schiller"@en ;
+	rdfs:comment	"Heinz Schiller (Frauenfeld, Su\u00ED\u00E7a, 25 de Janeiro de 1930 - 26 de Mar\u00E7o de 2007), foi um antigo piloto de f\u00F3rmula 1 sui\u00E7o. Ele participou em um Grande Pr\u00E9mio da Alemanha do Campeonato do Mundo de f\u00F3rmula 1 , no dia 5 de Agosto de 1962 no velho circuito de 22 km. de N\u00FCrburgring. Ele retirou o seu carro da corrida devido a problemas com o \u00F3leo, n\u00E3o conseguindo pontuar. O helv\u00E9tico tamb\u00E9m chegou a disputar uma edi\u00E7\u00E3o das 24 Horas de Le Mans. Schiller faleceu aos 77 anos de idade, no dia 26 de Mar\u00E7o de 2007."@pt ,
+		"Heinz Schiller (25 de junio de 1930, Frauenfeld - 26 de marzo de 2007) fue un piloto Suizo de F\u00F3rmula 1 que particip\u00F3 solamente en un Gran Premio, el Gran Premio de Alemania de 1962, corriendo para la escuder\u00EDa Lotus BRM."@es ,
+		"Heinz Schiller (January 25, 1930 in Frauenfeld \u2013 March 26, 2007), was a racing driver from Switzerland. He participated in one Formula One World Championship Grand Prix, on August 5, 1962. He retired from the race, scoring no championship points. Schiller was a speedboat champion in his native Switzerland before turning to sports car racing, finding success during the mid-1950s. He then switched to single seater cars, starting in hillclimbing before moving up to circuit racing."@en ,
+		"Heinz Schiller (* 25. Januar 1930 in Frauenfeld; \u2020 25. M\u00E4rz 2007 in Genf) war ein Schweizer Automobilrennfahrer."@de ,
+		"Heinz Schiller (n\u00E9 le 25 janvier 1930 \u00E0 Frauenfeld, Suisse - d\u00E9c\u00E9d\u00E9 le 26 mars 2007 \u00E0 Gen\u00E8ve, Suisse) est un pilote automobile suisse."@fr ,
+		"Heinz Schiller (ur. 25 stycznia 1930 roku w Frauenfeld, zm. 26 marca 2007 roku w Genewie) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ,
+		"Heinz Schiller (Frauenfeld, 25 januari 1930 - 26 maart 2007) was een Formule 1-rijder uit Zwitserland. Schiller deed mee in \u00E9\u00E9n Formule 1 wereldkampioenschap grand prix op 5 augustus 1962. Hij behaalde geen punten, omdat hij zijn auto moest verlaten wegens problemen met de oliedruk."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Heinz_Schiller	dbp:points	0 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Heinz_Schiller	owl:sameAs	dbpedia-pl:Heinz_Schiller ,
+		dbr:Heinz_Schiller .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Heinz_Schiller	owl:sameAs	dbpedia-de:Heinz_Schiller .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Heinz_Schiller	owl:sameAs	dbpedia-nl:Heinz_Schiller ,
+		<http://d-nb.info/gnd/142390356> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Heinz_Schiller	owl:sameAs	dbpedia-wikidata:Q116638 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Heinz_Schiller	owl:sameAs	dbpedia-pt:Heinz_Schiller ,
+		<http://viaf.org/viaf/62811497> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Heinz_Schiller	owl:sameAs	dbpedia-fr:Heinz_Schiller .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Heinz_Schiller	owl:sameAs	yago-res:Heinz_Schiller ,
+		wikidata:Q116638 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Heinz_Schiller	owl:sameAs	dbpedia-es:Heinz_Schiller ,
+		<http://rdf.freebase.com/ns/m.04kqhw> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Heinz_Schiller	dct:subject	dbc:Scuderia_Filipinetti_Formula_One_drivers ,
+		dbc:Swiss_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:2007_deaths> ,
+		dbc:Swiss_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1930_births> ;
+	foaf:name	"Heinz Schiller"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Heinz"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Heinz_Schiller	foaf:isPrimaryTopicOf	wikipedia-en:Heinz_Schiller ;
+	foaf:surname	"Schiller"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Heinz_Schiller	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Heinz_Schiller?oldid=727577286> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Heinz_Schiller	dbp:birthDate	"1930-01-25"^^xsd:date ;
+	dbp:deathDate	"2007-03-26"^^xsd:date ;
+	dbo:abstract	"Heinz Schiller (January 25, 1930 in Frauenfeld \u2013 March 26, 2007), was a racing driver from Switzerland. He participated in one Formula One World Championship Grand Prix, on August 5, 1962. He retired from the race, scoring no championship points. Schiller was a speedboat champion in his native Switzerland before turning to sports car racing, finding success during the mid-1950s. He then switched to single seater cars, starting in hillclimbing before moving up to circuit racing. He first appeared in Formula One at the beginning of 1962 with Ecurie Nationale Suisse, driving their three-year-old Porsche in the Brussels Grand Prix, where he finished 8th on aggregate after the three heats. He subsequently drove the same car at the 1962 Pau Grand Prix, coming home 9th. Under the Ecurie Filipinetti banner but still driving the same Porsche, Schiller failed to qualify at the Napoli Grand Prix, largely because only 10 cars were permitted to take the start. He was entered by Ecurie Maarsbergen for the 1962 Belgian Grand Prix but was withdrawn, before finishing 7th in the Grosser Preis der Solitude for Ecurie Filipinetti. He then switched to a Lotus 24 for his single World Championship event, the 1962 German Grand Prix which ended with oil pressure problems, as did his attempt at the Mediterranean Grand Prix, now back in the Porsche. Schiller made one appearance in Formula One in 1963, finishing 3rd at Pau but five laps down, again in the old Porsche, before returning to sports cars. He finished 10th at the 1964 24 Hours of Le Mans with Gerhard Koch."@en ,
+		"Heinz Schiller (Frauenfeld, 25 januari 1930 - 26 maart 2007) was een Formule 1-rijder uit Zwitserland. Schiller deed mee in \u00E9\u00E9n Formule 1 wereldkampioenschap grand prix op 5 augustus 1962. Hij behaalde geen punten, omdat hij zijn auto moest verlaten wegens problemen met de oliedruk."@nl ,
+		"Heinz Schiller (* 25. Januar 1930 in Frauenfeld; \u2020 25. M\u00E4rz 2007 in Genf) war ein Schweizer Automobilrennfahrer."@de ,
+		"Heinz Schiller (ur. 25 stycznia 1930 roku w Frauenfeld, zm. 26 marca 2007 roku w Genewie) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ,
+		"Heinz Schiller (25 de junio de 1930, Frauenfeld - 26 de marzo de 2007) fue un piloto Suizo de F\u00F3rmula 1 que particip\u00F3 solamente en un Gran Premio, el Gran Premio de Alemania de 1962, corriendo para la escuder\u00EDa Lotus BRM."@es ,
+		"Heinz Schiller (Frauenfeld, Su\u00ED\u00E7a, 25 de Janeiro de 1930 - 26 de Mar\u00E7o de 2007), foi um antigo piloto de f\u00F3rmula 1 sui\u00E7o. Ele participou em um Grande Pr\u00E9mio da Alemanha do Campeonato do Mundo de f\u00F3rmula 1 , no dia 5 de Agosto de 1962 no velho circuito de 22 km. de N\u00FCrburgring. Ele retirou o seu carro da corrida devido a problemas com o \u00F3leo, n\u00E3o conseguindo pontuar. O helv\u00E9tico tamb\u00E9m chegou a disputar uma edi\u00E7\u00E3o das 24 Horas de Le Mans. Schiller faleceu aos 77 anos de idade, no dia 26 de Mar\u00E7o de 2007."@pt ,
+		"Heinz Schiller (n\u00E9 le 25 janvier 1930 \u00E0 Frauenfeld, Suisse - d\u00E9c\u00E9d\u00E9 le 26 mars 2007 \u00E0 Gen\u00E8ve, Suisse) est un pilote automobile suisse."@fr ;
+	dbo:birthDate	"1930-1-25"^^xsd:date ;
+	dbo:deathDate	"2007-3-26"^^xsd:date ;
+	dbo:deathPlace	dbr:Geneva ;
+	dbo:wikiPageRevisionID	727577286 ;
+	dbo:birthPlace	dbr:Frauenfeld ;
+	dbo:wikiPageID	1233839 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Heinz_Schiller	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1962_German_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1962_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"non-works Lotus"^^xsd:string ;
+	dbp:nationality	"Swiss"^^xsd:string .
+<http://dbpedia.org/resource/1963_Pau_Grand_Prix>	dbo:thirdDriver	dbr:Heinz_Schiller .
+<http://dbpedia.org/resource/1962_24_Hours_of_Le_Mans__12__1>	dbo:firstDriver	dbr:Heinz_Schiller .
+<http://dbpedia.org/resource/1963_24_Hours_of_Le_Mans__24__1>	dbo:firstDriver	dbr:Heinz_Schiller .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__10__1>	dbo:firstDriver	dbr:Heinz_Schiller .
+wikipedia-en:Heinz_Schiller	foaf:primaryTopic	dbr:Heinz_Schiller .

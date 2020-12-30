@@ -1,0 +1,117 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Peter_Hirt	rdf:type	wikidata:Q378622 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Peter_Hirt	rdf:type	dbo:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Peter_Hirt	rdf:type	yago:CausalAgent100007347 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Peter_Hirt	rdf:type	foaf:Person ,
+		<http://dbpedia.org/class/yago/Wikicat\u00C9curieEspadonFormulaOneDrivers> ,
+		dbo:FormulaOneRacer ,
+		dbo:Athlete ,
+		wikidata:Q24229398 ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		wikidata:Q215627 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Peter_Hirt	rdf:type	ns6:Agent ,
+		dbo:Agent ,
+		yago:Operator110378412 .
+@prefix schema:	<http://schema.org/> .
+dbr:Peter_Hirt	rdf:type	schema:Person ,
+		dbo:MotorsportRacer ,
+		dbo:RacingDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Peter_Hirt	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Peter_Hirt	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatSwissFormulaOneDrivers ,
+		ns6:NaturalPerson ,
+		wikidata:Q5 ,
+		yago:PhysicalEntity100001930 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Peter_Hirt	rdfs:label	"Peter Hirt"@pt ,
+		"Peter Hirt"@nl ,
+		"Peter Hirt"@de ,
+		"Peter Hirt"@pl ,
+		"Peter Hirt"@it ,
+		"Peter Hirt"@en ,
+		"Peter Hirt"@fr ;
+	rdfs:comment	" Pour les articles homonymes, voir Hirt.Peter Hirt Peter Hirt, n\u00E9 le 30 mars 1910 \u00E0 Lenzburg et mort le 28 juin 1992 \u00E0 Zurich, est un pilote suisse de course automobile qui disputa cinq Grands Prix de championnat du monde de 1951 \u00E0 1953."@fr ,
+		"Peter Hirt (30 March 1910 \u2013 28 June 1992) was a racing driver from Switzerland. He participated in five World Championship Grands Prix, debuting on 27 May 1951. He scored no championship points. He was a member of the Ecurie Espadon."@en ,
+		"Peter Hirt (K\u00FCsnacht, Su\u00ED\u00E7a, 30 de mar\u00E7o de 1910 - Zurique, Su\u00ED\u00E7a, 28 de junho de 1992) foi um automobilista su\u00ED\u00E7o que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1951 e 1953."@pt ,
+		"Peter Hirt (* 30. M\u00E4rz 1910 in K\u00FCsnacht, Kanton Z\u00FCrich; \u2020 28. Juni 1992 in Z\u00FCrich) war ein Schweizer Automobilrennfahrer. Zun\u00E4chst startete er beim Gro\u00DFen Preis der Schweiz 1951 f\u00FCr das Team Ecurie Suisse in der Formel 1. Sein Veritas-Meteor, der eigentlich dem Formel 2-Reglement entsprach, blieb jedoch bereits am Start stehen. In den Jahren 1952 und 1953 ging Hirt insgesamt viermal bei Weltmeisterschaftsl\u00E4ufen mit einem privaten Ferrari der Ecurie Espadon an den Start, wobei sein bestes Ergebnis der siebte Platz beim Gro\u00DFen Preis der Schweiz 1952 war."@de ,
+		"Peter Hirt (30 maart 1910 - 28 juni 1992) was een Formule 1-coureur uit Zwitserland. Hij nam tussen 1951 en 1953 deel aan 5 Grands Prix voor de teams Veritas en Ferrari, waarin hij geen punten scoorde. Hij was lid van Ecurie Espadon."@nl ,
+		"Peter Hirt (ur. 30 marca 1910 roku w K\u00FCsnacht w Zurychu, zm. 28 czerwca 1992 roku w Zurychu) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Peter_Hirt	dbp:birthDate	"1910-03-30"^^xsd:date .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Peter_Hirt	owl:sameAs	dbpedia-wikidata:Q172120 ,
+		wikidata:Q172120 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Peter_Hirt	owl:sameAs	dbpedia-de:Peter_Hirt .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Peter_Hirt	owl:sameAs	dbpedia-pl:Peter_Hirt .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Peter_Hirt	owl:sameAs	dbpedia-it:Peter_Hirt .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Peter_Hirt	owl:sameAs	yago-res:Peter_Hirt .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Peter_Hirt	owl:sameAs	dbpedia-nl:Peter_Hirt ,
+		dbr:Peter_Hirt .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Peter_Hirt	owl:sameAs	dbpedia-fr:Peter_Hirt ,
+		<http://rdf.freebase.com/ns/m.04kwpl> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Peter_Hirt	owl:sameAs	dbpedia-pt:Peter_Hirt .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Peter_Hirt	dct:subject	dbc:Swiss_Formula_One_drivers ,
+		dbc:Swiss_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1910_births> ,
+		<http://dbpedia.org/resource/Category:\u00C9curie_Espadon_Formula_One_drivers> ,
+		<http://dbpedia.org/resource/Category:1992_deaths> ;
+	foaf:name	"Peter Hirt"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Peter"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Peter_Hirt	foaf:isPrimaryTopicOf	wikipedia-en:Peter_Hirt ;
+	foaf:surname	"Hirt"@en ;
+	dbp:points	0 ;
+	dbp:years	"\u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/Veritas_(constructor)> ,
+		dbr:Scuderia_Ferrari .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Peter_Hirt	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Peter_Hirt?oldid=703978845> ;
+	dbp:nationality	"Swiss"^^xsd:string ;
+	dbp:birthPlace	"Lenzburg, Aargau, Switzerland"^^xsd:string ;
+	dbp:deathDate	"1992-06-28"^^xsd:date ;
+	dbp:deathPlace	"Zurich, Switzerland"^^xsd:string ;
+	dbo:abstract	"Peter Hirt (ur. 30 marca 1910 roku w K\u00FCsnacht w Zurychu, zm. 28 czerwca 1992 roku w Zurychu) \u2013 szwajcarski kierowca wy\u015Bcigowy."@pl ,
+		"Peter Hirt (30 March 1910 \u2013 28 June 1992) was a racing driver from Switzerland. He participated in five World Championship Grands Prix, debuting on 27 May 1951. He scored no championship points. He was a member of the Ecurie Espadon."@en ,
+		"Peter Hirt (30 maart 1910 - 28 juni 1992) was een Formule 1-coureur uit Zwitserland. Hij nam tussen 1951 en 1953 deel aan 5 Grands Prix voor de teams Veritas en Ferrari, waarin hij geen punten scoorde. Hij was lid van Ecurie Espadon."@nl ,
+		"Peter Hirt (* 30. M\u00E4rz 1910 in K\u00FCsnacht, Kanton Z\u00FCrich; \u2020 28. Juni 1992 in Z\u00FCrich) war ein Schweizer Automobilrennfahrer. Zun\u00E4chst startete er beim Gro\u00DFen Preis der Schweiz 1951 f\u00FCr das Team Ecurie Suisse in der Formel 1. Sein Veritas-Meteor, der eigentlich dem Formel 2-Reglement entsprach, blieb jedoch bereits am Start stehen. In den Jahren 1952 und 1953 ging Hirt insgesamt viermal bei Weltmeisterschaftsl\u00E4ufen mit einem privaten Ferrari der Ecurie Espadon an den Start, wobei sein bestes Ergebnis der siebte Platz beim Gro\u00DFen Preis der Schweiz 1952 war."@de ,
+		" Pour les articles homonymes, voir Hirt.Peter Hirt Peter Hirt, n\u00E9 le 30 mars 1910 \u00E0 Lenzburg et mort le 28 juin 1992 \u00E0 Zurich, est un pilote suisse de course automobile qui disputa cinq Grands Prix de championnat du monde de 1951 \u00E0 1953."@fr ,
+		"Peter Hirt (K\u00FCsnacht, Su\u00ED\u00E7a, 30 de mar\u00E7o de 1910 - Zurique, Su\u00ED\u00E7a, 28 de junho de 1992) foi um automobilista su\u00ED\u00E7o que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1951 e 1953."@pt ;
+	dbo:birthDate	"1910-3-30"^^xsd:date ;
+	dbo:deathDate	"1992-6-28"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/Z\u00FCrich> ;
+	dbo:wikiPageRevisionID	703978845 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/K\u00FCsnacht> ;
+	dbo:wikiPageID	1235411 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1951_Swiss_Grand_Prix> ;
+	dbo:races	"5"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1953_Swiss_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Peter_Hirt	ns25:hypernym	dbr:Driver .
+dbr:Hirt	dbo:wikiPageDisambiguates	dbr:Peter_Hirt .
+wikipedia-en:Peter_Hirt	foaf:primaryTopic	dbr:Peter_Hirt .

@@ -1,0 +1,221 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Derek_Warwick	foaf:primaryTopic	dbr:Derek_Warwick .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1984_British_Grand_Prix>	dbo:secondDriver	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/1984_German_Grand_Prix>	dbo:thirdDriver	dbr:Derek_Warwick .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Mark_Blundell	dbp:years	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/1984_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Derek_Warwick .
+dbr:Volker_Weidler	dbp:after	dbr:Derek_Warwick .
+dbr:Yannick_Dalmas	dbp:years	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/1986_100_Miles_of_Norisring__3__1>	dbo:firstDriver	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/\u00C9ric_H\u00E9lary>	dbp:before	dbr:Derek_Warwick .
+dbr:Geoff_Brabham	dbp:before	dbr:Derek_Warwick .
+dbr:Teo_Fabi	dbp:after	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/1984_Detroit_Grand_Prix>	dbo:fastestDriver	dbr:Derek_Warwick .
+dbr:Stephen_South	dbp:after	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/1984_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Derek_Warwick .
+dbr:Christophe_Bouchut	dbp:before	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/Warwick_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/John_Watson_(racing_driver)>	dbp:after	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/1982_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Derek_Warwick .
+<http://dbpedia.org/resource/Paul_Warwick_(racing_driver)>	dbp:relatedTo	dbr:Derek_Warwick .
+dbr:Johnny_Herbert	dbp:after	dbr:Derek_Warwick .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Derek_Warwick	rdf:type	yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatEuropeanFormulaThreeChampionshipDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Derek_Warwick	rdf:type	ns7:NaturalPerson .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Derek_Warwick	rdf:type	wikidata:Q24229398 ,
+		ns7:Agent ,
+		yago:WikicatGrandPrixMastersDrivers ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatTolemanFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Derek_Warwick	rdf:type	schema:Person ,
+		dbo:RacingDriver ,
+		dbo:MotorsportRacer ,
+		foaf:Person ,
+		wikidata:Q378622 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Derek_Warwick	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q5 ,
+		dbo:Athlete ,
+		yago:WikicatArrowsFormulaOneDrivers ,
+		yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:WikicatRenaultFormulaOneDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		yago:Driver110034906 ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Derek_Warwick	rdf:type	owl:Thing ,
+		yago:Operator110378412 ,
+		dbo:Agent ,
+		yago:WikicatPorscheSupercupDrivers ,
+		yago:WikicatTeamLotusFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Derek_Warwick	rdfs:label	"Derek Warwick"@fr ,
+		"Derek Warwick"@en ,
+		"Derek Warwick"@es ,
+		"\u062F\u064A\u0631\u064A\u0643 \u0648\u0627\u0631\u0648\u064A\u0643"@ar ,
+		"\u0423\u043E\u0440\u0438\u043A, \u0414\u0435\u0440\u0435\u043A"@ru ,
+		"Derek Warwick"@de ,
+		"\u30C7\u30EC\u30C3\u30AF\u30FB\u30EF\u30FC\u30A6\u30A3\u30C3\u30AF"@ja ,
+		"Derek Warwick"@pl ,
+		"Derek Warwick"@pt ,
+		"Derek Warwick"@it ,
+		"Derek Warwick"@nl ;
+	rdfs:comment	"Derek Warwick (* 27. August 1954 in Alresford, Hampshire) ist ein ehemaliger britischer Formel-1-Rennfahrer und Motorsport-Kommentator. Am Beginn seiner Motorsportkarriere handelte die Fachpresse Warwick als einen sicheren Kandidaten, der ebenso wie Nigel Mansell den Durchbruch in der h\u00F6chsten Formel-Rennklasse schaffen w\u00FCrde. Er erreichte immerhin vier Podestpl\u00E4tze in der K\u00F6nigsklasse des Motorsports und gewann 1992 das 24-Stunden-Rennen von Le Mans."@de ,
+		"\u062F\u064A\u0631\u064A\u0643 \u0648\u0627\u0631\u0648\u064A\u0643 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Derek Warwick) \u0645\u0648\u0627\u0644\u064A\u062F 27 \u0623\u063A\u0633\u0637\u0633 1954 \u0641\u064A \u0647\u0627\u0645\u0628\u0634\u064A\u0631\u060C \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1981. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 162 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"La sua carriera \u00E8 legata in particolare al mondo della Formula 1, categoria in cui ha corso per undici campionati, ottenendo come miglior risultato due secondi posti. Nonostante gli venisse riconosciuto un grande talento da parte della stampa specializzata, non \u00E8 mai riuscito a finalizzarlo in quanto spesso si \u00E8 ritrovato a guidare vetture non all'altezza o ha compiuto scelte sportive errate. Nel suo palmares figura anche il titolo di F3 inglese, vinto nel 1978. Ricopre anche la carica di presidente del British Racing Drivers' Club."@it ,
+		"Derek Stanley Arthur Warwick (born 27 August 1954) is a British former racing driver from England, who lives in Jersey. He raced for many years in Formula One, collecting four podiums but never winning a Grand Prix. He did, however, win the 1992 24 Hours of Le Mans and 1992 World Sportscar Championship. In 2005 and 2006 he raced in the inaugural season of the Grand Prix Masters formula for retired Formula One drivers. He has served as the fourth steward for three Grands Prix in 2010 and 2011. He is president of the British Racing Drivers Club, succeeding Damon Hill."@en ,
+		"Derek Stanley Arthur Warwick (nacido el 27 de agosto de 1954 en Alresford, Hampshire, Inglaterra) fue un piloto de automovilismo brit\u00E1nico que compiti\u00F3 en la F\u00F3rmula 1. Es considerado como uno de los mejores pilotos de F1 que nunca gan\u00F3 un Gran Premio, a pesar de haber corrido durante varios a\u00F1os. Tambi\u00E9n, Warwick particip\u00F3 exitosamente en carreras de resistencia, ganando el Campeonato Mundial de Resistencia en 1992, y tambi\u00E9n fue parte del equipo Peugeot, ganador de las 24 horas de Le Mans en ese mismo a\u00F1o. Actualmente ocupa el cargo de presidente del Club Brit\u00E1nico de Pilotos (British Racing Drivers' Club)."@es ,
+		"Derek Stanley Arthur Warwick (Alresford, 27 de Agosto de 1954) \u00E9 um automobilista brit\u00E2nico. Correu ininterruptamente entre 1981 e 1990, voltando em 1993."@pt ,
+		"\u0414\u0435\u0440\u0435\u043A \u0421\u0442\u044D\u043D\u043B\u0438 \u0410\u0440\u0442\u0443\u0440 \u0423\u043E\u0440\u0438\u043A (\u0430\u043D\u0433\u043B. Derek Stanley Arthur Warwick) (27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1954, \u0410\u043B\u044C\u0440\u0435\u0441\u0444\u043E\u0440\u0434, \u0425\u044D\u043C\u043F\u0448\u0438\u0440, \u0410\u043D\u0433\u043B\u0438\u044F,) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0423\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 13 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043D\u043E \u043D\u0438\u043A\u043E\u0433\u0434\u0430 \u043D\u0435 \u043F\u043E\u0431\u0435\u0436\u0434\u0430\u043B \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438. \u0412 2006 \u0433\u043E\u0434\u0443 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u0430\u0441\u0442\u0435\u0440\u043E\u0432."@ru ,
+		"\u30C7\u30EC\u30C3\u30AF\u30FB\u30B9\u30BF\u30F3\u30EA\u30FC\u30FB\u30A2\u30FC\u30B5\u30FC\u30FB\u30EF\u30FC\u30A6\u30A3\u30C3\u30AF\uFF08Derek Stanley Arthur Warwick, 1954\u5E748\u670827\u65E5 - \uFF09\u306F\u30A4\u30AE\u30EA\u30B9\u30CF\u30F3\u30D7\u30B7\u30E3\u30FC\u5DDE\u30CB\u30E5\u30FC\u30FB\u30A2\u30EB\u30EC\u30B9\u30D5\u30A9\u30FC\u30C9\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30022011\u5E748\u6708\u306BBRDC\uFF08\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30FB\u30AF\u30E9\u30D6\uFF09\u4F1A\u9577\u306B\u5C31\u4EFB\u3057\u305F\u3002 \u300CWarwick\u300D\u306E\u767A\u97F3\u306F\u672C\u6765\u300C\u30A6\u30A9\u30EA\u30C3\u30AF\u300D\u3067\u3042\u308B\u304C\u3001\u300C\u30EF\u30FC\u30A6\u30A3\u30C3\u30AF\u300D\u8868\u8A18\u304C\u5B9A\u7740\u3057\u3066\u3044\u308B\u3002\u307E\u305F\u3001\u300C\u30A6\u30A9\u30FC\u30A6\u30A3\u30C3\u30AF\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u4ED6\u306B\u3082\u3001\u30D5\u30B8\u30C6\u30EC\u30D3F1\u4E2D\u7D99\u3067\u306F\u300C\u30C7\u30A3\u30EC\u30C3\u30AF\u30FB\u30EF\u30FC\u30A6\u30A3\u30C3\u30AF\u300D\u3068\u8868\u8A18\u3055\u308C\u3066\u3044\u305F\u3002"@ja ,
+		"Derek Warwick, n\u00E9 le 27 ao\u00FBt 1954 \u00E0 Alresford dans le Hampshire en Angleterre, est un pilote automobile anglais, pr\u00E9sent en Formule 1 de 1981 \u00E0 1993. Il a disput\u00E9 146 Grands prix et inscrit 71 points. Son meilleur r\u00E9sultat en course est une deuxi\u00E8me place (en 1984 \u00E0 Zolder et Brands-Hatch). Warwick a \u00E9galement r\u00E9alis\u00E9 deux meilleurs tours en course et men\u00E9 \u00E0 deux reprises un Grand Prix."@fr ,
+		"Derek Stanley Arthur Warwick (Alresford, Hampshire, 27 augustus 1954) is een voormalige Britse autocoureur. Hij nam 162 keer deel aan de Formule 1."@nl ,
+		"Derek Stanley Arthur Warwick (ur. 27 sierpnia 1954) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ;
+	dbp:points	71 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	dbpedia-de:Derek_Warwick .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	dbpedia-wikidata:Q171442 ,
+		wikidata:Q171442 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	dbpedia-es:Derek_Warwick ,
+		dbr:Derek_Warwick .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	yago-res:Derek_Warwick .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	dbpedia-pt:Derek_Warwick .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	dbpedia-nl:Derek_Warwick ,
+		<http://ja.dbpedia.org/resource/\u30C7\u30EC\u30C3\u30AF\u30FB\u30EF\u30FC\u30A6\u30A3\u30C3\u30AF> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	dbpedia-id:Derek_Warwick .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	dbpedia-fr:Derek_Warwick .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	dbpedia-it:Derek_Warwick .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Derek_Warwick	owl:sameAs	dbpedia-pl:Derek_Warwick ,
+		<http://rdf.freebase.com/ns/m.04c3s8> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Derek_Warwick	dct:subject	dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:Porsche_Supercup_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:English_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1954_births> ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:Living_people ,
+		dbc:European_Formula_Three_Championship_drivers ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:Renault_Formula_One_drivers ,
+		dbc:Arrows_Formula_One_drivers ,
+		dbc:People_from_Alresford ,
+		dbc:BRDC_Gold_Star_winners ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_winning_drivers> ,
+		dbc:Grand_Prix_Masters_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Toleman_Formula_One_drivers ;
+	foaf:name	"Derek Warwick"@en ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Derek_Warwick_Silverstone_2014.JPG> ;
+	dct:description	"British racecar driver"@en ;
+	foaf:givenName	"Derek"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Derek_Warwick ;
+	foaf:surname	"Warwick"@en ;
+	dbp:title	<http://dbpedia.org/resource/British_Racing_Drivers\u0027_Club> ,
+		dbr:Hawthorn_Memorial_Trophy ,
+		dbr:List_of_24_Hours_of_Le_Mans_winners ,
+		dbr:World_Sportscar_Championship ,
+		"British Competition Driver of the Year"^^xsd:string ,
+		dbr:Autosport ,
+		"British Formula 3 ChampionshipBRDC Series Champion"^^xsd:string ;
+	dbp:years	2011 ,
+		dbr:Mark_Blundell ,
+		1988 ,
+		1984 ,
+		1992 ,
+		"\u2013,"^^xsd:string ,
+		1978 ,
+		dbr:Yannick_Dalmas ;
+	dbo:nationality	<http://dbpedia.org/resource/1984_British_Grand_Prix> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Derek_Warwick	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Derek_Warwick?oldid=736055018> ;
+	dbp:before	dbr:Nigel_Mansell ,
+		dbr:Volker_Weidler ,
+		dbr:Stephen_South ,
+		dbr:Teo_Fabi ,
+		<http://dbpedia.org/resource/John_Watson_(racing_driver)> ,
+		dbr:Johnny_Herbert ,
+		dbr:Bertrand_Gachot ;
+	dbp:after	dbr:Chico_Serra ,
+		dbr:Christophe_Bouchut ,
+		dbr:Damon_Hill ,
+		dbr:Nigel_Mansell ,
+		dbr:Geoff_Brabham ,
+		<http://dbpedia.org/resource/\u00C9ric_H\u00E9lary> ,
+		"none"^^xsd:string ;
+	dbp:birthPlace	"New Alresford, Hampshire, United Kingdom"^^xsd:string ;
+	dbp:bf1Championships	0 ;
+	dbp:bf1FastestLaps	0 ;
+	dbp:bf1Podiums	1 ;
+	dbp:bf1Points	6 ;
+	dbp:bf1Poles	0 ;
+	dbp:bf1Races	1 ;
+	dbp:bf1Wins	0 ;
+	dbp:bf1Years	1979 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Derek_Warwick	dbp:birthDate	"1954-08-27"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.funof1.com.ar/tx/pi198104036_eng_maxi_.htm> .
+@prefix ns27:	<http://www.champions365.com/experts/derekwarwick/> .
+dbr:Derek_Warwick	dbo:wikiPageExternalLink	ns27:view ;
+	dbp:caption	"Warwick at the 2014 British Grand Prix"^^xsd:string ;
+	dbo:abstract	"\u062F\u064A\u0631\u064A\u0643 \u0648\u0627\u0631\u0648\u064A\u0643 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Derek Warwick) \u0645\u0648\u0627\u0644\u064A\u062F 27 \u0623\u063A\u0633\u0637\u0633 1954 \u0641\u064A \u0647\u0627\u0645\u0628\u0634\u064A\u0631\u060C \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1981. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 162 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"\u30C7\u30EC\u30C3\u30AF\u30FB\u30B9\u30BF\u30F3\u30EA\u30FC\u30FB\u30A2\u30FC\u30B5\u30FC\u30FB\u30EF\u30FC\u30A6\u30A3\u30C3\u30AF\uFF08Derek Stanley Arthur Warwick, 1954\u5E748\u670827\u65E5 - \uFF09\u306F\u30A4\u30AE\u30EA\u30B9\u30CF\u30F3\u30D7\u30B7\u30E3\u30FC\u5DDE\u30CB\u30E5\u30FC\u30FB\u30A2\u30EB\u30EC\u30B9\u30D5\u30A9\u30FC\u30C9\u51FA\u8EAB\u306E\u5143\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30022011\u5E748\u6708\u306BBRDC\uFF08\u30D6\u30EA\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30EC\u30FC\u30B7\u30F3\u30B0\u30FB\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30FB\u30AF\u30E9\u30D6\uFF09\u4F1A\u9577\u306B\u5C31\u4EFB\u3057\u305F\u3002 \u300CWarwick\u300D\u306E\u767A\u97F3\u306F\u672C\u6765\u300C\u30A6\u30A9\u30EA\u30C3\u30AF\u300D\u3067\u3042\u308B\u304C\u3001\u300C\u30EF\u30FC\u30A6\u30A3\u30C3\u30AF\u300D\u8868\u8A18\u304C\u5B9A\u7740\u3057\u3066\u3044\u308B\u3002\u307E\u305F\u3001\u300C\u30A6\u30A9\u30FC\u30A6\u30A3\u30C3\u30AF\u300D\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u4ED6\u306B\u3082\u3001\u30D5\u30B8\u30C6\u30EC\u30D3F1\u4E2D\u7D99\u3067\u306F\u300C\u30C7\u30A3\u30EC\u30C3\u30AF\u30FB\u30EF\u30FC\u30A6\u30A3\u30C3\u30AF\u300D\u3068\u8868\u8A18\u3055\u308C\u3066\u3044\u305F\u3002"@ja ,
+		"\u0414\u0435\u0440\u0435\u043A \u0421\u0442\u044D\u043D\u043B\u0438 \u0410\u0440\u0442\u0443\u0440 \u0423\u043E\u0440\u0438\u043A (\u0430\u043D\u0433\u043B. Derek Stanley Arthur Warwick) (27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1954, \u0410\u043B\u044C\u0440\u0435\u0441\u0444\u043E\u0440\u0434, \u0425\u044D\u043C\u043F\u0448\u0438\u0440, \u0410\u043D\u0433\u043B\u0438\u044F,) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A. \u0423\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 13 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1, \u043D\u043E \u043D\u0438\u043A\u043E\u0433\u0434\u0430 \u043D\u0435 \u043F\u043E\u0431\u0435\u0436\u0434\u0430\u043B \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438. \u0412 2006 \u0433\u043E\u0434\u0443 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u041C\u0430\u0441\u0442\u0435\u0440\u043E\u0432."@ru ,
+		"Derek Stanley Arthur Warwick (nacido el 27 de agosto de 1954 en Alresford, Hampshire, Inglaterra) fue un piloto de automovilismo brit\u00E1nico que compiti\u00F3 en la F\u00F3rmula 1. Es considerado como uno de los mejores pilotos de F1 que nunca gan\u00F3 un Gran Premio, a pesar de haber corrido durante varios a\u00F1os. Tambi\u00E9n, Warwick particip\u00F3 exitosamente en carreras de resistencia, ganando el Campeonato Mundial de Resistencia en 1992, y tambi\u00E9n fue parte del equipo Peugeot, ganador de las 24 horas de Le Mans en ese mismo a\u00F1o. Actualmente ocupa el cargo de presidente del Club Brit\u00E1nico de Pilotos (British Racing Drivers' Club)."@es ,
+		"Derek Warwick, n\u00E9 le 27 ao\u00FBt 1954 \u00E0 Alresford dans le Hampshire en Angleterre, est un pilote automobile anglais, pr\u00E9sent en Formule 1 de 1981 \u00E0 1993. Il a disput\u00E9 146 Grands prix et inscrit 71 points. Son meilleur r\u00E9sultat en course est une deuxi\u00E8me place (en 1984 \u00E0 Zolder et Brands-Hatch). Warwick a \u00E9galement r\u00E9alis\u00E9 deux meilleurs tours en course et men\u00E9 \u00E0 deux reprises un Grand Prix."@fr ,
+		"Derek Stanley Arthur Warwick (ur. 27 sierpnia 1954) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Derek Warwick (* 27. August 1954 in Alresford, Hampshire) ist ein ehemaliger britischer Formel-1-Rennfahrer und Motorsport-Kommentator. Am Beginn seiner Motorsportkarriere handelte die Fachpresse Warwick als einen sicheren Kandidaten, der ebenso wie Nigel Mansell den Durchbruch in der h\u00F6chsten Formel-Rennklasse schaffen w\u00FCrde. Er erreichte immerhin vier Podestpl\u00E4tze in der K\u00F6nigsklasse des Motorsports und gewann 1992 das 24-Stunden-Rennen von Le Mans."@de ,
+		"Derek Stanley Arthur Warwick (born 27 August 1954) is a British former racing driver from England, who lives in Jersey. He raced for many years in Formula One, collecting four podiums but never winning a Grand Prix. He did, however, win the 1992 24 Hours of Le Mans and 1992 World Sportscar Championship. In 2005 and 2006 he raced in the inaugural season of the Grand Prix Masters formula for retired Formula One drivers. He has served as the fourth steward for three Grands Prix in 2010 and 2011. He is president of the British Racing Drivers Club, succeeding Damon Hill."@en ,
+		"Derek Stanley Arthur Warwick (Alresford, 27 de Agosto de 1954) \u00E9 um automobilista brit\u00E2nico. Correu ininterruptamente entre 1981 e 1990, voltando em 1993."@pt ,
+		"La sua carriera \u00E8 legata in particolare al mondo della Formula 1, categoria in cui ha corso per undici campionati, ottenendo come miglior risultato due secondi posti. Nonostante gli venisse riconosciuto un grande talento da parte della stampa specializzata, non \u00E8 mai riuscito a finalizzarlo in quanto spesso si \u00E8 ritrovato a guidare vetture non all'altezza o ha compiuto scelte sportive errate. Nel suo palmares figura anche il titolo di F3 inglese, vinto nel 1978. Ricopre anche la carica di presidente del British Racing Drivers' Club."@it ,
+		"Derek Stanley Arthur Warwick (Alresford, Hampshire, 27 augustus 1954) is een voormalige Britse autocoureur. Hij nam 162 keer deel aan de Formule 1."@nl ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Derek_Warwick_Silverstone_2014.JPG?width=300> ;
+	dbo:birthDate	"1954-8-27"^^xsd:date ;
+	dbo:wikiPageRevisionID	736055018 ;
+	dbo:wikiPageID	1158017 .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Derek_Warwick	ns28:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"2"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1981_San_Marino_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1993_Australian_Grand_Prix> ;
+	dbo:podiums	"4"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"162"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Footwork_Arrows ,
+		dbr:Toleman ,
+		dbr:Team_Lotus ,
+		dbr:Brabham ,
+		dbr:Arrows_Grand_Prix_International ,
+		dbr:Renault_F1 .
+dbr:Bertrand_Gachot	dbp:after	dbr:Derek_Warwick .

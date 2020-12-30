@@ -1,0 +1,165 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Hans_Stuck	foaf:primaryTopic	dbr:Hans_Stuck .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1936_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Hans_Stuck ;
+	dbo:fastestDriver	dbr:Hans_Stuck .
+dbr:Hans_von_Stuck	dbo:wikiPageRedirects	dbr:Hans_Stuck .
+dbr:Hans_Von_Stuck	dbo:wikiPageRedirects	dbr:Hans_Stuck .
+<http://dbpedia.org/resource/1937_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Hans_Stuck ;
+	dbo:poleDriver	dbr:Hans_Stuck .
+<http://dbpedia.org/resource/1934_Swiss_Grand_Prix>	dbo:firstDriver	dbr:Hans_Stuck ;
+	dbo:poleDriver	dbr:Hans_Stuck .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Juan_Zanelli	dbp:before	dbr:Hans_Stuck .
+<http://dbpedia.org/resource/1934_German_Grand_Prix>	dbo:fastestDriver	dbr:Hans_Stuck ;
+	dbo:firstDriver	dbr:Hans_Stuck .
+<http://dbpedia.org/resource/1935_German_Grand_Prix>	dbo:secondDriver	dbr:Hans_Stuck .
+<http://dbpedia.org/resource/1936_German_Grand_Prix>	dbo:secondDriver	dbr:Hans_Stuck .
+<http://dbpedia.org/resource/1938_German_Grand_Prix>	dbo:thirdDriver	dbr:Hans_Stuck .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Hans_Stuck	rdf:type	foaf:Person ,
+		dbo:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Hans_Stuck	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Hans_Stuck	rdf:type	umbel-rc:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Hans_Stuck	rdf:type	yago:WikicatGermanFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Hans_Stuck	rdf:type	wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		yago:CausalAgent100007347 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Hans_Stuck	rdf:type	schema:Person ,
+		yago:WikicatAFMFormulaOneDrivers ,
+		dbo:Person ,
+		yago:Operator110378412 ,
+		<http://dbpedia.org/class/yago/Wikicat\u00C9curieEspadonFormulaOneDrivers> ,
+		dbo:MotorsportSeason .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Hans_Stuck	rdf:type	ns11:NaturalPerson ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		dbo:FormulaOneRacer ,
+		yago:PhysicalEntity100001930 ,
+		ns11:Agent ,
+		wikidata:Q378622 ,
+		dbo:RacingDriver ,
+		wikidata:Q5 ,
+		dbo:Agent ,
+		dbo:MotorsportRacer ,
+		yago:WikicatGrandPrixDrivers ,
+		umbel-rc:RaceCarDriver .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Hans_Stuck	rdfs:label	"Hans Stuck"@nl ,
+		"Hans Stuck"@de ,
+		"Hans Stuck"@pl ,
+		"Hans Stuck"@pt ,
+		"Hans Stuck"@it ,
+		"Hans Stuck"@en ,
+		"Hans Stuck"@fr ;
+	rdfs:comment	"Hans Stuck (ou Hans Stuck von Villiez), n\u00E9 le 27 d\u00E9cembre 1900 \u00E0 Varsovie et mort le 9 f\u00E9vrier 1978 \u00E0 Grainau est un pilote automobile allemand. Son fils Hans-Joachim Stuck (n\u00E9 en 1951) et son petit-fils Johannes Stuck sont tous deux devenus pilotes. Malgr\u00E9 ses nombreux succ\u00E8s en Grand Prix avec Auto Union au d\u00E9but des ann\u00E9es 1930, l'\u00E9poque des Fl\u00E8ches d'Argent, il est surtout connu pour avoir domin\u00E9 les Championnats de la montagne o\u00F9 il a gagn\u00E9 son surnom de Bergk\u00F6nig (ou Roi de la montagne)."@fr ,
+		"Hans Stuck (* 27. Dezember 1900 in Warschau; \u2020 9. Februar 1978 in Grainau) war ein deutsch-\u00F6sterreichischer Automobilrennfahrer. Hans Stuck ging als \u201Eder Bergk\u00F6nig\u201C in die Motorsportgeschichte ein, weil er besonders bei Bergrennen sehr viele Erfolge erzielte. Er galt zudem als Prototyp des Herrenfahrers."@de ,
+		"Hans Stuck (sometimes called Hans Stuck von Villiez, last name pronounced shtook) (27 December 1900, in Warsaw \u2013 9 February 1978, in Grainau) was a German motor racing driver. Both his son Hans-Joachim Stuck (born 1951) and his grandsons Johannes and Ferdinand Stuck became race drivers. Despite many successes in Grand Prix motor racing for Auto Union in the early 1930s, during the era of the famous \"Silver Arrows\", he is now mostly known for his domination of hillclimbing, which earned him the nickname \"Bergk\u00F6nig\" or \"King of the Mountains\"."@en ,
+		"Hans Stuck (\u00E0s vezes chamado Hans Stuck von Villiez) (27 de dezembro de 1900 - 9 de fevereiro de 1978) foi um automobilista alem\u00E3o. Seu filho, Hans-Joachim Stuck (nascido em 1951) e seu neto Johannes Stuck, tornaram-se tamb\u00E9m pilotos reconhecidos."@pt ,
+		"Hans Stuck (Warschau, 27 december 1900 - Grainau, 9 februari 1978) was een autocoureur uit Duitsland. Zijn grootste triomfen behaalden hij in de heuvelklim, zijn bijnaam was Bergk\u00F6nig. Hij is de vader van Hans-Joachim Stuck."@nl ,
+		"Nonostante i suoi molti successi nei Gran Premi di automobilismo, con la Auto Union all'epoca delle \"Frecce d'argento\", \u00E8 conosciuto principalmente per il suo dominio nelle corse in salita che gli valse il nomignolo di \"Bergk\u00F6nig\" (re delle montagne)."@it ,
+		"Hans Stuck lub Stuck von Villiez Hans, w Formule 1 startuj\u0105cy jako Hans von Stuck (ur. 27 grudnia 1900 roku w Warszawie, zm. 9 lutego 1978 roku w Grainau) \u2013 niemiecki, w latach 1932\u20131938 austriacki kierowca wy\u015Bcigowy. W Formule 1 zadebiutowa\u0142 w Grand Prix W\u0142och w 1951 roku w zespole British Racing Motors Ltd. G\u00F3rski mistrz Europy (Austro-Daimler) w 1930 oraz mistrz Europy Grand Prix (Auto Union) w 1934 roku. Po II wojnie \u015Bwiatowej do 1960 roku by\u0142 uczestnikiem wy\u015Bcig\u00F3w g\u00F3rskich samochod\u00F3w ma\u0142olitra\u017Cowych."@pl ;
+	dbp:points	0 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Hans_Stuck	owl:sameAs	dbpedia-de:Hans_Stuck .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Hans_Stuck	owl:sameAs	dbpedia-pt:Hans_Stuck ,
+		<http://rdf.freebase.com/ns/m.03k11w> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Hans_Stuck	owl:sameAs	dbpedia-fr:Hans_Stuck .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Hans_Stuck	owl:sameAs	dbpedia-nl:Hans_Stuck .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Hans_Stuck	owl:sameAs	dbpedia-wikidata:Q61541 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Hans_Stuck	owl:sameAs	dbpedia-it:Hans_Stuck ,
+		dbr:Hans_Stuck ,
+		wikidata:Q61541 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Hans_Stuck	owl:sameAs	yago-res:Hans_Stuck .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Hans_Stuck	owl:sameAs	dbpedia-pl:Hans_Stuck ,
+		<http://d-nb.info/gnd/11875615X> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Hans_Stuck	dct:subject	dbc:AFM_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:\u00C9curie_Espadon_Formula_One_drivers> ,
+		dbc:People_from_Warsaw ,
+		dbc:German_military_personnel_of_World_War_I ,
+		dbc:National_Socialist_Motor_Corps_members ,
+		<http://dbpedia.org/resource/Category:1978_deaths> ,
+		dbc:Grand_Prix_drivers ,
+		<http://dbpedia.org/resource/Category:1900_births> ,
+		dbc:German_racing_drivers ,
+		dbc:German_Formula_One_drivers ,
+		dbc:BRM_Formula_One_drivers ;
+	foaf:name	"Hans Stuck"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_102-08188,_Hans_von_Stuck.jpg> ;
+	dct:description	"German racecar driver born in 1900"@en ;
+	foaf:givenName	"Hans"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Hans_Stuck ;
+	foaf:surname	"Stuck"@en ;
+	dbp:title	"German Mountain Climb Champion"^^xsd:string ,
+		dbr:European_Hill_Climb_Championship ;
+	dbp:years	1937 ,
+		1930 ,
+		1932 ,
+		1934 ,
+		"\u2013"^^xsd:string ;
+	dbo:nationality	dbr:Germany .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Hans_Stuck	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Hans_Stuck?oldid=734377970> ;
+	dbp:before	dbr:Bernd_Rosemeyer ,
+		dbr:Rudolf_Caracciola ,
+		"None"^^xsd:string ;
+	dbp:after	dbr:Bernd_Rosemeyer ,
+		dbr:Juan_Zanelli ,
+		dbr:Mario_Tadini ,
+		dbr:Hermann_Lang .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Hans_Stuck	dbp:birthDate	"1900-12-27"^^xsd:date ;
+	dbp:deathDate	"1978-02-09"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.ddavid.com/formula1/stuck.htm> ,
+		<http://8w.forix.com/stuck.html> ;
+	dbo:abstract	"Hans Stuck (ou Hans Stuck von Villiez), n\u00E9 le 27 d\u00E9cembre 1900 \u00E0 Varsovie et mort le 9 f\u00E9vrier 1978 \u00E0 Grainau est un pilote automobile allemand. Son fils Hans-Joachim Stuck (n\u00E9 en 1951) et son petit-fils Johannes Stuck sont tous deux devenus pilotes. Malgr\u00E9 ses nombreux succ\u00E8s en Grand Prix avec Auto Union au d\u00E9but des ann\u00E9es 1930, l'\u00E9poque des Fl\u00E8ches d'Argent, il est surtout connu pour avoir domin\u00E9 les Championnats de la montagne o\u00F9 il a gagn\u00E9 son surnom de Bergk\u00F6nig (ou Roi de la montagne)."@fr ,
+		"Hans Stuck (* 27. Dezember 1900 in Warschau; \u2020 9. Februar 1978 in Grainau) war ein deutsch-\u00F6sterreichischer Automobilrennfahrer. Hans Stuck ging als \u201Eder Bergk\u00F6nig\u201C in die Motorsportgeschichte ein, weil er besonders bei Bergrennen sehr viele Erfolge erzielte. Er galt zudem als Prototyp des Herrenfahrers."@de ,
+		"Hans Stuck (Warschau, 27 december 1900 - Grainau, 9 februari 1978) was een autocoureur uit Duitsland. Zijn grootste triomfen behaalden hij in de heuvelklim, zijn bijnaam was Bergk\u00F6nig. Hij is de vader van Hans-Joachim Stuck. Nadat hij gevochten had in de Eerste Wereldoorlog begon Stuck begin jaren twintig met heuvelklimwedstrijden. Zijn eerste wedstrijd in Baden-Baden in 1923 wist hij direct te winnen. De nodige successen volgden, naast heuvelklim ook in touringcars. Nadat verschillende fabrikanten zich hadden teruggetrokken uit de autosport wist Stuck Adolf Hitler, die hij bij toeval had leren kennen bij een jacht in 1925, te overtuigen een Duits autosportmerk te starten. In 1932 werd Auto-Union opgericht en Stuck reed tot aan de Tweede Wereldoorlog races voor dit merk en won onder andere de Grand Prix van Itali\u00EB in 1935. Na de oorlog waren Duitsers uitgesloten van deelname aan autoraces en Stuck besloot daarom een Oostenrijkse licentie te nemen. Vervolgens nam hij weer deel aan wedstrijden maar zijn gloriedagen waren voorbij. Begin jaren vijftig nam Stuck nog enkele malen deel aan Formule 1-races en in 1960 won hij nog eenmaal het Duits kampioenschap heuvelklim waarna hij direct zijn afscheid aankondigde. Vervolgens werd hij rijinstructeur op de N\u00FCrburgring en leerde hij aan zijn zoon de baan kennen."@nl ,
+		"Nonostante i suoi molti successi nei Gran Premi di automobilismo, con la Auto Union all'epoca delle \"Frecce d'argento\", \u00E8 conosciuto principalmente per il suo dominio nelle corse in salita che gli valse il nomignolo di \"Bergk\u00F6nig\" (re delle montagne)."@it ,
+		"Hans Stuck (\u00E0s vezes chamado Hans Stuck von Villiez) (27 de dezembro de 1900 - 9 de fevereiro de 1978) foi um automobilista alem\u00E3o. Seu filho, Hans-Joachim Stuck (nascido em 1951) e seu neto Johannes Stuck, tornaram-se tamb\u00E9m pilotos reconhecidos."@pt ,
+		"Hans Stuck (sometimes called Hans Stuck von Villiez, last name pronounced shtook) (27 December 1900, in Warsaw \u2013 9 February 1978, in Grainau) was a German motor racing driver. Both his son Hans-Joachim Stuck (born 1951) and his grandsons Johannes and Ferdinand Stuck became race drivers. Despite many successes in Grand Prix motor racing for Auto Union in the early 1930s, during the era of the famous \"Silver Arrows\", he is now mostly known for his domination of hillclimbing, which earned him the nickname \"Bergk\u00F6nig\" or \"King of the Mountains\"."@en ,
+		"Hans Stuck lub Stuck von Villiez Hans, w Formule 1 startuj\u0105cy jako Hans von Stuck (ur. 27 grudnia 1900 roku w Warszawie, zm. 9 lutego 1978 roku w Grainau) \u2013 niemiecki, w latach 1932\u20131938 austriacki kierowca wy\u015Bcigowy. W Formule 1 zadebiutowa\u0142 w Grand Prix W\u0142och w 1951 roku w zespole British Racing Motors Ltd. G\u00F3rski mistrz Europy (Austro-Daimler) w 1930 oraz mistrz Europy Grand Prix (Auto Union) w 1934 roku. Po II wojnie \u015Bwiatowej do 1960 roku by\u0142 uczestnikiem wy\u015Bcig\u00F3w g\u00F3rskich samochod\u00F3w ma\u0142olitra\u017Cowych. Jego syn Hans-Joachim Stuck oraz wnukowie Johannes i Ferdinand Stuck r\u00F3wnie\u017C byli kierowcami wy\u015Bcigowymi."@pl ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_102-08188,_Hans_von_Stuck.jpg?width=300> ;
+	dbo:birthDate	"1900-12-27"^^xsd:date ;
+	dbo:deathDate	"1978-2-9"^^xsd:date ;
+	dbo:deathPlace	dbr:Grainau ;
+	dbo:wikiPageRevisionID	734377970 ;
+	dbo:birthPlace	dbr:Warsaw ;
+	dbo:wikiPageID	868581 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Hans_Stuck	ns25:hypernym	dbr:Motor ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1951_Italian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1953_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"5"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"BRM, AFM, privateer Ferrari"^^xsd:string .
+dbr:Hermann_Lang	dbp:before	dbr:Hans_Stuck .
+<http://dbpedia.org/resource/1936_Tripoli_Grand_Prix>	dbo:secondDriver	dbr:Hans_Stuck .
+<http://dbpedia.org/resource/1935_Italian_Grand_Prix>	dbo:firstDriver	dbr:Hans_Stuck .
+dbr:Stuck	dbo:wikiPageDisambiguates	dbr:Hans_Stuck .
+<http://dbpedia.org/resource/1936_Swiss_Grand_Prix>	dbo:thirdDriver	dbr:Hans_Stuck .
+dbr:Bernd_Rosemeyer	dbp:before	dbr:Hans_Stuck ;
+	dbp:after	dbr:Hans_Stuck .
+dbr:Rudolf_Caracciola	dbp:after	dbr:Hans_Stuck .

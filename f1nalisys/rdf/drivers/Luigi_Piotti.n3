@@ -1,0 +1,125 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Piotti	dbo:wikiPageDisambiguates	dbr:Luigi_Piotti .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Luigi_Piotti	foaf:primaryTopic	dbr:Luigi_Piotti .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Luigi_Piotti	rdf:type	ns5:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Luigi_Piotti	rdf:type	wikidata:Q24229398 ,
+		dbo:Agent ,
+		wikidata:Q215627 ,
+		dbo:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Luigi_Piotti	rdf:type	yago:CausalAgent100007347 ,
+		yago:WikicatMaseratiFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Luigi_Piotti	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Luigi_Piotti	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:Driver110034906 ,
+		dbo:Athlete ,
+		wikidata:Q378622 .
+@prefix schema:	<http://schema.org/> .
+dbr:Luigi_Piotti	rdf:type	schema:Person ,
+		wikidata:Q5 ,
+		yago:Operator110378412 ,
+		yago:PhysicalEntity100001930 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:RacingDriver ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatArzani-VolpiniFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		ns5:NaturalPerson ,
+		yago:WikicatOSCAFormulaOneDrivers ,
+		foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Luigi_Piotti	rdfs:label	"Luigi Piotti"@de ,
+		"Luigi Piotti"@fr ,
+		"Luigi Piotti"@it ,
+		"Luigi Piotti"@en ,
+		"Luigi Piotti"@pl ,
+		"Luigi Piotti"@pt ,
+		"Luigi Piotti"@nl ;
+	rdfs:comment	"Luigi Piotti (Mil\u00E3o, It\u00E1lia, 27 de outubro de 1913 \u2013 Godiasco, It\u00E1lia, 19 de abril de 1971) foi um automobilista italiano que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1955 e 1958."@pt ,
+		"Luigi Piotti (Milaan, 27 oktober 1913 \u2013 Godiasco , 19 april 1971) was een Formule 1-coureur uit Itali\u00EB. Tussen 1955 en 1958 nam hij deel aan 8 Grands Prix voor de teams Maserati en O.S.C.A, maar scoorde hierin geen punten."@nl ,
+		"Luigi Piotti (* 27. Oktober 1913 in Mailand; \u2020 9. April 1971 in Godiasco) war ein italienischer Automobilrennfahrer."@de ,
+		"Luigi Piotti (ur. 27 pa\u017Adziernika 1913 w Mediolanie, zm. 19 kwietnia 1971 w Godiasco) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W latach 1955-1958 wystartowa\u0142 w siedmiu Grand Prix Formu\u0142y 1."@pl ,
+		"Luigi Piotti (October 27, 1913 in Milan \u2013 April 19, 1971 in Godiasco) was a racing driver from Italy. He participated in nine Formula One World Championship Grands Prix, debuting on January 22, 1956. He scored no championship points."@en ,
+		"Luigi Piotti Luigi Piotti (n\u00E9 le 27 octobre 1913 \u00E0 Milan, mort le 19 avril 1971 \u00E0 Godiasco), \u00E9tait un pilote de voitures de sport et de Formule 1 italien."@fr .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Luigi_Piotti	dbp:points	0 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Luigi_Piotti	owl:sameAs	dbpedia-wikidata:Q172564 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Luigi_Piotti	owl:sameAs	dbpedia-pt:Luigi_Piotti .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Luigi_Piotti	owl:sameAs	dbpedia-de:Luigi_Piotti ,
+		dbr:Luigi_Piotti .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Luigi_Piotti	owl:sameAs	dbpedia-fr:Luigi_Piotti .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Luigi_Piotti	owl:sameAs	yago-res:Luigi_Piotti ,
+		wikidata:Q172564 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Luigi_Piotti	owl:sameAs	dbpedia-it:Luigi_Piotti .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Luigi_Piotti	owl:sameAs	dbpedia-pl:Luigi_Piotti .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Luigi_Piotti	owl:sameAs	dbpedia-nl:Luigi_Piotti ,
+		<http://rdf.freebase.com/ns/m.04kvf7> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Luigi_Piotti	dct:subject	dbc:Arzani-Volpini_Formula_One_drivers ,
+		dbc:OSCA_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1913_births> ,
+		dbc:Sportspeople_from_Milan ,
+		dbc:Italian_racing_drivers ,
+		dbc:Maserati_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1971_deaths> ,
+		dbc:Italian_Formula_One_drivers ;
+	foaf:name	"Luigi Piotti"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Luigi"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Luigi_Piotti ;
+	foaf:surname	"Piotti"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Luigi_Piotti	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Luigi_Piotti?oldid=734353490> ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Milan,_Italy> ;
+	dbp:deathPlace	dbr:Godiasco ,
+		dbr:Italy .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Luigi_Piotti	dbp:birthDate	"1913-10-27"^^xsd:date ;
+	dbp:deathDate	"1971-04-19"^^xsd:date ;
+	dbo:abstract	"Luigi Piotti (Milaan, 27 oktober 1913 \u2013 Godiasco , 19 april 1971) was een Formule 1-coureur uit Itali\u00EB. Tussen 1955 en 1958 nam hij deel aan 8 Grands Prix voor de teams Maserati en O.S.C.A, maar scoorde hierin geen punten."@nl ,
+		"Luigi Piotti (* 27. Oktober 1913 in Mailand; \u2020 9. April 1971 in Godiasco) war ein italienischer Automobilrennfahrer."@de ,
+		"Luigi Piotti (Mil\u00E3o, It\u00E1lia, 27 de outubro de 1913 \u2013 Godiasco, It\u00E1lia, 19 de abril de 1971) foi um automobilista italiano que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1955 e 1958."@pt ,
+		"Luigi Piotti (October 27, 1913 in Milan \u2013 April 19, 1971 in Godiasco) was a racing driver from Italy. He participated in nine Formula One World Championship Grands Prix, debuting on January 22, 1956. He scored no championship points."@en ,
+		"Luigi Piotti (ur. 27 pa\u017Adziernika 1913 w Mediolanie, zm. 19 kwietnia 1971 w Godiasco) \u2013 w\u0142oski kierowca wy\u015Bcigowy. W latach 1955-1958 wystartowa\u0142 w siedmiu Grand Prix Formu\u0142y 1."@pl ,
+		"Luigi Piotti Luigi Piotti (n\u00E9 le 27 octobre 1913 \u00E0 Milan, mort le 19 avril 1971 \u00E0 Godiasco), \u00E9tait un pilote de voitures de sport et de Formule 1 italien."@fr ;
+	dbo:birthDate	"1913-10-27"^^xsd:date ;
+	dbo:deathDate	"1971-4-19"^^xsd:date ;
+	dbo:deathPlace	dbr:Godiasco ;
+	dbo:wikiPageRevisionID	734353490 ;
+	dbo:birthPlace	dbr:Milan ;
+	dbo:wikiPageID	1235052 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Luigi_Piotti	ns25:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1955_Italian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1958_Monaco_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"8"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	<http://dbpedia.org/resource/O.S.C.A> ,
+		dbr:Maserati_in_motorsport ;
+	dbp:nationality	"Italian"^^xsd:string .
+<http://dbpedia.org/resource/Tom_Cole_(racing_driver)>	dbp:after	dbr:Luigi_Piotti .

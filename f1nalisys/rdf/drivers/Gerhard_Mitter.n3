@@ -1,0 +1,160 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1968_24_Hours_of_Le_Mans__33__1>	dbo:firstDriver	dbr:Gerhard_Mitter .
+<http://dbpedia.org/resource/1964_24_Hours_of_Le_Mans__26__1>	dbo:firstDriver	dbr:Gerhard_Mitter .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__45__1>	dbo:firstDriver	dbr:Gerhard_Mitter .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__35__1>	dbo:firstDriver	dbr:Gerhard_Mitter .
+<http://dbpedia.org/resource/1969_24_Hours_of_Le_Mans__21__1>	dbo:firstDriver	dbr:Gerhard_Mitter .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__4__1>	dbo:firstDriver	dbr:Gerhard_Mitter .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__DNF__10>	dbo:firstDriver	dbr:Gerhard_Mitter .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__DNF__11>	dbo:firstDriver	dbr:Gerhard_Mitter .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Gerhard_Mitter	foaf:primaryTopic	dbr:Gerhard_Mitter .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Gerhard_Mitter	rdf:type	yago:WikicatBrabhamFormulaOneDrivers ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Athlete ,
+		dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Gerhard_Mitter	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		yago:WikicatGermanFormulaOneDrivers .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Gerhard_Mitter	rdf:type	umbel-rc:RaceCarDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Gerhard_Mitter	rdf:type	schema:Person ,
+		wikidata:Q5 .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Gerhard_Mitter	rdf:type	ns9:NaturalPerson ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:WikicatEcurieMaarsbergenFormulaOneDrivers ,
+		ns9:Agent ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q378622 ,
+		yago:Driver110034906 ,
+		dbo:RacingDriver ,
+		foaf:Person ,
+		yago:Operator110378412 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Gerhard_Mitter	rdf:type	owl:Thing ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		<http://dbpedia.org/class/yago/WikicatBMW(1950s\u201360s)FormulaOneDrivers> ,
+		dbo:MotorsportRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Gerhard_Mitter	rdfs:label	"Gerhard Mitter"@fr ,
+		"\u30B2\u30EB\u30CF\u30EB\u30C8\u30FB\u30DF\u30C3\u30BF\u30FC"@ja ,
+		"Gerhard Mitter"@it ,
+		"Gerhard Mitter"@de ,
+		"Gerhard Mitter"@nl ,
+		"Gerhard Mitter"@pt ,
+		"Gerhard Mitter"@pl ,
+		"Gerhard Mitter"@en ,
+		"\u063A\u064A\u0631\u0647\u0627\u0631\u062F \u0645\u064A\u062A\u0631"@ar ;
+	rdfs:comment	"Gerhard Karl Mitter (30 August 1935 \u2013 1 August 1969) was a German Formula One and sportscar driver. Mitter was born in Sch\u00F6nlinde (Kr\u00E1sn\u00E1 L\u00EDpa) in Czechoslovakia, but his family was expelled from there, to Leonberg near Stuttgart. After racing motorbikes, he switched to Formula Junior, becoming the best German driver with 40 victories. In addition, he sold two-stroke engines for FJ. In 1963, Mitter won the Formula Junior Eifelrennen at the N\u00FCrburgring."@en ,
+		"Gerhard Karl Mitter (ur. 30 sierpnia 1935 w Sch\u00F6nlinde, zm. 1 sierpnia 1969 w Schwedenkreuz) \u2013 niemiecki kierowca Formu\u0142y 1 urodzony w Sch\u00F6nlinde w Sudetenland, ale jego rodzina zosta\u0142a stamt\u0105d wysiedlona do Leonbergu blisko Stuttgartu, gdy mia\u0142 10 lat."@pl ,
+		"Gerhard Karl Mitter (Kr\u00E1sn\u00E1 L\u00EDpa, Tchecoslov\u00E1quia, 30 de agosto de 1935 \u2013 Quiddelbach, Alemanha, 1 de agosto de 1969) foi um automobilista alem\u00E3o. Participou de 4 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1963 e 1969. Seu melhor resultado foi o quarto lugar na Alemanha em 1963. Integrou, entre outras, a equipe Lotus."@pt ,
+		"Gerhard Karl Mitter (* 30. August 1935 in Sch\u00F6nlinde; \u2020 1. August 1969 in N\u00FCrburg) war ein deutscher Automobilrennfahrer. Als Allroundfahrer war er im Formelwagen ebenso gut wie im Tourenwagen, Sportwagen, in Langstreckenrennen und besonders bei Bergrennen, wo er dreimal Europameister wurde. Seine gr\u00F6\u00DFten Erfolge feierte er in Sportwagenrennen als Werksfahrer f\u00FCr Porsche."@de ,
+		"\u30B2\u30EB\u30CF\u30EB\u30C8\u30FB\u30AB\u30FC\u30EB\u30FB\u30DF\u30C3\u30BF\u30FC\uFF08Gerhard Karl Mitter, 1935\u5E748\u670830\u65E5 - 1969\u5E748\u67081\u65E5\uFF09\u306F\u30C9\u30A4\u30C4\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"\u063A\u064A\u0631\u0647\u0627\u0631\u062F \u0645\u064A\u062A\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u0623\u063A\u0633\u0637\u0633 1935 \u0641\u064A \u062A\u0634\u064A\u0643\u0648\u0633\u0644\u0648\u0641\u0627\u0643\u064A\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1963. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0647\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1963. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 7 \u0633\u0628\u0627\u0642\u0627\u062A."@ar ,
+		"Dopo aver iniziato la propria carriera guidando moto, si dedic\u00F2 alla Formula Junior, categoria in cui vinse ben 40 gare. Corse anche in Formula 1, categoria in cui ottenne un quarto posto al Gran Premio di Germania 1963 guidando una vecchia Porsche 718. Impressionata dal risultato la Lotus gli riserv\u00F2 sempre una vettura per la gara di casa per i tre anni seguenti."@it ,
+		"Gerhard Karl Mitter (n\u00E9 le 30 ao\u00FBt 1935 \u00E0 Sch\u00F6nlinde (Kr\u00E1sn\u00E1 L\u00EDpa) en Tch\u00E9coslovaquie mais expuls\u00E9 apr\u00E8s la deuxi\u00E8me guerre mondiale vers Leonberg pr\u00E8s de Stuttgart, et mort le 1er ao\u00FBt 1969) est un pilote automobile allemand. Il s'est notamment illustr\u00E9 en Endurance au volant de voitures de sport et en Formule 1 o\u00F9 il a pris le d\u00E9part de cinq courses du championnat du monde entre 1963 et 1969. Gerhard Mitter est mort \u00E0 la suite d'un accident en Formule 2 lors du Grand Prix d'Allemagne en 1969 \u00E0 cause d'un probl\u00E8me m\u00E9canique sur sa monoplace."@fr ,
+		"Gerhard Karl Mitter (Sch\u00F6nlinde, toenmalig Duitsland (Sudetenland), 30 augustus 1935 \u2013 1 augustus 1969 ) was een Duits Formule 1-coureur. Hij reed tussen 1963 en 1969 7 Grands Prix voor de teams Ecurie Maarsbergen, Lotus, BMW en Brabham en scoorde hierin 3 punten. Mitter overleed op 1 augustus 1969 aan de gevolgen van een ongeval tijdens de kwalificatie voor de Grand Prix Formule 1 van Duitsland 1969 op de N\u00FCrburgring."@nl .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Gerhard_Mitter	dbp:points	3 ;
+	owl:sameAs	<http://viaf.org/viaf/54943583> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Gerhard_Mitter	owl:sameAs	dbpedia-pl:Gerhard_Mitter ,
+		<http://d-nb.info/gnd/118734245> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Gerhard_Mitter	owl:sameAs	dbpedia-it:Gerhard_Mitter .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Gerhard_Mitter	owl:sameAs	dbpedia-fr:Gerhard_Mitter ,
+		<http://ja.dbpedia.org/resource/\u30B2\u30EB\u30CF\u30EB\u30C8\u30FB\u30DF\u30C3\u30BF\u30FC> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Gerhard_Mitter	owl:sameAs	dbpedia-nl:Gerhard_Mitter ,
+		dbr:Gerhard_Mitter ,
+		wikidata:Q60883 ,
+		<http://rdf.freebase.com/ns/m.04k8lp> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Gerhard_Mitter	owl:sameAs	dbpedia-pt:Gerhard_Mitter .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Gerhard_Mitter	owl:sameAs	dbpedia-wikidata:Q60883 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Gerhard_Mitter	owl:sameAs	yago-res:Gerhard_Mitter .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Gerhard_Mitter	owl:sameAs	dbpedia-de:Gerhard_Mitter .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Gerhard_Mitter	dct:subject	dbc:Naturalized_citizens_of_Germany ,
+		dbc:Ecurie_Maarsbergen_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1935_births> ,
+		dbc:Czechoslovak_people_of_German_descent ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:People_from_Kr\u00E1sn\u00E1_L\u00EDpa> ,
+		<http://dbpedia.org/resource/Category:BMW_(1950s\u201360s)_Formula_One_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:1969_deaths> ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		dbc:Sport_deaths_in_Germany ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:German_racing_drivers ,
+		dbc:German_Formula_One_drivers ;
+	foaf:name	"Gerhard Mitter"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/MitterGerhard1968.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Gerhard"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Gerhard_Mitter ;
+	foaf:surname	"Mitter"@en ;
+	dbp:title	dbr:List_of_Formula_One_fatal_accidents ;
+	dbp:years	"\u2013,"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Gerhard_Mitter	dbp:years	"1969-08-01"^^xsd:date ;
+	dbo:nationality	dbr:Germany .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Gerhard_Mitter	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gerhard_Mitter?oldid=740111652> ;
+	dbp:before	dbr:Jo_Schlesser ;
+	dbp:after	dbr:Piers_Courage ;
+	dbp:birthPlace	dbr:Czechoslovakia ,
+		<http://dbpedia.org/resource/Kr\u00E1sn\u00E1_L\u00EDpa> ;
+	dbp:deathPlace	"N\u00FCrburgring Circuit, Germany"^^xsd:string ;
+	dbp:birthDate	"1935-08-30"^^xsd:date ;
+	dbp:deathDate	"1969-08-01"^^xsd:date ;
+	dbo:abstract	"Dopo aver iniziato la propria carriera guidando moto, si dedic\u00F2 alla Formula Junior, categoria in cui vinse ben 40 gare. Corse anche in Formula 1, categoria in cui ottenne un quarto posto al Gran Premio di Germania 1963 guidando una vecchia Porsche 718. Impressionata dal risultato la Lotus gli riserv\u00F2 sempre una vettura per la gara di casa per i tre anni seguenti. Fu per\u00F2 nelle corse in salita che Mitter costru\u00EC la sua fortuna, laureandosi campione europeo per tre anni consecutivi, dal 1966 al 1968 al volante della Porsche. Tra i suoi successi anche la Targa Florio del 1969 al volante della Porsche 908/02 spyder in coppia con Udo Schutz. Il 1\u00BA agosto 1969, per\u00F2, durante le prove del Gran Premio di Germania alla curva Schwedenkreuz usc\u00EC di pista, schiantandosi contro un albero. Prontamente soccorso, venne estratto ancora vivo dalla sua vettura, ma spir\u00F2 durante il tragitto per l'ospedale a causa della gravit\u00E0 delle ferite riportate."@it ,
+		"Gerhard Karl Mitter (Sch\u00F6nlinde, toenmalig Duitsland (Sudetenland), 30 augustus 1935 \u2013 1 augustus 1969 ) was een Duits Formule 1-coureur. Hij reed tussen 1963 en 1969 7 Grands Prix voor de teams Ecurie Maarsbergen, Lotus, BMW en Brabham en scoorde hierin 3 punten. Mitter overleed op 1 augustus 1969 aan de gevolgen van een ongeval tijdens de kwalificatie voor de Grand Prix Formule 1 van Duitsland 1969 op de N\u00FCrburgring."@nl ,
+		"Gerhard Karl Mitter (n\u00E9 le 30 ao\u00FBt 1935 \u00E0 Sch\u00F6nlinde (Kr\u00E1sn\u00E1 L\u00EDpa) en Tch\u00E9coslovaquie mais expuls\u00E9 apr\u00E8s la deuxi\u00E8me guerre mondiale vers Leonberg pr\u00E8s de Stuttgart, et mort le 1er ao\u00FBt 1969) est un pilote automobile allemand. Il s'est notamment illustr\u00E9 en Endurance au volant de voitures de sport et en Formule 1 o\u00F9 il a pris le d\u00E9part de cinq courses du championnat du monde entre 1963 et 1969. Gerhard Mitter est mort \u00E0 la suite d'un accident en Formule 2 lors du Grand Prix d'Allemagne en 1969 \u00E0 cause d'un probl\u00E8me m\u00E9canique sur sa monoplace."@fr ,
+		"Gerhard Karl Mitter (Kr\u00E1sn\u00E1 L\u00EDpa, Tchecoslov\u00E1quia, 30 de agosto de 1935 \u2013 Quiddelbach, Alemanha, 1 de agosto de 1969) foi um automobilista alem\u00E3o. Participou de 4 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1963 e 1969. Seu melhor resultado foi o quarto lugar na Alemanha em 1963. Integrou, entre outras, a equipe Lotus."@pt ,
+		"\u063A\u064A\u0631\u0647\u0627\u0631\u062F \u0645\u064A\u062A\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u0623\u063A\u0633\u0637\u0633 1935 \u0641\u064A \u062A\u0634\u064A\u0643\u0648\u0633\u0644\u0648\u0641\u0627\u0643\u064A\u0627\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1963. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0647\u0648\u0644\u0646\u062F\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1963. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 7 \u0633\u0628\u0627\u0642\u0627\u062A."@ar ,
+		"\u30B2\u30EB\u30CF\u30EB\u30C8\u30FB\u30AB\u30FC\u30EB\u30FB\u30DF\u30C3\u30BF\u30FC\uFF08Gerhard Karl Mitter, 1935\u5E748\u670830\u65E5 - 1969\u5E748\u67081\u65E5\uFF09\u306F\u30C9\u30A4\u30C4\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u308B\u3002"@ja ,
+		"Gerhard Karl Mitter (30 August 1935 \u2013 1 August 1969) was a German Formula One and sportscar driver. Mitter was born in Sch\u00F6nlinde (Kr\u00E1sn\u00E1 L\u00EDpa) in Czechoslovakia, but his family was expelled from there, to Leonberg near Stuttgart. After racing motorbikes, he switched to Formula Junior, becoming the best German driver with 40 victories. In addition, he sold two-stroke engines for FJ. In 1963, Mitter won the Formula Junior Eifelrennen at the N\u00FCrburgring. Mitter also participated in seven Grands Prix, debuting on 23 June 1963. He scored a total of three championship points in his home 1963 German Grand Prix with an old Porsche 718 from 1961. Impressed by this, Team Lotus gave him a chance in the following years. In sportscar racing and hillclimbing for Porsche, he scored many wins, e.g. the 1966-1968 European Hillclimb Championships against Ferrari, the 1968 24 Hours of Daytona (Porsche 907) and the 1969 Targa Florio (Porsche 908) as his final major win. Due to the long N\u00FCrburgring track, it was possible to take part in the German Grand Prix with Formula 2 cars that were classified in their own contest. Mitter was killed there at Schwedenkreuz while practising for the 1969 German Grand Prix with BMW's 269 F2 project. As a suspension or steering failure was suspected, the BMW team with Hubert Hahne and Dieter Quester withdrew from the race, as did Mitter's teammate at Porsche, Hans Herrmann. Udo Sch\u00FCtz, his driving partner at Porsche in the 1969 World Sportscar Championship season with whom he had won the Targa three months earlier, had survived a bad crash at the 1969 24 Hours of Le Mans, and retired."@en ,
+		"Gerhard Karl Mitter (ur. 30 sierpnia 1935 w Sch\u00F6nlinde, zm. 1 sierpnia 1969 w Schwedenkreuz) \u2013 niemiecki kierowca Formu\u0142y 1 urodzony w Sch\u00F6nlinde w Sudetenland, ale jego rodzina zosta\u0142a stamt\u0105d wysiedlona do Leonbergu blisko Stuttgartu, gdy mia\u0142 10 lat."@pl ,
+		"Gerhard Karl Mitter (* 30. August 1935 in Sch\u00F6nlinde; \u2020 1. August 1969 in N\u00FCrburg) war ein deutscher Automobilrennfahrer. Als Allroundfahrer war er im Formelwagen ebenso gut wie im Tourenwagen, Sportwagen, in Langstreckenrennen und besonders bei Bergrennen, wo er dreimal Europameister wurde. Seine gr\u00F6\u00DFten Erfolge feierte er in Sportwagenrennen als Werksfahrer f\u00FCr Porsche."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/MitterGerhard1968.jpg?width=300> ;
+	dbo:birthDate	"1935-8-30"^^xsd:date ;
+	dbo:deathDate	"1969-8-1"^^xsd:date ;
+	dbo:deathPlace	<http://dbpedia.org/resource/N\u00FCrburgring> ;
+	dbo:wikiPageRevisionID	740111652 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Kr\u00E1sn\u00E1_L\u00EDpa> ;
+	dbo:wikiPageID	1228404 .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Gerhard_Mitter	ns25:hypernym	dbr:Formula ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1963_Dutch_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1969_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"7"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"Lotus , BMW, non-works Brabham, non-works Porsche"^^xsd:string .
+dbr:Piers_Courage	dbp:before	dbr:Gerhard_Mitter .
+dbr:Jo_Schlesser	dbp:after	dbr:Gerhard_Mitter .
+dbr:Mitter	dbo:wikiPageDisambiguates	dbr:Gerhard_Mitter .
+dbr:Porsche_718	dbp:drivers	dbr:Gerhard_Mitter .

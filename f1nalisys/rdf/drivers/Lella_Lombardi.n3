@@ -1,0 +1,159 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1975_24_Hours_of_Le_Mans__45__1>	dbo:firstDriver	dbr:Lella_Lombardi .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Lella_Lombardi	foaf:primaryTopic	dbr:Lella_Lombardi .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Lella_Lombardi	rdf:type	umbel-rc:RaceCarDriver ,
+		umbel-rc:Athlete ,
+		dbo:RacingDriver .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Lella_Lombardi	rdf:type	wikidata:Q215627 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Lella_Lombardi	rdf:type	ns7:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Lella_Lombardi	rdf:type	yago:WikicatBrabhamFormulaOneDrivers ,
+		wikidata:Q24229398 ,
+		yago:WikicatDeutscheTourenwagenMastersDrivers ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:MotorsportRacer ,
+		ns7:Agent ,
+		yago:WikicatMarchFormulaOneDrivers ,
+		foaf:Person ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatWilliamsFormulaOneDrivers ,
+		yago:WikicatItalianFormulaThreeChampionshipDrivers ,
+		dbo:Agent .
+@prefix schema:	<http://schema.org/> .
+dbr:Lella_Lombardi	rdf:type	schema:Person ,
+		yago:WikicatItalianFormulaOneDrivers ,
+		yago:CausalAgent100007347 ,
+		yago:Driver110034906 ,
+		wikidata:Q378622 ,
+		dbo:Person ,
+		yago:Operator110378412 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Lella_Lombardi	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		wikidata:Q5 ,
+		dbo:Athlete .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Lella_Lombardi	rdfs:label	"\u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0438, \u041B\u0435\u043B\u043B\u0430"@ru ,
+		"Lella Lombardi"@en ,
+		"Lella Lombardi"@es ,
+		"Lella Lombardi"@pt ,
+		"Lella Lombardi"@pl ,
+		"\u0644\u064A\u0644\u0627 \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A"@ar ,
+		"\u30EC\u30E9\u30FB\u30ED\u30F3\u30D0\u30EB\u30C7\u30A3"@ja ,
+		"\u739B\u5229\u4E9A\u00B7\u683C\u62C9\u9F50\u4E9A\u00B7\u52B3\u62C9\u00B7\u9686\u5DF4\u8482"@zh ,
+		"Lella Lombardi"@fr ,
+		"Lella Lombardi"@nl ,
+		"Lella Lombardi"@it ,
+		"Lella Lombardi"@de ;
+	rdfs:comment	"Maria Grazia \u201ELella\u201C Lombardi (* 26. M\u00E4rz 1941 in Frugarolo; \u2020 3. M\u00E4rz 1992 in Mailand) war eine italienische Automobilrennfahrerin."@de ,
+		"\u0644\u064A\u0644\u0627 \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A \u0645\u0648\u0627\u0644\u064A\u062F 26 \u0645\u0627\u0631\u0633 1941 \u0641\u064A \u0641\u0631\u0648\u063A\u0627\u0631\u0648\u0644\u0648\u060C \u0628\u064A\u064A\u0645\u0648\u0646\u062A\u064A\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0643\u0627\u0646\u062A \u0633\u0627\u0626\u0642\u0629 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0633\u0627\u0628\u0642\u0629 \u0648\u0643\u0627\u0646\u062A \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647\u0627 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1974. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647\u0627 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1974. \u062E\u0627\u0636\u062A \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647\u0627 17 \u0633\u0628\u0627\u0642\u0627\u064B. \u0647\u064A \u0627\u0644\u0633\u0627\u0626\u0642\u0629 \u0627\u0644\u0648\u062D\u064A\u062F\u0629 \u0641\u064A \u0627\u0644\u062A\u0627\u0631\u064A\u062E \u0627\u0644\u062A\u064A \u062A\u0646\u0647\u064A \u0633\u0628\u0627\u0642\u0627 \u0636\u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0641\u064A \u0627\u0644\u0645\u0631\u0627\u0643\u0632 \u0627\u0644\u0633\u062A\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0648\u0630\u0644\u0643 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1975."@ar ,
+		"\u041C\u0430\u0440\u0438\u044F \u0413\u0440\u0430\u0446\u0438\u044F \u00AB\u041B\u0435\u043B\u043B\u0430\u00BB \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0438, (\u0438\u0442\u0430\u043B. Maria Grazia \"Lella\" Lombardi, 26 \u043C\u0430\u0440\u0442\u0430 1941, \u0424\u0440\u0443\u0433\u0430\u0440\u043E\u043B\u043E, \u0410\u043B\u0435\u0441\u0441\u0430\u043D\u0434\u0440\u0438\u044F \u2014 3 \u043C\u0430\u0440\u0442\u0430 1992, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0430\u044F \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D\u043A\u0430-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u0446\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u0435\u0440\u0432\u0430\u044F \u0438 \u043F\u043E\u043A\u0430 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u0436\u0435\u043D\u0449\u0438\u043D\u0430, \u043D\u0430\u0431\u0438\u0440\u0430\u0432\u0448\u0430\u044F \u043E\u0447\u043A\u0438 \u0432 \u0437\u0430\u0447\u0451\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"\u739B\u5229\u4E9A\u00B7\u683C\u62C9\u9F50\u4E9A\u00B7\u201C\u52B3\u62C9\u201D\u00B7\u9686\u5DF4\u8482\uFF08\u610F\u5927\u5229\u8BED\uFF1AMaria Grazia \"Lella\"Lombardi\uFF0C1941.3.26--1992.3.3\uFF09\u662F\u4E00\u4F4D\u6765\u81EA\u610F\u5927\u5229\u7684\u8D5B\u8F66\u624B\u3002 \u52B3\u62C9\u00B7\u9686\u5DF4\u8482\u53C2\u52A0\u8FC717\u573A\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u5206\u7AD9\u8D5B\uFF0C\u7B2C\u4E00\u6B21\u662F\u57281974\u5E746\u670820\u65E5\u3002\u5979\u662F\u552F\u4E00\u4E00\u4F4D\u5728\u4E16\u9526\u8D5B\u8D5B\u4E8B\uFF081975\u5E74\u897F\u73ED\u7259\u5927\u5956\u8D5B\uFF09\u4E2D\u83B7\u5F97\u79EF\u5206\u7684\u5973\u6027\u8F66\u624B\uFF08\u8FEA\u585E\u5C14\u00B7\u5A01\u5C14\u900A\u8D62\u5F97\u8FC7\u4E00\u573AF1\u6BD4\u8D5B\u7684\u51A0\u519B\uFF0C\u4F46\u662F\u90A3\u4E00\u573A\u6BD4\u8D5B\u5E76\u975E\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u8D5B\u4E8B\uFF09\u3002"@zh ,
+		"Fu la seconda donna a guidare una monoposto di Formula 1, l'unica a giungere in zona punti nonch\u00E9 quella che disput\u00F2 pi\u00F9 Gran Premi (12 contro i 4 di Maria Teresa de Filippis, che l'aveva preceduta negli anni cinquanta)."@it ,
+		"Maria Grazia Lombardi (Frugarolo, Italia, 26 de marzo de 1941 - \u2020 Mil\u00E1n, 3 de marzo de 1992), m\u00E1s conocida como Lella Lombardi fue una de las pocas pilotos mujeres que participaron en F\u00F3rmula 1. Disput\u00F3 un total de 17 Grandes Premios, siendo su debut en el Gran Premio de Gran Breta\u00F1a de 1974. La obtenci\u00F3n de un sexto lugar y 0,5 puntos en el Gran Premio de Espa\u00F1a de 1975 la convirti\u00F3 en la \u00FAnica mujer en puntuar en una competencia oficial de la categor\u00EDa. Falleci\u00F3 poco antes de cumplir 51 a\u00F1os, v\u00EDctima de un c\u00E1ncer."@es ,
+		"Maria Grazia \"Lella\" Lombardi (26 March 1941 \u2013 3 March 1992) was a racing driver from Italy. Born in Frugarolo, Piedmont, she participated in 17 Formula One World Championship Grands Prix, debuting on 20 July 1974. She is the only female Formula One driver in history to have a top six finish in a World Championship race, at the 1975 Spanish Grand Prix. Half points were awarded for this race due to a shortened race distance, hence Lombardi received half a point instead of the usual one point. As well as being the sole female driver to score points in Formula One, she is one of the two who managed to qualify at least for a Formula One race (the other being compatriot Maria Teresa de Filippis) and the only driver with that career total."@en ,
+		" Pour les articles homonymes, voir Lombardi.Lella LombardiFichier:Lombardi Brambilla.jpg Vittorio Brambilla et Lella Lombardi discutent lors des essais du Grand Prix des Pays-Bas 1975. Maria Grazia Lombardi, dite Lella Lombardi, n\u00E9e le 26 mars 1941 \u00E0 Frugarolo, en Italie, et d\u00E9c\u00E9d\u00E9e le 3 mars 1992 \u00E0 Milan, \u00E9tait une pilote automobile italienne. Gr\u00E2ce \u00E0 sa sixi\u00E8me place lors du Grand Prix d'Espagne 1975, elle est devenue la seule femme \u00E0 \u00EAtre class\u00E9e au championnat du monde de Formule 1 (21e avec 0,5 point)."@fr ,
+		"\u30DE\u30EA\u30A2\u30FB\u30B0\u30E9\u30C4\u30A3\u30A2\u30FB\"\u30EC\u30E9\"\u30FB\u30ED\u30F3\u30D0\u30EB\u30C7\u30A3\uFF08Maria Grazia \"Lella\" Lombardi, 1941\u5E743\u670826\u65E5 - 1992\u5E743\u67083\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u5973\u6027F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30D4\u30A8\u30E2\u30F3\u30C6\u5DDE\u30A2\u30EC\u30C3\u30B5\u30F3\u30C9\u30EA\u30A2\u51FA\u8EAB\u3002"@ja ,
+		"Maria Grazia \u201ELella\u201D Lombardi (ur. 26 marca 1941 roku we Frugarolo; zm. 3 marca 1992 roku w Mediolanie) \u2013 w\u0142oska zawodniczka startuj\u0105ca w wy\u015Bcigach samochodowych. Jedyna kobieta, kt\u00F3ra zdoby\u0142a punkty w Mistrzostwach \u015Awiata Formu\u0142y 1."@pl ,
+		"Maria Grazia Lombardi, mais conhecida por Lella Lombardi (Frugarolo, 26 de Mar\u00E7o de 1941 - Mil\u00E3o, 3 de Mar\u00E7o de 1992) foi uma das raras mulheres automobilistas de F\u00F3rmula 1."@pt ,
+		"Maria Grazia \"Lella\" Lombardi (Frugarolo, Alessandria, 26 maart 1941 - Milaan, 3 maart 1992) was een Formule 1-coureur uit Itali\u00EB en \u00E9\u00E9n van de vijf vrouwelijke coureurs in de Formule 1. Lombardi nam tussen 1974 en 1976 deel aan zeventien Grands Prix voor de teams March Engineering, RAM Racing en Williams en scoorde hierin 0,5 punten. Ze is hiermee de enige vrouwelijke Formule 1-coureur die in de top zes finishte tijdens een Grand Prix. Op de leeftijd van 50 jaar overleed Lella Lombardi aan kanker."@nl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Lella_Lombardi	dbp:points	0.5 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	dbpedia-nl:Lella_Lombardi ,
+		<http://ja.dbpedia.org/resource/\u30EC\u30E9\u30FB\u30ED\u30F3\u30D0\u30EB\u30C7\u30A3> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	dbpedia-wikidata:Q171569 ,
+		dbr:Lella_Lombardi .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	dbpedia-pl:Lella_Lombardi .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	dbpedia-es:Lella_Lombardi .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	dbpedia-it:Lella_Lombardi ,
+		wikidata:Q171569 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	yago-res:Lella_Lombardi .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	dbpedia-pt:Lella_Lombardi .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	dbpedia-fr:Lella_Lombardi .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	dbpedia-id:Lella_Lombardi .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Lella_Lombardi	owl:sameAs	dbpedia-de:Lella_Lombardi ,
+		<http://rdf.freebase.com/ns/m.04kywz> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Lella_Lombardi	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Lella_Lombardi	dct:subject	dbc:Female_racing_drivers ,
+		dbc:Williams_Formula_One_drivers ,
+		dbc:People_from_the_Province_of_Alessandria ,
+		<http://dbpedia.org/resource/Category:1992_deaths> ,
+		dbc:Italian_sportswomen ,
+		dbc:Deaths_from_cancer_in_Italy ,
+		dbc:Italian_Formula_Three_Championship_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:RAM_Racing_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1941_births> ,
+		dbc:Italian_racing_drivers ,
+		dbc:Italian_Formula_One_drivers ,
+		dbc:March_Formula_One_drivers ;
+	foaf:name	"Lella Lombardi"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Lella-Garage-Reading-04.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Lella"@en ;
+	foaf:gender	"female"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Lella_Lombardi ;
+	foaf:surname	"Lombardi"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Lella_Lombardi	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lella_Lombardi?oldid=715933593> ;
+	dbp:birthPlace	"Frugarolo, Piedmont, Italy"^^xsd:string ;
+	dbp:deathPlace	"Milan, Italy"^^xsd:string ;
+	dbp:birthDate	"1941-03-26"^^xsd:date ;
+	dbp:deathDate	"1992-03-03"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.driverdb.com/drivers/2876/career/> ;
+	dbo:abstract	"Maria Grazia \"Lella\" Lombardi (Frugarolo, Alessandria, 26 maart 1941 - Milaan, 3 maart 1992) was een Formule 1-coureur uit Itali\u00EB en \u00E9\u00E9n van de vijf vrouwelijke coureurs in de Formule 1. Lombardi nam tussen 1974 en 1976 deel aan zeventien Grands Prix voor de teams March Engineering, RAM Racing en Williams en scoorde hierin 0,5 punten. Ze is hiermee de enige vrouwelijke Formule 1-coureur die in de top zes finishte tijdens een Grand Prix. Lombardi leverde deze prestatie in de Grand Prix van Spanje in 1975. Voor deze race werden slechts halve punten uitgereikt, omdat hij voortijdig moest worden afgebroken vanwege een ernstig ongeval, waarbij Rolf Stommelen was betrokken en waardoor twee toeschouwers, een brandweerman en een fotograaf om het leven kwamen. Op het moment dat de race werd afgebroken, lag Lombardi op de zesde plaats, wat haar dus een half in plaats van een heel punt opleverde. Dit betekent dat ze niet alleen de enige vrouwelijke coureur is die punten scoorde in de Formule 1, maar ook de enige coureur met dat aantal punten in haar hele carri\u00E8re, de laagste niet-nul score mogelijk onder de huidige regels. Op de leeftijd van 50 jaar overleed Lella Lombardi aan kanker."@nl ,
+		" Pour les articles homonymes, voir Lombardi.Lella LombardiFichier:Lombardi Brambilla.jpg Vittorio Brambilla et Lella Lombardi discutent lors des essais du Grand Prix des Pays-Bas 1975. Maria Grazia Lombardi, dite Lella Lombardi, n\u00E9e le 26 mars 1941 \u00E0 Frugarolo, en Italie, et d\u00E9c\u00E9d\u00E9e le 3 mars 1992 \u00E0 Milan, \u00E9tait une pilote automobile italienne. Gr\u00E2ce \u00E0 sa sixi\u00E8me place lors du Grand Prix d'Espagne 1975, elle est devenue la seule femme \u00E0 \u00EAtre class\u00E9e au championnat du monde de Formule 1 (21e avec 0,5 point). En 1975, elle participe \u00E9galement aux 24 Heures du Mans et aux 1 000 kilom\u00E8tres de Monza (1res en cat\u00E9gorie 2L.) avec la Fran\u00E7aise Marie-Claude Charmasson (sur Alpine A441), revenant au Mans en 1976 (avec Christine Dacremont, 20e), 1977 (voir ci-dessous) et 1980 (avec le fils de Margaret Thatcher, Mark)."@fr ,
+		"\u041C\u0430\u0440\u0438\u044F \u0413\u0440\u0430\u0446\u0438\u044F \u00AB\u041B\u0435\u043B\u043B\u0430\u00BB \u041B\u043E\u043C\u0431\u0430\u0440\u0434\u0438, (\u0438\u0442\u0430\u043B. Maria Grazia \"Lella\" Lombardi, 26 \u043C\u0430\u0440\u0442\u0430 1941, \u0424\u0440\u0443\u0433\u0430\u0440\u043E\u043B\u043E, \u0410\u043B\u0435\u0441\u0441\u0430\u043D\u0434\u0440\u0438\u044F \u2014 3 \u043C\u0430\u0440\u0442\u0430 1992, \u041C\u0438\u043B\u0430\u043D) \u2014 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0430\u044F \u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D\u043A\u0430-\u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u0446\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041F\u0435\u0440\u0432\u0430\u044F \u0438 \u043F\u043E\u043A\u0430 \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u0436\u0435\u043D\u0449\u0438\u043D\u0430, \u043D\u0430\u0431\u0438\u0440\u0430\u0432\u0448\u0430\u044F \u043E\u0447\u043A\u0438 \u0432 \u0437\u0430\u0447\u0451\u0442 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1."@ru ,
+		"Maria Grazia \u201ELella\u201D Lombardi (ur. 26 marca 1941 roku we Frugarolo; zm. 3 marca 1992 roku w Mediolanie) \u2013 w\u0142oska zawodniczka startuj\u0105ca w wy\u015Bcigach samochodowych. Jedyna kobieta, kt\u00F3ra zdoby\u0142a punkty w Mistrzostwach \u015Awiata Formu\u0142y 1."@pl ,
+		"Maria Grazia \"Lella\" Lombardi (26 March 1941 \u2013 3 March 1992) was a racing driver from Italy. Born in Frugarolo, Piedmont, she participated in 17 Formula One World Championship Grands Prix, debuting on 20 July 1974. She is the only female Formula One driver in history to have a top six finish in a World Championship race, at the 1975 Spanish Grand Prix. Half points were awarded for this race due to a shortened race distance, hence Lombardi received half a point instead of the usual one point. As well as being the sole female driver to score points in Formula One, she is one of the two who managed to qualify at least for a Formula One race (the other being compatriot Maria Teresa de Filippis) and the only driver with that career total."@en ,
+		"Maria Grazia Lombardi, mais conhecida por Lella Lombardi (Frugarolo, 26 de Mar\u00E7o de 1941 - Mil\u00E3o, 3 de Mar\u00E7o de 1992) foi uma das raras mulheres automobilistas de F\u00F3rmula 1."@pt ,
+		"\u0644\u064A\u0644\u0627 \u0644\u0648\u0645\u0628\u0627\u0631\u062F\u064A \u0645\u0648\u0627\u0644\u064A\u062F 26 \u0645\u0627\u0631\u0633 1941 \u0641\u064A \u0641\u0631\u0648\u063A\u0627\u0631\u0648\u0644\u0648\u060C \u0628\u064A\u064A\u0645\u0648\u0646\u062A\u064A\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627\u060C \u0643\u0627\u0646\u062A \u0633\u0627\u0626\u0642\u0629 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0633\u0627\u0628\u0642\u0629 \u0648\u0643\u0627\u0646\u062A \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647\u0627 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1974. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647\u0627 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1974. \u062E\u0627\u0636\u062A \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647\u0627 17 \u0633\u0628\u0627\u0642\u0627\u064B. \u0647\u064A \u0627\u0644\u0633\u0627\u0626\u0642\u0629 \u0627\u0644\u0648\u062D\u064A\u062F\u0629 \u0641\u064A \u0627\u0644\u062A\u0627\u0631\u064A\u062E \u0627\u0644\u062A\u064A \u062A\u0646\u0647\u064A \u0633\u0628\u0627\u0642\u0627 \u0636\u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 1 \u0641\u064A \u0627\u0644\u0645\u0631\u0627\u0643\u0632 \u0627\u0644\u0633\u062A\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0648\u0630\u0644\u0643 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1975."@ar ,
+		"Fu la seconda donna a guidare una monoposto di Formula 1, l'unica a giungere in zona punti nonch\u00E9 quella che disput\u00F2 pi\u00F9 Gran Premi (12 contro i 4 di Maria Teresa de Filippis, che l'aveva preceduta negli anni cinquanta). Quarta figlia di un macellaio e produttore di salumi, nacque in un piccolo centro piemontese di duemila abitanti. Di carattere grintoso e tenace, fin da bambina fu attratta dalla velocit\u00E0. A nove anni prese per la prima volta in mano un volante, mentre a tredici guidava gi\u00E0 un'auto. A diciotto anni, nel 1959, si guadagnava da vivere con lo stesso mestiere paterno, guidando un furgone lungo la Riviera Ligure nel trasporto della carne."@it ,
+		"\u30DE\u30EA\u30A2\u30FB\u30B0\u30E9\u30C4\u30A3\u30A2\u30FB\"\u30EC\u30E9\"\u30FB\u30ED\u30F3\u30D0\u30EB\u30C7\u30A3\uFF08Maria Grazia \"Lella\" Lombardi, 1941\u5E743\u670826\u65E5 - 1992\u5E743\u67083\u65E5\uFF09\u306F\u3001\u30A4\u30BF\u30EA\u30A2\u306E\u5973\u6027F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3002\u30D4\u30A8\u30E2\u30F3\u30C6\u5DDE\u30A2\u30EC\u30C3\u30B5\u30F3\u30C9\u30EA\u30A2\u51FA\u8EAB\u3002"@ja ,
+		"\u739B\u5229\u4E9A\u00B7\u683C\u62C9\u9F50\u4E9A\u00B7\u201C\u52B3\u62C9\u201D\u00B7\u9686\u5DF4\u8482\uFF08\u610F\u5927\u5229\u8BED\uFF1AMaria Grazia \"Lella\"Lombardi\uFF0C1941.3.26--1992.3.3\uFF09\u662F\u4E00\u4F4D\u6765\u81EA\u610F\u5927\u5229\u7684\u8D5B\u8F66\u624B\u3002 \u52B3\u62C9\u00B7\u9686\u5DF4\u8482\u53C2\u52A0\u8FC717\u573A\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u5206\u7AD9\u8D5B\uFF0C\u7B2C\u4E00\u6B21\u662F\u57281974\u5E746\u670820\u65E5\u3002\u5979\u662F\u552F\u4E00\u4E00\u4F4D\u5728\u4E16\u9526\u8D5B\u8D5B\u4E8B\uFF081975\u5E74\u897F\u73ED\u7259\u5927\u5956\u8D5B\uFF09\u4E2D\u83B7\u5F97\u79EF\u5206\u7684\u5973\u6027\u8F66\u624B\uFF08\u8FEA\u585E\u5C14\u00B7\u5A01\u5C14\u900A\u8D62\u5F97\u8FC7\u4E00\u573AF1\u6BD4\u8D5B\u7684\u51A0\u519B\uFF0C\u4F46\u662F\u90A3\u4E00\u573A\u6BD4\u8D5B\u5E76\u975E\u4E16\u754C\u4E00\u7EA7\u65B9\u7A0B\u5F0F\u9526\u6807\u8D5B\u8D5B\u4E8B\uFF09\u3002"@zh ,
+		"Maria Grazia Lombardi (Frugarolo, Italia, 26 de marzo de 1941 - \u2020 Mil\u00E1n, 3 de marzo de 1992), m\u00E1s conocida como Lella Lombardi fue una de las pocas pilotos mujeres que participaron en F\u00F3rmula 1. Disput\u00F3 un total de 17 Grandes Premios, siendo su debut en el Gran Premio de Gran Breta\u00F1a de 1974. La obtenci\u00F3n de un sexto lugar y 0,5 puntos en el Gran Premio de Espa\u00F1a de 1975 la convirti\u00F3 en la \u00FAnica mujer en puntuar en una competencia oficial de la categor\u00EDa. Falleci\u00F3 poco antes de cumplir 51 a\u00F1os, v\u00EDctima de un c\u00E1ncer."@es ,
+		"Maria Grazia \u201ELella\u201C Lombardi (* 26. M\u00E4rz 1941 in Frugarolo; \u2020 3. M\u00E4rz 1992 in Mailand) war eine italienische Automobilrennfahrerin."@de ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Lella-Garage-Reading-04.jpg?width=300> ;
+	dbo:birthDate	"1941-3-26"^^xsd:date ;
+	dbo:deathDate	"1992-3-3"^^xsd:date ;
+	dbo:deathPlace	dbr:Milan ;
+	dbo:wikiPageRevisionID	715933593 ;
+	dbo:birthPlace	dbr:Frugarolo ;
+	dbo:wikiPageID	1235922 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Lella_Lombardi	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1974_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1976_Austrian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"17"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Frank_Williams_Racing_Cars ,
+		dbr:March_Engineering ,
+		dbr:RAM_Racing ;
+	dbp:nationality	"Italian"^^xsd:string .
+dbr:Lela_Lombardi	dbo:wikiPageRedirects	dbr:Lella_Lombardi .
+<http://dbpedia.org/resource/1976_24_Hours_of_Le_Mans__20__1>	dbo:firstDriver	dbr:Lella_Lombardi .

@@ -1,0 +1,110 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1962_Naples_Grand_Prix>	dbo:thirdDriver	dbr:Keith_Greene .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Keith_Greene	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:Driver110034906 ,
+		yago:Operator110378412 ,
+		yago:CausalAgent100007347 ,
+		dbo:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Keith_Greene	rdf:type	wikidata:Q378622 ,
+		dbo:Person ,
+		yago:WikicatFormulaThreeDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatCooperFormulaOneDrivers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Keith_Greene	rdf:type	owl:Thing ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Keith_Greene	rdf:type	ns6:NaturalPerson ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		dbo:Athlete ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Keith_Greene	rdf:type	schema:Person ,
+		ns6:Agent ,
+		dbo:RacingDriver ,
+		dbo:FormulaOneRacer .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Keith_Greene	rdf:type	foaf:Person ,
+		dbo:MotorsportRacer .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Keith_Greene	rdf:type	umbel-rc:RaceCarDriver ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Keith_Greene	rdfs:label	"Keith Greene"@pl ,
+		"Keith Greene"@nl ,
+		"Keith Greene"@de ,
+		"Keith Greene"@pt ,
+		"Keith Greene"@en ;
+	rdfs:comment	"Keith Greene (ur. 5 stycznia 1938 w Londynie) \u2013 brytyjski kierowca wy\u015Bcigowy. Startowa\u0142 w wy\u015Bcigach Formu\u0142y 1 w latach 1959-1962 w zespole Gilby, kt\u00F3ry nale\u017Ca\u0142 do jego ojca. Po rezygnacji ze start\u00F3w pracowa\u0142 jako mened\u017Cer w brytyjskich zespo\u0142ach wy\u015Bcigowych."@pl ,
+		"Keith Greene (Leytonstone, Londen, 5 januari 1938) is een voormalige Formule 1-coureur uit Groot-Brittanni\u00EB. Greene reed tussen 1959 en 1962 vijf Grands Prix voor de teams van Cooper en Gilby Engineering."@nl ,
+		"Keith Greene (born 5 January 1938) is a British former racing driver from England. He raced in Formula One from 1959 to 1962, participating in six World Championship Grands Prix and numerous non-Championship races. Prior to Formula One, Greene had a successful career in sportscars. In 1956 using a Cooper T39 he competed in 11 national level races finishing outside the top six on only one occasion, with two wins and three other podium finishes."@en ,
+		"Keith Greene (* 5. Januar 1938 in Leytonstone) ist ein ehemaliger britischer Autorennfahrer."@de ,
+		"Keith Greene (Leytonstone, Londres, Inglaterra, 5 de janeiro de 1938) foi um automobilista ingl\u00EAs que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1959 e 1962."@pt .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Keith_Greene	dbp:points	0 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Keith_Greene	owl:sameAs	dbpedia-pl:Keith_Greene .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Keith_Greene	owl:sameAs	yago-res:Keith_Greene ,
+		<http://rdf.freebase.com/ns/m.04kv41> ,
+		wikidata:Q172815 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Keith_Greene	owl:sameAs	dbpedia-de:Keith_Greene .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Keith_Greene	owl:sameAs	dbpedia-wikidata:Q172815 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Keith_Greene	owl:sameAs	dbpedia-nl:Keith_Greene .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Keith_Greene	owl:sameAs	dbpedia-pt:Keith_Greene ,
+		dbr:Keith_Greene .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Keith_Greene	dct:subject	dbc:English_racing_drivers ,
+		dbc:Gilby_Engineering_Formula_One_drivers ,
+		dbc:English_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1938_births> ,
+		dbc:Cooper_Formula_One_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ;
+	foaf:name	"Keith Greene"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Keith"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Keith_Greene	foaf:isPrimaryTopicOf	wikipedia-en:Keith_Greene ;
+	foaf:surname	"Greene"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Keith_Greene	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Keith_Greene?oldid=734777402> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Keith_Greene	dbp:birthDate	"1938-01-05"^^xsd:date ;
+	dbo:abstract	"Keith Greene (ur. 5 stycznia 1938 w Londynie) \u2013 brytyjski kierowca wy\u015Bcigowy. Startowa\u0142 w wy\u015Bcigach Formu\u0142y 1 w latach 1959-1962 w zespole Gilby, kt\u00F3ry nale\u017Ca\u0142 do jego ojca. Po rezygnacji ze start\u00F3w pracowa\u0142 jako mened\u017Cer w brytyjskich zespo\u0142ach wy\u015Bcigowych."@pl ,
+		"Keith Greene (Leytonstone, Londres, Inglaterra, 5 de janeiro de 1938) foi um automobilista ingl\u00EAs que participou de 5 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1959 e 1962."@pt ,
+		"Keith Greene (born 5 January 1938) is a British former racing driver from England. He raced in Formula One from 1959 to 1962, participating in six World Championship Grands Prix and numerous non-Championship races. Prior to Formula One, Greene had a successful career in sportscars. In 1956 using a Cooper T39 he competed in 11 national level races finishing outside the top six on only one occasion, with two wins and three other podium finishes. After retiring from driving, Greene became a team manager in Formula One and sports car racing. He worked for Hexagon of Highgate in London running their newly formed motorcycle business in the late 1970s. At that time he also managed Alain de Cadenet's Le Mans racing team."@en ,
+		"Keith Greene (* 5. Januar 1938 in Leytonstone) ist ein ehemaliger britischer Autorennfahrer."@de ,
+		"Keith Greene (Leytonstone, Londen, 5 januari 1938) is een voormalige Formule 1-coureur uit Groot-Brittanni\u00EB. Greene reed tussen 1959 en 1962 vijf Grands Prix voor de teams van Cooper en Gilby Engineering."@nl ;
+	dbo:birthDate	"1938-1-5"^^xsd:date ;
+	dbo:wikiPageRevisionID	734777402 ;
+	dbo:birthPlace	dbr:London_Borough_of_Waltham_Forest ;
+	dbo:wikiPageID	1234967 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Keith_Greene	ns23:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1959_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1962_Italian_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"6"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Gilby_Engineering ,
+		"non-works Cooper and Lotus"^^xsd:string ;
+	dbp:nationality	"British"^^xsd:string .
+wikipedia-en:Keith_Greene	foaf:primaryTopic	dbr:Keith_Greene .
+dbr:Richard_Lloyd_Racing	dbp:principal	dbr:Keith_Greene .

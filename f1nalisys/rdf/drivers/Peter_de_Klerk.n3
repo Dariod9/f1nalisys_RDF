@@ -1,0 +1,128 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1963_Rand_Grand_Prix>	dbo:thirdDriver	dbr:Peter_de_Klerk .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__49__1>	dbo:firstDriver	dbr:Peter_de_Klerk .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Peter_de_Klerk	foaf:primaryTopic	dbr:Peter_de_Klerk .
+<http://dbpedia.org/resource/1965_Rand_Grand_Prix>	dbo:secondDriver	dbr:Peter_de_Klerk .
+dbr:Peter_De_Klerk	dbo:wikiPageRedirects	dbr:Peter_de_Klerk .
+dbr:Klerk	dbo:wikiPageDisambiguates	dbr:Peter_de_Klerk .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Peter_de_Klerk	rdf:type	wikidata:Q5 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Peter_de_Klerk	rdf:type	yago:Driver110034906 ,
+		dbo:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Peter_de_Klerk	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Athlete ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatTeamGunstonFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		wikidata:Q24229398 ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Peter_de_Klerk	rdf:type	owl:Thing ,
+		yago:WikicatBrabhamFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Peter_de_Klerk	rdf:type	schema:Person ,
+		yago:WikicatSouthAfricanFormulaOneDrivers ,
+		yago:CausalAgent100007347 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Peter_de_Klerk	rdf:type	ns10:NaturalPerson ,
+		dbo:Person ,
+		wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		yago:PhysicalEntity100001930 ,
+		ns10:Agent ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		dbo:MotorsportRacer .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Peter_de_Klerk	rdfs:label	"Peter de Klerk"@pt ,
+		"Peter de Klerk"@de ,
+		"Peter de Klerk"@it ,
+		"Peter de Klerk"@pl ,
+		"Peter de Klerk"@fr ,
+		"Peter de Klerk"@en ,
+		"Peter de Klerk"@nl ;
+	rdfs:comment	"Peter de Klerk (Pilgrim's Rest, Transvaal, 16 maart 1935 - Johannesburg, 11 juli 2015) was een voormalig Formule 1-coureur uit Zuid-Afrika. Hij reed 4 Grands Prix; de Grand Prix van Zuid-Afrika van 1963, 1965 (allebei team Alfa Romeo), 1969 en 1970 (allebei Brabham)."@nl ,
+		"Peter de Klerk (Pilgrim's Rest, Transvaal, \u00C1frica do Sul, 16 de mar\u00E7o de 1935 \u2013 Joanesburgo, 11 de julho de 2015) foi um automobilista sul-africano que participou de quatro Grandes Pr\u00EAmios da \u00C1frica do Sul."@pt ,
+		"Peter de Klerk (16 March 1935 \u2013 11 July 2015) was a racing driver from South Africa. He participated in four Formula One World Championship Grands Prix, debuting on 28 December 1963. He scored no championship points."@en ,
+		"Peter de Klerk (* 16. M\u00E4rz 1935 in Pilgrim\u2019s Rest, Transvaal; \u2020 11. Juli 2015 in Johannesburg) war ein s\u00FCdafrikanischer Automobilrennfahrer."@de ,
+		"Peter de Klerk est un pilote de Formule 1 sud-africain n\u00E9 \u00E0 Pilgrims le 16 mars 1935 et mort \u00E0 Johannesburg le 11 juillet 2015. Il participa \u00E0 4 Grand Prix de Formule 1 et 6 courses hors-championnat entre 1962 et 1970."@fr ,
+		"Peter de Klerk (ur. 16 marca 1935 w Pilgrim\u2019s Rest, zm. 11 lipca 2015 w Johannesburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1. Wystartowa\u0142 w czterech Grand Prix Formu\u0142y 1, debiutuj\u0105c 28 grudnia 1963 w Grand Prix RPA. Bra\u0142 tak\u017Ce udzia\u0142 w wy\u015Bcigu 24h Le Mans w 1966, gdzie zaj\u0105\u0142 sz\u00F3ste miejsce."@pl .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Peter_de_Klerk	dbp:birthDate	"1935-03-16"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Peter_de_Klerk	owl:sameAs	yago-res:Peter_de_Klerk ,
+		wikidata:Q172487 ,
+		dbr:Peter_de_Klerk .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Peter_de_Klerk	owl:sameAs	dbpedia-pl:Peter_de_Klerk .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Peter_de_Klerk	owl:sameAs	dbpedia-it:Peter_de_Klerk .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Peter_de_Klerk	owl:sameAs	dbpedia-pt:Peter_de_Klerk .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Peter_de_Klerk	owl:sameAs	dbpedia-de:Peter_de_Klerk .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Peter_de_Klerk	owl:sameAs	dbpedia-wikidata:Q172487 ,
+		<http://rdf.freebase.com/ns/m.04kwnw> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Peter_de_Klerk	owl:sameAs	dbpedia-fr:Peter_de_Klerk .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Peter_de_Klerk	owl:sameAs	dbpedia-nl:Peter_de_Klerk .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Peter_de_Klerk	dct:subject	<http://dbpedia.org/resource/Category:1935_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Peter_de_Klerk	dct:subject	dbc:South_African_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Team_Gunston_Formula_One_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Brabham_Formula_One_drivers ,
+		dbc:South_African_racing_drivers ,
+		dbc:People_from_Thaba_Chweu_Local_Municipality ,
+		<http://dbpedia.org/resource/Category:2015_deaths> ;
+	foaf:name	"Peter de Klerk"@en ;
+	dct:description	"South African racing driver"@en ;
+	foaf:givenName	"Peter"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Peter_de_Klerk ;
+	dbp:points	0 ;
+	dbp:years	", ,  \u2013"^^xsd:string ;
+	<http://dbpedia.org/property/team(s)_>	"Non-works Alfa Romeo and Brabham"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Peter_de_Klerk	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Peter_de_Klerk?oldid=714271889> ;
+	dbo:wikiPageExternalLink	<http://www.grandprix.com/gpe/drv-dekpet.html> ,
+		<http://royheskethcircuit.com/> ;
+	dbp:nationality	"South African"^^xsd:string ;
+	dbp:birthPlace	<http://dbpedia.org/resource/Pilgrim\u0027s_Rest,_South_Africa> ,
+		dbr:Transvaal_Province ;
+	dbp:deathDate	"2015-07-11"^^xsd:date ;
+	dbp:deathPlace	"Johannesburg, South Africa"^^xsd:string ;
+	dbo:abstract	"Peter de Klerk (Pilgrim's Rest, Transvaal, \u00C1frica do Sul, 16 de mar\u00E7o de 1935 \u2013 Joanesburgo, 11 de julho de 2015) foi um automobilista sul-africano que participou de quatro Grandes Pr\u00EAmios da \u00C1frica do Sul."@pt ,
+		"Peter de Klerk est un pilote de Formule 1 sud-africain n\u00E9 \u00E0 Pilgrims le 16 mars 1935 et mort \u00E0 Johannesburg le 11 juillet 2015. Il participa \u00E0 4 Grand Prix de Formule 1 et 6 courses hors-championnat entre 1962 et 1970."@fr ,
+		"Peter de Klerk (16 March 1935 \u2013 11 July 2015) was a racing driver from South Africa. He participated in four Formula One World Championship Grands Prix, debuting on 28 December 1963. He scored no championship points."@en ,
+		"Peter de Klerk (* 16. M\u00E4rz 1935 in Pilgrim\u2019s Rest, Transvaal; \u2020 11. Juli 2015 in Johannesburg) war ein s\u00FCdafrikanischer Automobilrennfahrer."@de ,
+		"Peter de Klerk (Pilgrim's Rest, Transvaal, 16 maart 1935 - Johannesburg, 11 juli 2015) was een voormalig Formule 1-coureur uit Zuid-Afrika. Hij reed 4 Grands Prix; de Grand Prix van Zuid-Afrika van 1963, 1965 (allebei team Alfa Romeo), 1969 en 1970 (allebei Brabham)."@nl ,
+		"Peter de Klerk (ur. 16 marca 1935 w Pilgrim\u2019s Rest, zm. 11 lipca 2015 w Johannesburgu) \u2013 po\u0142udniowoafryka\u0144ski kierowca Formu\u0142y 1. Wystartowa\u0142 w czterech Grand Prix Formu\u0142y 1, debiutuj\u0105c 28 grudnia 1963 w Grand Prix RPA. Bra\u0142 tak\u017Ce udzia\u0142 w wy\u015Bcigu 24h Le Mans w 1966, gdzie zaj\u0105\u0142 sz\u00F3ste miejsce."@pl ;
+	dbo:birthDate	"1935-3-16"^^xsd:date ;
+	dbo:deathDate	"2015-7-11"^^xsd:date ;
+	dbo:deathPlace	dbr:Johannesburg ;
+	dbo:wikiPageRevisionID	714271889 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Pilgrim\u0027s_Rest,_Mpumalanga> ;
+	dbo:wikiPageID	1235404 ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1963_South_African_Grand_Prix> ;
+	dbo:races	"4"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1970_South_African_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Peter_de_Klerk	ns25:hypernym	dbr:Driver .
+<http://dbpedia.org/resource/1966_24_Hours_of_Le_Mans__6__1>	dbo:firstDriver	dbr:Peter_de_Klerk .

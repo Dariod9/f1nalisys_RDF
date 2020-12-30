@@ -1,0 +1,135 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1960_Lady_Wigram_Trophy>	dbo:thirdDriver	dbr:Ian_Burgess .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Ian_Burgess	foaf:primaryTopic	dbr:Ian_Burgess .
+dbr:Scirocco-Powell__1963__2	dbo:firstDriver	dbr:Ian_Burgess .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Ian_Burgess	rdf:type	yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatCamoradiFormulaOneDrivers ,
+		yago:WikicatScuderiaCentroSudFormulaOneDrivers ,
+		yago:PhysicalEntity100001930 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Ian_Burgess	rdf:type	umbel-rc:RaceCarDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Ian_Burgess	rdf:type	schema:Person ,
+		dbo:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Ian_Burgess	rdf:type	owl:Thing ,
+		dbo:RacingDriver .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Ian_Burgess	rdf:type	ns9:NaturalPerson ,
+		dbo:MotorsportRacer ,
+		ns9:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Ian_Burgess	rdf:type	wikidata:Q378622 ,
+		dbo:Person ,
+		wikidata:Q5 ,
+		yago:Driver110034906 ,
+		yago:CausalAgent100007347 ,
+		foaf:Person ,
+		dbo:Athlete ,
+		yago:Operator110378412 ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q24229398 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatCooperFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:WikicatScirocco-PowellFormulaOneDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Ian_Burgess	rdfs:label	"Ian Burgess"@de ,
+		"Ian Burgess"@fr ,
+		"Ian Burgess"@it ,
+		"Ian Burgess"@es ,
+		"Ian Burgess"@pl ,
+		"Ian Burgess"@en ,
+		"Ian Burgess"@nl ,
+		"Ian Burgess"@pt ;
+	rdfs:comment	"Per quanto riguarda la Formula 1 ha preso la partenza in 15 occasioni nelle annate tra il 1958 e il 1963, senza riuscire peraltro ad ottenere punti validi per le classifiche iridate, ottenendo come miglior risultato un sesto posto al Gran Premio di Germania 1959 (all'epoca venivano assegnati punti solo ai primi cinque classificati)."@it ,
+		"Ian John Burgess (ur. 6 lipca 1930 w Londynie, zm. 19 maja 2012 w Harrow w Londynie) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy. Rozpocz\u0105\u0142 \u015Bciganie si\u0119 w 1950 roku. P\u00F3\u017Aniej rywalizowa\u0142 w Formule 2. Uczestniczy\u0142 w wy\u015Bcigach Formu\u0142y 1 w latach 1958\u20131963. Po zako\u0144czeniu kariery wy\u015Bcigowej by\u0142 in\u017Cynierem. Zosta\u0142 skazany na 10 lat pozbawienia wolno\u015Bci za handel narkotykami. Mieszka\u0142 w Londynie."@pl ,
+		"Ian Burgess (6 July 1930 \u2013 19 May 2012) was a British racing driver, born in London. He participated in 20 Formula One World Championship Grands Prix, debuting on 19 July 1958, and numerous non-Championship Formula One races. He scored no championship points."@en ,
+		"Ian Burgess (* 6. Juli 1930 in London; \u2020 19. Mai 2012 ebenda) war ein britischer Autorennfahrer."@de ,
+		"Ian Burgess (Londen, 6 juni 1930 \u2013 Harrow, 19 mei 2012) was een Brits Formule 1-coureur uit Groot-Brittanni\u00EB. Hij reed tussen 1958 en 1963 20 Grands Prix voor de teams Cooper, Scuderia Centro Sud, Camoradi en Scirocco-Powell."@nl ,
+		"Ian Burgess (Londres, Inglaterra, 6 de junho de 1930 - 19 de maio, 2012) foi um ex-automobilista ingl\u00EAs. Burgess participou de 20 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1958 e 1963, tendo como melhor resultado um sexto lugar na Alemanha em 1959."@pt ,
+		"Ian John Burgess est un ancien pilote automobile britannique n\u00E9 le 6 juillet 1930 \u00E0 Londres, et mort le 19 mai 2012 \u00E0 Harrow dans la m\u00EAme ville. Il a particip\u00E9 \u00E0 43 GP de Formule 1 dont 15 comptant pour le championnat du monde de 1957 \u00E0 1963. Ian Burgess n\u2019a jamais inscrit de points en championnat du monde o\u00F9 sa meilleure qualification est une 11e place sur la grille au GP d\u2019Allemagne 1958 et son meilleur r\u00E9sultat une 6e place lors du GP d\u2019Allemagne 1959."@fr ,
+		"Ian Burgess (Londres, Reino Unido, 6 de junio de 1930 \u2013 Harrow, Londres, Reino Unido, 19 de mayo de 2012) fue un piloto de automovilismo brit\u00E1nico."@es .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Ian_Burgess	dbp:points	0 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Ian_Burgess	owl:sameAs	dbpedia-fr:Ian_Burgess .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Ian_Burgess	owl:sameAs	yago-res:Ian_Burgess .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Ian_Burgess	owl:sameAs	dbpedia-pl:Ian_Burgess .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Ian_Burgess	owl:sameAs	dbpedia-nl:Ian_Burgess ,
+		dbr:Ian_Burgess ,
+		<http://rdf.freebase.com/ns/m.04kqlw> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Ian_Burgess	owl:sameAs	dbpedia-pt:Ian_Burgess ,
+		wikidata:Q172043 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Ian_Burgess	owl:sameAs	dbpedia-es:Ian_Burgess .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Ian_Burgess	owl:sameAs	dbpedia-wikidata:Q172043 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Ian_Burgess	owl:sameAs	dbpedia-de:Ian_Burgess .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Ian_Burgess	owl:sameAs	dbpedia-it:Ian_Burgess .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Ian_Burgess	dct:subject	dbc:Cooper_Formula_One_drivers ,
+		dbc:Scuderia_Centro_Sud_Formula_One_drivers ,
+		dbc:Camoradi_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1930_births> ,
+		<http://dbpedia.org/resource/Category:2012_deaths> ,
+		dbc:Scirocco-Powell_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:English_Formula_One_drivers ;
+	foaf:name	"Ian Burgess"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Ian"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Ian_Burgess ;
+	foaf:surname	"Burgess"@en ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Ian_Burgess	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ian_Burgess?oldid=743252973> ;
+	dbp:birthPlace	"London"^^xsd:string ;
+	dbp:deathPlace	"Harrow, London"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Ian_Burgess	dbp:birthDate	"1930-07-06"^^xsd:date ;
+	dbp:deathDate	"2012-05-19"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.500race.org/Men/Burgess.htm> ,
+		<http://www.grandprix.com/gpe/drv-burian.html> ;
+	dbo:abstract	"Ian Burgess (Londres, Inglaterra, 6 de junho de 1930 - 19 de maio, 2012) foi um ex-automobilista ingl\u00EAs. Burgess participou de 20 Grandes Pr\u00EAmios de F\u00F3rmula 1 entre 1958 e 1963, tendo como melhor resultado um sexto lugar na Alemanha em 1959."@pt ,
+		"Ian Burgess (Londen, 6 juni 1930 \u2013 Harrow, 19 mei 2012) was een Brits Formule 1-coureur uit Groot-Brittanni\u00EB. Hij reed tussen 1958 en 1963 20 Grands Prix voor de teams Cooper, Scuderia Centro Sud, Camoradi en Scirocco-Powell."@nl ,
+		"Ian Burgess (* 6. Juli 1930 in London; \u2020 19. Mai 2012 ebenda) war ein britischer Autorennfahrer."@de ,
+		"Ian John Burgess est un ancien pilote automobile britannique n\u00E9 le 6 juillet 1930 \u00E0 Londres, et mort le 19 mai 2012 \u00E0 Harrow dans la m\u00EAme ville. Il a particip\u00E9 \u00E0 43 GP de Formule 1 dont 15 comptant pour le championnat du monde de 1957 \u00E0 1963. Ian Burgess n\u2019a jamais inscrit de points en championnat du monde o\u00F9 sa meilleure qualification est une 11e place sur la grille au GP d\u2019Allemagne 1958 et son meilleur r\u00E9sultat une 6e place lors du GP d\u2019Allemagne 1959."@fr ,
+		"Ian Burgess (6 July 1930 \u2013 19 May 2012) was a British racing driver, born in London. He participated in 20 Formula One World Championship Grands Prix, debuting on 19 July 1958, and numerous non-Championship Formula One races. He scored no championship points."@en ,
+		"Ian John Burgess (ur. 6 lipca 1930 w Londynie, zm. 19 maja 2012 w Harrow w Londynie) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy. Rozpocz\u0105\u0142 \u015Bciganie si\u0119 w 1950 roku. P\u00F3\u017Aniej rywalizowa\u0142 w Formule 2. Uczestniczy\u0142 w wy\u015Bcigach Formu\u0142y 1 w latach 1958\u20131963. Po zako\u0144czeniu kariery wy\u015Bcigowej by\u0142 in\u017Cynierem. Zosta\u0142 skazany na 10 lat pozbawienia wolno\u015Bci za handel narkotykami. Mieszka\u0142 w Londynie."@pl ,
+		"Ian Burgess (Londres, Reino Unido, 6 de junio de 1930 \u2013 Harrow, Londres, Reino Unido, 19 de mayo de 2012) fue un piloto de automovilismo brit\u00E1nico."@es ,
+		"Per quanto riguarda la Formula 1 ha preso la partenza in 15 occasioni nelle annate tra il 1958 e il 1963, senza riuscire peraltro ad ottenere punti validi per le classifiche iridate, ottenendo come miglior risultato un sesto posto al Gran Premio di Germania 1959 (all'epoca venivano assegnati punti solo ai primi cinque classificati)."@it ;
+	dbo:birthDate	"1930-7-6"^^xsd:date ;
+	dbo:deathDate	"2012-5-19"^^xsd:date ;
+	dbo:deathPlace	dbr:London_Borough_of_Harrow ;
+	dbo:wikiPageRevisionID	743252973 ;
+	dbo:birthPlace	dbr:London ;
+	dbo:wikiPageID	1233849 .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Ian_Burgess	ns26:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1958_British_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1963_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"20"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Cooper_Car_Company ,
+		"Non-works Lotus"^^xsd:string ,
+		dbr:Scirocco-Powell ;
+	dbp:nationality	"British"^^xsd:string .

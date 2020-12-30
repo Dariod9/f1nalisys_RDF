@@ -1,0 +1,22 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:LEC_Refrigeration_Racing_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:LEC_Refrigeration_Racing_Formula_One_drivers	rdfs:label	"LEC Refrigeration Racing Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:LEC_Refrigeration_Racing_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q8577772 ,
+		dbc:LEC_Refrigeration_Racing_Formula_One_drivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:LEC_Refrigeration_Racing_Formula_One_drivers	owl:sameAs	wikidata:Q8577772 ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"LEC Refrigeration Racing Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:LEC_Refrigeration_Racing_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:LEC_Refrigeration_Racing_Formula_One_drivers?oldid=500012604> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:LEC_Refrigeration_Racing_Formula_One_drivers	dbo:wikiPageRevisionID	500012604 ;
+	dbo:wikiPageID	36182249 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:David_Purley	dct:subject	dbc:LEC_Refrigeration_Racing_Formula_One_drivers .

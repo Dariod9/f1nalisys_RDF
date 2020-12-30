@@ -1,0 +1,380 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1967_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1968_French_Grand_Prix>	dbo:thirdDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_German_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Jim_Clark	dbp:before	dbr:Jackie_Stewart ;
+	dbp:after	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1966_12_Hours_of_Sebring__DNF__8>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1967_Spring_Cup>	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_Brazilian_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_BRDC_International_Trophy>	dbo:fastestDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1965_BRDC_International_Trophy>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_World_Championship_Victory_Race>	dbo:thirdDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1967_International_Gold_Cup>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1968_International_Gold_Cup>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_Race_of_Champions>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1965_Race_of_Champions>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1965_Sunday_Mirror_Trophy>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1968_German_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_German_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_French_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1972_Argentine_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart .
+dbr:Clay_Regazzoni	dbp:before	dbr:Jackie_Stewart .
+dbr:Circuit_de_Monaco	dbp:recordDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_Austrian_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_German_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1970_International_Gold_Cup>	dbo:fastestDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_Race_of_Champions>	dbo:secondDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_International_Gold_Cup>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1965_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1967_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1970_Belgian_Grand_Prix>	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_Belgian_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1965_Italian_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_Italian_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_Italian_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Jackie_Stewart	foaf:primaryTopic	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_Questor_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1970_Canadian_Grand_Prix>	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_Canadian_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1972_Canadian_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jackie_Stewart	rdf:type	yago:WikicatSportsCommentators .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jackie_Stewart	rdf:type	wikidata:Q5 ,
+		wikidata:Q215627 ,
+		yago:Player110439851 ,
+		wikidata:Q24229398 ,
+		yago:Absentee109757653 ,
+		yago:Businessperson109882716 ,
+		yago:Capitalist109609232 ,
+		yago:Whole100003553 ,
+		yago:LivingThing100004258 ,
+		yago:CausalAgent100007347 ,
+		yago:Announcer109795124 ,
+		yago:Organism100004475 ,
+		dbo:Person ,
+		foaf:Person ,
+		yago:Participant110401829 ,
+		yago:WikicatScottishSportShooters .
+@prefix schema:	<http://schema.org/> .
+dbr:Jackie_Stewart	rdf:type	schema:Person ,
+		yago:WikicatMotorsportAnnouncers ,
+		yago:SkilledWorker110605985 ,
+		yago:WikicatPeopleEducatedAtDumbartonAcademy ,
+		yago:Novice110363913 ,
+		yago:Worker109632518 ,
+		yago:Cub109981834 ,
+		yago:Champion109906704 ,
+		yago:UnskilledPerson109632274 ,
+		yago:Exile110071332 ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Person100007846 ,
+		yago:Object100002684 ,
+		yago:Communicator109610660 ,
+		dbo:Agent ,
+		yago:Associate109816771 ,
+		yago:Writer110794014 ,
+		yago:WikicatLivingPeople ,
+		<http://dbpedia.org/class/yago/WikicatFormulaOneWorldDrivers\u0027Champions> ,
+		yago:Journalist110224578 ,
+		yago:Serviceman110582746 ,
+		yago:Peer109626238 ,
+		yago:MilitaryOfficer110317007 ,
+		yago:WikicatOfficersOfTheOrderOfTheBritishEmpire ,
+		yago:WikicatFormulaOneTeamOwners ,
+		yago:WikicatSportsPlayersAndOfficialsAwardedKnighthoods ,
+		yago:Owner110388924 ,
+		yago:WikicatScottishAthletes ,
+		yago:Businessman109882007 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jackie_Stewart	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:WikicatBritishExpatriatesInSwitzerland .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jackie_Stewart	rdf:type	owl:Thing ,
+		yago:Broadcaster109875786 ,
+		yago:WikicatBritishPeople .
+@prefix ns11:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jackie_Stewart	rdf:type	ns11:Agent ,
+		ns11:NaturalPerson ,
+		yago:WikicatSkeetShooters ,
+		yago:WikicatPeopleFromWestDunbartonshire ,
+		dbo:Athlete ,
+		yago:Contestant109613191 ,
+		yago:WikicatIndianapolis500RookiesOfTheYear ,
+		yago:Athlete109820263 ,
+		yago:Traveler109629752 ,
+		yago:Announcer109795334 ,
+		yago:Player110440387 ,
+		yago:WikicatScottishSportswriters ,
+		yago:SportsWriter110640084 ,
+		yago:SportsAnnouncer110639637 ,
+		dbo:MotorsportRacer ,
+		dbo:FormulaOneRacer ,
+		wikidata:Q378622 ,
+		dbo:RacingDriver ,
+		yago:Rival110533013 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jackie_Stewart	rdfs:label	"\u062C\u0627\u0643\u064A \u0633\u062A\u064A\u0648\u0631\u0627\u062A"@ar ,
+		"Jackie Stewart"@fr ,
+		"Jackie Stewart"@pt ,
+		"Jackie Stewart"@it ,
+		"Jackie Stewart"@pl ,
+		"\u0421\u0442\u044E\u0430\u0440\u0442, \u0414\u0436\u0435\u043A\u0438"@ru ,
+		"Jackie Stewart"@es ,
+		"\u30B8\u30E3\u30C3\u30AD\u30FC\u30FB\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8"@ja ,
+		"Jackie Stewart"@de ,
+		"\u6770\u57FA\u00B7\u65AF\u56FE\u5C14\u7279"@zh ,
+		"Jackie Stewart"@en ,
+		"Jackie Stewart"@nl ;
+	rdfs:comment	"John Young Stewart (Milton (West Dunbartonshire), 11 juni 1939), beter bekend als Jackie Stewart, en met bijnaam The Flying Scot, is een voormalig Schots Formule-1 coureur. Hij werd drie keer wereldkampioen (1969, 1971 en 1973). Voorts werd hij ook bekend als tv-commentator in Groot-Brittanni\u00EB en in de Verenigde Staten tijdens live-verslaggevingen van Formule-1 wedstrijden, voornamelijk omwille van z'n sappige Schots accent. Tussen 1997 en 1999 was hij ook teambaas in het Stewart Grand Prix Formula One racing team, samen met zijn zoon Paul Stewart."@nl ,
+		"\u30B5\u30FC\u30FB\u30B8\u30E7\u30F3\u30FB\u30E4\u30F3\u30B0\u30FB\"\u30B8\u30E3\u30C3\u30AD\u30FC\"\u30FB\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8\uFF08Sir John Young \"Jackie\" Stewart, OBE 1939\u5E746\u670811\u65E5 - \uFF09\u306F\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\u30FB\u30A6\u30A7\u30B9\u30C8\u30FB\u30C0\u30F3\u30D0\u30FC\u30C8\u30F3\u30B7\u30E3\u30A4\u30A2\u51FA\u8EAB\u306E\u30A4\u30AE\u30EA\u30B9\u306E\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B5\u30FC\u3067\u3042\u308B\u3002F1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30923\u56DE\u7372\u5F97\u3057\u305F\u3002 1972\u5E74\u306B\u5927\u82F1\u5E1D\u56FD\u52F2\u7AE0\u7B2C\u56DB\u4F4D (OBE) \u30012001\u5E74\u306B\u30CA\u30A4\u30C8\u7235\u3092\u53D7\u52F2\u30021990\u5E74\u306B\u306F\u56FD\u969B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u6BBF\u5802\u5165\u308A\u3057\u305F\u3002"@ja ,
+		"Jackie Stewart, w\u0142a\u015Bc. John Young Stewart (ur. 11 czerwca 1939 w Milton) \u2013 brytyjski kierowca Formu\u0142y 1, trzykrotny mistrz \u015Bwiata. Okre\u015Blany przydomkiem The Flying Scot."@pl ,
+		"John Young Stewart OBE (Milton, West Dunbartonshire, 11 de junho de 1939) \u00E9 um ex-automobilista brit\u00E2nico. \u00C9 tricampe\u00E3o mundial de F\u00F3rmula 1 e considerado um dos maiores pilotos da hist\u00F3ria do esporte."@pt ,
+		"Sir John Young \u201EJackie\u201C Stewart, OBE (* 11. Juni 1939 in Milton (West Dunbartonshire), Schottland) ist ein ehemaliger britischer Automobilrennfahrer und Motorsport-Funktion\u00E4r. Er startete zwischen 1965 und 1973 in der Formel 1 und wurde in dieser Klasse dreimal Weltmeister (1969, 1971 und 1973)."@de ,
+		"Sir John Young \"Jackie\" Stewart, OBE (born 11 June 1939) is a British former Formula One racing driver from Scotland.Nicknamed the \"Flying Scot\", he competed in Formula One between 1965 and 1973, winning three World Drivers' Championships, and twice runner-up, over those nine seasons. He also competed in Can-Am. In 2009 he was ranked fifth of the fifty greatest Formula One drivers of all time by journalist Kevin Eason who wrote: \"He has not only emerged as a great driver, but one of the greatest figures of motor racing.\""@en ,
+		"\u7EA6\u7FF0\u00B7\u6768\u00B7\u300C\u6770\u57FA\u300D\u00B7\u65AF\u56FE\u5C14\u7279\u7235\u58EB\uFF0COBE\uFF08\u82F1\u8BED\uFF1ASir John Young \"Jackie\" Stewart\uFF0C1939\u5E746\u670811\u65E5\uFF0D\uFF09\uFF0C\u82CF\u683C\u5170F1\u8F66\u624B\uFF0C\u6709\u300C\u98DB\u884C\u8607\u683C\u862D\u4EBA\u300D\uFF08Flying Scot\uFF09\u4E4B\u79F0\u3002\u57281965\u5E74\u81F31973\u5E74\u4E4B\u95F4\uFF0C\u4ED6\u5171\u8D62\u5F973\u5EA7\u4E16\u754C\u51A0\u519B\u5956\u676F\u30022009\u5E74\uFF0C\u5728\u8457\u540D\u8BB0\u8005\u51EF\u6587\u00B7\u4F0A\u68EE\u6240\u5217\u7684F1\u53F2\u4E0A\u6700\u4F1F\u5927\u768450\u4F4D\u8D5B\u8F66\u624B\u4E2D\u4ED6\u6392\u540D\u7B2C\u4E94\u3002\u4F0A\u68EE\u8FD9\u6837\u5199\u9053\uFF1A\u201C\u4ED6\u4E0D\u4EC5\u662F\u4E00\u4F4D\u4F1F\u5927\u7684\u8F66\u624B\uFF0C\u66F4\u662F\u8D5B\u8F66\u754C\u4E00\u4E2A\u4F1F\u5927\u7684\u7075\u9B42\u4EBA\u7269\u3002\u201D \u4ED6\u57281971\u5E74--1981\u5E74\u95F4\u8FD8\u662FABC\u7684\u4F53\u80B2\u5927\u4E16\u754C\u548CABC\u4F53\u80B2\u9891\u9053\u7684\u4E00\u4F4D\u989C\u8272\u8BC4\u8BBA\u5458\u3002\u4ED6\u66FE\u7ECF\u4E5F\u662F\u798F\u7279\u3001\u52B3\u529B\u58EB\u548C\u9169\u60A6\u9999\u69DF\u7684\u4EE3\u8A00\u4EBA\u3002 1997\u5E74\u81F31999\u5E74\uFF0C\u4ED6\u4E0E\u4ED6\u7684\u513F\u5B50\u4FDD\u7F57\u00B7\u65AF\u56FE\u5C14\u7279\u8FD8\u5408\u4F5C\u521B\u5EFA\u4E86\u65AF\u56FE\u5C14\u7279GP\u3002"@zh ,
+		"John Young Stewart (Milton, Escocia, Reino Unido, 11 de junio de 1939), m\u00E1s conocido como Jackie Stewart, es un ex piloto de automovilismo de velocidad brit\u00E1nico. Es uno de los nueve pilotos que obtuvo al menos tres t\u00EDtulos mundiales de F\u00F3rmula 1, al resultar campe\u00F3n en 1969, 1971 y 1973, adem\u00E1s de subcampe\u00F3n en 1968 y 1972, y tercero en 1965. En sus 99 carreras como piloto de las escuder\u00EDas BRM, Matra, March y Tyrrell, obtuvo 27 victorias, 43 podios y 17 pole positions."@es ,
+		"\u0421\u044D\u0440 \u0414\u0436\u043E\u043D \u042F\u043D\u0433 \u0421\u0442\u044E\u0430\u0440\u0442 (\u0430\u043D\u0433\u043B. Sir John Young Stewart), OBE (11 \u0438\u044E\u043D\u044F 1939, \u041C\u0438\u043B\u0442\u043E\u043D, \u0423\u044D\u0441\u0442-\u0414\u0430\u043D\u0431\u0430\u0440\u0442\u043E\u043D\u0448\u0438\u0440, \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u044F) \u2014 \u0448\u043E\u0442\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0422\u0435\u043B\u0435\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0442\u043E\u0440 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u0432\u0435\u0449\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0433\u043E \u0442\u0435\u043B\u0435\u0432\u0438\u0434\u0435\u043D\u0438\u044F. \u0421 1997 \u043F\u043E 1999 \u0433\u043E\u0434\u0430 \u0432 \u043F\u0430\u0440\u0442\u043D\u0451\u0440\u0441\u0442\u0432\u0435 \u0441\u043E \u0441\u0432\u043E\u0438\u043C \u0441\u044B\u043D\u043E\u043C \u041F\u043E\u043B\u043E\u043C \u0421\u0442\u044E\u0430\u0440\u0442\u043E\u043C \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u043E\u0432\u0430\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u00AB\u0421\u0442\u044E\u0430\u0440\u0442\u00BB."@ru ,
+		"John Young Stewart, ou Jackie Stewart, n\u00E9 le 11 juin 1939 \u00E0 Dumbarton, en \u00C9cosse, est un ancien pilote automobile de Formule 1, qui a couru entre 1965 et 1973, conqu\u00E9rant trois titres de champion du monde. Avec son fils Paul, il fit courir pendant trois saisons, de 1997 \u00E0 1999, l'\u00E9curie Stewart Grand Prix, qu'il revendit ensuite \u00E0 Ford, qui la fit courir sous l'appellation Jaguar Racing."@fr ,
+		"\u0627\u0644\u0633\u064A\u0631 \u062C\u0648\u0646 \u064A\u0648\u0646\u062C \"\u062C\u0627\u0643\u064A\" \u0633\u062A\u064A\u0648\u0627\u0631\u062A\u060C \u0635\u0627\u062D\u0628 \u0648\u0633\u0627\u0645 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629 (\u0648\u0644\u062F \u0641\u064A 11 \u064A\u0648\u0646\u064A\u0648 1939) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0633\u0628\u0627\u0642 \u0627\u0633\u0643\u062A\u0644\u0646\u062F\u064A. \u0648\u064A\u064F\u0644\u0642\u0628 \u0628\u0627\u0633\u0645 \"\u0627\u0644\u0627\u0633\u0643\u062A\u0644\u0646\u062F\u064A \u0627\u0644\u0637\u0627\u0626\u0631\" (Flying Scot)\u060C \u0648\u0642\u062F \u062A\u0646\u0627\u0641\u0633 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1965 \u06481973\u060C \u0648\u0641\u0627\u0632 \u0628\u062B\u0644\u0627\u062B \u0628\u0637\u0648\u0644\u0627\u062A \u0633\u0628\u0627\u0642 \u0639\u0627\u0644\u0645\u064A\u0629\u060C \u0648\u062A\u0646\u0627\u0641\u0633 \u0623\u064A\u0636\u064B\u0627 \u0641\u064A \u0633\u0628\u0627\u0642 \u0643\u0623\u0633 \u0627\u0644\u062A\u062D\u062F\u064A \u0627\u0644\u0643\u0646\u062F\u064A-\u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A (Can-Am). \u0648\u0647\u0648 \u0645\u0639\u0631\u0648\u0641 \u062C\u064A\u062F\u064B\u0627 \u0641\u064A \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0628\u0627\u0633\u0645 \u0627\u0644\u0645\u064F\u0639\u0644\u0650\u0651\u0642 \u0627\u0644\u0645\u0633\u0627\u0639\u062F (\u064A\u0633\u0627\u0639\u062F \u0627\u0644\u0645\u0639\u0644\u0642 \u0627\u0644\u0623\u0633\u0627\u0633\u064A \u0641\u064A \u0627\u0644\u062A\u0639\u0644\u064A\u0642 \u0623\u062B\u0646\u0627\u0621 \u062A\u0648\u0642\u0641 \u0627\u0644\u0644\u0639\u0628) (\u0646\u0627\u0642\u062F) \u0641\u064A \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u062A\u064A \u062A\u0630\u0627\u0639 \u0639\u0628\u0631 \u0627\u0644\u062A\u0644\u0641\u0627\u0632\u060C \u0648\u0643\u0645\u062A\u062D\u062F\u062B \u0628\u0627\u0633\u0645 \u0634\u0631\u0643\u0629 \u0641\u0648\u0631\u062F\u060C \u0641\u0625\u0646 \u0644\u0643\u0646\u062A\u0647 \u0627\u0644\u0627\u0633\u0643\u062A\u0644\u0646\u062F\u064A\u0629 \u0641\u064A \u0627\u0644\u062A\u062D\u062F\u062B \u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u062C\u0639\u0644\u062A\u0647 \u0630\u0627 \u062D\u0636\u0648\u0631\u064D \u0645\u0645\u064A\u0632. \u0648\u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1997 \u06481999\u060C \u0648\u0645\u0646 \u062E\u0644\u0627\u0644 \u0634\u0631\u0627\u0643\u0629 \u0645\u0639 \u0627\u0628\u0646\u0647 \u0628\u0648\u0644\u060C \u0623\u0635\u0628\u062D \u0645\u062F\u064A\u0631 \u0641\u0631\u064A\u0642 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646 \u0633\u062A\u064A\u0648\u0627\u0631\u062A \u062C\u0631\u0627\u0646\u062F \u0628\u0631\u064A\u0643\u0633. \u0648\u0641\u064A \u0639\u0627\u0645 2009\u060C \u0627\u062D\u062A\u0644 \u0627\u0644\u0645\u0631\u062A\u0628\u0629 \u0627\u0644\u062E\u0627\u0645\u0633\u0629 \u0628\u064A\u0646 \u0623\u0639\u0638\u0645 \u062E\u0645\u0633\u064A\u0646 \u0633\u0627\u0626\u0642\u064B\u0627 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646 \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642 \u0648\u0641\u0642\u064B\u0627 \u0644\u062A\u062D\u0644\u064A\u0644 \u0627\u0644\u0635\u062D\u0641\u064A \u0643\u064A\u0641\u064A\u0646 \u0625\u064A\u0633\u0648\u0646\u060C \u0627\u0644\u0630\u064A \u0643\u062A"@ar ;
+	dbp:points	359 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-cs:Jackie_Stewart ,
+		<http://d-nb.info/gnd/118753738> .
+@prefix ns14:	<http://sw.cyc.com/concept/> .
+dbr:Jackie_Stewart	owl:sameAs	ns14:Mx4rBHlg09EiR-KEP9qTz3wD1w .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-es:Jackie_Stewart .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-pt:Jackie_Stewart .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-it:Jackie_Stewart .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	yago-res:Jackie_Stewart ,
+		<http://rdf.freebase.com/ns/m.01q_l5> ,
+		wikidata:Q3188 ,
+		dbr:Jackie_Stewart .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-id:Jackie_Stewart .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-eu:John_Young_Stewart .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-fr:Jackie_Stewart .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-nl:Jackie_Stewart .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-de:Jackie_Stewart .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-wikidata:Q3188 ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30C3\u30AD\u30FC\u30FB\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8> ,
+		<http://viaf.org/viaf/92661009> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jackie_Stewart	owl:sameAs	dbpedia-pl:Jackie_Stewart .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jackie_Stewart	dct:subject	dbc:Scottish_sports_broadcasters ,
+		dbc:Indianapolis_500_Rookies_of_the_Year ,
+		dbc:Skeet_shooters ,
+		dbc:People_educated_at_Dumbarton_Academy ,
+		dbc:British_Touring_Car_Championship_drivers ,
+		dbc:Scottish_businesspeople ,
+		dbc:Officers_of_the_Order_of_the_British_Empire ,
+		dbc:Tasman_Series_drivers ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Segrave_Trophy_recipients ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		dbc:Scottish_Sports_Hall_of_Fame_inductees ,
+		dbc:Sports_players_and_officials_awarded_knighthoods ,
+		<http://dbpedia.org/resource/Category:1939_births> ,
+		dbc:Motorsport_announcers ,
+		<http://dbpedia.org/resource/Category:Formula_One_World_Drivers\u0027_Champions> ,
+		dbc:Scottish_racing_drivers ,
+		dbc:Formula_One_team_owners ,
+		dbc:BRDC_Gold_Star_winners ,
+		dbc:Scottish_Formula_One_drivers ,
+		dbc:Matra_Formula_One_drivers ,
+		dbc:International_Motorsports_Hall_of_Fame_inductees ,
+		dbc:Knights_Bachelor ,
+		dbc:People_from_West_Dunbartonshire ,
+		dbc:Scottish_male_sport_shooters ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Indianapolis_500_drivers ,
+		dbc:BBC_Sports_Personality_of_the_Year_winners ,
+		dbc:British_expatriates_in_Switzerland ,
+		<http://dbpedia.org/resource/Category:12_Hours_of_Reims_drivers> ,
+		dbc:BRM_Formula_One_drivers ,
+		dbc:Scottish_sportswriters ;
+	foaf:name	"(OBE)"@en ,
+		"Jackie Stewart"@en ,
+		"Sir Jackie Stewart"@en ;
+	foaf:homepage	<http://www.sirjackiestewart.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Jackie_Stewart_at_the_2014_WEC_Silverstone_round.jpg> ;
+	dct:description	"British racecar driver"@en ;
+	foaf:givenName	"John"@en ;
+	foaf:gender	"male"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Jackie_Stewart ;
+	foaf:surname	"Stewart"@en ;
+	dbp:title	"Jackie Stewart sporting positions"^^xsd:string ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jackie_Stewart	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jackie_Stewart?oldid=739997679> ;
+	dbp:birthPlace	"Milton, West Dunbartonshire, Scotland"^^xsd:string ;
+	dbp:birthName	"John Young Stewart"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1965_Italian_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1973_German_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jackie_Stewart	dbp:birthDate	"1939-06-11"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.ddavid.com/formula1/stew_bio.htm> ,
+		<http://www.theherald.co.uk/news/52309.html> .
+@prefix ns30:	<http://www.genesis-publications.com/Press-Office/Forthcoming-Books/> .
+dbr:Jackie_Stewart	dbo:wikiPageExternalLink	ns30:COLLAGE-Jackie-Stewarts-Grand-Prix-Album .
+@prefix ns31:	<http://www.4mula1.ro/history/driver/> .
+dbr:Jackie_Stewart	dbo:wikiPageExternalLink	ns31:Jackie_Stewart ,
+		<http://www.motorsportshalloffame.com/halloffame/1990/Jackie_Stewart_main.htm> ,
+		<http://www.timesonline.co.uk/tol/sport/formula_1/article6832171.ece> ,
+		<http://heritage.scotsman.com/greatscots.cfm?id=2343432005> ,
+		<http://www.sirjackiestewart.com/> ,
+		<http://www.bigredbook.info/jackie_stewart.html> ;
+	dbp:caption	"Stewart at the 2014 6 Hours of Silverstone"^^xsd:string ;
+	dbo:abstract	"John Young Stewart, ou Jackie Stewart, n\u00E9 le 11 juin 1939 \u00E0 Dumbarton, en \u00C9cosse, est un ancien pilote automobile de Formule 1, qui a couru entre 1965 et 1973, conqu\u00E9rant trois titres de champion du monde. Avec son fils Paul, il fit courir pendant trois saisons, de 1997 \u00E0 1999, l'\u00E9curie Stewart Grand Prix, qu'il revendit ensuite \u00E0 Ford, qui la fit courir sous l'appellation Jaguar Racing."@fr ,
+		"John Young Stewart (Milton, Escocia, Reino Unido, 11 de junio de 1939), m\u00E1s conocido como Jackie Stewart, es un ex piloto de automovilismo de velocidad brit\u00E1nico. Es uno de los nueve pilotos que obtuvo al menos tres t\u00EDtulos mundiales de F\u00F3rmula 1, al resultar campe\u00F3n en 1969, 1971 y 1973, adem\u00E1s de subcampe\u00F3n en 1968 y 1972, y tercero en 1965. En sus 99 carreras como piloto de las escuder\u00EDas BRM, Matra, March y Tyrrell, obtuvo 27 victorias, 43 podios y 17 pole positions."@es ,
+		"Sir John Young \"Jackie\" Stewart, OBE (born 11 June 1939) is a British former Formula One racing driver from Scotland.Nicknamed the \"Flying Scot\", he competed in Formula One between 1965 and 1973, winning three World Drivers' Championships, and twice runner-up, over those nine seasons. He also competed in Can-Am. In 2009 he was ranked fifth of the fifty greatest Formula One drivers of all time by journalist Kevin Eason who wrote: \"He has not only emerged as a great driver, but one of the greatest figures of motor racing.\" In the United States, he worked as a color commentator on television broadcasts at the Indianapolis 500, Daytona 500 and the Monaco Grand Prix from 1971 to 1986. In 1976, Stewart was a play-by-play announcer for ABC Sports for the 1976 Winter and 1976 Summer Olympics, and he served as host of the Indianapolis 500 coverage for ABC's Wide World of Sports and ABC Sports, from 1982 to 1984. He has also been a spokesman for Ford, Rolex and Mo\u00EBt. Between 1997 and 1999, in partnership with his son, Paul, he was team principal of the Stewart Grand Prix Formula One racing team."@en ,
+		"John Young Stewart (Milton (West Dunbartonshire), 11 juni 1939), beter bekend als Jackie Stewart, en met bijnaam The Flying Scot, is een voormalig Schots Formule-1 coureur. Hij werd drie keer wereldkampioen (1969, 1971 en 1973). Voorts werd hij ook bekend als tv-commentator in Groot-Brittanni\u00EB en in de Verenigde Staten tijdens live-verslaggevingen van Formule-1 wedstrijden, voornamelijk omwille van z'n sappige Schots accent. Tussen 1997 en 1999 was hij ook teambaas in het Stewart Grand Prix Formula One racing team, samen met zijn zoon Paul Stewart."@nl ,
+		"\u30B5\u30FC\u30FB\u30B8\u30E7\u30F3\u30FB\u30E4\u30F3\u30B0\u30FB\"\u30B8\u30E3\u30C3\u30AD\u30FC\"\u30FB\u30B9\u30C1\u30E5\u30EF\u30FC\u30C8\uFF08Sir John Young \"Jackie\" Stewart, OBE 1939\u5E746\u670811\u65E5 - \uFF09\u306F\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\u30FB\u30A6\u30A7\u30B9\u30C8\u30FB\u30C0\u30F3\u30D0\u30FC\u30C8\u30F3\u30B7\u30E3\u30A4\u30A2\u51FA\u8EAB\u306E\u30A4\u30AE\u30EA\u30B9\u306E\u81EA\u52D5\u8ECA\u30EC\u30FC\u30B5\u30FC\u3067\u3042\u308B\u3002F1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30923\u56DE\u7372\u5F97\u3057\u305F\u3002 1972\u5E74\u306B\u5927\u82F1\u5E1D\u56FD\u52F2\u7AE0\u7B2C\u56DB\u4F4D (OBE) \u30012001\u5E74\u306B\u30CA\u30A4\u30C8\u7235\u3092\u53D7\u52F2\u30021990\u5E74\u306B\u306F\u56FD\u969B\u30E2\u30FC\u30BF\u30FC\u30B9\u30DD\u30FC\u30C4\u6BBF\u5802\u5165\u308A\u3057\u305F\u3002"@ja ,
+		"Sir John Young \u201EJackie\u201C Stewart, OBE (* 11. Juni 1939 in Milton (West Dunbartonshire), Schottland) ist ein ehemaliger britischer Automobilrennfahrer und Motorsport-Funktion\u00E4r. Er startete zwischen 1965 und 1973 in der Formel 1 und wurde in dieser Klasse dreimal Weltmeister (1969, 1971 und 1973)."@de ,
+		"\u7EA6\u7FF0\u00B7\u6768\u00B7\u300C\u6770\u57FA\u300D\u00B7\u65AF\u56FE\u5C14\u7279\u7235\u58EB\uFF0COBE\uFF08\u82F1\u8BED\uFF1ASir John Young \"Jackie\" Stewart\uFF0C1939\u5E746\u670811\u65E5\uFF0D\uFF09\uFF0C\u82CF\u683C\u5170F1\u8F66\u624B\uFF0C\u6709\u300C\u98DB\u884C\u8607\u683C\u862D\u4EBA\u300D\uFF08Flying Scot\uFF09\u4E4B\u79F0\u3002\u57281965\u5E74\u81F31973\u5E74\u4E4B\u95F4\uFF0C\u4ED6\u5171\u8D62\u5F973\u5EA7\u4E16\u754C\u51A0\u519B\u5956\u676F\u30022009\u5E74\uFF0C\u5728\u8457\u540D\u8BB0\u8005\u51EF\u6587\u00B7\u4F0A\u68EE\u6240\u5217\u7684F1\u53F2\u4E0A\u6700\u4F1F\u5927\u768450\u4F4D\u8D5B\u8F66\u624B\u4E2D\u4ED6\u6392\u540D\u7B2C\u4E94\u3002\u4F0A\u68EE\u8FD9\u6837\u5199\u9053\uFF1A\u201C\u4ED6\u4E0D\u4EC5\u662F\u4E00\u4F4D\u4F1F\u5927\u7684\u8F66\u624B\uFF0C\u66F4\u662F\u8D5B\u8F66\u754C\u4E00\u4E2A\u4F1F\u5927\u7684\u7075\u9B42\u4EBA\u7269\u3002\u201D \u4ED6\u57281971\u5E74--1981\u5E74\u95F4\u8FD8\u662FABC\u7684\u4F53\u80B2\u5927\u4E16\u754C\u548CABC\u4F53\u80B2\u9891\u9053\u7684\u4E00\u4F4D\u989C\u8272\u8BC4\u8BBA\u5458\u3002\u4ED6\u66FE\u7ECF\u4E5F\u662F\u798F\u7279\u3001\u52B3\u529B\u58EB\u548C\u9169\u60A6\u9999\u69DF\u7684\u4EE3\u8A00\u4EBA\u3002 1997\u5E74\u81F31999\u5E74\uFF0C\u4ED6\u4E0E\u4ED6\u7684\u513F\u5B50\u4FDD\u7F57\u00B7\u65AF\u56FE\u5C14\u7279\u8FD8\u5408\u4F5C\u521B\u5EFA\u4E86\u65AF\u56FE\u5C14\u7279GP\u3002"@zh ,
+		"\u0421\u044D\u0440 \u0414\u0436\u043E\u043D \u042F\u043D\u0433 \u0421\u0442\u044E\u0430\u0440\u0442 (\u0430\u043D\u0433\u043B. Sir John Young Stewart), OBE (11 \u0438\u044E\u043D\u044F 1939, \u041C\u0438\u043B\u0442\u043E\u043D, \u0423\u044D\u0441\u0442-\u0414\u0430\u043D\u0431\u0430\u0440\u0442\u043E\u043D\u0448\u0438\u0440, \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u044F) \u2014 \u0448\u043E\u0442\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0442\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u041C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u0422\u0435\u043B\u0435\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0442\u043E\u0440 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u0432\u0435\u0449\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0433\u043E \u0442\u0435\u043B\u0435\u0432\u0438\u0434\u0435\u043D\u0438\u044F. \u0421 1997 \u043F\u043E 1999 \u0433\u043E\u0434\u0430 \u0432 \u043F\u0430\u0440\u0442\u043D\u0451\u0440\u0441\u0442\u0432\u0435 \u0441\u043E \u0441\u0432\u043E\u0438\u043C \u0441\u044B\u043D\u043E\u043C \u041F\u043E\u043B\u043E\u043C \u0421\u0442\u044E\u0430\u0440\u0442\u043E\u043C \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u043E\u0432\u0430\u043B \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u00AB\u0421\u0442\u044E\u0430\u0440\u0442\u00BB."@ru ,
+		"\u0627\u0644\u0633\u064A\u0631 \u062C\u0648\u0646 \u064A\u0648\u0646\u062C \"\u062C\u0627\u0643\u064A\" \u0633\u062A\u064A\u0648\u0627\u0631\u062A\u060C \u0635\u0627\u062D\u0628 \u0648\u0633\u0627\u0645 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629 (\u0648\u0644\u062F \u0641\u064A 11 \u064A\u0648\u0646\u064A\u0648 1939) \u0647\u0648 \u0633\u0627\u0626\u0642 \u0633\u064A\u0627\u0631\u0627\u062A \u0633\u0628\u0627\u0642 \u0627\u0633\u0643\u062A\u0644\u0646\u062F\u064A. \u0648\u064A\u064F\u0644\u0642\u0628 \u0628\u0627\u0633\u0645 \"\u0627\u0644\u0627\u0633\u0643\u062A\u0644\u0646\u062F\u064A \u0627\u0644\u0637\u0627\u0626\u0631\" (Flying Scot)\u060C \u0648\u0642\u062F \u062A\u0646\u0627\u0641\u0633 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1965 \u06481973\u060C \u0648\u0641\u0627\u0632 \u0628\u062B\u0644\u0627\u062B \u0628\u0637\u0648\u0644\u0627\u062A \u0633\u0628\u0627\u0642 \u0639\u0627\u0644\u0645\u064A\u0629\u060C \u0648\u062A\u0646\u0627\u0641\u0633 \u0623\u064A\u0636\u064B\u0627 \u0641\u064A \u0633\u0628\u0627\u0642 \u0643\u0623\u0633 \u0627\u0644\u062A\u062D\u062F\u064A \u0627\u0644\u0643\u0646\u062F\u064A-\u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A (Can-Am). \u0648\u0647\u0648 \u0645\u0639\u0631\u0648\u0641 \u062C\u064A\u062F\u064B\u0627 \u0641\u064A \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0628\u0627\u0633\u0645 \u0627\u0644\u0645\u064F\u0639\u0644\u0650\u0651\u0642 \u0627\u0644\u0645\u0633\u0627\u0639\u062F (\u064A\u0633\u0627\u0639\u062F \u0627\u0644\u0645\u0639\u0644\u0642 \u0627\u0644\u0623\u0633\u0627\u0633\u064A \u0641\u064A \u0627\u0644\u062A\u0639\u0644\u064A\u0642 \u0623\u062B\u0646\u0627\u0621 \u062A\u0648\u0642\u0641 \u0627\u0644\u0644\u0639\u0628) (\u0646\u0627\u0642\u062F) \u0641\u064A \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u062A\u064A \u062A\u0630\u0627\u0639 \u0639\u0628\u0631 \u0627\u0644\u062A\u0644\u0641\u0627\u0632\u060C \u0648\u0643\u0645\u062A\u062D\u062F\u062B \u0628\u0627\u0633\u0645 \u0634\u0631\u0643\u0629 \u0641\u0648\u0631\u062F\u060C \u0641\u0625\u0646 \u0644\u0643\u0646\u062A\u0647 \u0627\u0644\u0627\u0633\u0643\u062A\u0644\u0646\u062F\u064A\u0629 \u0641\u064A \u0627\u0644\u062A\u062D\u062F\u062B \u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u062C\u0639\u0644\u062A\u0647 \u0630\u0627 \u062D\u0636\u0648\u0631\u064D \u0645\u0645\u064A\u0632. \u0648\u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1997 \u06481999\u060C \u0648\u0645\u0646 \u062E\u0644\u0627\u0644 \u0634\u0631\u0627\u0643\u0629 \u0645\u0639 \u0627\u0628\u0646\u0647 \u0628\u0648\u0644\u060C \u0623\u0635\u0628\u062D \u0645\u062F\u064A\u0631 \u0641\u0631\u064A\u0642 \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646 \u0633\u062A\u064A\u0648\u0627\u0631\u062A \u062C\u0631\u0627\u0646\u062F \u0628\u0631\u064A\u0643\u0633. \u0648\u0641\u064A \u0639\u0627\u0645 2009\u060C \u0627\u062D\u062A\u0644 \u0627\u0644\u0645\u0631\u062A\u0628\u0629 \u0627\u0644\u062E\u0627\u0645\u0633\u0629 \u0628\u064A\u0646 \u0623\u0639\u0638\u0645 \u062E\u0645\u0633\u064A\u0646 \u0633\u0627\u0626\u0642\u064B\u0627 \u0641\u064A \u0633\u0628\u0627\u0642\u0627\u062A \u0627\u0644\u0641\u0648\u0631\u0645\u0648\u0644\u0627 \u0648\u0627\u0646 \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642 \u0648\u0641\u0642\u064B\u0627 \u0644\u062A\u062D\u0644\u064A\u0644 \u0627\u0644\u0635\u062D\u0641\u064A \u0643\u064A\u0641\u064A\u0646 \u0625\u064A\u0633\u0648\u0646\u060C \u0627\u0644\u0630\u064A \u0643\u062A\u0628: \"\u0644\u0645 \u064A\u0628\u0631\u0632 \u0643\u0633\u0627\u0626\u0642\u064D \u0639\u0638\u064A\u0645 \u0641\u0642\u0637\u060C \u0648\u0644\u0643\u0646 \u0643\u0648\u0627\u062D\u062F\u064D \u0645\u0646 \u0623\u0639\u0638\u0645 \u0645\u062A\u0633\u0627\u0628\u0642\u064A \u0627\u0644\u0633\u064A\u0627\u0631\u0627\u062A \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642.\""@ar ,
+		"Jackie Stewart, w\u0142a\u015Bc. John Young Stewart (ur. 11 czerwca 1939 w Milton) \u2013 brytyjski kierowca Formu\u0142y 1, trzykrotny mistrz \u015Bwiata. Okre\u015Blany przydomkiem The Flying Scot."@pl ,
+		"John Young Stewart OBE (Milton, West Dunbartonshire, 11 de junho de 1939) \u00E9 um ex-automobilista brit\u00E2nico. \u00C9 tricampe\u00E3o mundial de F\u00F3rmula 1 e considerado um dos maiores pilotos da hist\u00F3ria do esporte."@pt ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Jackie_Stewart_at_the_2014_WEC_Silverstone_round.jpg?width=300> ;
+	dbo:birthDate	"1939-6-11"^^xsd:date ;
+	dbo:wikiPageRevisionID	739997679 ;
+	dbo:birthPlace	dbr:Dunbartonshire ;
+	dbo:wikiPageID	294240 .
+@prefix ns32:	<http://purl.org/linguistics/gold/> .
+dbr:Jackie_Stewart	ns32:hypernym	dbr:Formula ;
+	dbo:championships	"3"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"15"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1965_South_African_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1973_United_States_Grand_Prix> ;
+	dbo:podiums	"43"^^xsd:nonNegativeInteger ;
+	dbo:poles	"17"^^xsd:nonNegativeInteger ;
+	dbo:races	"100"^^xsd:nonNegativeInteger ;
+	dbo:wins	"27"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Tyrrell_Racing ,
+		dbr:Equipe_Matra_Sports ,
+		dbr:British_Racing_Motors ,
+		dbr:March_Engineering ;
+	dbp:nationality	"British"^^xsd:string .
+dbr:Bruce_McLaren	dbp:after	dbr:Jackie_Stewart .
+dbr:Mario_Andretti	dbp:after	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1965_French_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_French_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1972_French_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_French_Grand_Prix>	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_British_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_British_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1972_British_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_Can-Am_season__3__1>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1966_Indianapolis_500>	dbp:rookie	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1967_French_Grand_Prix>	dbo:thirdDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1966_Australian_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+dbr:Richard_Attwood	dbp:after	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1966_New_Zealand_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1967_New_Zealand_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+dbr:Ken_Tyrrell	dbp:after	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_Formula_One_season>	dbp:champions	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_Formula_One_season>	dbp:champions	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_Formula_One_season>	dbp:champions	dbr:Jackie_Stewart .
+dbr:Peter_Revson	dbp:before	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1964_Rand_Grand_Prix>	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_South_African_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1970_South_African_Grand_Prix>	dbo:thirdDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_South_African_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1972_South_African_Grand_Prix>	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_South_African_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+dbr:Dan_Wheldon	dbp:before	dbr:Jackie_Stewart .
+dbr:Weekend_of_a_Champion	dbo:starring	dbr:Jackie_Stewart .
+dbr:Stewart_Grand_Prix	dbp:founders	dbr:Jackie_Stewart .
+dbr:Tyrrell_Racing	dbp:drivers	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1968_United_States_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_United_States_Grand_Prix>	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1972_United_States_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_Indianapolis_500>	dbp:announcers	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1972_Indianapolis_500>	dbp:announcers	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_Indianapolis_500>	dbp:announcers	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1979_Indianapolis_500>	dbp:announcers	dbr:Jackie_Stewart ;
+	dbp:paceDriver	dbr:Jackie_Stewart .
+dbr:James_Hunt	dbp:before	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_Argentine_Grand_Prix>	dbo:thirdDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1970_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_Spanish_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1970_Monaco_Grand_Prix>	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1970_Race_of_Champions>	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1970_Italian_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1965_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1966_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1971_Spring_Trophy>	dbo:thirdDriver	dbr:Jackie_Stewart ;
+	dbo:poleDriver	dbr:Jackie_Stewart .
+dbr:Graham_Hill	dbp:after	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1965_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1968_Dutch_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1969_Dutch_Grand_Prix>	dbo:fastestDriver	dbr:Jackie_Stewart ;
+	dbo:firstDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1970_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1973_Dutch_Grand_Prix>	dbo:firstDriver	dbr:Jackie_Stewart .
+dbr:JYS	dbo:wikiPageRedirects	dbr:Jackie_Stewart .
+dbr:Sir_Jackie_Stewart	dbo:wikiPageRedirects	dbr:Jackie_Stewart .
+dbr:Sir_John_Young_Stewart	dbo:wikiPageRedirects	dbr:Jackie_Stewart .
+dbr:John_Young_Stewart	dbo:wikiPageRedirects	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/Jackie_Stewart_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Jackie_Stewart .
+<http://dbpedia.org/resource/1965_24_Hours_of_Le_Mans__10__1>	dbo:firstDriver	dbr:Jackie_Stewart .
+dbr:Denny_Hulme	dbp:before	dbr:Jackie_Stewart ;
+	dbp:after	dbr:Jackie_Stewart .

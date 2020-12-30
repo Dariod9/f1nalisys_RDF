@@ -1,0 +1,118 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Desmond_Titterington	rdf:type	yago:WikicatConnaughtFormulaOneDrivers .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Desmond_Titterington	rdf:type	dbo:Agent ,
+		yago:WikicatFormulaOneDriversFromNorthernIreland ,
+		yago:PhysicalEntity100001930 ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Desmond_Titterington	rdf:type	wikidata:Q24229398 .
+@prefix schema:	<http://schema.org/> .
+dbr:Desmond_Titterington	rdf:type	schema:Person ,
+		dbo:Person ,
+		wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Desmond_Titterington	rdf:type	owl:Thing ,
+		wikidata:Q5 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Desmond_Titterington	rdf:type	ns7:NaturalPerson ,
+		ns7:Agent .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Desmond_Titterington	rdf:type	umbel-rc:RaceCarDriver ,
+		dbo:Athlete .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Desmond_Titterington	rdf:type	foaf:Person ,
+		dbo:MotorsportRacer ,
+		wikidata:Q378622 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Desmond_Titterington	rdfs:label	"Desmond Titterington"@pt ,
+		"Desmond Titterington"@fr ,
+		"Desmond Titterington"@pl ,
+		"Desmond Titterington"@it ,
+		"Desmond Titterington"@de ,
+		"Desmond Titterington"@nl ,
+		"Desmond Titterington"@en ;
+	rdfs:comment	"Desmond Titterington John Desmond Titterington, ou Desmond Titterington, n\u00E9 le 1er mai 1928 \u00E0 Cultra et mort le 13 avril 2002 \u00E0 Dundee, est un pilote automobile britannique de Formule 1."@fr ,
+		"Desmond Titterington (ur. 1 maja 1928 roku w Cultrze w Belfa\u015Bcie, zm. 13 kwietnia 2002 roku w Belfa\u015Bcie) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Desmond Titterington (Cultra, vlak bij Holywood, County Down, 1 mei 1928 - Dundee, Schotland, 13 april 2002) was een Noord-Iers autocoureur. Hij nam deel aan zijn thuisrace in 1956 voor het team Connaught Engineering, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Desmond Titterington (1 May 1928, Cultra, near Holywood, County Down \u2013 13 April 2002, Dundee, Scotland) was a British racing driver from Northern Ireland. He participated in one Formula One World Championship Grand Prix, on July 14, 1956. He scored no championship points. He also competed in several non-Championship Grand Prix."@en ,
+		"John Desmond Titterington (Cultra, Belfast, Irlanda do Norte, 1 de maio de 1928 - Blairgowrie, Dundee, Esc\u00F3cia, 13 de abril de 2002) foi um automobilista norte-irland\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1956."@pt ,
+		"In Formula 1 partecip\u00F2 al solo Gran Premio di Gran Bretagna 1956 su una Connaught, non terminando la gara."@it ,
+		"Desmond Titterington (* 1. Mai 1928 in Cultra; \u2020 21. April 2002 in Dundee) war ein nordirischer Autorennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Desmond_Titterington	dbp:birthDate	"1928-05-01"^^xsd:date ;
+	owl:sameAs	dbr:Desmond_Titterington ,
+		<http://rdf.freebase.com/ns/m.04k7y7> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Desmond_Titterington	owl:sameAs	dbpedia-nl:Desmond_Titterington .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Desmond_Titterington	owl:sameAs	dbpedia-de:Desmond_Titterington .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Desmond_Titterington	owl:sameAs	yago-res:Desmond_Titterington ,
+		wikidata:Q172825 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Desmond_Titterington	owl:sameAs	dbpedia-wikidata:Q172825 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Desmond_Titterington	owl:sameAs	dbpedia-it:Desmond_Titterington .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Desmond_Titterington	owl:sameAs	dbpedia-pt:Desmond_Titterington .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Desmond_Titterington	owl:sameAs	dbpedia-pl:Desmond_Titterington .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Desmond_Titterington	owl:sameAs	dbpedia-fr:Desmond_Titterington .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Desmond_Titterington	dct:subject	<http://dbpedia.org/resource/Category:2002_deaths> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Desmond_Titterington	dct:subject	dbc:People_from_County_Down ,
+		dbc:Racing_drivers_from_Northern_Ireland ,
+		dbc:Formula_One_drivers_from_Northern_Ireland ,
+		<http://dbpedia.org/resource/Category:1928_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:Connaught_Formula_One_drivers ;
+	foaf:name	"Desmond Titterington"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Desmond"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Desmond_Titterington	foaf:isPrimaryTopicOf	wikipedia-en:Desmond_Titterington ;
+	foaf:surname	"Titterington"@en ;
+	dbp:points	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Connaught_Engineering .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Desmond_Titterington	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Desmond_Titterington?oldid=737665730> ;
+	dbo:wikiPageExternalLink	<https://web.archive.org/web/20060619083104/http:/www.f1rejects.com/drivers/titterington/index.html> ;
+	dbp:deathDate	"2002-04-13"^^xsd:date ;
+	dbo:abstract	"Desmond Titterington (* 1. Mai 1928 in Cultra; \u2020 21. April 2002 in Dundee) war ein nordirischer Autorennfahrer."@de ,
+		"Desmond Titterington John Desmond Titterington, ou Desmond Titterington, n\u00E9 le 1er mai 1928 \u00E0 Cultra et mort le 13 avril 2002 \u00E0 Dundee, est un pilote automobile britannique de Formule 1."@fr ,
+		"In Formula 1 partecip\u00F2 al solo Gran Premio di Gran Bretagna 1956 su una Connaught, non terminando la gara."@it ,
+		"John Desmond Titterington (Cultra, Belfast, Irlanda do Norte, 1 de maio de 1928 - Blairgowrie, Dundee, Esc\u00F3cia, 13 de abril de 2002) foi um automobilista norte-irland\u00EAs que participou do Grande Pr\u00EAmio da Inglaterra de F\u00F3rmula 1 em 1956."@pt ,
+		"Desmond Titterington (ur. 1 maja 1928 roku w Cultrze w Belfa\u015Bcie, zm. 13 kwietnia 2002 roku w Belfa\u015Bcie) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Desmond Titterington (Cultra, vlak bij Holywood, County Down, 1 mei 1928 - Dundee, Schotland, 13 april 2002) was een Noord-Iers autocoureur. Hij nam deel aan zijn thuisrace in 1956 voor het team Connaught Engineering, maar scoorde hierin geen punten voor het wereldkampioenschap Formule 1."@nl ,
+		"Desmond Titterington (1 May 1928, Cultra, near Holywood, County Down \u2013 13 April 2002, Dundee, Scotland) was a British racing driver from Northern Ireland. He participated in one Formula One World Championship Grand Prix, on July 14, 1956. He scored no championship points. He also competed in several non-Championship Grand Prix."@en ;
+	dbo:birthDate	"1928-5-1"^^xsd:date ;
+	dbo:deathDate	"2002-4-13"^^xsd:date ;
+	dbo:deathPlace	dbr:Dundee ;
+	dbo:wikiPageRevisionID	737665730 ;
+	dbo:wikiPageID	1228299 ;
+	dbo:nationality	dbr:United_Kingdom ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1956_British_Grand_Prix> ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1956_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns25:	<http://purl.org/linguistics/gold/> .
+dbr:Desmond_Titterington	ns25:hypernym	dbr:Driver .
+wikipedia-en:Desmond_Titterington	foaf:primaryTopic	dbr:Desmond_Titterington .
+dbr:Titterington	dbo:wikiPageDisambiguates	dbr:Desmond_Titterington .
+<http://dbpedia.org/resource/1956_24_Hours_of_Le_Mans__47__1>	dbo:firstDriver	dbr:Desmond_Titterington .

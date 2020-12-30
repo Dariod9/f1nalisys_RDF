@@ -1,0 +1,112 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Willi_Krakau	rdf:type	wikidata:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Willi_Krakau	rdf:type	yago:PhysicalEntity100001930 ,
+		wikidata:Q24229398 .
+@prefix ns4:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Willi_Krakau	rdf:type	ns4:Agent .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Willi_Krakau	rdf:type	dbo:RacingDriver ,
+		ns4:NaturalPerson ,
+		dbo:FormulaOneRacer ,
+		yago:CausalAgent100007347 ,
+		dbo:Person .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Willi_Krakau	rdf:type	foaf:Person ,
+		yago:WikicatGermanFormulaOneDrivers ,
+		yago:WikicatRacingDriversFromLowerSaxony .
+@prefix schema:	<http://schema.org/> .
+dbr:Willi_Krakau	rdf:type	schema:Person ,
+		wikidata:Q378622 ,
+		yago:WikicatAFMFormulaOneDrivers ,
+		yago:Operator110378412 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Willi_Krakau	rdf:type	owl:Thing ,
+		dbo:Agent ,
+		yago:Driver110034906 ,
+		dbo:MotorsportRacer ,
+		dbo:Athlete ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Willi_Krakau	rdfs:label	"Willi Krakau"@en ,
+		"Willi Krakau"@nl ,
+		"Willi Krakau"@pt ,
+		"Willi Krakau"@fr ,
+		"Willi Krakau"@de ,
+		"Willi Krakau"@pl ;
+	rdfs:comment	"Willi Krakau est un pilote automobile allemand n\u00E9 le 4 d\u00E9cembre 1911 \u00E0 Schonebeck (Allemagne) et d\u00E9c\u00E9d\u00E9 le 26 avril 1995 \u00E0 Peine (Allemagne)."@fr ,
+		"Willi Krakau (* 4. Dezember 1911 in Sch\u00F6neck; \u2020 26. April 1995 in Peine) war ein deutscher Automobilrennfahrer. Sein erstes Rennen fuhr Krakau mit einem BMW 328 beim Eifelrennen 1937 auf der Nordschleife des N\u00FCrburgrings. Nach dem Krieg war er erstmals 1947 in Hockenheim am Start. Im Rennen noch vor der Fahrerlegende Karl Kling gelegen, fing sein Wagen Feuer und er musste aufgeben. Als erster deutscher Fahrer nach dem Krieg nahm Krakau an einem offiziellen Rennen in Italien, dem Gran Premio dell'Autodromo di Monza 1950 teil, wobei f\u00FCr ihn als erstem deutschen Sportler die Bundesflagge neben den Farben der anderen Nationen am Ehrenmast wehte.1952 war er f\u00FCr den Gro\u00DFen Preis von Deutschland gemeldet, konnte im Training aber keine vollst\u00E4ndig gezeitete Runde erzielen und daher am Rennen nicht"@de ,
+		"Willi Krakau (Schonebeck-Felgeleben, Alemanha, 4 de dezembro de 1911 \u2013 Peine, Alemanha, 26 de abril de 1995) foi um automobilista alem\u00E3o que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 em 1952."@pt ,
+		"Willi Krakau (ur. 4 grudnia 1911 w Schonebeck-Felgeleben, zm. 26 kwietnia 1995 roku w Peine) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl ,
+		"Willi Krakau (4 december 1911 - Peine, 26 april 1995) was een Formule 1-coureur uit Duitsland. Hij reed in 1952 zijn thuisrace voor het team AFM, maar scoorde hierin geen punten."@nl ,
+		"Willi Krakau (4 December 1911, Felgeleben (now Sch\u00F6nebeck) \u2013 26 April 1995) was a racing driver from Germany. During the late 1940s and early 1950s, he built a reputation as a constructor of special racing cars, sometimes based on the BMW 328, with which he enjoyed some success in various formulae including Formula Two. His single entry into a World Championship Formula One race was at the 1952 German Grand Prix. Driving his six-cylinder AFM car, he completed the qualifying sessions but did not appear on the starting grid. Krakau died in Peine in 1995."@en .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Willi_Krakau	dbp:points	0 ;
+	owl:sameAs	dbr:Willi_Krakau .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Willi_Krakau	owl:sameAs	dbpedia-nl:Willi_Krakau .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Willi_Krakau	owl:sameAs	dbpedia-de:Willi_Krakau .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Willi_Krakau	owl:sameAs	dbpedia-wikidata:Q66177 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Willi_Krakau	owl:sameAs	dbpedia-pl:Willi_Krakau ,
+		wikidata:Q66177 ,
+		<http://rdf.freebase.com/ns/m.09vrgk> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Willi_Krakau	owl:sameAs	yago-res:Willi_Krakau .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Willi_Krakau	owl:sameAs	dbpedia-fr:Willi_Krakau .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Willi_Krakau	owl:sameAs	dbpedia-pt:Willi_Krakau .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Willi_Krakau	dct:subject	dbc:AFM_Formula_One_drivers ,
+		dbc:Racing_drivers_from_Lower_Saxony ,
+		<http://dbpedia.org/resource/Category:1995_deaths> ,
+		<http://dbpedia.org/resource/Category:1911_births> ,
+		dbc:German_racing_drivers ,
+		dbc:German_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:People_from_Peine_(district)> ;
+	foaf:name	"Willi Krakau"@en ;
+	dct:description	"German racing driver"@en ;
+	foaf:givenName	"Willi"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Willi_Krakau	foaf:isPrimaryTopicOf	wikipedia-en:Willi_Krakau ;
+	foaf:surname	"Krakau"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Willi_Krakau	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Willi_Krakau?oldid=706643639> ;
+	dbp:birthPlace	"Felgeleben, Saxony, Germany"^^xsd:string ;
+	dbp:deathPlace	"Peine, Lower Saxony, Germany"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Willi_Krakau	dbp:birthDate	"1911-12-04"^^xsd:date ;
+	dbp:deathDate	"1995-04-26"^^xsd:date ;
+	dbo:wikiPageExternalLink	<http://www.forix.com/8w/df2-ebwg.html> ;
+	dbo:abstract	"Willi Krakau est un pilote automobile allemand n\u00E9 le 4 d\u00E9cembre 1911 \u00E0 Schonebeck (Allemagne) et d\u00E9c\u00E9d\u00E9 le 26 avril 1995 \u00E0 Peine (Allemagne)."@fr ,
+		"Willi Krakau (4 December 1911, Felgeleben (now Sch\u00F6nebeck) \u2013 26 April 1995) was a racing driver from Germany. During the late 1940s and early 1950s, he built a reputation as a constructor of special racing cars, sometimes based on the BMW 328, with which he enjoyed some success in various formulae including Formula Two. His single entry into a World Championship Formula One race was at the 1952 German Grand Prix. Driving his six-cylinder AFM car, he completed the qualifying sessions but did not appear on the starting grid. Prior to his motor racing exploits, Krakau had tried his hand at several sports, and was a member of the German rowing team at the 1936 Summer Olympics. Krakau died in Peine in 1995."@en ,
+		"Willi Krakau (ur. 4 grudnia 1911 w Schonebeck-Felgeleben, zm. 26 kwietnia 1995 roku w Peine) \u2013 niemiecki kierowca wy\u015Bcigowy."@pl ,
+		"Willi Krakau (Schonebeck-Felgeleben, Alemanha, 4 de dezembro de 1911 \u2013 Peine, Alemanha, 26 de abril de 1995) foi um automobilista alem\u00E3o que participou do Grande Pr\u00EAmio da Alemanha de F\u00F3rmula 1 em 1952."@pt ,
+		"Willi Krakau (* 4. Dezember 1911 in Sch\u00F6neck; \u2020 26. April 1995 in Peine) war ein deutscher Automobilrennfahrer. Sein erstes Rennen fuhr Krakau mit einem BMW 328 beim Eifelrennen 1937 auf der Nordschleife des N\u00FCrburgrings. Nach dem Krieg war er erstmals 1947 in Hockenheim am Start. Im Rennen noch vor der Fahrerlegende Karl Kling gelegen, fing sein Wagen Feuer und er musste aufgeben. Als erster deutscher Fahrer nach dem Krieg nahm Krakau an einem offiziellen Rennen in Italien, dem Gran Premio dell'Autodromo di Monza 1950 teil, wobei f\u00FCr ihn als erstem deutschen Sportler die Bundesflagge neben den Farben der anderen Nationen am Ehrenmast wehte.1952 war er f\u00FCr den Gro\u00DFen Preis von Deutschland gemeldet, konnte im Training aber keine vollst\u00E4ndig gezeitete Runde erzielen und daher am Rennen nicht teilnehmen. Willi Krakau, der in jungen Jahren auch ein hoffnungsvoller Ruderer war, geh\u00F6rte 1936 der deutschen olympischen Rudermannschaft an. Nebenbei war er begeisterter Boxer und Skil\u00E4ufer. So gewann er zur gr\u00F6\u00DFten \u00DCberraschung der Experten als \u201EFlachl\u00E4nder\u201C einen 50-km-Langlauf im Erzgebirge gegen gr\u00F6\u00DFte Konkurrenz aus ganz Deutschland. 1934 wurde Krakau Skilehrer der ehemaligen K\u00F6nigin Friederike von Griechenland. Nach dem Ende seiner Rennfahrerkarriere widmete Krakau sich dem Bergsteigen und dem Unterwassersport mit Tauchger\u00E4t und Harpune. Neben seinen aktiven sportlichen T\u00E4tigkeiten war Krakau Mitglied der ehemaligen Obersten nationalen Sportbeh\u00F6rde und Angeh\u00F6riger des Hauptsportausschusses des ADAC in M\u00FCnchen."@de ,
+		"Willi Krakau (4 december 1911 - Peine, 26 april 1995) was een Formule 1-coureur uit Duitsland. Hij reed in 1952 zijn thuisrace voor het team AFM, maar scoorde hierin geen punten."@nl ;
+	dbo:birthDate	"1911-12-4"^^xsd:date ;
+	dbo:deathDate	"1995-4-26"^^xsd:date ;
+	dbo:deathPlace	dbr:Peine ;
+	dbo:wikiPageRevisionID	706643639 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/Sch\u00F6nebeck> ;
+	dbo:wikiPageID	3692369 .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:Willi_Krakau	ns23:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1952_German_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1952_German_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"1"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	"privateer AFM"^^xsd:string ;
+	dbp:nationality	"German"^^xsd:string .
+wikipedia-en:Willi_Krakau	foaf:primaryTopic	dbr:Willi_Krakau .

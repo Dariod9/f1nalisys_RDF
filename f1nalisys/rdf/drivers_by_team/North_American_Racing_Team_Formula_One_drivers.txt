@@ -1,0 +1,25 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Pedro_Rodr\u00EDguez_(racing_driver)>	dct:subject	dbc:North_American_Racing_Team_Formula_One_drivers .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Lorenzo_Bandini	dct:subject	dbc:North_American_Racing_Team_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:North_American_Racing_Team_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:North_American_Racing_Team_Formula_One_drivers	rdfs:label	"North American Racing Team Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:North_American_Racing_Team_Formula_One_drivers	owl:sameAs	wikidata:Q8682245 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:North_American_Racing_Team_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q8682245 ,
+		dbc:North_American_Racing_Team_Formula_One_drivers ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"North American Racing Team Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:North_American_Racing_Team_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:North_American_Racing_Team_Formula_One_drivers?oldid=500012871> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:North_American_Racing_Team_Formula_One_drivers	dbo:wikiPageRevisionID	500012871 ;
+	dbo:wikiPageID	36187548 .
+dbr:John_Surtees	dct:subject	dbc:North_American_Racing_Team_Formula_One_drivers .
+dbr:Bob_Bondurant	dct:subject	dbc:North_American_Racing_Team_Formula_One_drivers .

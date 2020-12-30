@@ -1,0 +1,147 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Tony_Trimmer	rdf:type	wikidata:Q215627 ,
+		wikidata:Q24229398 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Tony_Trimmer	rdf:type	dbo:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Tony_Trimmer	rdf:type	yago:WikicatMakiFormulaOneDrivers ,
+		wikidata:Q5 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Tony_Trimmer	rdf:type	owl:Thing ,
+		yago:WikicatBritishFormula3000ChampionshipDrivers .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Tony_Trimmer	rdf:type	ns6:NaturalPerson ,
+		wikidata:Q378622 ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		ns6:Agent ,
+		dbo:FormulaOneRacer ,
+		yago:Operator110378412 ,
+		dbo:Agent ,
+		dbo:RacingDriver .
+@prefix schema:	<http://schema.org/> .
+dbr:Tony_Trimmer	rdf:type	schema:Person ,
+		yago:Driver110034906 ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		dbo:MotorsportRacer ,
+		yago:WikicatBritishFormulaThreeChampionshipDrivers ,
+		yago:WikicatBritishFormulaOneDrivers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Tony_Trimmer	rdf:type	foaf:Person ,
+		yago:CausalAgent100007347 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Tony_Trimmer	rdfs:label	"Tony Trimmer"@pl ,
+		"Tony Trimmer"@fr ,
+		"Tony Trimmer"@it ,
+		"Tony Trimmer"@pt ,
+		"Tony Trimmer"@en ,
+		"Tony Trimmer"@nl ,
+		"\u0422\u0440\u0438\u043C\u043C\u0435\u0440, \u0422\u043E\u043D\u0438"@ru ,
+		"Tony Trimmer"@de ;
+	rdfs:comment	"Tony Trimmer (Maidenhead, 24 de Janeiro de 1943) \u00E9 um ex-automobilista Brit\u00E2nico."@pt ,
+		"Tony Trimmer (born in Maidenhead, Berkshire on 24 January 1943) is a British former racing driver from England, who won the Shell British Formula 3 Championship and E.R. Hall Trophy in 1970. Tony Trimmer also won the prestigious Monaco F3 Race in 1970 driving a Brabham BT-28 and finished runner-up to Patrick Depailler in the 1972 edition. Trimmer was also one of the few people to drive the Connew Formula One car, in its last ever race (in later Formula 5000specification) in 1973. However the car collided with a barrier at Brands Hatch after a rear damper gave way."@en ,
+		"Tony Trimmer (Maidenhead, Berkshire, 24 januari 1943) is een voormalig Brits autocoureur. Trimmer wist in 1970 het Britse Formule 3-kampioenschap op zijn naam te brengen. Midden jaren zeventig volgde de overstap naar Formule 1, maar dit was onsuccesvol. In 1975 en 1976 reed hij in totaal vier keer voor Maki, in 1977 was hij eenmalig actief met een priv\u00E9-Surtees en een jaar later met een priv\u00E9-McLaren. Hij wist zich geen enkele keer voor een race te kwalificeren. In 1978 wist hij wel het Britse Formule 1-kampioenschap voor oudere Formule 1-wagens te winnen met dezelfde priv\u00E9-McLaren."@nl ,
+		"Tony Trimmer, n\u00E9 le 24 janvier 1943 \u00E0 Maidenhead, est un ancien pilote britannique. Il a remport\u00E9 le championnat de Grande-Bretagne de Formule 3, en 1970, et le Championnat de Grande-Bretagne de Formule 1 en 1978 mais ne connut jamais la r\u00E9ussite en Championnat du monde de Formule 1 o\u00F9 il n'a jamais r\u00E9ussi \u00E0 se qualifier pour un Grand Prix."@fr ,
+		"\u0422\u043E\u043D\u0438 \u0422\u0440\u0438\u043C\u043C\u0435\u0440 (\u0430\u043D\u0433\u043B. Tony Trimmer; \u0440\u043E\u0434. 24 \u044F\u043D\u0432\u0430\u0440\u044F 1943 \u0433\u043E\u0434, \u041C\u0435\u0439\u0434\u0435\u043D\u0445\u0435\u0434, \u0411\u0435\u0440\u043A\u0448\u0438\u0440) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041E\u043D \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u0448\u0435\u0441\u0442\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 \u043D\u0435\u043A\u043E\u043D\u043A\u0443\u0440\u0435\u043D\u0442\u043E\u0441\u043F\u043E\u0441\u043E\u0431\u043D\u044B\u043C\u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u0430\u043C\u0438, \u0441\u043D\u0430\u0447\u0430\u043B\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 Maki \u0432 \u0447\u0435\u0442\u044B\u0440\u0451\u0445 \u0433\u043E\u043D\u043A\u0430\u0445 1975 \u0438 1976, \u0438 \u0447\u0435\u0442\u044B\u0440\u0435 \u0440\u0430\u0437\u0430 \u043F\u0440\u043E\u0432\u0430\u043B\u0438\u0432\u0430\u043B \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044E. \u041D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 1977 \u0433\u043E\u0434\u0430 (\u043D\u0435 \u043F\u0440\u0435\u0434\u043A\u0432\u0430\u043B\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u043D) \u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 1978 \u0433\u043E\u0434\u0430 (\u043D\u0435 \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u043D), \u043E\u043D \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Melchester Racing Team, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0432\u0448\u0443\u044E \u0448\u0430\u0441\u0441\u0438 Surtees TS19 \u0438 McLaren M23 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u043E."@ru ,
+		"Trimmer \u00E8 nato a Maidenhead , BerkshireSi \u00E8 aggiudicato il campionato Formula Shellsport nel 1977 e la Formula Aurora 1978. Per sei volte ha tentato di qualificarsi in Formula 1 ma senza successo. Quattro volte tra il 1975 e il 1976 con la Maki, e, nei gran premi di casa del 1977 e del 1978, con il team privato Melchester Racing, che nella prima occasione gli mise a disposizione una Surtees, nella seconda una McLaren. Fu uno dei piloti che guid\u00F2 la Connew Formula 1, gi\u00E0 modificata nell'allestimento per il Campionato di Formula 5000."@it ,
+		"Tony Trimmer (ur. 24 stycznia 1943 w Maidenhead) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Tony Trimmer (* 24. Januar 1943 in Maidenhead) ist ein ehemaliger britischer Automobilrennfahrer."@de .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Tony_Trimmer	dbp:birthDate	"1943-01-24"^^xsd:date .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Tony_Trimmer	owl:sameAs	dbpedia-pl:Tony_Trimmer ,
+		dbr:Tony_Trimmer .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Tony_Trimmer	owl:sameAs	dbpedia-fr:Tony_Trimmer ,
+		<http://rdf.freebase.com/ns/m.04w4pv> ,
+		wikidata:Q509740 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Tony_Trimmer	owl:sameAs	dbpedia-nl:Tony_Trimmer .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Tony_Trimmer	owl:sameAs	dbpedia-it:Tony_Trimmer .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Tony_Trimmer	owl:sameAs	dbpedia-wikidata:Q509740 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Tony_Trimmer	owl:sameAs	dbpedia-de:Tony_Trimmer .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Tony_Trimmer	owl:sameAs	dbpedia-pt:Tony_Trimmer .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Tony_Trimmer	owl:sameAs	yago-res:Tony_Trimmer .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Tony_Trimmer	dct:subject	dbc:World_Sportscar_Championship_drivers ,
+		dbc:British_Formula_Three_Championship_drivers ,
+		<http://dbpedia.org/resource/Category:1943_births> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		dbc:English_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		dbc:People_from_Maidenhead ,
+		dbc:Maki_Formula_One_drivers ,
+		dbc:British_Formula_3000_Championship_drivers ,
+		dbc:Living_people ;
+	foaf:name	"Tony Trimmer"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Tony_Trimmer_1975_RoC.jpg> ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Tony"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Tony_Trimmer	foaf:isPrimaryTopicOf	wikipedia-en:Tony_Trimmer ;
+	foaf:surname	"Trimmer"@en ;
+	dbp:points	0 ;
+	dbp:years	1978 ,
+		1970 ,
+		"\u2013"^^xsd:string ;
+	dbp:after	<http://dbpedia.org/resource/David_Walker_(racing_driver)> ,
+		dbr:Rupert_Keegan ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Surtees ,
+		<http://dbpedia.org/resource/Maki_(constructor)> ,
+		<http://dbpedia.org/resource/McLaren_(racing)> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Tony_Trimmer	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tony_Trimmer?oldid=720067218> ;
+	dbp:caption	"Trimmer at the 1975 Race of Champions"^^xsd:string ;
+	dbp:bf1Years	197819801982 ;
+	dbp:bf1Wins	6 ;
+	dbp:bf1Poles	5 ;
+	dbp:bf1Races	17 ;
+	dbp:bf1Championships	1 ;
+	dbp:bf1FastestLaps	2 ;
+	dbp:bf1Podiums	10 ;
+	dbp:bf1Points	165 ;
+	dbp:birthPlace	"Maidenhead, Berkshire, England, UK"^^xsd:string ;
+	dbp:before	dbr:Emerson_Fittipaldi ,
+		"none"^^xsd:string ;
+	dbo:abstract	"Tony Trimmer (* 24. Januar 1943 in Maidenhead) ist ein ehemaliger britischer Automobilrennfahrer."@de ,
+		"Trimmer \u00E8 nato a Maidenhead , BerkshireSi \u00E8 aggiudicato il campionato Formula Shellsport nel 1977 e la Formula Aurora 1978. Per sei volte ha tentato di qualificarsi in Formula 1 ma senza successo. Quattro volte tra il 1975 e il 1976 con la Maki, e, nei gran premi di casa del 1977 e del 1978, con il team privato Melchester Racing, che nella prima occasione gli mise a disposizione una Surtees, nella seconda una McLaren. Fu uno dei piloti che guid\u00F2 la Connew Formula 1, gi\u00E0 modificata nell'allestimento per il Campionato di Formula 5000."@it ,
+		"Tony Trimmer, n\u00E9 le 24 janvier 1943 \u00E0 Maidenhead, est un ancien pilote britannique. Il a remport\u00E9 le championnat de Grande-Bretagne de Formule 3, en 1970, et le Championnat de Grande-Bretagne de Formule 1 en 1978 mais ne connut jamais la r\u00E9ussite en Championnat du monde de Formule 1 o\u00F9 il n'a jamais r\u00E9ussi \u00E0 se qualifier pour un Grand Prix."@fr ,
+		"\u0422\u043E\u043D\u0438 \u0422\u0440\u0438\u043C\u043C\u0435\u0440 (\u0430\u043D\u0433\u043B. Tony Trimmer; \u0440\u043E\u0434. 24 \u044F\u043D\u0432\u0430\u0440\u044F 1943 \u0433\u043E\u0434, \u041C\u0435\u0439\u0434\u0435\u043D\u0445\u0435\u0434, \u0411\u0435\u0440\u043A\u0448\u0438\u0440) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1. \u041E\u043D \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0432 \u0448\u0435\u0441\u0442\u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 \u0441 \u043D\u0435\u043A\u043E\u043D\u043A\u0443\u0440\u0435\u043D\u0442\u043E\u0441\u043F\u043E\u0441\u043E\u0431\u043D\u044B\u043C\u0438 \u043A\u043E\u043C\u0430\u043D\u0434\u0430\u043C\u0438, \u0441\u043D\u0430\u0447\u0430\u043B\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 Maki \u0432 \u0447\u0435\u0442\u044B\u0440\u0451\u0445 \u0433\u043E\u043D\u043A\u0430\u0445 1975 \u0438 1976, \u0438 \u0447\u0435\u0442\u044B\u0440\u0435 \u0440\u0430\u0437\u0430 \u043F\u0440\u043E\u0432\u0430\u043B\u0438\u0432\u0430\u043B \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044E. \u041D\u0430 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 1977 \u0433\u043E\u0434\u0430 (\u043D\u0435 \u043F\u0440\u0435\u0434\u043A\u0432\u0430\u043B\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u043D) \u0438 \u0413\u0440\u0430\u043D-\u043F\u0440\u0438 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 1978 \u0433\u043E\u0434\u0430 (\u043D\u0435 \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u0446\u0438\u0440\u043E\u0432\u0430\u043D), \u043E\u043D \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 Melchester Racing Team, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0432\u0448\u0443\u044E \u0448\u0430\u0441\u0441\u0438 Surtees TS19 \u0438 McLaren M23 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u043E."@ru ,
+		"Tony Trimmer (Maidenhead, 24 de Janeiro de 1943) \u00E9 um ex-automobilista Brit\u00E2nico."@pt ,
+		"Tony Trimmer (ur. 24 stycznia 1943 w Maidenhead) \u2013 by\u0142y brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"Tony Trimmer (Maidenhead, Berkshire, 24 januari 1943) is een voormalig Brits autocoureur. Trimmer wist in 1970 het Britse Formule 3-kampioenschap op zijn naam te brengen. Midden jaren zeventig volgde de overstap naar Formule 1, maar dit was onsuccesvol. In 1975 en 1976 reed hij in totaal vier keer voor Maki, in 1977 was hij eenmalig actief met een priv\u00E9-Surtees en een jaar later met een priv\u00E9-McLaren. Hij wist zich geen enkele keer voor een race te kwalificeren. In 1978 wist hij wel het Britse Formule 1-kampioenschap voor oudere Formule 1-wagens te winnen met dezelfde priv\u00E9-McLaren."@nl ,
+		"Tony Trimmer (born in Maidenhead, Berkshire on 24 January 1943) is a British former racing driver from England, who won the Shell British Formula 3 Championship and E.R. Hall Trophy in 1970. Tony Trimmer also won the prestigious Monaco F3 Race in 1970 driving a Brabham BT-28 and finished runner-up to Patrick Depailler in the 1972 edition. Trimmer entered six Formula One World Championship Grands Prix with uncompetitive teams, firstly Maki for four races in 1975 and 1976, resulting in four failures to qualify. He then entered the 1977 British Grand Prix (failed to pre-qualify) and the 1978 British Grand Prix (failed to qualify), with the Melchester Racing Team, driving a Surtees TS19 and a McLaren M23 respectively. However, also driving the Melchester McLaren, he finished a superb third in the rain-soaked 1978 BRDC International Trophy non-Championship race at Silverstone, coming home ahead of many of the greats of Formula One. That year he won the British Aurora F1 Championship. Trimmer was also one of the few people to drive the Connew Formula One car, in its last ever race (in later Formula 5000specification) in 1973. However the car collided with a barrier at Brands Hatch after a rear damper gave way. Other than World Championship races, Trimmer raced in many non-championship F1 races and is perhaps one of the drivers who drove the greatest variety of Formula One cars ever. The list includes the great Lotus 72 at the 1971 Race of Champions, the March 701, a Lotus 49, Fittipaldi F-8 and the one-off Safir RJ-02 (aka Token RJ-02), accessing from the old times \"tubby\" Lotus 49 up to a real wing-car Fittipaldi F8."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Tony_Trimmer_1975_RoC.jpg?width=300> ;
+	dbo:birthDate	"1943-1-24"^^xsd:date ;
+	dbo:wikiPageRevisionID	720067218 ;
+	dbo:birthPlace	dbr:Maidenhead ;
+	dbo:wikiPageID	1353924 ;
+	dbo:nationality	dbr:United_Kingdom ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1975_German_Grand_Prix> ;
+	dbo:races	"6"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1978_British_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Tony_Trimmer	ns24:hypernym	dbr:Driver ;
+	dbp:title	"British Formula 3 ChampionshipBRSCC Motorsport/Shell Series Champion"^^xsd:string ,
+		dbr:British_Formula_One_Series .
+<http://dbpedia.org/resource/1978_BRDC_International_Trophy>	dbo:thirdDriver	dbr:Tony_Trimmer .
+wikipedia-en:Tony_Trimmer	foaf:primaryTopic	dbr:Tony_Trimmer .
+dbr:Ronnie_Peterson	dbp:after	dbr:Tony_Trimmer .
+<http://dbpedia.org/resource/David_Walker_(racing_driver)>	dbp:before	dbr:Tony_Trimmer .
+dbr:Rupert_Keegan	dbp:before	dbr:Tony_Trimmer .

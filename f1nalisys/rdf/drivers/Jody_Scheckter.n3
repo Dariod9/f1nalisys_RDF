@@ -1,0 +1,219 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Alan_Jones_(racing_driver)>	dbp:before	dbr:Jody_Scheckter .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1974_Swedish_Grand_Prix>	dbo:firstDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1976_Swedish_Grand_Prix>	dbo:firstDriver	dbr:Jody_Scheckter ;
+	dbo:poleDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1974_French_Grand_Prix>	dbo:fastestDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_United_States_Grand_Prix_West>	dbo:thirdDriver	dbr:Jody_Scheckter .
+dbr:Grande_Premio_Presidente_Emilio_Medici	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1976_BRDC_International_Trophy>	dbo:thirdDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1975_British_Grand_Prix>	dbo:thirdDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1979_United_States_Grand_Prix_West>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1974_German_Grand_Prix>	dbo:fastestDriver	dbr:Jody_Scheckter ;
+	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1975_Belgian_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1976_German_Grand_Prix>	dbo:fastestDriver	dbr:Jody_Scheckter ;
+	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_Dutch_Grand_Prix>	dbo:thirdDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_German_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter ;
+	dbo:poleDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_Japanese_Grand_Prix>	dbo:fastestDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1978_German_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1979_Dutch_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1979_Italian_Grand_Prix>	dbo:firstDriver	dbr:Jody_Scheckter .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Jody_Scheckter	rdf:type	wikidata:Q5 ,
+		dbo:Athlete .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Jody_Scheckter	rdf:type	umbel-rc:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Jody_Scheckter	rdf:type	yago:CausalAgent100007347 ,
+		yago:WikicatFormulaFordDrivers ,
+		yago:Operator110378412 ,
+		dbo:MotorsportRacer ,
+		dbo:Person ,
+		dbo:RacingDriver ,
+		yago:Driver110034906 ,
+		yago:PhysicalEntity100001930 ,
+		dbo:FormulaOneRacer ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers ,
+		dbo:Agent ,
+		yago:WikicatSouthAfricanFormulaOneDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Jody_Scheckter	rdf:type	schema:Person ,
+		wikidata:Q215627 ,
+		umbel-rc:RaceCarDriver ,
+		wikidata:Q24229398 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Jody_Scheckter	rdf:type	foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Jody_Scheckter	rdf:type	owl:Thing ,
+		yago:WikicatTyrrellFormulaOneDrivers ,
+		wikidata:Q378622 .
+@prefix ns10:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Jody_Scheckter	rdf:type	ns10:Agent ,
+		yago:WikicatFerrariFormulaOneDrivers ,
+		yago:WikicatWolfFormulaOneDrivers ,
+		yago:WikicatMcLarenFormulaOneDrivers ,
+		ns10:NaturalPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Jody_Scheckter	rdfs:label	"Jody Scheckter"@it ,
+		"Jody Scheckter"@fr ,
+		"\u0428\u0435\u043A\u0442\u0435\u0440, \u0414\u0436\u043E\u0434\u0438"@ru ,
+		"Jody Scheckter"@es ,
+		"\u6731\u8FEA\u00B7\u5927\u536B\u00B7\u8C22\u79D1\u7279"@zh ,
+		"Jody Scheckter"@nl ,
+		"Jody Scheckter"@pl ,
+		"Jody Scheckter"@en ,
+		"Jody Scheckter"@pt ,
+		"\u062C\u0648\u062F\u064A \u0634\u064A\u0643\u062A\u0631"@ar ,
+		"\u30B8\u30E7\u30C7\u30A3\u30FC\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC"@ja ,
+		"Jody Scheckter"@de ;
+	rdfs:comment	"Jody Scheckter (ur. 29 stycznia 1950 w East London) \u2013 by\u0142y kierowca wy\u015Bcigowy, mistrz \u015Bwiata Formu\u0142y 1 w sezonie 1979."@pl ,
+		"Jody David Scheckter (Oost-Londen, 29 januari 1950) is een voormalige Zuid-Afrikaanse autocoureur. Hij bereikte het hoogtepunt van zijn loopbaan in 1979, toen hij in de Formule 1 de wereldtitel greep. Jody Scheckter begon zijn autosportloopbaan in de Formule Ford en Formule 2. Hij debuteerde in de Formule 1 op Watkins Glen in 1972 met een McLaren en reed zelfs enige tijd op de 3de plaats, alvorens te spinnen en ten slotte als 9de te finishen. Zijn naam was er direct een om in de gaten te houden. Het volgende jaar ontwikkelde hij zich verder; hij won het Formule 5000 kampioenschap en startte in vijf F1-races. In Frankrijk, bij zijn derde F1-start, won hij bijna, maar kwam in aanvaring met Emerson Fittipaldi. In zijn eerstvolgende race, de Engelse Grand Prix op Silverstone, baarde hij opzien"@nl ,
+		"\u6731\u8FEA\u00B7\u5927\u536B\u00B7\u8C22\u79D1\u7279\uFF08Jody David Scheckter\uFF0C1950\u5E741\u670829\u65E5\uFF0D)\u662F\u4E00\u4F4D\u5357\u975EF1\u8D5B\u8F66\u624B\uFF0C\u662F1979\u5E74F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u3002"@zh ,
+		"Jody Scheckter est un ancien pilote automobile sud-africain n\u00E9 le 29 janvier 1950 \u00E0 East London (Afrique du Sud). Il a notamment disput\u00E9 112 Grands Prix de Formule 1 entre 1972 et 1980, d\u00E9crochant un total de 255 points, signant 10 victoires, 33 podiums, 5 meilleurs tours en course et 3 pole positions. Jody Scheckter a \u00E9t\u00E9 sacr\u00E9 champion du monde de Formule 1 en 1979."@fr ,
+		"\u0414\u0436\u043E\u0434\u0438 \u0414\u0430\u0432\u0438\u0434 \u0428\u0435\u043A\u0442\u0435\u0440 (\u0430\u043D\u0433\u043B., Jody David Scheckter, \u0430\u0444\u0440\u0438\u043A.; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 29 \u044F\u043D\u0432\u0430\u0440\u044F 1950 \u0433\u043E\u0434\u0430 \u0432 \u0418\u0441\u0442-\u041B\u043E\u043D\u0434\u043E\u043D\u0435, \u042E\u0410\u0420) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0442\u0435\u043B\u044C. \n*  \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1979)."@ru ,
+		"\u30B8\u30E7\u30C7\u30A3\u30FC\u30FB\u30C7\u30A4\u30F4\u30A3\u30C3\u30C9\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC\uFF08Jody David Scheckter, 1950\u5E741\u670829\u65E5 - \uFF09\u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u751F\u307E\u308C\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021979\u5E74\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308B\u304C\u30012000\u5E74\u306B\u30DF\u30CF\u30A8\u30EB\u30FB\u30B7\u30E5\u30FC\u30DE\u30C3\u30CF\u304C\u9054\u6210\u3059\u308B\u307E\u3067\u306E21\u5E74\u9593\u3001\u30D5\u30A7\u30E9\u30FC\u30EA\u3067\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3092\u7372\u5F97\u3057\u305F\u6700\u5F8C\u306E\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u3063\u305F\u3002 \u611B\u79F0\u306F\u300C\u30EA\u30C8\u30EB\u30FB\u30D9\u30A2\u30FC\uFF08\u5C0F\u718A\uFF09\u300D\u3002\u5144\u306E\u30A4\u30A2\u30F3\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC\u3082F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u606F\u5B50\u306E\u30C8\u30FC\u30DE\u30B9\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC\u306F\u30A4\u30F3\u30C7\u30A3\u30AB\u30FC\u30FB\u30B7\u30EA\u30FC\u30BA\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"Jody David Scheckter (born 29 January 1950) is a South African former auto racing driver. He was the 1979 Formula One World Drivers' Champion."@en ,
+		"Jody Scheckter (* 29. Januar 1950 in East London, S\u00FCdafrika) ist ein s\u00FCdafrikanischer Unternehmer und ehemaliger Automobilrennfahrer. Er startete zwischen 1972 und 1980 zu insgesamt 112 Grand-Prix-Rennen in der Formel 1 und wurde dort 1979 Weltmeister. Derzeit betreibt Scheckter einen Bio-Bauernhof in S\u00FCdengland."@de ,
+		"\u062C\u0648\u062F\u064A \u0634\u064A\u0643\u062A\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 29 \u064A\u0646\u0627\u064A\u0631 1950 \u0641\u064A \u0643\u064A\u0628 \u0627\u0644\u0634\u0631\u0642\u064A\u0629\u060C \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1972. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0633\u0648\u064A\u062F \u0627\u0644\u0643\u0628\u0631\u0649 1974. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 113 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 10 \u0645\u0646\u0647\u0627."@ar ,
+		"Jody David Scheckter (29 de enero de 1950, East London) es un piloto de automovilismo sudafricano. Disput\u00F3 112 carreras en la F\u00F3rmula 1 entre las temporadas 1972 y 1980, destac\u00E1ndose como piloto de Ferrari, Walter Wolf y Tyrrell. Result\u00F3 campe\u00F3n en 1979, subcampe\u00F3n en 1977, y tercero en 1974 y 1976. El piloto obtuvo 10 victorias y 33 podios en la categor\u00EDa. Su hijo, Tomas Scheckter, tambi\u00E9n es piloto de automovilismo, quien ha corrido en la IndyCar Series y la A1GP."@es ,
+		"Jody David Scheckter ou mais conhecido como Jody Scheckter, (East London, 29 de Janeiro de 1950) \u00E9 um ex-piloto de F\u00F3rmula 1, campe\u00E3o da temporada de 1979, pela Ferrari; ele foi o \u00FAltimo campe\u00E3o antes da morte de Enzo Ferrari e da sequ\u00EAncia de cinco t\u00EDtulos mundiais de Michael Schumacher."@pt ;
+	dbp:points	246 ;
+	owl:sameAs	dbr:Jody_Scheckter .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-es:Jody_Scheckter .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-pt:Jody_Scheckter .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-id:Jody_Scheckter .
+@prefix ns15:	<http://data.europa.eu/euodp/jrc-names/> .
+dbr:Jody_Scheckter	owl:sameAs	ns15:Jody_Scheckter ,
+		<http://rdf.freebase.com/ns/m.01k839> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-cs:Jody_Scheckter .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-it:Jody_Scheckter .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-pl:Jody_Scheckter .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-fr:Jody_Scheckter .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-nl:Jody_Scheckter .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-de:Jody_Scheckter ,
+		wikidata:Q172775 ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E7\u30C7\u30A3\u30FC\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	dbpedia-wikidata:Q172775 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Jody_Scheckter	owl:sameAs	yago-res:Jody_Scheckter .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Jody_Scheckter	dct:subject	<http://dbpedia.org/resource/Category:Sportspeople_from_East_London,_Eastern_Cape> ,
+		<http://dbpedia.org/resource/Category:1950_births> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Jody_Scheckter	dct:subject	dbc:Living_people ,
+		dbc:South_African_racing_drivers ,
+		dbc:South_African_businesspeople ,
+		dbc:McLaren_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:Formula_One_World_Drivers\u0027_Champions> ,
+		dbc:Ferrari_Formula_One_drivers ,
+		dbc:Alumni_of_Selborne_College ,
+		dbc:Tyrrell_Formula_One_drivers ,
+		dbc:Formula_Ford_drivers ,
+		dbc:European_Formula_Two_Championship_drivers ,
+		dbc:South_African_Formula_One_drivers ,
+		dbc:Wolf_Formula_One_drivers ,
+		dbc:South_African_Jews ,
+		dbc:White_South_African_people ,
+		dbc:International_Race_of_Champions_drivers ;
+	foaf:name	"Jody Scheckter"@en ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Scheckter_Monza_1979.jpg> ;
+	dct:description	"South African racecar driver"@en ;
+	foaf:givenName	"Jody"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Jody_Scheckter	foaf:isPrimaryTopicOf	wikipedia-en:Jody_Scheckter ;
+	foaf:surname	"Scheckter"@en ;
+	dbp:title	<http://dbpedia.org/resource/List_of_Formula_One_World_Drivers\u0027_Champions> ;
+	dbp:years	"\u2013"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Jody_Scheckter	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jody_Scheckter?oldid=742303938> ;
+	dbp:before	dbr:Mario_Andretti ;
+	dbp:after	<http://dbpedia.org/resource/Alan_Jones_(racing_driver)> ;
+	dbp:birthPlace	"East London, South Africa"^^xsd:string ;
+	dbo:firstWin	<http://dbpedia.org/resource/1974_Swedish_Grand_Prix> ;
+	dbo:lastWin	<http://dbpedia.org/resource/1979_Italian_Grand_Prix> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Jody_Scheckter	dbp:birthDate	"1950-01-29"^^xsd:date ;
+	dbp:caption	"Jody Scheckter in 1979 at Monza"^^xsd:string ;
+	dbo:abstract	"Jody Scheckter est un ancien pilote automobile sud-africain n\u00E9 le 29 janvier 1950 \u00E0 East London (Afrique du Sud). Il a notamment disput\u00E9 112 Grands Prix de Formule 1 entre 1972 et 1980, d\u00E9crochant un total de 255 points, signant 10 victoires, 33 podiums, 5 meilleurs tours en course et 3 pole positions. Jody Scheckter a \u00E9t\u00E9 sacr\u00E9 champion du monde de Formule 1 en 1979."@fr ,
+		"Jody Scheckter (* 29. Januar 1950 in East London, S\u00FCdafrika) ist ein s\u00FCdafrikanischer Unternehmer und ehemaliger Automobilrennfahrer. Er startete zwischen 1972 und 1980 zu insgesamt 112 Grand-Prix-Rennen in der Formel 1 und wurde dort 1979 Weltmeister. Derzeit betreibt Scheckter einen Bio-Bauernhof in S\u00FCdengland. In Erinnerung blieb Scheckter einem breiten Publikum vor allem dadurch, dass er \u00FCber 20 Jahre lang der letzte Ferrari-Weltmeister der Formel 1 war, bevor Michael Schumacher im Jahr 2000 wieder den Titel f\u00FCr den Traditionsrennstall gewann. Scheckters \u00E4lterer Bruder Ian war ebenfalls kurzzeitig in der Formel 1 aktiv, w\u00E4hrend sein Sohn Tomas ab 2002 in der IndyCar Series startete."@de ,
+		"Jody Scheckter (ur. 29 stycznia 1950 w East London) \u2013 by\u0142y kierowca wy\u015Bcigowy, mistrz \u015Bwiata Formu\u0142y 1 w sezonie 1979."@pl ,
+		"Jody David Scheckter (29 de enero de 1950, East London) es un piloto de automovilismo sudafricano. Disput\u00F3 112 carreras en la F\u00F3rmula 1 entre las temporadas 1972 y 1980, destac\u00E1ndose como piloto de Ferrari, Walter Wolf y Tyrrell. Result\u00F3 campe\u00F3n en 1979, subcampe\u00F3n en 1977, y tercero en 1974 y 1976. El piloto obtuvo 10 victorias y 33 podios en la categor\u00EDa. Su hijo, Tomas Scheckter, tambi\u00E9n es piloto de automovilismo, quien ha corrido en la IndyCar Series y la A1GP."@es ,
+		"\u30B8\u30E7\u30C7\u30A3\u30FC\u30FB\u30C7\u30A4\u30F4\u30A3\u30C3\u30C9\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC\uFF08Jody David Scheckter, 1950\u5E741\u670829\u65E5 - \uFF09\u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u751F\u307E\u308C\u306E\u30EC\u30FC\u30B7\u30F3\u30B0\u30C9\u30E9\u30A4\u30D0\u30FC\u30021979\u5E74\u306EF1\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308B\u304C\u30012000\u5E74\u306B\u30DF\u30CF\u30A8\u30EB\u30FB\u30B7\u30E5\u30FC\u30DE\u30C3\u30CF\u304C\u9054\u6210\u3059\u308B\u307E\u3067\u306E21\u5E74\u9593\u3001\u30D5\u30A7\u30E9\u30FC\u30EA\u3067\u30C9\u30E9\u30A4\u30D0\u30FC\u30BA\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3092\u7372\u5F97\u3057\u305F\u6700\u5F8C\u306E\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3042\u3063\u305F\u3002 \u611B\u79F0\u306F\u300C\u30EA\u30C8\u30EB\u30FB\u30D9\u30A2\u30FC\uFF08\u5C0F\u718A\uFF09\u300D\u3002\u5144\u306E\u30A4\u30A2\u30F3\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC\u3082F1\u30C9\u30E9\u30A4\u30D0\u30FC\u3067\u3001\u606F\u5B50\u306E\u30C8\u30FC\u30DE\u30B9\u30FB\u30B7\u30A7\u30AF\u30BF\u30FC\u306F\u30A4\u30F3\u30C7\u30A3\u30AB\u30FC\u30FB\u30B7\u30EA\u30FC\u30BA\u306B\u53C2\u6226\u3057\u3066\u3044\u305F\u3002"@ja ,
+		"\u0414\u0436\u043E\u0434\u0438 \u0414\u0430\u0432\u0438\u0434 \u0428\u0435\u043A\u0442\u0435\u0440 (\u0430\u043D\u0433\u043B., Jody David Scheckter, \u0430\u0444\u0440\u0438\u043A.; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 29 \u044F\u043D\u0432\u0430\u0440\u044F 1950 \u0433\u043E\u0434\u0430 \u0432 \u0418\u0441\u0442-\u041B\u043E\u043D\u0434\u043E\u043D\u0435, \u042E\u0410\u0420) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A \u0438 \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0442\u0435\u043B\u044C. \n*  \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1979)."@ru ,
+		"\u062C\u0648\u062F\u064A \u0634\u064A\u0643\u062A\u0631 \u0645\u0648\u0627\u0644\u064A\u062F 29 \u064A\u0646\u0627\u064A\u0631 1950 \u0641\u064A \u0643\u064A\u0628 \u0627\u0644\u0634\u0631\u0642\u064A\u0629\u060C \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627\u060C \u0647\u0648 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A \u0633\u0627\u0628\u0642 \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1972. \u062D\u0627\u0626\u0632 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0641\u0648\u0631\u0645\u0644\u0627 1. \u062D\u0642\u0642 \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0647 \u0641\u064A \u062C\u0627\u0626\u0632\u0629 \u0627\u0644\u0633\u0648\u064A\u062F \u0627\u0644\u0643\u0628\u0631\u0649 1974. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 113 \u0633\u0628\u0627\u0642\u0627\u064B \u0641\u0627\u0632 \u0641\u064A 10 \u0645\u0646\u0647\u0627."@ar ,
+		"Jody David Scheckter (born 29 January 1950) is a South African former auto racing driver. He was the 1979 Formula One World Drivers' Champion."@en ,
+		"Jody David Scheckter (Oost-Londen, 29 januari 1950) is een voormalige Zuid-Afrikaanse autocoureur. Hij bereikte het hoogtepunt van zijn loopbaan in 1979, toen hij in de Formule 1 de wereldtitel greep. Jody Scheckter begon zijn autosportloopbaan in de Formule Ford en Formule 2. Hij debuteerde in de Formule 1 op Watkins Glen in 1972 met een McLaren en reed zelfs enige tijd op de 3de plaats, alvorens te spinnen en ten slotte als 9de te finishen. Zijn naam was er direct een om in de gaten te houden. Het volgende jaar ontwikkelde hij zich verder; hij won het Formule 5000 kampioenschap en startte in vijf F1-races. In Frankrijk, bij zijn derde F1-start, won hij bijna, maar kwam in aanvaring met Emerson Fittipaldi. In zijn eerstvolgende race, de Engelse Grand Prix op Silverstone, baarde hij opzien door bij de start een crash te veroorzaken die het halve deelnemersveld uitschakelde. Tevens schreef hij ook in dat jaar geschiedenis door als eerste coureur twee races met het startnummer 0 te rijden, omdat de kampioen van het jaar ervoor die twee races niet mee reed. Alleen Damon Hill kreeg dit nummer ook in 1993 en 1994. In 1974 tekende hij bij het team van Tyrrell, dat door het overlijden van Fran\u00E7ois Cevert en het afscheid van Jackie Stewart een nieuwe coureur zocht. Dat jaar won Scheckter zijn eerste races en eindigde in 1975 en 1976 derde in het wereldkampioenschap. Scheckter werd in 1976 tevens de enige coureur die ooit een Grand Prix wist te winnen in een zeswielige Formule 1-wagen. In 1977 stapte Scheckter over naar het Wolf-team en werd tweede in het wereldkampioenschap, na Niki Lauda. In 1979 werd hij bij Scuderia Ferrari wereldkampioen. In 1980 wist Scheckter geen vuist te maken en besloot de Formule 1 te verlaten. Hij werd succesvol zakenman in de Verenigde Staten. Later verhuisde hij naar Engeland, waar hij zijn fortuin investeerde in biodynamische landbouw. Hij runt nu de Laverstoke Park Farm in Hampshire. Zijn zoon Tomas Scheckter is eveneens autocoureur."@nl ,
+		"Jody David Scheckter ou mais conhecido como Jody Scheckter, (East London, 29 de Janeiro de 1950) \u00E9 um ex-piloto de F\u00F3rmula 1, campe\u00E3o da temporada de 1979, pela Ferrari; ele foi o \u00FAltimo campe\u00E3o antes da morte de Enzo Ferrari e da sequ\u00EAncia de cinco t\u00EDtulos mundiais de Michael Schumacher."@pt ,
+		"\u6731\u8FEA\u00B7\u5927\u536B\u00B7\u8C22\u79D1\u7279\uFF08Jody David Scheckter\uFF0C1950\u5E741\u670829\u65E5\uFF0D)\u662F\u4E00\u4F4D\u5357\u975EF1\u8D5B\u8F66\u624B\uFF0C\u662F1979\u5E74F1\u8F66\u624B\u4E16\u754C\u51A0\u519B\u3002"@zh ;
+	dbo:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Scheckter_Monza_1979.jpg?width=300> ;
+	dbo:birthDate	"1950-1-29"^^xsd:date ;
+	dbo:wikiPageRevisionID	742303938 ;
+	dbo:birthPlace	<http://dbpedia.org/resource/East_London,_Eastern_Cape> ;
+	dbo:wikiPageID	243054 .
+@prefix ns29:	<http://purl.org/linguistics/gold/> .
+dbr:Jody_Scheckter	ns29:hypernym	dbr:Auto ;
+	dbo:championships	"1"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"5"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1972_United_States_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1980_United_States_Grand_Prix> ;
+	dbo:podiums	"33"^^xsd:nonNegativeInteger ;
+	dbo:poles	"3"^^xsd:nonNegativeInteger ;
+	dbo:races	"113"^^xsd:nonNegativeInteger ;
+	dbo:wins	"10"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Scuderia_Ferrari ,
+		dbr:McLaren ,
+		dbr:Walter_Wolf_Racing ,
+		dbr:Tyrrell_Racing ;
+	dbp:nationality	"South African"^^xsd:string .
+<http://dbpedia.org/resource/1973_Can-Am_season__6__1>	dbo:firstDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1979_Belgian_Grand_Prix>	dbo:firstDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1974_Italian_Grand_Prix>	dbo:thirdDriver	dbr:Jody_Scheckter .
+dbr:Tyrrell_P34	dbp:drivers	dbr:Jody_Scheckter .
+wikipedia-en:Jody_Scheckter	foaf:primaryTopic	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_Canadian_Grand_Prix>	dbo:firstDriver	dbr:Jody_Scheckter .
+dbr:Mario_Andretti	dbp:after	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1976_Race_of_Champions>	dbo:poleDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_Race_of_Champions>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1974_British_Grand_Prix>	dbo:firstDriver	dbr:Jody_Scheckter .
+dbr:Tomas_Scheckter	dbp:relatedTo	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1978_Canadian_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1975_South_African_Grand_Prix>	dbo:firstDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_South_African_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1979_South_African_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+dbr:Toby_Scheckter	dbp:relatedTo	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1979_Formula_One_season>	dbp:champions	dbr:Jody_Scheckter .
+dbr:Tyrrell_Racing	dbp:drivers	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1976_United_States_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1978_United_States_Grand_Prix>	dbo:thirdDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1974_Belgian_Grand_Prix>	dbo:thirdDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_Argentine_Grand_Prix>	dbo:firstDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_Spanish_Grand_Prix>	dbo:thirdDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1974_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1976_Monaco_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1977_Monaco_Grand_Prix>	dbo:fastestDriver	dbr:Jody_Scheckter ;
+	dbo:firstDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1978_Monaco_Grand_Prix>	dbo:thirdDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1979_Monaco_Grand_Prix>	dbo:firstDriver	dbr:Jody_Scheckter ;
+	dbo:poleDriver	dbr:Jody_Scheckter .
+<http://dbpedia.org/resource/1976_British_Grand_Prix>	dbo:secondDriver	dbr:Jody_Scheckter .
+dbr:Jody_Schekter	dbo:wikiPageRedirects	dbr:Jody_Scheckter .
+dbr:Jody_Schecter	dbo:wikiPageRedirects	dbr:Jody_Scheckter .
+dbr:Jody_David_Scheckter	dbo:wikiPageRedirects	dbr:Jody_Scheckter .

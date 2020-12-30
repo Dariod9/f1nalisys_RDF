@@ -1,0 +1,131 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Pascal_Fabre	rdf:type	dbo:MotorsportRacer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Pascal_Fabre	rdf:type	yago:WikicatAGSFormulaOneDrivers ,
+		dbo:Athlete ,
+		yago:Operator110378412 ,
+		dbo:RacingDriver .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Pascal_Fabre	rdf:type	umbel-rc:RaceCarDriver .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Pascal_Fabre	rdf:type	owl:Thing ,
+		dbo:Agent .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Pascal_Fabre	rdf:type	ns6:Agent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Pascal_Fabre	rdf:type	wikidata:Q215627 ,
+		yago:Driver110034906 ,
+		yago:PhysicalEntity100001930 ,
+		ns6:NaturalPerson ,
+		wikidata:Q24229398 ,
+		yago:WikicatFrenchFormulaOneDrivers ,
+		yago:WikicatInternationalFormula3000Drivers ,
+		yago:CausalAgent100007347 ,
+		dbo:FormulaOneRacer ,
+		dbo:Person ,
+		yago:WikicatWorldSportscarChampionshipDrivers .
+@prefix schema:	<http://schema.org/> .
+dbr:Pascal_Fabre	rdf:type	schema:Person ,
+		wikidata:Q5 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Pascal_Fabre	rdf:type	foaf:Person ,
+		wikidata:Q378622 ,
+		yago:WikicatEuropeanFormulaTwoChampionshipDrivers .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Pascal_Fabre	rdfs:label	"Pascal Fabre"@en ,
+		"Pascal Fabre"@fr ,
+		"Pascal Fabre"@it ,
+		"Pascal Fabre"@de ,
+		"Pascal Fabre"@es ,
+		"\u0424\u0430\u0431\u0440, \u041F\u0430\u0441\u043A\u0430\u043B\u044C"@ru ,
+		"Pascal Fabre"@pl ,
+		"Pascal Fabre"@pt ,
+		"Pascal Fabre"@nl ;
+	rdfs:comment	"Pascal Fabre (* 9. Januar 1960 in Lyon) ist ein ehemaliger franz\u00F6sischer Automobilrennfahrer, der unter anderem in der Formel 1 antrat."@de ,
+		"Pascal Fabre (born January 9, 1960 in Lyon) is a former racing driver from France. He participated in 14 Formula One Grands Prix with the uncompetitive AGS team, debuting on April 12, 1987. He scored no championship points and was replaced before the end of the season by Roberto Moreno. His best finish was ninth place in both the French and British Grands Prix. He later raced for Courage Comp\u00E9tition from 1988 to 1990 in the World Sportscar Championship and made short-term appearances for various other sports car teams throughout the 1990s."@en ,
+		"Pascal Fabre (Lyon, 9 de janeiro de 1960) \u00E9 um x-automobilista da Fran\u00E7a. Disputou 14 corridas pela equipe AGS, estreando em 12 de abril de 1987, no GP do Brasil. N\u00E3o somou nenhum ponto durante sua curta carreira na categoria."@pt ,
+		"Pascal Fabre (nacido el 9 de enero de 1960 en Lyon) es un ex-piloto de F\u00F3rmula 1 franc\u00E9s. Ha participado en 14 Grandes Premios con el modesto equipo AGS, clasific\u00E1ndose en 11 de ellos y debutando el 12 de abril de 1987. Al no conseguir ning\u00FAn punto fue sustituido antes de acabar la temporada por el brasile\u00F1o Roberto Moreno. M\u00E1s tarde particip\u00F3 con el equipo Courage Comp\u00E9tition en el Campeonato Mundial de Resistencia desde 1988 hasta 1990. Tambi\u00E9n hizo algunas apariciones en otras competiciones automovil\u00EDsticas durante los a\u00F1os 90."@es ,
+		"Pascal Fabre est un pilote automobile fran\u00E7ais n\u00E9 le 9 janvier 1960 \u00E0 Lyon qui a particip\u00E9 notamment \u00E0 quatorze Grands Prix de Formule 1 avec l'\u00E9curie AGS, d\u00E9butant le 12 avril 1987 au Grand Prix du Br\u00E9sil. Il ne marque aucun point au championnat du monde des pilotes et est remplac\u00E9 avant la fin de la saison par Roberto Moreno pour le Grand Prix du Japon."@fr ,
+		"Pascal Fabre (ur. 9 stycznia 1960 roku w Lyonie) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Pascal Fabre (Lyon, 9 januari 1960) is een voormalig Frans autocoureur. Hij maakte zijn Formule 1-debuut in 1987 bij AGS en nam deel aan 14 Grands Prix waarvan hij er 11 mocht starten. Hij scoorde geen punten en werd vervangen door Roberto Moreno voor het eind van het seizoen. Hij racete tussen 1988 en 1990 voor Courage Comp\u00E9tition in het World Sportscar Championship en reed nog in diverse andere raceklassen doorheen de jaren 90."@nl ,
+		"\u041F\u0430\u0441\u043A\u0430\u043B\u044C \u0424\u0430\u0431\u0440 (\u0444\u0440. Pascal Fabre, 9 \u044F\u043D\u0432\u0430\u0440\u044F 1960, \u041B\u0438\u043E\u043D) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Pascal_Fabre	dbp:points	0 .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	dbpedia-cs:Pascal_Fabre .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	dbpedia-fr:Pascal_Fabre .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	dbpedia-pt:Pascal_Fabre .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	dbpedia-es:Pascal_Fabre .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	dbpedia-wikidata:Q171884 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	dbpedia-pl:Pascal_Fabre ,
+		wikidata:Q171884 ,
+		<http://rdf.freebase.com/ns/m.04kwfv> ,
+		dbr:Pascal_Fabre .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	yago-res:Pascal_Fabre .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	dbpedia-nl:Pascal_Fabre .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	dbpedia-it:Pascal_Fabre .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Pascal_Fabre	owl:sameAs	dbpedia-de:Pascal_Fabre .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Pascal_Fabre	dct:subject	dbc:European_Formula_Two_Championship_drivers ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:French_racing_drivers ,
+		dbc:French_Formula_One_drivers ,
+		dbc:Sportspeople_from_Lyon ,
+		dbc:AGS_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> ,
+		<http://dbpedia.org/resource/Category:24_Hours_of_Spa_drivers> ,
+		dbc:Living_people ,
+		<http://dbpedia.org/resource/Category:1960_births> ,
+		dbc:International_Formula_3000_drivers ;
+	foaf:name	"Pascal Fabre"@en ;
+	dct:description	"racecar driver"@en ;
+	foaf:givenName	"Pascal"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Pascal_Fabre	foaf:isPrimaryTopicOf	wikipedia-en:Pascal_Fabre ;
+	foaf:surname	"Fabre"@en ;
+	dbo:nationality	<http://dbpedia.org/resource/1987_French_Grand_Prix> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Pascal_Fabre	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pascal_Fabre?oldid=726265659> ;
+	dbp:birthPlace	"Lyon, France"^^xsd:string .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Pascal_Fabre	dbp:birthDate	"1960-01-09"^^xsd:date ;
+	dbo:wikiPageExternalLink	<https://www.driverdb.com/drivers/pascal-fabre/> ,
+		<http://www.grandprix.com/gpe/drv-fabpas.html> ;
+	dbo:abstract	"Pascal Fabre (Lyon, 9 de janeiro de 1960) \u00E9 um x-automobilista da Fran\u00E7a. Disputou 14 corridas pela equipe AGS, estreando em 12 de abril de 1987, no GP do Brasil. N\u00E3o somou nenhum ponto durante sua curta carreira na categoria."@pt ,
+		"Pascal Fabre (ur. 9 stycznia 1960 roku w Lyonie) \u2013 francuski kierowca wy\u015Bcigowy."@pl ,
+		"Pascal Fabre (* 9. Januar 1960 in Lyon) ist ein ehemaliger franz\u00F6sischer Automobilrennfahrer, der unter anderem in der Formel 1 antrat."@de ,
+		"Pascal Fabre (Lyon, 9 januari 1960) is een voormalig Frans autocoureur. Hij maakte zijn Formule 1-debuut in 1987 bij AGS en nam deel aan 14 Grands Prix waarvan hij er 11 mocht starten. Hij scoorde geen punten en werd vervangen door Roberto Moreno voor het eind van het seizoen. Hij racete tussen 1988 en 1990 voor Courage Comp\u00E9tition in het World Sportscar Championship en reed nog in diverse andere raceklassen doorheen de jaren 90."@nl ,
+		"Pascal Fabre (nacido el 9 de enero de 1960 en Lyon) es un ex-piloto de F\u00F3rmula 1 franc\u00E9s. Ha participado en 14 Grandes Premios con el modesto equipo AGS, clasific\u00E1ndose en 11 de ellos y debutando el 12 de abril de 1987. Al no conseguir ning\u00FAn punto fue sustituido antes de acabar la temporada por el brasile\u00F1o Roberto Moreno. M\u00E1s tarde particip\u00F3 con el equipo Courage Comp\u00E9tition en el Campeonato Mundial de Resistencia desde 1988 hasta 1990. Tambi\u00E9n hizo algunas apariciones en otras competiciones automovil\u00EDsticas durante los a\u00F1os 90."@es ,
+		"Pascal Fabre (born January 9, 1960 in Lyon) is a former racing driver from France. He participated in 14 Formula One Grands Prix with the uncompetitive AGS team, debuting on April 12, 1987. He scored no championship points and was replaced before the end of the season by Roberto Moreno. His best finish was ninth place in both the French and British Grands Prix. He later raced for Courage Comp\u00E9tition from 1988 to 1990 in the World Sportscar Championship and made short-term appearances for various other sports car teams throughout the 1990s."@en ,
+		"\u041F\u0430\u0441\u043A\u0430\u043B\u044C \u0424\u0430\u0431\u0440 (\u0444\u0440. Pascal Fabre, 9 \u044F\u043D\u0432\u0430\u0440\u044F 1960, \u041B\u0438\u043E\u043D) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u043A\u0430\u043C \u0432 \u043A\u043B\u0430\u0441\u0441\u0435 \u0424\u043E\u0440\u043C\u0443\u043B\u0430-1."@ru ,
+		"Pascal Fabre est un pilote automobile fran\u00E7ais n\u00E9 le 9 janvier 1960 \u00E0 Lyon qui a particip\u00E9 notamment \u00E0 quatorze Grands Prix de Formule 1 avec l'\u00E9curie AGS, d\u00E9butant le 12 avril 1987 au Grand Prix du Br\u00E9sil. Il ne marque aucun point au championnat du monde des pilotes et est remplac\u00E9 avant la fin de la saison par Roberto Moreno pour le Grand Prix du Japon."@fr ;
+	dbo:birthDate	"1960-1-9"^^xsd:date ;
+	dbo:wikiPageRevisionID	726265659 ;
+	dbo:birthPlace	dbr:Lyon ;
+	dbo:wikiPageID	1235357 .
+@prefix ns27:	<http://purl.org/linguistics/gold/> .
+dbr:Pascal_Fabre	ns27:hypernym	dbr:Driver ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1987_Brazilian_Grand_Prix> ;
+	dbo:lastRace	<http://dbpedia.org/resource/1987_Mexican_Grand_Prix> ;
+	dbo:podiums	"0"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:races	"14"^^xsd:nonNegativeInteger ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Automobiles_Gonfaronnaises_Sportives .
+wikipedia-en:Pascal_Fabre	foaf:primaryTopic	dbr:Pascal_Fabre .
+dbr:Fabre	dbo:wikiPageDisambiguates	dbr:Pascal_Fabre .

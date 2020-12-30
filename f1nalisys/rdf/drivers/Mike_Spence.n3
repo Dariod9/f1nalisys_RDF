@@ -1,0 +1,156 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/1964_Syracuse_Grand_Prix>	dbo:thirdDriver	dbr:Mike_Spence .
+<http://dbpedia.org/resource/1965_BRDC_International_Trophy>	dbo:thirdDriver	dbr:Mike_Spence .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Dan_Gurney	dbp:before	dbr:Mike_Spence .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Mike_Spence	rdf:type	yago:PhysicalEntity100001930 ,
+		dbo:Agent ,
+		dbo:FormulaOneRacer .
+@prefix schema:	<http://schema.org/> .
+dbr:Mike_Spence	rdf:type	schema:Person .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Mike_Spence	rdf:type	umbel-rc:RaceCarDriver ,
+		yago:Operator110378412 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Mike_Spence	rdf:type	ns7:NaturalPerson ,
+		dbo:RacingDriver ,
+		ns7:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Mike_Spence	rdf:type	owl:Thing ,
+		dbo:Athlete ,
+		yago:Driver110034906 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Mike_Spence	rdf:type	wikidata:Q24229398 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Mike_Spence	rdf:type	foaf:Person ,
+		yago:WikicatTeamLotusFormulaOneDrivers ,
+		yago:WikicatEnglishFormulaOneDrivers ,
+		yago:WikicatBRMFormulaOneDrivers ,
+		wikidata:Q215627 ,
+		yago:WikicatBritishFormulaOneDrivers ,
+		dbo:Person ,
+		yago:CausalAgent100007347 ,
+		dbo:MotorsportRacer ,
+		yago:WikicatWorldSportscarChampionshipDrivers ,
+		wikidata:Q378622 ,
+		wikidata:Q5 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Mike_Spence	rdfs:label	"Mike Spence"@pl ,
+		"\u0421\u043F\u0435\u043D\u0441, \u041C\u0430\u0439\u043A"@ru ,
+		"Mike Spence"@es ,
+		"\u0645\u0627\u064A\u0643 \u0633\u0628\u0646\u0633"@ar ,
+		"Mike Spence"@pt ,
+		"Mike Spence"@it ,
+		"Mike Spence"@nl ,
+		"Mike Spence"@fr ,
+		"Mike Spence"@de ,
+		"Mike Spence"@en ;
+	rdfs:comment	"Michael \u201EMike\u201C Henderson Spence (* 30. Dezember 1936 in Croydon, Gro\u00DFbritannien; \u2020 7. Mai 1968 in Indianapolis, USA) war ein britischer Rennfahrer."@de ,
+		"Michael 'Mike' Spence (Croydon, 30 december 1936 - Indianapolis, 7 mei 1968) was een Britse autocoureur, die onder andere uitkwam in de Formule 1 en sportscarwedstrijden."@nl ,
+		"Michael Henderson Spence (Croydon, 30 de dezembro de 1936 \u2013 Indian\u00E1polis, 7 de maio de 1968) foi um automobilista ingl\u00EAs que participou de 37 Grandes Pr\u00EAmios de F\u00F3rmula 1 estreando em 08 de setembro de 1963. Conseguiu um p\u00F3dio de terceiro lugar no M\u00E9xico em 1965 e marcou um total de 27 pontos no campeonato. Ele tamb\u00E9m participou de numerosas corridas de F\u00F3rmula 1 n\u00E3o v\u00E1lidas pelo campeonato mundial, bem como corridas de carros esporte."@pt ,
+		"\u0645\u0627\u064A\u0643 \u0633\u0628\u0646\u0633 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Mike Spence) \u0645\u0648\u0627\u0644\u064A\u062F 30 \u062F\u064A\u0633\u0645\u0628\u0631 1936\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1963. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1963. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 37 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Mike Spence est un pilote automobile britannique n\u00E9 le 30 d\u00E9cembre 1936 \u00E0 Croydon (Angleterre) et mort le 7 mai 1968 \u00E0 Indianapolis (\u00C9tats-Unis) dans un accident survenu \u00E0 l'occasion d'essais pr\u00E9paratoires pour les 500 Miles d'Indianapolis."@fr ,
+		"Michael Henderson \"Mike\" Spence (30 December 1936, Croydon, Surrey \u2013 7 May 1968, Indianapolis, Indiana, United States) was a British racing driver from England. He participated in 37 Formula One World Championship Grands Prix, debuting on 8 September 1963. He achieved 1 podium, and scored a total of 27 championship points. He also participated in numerous non-Championship Formula One races, as well as sports car racing."@en ,
+		"Michael Henderson \u201EMike\u201D Spence (ur. 30 grudnia 1936 roku w Croydon, zm. 7 maja 1968 roku w Indianapolis) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"\u041C\u0430\u0439\u043A \u0421\u043F\u0435\u043D\u0441 (\u0430\u043D\u0433\u043B. Mike Spence, 30 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1936, \u041A\u0440\u043E\u0439\u0434\u043E\u043D \u2014 7 \u043C\u0430\u044F 1968, \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1963\u20141968)."@ru ,
+		"Mike Spence  (30 de diciembre, 1936 - 7 de mayo, 1968) fue un piloto ingl\u00E9s de F\u00F3rmula 1. Debut\u00F3 en la F\u00F3rmula 1 el 8 de septiembre de 1963 en el Gran Premio de Italia, disputado en Monza con la escuder\u00EDa Lotus. Tambi\u00E9n corri\u00F3 para BRM. En total particip\u00F3 en un total de 36 grandes premios, consiguiendo un tercer lugar en el Gran Premio de M\u00E9xico el 24 de octubre de 1965. Consigui\u00F3 un total de 27 puntos."@es .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Mike_Spence	dbp:birthDate	"1936-12-30"^^xsd:date .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Mike_Spence	owl:sameAs	yago-res:Mike_Spence ,
+		<http://rdf.freebase.com/ns/m.04k23g> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Mike_Spence	owl:sameAs	dbpedia-nl:Mike_Spence .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Mike_Spence	owl:sameAs	dbpedia-it:Mike_Spence .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Mike_Spence	owl:sameAs	dbpedia-de:Mike_Spence ,
+		wikidata:Q171729 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Mike_Spence	owl:sameAs	dbpedia-wikidata:Q171729 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Mike_Spence	owl:sameAs	dbpedia-fr:Mike_Spence .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Mike_Spence	owl:sameAs	dbpedia-es:Mike_Spence .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Mike_Spence	owl:sameAs	dbpedia-pt:Mike_Spence .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Mike_Spence	owl:sameAs	dbpedia-pl:Mike_Spence ,
+		dbr:Mike_Spence .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Mike_Spence	dct:subject	<http://dbpedia.org/resource/Category:24_Hours_of_Le_Mans_drivers> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Mike_Spence	dct:subject	dbc:People_from_Croydon ,
+		dbc:World_Sportscar_Championship_drivers ,
+		dbc:Racing_drivers_killed_while_racing ,
+		dbc:Sports_deaths_in_Indiana ,
+		dbc:English_Formula_One_drivers ,
+		dbc:Reg_Parnell_Racing_Formula_One_drivers ,
+		dbc:English_racing_drivers ,
+		<http://dbpedia.org/resource/Category:1936_births> ,
+		dbc:BRM_Formula_One_drivers ,
+		dbc:Team_Lotus_Formula_One_drivers ,
+		<http://dbpedia.org/resource/Category:1968_deaths> ;
+	foaf:name	"Mike Spence"@en ;
+	dct:description	"British racing driver"@en ;
+	foaf:givenName	"Michael"@en ;
+	foaf:gender	"male"@en .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Mike_Spence	foaf:isPrimaryTopicOf	wikipedia-en:Mike_Spence ;
+	dbp:points	27 ;
+	dbp:years	"\u2013"^^xsd:string ,
+		1965 ;
+	dbp:after	dbr:Dan_Gurney ;
+	dbp:classWins	0 ;
+	<http://dbpedia.org/property/team(s)_>	dbr:Chaparral_Cars ,
+		dbr:BRM ,
+		"Lotus, incl non-works"^^xsd:string ;
+	dbp:bestFinish	"dnf"^^xsd:string .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Mike_Spence	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mike_Spence?oldid=737941225> ;
+	dbo:wikiPageExternalLink	<http://www.autocoursegpa.com/driver~driver_id~12068.htm> ,
+		<http://www.gpracing.net192.com/drivers/careers/549.cfm> ,
+		<http://www.silhouet.com/motorsport/> ,
+		<http://wspr-racing.com/wspr/results/wscc/nf_ms_home.html> ;
+	dbp:deathDate	"1968-05-07"^^xsd:date ;
+	dbp:before	"N/A"^^xsd:string ;
+	dbo:abstract	"Mike Spence  (30 de diciembre, 1936 - 7 de mayo, 1968) fue un piloto ingl\u00E9s de F\u00F3rmula 1. Debut\u00F3 en la F\u00F3rmula 1 el 8 de septiembre de 1963 en el Gran Premio de Italia, disputado en Monza con la escuder\u00EDa Lotus. Tambi\u00E9n corri\u00F3 para BRM. En total particip\u00F3 en un total de 36 grandes premios, consiguiendo un tercer lugar en el Gran Premio de M\u00E9xico el 24 de octubre de 1965. Consigui\u00F3 un total de 27 puntos. Mike Spence muri\u00F3 en los entrenamientos de las 500 millas de Indian\u00E1polis de 1968 conduciendo su Lotus 56 cuando golpe\u00F3 con la cabeza con la rueda de delante derecha , al salir esta disparada hacia su cabeza, cuando golpe\u00F3 contra el muro, incluyendo coche y piloto."@es ,
+		"Michael Henderson Spence (Croydon, 30 de dezembro de 1936 \u2013 Indian\u00E1polis, 7 de maio de 1968) foi um automobilista ingl\u00EAs que participou de 37 Grandes Pr\u00EAmios de F\u00F3rmula 1 estreando em 08 de setembro de 1963. Conseguiu um p\u00F3dio de terceiro lugar no M\u00E9xico em 1965 e marcou um total de 27 pontos no campeonato. Ele tamb\u00E9m participou de numerosas corridas de F\u00F3rmula 1 n\u00E3o v\u00E1lidas pelo campeonato mundial, bem como corridas de carros esporte. Come\u00E7ou sua carreira no esporte a motor atrav\u00E9s de um envolvimento com os neg\u00F3cios de sua fam\u00EDlia em Maidenhead, Berkshire. Depois de iniciar em 1958 dirigindo um Ford Turner de seu pai e um esportivo ingl\u00EAs AC Ace, Spence inicia-se em corridas em 1959 com um F\u00F3rmula Junior. Ao volante de um Emeryson ele ganhou a oportunidade de pilotar na Solitude Grand Prix, n\u00E3o-v\u00E1lida pelo campeonato mundial em 1961, mas a seis voltas do final sua caixa de c\u00E2mbio quebrou. Apesar dos maus resultados em sua primeira temporada de F\u00F3rmula Junior com uma equipe grande, com o quarto lugar no Grande Pr\u00EAmio da Inglaterra o seu melhor resultado, no final de 1963 Spence foi chamado pela equipe Lotus de Formula 1. Spence entrou no Grande Pr\u00EAmio da It\u00E1lia 1963 como substituto para Trevor Taylor , que estava fora por les\u00E3o. Apesar de ter qualificado a sua Lotus 25 na nona posi\u00E7\u00E3o, durante a prova a press\u00E3o do \u00F3leo do carro desapareceu, acabando com a corrida de Spence na volta 73. Com Jim Clark e Peter Arundell como pilotos titulares na equipe Lotus para 1964 , Spence passou a maior parte do in\u00EDcio de temporada na F\u00F3rmula 2. No entanto, Arundell sofreu um grave acidente em uma corrida de F2, e do Grande Pr\u00EAmio da Inglaterra em diante Spence tornou-se parceiro de Clark na equipe de F\u00F3rmula Um. O resto da temporada passa sem intercorr\u00EAncias, e apesar de Spence correndo em segundo durante boa parte do Grande Pr\u00EAmio da It\u00E1lia , o seu melhor resultado foi um quarto lugar no final da temporada no M\u00E9xico . 1965 come\u00E7ou promissor, com Spence ganhando o prestigiado Race of Champions em Brands Hatch, e tendo um terceiro lugar no Trof\u00E9u Internacional de Silverstone . No entanto, uma vez que o Campeonato do Mundo in\u00EDciou, e Spence tinha apenas dois pontos,o circo da F\u00F3rmula Um encerraria mais uma vez a temporada no M\u00E9xico. Aqui a sua sorte iria mudar, e ele conseguiu garantir o seu primeiro p\u00F3dio e s\u00F3, tendo o 3 \u00BA lugar atr\u00E1s de dupla americana formada por Richie Ginther e Dan Gurney . Infelizmente para Spence, esse desempenho n\u00E3o foi suficiente para salvar o seu lugar na Lotus, e no final da temporada, ele encontrou-se fora da equipe. Voltando para o mundo privado, Mike Spence assinou pela BRM para a temporada 1966 de F\u00F3rmula Um , mas foi destacado para a equipe Reg Parnell ao inv\u00E9s de pilotar pela equipe oficial. Pilotando pela equipe Parnell , com os agora antigos, Lotus 25, mais uma vez Spence s\u00F3 foi capaz de juntar dois pontos no Campeonato do Mundo. Apesar de, seguindo o padr\u00E3o apresentado em temporadas anteriores, Spence obt\u00E9m resultados melhores em n\u00E3o-acontecimentos do Campeonato, vencendo o Grande Pr\u00EAmio Sul Africano . Em 1967 Mike Spence foi promovido de volta , em parceria com Jackie Stewart na equipe BRM . Embora ele consegusse marcar pontos em pelo menos cinco corridas do Campeonato Mundial durante a temporada, nenhum deles estava com algo maior do que o quinto lugar. Mike Spence foi mantido na equipe BRM para a temporada 1968, embora a primeira corrida da temporada na \u00C1frica do Sul n\u00E3o augura nada de bom, suas performances de corrida aqui, e durante a Corrida dos Campe\u00F5es e eventos Trof\u00E9u Internacional desmentiu um grande potencial para a temporada. Em 1967, Jim Hall contrata Spence como parte de sua equipe esportiva Chaparral. Um dos engenheiros mais inovadores do automobilismo nos anos 60 , Hall foi pioneiro em muitos avan\u00E7os na tecnologia de corridas. Para 1967, o grande avan\u00E7o foi a adi\u00E7\u00E3o de asas aerodin\u00E2micas na parte traseira de seus carros, gerando downforce adicional para melhorar os n\u00EDveis de ader\u00EAncia e, consequentemente, nas curvas de velocidade. Conduzir o Chaparral 2F como parceiro regular de Phil Hill, Spence conseguiu fazer uma grande impress\u00E3o no cen\u00E1rio esportivo. Voltas mais r\u00E1pidas na corridas de Sebring 6h e nos 1000km de Spa eram apenas o prel\u00FAdio de uma vit\u00F3ria dominante em 1967 na BOAC 500 em Brands Hatch. Spence e Hill terminam meia volta \u00E0 frente de Jackie Stewart e Chris Amon que pilotavam uma Ferrari 330P , onde estes mesmos terminaram tr\u00EAs voltas \u00E0 frente dos outros pilotos. Para 1968 Spence mudou-se para a Ford , apoiado pela equipe de Alan Mann. Ele se tornou uma das poucas pessoas a conduzir a malfadada Ford P68 na competi\u00E7\u00E3o, apesar de uma falha de montagem do motor em sua pr\u00F3pria estr\u00E9ia, seguido por uma falha de acionamento da transmiss\u00E3o no segundo carro da equipe durante a corrida, impediu Spence de alcan\u00E7ar a bandeira quadriculada . Ap\u00F3s a morte de Jim Clark no in\u00EDcio de 1968, Colin Chapman convidou Spence de volta \u00E0 Lotus como parte de sua equipe para as 500 Milhas de Indian\u00E1polis . Spence iria a correr com o revolucion\u00E1rio Lotus 56 Turbine. No entanto, durante os treinos no Indianapolis Motor Speedway tr\u00EAs semanas antes da corrida, Spence calculou mal a sua entrada na Curva 1 e colidiu fortemente contra o muro de concreto. A roda direita da frente da Lotus girou contra o cockpit e atingiu o capacete de Spence. Mike Spence morreu no hospital, a partir de les\u00F5es maci\u00E7as na cabe\u00E7a, poucas horas ap\u00F3s o acidente."@pt ,
+		"Michael Henderson \"Mike\" Spence (30 December 1936, Croydon, Surrey \u2013 7 May 1968, Indianapolis, Indiana, United States) was a British racing driver from England. He participated in 37 Formula One World Championship Grands Prix, debuting on 8 September 1963. He achieved 1 podium, and scored a total of 27 championship points. He also participated in numerous non-Championship Formula One races, as well as sports car racing."@en ,
+		"Mike Spence est un pilote automobile britannique n\u00E9 le 30 d\u00E9cembre 1936 \u00E0 Croydon (Angleterre) et mort le 7 mai 1968 \u00E0 Indianapolis (\u00C9tats-Unis) dans un accident survenu \u00E0 l'occasion d'essais pr\u00E9paratoires pour les 500 Miles d'Indianapolis."@fr ,
+		"Michael Henderson \u201EMike\u201D Spence (ur. 30 grudnia 1936 roku w Croydon, zm. 7 maja 1968 roku w Indianapolis) \u2013 brytyjski kierowca wy\u015Bcigowy."@pl ,
+		"\u041C\u0430\u0439\u043A \u0421\u043F\u0435\u043D\u0441 (\u0430\u043D\u0433\u043B. Mike Spence, 30 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1936, \u041A\u0440\u043E\u0439\u0434\u043E\u043D \u2014 7 \u043C\u0430\u044F 1968, \u0418\u043D\u0434\u0438\u0430\u043D\u0430\u043F\u043E\u043B\u0438\u0441) \u2014 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u0438\u0439 \u0430\u0432\u0442\u043E\u0433\u043E\u043D\u0449\u0438\u043A, \u043F\u0438\u043B\u043E\u0442 \u0424\u043E\u0440\u043C\u0443\u043B\u044B-1 (1963\u20141968)."@ru ,
+		"Michael \u201EMike\u201C Henderson Spence (* 30. Dezember 1936 in Croydon, Gro\u00DFbritannien; \u2020 7. Mai 1968 in Indianapolis, USA) war ein britischer Rennfahrer."@de ,
+		"\u0645\u0627\u064A\u0643 \u0633\u0628\u0646\u0633 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Mike Spence) \u0645\u0648\u0627\u0644\u064A\u062F 30 \u062F\u064A\u0633\u0645\u0628\u0631 1936\u060C \u0643\u0627\u0646 \u0633\u0627\u0626\u0642 \u0641\u0648\u0631\u0645\u0644\u0627 1 \u0628\u0631\u064A\u0637\u0627\u0646\u064A \u0633\u0627\u0628\u0642 \u0643\u0627\u0646 \u0642\u062F \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0629 \u0633\u0646\u0629 1963. \u0643\u0627\u0646 \u0623\u0648\u0644 \u0633\u0628\u0627\u0642 \u0644\u0647 \u0647\u0648 \u062C\u0627\u0626\u0632\u0629 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0627\u0644\u0643\u0628\u0631\u0649 1963. \u062E\u0627\u0636 \u062E\u0644\u0627\u0644 \u0645\u0633\u064A\u0631\u062A\u0647 37 \u0633\u0628\u0627\u0642\u0627\u064B."@ar ,
+		"Michael 'Mike' Spence (Croydon, 30 december 1936 - Indianapolis, 7 mei 1968) was een Britse autocoureur, die onder andere uitkwam in de Formule 1 en sportscarwedstrijden."@nl ;
+	dbo:birthDate	"1936-12-30"^^xsd:date ;
+	dbo:deathDate	"1968-5-7"^^xsd:date ;
+	dbo:deathPlace	dbr:Indianapolis ;
+	dbo:wikiPageRevisionID	737941225 ;
+	dbo:birthPlace	dbr:London_Borough_of_Croydon ;
+	dbo:wikiPageID	1226507 ;
+	dbo:nationality	dbr:United_Kingdom ;
+	dbo:wins	"0"^^xsd:nonNegativeInteger ;
+	dbo:fastestLap	"0"^^xsd:nonNegativeInteger ;
+	dbo:firstRace	<http://dbpedia.org/resource/1963_Italian_Grand_Prix> ;
+	dbo:races	"37"^^xsd:nonNegativeInteger ;
+	dbo:poles	"0"^^xsd:nonNegativeInteger ;
+	dbo:lastRace	<http://dbpedia.org/resource/1968_South_African_Grand_Prix> ;
+	dbo:podiums	"1"^^xsd:nonNegativeInteger ;
+	dbo:championships	"0"^^xsd:nonNegativeInteger .
+@prefix ns26:	<http://purl.org/linguistics/gold/> .
+dbr:Mike_Spence	ns26:hypernym	dbr:Driver ;
+	dbp:title	<http://dbpedia.org/resource/Race_of_Champions_(Brands_Hatch)> .
+<http://dbpedia.org/resource/1964_Mediterranean_Grand_Prix>	dbo:fastestDriver	dbr:Mike_Spence .
+<http://dbpedia.org/resource/1966_South_African_Grand_Prix>	dbo:firstDriver	dbr:Mike_Spence .
+<http://dbpedia.org/resource/1967_24_Hours_of_Le_Mans__19__1>	dbo:firstDriver	dbr:Mike_Spence .
+<http://dbpedia.org/resource/1965_Race_of_Champions>	dbo:firstDriver	dbr:Mike_Spence .
+<http://dbpedia.org/resource/1967_Can-Am_season__6__1>	dbo:firstDriver	dbr:Mike_Spence .
+<http://dbpedia.org/resource/1961_Lewis-Evans_Trophy>	dbo:secondDriver	dbr:Mike_Spence .
+<http://dbpedia.org/resource/1965_Mexican_Grand_Prix>	dbo:thirdDriver	dbr:Mike_Spence .
+dbr:Lotus_33	dbp:drivers	dbr:Mike_Spence .
+wikipedia-en:Mike_Spence	foaf:primaryTopic	dbr:Mike_Spence .
+<http://dbpedia.org/resource/1964_Rand_Grand_Prix>	dbo:fastestDriver	dbr:Mike_Spence .
