@@ -168,6 +168,7 @@ def teams(request):
                     }
                     optional{
                         ?team dbp:races ?races .
+                        ?team dbp:races ?races .
                         filter(datatype(?races) = xsd:integer)   
                     }
                     optional{
@@ -311,8 +312,11 @@ def media(request):
     print(pistas)
 
     tparams = {
-        'lista': pistas
+        'lista': pistas,
+        'n_media': len(pistas.values())
+
     }
+    print(len(pistas.values()))
 
     return render(request, 'media.html', tparams)
 
@@ -382,7 +386,8 @@ def tracks(request):
     print(pistas)
 
     tparams = {
-        'lista': pistas
+        'lista': pistas,
+        'n_tracks': len(pistas.values())
     }
 
     return render(request, 'tracks.html', tparams)

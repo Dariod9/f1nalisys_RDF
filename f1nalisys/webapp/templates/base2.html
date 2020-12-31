@@ -44,42 +44,6 @@
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top navbar-reduce" id="mainNav">
     <div class="container">
       <a class="navbar-brand js-scroll" href="{% url 'index' %}">F1nalisys</a>
-        <lu class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ ano }}</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="{{ urll }}/2020">2020</a>
-                <a class="dropdown-item" href="{{ urll }}/2019">2019</a>
-                <a class="dropdown-item" href="{{ urll }}/2018">2018</a>
-                <a class="dropdown-item" href="{{ urll }}/2017">2017</a>
-                <a class="dropdown-item" href="{{ urll }}/2016">2016</a>
-                <a class="dropdown-item" href="{{ urll }}/2015">2015</a>
-                <a class="dropdown-item" href="{{ urll }}/2014">2014</a>
-                <a class="dropdown-item" href="{{ urll }}/2013">2013</a>
-                <a class="dropdown-item" href="{{ urll }}/2012">2012</a>
-                <a class="dropdown-item" href="{{ urll }}/2011">2011</a>
-                <a class="dropdown-item" href="{{ urll }}/2010">2010</a>
-                <a class="dropdown-item" href="{{ urll }}/2009">2009</a>
-                <a class="dropdown-item" href="{{ urll }}/2008">2008</a>
-                <a class="dropdown-item" href="{{ urll }}/2007">2007</a>
-                <a class="dropdown-item" href="{{ urll }}/2006">2006</a>
-                <a class="dropdown-item" href="{{ urll }}/2005">2005</a>
-                <a class="dropdown-item" href="{{ urll }}/2004">2004</a>
-                <a class="dropdown-item" href="{{ urll }}/2003">2003</a>
-                <a class="dropdown-item" href="{{ urll }}/2002">2002</a>
-                <a class="dropdown-item" href="{{ urll }}/2001">2001</a>
-                <a class="dropdown-item" href="{{ urll }}/2000">2000</a>
-                <a class="dropdown-item" href="{{ urll }}/1999">1999</a>
-                <a class="dropdown-item" href="{{ urll }}/1998">1998</a>
-                <a class="dropdown-item" href="{{ urll }}/1997">1997</a>
-                <a class="dropdown-item" href="{{ urll }}/1996">1996</a>
-                <a class="dropdown-item" href="{{ urll }}/1995">1995</a>
-                <a class="dropdown-item" href="{{ urll }}/1994">1994</a>
-                <a class="dropdown-item" href="{{ urll }}/1993">1993</a>
-                <a class="dropdown-item" href="{{ urll }}/1992">1992</a>
-                <a class="dropdown-item" href="{{ urll }}/1991">1991</a>
-                <a class="dropdown-item" href="{{ urll }}/1990">1990</a>
-            </div>
-          </lu>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
         <span></span>
@@ -90,16 +54,16 @@
         <ul class="navbar-nav">
 
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="{% url 'drivers' %}/{{ ano }}">Drivers</a>
+            <a class="nav-link js-scroll" href="{% url 'drivers' %}">Drivers</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="{% url 'teams' %}/{{ ano }}">Teams</a>
+            <a class="nav-link js-scroll" href="{% url 'teams' %}">Teams</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll" href="{% url 'tracks' %}">Grand Prix</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll " href="{% url 'media' %}/{{ ano }}">Media</a>
+            <a class="nav-link js-scroll " href="{% url 'media' %}">Media</a>
           </li>
         </ul>
       </div>

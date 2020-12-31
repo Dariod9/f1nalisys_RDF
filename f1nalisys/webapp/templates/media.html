@@ -1,6 +1,7 @@
 {% extends "base2.html" %}
 {% block content %}
-<h2>Media</h2>
+    <h2>Media</h2>
+    <p>({{ n_media }})</p>
     <div class="row row-cols-1 row-cols-md-2">
         {% for s, data in lista.items %}
             <div class="col mb-4">
@@ -15,5 +16,16 @@
                 </div>
             </div>
         {% endfor %}
+        <div class="col mb-4">
+            <div class="card">
+                <div dbo:="http://dbpedia.org/ontology/" prov="https://www.w3.org/ns/prov" about="http://dbpedia.org/page/F1_Digital+" class="card-body">
+                    <h5 class="card-title">
+                        <a target="_blank" property="prov:wasDerivedFrom" style="color:rgb(255,0,0);" href="http://dbpedia.org/page/F1_Digital+">
+                            F1 Digital+
+                        </a>
+                    </h5>
+                </div>
+            </div>
+        </div>
     </div>
 {% endblock %}
