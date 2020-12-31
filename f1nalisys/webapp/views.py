@@ -54,20 +54,37 @@ def drivers(request):
     print(db_info)
 
     driver_names = """
-            PREFIX dct: <http://purl.org/dc/terms/>
-            PREFIX dbc: <http://dbpedia.org/resource/Category:>
-            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-            PREFIX dbp: <http://dbpedia.org/property/>
-            PREFIX dbo: <http://dbpedia.org/ontology/>
-            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-            PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-            select DISTINCT ?t ?d ?l
-                        where {
-                            ?t rdf:type skos:Concept .
-                            ?d dct:subject ?t .
-                            ?d rdfs:label ?l 
-                            filter (lang(?l) = "en")
-                        } 
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX dbc: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+select DISTINCT ?l ?birthDate ?nationality ?championships
+where {
+    {
+        ?t rdf:type skos:Concept .
+        ?d dct:subject ?t .
+        ?d dbo:birthDate ?birthDate .
+        ?d dbo:championships ?championships .
+        ?d dbo:nationality ?nationality .
+        ?d rdfs:label ?l .
+        filter (lang(?l) = "en") .
+    }
+    UNION
+    {
+        ?t rdf:type skos:Concept .
+        ?d dct:subject ?t .
+        ?d dbo:birthDate ?birthDate .
+        ?d dbo:championships ?championships .
+        ?d dbp:nationality ?nationality .
+        ?d rdfs:label ?l .
+        filter (lang(?l) = "en") .
+    }
+} 
+ORDER BY DESC(?birthDate)
         """
 
     payload_query = {"query": driver_names}
@@ -76,17 +93,32 @@ def drivers(request):
     res = json.loads(res)
     # print(res)
     teams_info = []
+    names = []
     for e in res['results']['bindings']:
-        print("e: ", e)
+        valid = True
+        #print("e: ", e)
         dt = dict()
         #dt['nome'] = e['l']['value']
 
         if 'l' in e.keys():
+            if e['l']['value'] in names:
+                valid = False
             dt['l'] = e['l']['value']
+            names.append(e['l']['value'])
+        if 'birthDate' in e.keys():
+            dt['birthDate'] = e['birthDate']['value']
+        if 'nationality' in e.keys():
+            n = e['nationality']['value']
+            if "/" in n:
+                n = n.split("/")[-1]
+            dt['nationality'] = n
+        if 'championships' in e.keys():
+            if int(e['championships']['value']) < 20:
+                dt['championships'] = e['championships']['value']
 
-        teams_info.append(dt)
-
-    print(teams_info)
+        if valid:
+            teams_info.append(dt)
+    #print(teams_info)
 
     tparams = {
         'info': teams_info
