@@ -99,69 +99,136 @@ def teams(request):
     db_info = open_db()
     print(db_info)
 
+    team_dict = dict()
+    # {'uri1': {'nome1': 'ferrari', 'races1': '50'}, 'uri2': {'nome': 'redbull', 'races': '33'}, ...}
+
+    # team_names = """
+    #             PREFIX dct: <http://purl.org/dc/terms/>
+    #             PREFIX dbc: <http://dbpedia.org/resource/Category:>
+    #             PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    #             PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    #             select distinct ?team ?team_name ?link
+    #             where {
+    #                 ?team dct:subject dbc:Formula_One_constructors .
+    #                 ?team rdfs:label ?team_name .
+    #                 optional{
+    #                     ?team foaf:homepage ?link .
+    #                 }
+    #                 filter (lang(?team_name) = "en")
+    #             }
+    #             order by ?team_name
+    #     """
+
     team_names = """
-            PREFIX dct: <http://purl.org/dc/terms/>
-            PREFIX dbc: <http://dbpedia.org/resource/Category:>
-            PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-            PREFIX dbp: <http://dbpedia.org/property/>
-            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-            select distinct ?team ?team_name ?link ?races ?wins ?poles
-            where { 
-                ?team dct:subject dbc:Formula_One_constructors .
-                ?team rdfs:label ?team_name .
-                filter (lang(?team_name) = "en") .
-                optional{
-                    ?team foaf:homepage ?link .   
+                PREFIX dct: <http://purl.org/dc/terms/>
+                PREFIX dbc: <http://dbpedia.org/resource/Category:>
+                PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+                PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+                PREFIX dbp: <http://dbpedia.org/property/>
+                PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+                select distinct ?team ?team_name ?link ?races ?wins ?poles
+                where { 
+                    ?team dct:subject dbc:Formula_One_constructors .
+                    ?team rdfs:label ?team_name .
+                    filter (lang(?team_name) = "en") .
+                    optional{
+                        ?team foaf:homepage ?link .   
+                    }
+                    optional{
+                        ?team dbp:races ?races .
+                        filter(datatype(?races) = xsd:integer)   
+                    }
+                    optional{
+                        ?team dbp:wins ?wins .
+                        filter(datatype(?wins) = xsd:integer)
+                    }
+                    optional{
+                        ?team dbp:poles ?poles .
+                        filter(datatype(?poles) = xsd:integer)   
+                    }
                 }
-                optional{
-                    ?team dbp:races ?races .
-                    filter(datatype(?races) = xsd:integer)   
-                }
-                optional{
-                    ?team dbp:wins ?wins .
-                    filter(datatype(?wins) = xsd:integer)   
-                }
-                optional{
-                    ?team dbp:wins ?poles .
-                    filter(datatype(?poles) = xsd:integer)   
-                }
-            }
-                order by desc (?races)    
-        """
+                order by desc (?races) (?wins) (?poles)    
+    """
 
     payload_query = {"query": team_names}
     res = db_info[1].sparql_select(body=payload_query,
                                    repo_name=db_info[0])
     res = json.loads(res)
-    # print(res)
-    teams_info = []
+
     for e in res['results']['bindings']:
-        print("e: ", e)
-        dt = dict()
-        dt['nome'] = e['team_name']['value']
+        team_uri = e['team']['value']
+        if team_uri not in team_dict:
+            team_dict[team_uri] = dict()
+            team_dict[team_uri]['nome'] = e['team_name']['value']
 
-        if 'link' in e.keys():
-            dt['link'] = e['link']['value']
+            if 'link' in e.keys():
+                team_dict[team_uri]['link'] = e['link']['value']
 
-        if 'races' in e.keys():
-            dt['races'] = e['races']['value']
+            if 'races' in e.keys():
+                team_dict[team_uri]['races'] = e['races']['value']
 
-        if 'wins' in e.keys():
-            dt['wins'] = e['wins']['value']
+            if 'wins' in e.keys():
+                team_dict[team_uri]['wins'] = e['wins']['value']
 
-        if 'poles' in e.keys():
-            dt['poles'] = e['poles']['value']
+            if 'poles' in e.keys():
+                team_dict[team_uri]['poles'] = e['poles']['value']
 
-        teams_info.append(dt)
+        else:
+            if 'races' in e.keys():
+                if e['races']['value'] not in team_dict[team_uri]['races']:
+                    team_dict[team_uri]['races'] = team_dict[team_uri]['races'] + ', ' + e['races']['value']
 
-    print(teams_info)
+            if 'wins' in e.keys():
+                if e['wins']['value'] not in team_dict[team_uri]['wins']:
+                    team_dict[team_uri]['wins'] = team_dict[team_uri]['wins'] + ', ' + e['wins']['value']
+
+            if 'poles' in e.keys():
+                if e['poles']['value'] not in team_dict[team_uri]['poles']:
+                    team_dict[team_uri]['poles'] = team_dict[team_uri]['poles'] + ', ' + e['poles']['value']
+
+    # Important Figures (to be continued)
+    # teams_if = """
+    #             PREFIX dct: <http://purl.org/dc/terms/>
+    #             PREFIX dbc: <http://dbpedia.org/resource/Category:>
+    #             PREFIX dbp: <http://dbpedia.org/property/>
+    #             select distinct ?team ?impfig
+    #             where {
+    #                 ?team dct:subject dbc:Formula_One_constructors .
+    #                 ?team dbp:importantFigure ?impfig.
+    #             }
+    #             order by ?team
+    #         """
+    # payload_query = {"query": teams_if}
+    # res = db_info[1].sparql_select(body=payload_query,
+    #                                repo_name=db_info[0])
+    # res = json.loads(res)
+    #
+    # for e in res['results']['bindings']:
+    #     team_uri = e['team']['value']
+    #     if team_uri not in team_dict:
+    #         team_dict[team_uri] = dict()
+    #         if 'impfig' in e.keys():
+    #             team_dict[team_uri]['impfig'] = e['impfig']['value']
+    #     else:
+    #         print("not new!")
+    #         if 'impfig' in e.keys():
+    #             print("tem impfig")
+    #             if e['impfig']['value'] not in team_dict[team_uri]['impfig']:
+    #                 team_dict[team_uri]['impfig'] = team_dict[team_uri]['impfig'] + ', ' + e['impfig']['value']
 
     tparams = {
-        'info': teams_info
+        'info': team_dict,
+        'n_teams': len(team_dict.values())
     }
 
     return render(request, 'teams.html', tparams)
+
+
+def team_details(request, team_label):
+    tparams = {
+        'team': team_label
+    }
+    return render(request, 'hello.html', tparams)
 
 
 def media(request):
@@ -218,7 +285,6 @@ def media(request):
     return render(request, 'media.html', tparams)
 
 
-
 def tracks(request):
     db_info = open_db()
     print(db_info)
@@ -253,9 +319,9 @@ def tracks(request):
                                    repo_name=db_info[0])
     res = json.loads(res)
     print(res)
-    pistas=dict()
-    nome=""
-    novaNome=""
+    pistas = dict()
+    nome = ""
+    novaNome = ""
 
     for e in res['results']['bindings']:
         nome=e['s']['value']
@@ -279,7 +345,7 @@ def tracks(request):
         # else:
         #     pistas[pista]=[]
 
-        #list.append(e['s']['value'])
+        # list.append(e['s']['value'])
 
     print(pistas)
 

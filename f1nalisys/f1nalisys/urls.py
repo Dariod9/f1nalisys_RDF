@@ -27,6 +27,7 @@ urlpatterns = [
     # path('season/<int:ano>/', views.season),
     # path('season/delete/<int:ano>/<str:title>/<str:text>', views.delete_comment),
     path('teams', views.teams, name="teams"),
+    path('teams/<str:team_label>/', views.team_details, name="teams_details"),
     # path('teams/<int:ano>/', views.teams),
     path('drivers', views.drivers, name="drivers"),
     # path('drivers/<int:ano>/', views.drivers),
