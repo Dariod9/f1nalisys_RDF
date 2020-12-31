@@ -1,7 +1,7 @@
 {% extends "base2.html" %}
 {% block content %}
     <di>
-        <h2>Teams</h2>
+        <h2 style="color:rgb(255,0,0);">Teams</h2>
         <p>({{ n_teams }})</p>
     </di>
 
@@ -27,7 +27,7 @@
                                 </p>
                             </div>
                         </div>
-                        <a href="{% url 'teams_details' team_label=values.nome %}" class="btn btn-info btn-sm">
+                        <a target="_blank" href="{% url 'teams_details' team_label=values.nome %}" class="btn btn-info btn-sm">
                             More
                         </a>
                     </div>

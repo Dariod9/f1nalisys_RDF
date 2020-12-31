@@ -127,61 +127,42 @@ ORDER BY DESC(?birthDate)
     return render(request, 'drivers.html', tparams)
 
 
-def teams(request):
+def query_teams_basic_info():
     db_info = open_db()
-    print(db_info)
 
     team_dict = dict()
     # {'uri1': {'nome1': 'ferrari', 'races1': '50'}, 'uri2': {'nome': 'redbull', 'races': '33'}, ...}
 
-    # team_names = """
-    #             PREFIX dct: <http://purl.org/dc/terms/>
-    #             PREFIX dbc: <http://dbpedia.org/resource/Category:>
-    #             PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-    #             PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-    #             select distinct ?team ?team_name ?link
-    #             where {
-    #                 ?team dct:subject dbc:Formula_One_constructors .
-    #                 ?team rdfs:label ?team_name .
-    #                 optional{
-    #                     ?team foaf:homepage ?link .
-    #                 }
-    #                 filter (lang(?team_name) = "en")
-    #             }
-    #             order by ?team_name
-    #     """
-
     team_names = """
-                PREFIX dct: <http://purl.org/dc/terms/>
-                PREFIX dbc: <http://dbpedia.org/resource/Category:>
-                PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-                PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-                PREFIX dbp: <http://dbpedia.org/property/>
-                PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-                select distinct ?team ?team_name ?link ?races ?wins ?poles
-                where { 
-                    ?team dct:subject dbc:Formula_One_constructors .
-                    ?team rdfs:label ?team_name .
-                    filter (lang(?team_name) = "en") .
-                    optional{
-                        ?team foaf:homepage ?link .   
+                    PREFIX dct: <http://purl.org/dc/terms/>
+                    PREFIX dbc: <http://dbpedia.org/resource/Category:>
+                    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+                    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+                    PREFIX dbp: <http://dbpedia.org/property/>
+                    PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+                    select distinct ?team ?team_name ?link ?races ?wins ?poles
+                    where { 
+                        ?team dct:subject dbc:Formula_One_constructors .
+                        ?team rdfs:label ?team_name .
+                        filter (lang(?team_name) = "en") .
+                        optional{
+                            ?team foaf:homepage ?link .   
+                        }
+                        optional{
+                            ?team dbp:races ?races .
+                            filter(datatype(?races) = xsd:integer)   
+                        }
+                        optional{
+                            ?team dbp:wins ?wins .
+                            filter(datatype(?wins) = xsd:integer)
+                        }
+                        optional{
+                            ?team dbp:poles ?poles .
+                            filter(datatype(?poles) = xsd:integer)   
+                        }
                     }
-                    optional{
-                        ?team dbp:races ?races .
-                        ?team dbp:races ?races .
-                        filter(datatype(?races) = xsd:integer)   
-                    }
-                    optional{
-                        ?team dbp:wins ?wins .
-                        filter(datatype(?wins) = xsd:integer)
-                    }
-                    optional{
-                        ?team dbp:poles ?poles .
-                        filter(datatype(?poles) = xsd:integer)   
-                    }
-                }
-                order by desc (?races) (?wins) (?poles)    
-    """
+                    order by desc (?races) (?wins) (?poles)    
+        """
 
     payload_query = {"query": team_names}
     res = db_info[1].sparql_select(body=payload_query,
@@ -218,6 +199,14 @@ def teams(request):
             if 'poles' in e.keys():
                 if e['poles']['value'] not in team_dict[team_uri]['poles']:
                     team_dict[team_uri]['poles'] = team_dict[team_uri]['poles'] + ', ' + e['poles']['value']
+
+    return team_dict
+
+
+def teams(request):
+    db_info = open_db()
+
+    team_dict = query_teams_basic_info()
 
     # Important Figures (to be continued)
     # teams_if = """
@@ -257,11 +246,68 @@ def teams(request):
     return render(request, 'teams.html', tparams)
 
 
+def get_team_uri(team):
+    db_info = open_db()
+
+    q = '''PREFIX dbc: <http://dbpedia.org/resource/Category:>
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+            PREFIX dct: <http://purl.org/dc/terms/>
+            select distinct ?team_uri
+            where {{
+                ?team_uri dct:subject dbc:Formula_One_constructors .
+                ?team_uri rdfs:label ?l .
+                filter (lang(?l) = "en") .
+                filter regex((?l), "%s")
+            }}''' % team
+
+    payload_query = {"query": q}
+    res = db_info[1].sparql_select(body=payload_query,
+                                   repo_name=db_info[0])
+    res = json.loads(res)
+    return res['results']['bindings']
+
+
+def query_team_resume(team):
+    db_info = open_db()
+    query_resume = '''
+            PREFIX dbc: <http://dbpedia.org/resource/Category:>
+            PREFIX dbr: <http://dbpedia.org/resource/>
+            PREFIX dct: <http://purl.org/dc/terms/>
+            PREFIX dbo: <http://dbpedia.org/ontology/>
+            select distinct ?resume
+            where {
+                "%s" dct:subject dbc:Formula_One_constructors .
+                "%s" dbo:abstract ?resume
+                filter (lang(?resume) = "en")
+            }
+        ''' % (team, team)
+
+    payload_query = {"query": query_resume}
+    res = db_info[1].sparql_select(body=payload_query,
+                                   repo_name=db_info[0])
+    res = json.loads(res)
+    print(res)
+
+
 def team_details(request, team_label):
+    db_info = open_db()
+    teamURI = get_team_uri(team_label)
+    teamURI = teamURI[0]['team_uri']['value']
+    print(teamURI)
+
+    all_teams = query_teams_basic_info()
+    this_team = all_teams[teamURI]
+
+    query_team_resume(teamURI)
+
+    # TODO: ir buscar mais info sobre uma team
+
     tparams = {
-        'team': team_label
+        'team_name': team_label,
+        'info': this_team
     }
-    return render(request, 'hello.html', tparams)
+    return render(request, 'team_details.html', tparams)
 
 
 def media(request):
