@@ -1,0 +1,31 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:David_Brabham	dct:subject	dbc:Simtek_Formula_One_drivers .
+dbr:Domenico_Schiattarella	dct:subject	dbc:Simtek_Formula_One_drivers .
+dbr:Roland_Ratzenberger	dct:subject	dbc:Simtek_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:Simtek_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:Simtek_Formula_One_drivers	rdfs:label	"Simtek Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:Simtek_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q7943905 ,
+		<http://pt.dbpedia.org/resource/Categoria:Pilotos_da_equipe_Simtek_de_F\u00F3rmula_1> ,
+		dbc:Simtek_Formula_One_drivers .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:Simtek_Formula_One_drivers	owl:sameAs	wikidata:Q7943905 .
+@prefix ns9:	<http://es.dbpedia.org/resource/Categor\u00EDa:> .
+dbc:Simtek_Formula_One_drivers	owl:sameAs	ns9:Pilotos_de_Simtek ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"Simtek Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:Simtek_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:Simtek_Formula_One_drivers?oldid=546181989> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:Simtek_Formula_One_drivers	dbo:wikiPageRevisionID	546181989 ;
+	dbo:wikiPageID	36135361 .
+dbr:Jean-Marc_Gounon	dct:subject	dbc:Simtek_Formula_One_drivers .
+dbr:Jos_Verstappen	dct:subject	dbc:Simtek_Formula_One_drivers .
+dbr:Andrea_Montermini	dct:subject	dbc:Simtek_Formula_One_drivers .
+dbr:Taki_Inoue	dct:subject	dbc:Simtek_Formula_One_drivers .

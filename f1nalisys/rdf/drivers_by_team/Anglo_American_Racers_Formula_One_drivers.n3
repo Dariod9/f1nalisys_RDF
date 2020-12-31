@@ -1,0 +1,29 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Dan_Gurney	dct:subject	dbc:Anglo_American_Racers_Formula_One_drivers .
+dbr:Ludovico_Scarfiotti	dct:subject	dbc:Anglo_American_Racers_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:Anglo_American_Racers_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:Anglo_American_Racers_Formula_One_drivers	rdfs:label	"Anglo American Racers Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns7:	<http://es.dbpedia.org/resource/Categor\u00EDa:> .
+dbc:Anglo_American_Racers_Formula_One_drivers	owl:sameAs	ns7:Pilotos_de_Eagle ,
+		dbc:Anglo_American_Racers_Formula_One_drivers .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:Anglo_American_Racers_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q8252823 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:Anglo_American_Racers_Formula_One_drivers	owl:sameAs	wikidata:Q8252823 ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"Anglo American Racers Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:Anglo_American_Racers_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:Anglo_American_Racers_Formula_One_drivers?oldid=547292692> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:Anglo_American_Racers_Formula_One_drivers	dbo:wikiPageRevisionID	547292692 ;
+	dbo:wikiPageID	36358957 .
+dbr:Richie_Ginther	dct:subject	dbc:Anglo_American_Racers_Formula_One_drivers .
+dbr:Phil_Hill	dct:subject	dbc:Anglo_American_Racers_Formula_One_drivers .
+dbr:Bruce_McLaren	dct:subject	dbc:Anglo_American_Racers_Formula_One_drivers .
+dbr:Bob_Bondurant	dct:subject	dbc:Anglo_American_Racers_Formula_One_drivers .

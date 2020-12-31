@@ -29,7 +29,7 @@ urlpatterns = [
     path('teams', views.teams, name="teams"),
     path('teams/<str:team_label>/', views.team_details, name="teams_details"),
     # path('teams/<int:ano>/', views.teams),
-    path('drivers', views.drivers, name="drivers"),
+    path('drivers/', views.drivers, name="drivers"),
     # path('drivers/<int:ano>/', views.drivers),
     path('grandprix', views.tracks, name="tracks"),
     path('media', views.media, name="media"),

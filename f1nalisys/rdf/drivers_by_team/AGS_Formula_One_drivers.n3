@@ -1,0 +1,34 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Stefan_Johansson	dct:subject	dbc:AGS_Formula_One_drivers .
+dbr:Yannick_Dalmas	dct:subject	dbc:AGS_Formula_One_drivers .
+dbr:Olivier_Grouillard	dct:subject	dbc:AGS_Formula_One_drivers .
+dbr:Ivan_Capelli	dct:subject	dbc:AGS_Formula_One_drivers .
+dbr:Fabrizio_Barbazza	dct:subject	dbc:AGS_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:AGS_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:AGS_Formula_One_drivers	rdfs:label	"AGS Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:AGS_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q7943213 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:AGS_Formula_One_drivers	owl:sameAs	wikidata:Q7943213 ,
+		<http://pt.dbpedia.org/resource/Categoria:Pilotos_da_equipe_AGS_de_F\u00F3rmula_1> .
+@prefix ns9:	<http://es.dbpedia.org/resource/Categor\u00EDa:> .
+dbc:AGS_Formula_One_drivers	owl:sameAs	ns9:Pilotos_de_AGS ,
+		dbc:AGS_Formula_One_drivers ;
+	skos:broader	dbc:Formula_One_drivers_by_team ;
+	skos:prefLabel	"AGS Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:AGS_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:AGS_Formula_One_drivers?oldid=546180207> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:AGS_Formula_One_drivers	dbo:wikiPageRevisionID	546180207 ;
+	dbo:wikiPageID	7628200 .
+dbr:Gabriele_Tarquini	dct:subject	dbc:AGS_Formula_One_drivers .
+dbr:Philippe_Streiff	dct:subject	dbc:AGS_Formula_One_drivers .
+dbr:Pascal_Fabre	dct:subject	dbc:AGS_Formula_One_drivers .
+dbr:Roberto_Moreno	dct:subject	dbc:AGS_Formula_One_drivers .
+dbr:Joachim_Winkelhock	dct:subject	dbc:AGS_Formula_One_drivers .

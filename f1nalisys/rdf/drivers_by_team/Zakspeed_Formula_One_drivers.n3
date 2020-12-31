@@ -1,0 +1,31 @@
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Aguri_Suzuki	dct:subject	dbc:Zakspeed_Formula_One_drivers .
+dbr:Jonathan_Palmer	dct:subject	dbc:Zakspeed_Formula_One_drivers .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+dbc:Zakspeed_Formula_One_drivers	rdf:type	skos:Concept .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbc:Zakspeed_Formula_One_drivers	rdfs:label	"Zakspeed Formula One drivers"@en .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbc:Zakspeed_Formula_One_drivers	owl:sameAs	wikidata:Q7802417 ,
+		<http://pt.dbpedia.org/resource/Categoria:Pilotos_da_equipe_Zakspeed_de_F\u00F3rmula_1> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbc:Zakspeed_Formula_One_drivers	owl:sameAs	dbpedia-wikidata:Q7802417 .
+@prefix ns9:	<http://es.dbpedia.org/resource/Categor\u00EDa:> .
+dbc:Zakspeed_Formula_One_drivers	owl:sameAs	ns9:Pilotos_de_Zakspeed ,
+		dbc:Zakspeed_Formula_One_drivers ;
+	skos:broader	dbc:Formula_One_drivers_by_team ,
+		dbc:Zakspeed ;
+	skos:prefLabel	"Zakspeed Formula One drivers"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbc:Zakspeed_Formula_One_drivers	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Category:Zakspeed_Formula_One_drivers?oldid=641863770> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbc:Zakspeed_Formula_One_drivers	dbo:wikiPageRevisionID	641863770 ;
+	dbo:wikiPageID	36181255 .
+dbr:Martin_Brundle	dct:subject	dbc:Zakspeed_Formula_One_drivers .
+dbr:Piercarlo_Ghinzani	dct:subject	dbc:Zakspeed_Formula_One_drivers .
+dbr:Huub_Rothengatter	dct:subject	dbc:Zakspeed_Formula_One_drivers .
+dbr:Christian_Danner	dct:subject	dbc:Zakspeed_Formula_One_drivers .
