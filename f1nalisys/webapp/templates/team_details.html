@@ -2,13 +2,14 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 {% extends "base2.html" %}
 {% block content %}
+    <div dbp:="http://dbpedia.org/property/" about="http://dbpedia.org/page/{{ team_name }}">
     <h2 style="color:rgb(255,0,0);">{{ team_name }}</h2>
-    <p><b>Visit official website:</b> <a href="{{ info.link }}">{{ info.link }}</a></p>
-    <p><b>Races:</b> {{ info.races }}</p>
-    <p><b>Wins:</b> {{ info.wins }}</p>
-    <p><b>Poles:</b> {{ info.poles }}</p>
-    <p><b>Location:</b> {{ info.location }}</p>
-    <p><b>Important Figures:</b>
+    <p><b>Visit official website:</b> <a property="dbp:website" href="{{ info.link }}">{{ info.link }}</a></p>
+    <p property="dbp:races"><b>Races:</b> {{ info.races }}</p>
+    <p property="dbp:wins"><b>Wins:</b> {{ info.wins }}</p>
+    <p property="dbp_poles"><b>Poles:</b> {{ info.poles }}</p>
+    <p property="dbp:base"><b>Location:</b> {{ info.location }}</p>
+    <p property="dbp:abstract"><b>Important Figures:</b>
         {% for i in impfig %}
         <ul>
             <li>{{ i }}</li>
@@ -16,5 +17,6 @@
         {% endfor %}
     </p>
     <p>{{ resume }}</p>
+    </div>
 
 {% endblock %}

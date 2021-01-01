@@ -79,34 +79,88 @@
         <div class="row">
             <div class="col-sm-12">
                 {% block content %}
-                    <p class="navbar-brand js-scroll" style="font-weight: bold; color: rgb(255,0,0); font-size: xx-large">Grand Prix</p>
+                    <p class="navbar-brand js-scroll"
+                       style="font-weight: bold; color: rgb(255,0,0); font-size: xx-large">Grand Prix</p>
                     <p>({{ n_tracks }})</p>
                     <br>
                     <div class="row row-cols-1 row-cols-md-3">
+                        <div class="col mb-4">
+                            <div class="card">
+                                <div dbr:="http://dbpedia.org/resource/" dbp:="http://dbpedia.org/property/"
+                                     prov="https://www.w3.org/ns/prov"
+                                     about="http://dbpedia.org/page/Portimao_Grand_Prix" class="card-body"
+                                     align="center">
+                                    <div>
+                                        <a target="_blank" class="card-title"
+                                           style="font-weight: bold; color:rgb(255,0,0);" property="prov:wasDerivedFrom"
+                                           href="https://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix">
+                                            Portimão Grand Prix &nbsp;
+                                        </a>
+                                        <img property="dbo:thumbnail"
+                                             src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+                                             width="55" height="27"/>
+                                    </div>
+                                    <div rel="dbp:circuit">
+                                        <div about="http://dbpedia.org/page/Algarve_Internacional_Circuit">
+                                            <br>
+                                            <br>
+                                            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Aut%C3%B3dromo_do_Algarve_alt.svg"
+                                                 width="250" height="250"/>
+                                            <br>
+                                            <p class="card-text" style="font-weight: bold"> Turns: </p>
+                                            <p property="dbp:turns" class="card-text"> 15 </p>
+                                            <p class="card-text" style="font-weight: bold"> Location: </p>
+                                            <p property="dbp:location" class="card-text"> Portimão, Portugal</p>
+                                        </div>
+                                    </div>
+                                    <br>
+                                    <p class="card-text" style="font-weight: bold"> Laps: </p>
+                                    <p class="card-text"> 66 </p>
+                                    <p class="card-text" style="font-weight: bold"> Driver(s) with the most Wins:</p>
+                                    <p class="card-text"> Lewis Hamilton </p>
+
+                                </div>
+                            </div>
+                        </div>
+
                         {% for name, info in lista.items %}
                             <div class="col mb-4">
                                 <div class="card">
-                                    <div class="card-body" align="center">
+                                    <div dbr:="http://dbpedia.org/resource/" dbp:="http://dbpedia.org/property/"
+                                         prov="https://www.w3.org/ns/prov"
+                                         about="http://dbpedia.org/page/{{ info.TAG }}" class="card-body"
+                                         align="center">
                                         <div>
-                                            {#                                            <h5 class="card-title" style="color:rgb(255,0,0);"> {{ info.Name }}</h5>#}
                                             <a target="_blank" class="card-title"
-                                               style="font-weight: bold; color:rgb(255,0,0);" href="{{ info.LinkGP }}">
+                                               style="font-weight: bold; color:rgb(255,0,0);"
+                                               property="prov:wasDerivedFrom"
+                                               href="{{ info.LinkGP }}">
                                                 {{ info.Name }}&nbsp;
                                             </a>
-                                            <img src="{{ info.imgP }}" width="55" height="27"/>
+                                            <img property="dbo:thumbnail"
+                                                 src="{{ info.imgP }}"
+                                                 width="55" height="27"/>
+                                        </div>
+                                        <div rel="dbp:circuit">
+                                            <div about="http://dbpedia.org/page/{{ info.TAGC }}">
+                                                <br>
+                                                <br>
+                                                <img property="dbo:thumbnail" src="{{ info.imgC }}"
+                                                     width="250" height="250"/>
+                                                <br>
+                                                <p class="card-text" style="font-weight: bold"> Turns: </p>
+                                                <p property="dbp:turns" class="card-text"> {{ info.Turns }} </p>
+                                                <p class="card-text" style="font-weight: bold"> Location: </p>
+                                                <p property="dbp:location" class="card-text"> {{ info.Location }}</p>
+                                            </div>
                                         </div>
                                         <br>
-                                        <br>
-                                        <img src="{{ info.imgC }}" width="250" height="250"/>
-                                        <br>
                                         <p class="card-text" style="font-weight: bold"> Laps: </p>
-                                        <p class="card-text"> {{ info.Laps }}</p>
-                                        <p class="card-text" style="font-weight: bold"> Driver(s) with the most Wins:</p>
-                                        <p class="card-text"> {{ info.MostWin }}</p>
-                                        <p class="card-text" style="font-weight: bold"> Turns: </p>
-                                        <p class="card-text"> {{ info.Turns }}</p>
-                                        <p class="card-text" style="font-weight: bold"> Location: </p>
-                                        <p class="card-text"> {{ info.Location }}</p>
+                                        <p class="card-text"> {{ info.Laps }} </p>
+                                        <p class="card-text" style="font-weight: bold"> Driver(s) with the most
+                                            Wins:</p>
+                                        <p class="card-text"> {{ info.MostWin }} </p>
+
                                     </div>
                                 </div>
                             </div>

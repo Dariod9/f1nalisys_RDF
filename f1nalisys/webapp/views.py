@@ -396,8 +396,7 @@ def media(request):
             pistas[nome]=dict()
             pistas[nome]["Label"]=e['o']['value']
             pistas[nome]["URL"]=e['h']['value']
-        else:
-            pistas[nome]["Label"]=pistas[nome]["Label"]+"\n"+e['o']['value']
+            #pistas[nome]["Label"]=pistas[nome]["Label"]+"\n"+e['o']['value']
         # if pista is novaPista:
         #     pass
         # else:
@@ -459,11 +458,13 @@ def tracks(request):
         nome=e['s']['value']
         if nome not in pistas:
             pistas[nome]=dict()
+            pistas[nome]["TAG"]=check(e['s']['value'])
             pistas[nome]["imgP"]=e['imgP']['value']
             pistas[nome]["Laps"]=e['laps']['value']
             pistas[nome]["Name"]=e['name']['value']
             pistas[nome]["MostWin"]=e['mostW']['value']
             pistas[nome]["LinkGP"]=e['link']['value']
+            pistas[nome]["TAGC"]=check(e['c']['value'])
             pistas[nome]["Turns"]=e['t']['value']
             pistas[nome]["imgC"]=e['imgC']['value']
             pistas[nome]["Location"]=check(e['l']['value'])
