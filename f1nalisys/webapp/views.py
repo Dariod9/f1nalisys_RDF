@@ -140,11 +140,14 @@ def query_teams_basic_info():
                     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
                     PREFIX dbp: <http://dbpedia.org/property/>
                     PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-                    select distinct ?team ?team_name ?link ?races ?wins ?poles
+                    select distinct ?team ?team_name ?location ?link ?races ?wins ?poles
                     where { 
                         ?team dct:subject dbc:Formula_One_constructors .
                         ?team rdfs:label ?team_name .
                         filter (lang(?team_name) = "en") .
+                        optional{
+                            ?team dbp:base ?location .   
+                        }
                         optional{
                             ?team foaf:homepage ?link .   
                         }
@@ -178,6 +181,9 @@ def query_teams_basic_info():
             if 'link' in e.keys():
                 team_dict[team_uri]['link'] = e['link']['value']
 
+            if 'location' in e.keys():
+                team_dict[team_uri]['location'] = check(e['location']['value'])
+
             if 'races' in e.keys():
                 team_dict[team_uri]['races'] = e['races']['value']
 
@@ -188,6 +194,11 @@ def query_teams_basic_info():
                 team_dict[team_uri]['poles'] = e['poles']['value']
 
         else:
+            if 'location' in e.keys():
+                if e['location']['value'] not in team_dict[team_uri]['location']:
+                    if check(e['location']['value']) not in team_dict[team_uri]['location']:    # para nao haver repetidos
+                        team_dict[team_uri]['location'] = team_dict[team_uri]['location'] + ', ' + check(e['location']['value'])
+
             if 'races' in e.keys():
                 if e['races']['value'] not in team_dict[team_uri]['races']:
                     team_dict[team_uri]['races'] = team_dict[team_uri]['races'] + ', ' + e['races']['value']
@@ -270,24 +281,59 @@ def get_team_uri(team):
 
 def query_team_resume(team):
     db_info = open_db()
-    query_resume = '''
-            PREFIX dbc: <http://dbpedia.org/resource/Category:>
-            PREFIX dbr: <http://dbpedia.org/resource/>
-            PREFIX dct: <http://purl.org/dc/terms/>
-            PREFIX dbo: <http://dbpedia.org/ontology/>
-            select distinct ?resume
-            where {
-                "%s" dct:subject dbc:Formula_One_constructors .
-                "%s" dbo:abstract ?resume
-                filter (lang(?resume) = "en")
-            }
-        ''' % (team, team)
+
+    query_resume = """PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX dbc: <http://dbpedia.org/resource/Category:>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+select distinct ?resume
+where {
+    ?team dct:subject dbc:Formula_One_constructors .
+    ?team rdfs:label ?l .
+    filter (lang(?l) = "en") .
+    filter regex(?l, "%s") .  
+    ?team dbo:abstract ?resume
+    filter (lang(?resume) = "en")
+}""" % team
 
     payload_query = {"query": query_resume}
     res = db_info[1].sparql_select(body=payload_query,
                                    repo_name=db_info[0])
     res = json.loads(res)
-    print(res)
+
+    return res['results']['bindings'][0]['resume']['value']
+
+
+def impfig_team(team):
+    db_info = open_db()
+    query = """PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX dbc: <http://dbpedia.org/resource/Category:>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+select distinct ?i
+where {
+    ?team dct:subject dbc:Formula_One_constructors .
+    ?team rdfs:label ?l .
+    filter (lang(?l) = "en") .
+    filter regex(?l, "%s") .  
+    ?team dbp:importantFigure ?i.
+}
+order by ?team""" % team
+
+    payload_query = {"query": query}
+    res = db_info[1].sparql_select(body=payload_query,
+                                   repo_name=db_info[0])
+    res = json.loads(res)
+
+    print("here: ", res['results']['bindings'])
+    l = []
+    for e in res['results']['bindings']:
+        value = e['i']['value']
+        if value not in l:
+            l.append(check(value))
+    return l
 
 
 def team_details(request, team_label):
@@ -299,13 +345,17 @@ def team_details(request, team_label):
     all_teams = query_teams_basic_info()
     this_team = all_teams[teamURI]
 
-    query_team_resume(teamURI)
+    resume = query_team_resume(team_label)
+    impfig = impfig_team(team_label)
+    print("ii: ", impfig)
 
     # TODO: ir buscar mais info sobre uma team
 
     tparams = {
         'team_name': team_label,
-        'info': this_team
+        'info': this_team,
+        'resume': resume,
+        'impfig': impfig
     }
     return render(request, 'team_details.html', tparams)
 
@@ -416,12 +466,12 @@ def tracks(request):
             pistas[nome]["LinkGP"]=e['link']['value']
             pistas[nome]["Turns"]=e['t']['value']
             pistas[nome]["imgC"]=e['imgC']['value']
-            pistas[nome]["Location"]=checkLocation(e['l']['value'])
+            pistas[nome]["Location"]=check(e['l']['value'])
         else:
             if e['mostW']['value'] not in pistas[nome]["MostWin"]:
                 pistas[nome]["MostWin"] = pistas[nome]["MostWin"]+", "+e['mostW']['value']
-            if checkLocation(e['l']['value']) not in pistas[nome]["Location"]:
-                pistas[nome]["Location"]=pistas[nome]["Location"]+", "+checkLocation(e['l']['value'])
+            if check(e['l']['value']) not in pistas[nome]["Location"]:
+                pistas[nome]["Location"]=pistas[nome]["Location"]+", "+check(e['l']['value'])
         # if pista is novaPista:
         #     pass
         # else:
@@ -442,11 +492,13 @@ def tracks(request):
 def season(request):
     return None
 
-def checkLocation(string):
+
+def check(string):
 
     if "http" in string:
-        array=string.split("/")
-        return array[len(array)-1]
+        array = string.split("/")
+        w = array[len(array)-1]
+        return str(w).replace("_", " ")
     else:
         return string
 

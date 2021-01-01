@@ -7,4 +7,14 @@
     <p><b>Races:</b> {{ info.races }}</p>
     <p><b>Wins:</b> {{ info.wins }}</p>
     <p><b>Poles:</b> {{ info.poles }}</p>
+    <p><b>Location:</b> {{ info.location }}</p>
+    <p><b>Important Figures:</b>
+        {% for i in impfig %}
+        <ul>
+            <li>{{ i }}</li>
+        </ul>
+        {% endfor %}
+    </p>
+    <p>{{ resume }}</p>
+
 {% endblock %}
