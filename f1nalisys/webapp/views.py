@@ -2,6 +2,8 @@ from django.shortcuts import render
 from s4api.graphdb_api import GraphDBApi
 from s4api.swagger import ApiClient
 import json
+from f1nalisys import forms
+from django.http import HttpResponse, HttpRequest
 
 
 # Create your views here.
@@ -127,13 +129,19 @@ ORDER BY DESC(?birthDate)
     return render(request, 'drivers.html', tparams)
 
 
-def query_teams_basic_info():
+def query_teams_basic_info(min_races=0, min_wins=0):
     db_info = open_db()
 
     team_dict = dict()
     # {'uri1': {'nome1': 'ferrari', 'races1': '50'}, 'uri2': {'nome': 'redbull', 'races': '33'}, ...}
 
-    team_names = """
+    if min_races is None:
+        min_races = 0
+    if min_wins is None:
+        min_wins = 0
+
+    if min_races == 0 and min_wins == 0:
+        the_query = """
                     PREFIX dct: <http://purl.org/dc/terms/>
                     PREFIX dbc: <http://dbpedia.org/resource/Category:>
                     PREFIX foaf: <http://xmlns.com/foaf/0.1/>
@@ -166,8 +174,38 @@ def query_teams_basic_info():
                     }
                     order by desc (?races) (?wins) (?poles)    
         """
+    else:
+        the_query = """PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX dbc: <http://dbpedia.org/resource/Category:>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+select distinct ?team ?team_name ?link ?location ?races ?wins ?poles
+where { 
+    ?team dct:subject dbc:Formula_One_constructors .
+    ?team rdfs:label ?team_name .
+    filter (lang(?team_name) = "en") .
+    ?team dbp:base ?location
+    optional{
+        ?team foaf:homepage ?link .   
+    }
+    ?team dbp:races ?races .
+    filter(datatype(?races) = xsd:integer) .   
+    filter (?races > %d) .
+    
+    ?team dbp:wins ?wins .
+    filter(datatype(?wins) = xsd:integer)
+    filter (?wins > %d) .
+    
+    optional{
+        ?team dbp:poles ?poles .
+        filter(datatype(?poles) = xsd:integer)   
+    }
+}
+order by desc (?races) (?wins) (?poles)""" % (min_races, min_wins)
 
-    payload_query = {"query": team_names}
+    payload_query = {"query": the_query}
     res = db_info[1].sparql_select(body=payload_query,
                                    repo_name=db_info[0])
     res = json.loads(res)
@@ -217,41 +255,28 @@ def query_teams_basic_info():
 def teams(request):
     db_info = open_db()
 
-    team_dict = query_teams_basic_info()
+    if request.method == 'POST':    # filtrar
+        form = forms.Filter(request.POST)
 
-    # Important Figures (to be continued)
-    # teams_if = """
-    #             PREFIX dct: <http://purl.org/dc/terms/>
-    #             PREFIX dbc: <http://dbpedia.org/resource/Category:>
-    #             PREFIX dbp: <http://dbpedia.org/property/>
-    #             select distinct ?team ?impfig
-    #             where {
-    #                 ?team dct:subject dbc:Formula_One_constructors .
-    #                 ?team dbp:importantFigure ?impfig.
-    #             }
-    #             order by ?team
-    #         """
-    # payload_query = {"query": teams_if}
-    # res = db_info[1].sparql_select(body=payload_query,
-    #                                repo_name=db_info[0])
-    # res = json.loads(res)
-    #
-    # for e in res['results']['bindings']:
-    #     team_uri = e['team']['value']
-    #     if team_uri not in team_dict:
-    #         team_dict[team_uri] = dict()
-    #         if 'impfig' in e.keys():
-    #             team_dict[team_uri]['impfig'] = e['impfig']['value']
-    #     else:
-    #         print("not new!")
-    #         if 'impfig' in e.keys():
-    #             print("tem impfig")
-    #             if e['impfig']['value'] not in team_dict[team_uri]['impfig']:
-    #                 team_dict[team_uri]['impfig'] = team_dict[team_uri]['impfig'] + ', ' + e['impfig']['value']
+        if 'reset' in request.POST:
+            form = forms.Filter()
+            team_dict = query_teams_basic_info()
+
+        if form.is_valid():
+            print("valid!")
+            min_races = form.cleaned_data['races']
+            min_wins = form.cleaned_data['wins']
+            team_dict = query_teams_basic_info(min_races, min_wins)
+
+    else:   # mostra tudo
+        form = forms.Filter()
+        team_dict = query_teams_basic_info()
+
 
     tparams = {
         'info': team_dict,
-        'n_teams': len(team_dict.values())
+        'n_teams': len(team_dict.values()),
+        'form': form
     }
 
     return render(request, 'teams.html', tparams)
@@ -340,14 +365,12 @@ def team_details(request, team_label):
     db_info = open_db()
     teamURI = get_team_uri(team_label)
     teamURI = teamURI[0]['team_uri']['value']
-    print(teamURI)
 
     all_teams = query_teams_basic_info()
     this_team = all_teams[teamURI]
 
     resume = query_team_resume(team_label)
     impfig = impfig_team(team_label)
-    print("ii: ", impfig)
 
     # TODO: ir buscar mais info sobre uma team
 

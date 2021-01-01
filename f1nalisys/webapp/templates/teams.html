@@ -1,38 +1,64 @@
 {% extends "base2.html" %}
 {% block content %}
-    <di>
-        <h2 style="color:rgb(255,0,0);">Teams</h2>
-        <p>({{ n_teams }})</p>
-    </di>
 
-    <div class="row row-cols-1 row-cols-md-2">
-        {% for uri, values in info.items %}
-            <div class="col mb-4">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            <a target="_blank" style="color:rgb(255,0,0);" href="{{ values.link }}">
-                                {{ values.nome }}
-                            </a>
-                        </h5>
-                        <div class="row row-cols-1 row-cols-md-2">
-                            <div class="col mb-4">
-                                <p class="card-text"><b>Races:</b> {{ values.races }}</p>
-                                <p class="card-text"><b>Wins:</b> {{ values.wins }}</p>
-                                <p class="card-text"><b>Poles:</b> {{ values.poles }}</p>
-                            </div>
-                            <div class="col mb-4">
-                                <p class="card-text">
-                                    <b>Location:</b> {{ values.location }}
-                                </p>
+    <div class="row">
+        <div class="col-9">
+            <h2 style="color:rgb(255,0,0);">Teams</h2>
+            <p>({{ n_teams }})</p>
+        </div>
+    </div>
+    {# teams #}
+     <div class="row">
+        <div class="col-9">
+            <div class="row row-cols-1 row-cols-md-2">
+                {% for uri, values in info.items %}
+                    <div class="col mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">
+                                    <a target="_blank" style="color:rgb(255,0,0);" href="{{ values.link }}">
+                                        {{ values.nome }}
+                                    </a>
+                                </h5>
+                                <div class="row row-cols-1 row-cols-md-2">
+                                    <div class="col mb-4">
+                                        <p class="card-text"><b>Races:</b> {{ values.races }}</p>
+                                        <p class="card-text"><b>Wins:</b> {{ values.wins }}</p>
+                                        <p class="card-text"><b>Poles:</b> {{ values.poles }}</p>
+                                    </div>
+                                    <div class="col mb-4">
+                                        <p class="card-text">
+                                            <b>Location:</b> {{ values.location }}
+                                        </p>
+                                    </div>
+                                </div>
+                                <a target="_blank" href="{% url 'teams_details' team_label=values.nome %}" class="btn btn-info btn-sm">
+                                    Details
+                                </a>
                             </div>
                         </div>
-                        <a target="_blank" href="{% url 'teams_details' team_label=values.nome %}" class="btn btn-info btn-sm">
-                            Details
-                        </a>
                     </div>
-                </div>
+                {% endfor %}
             </div>
-        {% endfor %}
+        </div>
+
+        {# Div de divisao entre as outras #}
+        <div class="col-1"></div>
+
+        {# coluna filter #}
+        <div class="col-2">
+            <h3>Filter</h3>
+            <p>Minimum number of:</p>
+            <form method="post" action="teams">
+                {% csrf_token %}
+                {{ form }}
+                <button type="submit" name="submit">Submit</button>
+                <button type="submit" name="reset">Reset</button>
+            </form>
+
+        </div>
+
     </div>
+
+
 {% endblock %}
