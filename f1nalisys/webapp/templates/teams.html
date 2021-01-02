@@ -8,12 +8,12 @@
         </div>
     </div>
     {# teams #}
-     <div class="row">
+     <div class="row" id="items">
         <div class="col-9">
             <div class="row row-cols-1 row-cols-md-2">
                 {% for uri, values in info.items %}
                     <div class="col mb-4">
-                        <div class="card">
+                        <div id="card" class="card">
                             <div class="card-body">
                                 <h5 class="card-title">
                                     <a target="_blank" style="color:rgb(255,0,0);" href="{{ values.link }}">
@@ -47,13 +47,19 @@
 
         {# coluna filter #}
         <div class="col-2">
+            <form method="post" class="form-inline my-2 my-lg-0" action="teams">
+                {% csrf_token %}
+                <input name="input" class="form-control mr-sm-2" type="text" placeholder="Search..." aria-label="Search">
+                <button type="submit" name="search">Search</button>
+            </form>
+            &#160;
             <h3>Filter</h3>
             <p>Minimum number of:</p>
             <form method="post" action="teams">
                 {% csrf_token %}
                 {{ form }}
                 <button type="submit" name="submit">Submit</button>
-                <button type="submit" name="reset">Reset</button>
+                <button type="submit" name="reset">Clear filters</button>
             </form>
 
         </div>

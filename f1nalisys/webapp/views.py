@@ -129,10 +129,9 @@ ORDER BY DESC(?birthDate)
     return render(request, 'drivers.html', tparams)
 
 
-def query_teams_basic_info(min_races=0, min_wins=0):
+def query_teams_basic_info(min_races=0, min_wins=0, search=""):
     db_info = open_db()
 
-    team_dict = dict()
     # {'uri1': {'nome1': 'ferrari', 'races1': '50'}, 'uri2': {'nome': 'redbull', 'races': '33'}, ...}
 
     if min_races is None:
@@ -140,76 +139,117 @@ def query_teams_basic_info(min_races=0, min_wins=0):
     if min_wins is None:
         min_wins = 0
 
-    if min_races == 0 and min_wins == 0:
-        the_query = """
-                    PREFIX dct: <http://purl.org/dc/terms/>
-                    PREFIX dbc: <http://dbpedia.org/resource/Category:>
-                    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-                    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-                    PREFIX dbp: <http://dbpedia.org/property/>
-                    PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-                    select distinct ?team ?team_name ?location ?link ?races ?wins ?poles
-                    where { 
-                        ?team dct:subject dbc:Formula_One_constructors .
-                        ?team rdfs:label ?team_name .
-                        filter (lang(?team_name) = "en") .
-                        optional{
-                            ?team dbp:base ?location .   
-                        }
-                        optional{
-                            ?team foaf:homepage ?link .   
-                        }
-                        optional{
-                            ?team dbp:races ?races .
-                            filter(datatype(?races) = xsd:integer)   
-                        }
-                        optional{
-                            ?team dbp:wins ?wins .
-                            filter(datatype(?wins) = xsd:integer)
-                        }
-                        optional{
-                            ?team dbp:poles ?poles .
-                            filter(datatype(?poles) = xsd:integer)   
-                        }
-                    }
-                    order by desc (?races) (?wins) (?poles)    
-        """
-    else:
+    # filtrar
+    if min_races != 0 and min_wins != 0:
         the_query = """PREFIX dct: <http://purl.org/dc/terms/>
-PREFIX dbc: <http://dbpedia.org/resource/Category:>
-PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-select distinct ?team ?team_name ?link ?location ?races ?wins ?poles
-where { 
-    ?team dct:subject dbc:Formula_One_constructors .
-    ?team rdfs:label ?team_name .
-    filter (lang(?team_name) = "en") .
-    ?team dbp:base ?location
-    optional{
-        ?team foaf:homepage ?link .   
-    }
-    ?team dbp:races ?races .
-    filter(datatype(?races) = xsd:integer) .   
-    filter (?races > %d) .
-    
-    ?team dbp:wins ?wins .
-    filter(datatype(?wins) = xsd:integer)
-    filter (?wins > %d) .
-    
-    optional{
-        ?team dbp:poles ?poles .
-        filter(datatype(?poles) = xsd:integer)   
-    }
-}
-order by desc (?races) (?wins) (?poles)""" % (min_races, min_wins)
+        PREFIX dbc: <http://dbpedia.org/resource/Category:>
+        PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX dbp: <http://dbpedia.org/property/>
+        PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+        select distinct ?team ?team_name ?link ?location ?races ?wins ?poles
+        where { 
+            ?team dct:subject dbc:Formula_One_constructors .
+            ?team rdfs:label ?team_name .
+            filter (lang(?team_name) = "en") .
+            ?team dbp:base ?location
+            optional{
+                ?team foaf:homepage ?link .   
+            }
+            ?team dbp:races ?races .
+            filter(datatype(?races) = xsd:integer) .   
+            filter (?races > %d) .
+
+            ?team dbp:wins ?wins .
+            filter(datatype(?wins) = xsd:integer)
+            filter (?wins > %d) .
+
+            optional{
+                ?team dbp:poles ?poles .
+                filter(datatype(?poles) = xsd:integer)   
+            }
+        }
+        order by desc (?races) (?wins) (?poles)""" % (min_races, min_wins)
+
+    # search
+    elif search != "":
+        the_query = """PREFIX dct: <http://purl.org/dc/terms/>
+        PREFIX dbc: <http://dbpedia.org/resource/Category:>
+        PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX dbp: <http://dbpedia.org/property/>
+        PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+        select distinct ?team ?team_name ?link ?location ?races ?wins ?poles
+        where { 
+            ?team dct:subject dbc:Formula_One_constructors .
+            ?team rdfs:label ?team_name .
+            filter (lang(?team_name) = "en") .
+            FILTER regex(?team_name, "%s", "i") .
+            ?team dbp:base ?location .
+            optional{
+                ?team foaf:homepage ?link .   
+            }
+            optional{
+                ?team dbp:races ?races .
+                filter(datatype(?races) = xsd:integer) .   
+                filter (?races > 400) .
+            }
+            optional{
+                ?team dbp:wins ?wins .
+                filter(datatype(?wins) = xsd:integer)
+            }
+            optional{
+                ?team dbp:poles ?poles .
+                filter(datatype(?poles) = xsd:integer)   
+            }
+        }
+        order by desc (?races) (?wins) (?poles)""" % search
+    # default (mostra todas as equipas)
+    else:
+        the_query = """
+            PREFIX dct: <http://purl.org/dc/terms/>
+            PREFIX dbc: <http://dbpedia.org/resource/Category:>
+            PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+            PREFIX dbp: <http://dbpedia.org/property/>
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            select distinct ?team ?team_name ?location ?link ?races ?wins ?poles
+            where { 
+                ?team dct:subject dbc:Formula_One_constructors .
+                ?team rdfs:label ?team_name .
+                filter (lang(?team_name) = "en") .
+                optional{
+                    ?team dbp:base ?location .   
+                }
+                optional{
+                    ?team foaf:homepage ?link .   
+                }
+                optional{
+                    ?team dbp:races ?races .
+                    filter(datatype(?races) = xsd:integer)   
+                }
+                optional{
+                    ?team dbp:wins ?wins .
+                    filter(datatype(?wins) = xsd:integer)
+                }
+                optional{
+                    ?team dbp:poles ?poles .
+                    filter(datatype(?poles) = xsd:integer)   
+                }
+            }
+            order by desc (?races) (?wins) (?poles)    
+                """
 
     payload_query = {"query": the_query}
     res = db_info[1].sparql_select(body=payload_query,
                                    repo_name=db_info[0])
     res = json.loads(res)
 
+    return save_teams_info(res)
+
+
+def save_teams_info(res):
+    team_dict = dict()
     for e in res['results']['bindings']:
         team_uri = e['team']['value']
         if team_uri not in team_dict:
@@ -254,24 +294,29 @@ order by desc (?races) (?wins) (?poles)""" % (min_races, min_wins)
 
 def teams(request):
     db_info = open_db()
+    team_dict = {}
 
-    if request.method == 'POST':    # filtrar
+    if request.method == 'POST':
         form = forms.Filter(request.POST)
-
+        # filtrar
         if 'reset' in request.POST:
             form = forms.Filter()
             team_dict = query_teams_basic_info()
 
-        if form.is_valid():
-            print("valid!")
-            min_races = form.cleaned_data['races']
-            min_wins = form.cleaned_data['wins']
-            team_dict = query_teams_basic_info(min_races, min_wins)
+        if 'submit' in request.POST:
+            if form.is_valid():
+                min_races = form.cleaned_data['races']
+                min_wins = form.cleaned_data['wins']
+                team_dict = query_teams_basic_info(min_races, min_wins)
+        # search
+        if 'search' in request.POST:
+            if 'input' in request.POST:
+                inp = request.POST['input']
+                team_dict = query_teams_basic_info(search=inp)
 
     else:   # mostra tudo
         form = forms.Filter()
         team_dict = query_teams_basic_info()
-
 
     tparams = {
         'info': team_dict,
@@ -294,14 +339,14 @@ def get_team_uri(team):
                 ?team_uri dct:subject dbc:Formula_One_constructors .
                 ?team_uri rdfs:label ?l .
                 filter (lang(?l) = "en") .
-                filter regex((?l), "%s")
+                filter regex((?l), "^%s")
             }}''' % team
 
     payload_query = {"query": q}
     res = db_info[1].sparql_select(body=payload_query,
                                    repo_name=db_info[0])
     res = json.loads(res)
-    return res['results']['bindings']
+    return res['results']['bindings'][0]['team_uri']['value']
 
 
 def query_team_resume(team):
@@ -309,19 +354,14 @@ def query_team_resume(team):
 
     query_resume = """PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX dbc: <http://dbpedia.org/resource/Category:>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbr: <http://dbpedia.org/resource/>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 select distinct ?resume
 where {
-    ?team dct:subject dbc:Formula_One_constructors .
-    ?team rdfs:label ?l .
-    filter (lang(?l) = "en") .
-    filter regex(?l, "%s") .  
-    ?team dbo:abstract ?resume
+    <%s> dct:subject dbc:Formula_One_constructors .  
+    <%s> dbo:abstract ?resume
     filter (lang(?resume) = "en")
-}""" % team
+}""" % (team, team)
 
     payload_query = {"query": query_resume}
     res = db_info[1].sparql_select(body=payload_query,
@@ -336,23 +376,18 @@ def impfig_team(team):
     query = """PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX dbc: <http://dbpedia.org/resource/Category:>
 PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbr: <http://dbpedia.org/resource/>
 select distinct ?i
 where {
-    ?team dct:subject dbc:Formula_One_constructors .
-    ?team rdfs:label ?l .
-    filter (lang(?l) = "en") .
-    filter regex(?l, "%s") .  
-    ?team dbp:importantFigure ?i.
-}
-order by ?team""" % team
+    <%s> dct:subject dbc:Formula_One_constructors . 
+    <%s> dbp:importantFigure ?i.
+}""" % (team, team)
 
     payload_query = {"query": query}
     res = db_info[1].sparql_select(body=payload_query,
                                    repo_name=db_info[0])
     res = json.loads(res)
 
-    print("here: ", res['results']['bindings'])
     l = []
     for e in res['results']['bindings']:
         value = e['i']['value']
@@ -361,24 +396,49 @@ order by ?team""" % team
     return l
 
 
-def team_details(request, team_label):
+def img_team(team):
     db_info = open_db()
+    query = """PREFIX dbc: <http://dbpedia.org/resource/Category:>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+select distinct ?img
+where {
+    <%s> dct:subject dbc:Formula_One_constructors .
+    <%s> dbo:thumbnail ?img
+}""" % (team, team)
+
+    payload_query = {"query": query}
+    res = db_info[1].sparql_select(body=payload_query,
+                                   repo_name=db_info[0])
+
+    res = json.loads(res)
+
+    if not res['results']['bindings']:
+        return "", 300
+
+    src = res['results']['bindings'][0]['img']['value']
+    return get_img_width(src)
+
+
+def team_details(request, team_label):
     teamURI = get_team_uri(team_label)
-    teamURI = teamURI[0]['team_uri']['value']
 
     all_teams = query_teams_basic_info()
     this_team = all_teams[teamURI]
 
-    resume = query_team_resume(team_label)
-    impfig = impfig_team(team_label)
-
-    # TODO: ir buscar mais info sobre uma team
+    resume = query_team_resume(teamURI)
+    impfig = impfig_team(teamURI)
+    img, width = img_team(teamURI)
+    # TODO: sq ir buscar mais info sobre uma team
 
     tparams = {
         'team_name': team_label,
         'info': this_team,
         'resume': resume,
-        'impfig': impfig
+        'impfig': impfig,
+        'img': img,
+        'width': width
     }
     return render(request, 'team_details.html', tparams)
 
@@ -518,7 +578,6 @@ def season(request):
 
 
 def check(string):
-
     if "http" in string:
         array = string.split("/")
         w = array[len(array)-1]
@@ -527,6 +586,11 @@ def check(string):
         return string
 
 
-
-
+# retorna um tuplo (src, width)
+def get_img_width(src):
+    if '?width' in src:
+        array = src.split("?")
+        print(array)
+        w = str(array[1]).split("=")[1]
+        return src, w
 

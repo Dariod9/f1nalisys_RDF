@@ -20,20 +20,10 @@ from webapp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index, name="index"),
-    path('rdf/', views.hello, name='hello_rdf'),
-    # path('fanzone/', views.fan, name="fan"),
-    # path('<int:ano>', views.season),
     path('season', views.season, name="season"),
-    # path('season/<int:ano>/', views.season),
-    # path('season/delete/<int:ano>/<str:title>/<str:text>', views.delete_comment),
     path('teams', views.teams, name="teams"),
     path('teams/<str:team_label>/', views.team_details, name="teams_details"),
-    # path('teams/<int:ano>/', views.teams),
     path('drivers/', views.drivers, name="drivers"),
-    # path('drivers/<int:ano>/', views.drivers),
     path('grandprix', views.tracks, name="tracks"),
     path('media', views.media, name="media"),
-    # path('season/<int:ano>/drivers_standings', views.drivers_standings, name="drivers_standings"),
-    # path('season/<int:ano>/constructors_standings', views.constructors_standings, name="constructors_standings"),
-    # path('season/<int:ano>/round/<int:round>', views.race_results, name="race_results")
 ]

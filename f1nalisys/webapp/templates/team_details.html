@@ -5,18 +5,37 @@
     <div dbp:="http://dbpedia.org/property/" about="http://dbpedia.org/page/{{ team_name }}">
     <h2 style="color:rgb(255,0,0);">{{ team_name }}</h2>
     <p><b>Visit official website:</b> <a property="dbp:website" href="{{ info.link }}">{{ info.link }}</a></p>
-    <p property="dbp:races"><b>Races:</b> {{ info.races }}</p>
-    <p property="dbp:wins"><b>Wins:</b> {{ info.wins }}</p>
-    <p property="dbp_poles"><b>Poles:</b> {{ info.poles }}</p>
-    <p property="dbp:base"><b>Location:</b> {{ info.location }}</p>
-    <p property="dbp:abstract"><b>Important Figures:</b>
-        {% for i in impfig %}
-        <ul>
-            <li>{{ i }}</li>
-        </ul>
-        {% endfor %}
-    </p>
+
+    <div class="row">
+        <div class="col-6">
+            <p property="dbp:races"><b>Races:</b> {{ info.races }}</p>
+            <p property="dbp:wins"><b>Wins:</b> {{ info.wins }}</p>
+            <p property="dbp_poles"><b>Poles:</b> {{ info.poles }}</p>
+            <p property="dbp:base"><b>Location:</b> {{ info.location }}</p>
+
+            <p property="dbp:abstract"><b>Important Figures:</b>
+                {% for i in impfig %}
+                <ul>
+                    <li>{{ i }}</li>
+                </ul>
+                {% endfor %}
+            </p>
+        </div>
+
+        {# Div de divisao entre as outras #}
+        <div class="col-1"></div>
+
+        {# coluna filter #}
+        <div class="col-4">
+            <img property="dbo:thumbnail" src="{{ img }}" alt="Team image" width="{{ width }}"/>
+
+        </div>
+
+    </div>
+
     <p>{{ resume }}</p>
     </div>
+
+
 
 {% endblock %}
