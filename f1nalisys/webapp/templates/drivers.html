@@ -17,6 +17,13 @@
                             <b>Nationality:</b> {{ i.nationality }}
                             <br>
                             <b>Championships:</b> {{ i.championships }}
+                            <br>
+                            <b>Fan Rating:</b> {{ i.fanRating }}
+                                <a type="button" href="{% url 'drivers' %}rate/{{ i.l }}/{{ i.fanRating }}/{{ "dislike" }}" style="border:1px transparent; background-color: transparent; float: right; margin:5px;">
+                                <i style="font-size:24px" class="fa">&#xf165;</i></a>
+
+                                <a type="button" href="{% url 'drivers' %}rate/{{ i.l }}/{{ i.fanRating }}/{{ "like" }}" style="border:1px transparent; background-color: transparent; float: right; margin:5px;">
+                                <i style="font-size:24px" class="fa">&#xf164;</i></a>
                         </p>
                     </div>
                 </div>

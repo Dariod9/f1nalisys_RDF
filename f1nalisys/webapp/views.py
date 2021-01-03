@@ -64,7 +64,7 @@ PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-select DISTINCT ?l ?birthDate ?nationality ?championships
+select DISTINCT ?l ?birthDate ?nationality ?championships ?fanRating
 where {
     {
         ?t rdf:type skos:Concept .
@@ -74,6 +74,9 @@ where {
         ?d dbo:nationality ?nationality .
         ?d rdfs:label ?l .
         filter (lang(?l) = "en") .
+        optional {
+            ?d dbo:fanRating ?fanRating .
+        }
     }
     UNION
     {
@@ -84,6 +87,9 @@ where {
         ?d dbp:nationality ?nationality .
         ?d rdfs:label ?l .
         filter (lang(?l) = "en") .
+        optional {
+            ?d dbo:fanRating ?fanRating .
+        }
     }
 } 
 ORDER BY DESC(?birthDate)
@@ -117,6 +123,11 @@ ORDER BY DESC(?birthDate)
         if 'championships' in e.keys():
             if int(e['championships']['value']) < 20:
                 dt['championships'] = e['championships']['value']
+        if 'fanRating' in e.keys():
+            dt['fanRating'] = e['fanRating']['value']
+        else:
+            dt['fanRating'] = 0
+
 
         if valid:
             teams_info.append(dt)
@@ -127,6 +138,63 @@ ORDER BY DESC(?birthDate)
     }
 
     return render(request, 'drivers.html', tparams)
+
+
+def new_rate(request, name, value, text):
+    db_info = open_db()
+    value = int(value)
+    print(db_info)
+    print(name, value)
+
+    query = '''
+        PREFIX dbo: <http://dbpedia.org/ontology/>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+        PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+        PREFIX dct: <http://purl.org/dc/terms/>
+        delete {
+            ?d dbo:fanRating ?fanRating
+        }
+        where {
+            ?t rdf:type skos:Concept .
+            ?d dct:subject ?t .
+            ?d rdfs:label "'''+ name +'''"@en .
+            ?d dbo:fanRating ?fanRating .
+        }
+    '''
+    payload_query = {"update": query}
+    db_info[1].sparql_update(body=payload_query, repo_name=db_info[0])
+
+    return addRate(request, name, value, text)
+
+def addRate(request, name, value, text):
+    db_info = open_db()
+    print(db_info)
+    if text == "like":
+        rate = 1
+    elif text == "dislike":
+        rate = -1
+    print(int(value) + rate)
+    v  = ''' + str(int(value) + rate) + '''
+    query2 = '''
+            PREFIX dbo: <http://dbpedia.org/ontology/>
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+            PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+            PREFIX dct: <http://purl.org/dc/terms/>
+            insert {
+                ?d dbo:fanRating "''' + str(int(value) + rate) + '''"
+            }
+            where {
+                ?t rdf:type skos:Concept .
+                ?d dct:subject ?t .
+                ?d rdfs:label "''' + name + '''"@en .
+            }
+        '''
+    payload_query2 = {"update": query2}
+    db_info[1].sparql_update(body=payload_query2, repo_name=db_info[0])
+
+    return drivers(request)
 
 
 def query_teams_basic_info(min_races=0, min_wins=0, search=""):

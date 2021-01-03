@@ -23,6 +23,7 @@ urlpatterns = [
     path('season', views.season, name="season"),
     path('teams', views.teams, name="teams"),
     path('teams/<str:team_label>/', views.team_details, name="teams_details"),
+    path('drivers/rate/<str:name>/<str:value>/<str:text>', views.new_rate),
     path('drivers/', views.drivers, name="drivers"),
     path('grandprix', views.tracks, name="tracks"),
     path('media', views.media, name="media"),
