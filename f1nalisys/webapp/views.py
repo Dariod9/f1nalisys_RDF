@@ -571,7 +571,7 @@ def media(request):
         nome=e['s']['value']
         if nome not in pistas:
             pistas[nome]=dict()
-            pistas[nome]["TAG"]=check(e['s']['value'])
+            pistas[nome]["TAG"]=checkMedia(e['s']['value'])
             pistas[nome]["Label"]=e['o']['value']
             pistas[nome]["URL"]=e['h']['value']
             #pistas[nome]["Label"]=pistas[nome]["Label"]+"\n"+e['o']['value']
@@ -638,7 +638,7 @@ def tracks(request):
         nome=e['s']['value']
         if nome not in pistas:
             pistas[nome]=dict()
-            pistas[nome]["TAG"]=check(e['s']['value'])
+            pistas[nome]["TAG"]=checkMedia(e['s']['value'])
             pistas[nome]["imgP"]=e['imgP']['value']
             pistas[nome]["Laps"]=e['laps']['value']
             pistas[nome]["Name"]=e['name']['value']
@@ -647,15 +647,15 @@ def tracks(request):
             if e['mostC']['value'] not in equipas:
                 equipas[e['mostC']['value']]=[""]
             pistas[nome]["LinkGP"]=e['link']['value']
-            pistas[nome]["TAGC"]=check(e['c']['value'])
+            pistas[nome]["TAGC"]=checkMedia(e['c']['value'])
             pistas[nome]["Turns"]=e['t']['value']
             pistas[nome]["imgC"]=e['imgC']['value']
-            pistas[nome]["Location"]=check(e['l']['value'])
+            pistas[nome]["Location"]=checkMedia(e['l']['value'])
         else:
             if e['mostW']['value'] not in pistas[nome]["MostWin"]:
                 pistas[nome]["MostWin"] = pistas[nome]["MostWin"]+", "+e['mostW']['value']
-            if check(e['l']['value']) not in pistas[nome]["Location"]:
-                pistas[nome]["Location"]=pistas[nome]["Location"]+", "+check(e['l']['value'])
+            if checkMedia(e['l']['value']) not in pistas[nome]["Location"]:
+                pistas[nome]["Location"]=pistas[nome]["Location"]+", "+checkMedia(e['l']['value'])
         # if pista is novaPista:
         #     pass
         # else:
@@ -703,6 +703,15 @@ def check(string):
         array = string.split("/")
         w = array[len(array)-1]
         return str(w).replace("_", " ")
+    else:
+        return string
+
+
+def checkMedia(string):
+    if "http" in string:
+        array = string.split("/")
+        w = array[len(array)-1]
+        return str(w)
     else:
         return string
 

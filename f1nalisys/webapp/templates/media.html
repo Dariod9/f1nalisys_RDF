@@ -6,8 +6,9 @@
     <div class="row row-cols-1 row-cols-md-2">
         {% for s, data in lista.items %}
             <div class="col mb-4">
-                <div dbo:="http://dbpedia.org/ontology/" prov="https://www.w3.org/ns/prov" class="card">
-                    <div  about="http://dbpedia.org/page/{{ data.TAG }}" class="card-body">
+                <div class="card">
+                    <div dbo:="http://dbpedia.org/ontology/" prov="https://www.w3.org/ns/prov"
+                         about="http://dbpedia.org/page/{{ data.TAG }}" class="card-body">
                         <h5 class="card-title">
                             <a target="_blank" property="prov:wasDerivedFrom" style="color:rgb(255,0,0);" href="{{ data.URL }}">
                                 {{ data.Label }}
