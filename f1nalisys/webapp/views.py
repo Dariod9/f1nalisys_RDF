@@ -4,11 +4,10 @@ from s4api.swagger import ApiClient
 import json
 from f1nalisys import forms
 from django.http import HttpResponse, HttpRequest
+from SPARQLWrapper import SPARQLWrapper, JSON
 
 
 # Create your views here.
-
-
 def open_db():
     endpoint = "http://localhost:7200"
     client = ApiClient(endpoint=endpoint)
@@ -128,7 +127,6 @@ ORDER BY DESC(?birthDate)
         else:
             dt['fanRating'] = 0
 
-
         if valid:
             teams_info.append(dt)
     #print(teams_info)
@@ -166,6 +164,7 @@ def new_rate(request, name, value, text):
     db_info[1].sparql_update(body=payload_query, repo_name=db_info[0])
 
     return addRate(request, name, value, text)
+
 
 def addRate(request, name, value, text):
     db_info = open_db()
@@ -524,7 +523,6 @@ def team_details(request, team_label):
     resume = query_team_resume(teamURI)
     impfig = impfig_team(teamURI)
     img, width = img_team(teamURI)
-    # TODO: sq ir buscar mais info sobre uma team
 
     tparams = {
         'team_name': team_label,
@@ -538,58 +536,74 @@ def team_details(request, team_label):
 
 
 def media(request):
-    db_info = open_db()
-    print(db_info)
-    # "@prefix dbc: < http: // dbpedia.org / resource / Category: >."
+    # db_info = open_db()
+    # print(db_info)
 
-    info = """
-                PREFIX dbc: <http://dbpedia.org/resource/Category:>
-                PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-                PREFIX dbo: <http://dbpedia.org/ontology/>
-                PREFIX prov: <http://www.w3.org/ns/prov#>
-                select ?s ?o ?h
-                where { 
-                    ?s ?p dbc:Formula_One_media .
-                    ?s rdfs:label ?o .
-                    ?s prov:wasDerivedFrom ?h
-                    filter (lang(?o)="en" ||lang(?o)="pt" || lang(?o)="fr" || lang(?o)="es")
-                }
+    # info = """
+    #             PREFIX dbc: <http://dbpedia.org/resource/Category:>
+    #             PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    #             PREFIX dbo: <http://dbpedia.org/ontology/>
+    #             PREFIX prov: <http://www.w3.org/ns/prov#>
+    #             select ?s ?o ?h
+    #             where {
+    #                 ?s ?p dbc:Formula_One_media .
+    #                 ?s rdfs:label ?o .
+    #                 ?s prov:wasDerivedFrom ?h
+    #                 filter (lang(?o)="en" ||lang(?o)="pt" || lang(?o)="fr" || lang(?o)="es")
+    #             }
+    #
+    #
+    #         """
+    #
+    # payload_query = {"query": info}
+    # res = db_info[1].sparql_select(body=payload_query,
+    #                                repo_name=db_info[0])
 
+    sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+    sparql.setQuery("""
+        PREFIX dbc: <http://dbpedia.org/resource/Category:>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX dbo: <http://dbpedia.org/ontology/>
+        PREFIX prov: <http://www.w3.org/ns/prov#>
+        select ?s ?o ?h ?c 
+        where { 
+            ?s ?p dbc:Formula_One_media .
+            {
+                ?s foaf:name ?o .
+                filter (lang(?o)="en" || lang(?o)="pt" || lang(?o)="fr" || lang(?o)="es") .
+            }
+            union
+            {
+                ?s foaf:label ?o .
+                filter (lang(?o)="en" || lang(?o)="pt" || lang(?o)="fr" || lang(?o)="es") .
+            }
+            ?s prov:wasDerivedFrom ?h .
+            optional{
+                ?s rdfs:comment ?c .
+                filter (lang(?c)="en" || lang(?c)="pt") .
+            }            
+        }
+    """)
+    sparql.setReturnFormat(JSON)
+    res = sparql.query().convert()
 
-            """
-
-    payload_query = {"query": info}
-    res = db_info[1].sparql_select(body=payload_query,
-                                   repo_name=db_info[0])
-
-    res = json.loads(res)
-    pistas=dict()
-    nome=""
-    novaNome=""
+    media=dict()
 
     for e in res['results']['bindings']:
         nome=e['s']['value']
-        if nome not in pistas:
-            pistas[nome]=dict()
-            pistas[nome]["TAG"]=checkMedia(e['s']['value'])
-            pistas[nome]["Label"]=e['o']['value']
-            pistas[nome]["URL"]=e['h']['value']
-            #pistas[nome]["Label"]=pistas[nome]["Label"]+"\n"+e['o']['value']
-        # if pista is novaPista:
-        #     pass
-        # else:
-        #     pistas[pista]=[]
+        if nome not in media:
+            media[nome] = dict()
+            media[nome]["TAG"] = check(e['s']['value'])
+            media[nome]["Label"] = e['o']['value']
+            media[nome]["URL"] = e['h']['value']
 
-        #list.append(e['s']['value'])
-
-    print(pistas)
+            if 'h' in e.keys():
+                media[nome]["COMMENT"] = e['c']['value']
 
     tparams = {
-        'lista': pistas,
-        'n_media': len(pistas.values())
-
+        'lista': media,
+        'n_media': len(media.values()),
     }
-    print(len(pistas.values()))
 
     return render(request, 'media.html', tparams)
 
