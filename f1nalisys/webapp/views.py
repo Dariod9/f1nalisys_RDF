@@ -413,7 +413,33 @@ def get_team_uri(team):
     payload_query = {"query": q}
     res = db_info[1].sparql_select(body=payload_query,
                                    repo_name=db_info[0])
+    print("RES: ")
+    print(res)
     res = json.loads(res)
+
+    if len(res['results']['bindings']) == 0:
+        q = ''' PREFIX dbc: <http://dbpedia.org/resource/Category:>
+                PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+                PREFIX dbp: <http://dbpedia.org/property/>
+                select ?e ?l
+                where {{ 
+                    ?e rdfs:label ?l .
+                    ?e dbp:constructorName ?n.
+                    filter contains(?l,"'''+team+'''") .
+                    filter langMatches(lang(?l),'en') .
+                }}'''
+
+        payload_query = {"query": q}
+        res = db_info[1].sparql_select(body=payload_query,
+                                       repo_name=db_info[0])
+
+        res = json.loads(res)
+        print("DEU:")
+        print("QQQQ:::::: \n")
+        print(q)
+        print(res)
+        return res['results']['bindings'][0]['e']['value']
+
     return res['results']['bindings'][0]['team_uri']['value']
 
 
@@ -545,6 +571,7 @@ def media(request):
         nome=e['s']['value']
         if nome not in pistas:
             pistas[nome]=dict()
+            pistas[nome]["TAG"]=check(e['s']['value'])
             pistas[nome]["Label"]=e['o']['value']
             pistas[nome]["URL"]=e['h']['value']
             #pistas[nome]["Label"]=pistas[nome]["Label"]+"\n"+e['o']['value']
@@ -579,13 +606,14 @@ def tracks(request):
             PREFIX prov: <http://www.w3.org/ns/prov#>
             PREFIX dbr: <http://dbpedia.org/resource/>
             PREFIX dbp: <http://dbpedia.org/property/>
-            select ?s ?imgP ?laps ?name ?mostW ?c ?link ?t ?imgC ?l
+            select ?s ?imgP ?laps ?name ?mostW ?mostC ?c ?link ?t ?imgC ?l
             where { 
                 ?s ?p dbc:Formula_One_Grands_Prix .
                 ?s dbo:thumbnail ?imgP.
                 ?s dbp:laps ?laps.
                 ?s dbp:name ?name.
                 ?s dbp:mostWinsDriver ?mostW.
+                ?s dbp:mostWinsConstructor ?mostC.
                 ?s prov:wasDerivedFrom ?link.
                 ?s dbp:circuit ?c.
                 ?c dbp:turns ?t.
@@ -602,6 +630,7 @@ def tracks(request):
     res = json.loads(res)
     print(res)
     pistas = dict()
+    equipas= dict()
     nome = ""
     novaNome = ""
 
@@ -614,6 +643,9 @@ def tracks(request):
             pistas[nome]["Laps"]=e['laps']['value']
             pistas[nome]["Name"]=e['name']['value']
             pistas[nome]["MostWin"]=e['mostW']['value']
+            pistas[nome]["MostWinC"]=e['mostC']['value']
+            if e['mostC']['value'] not in equipas:
+                equipas[e['mostC']['value']]=[""]
             pistas[nome]["LinkGP"]=e['link']['value']
             pistas[nome]["TAGC"]=check(e['c']['value'])
             pistas[nome]["Turns"]=e['t']['value']
@@ -632,6 +664,27 @@ def tracks(request):
         # list.append(e['s']['value'])
 
     print(pistas)
+
+    info = """
+                PREFIX dbc: <http://dbpedia.org/resource/Category:>
+                PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+                PREFIX dbp: <http://dbpedia.org/property/>
+                select ?e ?l
+                where { 
+                    ?e rdfs:label ?l .
+                    ?e dbp:constructorName ?n.
+                    filter contains(?l,"Scu") .
+                    filter langMatches(lang(?l),'en') .
+                }
+
+            """
+
+    payload_query = {"query": info}
+    res = db_info[1].sparql_select(body=payload_query,
+                                   repo_name=db_info[0])
+    res = json.loads(res)
+
+
 
     tparams = {
         'lista': pistas,

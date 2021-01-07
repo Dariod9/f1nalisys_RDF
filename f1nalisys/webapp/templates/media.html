@@ -2,13 +2,14 @@
 {% block content %}
     <h2>Media</h2>
     <p>({{ n_media }})</p>
+    <p> <b> Throughout this page it is possible to find all sources of Formula 1 content, whether it's news, TV shows or movies relative to the sport: </b> </p>
     <div class="row row-cols-1 row-cols-md-2">
         {% for s, data in lista.items %}
             <div class="col mb-4">
-                <div class="card">
-                    <div class="card-body">
+                <div dbo:="http://dbpedia.org/ontology/" prov="https://www.w3.org/ns/prov" class="card">
+                    <div  about="http://dbpedia.org/page/{{ data.TAG }}" class="card-body">
                         <h5 class="card-title">
-                            <a target="_blank" style="color:rgb(255,0,0);" href="{{ data.URL }}">
+                            <a target="_blank" property="prov:wasDerivedFrom" style="color:rgb(255,0,0);" href="{{ data.URL }}">
                                 {{ data.Label }}
                             </a>
                         </h5>
