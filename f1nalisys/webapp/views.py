@@ -141,27 +141,48 @@ ORDER BY DESC(?birthDate)
 def new_rate(request, name, value, text):
     db_info = open_db()
     value = int(value)
-    print(db_info)
-    print(name, value)
+    #print(db_info)
+    #print(name, value)
 
     query = '''
-        PREFIX dbo: <http://dbpedia.org/ontology/>
-        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-        PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-        PREFIX dct: <http://purl.org/dc/terms/>
-        delete {
-            ?d dbo:fanRating ?fanRating
-        }
-        where {
-            ?t rdf:type skos:Concept .
-            ?d dct:subject ?t .
-            ?d rdfs:label "'''+ name +'''"@en .
-            ?d dbo:fanRating ?fanRating .
-        }
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+    PREFIX dct: <http://purl.org/dc/terms/>
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX dbo: <http://dbpedia.org/ontology/>
+    ASK {
+        ?t rdf:type skos:Concept .
+        ?d dct:subject ?t .
+        ?d rdfs:label "'''+ name +'''"@en .
+        ?d dbo:fanRating ?r .
+    }
     '''
-    payload_query = {"update": query}
-    db_info[1].sparql_update(body=payload_query, repo_name=db_info[0])
+
+    payload_query = {"query": query}
+    res = db_info[1].sparql_select(body=payload_query,
+                                   repo_name=db_info[0])
+    res = json.loads(res)
+    print(res['boolean'])
+
+    if (res['boolean']):
+        query = '''
+            PREFIX dbo: <http://dbpedia.org/ontology/>
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+            PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+            PREFIX dct: <http://purl.org/dc/terms/>
+            delete {
+                ?d dbo:fanRating ?fanRating
+            }
+            where {
+                ?t rdf:type skos:Concept .
+                ?d dct:subject ?t .
+                ?d rdfs:label "'''+ name +'''"@en .
+                ?d dbo:fanRating ?fanRating .
+            }
+        '''
+        payload_query = {"update": query}
+        db_info[1].sparql_update(body=payload_query, repo_name=db_info[0])
 
     return addRate(request, name, value, text)
 
