@@ -588,7 +588,7 @@ def media(request):
         PREFIX prov: <http://www.w3.org/ns/prov#>
         select ?s ?o ?h ?c 
         where { 
-            ?s ?p dbc:Formula_One_media .
+            ?s ?p dbc:Formula_One_mass_media .
             {
                 ?s foaf:name ?o .
                 filter (lang(?o)="en" || lang(?o)="pt" || lang(?o)="fr" || lang(?o)="es") .
@@ -607,11 +607,11 @@ def media(request):
     """)
     sparql.setReturnFormat(JSON)
     res = sparql.query().convert()
-
-    media=dict()
+    print(res)
+    media = dict()
 
     for e in res['results']['bindings']:
-        nome=e['s']['value']
+        nome = e['s']['value']
         if nome not in media:
             media[nome] = dict()
             media[nome]["TAG"] = check(e['s']['value'])
@@ -623,7 +623,7 @@ def media(request):
 
     tparams = {
         'lista': media,
-        'n_media': len(media.values()),
+        'n_media': 2 + int(len(media.values())),
     }
 
     return render(request, 'media.html', tparams)
